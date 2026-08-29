@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-4-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T21:14:50.025Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la configuración electrónica fundamental del carbono ($Z=6$) y cuántos electrones de valencia posee?",
+      "context": "En el laboratorio de química de la Universidad Nacional en Bogotá, se estudia la estructura electrónica del átomo de carbono en su estado fundamental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1s^2 2s^2 2p^2$, con 4 electrones de valencia.",
+          "is_correct": true,
+          "feedback": "Correcto. El carbono tiene Z=6, distribuidos como $1s^2 2s^2 2p^2$. Los 4 electrones en la capa n=2 son sus electrones de valencia."
+        },
+        {
+          "letter": "B",
+          "text": "$1s^2 2s^4$, con 6 electrones de valencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los orbitales p pueden albergar electrones antes de saturar el nivel."
+        },
+        {
+          "letter": "C",
+          "text": "$1s^2 2s^2 2p^4$, con 6 electrones de valencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la configuración electrónica del oxígeno (Z=8)."
+        },
+        {
+          "letter": "D",
+          "text": "$1s^2 2s^1 2p^3$, con 3 electrones de valencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al estado excitado antes de la hibridación, aunque preserva 4 electrones de valencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El átomo de carbono tiene número atómico $Z=6$. Su configuración electrónica en estado fundamental es $1s^2 2s^2 2p^2$. El nivel de valencia ($n=2$) posee 4 electrones ($2s^2 2p^2$), responsables de la tetravalencia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle-v2",
+      "statement": "¿Qué propiedad fundamental del átomo de carbono le permite formar cadenas largas y estables (lineales, ramificadas y cíclicas)?",
+      "context": "Estudiantes en Medellín analizan por qué existe una diversidad inmensa de compuestos orgánicos derivados del carbono frente a otros elementos de la tabla periódica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La concatenación derivada de su tetravalencia y la estabilidad del enlace covalente C-C.",
+          "is_correct": true,
+          "feedback": "Correcto. La concatenación es la capacidad de combinarse consigo mismo mediante enlaces covalentes estables."
+        },
+        {
+          "letter": "B",
+          "text": "Su alta electronegatividad que le permite formar enlaces iónicos fuertes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El carbono no forma preferentemente enlaces iónicos sino covalentes apolares o ligeramente polares."
+        },
+        {
+          "letter": "C",
+          "text": "La emisión espontánea de radiación gamma desde su núcleo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La radiactividad es una propiedad nuclear (como en C-14), no responsable de la química orgánica estructural."
+        },
+        {
+          "letter": "D",
+          "text": "Su capacidad de actuar como gas noble en condiciones ambientales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El carbono no es un gas noble; es un no metal reactivo tetravalente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La concatenación es la capacidad única del carbono de enlazarse covalentemente a otros átomos de carbono para formar cadenas y anillos de longitud prácticamente ilimitada.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle-v3",
+      "statement": "¿Qué geometría molecular y ángulo de enlace caracterizan al carbono con hibridación $sp^3$ (como en el metano $CH_4$)?",
+      "context": "Un profesor en Cali explica los diferentes tipos de hibridación que puede experimentar el carbono en los hidrocarburos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Geometría tetraédrica con ángulos de enlace de $109.5^\\circ$.",
+          "is_correct": true,
+          "feedback": "Correcto. Cuatro orbitales híbridos $sp^3$ se orientan hacia los vértices de un tetraedro regular ($109.5^\\circ$)."
+        },
+        {
+          "letter": "B",
+          "text": "Geometría trigonal plana con ángulos de enlace de $120^\\circ$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Característica de la hibridación $sp^2$."
+        },
+        {
+          "letter": "C",
+          "text": "Geometría lineal con ángulos de enlace de $180^\\circ$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Característica de la hibridación $sp$."
+        },
+        {
+          "letter": "D",
+          "text": "Geometría octaédrica con ángulos de enlace de $90^\\circ$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Propia de elementos con octeto expandido que usan orbitales $d$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La hibridación $sp^3$ combina un orbital $s$ y tres orbitales $p$, originando 4 orbitales híbridos $sp^3$ dirigidos geométricamente hacia las esquinas de un tetraedro regular con ángulo de $109.5^\\circ$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle-v4",
+      "statement": "¿Qué tipo de hibridación presenta cada átomo de carbono en la molécula de eteno ($H_2C=CH_2$)?",
+      "context": "En una muestra de gas natural extraído en el departamento de Arauca, se identifica la presencia de eteno ($C_2H_4$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hibridación $sp^2$.",
+          "is_correct": true,
+          "feedback": "Correcto. Los carbonos con enlace doble presentan tres orbitales híbridos $sp^2$ y un orbital $p$ puro no hibridado."
+        },
+        {
+          "letter": "B",
+          "text": "Hibridación $sp^3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $sp^3$ es propia de carbonos con 4 enlaces sencillos $sigma$."
+        },
+        {
+          "letter": "C",
+          "text": "Hibridación $sp$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $sp$ es propia de carbonos con enlace triple o enlaces dobles acumulados."
+        },
+        {
+          "letter": "D",
+          "text": "Hibridación $d^2sp^3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El carbono no utiliza orbitales $d$ en su capa de valencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el eteno ($H_2C=CH_2$), cada carbono está unido a tres átomos (dos hidrógenos y un carbono) mediante tres enlaces $\\sigma$ formados por orbitales $sp^2$ (geometría trigonal plana, $120^\\circ$).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántos enlaces de tipo sigma ($sigma$) y pi ($pi$) existen en la molécula de etino ($HC \\equiv CH$)?",
+      "context": "En la industria petroquímica en Barrancabermeja, se analiza la reactividad del etino o acetileno ($HC \\equiv CH$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 enlaces $sigma$ y 2 enlaces $pi$.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada enlace C-H es $1\\sigma$ (total 2). El enlace triple C$equiv$C contiene $1\\sigma$ y $2\\pi$. Total: $3\\sigma$ y $2\\pi$."
+        },
+        {
+          "letter": "B",
+          "text": "2 enlaces $sigma$ y 3 enlaces $pi$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Conteo invertido de la naturaleza de los enlaces en el triple enlace."
+        },
+        {
+          "letter": "C",
+          "text": "5 enlaces $sigma$ y 0 enlaces $pi$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una molécula con solo enlaces sencillos."
+        },
+        {
+          "letter": "D",
+          "text": "1 enlace $sigma$ y 4 enlaces $pi$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los enlaces simples C-H son necesariamente de tipo $\\sigma$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El etino ($H-C \\equiv C-H$) contiene: 2 enlaces sencillos $C-H$ ($sigma$), 1 enlace triple $C \\equiv C$ (compuesto por $1\\sigma$ y $2\\pi$). En total hay $3$ enlaces $sigma$ y $2$ enlaces $pi$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle-v6",
+      "statement": "¿Cuántos carbonos primarios, secundarios, terciarios y cuaternarios existen en el 2,2,4-trimetilpentano?",
+      "context": "Un estudiante en Bucaramanga clasifica los carbonos en el 2,2,4-trimetilpentano según el número de átomos de carbono a los que están unidos directamente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 primarios, 1 secundario, 1 terciario y 1 cuaternario.",
+          "is_correct": true,
+          "feedback": "Correcto. La cadena de 5 carbonos tiene 5 grupos $-CH_3$ (primarios), 1 $-CH_2-$ (secundario), 1 $-CH=$ (terciario en C4) y 1 $-C-$ (cuaternario en C2)."
+        },
+        {
+          "letter": "B",
+          "text": "4 primarios, 2 secundarios, 2 terciarios y 0 cuaternarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El carbono 2 está unido a 4 carbonos, por lo que es cuaternario."
+        },
+        {
+          "letter": "C",
+          "text": "3 primarios, 3 secundarios, 1 terciario y 1 cuaternario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Conteo erróneo de los metilos sustituyentes."
+        },
+        {
+          "letter": "D",
+          "text": "6 primarios, 0 secundarios, 1 terciario y 1 cuaternario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existe un grupo $-CH_2-$ en C3 que es secundario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la fórmula $CH_3-C(CH_3)_2-CH_2-CH(CH_3)-CH_3$: Los 5 metilos son primarios ($1^\\circ$). El $CH_2$ central es secundario ($2^\\circ$). El $CH$ de C4 es terciario ($3^\\circ$). El $C$ de C2 unido a cuatro carbonos es cuaternario ($4^\\circ$).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es su fórmula molecular según la fórmula general de los alcanos ($C_n H_{2n+2}$)?",
+      "context": "En un ensayo de análisis orgánico elemental en Manizales, se determina que un hidrocarburo acíclico saturado posee 6 átomos de carbono.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$C_6 H_{14}$",
+          "is_correct": true,
+          "feedback": "Correcto. Para $n=6$, $2n+2 = 2(6)+2 = 14$. Su fórmula molecular es $C_6H_{14}$ (hexano)."
+        },
+        {
+          "letter": "B",
+          "text": "$C_6 H_{12}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $C_n H_{2n}$ corresponde a alquenos acíclicos o cicloalcanos."
+        },
+        {
+          "letter": "C",
+          "text": "$C_6 H_{10}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $C_n H_{2n-2}$ corresponde a alquinos acíclicos o cicloalquenos."
+        },
+        {
+          "letter": "D",
+          "text": "$C_6 H_{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la fórmula molecular del benceno (aromático)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los alcanos acíclicos son hidrocarburos saturados con fórmula empírica general $C_n H_{2n+2}$. Para $n=6$, la cantidad de hidrógenos es $2(6)+2 = 14$, resultando en $C_6 H_{14}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué el grafito es un excelente conductor de la electricidad mientras que el diamante es un aislante eléctrico perfecto?",
+      "context": "Durante una clase en Tunja, se comparan las estructuras del diamante y del grafito, ambos alótropos puros del carbono.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El grafito posee hibridación $sp^2$ con electrones $pi$ deslocalizados entre sus capas, mientras el diamante presenta hibridación $sp^3$ con todos sus electrones localizados en enlaces $sigma$.",
+          "is_correct": true,
+          "feedback": "Correcto. Los electrones deslocalizados en los orbitales $p$ no hibridados del grafito permiten el flujo eléctrico. En el diamante todos los electrones están fijos en enlaces covalentes $\\sigma$."
+        },
+        {
+          "letter": "B",
+          "text": "El grafito contiene impurezas metálicas de hierro y cobre en su estructura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grafito es una forma alotrópica pura del carbono elemental."
+        },
+        {
+          "letter": "C",
+          "text": "El diamante no contiene electrones en su capa de valencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diamante está formado por átomos de carbono neutros con 4 electrones de valencia."
+        },
+        {
+          "letter": "D",
+          "text": "El grafito es líquido a temperatura ambiente permitiendo el transporte iónico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grafito es un sólido cristalino estratificado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el grafito, el carbono presenta hibridación $sp^2$, dejando un orbital $p$ deslocalizado por átomo que forma una nube de electrones $pi$ móviles que conducen la electricidad. En el diamante ($sp^3$), la red tridimensional rígida confina todos los electrones en enlaces $sigma$ fijos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle-v9",
+      "statement": "¿Qué tipo de relación de isomería existe entre el butane y el isobutano?",
+      "context": "En el laboratorio de química orgánica de Neiva se sintetiza butano ($C_4H_{10}$) e isobutano o 2-metilpropano ($C_4H_{10}$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Isomería estructural de cadena (o esqueleto).",
+          "is_correct": true,
+          "feedback": "Correcto. Tienen la misma fórmula molecular ($C_4H_{10}$) pero diferente conectividad en la cadena carbonada."
+        },
+        {
+          "letter": "B",
+          "text": "Isomería óptica (enantiómeros).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno posee centros quirales (carbonos asimétricos)."
+        },
+        {
+          "letter": "C",
+          "text": "Isomería geométrica ($cis$-$trans$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. La isomería geométrica requiere enlaces dobles con restricción de rotación."
+        },
+        {
+          "letter": "D",
+          "text": "Isomería de posición de grupo funcional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son alcanos simples sin grupos funcionales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los isómeros de cadena son compuestos con idéntica fórmula molecular ($C_4H_{10}$) pero diferente arreglo o ramificación en la esqueleto de carbonos (cadena lineal frente a ramificada).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle-v10",
+      "statement": "¿Qué condición estructural debe cumplir un átomo de carbono para ser considerado un centro quiral o asimétrico ($C^*$)?",
+      "context": "Un laboratorio farmacéutico en Bogotá investiga la quiralidad en moléculas de medicamentos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estar unido mediante cuatro enlaces sencillos a cuatro sustituyentes totalmente diferentes entre sí.",
+          "is_correct": true,
+          "feedback": "Correcto. Un carbono quiral ($sp^3$) unido a 4 grupos distintos carece de plano de simetría y presenta actividad óptica."
+        },
+        {
+          "letter": "B",
+          "text": "Presentar un enlace doble $C=C$ con sustituyentes iguales en cada carbono.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los carbonos $sp^2$ de enlace doble son planos e insaturados, no quirales."
+        },
+        {
+          "letter": "C",
+          "text": "Tener hibridación $sp$ y estar unido a dos átomos de oxígeno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la molécula lineal de $CO_2$, altamente simétrica."
+        },
+        {
+          "letter": "D",
+          "text": "Estar unido a tres átomos de hidrógeno y un grupo metilo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tendría tres sustituyentes idénticos (hidrógenos), por lo que es aquiral."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un carbono quiral (estereocentro) es un átomo de carbono con hibridación $sp^3$ enlazado covalentemente a 4 grupos o átomos funcionalmente distintos ($C^* a b c d$). Esto genera dos imágenes especulares no superponibles (enantiómeros).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle-v11",
+      "statement": "Aunque los enlaces $C-H$ y $C-Cl$ son polares debido a diferencias de electronegatividad, ¿por qué el $CH_4$ es apolar y el $CH_3Cl$ es polar?",
+      "context": "En Armenia se analiza la polaridad de los enlaces y de las moléculas de metano ($CH_4$) y clorometano ($CH_3Cl$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por la simetría tetraédrica regular del $CH_4$, donde la suma vectorial de los momentos dipolares se anula ($mu = 0$), a diferencia del $CH_3Cl$ asimétrico ($mu\neq 0$).",
+          "is_correct": true,
+          "feedback": "Correcto. En el $CH_4$ la geometría tetraédrica perfecta cancela los dipolos. En el $CH_3Cl$ la presencia del cloro rompe la simetría vectorial."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el $CH_4$ no posee electrones de valencia en sus enlaces.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El metano comparte 8 electrones de valencia en sus 4 enlaces covalentes."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el cloro en el $CH_3Cl$ destruye los orbitales híbridos del carbono.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El carbono conserva su hibridación $sp^3$ tetraédrica distorsionada."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el $CH_4$ es un gas y el $CH_3Cl$ es un sólido iónico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos son compuestos covalentes moleculares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La polaridad molecular depende de la geometría espacial de los vectores de momento dipolar. En el $CH_4$, la geometría tetraédrica simétrica cancela vectorialmente los dipolos ($\\vec{\\mu}_{neta} = 0$). En el $CH_3Cl$, la mayor electronegatividad del Cloro genera un momento dipolar neto permanente ($\\vec{\\mu}_{neta} \\neq 0$).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la tendencia correcta de los ángulos de enlace al pasar de la hibridación $sp^3$ a $sp^2$ y luego a $sp$?",
+      "context": "Se mide el ángulo de enlace $H-C-H$ en tres moléculas: metano ($CH_4$), eteno ($C_2H_4$) y etino ($C_2H_2$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los ángulos aumentan progresivamente: $109.5^\\circ \rightarrow 120^\\circ \rightarrow 180^\\circ$.",
+          "is_correct": true,
+          "feedback": "Correcto. $sp^3$ (tetraédrico, $109.5^\\circ$), $sp^2$ (trigonal plano, $120^\\circ$) y $sp$ (lineal, $180^\\circ$)."
+        },
+        {
+          "letter": "B",
+          "text": "Los ángulos disminuyen: $180^\\circ \rightarrow 120^\\circ \rightarrow 109.5^\\circ$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Secuencia invertida."
+        },
+        {
+          "letter": "C",
+          "text": "Permanece constante en $90^\\circ$ en los tres compuestos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los orbitales híbridos repelen al máximo sus dominios electrónicos en 3D."
+        },
+        {
+          "letter": "D",
+          "text": "Varían de forma aleatoria sin relación con la hibridación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La teoría de repulsión de pares de electrones de valencia (VSEPR) predice ángulos fijos según la hibridación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A medida que aumenta el carácter $s$ del híbrido ($sp^3: 25\\%s$, $sp^2: 33\\%s$, $sp: 50\\%s$), la repulsión electrónica distribuye los orbitales a mayores ángulos espaciales: $109.5^\\circ \rightarrow 120^\\circ \rightarrow 180^\\circ$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle-v13",
+      "statement": "¿Por qué no es posible la interconversión espontánea a temperatura ambiente entre el isómero *cis* y el isómero *trans*?",
+      "context": "Un grupo de investigación en Cali analiza la estabilidad del 2-buteno e identifica dos isómeros geométricos: *cis*-2-buteno y *trans*-2-buteno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debido a la alta barrera de energía requerida para romper temporalmente el enlace $pi$ que impide la libre rotación del doble enlace $C=C$.",
+          "is_correct": true,
+          "feedback": "Correcto. El solapamiento lateral de los orbitales $p$ (enlace $\\pi$) impide la rotación sobre el eje $C=C$ a temperatura ambiente."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los isómeros geométricos tienen fórmulas moleculares diferentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen exactamente la misma fórmula molecular ($C_4H_8$)."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el hidrógeno del grupo metilo reacciona de forma violenta con el aire.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una propiedad de inflamabilidad sino de restricción rotacional."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el carbono del doble enlace cambia de hibridación espontáneamente a $sp^3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hibridación $sp^2$ se mantiene estable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El enlace $pi$ se forma por el solapamiento lateral de dos orbitales $p$ paralelos. Para rotar alrededor del eje $C=C$ sería necesario romper el enlace $pi$ (requiriendo unos $250\\text{ kJ/mol}$), lo que impide la rotación libre a temperatura ambiente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.52,
+      "bundle_id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál de los tres isómeros presenta el menor punto de ebullición y cuál es la causa estructural?",
+      "context": "En un análisis cromatográfico en Pereira, se separan los compuestos pentano, 2-metilbutano y 2,2-dimetilpropano. Los tres son isómeros estructurales de fórmula $C_5H_{12}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El 2,2-dimetilpropano, porque su estructura altamente ramificada es esférica, reduciendo el área de contacto y las fuerzas de Van der Waals (London).",
+          "is_correct": true,
+          "feedback": "Correcto. A mayor ramificación, la molécula se vuelve más compacta y esférica, disminuyendo el área superficial de interacción intermolecular."
+        },
+        {
+          "letter": "B",
+          "text": "El pentano lineal, porque posee mayor masa molar que los demás.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los tres tienen idéntica masa molar ($72\\text{ g/mol}$) por ser isómeros."
+        },
+        {
+          "letter": "C",
+          "text": "El 2-metilbutano, porque presenta enlaces iónicos intermoleculares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos son alcanos apolares unidos solo por fuerzas de dispersión de London."
+        },
+        {
+          "letter": "D",
+          "text": "Los tres poseen exactamente el mismo punto de ebullición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las propiedades físicas varían notablemente según la ramificación de la cadena."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los isómeros más ramificados adoptan formas más esféricas. Esto disminuye el área superficial de contacto entre moléculas contiguas, debilitando las fuerzas de dispersión de London y disminuyendo el punto de ebullición.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.48,
+      "bundle_id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle-v15",
+      "statement": "¿Por qué la conformación alternada es termodinámicamente más estable (menor energía potencial) que la conformación eclipsada?",
+      "context": "Se examina el perfil energético durante la rotación del enlace $C-C$ del etano ($C_2H_6$), identificando las conformaciones alternada y eclipsada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque minimiza la repulsión electrónica entre las nubes de los enlaces $C-H$ adyacentes (tensión torsional).",
+          "is_correct": true,
+          "feedback": "Correcto. En la conformación alternada los enlaces C-H están a la máxima distancia angular posible ($60^\\circ$), minimizando la repulsión estérica y torsional."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la conformación alternada forma puentes de hidrógeno intracadena.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En alcanos apolares no existen puentes de hidrógeno."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la conformación eclipsada destruye los enlaces $sigma$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los enlaces $\\sigma$ permanecen intactos durante las rotaciones conformacionales."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el etano se convierte en eteno en la postura eclipsada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son posturas rotacionales de la misma molécula de etano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tensión torsional en el etano eclipsado se debe a la repulsión electrostática entre los pares de electrones de los enlaces $C-H$ alineados. La conformación alternada aleja estos pares electrónicos al máximo, reduciendo la energía en $12\\text{ kJ/mol}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.45,
+      "bundle_id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle-v16",
+      "statement": "¿Cómo se denomina este tipo especial de isomería estructural?",
+      "context": "Un químico en Cartagena sintetiza una molécula con fórmula $C_3H_6O$. Se identifican dos compuestos estables con dicha fórmula: propanal (un aldehído) y propanona (una cetona).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Isomería de función (o de grupo funcional).",
+          "is_correct": true,
+          "feedback": "Correcto. Tienen igual fórmula molecular ($C_3H_6O$) pero pertenecen a familias químicas distintas (aldehído vs cetona)."
+        },
+        {
+          "letter": "B",
+          "text": "Isomería de posición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre cuando el mismo grupo funcional cambia de posición en la misma cadena."
+        },
+        {
+          "letter": "C",
+          "text": "Isomería de cadena.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre cuando cambia la ramificación del esqueleto hidrocarbonado."
+        },
+        {
+          "letter": "D",
+          "text": "Estereoisomería de conformación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Involucra conectividad de enlaces diferente, no solo rotaciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La isomería de función se presenta cuando compuestos con idéntica fórmula molecular ($C_3H_6O$) poseen grupos funcionales completamente diferentes (grupo aldehído $-CHO$ frente a grupo cetona $-CO-$).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.42,
+      "bundle_id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la fórmula molecular de la sustancia y a qué familia de biomoléculas pertenece?",
+      "context": "En un estudio espectroscópico en la Universidad de Antioquia, se sintetiza una sustancia desconocida de fórmula empírica $CH_2O$ y masa molar de $180\\text{ g/mol}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$C_6H_{12}O_6$, correspondiente a un monosacárido (carbohidrato como la glucosa).",
+          "is_correct": true,
+          "feedback": "Correcto. Masa empírica de $CH_2O = 12 + 2 + 16 = 30\\text{ g/mol}$. Factor $n = 180 / 30 = 6$. Fórmula molecular: $C_6H_{12}O_6$."
+        },
+        {
+          "letter": "B",
+          "text": "$C_3H_6O_3$, correspondiente a un ácido graso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa molar de $C_3H_6O_3$ es $90\\text{ g/mol}$, la mitad de la requerida."
+        },
+        {
+          "letter": "C",
+          "text": "$C_12H_{24}O_{12}$, correspondiente a un lípido complejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa molar sería de $360\\text{ g/mol}$."
+        },
+        {
+          "letter": "D",
+          "text": "$C_5H_{10}O_5$, correspondiente a un nucleótido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa molar de $C_5H_{10}O_5$ es $150\\text{ g/mol}$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Masa de la fórmula empírica $CH_2O = 12(C) + 2(H) + 16(O) = 30\\text{ g/mol}$. El número de unidades empíricas es $n = \\frac{180}{30} = 6$. Multiplicando por 6 la fórmula empírica se obtiene $C_6H_{12}O_6$ (hexosa/glucosa).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.38,
+      "bundle_id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle-v18",
+      "statement": "¿Por qué el benceno es excepcionalmente estable y aromático mientras que el ciclooctatetraeno es no aromático y reactivo?",
+      "context": "Se evalúa la aromaticidad del benceno ($C_6H_6$) frente al ciclooctatetraeno ($C_8H_8$) aplicando la regla de Hückel ($4n+2$ electrones $pi$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El benceno es plano con 6 electrones $pi$ ($n=1$ en $4n+2$), mientras el ciclooctatetraeno tiene 8 electrones $pi$ ($4n$ electrones), adoptando una conformación no plana de \"tina\" para evitar la antiaromaticidad.",
+          "is_correct": true,
+          "feedback": "Correcto. El benceno cumple $4(1)+2 = 6$ electrones $\\pi$ delocalizados. El ciclooctatetraeno tiene 8 electrones $\\pi$, incumple la regla y se pliega para no ser antiaromático."
+        },
+        {
+          "letter": "B",
+          "text": "El benceno posee enlaces iónicos y el ciclooctatetraeno contiene átomos de nitrógeno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos son hidrocarburos puramente covalentes de carbono e hidrógeno."
+        },
+        {
+          "letter": "C",
+          "text": "El ciclooctatetraeno presenta carbonos con hibridación $sp^3$ exclusivamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Posee 4 dobles enlaces alternados con carbonos $sp^2$."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos compuestos son exactamente igual de estables por ser monocíclicos conjugados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía de resonancia del benceno le confiere una estabilidad química superior."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La regla de Hückel establece que un sistema monocíclico plano conjugado es aromático si posee $(4n+2)$ electrones $pi$. Para el benceno, 6 electrones $pi$ cumplen $4(1)+2 = 6$. El ciclooctatetraeno (8 electrones $pi$) adopta una geometría tubular no plana para evitar la inestabilidad antiaromática.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.35,
+      "bundle_id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el orden decreciente de acidez (mayor acidez a menor acidez) de estos hidrocarburos y cuál es la justificación según la hibridación del carbono?",
+      "context": "Se evalúa la acidez relativa de tres hidrocarburos: etano ($CH_3-CH_3$), eteno ($CH_2=CH_2$) y etino ($HC equiv CH$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Etino ($sp$) > Eteno ($sp^2$) > Etano ($sp^3$), porque a mayor carácter $s$ del orbital híbrido, los electrones están más cerca del núcleo, estabilizando la base conjugada (anión).",
+          "is_correct": true,
+          "feedback": "Correcto. El orbital $sp$ tiene $50\\%$ de carácter $s$. La carga negativa resultante al perder el protón queda más retenida por el núcleo de carbono, aumentando la acidez del $H$."
+        },
+        {
+          "letter": "B",
+          "text": "Etano ($sp^3$) > Eteno ($sp^2$) > Etino ($sp$), porque la presencia de más hidrógenos aumenta la acidez.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de hidrógenos no determina la constante de acidez $K_a$."
+        },
+        {
+          "letter": "C",
+          "text": "Eteno ($sp^2$) > Etino ($sp$) > Etano ($sp^3$), debido a la simetría del doble enlace.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El alqino es significativamente más ácido que el alqueno."
+        },
+        {
+          "letter": "D",
+          "text": "Los tres poseen idéntico valor de $pK_a$ por ser hidrocarburos neutros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores de $pK_a$ varían drásticamente: etino ($sim 25$), eteno ($sim 44$), etano ($sim 50$)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A mayor porcentaje de carácter $s$ en el orbital híbrido del carbono ($sp = 50\\%s > sp^2 = 33\\%s > sp^3 = 25\\%s$), mayor es la electronegatividad efectiva del átomo de carbono. Esto estabiliza mejor al par solitario de la base conjugada (anión acetiluro), haciendo al etino notablemente más ácido ($pK_a approx 25$).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.32,
+      "bundle_id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle-v20",
+      "statement": "¿Por qué el producto mayoritario de la reacción es el 2-bromopropano y no el 1-bromopropano?",
+      "context": "Se analiza el mecanismo de reacción de adición de bromuro de hidrógeno ($HBr$) al propeno ($CH_3-CH=CH_2$) para evaluar la regla de Markovnikov.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la protonación del doble enlace genera un carbocatión secundario ($CH_3-CH^+-CH_3$) más estable que el carbocatión primario ($CH_3-CH_2-CH_2^+$).",
+          "is_correct": true,
+          "feedback": "Correcto. Los grupos alquilo donan densidad electrónica por hiperconjugación e efecto inductivo, haciendo al carbocatión $2^\\circ$ más estable que el $1^\\circ$."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el bromo reacciona únicamente con carbonos primarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nucleófilo $Br^-$ ataca preferentemente la posición con mayor carga positiva secundaria."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el 1-bromopropano destruye la cadena de carbono por oxidación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una reacción de adición electrofílica, no de oxidación degradativa."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el propeno es un compuesto aromático altamente simétrico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El propeno es un alqueno acíclico no aromático."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La adición electrofílica transcurre a través del carbocatión intermediario más estable. El carbocatión secundario ($CH_3-CH^+-CH_3$) posee menor energía libre de activación que el primario debido a la estabilización por hiperconjugación e inductiva de los grupos metilo. El ataque posterior de $Br^-$ produce 2-bromopropano (Regla de Markovnikov).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.28,
+      "bundle_id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}
