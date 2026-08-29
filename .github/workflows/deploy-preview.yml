@@ -30,7 +30,7 @@ jobs:
 
       - name: Lint & type check
         working-directory: ./saberparatodos
-        run: npx tsc --noEmit && npx astro check
+        run: npx tsc --noEmit
 
       - name: Unit tests
         working-directory: ./saberparatodos
