@@ -790,41 +790,54 @@
                 {/if}
               {/if}
 
-               <!-- Feedback & Voting -->
-              <div class="pt-4 border-t border-white/5">
-                <QuestionFeedback
-                  questionId={q.id}
-                  questionText={q.text}
-                  bundleId={q.bundleId || ''}
-                />
-              </div>
-
-              <!-- Discuss CTA → Revisar / ArticleView comments -->
-              {#if onDiscussQuestion && runtimeCountry.features?.blog}
-                <div class="pt-4 border-t border-white/5">
-                  <button
-                    type="button"
-                    onclick={() => onDiscussQuestion?.(q)}
-                    class={`w-full flex items-center justify-between gap-3 px-4 py-3 rounded-xl border transition-colors ${
-                      isCorrect
-                        ? 'border-white/10 bg-white/[0.03] hover:bg-white/[0.06] text-white/70'
-                        : 'border-emerald-500/30 bg-emerald-500/10 hover:bg-emerald-500/15 text-emerald-100'
-                    }`}
-                  >
-                    <span class="text-left">
-                      <span class="block text-[10px] font-bold uppercase tracking-widest opacity-70">
-                        {isCorrect ? 'Ver discusión' : 'Discutir en Revisar'}
-                      </span>
-                      <span class="block text-xs sm:text-sm mt-0.5">
-                        {discussCount > 0
-                          ? `${discussCount} comentario${discussCount === 1 ? '' : 's'} en comunidad`
-                          : 'Abre el hilo social de esta pregunta'}
-                      </span>
+              <!-- Comunidad Abierta WorldExams: Feedback, Votación & Debate Docente-Estudiantil -->
+              <div class="pt-5 border-t border-white/10 mt-2 space-y-3">
+                <div class="flex items-center justify-between gap-2 px-1">
+                  <div class="flex items-center gap-1.5">
+                    <span class="w-1.5 h-1.5 rounded-full bg-emerald-400"></span>
+                    <span class="text-[10px] font-black uppercase tracking-widest text-emerald-400">
+                      Comunidad Abierta WorldExams
                     </span>
-                    <span class="text-lg opacity-70" aria-hidden="true">→</span>
-                  </button>
+                  </div>
+                  <span class="text-[9px] text-white/35 font-mono">Control Docente & Estudiantil</span>
                 </div>
-              {/if}
+
+                <div class="bg-white/[0.02] border border-white/5 rounded-xl p-3 space-y-3">
+                  <QuestionFeedback
+                    questionId={q.id}
+                    questionText={q.text}
+                    bundleId={q.bundleId || ''}
+                  />
+
+                  <!-- Discuss CTA → Revisar / ArticleView comments -->
+                  {#if onDiscussQuestion && runtimeCountry.features?.blog}
+                    <button
+                      type="button"
+                      onclick={() => onDiscussQuestion?.(q)}
+                      class={`w-full flex items-center justify-between gap-3 px-3.5 py-2.5 rounded-lg border transition-all ${
+                        isCorrect
+                          ? 'border-white/10 bg-white/5 hover:bg-white/10 text-white/80'
+                          : 'border-emerald-500/30 bg-emerald-500/10 hover:bg-emerald-500/20 text-emerald-200'
+                      }`}
+                    >
+                      <span class="text-left flex items-center gap-2">
+                        <span class="text-base">💬</span>
+                        <span>
+                          <span class="block text-[10px] font-bold uppercase tracking-wider text-emerald-300">
+                            {isCorrect ? 'Ver Aportes y Métodos' : 'Espacio de Discusión y Dudas'}
+                          </span>
+                          <span class="block text-xs text-white/70">
+                            {discussCount > 0
+                              ? `${discussCount} aporte${discussCount === 1 ? '' : 's'} pedagógico${discussCount === 1 ? '' : 's'}`
+                              : 'Conecta con docentes y compañeros sobre esta pregunta'}
+                          </span>
+                        </span>
+                      </span>
+                      <span class="text-sm text-emerald-400" aria-hidden="true">→</span>
+                    </button>
+                  {/if}
+                </div>
+              </div>
             </div>
           </div>
         </SharedContextLayout>

@@ -158,8 +158,8 @@
     <section class="space-y-3" id="discusion">
       <div class="flex items-end justify-between gap-3 border-b border-white/10 pb-3">
         <div>
-          <p class="text-[10px] font-bold uppercase tracking-widest text-emerald-400/80">Banco social</p>
-          <h3 class="text-lg font-bold text-[#F5F5DC]">Discusión de la pregunta</h3>
+          <p class="text-[10px] font-bold uppercase tracking-widest text-emerald-400">Comunidad Abierta WorldExams</p>
+          <h3 class="text-lg font-bold text-[#F5F5DC]">Espacio de Conexión Docente y Estudiantil</h3>
         </div>
         <span class="text-[10px] font-mono text-white/30">ID {question.id}</span>
       </div>
