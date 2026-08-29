@@ -7,16 +7,30 @@
 
   let { questionId } = $props();
 
-  let showComments = $state(true); // 🆕 Show input by default
+  let showComments = $state(true);
   let showGiscus = $state(false);
-  let pendingComment = $state(false); // To show "Sent for moderation" message
+  let pendingComment = $state(false);
   let isLoading = $state(false);
   let isPosting = $state(false);
   let dbComments = $state<any[]>([]);
   let newCommentContent = $state('');
+  let selectedRole = $state<'student' | 'teacher' | 'contributor'>('student');
+  let selectedContributionType = $state<'doubt' | 'alternative' | 'tip' | 'general'>('doubt');
+  let activeFilter = $state<'all' | 'teacher' | 'student'>('all');
   let discussionContainer = $state<HTMLElement | null>(null);
 
-  // Giscus configuration from country config or defaults
+  const roles = [
+    { id: 'student', label: '🎓 Estudiante', desc: 'Dudas y aprendizaje' },
+    { id: 'teacher', label: '🧑‍🏫 Docente / Mentor', desc: 'Explicación pedagógica' },
+    { id: 'contributor', label: '💡 Contribuidor', desc: 'Rigor y mejoras' }
+  ] as const;
+
+  const contributionTypes = [
+    { id: 'doubt', label: '❓ Duda o Consulta' },
+    { id: 'alternative', label: '✨ Método Alternativo' },
+    { id: 'tip', label: '💡 Tip / Mnemotecnia' },
+    { id: 'general', label: '💬 Discusión General' }
+  ] as const;
 
   const giscusConfig = {
     repo: 'worldexams/worldexams',
@@ -25,9 +39,7 @@
     categoryId: 'DIC_kwDONXw98c4Ckz9-',
     ...countryConfig?.giscus
   };
-  const giscusLang = countryConfig.giscus?.lang || countryConfig.language.split('-')[0] || 'es';
-
-  // Unique ID for this component instance
+  const giscusLang = countryConfig.giscus?.lang || countryConfig.language?.split('-')[0] || 'es';
   const uniqueId = `giscus-${questionId}-${Math.random().toString(36).substring(2, 9)}`;
 
   async function fetchDbComments() {
@@ -37,8 +49,6 @@
 
       const { comments } = await res.json();
       dbComments = comments || [];
-
-      // If there are comments, show the section by default
       if (dbComments.length > 0) {
         showComments = true;
       }
@@ -60,19 +70,18 @@
         body: JSON.stringify({
           questionId,
           content: newCommentContent,
-          userName: user?.user_metadata?.user_name || user?.email?.split('@')[0] || 'Anónimo',
-          userId: user?.id || null
+          userName: user?.user_metadata?.user_name || user?.email?.split('@')[0] || (selectedRole === 'teacher' ? 'Docente Colega' : 'Estudiante'),
+          userId: user?.id || null,
+          role: selectedRole,
+          contributionType: selectedContributionType
         })
       });
 
       if (!res.ok) throw new Error('Failed to post');
 
-      // Comment is now pending moderation, so we don't add it to dbComments immediately
       newCommentContent = '';
-      pendingComment = true; // Show feedback
+      pendingComment = true;
       setTimeout(() => { pendingComment = false; }, 5000);
-      // We don't fetch comments immediately because the new one is pending approval
-      // The user will see the pending message instead.
     } catch (err) {
       console.error('Error posting comment:', err);
     } finally {
@@ -84,7 +93,6 @@
     showGiscus = true;
     isLoading = true;
 
-    // Small delay to ensure container is rendered
     setTimeout(() => {
       if (!discussionContainer) return;
 
@@ -119,132 +127,209 @@
     fetchDbComments();
   });
 
-  // Cleanup to prevent memory leaks
   onDestroy(() => {
     if (discussionContainer) {
       discussionContainer.innerHTML = '';
     }
   });
+
+  let filteredComments = $derived(
+    activeFilter === 'all'
+      ? dbComments
+      : dbComments.filter(c => c.role === activeFilter)
+  );
 </script>
 
 <div class="w-full border-t border-white/5 pt-4 mt-6 group">
   {#if pendingComment}
     <div
       transition:fade
-      class="p-3 bg-emerald-500/10 border border-emerald-500/30 rounded-lg text-emerald-200 text-[10px] flex items-center gap-2 mb-4 animate-in fade-in zoom-in-95 duration-300"
+      class="p-3 bg-emerald-500/10 border border-emerald-500/30 rounded-lg text-emerald-200 text-xs flex items-center gap-2 mb-4 animate-in fade-in zoom-in-95 duration-300"
     >
-      <svg class="w-4 h-4 text-emerald-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+      <svg class="w-4 h-4 text-emerald-400 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
       </svg>
-      Tu comentario ha sido enviado y está pendiente de moderación.
+      Aporte enviado con éxito. La comunidad docente y de moderación lo aprobará en breve.
     </div>
   {/if}
 
-  <!-- DB Comments Header / Toggle -->
-  <div class="flex items-center justify-between mb-4">
-    <div class="flex items-center gap-3">
-      <h3 class="text-[10px] font-bold uppercase tracking-widest text-white/40 flex items-center gap-2">
-        {#if dbComments.length > 0}
-          <span class="w-1.5 h-1.5 bg-emerald-500 rounded-full animate-pulse"></span>
-          Discusión ({dbComments.length})
-        {:else}
-          <span class="w-1.5 h-1.5 bg-white/20 rounded-full"></span>
-          Comentarios
-        {/if}
-      </h3>
-      {#if !showComments}
-         <button
-           onclick={() => showComments = true}
-           class="text-[10px] text-emerald-500/60 hover:text-emerald-500 uppercase tracking-widest transition-colors"
-           aria-expanded={showComments}
-           aria-controls="comments-list-{questionId}"
-           aria-label="Ver todos los comentarios"
-         >
-           Ver Todo
-         </button>
-      {/if}
+  <!-- Header / Filters -->
+  <div class="flex flex-wrap items-center justify-between gap-3 mb-4">
+    <div class="flex items-center gap-2">
+      <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+      <h4 class="text-xs font-bold uppercase tracking-widest text-white/70">
+        Discusión Comunitaria ({dbComments.length})
+      </h4>
     </div>
+
+    <!-- Filter Buttons -->
+    {#if dbComments.length > 0}
+      <div class="flex items-center gap-1 bg-white/5 p-0.5 rounded-lg border border-white/10 text-[10px]">
+        <button
+          type="button"
+          onclick={() => activeFilter = 'all'}
+          class={`px-2.5 py-1 rounded transition-colors ${activeFilter === 'all' ? 'bg-emerald-500/20 text-emerald-300 font-bold' : 'text-white/40 hover:text-white/70'}`}
+        >
+          Todos
+        </button>
+        <button
+          type="button"
+          onclick={() => activeFilter = 'teacher'}
+          class={`px-2.5 py-1 rounded transition-colors ${activeFilter === 'teacher' ? 'bg-amber-500/20 text-amber-300 font-bold' : 'text-white/40 hover:text-white/70'}`}
+        >
+          🧑‍🏫 Docentes
+        </button>
+        <button
+          type="button"
+          onclick={() => activeFilter = 'student'}
+          class={`px-2.5 py-1 rounded transition-colors ${activeFilter === 'student' ? 'bg-cyan-500/20 text-cyan-300 font-bold' : 'text-white/40 hover:text-white/70'}`}
+        >
+          🎓 Estudiantes
+        </button>
+      </div>
+    {/if}
 
     <button
       onclick={loadGiscus}
-      class={`flex items-center gap-2 text-[10px] font-bold uppercase tracking-widest transition-all ${showGiscus ? 'text-emerald-500' : 'text-white/20 hover:text-white/40'}`}
+      class={`text-[10px] font-bold uppercase tracking-widest transition-all ${showGiscus ? 'text-emerald-400' : 'text-white/30 hover:text-white/60'}`}
       aria-expanded={showGiscus}
       aria-controls={uniqueId}
-      aria-label="Abrir hilo de discusión en GitHub"
     >
-       GitHub Discussion
+      Hilo GitHub
     </button>
   </div>
 
-  {#if showComments || dbComments.length > 0}
-    <div id="comments-list-{questionId}" class="space-y-4 animate-in fade-in slide-in-from-top-2 duration-300">
-      <!-- Comment List -->
-      {#if dbComments.length > 0}
-        <div class="space-y-3">
-          {#each dbComments as comm}
-            <div class="p-4 bg-white/[0.03] border border-white/5 rounded-xl space-y-2">
-              <div class="flex items-center justify-between">
-                <span class="text-[10px] font-bold text-emerald-400/80 uppercase tracking-widest">{comm.user_name}</span>
-                <span class="text-[9px] text-white/20">{new Date(comm.created_at).toLocaleDateString()}</span>
-              </div>
-              <div class="text-sm text-white/70 leading-relaxed font-sans">
-                <MathRenderer content={comm.content} />
-              </div>
+  <!-- Comments List -->
+  {#if filteredComments.length > 0}
+    <div class="space-y-3 mb-6">
+      {#each filteredComments as comm}
+        {@const isTeacher = comm.role === 'teacher'}
+        {@const isContributor = comm.role === 'contributor'}
+        <div class={`p-4 rounded-xl border transition-all ${
+          isTeacher
+            ? 'bg-amber-500/5 border-amber-500/20 shadow-sm'
+            : isContributor
+              ? 'bg-purple-500/5 border-purple-500/20'
+              : 'bg-white/[0.03] border-white/5'
+        }`}>
+          <div class="flex items-center justify-between gap-2 mb-2">
+            <div class="flex items-center gap-2">
+              <span class="text-xs font-bold text-white/90">{comm.user_name || 'Miembro de la Comunidad'}</span>
+              {#if isTeacher}
+                <span class="px-2 py-0.5 rounded text-[9px] font-black uppercase tracking-wider bg-amber-500/20 text-amber-300 border border-amber-500/30">
+                  🧑‍🏫 Docente / Mentor
+                </span>
+              {:else if isContributor}
+                <span class="px-2 py-0.5 rounded text-[9px] font-black uppercase tracking-wider bg-purple-500/20 text-purple-300 border border-purple-500/30">
+                  💡 Contribuidor
+                </span>
+              {:else}
+                <span class="px-2 py-0.5 rounded text-[9px] font-bold uppercase tracking-wider bg-cyan-500/10 text-cyan-300 border border-cyan-500/20">
+                  🎓 Estudiante
+                </span>
+              {/if}
+
+              {#if comm.contribution_type === 'alternative'}
+                <span class="text-[9px] text-emerald-400/80 font-mono">· Método alternativo</span>
+              {:else if comm.contribution_type === 'tip'}
+                <span class="text-[9px] text-yellow-400/80 font-mono">· Tip clave</span>
+              {/if}
             </div>
-          {/each}
-        </div>
-      {/if}
-
-      <!-- Add Comment Form -->
-      <div class="space-y-2 pt-2 border-t border-white/5">
-        <textarea
-          bind:value={newCommentContent}
-          placeholder="Escribe un comentario o duda sobre esta pregunta..."
-          class="w-full h-20 bg-black/40 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-white/20 focus:border-emerald-500/40 focus:outline-none resize-none transition-all"
-        ></textarea>
-        <div class="flex justify-end">
-          <button
-            onclick={postComment}
-            disabled={!newCommentContent.trim() || isPosting}
-            class="px-4 py-2 bg-emerald-500/10 hover:bg-emerald-500/20 text-emerald-400 text-[10px] font-bold uppercase tracking-widest rounded-lg border border-emerald-500/20 transition-all disabled:opacity-30"
-          >
-            {isPosting ? 'Publicando...' : 'Publicar Comentario'}
-          </button>
-        </div>
-      </div>
-
-      <!-- Giscus Container (Conditional) -->
-      {#if showGiscus}
-        <div class="pt-6 border-t border-white/5 space-y-4">
-          <div class="flex items-center justify-between">
-            <h4 class="text-[9px] font-bold uppercase tracking-widest text-emerald-500/60">Hilo Social (Giscus)</h4>
-            <button onclick={() => showGiscus = false} class="text-[9px] text-white/20 hover:text-white/50" aria-label="Cerrar hilo de discusión en GitHub">Cerrar Giscus</button>
+            <span class="text-[9px] text-white/25 font-mono">{new Date(comm.created_at).toLocaleDateString()}</span>
           </div>
-          <div
-            id={uniqueId}
-            class="giscus min-h-[100px] bg-black/40 rounded-xl p-4 ring-1 ring-white/5"
-            bind:this={discussionContainer}
-          >
-            {#if isLoading}
-              <div class="flex items-center justify-center py-10">
-                 <div class="w-5 h-5 border-2 border-emerald-500/30 border-t-emerald-500 rounded-full animate-spin"></div>
-              </div>
-            {/if}
+          <div class="text-sm text-white/80 leading-relaxed font-sans">
+            <MathRenderer content={comm.content} />
           </div>
         </div>
-      {/if}
+      {/each}
     </div>
-  {:else}
-     <button
-      onclick={() => showComments = true}
-      class="flex items-center gap-2 text-[10px] font-bold uppercase tracking-widest text-white/30 hover:text-emerald-500 transition-all"
-      aria-expanded={showComments}
-      aria-controls="comments-list-{questionId}"
-    >
-      <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8h2a2 2 0 012 2v6a2 2 0 01-2 2h-2v4l-4-4H9a1.994 1.994 0 01-1.414-.586m0 0L11 14h4a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2v4l.586-.586z" />
-      </svg>
-      {isLoading ? 'Abriendo...' : 'Escribir Comentario / Discusión'}
-    </button>
+  {:else if dbComments.length === 0}
+    <div class="text-center py-6 px-4 bg-white/[0.02] border border-dashed border-white/10 rounded-xl mb-4 text-xs text-white/40">
+      Sé el primero en abrir el debate pedagógico o aportar una explicación para esta pregunta.
+    </div>
+  {/if}
+
+  <!-- Add Comment Card -->
+  <div class="p-4 bg-black/40 border border-white/10 rounded-xl space-y-3">
+    <div class="flex flex-wrap items-center justify-between gap-2">
+      <label class="text-[10px] uppercase tracking-widest text-white/50 font-bold">
+        Tu rol en la comunidad
+      </label>
+      <div class="flex items-center gap-1">
+        {#each roles as r}
+          <button
+            type="button"
+            onclick={() => selectedRole = r.id}
+            class={`px-2.5 py-1 text-[10px] rounded-lg border transition-all ${
+              selectedRole === r.id
+                ? 'bg-emerald-500/20 border-emerald-500/50 text-emerald-300 font-bold shadow-sm'
+                : 'bg-white/5 border-white/10 text-white/50 hover:text-white/80'
+            }`}
+          >
+            {r.label}
+          </button>
+        {/each}
+      </div>
+    </div>
+
+    <div class="flex flex-wrap items-center gap-1.5 pt-1">
+      <span class="text-[10px] text-white/40 mr-1">Tipo de aporte:</span>
+      {#each contributionTypes as ct}
+        <button
+          type="button"
+          onclick={() => selectedContributionType = ct.id}
+          class={`px-2 py-0.5 text-[9px] rounded-md transition-all ${
+            selectedContributionType === ct.id
+              ? 'bg-white/15 text-white font-semibold'
+              : 'text-white/30 hover:text-white/60'
+          }`}
+        >
+          {ct.label}
+        </button>
+      {/each}
+    </div>
+
+    <textarea
+      bind:value={newCommentContent}
+      placeholder={
+        selectedRole === 'teacher'
+          ? 'Explica el método pedagógico, distractor clave o procedimiento para tus estudiantes...'
+          : 'Escribe tu duda, paso que no quedó claro o tu método para resolverla...'
+      }
+      class="w-full h-24 bg-white/5 border border-white/10 rounded-lg px-3 py-2.5 text-xs sm:text-sm text-white placeholder-white/20 focus:border-emerald-500/50 focus:outline-none resize-none transition-all"
+    ></textarea>
+
+    <div class="flex items-center justify-between gap-2 pt-1">
+      <span class="text-[9px] text-white/30">Soporta LaTeX con \(x^2\)</span>
+      <button
+        type="button"
+        onclick={postComment}
+        disabled={!newCommentContent.trim() || isPosting}
+        class="px-4 py-2 bg-emerald-500/20 hover:bg-emerald-500/30 text-emerald-300 text-xs font-bold uppercase tracking-widest rounded-lg border border-emerald-500/40 transition-all disabled:opacity-30 active:scale-95"
+      >
+        {isPosting ? 'Publicando...' : 'Publicar Aporte'}
+      </button>
+    </div>
+  </div>
+
+  <!-- Giscus Container -->
+  {#if showGiscus}
+    <div class="pt-6 border-t border-white/5 space-y-4">
+      <div class="flex items-center justify-between">
+        <h4 class="text-[9px] font-bold uppercase tracking-widest text-emerald-400">Hilo Social (Giscus)</h4>
+        <button onclick={() => showGiscus = false} class="text-[9px] text-white/30 hover:text-white/60">Cerrar Giscus</button>
+      </div>
+      <div
+        id={uniqueId}
+        class="giscus min-h-[100px] bg-black/40 rounded-xl p-4 ring-1 ring-white/5"
+        bind:this={discussionContainer}
+      >
+        {#if isLoading}
+          <div class="flex items-center justify-center py-10">
+            <div class="w-5 h-5 border-2 border-emerald-500/30 border-t-emerald-500 rounded-full animate-spin"></div>
+          </div>
+        {/if}
+      </div>
+    </div>
   {/if}
 </div>
