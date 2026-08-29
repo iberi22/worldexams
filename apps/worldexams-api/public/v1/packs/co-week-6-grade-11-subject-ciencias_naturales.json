@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-6-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T21:14:50.027Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle-v1",
+      "statement": "Si el astronauta empuja suavemente una herramienta espacial, ¿qué ocurrirá con el movimiento de dicha herramienta según la Primera Ley de Newton?",
+      "context": "Un astronauta colombiano realiza una caminata espacial fuera de la Estación Espacial Internacional en ausencia casi total de fricción y gravedad efectiva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Continuará moviéndose en línea recta a velocidad constante indefinidamente.",
+          "is_correct": true,
+          "feedback": "Correcto. En ausencia de fuerzas externas resultantes, los cuerpos mantienen su movimiento rectilíneo uniforme por inercia."
+        },
+        {
+          "letter": "B",
+          "text": "Se frenará gradualmente hasta detenerse por falta de fuerza impulsora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para frenarse se requeriría una fuerza externa opuesta (como la fricción)."
+        },
+        {
+          "letter": "C",
+          "text": "Dará vueltas inmediatamente en una espiral cerrada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin fuerza centrípeta externa no hay curvatura en la trayectoria."
+        },
+        {
+          "letter": "D",
+          "text": "Regresará espontáneamente hacia las manos del astronauta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna fuerza natural devolvería el objeto en el espacio libre."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La primera ley de Newton (inercia) indica que si la fuerza neta sobre un objeto es cero ($sum \\vec{F} = 0$), el objeto continuará en reposo o con movimiento rectilíneo uniforme ($\\vec{v} = \text{constante}$).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se relaciona la aceleración del objeto $A$ ($a_A$) con la del objeto $B$ ($a_B$)?",
+      "context": "Se aplica una misma fuerza horizontal constante $F$ sobre dos objetos $A$ ($m_A = 2\text{ kg}$) y $B$ ($m_B = 8\text{ kg}$) sobre una pista helada sin fricción en Tunja.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_A$ es cuatro veces mayor que $a_B$ ($a_A = 4 a_B$).",
+          "is_correct": true,
+          "feedback": "Correcto. Por la segunda ley de Newton $a = \\frac{F}{m}$. Al tener $A$ un cuarto de la masa de $B$, su aceleración es 4 veces mayor."
+        },
+        {
+          "letter": "B",
+          "text": "$a_B$ es cuatro veces mayor que $a_A$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mayor masa implica menor aceleración a fuerza constante."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas aceleraciones son exactamente idénticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La aceleración depende inversamente de la masa del objeto."
+        },
+        {
+          "letter": "D",
+          "text": "$a_A$ es la mitad de $a_B$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Relación cuantitativa errónea de la inercia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "De la Segunda Ley de Newton $a = \\frac{F}{m}$, se evidencia que la aceleración es inversamente proporcional a la masa. Como $m_B = 4 m_A$, se deduce que $a_A = 4 a_B$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle-v3",
+      "statement": "¿Qué ley de Newton fundamenta el desplazamiento del bote hacia adelante?",
+      "context": "Un remero en el lago de Tota empuja el agua hacia atrás con los remos de su barca para avanzar hacia adelante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Tercera Ley de Newton (Acción y Reacción).",
+          "is_correct": true,
+          "feedback": "Correcto. La fuerza que el remo ejerce sobre el agua hacia atrás genera una fuerza de reacción idéntica sobre el bote hacia adelante."
+        },
+        {
+          "letter": "B",
+          "text": "La Ley de Gravitación Universal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Rige la atracción entre masas, no la propulsión hidrodinámica."
+        },
+        {
+          "letter": "C",
+          "text": "La Primera Ley de Kepler.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Rige órbitas planetarias elípticas."
+        },
+        {
+          "letter": "D",
+          "text": "El Principio de Conservación de la Carga.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplica a fenómenos electromagnéticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Tercera Ley de Newton establece que a toda fuerza de acción le corresponde una fuerza de reacción de igual magnitud y sentido opuesto, actuando simultáneamente sobre cuerpos distintos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la lectura que marca la escala del dinamómetro en Newtons?",
+      "context": "Un dinamómetro sostiene un paquete de $5\text{ kg}$ en reposo en el laboratorio de Pasto. Considere $g = 10\text{ m/s}^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$50\text{ N}$",
+          "is_correct": true,
+          "feedback": "Correcto. La lectura del dinamómetro mide la fuerza de tensión que equilibra el peso $w = m g = 5 \times 10 = 50\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "$5\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confunde masa en kilogramos con fuerza en newtons."
+        },
+        {
+          "letter": "C",
+          "text": "$0.5\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. División errónea de la masa entre la gravedad."
+        },
+        {
+          "letter": "D",
+          "text": "$500\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicación excesiva por un factor de 100."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dinamómetro mide la fuerza de tracción necesaria para mantener en equilibrio al objeto. En reposo, $T = w = m cdot g = 5\text{ kg} \times 10\text{ m/s}^2 = 50\text{ N}$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la tensión ejercida por la barra de enganche sobre el automóvil averiado?",
+      "context": "Un camión de $3000\text{ kg}$ jala a un automóvil averiado de $1000\text{ kg}$ en una calle de Bogotá mediante una barra rígida de masa despreciable. El conjunto acelera a $2\text{ m/s}^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2000\text{ N}$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la segunda ley de Newton al auto averiado: $T = m_{auto} cdot a = 1000 \times 2 = 2000\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "$8000\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la fuerza total requerida para acelerar a ambos vehículos."
+        },
+        {
+          "letter": "C",
+          "text": "$6000\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fuerza utilizada únicamente para acelerar al camión."
+        },
+        {
+          "letter": "D",
+          "text": "$4000\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Suma equivocada de masas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aislando el automóvil averiado como sistema individual, la única fuerza horizontal responsable de su aceleración es la tensión de la barra: $T = m_{auto} cdot a = 1000\text{ kg} \times 2\text{ m/s}^2 = 2000\text{ N}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la aceleración del bloque al deslizarse por el plano inclinado?",
+      "context": "Un bloque de $8\text{ kg}$ se coloca sobre una superficie inclinada $30^circ$ sin fricción en Bucaramanga. Considere $g = 10\text{ m/s}^2$ y $sin(30^circ) = 0.5$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5\text{ m/s}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. La fuerza neta a lo largo del plano es $F_{neta} = m g sin\theta$. La aceleración es $a = g sin\theta = 10 \times 0.5 = 5\text{ m/s}^2$."
+        },
+        {
+          "letter": "B",
+          "text": "$10\text{ m/s}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $10\text{ m/s}^2$ es la aceleración de caída libre vertical pura."
+        },
+        {
+          "letter": "C",
+          "text": "$8.66\text{ m/s}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al uso del coseno ($g cos(30^circ)$)."
+        },
+        {
+          "letter": "D",
+          "text": "$2.5\text{ m/s}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. División errónea de la componente entre 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un plano inclinado sin fricción, la componente del peso paralela a la rampa es $F = m g sin\theta$. Según la segunda ley de Newton, la masa se cancela: $a = \\frac{m g sin\theta}{m} = g sin\theta = 10 \times sin(30^circ) = 5\text{ m/s}^2$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la tensión en el cable que sostiene al ascensor durante este descenso acelerado?",
+      "context": "Un ascensor de $500\text{ kg}$ desciende acelerando hacia abajo a razón de $2\text{ m/s}^2$ en un edificio en Cali. Considere $g = 10\text{ m/s}^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4000\text{ N}$",
+          "is_correct": true,
+          "feedback": "Correcto. Ecuación de movimiento: $mg - T = ma \\implies T = m(g - a) = 500(10 - 2) = 500 \times 8 = 4000\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "$6000\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al caso en que el ascensor acelera hacia arriba ($m(g+a)$)."
+        },
+        {
+          "letter": "C",
+          "text": "$5000\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tensión cuando el ascensor baja a velocidad constante ($T = mg$)."
+        },
+        {
+          "letter": "D",
+          "text": "$1000\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resta errónea de las fuerzas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al acelerar hacia abajo, la fuerza del peso supera a la tensión: $w - T = m cdot a \\implies T = m(g - a) = 500\text{ kg} \times (10 - 2)\text{ m/s}^2 = 4000\text{ N}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle-v8",
+      "statement": "¿Qué fuerza horizontal mínima se debe aplicar sobre el bloque para iniciar su movimiento desde el reposo?",
+      "context": "Un bloque de $6\text{ kg}$ reposa sobre un plano horizontal con coeficiente de fricción estática $mu_s = 0.4$. Considere $g = 10\text{ m/s}^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$24\text{ N}$",
+          "is_correct": true,
+          "feedback": "Correcto. La normal es $N = mg = 6 \times 10 = 60\text{ N}$. La fricción estática máxima es $f_{s,max} = mu_s N = 0.4 \times 60 = 24\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "$60\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la fuerza normal o peso del cuerpo."
+        },
+        {
+          "letter": "C",
+          "text": "$15\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. División de la masa entre el coeficiente."
+        },
+        {
+          "letter": "D",
+          "text": "$2.4\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la escala decimal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para iniciar el movimiento, la fuerza aplicada debe superar la fuerza de rozamiento estático máxima: $F_{min} = f_{s,max} = mu_s cdot N = mu_s cdot m cdot g = 0.4 \times 6\text{ kg} \times 10\text{ m/s}^2 = 24\text{ N}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la aceleración del sistema al soltar las masas?",
+      "context": "Dos bloques $m_1 = 4\text{ kg}$ y $m_2 = 2\text{ kg}$ se conectan por una cuerda que pasa por una polea sin fricción en Neiva. $m_1$ está en una mesa horizontal lisa y $m_2$ cuelga libremente. Considere $g = 10\text{ m/s}^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3.33\text{ m/s}^2$ ($\\frac{10}{3}\text{ m/s}^2$)",
+          "is_correct": true,
+          "feedback": "Correcto. Fuerza motora $w_2 = m_2 g = 2 \times 10 = 20\text{ N}$. Masa total $= 4 + 2 = 6\text{ kg}$. Aceleración $a = \\frac{20}{6} = \\frac{10}{3} approx 3.33\text{ m/s}^2$."
+        },
+        {
+          "letter": "B",
+          "text": "$5.00\text{ m/s}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cálculo erróneo dividiendo entre la masa de 4 kg únicamente."
+        },
+        {
+          "letter": "C",
+          "text": "$10.0\text{ m/s}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asume que la masa colgante cae en caída libre sin arrastrar a la otra."
+        },
+        {
+          "letter": "D",
+          "text": "$2.00\text{ m/s}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. División de la masa 2 entre la masa 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fuerza neta que acelera a todo el conjunto es el peso de la masa colgante ($m_2 g$). Aplicando la segunda ley de Newton al sistema acoplado: $a = \\frac{m_2 g}{m_1 + m_2} = \\frac{2 \times 10}{4 + 2} = \\frac{20}{6} = 3.33\text{ m/s}^2$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle-v10",
+      "statement": "¿Qué desaceleración experimenta el vehículo durante la frenada?",
+      "context": "Un vehículo de $1200\text{ kg}$ transita por una vía en Ibagué a $15\text{ m/s}$ y aplica los frenos bloqueando las llantas. El coeficiente de rozamiento cinético con el asfalto es $mu_k = 0.5$. Considere $g = 10\text{ m/s}^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5\text{ m/s}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. La fuerza de fricción es $f_k = mu_k m g$. De $f_k = m a \\implies a = mu_k g = 0.5 \times 10 = 5\text{ m/s}^2$."
+        },
+        {
+          "letter": "B",
+          "text": "$10\text{ m/s}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asume desaceleración igual a la gravedad pura."
+        },
+        {
+          "letter": "C",
+          "text": "$2.5\text{ m/s}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. División errónea del coeficiente entre 2."
+        },
+        {
+          "letter": "D",
+          "text": "$1.5\text{ m/s}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confunde el valor numérico con la velocidad inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La única fuerza horizontal de frenado es la fricción cinemática $f_k = mu_k m g$. Por la segunda ley de Newton $m a = mu_k m g \\implies a = mu_k g = 0.5 \times 10 = 5\text{ m/s}^2$. Nota que la masa del auto no afecta la desaceleración.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el coeficiente de fricción estática $mu_s$ entre el bloque y la superficie de la rampa?",
+      "context": "Un bloque de masa $m$ descansa sobre un plano inclinado rugoso. Se incrementa gradualmente el ángulo de inclinación $\theta$ de la rampa hasta que el bloque comienza justo a deslizarse cuando $\theta = 37^circ$. Considere $\tan(37^circ) approx 0.75$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$mu_s = \tan(37^circ) approx 0.75$",
+          "is_correct": true,
+          "feedback": "Correcto. En el umbral del movimiento: $mg sin\theta = mu_s mg cos\theta \\implies mu_s = \\frac{sin\theta}{cos\theta} = \tan\theta = 0.75$."
+        },
+        {
+          "letter": "B",
+          "text": "$mu_s = sin(37^circ) approx 0.60$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió la componente normal ($mg cos\theta$) en la relación de equilibrio."
+        },
+        {
+          "letter": "C",
+          "text": "$mu_s = cos(37^circ) approx 0.80$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Inversión de la relación de componentes del peso."
+        },
+        {
+          "letter": "D",
+          "text": "$mu_s = 1.00$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a un ángulo crítico de $45^circ$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el ángulo crítico de desprendimiento estático, las fuerzas paralela y perpendicular se igualan en el límite: $mg sin\theta = f_{s,max} = mu_s (mg cos\theta)$. Simplificando la masa y gravedad: $mu_s = \\frac{sin\theta}{cos\theta} = \tan\theta = \tan(37^circ) approx 0.75$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la aceleración y sentido de movimiento del helicóptero?",
+      "context": "Un cuerpo de masa $M$ suspendido de un dinamómetro en un helicóptero que desciende registra un peso aparente $w_{ap}$ que es un $20%$ menor que su peso real en reposo ($0.8 w$). Considere $g = 10\text{ m/s}^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acelera hacia abajo a $2\text{ m/s}^2$.",
+          "is_correct": true,
+          "feedback": "Correcto. $w_{ap} = m(g - a) = 0.8 m g \\implies g - a = 0.8 g \\implies a = 0.2 g = 0.2(10) = 2\text{ m/s}^2$ dirigida hacia abajo."
+        },
+        {
+          "letter": "B",
+          "text": "Acelera hacia arriba a $2\text{ m/s}^2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Acelerar hacia arriba incrementaría el peso aparente a $1.2 w$."
+        },
+        {
+          "letter": "C",
+          "text": "Desciende a velocidad constante de $8\text{ m/s}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. A velocidad constante el peso aparente igualaría al peso real."
+        },
+        {
+          "letter": "D",
+          "text": "Acelera hacia abajo a $8\text{ m/s}^2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resta errónea de la aceleración efectiva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El peso aparente en un sistema no inercial acelerado verticalmente es $N = m(g pm a)$. Dado que $N = 0.8 m g$, la fuerza neta actúa hacia abajo: $m g - N = m a \\implies m g - 0.8 m g = m a \\implies a = 0.2 g = 2\text{ m/s}^2$ hacia abajo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la fuerza horizontal $F$ mínima requerida para evitar que el bloque resbale hacia abajo?",
+      "context": "Un bloque de $10\text{ kg}$ es empujado contra una pared vertical por una fuerza horizontal $F$. El coeficiente de fricción estática entre el bloque y la pared es $mu_s = 0.5$. Considere $g = 10\text{ m/s}^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$200\text{ N}$",
+          "is_correct": true,
+          "feedback": "Correcto. En vertical: $f_s = mg = 10 \times 10 = 100\text{ N}$. Como $f_s le mu_s N = mu_s F \\implies 100 = 0.5 F \\implies F = \\frac{100}{0.5} = 200\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "$100\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $100\text{ N}$ es el peso del bloque, no la fuerza normal aplicada."
+        },
+        {
+          "letter": "C",
+          "text": "$50\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicación errónea del peso por el coeficiente."
+        },
+        {
+          "letter": "D",
+          "text": "$400\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Factor de seguridad innecesario al duplicar la fuerza calculada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para mantener el equilibrio vertical, la fricción debe sostener el peso: $f_s = m g = 100\text{ N}$. La normal ejercida por la pared es igual a la fuerza horizontal aplicada $F$. Por lo tanto, $f_{s,max} = mu_s F \\implies 100 = 0.5 F \\implies F = 200\text{ N}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.52,
+      "bundle_id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la tensión en la cuerda ubicada entre el segundo y el tercer bloque (la última cuerda del tren)?",
+      "context": "Tres bloques idénticos de masa $m = 2\text{ kg}$ cada uno están unidos en serie por cuerdas inextensibles sobre una mesa lisa y son jalados por una fuerza horizontal $F = 18\text{ N}$ aplicada al primer bloque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6\text{ N}$",
+          "is_correct": true,
+          "feedback": "Correcto. Aceleración del conjunto $a = \\frac{18}{2+2+2} = 3\text{ m/s}^2$. La última cuerda solo arrastra al tercer bloque: $T_3 = m_3 a = 2 \times 3 = 6\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "$12\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $12\text{ N}$ es la tensión en la cuerda entre el primer y el segundo bloque."
+        },
+        {
+          "letter": "C",
+          "text": "$18\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $18\text{ N}$ es la fuerza externa total aplicada al conjunto."
+        },
+        {
+          "letter": "D",
+          "text": "$3\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al valor numérico de la aceleración del sistema."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "1) Aceleración global: $a = \\frac{F}{m_{total}} = \\frac{18}{6} = 3\text{ m/s}^2$.\n2) Aislando el tercer bloque (último): La única fuerza horizontal sobre él es la tensión $T_3$. De la segunda ley de Newton: $T_3 = m_3 cdot a = 2\text{ kg} \times 3\text{ m/s}^2 = 6\text{ N}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.48,
+      "bundle_id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle-v15",
+      "statement": "¿Qué se concluye sobre el estado de movimiento del vagón?",
+      "context": "Un péndulo cuelga del techo de un vagón de tren que avanza por una vía recta en la Sabana de Bogotá. El péndulo se desvía un ángulo constante $\theta = 15^circ$ respecto a la vertical hacia la parte trasera del vagón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El vagón acelera hacia adelante con una aceleración constante $a = g \tan(15^circ)$.",
+          "is_correct": true,
+          "feedback": "Correcto. Por componentes: $T sin\theta = m a$ y $T cos\theta = m g \\implies \tan\theta = \\frac{a}{g} \\implies a = g \tan(15^circ)$ hacia adelante."
+        },
+        {
+          "letter": "B",
+          "text": "El vagón avanza hacia adelante con velocidad constante muy elevada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si la velocidad fuera constante, la aceleración sería cero y el péndulo colgaría verticalmente."
+        },
+        {
+          "letter": "C",
+          "text": "El vagón se encuentra frenando intempestivamente mientras marcha marcha atrás.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una aceleración hacia atrás inclinaría el péndulo hacia adelante."
+        },
+        {
+          "letter": "D",
+          "text": "El vagón se encuentra en caída libre vertical.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En caída libre la tensión de la cuerda sería cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al analizar las fuerzas en el marco inercial: la tensión forma un ángulo $\theta$. La componente vertical equilibra la gravedad ($T cos\theta = mg$) y la componente horizontal provee la aceleración del tren ($T sin\theta = ma$). Dividiendo ambas: $\tan\theta = \\frac{a}{g} \\implies a = g \tan(15^circ)$ hacia adelante.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.45,
+      "bundle_id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle-v16",
+      "statement": "Durante la colisión, si la esfera $m_1$ ejerce una fuerza de $60\text{ N}$ sobre la esfera $m_2$, ¿cuál es la magnitud de la fuerza que la esfera $m_2$ ejerce sobre la esfera $m_1$?",
+      "context": "Se prueba el impacto frontal de dos esferas elásticas de masas $m_1 = 1\text{ kg}$ y $m_2 = 3\text{ kg}$ en el laboratorio de física de la Universidad del Valle.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exactamente $60\text{ N}$.",
+          "is_correct": true,
+          "feedback": "Correcto. Según la Tercera Ley de Newton, las fuerzas de acción y reacción son rigurosamente iguales en magnitud independientemente de las masas."
+        },
+        {
+          "letter": "B",
+          "text": "$180\text{ N}$ (el triple, por tener el triple de masa).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confunde la magnitud de la fuerza con la aceleración resultante."
+        },
+        {
+          "letter": "C",
+          "text": "$20\text{ N}$ (la tercera parte).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fuerzas del par acción-reacción son siempre iguales."
+        },
+        {
+          "letter": "D",
+          "text": "$0\text{ N}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas esferas interactúan simultáneamente durante el contacto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "De acuerdo con la Tercera Ley de Newton, las fuerzas de interacción entre dos cuerpos son siempre de igual magnitud y de dirección opuesta ($\\vec{F}_{12} = -\\vec{F}_{21}$), sin importar la masa, velocidad o forma de los cuerpos participantes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.42,
+      "bundle_id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle-v17",
+      "statement": "¿Por qué las tensiones $T_1$ y $T_2$ en ambos extremos de la cuerda que sostiene a las masas ya NO son iguales ($T_1\neq T_2$)?",
+      "context": "En una máquina de Atwood doble en un experimento de física teórica en Bogotá, dos masas $m_1$ y $m_2$ se conectan por una cuerda que pasa por una polea de masa no despreciable con momento de inercia $I$ y radio $R$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la diferencia de tensiones $(T_1 - T_2) R$ proporciona la torca neta necesaria para acelerar rotacionalmente a la polea con momento de inercia $I$.",
+          "is_correct": true,
+          "feedback": "Correcto. Para hacer girar una polea con masa ($\tau = I alpha$), se requiere una diferencia de tensión entre los dos lados de la cuerda."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la cuerda sufre estiramiento térmico por la fricción del aire.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una causa de estiramiento sino una propiedad de la dinámica de rotación rígida."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la aceleración de la gravedad actúa en direcciones opuestas sobre cada masa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El campo gravitacional se mantiene uniforme y paralelo hacia abajo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las masas pierden electrones por fricción electrostática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fuerzas involucradas son puramente mecánicas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando la polea tiene masa e inercia rotacional $I$, la ecuación de movimiento rotacional de la polea es $sum \tau = I alpha \\implies (T_1 - T_2) R = I alpha$. Por lo tanto, se requiere $T_1\neq T_2$ para generar la aceleración angular $alpha$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.38,
+      "bundle_id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es la expresión exacta para la fuerza normal $N$ que ejerce el plano inclinado sobre el bloque?",
+      "context": "Un bloque de masa $m$ se mantiene en reposo sobre un plano inclinado rugoso de ángulo $\theta$ mediante una fuerza horizontal $F$ aplicada sobre el bloque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$N = m g cos\theta + F sin\theta$",
+          "is_correct": true,
+          "feedback": "Correcto. Descomponiendo en el eje perpendicular a la rampa: la normal compensa la componente del peso ($mg cos\theta$) y la componente de la fuerza horizontal ($F sin\theta$)."
+        },
+        {
+          "letter": "B",
+          "text": "$N = m g cos\theta - F sin\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signo equivocado en la componente de la fuerza aplicada."
+        },
+        {
+          "letter": "C",
+          "text": "$N = m g cos\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Válido únicamente si no existe fuerza externa adicional $F$."
+        },
+        {
+          "letter": "D",
+          "text": "$N = m g sin\theta + F cos\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Intercambio erróneo de funciones trigonométricas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Proyectando las fuerzas en el eje perpendicular al plano inclinado: la componente del peso es $w_perp = mg cos\theta$ (hacia el plano) y la componente de la fuerza horizontal $F$ empuja también hacia el plano con $F_perp = F sin\theta$. Por equilibrio perpendicular: $N = mg cos\theta + F sin\theta$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.35,
+      "bundle_id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es la velocidad del objeto en función del tiempo $v(t)$ si parte del reposo en $t=0$?",
+      "context": "Se analiza el movimiento de un objeto de masa $m$ que cae verticalmente sometido a una fuerza de arrastre del aire proporcional a la velocidad: $F_d = -b v$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$v(t) = \\frac{m g}{b} \\left(1 - e^{-\\frac{b}{m} t}\r\\right)$",
+          "is_correct": true,
+          "feedback": "Correcto. Resolviendo la ecuación diferencial $m \\frac{dv}{dt} = m g - b v \\implies \\frac{dv}{g - \\frac{b}{m}v} = dt \\implies v(t) = \\frac{mg}{b}(1 - e^{-bt/m})$."
+        },
+        {
+          "letter": "B",
+          "text": "$v(t) = g t - \\frac{b}{m} t^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aproximación polinómica incorrecta de la resistencia del aire."
+        },
+        {
+          "letter": "C",
+          "text": "$v(t) = \\frac{m g}{b} e^{-\\frac{b}{m} t}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describiría un objeto con velocidad inicial que se frena hasta el reposo."
+        },
+        {
+          "letter": "D",
+          "text": "$v(t) = g t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la solución de caída libre pura sin resistencia del aire."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación diferencial del movimiento es $m \\frac{dv}{dt} = mg - bv$. Separando variables: $\\frac{dv}{mg - bv} = \\frac{dt}{m}$. Integrando con $v(0)=0$, se obtiene $v(t) = \\frac{mg}{b} (1 - e^{-bt/m})$, donde $\\frac{mg}{b} = v_{terminal}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.32,
+      "bundle_id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la velocidad angular mínima $omega_{min}$ necesaria para evitar que una persona de masa $m$ resbale hacia abajo si el coeficiente de fricción estática con la pared es $mu_s$?",
+      "context": "Un rotor de feria en un parque de atracciones en Bogotá consiste en un cilindro vertical de radio $R$ que gira a velocidad angular $omega$. Las personas se apoyan contra la pared interna y el piso se retira por debajo de sus pies sin que caigan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$omega_{min} = sqrt{\\frac{g}{mu_s R}}$",
+          "is_correct": true,
+          "feedback": "Correcto. Equilibrio vertical: $f_s = mg \\implies mu_s N = mg$. Fuerza normal centrípeta: $N = m omega^2 R$. Sustituyendo: $mu_s (m omega^2 R) = mg \\implies omega = sqrt{\\frac{g}{mu_s R}}$."
+        },
+        {
+          "letter": "B",
+          "text": "$omega_{min} = sqrt{\\frac{mu_s g}{R}}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Posición errónea del coeficiente de fricción en la raíz."
+        },
+        {
+          "letter": "C",
+          "text": "$omega_{min} = \\frac{g}{mu_s R}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió la raíz cuadrada de la aceleración angular."
+        },
+        {
+          "letter": "D",
+          "text": "$omega_{min} = sqrt{\\frac{g R}{mu_s}}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ubicación dimensional incorrecta del radio $R$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "1) Equilibrio vertical: $f_s = mg \\implies mu_s N = mg$.\n2) Fuerza normal centrípeta provista por la pared: $N = m omega^2 R$.\nSustituyendo $N$ en la condición de fricción: $mu_s (m omega^2 R) = mg \\implies omega_{min} = sqrt{\\frac{g}{mu_s R}}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.28,
+      "bundle_id": "CO-CN-11-2026-W06-leyes-newton-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

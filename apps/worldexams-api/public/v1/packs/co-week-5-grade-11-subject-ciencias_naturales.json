@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-5-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T21:14:50.026Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle-v1",
+      "statement": "¿Qué fuerza impide que el bloque se desplace sobre la superficie?",
+      "context": "Un bloque de madera se encuentra apoyado sobre un plano horizontal rugoso en Tunja. Se le aplica una fuerza horizontal pequeña que no logra ponerlo en movimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuerza de fricción estática.",
+          "is_correct": true,
+          "feedback": "Correcto. La fricción estática equilibra la fuerza aplicada hasta alcanzar su valor máximo, manteniendo el reposo."
+        },
+        {
+          "letter": "B",
+          "text": "Fuerza de fricción cinemática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fricción cinemática actúa solo cuando el cuerpo ya está en deslizamiento relativo."
+        },
+        {
+          "letter": "C",
+          "text": "Fuerza normal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fuerza normal es perpendicular a la superficie y equilibra al peso."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza gravitacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad actúa en sentido vertical, no horizontal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fuerza de fricción estática ($f_s$) se opone al inicio del movimiento relativo entre dos superficies en contacto y ajusta su magnitud exactamente a la fuerza aplicada ($f_s = F$) hasta llegar a $f_{s,max} = mu_s N$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se expresa matemáticamente la Ley de Hooke para un resorte ideal de constante $k$ deformado una distancia $x$?",
+      "context": "En el laboratorio de física de la Universidad del Quindío en Armenia, se estudia la relación entre la fuerza restauradora de un resorte y su deformación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$F = -k x$",
+          "is_correct": true,
+          "feedback": "Correcto. La Ley de Hooke establece que la fuerza restauradora es proporcional y opuesta al desplazamiento."
+        },
+        {
+          "letter": "B",
+          "text": "$F = \\frac{1}{2} k x^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta expresión corresponde a la energía potencial elástica acumulada, no a la fuerza."
+        },
+        {
+          "letter": "C",
+          "text": "$F = -k x^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fuerza elástica es lineal respecto a $x$, no cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "$F = -\\frac{k}{x}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa una relación inversamente proporcional errónea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Ley de Hooke postula que la fuerza elástica restauradora es directamente proporcional a la deformación del resorte ($x$) y en sentido contrario a la perturbación ($F = -kx$).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle-v3",
+      "statement": "¿Qué concepto físico explica este comportamiento de los pasajeros?",
+      "context": "En un recorrido por la sabana de Bogotá, un autobús frena intempestivamente y los pasajeros sienten que su cuerpo sale proyectado hacia adelante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La inercia de los cuerpos, descrita por la primera ley de Newton.",
+          "is_correct": true,
+          "feedback": "Correcto. Los cuerpos tienden a mantener su estado de movimiento uniforme hacia adelante por inercia."
+        },
+        {
+          "letter": "B",
+          "text": "La fuerza de fricción del piso del autobús empujándolos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fricción en los pies actúa hacia atrás para intentar detenerlos."
+        },
+        {
+          "letter": "C",
+          "text": "El incremento de la atracción gravitacional durante el frenado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad no se altera por el movimiento del vehículo."
+        },
+        {
+          "letter": "D",
+          "text": "La fuerza centrífuga causada por la aceleración vertical.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El frenado es una desaceleración en línea recta, no un viraje circular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "De acuerdo con la primera ley de Newton o principio de inercia, la masa del pasajero tiende a continuar en movimiento a la velocidad que llevaba antes de que los frenos aplicaran una fuerza sobre el autobús.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle-v4",
+      "statement": "¿Qué fuerza ascendente ejerce el agua sobre el buzo según el principio de Arquímedes?",
+      "context": "Un buzo se sumerge a $10\text{ m}$ de profundidad en las aguas marinas de la isla de San Andrés.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fuerza de empuje hidráulico, igual al peso del volumen de agua desalojado.",
+          "is_correct": true,
+          "feedback": "Correcto. El principio de Arquímedes establece que todo cuerpo sumergido recibe un empuje ascendente igual al peso del fluido desalojado."
+        },
+        {
+          "letter": "B",
+          "text": "La fuerza de tensión superficial del agua de mar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tensión superficial actúa únicamente en la interfaz líquido-gas."
+        },
+        {
+          "letter": "C",
+          "text": "La fuerza centrípeta causada por las corrientes marinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fuerza centrípeta rige trayectorias curvas, no la flotabilidad."
+        },
+        {
+          "letter": "D",
+          "text": "La fuerza de fricción viscosa de la profundidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La viscosidad es una fuerza resistiva al movimiento, no de flotabilidad estática."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El principio de Arquímedes afirma que un cuerpo sumergido en un fluido experimenta una fuerza vertical ascendente (empuje) $E = \rho_{fluido} cdot V_{sumergido} cdot g$, equivalente al peso del líquido desplazado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle-v5",
+      "statement": "¿Qué trabajo mecánico realiza la fuerza aplicada sobre la carga en la dirección del movimiento?",
+      "context": "Un motor eléctrico aplica una fuerza constante de $500\text{ N}$ para arrastrar una carga a lo largo de $10\text{ m}$ en una bodega de Barranquilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5000\text{ Joules}$",
+          "is_correct": true,
+          "feedback": "Correcto. El trabajo mecánico es $W = F cdot d cdot cos(0^circ) = 500 cdot 10 cdot 1 = 5000\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "$50\text{ Joules}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. División errónea en lugar de multiplicación."
+        },
+        {
+          "letter": "C",
+          "text": "$500\text{ Joules}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió la distancia recorrida."
+        },
+        {
+          "letter": "D",
+          "text": "$0\text{ Joules}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El trabajo es cero solo si la fuerza es perpendicular al desplazamiento o si no hay movimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El trabajo efectuado por una fuerza constante en la dirección del desplazamiento es $W = F cdot d cdot cos\theta$. Como $\theta = 0^circ$, $W = 500\text{ N} \times 10\text{ m} = 5000\text{ J}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la energía cinética del cuerpo?",
+      "context": "Una masa de $3\text{ kg}$ se desplaza sobre una pista horizontal lisa a $4\text{ m/s}$ en Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$24\text{ Joules}$",
+          "is_correct": true,
+          "feedback": "Correcto. $E_k = \\frac{1}{2} m v^2 = \\frac{1}{2} (3) (4^2) = 1.5 \times 16 = 24\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "$12\text{ Joules}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió elevar la velocidad al cuadrado ($3 \times 4$)."
+        },
+        {
+          "letter": "C",
+          "text": "$48\text{ Joules}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió dividir entre 2."
+        },
+        {
+          "letter": "D",
+          "text": "$6\text{ Joules}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cálculo erróneo de la masa y la velocidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía cinética traslacional se define como $E_k = \\frac{1}{2} m v^2$. Sustituyendo los valores de masa $m = 3\text{ kg}$ y rapidez $v = 4\text{ m/s}$: $E_k = 0.5 \times 3 \times 16 = 24\text{ J}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la constante elástica $k$ del resorte?",
+      "context": "En una prueba en el laboratorio de Manizales, una fuerza horizontal de $10\text{ N}$ comprime un resorte $0.2\text{ m}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$50\text{ N/m}$",
+          "is_correct": true,
+          "feedback": "Correcto. De la Ley de Hooke $k = \\frac{F}{x} = \\frac{10\text{ N}}{0.2\text{ m}} = 50\text{ N/m}$."
+        },
+        {
+          "letter": "B",
+          "text": "$2\text{ N/m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicación de la fuerza por el desplazamiento."
+        },
+        {
+          "letter": "C",
+          "text": "$100\text{ N/m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error decimal al dividir entre 0.1."
+        },
+        {
+          "letter": "D",
+          "text": "$5\text{ N/m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. División de 10 entre 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Despejando la constante de rigidez $k$ de la magnitud de la Ley de Hooke ($F = k x$): $k = \\frac{F}{x} = \\frac{10\text{ N}}{0.2\text{ m}} = 50\text{ N/m}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la energía potencial gravitacional adquirida por la caja respecto al piso?",
+      "context": "Se levanta una caja de $20\text{ kg}$ verticalmente a una altura de $5\text{ m}$ con velocidad constante en Cali. Considere $g = 10\text{ m/s}^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1000\text{ Joules}$",
+          "is_correct": true,
+          "feedback": "Correcto. $E_p = m g h = 20 \times 10 \times 5 = 1000\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "$100\text{ Joules}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió la masa en el cálculo."
+        },
+        {
+          "letter": "C",
+          "text": "$500\text{ Joules}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió la aceleración de la gravedad."
+        },
+        {
+          "letter": "D",
+          "text": "$200\text{ Joules}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicación directa de masa por altura sin considerar $g$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía potencial gravitacional en un campo uniforme es $E_p = m cdot g cdot h = 20\text{ kg} \times 10\text{ m/s}^2 \times 5\text{ m} = 1000\text{ J}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el valor del impulso impartido al balón y la fuerza promedio ejercida por el pie?",
+      "context": "Un jugador de fútbol en Ibagué patea un balón de $0.4\text{ kg}$ que estaba en reposo, imprimiéndole una velocidad de $25\text{ m/s}$. El contacto dura $0.02\text{ s}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Impulso = $10\text{ N}cdot\text{s}$, Fuerza = $500\text{ N}$.",
+          "is_correct": true,
+          "feedback": "Correcto. Impulso $I = Delta p = m v_f - m v_i = 0.4 \times 25 = 10\text{ N}cdot\text{s}$. Fuerza $F = \\frac{I}{Delta t} = \\frac{10}{0.02} = 500\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "Impulso = $100\text{ N}cdot\text{s}$, Fuerza = $50\text{ N}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicación errónea del tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Impulso = $5\text{ N}cdot\text{s}$, Fuerza = $250\text{ N}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cálculo erróneo de la masa."
+        },
+        {
+          "letter": "D",
+          "text": "Impulso = $2.5\text{ N}cdot\text{s}$, Fuerza = $125\text{ N}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de escala de velocidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El teorema del impulso y la cantidad de movimiento establece $I = Delta p = m (v_f - v_i) = 0.4 \times 25 = 10\text{ N}cdot\text{s}$. La fuerza promedio es $F = \\frac{I}{Delta t} = \\frac{10}{0.02} = 500\text{ N}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle-v10",
+      "statement": "¿Con qué velocidad de retroceso se mueve el joven sobre la pista (sin fricción)?",
+      "context": "En una pista de patinaje en Pereira, un joven de $50\text{ kg}$ en reposo lanza una pelota de $2\text{ kg}$ hacia adelante a $10\text{ m/s}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.4\text{ m/s}$ hacia atrás.",
+          "is_correct": true,
+          "feedback": "Correcto. Por conservación del momento lineal $p_i = p_f \\implies 0 = m_j v_j + m_p v_p \\implies v_j = -\\frac{2 \times 10}{50} = -0.4\text{ m/s}$."
+        },
+        {
+          "letter": "B",
+          "text": "$2.5\text{ m/s}$ hacia atrás.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió la masa del joven entre el momento de la pelota."
+        },
+        {
+          "letter": "C",
+          "text": "$10\text{ m/s}$ hacia atrás.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asume que el joven adquiere la misma velocidad de la pelota lanzada."
+        },
+        {
+          "letter": "D",
+          "text": "$0\text{ m/s}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Violaría la conservación del momento lineal en un sistema aislado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En ausencia de fuerzas externas horizontales, el momento lineal se conserva ($Delta p = 0$). Partiendo del reposo: $m_{joven} v_{joven} + m_{pelota} v_{pelota} = 0 \\implies v_{joven} = -\\frac{2 \times 10}{50} = -0.4\text{ m/s}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la máxima compresión $x$ que experimenta el resorte al detener momentáneamente al bloque?",
+      "context": "Un bloque de $2\text{ kg}$ se suelta desde el reposo desde una altura de $5\text{ m}$ en una rampa curva sin fricción en Bogotá. Al llegar a la parte llana inferior, choca contra un resorte de constante $k = 1000\text{ N/m}$. Considere $g = 10\text{ m/s}^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.44\text{ metros}$ (aproximadamente $sqrt{0.2}\text{ m}$)",
+          "is_correct": true,
+          "feedback": "Correcto. Conservación de energía: $m g h = \\frac{1}{2} k x^2 \\implies 2(10)(5) = \\frac{1}{2}(1000)x^2 \\implies 100 = 500 x^2 \\implies x^2 = 0.2 \\implies x = sqrt{0.2} approx 0.447\text{ m}$."
+        },
+        {
+          "letter": "B",
+          "text": "$0.1\text{ metros}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre si se olvida multiplicar la masa por la aceleración de la gravedad."
+        },
+        {
+          "letter": "C",
+          "text": "$1.0\text{ metros}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de despeje al no dividir entre la constante del resorte."
+        },
+        {
+          "letter": "D",
+          "text": "$0.2\text{ metros}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $0.2$ es el valor de $x^2$, falta extraer la raíz cuadrada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por conservación de la energía mecánica total en ausencia de fricción: $E_{p,grav} = E_{p,elas} \\implies m g h = \\frac{1}{2} k x^2$. Sustituyendo los valores: $100 = 500 x^2 \\implies x = sqrt{0.2} approx 0.447\text{ m}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle-v12",
+      "statement": "¿Qué cantidad de energía cinética se pierde en forma de calor y deformación durante la colisión?",
+      "context": "Un carro de masa $m_1 = 1\text{ kg}$ que se mueve a $6\text{ m/s}$ choca inelásticamente sobre un riel liso en Bucaramanga contra otro carro $m_2 = 2\text{ kg}$ inicialmente en reposo, quedando acoplados tras el impacto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12\text{ Joules}$",
+          "is_correct": true,
+          "feedback": "Correcto. $E_{k,i} = \\frac{1}{2}(1)(6^2) = 18\text{ J}$. Velocidad final $v_f = \\frac{1 \times 6}{1+2} = 2\text{ m/s}$. $E_{k,f} = \\frac{1}{2}(3)(2^2) = 6\text{ J}$. Pérdida $= 18 - 6 = 12\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "$18\text{ Joules}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $18\text{ J}$ es la energía cinética inicial completa."
+        },
+        {
+          "letter": "C",
+          "text": "$6\text{ Joules}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $6\text{ J}$ es la energía cinética remanente del conjunto tras la colisión."
+        },
+        {
+          "letter": "D",
+          "text": "$0\text{ Joules}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía cinética solo se conserva en colisiones perfectamente elásticas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Energía inicial: $E_{ki} = \\frac{1}{2}(1)(36) = 18\text{ J}$. Por conservación de cantidad de movimiento: $v_f = \\frac{m_1 v_1}{m_1+m_2} = \\frac{6}{3} = 2\text{ m/s}$. Energía final: $E_{kf} = \\frac{1}{2}(3)(4) = 6\text{ J}$. La energía disipada es $Delta E_k = 18 - 6 = 12\text{ J}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la tensión en la cuerda cuando la masa pasa por el punto más bajo de su trayectoria vertical?",
+      "context": "Un péndulo simple de longitud $L$ y masa $m$ se suelta desde una posición horizontal ($\theta = 90^circ$) en Neiva. Considere la aceleración de la gravedad $g$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3 m g$",
+          "is_correct": true,
+          "feedback": "Correcto. En el punto bajo: $v^2 = 2gL$ (por conservación de energía). Tensión $T = m g + \\frac{m v^2}{L} = m g + \\frac{m(2gL)}{L} = m g + 2 m g = 3 m g$."
+        },
+        {
+          "letter": "B",
+          "text": "$1 m g$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Iguala la tensión al peso estático, ignorando la fuerza centrípeta."
+        },
+        {
+          "letter": "C",
+          "text": "$2 m g$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde solo a la contribución de la velocidad centrípeta sin sumar el peso."
+        },
+        {
+          "letter": "D",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cuerda no está destensada en el punto inferior."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la posición más baja, por conservación de energía $m g L = \\frac{1}{2} m v^2 \\implies \\frac{m v^2}{L} = 2 m g$. Aplicando la segunda ley de Newton radialmente: $T - m g = \\frac{m v^2}{L} \\implies T = m g + 2 m g = 3 m g$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.52,
+      "bundle_id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la potencia útil mínima que debe suministrar el motor de la bomba?",
+      "context": "Una bomba de agua en un edificio de Cartagena eleva $0.02\text{ m}^3$ de agua ($20\text{ kg}$) por segundo a una altura de $15\text{ m}$. Considere $g = 10\text{ m/s}^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3000\text{ Watts}$ ($3\text{ kW}$)",
+          "is_correct": true,
+          "feedback": "Correcto. Potencia $P = \\frac{W}{t} = \\frac{m g h}{t} = \\frac{20 \times 10 \times 15}{1} = 3000\text{ W}$."
+        },
+        {
+          "letter": "B",
+          "text": "$300\text{ Watts}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de escala por omitir un cero en la masa."
+        },
+        {
+          "letter": "C",
+          "text": "$1500\text{ Watts}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. División errónea de la masa."
+        },
+        {
+          "letter": "D",
+          "text": "$30000\text{ Watts}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicación errónea por un factor de 10."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La potencia desarrollada es el trabajo realizado por unidad de tiempo: $P = \\frac{Delta E_p}{Delta t} = \\frac{m g h}{Delta t} = \\frac{20\text{ kg} \times 10\text{ m/s}^2 \times 15\text{ m}}{1\text{ s}} = 3000\text{ W} = 3\text{ kW}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.48,
+      "bundle_id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle-v15",
+      "statement": "¿Qué se puede afirmar sobre el trabajo realizado por la fuerza de fricción en relación con la energía potencial gravitacional perdida?",
+      "context": "Un bloque se desliza hacia abajo por un plano inclinado rugoso con velocidad constante en Tunja.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El trabajo negativo de la fricción disipa exactamente toda la energía potencial gravitacional perdida en forma de calor.",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser velocidad constante, la energía cinética no cambia ($Delta E_k = 0$). Toda la disminución de $E_p$ es disipada por el trabajo de la fricción."
+        },
+        {
+          "letter": "B",
+          "text": "El trabajo de la fricción se convierte íntegramente en energía cinética.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La velocidad es constante, luego $Delta E_k = 0$."
+        },
+        {
+          "letter": "C",
+          "text": "La fuerza de fricción no realiza trabajo porque es paralela al plano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al existir desplazamiento paralelo a la fricción, el trabajo no es cero."
+        },
+        {
+          "letter": "D",
+          "text": "La energía potencial se incrementa debido al calentamiento del bloque.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía potencial disminuye al perder altura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicando el teorema del trabajo y la energía no conservativa: $W_{nc} = Delta E_k + Delta E_p$. Dado que $v = \text{constante}$, $Delta E_k = 0$. Por ende, $W_{friccion} = Delta E_p = -m g h$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.45,
+      "bundle_id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es el trabajo total realizado por esta fuerza variable?",
+      "context": "Se aplica una fuerza variable $F(x) = 3 x^2 + 2$ (en Newtons) sobre una partícula desplazándola desde $x = 0\text{ m}$ hasta $x = 2\text{ m}$ en Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12\text{ Joules}$",
+          "is_correct": true,
+          "feedback": "Correcto. Integrando $W = int_0^2 (3x^2 + 2) dx = [x^3 + 2x]_0^2 = (2^3 + 2(2)) - 0 = 8 + 4 = 12\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "$8\text{ Joules}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió integrar el término independiente $+2$."
+        },
+        {
+          "letter": "C",
+          "text": "$14\text{ Joules}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluación errónea de los límites de integración."
+        },
+        {
+          "letter": "D",
+          "text": "$24\text{ Joules}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicación directa de la fuerza final por la distancia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para fuerzas variables, el trabajo es la integral $W = int_{x_1}^{x_2} F(x) dx$. Calculando $int_0^2 (3x^2 + 2) dx = left[ x^3 + 2x \right]_0^2 = (8 + 4) - 0 = 12\text{ J}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.42,
+      "bundle_id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la rapidez de la masa cuando se encuentra en la posición $x = 0.06\text{ m}$?",
+      "context": "Un sistema masa-resorte ($m = 0.5\text{ kg}$, $k = 200\text{ N/m}$) oscila en un Plano Horizontal liso en el laboratorio de la Universidad Nacional en Bogotá. Se libera con una amplitud $A = 0.1\text{ m}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1.6\text{ m/s}$",
+          "is_correct": true,
+          "feedback": "Correcto. Por conservación de energía $\\frac{1}{2}k A^2 = \\frac{1}{2}m v^2 + \\frac{1}{2}k x^2 \\implies v = sqrt{\\frac{k}{m}(A^2 - x^2)} = sqrt{\\frac{200}{0.5}(0.01 - 0.0036)} = sqrt{400(0.0064)} = sqrt{2.56} = 1.6\text{ m/s}$."
+        },
+        {
+          "letter": "B",
+          "text": "$2.0\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la rapidez máxima al pasar por el centro de equilibrio $x=0$."
+        },
+        {
+          "letter": "C",
+          "text": "$1.2\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la resta de los cuadrados de la posición."
+        },
+        {
+          "letter": "D",
+          "text": "$0.8\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre si se olvida dividir entre la masa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por conservación de energía en un oscilador armónico simple: $v = omega sqrt{A^2 - x^2}$. Como $omega = sqrt{\\frac{k}{m}} = sqrt{\\frac{200}{0.5}} = 20\text{ rad/s}$, se obtiene $v = 20 sqrt{0.1^2 - 0.06^2} = 20 sqrt{0.0064} = 20 \times 0.08 = 1.6\text{ m/s}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.38,
+      "bundle_id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle-v18",
+      "statement": "¿Qué fracción de la energía cinética inicial conservará el proyectil en el ápice de su vuelo?",
+      "context": "Un proyectil se lanza desde el suelo con energía cinética inicial $E_{k0}$. Se evalúa la energía cinética del proyectil en el punto más alto de su trayectoria parabólica cuando el ángulo de lanzamiento es $\theta = 60^circ$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cuarta parte ($\\frac{1}{4} E_{k0}$).",
+          "is_correct": true,
+          "feedback": "Correcto. En la cúspide $v_y = 0$, subsiste $v_x = v_0 cos(60^circ) = \\frac{1}{2}v_0$. La energía cinética es $E_k = \\frac{1}{2} m (\\frac{1}{2}v_0)^2 = \\frac{1}{4} (\\frac{1}{2} m v_0^2) = \\frac{1}{4} E_{k0}$."
+        },
+        {
+          "letter": "B",
+          "text": "La mitad ($\\frac{1}{2} E_{k0}$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confunde el valor del coseno de $60^circ$ con su cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "Las tres cuartas partes ($\\frac{3}{4} E_{k0}$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería la fracción convertida en energía potencial gravitacional."
+        },
+        {
+          "letter": "D",
+          "text": "Cero ($0$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. La velocidad horizontal nunca se anula en el movimiento parabólico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la cima parabólica $v_y = 0$ y $v = v_x = v_0 cos\theta$. La energía cinética en el pico es $E_k = \\frac{1}{2}m (v_0 cos\theta)^2 = E_{k0} cos^2\theta$. Para $\theta = 60^circ$, $cos(60^circ) = 0.5$, luego $cos^2(60^circ) = 0.25 = \\frac{1}{4}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.35,
+      "bundle_id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle-v19",
+      "statement": "A partir de la segunda ley de Newton generalizada para sistemas de masa variable ($F_{ext} = m \\frac{dv}{dt} - u \\frac{dm}{dt}$), ¿cuál es la aceleración del cohete en el espacio profundo libre de gravedad ($F_{ext} = 0$)?",
+      "context": "Un cohete de masa variable desprende gases a una tasa constante $\\frac{dm}{dt} = -R$ con una velocidad de escape relativa $u$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a(t) = \\frac{u R}{m(t)}$",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser $F_{ext}=0 \\implies m \\frac{dv}{dt} = u \\frac{dm}{dt} = u (-R) \\implies a(t) = \\frac{u R}{m(t)}$."
+        },
+        {
+          "letter": "B",
+          "text": "$a(t) = \\frac{u}{R m(t)}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Inversión dimensional del empuje."
+        },
+        {
+          "letter": "C",
+          "text": "$a(t) = u R m(t)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicación errónea de la masa."
+        },
+        {
+          "letter": "D",
+          "text": "$a(t) = \text{constante independiente de la masa}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como la masa disminuye continuamente, la aceleración aumenta con el tiempo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fuerza de empuje producida por la expulsión de gases es $F_{empuje} = u left|\\frac{dm}{dt}\right| = u R$. Por la segunda ley de Newton, $a(t) = \\frac{F_{empuje}}{m(t)} = \\frac{u R}{m(t)}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.32,
+      "bundle_id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle-v20",
+      "statement": "¿Cuáles son las velocidades finales $v_A'$ y $v_B'$ de ambas partículas tras la colisión?",
+      "context": "Se prueba un choque frontal entre dos partículas idénticas de masa $m$. La partícula A se mueve a velocidad $v_0$ y la partícula B está en reposo. Se sabe que el coeficiente de restitución de la colisión es $e = 0.6$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$v_A' = 0.2 v_0$ y $v_B' = 0.8 v_0$.",
+          "is_correct": true,
+          "feedback": "Correcto. Conservación de momento: $v_A' + v_B' = v_0$. Coeficiente de restitución: $v_B' - v_A' = e v_0 = 0.6 v_0$. Sumando ambas: $2 v_B' = 1.6 v_0 \\implies v_B' = 0.8 v_0$, $v_A' = 0.2 v_0$."
+        },
+        {
+          "letter": "B",
+          "text": "$v_A' = 0$ y $v_B' = v_0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Válido únicamente para choque perfectamente elástico ($e=1$)."
+        },
+        {
+          "letter": "C",
+          "text": "$v_A' = 0.5 v_0$ y $v_B' = 0.5 v_0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Válido únicamente para choque perfectamente inelástico ($e=0$)."
+        },
+        {
+          "letter": "D",
+          "text": "$v_A' = -0.6 v_0$ y $v_B' = 0.6 v_0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Violaría la conservación de momento lineal del sistema."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "1) Conservación del momento lineal: $m v_A' + m v_B' = m v_0 \\implies v_A' + v_B' = v_0$.\n2) Coeficiente de restitución: $e = \\frac{v_B' - v_A'}{v_0} \\implies v_B' - v_A' = 0.6 v_0$.\nResolviendo el sistema de ecuaciones: $v_B' = 0.8 v_0$ y $v_A' = 0.2 v_0$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.28,
+      "bundle_id": "CO-CN-11-2026-W05-fuerzas-movimiento-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}
