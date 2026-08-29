@@ -138,7 +138,7 @@ export async function deriveKeyFromPhrase(
   return globalThis.crypto.subtle.deriveKey(
     {
       name: 'PBKDF2',
-      salt: saltBuffer,
+      salt: saltBuffer as any,
       iterations: KEY_DERIVATION_ITERATIONS,
       hash: 'SHA-256'
     },
@@ -300,10 +300,10 @@ export async function decryptData(
     const decryptedBuffer = await globalThis.crypto.subtle.decrypt(
       {
         name: 'AES-GCM',
-        iv
+        iv: iv as any
       },
       masterKey,
-      ciphertext
+      ciphertext as any
     );
 
     const decoder = new TextDecoder();
