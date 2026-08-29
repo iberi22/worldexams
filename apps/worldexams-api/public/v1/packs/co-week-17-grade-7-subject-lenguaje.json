@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-17-grade-7-subject-lengua",
+    "generated_at": "2026-06-18T23:58:37.543Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle-v1",
+      "statement": "¿A qué vicio del lenguaje nos referimos cuando usamos palabras innecesarias que ya están implícitas en el significado de otras, como \"subir arriba\"?",
+      "context": "Los vicios del lenguaje son usos o formas incorrectas de hablar o escribir que pueden dificultar la comprensión.\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Barbarismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El barbarismo consiste en escribir o pronunciar mal las palabras o usar extranjerismos innecesarios."
+        },
+        {
+          "letter": "B",
+          "text": "Pleonasmo o redundancia.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El pleonasmo consiste en añadir términos que no son necesarios para que la frase tenga sentido, pues la idea ya está expresada."
+        },
+        {
+          "letter": "C",
+          "text": "Anfibología.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La anfibología es la falta de claridad que permite más de una interpretación (ambigüedad)."
+        },
+        {
+          "letter": "D",
+          "text": "Arcaísmo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El arcaísmo es el uso de palabras antiguas que ya han caído en desuso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La redundancia ocurre cuando se repite una idea innecesariamente. En \"subir arriba\", el verbo subir ya implica un movimiento hacia un nivel superior.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el nombre del vicio del lenguaje que consiste en utilizar repetidamente las mismas palabras o muletillas, como decir \"ehh\", \"bueno\", \"esteee\" al hablar?",
+      "context": "El uso excesivo o inadecuado de ciertas palabras puede empobrecer el discurso.\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muletillas o vicios de dicción.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Son palabras o sonidos que se repiten por hábito o para llenar pausas mientras se piensa qué decir."
+        },
+        {
+          "letter": "B",
+          "text": "Neologismos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los neologismos son palabras nuevas o de reciente creación en una lengua."
+        },
+        {
+          "letter": "C",
+          "text": "Solecismos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El solecismo es un error en la estructura sintáctica de la oración."
+        },
+        {
+          "letter": "D",
+          "text": "Metátesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La metátesis es el cambio de lugar de algún sonido dentro de una palabra (ej. \"Grabiel\" por \"Gabriel\")."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las muletillas son apoyos verbales que demuestran inseguridad o falta de vocabulario, restándole fluidez y elegancia a la comunicación oral.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de las siguientes frases presenta un **solecismo** de concordancia?",
+      "context": "En Colombia, es común escuchar expresiones que contienen errores de concordancia o de estructura.\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Me duele mucho la cabeza por el sol de Cartagena.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta oración es gramaticalmente correcta."
+        },
+        {
+          "letter": "B",
+          "text": "Compré una revista y un libro muy interesantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La concordancia es correcta: plural masculino para referirse a ambos objetos."
+        },
+        {
+          "letter": "C",
+          "text": "Hubieron muchas personas en el concierto del Parque de la Leyenda Vallenata.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El verbo \"haber\" cuando indica existencia es impersonal y debe ir en singular: \"Hubo muchas personas\"."
+        },
+        {
+          "letter": "D",
+          "text": "Mañana iré a visitar a mis abuelos a la finca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estructura y concordancia son adecuadas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El solecismo ocurre cuando se violan las normas de la sintaxis o la concordancia. El uso de \"hubieron\" en lugar de \"hubo\" para expresar existencia es uno de los solecismos más comunes en el habla hispana.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle-v4",
+      "statement": "Identifica la oración que contiene un **barbarismo** por uso incorrecto de una palabra:",
+      "context": "El barbarismo incluye tanto errores ortográficos como el uso innecesario de términos extranjeros.\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La atmósfera estaba cargada de humedad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra \"atmósfera\" está correctamente escrita y empleada."
+        },
+        {
+          "letter": "B",
+          "text": "Ojalá que el profesor nos **haiga** dejado poca tarea para el fin de semana.",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Haiga\" es una forma incorrecta del verbo haber; la forma correcta es \"haya\"."
+        },
+        {
+          "letter": "C",
+          "text": "El edificio fue construido con materiales sismorresistentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El término es técnico y está bien formado."
+        },
+        {
+          "letter": "D",
+          "text": "Fuimos al restaurante y pedimos una bandeja paisa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La redacción es clara y correcta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los barbarismos ortográficos o fonéticos ocurren cuando se deforman las palabras. \"Haiga\" es un ejemplo clásico de vulgarismo que se clasifica como barbarismo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la interpretación ambigua de la frase: \"Vimos a Juan paseando con su perro\"?",
+      "context": "La anfibología genera confusión en el receptor porque el mensaje tiene más de una interpretación.\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No se sabe si Juan es el dueño del perro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación de pertenencia no es el foco de la ambigüedad aquí."
+        },
+        {
+          "letter": "B",
+          "text": "No queda claro si Juan estaba paseando o si nosotros estábamos paseando cuando lo vimos.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El gerundio \"paseando\" puede referirse tanto al sujeto de la oración principal como al objeto directo."
+        },
+        {
+          "letter": "C",
+          "text": "No se sabe qué raza de perro tiene Juan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es un detalle de contenido, no un error de estructura gramatical."
+        },
+        {
+          "letter": "D",
+          "text": "No se especifica en qué ciudad ocurrió el encuentro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falta de información geográfica no es un vicio lingüístico de ambigüedad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La anfibología surge por una mala organización de los elementos de la frase. Para evitarla, se debe reescribir la oración, por ejemplo: \"Mientras paseábamos, vimos a Juan con su perro\".",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de las siguientes expresiones presenta un vicio de **cacofonía**?",
+      "context": "La cacofonía es el encuentro o repetición de sonidos iguales o semejantes que resultan desagradables al oído.\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua del río Magdalena está bajando de nivel.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay repetición molesta de sonidos."
+        },
+        {
+          "letter": "B",
+          "text": "Tómate el té y te sentirás mejor de salud.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La repetición de la sílaba \"te\" tres veces seguidas genera un efecto sonoro desagradable."
+        },
+        {
+          "letter": "C",
+          "text": "Camina despacio por el borde de la piscina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los sonidos están equilibrados."
+        },
+        {
+          "letter": "D",
+          "text": "El sol brilla intensamente sobre la cordillera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una frase armónica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La cacofonía se evita buscando sinónimos o cambiando el orden de las palabras. En el ejemplo B, se podría decir: \"Bebe el té y mejorarás pronto\".",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de estas frases contiene un barbarismo por uso innecesario de un anglicismo, teniendo un término equivalente en español?",
+      "context": "El uso innecesario de anglicismos es un tipo de barbarismo muy común en la era digital.\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debemos actualizar el software del computador del colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Software\" es un término técnico aceptado ante la falta de una traducción exacta y breve."
+        },
+        {
+          "letter": "B",
+          "text": "El partido de fútbol fue transmitido en alta definición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los términos son propios del español."
+        },
+        {
+          "letter": "C",
+          "text": "Por favor, envíame un **feedback** sobre mi exposición de sociales.",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Feedback\" puede sustituirse perfectamente por \"comentarios\", \"retroalimentación\" o \"opinión\"."
+        },
+        {
+          "letter": "D",
+          "text": "La red inalámbrica de la biblioteca no está funcionando.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Utiliza terminología correcta en español."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los anglicismos son vicios cuando desplazan a palabras en español que expresan exactamente lo mismo, empobreciendo el idioma y dificultando la comunicación para quienes no conocen el inglés.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle-v8",
+      "statement": "Identifica la oración que presenta un caso de **dequeísmo**:",
+      "context": "El queísmo y el dequeísmo son vicios relacionados con el uso incorrecto de la preposición \"de\" ante la conjunción \"que\".\n**Expected_Success:** 0.50",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estoy seguro de que ganaremos el campeonato de patinaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aquí el verbo \"estar seguro\" exige la preposición \"de\"."
+        },
+        {
+          "letter": "B",
+          "text": "Ella me dijo de que vendría a mi fiesta de cumpleaños.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El verbo \"decir\" no exige la preposición \"de\". Lo correcto es: \"Ella me dijo que vendría\"."
+        },
+        {
+          "letter": "C",
+          "text": "Pienso que deberíamos estudiar más para el examen de inglés.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es correcto; el verbo \"pensar\" no lleva \"de\"."
+        },
+        {
+          "letter": "D",
+          "text": "Me alegro de que hayas regresado sano y salvo de tu viaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo \"alegrarse\" exige la preposición \"de\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para saber si se debe usar \"de que\", se puede sustituir la frase subordinada por \"esto\". Si al preguntar \"¿Qué dijo?\" la respuesta es \"esto\", no lleva \"de\". Si la pregunta es \"¿De qué está seguro?\", la respuesta es \"de esto\", por lo que sí lleva \"de\".",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle-v9",
+      "statement": "Lee el siguiente fragmento de una noticia escolar: \"Ayer hubieron muchos inscritos para el club de robótica, por lo que el profesor decidió de que el cupo se ampliaría para todos los que subieran arriba al segundo piso\".\n\n¿Cuáles vicios del lenguaje aparecen en este orden?",
+      "context": "Evitar los vicios del lenguaje mejora la calidad de los textos argumentativos y académicos.\n**Expected_Success:** 0.45",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anfibología, queísmo y barbarismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los errores señalados no corresponden a estas definiciones."
+        },
+        {
+          "letter": "B",
+          "text": "Solecismo de concordancia, dequeísmo y pleonasmo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Hubieron\" (solecismo), \"decidió de que\" (dequeísmo) y \"subieran arriba\" (pleonasmo)."
+        },
+        {
+          "letter": "C",
+          "text": "Cacofonía, arcaísmo y muletillas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se observan repeticiones sonoras molestas ni palabras antiguas o muletillas de relleno."
+        },
+        {
+          "letter": "D",
+          "text": "Barbarismo, solecismo y anfibología.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hay solecismo, los otros dos no encajan con los ejemplos del texto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un texto puede acumular diversos vicios que afectan su claridad. Identificarlos es el primer paso para realizar una corrección de estilo efectiva.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle-v10",
+      "statement": "En una conversación sobre tecnología moderna, un abuelo le dice a su nieto: \"Hijo, antes de que **vos** te vayas, déjame **mesmo** el aparato ese que me **asimpla** la cabeza\".\n\nAnalizando los términos en negrilla, ¿qué fenómeno lingüístico ocurre aquí respecto a la norma actual?",
+      "context": "Los arcaísmos y neologismos pueden considerarse vicios si se usan de forma inadecuada para el contexto.\n**Expected_Success:** 0.40",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso de neologismos técnicos que el abuelo no comprende.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las palabras señaladas no son términos tecnológicos nuevos."
+        },
+        {
+          "letter": "B",
+          "text": "El uso de barbarismos y arcaísmos que reflejan un habla rural o antigua.",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Mesmo\" es un arcaísmo (por mismo) y \"asimpla\" es un barbarismo/vulgarismo popular (por atonta o confunde)."
+        },
+        {
+          "letter": "C",
+          "text": "Una anfibología que impide saber si el abuelo quiere o no el aparato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mensaje se entiende, aunque las palabras no sean las normativas."
+        },
+        {
+          "letter": "D",
+          "text": "Un solecismo de concordancia entre el pronombre \"vos\" y el verbo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Vos te vayas\" es una estructura válida en regiones voseantes de Colombia (aunque la norma culta prefiere vayas)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los arcaísmos son palabras del pasado que sobreviven en ciertas comunidades. Usarlos en contextos formales actuales puede considerarse un vicio o una falta de adecuación al registro.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.4,
+      "bundle_id": "CO-LEN-7-2026-W17-vicios-linguisticos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

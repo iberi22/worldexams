@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-15-grade-7-subject-lengua",
+    "generated_at": "2026-06-18T23:58:37.540Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes definiciones caracteriza mejor a las oraciones coordinadas?",
+      "context": "En el estudio de la gramática, la coordinación es una forma de unir oraciones o elementos del mismo nivel sintáctico.\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son oraciones donde una proposición depende totalmente del significado de la otra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la definición de subordinación, no de coordinación."
+        },
+        {
+          "letter": "B",
+          "text": "Son proposiciones independientes unidas por un nexo que se encuentran en el mismo nivel jerárquico.",
+          "is_correct": true,
+          "feedback": "¡Correcto! En la coordinación, cada proposición podría funcionar por separado de forma autónoma."
+        },
+        {
+          "letter": "C",
+          "text": "Son oraciones que no utilizan ningún nexo y solo se separan por signos de puntuación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas son las oraciones yuxtapuestas."
+        },
+        {
+          "letter": "D",
+          "text": "Son oraciones que siempre deben llevar el verbo en modo subjuntivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modo verbal depende del sentido de la oración, no del hecho de ser coordinada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coordinación une elementos (palabras, frases o proposiciones) que tienen la misma función y jerarquía sintáctica, lo que significa que ninguna está contenida dentro de la otra.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de las siguientes oraciones es un ejemplo de coordinación copulativa?",
+      "context": "Las oraciones coordinadas copulativas expresan una relación de suma o acumulación.\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "¿Prefieres ir al Parque Explora o al Jardín Botánico de Medellín?",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es un ejemplo de coordinación disyuntiva, ya que ofrece una elección."
+        },
+        {
+          "letter": "B",
+          "text": "Los músicos ensayaron toda la tarde y el director quedó muy satisfecho.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nexo \"y\" une dos proposiciones sumando sus significados."
+        },
+        {
+          "letter": "C",
+          "text": "Estudiamos mucho para el examen, pero no logramos resolver el último punto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nexo \"pero\" indica una oposición, siendo una coordinación adversativa."
+        },
+        {
+          "letter": "D",
+          "text": "Ya sale el sol, ya se oculta tras las nubes de la cordillera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una oración distributiva por la alternancia de acciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los nexos copulativos principales son \"y\", \"e\", \"ni\". Su función es simplemente adicionar información de manera lineal.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle-v3",
+      "statement": "Identifica la oración coordinada adversativa entre las siguientes opciones:",
+      "context": "La coordinación adversativa se utiliza para contraponer dos ideas de manera que una corrija o matice a la otra.\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ni come ni deja comer el tamal que compramos en la esquina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una coordinación copulativa negativa (suma de negaciones)."
+        },
+        {
+          "letter": "B",
+          "text": "El río Magdalena es caudaloso e importante para el transporte nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una coordinación copulativa donde se usa \"e\" por eufonía ante \"importante\"."
+        },
+        {
+          "letter": "C",
+          "text": "El equipo jugó con mucho entusiasmo, sin embargo, perdió el partido por un error final.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nexo \"sin embargo\" introduce una idea que se contrapone a lo expresado inicialmente."
+        },
+        {
+          "letter": "D",
+          "text": "O dejas de hacer ruido con el vallenato o tendré que llamar a la policía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una coordinación disyuntiva que plantea una exclusión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las adversativas utilizan nexos como \"pero\", \"mas\", \"aunque\" (cuando equivale a pero), \"sin embargo\", \"sino que\", para expresar una contrariedad parcial o total entre las proposiciones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle-v4",
+      "statement": "¿En qué situación de la vida cotidiana colombiana usarías una oración coordinada disyuntiva?",
+      "context": "Las oraciones coordinadas disyuntivas plantean una elección entre dos o más opciones que suelen excluirse.\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para contarle a un amigo que fuiste a Monserrate y luego a almorzar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aquí usarías una copulativa para sumar actividades."
+        },
+        {
+          "letter": "B",
+          "text": "Para preguntar a un invitado si desea café con leche o prefiere un chocolate caliente.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nexo \"o\" permite ofrecer alternativas excluyentes."
+        },
+        {
+          "letter": "C",
+          "text": "Para quejarte porque el bus está muy lleno, aunque lograste sentarte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aquí usarías una adversativa para mostrar el contraste."
+        },
+        {
+          "letter": "D",
+          "text": "Para explicar que estás cansado puesto que caminaste mucho por el centro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta relación es de causa, típica de la subordinación o de conectores explicativos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La disyunción implica la necesidad de elegir entre términos. Se utilizan nexos como \"o\", \"u\" (ante palabras que empiezan por o/ho) y \"o bien\".",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la estructura característica de una oración coordinada distributiva?",
+      "context": "Las oraciones coordinadas distributivas presentan acciones alternas que no se excluyen necesariamente.\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Repetición de palabras correlativas al inicio de cada proposición como \"ya... ya\", \"unos... otros\".",
+          "is_correct": true,
+          "feedback": "¡Correcto! Estas palabras funcionan como nexos que reparten o distribuyen las acciones."
+        },
+        {
+          "letter": "B",
+          "text": "Un solo nexo ubicado exactamente en la mitad de la oración larga.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es típico de las copulativas, disyuntivas o adversativas simples."
+        },
+        {
+          "letter": "C",
+          "text": "El uso obligatorio de signos de interrogación para dividir las ideas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La puntuación no define el tipo de coordinación distributiva."
+        },
+        {
+          "letter": "D",
+          "text": "La presencia de un verbo en infinitivo seguido de un adverbio de lugar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La categoría gramatical del verbo no determina la distribución sintáctica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la coordinación distributiva, el nexo suele ser discontinuo o correlativo, marcando una alternancia rítmica o de sentido entre las partes de la oración compuesta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle-v6",
+      "statement": "En la frase \"El español es una lengua romance, es decir, deriva del latín vulgar\", ¿cuál es la función de la segunda proposición?",
+      "context": "Las oraciones coordinadas explicativas sirven para que una proposición aclare o amplíe el sentido de la anterior.\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Negar la información dada en la primera proposición para generar duda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No niega, sino que refuerza y aclara."
+        },
+        {
+          "letter": "B",
+          "text": "Presentar una consecuencia directa e inevitable de la primera afirmación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hay relación, la función principal es aclaratoria o definitoria."
+        },
+        {
+          "letter": "C",
+          "text": "Aclarar o definir el término \"lengua romance\" usado en la primera parte.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nexo \"es decir\" introduce una explicación equivalente."
+        },
+        {
+          "letter": "D",
+          "text": "Establecer una condición necesaria para que se cumpla lo dicho anteriormente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una condición (si...), es una explicación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La coordinación explicativa utiliza locuciones como \"es decir\", \"esto es\", \"o sea\", para reiterar lo dicho con otras palabras que faciliten su comprensión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la diferencia de intención comunicativa entre estas dos oraciones?\n1. \"Llovió fuerte en el Chocó y el río subió de nivel.\"\n2. \"Llovió fuerte en el Chocó, pero el río no subió de nivel.\"",
+      "context": "La elección entre nexos coordinantes cambia la intención comunicativa de quien escribe.\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera expresa una duda y la segunda una certeza absoluta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas son afirmaciones sobre hechos ocurridos."
+        },
+        {
+          "letter": "B",
+          "text": "La primera muestra una secuencia lógica esperada y la segunda una situación inesperada o contraria.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nexo copulativo suma hechos, mientras que el adversativo subraya que no ocurrió lo que se esperaba."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas dicen exactamente lo mismo, solo cambia el estilo de escritura del autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio de \"y\" por \"pero\" y la negación alteran totalmente el sentido lógico de la frase."
+        },
+        {
+          "letter": "D",
+          "text": "La primera oración es falsa porque siempre que llueve fuerte los ríos suben.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El análisis es lingüístico sobre la intención del nexo, no sobre verdades geográficas universales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los nexos coordinantes no solo unen palabras, sino que establecen marcos lógicos (suma vs. oposición) que el lector debe interpretar para comprender la postura del emisor.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle-v8",
+      "statement": "En la oración \"Llegué, vi, vencí\", ¿qué tipo de relación de coordinación se sobreentiende aunque no haya nexos?",
+      "context": "A veces, las oraciones yuxtapuestas pueden tener un sentido de coordinación implícito.\n**Expected_Success:** 0.50",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Coordinación copulativa, ya que se están sumando acciones sucesivas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es una enumeración de hechos que ocurren uno tras otro, funcionando como una suma."
+        },
+        {
+          "letter": "B",
+          "text": "Coordinación adversativa, porque la victoria se opone a la llegada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay oposición entre los términos, sino progresión."
+        },
+        {
+          "letter": "C",
+          "text": "Coordinación disyuntiva, pues el autor debe elegir entre llegar o vencer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay elección, ocurrieron las tres cosas."
+        },
+        {
+          "letter": "D",
+          "text": "Coordinación explicativa, ya que vencer explica por qué se llegó.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Vencer es el resultado final, no una definición de la llegada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La yuxtaposición es la unión de oraciones sin nexos. Sin embargo, lógicamente suelen equivaler a una coordinación copulativa (suma) o a veces a una relación causal.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle-v9",
+      "statement": "Analiza la frase: \"Unos prefieren el tinto, otros el chocolate\". ¿Qué elemento se ha omitido (elipsis) en la segunda proposición y qué tipo de coordinación representa?",
+      "context": "En el habla coloquial colombiana, se utilizan formas de coordinación que a veces omiten elementos para dar rapidez al discurso.\n**Expected_Success:** 0.45",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se omitió el sustantivo \"café\" y es una coordinación adjetiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se omitió café y la coordinación adjetiva no existe en este nivel."
+        },
+        {
+          "letter": "B",
+          "text": "Se omitió el nexo \"pero\" y es una coordinación subordinada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La subordinación y la coordinación son categorías distintas."
+        },
+        {
+          "letter": "C",
+          "text": "Se omitió el verbo \"prefieren\" y es una coordinación distributiva.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El uso de \"unos... otros\" distribuye la acción y la coma sustituye al verbo omitido."
+        },
+        {
+          "letter": "D",
+          "text": "Se omitió el sujeto \"nosotros\" y es una coordinación copulativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sujeto está expreso (otros) y el nexo distributivo es claro."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La elipsis verbal es común en las oraciones compuestas para evitar repeticiones innecesarias. La estructura correlativa \"unos... otros\" es la marca de la distribución.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de las siguientes oraciones está correctamente puntuada siguiendo las normas de la coordinación adversativa con locuciones largas?",
+      "context": "La puntuación en las oraciones coordinadas adversativas largas es fundamental para la claridad del texto.\n**Expected_Success:** 0.40",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El camino hacia la Ciudad Perdida es muy exigente físicamente sin embargo vale la pena el esfuerzo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta puntuación antes y después de la locución adversativa."
+        },
+        {
+          "letter": "B",
+          "text": "El camino hacia la Ciudad Perdida es muy exigente físicamente; sin embargo vale la pena el esfuerzo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta la coma después de \"sin embargo\"."
+        },
+        {
+          "letter": "C",
+          "text": "El camino hacia la Ciudad Perdida es muy exigente físicamente; sin embargo, vale la pena el esfuerzo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Cuando la locución es larga o une proposiciones extensas, se prefiere el punto y coma antes y la coma después."
+        },
+        {
+          "letter": "D",
+          "text": "El camino hacia la Ciudad Perdida, es muy exigente físicamente sin embargo, vale la pena el esfuerzo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se debe poner coma entre el sujeto y el predicado en la primera proposición."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las locuciones conjuntivas adversativas (sin embargo, no obstante, por el contrario) deben ir aisladas por comas. Si las proposiciones que unen son largas, el primer signo debe ser punto y coma para marcar una pausa mayor.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.4,
+      "bundle_id": "CO-LEN-7-2026-W15-coordinacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

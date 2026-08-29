@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-3-grade-9-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.935Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-9-2026-W03-digital-age-001-MASTERY-bundle-v1",
+      "statement": "By the time the computer crashed, I ________ my essay for three hours.",
+      "context": "Describing the sequence of using a computer.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wrote",
+          "is_correct": false,
+          "feedback": "Incorrect. We need a tense that shows an action in progress before another past action."
+        },
+        {
+          "letter": "B",
+          "text": "had written",
+          "is_correct": false,
+          "feedback": "Incorrect. This would mean the writing was finished before the crash, but the duration \"for three hours\" suggests progress."
+        },
+        {
+          "letter": "C",
+          "text": "had been writing",
+          "is_correct": true,
+          "feedback": "Correct! Past Perfect Continuous shows an action that was ongoing up to a point in the past."
+        },
+        {
+          "letter": "D",
+          "text": "have been writing",
+          "is_correct": false,
+          "feedback": "Incorrect. This is Present Perfect Continuous, but the context is the past (\"crashed\")."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Pasado Perfecto Continuo (*had been writing*) se utiliza para expresar la duración de una acción que estaba en progreso hasta que ocurrió otro evento en el pasado (el fallo del ordenador).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W03-digital-age-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W03-digital-age-001-MASTERY-bundle-v2",
+      "statement": "Valentina was exhausted because she ________ all night to finish the coding project.",
+      "context": "Explaining why someone was tired after a digital task.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "worked",
+          "is_correct": false,
+          "feedback": "Incorrect. This is Simple Past and doesn't emphasize the cause of her state."
+        },
+        {
+          "letter": "B",
+          "text": "had been working",
+          "is_correct": true,
+          "feedback": "Correct! Past Perfect Continuous emphasizes the cause of a state in the past."
+        },
+        {
+          "letter": "C",
+          "text": "has been working",
+          "is_correct": false,
+          "feedback": "Incorrect. This would imply she is still working or just finished now."
+        },
+        {
+          "letter": "D",
+          "text": "was working",
+          "is_correct": false,
+          "feedback": "Incorrect. This describes what she was doing at a specific time, not the reason for her exhaustion."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos el Pasado Perfecto Continuo para hablar de una acción pasada que causó una situación o estado también en el pasado (*was exhausted*), resaltando el esfuerzo prolongado.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W03-digital-age-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W03-digital-age-001-MASTERY-bundle-v3",
+      "statement": "Before social media became popular, people ________ emails as their primary way to stay in touch.",
+      "context": "Sequencing two past events in the history of the internet.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "used",
+          "is_correct": false,
+          "feedback": "Incorrect. While possible, Past Perfect is better to clearly show which action happened first."
+        },
+        {
+          "letter": "B",
+          "text": "had used",
+          "is_correct": true,
+          "feedback": "Correct! Past Perfect Simple indicates an action completed before another past event."
+        },
+        {
+          "letter": "C",
+          "text": "have used",
+          "is_correct": false,
+          "feedback": "Incorrect. Present Perfect cannot be used for a completed past period."
+        },
+        {
+          "letter": "D",
+          "text": "were using",
+          "is_correct": false,
+          "feedback": "Incorrect. This emphasizes progress but not the sequence as clearly as Past Perfect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Pasado Perfecto Simple (*had used*) se emplea para clarificar que una acción ocurrió y se completó antes de otro momento o acción en el pasado (*became popular*).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W03-digital-age-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W03-digital-age-001-MASTERY-bundle-v4",
+      "statement": "\"Why didn't you join the Zoom meeting yesterday?\"\n\"I couldn't. I ________ with my internet provider for an hour before they fixed the signal.\"",
+      "context": "A student explaining why they couldn't join a video call.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "talked",
+          "is_correct": false,
+          "feedback": "Incorrect. Doesn't reflect the sequence and duration well."
+        },
+        {
+          "letter": "B",
+          "text": "had been talking",
+          "is_correct": true,
+          "feedback": "Correct! Shows the duration of the struggle before the resolution in the past."
+        },
+        {
+          "letter": "C",
+          "text": "was talking",
+          "is_correct": false,
+          "feedback": "Incorrect. This only shows the action was in progress, but not its relation to the \"fixing\"."
+        },
+        {
+          "letter": "D",
+          "text": "have talked",
+          "is_correct": false,
+          "feedback": "Incorrect. Inappropriate for a specific past context."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Pasado Perfecto Continuo es ideal para describir procesos largos y a veces frustrantes que precedieron a una solución en el pasado.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W03-digital-age-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W03-digital-age-001-MASTERY-bundle-v5",
+      "statement": "The hackers ________ to access the database for weeks when the security team finally detected them.",
+      "context": "Describing a cyber-security incident.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "tried",
+          "is_correct": false,
+          "feedback": "Incorrect. Too simple for an ongoing attempt before a past event."
+        },
+        {
+          "letter": "B",
+          "text": "had tried",
+          "is_correct": false,
+          "feedback": "Incorrect. This would mean they stopped trying before they were detected."
+        },
+        {
+          "letter": "C",
+          "text": "had been trying",
+          "is_correct": true,
+          "feedback": "Correct! Highlights the ongoing attempt that was interrupted by detection."
+        },
+        {
+          "letter": "D",
+          "text": "have been trying",
+          "is_correct": false,
+          "feedback": "Incorrect. Mixed tenses (present vs past)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este tiempo gramatical es muy útil para describir situaciones de vigilancia o intentos repetidos en el pasado que son interrumpidos por otro evento (*detected*).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W03-digital-age-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W03-digital-age-001-MASTERY-bundle-v6",
+      "statement": "By 2015, many Colombian artists ________ their music to streaming platforms to reach a global audience.",
+      "context": "Discussing the evolution of music streaming.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "had uploaded",
+          "is_correct": true,
+          "feedback": "Correct! Past Perfect for a completed action before a specific point in time (*By 2015*)."
+        },
+        {
+          "letter": "B",
+          "text": "have uploaded",
+          "is_correct": false,
+          "feedback": "Incorrect. Present Perfect refers to a time up to now, not a past deadline."
+        },
+        {
+          "letter": "C",
+          "text": "were uploading",
+          "is_correct": false,
+          "feedback": "Incorrect. This focuses on the process, not the completion by the date."
+        },
+        {
+          "letter": "D",
+          "text": "uploaded",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple Past doesn't show the \"before then\" relationship."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La preposición *By* seguida de una fecha pasada es una señal clara de que debemos usar el Pasado Perfecto para indicar que la acción ya se había realizado antes de ese límite.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W03-digital-age-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W03-digital-age-001-MASTERY-bundle-v7",
+      "statement": "Which sentence suggests that the digital project was **finished** before the deadline?",
+      "context": "Comparing Past Perfect Simple and Continuous.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When the deadline arrived, Juan had already finished the website.",
+          "is_correct": true,
+          "feedback": "Correct! Past Perfect Simple shows completion."
+        },
+        {
+          "letter": "B",
+          "text": "When the deadline arrived, Juan had been working on the website.",
+          "is_correct": false,
+          "feedback": "Incorrect. This implies he was still working on it."
+        },
+        {
+          "letter": "C",
+          "text": "When the deadline arrived, Juan was finishing the website.",
+          "is_correct": false,
+          "feedback": "Incorrect. This means he was in the middle of it."
+        },
+        {
+          "letter": "D",
+          "text": "When the deadline arrived, Juan finished the website.",
+          "is_correct": false,
+          "feedback": "Incorrect. This suggests he finished it at the same time or just after."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Pasado Perfecto Simple (*had finished*) enfatiza el resultado y la finalización, mientras que el Continuo (*had been working*) enfatiza el proceso y la duración.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W03-digital-age-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W03-digital-age-001-MASTERY-bundle-v8",
+      "statement": "\"The app didn't work because I ________ the latest update.\"",
+      "context": "Understanding causal relationships in technology failure.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "didn't download",
+          "is_correct": false,
+          "feedback": "Incorrect. Both actions are in Simple Past, which doesn't show the priority."
+        },
+        {
+          "letter": "B",
+          "text": "hadn't downloaded",
+          "is_correct": true,
+          "feedback": "Correct! The failure to download happened before the app failed to work."
+        },
+        {
+          "letter": "C",
+          "text": "wasn't downloading",
+          "is_correct": false,
+          "feedback": "Incorrect. This implies a continuous action that wasn't happening."
+        },
+        {
+          "letter": "D",
+          "text": "haven't downloaded",
+          "is_correct": false,
+          "feedback": "Incorrect. Present Perfect doesn't fit the past context of \"didn't work\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos el Pasado Perfecto para explicar la causa de algo que sucedió después en el pasado. La falta de descarga (*hadn't downloaded*) fue el motivo previo del error.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W03-digital-age-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W03-digital-age-001-MASTERY-bundle-v9",
+      "statement": "After the company ________ its new smartphone, they realized that they ________ to include the charger in the box.",
+      "context": "Distinguishing between multiple past events.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "launched / forgot",
+          "is_correct": false,
+          "feedback": "Incorrect. Doesn't show the full sequence clearly."
+        },
+        {
+          "letter": "B",
+          "text": "had launched / have forgotten",
+          "is_correct": false,
+          "feedback": "Incorrect. Mixed past and present."
+        },
+        {
+          "letter": "C",
+          "text": "had launched / had forgotten",
+          "is_correct": true,
+          "feedback": "Correct! Both actions happened before the realization."
+        },
+        {
+          "letter": "D",
+          "text": "was launching / were forgetting",
+          "is_correct": false,
+          "feedback": "Incorrect. Doesn't reflect completion."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando tenemos una serie de eventos pasados, usamos el Pasado Perfecto para marcar las acciones que ocurrieron antes de la acción principal del relato (*realized*).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W03-digital-age-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W03-digital-age-001-MASTERY-bundle-v10",
+      "statement": "Identify the error in this paragraph:\n\"Before the first personal computer **appeared** (A), scientists **had already been using** (B) large machines for calculations. These early computers **had occupied** (C) entire rooms and **had required** (D) a lot of electricity.\"",
+      "context": "Finding an error in a text about the history of computers.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "appeared",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the correct past reference point."
+        },
+        {
+          "letter": "B",
+          "text": "had already been using",
+          "is_correct": false,
+          "feedback": "Incorrect. This correctly describes the ongoing use before the PC."
+        },
+        {
+          "letter": "C",
+          "text": "had occupied",
+          "is_correct": true,
+          "feedback": "Incorrect. This should be Simple Past (*occupied*) because it describes a permanent state/fact of those machines, not a sequence of events."
+        },
+        {
+          "letter": "D",
+          "text": "had required",
+          "is_correct": false,
+          "feedback": "Incorrect. Similar to C, Simple Past (*required*) is better for general characteristics in the past."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "No todas las acciones en el pasado necesitan el Pasado Perfecto. Para descripciones de características o estados permanentes en el pasado, el *Simple Past* es la forma estándar.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-9-2026-W03-digital-age-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W03-digital-age-001-MASTERY-bundle-v11",
+      "statement": "Which explanation is most likely from someone who is **frustrated** by a lost file?",
+      "context": "Judging the best explanation for a digital mistake.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I lost the file because I forgot to save it.",
+          "is_correct": false,
+          "feedback": "Incorrect. A neutral statement of fact."
+        },
+        {
+          "letter": "B",
+          "text": "I had been working on that file for three hours when the power went out and I lost everything!",
+          "is_correct": true,
+          "feedback": "Correct! The Past Perfect Continuous emphasizes the wasted effort and time."
+        },
+        {
+          "letter": "C",
+          "text": "I had already saved the file when the power went out.",
+          "is_correct": false,
+          "feedback": "Incorrect. This implies the file is safe."
+        },
+        {
+          "letter": "D",
+          "text": "I have been losing files all day.",
+          "is_correct": false,
+          "feedback": "Incorrect. Present Perfect doesn't explain the specific past loss as well."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A nivel B2, el estudiante debe reconocer que el Pasado Perfecto Continuo no solo indica tiempo, sino que a menudo añade un matiz emocional sobre el esfuerzo invertido en una tarea.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-9-2026-W03-digital-age-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W03-digital-age-001-MASTERY-bundle-v12",
+      "statement": "\"Before the pandemic started, most companies ________ the idea of remote work, but they soon realized they ________ no choice but to adapt.\"",
+      "context": "Choosing the best conclusion for a text about connectivity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "had rejected / have",
+          "is_correct": false,
+          "feedback": "Incorrect. Tenses don't match."
+        },
+        {
+          "letter": "B",
+          "text": "had rejected / had",
+          "is_correct": true,
+          "feedback": "Correct! Rejection happened before the pandemic, and the realization followed."
+        },
+        {
+          "letter": "C",
+          "text": "rejected / had rejected",
+          "is_correct": false,
+          "feedback": "Incorrect. The sequence is inverted."
+        },
+        {
+          "letter": "D",
+          "text": "were rejecting / were having",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Have\" (possession) is a stative verb."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esta pregunta requiere evaluar el orden cronológico lógico: primero se rechaza una idea (*had rejected*), luego llega un cambio externo, y finalmente se tiene una necesidad (*had*).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-9-2026-W03-digital-age-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

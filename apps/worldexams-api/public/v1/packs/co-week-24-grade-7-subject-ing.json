@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-24-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.900Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W24-healthy-lifestyle-001-v1",
+      "statement": "Which verb means to move your body to stay fit and healthy?",
+      "context": "Identifying health-related verbs.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sleep",
+          "is_correct": false,
+          "feedback": "Incorrect. Sleep is for rest."
+        },
+        {
+          "letter": "B",
+          "text": "Exercise",
+          "is_correct": true,
+          "feedback": "Correct! To exercise is to perform physical activity for health."
+        },
+        {
+          "letter": "C",
+          "text": "Eat",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to nutrition."
+        },
+        {
+          "letter": "D",
+          "text": "Watch",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a sedentary activity."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies basic vocabulary for healthy living.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W24-healthy-lifestyle-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W24-healthy-lifestyle-002-v1",
+      "statement": "Which of these is considered a healthy habit?",
+      "context": "Identifying a healthy habit.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Drinking soda every day.",
+          "is_correct": false,
+          "feedback": "Incorrect. High sugar is unhealthy."
+        },
+        {
+          "letter": "B",
+          "text": "Sleeping 8 hours a night.",
+          "is_correct": true,
+          "feedback": "Correct! Proper rest is essential for health."
+        },
+        {
+          "letter": "C",
+          "text": "Playing video games for 10 hours.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is too much sedentary time."
+        },
+        {
+          "letter": "D",
+          "text": "Skipping breakfast.",
+          "is_correct": false,
+          "feedback": "Incorrect. Breakfast is an important meal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies specific practices that contribute to a healthy lifestyle.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W24-healthy-lifestyle-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W24-healthy-lifestyle-003-v1",
+      "statement": "\"I feel very tired all the time. What should I do?\"",
+      "context": "Responding to a health-related question.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You should eat more candy.",
+          "is_correct": false,
+          "feedback": "Incorrect. Sugar gives a quick spike but doesn't solve chronic tiredness."
+        },
+        {
+          "letter": "B",
+          "text": "You should sleep more and eat healthy food.",
+          "is_correct": true,
+          "feedback": "Correct! These are standard recommendations for improving energy levels."
+        },
+        {
+          "letter": "C",
+          "text": "You should watch more TV.",
+          "is_correct": false,
+          "feedback": "Incorrect. This won't help with being tired."
+        },
+        {
+          "letter": "D",
+          "text": "You should drink less water.",
+          "is_correct": false,
+          "feedback": "Incorrect. Hydration is necessary for energy."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands and selects appropriate health advice based on a described state.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmatic Matching",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W24-healthy-lifestyle-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W24-healthy-lifestyle-004-v1",
+      "statement": "\"Regular exercise ________ your heart and makes your muscles stronger.\"",
+      "context": "Describing the benefits of exercise.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "weakens",
+          "is_correct": false,
+          "feedback": "Incorrect. Weakens means to make less strong."
+        },
+        {
+          "letter": "B",
+          "text": "strengthens",
+          "is_correct": true,
+          "feedback": "Correct! Exercise makes the heart and muscles stronger."
+        },
+        {
+          "letter": "C",
+          "text": "breaks",
+          "is_correct": false,
+          "feedback": "Incorrect. Exercise doesn't break a healthy heart."
+        },
+        {
+          "letter": "D",
+          "text": "ignores",
+          "is_correct": false,
+          "feedback": "Incorrect. Doesn't fit the context."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the causal relationship between exercise and physical benefits.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W24-healthy-lifestyle-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W24-healthy-lifestyle-005-v1",
+      "statement": "\"To stay healthy, you should be active at ________ thirty minutes a day.\"",
+      "context": "Talking about frequency of physical activity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "most",
+          "is_correct": false,
+          "feedback": "Incorrect. \"At most\" would limit the healthy activity."
+        },
+        {
+          "letter": "B",
+          "text": "least",
+          "is_correct": true,
+          "feedback": "Correct! \"At least\" indicates the minimum recommended time."
+        },
+        {
+          "letter": "C",
+          "text": "last",
+          "is_correct": false,
+          "feedback": "Incorrect. Not the correct expression."
+        },
+        {
+          "letter": "D",
+          "text": "less",
+          "is_correct": false,
+          "feedback": "Incorrect. We want more activity, not less."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies the expression \"at least\" in the context of health recommendations.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W24-healthy-lifestyle-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W24-healthy-lifestyle-006-v1",
+      "statement": "According to the text, what is one benefit of 'Wellness Wednesday'?",
+      "context": "A description of a school's wellness program.\n\"Our school has a 'Wellness Wednesday'. Students play sports, practice meditation, and learn about nutrition. It helps them reduce stress and stay focused.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It makes students more tired.",
+          "is_correct": false,
+          "feedback": "Incorrect. Not mentioned."
+        },
+        {
+          "letter": "B",
+          "text": "It helps students reduce stress.",
+          "is_correct": true,
+          "feedback": "Correct! The text explicitly mentions \"reduce stress\"."
+        },
+        {
+          "letter": "C",
+          "text": "It is only about eating fruit.",
+          "is_correct": false,
+          "feedback": "Incorrect. It also includes sports and meditation."
+        },
+        {
+          "letter": "D",
+          "text": "It happens every day.",
+          "is_correct": false,
+          "feedback": "Incorrect. It is only on Wednesdays."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies reading comprehension skills to identify specific benefits mentioned in a text.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W24-healthy-lifestyle-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W24-healthy-lifestyle-007-v1",
+      "statement": "\"If you want to have a healthy lifestyle, you ________ smoke.\"",
+      "context": "Using \"should\" for healthy advice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "Incorrect. Smoking is unhealthy."
+        },
+        {
+          "letter": "B",
+          "text": "shouldn't",
+          "is_correct": true,
+          "feedback": "Correct! \"Shouldn't\" is the negative advice for unhealthy habits."
+        },
+        {
+          "letter": "C",
+          "text": "must",
+          "is_correct": false,
+          "feedback": "Incorrect. This would be an obligation to do something unhealthy."
+        },
+        {
+          "letter": "D",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically wrong in this context."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies the modal verb \"shouldn't\" to provide negative health advice.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W24-healthy-lifestyle-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W24-healthy-lifestyle-008-v1",
+      "statement": "Is this a balanced and healthy daily schedule?",
+      "context": "Analyzing a daily schedule for health.\n\"7:00 AM: Jogging / 8:00 AM: Fruit breakfast / 1:00 PM: Salad and chicken / 4:00 PM: 2 hours of video games / 9:00 PM: Bedtime\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, it includes exercise, healthy meals, rest, and a little leisure time.",
+          "is_correct": true,
+          "feedback": "Correct! It covers multiple pillars of health."
+        },
+        {
+          "letter": "B",
+          "text": "No, because video games are always unhealthy.",
+          "is_correct": false,
+          "feedback": "Incorrect. In moderation (2 hours), they can be part of a balanced day."
+        },
+        {
+          "letter": "C",
+          "text": "No, because there is no lunch.",
+          "is_correct": false,
+          "feedback": "Incorrect. The 1:00 PM meal is lunch."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, because jogging is the only thing that matters.",
+          "is_correct": false,
+          "feedback": "Incorrect. Nutrition and rest are also important."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student analyzes a schedule to determine if it meets the criteria for a balanced lifestyle.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W24-healthy-lifestyle-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W24-healthy-lifestyle-009-v1",
+      "statement": "Choose the most logical sentence.",
+      "context": "Identifying the logical result of an unhealthy habit.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because I exercise every day, I feel very weak.",
+          "is_correct": false,
+          "feedback": "Incorrect. Exercise usually makes you feel stronger."
+        },
+        {
+          "letter": "B",
+          "text": "Because I drink a lot of water, I stay hydrated during sports.",
+          "is_correct": true,
+          "feedback": "Correct! Logical cause-and-effect relationship."
+        },
+        {
+          "letter": "C",
+          "text": "Because I sleep only 3 hours, I am very focused in class.",
+          "is_correct": false,
+          "feedback": "Incorrect. Lack of sleep causes lack of focus."
+        },
+        {
+          "letter": "D",
+          "text": "Because I eat too much sugar, my teeth are very healthy.",
+          "is_correct": false,
+          "feedback": "Incorrect. Sugar is bad for teeth."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes the logical consistency of sentences related to health and habits.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W24-healthy-lifestyle-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W24-healthy-lifestyle-010-v1",
+      "statement": "What is the author's main point in this text?",
+      "context": "Evaluating an opinion about mental health.\n\"Health is not just about the body. A healthy lifestyle also includes having positive relationships, managing your time well, and being kind to yourself.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You only need to exercise to be healthy.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says it's \"not just about the body\"."
+        },
+        {
+          "letter": "B",
+          "text": "Being kind is more important than eating vegetables.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text suggests a combination, not one over the other."
+        },
+        {
+          "letter": "C",
+          "text": "A healthy lifestyle is a combination of physical and mental well-being.",
+          "is_correct": true,
+          "feedback": "Correct! The text emphasizes that health goes beyond the physical aspect."
+        },
+        {
+          "letter": "D",
+          "text": "Time management is the most difficult part of health.",
+          "is_correct": false,
+          "feedback": "Incorrect. Not mentioned as \"difficult\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student evaluates a more complex definition of health that includes mental and social components.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W24-healthy-lifestyle-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

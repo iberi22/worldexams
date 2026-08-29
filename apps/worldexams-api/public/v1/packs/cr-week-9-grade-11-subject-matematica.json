@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "cr",
+    "pack_id": "cr-week-9-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:41:05.372Z"
+  },
+  "questions": [
+    {
+      "id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v1",
+      "statement": "Considere la ecuación de una circunferencia en el plano cartesiano dada por $x^2 + y^2 = 25$ e interséquela con la recta horizontal $y = 3$. ¿Cuáles son los puntos de intersección?",
+      "context": "En San José, Ana está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(-3, 4) y (3, 4)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se intercambian los valores de las variables $x$ e $y$ de manera equivocada al formular los pares ordenados."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 5) y (0, -5)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que la parábola y la recta se cortan sin verificar algebraicamente la existencia de raíces reales en la ecuación resultante."
+        },
+        {
+          "letter": "C",
+          "text": "(-4, 3) y (4, 3)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta porque cumple simultáneamente con ambas ecuaciones del sistema no lineal de forma analítica."
+        },
+        {
+          "letter": "D",
+          "text": "(-5, 3) y (5, 3)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error básico al calcular la raíz cuadrada de la constante de la ecuación de la circunferencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Sustituimos la recta $y = 3$ en la ecuación de la circunferencia $x^2 + y^2 = 25$: $x^2 + 3^2 = 25 \\Rightarrow x^2 + 9 = 25 \\Rightarrow x^2 = 16 \\Rightarrow x = \\pm 4$. Esto nos genera dos puntos de intersección reales en el plano cartesiano, cuyos valores de abscisa son $x = -4$ y $x = 4$, asociados al mismo valor de ordenada $y = 3$. Por lo tanto, los puntos son $(-4, 3)$ y $(4, 3)$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v2",
+      "statement": "Determine la cantidad de puntos de intersección reales que existen entre la parábola de ecuación $y = x^2 + 5$ y la recta horizontal $y = 2$.",
+      "context": "En Alajuela, Sofía está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tienen exactamente un punto de intersección",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se intercambian los valores de las variables $x$ e $y$ de manera equivocada al formular los pares ordenados."
+        },
+        {
+          "letter": "B",
+          "text": "Tienen exactamente dos puntos de intersección",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que la parábola y la recta se cortan sin verificar algebraicamente la existencia de raíces reales en la ecuación resultante."
+        },
+        {
+          "letter": "C",
+          "text": "Tienen infinitos puntos de intersección",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error básico al calcular la raíz cuadrada de la constante de la ecuación de la circunferencia."
+        },
+        {
+          "letter": "D",
+          "text": "No tienen puntos de intersección en los números reales",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta porque cumple simultáneamente con ambas ecuaciones del sistema no lineal de forma analítica."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Igualamos las dos ecuaciones para hallar las abscisas de los puntos de intersección: $x^2 + 5 = 2 \\Rightarrow x^2 = -3$. Dado que ningún número real elevado al cuadrado resulta en un valor negativo ($x^2 \\geq 0$ para todo $x \\in \\mathbb{R}$), esta ecuación no posee soluciones reales. Por lo tanto, la parábola y la recta horizontal no tienen ningún punto de intersección en el plano real.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.83,
+      "bundle_id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v3",
+      "statement": "Resuelva el sistema de ecuaciones no lineales:\n$$\\begin{cases} y = x^2 \\\\ y = x + 2 \\end{cases}$$\n¿Cuál de los siguientes pares ordenados representa una solución real del sistema?",
+      "context": "En Cartago, Carlos está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(2, 4)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta porque cumple simultáneamente con ambas ecuaciones del sistema no lineal de forma analítica."
+        },
+        {
+          "letter": "B",
+          "text": "(1, 1)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se intercambian los valores de las variables $x$ e $y$ de manera equivocada al formular los pares ordenados."
+        },
+        {
+          "letter": "C",
+          "text": "(0, 2)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que la parábola y la recta se cortan sin verificar algebraicamente la existencia de raíces reales en la ecuación resultante."
+        },
+        {
+          "letter": "D",
+          "text": "(3, 9)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error básico al calcular la raíz cuadrada de la constante de la ecuación de la circunferencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver el sistema por igualación, igualamos las dos expresiones para $y$: $x^2 = x + 2 \\Rightarrow x^2 - x - 2 = 0$. Factorizando la ecuación cuadrática obtenida: $(x - 2)(x + 1) = 0$. Esto nos proporciona dos posibles coordenadas $x$: $x = 2 \\Rightarrow y = 2+2=4$ (punto $(2,4)$), y $x = -1 \\Rightarrow y = -1+2=1$ (punto $(-1,1)$). Por lo tanto, el punto $(2, 4)$ representa una solución válida para el sistema.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v4",
+      "statement": "Considere la ecuación de una circunferencia en el plano cartesiano dada por $x^2 + y^2 = 25$ e interséquela con la recta horizontal $y = 3$. ¿Cuáles son los puntos de intersección?",
+      "context": "En Heredia, Elena está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(-3, 4) y (3, 4)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se intercambian los valores de las variables $x$ e $y$ de manera equivocada al formular los pares ordenados."
+        },
+        {
+          "letter": "B",
+          "text": "(-4, 3) y (4, 3)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta porque cumple simultáneamente con ambas ecuaciones del sistema no lineal de forma analítica."
+        },
+        {
+          "letter": "C",
+          "text": "(0, 5) y (0, -5)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que la parábola y la recta se cortan sin verificar algebraicamente la existencia de raíces reales en la ecuación resultante."
+        },
+        {
+          "letter": "D",
+          "text": "(-5, 3) y (5, 3)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error básico al calcular la raíz cuadrada de la constante de la ecuación de la circunferencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sustituimos la recta $y = 3$ en la ecuación de la circunferencia $x^2 + y^2 = 25$: $x^2 + 3^2 = 25 \\Rightarrow x^2 + 9 = 25 \\Rightarrow x^2 = 16 \\Rightarrow x = \\pm 4$. Esto nos genera dos puntos de intersección reales en el plano cartesiano, cuyos valores de abscisa son $x = -4$ y $x = 4$, asociados al mismo valor de ordenada $y = 3$. Por lo tanto, los puntos son $(-4, 3)$ y $(4, 3)$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.78,
+      "bundle_id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v5",
+      "statement": "Determine la cantidad de puntos de intersección reales que existen entre la parábola de ecuación $y = x^2 + 5$ y la recta horizontal $y = 2$.",
+      "context": "En Liberia, Javier está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tienen exactamente un punto de intersección",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se intercambian los valores de las variables $x$ e $y$ de manera equivocada al formular los pares ordenados."
+        },
+        {
+          "letter": "B",
+          "text": "Tienen exactamente dos puntos de intersección",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que la parábola y la recta se cortan sin verificar algebraicamente la existencia de raíces reales en la ecuación resultante."
+        },
+        {
+          "letter": "C",
+          "text": "No tienen puntos de intersección en los números reales",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta porque cumple simultáneamente con ambas ecuaciones del sistema no lineal de forma analítica."
+        },
+        {
+          "letter": "D",
+          "text": "Tienen infinitos puntos de intersección",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error básico al calcular la raíz cuadrada de la constante de la ecuación de la circunferencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Igualamos las dos ecuaciones para hallar las abscisas de los puntos de intersección: $x^2 + 5 = 2 \\Rightarrow x^2 = -3$. Dado que ningún número real elevado al cuadrado resulta en un valor negativo ($x^2 \\geq 0$ para todo $x \\in \\mathbb{R}$), esta ecuación no posee soluciones reales. Por lo tanto, la parábola y la recta horizontal no tienen ningún punto de intersección en el plano real.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v6",
+      "statement": "Resuelva el sistema de ecuaciones no lineales:\n$$\\begin{cases} y = x^2 \\\\ y = x + 2 \\end{cases}$$\n¿Cuál de los siguientes pares ordenados representa una solución real del sistema?",
+      "context": "En Puntarenas, Natalia está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1, 1)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se intercambian los valores de las variables $x$ e $y$ de manera equivocada al formular los pares ordenados."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 2)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que la parábola y la recta se cortan sin verificar algebraicamente la existencia de raíces reales en la ecuación resultante."
+        },
+        {
+          "letter": "C",
+          "text": "(3, 9)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error básico al calcular la raíz cuadrada de la constante de la ecuación de la circunferencia."
+        },
+        {
+          "letter": "D",
+          "text": "(2, 4)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta porque cumple simultáneamente con ambas ecuaciones del sistema no lineal de forma analítica."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para resolver el sistema por igualación, igualamos las dos expresiones para $y$: $x^2 = x + 2 \\Rightarrow x^2 - x - 2 = 0$. Factorizando la ecuación cuadrática obtenida: $(x - 2)(x + 1) = 0$. Esto nos proporciona dos posibles coordenadas $x$: $x = 2 \\Rightarrow y = 2+2=4$ (punto $(2,4)$), y $x = -1 \\Rightarrow y = -1+2=1$ (punto $(-1,1)$). Por lo tanto, el punto $(2, 4)$ representa una solución válida para el sistema.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v7",
+      "statement": "Considere la ecuación de una circunferencia en el plano cartesiano dada por $x^2 + y^2 = 25$ e interséquela con la recta horizontal $y = 3$. ¿Cuáles son los puntos de intersección?",
+      "context": "En Limón, Esteban está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(-4, 3) y (4, 3)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta porque cumple simultáneamente con ambas ecuaciones del sistema no lineal de forma analítica."
+        },
+        {
+          "letter": "B",
+          "text": "(-3, 4) y (3, 4)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se intercambian los valores de las variables $x$ e $y$ de manera equivocada al formular los pares ordenados."
+        },
+        {
+          "letter": "C",
+          "text": "(0, 5) y (0, -5)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que la parábola y la recta se cortan sin verificar algebraicamente la existencia de raíces reales en la ecuación resultante."
+        },
+        {
+          "letter": "D",
+          "text": "(-5, 3) y (5, 3)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error básico al calcular la raíz cuadrada de la constante de la ecuación de la circunferencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sustituimos la recta $y = 3$ en la ecuación de la circunferencia $x^2 + y^2 = 25$: $x^2 + 3^2 = 25 \\Rightarrow x^2 + 9 = 25 \\Rightarrow x^2 = 16 \\Rightarrow x = \\pm 4$. Esto nos genera dos puntos de intersección reales en el plano cartesiano, cuyos valores de abscisa son $x = -4$ y $x = 4$, asociados al mismo valor de ordenada $y = 3$. Por lo tanto, los puntos son $(-4, 3)$ y $(4, 3)$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v8",
+      "statement": "Determine la cantidad de puntos de intersección reales que existen entre la parábola de ecuación $y = x^2 + 5$ y la recta horizontal $y = 2$.",
+      "context": "En San Carlos, Gabriel está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tienen exactamente un punto de intersección",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se intercambian los valores de las variables $x$ e $y$ de manera equivocada al formular los pares ordenados."
+        },
+        {
+          "letter": "B",
+          "text": "No tienen puntos de intersección en los números reales",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta porque cumple simultáneamente con ambas ecuaciones del sistema no lineal de forma analítica."
+        },
+        {
+          "letter": "C",
+          "text": "Tienen exactamente dos puntos de intersección",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que la parábola y la recta se cortan sin verificar algebraicamente la existencia de raíces reales en la ecuación resultante."
+        },
+        {
+          "letter": "D",
+          "text": "Tienen infinitos puntos de intersección",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error básico al calcular la raíz cuadrada de la constante de la ecuación de la circunferencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Igualamos las dos ecuaciones para hallar las abscisas de los puntos de intersección: $x^2 + 5 = 2 \\Rightarrow x^2 = -3$. Dado que ningún número real elevado al cuadrado resulta en un valor negativo ($x^2 \\geq 0$ para todo $x \\in \\mathbb{R}$), esta ecuación no posee soluciones reales. Por lo tanto, la parábola y la recta horizontal no tienen ningún punto de intersección en el plano real.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.68,
+      "bundle_id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v9",
+      "statement": "Resuelva el sistema de ecuaciones no lineales:\n$$\\begin{cases} y = x^2 \\\\ y = x + 2 \\end{cases}$$\n¿Cuál de los siguientes pares ordenados representa una solución real del sistema?",
+      "context": "En Pérez Zeledón, Luis está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1, 1)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se intercambian los valores de las variables $x$ e $y$ de manera equivocada al formular los pares ordenados."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 2)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que la parábola y la recta se cortan sin verificar algebraicamente la existencia de raíces reales en la ecuación resultante."
+        },
+        {
+          "letter": "C",
+          "text": "(2, 4)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta porque cumple simultáneamente con ambas ecuaciones del sistema no lineal de forma analítica."
+        },
+        {
+          "letter": "D",
+          "text": "(3, 9)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error básico al calcular la raíz cuadrada de la constante de la ecuación de la circunferencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para resolver el sistema por igualación, igualamos las dos expresiones para $y$: $x^2 = x + 2 \\Rightarrow x^2 - x - 2 = 0$. Factorizando la ecuación cuadrática obtenida: $(x - 2)(x + 1) = 0$. Esto nos proporciona dos posibles coordenadas $x$: $x = 2 \\Rightarrow y = 2+2=4$ (punto $(2,4)$), y $x = -1 \\Rightarrow y = -1+2=1$ (punto $(-1,1)$). Por lo tanto, el punto $(2, 4)$ representa una solución válida para el sistema.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v10",
+      "statement": "Considere la ecuación de una circunferencia en el plano cartesiano dada por $x^2 + y^2 = 25$ e interséquela con la recta horizontal $y = 3$. ¿Cuáles son los puntos de intersección?",
+      "context": "En Escazú, Valentina está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(-3, 4) y (3, 4)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se intercambian los valores de las variables $x$ e $y$ de manera equivocada al formular los pares ordenados."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 5) y (0, -5)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que la parábola y la recta se cortan sin verificar algebraicamente la existencia de raíces reales en la ecuación resultante."
+        },
+        {
+          "letter": "C",
+          "text": "(-5, 3) y (5, 3)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error básico al calcular la raíz cuadrada de la constante de la ecuación de la circunferencia."
+        },
+        {
+          "letter": "D",
+          "text": "(-4, 3) y (4, 3)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta porque cumple simultáneamente con ambas ecuaciones del sistema no lineal de forma analítica."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Sustituimos la recta $y = 3$ en la ecuación de la circunferencia $x^2 + y^2 = 25$: $x^2 + 3^2 = 25 \\Rightarrow x^2 + 9 = 25 \\Rightarrow x^2 = 16 \\Rightarrow x = \\pm 4$. Esto nos genera dos puntos de intersección reales en el plano cartesiano, cuyos valores de abscisa son $x = -4$ y $x = 4$, asociados al mismo valor de ordenada $y = 3$. Por lo tanto, los puntos son $(-4, 3)$ y $(4, 3)$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.63,
+      "bundle_id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v11",
+      "statement": "Determine la cantidad de puntos de intersección reales que existen entre la parábola de ecuación $y = x^2 + 5$ y la recta horizontal $y = 2$.",
+      "context": "En San José, Sebastián está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tienen puntos de intersección en los números reales",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta porque cumple simultáneamente con ambas ecuaciones del sistema no lineal de forma analítica."
+        },
+        {
+          "letter": "B",
+          "text": "Tienen exactamente un punto de intersección",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se intercambian los valores de las variables $x$ e $y$ de manera equivocada al formular los pares ordenados."
+        },
+        {
+          "letter": "C",
+          "text": "Tienen exactamente dos puntos de intersección",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que la parábola y la recta se cortan sin verificar algebraicamente la existencia de raíces reales en la ecuación resultante."
+        },
+        {
+          "letter": "D",
+          "text": "Tienen infinitos puntos de intersección",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error básico al calcular la raíz cuadrada de la constante de la ecuación de la circunferencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Igualamos las dos ecuaciones para hallar las abscisas de los puntos de intersección: $x^2 + 5 = 2 \\Rightarrow x^2 = -3$. Dado que ningún número real elevado al cuadrado resulta en un valor negativo ($x^2 \\geq 0$ para todo $x \\in \\mathbb{R}$), esta ecuación no posee soluciones reales. Por lo tanto, la parábola y la recta horizontal no tienen ningún punto de intersección en el plano real.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v12",
+      "statement": "Resuelva el sistema de ecuaciones no lineales:\n$$\\begin{cases} y = x^2 \\\\ y = x + 2 \\end{cases}$$\n¿Cuál de los siguientes pares ordenados representa una solución real del sistema?",
+      "context": "En Alajuela, Keylor está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1, 1)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se intercambian los valores de las variables $x$ e $y$ de manera equivocada al formular los pares ordenados."
+        },
+        {
+          "letter": "B",
+          "text": "(2, 4)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta porque cumple simultáneamente con ambas ecuaciones del sistema no lineal de forma analítica."
+        },
+        {
+          "letter": "C",
+          "text": "(0, 2)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que la parábola y la recta se cortan sin verificar algebraicamente la existencia de raíces reales en la ecuación resultante."
+        },
+        {
+          "letter": "D",
+          "text": "(3, 9)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error básico al calcular la raíz cuadrada de la constante de la ecuación de la circunferencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para resolver el sistema por igualación, igualamos las dos expresiones para $y$: $x^2 = x + 2 \\Rightarrow x^2 - x - 2 = 0$. Factorizando la ecuación cuadrática obtenida: $(x - 2)(x + 1) = 0$. Esto nos proporciona dos posibles coordenadas $x$: $x = 2 \\Rightarrow y = 2+2=4$ (punto $(2,4)$), y $x = -1 \\Rightarrow y = -1+2=1$ (punto $(-1,1)$). Por lo tanto, el punto $(2, 4)$ representa una solución válida para el sistema.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v13",
+      "statement": "Considere la ecuación de una circunferencia en el plano cartesiano dada por $x^2 + y^2 = 25$ e interséquela con la recta horizontal $y = 3$. ¿Cuáles son los puntos de intersección?",
+      "context": "En Cartago, Andrey está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(-3, 4) y (3, 4)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se intercambian los valores de las variables $x$ e $y$ de manera equivocada al formular los pares ordenados."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 5) y (0, -5)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que la parábola y la recta se cortan sin verificar algebraicamente la existencia de raíces reales en la ecuación resultante."
+        },
+        {
+          "letter": "C",
+          "text": "(-4, 3) y (4, 3)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta porque cumple simultáneamente con ambas ecuaciones del sistema no lineal de forma analítica."
+        },
+        {
+          "letter": "D",
+          "text": "(-5, 3) y (5, 3)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error básico al calcular la raíz cuadrada de la constante de la ecuación de la circunferencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Sustituimos la recta $y = 3$ en la ecuación de la circunferencia $x^2 + y^2 = 25$: $x^2 + 3^2 = 25 \\Rightarrow x^2 + 9 = 25 \\Rightarrow x^2 = 16 \\Rightarrow x = \\pm 4$. Esto nos genera dos puntos de intersección reales en el plano cartesiano, cuyos valores de abscisa son $x = -4$ y $x = 4$, asociados al mismo valor de ordenada $y = 3$. Por lo tanto, los puntos son $(-4, 3)$ y $(4, 3)$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v14",
+      "statement": "Determine la cantidad de puntos de intersección reales que existen entre la parábola de ecuación $y = x^2 + 5$ y la recta horizontal $y = 2$.",
+      "context": "En Heredia, María está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tienen exactamente un punto de intersección",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se intercambian los valores de las variables $x$ e $y$ de manera equivocada al formular los pares ordenados."
+        },
+        {
+          "letter": "B",
+          "text": "Tienen exactamente dos puntos de intersección",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que la parábola y la recta se cortan sin verificar algebraicamente la existencia de raíces reales en la ecuación resultante."
+        },
+        {
+          "letter": "C",
+          "text": "Tienen infinitos puntos de intersección",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error básico al calcular la raíz cuadrada de la constante de la ecuación de la circunferencia."
+        },
+        {
+          "letter": "D",
+          "text": "No tienen puntos de intersección en los números reales",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta porque cumple simultáneamente con ambas ecuaciones del sistema no lineal de forma analítica."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Igualamos las dos ecuaciones para hallar las abscisas de los puntos de intersección: $x^2 + 5 = 2 \\Rightarrow x^2 = -3$. Dado que ningún número real elevado al cuadrado resulta en un valor negativo ($x^2 \\geq 0$ para todo $x \\in \\mathbb{R}$), esta ecuación no posee soluciones reales. Por lo tanto, la parábola y la recta horizontal no tienen ningún punto de intersección en el plano real.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.53,
+      "bundle_id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v15",
+      "statement": "Resuelva el sistema de ecuaciones no lineales:\n$$\\begin{cases} y = x^2 \\\\ y = x + 2 \\end{cases}$$\n¿Cuál de los siguientes pares ordenados representa una solución real del sistema?",
+      "context": "En Liberia, José está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(2, 4)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta porque cumple simultáneamente con ambas ecuaciones del sistema no lineal de forma analítica."
+        },
+        {
+          "letter": "B",
+          "text": "(1, 1)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se intercambian los valores de las variables $x$ e $y$ de manera equivocada al formular los pares ordenados."
+        },
+        {
+          "letter": "C",
+          "text": "(0, 2)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que la parábola y la recta se cortan sin verificar algebraicamente la existencia de raíces reales en la ecuación resultante."
+        },
+        {
+          "letter": "D",
+          "text": "(3, 9)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error básico al calcular la raíz cuadrada de la constante de la ecuación de la circunferencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver el sistema por igualación, igualamos las dos expresiones para $y$: $x^2 = x + 2 \\Rightarrow x^2 - x - 2 = 0$. Factorizando la ecuación cuadrática obtenida: $(x - 2)(x + 1) = 0$. Esto nos proporciona dos posibles coordenadas $x$: $x = 2 \\Rightarrow y = 2+2=4$ (punto $(2,4)$), y $x = -1 \\Rightarrow y = -1+2=1$ (punto $(-1,1)$). Por lo tanto, el punto $(2, 4)$ representa una solución válida para el sistema.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v16",
+      "statement": "Considere la ecuación de una circunferencia en el plano cartesiano dada por $x^2 + y^2 = 25$ e interséquela con la recta horizontal $y = 3$. ¿Cuáles son los puntos de intersección?",
+      "context": "En Puntarenas, Ana está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(-3, 4) y (3, 4)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se intercambian los valores de las variables $x$ e $y$ de manera equivocada al formular los pares ordenados."
+        },
+        {
+          "letter": "B",
+          "text": "(-4, 3) y (4, 3)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta porque cumple simultáneamente con ambas ecuaciones del sistema no lineal de forma analítica."
+        },
+        {
+          "letter": "C",
+          "text": "(0, 5) y (0, -5)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que la parábola y la recta se cortan sin verificar algebraicamente la existencia de raíces reales en la ecuación resultante."
+        },
+        {
+          "letter": "D",
+          "text": "(-5, 3) y (5, 3)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error básico al calcular la raíz cuadrada de la constante de la ecuación de la circunferencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sustituimos la recta $y = 3$ en la ecuación de la circunferencia $x^2 + y^2 = 25$: $x^2 + 3^2 = 25 \\Rightarrow x^2 + 9 = 25 \\Rightarrow x^2 = 16 \\Rightarrow x = \\pm 4$. Esto nos genera dos puntos de intersección reales en el plano cartesiano, cuyos valores de abscisa son $x = -4$ y $x = 4$, asociados al mismo valor de ordenada $y = 3$. Por lo tanto, los puntos son $(-4, 3)$ y $(4, 3)$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v17",
+      "statement": "Determine la cantidad de puntos de intersección reales que existen entre la parábola de ecuación $y = x^2 + 5$ y la recta horizontal $y = 2$.",
+      "context": "En Limón, Sofía está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tienen exactamente un punto de intersección",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se intercambian los valores de las variables $x$ e $y$ de manera equivocada al formular los pares ordenados."
+        },
+        {
+          "letter": "B",
+          "text": "Tienen exactamente dos puntos de intersección",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que la parábola y la recta se cortan sin verificar algebraicamente la existencia de raíces reales en la ecuación resultante."
+        },
+        {
+          "letter": "C",
+          "text": "No tienen puntos de intersección en los números reales",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta porque cumple simultáneamente con ambas ecuaciones del sistema no lineal de forma analítica."
+        },
+        {
+          "letter": "D",
+          "text": "Tienen infinitos puntos de intersección",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error básico al calcular la raíz cuadrada de la constante de la ecuación de la circunferencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Igualamos las dos ecuaciones para hallar las abscisas de los puntos de intersección: $x^2 + 5 = 2 \\Rightarrow x^2 = -3$. Dado que ningún número real elevado al cuadrado resulta en un valor negativo ($x^2 \\geq 0$ para todo $x \\in \\mathbb{R}$), esta ecuación no posee soluciones reales. Por lo tanto, la parábola y la recta horizontal no tienen ningún punto de intersección en el plano real.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v18",
+      "statement": "Resuelva el sistema de ecuaciones no lineales:\n$$\\begin{cases} y = x^2 \\\\ y = x + 2 \\end{cases}$$\n¿Cuál de los siguientes pares ordenados representa una solución real del sistema?",
+      "context": "En San Carlos, Carlos está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1, 1)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se intercambian los valores de las variables $x$ e $y$ de manera equivocada al formular los pares ordenados."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 2)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que la parábola y la recta se cortan sin verificar algebraicamente la existencia de raíces reales en la ecuación resultante."
+        },
+        {
+          "letter": "C",
+          "text": "(3, 9)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error básico al calcular la raíz cuadrada de la constante de la ecuación de la circunferencia."
+        },
+        {
+          "letter": "D",
+          "text": "(2, 4)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta porque cumple simultáneamente con ambas ecuaciones del sistema no lineal de forma analítica."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para resolver el sistema por igualación, igualamos las dos expresiones para $y$: $x^2 = x + 2 \\Rightarrow x^2 - x - 2 = 0$. Factorizando la ecuación cuadrática obtenida: $(x - 2)(x + 1) = 0$. Esto nos proporciona dos posibles coordenadas $x$: $x = 2 \\Rightarrow y = 2+2=4$ (punto $(2,4)$), y $x = -1 \\Rightarrow y = -1+2=1$ (punto $(-1,1)$). Por lo tanto, el punto $(2, 4)$ representa una solución válida para el sistema.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.43,
+      "bundle_id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v19",
+      "statement": "Considere la ecuación de una circunferencia en el plano cartesiano dada por $x^2 + y^2 = 25$ e interséquela con la recta horizontal $y = 3$. ¿Cuáles son los puntos de intersección?",
+      "context": "En Pérez Zeledón, Elena está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(-4, 3) y (4, 3)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta porque cumple simultáneamente con ambas ecuaciones del sistema no lineal de forma analítica."
+        },
+        {
+          "letter": "B",
+          "text": "(-3, 4) y (3, 4)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se intercambian los valores de las variables $x$ e $y$ de manera equivocada al formular los pares ordenados."
+        },
+        {
+          "letter": "C",
+          "text": "(0, 5) y (0, -5)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que la parábola y la recta se cortan sin verificar algebraicamente la existencia de raíces reales en la ecuación resultante."
+        },
+        {
+          "letter": "D",
+          "text": "(-5, 3) y (5, 3)",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error básico al calcular la raíz cuadrada de la constante de la ecuación de la circunferencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sustituimos la recta $y = 3$ en la ecuación de la circunferencia $x^2 + y^2 = 25$: $x^2 + 3^2 = 25 \\Rightarrow x^2 + 9 = 25 \\Rightarrow x^2 = 16 \\Rightarrow x = \\pm 4$. Esto nos genera dos puntos de intersección reales en el plano cartesiano, cuyos valores de abscisa son $x = -4$ y $x = 4$, asociados al mismo valor de ordenada $y = 3$. Por lo tanto, los puntos son $(-4, 3)$ y $(4, 3)$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v20",
+      "statement": "Determine la cantidad de puntos de intersección reales que existen entre la parábola de ecuación $y = x^2 + 5$ y la recta horizontal $y = 2$.",
+      "context": "En Escazú, Javier está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tienen exactamente un punto de intersección",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se intercambian los valores de las variables $x$ e $y$ de manera equivocada al formular los pares ordenados."
+        },
+        {
+          "letter": "B",
+          "text": "No tienen puntos de intersección en los números reales",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Opción correcta porque cumple simultáneamente con ambas ecuaciones del sistema no lineal de forma analítica."
+        },
+        {
+          "letter": "C",
+          "text": "Tienen exactamente dos puntos de intersección",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume que la parábola y la recta se cortan sin verificar algebraicamente la existencia de raíces reales en la ecuación resultante."
+        },
+        {
+          "letter": "D",
+          "text": "Tienen infinitos puntos de intersección",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Error básico al calcular la raíz cuadrada de la constante de la ecuación de la circunferencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Igualamos las dos ecuaciones para hallar las abscisas de los puntos de intersección: $x^2 + 5 = 2 \\Rightarrow x^2 = -3$. Dado que ningún número real elevado al cuadrado resulta en un valor negativo ($x^2 \\geq 0$ para todo $x \\in \\mathbb{R}$), esta ecuación no posee soluciones reales. Por lo tanto, la parábola y la recta horizontal no tienen ningún punto de intersección en el plano real.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "CR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "py",
+    "pack_id": "py-week-10-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-05T19:40:28.863Z"
+  },
+  "questions": [
+    {
+      "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v1",
+      "statement": "¿Qué mecanismo evolutivo propuesto por Darwin favorece la supervivencia de los rasgos adaptativos heredables?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, María y su grupo investigan sobre Evolución y selección natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La selección natural",
+          "is_correct": true,
+          "feedback": "¡Correcto! La selección natural responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Estructuras análogas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estructuras análogas no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Evolución convergente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evolución convergente es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La ley de Hardy-Weinberg",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ley de Hardy-Weinberg describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La selección natural constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v2",
+      "statement": "¿Cómo se denominan las estructuras anatómicas que cumplen funciones similares en especies no emparentadas?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Liz y su grupo investigan sobre Evolución y selección natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estructuras análogas",
+          "is_correct": true,
+          "feedback": "¡Correcto! Estructuras análogas responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "El equilibrio puntuado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El equilibrio puntuado no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Aislamiento etológico (o conductual)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aislamiento etológico (o conductual) es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La selección natural",
+          "is_correct": false,
+          "feedback": "Incorrecto. La selección natural describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Estructuras análogas constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v3",
+      "statement": "¿Qué tipo de evolución ocurre cuando especies con ancestros muy distantes desarrollan adaptaciones similares ante presiones?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Jorge y su grupo investigan sobre Evolución y selección natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evolución convergente",
+          "is_correct": true,
+          "feedback": "¡Correcto! Evolución convergente responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Especiación alopátrica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Especiación alopátrica no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La mutación génica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mutación génica es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La teoría sintética de la evolución (neodarwinismo)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La teoría sintética de la evolución (neodarwinismo) describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Evolución convergente constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.79,
+      "bundle_id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v4",
+      "statement": "¿Qué fuerza evolutiva introduce nuevos alelos de forma aleatoria en el acervo génico mediante alteraciones del ADN?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Florencia y su grupo investigan sobre Evolución y selección natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mutación génica",
+          "is_correct": true,
+          "feedback": "¡Correcto! La mutación génica responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Selección disruptiva (o diversificadora)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Selección disruptiva (o diversificadora) no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Órganos vestigiales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Órganos vestigiales es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Aislamiento temporal (o estacional)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aislamiento temporal (o estacional) describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La mutación génica constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v5",
+      "statement": "¿Qué principio poblacional matemático describe una población ideal donde las frecuencias alélicas permanecen constantes?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Florencia y su grupo investigan sobre Evolución y selección natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ley de Hardy-Weinberg",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ley de Hardy-Weinberg responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Inviabilidad o esterilidad híbrida",
+          "is_correct": false,
+          "feedback": "Incorrecto. Inviabilidad o esterilidad híbrida no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Selección disruptiva (o diversificadora)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Selección disruptiva (o diversificadora) es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La teoría sintética de la evolución (neodarwinismo)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La teoría sintética de la evolución (neodarwinismo) describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La ley de Hardy-Weinberg constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v6",
+      "statement": "¿Qué efecto de la deriva génica ocurre cuando una población se reduce drásticamente por un desastre natural?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, María y su grupo investigan sobre Evolución y selección natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Efecto de cuello de botella",
+          "is_correct": true,
+          "feedback": "¡Correcto! Efecto de cuello de botella responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Inviabilidad o esterilidad híbrida",
+          "is_correct": false,
+          "feedback": "Incorrecto. Inviabilidad o esterilidad híbrida no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Especiación alopátrica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Especiación alopátrica es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La eficacia biológica (fitness)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La eficacia biológica (fitness) describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Efecto de cuello de botella constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v7",
+      "statement": "¿Qué tipo de selección natural favorece a los individuos con rasgos fenotípicos extremos de ambos lados de la media?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Benjamín y su grupo investigan sobre Evolución y selección natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Selección disruptiva (o diversificadora)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Selección disruptiva (o diversificadora) responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Aislamiento temporal (o estacional)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aislamiento temporal (o estacional) no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La coevolución",
+          "is_correct": false,
+          "feedback": "Incorrecto. La coevolución es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Evolución convergente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evolución convergente describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Selección disruptiva (o diversificadora) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v8",
+      "statement": "¿Qué tipo de especiación ocurre cuando una barrera geográfica física divide de manera definitiva una población original?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Mateo y su grupo investigan sobre Evolución y selección natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Especiación alopátrica",
+          "is_correct": true,
+          "feedback": "¡Correcto! Especiación alopátrica responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Selección disruptiva (o diversificadora)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Selección disruptiva (o diversificadora) no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La mutación génica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mutación génica es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Evolución convergente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evolución convergente describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Especiación alopátrica constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.64,
+      "bundle_id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v9",
+      "statement": "¿Qué estructuras homólogas vestigiales persisten en una especie silvestre sin cumplir ninguna función fisiológica?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Mateo y su grupo investigan sobre Evolución y selección natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Órganos vestigiales",
+          "is_correct": true,
+          "feedback": "¡Correcto! Órganos vestigiales responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Efecto de cuello de botella",
+          "is_correct": false,
+          "feedback": "Incorrecto. Efecto de cuello de botella no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La mutación génica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mutación génica es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La deriva génica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La deriva génica describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Órganos vestigiales constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.61,
+      "bundle_id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v10",
+      "statement": "¿Qué hipótesis propone que la evolución ocurre mediante periodos de estasis interrumpidos por rápidos cambios de especiación?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Gladys y su grupo investigan sobre Evolución y selección natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El equilibrio puntuado",
+          "is_correct": true,
+          "feedback": "¡Correcto! El equilibrio puntuado responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La teoría sintética de la evolución (neodarwinismo)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La teoría sintética de la evolución (neodarwinismo) no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Selección disruptiva (o diversificadora)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Selección disruptiva (o diversificadora) es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La deriva génica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La deriva génica describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de El equilibrio puntuado constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.58,
+      "bundle_id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v11",
+      "statement": "¿Qué término ecológico describe el éxito reproductivo diferencial de un genotipo en comparación con otros de la población?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Jorge y su grupo investigan sobre Evolución y selección natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La eficacia biológica (fitness)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La eficacia biológica (fitness) responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La ley de Hardy-Weinberg",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ley de Hardy-Weinberg no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Órganos vestigiales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Órganos vestigiales es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "El equilibrio puntuado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El equilibrio puntuado describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La eficacia biológica (fitness) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v12",
+      "statement": "¿Qué tipo de aislamiento reproductivo impide la fecundación del óvulo debido a diferencias en los rituales de cortejo?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Ramón y su grupo investigan sobre Evolución y selección natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aislamiento etológico (o conductual)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aislamiento etológico (o conductual) responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La selección natural",
+          "is_correct": false,
+          "feedback": "Incorrecto. La selección natural no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La coevolución",
+          "is_correct": false,
+          "feedback": "Incorrecto. La coevolución es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Datación por radiocarbono",
+          "is_correct": false,
+          "feedback": "Incorrecto. Datación por radiocarbono describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Aislamiento etológico (o conductual) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v13",
+      "statement": "¿Qué tipo de barrera postcigótica provoca que la descendencia híbrida de dos especies diferentes sea completamente estéril?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Benjamín y su grupo investigan sobre Evolución y selección natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inviabilidad o esterilidad híbrida",
+          "is_correct": true,
+          "feedback": "¡Correcto! Inviabilidad o esterilidad híbrida responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Órganos vestigiales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Órganos vestigiales no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Aislamiento etológico (o conductual)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aislamiento etológico (o conductual) es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La coevolución",
+          "is_correct": false,
+          "feedback": "Incorrecto. La coevolución describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Inviabilidad o esterilidad híbrida constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.49,
+      "bundle_id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v14",
+      "statement": "¿Qué fósiles de transición demuestran caracteres intermedios entre dos grupos taxonómicos principales de la vida?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Valentina y su grupo investigan sobre Evolución y selección natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fósiles transicionales (como Archaeopteryx)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Fósiles transicionales (como Archaeopteryx) responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La ley de Hardy-Weinberg",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ley de Hardy-Weinberg no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Aislamiento temporal (o estacional)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aislamiento temporal (o estacional) es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Especiación alopátrica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Especiación alopátrica describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Fósiles transicionales (como Archaeopteryx) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.46,
+      "bundle_id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v15",
+      "statement": "¿Qué teoría moderna integra la selección natural de Darwin con los principios de la genética clásica y poblacional?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, María y su grupo investigan sobre Evolución y selección natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La teoría sintética de la evolución (neodarwinismo)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La teoría sintética de la evolución (neodarwinismo) responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Inviabilidad o esterilidad híbrida",
+          "is_correct": false,
+          "feedback": "Incorrecto. Inviabilidad o esterilidad híbrida no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Estructuras análogas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estructuras análogas es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La eficacia biológica (fitness)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La eficacia biológica (fitness) describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La teoría sintética de la evolución (neodarwinismo) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v16",
+      "statement": "¿Qué tipo de selección natural elimina los rasgos extremos de la población favoreciendo el valor promedio de la media?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Gladys y su grupo investigan sobre Evolución y selección natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Selección estabilizadora",
+          "is_correct": true,
+          "feedback": "¡Correcto! Selección estabilizadora responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Evolución convergente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evolución convergente no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La teoría sintética de la evolución (neodarwinismo)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La teoría sintética de la evolución (neodarwinismo) es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Aislamiento temporal (o estacional)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aislamiento temporal (o estacional) describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Selección estabilizadora constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.4,
+      "bundle_id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v17",
+      "statement": "¿Qué proceso coevolutivo asocia el desarrollo de rasgos de una planta con los rasgos específicos de su insecto polinizador?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Jorge y su grupo investigan sobre Evolución y selección natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La coevolución",
+          "is_correct": true,
+          "feedback": "¡Correcto! La coevolución responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Datación por radiocarbono",
+          "is_correct": false,
+          "feedback": "Incorrecto. Datación por radiocarbono no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La deriva génica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La deriva génica es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La mutación génica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mutación génica describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La coevolución constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.37,
+      "bundle_id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v18",
+      "statement": "¿Qué datación radiométrica calcula la edad absoluta de un fósil midiendo la desintegración del isótopo de carbono-14?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Joaquín y su grupo investigan sobre Evolución y selección natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Datación por radiocarbono",
+          "is_correct": true,
+          "feedback": "¡Correcto! Datación por radiocarbono responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Estructuras análogas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estructuras análogas no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Evolución convergente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evolución convergente es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La deriva génica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La deriva génica describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Datación por radiocarbono constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.34,
+      "bundle_id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v19",
+      "statement": "¿Qué tipo de aislamiento precigótico ocurre cuando dos especies simpátricas se reproducen en estaciones o meses diferentes?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Jorge y su grupo investigan sobre Evolución y selección natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aislamiento temporal (o estacional)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aislamiento temporal (o estacional) responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La teoría sintética de la evolución (neodarwinismo)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La teoría sintética de la evolución (neodarwinismo) no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La mutación génica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mutación génica es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Inviabilidad o esterilidad híbrida",
+          "is_correct": false,
+          "feedback": "Incorrecto. Inviabilidad o esterilidad híbrida describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Aislamiento temporal (o estacional) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.31,
+      "bundle_id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-v20",
+      "statement": "¿Qué factor poblacional aleatorio tiene mayor probabilidad de eliminar alelos benéficos raros en poblaciones muy pequeñas?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, María y su grupo investigan sobre Evolución y selección natural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La deriva génica",
+          "is_correct": true,
+          "feedback": "¡Correcto! La deriva génica responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Selección estabilizadora",
+          "is_correct": false,
+          "feedback": "Incorrecto. Selección estabilizadora no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Datación por radiocarbono",
+          "is_correct": false,
+          "feedback": "Incorrecto. Datación por radiocarbono es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La selección natural",
+          "is_correct": false,
+          "feedback": "Incorrecto. La selección natural describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La deriva génica constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.28,
+      "bundle_id": "PY-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}

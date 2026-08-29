@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-11-grade-7-subject-lengua",
+    "generated_at": "2026-06-18T23:58:37.536Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la característica principal que diferencia a una oración compuesta de una oración simple?",
+      "context": "En la clase de Lengua del Colegio San José en Barranquilla, los estudiantes empiezan a estudiar estructuras gramaticales más complejas para mejorar su escritura.\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La oración compuesta siempre tiene más de diez palabras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud no define el tipo de oración, sino la estructura verbal."
+        },
+        {
+          "letter": "B",
+          "text": "La oración compuesta tiene dos o más verbos conjugados (predicados).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Cada verbo forma una proposición dentro de la oración compuesta."
+        },
+        {
+          "letter": "C",
+          "text": "La oración compuesta solo se usa para escribir poesía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usa en todos los tipos de textos, especialmente en los informativos y argumentativos."
+        },
+        {
+          "letter": "D",
+          "text": "La oración compuesta no tiene sujeto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al igual que la simple, la compuesta tiene sujetos (uno o varios)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una oración simple tiene un solo núcleo del predicado (un solo verbo). La oración compuesta permite unir varias ideas o acciones en una sola unidad de sentido mediante nexos o signos de puntuación, facilitando la expresión de pensamientos complejos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v2",
+      "statement": "¿Cuántos verbos conjugados y cuántas proposiciones tiene la oración anterior?",
+      "context": "Valentina analiza la frase: \"Santiago estudia en el SENA y su hermana trabaja en una empresa de café\".\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un solo verbo y una proposición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay dos verbos: estudia y trabaja."
+        },
+        {
+          "letter": "B",
+          "text": "Dos verbos conjugados y dos proposiciones.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las proposiciones son: 1. Santiago estudia... 2. su hermana trabaja..."
+        },
+        {
+          "letter": "C",
+          "text": "Dos verbos, pero solo una proposición larga.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada verbo con su sujeto y complementos forma una proposición."
+        },
+        {
+          "letter": "D",
+          "text": "Tres verbos, incluyendo el nexo \"y\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"y\" es una conjunción (nexo), no un verbo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar los verbos es el primer paso para analizar oraciones compuestas. Cada verbo indica la existencia de una proposición (una unidad con sentido propio que forma parte de una oración mayor).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v3",
+      "statement": "En la oración: \"Llegué a casa; me bañé; me acosté a dormir\", ¿qué recurso se ha utilizado para unir las proposiciones?",
+      "context": "Existen tres formas principales de unir las proposiciones para formar una oración compuesta: coordinación, subordinación y yuxtaposición.\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nexos coordinantes como \"y\" o \"pero\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay conjunciones uniendo las partes."
+        },
+        {
+          "letter": "B",
+          "text": "Nexos subordinantes como \"que\" o \"porque\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay dependencia jerárquica entre las acciones."
+        },
+        {
+          "letter": "C",
+          "text": "Yuxtaposición (uso de signos de puntuación como el punto y coma).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las ideas se unen directamente sin nexos, usando solo puntuación."
+        },
+        {
+          "letter": "D",
+          "text": "Uso de prefijos y sufijos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos se usan para formar palabras, no oraciones compuestas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La yuxtaposición permite una escritura rápida y ágil. Las proposiciones están al mismo nivel (son independientes) y solo se separan por comas, puntos y coma o dos puntos. Es muy común en relatos de acción.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de las siguientes es una oración compuesta por COORDINACIÓN?",
+      "context": "La coordinación une proposiciones que tienen independencia sintáctica, es decir, que podrían funcionar como oraciones simples por separado.\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El joven que vive en Cali es mi primo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una subordinada (que vive en Cali depende de \"El joven\")."
+        },
+        {
+          "letter": "B",
+          "text": "Fui al mercado de Tunja, pero no compré nada.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las dos partes son independientes y están unidas por el nexo \"pero\"."
+        },
+        {
+          "letter": "C",
+          "text": "Juan sabe que mañana hay examen de Lengua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una subordinada (que mañana hay examen depende del verbo \"sabe\")."
+        },
+        {
+          "letter": "D",
+          "text": "Caminar bajo la lluvia es romántico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una oración simple con sujeto paciente (el caminar)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la coordinación, las proposiciones son como \"hermanas\": tienen el mismo peso. Si quitamos el nexo \"pero\", nos quedan dos oraciones completas: \"Fui al mercado de Tunja\" y \"No compré nada\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v5",
+      "statement": "\"¿Vienes conmigo al Nevado del Ruiz o prefieres quedarte en Manizales?\". ¿Qué tipo de relación establece el nexo \"o\" en esta oración?",
+      "context": "Los nexos coordinantes se clasifican según el tipo de relación que establecen entre las ideas (suma, opción, oposición, etc.).\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Relación de suma (copulativa).",
+          "is_correct": false,
+          "feedback": "Incorrecto. No está sumando dos acciones, está ofreciendo elegir."
+        },
+        {
+          "letter": "B",
+          "text": "Relación de opción o elección (disyuntiva).",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nexo \"o\" presenta dos posibilidades que se excluyen entre sí."
+        },
+        {
+          "letter": "C",
+          "text": "Relación de contradicción (adversativa).",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay una idea que se oponga a la otra, sino una elección."
+        },
+        {
+          "letter": "D",
+          "text": "Relación de consecuencia (ilativa).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una acción no es el resultado de la otra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las conjunciones disyuntivas (o, u) obligan a elegir. Son fundamentales en la comunicación para presentar alternativas claras al interlocutor.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v6",
+      "statement": "En la oración: \"Deseo **que todos los niños de Colombia tengan acceso a internet**\", ¿por qué la parte resaltada es una proposición subordinada?",
+      "context": "A diferencia de la coordinación, en la subordinación una proposición depende de la otra para tener sentido completo.\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es más larga que la oración principal \"Deseo\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud no define la subordinación."
+        },
+        {
+          "letter": "B",
+          "text": "Porque tiene un verbo en infinitivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo \"tengan\" está conjugado en subjuntivo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque si la decimos sola, no tiene sentido completo y necesita del verbo \"Deseo\" para funcionar.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es el objeto directo del deseo, depende jerárquicamente de la principal."
+        },
+        {
+          "letter": "D",
+          "text": "Porque está escrita en letra negrilla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El formato visual no tiene relación con la función sintáctica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La subordinación crea una jerarquía. La proposición subordinada cumple una función (como si fuera un sustantivo o un adjetivo) dentro de la oración principal. Es la base para construir textos argumentativos y científicos sólidos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v7",
+      "statement": "Identifica cuál de las siguientes opciones es una oración COMPUESTA YUXTAPUESTA.",
+      "context": "Camila analiza la estructura de los textos periodísticos colombianos y nota que el uso de oraciones compuestas ayuda a dar más información en menos espacio.\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los campesinos siembran papa, pero los precios han bajado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es coordinada adversativa por el nexo \"pero\"."
+        },
+        {
+          "letter": "B",
+          "text": "El sol salió temprano; los pájaros empezaron a cantar; la ciudad despertó.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Son tres proposiciones unidas solo por punto y coma."
+        },
+        {
+          "letter": "C",
+          "text": "Si vienes mañana, te daré el libro de Gabriel García Márquez.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una subordinada condicional."
+        },
+        {
+          "letter": "D",
+          "text": "No quiero ir al cine ni tengo dinero para la entrada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es coordinada copulativa negativa por el nexo \"ni\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La yuxtaposición es un recurso de economía lingüística. Al quitar los nexos, el lector debe interpretar la relación lógica (causa, tiempo, consecuencia) entre las proposiciones basándose en el contexto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la principal ventaja de utilizar oraciones compuestas en un ensayo sobre la historia de Colombia?",
+      "context": "El uso excesivo de oraciones simples puede hacer que un texto parezca infantil o entrecortado.\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el ensayo sea más difícil de leer para que el profesor piense que es muy bueno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dificultad no es una ventaja; la claridad y profundidad sí lo son."
+        },
+        {
+          "letter": "B",
+          "text": "Permitir relacionar ideas de causa, consecuencia, condición y oposición de manera lógica y fluida.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las oraciones compuestas estructuran el pensamiento complejo."
+        },
+        {
+          "letter": "C",
+          "text": "Poder usar muchas comas para que el texto se vea más elegante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uso de comas debe responder a reglas gramaticales, no a la estética visual."
+        },
+        {
+          "letter": "D",
+          "text": "Evitar tener que poner un punto final hasta que se acabe la hoja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El punto final es necesario para separar párrafos e ideas completas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La madurez en la escritura se nota cuando un estudiante es capaz de articular ideas. Las oraciones compuestas son los \"puentes\" que permiten pasar de simples datos sueltos a una argumentación coherente y persuasiva.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v9",
+      "statement": "Analiza la relación entre las dos proposiciones. ¿Qué tipo de nexo es \"aunque\" y qué efecto produce en el mensaje?",
+      "context": "Un texto dice: \"El café colombiano es el mejor del mundo **aunque otros países produzcan más cantidad**\".\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nexo copulativo; suma dos cualidades positivas del café.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No está sumando, está contrastando."
+        },
+        {
+          "letter": "B",
+          "text": "Nexo adversativo o concesivo; introduce una idea que se opone pero no anula la afirmación principal.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Resalta la calidad por encima de la cantidad."
+        },
+        {
+          "letter": "C",
+          "text": "Nexo disyuntivo; obliga a elegir entre calidad y cantidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No ofrece una opción, afirma una verdad a pesar de un obstáculo."
+        },
+        {
+          "letter": "D",
+          "text": "Nexo causal; explica que el café es bueno porque hay menos cantidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación no es de causa-efecto directa en ese sentido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El nexo \"aunque\" es muy potente en la argumentación. Permite reconocer una realidad contraria (la cantidad de otros países) pero reafirmar la tesis principal (la calidad colombiana), demostrando equilibrio y profundidad en el análisis.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle-v10",
+      "statement": "Identifica el error de concordancia en la siguiente oración compuesta: \"El grupo de estudiantes ganaron el premio y ellos celebrará en la pizzería\".",
+      "context": "Al escribir una oración compuesta, es fundamental que haya concordancia entre los sujetos y los verbos de todas las proposiciones.\n**Expected_Success:** 0.50",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El error es usar la palabra \"pizzería\" porque no es colombiana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pizzería es una palabra correcta en español."
+        },
+        {
+          "letter": "B",
+          "text": "No hay ningún error, la oración está perfecta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay errores de número y persona entre sujetos y verbos."
+        },
+        {
+          "letter": "C",
+          "text": "\"El grupo... ganaron\" (el sujeto es singular: el grupo) y \"ellos celebrará\" (el verbo debe ser plural: celebrarán).",
+          "is_correct": true,
+          "feedback": "¡Correcto! La concordancia de número se ha roto en ambas proposiciones."
+        },
+        {
+          "letter": "D",
+          "text": "El error es unir las ideas con \"y\", debería ser con un punto y coma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nexo \"y\" es gramaticalmente correcto; el problema es la conjugación verbal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Incluso en oraciones complejas, las reglas básicas de concordancia deben mantenerse. Un error común es concordar el verbo con el complemento (estudiantes) y no con el núcleo del sujeto (grupo). Revisar esto es vital para la calidad de cualquier texto escrito.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LEN-7-2026-W11-oracion-compuesta-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

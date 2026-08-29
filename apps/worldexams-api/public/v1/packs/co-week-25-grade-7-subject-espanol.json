@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-25-grade-7-subject-lengua",
+    "generated_at": "2026-06-18T23:58:37.551Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la característica principal que define a un **debate**?",
+      "context": "El debate y la mesa redonda son formas de comunicación grupal donde se intercambian ideas y opiniones.\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que todos los participantes deben estar de acuerdo desde el principio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si todos están de acuerdo, no hay debate, sino una charla amistosa o consenso."
+        },
+        {
+          "letter": "B",
+          "text": "Que existen posturas opuestas o contradictorias sobre un tema determinado.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El debate se basa en la confrontación respetuosa de argumentos diferentes."
+        },
+        {
+          "letter": "C",
+          "text": "Que solo una persona tiene permiso para hablar durante toda la sesión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sería un monólogo o una conferencia."
+        },
+        {
+          "letter": "D",
+          "text": "Que se debe elegir al ganador mediante una pelea física.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El debate es un ejercicio intelectual y verbal, nunca físico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El debate fomenta el pensamiento crítico al obligar a los participantes a defender su postura con razones y a escuchar los contraargumentos de los demás.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué se llama **mesa redonda** a esta técnica de comunicación?",
+      "context": "La mesa redonda es una técnica de discusión donde expertos conversan sobre un tema desde diferentes puntos de vista.\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la mesa utilizada debe ser obligatoriamente de madera de roble.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El material de la mesa no es lo importante."
+        },
+        {
+          "letter": "B",
+          "text": "Porque simboliza que todos los participantes tienen el mismo nivel de importancia y derecho a hablar.",
+          "is_correct": true,
+          "feedback": "¡Correcto! No hay una presidencia o jerarquía marcada, todos están en igualdad de condiciones."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los participantes deben dar vueltas alrededor de la mesa mientras hablan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los participantes permanecen sentados para dialogar con calma."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo se pueden tratar temas relacionados con la geometría y los círculos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se puede tratar cualquier tema de interés general o científico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A diferencia del debate, donde se busca \"ganar\" o demostrar que una postura es mejor, en la mesa redonda se busca ampliar la visión del tema mediante la suma de diferentes perspectivas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la función principal del **moderador** en un debate o mesa redonda?",
+      "context": "En estas dinámicas de grupo, la figura del moderador es fundamental para el orden.\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dar su propia opinión y convencer a los demás de que él tiene la razón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El moderador debe ser neutral y no tomar partido."
+        },
+        {
+          "letter": "B",
+          "text": "Asignar los turnos de palabra, controlar el tiempo y mantener el respeto entre los participantes.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Su labor es asegurar que la dinámica fluya correctamente y se cumplan las reglas."
+        },
+        {
+          "letter": "C",
+          "text": "Elegir la música de fondo y preparar los refrigerios para el público.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas son tareas de logística o producción, no de moderación del diálogo."
+        },
+        {
+          "letter": "D",
+          "text": "Expulsar a cualquier participante que no esté de acuerdo con lo que dice la mayoría.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El moderador debe proteger el derecho a la discrepancia respetuosa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sin un moderador, las discusiones grupales suelen volverse caóticas, donde los más fuertes imponen su voz sobre los demás, impidiendo un verdadero intercambio de ideas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle-v4",
+      "statement": "Si vas a participar en un debate sobre el uso de uniformes en el colegio, ¿cuál de las siguientes acciones es una **preparación adecuada**?",
+      "context": "Prepararse para un debate requiere investigar y organizar los argumentos con antelación.\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aprenderse de memoria varios insultos para usarlos contra el equipo contrario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los insultos invalidan tu posición y demuestran falta de argumentos."
+        },
+        {
+          "letter": "B",
+          "text": "Esperar a que el debate empiece para ver qué se te ocurre decir en el momento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La improvisación sin base suele llevar al fracaso en un debate formal."
+        },
+        {
+          "letter": "C",
+          "text": "Buscar datos sobre costos de uniformes y leer opiniones de expertos en psicología educativa.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La investigación te da bases sólidas (datos y autoridad) para defender tu postura."
+        },
+        {
+          "letter": "D",
+          "text": "Convencer al moderador para que te deje hablar más tiempo que a los demás.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto va en contra de la ética del debate y la igualdad de condiciones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un buen debitiente no es quien más grita, sino quien mejor informado está y sabe usar esa información para responder a las dudas y críticas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle-v5",
+      "statement": "¿Para qué sirve la **escucha activa** durante una mesa redonda?",
+      "context": "Durante el desarrollo de la discusión, es vital mantener la escucha activa.\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para poder interrumpir al otro apenas cometa un error gramatical.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Interrumpir es una falta de respeto y no ayuda a la comprensión."
+        },
+        {
+          "letter": "B",
+          "text": "Para comprender realmente el argumento del otro y poder responder de manera coherente y respetuosa.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Solo si escuchamos podemos dialogar; de lo contrario, son dos monólogos cruzados."
+        },
+        {
+          "letter": "C",
+          "text": "Para hacer dibujos en el cuaderno mientras los demás hablan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto demuestra desinterés y falta de compromiso con la actividad."
+        },
+        {
+          "letter": "D",
+          "text": "Para saber cuándo es el momento de gritar más fuerte que el compañero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El volumen de voz no añade validez a los argumentos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La escucha activa implica prestar atención no solo a las palabras, sino a la intención y los sentimientos del interlocutor, buscando puntos de encuentro o divergencias claras.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle-v6",
+      "statement": "En un debate sobre el cambio climático, el Participante A dice: \"No debemos preocuparnos porque el clima siempre ha cambiado naturalmente\". El Participante B responde: \"Es cierto que ha habido cambios naturales, pero la velocidad del calentamiento actual por la industria es 100 veces superior a cualquier cambio histórico\".\n\n¿Qué técnica usó el Participante B?",
+      "context": "Los turnos de réplica en un debate sirven para responder directamente a lo dicho por el oponente.\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ignoró por completo lo que dijo el Participante A.",
+          "is_correct": false,
+          "feedback": "Incorrecto. De hecho, reconoció parte de su argumento (\"Es cierto que...\")."
+        },
+        {
+          "letter": "B",
+          "text": "Realizó una concesión para luego presentar un dato que matiza y refuta la conclusión del oponente.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Admite la verdad parcial del otro para luego demostrar por qué su conclusión general es errónea."
+        },
+        {
+          "letter": "C",
+          "text": "Atacó personalmente al Participante A por no saber de historia de la Tierra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se centró en el argumento científico, no en la persona."
+        },
+        {
+          "letter": "D",
+          "text": "Cambió el tema hacia la contaminación de los océanos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se mantuvo en el tema del cambio climático y su velocidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La técnica de \"conceder para vencer\" es muy efectiva porque demuestra que el orador es justo y razonable, lo que aumenta su credibilidad ante el público.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle-v7",
+      "statement": "Al finalizar una mesa redonda sobre el uso de redes sociales en jóvenes colombianos, ¿cuál de estos cierres es el más apropiado?",
+      "context": "Las mesas redondas suelen concluir con un resumen de los puntos tratados y las divergencias encontradas.\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Y así queda demostrado que yo tenía la razón y los demás estaban equivocados\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este cierre es prepotente y no encaja con el espíritu de la mesa redonda."
+        },
+        {
+          "letter": "B",
+          "text": "\"Como nadie se puso de acuerdo, esta reunión fue una pérdida de tiempo total\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. El intercambio de ideas siempre es valioso, aunque no se llegue a una única conclusión."
+        },
+        {
+          "letter": "C",
+          "text": "\"En conclusión, hemos visto que las redes ofrecen grandes oportunidades de aprendizaje, pero también riesgos de seguridad que debemos vigilar\".",
+          "is_correct": true,
+          "feedback": "¡Correcto! Resume las diferentes perspectivas presentadas sin ignorar la complejidad del tema."
+        },
+        {
+          "letter": "D",
+          "text": "\"Ahora vamos a votar para ver quién de los participantes nos cayó mejor\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mesa redonda no es un concurso de popularidad personal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El cierre debe sintetizar la riqueza del diálogo, destacando tanto los consensos como los disensos, dejando al público con una visión más completa del problema.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle-v8",
+      "statement": "Si un participante en un debate habla con un tono de voz calmado, mirando a los ojos a los demás y manteniendo una postura erguida, ¿qué proyecta sobre sus argumentos?",
+      "context": "El lenguaje no verbal (gestos, postura, tono de voz) también comunica durante estas dinámicas.\n**Expected_Success:** 0.50",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que está muy aburrido y se quiere ir a su casa pronto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El contacto visual y la buena postura indican presencia y atención."
+        },
+        {
+          "letter": "B",
+          "text": "Que no está seguro de lo que dice y por eso no grita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La seguridad no se mide por el volumen de los gritos, sino por la firmeza de las razones."
+        },
+        {
+          "letter": "C",
+          "text": "Seguridad, respeto por la audiencia y dominio emocional sobre el tema.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El lenguaje no verbal refuerza la credibilidad del mensaje hablado."
+        },
+        {
+          "letter": "D",
+          "text": "Que está tratando de hipnotizar al jurado para que lo den por ganador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un análisis fantasioso; el lenguaje no verbal es una herramienta de comunicación, no de magia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la comunicación oral, el \"cómo\" se dice es casi tan importante como el \"qué\" se dice. La serenidad suele asociarse con la razón y la sabiduría.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle-v9",
+      "statement": "Un equipo de debate basa toda su defensa en un solo video que vieron en TikTok, sin citar ninguna otra fuente. ¿Cómo evaluarías la solidez de su argumentación?",
+      "context": "Evaluar la calidad de un debate implica analizar la solidez de los argumentos y el respeto a las reglas del juego.\n**Expected_Success:** 0.45",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muy sólida, porque las redes sociales son la fuente más moderna de información.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La modernidad no garantiza la veracidad ni el rigor académico."
+        },
+        {
+          "letter": "B",
+          "text": "Débil, porque depende de una sola fuente que puede no estar verificada y carece de respaldo científico o de autoridad reconocida.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La validez de un argumento depende de la calidad y diversidad de las fuentes que lo sustentan."
+        },
+        {
+          "letter": "C",
+          "text": "Suficiente, siempre y cuando el video tenga muchos \"likes\" y comentarios positivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La popularidad de un video no es un criterio de verdad académica."
+        },
+        {
+          "letter": "D",
+          "text": "Excelente, porque usar videos demuestra mucha creatividad en el debate.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La creatividad no sustituye al rigor lógico y a la evidencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el entorno digital actual, aprender a verificar fuentes y a buscar sustento en instituciones serias (universidades, organismos internacionales, libros) es vital para una argumentación de calidad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle-v10",
+      "statement": "Imagina una mesa redonda sobre la construcción de una carretera que atravesará una reserva natural en la Amazonía colombiana. ¿Qué combinación de participantes garantizaría la mayor riqueza y equilibrio de perspectivas?",
+      "context": "Los dilemas éticos a menudo se resuelven o analizan mejor mediante mesas redondas con diferentes especialistas.\n**Expected_Success:** 0.40",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tres ingenieros de caminos que trabajan para la empresa constructora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Habría un sesgo total hacia la construcción sin considerar otros impactos."
+        },
+        {
+          "letter": "B",
+          "text": "Tres líderes indígenas de la zona que se oponen a cualquier tipo de cambio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Habría un sesgo total hacia la conservación sin considerar las necesidades de conexión del país."
+        },
+        {
+          "letter": "C",
+          "text": "Un ingeniero civil, un biólogo experto en ecosistemas y un representante de las comunidades locales.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Esta combinación permite ver el problema desde la técnica, la ciencia ambiental y la realidad social."
+        },
+        {
+          "letter": "D",
+          "text": "Tres cantantes famosos que quieren hacer un concierto en la selva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son especialistas en los temas críticos del dilema (infraestructura y ecología)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La riqueza de la mesa redonda radica en la multidisciplinariedad. Escuchar voces con intereses y conocimientos distintos permite llegar a soluciones más integrales y justas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.4,
+      "bundle_id": "CO-LEN-7-2026-W25-debates-mesas-redondas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

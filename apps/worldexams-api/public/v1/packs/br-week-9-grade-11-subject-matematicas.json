@@ -1,0 +1,1811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "br",
+    "pack_id": "br-week-9-grade-11-subject-matematica",
+    "generated_at": "2026-06-18T23:58:36.440Z"
+  },
+  "questions": [
+    {
+      "id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v1",
+      "statement": "Qual é a fórmula do termo geral ($a_n$) de uma Progressão Aritmética (PA) em função do primeiro termo ($a_1$), da posição ($n$) e da razão ($r$)?",
+      "context": "Um estudante em São Paulo revisa os conceitos fundamentais de sequências para sua prova de matemática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_n = a_1 + nr$",
+          "is_correct": false,
+          "feedback": "Incorreto. O termo n deve ser subtraído de 1, pois o primeiro termo não recebe a razão."
+        },
+        {
+          "letter": "B",
+          "text": "$a_n = a_1 + (n - 1)r$",
+          "is_correct": true,
+          "feedback": "Correto. Esta fórmula permite encontrar qualquer termo da PA conhecendo o primeiro e a razão."
+        },
+        {
+          "letter": "C",
+          "text": "$a_n = a_1 \\cdot r^{n-1}$",
+          "is_correct": false,
+          "feedback": "Esta é a fórmula do termo geral de uma Progressão Geométrica."
+        },
+        {
+          "letter": "D",
+          "text": "$a_n = \\frac{a_1 + a_{n-1}}{2}$",
+          "is_correct": false,
+          "feedback": "Esta é uma propriedade do termo médio, não a fórmula do termo geral."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Em uma PA, cada termo a partir do segundo é igual ao anterior somado a uma constante $r$. Para chegar ao termo de posição $n$, partimos de $a_1$ e somamos a razão $n-1$ vezes.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v2",
+      "statement": "Uma Progressão Aritmética é considerada **decrescente** quando:",
+      "context": "Um professor no Rio de Janeiro explica como classificar uma progressão baseando-se no sinal de sua razão.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A razão $r$ é igual a zero.",
+          "is_correct": false,
+          "feedback": "Se r = 0, a progressão é constante ou estacionária."
+        },
+        {
+          "letter": "B",
+          "text": "A razão $r$ é positiva ($r > 0$).",
+          "is_correct": false,
+          "feedback": "Se r > 0, a progressão é crescente."
+        },
+        {
+          "letter": "C",
+          "text": "A razão $r$ é negativa ($r < 0$).",
+          "is_correct": true,
+          "feedback": "Correto. Somar um número negativo faz com que os termos sucessivos sejam menores."
+        },
+        {
+          "letter": "D",
+          "text": "O primeiro termo $a_1$ é negativo.",
+          "is_correct": false,
+          "feedback": "O sinal de a1 não determina se a PA cresce ou decresce, apenas a razão r."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "O comportamento de crescimento da PA depende exclusivamente da razão. Se somamos valores negativos ($r < 0$), os termos da sequência diminuem de valor à medida que a posição $n$ aumenta.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v3",
+      "statement": "Dada a PA $(-5, -2, 1, 4, ...)$, qual é o valor da razão $r$?",
+      "context": "Um arquiteto projeta uma escada em Curitiba onde a largura dos degraus diminui linearmente de baixo para cima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-3",
+          "is_correct": false,
+          "feedback": "A sequência está aumentando, logo a razão deve ser positiva."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "r = -2 - (-5) = -2 + 5 = 3."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Cálculo incorreto da diferença entre os termos."
+        },
+        {
+          "letter": "D",
+          "text": "-7",
+          "is_correct": false,
+          "feedback": "Erro de operação aritmética."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A razão é a diferença entre um termo e seu antecessor: $r = a_2 - a_1$. No caso, $r = -2 - (-5) = -2 + 5 = 3$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v4",
+      "statement": "Qual é a fórmula para calcular a soma dos $n$ primeiros termos ($S_n$) de uma PA?",
+      "context": "Um economista em Brasília utiliza a fórmula da soma da PA para calcular o total de parcelas pagas em um financiamento com amortização constante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$S_n = (a_1 + a_n) \\cdot n$",
+          "is_correct": false,
+          "feedback": "Falta dividir por 2 na fórmula."
+        },
+        {
+          "letter": "B",
+          "text": "$S_n = \\frac{(a_1 + a_n) \\cdot n}{2}$",
+          "is_correct": true,
+          "feedback": "Correto. É a média aritmética dos extremos multiplicada pelo número de termos."
+        },
+        {
+          "letter": "C",
+          "text": "$S_n = a_1 + (n-1)r$",
+          "is_correct": false,
+          "feedback": "Esta é a fórmula do termo geral, não da soma."
+        },
+        {
+          "letter": "D",
+          "text": "$S_n = n \\cdot r$",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A soma dos termos de uma PA pode ser visualizada pareando os termos (primeiro com último, segundo com penúltimo, etc.), onde cada par tem a mesma soma. O resultado é a soma de um par ($a_1 + a_n$) multiplicado pela quantidade de pares ($n/2$).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v5",
+      "statement": "Se o primeiro termo de uma PA é $a_1 = 12$ e a razão é $r = 5$, qual é o valor do termo $a_{11}$?",
+      "context": "Um técnico de laboratório registra o aumento de temperatura de uma estufa que sobe $2^\\circ$C a cada 10 minutos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "67",
+          "is_correct": false,
+          "feedback": "a11 = 12 + 11*5 = 67. Erro: usou n em vez de n-1."
+        },
+        {
+          "letter": "B",
+          "text": "62",
+          "is_correct": true,
+          "feedback": "a11 = 12 + (11-1)*5 = 12 + 50 = 62."
+        },
+        {
+          "letter": "C",
+          "text": "57",
+          "is_correct": false,
+          "feedback": "Este é o valor de a10."
+        },
+        {
+          "letter": "D",
+          "text": "72",
+          "is_correct": false,
+          "feedback": "Cálculo incorreto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicamos o termo geral: $a_{11} = a_1 + 10r$. Substituindo: $a_{11} = 12 + 10 \\cdot 5 = 12 + 50 = 62$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v6",
+      "statement": "Quantos termos existem na PA finita $(10, 14, 18, ..., 90)$?",
+      "context": "Um atleta em Belo Horizonte planeja seu treinamento aumentando a distância percorrida em 400 metros a cada dia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Cálculo incorreto."
+        },
+        {
+          "letter": "B",
+          "text": "21",
+          "is_correct": true,
+          "feedback": "90 = 10 + (n-1)4 => 80 = 4(n-1) => 20 = n-1 => n = 21."
+        },
+        {
+          "letter": "C",
+          "text": "22",
+          "is_correct": false,
+          "feedback": "Erro ao finalizar a resolução da equação."
+        },
+        {
+          "letter": "D",
+          "text": "80",
+          "is_correct": false,
+          "feedback": "Este é o deslocamento total, não o número de termos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos o termo geral para isolar $n$: $a_n = a_1 + (n-1)r \\Rightarrow 90 = 10 + (n-1) \\cdot 4$. Subtraindo 10 de ambos os lados: $80 = 4(n-1)$. Dividindo por 4: $20 = n - 1$. Logo, $n = 21$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v7",
+      "statement": "Qual é a posição do termo que vale 20 nesta PA?",
+      "context": "Uma empresa em Salvador organiza seu estoque em prateleiras onde a primeira tem 50 caixas e cada prateleira seguinte tem 3 caixas a menos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10ª",
+          "is_correct": false,
+          "feedback": "a10 = 50 + 9*(-3) = 50 - 27 = 23. Quase lá."
+        },
+        {
+          "letter": "B",
+          "text": "11ª",
+          "is_correct": true,
+          "feedback": "20 = 50 + (n-1)(-3) => -30 = -3(n-1) => 10 = n-1 => n = 11."
+        },
+        {
+          "letter": "C",
+          "text": "12ª",
+          "is_correct": false,
+          "feedback": "a12 = 50 - 33 = 17."
+        },
+        {
+          "letter": "D",
+          "text": "9ª",
+          "is_correct": false,
+          "feedback": "a9 = 50 - 24 = 26."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Montamos a equação com $a_1 = 50$, $r = -3$ e $a_n = 20$. Temos $20 = 50 + (n-1)(-3)$. Resolvendo: $-30 = -3(n-1) \\Rightarrow 10 = n - 1 \\Rightarrow n = 11$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v8",
+      "statement": "Qual é a soma dos 12 primeiros termos da PA $(100, 200, 300, ...)$?",
+      "context": "Um investidor aplica R\\$ 100,00 por mês em uma conta que não rende juros, apenas acumula o capital.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.200",
+          "is_correct": false,
+          "feedback": "Este seria o valor se não houvesse acúmulo (apenas o 12º termo)."
+        },
+        {
+          "letter": "B",
+          "text": "7.800",
+          "is_correct": true,
+          "feedback": "a12 = 1200. Soma = (100 + 1200) * 12 / 2 = 1300 * 6 = 7800."
+        },
+        {
+          "letter": "C",
+          "text": "6.600",
+          "is_correct": false,
+          "feedback": "Cálculo incorreto da soma."
+        },
+        {
+          "letter": "D",
+          "text": "15.600",
+          "is_correct": false,
+          "feedback": "Esqueceu de dividir por 2 na fórmula da soma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "O 12º termo é $100 + (12-1)100 = 1200$. A soma é $S_{12} = \\frac{(100 + 1200) \\cdot 12}{2} = 1300 \\cdot 6 = 7800$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v9",
+      "statement": "Numa PA, sabe-se que $a_3 = 10$ e $a_6 = 19$. Qual é o valor da razão $r$?",
+      "context": "Um programador em Recife cria uma rotina de repetição onde o valor de uma variável segue uma PA.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "9 é a diferença entre os termos, mas eles estão separados por 3 posições."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "a6 = a3 + 3r => 19 = 10 + 3r => 9 = 3r => r = 3."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Se r=4, a6 seria 10 + 12 = 22."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Se r=2, a6 seria 10 + 6 = 16."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos a relação entre dois termos quaisquer: $a_k = a_j + (k-j)r$. Logo, $a_6 = a_3 + (6-3)r \\Rightarrow 19 = 10 + 3r$. Resolvendo para $r$, temos $3r = 9$, então $r = 3$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v10",
+      "statement": "Insira 3 meios aritméticos entre os números 5 e 21. Qual é a razão da PA formada?",
+      "context": "Um agrimensor em Manaus mede a distância entre estacas colocadas em linha reta com intervalos constantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Se r=5, a sequência seria 5, 10, 15, 20, 25. O último seria 25, não 21."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Com 3 meios, temos 5 termos no total. 21 = 5 + 4r => 16 = 4r => r = 4. PA: (5, 9, 13, 17, 21)."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Se r=3, o 5º termo seria 17."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inserir 3 meios aritméticos entre 5 e 21 significa criar uma PA onde $a_1 = 5$ e $a_5 = 21$. Pela fórmula: $21 = 5 + (5-1) \\cdot r \\Rightarrow 16 = 4r \\Rightarrow r = 4$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v11",
+      "statement": "Em uma PA, a soma dos $n$ primeiros termos é dada por $S_n = n^2 + 2n$. Qual é o valor do primeiro termo $a_1$ e da razão $r$?",
+      "context": "Um engenheiro em São Paulo calcula o peso suportado por colunas dispostas em série com reforço progressivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_1 = 3, r = 3$",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "B",
+          "text": "$a_1 = 3, r = 2$",
+          "is_correct": true,
+          "feedback": "S1 = a1 = 1² + 2(1) = 3. S2 = a1 + a2 = 2² + 2(2) = 8. Logo a2 = 5 e r = 5-3 = 2."
+        },
+        {
+          "letter": "C",
+          "text": "$a_1 = 1, r = 2$",
+          "is_correct": false,
+          "feedback": "S1 daria 3, não 1."
+        },
+        {
+          "letter": "D",
+          "text": "$a_1 = 3, r = 1$",
+          "is_correct": false,
+          "feedback": "Se r=1, a2 seria 4 e S2 seria 7, mas S2 pela fórmula é 8."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "1) $a_1 = S_1 = 1^2 + 2(1) = 3$.\n2) $a_1 + a_2 = S_2 = 2^2 + 2(2) = 4 + 4 = 8$.\n3) $a_2 = 8 - a_1 = 8 - 3 = 5$.\n4) $r = a_2 - a_1 = 5 - 3 = 2$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v12",
+      "statement": "Determine a soma de todos os números naturais múltiplos de 7 entre 10 e 100.",
+      "context": "Um analista financeiro avalia o total acumulado de um fundo onde o aporte mensal cresce linearmente para compensar a inflação.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "700",
+          "is_correct": false,
+          "feedback": "Valor aproximado, mas não exato."
+        },
+        {
+          "letter": "B",
+          "text": "728",
+          "is_correct": true,
+          "feedback": "PA: (14, 21, ..., 98). n=13. Soma = (14+98)*13/2 = 112*6,5 = 728."
+        },
+        {
+          "letter": "C",
+          "text": "735",
+          "is_correct": false,
+          "feedback": "Erro no cálculo da soma dos termos."
+        },
+        {
+          "letter": "D",
+          "text": "630",
+          "is_correct": false,
+          "feedback": "Valor muito baixo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "1) Primeiro múltiplo: 14. Último múltiplo: 98.\n2) Número de termos: $98 = 14 + (n-1)7 \\Rightarrow 84 = 7(n-1) \\Rightarrow 12 = n-1 \\Rightarrow n = 13$.\n3) Soma: $S_{13} = \\frac{(14 + 98) \\cdot 13}{2} = \\frac{112 \\cdot 13}{2} = 56 \\cdot 13 = 728$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v13",
+      "statement": "Três números estão em PA. A soma deles é 15 e o produto é 80. Quais são esses números?",
+      "context": "Um professor desafia os alunos com uma propriedade curiosa dos termos da PA.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1, 5, 9",
+          "is_correct": false,
+          "feedback": "Soma = 15, mas produto = 45."
+        },
+        {
+          "letter": "B",
+          "text": "2, 5, 8",
+          "is_correct": true,
+          "feedback": "Soma = 2+5+8 = 15. Produto = 2*5*8 = 80. Razão r=3."
+        },
+        {
+          "letter": "C",
+          "text": "3, 5, 7",
+          "is_correct": false,
+          "feedback": "Soma = 15, mas produto = 105."
+        },
+        {
+          "letter": "D",
+          "text": "4, 5, 6",
+          "is_correct": false,
+          "feedback": "Soma = 15, mas produto = 120."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Representamos os termos como $(x-r, x, x+r)$. A soma é $(x-r) + x + (x+r) = 3x = 15 \\Rightarrow x = 5$. O produto é $(5-r) \\cdot 5 \\cdot (5+r) = 80 \\Rightarrow 25 - r^2 = 16 \\Rightarrow r^2 = 9 \\Rightarrow r = 3$. Os termos são $5-3=2, 5$ e $5+3=8$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v14",
+      "statement": "Em uma PA, $a_1 + a_9 = 20$. Qual é o valor de $a_5$?",
+      "context": "Um arquiteto em Porto Alegre utiliza PA para definir as alturas de colunas em um telhado inclinado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": true,
+          "feedback": "Pela propriedade dos termos equidistantes, a1+a9 = a5+a5 = 2*a5. Logo a5 = 20/2 = 10."
+        },
+        {
+          "letter": "C",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Este é o valor da soma dos extremos."
+        },
+        {
+          "letter": "D",
+          "text": "Não é possível determinar sem a razão.",
+          "is_correct": false,
+          "feedback": "É possível sim, pois a5 é o termo médio exato entre a1 e a9."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Em qualquer PA, a soma de dois termos equidistantes dos extremos é constante. Como $1+9 = 10$, e $5+5 = 10$, então $a_1 + a_9 = a_5 + a_5 = 2 \\cdot a_5$. Assim, $a_5 = 20/2 = 10$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v15",
+      "statement": "Ao intercalar 6 meios aritméticos entre 10 e 45, qual é o valor do quarto termo da progressão total?",
+      "context": "Um estatístico em São Paulo utiliza a interpolação para prever valores faltantes em uma série histórica linear.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Este é o terceiro termo."
+        },
+        {
+          "letter": "B",
+          "text": "25",
+          "is_correct": true,
+          "feedback": "Total de termos n=8. 45 = 10 + 7r => 35 = 7r => r = 5. PA: (10, 15, 20, 25, 30, 35, 40, 45). a4 = 25."
+        },
+        {
+          "letter": "C",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Este é o quinto termo."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Este é o segundo termo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "1) Total de termos: 2 (extremos) + 6 (meios) = 8.\n2) Razão: $a_8 = a_1 + 7r \\Rightarrow 45 = 10 + 7r \\Rightarrow 35 = 7r \\Rightarrow r = 5$.\n3) Quarto termo: $a_4 = a_1 + 3r = 10 + 3 \\cdot 5 = 25$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v16",
+      "statement": "Toda PA pode ser vista como uma função discreta. Se $a_n = 4n - 1$, qual é a soma dos 20 primeiros termos?",
+      "context": "Um matemático estuda a relação entre funções afins e progressões aritméticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "780",
+          "is_correct": false,
+          "feedback": "Cálculo incorreto da soma."
+        },
+        {
+          "letter": "B",
+          "text": "820",
+          "is_correct": true,
+          "feedback": "a1 = 3. a20 = 79. S20 = (3 + 79) * 20 / 2 = 82 * 10 = 820."
+        },
+        {
+          "letter": "C",
+          "text": "800",
+          "is_correct": false,
+          "feedback": "Cálculo incorreto."
+        },
+        {
+          "letter": "D",
+          "text": "1.640",
+          "is_correct": false,
+          "feedback": "Esqueceu de dividir por 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "1) Calculamos os extremos: $a_1 = 4(1)-1 = 3$; $a_{20} = 4(20)-1 = 79$.\n2) Aplicamos a soma: $S_{20} = \\frac{(3 + 79) \\cdot 20}{2} = 82 \\cdot 10 = 820$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v17",
+      "statement": "Para quais valores de $x$ a sequência $(\\log x, \\log 2x, \\log 4x)$ forma uma PA?",
+      "context": "Um pesquisador em Campinas analisa uma sequência onde os termos são funções de uma variável $x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Somente para $x = 1$.",
+          "is_correct": false,
+          "feedback": "Na verdade, qualquer x positivo satisfaz a condição."
+        },
+        {
+          "letter": "B",
+          "text": "Para todo $x > 0$.",
+          "is_correct": true,
+          "feedback": "Razão r = log(2x) - log(x) = log(2x/x) = log 2. Como a razão é constante independente de x, é sempre PA."
+        },
+        {
+          "letter": "C",
+          "text": "Para nenhum valor de $x$.",
+          "is_correct": false,
+          "feedback": "A sequência sempre possui uma diferença constante."
+        },
+        {
+          "letter": "D",
+          "text": "Somente para $x = 2$.",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Verificamos a diferença entre os termos:\n$r_1 = \\log(2x) - \\log(x) = \\log(2x/x) = \\log 2$.\n$r_2 = \\log(4x) - \\log(2x) = \\log(4x/2x) = \\log 2$.\nComo $r_1 = r_2 = \\log 2$ (constante), a sequência é uma PA para qualquer $x$ no domínio da função logaritmo ($x > 0$).",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v18",
+      "statement": "Numa PA de 100 termos, a soma dos termos de ordem ímpar é 500. Se a razão é $r = 2$, qual é a soma dos termos de ordem par?",
+      "context": "Durante uma olimpíada, propõe-se um desafio envolvendo a soma de termos de índices pares e ímpares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "500",
+          "is_correct": false,
+          "feedback": "Os termos pares são sempre maiores que os ímpares anteriores se r > 0."
+        },
+        {
+          "letter": "B",
+          "text": "600",
+          "is_correct": true,
+          "feedback": "Cada termo par a_2k é igual ao ímpar anterior a_{2k-1} + r. Como são 50 pares, Spar = Simpar + 50*r = 500 + 50*2 = 600."
+        },
+        {
+          "letter": "C",
+          "text": "700",
+          "is_correct": false,
+          "feedback": "Cálculo incorreto do acréscimo."
+        },
+        {
+          "letter": "D",
+          "text": "550",
+          "is_correct": false,
+          "feedback": "Cálculo incorreto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Existem 50 termos ímpares ($a_1, a_3, ..., a_{99}$) e 50 termos pares ($a_2, a_4, ..., a_{100}$). Cada termo par pode ser escrito como $a_{2k} = a_{2k-1} + r$. Somando todos os 50 pares: $\\sum a_{par} = \\sum (a_{impar} + r) = \\sum a_{impar} + 50r$. Logo, $S_{par} = 500 + 50 \\cdot 2 = 600$.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v19",
+      "statement": "As medidas dos lados de um triângulo retângulo estão em PA. Se a área do triângulo é 24, qual é o valor da hipotenusa?",
+      "context": "No vestibular do ITA, avalia-se a capacidade de relacionar PA com geometria plana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Este seria o cateto menor."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Este seria o cateto maior."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "is_correct": true,
+          "feedback": "Lados: (x-r, x, x+r). Pelo teorema de Pitágoras: (x-r)² + x² = (x+r)² => x = 4r. Lados: 3r, 4r, 5r. Área = (3r*4r)/2 = 6r² = 24 => r=2. Hipotenusa = 5r = 10."
+        },
+        {
+          "letter": "D",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Lados em PA: $x-r, x, x+r$. No triângulo retângulo, $(x-r)^2 + x^2 = (x+r)^2 \\Rightarrow x^2 - 2xr + r^2 + x^2 = x^2 + 2xr + r^2 \\Rightarrow x^2 = 4xr \\Rightarrow x = 4r$ (pois $x \\neq 0$). Os lados são $3r, 4r$ e $5r$. Área = $\\frac{3r \\cdot 4r}{2} = 6r^2$. Como Área = 24, $r^2 = 4 \\Rightarrow r = 2$. Hipotenusa = $5 \\cdot 2 = 10$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v20",
+      "statement": "Considere uma PA onde a soma dos $n$ primeiros termos é $S_n = 3n^2 + n$. Determine o termo $a_{10}$.",
+      "context": "Um matemático estuda o comportamento da soma dos inversos dos termos de uma PA, aproximando-se do conceito de série harmônica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "310",
+          "is_correct": false,
+          "feedback": "Este é o valor de S10, não do termo a10."
+        },
+        {
+          "letter": "B",
+          "text": "58",
+          "is_correct": true,
+          "feedback": "a10 = S10 - S9 = (3*100+10) - (3*81+9) = 310 - 252 = 58."
+        },
+        {
+          "letter": "C",
+          "text": "60",
+          "is_correct": false,
+          "feedback": "Cálculo incorreto da diferença entre as somas."
+        },
+        {
+          "letter": "D",
+          "text": "61",
+          "is_correct": false,
+          "feedback": "Cálculo incorreto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "O termo de posição $n$ pode ser encontrado pela diferença entre a soma dos $n$ primeiros e a soma dos $n-1$ primeiros: $a_n = S_n - S_{n-1}$.\nPara $n=10$: $a_{10} = S_{10} - S_9$.\n$S_{10} = 3(10)^2 + 10 = 310$.\n$S_9 = 3(9)^2 + 9 = 243 + 9 = 252$.\n$a_{10} = 310 - 252 = 58$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v1",
+      "statement": "Qual é a fórmula do termo geral ($a_n$) de uma Progressão Aritmética (PA) em função do primeiro termo ($a_1$), da posição ($n$) e da razão ($r$)?",
+      "context": "Um estudante em São Paulo revisa os conceitos fundamentais de sequências para sua prova de matemática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_n = a_1 + nr$",
+          "is_correct": false,
+          "feedback": "Incorreto. O termo n deve ser subtraído de 1, pois o primeiro termo não recebe a razão."
+        },
+        {
+          "letter": "B",
+          "text": "$a_n = a_1 + (n - 1)r$",
+          "is_correct": true,
+          "feedback": "Correto. Esta fórmula permite encontrar qualquer termo da PA conhecendo o primeiro e a razão."
+        },
+        {
+          "letter": "C",
+          "text": "$a_n = a_1 \\cdot r^{n-1}$",
+          "is_correct": false,
+          "feedback": "Esta é a fórmula do termo geral de uma Progressão Geométrica."
+        },
+        {
+          "letter": "D",
+          "text": "$a_n = \\frac{a_1 + a_{n-1}}{2}$",
+          "is_correct": false,
+          "feedback": "Esta é uma propriedade do termo médio, não a fórmula do termo geral."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Em uma PA, cada termo a partir do segundo é igual ao anterior somado a uma constante $r$. Para chegar ao termo de posição $n$, partimos de $a_1$ e somamos a razão $n-1$ vezes.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v2",
+      "statement": "Uma Progressão Aritmética é considerada **decrescente** quando:",
+      "context": "Um professor no Rio de Janeiro explica como classificar uma progressão baseando-se no sinal de sua razão.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A razão $r$ é igual a zero.",
+          "is_correct": false,
+          "feedback": "Se r = 0, a progressão é constante ou estacionária."
+        },
+        {
+          "letter": "B",
+          "text": "A razão $r$ é positiva ($r > 0$).",
+          "is_correct": false,
+          "feedback": "Se r > 0, a progressão é crescente."
+        },
+        {
+          "letter": "C",
+          "text": "A razão $r$ é negativa ($r < 0$).",
+          "is_correct": true,
+          "feedback": "Correto. Somar um número negativo faz com que os termos sucessivos sejam menores."
+        },
+        {
+          "letter": "D",
+          "text": "O primeiro termo $a_1$ é negativo.",
+          "is_correct": false,
+          "feedback": "O sinal de a1 não determina se a PA cresce ou decresce, apenas a razão r."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "O comportamento de crescimento da PA depende exclusivamente da razão. Se somamos valores negativos ($r < 0$), os termos da sequência diminuem de valor à medida que a posição $n$ aumenta.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v3",
+      "statement": "Dada a PA $(-5, -2, 1, 4, ...)$, qual é o valor da razão $r$?",
+      "context": "Um arquiteto projeta uma escada em Curitiba onde a largura dos degraus diminui linearmente de baixo para cima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-3",
+          "is_correct": false,
+          "feedback": "A sequência está aumentando, logo a razão deve ser positiva."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "r = -2 - (-5) = -2 + 5 = 3."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Cálculo incorreto da diferença entre os termos."
+        },
+        {
+          "letter": "D",
+          "text": "-7",
+          "is_correct": false,
+          "feedback": "Erro de operação aritmética."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A razão é a diferença entre um termo e seu antecessor: $r = a_2 - a_1$. No caso, $r = -2 - (-5) = -2 + 5 = 3$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v4",
+      "statement": "Qual é a fórmula para calcular a soma dos $n$ primeiros termos ($S_n$) de uma PA?",
+      "context": "Um economista em Brasília utiliza a fórmula da soma da PA para calcular o total de parcelas pagas em um financiamento com amortização constante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$S_n = (a_1 + a_n) \\cdot n$",
+          "is_correct": false,
+          "feedback": "Falta dividir por 2 na fórmula."
+        },
+        {
+          "letter": "B",
+          "text": "$S_n = \\frac{(a_1 + a_n) \\cdot n}{2}$",
+          "is_correct": true,
+          "feedback": "Correto. É a média aritmética dos extremos multiplicada pelo número de termos."
+        },
+        {
+          "letter": "C",
+          "text": "$S_n = a_1 + (n-1)r$",
+          "is_correct": false,
+          "feedback": "Esta é a fórmula do termo geral, não da soma."
+        },
+        {
+          "letter": "D",
+          "text": "$S_n = n \\cdot r$",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A soma dos termos de uma PA pode ser visualizada pareando os termos (primeiro com último, segundo com penúltimo, etc.), onde cada par tem a mesma soma. O resultado é a soma de um par ($a_1 + a_n$) multiplicado pela quantidade de pares ($n/2$).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v5",
+      "statement": "Se o primeiro termo de uma PA é $a_1 = 12$ e a razão é $r = 5$, qual é o valor do termo $a_{11}$?",
+      "context": "Um técnico de laboratório registra o aumento de temperatura de uma estufa que sobe $2^\\circ$C a cada 10 minutos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "67",
+          "is_correct": false,
+          "feedback": "a11 = 12 + 11*5 = 67. Erro: usou n em vez de n-1."
+        },
+        {
+          "letter": "B",
+          "text": "62",
+          "is_correct": true,
+          "feedback": "a11 = 12 + (11-1)*5 = 12 + 50 = 62."
+        },
+        {
+          "letter": "C",
+          "text": "57",
+          "is_correct": false,
+          "feedback": "Este é o valor de a10."
+        },
+        {
+          "letter": "D",
+          "text": "72",
+          "is_correct": false,
+          "feedback": "Cálculo incorreto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicamos o termo geral: $a_{11} = a_1 + 10r$. Substituindo: $a_{11} = 12 + 10 \\cdot 5 = 12 + 50 = 62$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v6",
+      "statement": "Quantos termos existem na PA finita $(10, 14, 18, ..., 90)$?",
+      "context": "Um atleta em Belo Horizonte planeja seu treinamento aumentando a distância percorrida em 400 metros a cada dia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Cálculo incorreto."
+        },
+        {
+          "letter": "B",
+          "text": "21",
+          "is_correct": true,
+          "feedback": "90 = 10 + (n-1)4 => 80 = 4(n-1) => 20 = n-1 => n = 21."
+        },
+        {
+          "letter": "C",
+          "text": "22",
+          "is_correct": false,
+          "feedback": "Erro ao finalizar a resolução da equação."
+        },
+        {
+          "letter": "D",
+          "text": "80",
+          "is_correct": false,
+          "feedback": "Este é o deslocamento total, não o número de termos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos o termo geral para isolar $n$: $a_n = a_1 + (n-1)r \\Rightarrow 90 = 10 + (n-1) \\cdot 4$. Subtraindo 10 de ambos os lados: $80 = 4(n-1)$. Dividindo por 4: $20 = n - 1$. Logo, $n = 21$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v7",
+      "statement": "Qual é a posição do termo que vale 20 nesta PA?",
+      "context": "Uma empresa em Salvador organiza seu estoque em prateleiras onde a primeira tem 50 caixas e cada prateleira seguinte tem 3 caixas a menos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10ª",
+          "is_correct": false,
+          "feedback": "a10 = 50 + 9*(-3) = 50 - 27 = 23. Quase lá."
+        },
+        {
+          "letter": "B",
+          "text": "11ª",
+          "is_correct": true,
+          "feedback": "20 = 50 + (n-1)(-3) => -30 = -3(n-1) => 10 = n-1 => n = 11."
+        },
+        {
+          "letter": "C",
+          "text": "12ª",
+          "is_correct": false,
+          "feedback": "a12 = 50 - 33 = 17."
+        },
+        {
+          "letter": "D",
+          "text": "9ª",
+          "is_correct": false,
+          "feedback": "a9 = 50 - 24 = 26."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Montamos a equação com $a_1 = 50$, $r = -3$ e $a_n = 20$. Temos $20 = 50 + (n-1)(-3)$. Resolvendo: $-30 = -3(n-1) \\Rightarrow 10 = n - 1 \\Rightarrow n = 11$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v8",
+      "statement": "Qual é a soma dos 12 primeiros termos da PA $(100, 200, 300, ...)$?",
+      "context": "Um investidor aplica R\\$ 100,00 por mês em uma conta que não rende juros, apenas acumula o capital.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.200",
+          "is_correct": false,
+          "feedback": "Este seria o valor se não houvesse acúmulo (apenas o 12º termo)."
+        },
+        {
+          "letter": "B",
+          "text": "7.800",
+          "is_correct": true,
+          "feedback": "a12 = 1200. Soma = (100 + 1200) * 12 / 2 = 1300 * 6 = 7800."
+        },
+        {
+          "letter": "C",
+          "text": "6.600",
+          "is_correct": false,
+          "feedback": "Cálculo incorreto da soma."
+        },
+        {
+          "letter": "D",
+          "text": "15.600",
+          "is_correct": false,
+          "feedback": "Esqueceu de dividir por 2 na fórmula da soma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "O 12º termo é $100 + (12-1)100 = 1200$. A soma é $S_{12} = \\frac{(100 + 1200) \\cdot 12}{2} = 1300 \\cdot 6 = 7800$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v9",
+      "statement": "Numa PA, sabe-se que $a_3 = 10$ e $a_6 = 19$. Qual é o valor da razão $r$?",
+      "context": "Um programador em Recife cria uma rotina de repetição onde o valor de uma variável segue uma PA.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "9 é a diferença entre os termos, mas eles estão separados por 3 posições."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "a6 = a3 + 3r => 19 = 10 + 3r => 9 = 3r => r = 3."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Se r=4, a6 seria 10 + 12 = 22."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Se r=2, a6 seria 10 + 6 = 16."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos a relação entre dois termos quaisquer: $a_k = a_j + (k-j)r$. Logo, $a_6 = a_3 + (6-3)r \\Rightarrow 19 = 10 + 3r$. Resolvendo para $r$, temos $3r = 9$, então $r = 3$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v10",
+      "statement": "Insira 3 meios aritméticos entre os números 5 e 21. Qual é a razão da PA formada?",
+      "context": "Um agrimensor em Manaus mede a distância entre estacas colocadas em linha reta com intervalos constantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Se r=5, a sequência seria 5, 10, 15, 20, 25. O último seria 25, não 21."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Com 3 meios, temos 5 termos no total. 21 = 5 + 4r => 16 = 4r => r = 4. PA: (5, 9, 13, 17, 21)."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Se r=3, o 5º termo seria 17."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inserir 3 meios aritméticos entre 5 e 21 significa criar uma PA onde $a_1 = 5$ e $a_5 = 21$. Pela fórmula: $21 = 5 + (5-1) \\cdot r \\Rightarrow 16 = 4r \\Rightarrow r = 4$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v11",
+      "statement": "Em uma PA, a soma dos $n$ primeiros termos é dada por $S_n = n^2 + 2n$. Qual é o valor do primeiro termo $a_1$ e da razão $r$?",
+      "context": "Um engenheiro em São Paulo calcula o peso suportado por colunas dispostas em série com reforço progressivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_1 = 3, r = 3$",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "B",
+          "text": "$a_1 = 3, r = 2$",
+          "is_correct": true,
+          "feedback": "S1 = a1 = 1² + 2(1) = 3. S2 = a1 + a2 = 2² + 2(2) = 8. Logo a2 = 5 e r = 5-3 = 2."
+        },
+        {
+          "letter": "C",
+          "text": "$a_1 = 1, r = 2$",
+          "is_correct": false,
+          "feedback": "S1 daria 3, não 1."
+        },
+        {
+          "letter": "D",
+          "text": "$a_1 = 3, r = 1$",
+          "is_correct": false,
+          "feedback": "Se r=1, a2 seria 4 e S2 seria 7, mas S2 pela fórmula é 8."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "1) $a_1 = S_1 = 1^2 + 2(1) = 3$.\n2) $a_1 + a_2 = S_2 = 2^2 + 2(2) = 4 + 4 = 8$.\n3) $a_2 = 8 - a_1 = 8 - 3 = 5$.\n4) $r = a_2 - a_1 = 5 - 3 = 2$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v12",
+      "statement": "Determine a soma de todos os números naturais múltiplos de 7 entre 10 e 100.",
+      "context": "Um analista financeiro avalia o total acumulado de um fundo onde o aporte mensal cresce linearmente para compensar a inflação.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "700",
+          "is_correct": false,
+          "feedback": "Valor aproximado, mas não exato."
+        },
+        {
+          "letter": "B",
+          "text": "728",
+          "is_correct": true,
+          "feedback": "PA: (14, 21, ..., 98). n=13. Soma = (14+98)*13/2 = 112*6,5 = 728."
+        },
+        {
+          "letter": "C",
+          "text": "735",
+          "is_correct": false,
+          "feedback": "Erro no cálculo da soma dos termos."
+        },
+        {
+          "letter": "D",
+          "text": "630",
+          "is_correct": false,
+          "feedback": "Valor muito baixo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "1) Primeiro múltiplo: 14. Último múltiplo: 98.\n2) Número de termos: $98 = 14 + (n-1)7 \\Rightarrow 84 = 7(n-1) \\Rightarrow 12 = n-1 \\Rightarrow n = 13$.\n3) Soma: $S_{13} = \\frac{(14 + 98) \\cdot 13}{2} = \\frac{112 \\cdot 13}{2} = 56 \\cdot 13 = 728$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v13",
+      "statement": "Três números estão em PA. A soma deles é 15 e o produto é 80. Quais são esses números?",
+      "context": "Um professor desafia os alunos com uma propriedade curiosa dos termos da PA.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1, 5, 9",
+          "is_correct": false,
+          "feedback": "Soma = 15, mas produto = 45."
+        },
+        {
+          "letter": "B",
+          "text": "2, 5, 8",
+          "is_correct": true,
+          "feedback": "Soma = 2+5+8 = 15. Produto = 2*5*8 = 80. Razão r=3."
+        },
+        {
+          "letter": "C",
+          "text": "3, 5, 7",
+          "is_correct": false,
+          "feedback": "Soma = 15, mas produto = 105."
+        },
+        {
+          "letter": "D",
+          "text": "4, 5, 6",
+          "is_correct": false,
+          "feedback": "Soma = 15, mas produto = 120."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Representamos os termos como $(x-r, x, x+r)$. A soma é $(x-r) + x + (x+r) = 3x = 15 \\Rightarrow x = 5$. O produto é $(5-r) \\cdot 5 \\cdot (5+r) = 80 \\Rightarrow 25 - r^2 = 16 \\Rightarrow r^2 = 9 \\Rightarrow r = 3$. Os termos são $5-3=2, 5$ e $5+3=8$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v14",
+      "statement": "Em uma PA, $a_1 + a_9 = 20$. Qual é o valor de $a_5$?",
+      "context": "Um arquiteto em Porto Alegre utiliza PA para definir as alturas de colunas em um telhado inclinado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": true,
+          "feedback": "Pela propriedade dos termos equidistantes, a1+a9 = a5+a5 = 2*a5. Logo a5 = 20/2 = 10."
+        },
+        {
+          "letter": "C",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Este é o valor da soma dos extremos."
+        },
+        {
+          "letter": "D",
+          "text": "Não é possível determinar sem a razão.",
+          "is_correct": false,
+          "feedback": "É possível sim, pois a5 é o termo médio exato entre a1 e a9."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Em qualquer PA, a soma de dois termos equidistantes dos extremos é constante. Como $1+9 = 10$, e $5+5 = 10$, então $a_1 + a_9 = a_5 + a_5 = 2 \\cdot a_5$. Assim, $a_5 = 20/2 = 10$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v15",
+      "statement": "Ao intercalar 6 meios aritméticos entre 10 e 45, qual é o valor do quarto termo da progressão total?",
+      "context": "Um estatístico em São Paulo utiliza a interpolação para prever valores faltantes em uma série histórica linear.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Este é o terceiro termo."
+        },
+        {
+          "letter": "B",
+          "text": "25",
+          "is_correct": true,
+          "feedback": "Total de termos n=8. 45 = 10 + 7r => 35 = 7r => r = 5. PA: (10, 15, 20, 25, 30, 35, 40, 45). a4 = 25."
+        },
+        {
+          "letter": "C",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Este é o quinto termo."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Este é o segundo termo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "1) Total de termos: 2 (extremos) + 6 (meios) = 8.\n2) Razão: $a_8 = a_1 + 7r \\Rightarrow 45 = 10 + 7r \\Rightarrow 35 = 7r \\Rightarrow r = 5$.\n3) Quarto termo: $a_4 = a_1 + 3r = 10 + 3 \\cdot 5 = 25$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v16",
+      "statement": "Toda PA pode ser vista como uma função discreta. Se $a_n = 4n - 1$, qual é a soma dos 20 primeiros termos?",
+      "context": "Um matemático estuda a relação entre funções afins e progressões aritméticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "780",
+          "is_correct": false,
+          "feedback": "Cálculo incorreto da soma."
+        },
+        {
+          "letter": "B",
+          "text": "820",
+          "is_correct": true,
+          "feedback": "a1 = 3. a20 = 79. S20 = (3 + 79) * 20 / 2 = 82 * 10 = 820."
+        },
+        {
+          "letter": "C",
+          "text": "800",
+          "is_correct": false,
+          "feedback": "Cálculo incorreto."
+        },
+        {
+          "letter": "D",
+          "text": "1.640",
+          "is_correct": false,
+          "feedback": "Esqueceu de dividir por 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "1) Calculamos os extremos: $a_1 = 4(1)-1 = 3$; $a_{20} = 4(20)-1 = 79$.\n2) Aplicamos a soma: $S_{20} = \\frac{(3 + 79) \\cdot 20}{2} = 82 \\cdot 10 = 820$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v17",
+      "statement": "Para quais valores de $x$ a sequência $(\\log x, \\log 2x, \\log 4x)$ forma uma PA?",
+      "context": "Um pesquisador em Campinas analisa uma sequência onde os termos são funções de uma variável $x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Somente para $x = 1$.",
+          "is_correct": false,
+          "feedback": "Na verdade, qualquer x positivo satisfaz a condição."
+        },
+        {
+          "letter": "B",
+          "text": "Para todo $x > 0$.",
+          "is_correct": true,
+          "feedback": "Razão r = log(2x) - log(x) = log(2x/x) = log 2. Como a razão é constante independente de x, é sempre PA."
+        },
+        {
+          "letter": "C",
+          "text": "Para nenhum valor de $x$.",
+          "is_correct": false,
+          "feedback": "A sequência sempre possui uma diferença constante."
+        },
+        {
+          "letter": "D",
+          "text": "Somente para $x = 2$.",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Verificamos a diferença entre os termos:\n$r_1 = \\log(2x) - \\log(x) = \\log(2x/x) = \\log 2$.\n$r_2 = \\log(4x) - \\log(2x) = \\log(4x/2x) = \\log 2$.\nComo $r_1 = r_2 = \\log 2$ (constante), a sequência é uma PA para qualquer $x$ no domínio da função logaritmo ($x > 0$).",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v18",
+      "statement": "Numa PA de 100 termos, a soma dos termos de ordem ímpar é 500. Se a razão é $r = 2$, qual é a soma dos termos de ordem par?",
+      "context": "Durante uma olimpíada, propõe-se um desafio envolvendo a soma de termos de índices pares e ímpares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "500",
+          "is_correct": false,
+          "feedback": "Os termos pares são sempre maiores que os ímpares anteriores se r > 0."
+        },
+        {
+          "letter": "B",
+          "text": "600",
+          "is_correct": true,
+          "feedback": "Cada termo par a_2k é igual ao ímpar anterior a_{2k-1} + r. Como são 50 pares, Spar = Simpar + 50*r = 500 + 50*2 = 600."
+        },
+        {
+          "letter": "C",
+          "text": "700",
+          "is_correct": false,
+          "feedback": "Cálculo incorreto do acréscimo."
+        },
+        {
+          "letter": "D",
+          "text": "550",
+          "is_correct": false,
+          "feedback": "Cálculo incorreto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Existem 50 termos ímpares ($a_1, a_3, ..., a_{99}$) e 50 termos pares ($a_2, a_4, ..., a_{100}$). Cada termo par pode ser escrito como $a_{2k} = a_{2k-1} + r$. Somando todos os 50 pares: $\\sum a_{par} = \\sum (a_{impar} + r) = \\sum a_{impar} + 50r$. Logo, $S_{par} = 500 + 50 \\cdot 2 = 600$.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v19",
+      "statement": "As medidas dos lados de um triângulo retângulo estão em PA. Se a área do triângulo é 24, qual é o valor da hipotenusa?",
+      "context": "No vestibular do ITA, avalia-se a capacidade de relacionar PA com geometria plana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Este seria o cateto menor."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Este seria o cateto maior."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "is_correct": true,
+          "feedback": "Lados: (x-r, x, x+r). Pelo teorema de Pitágoras: (x-r)² + x² = (x+r)² => x = 4r. Lados: 3r, 4r, 5r. Área = (3r*4r)/2 = 6r² = 24 => r=2. Hipotenusa = 5r = 10."
+        },
+        {
+          "letter": "D",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Lados em PA: $x-r, x, x+r$. No triângulo retângulo, $(x-r)^2 + x^2 = (x+r)^2 \\Rightarrow x^2 - 2xr + r^2 + x^2 = x^2 + 2xr + r^2 \\Rightarrow x^2 = 4xr \\Rightarrow x = 4r$ (pois $x \\neq 0$). Os lados são $3r, 4r$ e $5r$. Área = $\\frac{3r \\cdot 4r}{2} = 6r^2$. Como Área = 24, $r^2 = 4 \\Rightarrow r = 2$. Hipotenusa = $5 \\cdot 2 = 10$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v20",
+      "statement": "Considere uma PA onde a soma dos $n$ primeiros termos é $S_n = 3n^2 + n$. Determine o termo $a_{10}$.",
+      "context": "Um matemático estuda o comportamento da soma dos inversos dos termos de uma PA, aproximando-se do conceito de série harmônica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "310",
+          "is_correct": false,
+          "feedback": "Este é o valor de S10, não do termo a10."
+        },
+        {
+          "letter": "B",
+          "text": "58",
+          "is_correct": true,
+          "feedback": "a10 = S10 - S9 = (3*100+10) - (3*81+9) = 310 - 252 = 58."
+        },
+        {
+          "letter": "C",
+          "text": "60",
+          "is_correct": false,
+          "feedback": "Cálculo incorreto da diferença entre as somas."
+        },
+        {
+          "letter": "D",
+          "text": "61",
+          "is_correct": false,
+          "feedback": "Cálculo incorreto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "O termo de posição $n$ pode ser encontrado pela diferença entre a soma dos $n$ primeiros e a soma dos $n-1$ primeiros: $a_n = S_n - S_{n-1}$.\nPara $n=10$: $a_{10} = S_{10} - S_9$.\n$S_{10} = 3(10)^2 + 10 = 310$.\n$S_9 = 3(9)^2 + 9 = 243 + 9 = 252$.\n$a_{10} = 310 - 252 = 58$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "BR-MAT-11-2026-W09-progressao-aritmetica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    }
+  ]
+}

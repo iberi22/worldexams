@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ingles",
+    "country": "cl",
+    "pack_id": "cl-week-20-grade-11-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.105Z"
+  },
+  "questions": [
+    {
+      "id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-v1",
+      "statement": "Climate change refers to long-term shifts in temperatures and weather patterns.",
+      "context": "Review of global issues (W01).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Weather",
+          "is_correct": false,
+          "feedback": "Incorrect. Weather is short-term."
+        },
+        {
+          "letter": "B",
+          "text": "Climate change",
+          "is_correct": true,
+          "feedback": "Correct. Refers to long-term global shifts."
+        },
+        {
+          "letter": "C",
+          "text": "Season",
+          "is_correct": false,
+          "feedback": "Incorrect. A season is a part of the year."
+        },
+        {
+          "letter": "D",
+          "text": "Forecast",
+          "is_correct": false,
+          "feedback": "Incorrect. A forecast is a prediction."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Climate change' is the term for the broad, long-term modifications of global climate.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-v2",
+      "statement": "By 2040, many experts believe that most vehicles will have been automated.",
+      "context": "Review of technology (W02).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will automate",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "will have been automated",
+          "is_correct": true,
+          "feedback": "Correct. Future perfect passive for a completed state."
+        },
+        {
+          "letter": "C",
+          "text": "automated",
+          "is_correct": false,
+          "feedback": "Incorrect. Past tense."
+        },
+        {
+          "letter": "D",
+          "text": "have automated",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The future perfect passive indicates that the automation process will be a finished reality by 2040.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-v3",
+      "statement": "If she hadn't started exercising regularly, she wouldn't feel so energetic today.",
+      "context": "Review of health (W03).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "didn't start",
+          "is_correct": false,
+          "feedback": "Incorrect. Second conditional."
+        },
+        {
+          "letter": "B",
+          "text": "hadn't started",
+          "is_correct": true,
+          "feedback": "Correct. Mixed conditional (past action, present result)."
+        },
+        {
+          "letter": "C",
+          "text": "wouldn't start",
+          "is_correct": false,
+          "feedback": "Incorrect grammar in 'if' clause."
+        },
+        {
+          "letter": "D",
+          "text": "hasn't started",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The mixed conditional connects a past hypothetical action with its present consequence.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-v4",
+      "statement": "Misinformation is false or inaccurate information that is spread, regardless of intent to deceive.",
+      "context": "Review of media (W04).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Misinformation",
+          "is_correct": true,
+          "feedback": "Correct. The general term for false info."
+        },
+        {
+          "letter": "B",
+          "text": "Editorial",
+          "is_correct": false,
+          "feedback": "Incorrect. An opinion piece."
+        },
+        {
+          "letter": "C",
+          "text": "Fact-check",
+          "is_correct": false,
+          "feedback": "Incorrect. The process of verifying."
+        },
+        {
+          "letter": "D",
+          "text": "Slogan",
+          "is_correct": false,
+          "feedback": "Incorrect. An advertising phrase."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Misinformation' is the technical term for false information regardless of whether the intent is malicious.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-v5",
+      "statement": "The text suggests that lifelong learning is essential for professional survival in the modern era.",
+      "context": "Review of education (W05).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "optional",
+          "is_correct": false,
+          "feedback": "Incorrect. Modern markets make it necessary."
+        },
+        {
+          "letter": "B",
+          "text": "essential",
+          "is_correct": true,
+          "feedback": "Correct. Essential means absolutely necessary."
+        },
+        {
+          "letter": "C",
+          "text": "redundant",
+          "is_correct": false,
+          "feedback": "Incorrect. Unnecessary."
+        },
+        {
+          "letter": "D",
+          "text": "academic",
+          "is_correct": false,
+          "feedback": "Incorrect. It refers to learning in all areas of life."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Essential' captures the necessity described in the text for continuous learning.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-v6",
+      "statement": "Renewable energy comes from natural sources that are constantly replenished.",
+      "context": "Review of sustainability (W06).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Finite",
+          "is_correct": false,
+          "feedback": "Incorrect. Finite means limited."
+        },
+        {
+          "letter": "B",
+          "text": "Renewable",
+          "is_correct": true,
+          "feedback": "Correct. Sources like solar and wind are renewable."
+        },
+        {
+          "letter": "C",
+          "text": "Depleted",
+          "is_correct": false,
+          "feedback": "Incorrect. Used up."
+        },
+        {
+          "letter": "D",
+          "text": "Fossil",
+          "is_correct": false,
+          "feedback": "Incorrect. Fossil fuels are non-renewable."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Renewable' is the term for energy sources that do not run out.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-v7",
+      "statement": "The global economy is being impacted by shifting trade policies and geopolitical tensions.",
+      "context": "Review of economy (W07).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is impacting",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "is being impacted",
+          "is_correct": true,
+          "feedback": "Correct. Present continuous passive for an ongoing situation."
+        },
+        {
+          "letter": "C",
+          "text": "impacted",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "D",
+          "text": "impacts",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple present."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present continuous passive describes the current and ongoing effect of these factors on the economy.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-v8",
+      "statement": "Sustainable tourism seeks to minimize the environmental footprint of travelers.",
+      "context": "Review of travel (W08).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "track",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "footprint",
+          "is_correct": true,
+          "feedback": "Correct. Footprint refers to the impact left behind."
+        },
+        {
+          "letter": "C",
+          "text": "shadow",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "path",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Environmental footprint' is the standard term for the measure of human impact on nature.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-v9",
+      "statement": "Never had I seen such an impressive collection of modern art before visiting this museum.",
+      "context": "Review of art (W09).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I had seen",
+          "is_correct": false,
+          "feedback": "Incorrect. After 'Never', we need inversion."
+        },
+        {
+          "letter": "B",
+          "text": "had I seen",
+          "is_correct": true,
+          "feedback": "Correct. Inversion after the negative adverbial 'Never'."
+        },
+        {
+          "letter": "C",
+          "text": "I saw",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "saw I",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inversion (verb before subject) is required when a sentence starts with a negative adverbial like 'Never'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-v10",
+      "statement": "The paradox of modern technology is that it can foster connection while also increasing feelings of isolation.",
+      "context": "Review of social trends (W10).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "connection",
+          "is_correct": true,
+          "feedback": "Correct. Positive side of technology."
+        },
+        {
+          "letter": "B",
+          "text": "wealth",
+          "is_correct": false,
+          "feedback": "Incorrect. Unrelated to the social point."
+        },
+        {
+          "letter": "C",
+          "text": "speed",
+          "is_correct": false,
+          "feedback": "Incorrect. While true, connection is the direct contrast to isolation."
+        },
+        {
+          "letter": "D",
+          "text": "safety",
+          "is_correct": false,
+          "feedback": "Incorrect. Unrelated to the paradox described."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Connection' is the social benefit that contrasts with the 'isolation' mentioned in the paradox.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-v11",
+      "statement": "An entrepreneur is someone who starts a new business and takes on financial risk.",
+      "context": "Review of dream jobs (W11).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "employee",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "entrepreneur",
+          "is_correct": true,
+          "feedback": "Correct. Starts and manages their own business."
+        },
+        {
+          "letter": "C",
+          "text": "consumer",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "intern",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Entrepreneur' is the specific term for someone who launches a business venture.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-v12",
+      "statement": "He ought to have confessed the truth before the situation got out of hand.",
+      "context": "Review of ethics (W12).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ought confess",
+          "is_correct": false,
+          "feedback": "Incorrect grammar."
+        },
+        {
+          "letter": "B",
+          "text": "ought to have confessed",
+          "is_correct": true,
+          "feedback": "Correct. Past moral obligation that wasn't met."
+        },
+        {
+          "letter": "C",
+          "text": "should confess",
+          "is_correct": false,
+          "feedback": "Incorrect. Present/future obligation."
+        },
+        {
+          "letter": "D",
+          "text": "must confess",
+          "is_correct": false,
+          "feedback": "Incorrect. Present/future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Ought to have + past participle' expresses a moral obligation in the past.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-v13",
+      "statement": "Scientific research must be subject to peer review to ensure its validity and accuracy.",
+      "context": "Review of science (W13).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "gossip",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "peer review",
+          "is_correct": true,
+          "feedback": "Correct. Professional evaluation system."
+        },
+        {
+          "letter": "C",
+          "text": "censorship",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "promotion",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Peer review' is the critical quality control process in the scientific community.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-v14",
+      "statement": "The movement had been growing for years before it finally achieved its goals.",
+      "context": "Review of history (W14).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was growing",
+          "is_correct": false,
+          "feedback": "Incorrect. Past continuous."
+        },
+        {
+          "letter": "B",
+          "text": "had been growing",
+          "is_correct": true,
+          "feedback": "Correct. Past perfect continuous for duration before a past point."
+        },
+        {
+          "letter": "C",
+          "text": "has been growing",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect continuous."
+        },
+        {
+          "letter": "D",
+          "text": "grows",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The past perfect continuous emphasizes the length of the struggle leading up to the turning point.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-v15",
+      "statement": "Resilience is the capacity to recover quickly from difficulties; toughness.",
+      "context": "Review of psychology (W15).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fragility",
+          "is_correct": false,
+          "feedback": "Incorrect. Opposite of resilience."
+        },
+        {
+          "letter": "B",
+          "text": "Resilience",
+          "is_correct": true,
+          "feedback": "Correct. Definition provided."
+        },
+        {
+          "letter": "C",
+          "text": "Apathy",
+          "is_correct": false,
+          "feedback": "Incorrect. Lack of interest."
+        },
+        {
+          "letter": "D",
+          "text": "Greed",
+          "is_correct": false,
+          "feedback": "Incorrect. Selfish desire."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Resilience' is the recognized term for psychological and emotional strength in the face of adversity.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-v16",
+      "statement": "Empathy is the ability to understand and share the feelings of another.",
+      "context": "Review of communication (W16).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sympathy",
+          "is_correct": false,
+          "feedback": "Incorrect. Sympathy is feeling for; empathy is feeling with."
+        },
+        {
+          "letter": "B",
+          "text": "Empathy",
+          "is_correct": true,
+          "feedback": "Correct. Core communication skill."
+        },
+        {
+          "letter": "C",
+          "text": "Apathy",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Hostility",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Empathy' is fundamental for effective and compassionate human communication.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-v17",
+      "statement": "The city is getting used to the new sustainable energy regulations.",
+      "context": "Review of urban life (W17).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "used to",
+          "is_correct": false,
+          "feedback": "Incorrect. Past habit."
+        },
+        {
+          "letter": "B",
+          "text": "is getting used to",
+          "is_correct": true,
+          "feedback": "Correct. Process of becoming accustomed."
+        },
+        {
+          "letter": "C",
+          "text": "uses to",
+          "is_correct": false,
+          "feedback": "Incorrect grammar."
+        },
+        {
+          "letter": "D",
+          "text": "get used to",
+          "is_correct": false,
+          "feedback": "Incorrect grammar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Be getting used to' describes the current process of adaptation to a new situation.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-v18",
+      "statement": "A digital footprint is the record of your activities on the internet.",
+      "context": "Review of digital citizenship (W18).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "path",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "footprint",
+          "is_correct": true,
+          "feedback": "Correct. Standard term."
+        },
+        {
+          "letter": "C",
+          "text": "shadow",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "ID",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Digital footprint' is the metaphorical term for the data trail left by internet users.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-v19",
+      "statement": "The author said that his book had been translated into twelve languages.",
+      "context": "Review of literature (W19).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has been",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted in reported speech."
+        },
+        {
+          "letter": "B",
+          "text": "had been",
+          "is_correct": true,
+          "feedback": "Correct. Backshifted from present perfect to past perfect."
+        },
+        {
+          "letter": "C",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "D",
+          "text": "will be",
+          "is_correct": false,
+          "feedback": "Incorrect. Future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, we backshift tenses: 'My book has been...' becomes '...said that his book had been...'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-v20",
+      "statement": "The most important lesson from Period 1 is the interconnectedness of global issues and personal responsibility.",
+      "context": "Summary of Period 1 themes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "interconnectedness",
+          "is_correct": true,
+          "feedback": "Correct. The state of being connected with each other."
+        },
+        {
+          "letter": "B",
+          "text": "isolation",
+          "is_correct": false,
+          "feedback": "Incorrect. Themes showed how everything is linked."
+        },
+        {
+          "letter": "C",
+          "text": "simplicity",
+          "is_correct": false,
+          "feedback": "Incorrect. Most themes were complex."
+        },
+        {
+          "letter": "D",
+          "text": "irrelevance",
+          "is_correct": false,
+          "feedback": "Incorrect. These issues are highly relevant."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Interconnectedness' captures the recurring theme of how different global and personal factors affect one another.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W20-review-p1-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

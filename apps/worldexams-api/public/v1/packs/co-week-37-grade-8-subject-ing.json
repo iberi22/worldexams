@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-37-grade-8-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.753Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-8-2026-W37-relative-pronouns-obj-001-MASTERY-v1",
+      "statement": "The present ________ you gave me is fantastic!",
+      "context": "Identifying an object relative pronoun for things.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "Incorrect. Present is not a person."
+        },
+        {
+          "letter": "B",
+          "text": "that",
+          "is_correct": true,
+          "feedback": "Correct! \"That\" (or \"which\") can be the object of the clause (you gave it)."
+        },
+        {
+          "letter": "C",
+          "text": "whose",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "whom",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En esta oración, \"that\" es el objeto del verbo \"gave\". Se refiere al regalo (the present).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W37-relative-pronouns-obj-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W37-relative-pronouns-obj-001-MASTERY-v2",
+      "statement": "The person to ________ you were speaking is the manager.",
+      "context": "Formal use of \"whom\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "Incorrect. After a preposition, \"whom\" is the correct formal form."
+        },
+        {
+          "letter": "B",
+          "text": "whom",
+          "is_correct": true,
+          "feedback": "Correct! Formal object pronoun used after prepositions."
+        },
+        {
+          "letter": "C",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "whose",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En inglés formal, después de una preposición (to, with, for), usamos \"whom\" en lugar de \"who\" para referirnos a personas que son el objeto de la acción.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W37-relative-pronouns-obj-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W37-relative-pronouns-obj-001-MASTERY-v3",
+      "statement": "Which of these is a correct way to say: \"The girl who I met yesterday\"?",
+      "context": "Omitting the pronoun.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The girl that I met yesterday.",
+          "is_correct": false,
+          "feedback": "Correct, but there is a more complete answer."
+        },
+        {
+          "letter": "B",
+          "text": "The girl I met yesterday.",
+          "is_correct": false,
+          "feedback": "Correct, but there is a more complete answer."
+        },
+        {
+          "letter": "C",
+          "text": "Both A and B are correct.",
+          "is_correct": true,
+          "feedback": "Correct! When the pronoun is the object, we can use \"that\" or omit it entirely."
+        },
+        {
+          "letter": "D",
+          "text": "Neither of these",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En las oraciones especificativas (defining), si el pronombre relativo es el objeto (yo conocí a ella), podemos usar \"who\", \"that\" o simplemente no poner nada.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W37-relative-pronouns-obj-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W37-relative-pronouns-obj-001-MASTERY-v4",
+      "statement": "In which sentence is the relative pronoun the **object**?",
+      "context": "Identifying subject vs. object pronouns.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The man who lives here is a doctor.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Who\" is the subject of \"lives\"."
+        },
+        {
+          "letter": "B",
+          "text": "The man (who) I saw here is a doctor.",
+          "is_correct": true,
+          "feedback": "Correct! \"I\" is the subject, \"who\" is the object of \"saw\"."
+        },
+        {
+          "letter": "C",
+          "text": "The dog that barked is mine.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"That\" is the subject."
+        },
+        {
+          "letter": "D",
+          "text": "The woman who won is happy.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para saber si un pronombre es objeto, mira si hay otro sujeto (yo, tú, Luis) inmediatamente después del pronombre. Si lo hay, el pronombre es el objeto.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W37-relative-pronouns-obj-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W37-relative-pronouns-obj-001-MASTERY-v5",
+      "statement": "Which sentence is the most natural in spoken English?",
+      "context": "Prepositions at the end of the clause.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The house in which I live is small.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is very formal."
+        },
+        {
+          "letter": "B",
+          "text": "The house I live in is small.",
+          "is_correct": true,
+          "feedback": "Correct! In spoken English, we often omit the pronoun and put the preposition at the end."
+        },
+        {
+          "letter": "C",
+          "text": "The house which I live is small.",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing the preposition \"in\"."
+        },
+        {
+          "letter": "D",
+          "text": "The house who I live in is small.",
+          "is_correct": false,
+          "feedback": "Incorrect pronoun."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el habla cotidiana, es muy común \"colgar\" la preposición al final de la oración de relativo y omitir el pronombre si es el objeto.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-8-2026-W37-relative-pronouns-obj-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W37-relative-pronouns-obj-001-MASTERY-v6",
+      "statement": "The museum ________ we visited in Bogotá had amazing exhibits.",
+      "context": "Describing a shared experience.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "that",
+          "is_correct": true,
+          "feedback": "Correct! Standard relative pronoun for an object (the museum we visited)."
+        },
+        {
+          "letter": "C",
+          "text": "whom",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "where",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Where\" would need a different structure (the museum where we saw the exhibits)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos \"that\" o \"which\" para referirnos a lugares cuando funcionan como el objeto directo del verbo (nosotros visitamos *el museo*).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-8-2026-W37-relative-pronouns-obj-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W37-relative-pronouns-obj-001-MASTERY-v7",
+      "statement": "\"Whom did you invite to the party?\" (Formal)\r\n\"Who did you invite to the party?\" (Informal)\r\n\r\nWhich statement is true?",
+      "context": "\"Whom\" vs. \"Who\" in formal vs. informal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only the first one is correct.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Both are grammatically acceptable, but \"whom\" is specifically for the object position in formal writing.",
+          "is_correct": true,
+          "feedback": "Correct! B1 level requires recognizing \"whom\" for formal contexts."
+        },
+        {
+          "letter": "C",
+          "text": "\"Whom\" is used for plural people.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "They have different meanings.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aunque \"who\" se usa casi siempre en el habla, el estudiante B1 debe saber que \"whom\" existe para funciones de objeto en textos académicos o formales.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-8-2026-W37-relative-pronouns-obj-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W37-relative-pronouns-obj-001-MASTERY-v8",
+      "statement": "\"The student **the teacher praised** was very proud.\"\r\nIs this sentence correct without a relative pronoun?",
+      "context": "Understanding clarity in complex descriptions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, it's missing \"who\".",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Yes, because the relative pronoun is the object (the teacher praised *him*).",
+          "is_correct": true,
+          "feedback": "Correct! Pronouns can be omitted when they are the object."
+        },
+        {
+          "letter": "C",
+          "text": "No, it's missing \"which\".",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, but only in informal text.",
+          "is_correct": false,
+          "feedback": "Incorrect. It's common in formal text too."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La omisión del pronombre relativo (\"contact clauses\") es muy común en inglés y el estudiante debe ser capaz de reconocer la estructura oculta.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-8-2026-W37-relative-pronouns-obj-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W37-relative-pronouns-obj-001-MASTERY-v9",
+      "statement": "This is the song ________ I was telling you ________.",
+      "context": "Relative clauses with verbs + prepositions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "that / of",
+          "is_correct": false,
+          "feedback": "Incorrect preposition."
+        },
+        {
+          "letter": "B",
+          "text": "that / about",
+          "is_correct": true,
+          "feedback": "Correct! We \"tell someone ABOUT\" something."
+        },
+        {
+          "letter": "C",
+          "text": "who / about",
+          "is_correct": false,
+          "feedback": "Incorrect pronoun."
+        },
+        {
+          "letter": "D",
+          "text": "whom / of",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al usar oraciones de relativo, es fundamental mantener la preposición correcta que requiere el verbo principal (tell about, listen to, look for).\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-8-2026-W37-relative-pronouns-obj-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W37-relative-pronouns-obj-001-MASTERY-v10",
+      "statement": "Identify the error:\r\n\"The **movie (A)** that **we (B)** watched **it (C)** last night **was (D)** great.\"",
+      "context": "Identifying redundancy errors.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "movie",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "we",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "it",
+          "is_correct": true,
+          "feedback": "Correct! Error found. The relative pronoun \"that\" already represents the movie. You cannot have \"it\" (the movie) again in the same clause."
+        },
+        {
+          "letter": "D",
+          "text": "was",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un error típico en B1 es repetir el pronombre de objeto (it, him, them) dentro de la oración de relativo. El pronombre relativo ya cumple esa función.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-8-2026-W37-relative-pronouns-obj-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W37-relative-pronouns-obj-001-MASTERY-v11",
+      "statement": "Which sentence is best for a formal letter of recommendation?",
+      "context": "Evaluating tone and clarity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He is a guy I worked with.",
+          "is_correct": false,
+          "feedback": "Incorrect. Too informal."
+        },
+        {
+          "letter": "B",
+          "text": "He is a professional with whom I have had the pleasure of working for three years.",
+          "is_correct": true,
+          "feedback": "Correct! Uses formal \"whom\" and places the preposition correctly for a high-level register."
+        },
+        {
+          "letter": "C",
+          "text": "He is the person that I worked with him.",
+          "is_correct": false,
+          "feedback": "Incorrect. Redundant \"him\"."
+        },
+        {
+          "letter": "D",
+          "text": "He is a professional who I worked.",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing the preposition \"with\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El manejo de la formalidad mediante la estructura \"Preposición + Whom\" es una señal de competencia avanzada en el nivel B1.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-8-2026-W37-relative-pronouns-obj-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W37-relative-pronouns-obj-001-MASTERY-v12",
+      "statement": "\"I spent hours searching for the document. Finally, I found the file. My boss had sent it to me last week. It was in my 'spam' folder.\"\r\nChoose the best summary:",
+      "context": "Selecting the best summary of a search.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I finally found the document that my boss had sent last week in the spam folder.",
+          "is_correct": true,
+          "feedback": "Correct! It efficiently uses a relative clause to identify the document."
+        },
+        {
+          "letter": "B",
+          "text": "The document who the boss sent was in the spam.",
+          "is_correct": false,
+          "feedback": "Incorrect pronoun (who)."
+        },
+        {
+          "letter": "C",
+          "text": "I found the spam folder that it had the boss in it.",
+          "is_correct": false,
+          "feedback": "Incorrect and illogical."
+        },
+        {
+          "letter": "D",
+          "text": "My boss is a document that I found.",
+          "is_correct": false,
+          "feedback": "Incorrect and illogical."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Resumir búsquedas y hallazgos requiere el uso de oraciones de relativo de objeto para ligar el ítem encontrado con su origen o descripción previa de manera compacta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-8-2026-W37-relative-pronouns-obj-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

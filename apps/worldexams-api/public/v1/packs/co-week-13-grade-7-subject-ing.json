@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-13-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.894Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W13-past-simple-irregular-001-v1",
+      "statement": "What is the Past Simple form of the verb \"go\"?",
+      "context": "Identifying the past of the verb \"go\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "goed",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Go\" is an irregular verb."
+        },
+        {
+          "letter": "B",
+          "text": "went",
+          "is_correct": true,
+          "feedback": "Correct! \"Went\" is the past tense of \"go\"."
+        },
+        {
+          "letter": "C",
+          "text": "gone",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the past participle."
+        },
+        {
+          "letter": "D",
+          "text": "going",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the -ing form."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies the correct past form of one of the most common irregular verbs in English.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W13-past-simple-irregular-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W13-past-simple-irregular-002-v1",
+      "statement": "Choose the correct Past Simple form of \"eat\".",
+      "context": "Identifying the past of the verb \"eat\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "eated",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Eat\" is irregular."
+        },
+        {
+          "letter": "B",
+          "text": "eten",
+          "is_correct": false,
+          "feedback": "Incorrect. Incorrect spelling."
+        },
+        {
+          "letter": "C",
+          "text": "ate",
+          "is_correct": true,
+          "feedback": "Correct! \"Ate\" is the past tense of \"eat\"."
+        },
+        {
+          "letter": "D",
+          "text": "eats",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the present tense for third person."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student remembers the irregular past form of the verb \"eat\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W13-past-simple-irregular-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W13-past-simple-irregular-003-v1",
+      "statement": "\"Last Sunday, we ________ to the Laguna de la Cocha.\"",
+      "context": "Describing a family activity in Pasto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "went",
+          "is_correct": true,
+          "feedback": "Correct! Past simple of \"go\"."
+        },
+        {
+          "letter": "B",
+          "text": "go",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "C",
+          "text": "were",
+          "is_correct": false,
+          "feedback": "Incorrect. This means \"Estábamos\", but the context implies movement."
+        },
+        {
+          "letter": "D",
+          "text": "goed",
+          "is_correct": false,
+          "feedback": "Incorrect. Irregular form error."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student understands the use of the irregular past form \"went\" in a sentence describing a trip.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W13-past-simple-irregular-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W13-past-simple-irregular-004-v1",
+      "statement": "\"I ________ a very interesting movie about nature last night.\" (Verb: see)",
+      "context": "Mentioning a past visual experience.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "see",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "B",
+          "text": "saw",
+          "is_correct": true,
+          "feedback": "Correct! \"Saw\" is the irregular past tense of \"see\"."
+        },
+        {
+          "letter": "C",
+          "text": "seed",
+          "is_correct": false,
+          "feedback": "Incorrect. Irregular form error."
+        },
+        {
+          "letter": "D",
+          "text": "seen",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the past participle."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands and selects the correct irregular past form for the verb \"see\".\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W13-past-simple-irregular-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W13-past-simple-irregular-005-v1",
+      "statement": "\"My parents ________ me a new bicycle for my birthday.\" (Verb: give)",
+      "context": "Describing a gift received.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "gived",
+          "is_correct": false,
+          "feedback": "Incorrect. Irregular verb error."
+        },
+        {
+          "letter": "B",
+          "text": "gave",
+          "is_correct": true,
+          "feedback": "Correct! \"Gave\" is the past tense of \"give\"."
+        },
+        {
+          "letter": "C",
+          "text": "given",
+          "is_correct": false,
+          "feedback": "Incorrect. Past participle."
+        },
+        {
+          "letter": "D",
+          "text": "give",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies the correct irregular past conjugation to a specific social context.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W13-past-simple-irregular-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W13-past-simple-irregular-006-v1",
+      "statement": "How did they get to the city center?",
+      "context": "A description of a Saturday trip.\n\"On Saturday, we had breakfast early. Then, we took the bus to the city center. We bought some souvenirs and drank fresh orange juice.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They had breakfast.",
+          "is_correct": false,
+          "feedback": "Incorrect. This was before the trip."
+        },
+        {
+          "letter": "B",
+          "text": "They took the bus.",
+          "is_correct": true,
+          "feedback": "Correct! \"Took\" is the past of \"take\"."
+        },
+        {
+          "letter": "C",
+          "text": "They bought a car.",
+          "is_correct": false,
+          "feedback": "Incorrect. They bought souvenirs."
+        },
+        {
+          "letter": "D",
+          "text": "They walked.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says they \"took the bus\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies reading skills to understand actions described with irregular past verbs.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W13-past-simple-irregular-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W13-past-simple-irregular-007-v1",
+      "statement": "\"The student ________ a beautiful poem in the English class.\" (Verb: write)",
+      "context": "Describing a creative action.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wrote",
+          "is_correct": true,
+          "feedback": "Correct! \"Wrote\" is the past of \"write\"."
+        },
+        {
+          "letter": "B",
+          "text": "writed",
+          "is_correct": false,
+          "feedback": "Incorrect. Irregular verb error."
+        },
+        {
+          "letter": "C",
+          "text": "write",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "D",
+          "text": "written",
+          "is_correct": false,
+          "feedback": "Incorrect. Past participle."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student applies the irregular past conjugation for the verb \"write\" in a school context.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W13-past-simple-irregular-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W13-past-simple-irregular-008-v1",
+      "statement": "Which sentence is completely correct?",
+      "context": "Identifying the correct combination of irregular verbs.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I make a cake and bring it to the party yesterday.",
+          "is_correct": false,
+          "feedback": "Incorrect. Both verbs should be in the past."
+        },
+        {
+          "letter": "B",
+          "text": "I maked a cake and brought it to the party yesterday.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Make\" is irregular, its past is \"made\"."
+        },
+        {
+          "letter": "C",
+          "text": "I made a cake and brought it to the party yesterday.",
+          "is_correct": true,
+          "feedback": "Correct! \"Made\" and \"brought\" are the correct irregular past forms."
+        },
+        {
+          "letter": "D",
+          "text": "I made a cake and bringed it to the party yesterday.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Bring\" is irregular, its past is \"brought\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student analyzes multiple irregular verbs to ensure they are both correctly conjugated in the past tense.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W13-past-simple-irregular-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W13-past-simple-irregular-009-v1",
+      "statement": "What happened first?",
+      "context": "Comparing past actions.\n\"Mateo told me a secret. Then, I spoke to Elena about it. She felt very surprised.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mateo said something to the narrator.",
+          "is_correct": true,
+          "feedback": "Correct! \"Told\" is the past of \"tell\"; this was the first action."
+        },
+        {
+          "letter": "B",
+          "text": "Elena spoke to Mateo.",
+          "is_correct": false,
+          "feedback": "Incorrect. The narrator spoke to Elena."
+        },
+        {
+          "letter": "C",
+          "text": "Elena was surprised.",
+          "is_correct": false,
+          "feedback": "Incorrect. This was the final result."
+        },
+        {
+          "letter": "D",
+          "text": "Mateo felt surprised.",
+          "is_correct": false,
+          "feedback": "Incorrect. Elena was the surprised one."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student analyzes the sequence of events described using irregular past verbs (tell -> told, speak -> spoke, feel -> felt).\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W13-past-simple-irregular-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W13-past-simple-irregular-010-v1",
+      "statement": "Which statement best evaluates Sara's performance and its result?",
+      "context": "A summary of a student's past achievement.\n\"Sara did her best in the competition. She ran faster than ever and won the gold medal. She came home very happy and told her parents everything.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She didn't do much and lost the competition.",
+          "is_correct": false,
+          "feedback": "Incorrect. She won."
+        },
+        {
+          "letter": "B",
+          "text": "She was fast, but she didn't win anything.",
+          "is_correct": false,
+          "feedback": "Incorrect. She won the gold medal."
+        },
+        {
+          "letter": "C",
+          "text": "Her effort led to a victory and a shared celebration with her family.",
+          "is_correct": true,
+          "feedback": "Correct! \"Did her best\" and \"ran faster\" (effort) led to \"won\" (victory), and she \"told her parents\" (celebration)."
+        },
+        {
+          "letter": "D",
+          "text": "She ran slowly and felt sad.",
+          "is_correct": false,
+          "feedback": "Incorrect. She ran \"faster than ever\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student evaluates the logical connections between the past actions and outcomes described in the text.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W13-past-simple-irregular-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

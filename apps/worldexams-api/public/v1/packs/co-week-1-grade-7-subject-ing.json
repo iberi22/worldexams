@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-1-grade-7-subject-ingles",
+    "generated_at": "2026-06-22T23:32:16.471Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W01-greetings-personal-info-001-v1",
+      "statement": "What is the most appropriate formal greeting when meeting a teacher in the morning?",
+      "context": "Two students, Mateo and Valentina, meet on their first day at a public school in Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "What's up, teacher?",
+          "is_correct": false,
+          "feedback": "Incorrect. This is very informal and not suitable for a teacher."
+        },
+        {
+          "letter": "B",
+          "text": "Good morning, teacher.",
+          "is_correct": true,
+          "feedback": "Correct! This is a polite and formal greeting for the morning."
+        },
+        {
+          "letter": "C",
+          "text": "Bye, teacher.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is used when leaving, not when greeting."
+        },
+        {
+          "letter": "D",
+          "text": "See you later.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a farewell, not a greeting."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student needs to identify the correct formal greeting for a morning school context. \"Good morning\" is the standard formal greeting for this time of day.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W01-greetings-personal-info-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W01-greetings-personal-info-002-v1",
+      "statement": "Which piece of information corresponds to the field \"Surname\" on the form?",
+      "context": "A student is filling out an enrollment form for an English course in Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "13 years old",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the age, not the surname."
+        },
+        {
+          "letter": "B",
+          "text": "Student",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the occupation."
+        },
+        {
+          "letter": "C",
+          "text": "Rodríguez",
+          "is_correct": true,
+          "feedback": "Correct! A surname refers to your last name."
+        },
+        {
+          "letter": "D",
+          "text": "Bogotá",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the city of origin or residence."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student must distinguish between different types of personal information. \"Surname\" refers to the family name (last name).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W01-greetings-personal-info-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W01-greetings-personal-info-003-v1",
+      "statement": "Luis: \"Nice to meet you, Camilo.\"\nCamilo: \"________________________\"",
+      "context": "A conversation between two new classmates in the school cafeteria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am fine, thanks.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a response to \"How are you?\"."
+        },
+        {
+          "letter": "B",
+          "text": "Nice to meet you, too.",
+          "is_correct": true,
+          "feedback": "Correct! This is the standard polite response to being introduced."
+        },
+        {
+          "letter": "C",
+          "text": "I am from Cali.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a response to \"Where are you from?\"."
+        },
+        {
+          "letter": "D",
+          "text": "My name is Camilo.",
+          "is_correct": false,
+          "feedback": "Incorrect. The name has already been mentioned in the introduction."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student needs to select the logically correct response in a social introduction scenario. \"Nice to meet you, too\" completes the conversational exchange.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmatic Matching",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W01-greetings-personal-info-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W01-greetings-personal-info-004-v1",
+      "statement": "Which question is used to ask about someone's origin?",
+      "context": "A short dialogue during a break between classes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "How are you today?",
+          "is_correct": false,
+          "feedback": "Incorrect. This asks about feelings or health."
+        },
+        {
+          "letter": "B",
+          "text": "Where are you from?",
+          "is_correct": true,
+          "feedback": "Correct! This question specifically asks about a person's city or country of origin."
+        },
+        {
+          "letter": "C",
+          "text": "What is your phone number?",
+          "is_correct": false,
+          "feedback": "Incorrect. This asks for contact information."
+        },
+        {
+          "letter": "D",
+          "text": "Who is your best friend?",
+          "is_correct": false,
+          "feedback": "Incorrect. This asks about a relationship."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student must understand the communicative intent of common personal information questions. \"Where are you from?\" is the standard for asking about origin.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Communicative Intent",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W01-greetings-personal-info-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W01-greetings-personal-info-005-v1",
+      "statement": "Choose the correct sentence to introduce your friend Sarah.",
+      "context": "Introducing a new student to the group.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I is Sarah.",
+          "is_correct": false,
+          "feedback": "Incorrect. The verb \"to be\" is incorrectly conjugated for the first person."
+        },
+        {
+          "letter": "B",
+          "text": "She name is Sarah.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"She\" is a subject pronoun; the possessive \"Her\" should be used."
+        },
+        {
+          "letter": "C",
+          "text": "This is my friend, Sarah.",
+          "is_correct": true,
+          "feedback": "Correct! This is a common and correct way to introduce someone else."
+        },
+        {
+          "letter": "D",
+          "text": "Sarah am my friend.",
+          "is_correct": false,
+          "feedback": "Incorrect. The verb \"am\" only goes with \"I\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student applies grammatical rules (demonstrative pronouns and verb to be) to perform a social introduction.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W01-greetings-personal-info-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W01-greetings-personal-info-006-v1",
+      "statement": "Based on the information, which sentence is correct?",
+      "context": "A small ID card for a school project.\n\"Name: Julian / Age: 12 / City: Pasto / Hobby: Soccer\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Julian is from Bogotá.",
+          "is_correct": false,
+          "feedback": "Incorrect. The card says he is from Pasto."
+        },
+        {
+          "letter": "B",
+          "text": "Julian is twelve years old.",
+          "is_correct": true,
+          "feedback": "Correct! The card indicates his age is 12."
+        },
+        {
+          "letter": "C",
+          "text": "His last name is Soccer.",
+          "is_correct": false,
+          "feedback": "Incorrect. Soccer is his hobby, not his last name."
+        },
+        {
+          "letter": "D",
+          "text": "Julian lives in Cali.",
+          "is_correct": false,
+          "feedback": "Incorrect. The card mentions Pasto, not Cali."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student must apply reading strategies to extract specific personal information from a non-continuous text (ID card).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W01-greetings-personal-info-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W01-greetings-personal-info-007-v1",
+      "statement": "Complete the sentence: \"I live in Barranquilla, but my mother ________ from Cartagena.\"",
+      "context": "An email fragment from a pen pal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is",
+          "is_correct": true,
+          "feedback": "Correct! Third person singular of the verb \"to be\" to express origin."
+        },
+        {
+          "letter": "B",
+          "text": "am",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Am\" is used only for \"I\"."
+        },
+        {
+          "letter": "C",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Are\" is used for plural subjects and \"you\"."
+        },
+        {
+          "letter": "D",
+          "text": "be",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the base form, not the conjugated form needed here."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student applies knowledge of the verb \"to be\" in a context of describing family origins.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W01-greetings-personal-info-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W01-greetings-personal-info-008-v1",
+      "statement": "Why does Andrés say \"Welcome to Colombia\"?",
+      "context": "A dialogue between a tourist and a local guide in Cartagena.\nGuide: \"Good afternoon! Are you Mr. Miller?\"\nTourist: \"Yes, I am. Nice to meet you.\"\nGuide: \"Welcome to Colombia. I am your guide, Andrés.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because he is asking for the tourist's name.",
+          "is_correct": false,
+          "feedback": "Incorrect. He already knows the name."
+        },
+        {
+          "letter": "B",
+          "text": "Because he wants to know where Mr. Miller is from.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a welcoming phrase, not a question."
+        },
+        {
+          "letter": "C",
+          "text": "Because he is receiving a visitor in his country.",
+          "is_correct": true,
+          "feedback": "Correct! \"Welcome\" is used to greet someone arriving at a place."
+        },
+        {
+          "letter": "D",
+          "text": "Because he is saying goodbye to the tourist.",
+          "is_correct": false,
+          "feedback": "Incorrect. They are just meeting for the first time."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student analyzes the social function of the word \"Welcome\" within a specific communicative context.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W01-greetings-personal-info-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W01-greetings-personal-info-009-v1",
+      "statement": "Choose the sentence that is grammatically perfect and natural for a profile.",
+      "context": "A profile description on a student social network.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I have 14 years and I live in Manizales.",
+          "is_correct": false,
+          "feedback": "Incorrect. In English, we use \"be\" for age, not \"have\"."
+        },
+        {
+          "letter": "B",
+          "text": "I am 14 years old and I live in Manizales.",
+          "is_correct": true,
+          "feedback": "Correct! This follows the correct structure for age and residence."
+        },
+        {
+          "letter": "C",
+          "text": "I am 14 years and I lives in Manizales.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Lives\" is third person; the first person is \"live\"."
+        },
+        {
+          "letter": "D",
+          "text": "I is 14 years old and I live in Manizales.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"I is\" is grammatically wrong."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes and compares different structures to identify the correct way to express age and location in English.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W01-greetings-personal-info-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W01-greetings-personal-info-010-v1",
+      "statement": "Which of the following summaries best describes Diana?",
+      "context": "A short text about a student.\n\"Hello! I am Diana. I am a student at a school in Bucaramanga. I am 13. My favorite subject is Science. I want to be a doctor.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She is a 13-year-old girl who lives in Bucaramanga and likes doctors.",
+          "is_correct": false,
+          "feedback": "Incorrect. She wants to be a doctor, not just \"likes\" them."
+        },
+        {
+          "letter": "B",
+          "text": "Diana is a student who lives in Bucaramanga and her favorite subject is English.",
+          "is_correct": false,
+          "feedback": "Incorrect. Her favorite subject is Science."
+        },
+        {
+          "letter": "C",
+          "text": "Diana is a 13-year-old student from Bucaramanga who dreams of being a doctor.",
+          "is_correct": true,
+          "feedback": "Correct! This accurately summarizes her age, location, and aspiration."
+        },
+        {
+          "letter": "D",
+          "text": "Diana is a doctor who works in a school in Bucaramanga.",
+          "is_correct": false,
+          "feedback": "Incorrect. She is a student, not a doctor yet."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student must evaluate the information provided in the text and select the summary that most accurately represents the facts and intentions mentioned.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W01-greetings-personal-info-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

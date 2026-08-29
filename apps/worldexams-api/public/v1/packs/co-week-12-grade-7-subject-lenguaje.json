@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-12-grade-7-subject-lengua",
+    "generated_at": "2026-06-18T23:58:37.537Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué característica comparten la coordinación y la yuxtaposición en la formación de oraciones compuestas?",
+      "context": "En la clase de Lengua en un colegio de Manizales, los estudiantes estudian cómo las oraciones pueden tener independencia o dependencia entre sí.\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas necesitan obligatoriamente de la conjunción \"que\" para existir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Que\" es un nexo de subordinación, no de coordinación ni yuxtaposición."
+        },
+        {
+          "letter": "B",
+          "text": "Las proposiciones que las forman mantienen su independencia sintáctica (tienen el mismo peso jerárquico).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ambas unen ideas que podrían funcionar como oraciones simples por separado."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas prohíben el uso de verbos conjugados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas las oraciones compuestas necesitan verbos conjugados."
+        },
+        {
+          "letter": "D",
+          "text": "Solo se pueden usar en textos científicos muy avanzados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usan en el habla cotidiana y en todo tipo de textos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Tanto en la coordinación como en la yuxtaposición, no hay una idea \"más importante\" que otra desde el punto de vista de la gramática. Son como eslabones de una misma cadena que se unen para formar un mensaje más completo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué tipo de oración compuesta ha escrito Valentina y cuál es el signo de puntuación que permite identificarlo?",
+      "context": "Valentina escribe en su diario: \"Fui al centro de Medellín, compré unas flores, regresé temprano\".\n**Expected_Success:** 0.82",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oración coordinada; identificada por la coma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La coordinación requiere nexos (conjunciones), no solo comas."
+        },
+        {
+          "letter": "B",
+          "text": "Oración yuxtapuesta; identificada por el uso de comas entre proposiciones.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las comas unen las ideas directamente sin necesidad de nexos."
+        },
+        {
+          "letter": "C",
+          "text": "Oración subordinada; identificada por el punto final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El punto final no define el tipo de unión entre proposiciones."
+        },
+        {
+          "letter": "D",
+          "text": "Oración simple; identificada por el uso de verbos en infinitivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay tres verbos conjugados, por lo que es una oración compuesta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La yuxtaposición es la unión de proposiciones sin nexos gramaticales. Se basa en el uso de la coma, el punto y coma o los dos puntos. Es un recurso muy ágil para enumerar acciones o estados.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle-v3",
+      "statement": "Identifica cuál de las siguientes es una oración COORDINADA COPULATIVA.",
+      "context": "Los nexos coordinantes copulativos sirven para sumar ideas o acciones.\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "¿Vas a viajar a San Andrés o prefieres quedarte en la casa?",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nexo \"o\" indica opción (disyuntiva), no suma."
+        },
+        {
+          "letter": "B",
+          "text": "El equipo de fútbol entrenó fuerte y los resultados fueron excelentes.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nexo \"y\" suma dos proposiciones independientes."
+        },
+        {
+          "letter": "C",
+          "text": "Hace mucho frío en Bogotá; me pondré la chaqueta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una oración yuxtapuesta porque usa punto y coma."
+        },
+        {
+          "letter": "D",
+          "text": "No sé si podré acompañarte a la biblioteca mañana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una oración subordinada sustantiva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coordinación copulativa usa nexos como \"y\", \"e\", \"ni\". Su función es simple: acumular información. Es la forma más básica de construcción de oraciones compuestas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle-v4",
+      "statement": "\"Quería comprar el libro de Rafael Pombo, **pero la librería estaba cerrada**\". ¿Qué tipo de relación establece el nexo en negrilla?",
+      "context": "En la coordinación adversativa, una proposición corrige o limita el significado de la otra.\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Relación de suma de dos acciones positivas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nexo \"pero\" no suma, sino que opone."
+        },
+        {
+          "letter": "B",
+          "text": "Relación de causa y efecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que la librería esté cerrada no es la causa de querer comprar el libro."
+        },
+        {
+          "letter": "C",
+          "text": "Relación de oposición o contraste (adversativa).",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nexo \"pero\" presenta un obstáculo a la intención de la primera proposición."
+        },
+        {
+          "letter": "D",
+          "text": "Relación de tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No indica cuándo ocurre la acción, sino un inconveniente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los nexos adversativos (pero, mas, sin embargo, sino) son fundamentales para la argumentación. Permiten matizar las ideas y mostrar contrastes entre la realidad y el deseo o la intención.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle-v5",
+      "statement": "En la oración: \"Los campesinos no sembraron este año: la sequía fue muy larga\", ¿qué relación lógica se establece a través de la yuxtaposición con dos puntos?",
+      "context": "Santiago nota que en los textos de historia a veces se usan dos puntos (:) para explicar algo sin usar palabras como \"porque\" o \"entonces\".\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Relación de suma de dos problemas diferentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda parte explica la primera, no es solo otra idea suelta."
+        },
+        {
+          "letter": "B",
+          "text": "Relación de causa-consecuencia (explicativa).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los dos puntos actúan como un nexo que explica el motivo por el cual no se sembró."
+        },
+        {
+          "letter": "C",
+          "text": "Relación de duda o incertidumbre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La afirmación es clara y directa."
+        },
+        {
+          "letter": "D",
+          "text": "Relación de comparación entre el año pasado y este.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay una comparación explícita entre tiempos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los dos puntos en la yuxtaposición tienen un valor explicativo. Equivalen a nexos como \"ya que\" o \"debido a que\", pero con una estructura más directa y sintética, propia de un lenguaje más maduro.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle-v6",
+      "statement": "¿Cómo se puede transformar la oración: \"Juan estudia y Pedro trabaja y María descansa\" en una oración YUXTAPUESTA para que sea más fluida?",
+      "context": "Al escribir, es importante evitar la repetición excesiva de nexos (\"y\", \"y\", \"y\"), lo que se conoce como polisíndeton innecesario.\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Juan estudia Pedro trabaja María descansa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin puntuación ni nexos, el texto es incomprensible."
+        },
+        {
+          "letter": "B",
+          "text": "Juan estudia, Pedro trabaja, María descansa.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El uso de comas reemplaza al nexo \"y\" manteniendo el sentido de independencia."
+        },
+        {
+          "letter": "C",
+          "text": "Juan estudia pero Pedro trabaja porque María descansa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al cambiar los nexos, cambia totalmente el significado de la oración."
+        },
+        {
+          "letter": "D",
+          "text": "Si Juan estudia y Pedro trabaja, entonces María descansa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto transforma una coordinación en una subordinación condicional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La yuxtaposición (en este caso llamada asíndeton cuando se eliminan conjunciones) aporta rapidez y agilidad al texto. Es un recurso estilístico que evita la monotonía y permite que el lector conecte las ideas de forma más dinámica.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle-v7",
+      "statement": "\"**Ya** sale el sol por los cerros, **ya** se oculta tras las nubes\". ¿Qué tipo de coordinación se utiliza aquí?",
+      "context": "Camila analiza las oraciones coordinadas distributivas, que presentan acciones que se alternan.\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disyuntiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. No obliga a elegir una de las dos, sino que muestra una alternancia."
+        },
+        {
+          "letter": "B",
+          "text": "Distributiva",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los nexos correlativos (ya... ya, bien... bien, unos... otros) distribuyen las acciones."
+        },
+        {
+          "letter": "C",
+          "text": "Adversativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay una oposición que anule la otra parte."
+        },
+        {
+          "letter": "D",
+          "text": "Yuxtapuesta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hay una coma, la presencia de los nexos \"ya... ya\" la define como coordinación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coordinación distributiva es muy útil en las descripciones para mostrar acciones simultáneas o sucesivas que se reparten el protagonismo. Es un recurso común en la poesía y en la narrativa descriptiva.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle-v8",
+      "statement": "¿En qué situación es preferible usar la YUXTAPOSICIÓN con punto y coma en lugar de la COORDINACIÓN con \"y\"?",
+      "context": "En un texto argumentativo, la elección entre usar un nexo coordinante o un signo de puntuación (yuxtaposición) cambia el ritmo de la lectura.\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando se quiere escribir un mensaje de texto muy informal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El punto y coma es un signo de puntuación formal y culto."
+        },
+        {
+          "letter": "B",
+          "text": "Cuando las oraciones son muy cortas (de dos palabras).",
+          "is_correct": false,
+          "feedback": "Incorrecto. En oraciones muy cortas se prefiere la coma o el nexo simple."
+        },
+        {
+          "letter": "C",
+          "text": "Cuando las proposiciones son largas y ya tienen comas internas, para evitar confusión.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El punto y coma jerarquiza la información y clarifica la estructura."
+        },
+        {
+          "letter": "D",
+          "text": "Nunca es preferible; siempre es mejor usar \"y\" para que sea más fácil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uso variado de estructuras gramaticales enriquece el texto y demuestra madurez."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El punto y coma es el signo de la madurez intelectual en la escritura. Permite separar ideas complejas que están relacionadas entre sí pero que tienen suficiente fuerza propia. Su uso correcto mejora significativamente la claridad de los ensayos y trabajos académicos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle-v9",
+      "statement": "Analiza la relación semántica en esta oración yuxtapuesta. ¿Por qué el autor eligió el punto y coma en lugar de un nexo como \"porque\"?",
+      "context": "Un texto dice: \"El río Magdalena es la arteria de Colombia; su historia es la nuestra\".\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque no sabía qué nexo poner y prefirió usar un signo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los autores expertos eligen la puntuación de forma deliberada."
+        },
+        {
+          "letter": "B",
+          "text": "Para sugerir una relación de identidad profunda y poética, dejando que el lector complete el sentido de la conexión.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La yuxtaposición es más sugerente y abierta que un nexo explicativo directo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la frase es tan larga que se quedó sin aire.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud es moderada; la elección es estilística."
+        },
+        {
+          "letter": "D",
+          "text": "Para que la oración parezca una definición de diccionario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, el punto y coma la aleja de la rigidez de una definición técnica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La yuxtaposición exige un lector activo. Al no haber un nexo que nos diga exactamente cuál es la relación (causa, efecto, suma), el lector debe interpretarla basándose en su conocimiento del mundo. En este caso, une la geografía con la historia y la identidad de forma magistral.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de las siguientes oraciones COORDINADAS COPULATIVAS NEGATIVAS está escrita correctamente?",
+      "context": "El uso correcto de la conjunción \"ni\" requiere que la oración tenga un sentido negativo previo o que se repita el nexo.\n**Expected_Success:** 0.50",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yo quiero ir al cine ni tengo tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta el sentido negativo inicial."
+        },
+        {
+          "letter": "B",
+          "text": "No quiero ir al cine ni tengo tiempo para hacerlo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El \"no\" inicial permite el uso de \"ni\" para sumar otra negación."
+        },
+        {
+          "letter": "C",
+          "text": "Ni quiero ir al cine y tengo tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede mezclar \"ni\" (negativo) con \"y\" (positivo) de esa manera."
+        },
+        {
+          "letter": "D",
+          "text": "Yo no quiero ir al cine o ni tengo tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se mezcla una disyuntiva con una copulativa negativa de forma agramatical."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La conjunción \"ni\" es la versión negativa de \"y\". Su uso correcto es fundamental para expresar carencias o rechazos dobles de forma clara. Recordar que \"ni\" ya incluye la negación, por lo que no se debe decir \"y no ni\".\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LEN-7-2026-W12-coordinacion-yuxtaposicion-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

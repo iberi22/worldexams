@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "bo",
+    "pack_id": "bo-week-3-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:41:04.627Z"
+  },
+  "questions": [
+    {
+      "id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la definición formal de logaritmo de un número positivo y en base b (b > 0, b != 1)?",
+      "context": "En la clase del Colegio Nacional Santa Cruz de Santa Cruz, el estudiante Roxana investiga las propiedades de los logaritmos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "log_b(x) = y si y solo si b^y = x",
+          "is_correct": true,
+          "feedback": "¡Correcto! El logaritmo es el exponente al que se debe elevar la base b para obtener el número x."
+        },
+        {
+          "letter": "B",
+          "text": "log_b(x) = y si y solo si x^y = b",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste los roles de la base y el exponente."
+        },
+        {
+          "letter": "C",
+          "text": "log_b(x) = y si y solo si b * y = x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la potenciación con la multiplicación lineal."
+        },
+        {
+          "letter": "D",
+          "text": "log_b(x) = y si y solo si y^b = x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la base de la potencia con la variable resultante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición formal, el logaritmo en base b de un número positivo x es el exponente y al cual se debe elevar la base b para obtener el número x: log_b(x) = y <=> b^y = x.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.87,
+      "bundle_id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v2",
+      "statement": "De acuerdo con las propiedades de los logaritmos, ¿a qué es equivalente el logaritmo de un producto log_b(x * y)?",
+      "context": "En la clase del Colegio Nacional Sucre de Cochabamba, el estudiante Jhonny investiga las propiedades de los logaritmos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "log_b(x) + log_b(y)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El logaritmo de un producto es igual a la suma de los logaritmos de los factores de manera individual."
+        },
+        {
+          "letter": "B",
+          "text": "log_b(x) * log_b(y)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El logaritmo de un producto no es igual al producto de los logaritmos individuales."
+        },
+        {
+          "letter": "C",
+          "text": "log_b(x + y)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El logaritmo de una suma no se puede simplificar directamente de esta manera."
+        },
+        {
+          "letter": "D",
+          "text": "log_b(x) - log_b(y)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La resta de logaritmos corresponde al logaritmo de un cociente, no de un producto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La propiedad del producto de los logaritmos enuncia que log_b(x * y) = log_b(x) + log_b(y).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v3",
+      "statement": "De acuerdo con las propiedades de los logaritmos, ¿a qué es equivalente el logaritmo de una potencia log_b(x^k)?",
+      "context": "En la clase del Colegio Nacional El Alto de El Alto, el estudiante Marisol investiga las propiedades de los logaritmos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "k * log_b(x)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El exponente de la potencia dentro del logaritmo pasa a multiplicar delante de la expresión."
+        },
+        {
+          "letter": "B",
+          "text": "log_b(x) / k",
+          "is_correct": false,
+          "feedback": "Incorrecto. El exponente multiplica al logaritmo, no lo divide."
+        },
+        {
+          "letter": "C",
+          "text": "log_b(k * x)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El exponente no multiplica al argumento de forma directa dentro de la función logarítmica."
+        },
+        {
+          "letter": "D",
+          "text": "(log_b(x))^k",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevar todo el logaritmo a la potencia k es una operación completamente distinta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La propiedad de la potencia de logaritmos establece que el exponente del argumento sale multiplicando al logaritmo: log_b(x^k) = k * log_b(x).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.81,
+      "bundle_id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v4",
+      "statement": "Si necesitamos cambiar de base la expresión log_2(x) a base de logaritmo natural ln (base e), ¿cuál es la expresión correcta?",
+      "context": "En la clase del Colegio Nacional Junín de Sucre, el estudiante Walter investiga las propiedades de los logaritmos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ln(x) / ln(2)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La fórmula de cambio de base establece que log_a(x) = log_c(x) / log_c(a). En base natural, esto se traduce en ln(x) / ln(2)."
+        },
+        {
+          "letter": "B",
+          "text": "ln(2) / ln(x)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el numerador y el denominador en la fórmula de cambio de base."
+        },
+        {
+          "letter": "C",
+          "text": "ln(x) * ln(2)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio de base involucra una división, no un producto de logaritmos."
+        },
+        {
+          "letter": "D",
+          "text": "ln(x - 2)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicaste una operación de resta que no tiene relación con el cambio de base."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fórmula universal para el cambio de base es log_a(b) = log_c(b) / log_c(a). Sustituyendo a = 2, b = x y c = e, obtenemos log_2(x) = ln(x) / ln(2).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v5",
+      "statement": "Si se sabe que log_10(2) es aproximadamente 0.301, ¿cuál es el valor aproximado de log_10(8)?",
+      "context": "En la clase del Colegio Nacional Bolivar de Tarija, el estudiante Sonia investiga las propiedades de los logaritmos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.903",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como 8 = 2^3, entonces log_10(8) = log_10(2^3) = 3 * log_10(2) = 3 * 0.301 = 0.903."
+        },
+        {
+          "letter": "B",
+          "text": "0.602",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería el valor de log_10(4), es decir, multiplicando por 2 en lugar de por 3."
+        },
+        {
+          "letter": "C",
+          "text": "1.204",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría multiplicar por 4, lo cual no corresponde con 8 = 2^3."
+        },
+        {
+          "letter": "D",
+          "text": "0.100",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste en lugar de multiplicar por el exponente 3."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Expresamos 8 como potencia de 2: 8 = 2^3. Aplicando la propiedad de la potencia: log_10(8) = log_10(2^3) = 3 * log_10(2) = 3 * 0.301 = 0.903.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v6",
+      "statement": "Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 3. ¿Cuál es la única solución real de x?",
+      "context": "En la clase del Colegio Nacional Potosí de Oruro, el estudiante Ramiro investiga las propiedades de los logaritmos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos."
+        },
+        {
+          "letter": "B",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la igualdad al sustituirla en los logaritmos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v7",
+      "statement": "Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 4. ¿Cuál es la única solución real de x?",
+      "context": "En la clase del Colegio Nacional San Luis de Potosí, el estudiante Yolanda investiga las propiedades de los logaritmos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.12",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos."
+        },
+        {
+          "letter": "B",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la igualdad al sustituirla en los logaritmos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.69,
+      "bundle_id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v8",
+      "statement": "Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 3. ¿Cuál es la única solución real de x?",
+      "context": "En la clase del Colegio Nacional Trinidad de Cobija, el estudiante Jaime investiga las propiedades de los logaritmos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos."
+        },
+        {
+          "letter": "B",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la igualdad al sustituirla en los logaritmos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.66,
+      "bundle_id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v9",
+      "statement": "Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 4. ¿Cuál es la única solución real de x?",
+      "context": "En la clase del Colegio Nacional Cobija de Trinidad, el estudiante Marcela investiga las propiedades de los logaritmos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.12",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos."
+        },
+        {
+          "letter": "B",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la igualdad al sustituirla en los logaritmos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.63,
+      "bundle_id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v10",
+      "statement": "Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 3. ¿Cuál es la única solución real de x?",
+      "context": "En la clase del Colegio Nacional Ayacucho de La Paz, el estudiante Grover investiga las propiedades de los logaritmos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos."
+        },
+        {
+          "letter": "B",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la igualdad al sustituirla en los logaritmos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v11",
+      "statement": "Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 4. ¿Cuál es la única solución real de x?",
+      "context": "En la clase del Colegio Nacional Santa Cruz de Santa Cruz, el estudiante Roxana investiga las propiedades de los logaritmos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.12",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos."
+        },
+        {
+          "letter": "B",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la igualdad al sustituirla en los logaritmos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v12",
+      "statement": "Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 3. ¿Cuál es la única solución real de x?",
+      "context": "En la clase del Colegio Nacional Sucre de Cochabamba, el estudiante Jhonny investiga las propiedades de los logaritmos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos."
+        },
+        {
+          "letter": "B",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la igualdad al sustituirla en los logaritmos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.54,
+      "bundle_id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v13",
+      "statement": "Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 4. ¿Cuál es la única solución real de x?",
+      "context": "En la clase del Colegio Nacional El Alto de El Alto, el estudiante Marisol investiga las propiedades de los logaritmos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.12",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos."
+        },
+        {
+          "letter": "B",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la igualdad al sustituirla en los logaritmos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.51,
+      "bundle_id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v14",
+      "statement": "Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 3. ¿Cuál es la única solución real de x?",
+      "context": "En la clase del Colegio Nacional Junín de Sucre, el estudiante Walter investiga las propiedades de los logaritmos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos."
+        },
+        {
+          "letter": "B",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la igualdad al sustituirla en los logaritmos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.48,
+      "bundle_id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v15",
+      "statement": "Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 4. ¿Cuál es la única solución real de x?",
+      "context": "En la clase del Colegio Nacional Bolivar de Tarija, el estudiante Sonia investiga las propiedades de los logaritmos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.12",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos."
+        },
+        {
+          "letter": "B",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la igualdad al sustituirla en los logaritmos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v16",
+      "statement": "Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 3. ¿Cuál es la única solución real de x?",
+      "context": "En la clase del Colegio Nacional Potosí de Oruro, el estudiante Ramiro investiga las propiedades de los logaritmos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos."
+        },
+        {
+          "letter": "B",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la igualdad al sustituirla en los logaritmos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.42,
+      "bundle_id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v17",
+      "statement": "Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 4. ¿Cuál es la única solución real de x?",
+      "context": "En la clase del Colegio Nacional San Luis de Potosí, el estudiante Yolanda investiga las propiedades de los logaritmos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.12",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos."
+        },
+        {
+          "letter": "B",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la igualdad al sustituirla en los logaritmos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.39,
+      "bundle_id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v18",
+      "statement": "Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 3. ¿Cuál es la única solución real de x?",
+      "context": "En la clase del Colegio Nacional Trinidad de Cobija, el estudiante Jaime investiga las propiedades de los logaritmos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos."
+        },
+        {
+          "letter": "B",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la igualdad al sustituirla en los logaritmos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.36,
+      "bundle_id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v19",
+      "statement": "Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 4. ¿Cuál es la única solución real de x?",
+      "context": "En la clase del Colegio Nacional Cobija de Trinidad, el estudiante Marcela investiga las propiedades de los logaritmos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.12",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos."
+        },
+        {
+          "letter": "B",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la igualdad al sustituirla en los logaritmos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.33,
+      "bundle_id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v20",
+      "statement": "Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 3. ¿Cuál es la única solución real de x?",
+      "context": "En la clase del Colegio Nacional Ayacucho de La Paz, el estudiante Grover investiga las propiedades de los logaritmos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos."
+        },
+        {
+          "letter": "B",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la igualdad al sustituirla en los logaritmos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.3,
+      "bundle_id": "BO-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}

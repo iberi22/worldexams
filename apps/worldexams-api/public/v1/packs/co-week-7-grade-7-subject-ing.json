@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-7-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.891Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W07-physical-personality-descriptions-001-v1",
+      "statement": "What is the opposite of \"tall\"?",
+      "context": "Describing a person's height.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Thin",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Thin\" is the opposite of \"fat\" or \"heavy\"."
+        },
+        {
+          "letter": "B",
+          "text": "Short",
+          "is_correct": true,
+          "feedback": "Correct! \"Short\" refers to someone with little height."
+        },
+        {
+          "letter": "C",
+          "text": "Young",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Young\" is the opposite of \"old\"."
+        },
+        {
+          "letter": "D",
+          "text": "Big",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Big\" is the opposite of \"small\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies basic antonyms for physical descriptions.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W07-physical-personality-descriptions-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W07-physical-personality-descriptions-002-v1",
+      "statement": "Which adjective describes hair that is not straight?",
+      "context": "Describing hair color and length.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Long",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to length, not shape."
+        },
+        {
+          "letter": "B",
+          "text": "Curly",
+          "is_correct": true,
+          "feedback": "Correct! \"Curly\" describes hair with curves or spirals."
+        },
+        {
+          "letter": "C",
+          "text": "Blond",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to color."
+        },
+        {
+          "letter": "D",
+          "text": "Dark",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to color."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies specific vocabulary for hair types.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W07-physical-personality-descriptions-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W07-physical-personality-descriptions-003-v1",
+      "statement": "\"Camilo is very ________. He always helps his friends with their homework.\"",
+      "context": "Talking about a classmate's personality.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "shy",
+          "is_correct": false,
+          "feedback": "Incorrect. Shy people are usually quiet around others."
+        },
+        {
+          "letter": "B",
+          "text": "kind",
+          "is_correct": true,
+          "feedback": "Correct! Helping others is a sign of being kind or helpful."
+        },
+        {
+          "letter": "C",
+          "text": "lazy",
+          "is_correct": false,
+          "feedback": "Incorrect. Lazy people don't like to work or help."
+        },
+        {
+          "letter": "D",
+          "text": "funny",
+          "is_correct": false,
+          "feedback": "Incorrect. Funny people make you laugh, but helping is about being kind."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the relationship between an action (helping) and a personality trait (kind).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W07-physical-personality-descriptions-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W07-physical-personality-descriptions-004-v1",
+      "statement": "What is the correct way to describe your eyes?",
+      "context": "Describing eyes using the verb \"have\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am green eyes.",
+          "is_correct": false,
+          "feedback": "Incorrect. You don't \"be\" a color of eyes; you \"have\" them."
+        },
+        {
+          "letter": "B",
+          "text": "I have green eyes.",
+          "is_correct": true,
+          "feedback": "Correct! We use the verb \"have\" for body features like eyes and hair."
+        },
+        {
+          "letter": "C",
+          "text": "My eyes is green.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Eyes\" is plural, so it should be \"are\"."
+        },
+        {
+          "letter": "D",
+          "text": "I have eyes greens.",
+          "is_correct": false,
+          "feedback": "Incorrect. In English, the adjective (green) comes before the noun (eyes)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the grammatical structure for describing physical features (verb have + adjective + noun).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W07-physical-personality-descriptions-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W07-physical-personality-descriptions-005-v1",
+      "statement": "\"My grandmother ________ short grey hair and she ________ very friendly.\"",
+      "context": "Describing a family member.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has / is",
+          "is_correct": true,
+          "feedback": "Correct! \"Has\" for hair (possession) and \"is\" for personality (state)."
+        },
+        {
+          "letter": "B",
+          "text": "is / has",
+          "is_correct": false,
+          "feedback": "Incorrect. The verbs are in the wrong places."
+        },
+        {
+          "letter": "C",
+          "text": "has / has",
+          "is_correct": false,
+          "feedback": "Incorrect. You \"are\" friendly, you don't \"have\" friendly."
+        },
+        {
+          "letter": "D",
+          "text": "is / is",
+          "is_correct": false,
+          "feedback": "Incorrect. You \"have\" hair, you don't \"be\" hair."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student applies the correct usage of \"be\" and \"have\" in descriptions.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W07-physical-personality-descriptions-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W07-physical-personality-descriptions-006-v1",
+      "statement": "What personality trait is mentioned in the text?",
+      "context": "A description of a missing person.\n\"The boy is 12 years old. He has short, blond hair and blue eyes. He is wearing a red t-shirt. He is very shy.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He has blond hair.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a physical description, not a personality trait."
+        },
+        {
+          "letter": "B",
+          "text": "He is wearing a red t-shirt.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is about his clothes."
+        },
+        {
+          "letter": "C",
+          "text": "He is shy.",
+          "is_correct": true,
+          "feedback": "Correct! Being \"shy\" is a personality trait."
+        },
+        {
+          "letter": "D",
+          "text": "He is 12 years old.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is his age."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student applies the distinction between physical description, clothing, and personality traits.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W07-physical-personality-descriptions-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W07-physical-personality-descriptions-007-v1",
+      "statement": "\"Andrés always makes us laugh with his jokes. He is very ________.\"",
+      "context": "Talking about a funny person.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "serious",
+          "is_correct": false,
+          "feedback": "Incorrect. Serious is the opposite of funny."
+        },
+        {
+          "letter": "B",
+          "text": "funny",
+          "is_correct": true,
+          "feedback": "Correct! Making people laugh is the definition of being funny."
+        },
+        {
+          "letter": "C",
+          "text": "smart",
+          "is_correct": false,
+          "feedback": "Incorrect. Smart refers to intelligence, not humor."
+        },
+        {
+          "letter": "D",
+          "text": "quiet",
+          "is_correct": false,
+          "feedback": "Incorrect. Quiet people don't talk much."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies personality vocabulary based on a behavioral description.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W07-physical-personality-descriptions-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W07-physical-personality-descriptions-008-v1",
+      "statement": "Which sentence follows the correct order of adjectives?",
+      "context": "Choosing the correct adjective order.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She has curly long black hair.",
+          "is_correct": false,
+          "feedback": "Incorrect. Size (long) usually comes before shape (curly)."
+        },
+        {
+          "letter": "B",
+          "text": "She has long curly black hair.",
+          "is_correct": true,
+          "feedback": "Correct! The order is usually Size -> Shape -> Color."
+        },
+        {
+          "letter": "C",
+          "text": "She has black long curly hair.",
+          "is_correct": false,
+          "feedback": "Incorrect. Color usually comes last among these three."
+        },
+        {
+          "letter": "D",
+          "text": "She has curly black long hair.",
+          "is_correct": false,
+          "feedback": "Incorrect. Size should be at the beginning."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes the conventional order of multiple adjectives in English descriptions.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W07-physical-personality-descriptions-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W07-physical-personality-descriptions-009-v1",
+      "statement": "How are Lucas and Mateo different in their personality?",
+      "context": "A description of two brothers.\n\"Lucas is tall and thin; he is very quiet and likes to read. His brother, Mateo, is short and strong; he is very talkative and loves playing sports with friends.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lucas is tall and Mateo is short.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a physical difference, not personality."
+        },
+        {
+          "letter": "B",
+          "text": "They both like playing sports.",
+          "is_correct": false,
+          "feedback": "Incorrect. Only Mateo loves sports."
+        },
+        {
+          "letter": "C",
+          "text": "Lucas is quiet while Mateo is talkative.",
+          "is_correct": true,
+          "feedback": "Correct! These are the personality traits mentioned for each."
+        },
+        {
+          "letter": "D",
+          "text": "Lucas is strong and Mateo is thin.",
+          "is_correct": false,
+          "feedback": "Incorrect. The physical descriptions are reversed."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student analyzes a text to distinguish and compare personality traits between two subjects.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W07-physical-personality-descriptions-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W07-physical-personality-descriptions-010-v1",
+      "statement": "What is the main message of this text?",
+      "context": "An opinion about a good friend.\n\"A good friend doesn't need to be handsome or tall. It is more important that they are honest, loyal, and funny. Physical appearance changes, but personality stays.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Friends should be tall and handsome.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says they \"don't need to be\"."
+        },
+        {
+          "letter": "B",
+          "text": "Personality traits are more valuable than physical appearance in a friendship.",
+          "is_correct": true,
+          "feedback": "Correct! The text emphasizes honesty, loyalty, and humor over height or looks."
+        },
+        {
+          "letter": "C",
+          "text": "Loyal friends are always funny.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text lists these as separate qualities, not dependent on each other."
+        },
+        {
+          "letter": "D",
+          "text": "Physical appearance never changes.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says physical appearance \"changes\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student evaluates the core argument of a short reflective text about personal qualities.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W07-physical-personality-descriptions-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

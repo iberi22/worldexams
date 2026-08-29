@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-12-grade-10-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.575Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-10-2026-W12-future-dilemmas-001-MASTERY-v1",
+      "statement": "\"If I ____ the lottery, I ____ a large house in the mountains and retire early.\"",
+      "context": "Thinking about a lottery win.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "win / will buy",
+          "is_correct": false,
+          "feedback": "First Conditional (for a real possibility)."
+        },
+        {
+          "letter": "B",
+          "text": "won / would buy",
+          "is_correct": true,
+          "feedback": "Correct. Second Conditional for a hypothetical situation."
+        },
+        {
+          "letter": "C",
+          "text": "had won / would have bought",
+          "is_correct": false,
+          "feedback": "Third Conditional (past)."
+        },
+        {
+          "letter": "D",
+          "text": "win / bought",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The Second Conditional is used for hypothetical or unlikely situations in the present or future. Structure: If + Past Simple, Would + Verb.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-10-2026-W12-future-dilemmas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W12-future-dilemmas-001-MASTERY-v2",
+      "statement": "\"I ____ more often if I ____ so far away from the city center.\"",
+      "context": "Discussing personal changes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will visit / don't live",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "would visit / didn't live",
+          "is_correct": true,
+          "feedback": "Correct. Second Conditional (would + past negative)."
+        },
+        {
+          "letter": "C",
+          "text": "visit / hadn't lived",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "would visit / won't live",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using the Second Conditional to express how a present situation (living far away) affects a potential action (visiting).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.84,
+      "bundle_id": "CO-ING-10-2026-W12-future-dilemmas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W12-future-dilemmas-001-MASTERY-v3",
+      "statement": "\"If I ____ you, I ____ that job offer because the company has a bad reputation.\"",
+      "context": "Advice between friends.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am / won't take",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "were / wouldn't take",
+          "is_correct": true,
+          "feedback": "Correct. 'If I were you' is the standard way to give advice hypothetically."
+        },
+        {
+          "letter": "C",
+          "text": "was / didn't take",
+          "is_correct": false,
+          "feedback": "'Was' is common but B is more grammatically formal/B2."
+        },
+        {
+          "letter": "D",
+          "text": "had been / wouldn't have taken",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'If I were you' is a fixed Second Conditional structure used for giving advice.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Part 2 - Lexical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-10-2026-W12-future-dilemmas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W12-future-dilemmas-001-MASTERY-v4",
+      "statement": "\"The world ____ much better if we ____ all the money spent on wars to environmental protection.\"",
+      "context": "An article about space exploration.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is / dedicated",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "would be / dedicated",
+          "is_correct": true,
+          "feedback": "Correct. Second Conditional for a hypothetical global change."
+        },
+        {
+          "letter": "C",
+          "text": "will be / dedicated",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "was / would dedicate",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using the Second Conditional to analyze hypothetical large-scale improvements.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-10-2026-W12-future-dilemmas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W12-future-dilemmas-001-MASTERY-v5",
+      "statement": "\"If my boss ____ more reasonable, I ____ so stressed every day.\"",
+      "context": "Dealing with a difficult boss.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is / am not",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "were / wouldn't be",
+          "is_correct": true,
+          "feedback": "Correct. Hypothetical present state and its result."
+        },
+        {
+          "letter": "C",
+          "text": "was / won't be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "had been / wouldn't be",
+          "is_correct": false,
+          "feedback": "Mixed conditional, less likely here."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Expressing dissatisfaction with a current situation using the Second Conditional.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.71,
+      "bundle_id": "CO-ING-10-2026-W12-future-dilemmas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W12-future-dilemmas-001-MASTERY-v6",
+      "statement": "\"He ____ a successful writer if he ____ enough courage to quit his office job.\"",
+      "context": "Discussing a possible career change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will be / has",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "could be / had",
+          "is_correct": true,
+          "feedback": "Correct. 'Could' is used as a modal alternative to 'would'."
+        },
+        {
+          "letter": "C",
+          "text": "was / would have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "could have been / had",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using 'could' or 'might' in the main clause of a Second Conditional to show possibility.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.67,
+      "bundle_id": "CO-ING-10-2026-W12-future-dilemmas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W12-future-dilemmas-001-MASTERY-v7",
+      "statement": "\"If you ____ to choose between fame and happiness, which one ____ you ____?\"",
+      "context": "A hypothetical question in an interview.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have / will / choose",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "had / would / pick",
+          "is_correct": true,
+          "feedback": "Correct. Second Conditional for a forced choice."
+        },
+        {
+          "letter": "C",
+          "text": "must / would / pick",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "would have / did / pick",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Forming questions in the Second Conditional using the past simple and 'would'.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.63,
+      "bundle_id": "CO-ING-10-2026-W12-future-dilemmas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W12-future-dilemmas-001-MASTERY-v8",
+      "statement": "\"If animals ____ talk, humans ____ more careful about how they treat the environment.\"",
+      "context": "Discussing animal welfare.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can / will be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "could / would be",
+          "is_correct": true,
+          "feedback": "Correct. Hypothetical ability and its result."
+        },
+        {
+          "letter": "C",
+          "text": "would talk / were",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "talk / are",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using 'could' in the 'if' clause to express a hypothetical ability.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.59,
+      "bundle_id": "CO-ING-10-2026-W12-future-dilemmas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W12-future-dilemmas-001-MASTERY-v9",
+      "statement": "\"We ____ so much on smartphones if we ____ how they affect our attention span.\"",
+      "context": "A critique of current technology.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "won't rely / realize",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "wouldn't rely / realized",
+          "is_correct": true,
+          "feedback": "Correct. Second Conditional for a critical perspective."
+        },
+        {
+          "letter": "C",
+          "text": "don't rely / would realize",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "hadn't relied / realized",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using the Second Conditional to reflect on social habits and awareness.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-10-2026-W12-future-dilemmas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W12-future-dilemmas-001-MASTERY-v10",
+      "statement": "\"Were the government ____ more support for small businesses, the economy ____ significantly.\"",
+      "context": "A formal hypothetical proposal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "to provide / would improve",
+          "is_correct": true,
+          "feedback": "Correct. Inversion with 'Were... to' for hypothetical future."
+        },
+        {
+          "letter": "B",
+          "text": "providing / will improve",
+          "is_correct": false,
+          "feedback": "Incorrect syntax."
+        },
+        {
+          "letter": "C",
+          "text": "provides / would improve",
+          "is_correct": false,
+          "feedback": "Incorrect syntax."
+        },
+        {
+          "letter": "D",
+          "text": "to provide / improves",
+          "is_correct": false,
+          "feedback": "Incorrect syntax."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Advanced B2 structure: Inversion in the Second Conditional using 'Were + subject + to + verb'.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-10-2026-W12-future-dilemmas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W12-future-dilemmas-001-MASTERY-v11",
+      "statement": "\"Even if we ____ the answer to every mystery, life ____ some of its excitement.\"",
+      "context": "Philosophy of knowledge.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "know / loses",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "knew / might lose",
+          "is_correct": true,
+          "feedback": "Correct. Second Conditional with 'might' for uncertainty."
+        },
+        {
+          "letter": "C",
+          "text": "have known / will lose",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "would know / lost",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Combining the Second Conditional with modals of possibility ('might', 'could') in a philosophical context.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-10-2026-W12-future-dilemmas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W12-future-dilemmas-001-MASTERY-v12",
+      "statement": "\"____ it not for the heroic actions of the passerby, the situation ____ in a tragedy.\"",
+      "context": "A complex moral hypothetical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Were / would have resulted",
+          "is_correct": true,
+          "feedback": "Correct. Formal inversion 'Were it not for' + result in Third/Mixed Conditional."
+        },
+        {
+          "letter": "B",
+          "text": "If it is / results",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Was / will result",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Had / would result",
+          "is_correct": false,
+          "feedback": "Incorrect syntax."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mastery level: Using the formal inversion 'Were it not for' to describe a hypothetical cause and its potential tragic result.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-10-2026-W12-future-dilemmas-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

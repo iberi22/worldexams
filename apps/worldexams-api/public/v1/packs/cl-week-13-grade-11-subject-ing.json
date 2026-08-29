@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ingles",
+    "country": "cl",
+    "pack_id": "cl-week-13-grade-11-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.100Z"
+  },
+  "questions": [
+    {
+      "id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-v1",
+      "statement": "A hypothesis is a proposed explanation made on the basis of limited evidence as a starting point for further investigation.",
+      "context": "General scientific terminology.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "conclusion",
+          "is_correct": false,
+          "feedback": "Incorrect. A conclusion is reached at the end."
+        },
+        {
+          "letter": "B",
+          "text": "hypothesis",
+          "is_correct": true,
+          "feedback": "Correct. A hypothesis is an initial, testable explanation."
+        },
+        {
+          "letter": "C",
+          "text": "fact",
+          "is_correct": false,
+          "feedback": "Incorrect. A fact is something known to be true."
+        },
+        {
+          "letter": "D",
+          "text": "theorem",
+          "is_correct": false,
+          "feedback": "Incorrect. A theorem is a proven statement in mathematics."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Hypothesis' is the fundamental term for a tentative explanation in the scientific method.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-v2",
+      "statement": "Penicillin was discovered by Alexander Fleming in 1928, marking a new era in medicine.",
+      "context": "Discussing the process of discovery.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "discovered",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs 'was' for the passive voice."
+        },
+        {
+          "letter": "B",
+          "text": "was discovered",
+          "is_correct": true,
+          "feedback": "Correct. Past simple passive for a completed historical event."
+        },
+        {
+          "letter": "C",
+          "text": "has been discovered",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect is less appropriate for a specific past date."
+        },
+        {
+          "letter": "D",
+          "text": "discovers",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The past simple passive 'was discovered' is used because the focus is on the discovery itself and the date is specified.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-v3",
+      "statement": "If the project had received more funding, the researchers would have completed the study sooner.",
+      "context": "Conditional about scientific funding.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "received",
+          "is_correct": false,
+          "feedback": "Incorrect. Second conditional."
+        },
+        {
+          "letter": "B",
+          "text": "had received",
+          "is_correct": true,
+          "feedback": "Correct. Third conditional for hypothetical past condition."
+        },
+        {
+          "letter": "C",
+          "text": "has received",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "would receive",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' not used in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The third conditional (if + past perfect) describes a past situation that did not happen.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-v4",
+      "statement": "Gene editing allows scientists to modify an organism's DNA with unprecedented precision.",
+      "context": "Article about the CRISPR technology.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "precision",
+          "is_correct": true,
+          "feedback": "Correct. Precision means the quality of being exact and accurate."
+        },
+        {
+          "letter": "B",
+          "text": "confusion",
+          "is_correct": false,
+          "feedback": "Incorrect. Science aims for the opposite of confusion."
+        },
+        {
+          "letter": "C",
+          "text": "neglect",
+          "is_correct": false,
+          "feedback": "Incorrect. Neglect is lack of care."
+        },
+        {
+          "letter": "D",
+          "text": "isolation",
+          "is_correct": false,
+          "feedback": "Incorrect. Precision is the key feature of CRISPR mentioned in the text."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Precision' is the defining characteristic of modern gene-editing tools like CRISPR.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-v5",
+      "statement": "The rapid development of artificial intelligence raises fundamental questions about what it means to be human.",
+      "context": "Discussion on the ethics of AI.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "answers",
+          "is_correct": false,
+          "feedback": "Incorrect. It's causing people to ask new questions."
+        },
+        {
+          "letter": "B",
+          "text": "raises",
+          "is_correct": true,
+          "feedback": "Correct. To 'raise a question' means to bring it up for discussion."
+        },
+        {
+          "letter": "C",
+          "text": "ignores",
+          "is_correct": false,
+          "feedback": "Incorrect. The text focuses on the questions being asked."
+        },
+        {
+          "letter": "D",
+          "text": "avoids",
+          "is_correct": false,
+          "feedback": "Incorrect. The development forces us to confront these questions."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Raises' is the standard verb for introducing or bringing attention to an important topic or question.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-v6",
+      "statement": "It is mandatory to wear protective goggles while performing chemical experiments.",
+      "context": "Laboratory safety.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "optional",
+          "is_correct": false,
+          "feedback": "Incorrect. Goggles are required for safety."
+        },
+        {
+          "letter": "B",
+          "text": "mandatory",
+          "is_correct": true,
+          "feedback": "Correct. Mandatory means required by law or rules."
+        },
+        {
+          "letter": "C",
+          "text": "creative",
+          "is_correct": false,
+          "feedback": "Incorrect. Safety is a rule, not a creative choice."
+        },
+        {
+          "letter": "D",
+          "text": "incidental",
+          "is_correct": false,
+          "feedback": "Incorrect. Incidental means happening by chance."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Mandatory' is the formal term for actions that are required by safety protocols.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-v7",
+      "statement": "Scientists have been investigating the effects of microplastics on marine life for several years.",
+      "context": "Describing an ongoing scientific trend.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "investigate",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple."
+        },
+        {
+          "letter": "B",
+          "text": "have been investigating",
+          "is_correct": true,
+          "feedback": "Correct. Present perfect continuous for an action that started in the past and continues."
+        },
+        {
+          "letter": "C",
+          "text": "investigated",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple; implies they stopped."
+        },
+        {
+          "letter": "D",
+          "text": "will investigate",
+          "is_correct": false,
+          "feedback": "Incorrect. Future tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present perfect continuous is used for actions that began in the past and are still in progress.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-v8",
+      "statement": "The Mars rover is equipped with sensors to detect signs of water and past life on the Red Planet.",
+      "context": "Text on space exploration.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "conceal",
+          "is_correct": false,
+          "feedback": "Incorrect. To conceal means to hide."
+        },
+        {
+          "letter": "B",
+          "text": "detect",
+          "is_correct": true,
+          "feedback": "Correct. To detect means to discover or identify the presence of something."
+        },
+        {
+          "letter": "C",
+          "text": "fabricate",
+          "is_correct": false,
+          "feedback": "Incorrect. To fabricate means to invent or fake."
+        },
+        {
+          "letter": "D",
+          "text": "destroy",
+          "is_correct": false,
+          "feedback": "Incorrect. The rover is there to find, not destroy."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Detect' is the scientific term for finding or sensing something that is not immediately visible.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-v9",
+      "statement": "The experiment would have been more successful if the temperature had remained constant.",
+      "context": "Talking about an experiment that didn't work as expected.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "would be",
+          "is_correct": false,
+          "feedback": "Incorrect. Second conditional."
+        },
+        {
+          "letter": "B",
+          "text": "would have been",
+          "is_correct": true,
+          "feedback": "Correct. Third conditional for hypothetical past result."
+        },
+        {
+          "letter": "C",
+          "text": "will be",
+          "is_correct": false,
+          "feedback": "Incorrect. Future tense."
+        },
+        {
+          "letter": "D",
+          "text": "was",
+          "is_correct": false,
+          "feedback": "Incorrect. Past tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The third conditional 'would have been' describes a past outcome that would have changed if conditions were different.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-v10",
+      "statement": "Pseudoscience consists of statements that claim to be both scientific and factual but are incompatible with the scientific method.",
+      "context": "Critique of \"pseudoscience\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "aligned",
+          "is_correct": false,
+          "feedback": "Incorrect. Align means consistent with."
+        },
+        {
+          "letter": "B",
+          "text": "incompatible",
+          "is_correct": true,
+          "feedback": "Correct. Incompatible means not able to work together or be consistent."
+        },
+        {
+          "letter": "C",
+          "text": "identical",
+          "is_correct": false,
+          "feedback": "Incorrect. They are very different."
+        },
+        {
+          "letter": "D",
+          "text": "superior",
+          "is_correct": false,
+          "feedback": "Incorrect. Pseudoscience is considered inferior to real science."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Incompatible' correctly describes the lack of consistency between pseudoscience and rigorous scientific methodology.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-v11",
+      "statement": "Empirical evidence is information received by means of the senses, particularly by observation and documentation of patterns.",
+      "context": "Basic data analysis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Theoretical",
+          "is_correct": false,
+          "feedback": "Incorrect. Theoretical is based on ideas, not direct observation."
+        },
+        {
+          "letter": "B",
+          "text": "Empirical",
+          "is_correct": true,
+          "feedback": "Correct. Empirical evidence is based on direct observation or experience."
+        },
+        {
+          "letter": "C",
+          "text": "Anecdotal",
+          "is_correct": false,
+          "feedback": "Incorrect. Anecdotal is based on individual stories, not systematic observation."
+        },
+        {
+          "letter": "D",
+          "text": "Hypothetical",
+          "is_correct": false,
+          "feedback": "Incorrect. Based on hypotheses."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Empirical' is the term for evidence that comes from direct experience or experimentation.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-v12",
+      "statement": "A new species of orchid has been discovered in the depths of the Andes.",
+      "context": "Describing a new discovery.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has discovered",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "has been discovered",
+          "is_correct": true,
+          "feedback": "Correct. Present perfect passive for a recent discovery."
+        },
+        {
+          "letter": "C",
+          "text": "discovered",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "D",
+          "text": "is discovering",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present perfect passive 'has been discovered' links a past event (the discovery) with the present fact of its existence.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-v13",
+      "statement": "The clinical trial was halted because the researchers found the risks to be disproportionate to the potential benefits.",
+      "context": "Discussing scientific ethics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "equal",
+          "is_correct": false,
+          "feedback": "Incorrect. If they were equal, the trial might continue."
+        },
+        {
+          "letter": "B",
+          "text": "disproportionate",
+          "is_correct": true,
+          "feedback": "Correct. Disproportionate means too large or too small in comparison with something else."
+        },
+        {
+          "letter": "C",
+          "text": "minimal",
+          "is_correct": false,
+          "feedback": "Incorrect. If risks were minimal, they wouldn't halt the trial."
+        },
+        {
+          "letter": "D",
+          "text": "invisible",
+          "is_correct": false,
+          "feedback": "Incorrect. Risks are identified, not invisible."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Disproportionate' is used when one side of a comparison (risks) is much larger than the other (benefits).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-v14",
+      "statement": "If scientists hadn't collaborated globally, the vaccine wouldn't have been developed so quickly.",
+      "context": "Conditional about vaccine development.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wouldn't develop",
+          "is_correct": false,
+          "feedback": "Incorrect. Second conditional."
+        },
+        {
+          "letter": "B",
+          "text": "wouldn't have been developed",
+          "is_correct": true,
+          "feedback": "Correct. Third conditional passive for hypothetical past result."
+        },
+        {
+          "letter": "C",
+          "text": "won't be developed",
+          "is_correct": false,
+          "feedback": "Incorrect. Future."
+        },
+        {
+          "letter": "D",
+          "text": "isn't developed",
+          "is_correct": false,
+          "feedback": "Incorrect. Present."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The third conditional passive indicates that a past achievement resulted from a specific past condition.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-v15",
+      "statement": "The author concludes that the new telescope will revolutionize our understanding of the early universe.",
+      "context": "Conclusion of an article on space telescopes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "revolutionize",
+          "is_correct": true,
+          "feedback": "Correct. To revolutionize means to change something fundamentally or completely."
+        },
+        {
+          "letter": "B",
+          "text": "confirm",
+          "is_correct": false,
+          "feedback": "Incorrect. It will do more than just confirm; it will change our view."
+        },
+        {
+          "letter": "C",
+          "text": "limit",
+          "is_correct": false,
+          "feedback": "Incorrect. It will expand our knowledge, not limit it."
+        },
+        {
+          "letter": "D",
+          "text": "ignore",
+          "is_correct": false,
+          "feedback": "Incorrect. Telescopes help us see, not ignore."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Revolutionize' is the appropriate verb for a development that significantly changes a field of study.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-v16",
+      "statement": "A vaccine is a substance used to stimulate the production of antibodies and provide immunity against one or several diseases.",
+      "context": "Describing a medical breakthrough.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "poison",
+          "is_correct": false,
+          "feedback": "Incorrect. Poison causes harm."
+        },
+        {
+          "letter": "B",
+          "text": "vaccine",
+          "is_correct": true,
+          "feedback": "Correct. This is the biological function of a vaccine."
+        },
+        {
+          "letter": "C",
+          "text": "placebo",
+          "is_correct": false,
+          "feedback": "Incorrect. A placebo has no active effect."
+        },
+        {
+          "letter": "D",
+          "text": "virus",
+          "is_correct": false,
+          "feedback": "Incorrect. A virus is the cause of disease, not the treatment (though vaccines can be made from them)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Vaccine' is the term for the biological preparation that provides immunity.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-v17",
+      "statement": "The study showed that the new drug was more effective than the previous treatment.",
+      "context": "Reporting a scientific finding.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted in reported speech."
+        },
+        {
+          "letter": "B",
+          "text": "was",
+          "is_correct": true,
+          "feedback": "Correct. Backshifted from 'is' to 'was'."
+        },
+        {
+          "letter": "C",
+          "text": "has been",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "will be",
+          "is_correct": false,
+          "feedback": "Incorrect. Future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported findings, it is standard to backshift the tense to the past.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-v18",
+      "statement": "Peer review is the evaluation of work by one or more people of similar competence to the producers of the work.",
+      "context": "Text about \"peer review\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gossip",
+          "is_correct": false,
+          "feedback": "Incorrect. Informal talk."
+        },
+        {
+          "letter": "B",
+          "text": "Peer review",
+          "is_correct": true,
+          "feedback": "Correct. This is the quality control system in science."
+        },
+        {
+          "letter": "C",
+          "text": "Censorship",
+          "is_correct": false,
+          "feedback": "Incorrect. Restricting information."
+        },
+        {
+          "letter": "D",
+          "text": "Promotion",
+          "is_correct": false,
+          "feedback": "Incorrect. Advertising."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Peer review' is the professional evaluation process used in the scientific community.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-v19",
+      "statement": "By next month, I will have been studying marine biology for three years.",
+      "context": "Expressing interest in a scientific field.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will study",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple future."
+        },
+        {
+          "letter": "B",
+          "text": "will have been studying",
+          "is_correct": true,
+          "feedback": "Correct. Future perfect continuous for duration up to a future point."
+        },
+        {
+          "letter": "C",
+          "text": "have been studying",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect continuous."
+        },
+        {
+          "letter": "D",
+          "text": "study",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The future perfect continuous describes the length of an action at a certain time in the future.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-v20",
+      "statement": "The future of science depends on our ability to foster curiosity and maintain the highest ethical standards.",
+      "context": "Final thought on the future of science.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "curiosity",
+          "is_correct": true,
+          "feedback": "Correct. Curiosity is the desire to learn or know something, fundamental to science."
+        },
+        {
+          "letter": "B",
+          "text": "apathy",
+          "is_correct": false,
+          "feedback": "Incorrect. Apathy means lack of interest."
+        },
+        {
+          "letter": "C",
+          "text": "greed",
+          "is_correct": false,
+          "feedback": "Incorrect. Greed is bad for ethics."
+        },
+        {
+          "letter": "D",
+          "text": "ignorance",
+          "is_correct": false,
+          "feedback": "Incorrect. Science aims to eliminate ignorance."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Curiosity' is the primary human drive that fuels scientific exploration and discovery.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W13-science-discovery-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

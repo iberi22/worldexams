@@ -1,0 +1,1811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "mx",
+    "pack_id": "mx-week-13-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:38.957Z"
+  },
+  "questions": [
+    {
+      "id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se denomina a dos figuras geométricas que tienen exactamente la misma forma y el mismo tamaño?",
+      "context": "Un estudiante de bachillerato en la CDMX revisa sus notas sobre los criterios de igualdad entre figuras geométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Semejantes",
+          "is_correct": false,
+          "feedback": "Las figuras semejantes tienen la misma forma pero pueden tener diferente tamaño."
+        },
+        {
+          "letter": "B",
+          "text": "Congruentes",
+          "is_correct": true,
+          "feedback": "Correcto. La congruencia implica igualdad tanto en forma (ángulos) como en tamaño (lados)."
+        },
+        {
+          "letter": "C",
+          "text": "Equivalentes",
+          "is_correct": false,
+          "feedback": "En geometría, equivalencia suele referirse a igualdad de área, no necesariamente de forma y tamaño."
+        },
+        {
+          "letter": "D",
+          "text": "Proporcionales",
+          "is_correct": false,
+          "feedback": "La proporcionalidad es una característica de la semejanza, donde los tamaños difieren por un factor constante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dos figuras son congruentes si existe una isometría (traslación, rotación o reflexión) que las haga coincidir exactamente. Esto significa que todos sus lados correspondientes y ángulos correspondientes son iguales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de los siguientes es un criterio válido de congruencia de triángulos?",
+      "context": "Un dibujante técnico en Querétaro aplica los criterios de congruencia de triángulos para asegurar la simetría de una pieza mecánica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "AAA (Ángulo-Ángulo-Ángulo)",
+          "is_correct": false,
+          "feedback": "AAA solo garantiza semejanza, no congruencia; los triángulos podrían tener diferentes tamaños."
+        },
+        {
+          "letter": "B",
+          "text": "LLA (Lado-Lado-Ángulo)",
+          "is_correct": false,
+          "feedback": "LLA no es un criterio general de congruencia, ya que puede dar lugar a dos triángulos distintos (caso ambiguo)."
+        },
+        {
+          "letter": "C",
+          "text": "LAL (Lado-Ángulo-Lado)",
+          "is_correct": true,
+          "feedback": "Correcto. Si dos lados y el ángulo comprendido entre ellos son iguales, los triángulos son congruentes."
+        },
+        {
+          "letter": "D",
+          "text": "SSA (Semejanza-Semejanza-Ángulo)",
+          "is_correct": false,
+          "feedback": "Este no es un término técnico reconocido en los criterios de congruencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los criterios fundamentales para determinar si dos triángulos son congruentes son: LLL (tres lados iguales), LAL (dos lados y el ángulo entre ellos), y ALA (dos ángulos y el lado entre ellos). El criterio LAL asegura que la forma y el tamaño queden fijados.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v3",
+      "statement": "Si dos polígonos son semejantes, ¿cuál de las siguientes afirmaciones es siempre verdadera?",
+      "context": "Un fotógrafo en Guadalajara explica a su aprendiz cómo el cambio de zoom afecta la imagen pero mantiene las proporciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sus lados correspondientes son iguales",
+          "is_correct": false,
+          "feedback": "Esto solo ocurre si los polígonos son congruentes."
+        },
+        {
+          "letter": "B",
+          "text": "Sus ángulos correspondientes son iguales",
+          "is_correct": true,
+          "feedback": "Correcto. La semejanza conserva la forma, lo que significa que los ángulos se mantienen idénticos."
+        },
+        {
+          "letter": "C",
+          "text": "Sus áreas son iguales",
+          "is_correct": false,
+          "feedback": "Las áreas varían con el cuadrado de la razón de semejanza."
+        },
+        {
+          "letter": "D",
+          "text": "Sus perímetros son iguales",
+          "is_correct": false,
+          "feedback": "Los perímetros son proporcionales a la razón de semejanza de los lados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La semejanza de figuras se define por dos condiciones: 1) Los ángulos correspondientes son iguales (conservación de la forma) y 2) Los lados correspondientes son proporcionales (cambio de escala).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v4",
+      "statement": "¿Qué teorema justifica que la relación entre la altura de un objeto y la longitud de su sombra sea la misma para dos objetos verticales en el mismo instante?",
+      "context": "Un estudiante observa la sombra de un poste de luz en Monterrey y la compara con la de una vara de 1 metro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Teorema de Pitágoras",
+          "is_correct": false,
+          "feedback": "Pitágoras relaciona los lados de un triángulo rectángulo, no las proporciones entre dos triángulos."
+        },
+        {
+          "letter": "B",
+          "text": "Teorema de Tales",
+          "is_correct": true,
+          "feedback": "Correcto. El Teorema de Tales establece que líneas paralelas cortadas por transversales determinan segmentos proporcionales."
+        },
+        {
+          "letter": "C",
+          "text": "Teorema de Euclides",
+          "is_correct": false,
+          "feedback": "El teorema de Euclides se refiere a relaciones métricas dentro de un triángulo rectángulo."
+        },
+        {
+          "letter": "D",
+          "text": "Teorema del Coseno",
+          "is_correct": false,
+          "feedback": "Este teorema es una generalización de Pitágoras para cualquier triángulo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los rayos del sol se consideran paralelos. Al incidir sobre objetos verticales y el suelo, se forman triángulos rectángulos semejantes por el Teorema de Tales, lo que permite establecer proporciones entre alturas y sombras.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v5",
+      "statement": "Si en el plano una pared mide 8 cm, ¿cuál es la longitud real de la pared en metros?",
+      "context": "Un arquitecto en Puebla está utilizando una escala 1:50 para el plano de una casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.4 m",
+          "is_correct": false,
+          "feedback": "Multiplicaste por 5 en lugar de 50 y luego dividiste entre 100."
+        },
+        {
+          "letter": "B",
+          "text": "4 m",
+          "is_correct": true,
+          "feedback": "Correcto. 8 cm × 50 = 400 cm. 400 cm / 100 = 4 m."
+        },
+        {
+          "letter": "C",
+          "text": "40 m",
+          "is_correct": false,
+          "feedback": "Error en la conversión de centímetros a metros."
+        },
+        {
+          "letter": "D",
+          "text": "1.6 m",
+          "is_correct": false,
+          "feedback": "No aplicaste correctamente la razón de semejanza (escala)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La escala 1:50 significa que cada unidad en el plano representa 50 unidades reales. Así, $8\\text{ cm} \\cdot 50 = 400\\text{ cm}$. Para convertir a metros, dividimos entre 100: $400 / 100 = 4\\text{ m}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v6",
+      "statement": "Si el cateto menor del segundo triángulo ($\\triangle DEF$) mide 9 cm, ¿cuánto mide su hipotenusa?",
+      "context": "Dos triángulos rectángulos, $\\triangle ABC$ y $\\triangle DEF$, son semejantes. El primero tiene catetos de 3 cm y 4 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 cm",
+          "is_correct": false,
+          "feedback": "Este es el valor del otro cateto, no de la hipotenusa."
+        },
+        {
+          "letter": "B",
+          "text": "15 cm",
+          "is_correct": true,
+          "feedback": "Correcto. La hipotenusa del primer triángulo es 5 cm. La razón de semejanza es 9/3 = 3. Hipotenusa DEF = 5 × 3 = 15."
+        },
+        {
+          "letter": "C",
+          "text": "13 cm",
+          "is_correct": false,
+          "feedback": "Confundiste la terna pitagórica o la razón de semejanza."
+        },
+        {
+          "letter": "D",
+          "text": "20 cm",
+          "is_correct": false,
+          "feedback": "La razón de semejanza es 3, no 4."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero hallamos la hipotenusa del primer triángulo: $\\sqrt{3^2 + 4^2} = 5\\text{ cm}$. La razón de semejanza entre los catetos menores es $9 / 3 = 3$. Por lo tanto, todas las dimensiones del segundo triángulo son el triple: Hipotenusa $= 5 \\cdot 3 = 15\\text{ cm}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v7",
+      "statement": "Si el rectángulo B tiene una base de 20 cm, ¿cuál es su área?",
+      "context": "Se tienen dos rectángulos semejantes. El rectángulo A tiene una base de 10 cm y un área de $50\\text{ cm}^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$100\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Duplicaste el área porque la base se duplicó, pero el área varía con el cuadrado de la razón."
+        },
+        {
+          "letter": "B",
+          "text": "$200\\text{ cm}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. La razón de semejanza es k = 20/10 = 2. La razón de áreas es k² = 4. Área B = 50 × 4 = 200."
+        },
+        {
+          "letter": "C",
+          "text": "$250\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Error en el cálculo de la razón de semejanza o su aplicación."
+        },
+        {
+          "letter": "D",
+          "text": "$400\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Valor incorrecto producto de un error de procedimiento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La razón de semejanza lineal es $k = 20 / 10 = 2$. El área de figuras semejantes cambia según el cuadrado de la razón de semejanza ($k^2$). Entonces, Área B $= \\text{Área A} \\cdot 2^2 = 50 \\cdot 4 = 200\\text{ cm}^2$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v8",
+      "statement": "Dos triángulos son semejantes en una proporción de 3:5. Si el perímetro del triángulo más pequeño es de 12 cm, ¿cuál es el perímetro del más grande?",
+      "context": "Un topógrafo en Veracruz mide la distancia a través de un río utilizando triángulos semejantes formados por estacas en la orilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$7.2\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Este valor es menor que el original; calculaste el perímetro del más pequeño si 12 fuera el grande."
+        },
+        {
+          "letter": "B",
+          "text": "$20\\text{ cm}$",
+          "is_correct": true,
+          "feedback": "Correcto. 12 / 3 = 4 (unidad de escala). 4 × 5 = 20. O bien, 12 × (5/3) = 20."
+        },
+        {
+          "letter": "C",
+          "text": "$15\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "No aplicaste correctamente la razón de 3:5."
+        },
+        {
+          "letter": "D",
+          "text": "$33.3\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Error en la operación aritmética de proporcionalidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La relación entre perímetros de figuras semejantes es la misma que la razón de semejanza lineal. Si la razón es $3/5$, entonces $12 / P_g = 3 / 5$. Despejando $P_g = (12 \\cdot 5) / 3 = 20\\text{ cm}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v9",
+      "statement": "Si el área de la proyección es 9 veces mayor que el área del diseño original, ¿en qué factor aumentó el perímetro?",
+      "context": "Un diseñador de logotipos en el Estado de México proyecta una imagen en una pantalla, creando una figura semejante a la original.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Factor de 9",
+          "is_correct": false,
+          "feedback": "El área aumenta con el cuadrado, el perímetro es lineal."
+        },
+        {
+          "letter": "B",
+          "text": "Factor de 1.5",
+          "is_correct": false,
+          "feedback": "Este sería el factor si el área hubiera aumentado en 2.25."
+        },
+        {
+          "letter": "C",
+          "text": "Factor de 3",
+          "is_correct": true,
+          "feedback": "Correcto. Si k² = 9 (área), entonces k = √9 = 3. El perímetro aumenta por el factor lineal k = 3."
+        },
+        {
+          "letter": "D",
+          "text": "Factor de 81",
+          "is_correct": false,
+          "feedback": "Elevaste al cuadrado el factor del área en lugar de obtener su raíz cuadrada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La razón de las áreas de figuras semejantes es el cuadrado de la razón de semejanza lineal ($k^2 = 9$). El perímetro, al ser una medida lineal, cambia según la razón de semejanza simple ($k$). Por lo tanto, $k = \\sqrt{9} = 3$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la distancia real en kilómetros entre las dos ciudades?",
+      "context": "En un mapa con escala 1:1,000,000, la distancia entre dos ciudades mexicanas es de 15 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.5 km",
+          "is_correct": false,
+          "feedback": "Error en el número de ceros al realizar la conversión."
+        },
+        {
+          "letter": "B",
+          "text": "15 km",
+          "is_correct": false,
+          "feedback": "Te faltó un factor de 10 en la conversión de unidades."
+        },
+        {
+          "letter": "C",
+          "text": "150 km",
+          "is_correct": true,
+          "feedback": "Correcto. 15 cm × 1,000,000 = 15,000,000 cm. Convertido a km: 150 km."
+        },
+        {
+          "letter": "D",
+          "text": "1,500 km",
+          "is_correct": false,
+          "feedback": "Añadiste demasiados ceros en la conversión final."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Distancia real $= 15\\text{ cm} \\cdot 1,000,000 = 15,000,000\\text{ cm}$. Para convertir a kilómetros: $15,000,000 / 100 = 150,000\\text{ metros}$, y $150,000 / 1,000 = 150\\text{ km}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v11",
+      "statement": "El triángulo 2 tiene ángulos de $60^{\\circ}$ y $80^{\\circ}$. ¿Son estos triángulos semejantes?",
+      "context": "Un ingeniero civil analiza dos vigas triangulares que sospecha son semejantes. El triángulo 1 tiene ángulos de $40^{\\circ}$ y $60^{\\circ}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque no tienen los mismos dos ángulos dados.",
+          "is_correct": false,
+          "feedback": "Debes calcular el tercer ángulo de cada triángulo antes de concluir."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque el tercer ángulo de ambos es el mismo ($80^{\\circ}$ en el 1 y $40^{\\circ}$ en el 2).",
+          "is_correct": true,
+          "feedback": "Correcto. Triángulo 1: 180-(40+60)=80. Triángulo 2: 180-(60+80)=40. Ambos tienen ángulos de 40, 60 y 80."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque no conocemos las medidas de sus lados.",
+          "is_correct": false,
+          "feedback": "El criterio AA (Ángulo-Ángulo) es suficiente para determinar semejanza sin conocer los lados."
+        },
+        {
+          "letter": "D",
+          "text": "Solo si los lados correspondientes son iguales.",
+          "is_correct": false,
+          "feedback": "Esa sería la condición para la congruencia, no para la semejanza."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La suma de los ángulos internos de cualquier triángulo es $180^{\\circ}$. Triángulo 1: ángulos $40^{\\circ}, 60^{\\circ}, 80^{\\circ}$. Triángulo 2: ángulos $60^{\\circ}, 80^{\\circ}, 40^{\\circ}$. Al tener sus tres ángulos iguales (criterio AAA o AA), los triángulos son semejantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v12",
+      "statement": "Si $AD = 4$, $DB = 2$ y $BC = 9$, ¿cuál es la longitud del segmento $DE$?",
+      "context": "Un geómetra estudia un triángulo $\\triangle ABC$ donde se traza un segmento $DE$ paralelo a la base $BC$, con $D$ en $AB$ y $E$ en $AC$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4.5$",
+          "is_correct": false,
+          "feedback": "Usaste la relación AD/DB en lugar de AD/AB."
+        },
+        {
+          "letter": "B",
+          "text": "$6$",
+          "is_correct": true,
+          "feedback": "Correcto. Los triángulos ADE y ABC son semejantes. AD/AB = DE/BC. 4/(4+2) = DE/9 -> 4/6 = DE/9 -> DE = (4×9)/6 = 6."
+        },
+        {
+          "letter": "C",
+          "text": "$18$",
+          "is_correct": false,
+          "feedback": "Multiplicaste incorrectamente los valores en la proporción."
+        },
+        {
+          "letter": "D",
+          "text": "$3$",
+          "is_correct": false,
+          "feedback": "Error en la configuración de la razón de semejanza."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Debido a que $DE \\parallel BC$, el $\\triangle ADE$ es semejante al $\\triangle ABC$. La proporción correcta relaciona lados correspondientes completos: $\\frac{AD}{AB} = \\frac{DE}{BC}$. Sustituyendo: $\\frac{4}{4+2} = \\frac{DE}{9} \\Rightarrow \\frac{4}{6} = \\frac{DE}{9} \\Rightarrow DE = \\frac{36}{6} = 6$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v13",
+      "statement": "Si el cilindro grande tiene una altura de 10 cm, ¿cuál es su volumen?",
+      "context": "Se tienen dos cilindros semejantes. El cilindro pequeño tiene una altura de 5 cm y un volumen de $40\\text{ cm}^3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$80\\text{ cm}^3$",
+          "is_correct": false,
+          "feedback": "Duplicaste el volumen porque la altura se duplicó; el volumen varía con el cubo de la razón."
+        },
+        {
+          "letter": "B",
+          "text": "$160\\text{ cm}^3$",
+          "is_correct": false,
+          "feedback": "Elevaste al cuadrado la razón en lugar de elevarla al cubo."
+        },
+        {
+          "letter": "C",
+          "text": "$320\\text{ cm}^3$",
+          "is_correct": true,
+          "feedback": "Correcto. La razón de semejanza es k = 10/5 = 2. La razón de volúmenes es k³ = 2³ = 8. Volumen grande = 40 × 8 = 320."
+        },
+        {
+          "letter": "D",
+          "text": "$400\\text{ cm}^3$",
+          "is_correct": false,
+          "feedback": "Valor incorrecto producto de un error de procedimiento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La razón de semejanza lineal es $k = 10 / 5 = 2$. En cuerpos semejantes, el volumen cambia según el cubo de la razón de semejanza ($k^3$). Entonces, Volumen grande $= \\text{Volumen pequeño} \\cdot 2^3 = 40 \\cdot 8 = 320\\text{ cm}^3$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál de las siguientes afirmaciones sobre los triángulos resultantes es falsa?",
+      "context": "En un triángulo rectángulo $\\triangle ABC$ (recto en $C$), se traza la altura $h$ sobre la hipotenusa $c$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos triángulos pequeños son semejantes entre sí.",
+          "is_correct": false,
+          "feedback": "Esto es verdadero por el Teorema de Euclides."
+        },
+        {
+          "letter": "B",
+          "text": "Cada triángulo pequeño es semejante al triángulo original $\\triangle ABC$.",
+          "is_correct": false,
+          "feedback": "Esto es verdadero; todos comparten los mismos ángulos."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos triángulos pequeños son congruentes entre sí.",
+          "is_correct": true,
+          "feedback": "Correcto, esto es falso. Solo serían congruentes si el triángulo original fuera isósceles."
+        },
+        {
+          "letter": "D",
+          "text": "La altura al cuadrado es igual al producto de los segmentos de la hipotenusa.",
+          "is_correct": false,
+          "feedback": "Esto es verdadero y se conoce como el teorema de la altura."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Al trazar la altura sobre la hipotenusa de un triángulo rectángulo, se generan dos triángulos menores que conservan los ángulos del original, por lo que son semejantes entre sí y al original. Sin embargo, sus tamaños (lados) son diferentes a menos que los catetos originales fueran iguales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál debe ser la razón de semejanza lineal (factor de escala para la altura) entre una muñeca y la siguiente más pequeña?",
+      "context": "Un fabricante de muñecas rusas (matrioskas) quiere que cada muñeca tenga un volumen que sea exactamente la mitad de la anterior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.5$",
+          "is_correct": false,
+          "feedback": "Si reduces la altura a la mitad, el volumen se reduce a la octava parte (0.125)."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt[3]{0.5} \\approx 0.79$",
+          "is_correct": true,
+          "feedback": "Correcto. Si V2 = 0.5 V1, entonces k³ = 0.5, lo que implica k = ∛0.5."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{0.5} \\approx 0.71$",
+          "is_correct": false,
+          "feedback": "Esta sería la razón si se quisiera reducir el área de la superficie a la mitad."
+        },
+        {
+          "letter": "D",
+          "text": "$0.25$",
+          "is_correct": false,
+          "feedback": "Este factor reduciría el volumen drásticamente más allá de la mitad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La relación entre volúmenes de figuras semejantes es $V_2 / V_1 = k^3$. Si queremos que $V_2 / V_1 = 1 / 2 = 0.5$, entonces debemos encontrar un factor de escala $k$ tal que $k^3 = 0.5$, lo que resulta en $k = \\sqrt[3]{0.5} \\approx 0.7937$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.35,
+      "bundle_id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v16",
+      "statement": "Si el área de la base del tetraedro original es de $10\\text{ cm}^2$, ¿cuál es el área de la base de la réplica?",
+      "context": "Un artista en San Miguel de Allende construye una escultura metálica que consiste en un tetraedro regular. Luego construye una réplica con el doble de material (volumen).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$20\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "El área no aumenta linealmente con el volumen."
+        },
+        {
+          "letter": "B",
+          "text": "$10 \\cdot 2^{2/3} \\approx 15.87\\text{ cm}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. k³ = 2 (volumen). Entonces k = 2^(1/3). Área base = 10 × k² = 10 × 2^(2/3) ≈ 15.87."
+        },
+        {
+          "letter": "C",
+          "text": "$40\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Error en el cálculo de la razón de semejanza."
+        },
+        {
+          "letter": "D",
+          "text": "$10\\sqrt{2} \\approx 14.14\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Error en la relación exponencial entre volumen y área."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Si el volumen se duplica, la razón de semejanza lineal es $k = \\sqrt[3]{2} = 2^{1/3}$. El área de cualquier cara (como la base) cambia según el cuadrado de esta razón: $k^2 = (2^{1/3})^2 = 2^{2/3}$. Así, el área nueva es $10 \\cdot 2^{2/3} \\approx 15.87\\text{ cm}^2$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.3,
+      "bundle_id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la relación correcta que establece la proporcionalidad en este caso?",
+      "context": "Un matemático analiza el \"Teorema de la Bisectriz\" en un triángulo $\\triangle ABC$. La bisectriz del ángulo $A$ corta al lado opuesto $BC$ en el punto $D$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$AB/AC = AD/BC$",
+          "is_correct": false,
+          "feedback": "Esta relación no describe correctamente la proporción de la bisectriz."
+        },
+        {
+          "letter": "B",
+          "text": "$AB/AC = BD/DC$",
+          "is_correct": true,
+          "feedback": "Correcto. La bisectriz de un ángulo interior divide al lado opuesto en segmentos proporcionales a los otros dos lados."
+        },
+        {
+          "letter": "C",
+          "text": "$AB \\cdot AC = BD \\cdot DC$",
+          "is_correct": false,
+          "feedback": "Esta es una relación de productos, no de razones directas."
+        },
+        {
+          "letter": "D",
+          "text": "$AB+BD = AC+DC$",
+          "is_correct": false,
+          "feedback": "No existe tal relación de suma constante por la bisectriz."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Teorema de la Bisectriz establece que, en cualquier triángulo, la bisectriz de un ángulo divide al lado opuesto en dos segmentos cuyas longitudes son proporcionales a las de los lados que forman dicho ángulo: $\\frac{AB}{AC} = \\frac{BD}{DC}$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v18",
+      "statement": "Si se aplica una homotecia con centro $O$ y razón $k = -2$ a un triángulo, ¿cuál de las siguientes afirmaciones describe mejor el resultado?",
+      "context": "Se plantea un problema de \"Homotecia\": una transformación que produce figuras semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El triángulo resultante es el doble de grande y está en la misma posición.",
+          "is_correct": false,
+          "feedback": "Una razón negativa implica una inversión de la figura."
+        },
+        {
+          "letter": "B",
+          "text": "El triángulo es el doble de grande, está invertido y se encuentra del otro lado del centro $O$.",
+          "is_correct": true,
+          "feedback": "Correcto. El valor absoluto 2 duplica el tamaño, y el signo negativo indica rotación de 180° (inversión)."
+        },
+        {
+          "letter": "C",
+          "text": "El triángulo es la mitad de grande e invertido.",
+          "is_correct": false,
+          "feedback": "El tamaño aumenta porque el valor absoluto de la razón es mayor que 1."
+        },
+        {
+          "letter": "D",
+          "text": "El triángulo es idéntico pero desplazado.",
+          "is_correct": false,
+          "feedback": "Eso sería una traslación (isometría), no una homotecia con factor 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En una homotecia, la razón $k$ determina el cambio de tamaño mediante $|k|$. Si $|k| > 1$, la figura se expande. El signo negativo indica que la figura resultante estará invertida respecto al centro de homotecia (una rotación de $180^{\\circ}$).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v19",
+      "statement": "El Sol es unas 400 veces más grande que la Luna en diámetro. ¿Por qué pueden verse del mismo tamaño aparente desde la Tierra?",
+      "context": "Un astrónomo explica el fenómeno de los eclipses solares totales utilizando semejanza de triángulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la luz se curva al pasar cerca de la Luna.",
+          "is_correct": false,
+          "feedback": "El efecto de lente gravitacional existe pero es imperceptible en este contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el Sol está unas 400 veces más lejos de la Tierra que la Luna.",
+          "is_correct": true,
+          "feedback": "Correcto. Por semejanza, el diámetro d y la distancia D mantienen la relación d/D constante para que el ángulo aparente sea igual."
+        },
+        {
+          "letter": "C",
+          "text": "Debido a la refracción atmosférica terrestre.",
+          "is_correct": false,
+          "feedback": "La refracción afecta la posición aparente, no el tamaño angular relativo de forma tan drástica."
+        },
+        {
+          "letter": "D",
+          "text": "Es una ilusión óptica causada por el brillo del Sol.",
+          "is_correct": false,
+          "feedback": "Es un hecho geométrico basado en proporciones de distancia y tamaño."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tamaño aparente (ángulo subtendido) depende de la relación $\\frac{\\text{diámetro}}{\\text{distancia}}$. Si el Sol es 400 veces más grande ($d_s = 400 d_l$) pero está 400 veces más lejos ($D_s = 400 D_l$), entonces $\\frac{d_s}{D_s} = \\frac{400 d_l}{400 D_l} = \\frac{d_l}{D_l}$, por lo que ambos subtienden el mismo ángulo.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la condición necesaria y suficiente para que estas dos elipses sean semejantes?",
+      "context": "Un estudiante de ingeniería analiza la semejanza de dos elipses definidas por las ecuaciones $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$ y $\\frac{x^2}{c^2} + \\frac{y^2}{d^2} = 1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que $a = c$ y $b = d$.",
+          "is_correct": false,
+          "feedback": "Esta es la condición de congruencia, no de semejanza."
+        },
+        {
+          "letter": "B",
+          "text": "Que las razones de sus ejes sean iguales ($a/b = c/d$).",
+          "is_correct": true,
+          "feedback": "Correcto. La semejanza requiere que la \"forma\" sea la misma, lo que en elipses depende de su excentricidad o la razón entre sus ejes."
+        },
+        {
+          "letter": "C",
+          "text": "Que sus áreas sean proporcionales.",
+          "is_correct": false,
+          "feedback": "Todas las elipses tienen áreas proporcionales de alguna manera, pero eso no garantiza semejanza de forma."
+        },
+        {
+          "letter": "D",
+          "text": "Que tengan los mismos focos.",
+          "is_correct": false,
+          "feedback": "Tener los mismos focos (confocales) no garantiza tener la misma forma (semejanza)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para que dos figuras sean semejantes, una debe ser una versión a escala de la otra. En el caso de la elipse, esto ocurre cuando la proporción entre el semieje mayor y el semieje menor es la misma, lo que garantiza que tengan la misma excentricidad y, por ende, la misma forma.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntaje |\n|-----------|---------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.15,
+      "bundle_id": "MX-MAT-11-2026-W13-geometria-congruencia-semejanza-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v1",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 15 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Puebla analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "26 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "30 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "22 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 15 cm, entonces P_mayor = P_menor * (4/3) = 15 * 4 / 3 = 20 cm.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v2",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 18 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Guadalajara analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "32 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "36 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "27 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 18 cm, entonces P_mayor = P_menor * (4/3) = 18 * 4 / 3 = 24 cm.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v3",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 21 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Monterrey analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "28 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "37 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "42 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "31 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 21 cm, entonces P_mayor = P_menor * (4/3) = 21 * 4 / 3 = 28 cm.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v4",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 24 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Toluca analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "42 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "48 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "36 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 24 cm, entonces P_mayor = P_menor * (4/3) = 24 * 4 / 3 = 32 cm.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v5",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 27 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Querétaro analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "36 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "48 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "54 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "40 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 27 cm, entonces P_mayor = P_menor * (4/3) = 27 * 4 / 3 = 36 cm.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v6",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 30 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Mérida analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "53 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "60 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "45 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 30 cm, entonces P_mayor = P_menor * (4/3) = 30 * 4 / 3 = 40 cm.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v7",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 33 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Cancún analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "44 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "58 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "66 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "49 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 33 cm, entonces P_mayor = P_menor * (4/3) = 33 * 4 / 3 = 44 cm.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v8",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 36 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Veracruz analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "48 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "64 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "72 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "54 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 36 cm, entonces P_mayor = P_menor * (4/3) = 36 * 4 / 3 = 48 cm.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v9",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 39 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Oaxaca analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "52 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "69 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "78 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "58 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 39 cm, entonces P_mayor = P_menor * (4/3) = 39 * 4 / 3 = 52 cm.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v10",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 42 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en San Luis Potosí analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "56 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "74 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "84 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "63 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 42 cm, entonces P_mayor = P_menor * (4/3) = 42 * 4 / 3 = 56 cm.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v11",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 45 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Puebla analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "80 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "90 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "67 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 45 cm, entonces P_mayor = P_menor * (4/3) = 45 * 4 / 3 = 60 cm.",
+      "difficulty": "11",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v12",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 48 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Guadalajara analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "64 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "85 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "96 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "72 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 48 cm, entonces P_mayor = P_menor * (4/3) = 48 * 4 / 3 = 64 cm.",
+      "difficulty": "12",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v13",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 51 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Monterrey analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "68 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "90 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "102 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "76 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 51 cm, entonces P_mayor = P_menor * (4/3) = 51 * 4 / 3 = 68 cm.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v14",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 54 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Toluca analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "72 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "96 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "108 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "81 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 54 cm, entonces P_mayor = P_menor * (4/3) = 54 * 4 / 3 = 72 cm.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v15",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 57 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Querétaro analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "76 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "101 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "114 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "85 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 57 cm, entonces P_mayor = P_menor * (4/3) = 57 * 4 / 3 = 76 cm.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v16",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 60 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Mérida analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "80 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "106 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "120 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "90 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 60 cm, entonces P_mayor = P_menor * (4/3) = 60 * 4 / 3 = 80 cm.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v17",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 63 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Cancún analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "84 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "112 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "126 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "94 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 63 cm, entonces P_mayor = P_menor * (4/3) = 63 * 4 / 3 = 84 cm.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v18",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 66 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Veracruz analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "88 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "117 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "132 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "99 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 66 cm, entonces P_mayor = P_menor * (4/3) = 66 * 4 / 3 = 88 cm.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v19",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 69 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en Oaxaca analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "92 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "122 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "138 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "103 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 69 cm, entonces P_mayor = P_menor * (4/3) = 69 * 4 / 3 = 92 cm.",
+      "difficulty": "11",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v20",
+      "statement": "En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 72 cm, ¿cuál es el perímetro del triángulo mayor?",
+      "context": "Un carpintero en San Luis Potosí analiza planos con triángulos congruentes y semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "96 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3)."
+        },
+        {
+          "letter": "B",
+          "text": "128 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "144 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4."
+        },
+        {
+          "letter": "D",
+          "text": "108 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa (proporcional), no una suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los triángulos son semejantes con una escala de lados correspondientes de 3 a 4, la razón entre sus perímetros también es exactamente de 3 a 4. Si P_menor = 72 cm, entonces P_mayor = P_menor * (4/3) = 72 * 4 / 3 = 96 cm.",
+      "difficulty": "12",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    }
+  ]
+}

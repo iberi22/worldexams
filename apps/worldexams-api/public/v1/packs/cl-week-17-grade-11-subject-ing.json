@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ingles",
+    "country": "cl",
+    "pack_id": "cl-week-17-grade-11-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.102Z"
+  },
+  "questions": [
+    {
+      "id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-v1",
+      "statement": "Public transportation systems like the metro or buses are essential for reducing traffic congestion in big cities.",
+      "context": "Describing city infrastructure.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "isolation",
+          "is_correct": false,
+          "feedback": "Incorrect. Public trans connects people."
+        },
+        {
+          "letter": "B",
+          "text": "congestion",
+          "is_correct": true,
+          "feedback": "Correct. Congestion is the state of being overcrowded with traffic."
+        },
+        {
+          "letter": "C",
+          "text": "speed",
+          "is_correct": false,
+          "feedback": "Incorrect. It aims to increase speed by reducing congestion."
+        },
+        {
+          "letter": "D",
+          "text": "ruralization",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to the country, not the city."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Congestion' is the standard term for the overcrowding of traffic or people in urban areas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-v2",
+      "statement": "The population of this city has been growing at an unprecedented rate for the last ten years.",
+      "context": "Discussing city growth.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "grows",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple."
+        },
+        {
+          "letter": "B",
+          "text": "has been growing",
+          "is_correct": true,
+          "feedback": "Correct. Present perfect continuous for a trend starting in the past and continuing."
+        },
+        {
+          "letter": "C",
+          "text": "grew",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "D",
+          "text": "will grow",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present perfect continuous highlights the ongoing nature of the city's population growth.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-v3",
+      "statement": "If the city had invested more in green spaces, urban heat islands wouldn't be such a significant problem today.",
+      "context": "Speculating about urban planning.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "invested",
+          "is_correct": false,
+          "feedback": "Incorrect. Second conditional."
+        },
+        {
+          "letter": "B",
+          "text": "had invested",
+          "is_correct": true,
+          "feedback": "Correct. Mixed conditional (past action, present result)."
+        },
+        {
+          "letter": "C",
+          "text": "has invested",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "would invest",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' not used in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The mixed conditional (if + past perfect, would + verb) connects a past failure to invest with a current negative situation.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-v4",
+      "statement": "Gentrification occurs when the character of a poor urban area is changed by wealthier people moving in, improving housing and attracting new businesses.",
+      "context": "Article about \"gentrification\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gentrification",
+          "is_correct": true,
+          "feedback": "Correct. Specific term for the process described."
+        },
+        {
+          "letter": "B",
+          "text": "Urbanization",
+          "is_correct": false,
+          "feedback": "Incorrect. Broad term for city growth."
+        },
+        {
+          "letter": "C",
+          "text": "Migration",
+          "is_correct": false,
+          "feedback": "Incorrect. Broad term for moving."
+        },
+        {
+          "letter": "D",
+          "text": "Renovation",
+          "is_correct": false,
+          "feedback": "Incorrect. Part of the process, but not the whole sociological term."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Gentrification' is the sociological term for the transformation of working-class neighborhoods into wealthier ones.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-v5",
+      "statement": "The primary disadvantage of urban sprawl is the increased dependence on cars and the resulting environmental impact.",
+      "context": "Discussion on urban \"sprawl\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "concentration",
+          "is_correct": false,
+          "feedback": "Incorrect. Sprawl is the opposite of concentration."
+        },
+        {
+          "letter": "B",
+          "text": "sprawl",
+          "is_correct": true,
+          "feedback": "Correct. Urban sprawl is the outward expansion of cities."
+        },
+        {
+          "letter": "C",
+          "text": "density",
+          "is_correct": false,
+          "feedback": "Incorrect. Sprawl leads to low density."
+        },
+        {
+          "letter": "D",
+          "text": "unity",
+          "is_correct": false,
+          "feedback": "Incorrect. Sprawl often separates communities."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Urban sprawl' refers to the rapid, often unplanned, geographic expansion of cities into nearby rural areas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-v6",
+      "statement": "In a metropolis, you can find a wide variety of shops, restaurants, and entertainment options.",
+      "context": "Modern city convenience.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "hamlet",
+          "is_correct": false,
+          "feedback": "Incorrect. A hamlet is a very small village."
+        },
+        {
+          "letter": "B",
+          "text": "metropolis",
+          "is_correct": true,
+          "feedback": "Correct. A metropolis is a very large and busy city."
+        },
+        {
+          "letter": "C",
+          "text": "suburb",
+          "is_correct": false,
+          "feedback": "Incorrect. A suburb is on the edge of a city."
+        },
+        {
+          "letter": "D",
+          "text": "province",
+          "is_correct": false,
+          "feedback": "Incorrect. A province is a region."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Metropolis' is the formal term for a major city, especially the main city of a region.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-v7",
+      "statement": "New cycling paths are being constructed throughout the city to promote sustainable transport.",
+      "context": "Passive voice in a city report.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are constructing",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "are being constructed",
+          "is_correct": true,
+          "feedback": "Correct. Present continuous passive for an ongoing project."
+        },
+        {
+          "letter": "C",
+          "text": "constructed",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "D",
+          "text": "have constructed",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present continuous passive describes a construction project that is currently in progress.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-v8",
+      "statement": "The lack of affordable housing is a major challenge for many young professionals living in urban centers.",
+      "context": "Text on \"affordable housing\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "luxury",
+          "is_correct": false,
+          "feedback": "Incorrect. Luxury housing is usually plentiful but too expensive."
+        },
+        {
+          "letter": "B",
+          "text": "affordable",
+          "is_correct": true,
+          "feedback": "Correct. Affordable means inexpensive enough for people to pay."
+        },
+        {
+          "letter": "C",
+          "text": "modern",
+          "is_correct": false,
+          "feedback": "Incorrect. It may be modern but the main issue is the cost."
+        },
+        {
+          "letter": "D",
+          "text": "industrial",
+          "is_correct": false,
+          "feedback": "Incorrect. Not meant for living."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Affordable housing' is the specific term for residential units that are priced for low-to-moderate-income families.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-v9",
+      "statement": "He is getting used to the noise and hustle of city life after moving from a small town.",
+      "context": "Describing an experience in a new city.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is used to",
+          "is_correct": false,
+          "feedback": "Incorrect. This means he is already accustomed; 'getting used to' shows the process."
+        },
+        {
+          "letter": "B",
+          "text": "is getting used to",
+          "is_correct": true,
+          "feedback": "Correct. 'Be getting used to' describes the process of becoming accustomed."
+        },
+        {
+          "letter": "C",
+          "text": "used to",
+          "is_correct": false,
+          "feedback": "Incorrect. Refers to a past habit."
+        },
+        {
+          "letter": "D",
+          "text": "gets used to",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple present doesn't show the current process."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Is getting used to' describes the ongoing process of adapting to a new environment.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-v10",
+      "statement": "The author uses the term \"concrete jungle\" to describe cities that lack sufficient vegetation and feel harsh or inhospitable.",
+      "context": "Critique of \"concrete jungles\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "oasis",
+          "is_correct": false,
+          "feedback": "Incorrect. An oasis is a fertile spot in a desert."
+        },
+        {
+          "letter": "B",
+          "text": "concrete jungle",
+          "is_correct": true,
+          "feedback": "Correct. Metaphor for an unpleasant, crowded city environment."
+        },
+        {
+          "letter": "C",
+          "text": "paradise",
+          "is_correct": false,
+          "feedback": "Incorrect. Opposite meaning."
+        },
+        {
+          "letter": "D",
+          "text": "playground",
+          "is_correct": false,
+          "feedback": "Incorrect. Focuses on fun rather than the harshness."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Concrete jungle' is a common critical metaphor for a city that feels dominated by grey buildings and lack of nature.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-v11",
+      "statement": "A commuter is a person who travels some distance to work on a regular basis.",
+      "context": "Commuting terms.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "tourist",
+          "is_correct": false,
+          "feedback": "Incorrect. Travels for pleasure."
+        },
+        {
+          "letter": "B",
+          "text": "commuter",
+          "is_correct": true,
+          "feedback": "Correct. Travels for work."
+        },
+        {
+          "letter": "C",
+          "text": "resident",
+          "is_correct": false,
+          "feedback": "Incorrect. Just lives there, doesn't necessarily travel."
+        },
+        {
+          "letter": "D",
+          "text": "native",
+          "is_correct": false,
+          "feedback": "Incorrect. Born there."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Commuter' is the specific term for someone who travels regularly between home and work.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-v12",
+      "statement": "The old shipyard has been transformed into a vibrant cultural hub.",
+      "context": "Passive voice in urban history.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has transformed",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "has been transformed",
+          "is_correct": true,
+          "feedback": "Correct. Present perfect passive for a completed change with present result."
+        },
+        {
+          "letter": "C",
+          "text": "is transforming",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "D",
+          "text": "transforms",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple present."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present perfect passive describes a completed process of change that defines the current state of a place.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-v13",
+      "statement": "The cosmopolitan nature of the city is reflected in its diverse population and international cuisine.",
+      "context": "Discussing city diversity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "cosmopolitan",
+          "is_correct": true,
+          "feedback": "Correct. Cosmopolitan means containing people from many different countries."
+        },
+        {
+          "letter": "B",
+          "text": "provincial",
+          "is_correct": false,
+          "feedback": "Incorrect. Provincial means narrow-minded or typical of a province."
+        },
+        {
+          "letter": "C",
+          "text": "isolated",
+          "is_correct": false,
+          "feedback": "Incorrect. Isolation is the opposite of cosmopolitanism."
+        },
+        {
+          "letter": "D",
+          "text": "homogeneous",
+          "is_correct": false,
+          "feedback": "Incorrect. Homogeneous means all the same."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Cosmopolitan' is the ideal adjective for a city that is multicultural and globally connected.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-v14",
+      "statement": "If the metro were more reliable, more people would leave their cars at home.",
+      "context": "Conditional about public transport.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. First conditional."
+        },
+        {
+          "letter": "B",
+          "text": "were",
+          "is_correct": true,
+          "feedback": "Correct. Second conditional for a hypothetical situation."
+        },
+        {
+          "letter": "C",
+          "text": "has been",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "had been",
+          "is_correct": false,
+          "feedback": "Incorrect. Third conditional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The second conditional 'if + were' describes how a hypothetical improvement would change behavior.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-v15",
+      "statement": "The author argues that cities must prioritize \"walkability\" to improve the health and well-being of their residents.",
+      "context": "Conclusion on urban sustainability.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "parking",
+          "is_correct": false,
+          "feedback": "Incorrect. Prioritizing parking usually hurts walkability."
+        },
+        {
+          "letter": "B",
+          "text": "walkability",
+          "is_correct": true,
+          "feedback": "Correct. Walkability is the measure of how friendly an area is to walking."
+        },
+        {
+          "letter": "C",
+          "text": "isolation",
+          "is_correct": false,
+          "feedback": "Incorrect. Negative."
+        },
+        {
+          "letter": "D",
+          "text": "construction",
+          "is_correct": false,
+          "feedback": "Incorrect. Too broad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Walkability' is a key concept in modern urban planning focused on human-centric design.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-v16",
+      "statement": "The outskirts are the parts of a town or city that are furthest from the center.",
+      "context": "City parts.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "heart",
+          "is_correct": false,
+          "feedback": "Incorrect. The heart is the center."
+        },
+        {
+          "letter": "B",
+          "text": "outskirts",
+          "is_correct": true,
+          "feedback": "Correct. The outer edges of a city."
+        },
+        {
+          "letter": "C",
+          "text": "plaza",
+          "is_correct": false,
+          "feedback": "Incorrect. A plaza is a central square."
+        },
+        {
+          "letter": "D",
+          "text": "landmark",
+          "is_correct": false,
+          "feedback": "Incorrect. A landmark is a recognizable feature."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Outskirts' is the standard term for the peripheral areas of a city.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-v17",
+      "statement": "I wish there were less noise in my neighborhood at night.",
+      "context": "Expressing a wish about city life.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "B",
+          "text": "were",
+          "is_correct": true,
+          "feedback": "Correct. 'Wish + were' for a present hypothetical desire."
+        },
+        {
+          "letter": "C",
+          "text": "was",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Were' is preferred in formal wishes about the present."
+        },
+        {
+          "letter": "D",
+          "text": "will be",
+          "is_correct": false,
+          "feedback": "Incorrect. Future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The 'wish + past' structure is used to express a desire for the current situation to be different.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-v18",
+      "statement": "Smart cities use technology and data to optimize urban services and improve the quality of life for citizens.",
+      "context": "Text about \"smart cities\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ignore",
+          "is_correct": false,
+          "feedback": "Incorrect. Smart cities actively use data."
+        },
+        {
+          "letter": "B",
+          "text": "optimize",
+          "is_correct": true,
+          "feedback": "Correct. To optimize means to make the best or most effective use of a resource."
+        },
+        {
+          "letter": "C",
+          "text": "complicated",
+          "is_correct": false,
+          "feedback": "Incorrect. The goal is to improve, not just complicate."
+        },
+        {
+          "letter": "D",
+          "text": "delete",
+          "is_correct": false,
+          "feedback": "Incorrect. They use, don't delete, services."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Optimize' describes the goal of using data to make city systems more efficient.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-v19",
+      "statement": "The council announced that they would be pedestrianizing the main street next month.",
+      "context": "Reporting a city planning decision.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted in reported speech."
+        },
+        {
+          "letter": "B",
+          "text": "would be",
+          "is_correct": true,
+          "feedback": "Correct. Backshifted from 'will be' to 'would be' in reported speech."
+        },
+        {
+          "letter": "C",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "D",
+          "text": "have been",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, we change 'will be' to 'would be' when reporting a future plan in the past tense.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-v20",
+      "statement": "Despite the density of the city, many people find a strong sense of community in their local neighborhoods.",
+      "context": "Final thought on urban community.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sense of community",
+          "is_correct": true,
+          "feedback": "Correct. Feeling of belonging to a group."
+        },
+        {
+          "letter": "B",
+          "text": "feeling of isolation",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says 'Despite...', implying a positive despite the density."
+        },
+        {
+          "letter": "C",
+          "text": "lack of connection",
+          "is_correct": false,
+          "feedback": "Incorrect. Also negative."
+        },
+        {
+          "letter": "D",
+          "text": "desire for wealth",
+          "is_correct": false,
+          "feedback": "Incorrect. Unrelated to the social point."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Sense of community' is the standard term for the feeling of belonging and mutual support within a neighborhood.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W17-urban-life-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-3-grade-10-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.569Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-10-2026-W03-cultural-exchanges-001-MASTERY-v1",
+      "statement": "\"Every year, thousands of students ____ to participate in international exchange programs.\"",
+      "context": "An informative text about student exchanges.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "chose",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs passive voice for the subject."
+        },
+        {
+          "letter": "B",
+          "text": "are chosen",
+          "is_correct": true,
+          "feedback": "Correct. Present Passive describes a regular action."
+        },
+        {
+          "letter": "C",
+          "text": "have chosen",
+          "is_correct": false,
+          "feedback": "Incorrect active voice."
+        },
+        {
+          "letter": "D",
+          "text": "were choosing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Present Passive (am/is/are + past participle) is used to describe regular or factual actions.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.86,
+      "bundle_id": "CO-ING-10-2026-W03-cultural-exchanges-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W03-cultural-exchanges-001-MASTERY-v2",
+      "statement": "\"Last summer, the traditional dance ____ by a group of visiting students from Brazil.\"",
+      "context": "Discussing a past festival.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is performed",
+          "is_correct": false,
+          "feedback": "Incorrect tense."
+        },
+        {
+          "letter": "B",
+          "text": "was performed",
+          "is_correct": true,
+          "feedback": "Correct. Past Passive for a specific completed event."
+        },
+        {
+          "letter": "C",
+          "text": "performed",
+          "is_correct": false,
+          "feedback": "Incorrect active voice."
+        },
+        {
+          "letter": "D",
+          "text": "has been performed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Past Passive (was/were + past participle) for events at a specific time in the past.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.83,
+      "bundle_id": "CO-ING-10-2026-W03-cultural-exchanges-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W03-cultural-exchanges-001-MASTERY-v3",
+      "statement": "\"The host families ____ carefully before any student ____ to their home.\"",
+      "context": "How host families are selected.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "screen / sends",
+          "is_correct": false,
+          "feedback": "Incorrect active voice."
+        },
+        {
+          "letter": "B",
+          "text": "are screened / is sent",
+          "is_correct": true,
+          "feedback": "Correct. Both actions are passive (Present Passive)."
+        },
+        {
+          "letter": "C",
+          "text": "were screened / sent",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "are screening / sent",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Use of Passive Voice in both parts of a complex sentence to maintain focus on the objects.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Part 2 - Lexical Knowledge",
+      "expected_success": 0.79,
+      "bundle_id": "CO-ING-10-2026-W03-cultural-exchanges-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W03-cultural-exchanges-001-MASTERY-v4",
+      "statement": "\"It ____ that the new agreement ____ by both governments yesterday morning.\"",
+      "context": "A news report on a new diplomatic agreement.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is said / signed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "was reported / was signed",
+          "is_correct": true,
+          "feedback": "Correct. Both are in the Past Passive."
+        },
+        {
+          "letter": "C",
+          "text": "reported / signed",
+          "is_correct": false,
+          "feedback": "Incorrect active voice."
+        },
+        {
+          "letter": "D",
+          "text": "has been reported / signs",
+          "is_correct": false,
+          "feedback": "Incorrect tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Passive reporting verbs and the focus on the event rather than the agent.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.74,
+      "bundle_id": "CO-ING-10-2026-W03-cultural-exchanges-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W03-cultural-exchanges-001-MASTERY-v5",
+      "statement": "\"The visas ____ processed yet, so the flight ____ to be rescheduled.\"",
+      "context": "Preparing for a trip.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "haven't / needs",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "haven't been / had",
+          "is_correct": true,
+          "feedback": "Correct. Present Perfect Passive + Past Simple."
+        },
+        {
+          "letter": "C",
+          "text": "aren't / was",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "won't be / will",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Complexity: Present Perfect Passive to show an uncompleted action that affects the present.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.71,
+      "bundle_id": "CO-ING-10-2026-W03-cultural-exchanges-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W03-cultural-exchanges-001-MASTERY-v6",
+      "statement": "\"In the 19th century, many artifacts ____ to Europe, where they ____ in large museums.\"",
+      "context": "A historical account of cultural missions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "were taking / displayed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "were taken / were displayed",
+          "is_correct": true,
+          "feedback": "Correct. Sequential Past Passive actions."
+        },
+        {
+          "letter": "C",
+          "text": "had taken / displayed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "took / were displaying",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Describing historical processes using the Past Passive.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.67,
+      "bundle_id": "CO-ING-10-2026-W03-cultural-exchanges-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W03-cultural-exchanges-001-MASTERY-v7",
+      "statement": "\"While some languages ____ to disappear, others ____ as a means of global communication.\"",
+      "context": "An essay on globalization.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are said / are used",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "are thought / are adopted",
+          "is_correct": true,
+          "feedback": "Correct. B2 vocabulary and passive structures."
+        },
+        {
+          "letter": "C",
+          "text": "think / adopt",
+          "is_correct": false,
+          "feedback": "Incorrect active voice."
+        },
+        {
+          "letter": "D",
+          "text": "were thought / adopted",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using the passive with reporting verbs to express general opinions.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.63,
+      "bundle_id": "CO-ING-10-2026-W03-cultural-exchanges-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W03-cultural-exchanges-001-MASTERY-v8",
+      "statement": "\"The secret recipe ____ from generation to generation, and it ____ strictly confidential by the elders.\"",
+      "context": "A text about local gastronomy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has passed / is keeping",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "has been passed / is kept",
+          "is_correct": true,
+          "feedback": "Correct. Present Perfect Passive + Present Passive."
+        },
+        {
+          "letter": "C",
+          "text": "was passed / kept",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "is passed / has kept",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Passive voice used to describe traditions and states of being.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-10-2026-W03-cultural-exchanges-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W03-cultural-exchanges-001-MASTERY-v9",
+      "statement": "\"Arguments ____ that certain symbols ____ without a proper understanding of their original meaning.\"",
+      "context": "Discussion on the ethics of cultural appropriation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have made / used",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "have been made / are being used",
+          "is_correct": true,
+          "feedback": "Correct. Present Perfect Passive + Present Continuous Passive."
+        },
+        {
+          "letter": "C",
+          "text": "are made / were used",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "made / used",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Complexity: Present Continuous Passive to describe an ongoing trend.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.54,
+      "bundle_id": "CO-ING-10-2026-W03-cultural-exchanges-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W03-cultural-exchanges-001-MASTERY-v10",
+      "statement": "\"Only after the research ____ was it realized that the dialects ____ by the mountainous terrain.\"",
+      "context": "A sophisticated lecture on linguistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "had been concluded / had been influenced",
+          "is_correct": true,
+          "feedback": "Correct. Past Perfect Passive in an inversion structure."
+        },
+        {
+          "letter": "B",
+          "text": "was concluded / were influenced",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "has been concluded / are influenced",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "concluded / influenced",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Advanced B2 structure: Negative inversion with Past Perfect Passive.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.48,
+      "bundle_id": "CO-ING-10-2026-W03-cultural-exchanges-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W03-cultural-exchanges-001-MASTERY-v11",
+      "statement": "\"The proposal ____ to be a success, although it ____ by several independent observers.\"",
+      "context": "A critique of a cultural policy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "claimed / questioned",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "is claimed / is questioned",
+          "is_correct": false,
+          "feedback": "Correct but less formal."
+        },
+        {
+          "letter": "C",
+          "text": "was widely claimed / was heavily scrutinized",
+          "is_correct": true,
+          "feedback": "Correct. B2 vocabulary and Past Passive."
+        },
+        {
+          "letter": "D",
+          "text": "has claimed / has questioned",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Using the passive with adverbs to add precision and academic tone.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.42,
+      "bundle_id": "CO-ING-10-2026-W03-cultural-exchanges-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W03-cultural-exchanges-001-MASTERY-v12",
+      "statement": "\"Had the library not ____, much of our understanding of ancient cultures ____ forever.\"",
+      "context": "Speculating about historical influence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "burned / lost",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "been destroyed / would have been lost",
+          "is_correct": true,
+          "feedback": "Correct. Third Conditional Passive with inversion."
+        },
+        {
+          "letter": "C",
+          "text": "destroyed / will be lost",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "been destroyed / was lost",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Mastery level: Passive Voice combined with Third Conditional and inversion.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.36,
+      "bundle_id": "CO-ING-10-2026-W03-cultural-exchanges-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

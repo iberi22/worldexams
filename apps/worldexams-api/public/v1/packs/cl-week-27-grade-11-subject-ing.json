@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ingles",
+    "country": "cl",
+    "pack_id": "cl-week-27-grade-11-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.110Z"
+  },
+  "questions": [
+    {
+      "id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-v1",
+      "statement": "Mass media has the power to shape public opinion through the selective reporting of information.",
+      "context": "Introduction to media effects.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "individual",
+          "is_correct": false,
+          "feedback": "Incorrect. Mass media affects the whole public."
+        },
+        {
+          "letter": "B",
+          "text": "public",
+          "is_correct": true,
+          "feedback": "Correct. Public opinion is the collective opinion on a specific topic."
+        },
+        {
+          "letter": "C",
+          "text": "secret",
+          "is_correct": false,
+          "feedback": "Incorrect. Mass media is public."
+        },
+        {
+          "letter": "D",
+          "text": "private",
+          "is_correct": false,
+          "feedback": "Incorrect. Private opinion is held by individuals."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Public opinion' is the standard term for the collective beliefs and attitudes of a society.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-v2",
+      "statement": "Our perceptions of reality are being altered by the idealized images we see on social media.",
+      "context": "Discussing social media impact.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are altering",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "are being altered",
+          "is_correct": true,
+          "feedback": "Correct. Present continuous passive for an ongoing effect."
+        },
+        {
+          "letter": "C",
+          "text": "altered",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "D",
+          "text": "have altered",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present continuous passive describes the ongoing, active process of change in our perceptions.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-v3",
+      "statement": "If students were taught more media literacy, they would be less susceptible to fake news.",
+      "context": "Conditional about media literacy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrect. First conditional."
+        },
+        {
+          "letter": "B",
+          "text": "were",
+          "is_correct": true,
+          "feedback": "Correct. Second conditional for a hypothetical change."
+        },
+        {
+          "letter": "C",
+          "text": "had been",
+          "is_correct": false,
+          "feedback": "Incorrect. Third conditional."
+        },
+        {
+          "letter": "D",
+          "text": "would be",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' not used in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The second conditional 'if + were' describes how a hypothetical educational change would have a positive result.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-v4",
+      "statement": "Agenda-setting is the ability of the news media to influence the importance placed on the topics of the public agenda.",
+      "context": "Article about \"agenda-setting\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ignoring",
+          "is_correct": false,
+          "feedback": "Incorrect. It's about what the media focuses on."
+        },
+        {
+          "letter": "B",
+          "text": "importance",
+          "is_correct": true,
+          "feedback": "Correct. Media decides which topics seem more important."
+        },
+        {
+          "letter": "C",
+          "text": "accuracy",
+          "is_correct": false,
+          "feedback": "Incorrect. While related, agenda-setting is about priority, not just truth."
+        },
+        {
+          "letter": "D",
+          "text": "cost",
+          "is_correct": false,
+          "feedback": "Incorrect. Unrelated to the concept."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Importance' correctly identifies the primary goal of agenda-setting: influencing what the public thinks about.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-v5",
+      "statement": "Sensationalism is a type of editorial bias in mass media in which events and topics in news stories are overhyped to increase viewership.",
+      "context": "Discussion on \"sensationalism\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Accuracy",
+          "is_correct": false,
+          "feedback": "Incorrect. Sensationalism often sacrifices accuracy for excitement."
+        },
+        {
+          "letter": "B",
+          "text": "Sensationalism",
+          "is_correct": true,
+          "feedback": "Correct. Specific term for exaggerated reporting."
+        },
+        {
+          "letter": "C",
+          "text": "Objectivity",
+          "is_correct": false,
+          "feedback": "Incorrect. The opposite of bias."
+        },
+        {
+          "letter": "D",
+          "text": "Neutrality",
+          "is_correct": false,
+          "feedback": "Incorrect. Sensationalism is not neutral."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Sensationalism' is the standard media studies term for exaggerated or shocking reporting designed to attract attention.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-v6",
+      "statement": "Product placement is a practice in which manufacturers of goods or providers of a service gain exposure by paying for them to be featured in films and television.",
+      "context": "Marketing through media.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Advertisement",
+          "is_correct": false,
+          "feedback": "Incorrect. Too broad."
+        },
+        {
+          "letter": "B",
+          "text": "Product placement",
+          "is_correct": true,
+          "feedback": "Correct. Specific term for integrated marketing."
+        },
+        {
+          "letter": "C",
+          "text": "Commercial break",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a separate time slot."
+        },
+        {
+          "letter": "D",
+          "text": "Billboard",
+          "is_correct": false,
+          "feedback": "Incorrect. Physical outdoor sign."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Product placement' is the specific name for incorporating brands into creative content.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-v7",
+      "statement": "The scandal was being reported by every major news outlet in the country.",
+      "context": "Describing a celebrity's media coverage.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is reporting",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "was being reported",
+          "is_correct": true,
+          "feedback": "Correct. Past continuous passive for an ongoing state in the past."
+        },
+        {
+          "letter": "C",
+          "text": "reported",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "D",
+          "text": "has reported",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The past continuous passive describes how the scandal was receiving constant attention at a specific time in the past.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-v8",
+      "statement": "Media bias refers to the perceived or real bias of journalists and news producers within the mass media in the selection of many events and stories.",
+      "context": "Text on \"media bias\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Truth",
+          "is_correct": false,
+          "feedback": "Incorrect. Bias is a departure from pure truth."
+        },
+        {
+          "letter": "B",
+          "text": "Bias",
+          "is_correct": true,
+          "feedback": "Correct. A prejudice in favor of or against one thing."
+        },
+        {
+          "letter": "C",
+          "text": "Balance",
+          "is_correct": false,
+          "feedback": "Incorrect. The opposite of bias."
+        },
+        {
+          "letter": "D",
+          "text": "Fairness",
+          "is_correct": false,
+          "feedback": "Incorrect. The goal of objective reporting."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Bias' is the correct term for the lack of neutrality in reporting.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-v9",
+      "statement": "Researchers found that excessive screen time was linked to increased levels of anxiety.",
+      "context": "Reporting a study on media consumption.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted in reported findings."
+        },
+        {
+          "letter": "B",
+          "text": "was",
+          "is_correct": true,
+          "feedback": "Correct. Backshifted from 'is' to 'was' to report a past finding."
+        },
+        {
+          "letter": "C",
+          "text": "will be",
+          "is_correct": false,
+          "feedback": "Incorrect. Future."
+        },
+        {
+          "letter": "D",
+          "text": "has been",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported findings, it is standard to use the past tense 'was' to describe the result.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-v10",
+      "statement": "The obsession with celebrity culture can distract the public from more significant social and political issues.",
+      "context": "Critique of \"celebrity culture\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "focus",
+          "is_correct": false,
+          "feedback": "Incorrect. Distract means the opposite of focus."
+        },
+        {
+          "letter": "B",
+          "text": "distract",
+          "is_correct": true,
+          "feedback": "Correct. To prevent someone from giving full attention to something."
+        },
+        {
+          "letter": "C",
+          "text": "educate",
+          "is_correct": false,
+          "feedback": "Incorrect. Distraction doesn't usually lead to education on 'more significant' issues."
+        },
+        {
+          "letter": "D",
+          "text": "unite",
+          "is_correct": false,
+          "feedback": "Incorrect. Usually doesn't lead to meaningful unity."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Distract' correctly describes how less important media topics take attention away from more serious ones.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-v11",
+      "statement": "Propaganda is information, especially of a biased or misleading nature, used to promote a political cause or point of view.",
+      "context": "Definition of \"propaganda\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "News",
+          "is_correct": false,
+          "feedback": "Incorrect. News aims for objectivity."
+        },
+        {
+          "letter": "B",
+          "text": "Propaganda",
+          "is_correct": true,
+          "feedback": "Correct. Biased information for a cause."
+        },
+        {
+          "letter": "C",
+          "text": "Trivia",
+          "is_correct": false,
+          "feedback": "Incorrect. Unimportant facts."
+        },
+        {
+          "letter": "D",
+          "text": "Fiction",
+          "is_correct": false,
+          "feedback": "Incorrect. Imaginary stories."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Propaganda' is the specific term for biased communication used to influence a population toward a political goal.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-v12",
+      "statement": "Virtual reality experiences are likely to be integrated into traditional news reporting in the near future.",
+      "context": "Describing a future media development.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are integrating",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "to be integrated",
+          "is_correct": true,
+          "feedback": "Correct. Passive infinitive after 'likely to'."
+        },
+        {
+          "letter": "C",
+          "text": "integrate",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "D",
+          "text": "having been integrated",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The passive infinitive 'to be integrated' describes a future expectation for technology in media.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-v13",
+      "statement": "Media literacy empowers individuals to critically evaluate the messages they receive from various platforms.",
+      "context": "Discussing \"media literacy\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "evaluate",
+          "is_correct": true,
+          "feedback": "Correct. To evaluate means to judge or determine the significance, worth, or quality of."
+        },
+        {
+          "letter": "B",
+          "text": "ignore",
+          "is_correct": false,
+          "feedback": "Incorrect. Literacy involves active engagement."
+        },
+        {
+          "letter": "C",
+          "text": "believe",
+          "is_correct": false,
+          "feedback": "Incorrect. Literacy involves questioning rather than just believing."
+        },
+        {
+          "letter": "D",
+          "text": "delete",
+          "is_correct": false,
+          "feedback": "Incorrect. You can't delete messages you've already received/seen."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Evaluate' is the core cognitive skill involved in media literacy.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-v14",
+      "statement": "You shouldn't believe everything you read on social media unless it comes from a verified source.",
+      "context": "Advice on social media use.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "if",
+          "is_correct": false,
+          "feedback": "Incorrect. 'If it comes' would mean don't believe it *if* it's verified."
+        },
+        {
+          "letter": "B",
+          "text": "unless",
+          "is_correct": true,
+          "feedback": "Correct. 'Unless' means 'if not'."
+        },
+        {
+          "letter": "C",
+          "text": "although",
+          "is_correct": false,
+          "feedback": "Incorrect. Contrast."
+        },
+        {
+          "letter": "D",
+          "text": "whether",
+          "is_correct": false,
+          "feedback": "Incorrect. Choice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Unless' sets the condition for belief: the presence of a verified source.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-v15",
+      "statement": "The author concludes that our attention is a valuable commodity that is constantly being competed for by media giants.",
+      "context": "Conclusion of an essay on the \"attention economy\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "commodity",
+          "is_correct": true,
+          "feedback": "Correct. A commodity is a raw material or primary agricultural product that can be bought and sold."
+        },
+        {
+          "letter": "B",
+          "text": "burden",
+          "is_correct": false,
+          "feedback": "Incorrect. Attention is seen as something valuable here."
+        },
+        {
+          "letter": "C",
+          "text": "waste",
+          "is_correct": false,
+          "feedback": "Incorrect. For companies, it's a profit source."
+        },
+        {
+          "letter": "D",
+          "text": "secret",
+          "is_correct": false,
+          "feedback": "Incorrect. Our attention is public behavior."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Commodity' metaphorically describes how human attention has become a valuable product in the digital economy.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-v16",
+      "statement": "A story that goes viral is shared widely and rapidly across the internet.",
+      "context": "Describing a \"viral\" phenomenon.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "slow",
+          "is_correct": false,
+          "feedback": "Incorrect. Viral means fast."
+        },
+        {
+          "letter": "B",
+          "text": "viral",
+          "is_correct": true,
+          "feedback": "Correct. Rapid and wide spread."
+        },
+        {
+          "letter": "C",
+          "text": "hidden",
+          "is_correct": false,
+          "feedback": "Incorrect. Viral stories are very visible."
+        },
+        {
+          "letter": "D",
+          "text": "boring",
+          "is_correct": false,
+          "feedback": "Incorrect. Usually requires engagement."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Viral' is the standard adjective for content that spreads quickly through social sharing.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-v17",
+      "statement": "I wish I hadn't been so influenced by advertisements when I was younger.",
+      "context": "Expressing a past regret about media influence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am not",
+          "is_correct": false,
+          "feedback": "Incorrect. Present."
+        },
+        {
+          "letter": "B",
+          "text": "wasn't",
+          "is_correct": false,
+          "feedback": "Incorrect. Present hypothetical."
+        },
+        {
+          "letter": "C",
+          "text": "hadn't been",
+          "is_correct": true,
+          "feedback": "Correct. 'Wish + past perfect' for past regret."
+        },
+        {
+          "letter": "D",
+          "text": "wouldn't be",
+          "is_correct": false,
+          "feedback": "Incorrect. Future."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The 'wish + past perfect' structure allows for the expression of regret about a past state of being.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-v18",
+      "statement": "Influencer marketing relies on the trust and rapport that creators have built with their followers.",
+      "context": "Text about \"influencer marketing\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "isolation",
+          "is_correct": false,
+          "feedback": "Incorrect. Marketing needs connection."
+        },
+        {
+          "letter": "B",
+          "text": "rapport",
+          "is_correct": true,
+          "feedback": "Correct. Rapport is a close and harmonious relationship."
+        },
+        {
+          "letter": "C",
+          "text": "conflict",
+          "is_correct": false,
+          "feedback": "Incorrect. Negative."
+        },
+        {
+          "letter": "D",
+          "text": "ignorance",
+          "is_correct": false,
+          "feedback": "Incorrect. Negative."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Rapport' describes the positive, trusting relationship that is essential for social media influence.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-v19",
+      "statement": "The analyst warned that deepfakes were becoming harder to detect.",
+      "context": "Reporting a speaker's warning about media manipulation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are becoming",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted in reported speech."
+        },
+        {
+          "letter": "B",
+          "text": "were becoming",
+          "is_correct": true,
+          "feedback": "Correct. Backshifted from 'are' to 'were' in reported speech."
+        },
+        {
+          "letter": "C",
+          "text": "have become",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "will become",
+          "is_correct": false,
+          "feedback": "Incorrect. Future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, we backshift the tense of the original statement to the past.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-v20",
+      "statement": "Ultimately, we must become proactive consumers of media, rather than passive recipients of information.",
+      "context": "Final thought on critical consumption.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "proactive",
+          "is_correct": true,
+          "feedback": "Correct. Proactive means taking control and making things happen."
+        },
+        {
+          "letter": "B",
+          "text": "passive",
+          "is_correct": false,
+          "feedback": "Incorrect. The text contrasts proactive with passive."
+        },
+        {
+          "letter": "C",
+          "text": "ignorant",
+          "is_correct": false,
+          "feedback": "Incorrect. Negative."
+        },
+        {
+          "letter": "D",
+          "text": "accidental",
+          "is_correct": false,
+          "feedback": "Incorrect. Should be intentional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Proactive' describes the active, critical engagement with media that the author recommends.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W27-media-influence-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

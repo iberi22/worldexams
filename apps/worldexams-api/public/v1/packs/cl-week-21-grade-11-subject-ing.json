@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ingles",
+    "country": "cl",
+    "pack_id": "cl-week-21-grade-11-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.105Z"
+  },
+  "questions": [
+    {
+      "id": "CL-ING-11-2026-W21-future-society-001-MASTERY-v1",
+      "statement": "Automation is the use of technology to perform tasks that were previously done by humans.",
+      "context": "Introduction to futuristic concepts.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tradition",
+          "is_correct": false,
+          "feedback": "Incorrect. Tradition focuses on the past."
+        },
+        {
+          "letter": "B",
+          "text": "Automation",
+          "is_correct": true,
+          "feedback": "Correct. Key concept for future labor markets."
+        },
+        {
+          "letter": "C",
+          "text": "Manual labor",
+          "is_correct": false,
+          "feedback": "Incorrect. Done by hand."
+        },
+        {
+          "letter": "D",
+          "text": "Craftsmanship",
+          "is_correct": false,
+          "feedback": "Incorrect. Skilled manual work."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Automation' is the standard term for the technological replacement of human labor.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W21-future-society-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W21-future-society-001-MASTERY-v2",
+      "statement": "By 2050, researchers hope that a cure for many common diseases will have been found.",
+      "context": "Future prediction.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will find",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "will have been found",
+          "is_correct": true,
+          "feedback": "Correct. Future perfect passive for a completed state in the future."
+        },
+        {
+          "letter": "C",
+          "text": "found",
+          "is_correct": false,
+          "feedback": "Incorrect. Past tense."
+        },
+        {
+          "letter": "D",
+          "text": "have been found",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The future perfect passive 'will have been found' describes an achievement projected to be finished by 2050.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W21-future-society-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W21-future-society-001-MASTERY-v3",
+      "statement": "If we had prioritized sustainability earlier, we wouldn't be facing such severe climate crises now.",
+      "context": "Speculating about a major societal shift.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "prioritized",
+          "is_correct": false,
+          "feedback": "Incorrect. Second conditional."
+        },
+        {
+          "letter": "B",
+          "text": "had prioritized",
+          "is_correct": true,
+          "feedback": "Correct. Mixed conditional (past action, present result)."
+        },
+        {
+          "letter": "C",
+          "text": "have prioritized",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "would prioritize",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' not used in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The mixed conditional connects a past hypothetical failure with a present negative reality.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W21-future-society-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W21-future-society-001-MASTERY-v4",
+      "statement": "UBI is a model for providing all citizens of a country with a given sum of money, regardless of their income or employment status.",
+      "context": "Article about \"Universal Basic Income\" (UBI).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "regardless of",
+          "is_correct": true,
+          "feedback": "Correct. Means without paying attention to or being affected by."
+        },
+        {
+          "letter": "B",
+          "text": "because of",
+          "is_correct": false,
+          "feedback": "Incorrect. UBI is not dependent on these factors."
+        },
+        {
+          "letter": "C",
+          "text": "in addition to",
+          "is_correct": false,
+          "feedback": "Incorrect. While it is extra money, 'regardless of' is the key part of the definition."
+        },
+        {
+          "letter": "D",
+          "text": "instead of",
+          "is_correct": false,
+          "feedback": "Incorrect. UBI is usually proposed as a base, not necessarily a replacement for all other systems."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Regardless of' is the essential prepositional phrase for describing the unconditional nature of UBI.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W21-future-society-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W21-future-society-001-MASTERY-v5",
+      "statement": "Transhumanism is the belief or theory that the human race can evolve beyond its current physical and mental limitations through science and technology.",
+      "context": "Discussion on the ethics of \"transhumanism\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stagnation",
+          "is_correct": false,
+          "feedback": "Incorrect. Stagnation means no change."
+        },
+        {
+          "letter": "B",
+          "text": "Transhumanism",
+          "is_correct": true,
+          "feedback": "Correct. Definition of the futuristic movement."
+        },
+        {
+          "letter": "C",
+          "text": "Tradition",
+          "is_correct": false,
+          "feedback": "Incorrect. Focuses on the past."
+        },
+        {
+          "letter": "D",
+          "text": "Naturalism",
+          "is_correct": false,
+          "feedback": "Incorrect. Focuses on nature without technological interference."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Transhumanism' is the specific philosophical term for the movement to enhance humans through technology.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W21-future-society-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W21-future-society-001-MASTERY-v6",
+      "statement": "To colonize another planet means to send people to live there and establish a permanent settlement.",
+      "context": "Space colonization.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "visit",
+          "is_correct": false,
+          "feedback": "Incorrect. Visiting is temporary."
+        },
+        {
+          "letter": "B",
+          "text": "colonize",
+          "is_correct": true,
+          "feedback": "Correct. To establish a permanent presence."
+        },
+        {
+          "letter": "C",
+          "text": "destroy",
+          "is_correct": false,
+          "feedback": "Incorrect. Opposite goal."
+        },
+        {
+          "letter": "D",
+          "text": "ignore",
+          "is_correct": false,
+          "feedback": "Incorrect. Opposite of exploration."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Colonize' is the standard term for establishing a new permanent human community in a new location.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W21-future-society-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W21-future-society-001-MASTERY-v7",
+      "statement": "In the future, personalized learning paths are likely to be designed by AI to meet each student's specific needs.",
+      "context": "Describing a future trend in education.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are designing",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "to be designed",
+          "is_correct": true,
+          "feedback": "Correct. Passive infinitive after 'likely to'."
+        },
+        {
+          "letter": "C",
+          "text": "design",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "D",
+          "text": "having been designed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The passive infinitive 'to be designed' follows the structure 'likely to' to describe a future expectation.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W21-future-society-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W21-future-society-001-MASTERY-v8",
+      "statement": "Vertical farming could provide a sustainable solution to food production in densely populated urban areas.",
+      "context": "Text on \"vertical farming\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "rural",
+          "is_correct": false,
+          "feedback": "Incorrect. Rural areas have plenty of land for traditional farming."
+        },
+        {
+          "letter": "B",
+          "text": "urban",
+          "is_correct": true,
+          "feedback": "Correct. Vertical farming is designed for city environments."
+        },
+        {
+          "letter": "C",
+          "text": "arctic",
+          "is_correct": false,
+          "feedback": "Incorrect. Too cold."
+        },
+        {
+          "letter": "D",
+          "text": "desert",
+          "is_correct": false,
+          "feedback": "Incorrect. While possible, 'urban' is the primary context for vertical farming."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Urban' is the appropriate context for vertical farming, which aims to produce food where land is scarce.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W21-future-society-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W21-future-society-001-MASTERY-v9",
+      "statement": "I wish we would solve the problem of world hunger once and for all.",
+      "context": "Expressing a hope for the future.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "solve",
+          "is_correct": false,
+          "feedback": "Incorrect. Need 'would' for a desired future change."
+        },
+        {
+          "letter": "B",
+          "text": "would solve",
+          "is_correct": true,
+          "feedback": "Correct. 'Wish + would' for a future change or someone else's behavior."
+        },
+        {
+          "letter": "C",
+          "text": "solved",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Wish + past simple' is for present state desires."
+        },
+        {
+          "letter": "D",
+          "text": "have solved",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Wish + past perfect' is for past regret."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Wish + would' is used to express a strong desire for a future change in a situation.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W21-future-society-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W21-future-society-001-MASTERY-v10",
+      "statement": "The author warns against technological utopianism, the belief that technology will automatically solve all of society's problems.",
+      "context": "Critique of \"technological utopianism\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "realism",
+          "is_correct": false,
+          "feedback": "Incorrect. Utopianism is the opposite of realism."
+        },
+        {
+          "letter": "B",
+          "text": "utopianism",
+          "is_correct": true,
+          "feedback": "Correct. The belief in an ideal or perfect society."
+        },
+        {
+          "letter": "C",
+          "text": "pessimism",
+          "is_correct": false,
+          "feedback": "Incorrect. Pessimism is the belief that things will go wrong."
+        },
+        {
+          "letter": "D",
+          "text": "minimalism",
+          "is_correct": false,
+          "feedback": "Incorrect. Lifestyle choice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Utopianism' refers to the belief in the possibility of creating an ideal world through specific means, in this case, technology.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W21-future-society-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W21-future-society-001-MASTERY-v11",
+      "statement": "A futurist is a person who studies the future and makes predictions about it based on current trends.",
+      "context": "Defining a term for the future.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "historian",
+          "is_correct": false,
+          "feedback": "Incorrect. Studies the past."
+        },
+        {
+          "letter": "B",
+          "text": "futurist",
+          "is_correct": true,
+          "feedback": "Correct. Standard term for future-studies professional."
+        },
+        {
+          "letter": "C",
+          "text": "archaeologist",
+          "is_correct": false,
+          "feedback": "Incorrect. Studies history via physical remains."
+        },
+        {
+          "letter": "D",
+          "text": "linguist",
+          "is_correct": false,
+          "feedback": "Incorrect. Studies language."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Futurist' (or futurologist) is the name for experts who analyze current trends to project future outcomes.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W21-future-society-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W21-future-society-001-MASTERY-v12",
+      "statement": "By next century, many coastal cities will have been submerged by rising sea levels.",
+      "context": "Passive voice in a futuristic scenario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will submerge",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "will have been submerged",
+          "is_correct": true,
+          "feedback": "Correct. Future perfect passive for a completed state."
+        },
+        {
+          "letter": "C",
+          "text": "are submerged",
+          "is_correct": false,
+          "feedback": "Incorrect. Present."
+        },
+        {
+          "letter": "D",
+          "text": "submerging",
+          "is_correct": false,
+          "feedback": "Incorrect. Gerund."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The future perfect passive indicates that the state of being submerged will be a completed fact by the next century.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W21-future-society-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W21-future-society-001-MASTERY-v13",
+      "statement": "Scientific advancements in biotechnology could significantly increase human longevity.",
+      "context": "Discussing longevity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "longevity",
+          "is_correct": true,
+          "feedback": "Correct. Longevity means long life."
+        },
+        {
+          "letter": "B",
+          "text": "height",
+          "is_correct": false,
+          "feedback": "Incorrect. Not a primary focus of biotechnology."
+        },
+        {
+          "letter": "C",
+          "text": "confusion",
+          "is_correct": false,
+          "feedback": "Incorrect. Science aims for clarity."
+        },
+        {
+          "letter": "D",
+          "text": "scarcity",
+          "is_correct": false,
+          "feedback": "Incorrect. Usually used for resources."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Longevity' is the specific term for length of life, a major area of future medical research.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W21-future-society-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W21-future-society-001-MASTERY-v14",
+      "statement": "If the world shifted to 100% renewable energy, carbon emissions would plummet.",
+      "context": "Conditional about the energy transition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "shifts",
+          "is_correct": false,
+          "feedback": "Incorrect. First conditional."
+        },
+        {
+          "letter": "B",
+          "text": "shifted",
+          "is_correct": true,
+          "feedback": "Correct. Second conditional for a hypothetical change."
+        },
+        {
+          "letter": "C",
+          "text": "has shifted",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "had shifted",
+          "is_correct": false,
+          "feedback": "Incorrect. Third conditional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The second conditional 'if + past simple' describes the likely result of a hypothetical total energy shift.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W21-future-society-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W21-future-society-001-MASTERY-v15",
+      "statement": "The author concludes that adaptability will be the most valuable skill in the future job market.",
+      "context": "Conclusion of an essay on future work.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "adaptability",
+          "is_correct": true,
+          "feedback": "Correct. The ability to adjust to new conditions."
+        },
+        {
+          "letter": "B",
+          "text": "resistance",
+          "is_correct": false,
+          "feedback": "Incorrect. Resisting change is usually negative."
+        },
+        {
+          "letter": "C",
+          "text": "stagnation",
+          "is_correct": false,
+          "feedback": "Incorrect. No movement."
+        },
+        {
+          "letter": "D",
+          "text": "boredom",
+          "is_correct": false,
+          "feedback": "Incorrect. Negative."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Adaptability' correctly identifies the core skill needed for a rapidly changing professional landscape.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W21-future-society-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W21-future-society-001-MASTERY-v16",
+      "statement": "Cryptocurrency is a digital or virtual currency that is secured by cryptography.",
+      "context": "Digital currency.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cash",
+          "is_correct": false,
+          "feedback": "Incorrect. Physical."
+        },
+        {
+          "letter": "B",
+          "text": "Cryptocurrency",
+          "is_correct": true,
+          "feedback": "Correct. The specific digital term."
+        },
+        {
+          "letter": "C",
+          "text": "Barter",
+          "is_correct": false,
+          "feedback": "Incorrect. Trading goods directly."
+        },
+        {
+          "letter": "D",
+          "text": "Credit",
+          "is_correct": false,
+          "feedback": "Incorrect. Too broad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Cryptocurrency' is the specific name for the decentralized digital payment systems.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W21-future-society-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W21-future-society-001-MASTERY-v17",
+      "statement": "Experts predicted that AI would eventually surpass human intelligence in many tasks.",
+      "context": "Reporting a future prediction.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted in reported speech."
+        },
+        {
+          "letter": "B",
+          "text": "would",
+          "is_correct": true,
+          "feedback": "Correct. Backshifted from 'will' to 'would'."
+        },
+        {
+          "letter": "C",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "Incorrect. Expresses advice or expectation."
+        },
+        {
+          "letter": "D",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted to 'could'."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, we change 'will' to 'would' when the reporting verb is in the past tense.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W21-future-society-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W21-future-society-001-MASTERY-v18",
+      "statement": "Future cities must be designed to be self-sufficient in terms of energy and water resources.",
+      "context": "Text about \"sustainable cities\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "dependent",
+          "is_correct": false,
+          "feedback": "Incorrect. Cities want to be less dependent."
+        },
+        {
+          "letter": "B",
+          "text": "self-sufficient",
+          "is_correct": true,
+          "feedback": "Correct. Needing no outside help."
+        },
+        {
+          "letter": "C",
+          "text": "wasteful",
+          "is_correct": false,
+          "feedback": "Incorrect. Goal is the opposite."
+        },
+        {
+          "letter": "D",
+          "text": "congested",
+          "is_correct": false,
+          "feedback": "Incorrect. Goal is to reduce congestion."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Self-sufficient' is the goal for sustainable city planning where resources are produced locally.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W21-future-society-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W21-future-society-001-MASTERY-v19",
+      "statement": "By 2030, scientists will have been monitoring global temperatures for over a century.",
+      "context": "Describing a long-term research project.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will monitor",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple future."
+        },
+        {
+          "letter": "B",
+          "text": "will have been monitoring",
+          "is_correct": true,
+          "feedback": "Correct. Future perfect continuous for duration up to a future point."
+        },
+        {
+          "letter": "C",
+          "text": "have been monitoring",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect continuous."
+        },
+        {
+          "letter": "D",
+          "text": "monitor",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The future perfect continuous 'will have been monitoring' describes the total duration of a study at a specific future time.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W21-future-society-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W21-future-society-001-MASTERY-v20",
+      "statement": "The greatest challenge for the future is to ensure that technological progress is guided by human ethics.",
+      "context": "Final thought on future ethics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ethics",
+          "is_correct": true,
+          "feedback": "Correct. Moral principles that govern behavior."
+        },
+        {
+          "letter": "B",
+          "text": "speed",
+          "is_correct": false,
+          "feedback": "Incorrect. Speed is part of technology, but not the 'guide'."
+        },
+        {
+          "letter": "C",
+          "text": "profit",
+          "is_correct": false,
+          "feedback": "Incorrect. Profit is a guide for business, but the 'challenge' is usually about higher principles."
+        },
+        {
+          "letter": "D",
+          "text": "curiosity",
+          "is_correct": false,
+          "feedback": "Incorrect. Curiosity drives the progress, but ethics must guide its application."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Ethics' refers to the moral framework necessary to ensure that technology is used for the benefit of humanity.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W21-future-society-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "es",
+    "pack_id": "es-week-20-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:39.435Z"
+  },
+  "questions": [
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la definición del seno de un ángulo agudo $\\alpha$ en un triángulo rectángulo?",
+      "context": "Un estudiante de 1º de Bachillerato en Madrid repasa las razones trigonométricas en un triángulo rectángulo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cateto contiguo dividido por la hipotenusa.",
+          "is_correct": false,
+          "feedback": "Esta es la definición del coseno."
+        },
+        {
+          "letter": "B",
+          "text": "Cateto opuesto dividido por la hipotenusa.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la razón fundamental que relaciona el lado opuesto con la hipotenusa."
+        },
+        {
+          "letter": "C",
+          "text": "Cateto opuesto dividido por el cateto contiguo.",
+          "is_correct": false,
+          "feedback": "Esta es la definición de la tangente."
+        },
+        {
+          "letter": "D",
+          "text": "Hipotenusa dividida por el cateto opuesto.",
+          "is_correct": false,
+          "feedback": "Esta es la cosecante, la inversa del seno."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las razones trigonométricas son cocientes entre los lados de un triángulo rectángulo. El seno mide la proporción del lado opuesto respecto a la diagonal (hipotenusa).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la relación básica que se cumple para cualquier ángulo $\\alpha$?",
+      "context": "En una clase de Matemáticas en Valencia, se presenta la Identidad Trigonométrica Fundamental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\text{sen}(\\alpha) + \\cos(\\alpha) = 1$",
+          "is_correct": false,
+          "feedback": "La relación debe ser con los cuadrados de las funciones."
+        },
+        {
+          "letter": "B",
+          "text": "$\\text{sen}^2(\\alpha) + \\cos^2(\\alpha) = 1$",
+          "is_correct": true,
+          "feedback": "Correcto. Es la identidad fundamental derivada del Teorema de Pitágoras en la circunferencia goniométrica."
+        },
+        {
+          "letter": "C",
+          "text": "$\\text{sen}^2(\\alpha) - \\cos^2(\\alpha) = 1$",
+          "is_correct": false,
+          "feedback": "El signo debe ser positivo."
+        },
+        {
+          "letter": "D",
+          "text": "$\\text{tg}^2(\\alpha) + 1 = \\text{sen}^2(\\alpha)$",
+          "is_correct": false,
+          "feedback": "La relación correcta es $\\text{tg}^2(\\alpha) + 1 = 1/\\cos^2(\\alpha)$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esta identidad es la herramienta más importante de la trigonometría. Permite hallar una razón trigonométrica (seno o coseno) conociendo la otra.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v3",
+      "statement": "¿En qué cuadrantes el seno de un ángulo es positivo?",
+      "context": "Un estudiante utiliza la circunferencia goniométrica (de radio 1) para estudiar los signos de las razones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primer y cuarto cuadrante.",
+          "is_correct": false,
+          "feedback": "En el cuarto cuadrante el seno es negativo (y < 0)."
+        },
+        {
+          "letter": "B",
+          "text": "Primer y segundo cuadrante.",
+          "is_correct": true,
+          "feedback": "Correcto. El seno corresponde a la coordenada $y$ del punto en la circunferencia, que es positiva por encima del eje X."
+        },
+        {
+          "letter": "C",
+          "text": "Segundo y tercer cuadrante.",
+          "is_correct": false,
+          "feedback": "En el tercer cuadrante el seno es negativo."
+        },
+        {
+          "letter": "D",
+          "text": "Solo en el primer cuadrante.",
+          "is_correct": false,
+          "feedback": "En el segundo cuadrante (90 a 180 grados) también es positivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La circunferencia goniométrica permite extender la trigonometría más allá de los 90 grados. El signo de las razones depende de en qué cuadrante caiga el lado terminal del ángulo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v4",
+      "statement": "¿A cuántos radianes equivale un ángulo de $180^{\\circ}$?",
+      "context": "Se comparan las unidades de medida de ángulos: grados sexagesimales y radianes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\pi/2$ rad",
+          "is_correct": false,
+          "feedback": "Esto equivale a 90 grados."
+        },
+        {
+          "letter": "B",
+          "text": "$\\pi$ rad",
+          "is_correct": true,
+          "feedback": "Correcto. La relación fundamental es que media vuelta (180 grados) equivale a $\\pi$ radianes."
+        },
+        {
+          "letter": "C",
+          "text": "$2\\pi$ rad",
+          "is_correct": false,
+          "feedback": "Esto equivale a una vuelta completa (360 grados)."
+        },
+        {
+          "letter": "D",
+          "text": "1 rad",
+          "is_correct": false,
+          "feedback": "Un radián equivale aproximadamente a 57,3 grados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El radián es la unidad natural de medida de ángulos en matemáticas y física, ya que relaciona la longitud del arco con el radio de la circunferencia.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v5",
+      "statement": "Calcula el valor del coseno del mismo ángulo, $\\cos(\\alpha)$.",
+      "context": "Un estudiante en Barcelona conoce que $\\text{sen}(\\alpha) = 0,6$ y que $\\alpha$ está en el primer cuadrante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,4",
+          "is_correct": false,
+          "feedback": "Error al restar directamente de 1."
+        },
+        {
+          "letter": "B",
+          "text": "0,8",
+          "is_correct": true,
+          "feedback": "Correcto. $\\cos^2(\\alpha) = 1 - 0,6^2 = 1 - 0,36 = 0,64 \\Rightarrow \\cos(\\alpha) = 0,8$."
+        },
+        {
+          "letter": "C",
+          "text": "0,64",
+          "is_correct": false,
+          "feedback": "Este es el cuadrado del coseno, falta la raíz."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "El coseno solo vale 1 si el seno vale 0."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicamos la Identidad Fundamental. Al estar en el primer cuadrante, tomamos la raíz positiva para el coseno. El par (0,6; 0,8) es un ejemplo clásico basado en el triángulo 3-4-5.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la altura aproximada de la torre? (Dato: $\\text{tg}(30^{\\circ}) \\approx 0,577$).",
+      "context": "Un ingeniero en Zaragoza debe calcular la altura de una torre. Desde un punto a 50 m de la base, el ángulo de elevación a la cima es de $30^{\\circ}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 m",
+          "is_correct": false,
+          "feedback": "Error al usar la razón trigonométrica (se dividió en lugar de multiplicar)."
+        },
+        {
+          "letter": "B",
+          "text": "28,85 m",
+          "is_correct": true,
+          "feedback": "Correcto. $\\text{tg}(30^{\\circ}) = h / 50 \\Rightarrow h = 50 \\cdot \\text{tg}(30^{\\circ}) \\approx 28,85$."
+        },
+        {
+          "letter": "C",
+          "text": "43,3 m",
+          "is_correct": false,
+          "feedback": "Error al usar el seno en lugar de la tangente."
+        },
+        {
+          "letter": "D",
+          "text": "25 m",
+          "is_correct": false,
+          "feedback": "Valor aproximado incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En problemas de topografía donde conocemos la distancia horizontal y el ángulo de elevación, la tangente es la razón más directa para hallar la altura (cateto opuesto).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el valor exacto del $\\cos(60^{\\circ})$?",
+      "context": "Se desea hallar el valor exacto de las razones para ángulos notables.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{3}/2$",
+          "is_correct": false,
+          "feedback": "Este es el seno de 60 grados (o el coseno de 30)."
+        },
+        {
+          "letter": "B",
+          "text": "$1/2$",
+          "is_correct": true,
+          "feedback": "Correcto. En un triángulo equilátero partido por la mitad, el cateto contiguo al ángulo de 60 es la mitad de la hipotenusa."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{2}/2$",
+          "is_correct": false,
+          "feedback": "Este es el coseno de 45 grados."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Este es el coseno de 0 grados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los ángulos de $30^{\\circ}$, $45^{\\circ}$ y $60^{\\circ}$ aparecen constantemente en los exámenes. Sus razones deben conocerse de memoria o saber deducirse de figuras geométricas básicas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v8",
+      "statement": "¿Cómo se define la tangente de un ángulo en función de su seno y su coseno?",
+      "context": "Un estudiante analiza la relación entre la tangente, el seno y el coseno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\text{tg}(\\alpha) = \\text{sen}(\\alpha) \\cdot \\cos(\\alpha)$",
+          "is_correct": false,
+          "feedback": "Operación incorrecta."
+        },
+        {
+          "letter": "B",
+          "text": "$\\text{tg}(\\alpha) = \\text{sen}(\\alpha) / \\cos(\\alpha)$",
+          "is_correct": true,
+          "feedback": "Correcto. Es el cociente entre las dos razones fundamentales."
+        },
+        {
+          "letter": "C",
+          "text": "$\\text{tg}(\\alpha) = \\cos(\\alpha) / \\text{sen}(\\alpha)$",
+          "is_correct": false,
+          "feedback": "Esta es la definición de la cotangente."
+        },
+        {
+          "letter": "D",
+          "text": "$\\text{tg}(\\alpha) = 1 / (\\text{sen}(\\alpha) + \\cos(\\alpha))$",
+          "is_correct": false,
+          "feedback": "Fórmula sin fundamento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tangente relaciona la componente vertical con la horizontal de un punto en la circunferencia. Físicamente representa la pendiente de la recta que forma el ángulo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.68,
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v9",
+      "statement": "¿Qué distancia total recorre el nadador?",
+      "context": "Un nadador cruza un río de 40 m de ancho. Debido a la corriente, su trayectoria forma un ángulo de $60^{\\circ}$ con la orilla de salida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40 m",
+          "is_correct": false,
+          "feedback": "Esta es solo la anchura perpendicular."
+        },
+        {
+          "letter": "B",
+          "text": "46,19 m",
+          "is_correct": true,
+          "feedback": "Correcto. $\\text{sen}(60^{\\circ}) = 40 / d \\Rightarrow d = 40 / \\text{sen}(60^{\\circ}) \\approx 40 / 0,866 \\approx 46,19$."
+        },
+        {
+          "letter": "C",
+          "text": "80 m",
+          "is_correct": false,
+          "feedback": "Error al usar la razón trigonométrica."
+        },
+        {
+          "letter": "D",
+          "text": "20 m",
+          "is_correct": false,
+          "feedback": "El recorrido debe ser mayor que el ancho del río."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aquí la distancia recorrida es la hipotenusa de un triángulo donde conocemos el cateto opuesto (el ancho del río) y el ángulo. Usamos la función seno y despejamos la hipotenusa.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el valor de $\\text{sen}(150^{\\circ})$ sabiendo que $150^{\\circ}$ está en el segundo cuadrante?",
+      "context": "Un estudiante halla el valor de $\\text{sen}(150^{\\circ})$ usando ángulos relacionados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1/2$",
+          "is_correct": true,
+          "feedback": "Correcto. $150 = 180 - 30$. En el segundo cuadrante, el seno es igual al de su suplementario: $\\text{sen}(150) = \\text{sen}(30) = 1/2$. El seno mantiene el signo positivo en el segundo cuadrante."
+        },
+        {
+          "letter": "B",
+          "text": "$-1/2$",
+          "is_correct": false,
+          "feedback": "El seno es positivo en el segundo cuadrante."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{3}/2$",
+          "is_correct": false,
+          "feedback": "Este sería el valor absoluto del coseno."
+        },
+        {
+          "letter": "D",
+          "text": "$-\\sqrt{3}/2$",
+          "is_correct": false,
+          "feedback": "Valor incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La reducción al primer cuadrante permite hallar razones de cualquier ángulo comparándolas con las de ángulos entre 0 y 90 grados.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v11",
+      "statement": "Si $\\text{tg}(\\alpha) = 2$, ¿cuál es el valor de $\\text{tg}(\\alpha + 180^{\\circ})$?",
+      "context": "Un matemático en Salamanca estudia las razones de ángulos que difieren en $180^{\\circ}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "La tangente tiene periodo de 180 grados, por lo que no cambia el signo."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. Al sumar 180 grados, tanto el seno como el coseno cambian de signo, por lo que su cociente (la tangente) permanece igual."
+        },
+        {
+          "letter": "C",
+          "text": "1/2",
+          "is_correct": false,
+          "feedback": "Esta sería la cotangente de otro ángulo relacionado."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "La tangente no se anula al sumar 180 grados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tangente es una función periódica de periodo $\\pi$ (o 180 grados). Esto significa que sus valores se repiten cada media vuelta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el área del triángulo?",
+      "context": "Se busca hallar el área de un triángulo no rectángulo usando trigonometría. Lados $b = 10, c = 12$ y ángulo comprendido $A = 45^{\\circ}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60 unidades cuadradas",
+          "is_correct": false,
+          "feedback": "Falta multiplicar por el seno del ángulo."
+        },
+        {
+          "letter": "B",
+          "text": "$30\\sqrt{2}$ unidades cuadradas",
+          "is_correct": true,
+          "feedback": "Correcto. Área = $(b \\cdot c \\cdot \\text{sen} A) / 2 = (10 \\cdot 12 \\cdot \\sqrt{2}/2) / 2 = 60\\sqrt{2} / 2 = 30\\sqrt{2}$."
+        },
+        {
+          "letter": "C",
+          "text": "$60\\sqrt{2}$ unidades cuadradas",
+          "is_correct": false,
+          "feedback": "Olvido de dividir entre 2 al final."
+        },
+        {
+          "letter": "D",
+          "text": "30 unidades cuadradas",
+          "is_correct": false,
+          "feedback": "Valor incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fórmula trigonométrica del área ($1/2 \\cdot ab \\cdot \\text{sen} C$) es extremadamente útil cuando no conocemos la altura del triángulo pero sí dos lados y el ángulo entre ellos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es el valor del $\\text{arcsen}(\\sqrt{3}/2)$ en el intervalo $[0, 90^{\\circ}]$?",
+      "context": "Un estudiante analiza la función inversa del seno, el arco seno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$30^{\\circ}$",
+          "is_correct": false,
+          "feedback": "El seno de 30 es 1/2."
+        },
+        {
+          "letter": "B",
+          "text": "$45^{\\circ}$",
+          "is_correct": false,
+          "feedback": "El seno de 45 es $\\sqrt{2}/2$."
+        },
+        {
+          "letter": "C",
+          "text": "$60^{\\circ}$",
+          "is_correct": true,
+          "feedback": "Correcto. El ángulo cuyo seno vale $\\sqrt{3}/2$ es 60 grados."
+        },
+        {
+          "letter": "D",
+          "text": "$90^{\\circ}$",
+          "is_correct": false,
+          "feedback": "El seno de 90 es 1."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las funciones \"arco\" realizan la operación inversa: dada una razón, nos devuelven el ángulo. Es fundamental restringir el dominio para que la respuesta sea única.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v14",
+      "statement": "Si $a = 10 \\text{ cm}, A = 30^{\\circ}$ y $B = 45^{\\circ}$, ¿cuánto mide el lado $b$?",
+      "context": "Un topógrafo utiliza el Teorema del Seno para hallar un lado desconocido en un triángulo. Lados $a, b$ y ángulos $A, B$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10\\sqrt{3} \\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Valor incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$10\\sqrt{2} \\text{ cm}$",
+          "is_correct": true,
+          "feedback": "Correcto. $10/\\text{sen}(30) = b/\\text{sen}(45) \\Rightarrow 10/0,5 = b/(\\sqrt{2}/2) \\Rightarrow 20 = 2b/\\sqrt{2} \\Rightarrow b = 10\\sqrt{2}$."
+        },
+        {
+          "letter": "C",
+          "text": "$5 \\text{ cm}$",
+          "is_correct": false,
+          "feedback": "El lado b debe ser mayor que a ya que el ángulo B es mayor que A."
+        },
+        {
+          "letter": "D",
+          "text": "$20 \\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Valor incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Teorema del Seno establece que los lados de un triángulo son proporcionales a los senos de sus ángulos opuestos. Es ideal cuando conocemos \"parejas\" de lado y ángulo opuesto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.53,
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v15",
+      "statement": "En un triángulo con lados $b=3, c=4$ y ángulo $A=60^{\\circ}$, ¿cuánto mide el lado $a$?",
+      "context": "Se estudia el Teorema del Coseno para resolver triángulos donde se conocen dos lados y el ángulo comprendido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Esto solo sería cierto si el ángulo fuera de 90 grados (Pitágoras)."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{13}$",
+          "is_correct": true,
+          "feedback": "Correcto. $a^2 = 3^2 + 4^2 - 2 \\cdot 3 \\cdot 4 \\cdot \\cos(60) = 9 + 16 - 24 \\cdot 0,5 = 25 - 12 = 13$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{37}$",
+          "is_correct": false,
+          "feedback": "Error al restar el término del coseno (se sumó en lugar de restar)."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "No se ha realizado la raíz cuadrada del resultado intermedio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Teorema del Coseno es una generalización del Teorema de Pitágoras para cualquier tipo de triángulo. El término $-2bc \\cdot \\cos A$ es el factor de corrección por no ser rectángulo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v16",
+      "statement": "¿Para qué valores de $\\alpha$ (en el intervalo $[0, 360^{\\circ}]$) NO está definida la función $\\text{tg}(\\alpha)$?",
+      "context": "Un estudiante analiza la existencia de la tangente para ciertos ángulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0^{\\circ}$ y $180^{\\circ}$",
+          "is_correct": false,
+          "feedback": "En estos puntos el seno es 0, por lo que la tangente vale 0."
+        },
+        {
+          "letter": "B",
+          "text": "$90^{\\circ}$ y $270^{\\circ}$",
+          "is_correct": true,
+          "feedback": "Correcto. En estos ángulos el coseno es 0, y no se puede dividir por cero."
+        },
+        {
+          "letter": "C",
+          "text": "$45^{\\circ}$ y $225^{\\circ}$",
+          "is_correct": false,
+          "feedback": "En estos puntos la tangente vale 1."
+        },
+        {
+          "letter": "D",
+          "text": "Está definida para todos los valores.",
+          "is_correct": false,
+          "feedback": "Las asíntotas de la tangente ocurren donde el coseno se anula."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tangente tiende a infinito cuando nos acercamos a ángulos verticales (90, 270...), donde la proyección horizontal (coseno) desaparece.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.48,
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v17",
+      "statement": "¿A qué valor constante equivale esta expresión para cualquier $x$ donde esté definida?",
+      "context": "Un ingeniero en Málaga quiere simplificar la expresión $\\cos^2(x) \\cdot (1 + \\text{tg}^2(x))$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\text{sen}^2(x)$",
+          "is_correct": false,
+          "feedback": "Simplificación incorrecta."
+        },
+        {
+          "letter": "B",
+          "text": "$\\cos(x)$",
+          "is_correct": false,
+          "feedback": "Simplificación incorrecta."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. $1 + \\text{tg}^2(x) = 1/\\cos^2(x)$. Al multiplicar por $\\cos^2(x)$, el resultado es 1."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "La expresión nunca se anula."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El dominio de las identidades pitagóricas permite simplificar expresiones trigonométricas complejas. Esta habilidad es esencial para resolver ecuaciones y simplificar derivadas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es la expresión correcta para $\\text{sen}(2\\alpha)$?",
+      "context": "Se plantea la fórmula del seno del ángulo doble: $\\text{sen}(2\\alpha)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2 \\text{sen}(\\alpha)$",
+          "is_correct": false,
+          "feedback": "El factor 2 no puede salir del argumento de la función linealmente."
+        },
+        {
+          "letter": "B",
+          "text": "$2 \\text{sen}(\\alpha) \\cos(\\alpha)$",
+          "is_correct": true,
+          "feedback": "Correcto. Es una de las fórmulas de adición más utilizadas."
+        },
+        {
+          "letter": "C",
+          "text": "$\\text{sen}^2(\\alpha) - \\cos^2(\\alpha)$",
+          "is_correct": false,
+          "feedback": "Esta relación (con signo cambiado) corresponde al $\\cos(2\\alpha)$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\text{sen}(\\alpha) + \\cos(\\alpha)$",
+          "is_correct": false,
+          "feedback": "Relación incorrecta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las fórmulas de ángulo doble permiten reducir el argumento de las funciones, facilitando la integración y la resolución de ecuaciones trigonométricas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es la amplitud máxima del movimiento del muelle?",
+      "context": "Un físico estudia el movimiento armónico de un muelle cuya posición es $y(t) = 5 \\cos(10t)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Este valor es la frecuencia angular."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. El coeficiente que multiplica a la función trigonométrica determina el valor máximo (amplitud)."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "La amplitud está escalada por el factor 5."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "El muelle oscila, no está en reposo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las funciones seno y coseno están acotadas entre -1 y 1. Al multiplicarlas por una constante $A$, el rango pasa a ser $[-A, A]$, definiendo la amplitud del fenómeno ondulatorio.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.38,
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la expansión correcta de $\\cos(A + B)$?",
+      "context": "Un estudiante reflexiona sobre el Teorema de la Adición para el coseno: $\\cos(A + B)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\cos A \\cos B + \\text{sen} A \\text{sen} B$",
+          "is_correct": false,
+          "feedback": "En la fórmula del coseno de la suma, el signo intermedio debe ser negativo."
+        },
+        {
+          "letter": "B",
+          "text": "$\\cos A \\cos B - \\text{sen} A \\text{sen} B$",
+          "is_correct": true,
+          "feedback": "Correcto. Es la fórmula estándar de adición para el coseno."
+        },
+        {
+          "letter": "C",
+          "text": "$\\text{sen} A \\cos B + \\cos A \\text{sen} B$",
+          "is_correct": false,
+          "feedback": "Esta es la fórmula para el $\\text{sen}(A + B)$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\cos(A) + \\cos(B)$",
+          "is_correct": false,
+          "feedback": "La función coseno no es distributiva respecto a la suma de ángulos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las fórmulas de adición son la clave para entender cómo interactúan los ángulos. Son fundamentales en el estudio de ondas, donde se producen interferencias (sumas de funciones trigonométricas).\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "ES-MAT-11-2026-W20-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    }
+  ]
+}

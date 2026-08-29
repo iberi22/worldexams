@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "do",
+    "pack_id": "do-week-7-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:38.422Z"
+  },
+  "questions": [
+    {
+      "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v1",
+      "statement": "¿En qué consiste el proceso de \"factorización\" en álgebra?",
+      "context": "Un estudiante en Santo Domingo aprende que factorizar es el proceso inverso a multiplicar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Realizar todas las sumas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es simplificar términos."
+        },
+        {
+          "letter": "B",
+          "text": "Expresar una suma como producto.",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizar es transformar sumas en multiplicaciones."
+        },
+        {
+          "letter": "C",
+          "text": "Hallar el valor de la variable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es resolver la ecuación."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminar los paréntesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es expandir."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La factorización descompone una expresión en factores multiplicativos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el primer método a intentar al empezar a factorizar?",
+      "context": "En un liceo de Santiago se explica el método más básico de todos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diferencia de cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es para casos específicos."
+        },
+        {
+          "letter": "B",
+          "text": "Factor común",
+          "is_correct": true,
+          "feedback": "Correcto. Siempre se busca primero términos repetidos."
+        },
+        {
+          "letter": "C",
+          "text": "Trinomio perfecto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo para tres términos específicos."
+        },
+        {
+          "letter": "D",
+          "text": "Fórmula general",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es para resolver, no para factorizar directo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El factor común identifica divisores comunes en todos los términos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el factor común máximo en $5x^2 + 10x$?",
+      "context": "Un estudiante analiza la expresión $5x^2 + 10x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta la variable común."
+        },
+        {
+          "letter": "B",
+          "text": "x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta el coeficiente común."
+        },
+        {
+          "letter": "C",
+          "text": "5x",
+          "is_correct": true,
+          "feedback": "Correcto. MCD de coeficientes y menor potencia de variable."
+        },
+        {
+          "letter": "D",
+          "text": "10x2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excede los términos originales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Extracción del máximo común divisor algebraico de la expresión.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la forma factorizada de $x^2 - y^2$?",
+      "context": "Identificación de una \"Diferencia de Cuadrados\" en práctica escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x - y)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el cuadrado de resta."
+        },
+        {
+          "letter": "B",
+          "text": "$(x + y)(x - y)$",
+          "is_correct": true,
+          "feedback": "Correcto. Producto de binomios conjugados."
+        },
+        {
+          "letter": "C",
+          "text": "$(x + y)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cuadrado de suma."
+        },
+        {
+          "letter": "D",
+          "text": "$x - y$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta el otro factor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Técnica basada en el producto notable de binomios conjugados.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v5",
+      "statement": "¿Qué condición cumple el término central en un TCP?",
+      "context": "Reconocimiento de un Trinomio Cuadrado Perfecto (TCP).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Suma de raíces extremas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es producto, no suma."
+        },
+        {
+          "letter": "B",
+          "text": "Doble producto de raíces.",
+          "is_correct": true,
+          "feedback": "Correcto. $2 \\cdot \\sqrt{a} \\cdot \\sqrt{c}$."
+        },
+        {
+          "letter": "C",
+          "text": "Número par siempre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es obligatorio."
+        },
+        {
+          "letter": "D",
+          "text": "Cuadrado del tercer término.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin sentido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Verificación de la estructura de un binomio al cuadrado expandido.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v6",
+      "statement": "¿Factorización de $x^2 + 6x + 9$?",
+      "context": "Estudiante en La Romana factoriza $x^2 + 6x + 9$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x + 9)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Raíz de 9 es 3."
+        },
+        {
+          "letter": "B",
+          "text": "$(x + 3)^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Trinomio cuadrado perfecto."
+        },
+        {
+          "letter": "C",
+          "text": "$(x + 3)(x - 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es para x2 - 9."
+        },
+        {
+          "letter": "D",
+          "text": "$x(x + 6) + 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No está en producto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocimiento de las raíces de los extremos y verificación del centro.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v7",
+      "statement": "¿Resultado de factorizar $x^2 - 5x + 6$?",
+      "context": "Factorización de $x^2 - 5x + 6$ en Puerto Plata.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x - 6)(x + 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Producto da -6."
+        },
+        {
+          "letter": "B",
+          "text": "$(x - 3)(x - 2)$",
+          "is_correct": true,
+          "feedback": "Correcto. Suma -5, producto +6."
+        },
+        {
+          "letter": "C",
+          "text": "$(x + 3)(x + 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Suma daría +5."
+        },
+        {
+          "letter": "D",
+          "text": "$(x - 5)(x + 6)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cumple reglas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Método del trinomio de la forma $x^2 + bx + c$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v8",
+      "statement": "Factoriza $ax + ay + bx + by$.",
+      "context": "Factor común por agrupación en Higüey.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(a + y)(b + x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No coincide expansión."
+        },
+        {
+          "letter": "B",
+          "text": "$(a + b)(x + y)$",
+          "is_correct": true,
+          "feedback": "Correcto. Agrupando por parejas."
+        },
+        {
+          "letter": "C",
+          "text": "$ab(x + y)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaría a y b."
+        },
+        {
+          "letter": "D",
+          "text": "$a(x + y) + b$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incompleto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Agrupación estratégica para hallar binomios comunes repetidos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v9",
+      "statement": "¿Lados del terreno?",
+      "context": "Terreno rectangular con área $x^2 - 16$ en Baní.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x-8, x+2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es diferencia de cuadrados."
+        },
+        {
+          "letter": "B",
+          "text": "$x-4, x-4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Daría trinomio."
+        },
+        {
+          "letter": "C",
+          "text": "$x-4, x+4$",
+          "is_correct": true,
+          "feedback": "Correcto. Diferencia de cuadrados perfectos."
+        },
+        {
+          "letter": "D",
+          "text": "$x-16, x+1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cumple estructura."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicación de factorización a dimensiones físicas de un rectángulo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la factorización?",
+      "context": "Factorización de $2x^2 + 5x + 2$ en San Francisco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(2x + 1)(x + 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Centro daría 3x."
+        },
+        {
+          "letter": "B",
+          "text": "$(2x + 1)(x + 2)$",
+          "is_correct": true,
+          "feedback": "Correcto. Satisface todos los términos."
+        },
+        {
+          "letter": "C",
+          "text": "$(2x + 2)(x + 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Centro daría 4x."
+        },
+        {
+          "letter": "D",
+          "text": "$(x + 2)(x + 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Coeficiente de x2 errado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Factorización de trinomios con coeficiente principal distinto de uno.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v11",
+      "statement": "Fórmula para $a^3 + b^3$.",
+      "context": "Suma de Cubos en Moca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(a + b)^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es potencia, no factores."
+        },
+        {
+          "letter": "B",
+          "text": "$(a+b)(a^2+ab+b^2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signo medio debe ser opuesto."
+        },
+        {
+          "letter": "C",
+          "text": "$(a+b)(a^2-ab+b^2)$",
+          "is_correct": true,
+          "feedback": "Correcto. Estructura estándar de suma de cubos."
+        },
+        {
+          "letter": "D",
+          "text": "$(a+b)(a-b)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Descomposición de la suma de potencias cúbicas en factores reales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v12",
+      "statement": "¿Factorización total?",
+      "context": "Factorización completa de $3x^2 - 12$ en Barahona.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3(x^2 - 4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta un paso."
+        },
+        {
+          "letter": "B",
+          "text": "$3(x + 2)(x - 2)$",
+          "is_correct": true,
+          "feedback": "Correcto. Factor común y luego diferencia cuadrados."
+        },
+        {
+          "letter": "C",
+          "text": "$(3x + 6)(x - 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No está totalmente factorizado por MCD."
+        },
+        {
+          "letter": "D",
+          "text": "$3(x - 2)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un binomio al cuadrado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Proceso secuencial de aplicación de métodos de factorización.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál NO es factorizable en R?",
+      "context": "Factorizabilidad en Reales en Santo Domingo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 - 25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí se puede (x+5)(x-5)."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + 4$",
+          "is_correct": true,
+          "feedback": "Correcto. Suma de cuadrados no factoriza en R."
+        },
+        {
+          "letter": "C",
+          "text": "$x^3 + 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí es factorizable."
+        },
+        {
+          "letter": "D",
+          "text": "$x^3 - 27$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí es factorizable."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Limitación de los factores reales ante la suma de términos cuadráticos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v14",
+      "statement": "Simplifica la fracción.",
+      "context": "Simplificación de $(x^2 - 5x + 6) / (x - 3)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x + 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signo errado."
+        },
+        {
+          "letter": "B",
+          "text": "$x - 2$",
+          "is_correct": true,
+          "feedback": "Correcto. $(x-3)(x-2) / (x-3)$."
+        },
+        {
+          "letter": "C",
+          "text": "$x - 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Factor no remanente."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son idénticos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso de la factorización para la simplificación de expresiones racionales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v15",
+      "statement": "¿Forma factorizada de $x^4 + 4$?",
+      "context": "Factorización de $x^4 + 4$ (Identidad de Argand).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x^2 + 2)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sobra 4x2."
+        },
+        {
+          "letter": "B",
+          "text": "$(x^2+2x+2)(x^2-2x+2)$",
+          "is_correct": true,
+          "feedback": "Correcto. Mediante completar cuadrados."
+        },
+        {
+          "letter": "C",
+          "text": "$(x^2+2)(x^2-2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Daría x4 - 4."
+        },
+        {
+          "letter": "D",
+          "text": "No factoriza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí se puede aunque sea difícil."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Técnica avanzada de suma y resta de términos para habilitar factorización.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v16",
+      "statement": "Si $P(1) = 0$, ¿cuál es factor?",
+      "context": "Teorema del Factor: $P(1) = 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo debe ser opuesto a la raíz."
+        },
+        {
+          "letter": "B",
+          "text": "$x - 1$",
+          "is_correct": true,
+          "feedback": "Correcto. Por el Teorema del Factor."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la raíz, no el factor."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existe al menos uno."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Conexión directa entre los ceros de una función y sus divisores algebraicos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v17",
+      "statement": "¿Factorización en C?",
+      "context": "Factorización en Complejos de $x^2 + 9$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x+3)(x-3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es x2 - 9."
+        },
+        {
+          "letter": "B",
+          "text": "$(x+3i)(x-3i)$",
+          "is_correct": true,
+          "feedback": "Correcto. Diferencia de cuadrados con unidad imaginaria."
+        },
+        {
+          "letter": "C",
+          "text": "$(x+3i)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Genera término medio."
+        },
+        {
+          "letter": "D",
+          "text": "$(x+9i)(x-9i)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cuadrado errado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ampliación del campo numérico para permitir factores en sumas de cuadrados.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v18",
+      "statement": "Halla todos los factores reales.",
+      "context": "Factorización total de $x^4 - 81$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x^2+9)(x^2-9)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incompleto."
+        },
+        {
+          "letter": "B",
+          "text": "$(x^2+9)(x+3)(x-3)$",
+          "is_correct": true,
+          "feedback": "Correcto. Descomposición sucesiva completa."
+        },
+        {
+          "letter": "C",
+          "text": "$(x+3)^2(x-3)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Expansión distinta."
+        },
+        {
+          "letter": "D",
+          "text": "$(x-3)^4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es binomio a la cuarta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación reiterada de la diferencia de cuadrados hasta factores irreducibles.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v19",
+      "statement": "¿Cuántos factores lineales tiene un polinomio de grado n?",
+      "context": "Teorema Fundamental del Álgebra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$n - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta uno."
+        },
+        {
+          "letter": "B",
+          "text": "Al menos n.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Exactamente n."
+        },
+        {
+          "letter": "C",
+          "text": "Exactamente n.",
+          "is_correct": true,
+          "feedback": "Correcto. Contando multiplicidades y complejos."
+        },
+        {
+          "letter": "D",
+          "text": "Depende de coeficientes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo del grado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Propiedad estructural que rige la cantidad de raíces de cualquier polinomio.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la factorización?",
+      "context": "Factorización de $2^{2x} - 1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(2^x - 1)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Genera término medio."
+        },
+        {
+          "letter": "B",
+          "text": "$(2^x + 1)(2^x - 1)$",
+          "is_correct": true,
+          "feedback": "Correcto. Diferencia de cuadrados con bases exponenciales."
+        },
+        {
+          "letter": "C",
+          "text": "$2(2^x - 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es factor común."
+        },
+        {
+          "letter": "D",
+          "text": "$2^{2(x-1)}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ley de exponentes mal aplicada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocimiento de la estructura de cuadrados en términos de potencias.\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Context | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "DO-MAT-11-2026-W07-factorizacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    }
+  ]
+}

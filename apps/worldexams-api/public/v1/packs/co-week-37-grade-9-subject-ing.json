@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-37-grade-9-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.953Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-9-2026-W37-urban-architecture-001-MASTERY-bundle-v1",
+      "statement": "The apartment block ________ I live was designed by an expert.",
+      "context": "Apartment block.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "in which",
+          "is_correct": true,
+          "feedback": "Correct! Formal use of preposition before which."
+        },
+        {
+          "letter": "C",
+          "text": "whom",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "where in",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En registros formales, es común colocar la preposición antes del pronombre relativo *which*.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W37-urban-architecture-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W37-urban-architecture-001-MASTERY-bundle-v2",
+      "statement": "The park is for the children, ________ it was built.",
+      "context": "Beneficiaries.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who for",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "which for",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "for whom",
+          "is_correct": true,
+          "feedback": "Correct! Required form after preposition for people."
+        },
+        {
+          "letter": "D",
+          "text": "that for",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando el pronombre se refiere a personas y sigue a una preposición, se debe usar *whom*.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W37-urban-architecture-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W37-urban-architecture-001-MASTERY-bundle-v3",
+      "statement": "The skyscraper ________ the skyline is the tallest.",
+      "context": "Skyscraper.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "dominates",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "dominating",
+          "is_correct": true,
+          "feedback": "Correct! Reduced relative clause (which dominates)."
+        },
+        {
+          "letter": "C",
+          "text": "dominated",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "is dominating",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Podemos reducir una oración de relativo activa usando el participio de presente.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W37-urban-architecture-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W37-urban-architecture-001-MASTERY-bundle-v4",
+      "statement": "The bridge ________ in 1950 is being restored.",
+      "context": "Old bridge.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "building",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "built",
+          "is_correct": true,
+          "feedback": "Correct! Reduced passive relative clause (which was built)."
+        },
+        {
+          "letter": "C",
+          "text": "having built",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "build",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las oraciones de relativo pasivas se reducen dejando el participio pasado.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W37-urban-architecture-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W37-urban-architecture-001-MASTERY-bundle-v5",
+      "statement": "This is the plaza ________ all streets lead.",
+      "context": "Main plaza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in which",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "to which",
+          "is_correct": true,
+          "feedback": "Correct! Based on the phrase \"lead to\"."
+        },
+        {
+          "letter": "C",
+          "text": "at which",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "where to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La preposición depende del verbo de la oración subordinada.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W37-urban-architecture-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W37-urban-architecture-001-MASTERY-bundle-v6",
+      "statement": "The citizens ________ the project was designed were happy.",
+      "context": "Social project.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who for",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "for whom",
+          "is_correct": true,
+          "feedback": "Correct! Formal prepositional structure for people."
+        },
+        {
+          "letter": "C",
+          "text": "which for",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "that for",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "*For whom* establece la relación de propósito de manera formal.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W37-urban-architecture-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W37-urban-architecture-001-MASTERY-bundle-v7",
+      "statement": "Which is the most **formal** description of a building's origin?",
+      "context": "Formal description.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The house that I was born in.",
+          "is_correct": false,
+          "feedback": "Incorrect. Informal end preposition."
+        },
+        {
+          "letter": "B",
+          "text": "The house where I was born in.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "The house in which I was born.",
+          "is_correct": true,
+          "feedback": "Correct! Formal preposition placement."
+        },
+        {
+          "letter": "D",
+          "text": "The house I born.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El nivel B2 exige conocer la estructura de \"preposición + which\" para contextos académicos.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W37-urban-architecture-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W37-urban-architecture-001-MASTERY-bundle-v8",
+      "statement": "\"The plan ________ the new airport was rejected.\"",
+      "context": "Rejected plan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "described",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "describing",
+          "is_correct": true,
+          "feedback": "Correct! Active meaning (the plan describes)."
+        },
+        {
+          "letter": "C",
+          "text": "describe",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "which describing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se debe analizar si la relación es activa o pasiva para elegir el participio correcto.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W37-urban-architecture-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W37-urban-architecture-001-MASTERY-bundle-v9",
+      "statement": "We study the extent ________ design affects behavior.",
+      "context": "Design impact.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in which",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "for which",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "to which",
+          "is_correct": true,
+          "feedback": "Correct! Fixed academic phrase."
+        },
+        {
+          "letter": "D",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "*To which* se usa en la expresión fija *the extent to which*.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W37-urban-architecture-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W37-urban-architecture-001-MASTERY-bundle-v10",
+      "statement": "Identify the error:\n\"The houses **in that** (C) we live are old.\"",
+      "context": "Renovation error.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "which consists",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "designing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "in that",
+          "is_correct": true,
+          "feedback": "Correct! Prepositions cannot precede \"that\" in relative clauses."
+        },
+        {
+          "letter": "D",
+          "text": "used",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "*That* no admite preposiciones delante; se debe usar *which* o *whom*.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-9-2026-W37-urban-architecture-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W37-urban-architecture-001-MASTERY-bundle-v11",
+      "statement": "Which is the most formal way to combine the facts about software?",
+      "context": "Software use.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "We use a software that it allows models.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "We use a software allowing models.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "We use a software by means of which we create models.",
+          "is_correct": true,
+          "feedback": "Correct! Sophisticated formal structure."
+        },
+        {
+          "letter": "D",
+          "text": "The software we use it allows.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Expresiones como *by means of which* demuestran un dominio léxico superior.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-9-2026-W37-urban-architecture-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W37-urban-architecture-001-MASTERY-bundle-v12",
+      "statement": "\"The spaces ________ we move ________ our lives.\"",
+      "context": "Architectural critique.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who / affect",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "in which / shape",
+          "is_correct": true,
+          "feedback": "Correct! Proper formal relative clause."
+        },
+        {
+          "letter": "C",
+          "text": "where / determining",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "that / changed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Integra oraciones de relativo con preposición para expresar ideas complejas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-9-2026-W37-urban-architecture-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

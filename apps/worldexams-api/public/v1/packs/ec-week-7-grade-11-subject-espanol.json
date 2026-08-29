@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "ec",
+    "pack_id": "ec-week-7-grade-11-subject-lengua",
+    "generated_at": "2026-08-04T00:45:03.461Z"
+  },
+  "questions": [
+    {
+      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v1",
+      "statement": "En una editorial del diario de Riobamba, un autor critica con dureza el uso indiscriminado de plásticos de un solo uso, calificándolos de 'crimen ecológico contra las futuras generaciones ecuatorianas'. ¿Cuál es el tono predominante del autor?",
+      "context": "Gabriela, estudiante de 11° de Bachillerato en el Colegio Nacional Maldonado de Riobamba, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Irónico y humorístico, pues minimiza la gravedad de la contaminación en el Colegio Nacional Maldonado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Objetivo e indiferente, limitándose a presentar cifras químicas en Riobamba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Optimista y conciliador, felicitando a las grandes industrias de Riobamba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Indignado y crítico, ya que utiliza adjetivos de fuerte impacto moral para sacudir la conciencia de los lectores de Riobamba.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El uso de expresiones como 'crimen ecológico' y la condena severa denotan un tono indignado y crítico ante la pasividad social por el medio ambiente.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v2",
+      "statement": "Considere el fragmento de un artículo de opinión en Ibarra: 'La educación técnica del Bachillerato en el país debe transformarse de inmediato, pues seguimos graduando jóvenes bajo planes curriculares obsoletos del siglo pasado en el Colegio Nacional Olmedo'.",
+      "context": "David, estudiante de 11° de Bachillerato en el Colegio Nacional Olmedo de Ibarra, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Persuadir e impulsar un cambio estructural de las políticas curriculares del Bachillerato técnico de Ibarra.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "B",
+          "text": "Describir de manera neutral las materias técnicas que se imparten en el Colegio Nacional Olmedo de Ibarra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Entretener a los estudiantes de la provincia de Ibarra con anécdotas cómicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Felicitar a las autoridades de Ibarra por el éxito del Bachillerato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La exigencia ('debe transformarse de inmediato') revela una clara intención persuasiva de reformar un sistema calificado de deficiente.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v3",
+      "statement": "Un folleto publicitario de una marca de gaseosas en Portoviejo afirma: 'Nuestra bebida es la opción más saludable, ya que contiene extracto de fruta natural y te llena de energía instantánea'.",
+      "context": "Elena, estudiante de 11° de Bachillerato en el Colegio Nacional Mejía de Portoviejo, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una falta absoluta de destinatarios reales para la promoción del producto en Portoviejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Un sesgo de interés comercial en Portoviejo, que omite mencionar el alto contenido de azúcar perjudicial para la salud.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Una rigurosidad científica incuestionable avalada por médicos del Colegio Nacional Mejía de Portoviejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Un tono de extrema seriedad y formalidad literaria clásica del modernismo en Portoviejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La lectura crítica identifica que la publicidad comercial suele resaltar atributos positivos mínimos (fruta natural) y silenciar los factores negativos (azúcar en exceso).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.86,
+      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v4",
+      "statement": "En Machala, un bloguero publica: 'La vacunación es una conspiración de las grandes corporaciones para controlarnos a todos'. ¿Cuál es el principal criterio ético que debe aplicar Diana para evaluar la validez de esta información?",
+      "context": "Diana, estudiante de 11° de Bachillerato en el Colegio Nacional Vicente Rocafuerte de Machala, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contrastar la afirmación del bloguero con estudios e informes de organismos científicos de salud reconocidos en Machala.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "B",
+          "text": "Aceptar de forma ciega la opinión del bloguero porque tiene muchos seguidores en Machala.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Asumir que toda información de internet es verdadera por ley en el Colegio Nacional Vicente Rocafuerte de Machala.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Ignorar el tema por completo para evitar debatir con sus compañeros en el Colegio Nacional Vicente Rocafuerte de Machala.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La veracidad de afirmaciones complejas debe evaluarse bajo criterios de evidencia, respaldo científico e institucionalidad, no por popularidad en internet.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v5",
+      "statement": "Lea el extracto: 'La inmigración ha enriquecido históricamente la gastronomía, el arte y los valores de nuestra querida ciudad de Guayaquil y de Esmeraldas'. ¿Cuál es la postura o sesgo ideológico del autor respecto al fenómeno migratorio?",
+      "context": "Carlos, estudiante de 11° de Bachillerato en el Colegio Benigno Malo de Esmeraldas, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indiferente y apática, restando importancia a los procesos migratorios históricos de Esmeraldas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Favorable y humanista, destacando los aportes de los migrantes en la cultura de Esmeraldas.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Xenófoba e intolerante, promoviendo restricciones migratorias de extrema severidad en Esmeraldas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Meramente estadística y técnica, describiendo flujos demográficos cerca del Colegio Benigno Malo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso de términos positivos como 'enriquecido' y 'aportes' evidencia una postura abiertamente favorable hacia el aporte multicultural de los extranjeros.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v6",
+      "statement": "En una editorial del diario de Santo Domingo, un autor critica con dureza el uso indiscriminado de plásticos de un solo uso, calificándolos de 'crimen ecológico contra las futuras generaciones ecuatorianas'. ¿Cuál es el tono predominante del autor?",
+      "context": "Rafael, estudiante de 11° de Bachillerato en el Colegio Nacional Bolívar de Santo Domingo, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Objetivo e indiferente, limitándose a presentar cifras químicas en Santo Domingo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Optimista y conciliador, felicitando a las grandes industrias de Santo Domingo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Indignado y crítico, ya que utiliza adjetivos de fuerte impacto moral para sacudir la conciencia de los lectores de Santo Domingo.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "Irónico y humorístico, pues minimiza la gravedad de la contaminación en el Colegio Nacional Bolívar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El uso de expresiones como 'crimen ecológico' y la condena severa denotan un tono indignado y crítico ante la pasividad social por el medio ambiente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v7",
+      "statement": "Considere el fragmento de un artículo de opinión en Quito: 'La educación técnica del Bachillerato en el país debe transformarse de inmediato, pues seguimos graduando jóvenes bajo planes curriculares obsoletos del siglo pasado en el Unidad Educativa Santo Domingo'.",
+      "context": "Andrés, estudiante de 11° de Bachillerato en el Unidad Educativa Santo Domingo de Quito, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Felicitar a las autoridades de Quito por el éxito del Bachillerato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Persuadir e impulsar un cambio estructural de las políticas curriculares del Bachillerato técnico de Quito.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Describir de manera neutral las materias técnicas que se imparten en el Unidad Educativa Santo Domingo de Quito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Entretener a los estudiantes de la provincia de Quito con anécdotas cómicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La exigencia ('debe transformarse de inmediato') revela una clara intención persuasiva de reformar un sistema calificado de deficiente.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v8",
+      "statement": "Un folleto publicitario de una marca de gaseosas en Guayaquil afirma: 'Nuestra bebida es la opción más saludable, ya que contiene extracto de fruta natural y te llena de energía instantánea'.",
+      "context": "Estefanía, estudiante de 11° de Bachillerato en el Colegio Nacional Manta de Guayaquil, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un tono de extrema seriedad y formalidad literaria clásica del modernismo en Guayaquil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Una falta absoluta de destinatarios reales para la promoción del producto en Guayaquil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Un sesgo de interés comercial en Guayaquil, que omite mencionar el alto contenido de azúcar perjudicial para la salud.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "Una rigurosidad científica incuestionable avalada por médicos del Colegio Nacional Manta de Guayaquil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La lectura crítica identifica que la publicidad comercial suele resaltar atributos positivos mínimos (fruta natural) y silenciar los factores negativos (azúcar en exceso).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.76,
+      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v9",
+      "statement": "En Cuenca, un bloguero publica: 'La vacunación es una conspiración de las grandes corporaciones para controlarnos a todos'. ¿Cuál es el principal criterio ético que debe aplicar Ana para evaluar la validez de esta información?",
+      "context": "Ana, estudiante de 11° de Bachillerato en el Colegio Nacional Bernardo Valdivieso de Cuenca, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ignorar el tema por completo para evitar debatir con sus compañeros en el Colegio Nacional Bernardo Valdivieso de Cuenca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Contrastar la afirmación del bloguero con estudios e informes de organismos científicos de salud reconocidos en Cuenca.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Aceptar de forma ciega la opinión del bloguero porque tiene muchos seguidores en Cuenca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Asumir que toda información de internet es verdadera por ley en el Colegio Nacional Bernardo Valdivieso de Cuenca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La veracidad de afirmaciones complejas debe evaluarse bajo criterios de evidencia, respaldo científico e institucionalidad, no por popularidad en internet.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v10",
+      "statement": "Lea el extracto: 'La inmigración ha enriquecido históricamente la gastronomía, el arte y los valores de nuestra querida ciudad de Guayaquil y de Ambato'. ¿Cuál es la postura o sesgo ideológico del autor respecto al fenómeno migratorio?",
+      "context": "Luis, estudiante de 11° de Bachillerato en el Colegio Nacional Nueve de Octubre de Ambato, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indiferente y apática, restando importancia a los procesos migratorios históricos de Ambato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Favorable y humanista, destacando los aportes de los migrantes en la cultura de Ambato.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Xenófoba e intolerante, promoviendo restricciones migratorias de extrema severidad en Ambato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Meramente estadística y técnica, describiendo flujos demográficos cerca del Colegio Nacional Nueve de Octubre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso de términos positivos como 'enriquecido' y 'aportes' evidencia una postura abiertamente favorable hacia el aporte multicultural de los extranjeros.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v11",
+      "statement": "En una editorial del diario de Manta, un autor critica con dureza el uso indiscriminado de plásticos de un solo uso, calificándolos de 'crimen ecológico contra las futuras generaciones ecuatorianas'. ¿Cuál es el tono predominante del autor?",
+      "context": "Patricia, estudiante de 11° de Bachillerato en el Colegio Nacional Maldonado de Manta, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Objetivo e indiferente, limitándose a presentar cifras químicas en Manta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Optimista y conciliador, felicitando a las grandes industrias de Manta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Indignado y crítico, ya que utiliza adjetivos de fuerte impacto moral para sacudir la conciencia de los lectores de Manta.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "Irónico y humorístico, pues minimiza la gravedad de la contaminación en el Colegio Nacional Maldonado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El uso de expresiones como 'crimen ecológico' y la condena severa denotan un tono indignado y crítico ante la pasividad social por el medio ambiente.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v12",
+      "statement": "Considere el fragmento de un artículo de opinión en Loja: 'La educación técnica del Bachillerato en el país debe transformarse de inmediato, pues seguimos graduando jóvenes bajo planes curriculares obsoletos del siglo pasado en el Colegio Nacional Olmedo'.",
+      "context": "Fernando, estudiante de 11° de Bachillerato en el Colegio Nacional Olmedo de Loja, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entretener a los estudiantes de la provincia de Loja con anécdotas cómicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Felicitar a las autoridades de Loja por el éxito del Bachillerato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Persuadir e impulsar un cambio estructural de las políticas curriculares del Bachillerato técnico de Loja.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "Describir de manera neutral las materias técnicas que se imparten en el Colegio Nacional Olmedo de Loja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La exigencia ('debe transformarse de inmediato') revela una clara intención persuasiva de reformar un sistema calificado de deficiente.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v13",
+      "statement": "Un folleto publicitario de una marca de gaseosas en Riobamba afirma: 'Nuestra bebida es la opción más saludable, ya que contiene extracto de fruta natural y te llena de energía instantánea'.",
+      "context": "María, estudiante de 11° de Bachillerato en el Colegio Nacional Mejía de Riobamba, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una rigurosidad científica incuestionable avalada por médicos del Colegio Nacional Mejía de Riobamba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Un tono de extrema seriedad y formalidad literaria clásica del modernismo en Riobamba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Una falta absoluta de destinatarios reales para la promoción del producto en Riobamba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Un sesgo de interés comercial en Riobamba, que omite mencionar el alto contenido de azúcar perjudicial para la salud.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La lectura crítica identifica que la publicidad comercial suele resaltar atributos positivos mínimos (fruta natural) y silenciar los factores negativos (azúcar en exceso).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.66,
+      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v14",
+      "statement": "En Ibarra, un bloguero publica: 'La vacunación es una conspiración de las grandes corporaciones para controlarnos a todos'. ¿Cuál es el principal criterio ético que debe aplicar José para evaluar la validez de esta información?",
+      "context": "José, estudiante de 11° de Bachillerato en el Colegio Nacional Vicente Rocafuerte de Ibarra, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ignorar el tema por completo para evitar debatir con sus compañeros en el Colegio Nacional Vicente Rocafuerte de Ibarra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Contrastar la afirmación del bloguero con estudios e informes de organismos científicos de salud reconocidos en Ibarra.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Aceptar de forma ciega la opinión del bloguero porque tiene muchos seguidores en Ibarra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Asumir que toda información de internet es verdadera por ley en el Colegio Nacional Vicente Rocafuerte de Ibarra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La veracidad de afirmaciones complejas debe evaluarse bajo criterios de evidencia, respaldo científico e institucionalidad, no por popularidad en internet.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.64,
+      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v15",
+      "statement": "Lea el extracto: 'La inmigración ha enriquecido históricamente la gastronomía, el arte y los valores de nuestra querida ciudad de Guayaquil y de Portoviejo'. ¿Cuál es la postura o sesgo ideológico del autor respecto al fenómeno migratorio?",
+      "context": "Mateo, estudiante de 11° de Bachillerato en el Colegio Benigno Malo de Portoviejo, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indiferente y apática, restando importancia a los procesos migratorios históricos de Portoviejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Favorable y humanista, destacando los aportes de los migrantes en la cultura de Portoviejo.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Xenófoba e intolerante, promoviendo restricciones migratorias de extrema severidad en Portoviejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Meramente estadística y técnica, describiendo flujos demográficos cerca del Colegio Benigno Malo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso de términos positivos como 'enriquecido' y 'aportes' evidencia una postura abiertamente favorable hacia el aporte multicultural de los extranjeros.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.62,
+      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v16",
+      "statement": "En una editorial del diario de Machala, un autor critica con dureza el uso indiscriminado de plásticos de un solo uso, calificándolos de 'crimen ecológico contra las futuras generaciones ecuatorianas'. ¿Cuál es el tono predominante del autor?",
+      "context": "Sebastián, estudiante de 11° de Bachillerato en el Colegio Nacional Bolívar de Machala, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indignado y crítico, ya que utiliza adjetivos de fuerte impacto moral para sacudir la conciencia de los lectores de Machala.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "B",
+          "text": "Irónico y humorístico, pues minimiza la gravedad de la contaminación en el Colegio Nacional Bolívar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Objetivo e indiferente, limitándose a presentar cifras químicas en Machala.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Optimista y conciliador, felicitando a las grandes industrias de Machala.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El uso de expresiones como 'crimen ecológico' y la condena severa denotan un tono indignado y crítico ante la pasividad social por el medio ambiente.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v17",
+      "statement": "Considere el fragmento de un artículo de opinión en Esmeraldas: 'La educación técnica del Bachillerato en el país debe transformarse de inmediato, pues seguimos graduando jóvenes bajo planes curriculares obsoletos del siglo pasado en el Unidad Educativa Santo Domingo'.",
+      "context": "Valentina, estudiante de 11° de Bachillerato en el Unidad Educativa Santo Domingo de Esmeraldas, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Persuadir e impulsar un cambio estructural de las políticas curriculares del Bachillerato técnico de Esmeraldas.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "B",
+          "text": "Describir de manera neutral las materias técnicas que se imparten en el Unidad Educativa Santo Domingo de Esmeraldas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Entretener a los estudiantes de la provincia de Esmeraldas con anécdotas cómicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Felicitar a las autoridades de Esmeraldas por el éxito del Bachillerato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La exigencia ('debe transformarse de inmediato') revela una clara intención persuasiva de reformar un sistema calificado de deficiente.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.58,
+      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v18",
+      "statement": "Un folleto publicitario de una marca de gaseosas en Santo Domingo afirma: 'Nuestra bebida es la opción más saludable, ya que contiene extracto de fruta natural y te llena de energía instantánea'.",
+      "context": "Camila, estudiante de 11° de Bachillerato en el Colegio Nacional Manta de Santo Domingo, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un tono de extrema seriedad y formalidad literaria clásica del modernismo en Santo Domingo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Una falta absoluta de destinatarios reales para la promoción del producto en Santo Domingo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Un sesgo de interés comercial en Santo Domingo, que omite mencionar el alto contenido de azúcar perjudicial para la salud.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "Una rigurosidad científica incuestionable avalada por médicos del Colegio Nacional Manta de Santo Domingo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La lectura crítica identifica que la publicidad comercial suele resaltar atributos positivos mínimos (fruta natural) y silenciar los factores negativos (azúcar en exceso).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.56,
+      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v19",
+      "statement": "En Quito, un bloguero publica: 'La vacunación es una conspiración de las grandes corporaciones para controlarnos a todos'. ¿Cuál es el principal criterio ético que debe aplicar Santiago para evaluar la validez de esta información?",
+      "context": "Santiago, estudiante de 11° de Bachillerato en el Colegio Nacional Bernardo Valdivieso de Quito, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Asumir que toda información de internet es verdadera por ley en el Colegio Nacional Bernardo Valdivieso de Quito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Ignorar el tema por completo para evitar debatir con sus compañeros en el Colegio Nacional Bernardo Valdivieso de Quito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Contrastar la afirmación del bloguero con estudios e informes de organismos científicos de salud reconocidos en Quito.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "Aceptar de forma ciega la opinión del bloguero porque tiene muchos seguidores en Quito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La veracidad de afirmaciones complejas debe evaluarse bajo criterios de evidencia, respaldo científico e institucionalidad, no por popularidad en internet.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.54,
+      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle-v20",
+      "statement": "Lea el extracto: 'La inmigración ha enriquecido históricamente la gastronomía, el arte y los valores de nuestra querida ciudad de Guayaquil y de Guayaquil'. ¿Cuál es la postura o sesgo ideológico del autor respecto al fenómeno migratorio?",
+      "context": "Alejandro, estudiante de 11° de Bachillerato en el Colegio Nacional Nueve de Octubre de Guayaquil, applica el pensamiento crítico para evaluar los sesgos, tono e intenciones de autores en editoriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Meramente estadística y técnica, describiendo flujos demográficos cerca del Colegio Nacional Nueve de Octubre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Indiferente y apática, restando importancia a los procesos migratorios históricos de Guayaquil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Favorable y humanista, destacando los aportes de los migrantes en la cultura de Guayaquil.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "Xenófoba e intolerante, promoviendo restricciones migratorias de extrema severidad en Guayaquil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El uso de términos positivos como 'enriquecido' y 'aportes' evidencia una postura abiertamente favorable hacia el aporte multicultural de los extranjeros.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.52,
+      "bundle_id": "EC-LEN-11-2026-W07-comprension-critica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    }
+  ]
+}

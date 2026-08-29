@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "sv",
+    "pack_id": "sv-week-4-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:41:05.508Z"
+  },
+  "questions": [
+    {
+      "id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v1",
+      "statement": "Simplifica la expresión: $\\frac{x^5 \\cdot x^3}{x^4}$.",
+      "context": "Un estudiante de bachillerato de San Salvador estudia leyes de exponentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$x^4$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "C",
+          "text": "$x^8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "$x^6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Potenciación y Radicación.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v2",
+      "statement": "Evalúa el valor de la expresión: $2^{-3} \\cdot 16$.",
+      "context": "Un agrónomo en Sonsonate mide la propagación de una plaga usando potencias de base 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Potenciación y Radicación.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v3",
+      "statement": "Simplifica el radical: $\\sqrt{72}$ a su forma más simple.",
+      "context": "Un arquitecto en Santa Ana calcula longitudes para vigas diagonales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4\\sqrt{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "$3\\sqrt{8}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "$2\\sqrt{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "D",
+          "text": "$6\\sqrt{2}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Potenciación y Radicación.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v4",
+      "statement": "Escribe la expresión $0.000045$ en notación científica estándar.",
+      "context": "Se calcula la masa de un microorganismo en la Universidad de El Salvador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$45 \\times 10^{-6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "$4.5 \\times 10^{-6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "C",
+          "text": "$4.5 \\times 10^{-4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "$4.5 \\times 10^{-5}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Potenciación y Radicación.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v5",
+      "statement": "Racionaliza el denominador de la expresión: $\\frac{5}{\\sqrt{3}}$.",
+      "context": "Un estudiante de ingeniería en San Salvador analiza factores de escala en el circuito 5.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{\\sqrt{3}}{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{5\\sqrt{3}}{3}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{5\\sqrt{3}}{9}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{3\\sqrt{5}}{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Potenciación y Radicación.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v6",
+      "statement": "Racionaliza el denominador de la expresión: $\\frac{6}{\\sqrt{3}}$.",
+      "context": "Un estudiante de ingeniería en San Salvador analiza factores de escala en el circuito 6.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{6\\sqrt{3}}{9}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{3\\sqrt{6}}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{\\sqrt{3}}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{6\\sqrt{3}}{3}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Potenciación y Radicación.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.71,
+      "bundle_id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v7",
+      "statement": "Racionaliza el denominador de la expresión: $\\frac{7}{\\sqrt{3}}$.",
+      "context": "Un estudiante de ingeniería en San Salvador analiza factores de escala en el circuito 7.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{\\sqrt{3}}{7}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{7\\sqrt{3}}{3}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{7\\sqrt{3}}{9}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{3\\sqrt{7}}{7}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Potenciación y Radicación.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.67,
+      "bundle_id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v8",
+      "statement": "Racionaliza el denominador de la expresión: $\\frac{8}{\\sqrt{3}}$.",
+      "context": "Un estudiante de ingeniería en San Salvador analiza factores de escala en el circuito 8.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{8\\sqrt{3}}{9}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{3\\sqrt{8}}{8}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{\\sqrt{3}}{8}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{8\\sqrt{3}}{3}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Potenciación y Radicación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.63,
+      "bundle_id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v9",
+      "statement": "Racionaliza el denominador de la expresión: $\\frac{9}{\\sqrt{3}}$.",
+      "context": "Un estudiante de ingeniería en San Salvador analiza factores de escala en el circuito 9.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{3\\sqrt{9}}{9}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{9\\sqrt{3}}{3}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{\\sqrt{3}}{9}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{9\\sqrt{3}}{9}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Potenciación y Radicación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.59,
+      "bundle_id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v10",
+      "statement": "Racionaliza el denominador de la expresión: $\\frac{10}{\\sqrt{3}}$.",
+      "context": "Un estudiante de ingeniería en San Salvador analiza factores de escala en el circuito 10.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{10\\sqrt{3}}{3}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{\\sqrt{3}}{10}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{10\\sqrt{3}}{9}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{3\\sqrt{10}}{10}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Potenciación y Radicación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v11",
+      "statement": "Racionaliza el denominador de la expresión: $\\frac{11}{\\sqrt{3}}$.",
+      "context": "Un estudiante de ingeniería en San Salvador analiza factores de escala en el circuito 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{3\\sqrt{11}}{11}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{11\\sqrt{3}}{9}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{11\\sqrt{3}}{3}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{\\sqrt{3}}{11}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Potenciación y Radicación.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.51,
+      "bundle_id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v12",
+      "statement": "Racionaliza el denominador de la expresión: $\\frac{12}{\\sqrt{3}}$.",
+      "context": "Un estudiante de ingeniería en San Salvador analiza factores de escala en el circuito 12.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{3\\sqrt{12}}{12}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{12\\sqrt{3}}{9}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{\\sqrt{3}}{12}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{12\\sqrt{3}}{3}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Potenciación y Radicación.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.47,
+      "bundle_id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v13",
+      "statement": "Racionaliza el denominador de la expresión: $\\frac{13}{\\sqrt{3}}$.",
+      "context": "Un estudiante de ingeniería en San Salvador analiza factores de escala en el circuito 13.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{\\sqrt{3}}{13}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{3\\sqrt{13}}{13}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{13\\sqrt{3}}{3}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{13\\sqrt{3}}{9}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Potenciación y Radicación.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v14",
+      "statement": "Racionaliza el denominador de la expresión: $\\frac{14}{\\sqrt{3}}$.",
+      "context": "Un estudiante de ingeniería en San Salvador analiza factores de escala en el circuito 14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{14\\sqrt{3}}{9}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{14\\sqrt{3}}{3}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{3\\sqrt{14}}{14}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{\\sqrt{3}}{14}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Potenciación y Radicación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.39,
+      "bundle_id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v15",
+      "statement": "Racionaliza el denominador de la expresión: $\\frac{15}{\\sqrt{3}}$.",
+      "context": "Un estudiante de ingeniería en San Salvador analiza factores de escala en el circuito 15.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{15\\sqrt{3}}{3}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{\\sqrt{3}}{15}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{15\\sqrt{3}}{9}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{3\\sqrt{15}}{15}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Potenciación y Radicación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v16",
+      "statement": "Racionaliza el denominador de la expresión: $\\frac{16}{\\sqrt{3}}$.",
+      "context": "Un estudiante de ingeniería en San Salvador analiza factores de escala en el circuito 16.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{3\\sqrt{16}}{16}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{16\\sqrt{3}}{9}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{16\\sqrt{3}}{3}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{\\sqrt{3}}{16}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Potenciación y Radicación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.31,
+      "bundle_id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v17",
+      "statement": "Racionaliza el denominador de la expresión: $\\frac{17}{\\sqrt{3}}$.",
+      "context": "Un estudiante de ingeniería en San Salvador analiza factores de escala en el circuito 17.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{\\sqrt{3}}{17}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{17\\sqrt{3}}{3}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{3\\sqrt{17}}{17}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{17\\sqrt{3}}{9}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Potenciación y Radicación.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.27,
+      "bundle_id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v18",
+      "statement": "Racionaliza el denominador de la expresión: $\\frac{18}{\\sqrt{3}}$.",
+      "context": "Un estudiante de ingeniería en San Salvador analiza factores de escala en el circuito 18.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{18\\sqrt{3}}{3}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{\\sqrt{3}}{18}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{18\\sqrt{3}}{9}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{3\\sqrt{18}}{18}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Potenciación y Radicación.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.23,
+      "bundle_id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v19",
+      "statement": "Racionaliza el denominador de la expresión: $\\frac{19}{\\sqrt{3}}$.",
+      "context": "Un estudiante de ingeniería en San Salvador analiza factores de escala en el circuito 19.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{\\sqrt{3}}{19}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{3\\sqrt{19}}{19}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{19\\sqrt{3}}{3}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{19\\sqrt{3}}{9}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Potenciación y Radicación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.19,
+      "bundle_id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle-v20",
+      "statement": "Racionaliza el denominador de la expresión: $\\frac{20}{\\sqrt{3}}$.",
+      "context": "Un estudiante de ingeniería en San Salvador analiza factores de escala en el circuito 20.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{20\\sqrt{3}}{3}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{3\\sqrt{20}}{20}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{20\\sqrt{3}}{9}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{\\sqrt{3}}{20}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Potenciación y Radicación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.15,
+      "bundle_id": "SV-MAT-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    }
+  ]
+}

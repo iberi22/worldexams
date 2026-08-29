@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-4-grade-9-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.935Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-9-2026-W04-environmental-challenges-001-MASTERY-bundle-v1",
+      "statement": "Scientists predict that global temperatures ________ to rise if we don't reduce carbon emissions.",
+      "context": "Making a prediction about climate change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will continue",
+          "is_correct": true,
+          "feedback": "Correct! \"Will\" is used for predictions based on opinions or scientific evidence."
+        },
+        {
+          "letter": "B",
+          "text": "are continuing",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to an action happening now, not a future prediction."
+        },
+        {
+          "letter": "C",
+          "text": "going to continue",
+          "is_correct": false,
+          "feedback": "Incorrect. It's missing the verb \"to be\"."
+        },
+        {
+          "letter": "D",
+          "text": "continue",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the simple present, used for facts or routines, not a future prediction."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Usamos *will* para realizar predicciones sobre el futuro, especialmente cuando se basan en opiniones, expectativas o evidencias científicas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W04-environmental-challenges-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W04-environmental-challenges-001-MASTERY-bundle-v2",
+      "statement": "I ________ all my plastic bottles from now on to help protect the oceans.",
+      "context": "Expressing a personal intention to recycle.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will recycle",
+          "is_correct": false,
+          "feedback": "Incorrect. While possible for a spontaneous decision, \"be going to\" is better for a planned intention."
+        },
+        {
+          "letter": "B",
+          "text": "am going to recycle",
+          "is_correct": true,
+          "feedback": "Correct! \"Be going to\" expresses a personal intention or plan."
+        },
+        {
+          "letter": "C",
+          "text": "recycle",
+          "is_correct": false,
+          "feedback": "Incorrect. This describes a current habit, not a future intention."
+        },
+        {
+          "letter": "D",
+          "text": "am recycling",
+          "is_correct": false,
+          "feedback": "Incorrect. This usually refers to a fixed arrangement or an action in progress."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para expresar intenciones o planes personales que ya hemos decidido, la estructura más adecuada es *be going to*.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W04-environmental-challenges-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W04-environmental-challenges-001-MASTERY-bundle-v3",
+      "statement": "The international conference on climate change ________ in Bogotá next month.",
+      "context": "Talking about a scheduled event.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will start",
+          "is_correct": false,
+          "feedback": "Incorrect. While used for future, it's less specific than the arrangement form."
+        },
+        {
+          "letter": "B",
+          "text": "is taking place",
+          "is_correct": true,
+          "feedback": "Correct! Present Continuous is used for fixed arrangements in the future."
+        },
+        {
+          "letter": "C",
+          "text": "starts",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple Present is used for timetables, but Present Continuous is more common for organized events."
+        },
+        {
+          "letter": "D",
+          "text": "going to take place",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing the auxiliary \"is\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Presente Continuo (*is taking place*) se utiliza para hablar de compromisos o eventos organizados que ocurrirán en un futuro cercano.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W04-environmental-challenges-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W04-environmental-challenges-001-MASTERY-bundle-v4",
+      "statement": "This time next year, our school ________ solar panels to generate its own electricity.",
+      "context": "Describing an ongoing action in the future.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will use",
+          "is_correct": false,
+          "feedback": "Incorrect. This just predicts the use, not the ongoing state at that time."
+        },
+        {
+          "letter": "B",
+          "text": "will be using",
+          "is_correct": true,
+          "feedback": "Correct! Future Continuous describes an action that will be in progress at a specific time in the future."
+        },
+        {
+          "letter": "C",
+          "text": "is going to use",
+          "is_correct": false,
+          "feedback": "Incorrect. This expresses intention but not the ongoing action at a specific future point."
+        },
+        {
+          "letter": "D",
+          "text": "will have used",
+          "is_correct": false,
+          "feedback": "Incorrect. This is Future Perfect, implying the action is finished by then."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Futuro Continuo (*will be using*) se emplea para describir acciones que estarán ocurriendo en un momento específico del futuro, a menudo indicado por frases como \"this time next year\".\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W04-environmental-challenges-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W04-environmental-challenges-001-MASTERY-bundle-v5",
+      "statement": "Look at those dark clouds! It ________ a storm, so we should probably stay indoors.",
+      "context": "Making a prediction based on clear evidence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will be",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Will\" is for opinions; for evidence-based predictions, we use \"be going to\"."
+        },
+        {
+          "letter": "B",
+          "text": "is going to be",
+          "is_correct": true,
+          "feedback": "Correct! \"Be going to\" is used for predictions based on present evidence."
+        },
+        {
+          "letter": "C",
+          "text": "is being",
+          "is_correct": false,
+          "feedback": "Incorrect. This describes a temporary behavior or state right now."
+        },
+        {
+          "letter": "D",
+          "text": "will have been",
+          "is_correct": false,
+          "feedback": "Incorrect. This is Future Perfect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando hacemos una predicción basada en algo que podemos ver o percibir en el presente (evidencia), usamos la estructura *be going to*.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W04-environmental-challenges-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W04-environmental-challenges-001-MASTERY-bundle-v6",
+      "statement": "By 2050, many cities in Colombia ________ zero-waste policies to combat pollution.",
+      "context": "Discussing long-term goals for a city.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will implement",
+          "is_correct": false,
+          "feedback": "Incorrect. This just states a future act."
+        },
+        {
+          "letter": "B",
+          "text": "will have implemented",
+          "is_correct": true,
+          "feedback": "Correct! Future Perfect shows an action that will be completed by a certain point in the future."
+        },
+        {
+          "letter": "C",
+          "text": "will be implementing",
+          "is_correct": false,
+          "feedback": "Incorrect. This shows the action in progress, not its completion."
+        },
+        {
+          "letter": "D",
+          "text": "are going to implement",
+          "is_correct": false,
+          "feedback": "Incorrect. This is an intention, but \"By 2050\" usually triggers a Perfect tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos el Futuro Perfecto (*will have implemented*) para indicar que una acción habrá sido completada antes de un momento determinado en el futuro (*By 2050*).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W04-environmental-challenges-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W04-environmental-challenges-001-MASTERY-bundle-v7",
+      "statement": "Which sentence implies that the person has already **made an appointment** or a firm arrangement?",
+      "context": "Distinguishing between future forms.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I will visit the recycling plant tomorrow.",
+          "is_correct": false,
+          "feedback": "Incorrect. This sounds like a spontaneous decision."
+        },
+        {
+          "letter": "B",
+          "text": "I am going to visit the recycling plant tomorrow.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a plan or intention, but not necessarily a firm arrangement with others."
+        },
+        {
+          "letter": "C",
+          "text": "I am visiting the recycling plant tomorrow morning.",
+          "is_correct": true,
+          "feedback": "Correct! Present Continuous for future indicates a fixed arrangement."
+        },
+        {
+          "letter": "D",
+          "text": "I will be visiting the recycling plant tomorrow.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is more about the ongoing activity during the day."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En el nivel B2, es clave distinguir que el Presente Continuo para el futuro implica que ya se han hecho los arreglos necesarios (como una cita o reserva) con otras personas.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W04-environmental-challenges-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W04-environmental-challenges-001-MASTERY-bundle-v8",
+      "statement": "\"The trash bin is full of paper.\"\n\"Don't worry, I ________ it to the recycling center right now.\"",
+      "context": "Understanding the use of \"will\" for spontaneous offers.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will take",
+          "is_correct": true,
+          "feedback": "Correct! \"Will\" is used for spontaneous decisions or offers made at the moment of speaking."
+        },
+        {
+          "letter": "B",
+          "text": "am going to take",
+          "is_correct": false,
+          "feedback": "Incorrect. This would imply you already planned to take it before the person spoke."
+        },
+        {
+          "letter": "C",
+          "text": "take",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple present is not used for spontaneous future offers."
+        },
+        {
+          "letter": "D",
+          "text": "am taking",
+          "is_correct": false,
+          "feedback": "Incorrect. This would mean you are already in the process of taking it."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando tomamos una decisión en el mismo momento en que estamos hablando (una oferta o decisión espontánea), el tiempo correcto es *will*.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W04-environmental-challenges-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W04-environmental-challenges-001-MASTERY-bundle-v9",
+      "statement": "If we continue at this pace, many coastal areas ________ by the end of the century.",
+      "context": "Discussing the consequences of inaction.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will disappear",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple future doesn't emphasize the state by that time."
+        },
+        {
+          "letter": "B",
+          "text": "will have disappeared",
+          "is_correct": true,
+          "feedback": "Correct! Future Perfect emphasizes the completion of the disappearance by the deadline."
+        },
+        {
+          "letter": "C",
+          "text": "will be disappearing",
+          "is_correct": false,
+          "feedback": "Incorrect. This shows the process, but the context usually focuses on the result by the deadline."
+        },
+        {
+          "letter": "D",
+          "text": "are disappearing",
+          "is_correct": false,
+          "feedback": "Incorrect. This is happening now, but doesn't project the finality by the end of the century."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al proyectar resultados finales en una fecha lejana como \"el fin del siglo\", el Futuro Perfecto es la forma más precisa para hablar de lo que ya habrá ocurrido para entonces.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W04-environmental-challenges-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W04-environmental-challenges-001-MASTERY-bundle-v10",
+      "statement": "Identify the error in this speech about the future:\n\"Next week, our community **will hold** (A) a cleaning event. We **are going to collect** (B) plastic from the river. By the time the event ends, we **will be collecting** (C) tons of waste. I'm sure it **will be** (D) a success.\"",
+      "context": "Finding an error in a future-oriented text.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will hold",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct for a future event."
+        },
+        {
+          "letter": "B",
+          "text": "are going to collect",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct for an intention."
+        },
+        {
+          "letter": "C",
+          "text": "will be collecting",
+          "is_correct": true,
+          "feedback": "Correct! This should be Future Perfect (*will have collected*) because it refers to the total amount of waste accumulated by the end of the event."
+        },
+        {
+          "letter": "D",
+          "text": "will be",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct for a prediction/opinion."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Futuro Continuo (*will be collecting*) describiría la acción mientras ocurre. Como el contexto habla del resultado al finalizar el evento, se requiere el Futuro Perfecto (*will have collected*).\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-9-2026-W04-environmental-challenges-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W04-environmental-challenges-001-MASTERY-bundle-v11",
+      "statement": "A: \"Will you be using the bike this afternoon?\"\nB: \"Why do you ask?\"\nA: \"I need to go to the park.\"\n\nWhat is the nuance of speaker A's first question?",
+      "context": "Comparing nuances of future continuous.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A is demanding the bike.",
+          "is_correct": false,
+          "feedback": "Incorrect. The question is polite."
+        },
+        {
+          "letter": "B",
+          "text": "A is politely asking about B's plans to see if the bike is free.",
+          "is_correct": true,
+          "feedback": "Correct! Future Continuous is often used to ask about people's plans politely."
+        },
+        {
+          "letter": "C",
+          "text": "A is predicting that B will use the bike.",
+          "is_correct": false,
+          "feedback": "Incorrect. It's a question, not a prediction."
+        },
+        {
+          "letter": "D",
+          "text": "A is ordering B to use the bike.",
+          "is_correct": false,
+          "feedback": "Incorrect. Not an imperative."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el nivel B2, se enseña que el Futuro Continuo puede usarse para preguntar por los planes de alguien de una manera educada y menos directa que el \"Are you going to...?\", a menudo para pedir un favor.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-9-2026-W04-environmental-challenges-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W04-environmental-challenges-001-MASTERY-bundle-v12",
+      "statement": "Choose the sentence that best completes this vision:\n\"In the city of the future, residents ________ in smart homes that consume minimal energy. By then, fossil fuels ________ a thing of the past.\"",
+      "context": "Choosing the best future projection for a sustainable city.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will live / will be",
+          "is_correct": false,
+          "feedback": "Incorrect. Doesn't capture the ongoing state and the completion."
+        },
+        {
+          "letter": "B",
+          "text": "will be living / will have become",
+          "is_correct": true,
+          "feedback": "Correct! Future Continuous for the lifestyle and Future Perfect for the transition."
+        },
+        {
+          "letter": "C",
+          "text": "live / become",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple present is not for visioning."
+        },
+        {
+          "letter": "D",
+          "text": "are going to live / are going to become",
+          "is_correct": false,
+          "feedback": "Incorrect. Too informal for a formal vision/projection."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para una visión de futuro, el Futuro Continuo describe cómo será la vida en ese momento (*will be living*), mientras que el Futuro Perfecto describe los cambios que ya se habrán consolidado (*will have become*).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-9-2026-W04-environmental-challenges-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

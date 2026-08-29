@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-17-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.896Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W17-past-simple-vs-continuous-001-v1",
+      "statement": "Which word is most commonly used to introduce the short action that interrupts a longer background action?",
+      "context": "Identifying the typical connector for interrupted actions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "While",
+          "is_correct": false,
+          "feedback": "Incorrect. \"While\" is usually followed by the long action (Continuous)."
+        },
+        {
+          "letter": "B",
+          "text": "When",
+          "is_correct": true,
+          "feedback": "Correct! \"When\" is typically followed by the short action (Simple)."
+        },
+        {
+          "letter": "C",
+          "text": "Then",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a sequence connector."
+        },
+        {
+          "letter": "D",
+          "text": "If",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a conditional connector."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies the grammatical function of the connector \"when\" in past narratives.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W17-past-simple-vs-continuous-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W17-past-simple-vs-continuous-002-v1",
+      "statement": "Which tense is used to describe a background action that was in progress?",
+      "context": "Identifying the tense for background actions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Past Simple",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for completed or short actions."
+        },
+        {
+          "letter": "B",
+          "text": "Past Continuous",
+          "is_correct": true,
+          "feedback": "Correct! This tense describes actions that were in progress."
+        },
+        {
+          "letter": "C",
+          "text": "Present Continuous",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for actions happening now."
+        },
+        {
+          "letter": "D",
+          "text": "Future Continuous",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to the future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student remembers the primary function of the Past Continuous tense.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W17-past-simple-vs-continuous-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W17-past-simple-vs-continuous-003-v1",
+      "statement": "Complete: \"I ________ (read) a book when the phone ________ (ring).\"",
+      "context": "A simple interrupted action.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "read / rang",
+          "is_correct": false,
+          "feedback": "Incorrect. Both are simple past; doesn't show the background/interruption relationship."
+        },
+        {
+          "letter": "B",
+          "text": "was reading / rang",
+          "is_correct": true,
+          "feedback": "Correct! \"Was reading\" is the background action, and \"rang\" is the interruption."
+        },
+        {
+          "letter": "C",
+          "text": "reading / ringed",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing \"was\" and \"ring\" is irregular."
+        },
+        {
+          "letter": "D",
+          "text": "readed / was ringing",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Read\" is irregular and the tenses are reversed."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands how to combine both tenses to describe an interruption.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W17-past-simple-vs-continuous-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W17-past-simple-vs-continuous-004-v1",
+      "statement": "Which sentence uses \"while\" correctly?",
+      "context": "Using \"while\" for simultaneous or background actions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "While I cooked, my mom called.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"While\" is normally followed by the continuous form."
+        },
+        {
+          "letter": "B",
+          "text": "While I was cooking, my mom called.",
+          "is_correct": true,
+          "feedback": "Correct! \"While\" introduces the longer background action."
+        },
+        {
+          "letter": "C",
+          "text": "I was cooking while my mom called.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"While\" should go with the continuous part."
+        },
+        {
+          "letter": "D",
+          "text": "While I was cooking, my mom was call.",
+          "is_correct": false,
+          "feedback": "Incorrect. The second part should be Simple Past or another Continuous."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the specific syntactic placement of \"while\" in a compound past sentence.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W17-past-simple-vs-continuous-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W17-past-simple-vs-continuous-005-v1",
+      "statement": "\"We ________ (walk) in the park when we ________ (see) a famous actor.\"",
+      "context": "A surprise event in a Colombian park.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "walked / saw",
+          "is_correct": false,
+          "feedback": "Incorrect. Doesn't emphasize the progress of the first action."
+        },
+        {
+          "letter": "B",
+          "text": "was walking / saw",
+          "is_correct": false,
+          "feedback": "Incorrect. \"We\" requires \"were\"."
+        },
+        {
+          "letter": "C",
+          "text": "were walking / saw",
+          "is_correct": true,
+          "feedback": "Correct! \"Were walking\" (long action) was interrupted by \"saw\" (short event)."
+        },
+        {
+          "letter": "D",
+          "text": "were walking / see",
+          "is_correct": false,
+          "feedback": "Incorrect. \"See\" must be in the past."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student applies subject-verb agreement and the contrast between long and short past actions.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W17-past-simple-vs-continuous-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W17-past-simple-vs-continuous-006-v1",
+      "statement": "What were the two background actions happening before the power went out?",
+      "context": "A student's experience during a blackout.\n\"I was doing my homework while my sister was watching TV. Suddenly, the power went out. I looked for a candle and my sister stopped watching TV.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Looking for a candle and stopping TV.",
+          "is_correct": false,
+          "feedback": "Incorrect. These happened AFTER the blackout."
+        },
+        {
+          "letter": "B",
+          "text": "Doing homework and watching TV.",
+          "is_correct": true,
+          "feedback": "Correct! These were the actions in progress when the interruption occurred."
+        },
+        {
+          "letter": "C",
+          "text": "Going out and reading.",
+          "is_correct": false,
+          "feedback": "Incorrect. Not mentioned."
+        },
+        {
+          "letter": "D",
+          "text": "Sleeping and cooking.",
+          "is_correct": false,
+          "feedback": "Incorrect. Not mentioned."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies reading strategies to identify the background actions in a narrative using the Past Continuous.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W17-past-simple-vs-continuous-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W17-past-simple-vs-continuous-007-v1",
+      "statement": "\"The driver ________ (not / look) at the road when the cat ________ (run) in front of the car.\"",
+      "context": "An accident scenario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "didn't look / ran",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs the continuous to show the lack of attention was an ongoing state."
+        },
+        {
+          "letter": "B",
+          "text": "wasn't looking / ran",
+          "is_correct": true,
+          "feedback": "Correct! \"Wasn't looking\" (negative background state) and \"ran\" (interruption)."
+        },
+        {
+          "letter": "C",
+          "text": "wasn't looking / was running",
+          "is_correct": false,
+          "feedback": "Incorrect. This would mean two simultaneous actions, but \"when\" signals an interruption."
+        },
+        {
+          "letter": "D",
+          "text": "didn't looking / runned",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatical and spelling errors."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies the negative form of the Past Continuous contrasted with an irregular Past Simple verb.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W17-past-simple-vs-continuous-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W17-past-simple-vs-continuous-008-v1",
+      "statement": "Which sentence is LOGICALLY correct?",
+      "context": "Analyzing logical consistency.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I was falling asleep when the movie started.",
+          "is_correct": false,
+          "feedback": "Incorrect. Usually, starting a movie makes you wake up or stay awake, though possible, option B is more standard."
+        },
+        {
+          "letter": "B",
+          "text": "I fell asleep while I was watching the movie.",
+          "is_correct": true,
+          "feedback": "Correct! The long action is watching, and falling asleep is the sudden interruption."
+        },
+        {
+          "letter": "C",
+          "text": "I was watching the movie when I was falling asleep.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Falling asleep\" is usually seen as the short point of transition here."
+        },
+        {
+          "letter": "D",
+          "text": "While I fell asleep, I was watching the movie.",
+          "is_correct": false,
+          "feedback": "Incorrect. Reverses the use of \"while\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes the logical relationship between events to determine which should be in the continuous and which in the simple tense.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W17-past-simple-vs-continuous-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W17-past-simple-vs-continuous-009-v1",
+      "statement": "What happened first in the sequence?",
+      "context": "Analyzing a complex past scene.\n\"While the kids were playing in the yard, it started to rain. They quickly ran inside. Their mother was already waiting for them with towels.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It started to rain.",
+          "is_correct": false,
+          "feedback": "Incorrect. This happened while they were already playing."
+        },
+        {
+          "letter": "B",
+          "text": "The kids were playing.",
+          "is_correct": true,
+          "feedback": "Correct! This was the action already in progress (background) before the rain started."
+        },
+        {
+          "letter": "C",
+          "text": "They ran inside.",
+          "is_correct": false,
+          "feedback": "Incorrect. This was a reaction to the rain."
+        },
+        {
+          "letter": "D",
+          "text": "They used the towels.",
+          "is_correct": false,
+          "feedback": "Incorrect. This was the final step."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes temporal priority in a narrative containing both continuous and simple past events.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W17-past-simple-vs-continuous-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W17-past-simple-vs-continuous-010-v1",
+      "statement": "Choose the evaluation that best explains the situation.",
+      "context": "Evaluating a summary of a past experience.\n\"We were hiking in the Cocora Valley when we realized we didn't have our camera. We were very disappointed because the wax palms were looking beautiful in the fog.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They forgot the camera after the hike.",
+          "is_correct": false,
+          "feedback": "Incorrect. They realized it during the hike."
+        },
+        {
+          "letter": "B",
+          "text": "They didn't like the wax palms.",
+          "is_correct": false,
+          "feedback": "Incorrect. They liked them and were disappointed they couldn't take photos."
+        },
+        {
+          "letter": "C",
+          "text": "An unexpected realization interrupted their enjoyment of a scenic activity.",
+          "is_correct": true,
+          "feedback": "Correct! \"Realized\" (short interruption) happened while \"hiking\" (enjoyable long activity)."
+        },
+        {
+          "letter": "D",
+          "text": "They took many photos of the fog.",
+          "is_correct": false,
+          "feedback": "Incorrect. They didn't have a camera."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student evaluates the interplay between the background action and the interrupting realization to identify a comprehensive summary.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W17-past-simple-vs-continuous-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

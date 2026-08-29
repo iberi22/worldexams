@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "es",
+    "pack_id": "es-week-5-grade-11-subject-lengua",
+    "generated_at": "2026-08-09T11:31:06.063Z"
+  },
+  "questions": [
+    {
+      "id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v1",
+      "statement": "¿Qué rasgos caracterizan de manera primordial a una 'descripción técnica u objetiva' frente a una 'literaria u subjetiva'?",
+      "context": "Un profesor de Lengua en un instituto de Toledo explica a sus alumnos cómo clasificar las descripciones atendiendo a la intención del emisor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La descripción técnica prioriza la precisión léxica, el lenguaje denotativo y la función representativa; mientras que la literaria busca una finalidad estética combinando la subjetividad y el lenguaje connotativo.",
+          "is_correct": true,
+          "feedback": "Correcto. La descripción técnica busca dar información unívoca y denotativa (objetividad). La literaria busca deleite estético y valoraciones subjetivas (connotación)."
+        },
+        {
+          "letter": "B",
+          "text": "La descripción técnica prescinde del abecedario escrito y se limita a diagramas mudos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sirve de palabras del código idiomático pero seleccionando un léxico denotativo técnico."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción literaria es de uso obligatorio en las recetas del Ministerio de Sanidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sanidad prescribe prospectos y descripciones puramente objetivas e instructivas, no poéticas."
+        },
+        {
+          "letter": "D",
+          "text": "Son idénticas y la gramática de la RAE prohíbe de forma terminante clasificarlas de forma separada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tipología textual y la retórica distinguen ambos discursos descriptivos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La descripción objetiva busca la precisión, neutralidad e informar sobre las características de algo (función referencial). La descriptiva subjetiva proyecta la visión emotiva y estética del emisor (funciones expresiva y poética).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v2",
+      "statement": "¿Qué clase de descripción se está realizando en este fragmento al centrarse exclusivamente en la anatomía externa de un personaje?",
+      "context": "En un fragmento de una novela realista ambientada en Soria, se leen los detalles de la nariz aguileña, el mentón prominente y los cabellos de plata del coronel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prosopografía, que consiste en describir los rasgos físicos, fisionomía y vestimenta externa de un ser.",
+          "is_correct": true,
+          "feedback": "Correcto. La descripción de los rasgos externos, físicos y fisionómicos del cuerpo se denomina prosopografía."
+        },
+        {
+          "letter": "B",
+          "text": "Etopeya, que consiste en describir las virtudes morales, temperamento y psicología del coronel.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La etopeya se centra en el fuero interno (moral, carácter, virtudes), ausente en este fragmento puramente físico."
+        },
+        {
+          "letter": "C",
+          "text": "Topografía, puesto que se describe detalladamente la geografía del Duero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La topografía describe paisajes y lugares de la geografía, no rostros de personajes de ficción."
+        },
+        {
+          "letter": "D",
+          "text": "Caricatura bilingüe gallega que deforma los sustantivos propios de Toledo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay deformación hiperbólica (caricatura) ni cambios de código bilingües."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La prosopografía describe los rasgos físicos exteriores de una persona, animal u objeto personificado, diferenciándose de la etopeya (carácter moral) y del retrato (fusión de ambos).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo se define técnicamente esta descripción integradora de físico y moral?",
+      "context": "Al analizar la obra de Miguel Delibes en Valladolid, se halla un pasaje donde se detalla simultáneamente el andar encorvado de un campesino junto con su carácter bondadoso y su melancolía existencial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Retrato, que es una descripción completa que fusiona y equilibra los rasgos fisionómicos (físicos) y los morales (psicología o carácter) de un personaje.",
+          "is_correct": true,
+          "feedback": "Correcto. El retrato literario combina de forma armónica la prosopografía (físico) y la etopeya (carácter moral) de un individuo."
+        },
+        {
+          "letter": "B",
+          "text": "Caricatura satírica, porque ridiculiza e insulta al campesino de forma exagerada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe con bondad y realismo equilibrado, sin deformación grotesca o humorística (caricatura)."
+        },
+        {
+          "letter": "C",
+          "text": "Autodictado fático de bajo nivel de éxito de Doñana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No guarda relación con la comunicación fática del canal; es una técnica de caracterización de personajes en prosa."
+        },
+        {
+          "letter": "D",
+          "text": "Topografía urbana de la Puerta del Sol de Madrid.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Trata de un ser humano y no de la geografía de plazas o calles metropolitanas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El retrato es una de las técnicas de descripción de personajes más rica, al ofrecer una visión de conjunto que enlaza la apariencia física externa con la personalidad e idiosincrasia del personaje.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v4",
+      "statement": "¿Qué término de tipología textual describe la pintura escrita de este paisaje natural?",
+      "context": "Un novelista de Barcelona describe con meticulosa precisión el relieve de una cordillera, la luz de la tarde filtrándose en el valle y la posición de los pinos en la ladera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Topografía, que es la descripción detallada de un paisaje, relieve, lugar o espacio geográfico.",
+          "is_correct": true,
+          "feedback": "Correcto. La topografía literaria es la descripción verbal de lugares, relieves geográficos y espacios físicos de la acción."
+        },
+        {
+          "letter": "B",
+          "text": "Etopeya, porque explica los rasgos psicológicos de los pinos y la cordillera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La etopeya se reserva para la caracterización psicológica de personas, careciendo de sentido para relieves inertes."
+        },
+        {
+          "letter": "C",
+          "text": "Prosopografía, que estudia los ropajes de los alpinistas de Barcelona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe el relieve geográfico y no la anatomía ni ropajes de excursionistas humanos."
+        },
+        {
+          "letter": "D",
+          "text": "Caricatura modernista que suprime los adjetivos calificativos de la geografía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descripción de un paisaje requiere de forma indispensable el uso de abundantes adjetivos calificativos y epítetos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La topografía (en literatura) consiste en la descripción detallada de un espacio físico, paisaje o entorno geográfico, contribuyendo a situar el ambiente de la acción narrativa.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.83,
+      "bundle_id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v5",
+      "statement": "¿Qué clase de descripción de personaje predomina de forma absoluta en las líneas citadas?",
+      "context": "En un pasaje literario de Benito Pérez Galdós se describe a un clérigo: 'Era de una modestia ejemplar, su paciencia no se agotaba jamás ante los lamentos de los pobres y poseía una rectitud de espíritu indomable que conmovía a todo Madrid'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Etopeya, porque se centra exclusivamente en el carácter moral, psicología y virtudes del clérigo.",
+          "is_correct": true,
+          "feedback": "Correcto. El fragmento detalla virtudes del alma, la rectitud de espíritu y la psicología moral del personaje, constituyendo una etopeya."
+        },
+        {
+          "letter": "B",
+          "text": "Prosopografía, pues detalla la sotana negra y los zapatos rotos del clérigo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se hace mención de su físico o vestimenta exterior; se describe su carácter moral."
+        },
+        {
+          "letter": "C",
+          "text": "Retrato, ya que detalla con idéntico espacio de palabras la nariz aguileña del cura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para ser un retrato completo exigiría la conjunción de rasgos físicos, ausentes en estas líneas."
+        },
+        {
+          "letter": "D",
+          "text": "Topografía de la catedral de la Almudena de Madrid.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe las virtudes humanas de una persona y no la arquitectura de un templo religioso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La etopeya es la descripción literaria de las cualidades internas, espirituales, psicológicas, morales o de comportamiento que definen a un personaje.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.79,
+      "bundle_id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v6",
+      "statement": "¿Qué tipo de técnica descriptiva se está utilizando para caracterizar al ministro?",
+      "context": "En una obra del creador del esperpento, Valle-Inclán, se describe a un ministro madrileño: 'Tenía un labio colgante de babosa y la nariz de pico de loro. Hablaba con ruidos secos de carraca rota'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Caricatura satírica, consistente en deformar e hiperbolizar de manera grotesca u humorística los rasgos de una persona.",
+          "is_correct": true,
+          "feedback": "Correcto. La caricatura literaria deforma intencionadamente los rasgos físicos de la persona mediante comparaciones animales o ridículas ('pico de loro', 'babosa', 'carraca rota')."
+        },
+        {
+          "letter": "B",
+          "text": "Prosopografía laudatoria que idealiza la suprema belleza del gobernante de España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una prosopografía laudatoria ennoblecería la belleza; este fragmento es grotesco y satírico."
+        },
+        {
+          "letter": "C",
+          "text": "Etopeya del alma pura y santa del ministro de Valle-Inclán.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe rasgos externos animales y deformados, no las virtudes o virtudes psicológicas del alma."
+        },
+        {
+          "letter": "D",
+          "text": "Descripción técnica objetiva apta para un informe forense del Ayuntamiento de Madrid.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un informe forense usaría terminología denotativa científica y neutra, no metáforas satíricas esperpénticas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La caricatura es una técnica descriptiva subjetiva que deforma, exagera o ridiculiza los rasgos físicos y morales de los personajes, recurso que Valle-Inclán llevó al extremo con su técnica dramática del esperpento.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.77,
+      "bundle_id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v7",
+      "statement": "¿Qué clase de categoría gramatical es la que soporta la carga descriptiva en las frases subrayadas por el alumno y cómo actúa en el texto?",
+      "context": "Un estudiante de bachillerato en Salamanca analiza los recursos estilísticos de un fragmento descriptivo y subraya las expresiones: 'casa solariega', 'luz crepuscular', 'viento helador' y 'silencio espeso'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adjetivos calificativos, que modifican al sustantivo aportándole cualidades o propiedades específicas que perfilan la imagen mental descrita.",
+          "is_correct": true,
+          "feedback": "Correcto. El adjetivo calificativo ('solariega', 'crepuscular', 'helador', 'espeso') es la categoría gramatical primordial para atribuir cualidades en las descripciones literarias."
+        },
+        {
+          "letter": "B",
+          "text": "Verbos de acción conjugados en pretérito perfecto simple de indicativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las palabras son adjetivos, no verbos dinámicos de movimiento."
+        },
+        {
+          "letter": "C",
+          "text": "Pronombres átonos de acusativo loístas típicos de Soria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay pronombres átonos ('lo', 'le', 'la') en las frases citadas; son adjetivos de régimen nominal."
+        },
+        {
+          "letter": "D",
+          "text": "Adverbios de negación que anulan la existencia de los sustantivos medievales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los adjetivos calificativos atribuyen cualidades positivas o negativas, sin anular gramaticalmente al sustantivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los adjetivos calificativos (y los sintagmas preposicionales con función de complemento del nombre) son las herramientas morfosintácticas fundamentales en la tipología descriptiva, permitiendo matizar e individualizar los objetos descritos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.81,
+      "bundle_id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v8",
+      "statement": "¿Qué técnica de descripción física de personaje se evidencia principalmente en el texto?",
+      "context": "Un escritor de Sevilla compone un microrrelato y describe a una gitana: 'Tenía los ojos negros como el carbón encendido, el cabello espeso atado con cintas rojas de seda y los labios gruesos de color cereza madura'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prosopografía, ya que retrata detalladamente rasgos anatómicos y elementos ornamentales externos del personaje.",
+          "is_correct": true,
+          "feedback": "Correcto. El fragmento se limita a describir de forma pormenorizada los ojos, el pelo y los labios de la mujer, constituyendo una prosopografía literaria con recursos connotativos."
+        },
+        {
+          "letter": "B",
+          "text": "Etopeya moral, porque describe la astucia y bondad de la gitana en Sevilla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay mención de su moral, virtudes, vicios o temperamento psicológico en la cita literaria."
+        },
+        {
+          "letter": "C",
+          "text": "Retrato forense objetivo exento de metáforas literarias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uso de recursos figurados ('ojos negros como el carbón', 'labios de color cereza') es altamente subjetivo y estético, impropio de un informe forense frío."
+        },
+        {
+          "letter": "D",
+          "text": "Topografía urbana de la catedral de Sevilla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la descripción física de una mujer de ficción y no un paisaje de calles o monumentos urbanos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La prosopografía se enfoca en los aspectos fisionómicos externos de la persona (rostro, fisonomía, vestimenta). Al usar figuras literarias, se clasifica como prosopografía literaria (subjetiva).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v9",
+      "statement": "Analiza la función gramatical y sintáctica de los verbos subrayados (1, 2, 3) en este fragmento descriptivo.",
+      "context": "Un fragmento descriptivo de Zaragoza reza: 'La casona era (1) de piedra gris. El tejado parecía (2) a punto de vencerse, y en el patio los rosales estaban (3) marchitos bajo el sol de verano'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Verbos copulativos o semicopulativos, que sirven de enlace entre el sujeto y su atributo, expresando estados o propiedades estáticas.",
+          "is_correct": true,
+          "feedback": "Correcto. Los verbos 'ser', 'estar' y 'parecer' son copulativos y sirven de enlace estático para atribuir cualidades en la descripción de ambientes o cosas."
+        },
+        {
+          "letter": "B",
+          "text": "Verbos transitivos de acción dinámica que aceleran de forma desmedida el ritmo narrativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son verbos de estado estáticos, contrarios a la acción dinámica de los verbos transitivos de movimiento."
+        },
+        {
+          "letter": "C",
+          "text": "Formas verbales que exigen de forma obligatoria un dequeísmo de objeto indirecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de estos verbos copulativos rige ni se asocia con el dequeísmo en la lengua española."
+        },
+        {
+          "letter": "D",
+          "text": "Pronombres átonos con valor adverbial que omiten el sujeto elíptico de Zaragoza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son verbos copulativos plenamente conjugados que concuerdan en número y persona con sus sujetos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tipología descriptiva se asocia con la quietud y el estatismo. Los verbos copulativos ('ser', 'estar', 'parecer') son idóneos para conectar el sujeto con los adjetivos atributivos que expresan sus cualidades.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v10",
+      "statement": "¿Qué figura retórica o recurso semántico de la descripción subjetiva se manifiesta de manera prioritaria en la frase del poeta?",
+      "context": "Un poeta en Valencia escribe sobre el otoño: 'Las hojas caídas son alfombras de oro viejo que crujen con pereza al pisarlas'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metáfora, al identificar de forma directa las hojas caídas (término real) con alfombras de oro viejo (término imaginario) en base a su color y disposición.",
+          "is_correct": true,
+          "feedback": "Correcto. La metáfora ('las hojas son alfombras de oro') identifica dos términos para embellecer y dotar de plasticidad visual a la descripción literaria de las hojas secas."
+        },
+        {
+          "letter": "B",
+          "text": "Comparación explícita mediante el uso obligatorio del nexo subordinante 'como'.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El poema dice 'son' (metáfora directa de identidad) y no 'son como' (comparación explicativa de semejanza con nexo)."
+        },
+        {
+          "letter": "C",
+          "text": "Laísmo de cosa andaluz que altera la concordancia gramatical del género.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un recurso retórico semántico literario independiente de laísmo o loísmo de pronombres."
+        },
+        {
+          "letter": "D",
+          "text": "Un tecnicismo científico de botánica forestal de la LOMLOE.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje es figurado y estético, contrario a los tecnicismos descriptivos de un manual de botánica científica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La descripción literaria utiliza habitualmente figuras retóricas como la metáfora, la comparación o la personificación para transmitir sensaciones y sugerir significados connotativos que despierten la imaginación del lector.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v11",
+      "statement": "¿Cómo se define la diferencia estructural entre una 'descripción estática' y una 'descripción dinámica'?",
+      "context": "En una clase de bachillerato en Barcelona, se compara un fragmento donde el paisaje permanece inmóvil con otro donde el narrador va describiendo un tren en marcha a gran velocidad desde un coche en movimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La descripción estática capta la realidad detenida como una fotografía; mientras que la dinámica describe una realidad en movimiento o en transformación temporal (efecto cinematográfico).",
+          "is_correct": true,
+          "feedback": "Correcto. La descripción estática detiene el tiempo. La dinámica retrata objetos, procesos o paisajes en movimiento o transformación, utilizando verbos dinámicos."
+        },
+        {
+          "letter": "B",
+          "text": "La descripción estática prohíbe el uso de sustantivos comunes y la dinámica suprime los verbos copulativos de Aragón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existen tales prohibiciones morfológicas aberrantes en la lengua española castellana."
+        },
+        {
+          "letter": "C",
+          "text": "La estática es de uso exclusivo en la literatura gallega y la dinámica se reserva para Toledo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas técnicas descriptivas se utilizan universalmente en cualquier variedad territorial y estilo literario de España."
+        },
+        {
+          "letter": "D",
+          "text": "Se diferencian porque la dinámica incurre obligatoriamente en dequeísmo y queísmo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna de estas técnicas estructurales se asocia con desviaciones del régimen preposicional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El punto de vista en la descripción puede ser estático (cuando tanto el observador como el objeto están inmóviles) o dinámico (cuando el sujeto observador o el objeto se mueven, dotando de dinamismo y cambio a la escena).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.63,
+      "bundle_id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v12",
+      "statement": "Analiza sintáctica y estilísticamente la función de los adjetivos 'escarpada' y 'feroces' en relación con los sustantivos a los que modifican en esta descripción de ambiente.",
+      "context": "En un examen de sintaxis en Madrid, se analiza la oración: 'El viejo faro de la escarpada bahía resistió los feroces embates del mar'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Funcionan como epítetos o adjetivos explicativos, antepuestos al sustantivo, que destacan una cualidad intrínseca o lógica con valor estético y expresivo en el discurso descriptivo.",
+          "is_correct": true,
+          "feedback": "Correcto. Adjetivos antepuestos como 'escarpada' o 'feroces' actúan como explicativos o epítetos, resaltando cualidades lógicas o estéticas de los sustantivos, típicos de la descripción literaria."
+        },
+        {
+          "letter": "B",
+          "text": "Son adjetivos especificativos obligatorios que dividen la bahía en trozos matemáticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los especificativos suelen ir pospuestos y restringen el significado del nombre ('faro viejo' frente a 'faro nuevo'); los antepuestos son explicativos/epítetos."
+        },
+        {
+          "letter": "C",
+          "text": "Son complementos de régimen verbal que exigen de forma terminante la preposición 'de'.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Modifican directamente a los sustantivos como adyacentes de un sintagma nominal, no a un núcleo verbal."
+        },
+        {
+          "letter": "D",
+          "text": "Representan un laísmo pronominal involuntario de la escarpada bahía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son adjetivos de régimen adyacente nominal, sin relación con pronombres átonos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En las descripciones, los adjetivos antepuestos de carácter explicativo o epítetos ('feroz tormenta', 'escarpada roca') buscan enfatizar rasgos expresivos y valorativos, diferenciándose de los adjetivos especificativos pospuestos ('faro costero') que restringen objetivamente la realidad del nombre.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v13",
+      "statement": "Analiza las diferencias prioritarias de estilo y función comunicativa entre ambos discursos descriptivos.",
+      "context": "Se contrastan dos textos sobre una rosa en Valencia: Texto A (definición botánica con tépalos, ovario ínfero y espinas) y Texto B (poema lírico que describe los pétalos como lágrimas de sangre perfumadas).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto A es una descripción científica y denotativa (función representativa) dirigida a informar con rigor; el Texto B es una descripción subjetiva y poética (función poética) dirigida a evocar belleza y sentimientos.",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto A busca informar con objetividad (denotativo/referencial); el Texto B busca conmover mediante recursos estilísticos subjetivos (connotativo/estético)."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto A está escrito en correcto español de España y el Texto B está en latín medieval prohibido por la RAE.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos textos se hallan redactados en castellano de uso estándar en España."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto B es un informe técnico forense de la LOMLOE para la venta de flores en Soria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto B es lírico y artístico, totalmente opuesto al rigor formal de un informe técnico comercial."
+        },
+        {
+          "letter": "D",
+          "text": "Se diferencian porque el Texto A es un loísmo pronominal prohibido por la Constitución de 1978.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos textos tiene relación con las anomalías de pronombres átonos de complemento directo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El fin comunicativo determina las marcas de estilo. La descripción científica o técnica prioriza la precisión denotativa (Texto A), mientras que la literaria utiliza la connotación y la creatividad retórica (Texto B) para implicar emotivamente al receptor.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.61,
+      "bundle_id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v14",
+      "statement": "¿Qué tipo de técnica de retrato y qué intencionalidad se manifiesta en este fragmento descriptivo?",
+      "context": "En un discurso laudatorio de una entrega de premios en Madrid, se describe al galardonado como 'un faro de sabiduría inagotable, dotado de una elegancia innata, que con su humilde ejemplo guía el rumbo científico de nuestro país'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Retrato idealizado o laudatorio, cuya intención es ensalzar las virtudes físicas y morales del personaje mediante el uso de metáforas positivas e hipérboles elogiosas.",
+          "is_correct": true,
+          "feedback": "Correcto. El retrato laudatorio o idealización se enfoca de forma selectiva en los rasgos meritorios y virtuosos del retratado, ensalzándolos con figuras literarias."
+        },
+        {
+          "letter": "B",
+          "text": "Retrato satírico esperpéntico, que ridiculiza de manera despiadada la elegancia del científico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay sátira, deformación o burla grotesca en las palabras dedicadas al galardonado."
+        },
+        {
+          "letter": "C",
+          "text": "Topografía del espacio arquitectónico donde se entregan los premios de España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se describe a un ser humano destacado (científico) y no la geografía o arquitectura del local del evento."
+        },
+        {
+          "letter": "D",
+          "text": "Autoretrato dramático en primera persona del singular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Está redactado en tercera persona por un presentador u emisor ajeno, no por el propio científico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El retrato literario puede orientarse según la intención del autor: laudatorio o idealizado (busca el elogio y ensalzamiento), satírico o caricaturesco (busca la burla mediante exageraciones grotescas) o realista (busca reflejar fielmente virtudes y defectos).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v15",
+      "statement": "Analiza las figuras literarias y recursos retóricos aplicados en esta descripción subjetiva del objeto inanimado.",
+      "context": "En un texto vanguardista de Ramón Gómez de la Serna se describe una máquina de escribir: 'Sus teclas son dientes negros que ríen a carcajadas metálicas sobre el folio en blanco de papel'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Personificación y metáfora, que humanizan la máquina al atribuirle la risa y asocian visualmente las teclas con dientes negros.",
+          "is_correct": true,
+          "feedback": "Correcto. 'Dientes que ríen a carcajadas' es una personificación de la máquina asociada a una metáfora visual de las teclas negras circulares."
+        },
+        {
+          "letter": "B",
+          "text": "Dequeísmo de objeto indirecto, provocado por omitir la preposición 'de' antes del folio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento es sintácticamente impecable; no hay ninguna elisión u uso inapropiado de preposiciones."
+        },
+        {
+          "letter": "C",
+          "text": "Definición científica forense avalada de forma unánime por el Ayuntamiento de Madrid.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un texto artístico y humorístico vanguardista (greguería), totalmente ajeno a un manual científico industrial de oficina."
+        },
+        {
+          "letter": "D",
+          "text": "Seseo de las teclas que neutraliza la pronunciación de los fonemas de Toledo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las teclas no son fonemas que realicen neutralizaciones dialectales sibilantes de ceceo o seseo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La literatura de vanguardia humaniza los objetos (personificación) y los redefine mediante metáforas lúdicas e ingeniosas, rompiendo con las descripciones utilitarias tradicionales de los objetos de oficina.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.59,
+      "bundle_id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v16",
+      "statement": "¿Qué criterio de ordenación espacial ha elegido el escritor para estructurar su texto descriptivo?",
+      "context": "Un novelista de Zaragoza planifica la topografía de una biblioteca antigua. Decide comenzar describiendo el gran pórtico de entrada, pasar luego al pasillo central, detallar a continuación las estanterías de madera de roble de la izquierda y acabar fijando la atención en un viejo manuscrito polvoriento de la mesa del fondo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ordenación espacial de lo general a lo particular (perspectiva de zoom), desplazando la mirada del lector de fuera a dentro y de lo macro a lo micro.",
+          "is_correct": true,
+          "feedback": "Correcto. El novelista utiliza un criterio lógico-espacial de aproximación (de lo general de la biblioteca al detalle micro del manuscrito de la mesa)."
+        },
+        {
+          "letter": "B",
+          "text": "Orden temporal anacrónico basado en prolepsis y analepsis constantes de la Edad Media.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se producen saltos en la cronología histórica de las estanterías; la ordenación es puramente de perspectiva espacial estática."
+        },
+        {
+          "letter": "C",
+          "text": "Ordenación alfabética obligatoria dictada por la RAE para los inventarios de Aragón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden literario de un pasaje descriptivo de ficción es libre y obedece a criterios de perspectiva artística, no alfabéticos de archivo."
+        },
+        {
+          "letter": "D",
+          "text": "Se organiza de lo particular a lo general, empezando por las motas de polvo del manuscrito y acabando en la Puerta de Atocha.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería al revés; aquí empieza por el gran pórtico exterior (lo general) y desciende paulatinamente al manuscrito central (lo particular)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La descripción exige una estructura u orden de mirada para evitar el caos. Los criterios más comunes son espaciales: de lo general a lo particular, de izquierda a derecha, de arriba abajo, o del plano general al primer plano de detalle.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v17",
+      "statement": "Evalúa críticamente la afirmación del crítico en relación con la función de la descripción dentro de la novela realista del siglo XIX.",
+      "context": "Un crítico literario en Madrid lee una novela realista de 500 páginas que contiene minuciosas descripciones de cada mueble, tapicería y cubertería de los salones burgueses. El crítico afirma: 'Estas descripciones fatigan la lectura y representan un lastre estético inútil que entorpece de forma gratuita la intriga de la trama'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es injusta en parte, ya que en el realismo las descripciones minuciosas no son adornos inútiles, sino recursos sociológicos que explican el carácter, clase social e historia de los personajes a través de sus posesiones y entorno.",
+          "is_correct": true,
+          "feedback": "Correcto. En la novela realista, la descripción cumple una función metonímica y sociológica clave: el entorno (la casa, la ropa, los objetos) define psicológicamente e históricamente al personaje que los posee."
+        },
+        {
+          "letter": "B",
+          "text": "Es plenamente correcta, porque la LOMLOE prohíbe escribir descripciones de salones burgueses en todo el territorio de España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La legislación educativa regula la enseñanza secundaria de bachillerato y carece de competencias normativas o censoras sobre novelas literarias históricas."
+        },
+        {
+          "letter": "C",
+          "text": "El crítico tiene razón porque las descripciones del siglo XIX se escribían únicamente para rellenar espacio de imprenta por falta de papel prensa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Respondían a una sólida poética realista de observación científica de la sociedad y caracterización determinista del individuo."
+        },
+        {
+          "letter": "D",
+          "text": "Se justifica porque Pérez Galdós cometía de forma sistemática dequeísmo al detallar las corbatas de Madrid.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La prosa de Galdós destaca por su riqueza estilística, léxica y su estricta corrección formal en el marco del realismo culto de España."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el Realismo y Naturalismo del siglo XIX, la descripción no es un mero retardo del ritmo narrativo, sino una herramienta de caracterización psicológica y social. El medio físico determina al personaje; por tanto, describir su entorno es describir indirectamente su alma y clase social.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.54,
+      "bundle_id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v18",
+      "statement": "Evalúa críticamente la construcción lingüística y los recursos semánticos aplicados en la descripción subjetiva del sonido del piano.",
+      "context": "Un poeta de Barcelona escribe sobre un concierto de piano al aire libre en el parque de la Ciudadela: 'El instrumento desgranaba una melodía áspera de color violeta húmedo, que olía a tierra cansada tras la lluvia'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Emplea de manera excelente la sinestesia, asociando sensaciones de distintos dominios sensoriales (oído, tacto, vista, olfato) para dotar de una profunda sugerencia y lirismo a la descripción musical.",
+          "is_correct": true,
+          "feedback": "Correcto. La sinestesia consiste en entrecruzar sensaciones de distintos sentidos (oír un color, oler una melodía). Es un recurso descriptivo subjetivo que potencia la sugerencia lírica."
+        },
+        {
+          "letter": "B",
+          "text": "Comete un grave error sintáctico al atribuirle color e olor al sonido, lo cual contraviene las leyes de la física óptica de la RAE.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La retórica y la literatura utilizan de forma legítima e histórica el lenguaje figurado y la sinestesia, al margen de las leyes literales de la física."
+        },
+        {
+          "letter": "C",
+          "text": "Incurre en un loísmo pronominal involuntario de la melodía violeta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ninguna confusión pronominal átona de complemento directo en el pasaje lírico."
+        },
+        {
+          "letter": "D",
+          "text": "Es un tratado de botánica forestal que detalla las flores de color violeta de Barcelona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un texto poético que describe de manera subjetiva una vivencia musical, no un manual científico botánico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La sinestesia es una figura retórica sumamente eficaz en la tipología descriptiva literaria. Permite fundir sensaciones físicas opuestas (oído, vista, olfato, tacto) para evocar atmósferas y evocar estados emocionales complejos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.51,
+      "bundle_id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v19",
+      "statement": "Evalúa críticamente la afirmación del estudiante a partir del concepto estético de la caricatura y el esperpento en la España del siglo XX.",
+      "context": "Un estudiante de selectividad en Sevilla analiza una escena de 'Luces de bohemia' de Valle-Inclán y afirma: 'La descripción del callejón oscuro madrileño es defectuosa porque usa términos grotescos de muñecos y gatos muertos, perdiendo la dignidad del realismo clásico'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es errónea, ya que Valle-Inclán deforma intencionadamente la descripción mediante el esperpento para reflejar de forma crítica y grotesca la decadencia social y política de la España de su tiempo.",
+          "is_correct": true,
+          "feedback": "Correcto. El esperpento de Valle-Inclán deforma de manera sistemática y grotesca la realidad para denunciar satíricamente la injusticia social y la miseria moral española, siendo un recurso descriptivo deliberado y brillante."
+        },
+        {
+          "letter": "B",
+          "text": "El alumno tiene razón, ya que la RAE sanciona con penas de cárcel ortográfica a los autores que no retraten los callejones de Madrid con absoluta belleza clásica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La academia respeta la libertad creadora literaria; el esperpento es una de las mayores contribuciones estéticas del siglo XX."
+        },
+        {
+          "letter": "C",
+          "text": "El texto dramático es un vulgarismo causado por el desuso de las perífrasis verbales en el teatro de Sevilla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un estilo teatral de vanguardia de impecable factura formal y no un vulgarismo por carencia verbal."
+        },
+        {
+          "letter": "D",
+          "text": "Se justifica porque la descripción dramática debe limitarse exclusivamente a enumerar las marcas de los automóviles de Madrid.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La literatura de Valle-Inclán carece de tales restricciones publicitarias utilitarias de enumeración de marcas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El esperpento es una poética de la deformación expresionista. Al comparar a los seres humanos con fantoches o animales, Valle-Inclán desmitifica el realismo tradicional para ofrecer una descripción satírica de la realidad nacional.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v20",
+      "statement": "Evalúa la adecuación pragmática de la descripción redactada por el laboratorio en un prospecto de salud oficial.",
+      "context": "En un laboratorio farmacéutico de Barcelona se diseña un folleto informativo de un nuevo jarabe para la tos. El redactor escribe: 'Este jarabe es delicioso, parece un sorbete de fresas silvestres del Pirineo y cura el pecho dolorido en un abrir y cerrar de ojos'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es totalmente inadecuada e irresponsable, ya que un prospecto médico exige una descripción técnica y objetiva (lenguaje denotativo y preciso) que informe con rigor sobre principios activos y efectos secundarios, omitiendo comparaciones literarias o hipérboles publicitarias.",
+          "is_correct": true,
+          "feedback": "Correcto. La descripción médica de un prospecto farmacéutico debe regirse estrictamente por la objetividad y precisión del lenguaje científico (adecuación pragmática), desaconsejándose metáforas poéticas o hipérboles de corte comercial que puedan inducir a error sobre el fármaco."
+        },
+        {
+          "letter": "B",
+          "text": "Es adecuada, puesto que las descripciones farmacéuticas de Barcelona deben rimar de forma asonante en las sílabas agudas para conmover a los enfermos de tos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La legislación de medicamentos prohíbe el lenguaje impreciso y estético que confunda la dosis real o prometa milagros líricos."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra un excelente uso de la función metalingüística para curar el pecho dolorido de los filólogos de España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su tono comercial e hiperbólico es de naturaleza puramente persuasiva inadecuada, no metalingüística descriptiva de la gramática."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta porque la ley de LOMLOE autoriza a los laboratorios a sustituir las fórmulas químicas por metáforas de repostería del Pirineo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna ley educativa o sanitaria exime de cumplir el rigor científico denotativo en prospectos de salud."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La adecuación lingüística exige que el registro y estilo se adapten al canal, ámbito de uso y emisor. Un prospecto médico forma parte del discurso científico-técnico y debe limitar sus descripciones al plano estrictamente denotativo, unívoco, objetivo y riguroso.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "ES-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    }
+  ]
+}

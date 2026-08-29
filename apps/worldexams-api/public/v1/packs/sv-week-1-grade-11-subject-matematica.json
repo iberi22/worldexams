@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "sv",
+    "pack_id": "sv-week-1-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:41:05.507Z"
+  },
+  "questions": [
+    {
+      "id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v1",
+      "statement": "¿A qué conjunto numérico pertenece el número irracional $\\sqrt{7}$?",
+      "context": "Un docente en Santa Ana explica la clasificación de los números reales a sus estudiantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enteros ($\\mathbb{Z}$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "Naturales ($\\mathbb{N}$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "Irracionales ($\\mathbb{I}$)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "D",
+          "text": "Racionales ($\\mathbb{Q}$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de las siguientes afirmaciones describe mejor al número $0$?",
+      "context": "Un estudiante del Instituto Nacional de San Salvador (INSS) analiza las propiedades del cero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un número que no pertenece a los reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Es un número entero, pero no es natural en la definición clásica escolar.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "C",
+          "text": "Es un número natural, pero no es entero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "D",
+          "text": "Es un número irracional porque no tiene recíproco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de las siguientes inclusiones de conjuntos numéricos es absolutamente correcta?",
+      "context": "Durante un taller académico en San Miguel, se debate sobre la inclusión de conjuntos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\mathbb{N} \\subset \\mathbb{Z} \\subset \\mathbb{Q} \\subset \\mathbb{R}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "B",
+          "text": "$\\mathbb{Z} \\subset \\mathbb{N} \\subset \\mathbb{R}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "$\\mathbb{Q} \\subset \\mathbb{I} \\subset \\mathbb{R}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "D",
+          "text": "$\\mathbb{R} \\subset \\mathbb{Q} \\subset \\mathbb{Z} \\subset \\mathbb{N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v4",
+      "statement": "Si $x = 3.141592...$ (número $\\pi$) y $y = 3.1416$, ¿cómo se clasifican estos números?",
+      "context": "Una ingeniera civil en Soyapango necesita clasificar coeficientes estructurales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos son números racionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "$x$ es racional y $y$ es irracional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "$x$ es irracional y $y$ es racional.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos son números irracionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v5",
+      "statement": "Calcula la unión de los intervalos $A = [-3, 2]$ y $B = [0, 5]$.",
+      "context": "Un analista de tráfico en Santa Tecla estudia el flujo de vehículos usando intervalos de tiempo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[-3, 5]$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "B",
+          "text": "$[2, 5]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "$[0, 2]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "D",
+          "text": "$[-3, 0]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v6",
+      "statement": "Si el conjunto $S_{6}$ contiene los reales que satisfacen $x > 6$, ¿cuál es su representación correcta como intervalo?",
+      "context": "Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 6.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(-\\infty, 6)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "$(-\\infty, 6]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "$(6, \\infty)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "D",
+          "text": "$[6, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.71,
+      "bundle_id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v7",
+      "statement": "Si el conjunto $S_{7}$ contiene los reales que satisfacen $x > 7$, ¿cuál es su representación correcta como intervalo?",
+      "context": "Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 7.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(7, \\infty)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "B",
+          "text": "$(-\\infty, 7)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 7]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "$[7, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.67,
+      "bundle_id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v8",
+      "statement": "Si el conjunto $S_{8}$ contiene los reales que satisfacen $x > 8$, ¿cuál es su representación correcta como intervalo?",
+      "context": "Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 8.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[8, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$(-\\infty, 8]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "$(8, \\infty)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "D",
+          "text": "$(-\\infty, 8)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.63,
+      "bundle_id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v9",
+      "statement": "Si el conjunto $S_{9}$ contiene los reales que satisfacen $x > 9$, ¿cuál es su representación correcta como intervalo?",
+      "context": "Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 9.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[9, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$(-\\infty, 9]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "$(9, \\infty)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "D",
+          "text": "$(-\\infty, 9)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.59,
+      "bundle_id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v10",
+      "statement": "Si el conjunto $S_{10}$ contiene los reales que satisfacen $x > 10$, ¿cuál es su representación correcta como intervalo?",
+      "context": "Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 10.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[10, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$(-\\infty, 10]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "$(10, \\infty)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "D",
+          "text": "$(-\\infty, 10)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v11",
+      "statement": "Si el conjunto $S_{11}$ contiene los reales que satisfacen $x > 11$, ¿cuál es su representación correcta como intervalo?",
+      "context": "Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(-\\infty, 11]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "$[11, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 11)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "D",
+          "text": "$(11, \\infty)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.51,
+      "bundle_id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v12",
+      "statement": "Si el conjunto $S_{12}$ contiene los reales que satisfacen $x > 12$, ¿cuál es su representación correcta como intervalo?",
+      "context": "Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 12.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[12, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$(-\\infty, 12]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "$(12, \\infty)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "D",
+          "text": "$(-\\infty, 12)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.47,
+      "bundle_id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v13",
+      "statement": "Si el conjunto $S_{13}$ contiene los reales que satisfacen $x > 13$, ¿cuál es su representación correcta como intervalo?",
+      "context": "Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 13.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(-\\infty, 13)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "$[13, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "C",
+          "text": "$(13, \\infty)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "D",
+          "text": "$(-\\infty, 13]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v14",
+      "statement": "Si el conjunto $S_{14}$ contiene los reales que satisfacen $x > 14$, ¿cuál es su representación correcta como intervalo?",
+      "context": "Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(-\\infty, 14)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "$(-\\infty, 14]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "$[14, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "D",
+          "text": "$(14, \\infty)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.39,
+      "bundle_id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v15",
+      "statement": "Si el conjunto $S_{15}$ contiene los reales que satisfacen $x > 15$, ¿cuál es su representación correcta como intervalo?",
+      "context": "Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 15.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[15, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$(15, \\infty)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 15)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "D",
+          "text": "$(-\\infty, 15]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v16",
+      "statement": "Si el conjunto $S_{16}$ contiene los reales que satisfacen $x > 16$, ¿cuál es su representación correcta como intervalo?",
+      "context": "Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 16.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(-\\infty, 16]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "$[16, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "C",
+          "text": "$(16, \\infty)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "D",
+          "text": "$(-\\infty, 16)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.31,
+      "bundle_id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v17",
+      "statement": "Si el conjunto $S_{17}$ contiene los reales que satisfacen $x > 17$, ¿cuál es su representación correcta como intervalo?",
+      "context": "Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 17.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(17, \\infty)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "B",
+          "text": "$(-\\infty, 17)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 17]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "$[17, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.27,
+      "bundle_id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v18",
+      "statement": "Si el conjunto $S_{18}$ contiene los reales que satisfacen $x > 18$, ¿cuál es su representación correcta como intervalo?",
+      "context": "Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 18.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(-\\infty, 18)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "$[18, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 18]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "$(18, \\infty)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.23,
+      "bundle_id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v19",
+      "statement": "Si el conjunto $S_{19}$ contiene los reales que satisfacen $x > 19$, ¿cuál es su representación correcta como intervalo?",
+      "context": "Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 19.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(-\\infty, 19)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "$[19, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "C",
+          "text": "$(19, \\infty)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "D",
+          "text": "$(-\\infty, 19]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.19,
+      "bundle_id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v20",
+      "statement": "Si el conjunto $S_{20}$ contiene los reales que satisfacen $x > 20$, ¿cuál es su representación correcta como intervalo?",
+      "context": "Un grupo de estudio en Usulután analiza propiedades avanzadas en la sesión 20.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[20, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$(20, \\infty)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 20)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "D",
+          "text": "$(-\\infty, 20]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Conjuntos Numéricos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.15,
+      "bundle_id": "SV-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    }
+  ]
+}

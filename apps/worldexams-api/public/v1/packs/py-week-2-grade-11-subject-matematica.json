@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "py",
+    "pack_id": "py-week-2-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:41:05.772Z"
+  },
+  "questions": [
+    {
+      "id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-v1",
+      "statement": "¿Cuál de las siguientes es una ley de exponentes válida para cualquier base real positiva $x$ y exponentes reales $a, b$?",
+      "context": "En Asunción, un grupo de estudiantes de Paraguay analiza un problema de Potenciación y Radicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^a \\cdot x^b = x^{a+b}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! En el producto de potencias de igual base se suman los exponentes."
+        },
+        {
+          "letter": "B",
+          "text": "$x^a \\cdot x^b = x^{a \\cdot b}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicar los exponentes corresponde a la potencia de una potencia: $(x^a)^b$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^a + x^b = x^{a+b}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede simplificar la suma de potencias sumando los exponentes."
+        },
+        {
+          "letter": "D",
+          "text": "$x^a \\cdot y^b = (xy)^{a+b}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo se pueden agrupar las bases si los exponentes son iguales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ley del producto de bases iguales establece que $x^a \\cdot x^b = x^{a+b}$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-v2",
+      "statement": "¿Cuál es la expresión equivalente en forma de radical de la potencia con exponente fraccionario $y^{\\frac{2}{3}}$ para $y > 0$?",
+      "context": "En San Lorenzo, un grupo de estudiantes de Paraguay analiza un problema de Potenciación y Radicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt[3]{y^2}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador del exponente es el índice de la raíz y el numerador es la potencia del radicando."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{y^3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El índice de la raíz cuadrada es 2, pero aquí es 3."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt[2]{y^3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Intercambió numerador y denominador en la interpretación."
+        },
+        {
+          "letter": "D",
+          "text": "$y^3 \\cdot \\sqrt{y}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta expresión no corresponde a la definición de exponente fraccionario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición de exponente racional, $y^{\\frac{m}{n}} = \\sqrt[n]{y^m}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-v3",
+      "statement": "En Luque, un taller artesanal duplica su producción cada 2 meses. Si su producción inicial es de 30 artículos, ¿cuál será la producción final después de 2 meses?",
+      "context": "En Luque, un grupo de estudiantes de Paraguay analiza un problema de Potenciación y Radicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60 artículos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2."
+        },
+        {
+          "letter": "B",
+          "text": "120 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría cuadruplicar la producción."
+        },
+        {
+          "letter": "C",
+          "text": "32 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicar es una multiplicación, no una simple suma de 2."
+        },
+        {
+          "letter": "D",
+          "text": "240 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría multiplicar por 8."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si se duplica la producción, multiplicamos el valor inicial 30 por 2, obteniendo 60 artículos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.77,
+      "bundle_id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-v4",
+      "statement": "En Encarnación, un taller artesanal duplica su producción cada 3 meses. Si su producción inicial es de 40 artículos, ¿cuál será la producción final después de 3 meses?",
+      "context": "En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Potenciación y Radicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "80 artículos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2."
+        },
+        {
+          "letter": "B",
+          "text": "160 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría cuadruplicar la producción."
+        },
+        {
+          "letter": "C",
+          "text": "42 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicar es una multiplicación, no una simple suma de 2."
+        },
+        {
+          "letter": "D",
+          "text": "320 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría multiplicar por 8."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si se duplica la producción, multiplicamos el valor inicial 40 por 2, obteniendo 80 artículos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-v5",
+      "statement": "En Ciudad del Este, un taller artesanal duplica su producción cada 4 meses. Si su producción inicial es de 50 artículos, ¿cuál será la producción final después de 4 meses?",
+      "context": "En Ciudad del Este, un grupo de estudiantes de Paraguay analiza un problema de Potenciación y Radicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 artículos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2."
+        },
+        {
+          "letter": "B",
+          "text": "200 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría cuadruplicar la producción."
+        },
+        {
+          "letter": "C",
+          "text": "52 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicar es una multiplicación, no una simple suma de 2."
+        },
+        {
+          "letter": "D",
+          "text": "400 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría multiplicar por 8."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si se duplica la producción, multiplicamos el valor inicial 50 por 2, obteniendo 100 artículos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-v6",
+      "statement": "En Caacupé, un taller artesanal duplica su producción cada 2 meses. Si su producción inicial es de 60 artículos, ¿cuál será la producción final después de 2 meses?",
+      "context": "En Caacupé, un grupo de estudiantes de Paraguay analiza un problema de Potenciación y Radicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "120 artículos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2."
+        },
+        {
+          "letter": "B",
+          "text": "240 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría cuadruplicar la producción."
+        },
+        {
+          "letter": "C",
+          "text": "62 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicar es una multiplicación, no una simple suma de 2."
+        },
+        {
+          "letter": "D",
+          "text": "480 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría multiplicar por 8."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si se duplica la producción, multiplicamos el valor inicial 60 por 2, obteniendo 120 artículos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-v7",
+      "statement": "En Pilar, un taller artesanal duplica su producción cada 3 meses. Si su producción inicial es de 70 artículos, ¿cuál será la producción final después de 3 meses?",
+      "context": "En Pilar, un grupo de estudiantes de Paraguay analiza un problema de Potenciación y Radicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "140 artículos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2."
+        },
+        {
+          "letter": "B",
+          "text": "280 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría cuadruplicar la producción."
+        },
+        {
+          "letter": "C",
+          "text": "72 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicar es una multiplicación, no una simple suma de 2."
+        },
+        {
+          "letter": "D",
+          "text": "560 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría multiplicar por 8."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si se duplica la producción, multiplicamos el valor inicial 70 por 2, obteniendo 140 artículos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.67,
+      "bundle_id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-v8",
+      "statement": "En Coronel Oviedo, un taller artesanal duplica su producción cada 4 meses. Si su producción inicial es de 80 artículos, ¿cuál será la producción final después de 4 meses?",
+      "context": "En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Potenciación y Radicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "160 artículos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2."
+        },
+        {
+          "letter": "B",
+          "text": "320 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría cuadruplicar la producción."
+        },
+        {
+          "letter": "C",
+          "text": "82 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicar es una multiplicación, no una simple suma de 2."
+        },
+        {
+          "letter": "D",
+          "text": "640 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría multiplicar por 8."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si se duplica la producción, multiplicamos el valor inicial 80 por 2, obteniendo 160 artículos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
+      "bundle_id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-v9",
+      "statement": "En Concepción, un taller artesanal duplica su producción cada 2 meses. Si su producción inicial es de 90 artículos, ¿cuál será la producción final después de 2 meses?",
+      "context": "En Concepción, un grupo de estudiantes de Paraguay analiza un problema de Potenciación y Radicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "180 artículos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2."
+        },
+        {
+          "letter": "B",
+          "text": "360 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría cuadruplicar la producción."
+        },
+        {
+          "letter": "C",
+          "text": "92 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicar es una multiplicación, no una simple suma de 2."
+        },
+        {
+          "letter": "D",
+          "text": "720 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría multiplicar por 8."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si se duplica la producción, multiplicamos el valor inicial 90 por 2, obteniendo 180 artículos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.62,
+      "bundle_id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-v10",
+      "statement": "En Villarrica, un taller artesanal duplica su producción cada 3 meses. Si su producción inicial es de 100 artículos, ¿cuál será la producción final después de 3 meses?",
+      "context": "En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Potenciación y Radicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "200 artículos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2."
+        },
+        {
+          "letter": "B",
+          "text": "400 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría cuadruplicar la producción."
+        },
+        {
+          "letter": "C",
+          "text": "102 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicar es una multiplicación, no una simple suma de 2."
+        },
+        {
+          "letter": "D",
+          "text": "800 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría multiplicar por 8."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si se duplica la producción, multiplicamos el valor inicial 100 por 2, obteniendo 200 artículos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.6,
+      "bundle_id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-v11",
+      "statement": "En Asunción, un taller artesanal duplica su producción cada 4 meses. Si su producción inicial es de 110 artículos, ¿cuál será la producción final después de 4 meses?",
+      "context": "En Asunción, un grupo de estudiantes de Paraguay analiza un problema de Potenciación y Radicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "220 artículos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2."
+        },
+        {
+          "letter": "B",
+          "text": "440 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría cuadruplicar la producción."
+        },
+        {
+          "letter": "C",
+          "text": "112 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicar es una multiplicación, no una simple suma de 2."
+        },
+        {
+          "letter": "D",
+          "text": "880 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría multiplicar por 8."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si se duplica la producción, multiplicamos el valor inicial 110 por 2, obteniendo 220 artículos.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.57,
+      "bundle_id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-v12",
+      "statement": "En San Lorenzo, un taller artesanal duplica su producción cada 2 meses. Si su producción inicial es de 120 artículos, ¿cuál será la producción final después de 2 meses?",
+      "context": "En San Lorenzo, un grupo de estudiantes de Paraguay analiza un problema de Potenciación y Radicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "240 artículos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2."
+        },
+        {
+          "letter": "B",
+          "text": "480 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría cuadruplicar la producción."
+        },
+        {
+          "letter": "C",
+          "text": "122 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicar es una multiplicación, no una simple suma de 2."
+        },
+        {
+          "letter": "D",
+          "text": "960 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría multiplicar por 8."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si se duplica la producción, multiplicamos el valor inicial 120 por 2, obteniendo 240 artículos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.55,
+      "bundle_id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-v13",
+      "statement": "En Luque, un taller artesanal duplica su producción cada 3 meses. Si su producción inicial es de 130 artículos, ¿cuál será la producción final después de 3 meses?",
+      "context": "En Luque, un grupo de estudiantes de Paraguay analiza un problema de Potenciación y Radicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "260 artículos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2."
+        },
+        {
+          "letter": "B",
+          "text": "520 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría cuadruplicar la producción."
+        },
+        {
+          "letter": "C",
+          "text": "132 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicar es una multiplicación, no una simple suma de 2."
+        },
+        {
+          "letter": "D",
+          "text": "1040 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría multiplicar por 8."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si se duplica la producción, multiplicamos el valor inicial 130 por 2, obteniendo 260 artículos.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.52,
+      "bundle_id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-v14",
+      "statement": "En Encarnación, un taller artesanal duplica su producción cada 4 meses. Si su producción inicial es de 140 artículos, ¿cuál será la producción final después de 4 meses?",
+      "context": "En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Potenciación y Radicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "280 artículos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2."
+        },
+        {
+          "letter": "B",
+          "text": "560 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría cuadruplicar la producción."
+        },
+        {
+          "letter": "C",
+          "text": "142 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicar es una multiplicación, no una simple suma de 2."
+        },
+        {
+          "letter": "D",
+          "text": "1120 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría multiplicar por 8."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si se duplica la producción, multiplicamos el valor inicial 140 por 2, obteniendo 280 artículos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.5,
+      "bundle_id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-v15",
+      "statement": "En Ciudad del Este, un taller artesanal duplica su producción cada 2 meses. Si su producción inicial es de 150 artículos, ¿cuál será la producción final después de 2 meses?",
+      "context": "En Ciudad del Este, un grupo de estudiantes de Paraguay analiza un problema de Potenciación y Radicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "300 artículos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2."
+        },
+        {
+          "letter": "B",
+          "text": "600 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría cuadruplicar la producción."
+        },
+        {
+          "letter": "C",
+          "text": "152 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicar es una multiplicación, no una simple suma de 2."
+        },
+        {
+          "letter": "D",
+          "text": "1200 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría multiplicar por 8."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si se duplica la producción, multiplicamos el valor inicial 150 por 2, obteniendo 300 artículos.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.47,
+      "bundle_id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-v16",
+      "statement": "En Caacupé, un taller artesanal duplica su producción cada 3 meses. Si su producción inicial es de 160 artículos, ¿cuál será la producción final después de 3 meses?",
+      "context": "En Caacupé, un grupo de estudiantes de Paraguay analiza un problema de Potenciación y Radicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "320 artículos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2."
+        },
+        {
+          "letter": "B",
+          "text": "640 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría cuadruplicar la producción."
+        },
+        {
+          "letter": "C",
+          "text": "162 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicar es una multiplicación, no una simple suma de 2."
+        },
+        {
+          "letter": "D",
+          "text": "1280 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría multiplicar por 8."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si se duplica la producción, multiplicamos el valor inicial 160 por 2, obteniendo 320 artículos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-v17",
+      "statement": "En Pilar, un taller artesanal duplica su producción cada 4 meses. Si su producción inicial es de 170 artículos, ¿cuál será la producción final después de 4 meses?",
+      "context": "En Pilar, un grupo de estudiantes de Paraguay analiza un problema de Potenciación y Radicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "340 artículos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2."
+        },
+        {
+          "letter": "B",
+          "text": "680 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría cuadruplicar la producción."
+        },
+        {
+          "letter": "C",
+          "text": "172 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicar es una multiplicación, no una simple suma de 2."
+        },
+        {
+          "letter": "D",
+          "text": "1360 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría multiplicar por 8."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si se duplica la producción, multiplicamos el valor inicial 170 por 2, obteniendo 340 artículos.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-v18",
+      "statement": "En Coronel Oviedo, un taller artesanal duplica su producción cada 2 meses. Si su producción inicial es de 180 artículos, ¿cuál será la producción final después de 2 meses?",
+      "context": "En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Potenciación y Radicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "360 artículos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2."
+        },
+        {
+          "letter": "B",
+          "text": "720 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría cuadruplicar la producción."
+        },
+        {
+          "letter": "C",
+          "text": "182 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicar es una multiplicación, no una simple suma de 2."
+        },
+        {
+          "letter": "D",
+          "text": "1440 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría multiplicar por 8."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si se duplica la producción, multiplicamos el valor inicial 180 por 2, obteniendo 360 artículos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.4,
+      "bundle_id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-v19",
+      "statement": "En Concepción, un taller artesanal duplica su producción cada 3 meses. Si su producción inicial es de 190 artículos, ¿cuál será la producción final después de 3 meses?",
+      "context": "En Concepción, un grupo de estudiantes de Paraguay analiza un problema de Potenciación y Radicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "380 artículos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2."
+        },
+        {
+          "letter": "B",
+          "text": "760 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría cuadruplicar la producción."
+        },
+        {
+          "letter": "C",
+          "text": "192 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicar es una multiplicación, no una simple suma de 2."
+        },
+        {
+          "letter": "D",
+          "text": "1520 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría multiplicar por 8."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si se duplica la producción, multiplicamos el valor inicial 190 por 2, obteniendo 380 artículos.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.37,
+      "bundle_id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-v20",
+      "statement": "En Villarrica, un taller artesanal duplica su producción cada 4 meses. Si su producción inicial es de 200 artículos, ¿cuál será la producción final después de 4 meses?",
+      "context": "En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Potenciación y Radicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "400 artículos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2."
+        },
+        {
+          "letter": "B",
+          "text": "800 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría cuadruplicar la producción."
+        },
+        {
+          "letter": "C",
+          "text": "202 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicar es una multiplicación, no una simple suma de 2."
+        },
+        {
+          "letter": "D",
+          "text": "1600 artículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría multiplicar por 8."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si se duplica la producción, multiplicamos el valor inicial 200 por 2, obteniendo 400 artículos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PY-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}

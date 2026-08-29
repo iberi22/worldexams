@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ingles",
+    "country": "cl",
+    "pack_id": "cl-week-32-grade-11-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.113Z"
+  },
+  "questions": [
+    {
+      "id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-v1",
+      "statement": "Tariffs are taxes imposed by a government on imported goods and services.",
+      "context": "Introduction to trade concepts.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dividends",
+          "is_correct": false,
+          "feedback": "Incorrect. Dividends are payments to shareholders."
+        },
+        {
+          "letter": "B",
+          "text": "Tariffs",
+          "is_correct": true,
+          "feedback": "Correct. Specific term for import taxes."
+        },
+        {
+          "letter": "C",
+          "text": "Subsidies",
+          "is_correct": false,
+          "feedback": "Incorrect. Subsidies are payments *from* a government to support a business."
+        },
+        {
+          "letter": "D",
+          "text": "Revenues",
+          "is_correct": false,
+          "feedback": "Incorrect. Total income."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Tariff' is the standard economic and political term for a tax on imports.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-v2",
+      "statement": "The volume of global trade has been increasing steadily since the late 20th century.",
+      "context": "Discussing international commerce.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "increases",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple."
+        },
+        {
+          "letter": "B",
+          "text": "has been increasing",
+          "is_correct": true,
+          "feedback": "Correct. Present perfect continuous for an ongoing trend starting in the past."
+        },
+        {
+          "letter": "C",
+          "text": "increased",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "D",
+          "text": "will increase",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present perfect continuous highlights the continuous growth of trade over several decades.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-v3",
+      "statement": "If the free trade agreement hadn't been signed, local businesses would have faced higher competition costs.",
+      "context": "Conditional about a free trade agreement.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wasn't signed",
+          "is_correct": false,
+          "feedback": "Incorrect. Second conditional."
+        },
+        {
+          "letter": "B",
+          "text": "hadn't been signed",
+          "is_correct": true,
+          "feedback": "Correct. Third conditional for hypothetical past."
+        },
+        {
+          "letter": "C",
+          "text": "isn't signed",
+          "is_correct": false,
+          "feedback": "Incorrect. Present."
+        },
+        {
+          "letter": "D",
+          "text": "wouldn't be signed",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' not in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The third conditional is used to speculate about the consequences of a past economic decision.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-v4",
+      "statement": "Comparative advantage is the ability of an individual or group to carry out a particular economic activity more efficiently than another activity.",
+      "context": "Article about \"comparative advantage\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "efficiently",
+          "is_correct": true,
+          "feedback": "Correct. Efficiency is the key to comparative advantage."
+        },
+        {
+          "letter": "B",
+          "text": "slowly",
+          "is_correct": false,
+          "feedback": "Incorrect. Trade advantage usually implies being better/faster."
+        },
+        {
+          "letter": "C",
+          "text": "rarely",
+          "is_correct": false,
+          "feedback": "Incorrect. Unrelated."
+        },
+        {
+          "letter": "D",
+          "text": "expensively",
+          "is_correct": false,
+          "feedback": "Incorrect. Efficiency usually reduces costs."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Efficiently' describes the ability to produce goods with fewer resources, the core of comparative advantage.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-v5",
+      "statement": "Protectionism involves government policies that restrict international trade to help domestic industries.",
+      "context": "Discussion on \"protectionism\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "promote",
+          "is_correct": false,
+          "feedback": "Incorrect. Protectionism restricts trade."
+        },
+        {
+          "letter": "B",
+          "text": "restrict",
+          "is_correct": true,
+          "feedback": "Correct. To restrict means to put a limit on."
+        },
+        {
+          "letter": "C",
+          "text": "ignore",
+          "is_correct": false,
+          "feedback": "Incorrect. It is an active policy."
+        },
+        {
+          "letter": "D",
+          "text": "finance",
+          "is_correct": false,
+          "feedback": "Incorrect. While it might involve subsidies, 'restrict' is the core function described."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Restrict' correctly identifies the primary action of protectionist policies like tariffs and quotas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-v6",
+      "statement": "Logistics is the detailed coordination of a complex operation involving many people, facilities, or supplies.",
+      "context": "Shipping and logistics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gossip",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Logistics",
+          "is_correct": true,
+          "feedback": "Correct. Fundamental term for supply chain management."
+        },
+        {
+          "letter": "C",
+          "text": "Fiction",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Ritual",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Logistics' is the specific professional term for the management of the flow of goods.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-v7",
+      "statement": "New shipping routes are being explored due to the melting of Arctic ice.",
+      "context": "Describing a shift in trade routes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are exploring",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "are being explored",
+          "is_correct": true,
+          "feedback": "Correct. Present continuous passive for an ongoing development."
+        },
+        {
+          "letter": "C",
+          "text": "explored",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "D",
+          "text": "have explored",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present continuous passive describes the current, active investigation into new commercial paths.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-v8",
+      "statement": "A supply chain is the entire system of producing and delivering a product or service, from the very beginning to the final customer.",
+      "context": "Text on \"supply chains\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "fragment",
+          "is_correct": false,
+          "feedback": "Incorrect. A chain is a whole system."
+        },
+        {
+          "letter": "B",
+          "text": "system",
+          "is_correct": true,
+          "feedback": "Correct. A set of things working together as parts of a mechanism or an interconnecting network."
+        },
+        {
+          "letter": "C",
+          "text": "barrier",
+          "is_correct": false,
+          "feedback": "Incorrect. The chain facilitates the flow."
+        },
+        {
+          "letter": "D",
+          "text": "isolation",
+          "is_correct": false,
+          "feedback": "Incorrect. The chain connects different entities."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'System' correctly identifies the complex, interconnected nature of a modern global supply chain.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-v9",
+      "statement": "The interruption in the supply chain had caused prices to skyrocket before the government intervened.",
+      "context": "Describing a past economic impact.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "caused",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple doesn't show sequence as well here."
+        },
+        {
+          "letter": "B",
+          "text": "had caused",
+          "is_correct": true,
+          "feedback": "Correct. Past perfect for an action before another past action."
+        },
+        {
+          "letter": "C",
+          "text": "has caused",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "causes",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The past perfect 'had caused' establishes that the price increase happened before the intervention.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-v10",
+      "statement": "Fair trade initiatives aim to ensure that producers in developing countries receive an equitable price for their products.",
+      "context": "Critique of \"fair trade\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "cheap",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Equitable' means fair, not necessarily cheap."
+        },
+        {
+          "letter": "B",
+          "text": "equitable",
+          "is_correct": true,
+          "feedback": "Correct. Equitable means fair and impartial."
+        },
+        {
+          "letter": "C",
+          "text": "random",
+          "is_correct": false,
+          "feedback": "Incorrect. Prices should be systematic."
+        },
+        {
+          "letter": "D",
+          "text": "hidden",
+          "is_correct": false,
+          "feedback": "Incorrect. Transparency is key to fair trade."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Equitable' is the formal term used to describe fairness and justice in economic relationships.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-v11",
+      "statement": "Outsourcing is the practice of having certain job functions done outside a company instead of having an in-house department or employee handle them.",
+      "context": "Definition of \"outsourcing\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hiring",
+          "is_correct": false,
+          "feedback": "Incorrect. Too broad."
+        },
+        {
+          "letter": "B",
+          "text": "Outsourcing",
+          "is_correct": true,
+          "feedback": "Correct. Specific term for moving functions outside the company."
+        },
+        {
+          "letter": "C",
+          "text": "Investing",
+          "is_correct": false,
+          "feedback": "Incorrect. Putting money into something."
+        },
+        {
+          "letter": "D",
+          "text": "Marketing",
+          "is_correct": false,
+          "feedback": "Incorrect. Promoting products."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Outsourcing' is the standard business term for obtaining goods or services from an outside or foreign supplier.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-v12",
+      "statement": "By the year 2030, the new trade agreement will have been fully implemented across all member states.",
+      "context": "Describing a future trade milestone.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will implement",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "will have been fully implemented",
+          "is_correct": true,
+          "feedback": "Correct. Future perfect passive for a completed state in the future."
+        },
+        {
+          "letter": "C",
+          "text": "implemented",
+          "is_correct": false,
+          "feedback": "Incorrect. Past."
+        },
+        {
+          "letter": "D",
+          "text": "is implemented",
+          "is_correct": false,
+          "feedback": "Incorrect. Present."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The future perfect passive indicates that the implementation will be a finished reality by the deadline.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-v13",
+      "statement": "A trade deficit occurs when a country's imports exceed its exports.",
+      "context": "Discussing \"trade deficit\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "match",
+          "is_correct": false,
+          "feedback": "Incorrect. This would be a balance."
+        },
+        {
+          "letter": "B",
+          "text": "exceed",
+          "is_correct": true,
+          "feedback": "Correct. To exceed means to be greater in number or size than."
+        },
+        {
+          "letter": "C",
+          "text": "follow",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "ignore",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Exceed' is the correct verb for describing when one quantity (imports) is larger than another (exports).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-v14",
+      "statement": "If the sanctions were lifted, the country's economy would likely experience a period of rapid growth.",
+      "context": "Conditional about economic sanctions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrect. First conditional."
+        },
+        {
+          "letter": "B",
+          "text": "were",
+          "is_correct": true,
+          "feedback": "Correct. Second conditional for a hypothetical change."
+        },
+        {
+          "letter": "C",
+          "text": "had been",
+          "is_correct": false,
+          "feedback": "Incorrect. Third conditional."
+        },
+        {
+          "letter": "D",
+          "text": "would be",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' not in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The second conditional describes the likely result of a hypothetical change in geopolitical policy.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-v15",
+      "statement": "The author concludes that digital trade is transforming the global economy by reducing the cost of cross-border transactions.",
+      "context": "Conclusion of an essay on \"digital trade\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "increasing",
+          "is_correct": false,
+          "feedback": "Incorrect. Digital trade aims to make things cheaper."
+        },
+        {
+          "letter": "B",
+          "text": "reducing",
+          "is_correct": true,
+          "feedback": "Correct. Reducing means making smaller or less in amount."
+        },
+        {
+          "letter": "C",
+          "text": "ignoring",
+          "is_correct": false,
+          "feedback": "Incorrect. Digital trade actively changes the cost."
+        },
+        {
+          "letter": "D",
+          "text": "complicates",
+          "is_correct": false,
+          "feedback": "Incorrect. While systems are complex, the goal is efficiency."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Reducing' correctly identifies the primary economic benefit of digital trade mentioned in the text.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-v16",
+      "statement": "A subsidy is a sum of money granted by the state or a public body to help an industry or business keep the price of a commodity or service low.",
+      "context": "Defining a \"subsidy\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tax",
+          "is_correct": false,
+          "feedback": "Incorrect. Money paid TO the government."
+        },
+        {
+          "letter": "B",
+          "text": "Subsidy",
+          "is_correct": true,
+          "feedback": "Correct. Money given BY the government."
+        },
+        {
+          "letter": "C",
+          "text": "Loan",
+          "is_correct": false,
+          "feedback": "Incorrect. Must be paid back."
+        },
+        {
+          "letter": "D",
+          "text": "Fine",
+          "is_correct": false,
+          "feedback": "Incorrect. Punishment."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Subsidy' is the specific economic term for financial aid provided by the government to support a sector.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-v17",
+      "statement": "Business leaders wish the trade war would end as soon as possible.",
+      "context": "Expressing a hope for trade stability.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ends",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Wish' for future change needs 'would'."
+        },
+        {
+          "letter": "B",
+          "text": "would end",
+          "is_correct": true,
+          "feedback": "Correct. 'Wish + would' for a desired change in a situation."
+        },
+        {
+          "letter": "C",
+          "text": "ended",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Wish + past' for present state desire."
+        },
+        {
+          "letter": "D",
+          "text": "have ended",
+          "is_correct": false,
+          "feedback": "Incorrect. Past regret."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Wish + would' is used to express a desire for an ongoing, annoying or harmful situation to stop.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-v18",
+      "statement": "Sustainable trade must account for the environmental and social costs that are often externalized in traditional commerce.",
+      "context": "Text about \"sustainable trade\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "internal",
+          "is_correct": false,
+          "feedback": "Incorrect. Externalized means passed to others (society/nature)."
+        },
+        {
+          "letter": "B",
+          "text": "externalized",
+          "is_correct": true,
+          "feedback": "Correct. Costs not reflected in the price."
+        },
+        {
+          "letter": "C",
+          "text": "matching",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "hidden",
+          "is_correct": false,
+          "feedback": "Incorrect. While they are often hidden, 'externalized' is the technical term."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Externalized' costs are those generated by a business but paid for by society or the environment.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-v19",
+      "statement": "The report stated that global trade had grown by 5% in the previous year.",
+      "context": "Reporting a trade forecast.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has grown",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted in reported speech."
+        },
+        {
+          "letter": "B",
+          "text": "had grown",
+          "is_correct": true,
+          "feedback": "Correct. Backshifted from past simple or present perfect."
+        },
+        {
+          "letter": "C",
+          "text": "is growing",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "D",
+          "text": "will grow",
+          "is_correct": false,
+          "feedback": "Incorrect. Future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, we backshift the tense of the original data ('Trade grew/has grown...') to the past perfect.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-v20",
+      "statement": "The future of global trade depends on our ability to create a system that is not only efficient but also resilient and equitable.",
+      "context": "Final thought on trade ethics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "equitable",
+          "is_correct": true,
+          "feedback": "Correct. Fair and impartial."
+        },
+        {
+          "letter": "B",
+          "text": "greedy",
+          "is_correct": false,
+          "feedback": "Incorrect. Negative."
+        },
+        {
+          "letter": "C",
+          "text": "isolated",
+          "is_correct": false,
+          "feedback": "Incorrect. Trade requires connection."
+        },
+        {
+          "letter": "D",
+          "text": "fragile",
+          "is_correct": false,
+          "feedback": "Incorrect. We want resilience, the opposite of fragility."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Equitable' correctly identifies the ethical requirement for a trade system that benefits all participants fairly.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W32-global-trade-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

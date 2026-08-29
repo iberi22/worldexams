@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-23-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.899Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W23-quantifiers-expansion-001-v1",
+      "statement": "Which word is used to ask about the quantity of countable items (like apples)?",
+      "context": "Identifying the quantifier for countable nouns in questions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "How much",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for uncountable nouns."
+        },
+        {
+          "letter": "B",
+          "text": "How many",
+          "is_correct": true,
+          "feedback": "Correct! \"How many\" is used for countable nouns."
+        },
+        {
+          "letter": "C",
+          "text": "How little",
+          "is_correct": false,
+          "feedback": "Incorrect. Not a standard way to ask for quantity."
+        },
+        {
+          "letter": "D",
+          "text": "How some",
+          "is_correct": false,
+          "feedback": "Incorrect. Not a grammatically correct structure."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies the basic distinction between \"much\" and \"many\" for questions.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W23-quantifiers-expansion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W23-quantifiers-expansion-002-v1",
+      "statement": "What word is used to express \"zero quantity\" in a negative sentence?\n\"I don't have ________ money.\"",
+      "context": "Using \"any\" in negative sentences.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "some",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Some\" is for affirmative sentences."
+        },
+        {
+          "letter": "B",
+          "text": "any",
+          "is_correct": true,
+          "feedback": "Correct! \"Any\" is used in negative sentences and questions."
+        },
+        {
+          "letter": "C",
+          "text": "many",
+          "is_correct": false,
+          "feedback": "Incorrect. While possible, \"any\" is the standard for zero quantity."
+        },
+        {
+          "letter": "D",
+          "text": "few",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Few\" implies a small number, not zero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student remembers the rule for using \"any\" in negative constructions.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W23-quantifiers-expansion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W23-quantifiers-expansion-003-v1",
+      "statement": "\"I have ________ friends in this school. I am happy.\"",
+      "context": "Describing a small but positive amount.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a little",
+          "is_correct": false,
+          "feedback": "Incorrect. \"A little\" is for uncountable nouns."
+        },
+        {
+          "letter": "B",
+          "text": "a few",
+          "is_correct": true,
+          "feedback": "Correct! \"A few\" is used for a small number of countable items."
+        },
+        {
+          "letter": "C",
+          "text": "much",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Much\" is for uncountable and usually negative/interrogative."
+        },
+        {
+          "letter": "D",
+          "text": "any",
+          "is_correct": false,
+          "feedback": "Incorrect. This is not for affirmative sentences."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the difference between \"a few\" and \"a little\" based on noun countability.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W23-quantifiers-expansion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W23-quantifiers-expansion-004-v1",
+      "statement": "\"How ________ juice is there in the fridge?\"",
+      "context": "Asking for an amount of a liquid.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "much",
+          "is_correct": true,
+          "feedback": "Correct! \"Much\" is used for uncountable nouns like juice."
+        },
+        {
+          "letter": "B",
+          "text": "many",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Many\" is for countable nouns."
+        },
+        {
+          "letter": "C",
+          "text": "some",
+          "is_correct": false,
+          "feedback": "Incorrect. Not used with \"How\" for questions."
+        },
+        {
+          "letter": "D",
+          "text": "any",
+          "is_correct": false,
+          "feedback": "Incorrect. Not used with \"How\" for questions."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student understands the correct use of \"much\" with uncountable nouns in questions.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W23-quantifiers-expansion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W23-quantifiers-expansion-005-v1",
+      "statement": "\"We can't make the soup because there is ________ salt.\" (Zero or almost zero)",
+      "context": "Describing a problem in a recipe.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "many",
+          "is_correct": false,
+          "feedback": "Incorrect. Salt is uncountable."
+        },
+        {
+          "letter": "B",
+          "text": "a few",
+          "is_correct": false,
+          "feedback": "Incorrect. Salt is uncountable."
+        },
+        {
+          "letter": "C",
+          "text": "very little",
+          "is_correct": true,
+          "feedback": "Correct! \"Very little\" describes a small, often insufficient amount of an uncountable noun."
+        },
+        {
+          "letter": "D",
+          "text": "some",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Some\" implies we have some, so we probably could make it."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student applies knowledge of quantifiers to a situation where an amount is insufficient.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W23-quantifiers-expansion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W23-quantifiers-expansion-006-v1",
+      "statement": "According to the text, what is true about the oranges?",
+      "context": "A description of a market day.\n\"The market is very crowded. There are many people buying vegetables. However, there are few oranges left because they are very popular today.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "There are a lot of oranges.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says there are \"few\"."
+        },
+        {
+          "letter": "B",
+          "text": "There is a small number of oranges available.",
+          "is_correct": true,
+          "feedback": "Correct! \"Few\" means a small number (countable)."
+        },
+        {
+          "letter": "C",
+          "text": "There aren't any oranges.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Few\" means there are still some."
+        },
+        {
+          "letter": "D",
+          "text": "There is much orange.",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically and factually wrong."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies reading strategies to understand the specific meaning of \"few\" in a narrative.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W23-quantifiers-expansion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W23-quantifiers-expansion-007-v1",
+      "statement": "Mateo: \"Are there ________ guests at the party?\"\nValentina: \"Yes, there are ________ of people!\"",
+      "context": "A conversation about a party.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "much / many",
+          "is_correct": false,
+          "feedback": "Incorrect. Much is for uncountable."
+        },
+        {
+          "letter": "B",
+          "text": "any / little",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Little\" is for uncountable."
+        },
+        {
+          "letter": "C",
+          "text": "many / lots",
+          "is_correct": true,
+          "feedback": "Correct! \"Many\" for the countable question and \"lots of\" for a large amount."
+        },
+        {
+          "letter": "D",
+          "text": "some / any",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Some\" is not typically used for a simple \"Are there...?\" question."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student applies the correct combination of quantifiers for countable plural subjects in dialogue.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W23-quantifiers-expansion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W23-quantifiers-expansion-008-v1",
+      "statement": "Which sentence is grammatically correct?",
+      "context": "Identifying correct usage of \"much\" and \"many\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "There is many sugar in my coffee.",
+          "is_correct": false,
+          "feedback": "Incorrect. Sugar is uncountable, needs \"much\"."
+        },
+        {
+          "letter": "B",
+          "text": "There are much students in the class.",
+          "is_correct": false,
+          "feedback": "Incorrect. Students are countable, needs \"many\"."
+        },
+        {
+          "letter": "C",
+          "text": "I don't have much time to study today.",
+          "is_correct": true,
+          "feedback": "Correct! Time is uncountable and \"much\" is used in negatives."
+        },
+        {
+          "letter": "D",
+          "text": "Do you have some any questions?",
+          "is_correct": false,
+          "feedback": "Incorrect. Redundant use of quantifiers."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student analyzes sentence structures to ensure agreement between the quantifier and the noun type.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W23-quantifiers-expansion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W23-quantifiers-expansion-009-v1",
+      "statement": "Which recipe is likely healthier or lower in calories?",
+      "context": "Comparing two recipes based on quantifiers.\n\"Recipe A uses a lot of butter and many eggs. Recipe B uses a little butter and few eggs.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recipe A",
+          "is_correct": false,
+          "feedback": "Incorrect. It has \"a lot\" and \"many\"."
+        },
+        {
+          "letter": "B",
+          "text": "Recipe B",
+          "is_correct": true,
+          "feedback": "Correct! \"A little\" and \"few\" indicate smaller quantities of fats and cholesterol sources."
+        },
+        {
+          "letter": "C",
+          "text": "They are the same.",
+          "is_correct": false,
+          "feedback": "Incorrect. The quantifiers show a significant difference."
+        },
+        {
+          "letter": "D",
+          "text": "We cannot tell.",
+          "is_correct": false,
+          "feedback": "Incorrect. The quantifiers provide enough information to compare."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes and compares information provided by quantifiers to make a logical deduction.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W23-quantifiers-expansion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W23-quantifiers-expansion-010-v1",
+      "statement": "What is the most urgent need for the library based on the quantifiers?",
+      "context": "Evaluating a report on school resources.\n\"Our school library has many books, but very little modern equipment. There are few computers for the students, and some books are very old.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "More books.",
+          "is_correct": false,
+          "feedback": "Incorrect. It already has \"many\"."
+        },
+        {
+          "letter": "B",
+          "text": "More computers and modern technology.",
+          "is_correct": true,
+          "feedback": "Correct! \"Very little equipment\" and \"few computers\" highlight the deficiency."
+        },
+        {
+          "letter": "C",
+          "text": "Fewer students.",
+          "is_correct": false,
+          "feedback": "Incorrect. Not mentioned as a problem."
+        },
+        {
+          "letter": "D",
+          "text": "More old books.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Some\" are already old; more are not needed."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student evaluates the quantitative information in a text to identify the main problem or priority.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W23-quantifiers-expansion-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "cr",
+    "pack_id": "cr-week-4-grade-11-subject-lengua",
+    "generated_at": "2026-07-28T22:41:05.364Z"
+  },
+  "questions": [
+    {
+      "id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el recurso lingüístico fundamental que caracteriza de forma primordial a la tipología descriptiva?",
+      "context": "Durante una práctica de redacción en Cartago, Sofía analiza las características del texto descriptivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La abundancia de adjetivos calificativos y sintagmas preposicionales que detallan cualidades de un objeto.",
+          "is_correct": true,
+          "feedback": "Correcto. La descripción se apoya fuertemente en sustantivos y adjetivos para detallar rasgos de personas, objetos o lugares."
+        },
+        {
+          "letter": "B",
+          "text": "El empleo continuo de conectores conclusivos de causa y efecto en oraciones impersonales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto caracteriza a la tipología argumentativa o expositiva."
+        },
+        {
+          "letter": "C",
+          "text": "La acumulación de verbos de movimiento conjugados en pretérito perfecto simple de indicativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto acelera la acción del género narrativo, no la descripción pausada."
+        },
+        {
+          "letter": "D",
+          "text": "La presencia constante de diálogos entre personajes de ficción costarricenses.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al estilo dialógico de la narrativa o del drama."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La descripción es eminentemente nominalista y se sustenta en la adjetivación para caracterizar cualidades físicas o psicológicas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v2",
+      "statement": "¿Qué tipo de descripción literaria se realiza cuando se retratan únicamente los rasgos internos e intelectuales de un personaje?",
+      "context": "Javier lee una novela donde se describe minuciosamente el carácter moral, los valores y las virtudes del sabio don Carlos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prosopografía (descripción de rasgos físicos).",
+          "is_correct": false,
+          "feedback": "Incorrecto. La prosopografía se enfoca de manera exclusiva en las características externas y fisonomía del personaje."
+        },
+        {
+          "letter": "B",
+          "text": "Etopeya (descripción de rasgos morales y de conducta).",
+          "is_correct": true,
+          "feedback": "Correcto. La etopeya retrata la personalidad, la moral, las costumbres y el carácter de un individuo."
+        },
+        {
+          "letter": "C",
+          "text": "Retrato (fusión balanceada de rasgos externos e internos).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El retrato amalgama de forma equilibrada rasgos físicos y conductuales."
+        },
+        {
+          "letter": "D",
+          "text": "Topografía (descripción pormenorizada del relieve del terreno).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe las características espaciales de un paisaje, no personas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La etopeya es la figura descriptiva centrada en la caracterización psicológica, moral y conductual de un ser o personaje.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v3",
+      "statement": "¿Qué cualidad es indispensable para que una descripción cumpla adecuadamente un propósito de carácter científico y técnico?",
+      "context": "Andrey debe realizar una descripción técnica y objetiva sobre los componentes minerales del suelo del Volcán Irazú.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La libre expresión de las emociones de admiración estética que provoca el volcán.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descripción técnica exige una neutralidad libre de emociones personales."
+        },
+        {
+          "letter": "B",
+          "text": "La objetividad rigurosa, la precisión léxica y el predominio de un tono denotativo e informativo libre de valoraciones.",
+          "is_correct": true,
+          "feedback": "Correcto. Las descripciones técnicas se basan en datos empíricos objetivos explicados con exactitud de vocabulario."
+        },
+        {
+          "letter": "C",
+          "text": "El uso constante de metáforas poéticas referidas a las cenizas como cabelleras grises.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto pertenece a la descripción literaria subjetiva, no a la científica técnica."
+        },
+        {
+          "letter": "D",
+          "text": "La redacción del informe utilizando la variedad lingüística rural o voseo informal costarricense.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se debe usar la variante formal estándar para asegurar el carácter académico científico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La descripción técnica persigue representar la realidad de forma fidedigna y verificable, haciendo uso de un lenguaje denotativo, preciso y científico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v4",
+      "statement": "¿Qué tipo de descripción literaria espacial se efectúa al caracterizar un paisaje o entorno físico inanimado?",
+      "context": "María redacta una carta describiendo detalladamente la plaza central de la ciudad de Heredia tal y como era hace un siglo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Topografía.",
+          "is_correct": true,
+          "feedback": "Correcto. La topografía es la descripción de un lugar, paisaje o espacio geográfico determinado."
+        },
+        {
+          "letter": "B",
+          "text": "Cronografía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cronografía es la descripción de un tiempo o época histórica, no un lugar físico."
+        },
+        {
+          "letter": "C",
+          "text": "Prosopografía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe el físico de una persona, no un espacio geográfico."
+        },
+        {
+          "letter": "D",
+          "text": "Etopeya.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Retrata el carácter de un individuo, no un paisaje o plaza."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La topografía es el recurso que permite pintar con palabras la fisonomía, el relieve y la disposición de los objetos en un entorno geográfico o urbano.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v5",
+      "statement": "¿Qué figura descriptiva se emplea cuando el autor se esmera en caracterizar con palabras una época, un período histórico o un marco de tiempo?",
+      "context": "En un cuento sobre San José de finales del siglo XIX, un fragmento describe las costumbres coloniales durante la época del cultivo del café.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Topografía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe un espacio geográfico físico o relieve, no el tiempo histórico."
+        },
+        {
+          "letter": "B",
+          "text": "Etopeya.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se enfoca en el carácter de una persona, no en el contexto temporal."
+        },
+        {
+          "letter": "C",
+          "text": "Cronografía.",
+          "is_correct": true,
+          "feedback": "Correcto. La cronografía es la descripción de una época, un tiempo histórico, una estación del año o un momento del día."
+        },
+        {
+          "letter": "D",
+          "text": "Prosopografía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Detalla los rasgos físicos de seres humanos o animales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La cronografía es la descripción que contextualiza temporalmente una historia pintando con palabras las características singulares de un período o época histórica.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de las siguientes oraciones representa adecuadamente esta figura descriptiva física?",
+      "context": "Ana redacta una prosopografía del héroe nacional Juan Santamaría para un acto cívico en Alajuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Juan Santamaría poseía un corazón noble lleno de valentía y un infinito amor por Costa Rica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Retrata cualidades internas y morales (etopeya), no rasgos físicos externos."
+        },
+        {
+          "letter": "B",
+          "text": "El joven alajuelense era de tez morena, espaldas anchas, mirada firme y cabello rizado oscuro.",
+          "is_correct": true,
+          "feedback": "Correcto. Describe fielmente las características físicas del héroe, lo que constituye una prosopografía."
+        },
+        {
+          "letter": "C",
+          "text": "La Batalla de Rivas ocurrió el once de abril de mil ochocientos cincuenta y seis en Nicaragua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un hecho fáctico histórico narrado, no una descripción física de una persona."
+        },
+        {
+          "letter": "D",
+          "text": "Ojalá todos los jóvenes de undécimo año recuerden con orgullo el heroico sacrificio del tambor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una expresión desiderativa y moral de opinión, no prosopográfica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La prosopografía se limita a la descripción física, corporal y externa de una persona o ser vivo.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v7",
+      "statement": "¿Qué recurso es característico en el diseño de una caricatura descriptiva literaria?",
+      "context": "Para un proyecto literario, Andrey escribe una caricatura literaria de un personaje codicioso que vive en Liberia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La medición milimétrica exacta de la estatura real del personaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es propio de un peritaje forense o médico, no de la literatura artística."
+        },
+        {
+          "letter": "B",
+          "text": "La deformación y exageración humorística o grotesca de los rasgos físicos y morales más notables de la persona.",
+          "is_correct": true,
+          "feedback": "Correcto. La caricatura literaria distorsiona la realidad hiperbolizando los defectos para lograr un efecto cómico o crítico."
+        },
+        {
+          "letter": "C",
+          "text": "La traducción exacta del texto descriptivo utilizando el latín clásico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uso del latín es ajeno a la naturaleza humorística de la caricatura costarricense moderna."
+        },
+        {
+          "letter": "D",
+          "text": "La abolición total de todo tipo de tropos y figuras literarias en el cuento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, la caricatura literaria rebosa de figuras como la hipérbole y el símil."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La caricatura literiva exagera satíricamente los rasgos físicos o éticos de un personaje, empleando comparaciones insólitas e hipérboles expresivas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el orden organizativo espacial más lógico y eficaz para presentar una descripción topográfica de un sendero forestal?",
+      "context": "Javier elabora una guía turística describiendo los senderos del Parque Nacional Manuel Antonio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar las conclusiones económicas del parque y luego las del MEP.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las variables de presupuestos escolares son ajenas a una guía de naturaleza para senderistas."
+        },
+        {
+          "letter": "B",
+          "text": "Organizar la descripción siguiendo una dirección espacial coherente (por ejemplo: de la entrada al mirador, o de abajo hacia arriba).",
+          "is_correct": true,
+          "feedback": "Correcto. Seguir una secuencia espacial (izquierda a derecha, norte a sur, inicio a fin) facilita que el lector construya la imagen mental del trayecto."
+        },
+        {
+          "letter": "C",
+          "text": "Enumerar los nombres de los científicos por orden de fecha de nacimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto organiza datos de biografías, pero desorienta espacialmente sobre el sendero físico."
+        },
+        {
+          "letter": "D",
+          "text": "Redactar el texto de atrás hacia adelante empezando por los signos de puntuación finales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Destruye la coherencia elemental del idioma español."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La topografía requiere una progresión espacial ordenada que asista a la imaginación visual del receptor, estructurando los elementos de forma secuencial.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál de las siguientes oraciones utiliza términos que apelan de mejor manera a la sinestesia sensorial?",
+      "context": "María realiza una descripción literaria de un atardecer de verano en las playas de Guanacaste.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sol es una estrella amarilla gigante que calienta la arena de la playa diariamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una oración descriptiva llana de carácter astronómico básico, no una sinestesia sensorial."
+        },
+        {
+          "letter": "B",
+          "text": "El horizonte exhalaba un viento de aroma ambarino y el cielo se tiñó de una cálida melodía de colores.",
+          "is_correct": true,
+          "feedback": "Correcto. Mezcla sensaciones de distintos sentidos de forma poética (aroma ambarino - olfato/vista, melodía de colores - oído/vista), logrando una sinestesia."
+        },
+        {
+          "letter": "C",
+          "text": "El agua del mar posee gran cantidad de cloruro de sodio disuelto en cada litro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un hecho químico fáctico puramente científico, no una sinestesia poética."
+        },
+        {
+          "letter": "D",
+          "text": "La temperatura descendió tres grados Celsius conforme se ocultaba el sol en el oeste.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una medición física objetiva propia de un informe meteorológico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La sinestesia es un tropo literario de gran valor descriptivo que asocia sensaciones procedentes de diferentes dominios sensoriales (oído, vista, olfato, gusto, tacto) en una sola expresión artística.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v10",
+      "statement": "¿En qué consiste esta modalidad de descripción literaria?",
+      "context": "Durante una mesa redonda de Español en el Liceo de San José, se define el concepto de 'autorretrato'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la pintura al óleo que realiza un artista costarricense en su taller de San José.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde al ámbito de las artes plásticas, no al análisis textual literario."
+        },
+        {
+          "letter": "B",
+          "text": "En la descripción detallada de sí mismo que hace el propio autor, amalgamando rasgos físicos y de carácter.",
+          "is_correct": true,
+          "feedback": "Correcto. El autorretrato es la descripción en primera persona de la propia fisonomía y personalidad (prosopografía y etopeya unidas)."
+        },
+        {
+          "letter": "C",
+          "text": "En una descripción científica objetiva de una cámara fotográfica digital costarricense.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la descripción de un objeto inanimado ajeno al sujeto mismo de la creación escritural."
+        },
+        {
+          "letter": "D",
+          "text": "En el diario de viaje de un explorador que detalla la fauna silvestre de Puntarenas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es una crónica de viajes o una descripción biológica topográfica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El autorretrato literario unifica la prosopografía y la etopeya bajo una mirada introspectiva y descriptiva del propio escritor sobre sí mismo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.62,
+      "bundle_id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v11",
+      "statement": "¿Cómo se clasifica de forma precisa la descripción literaria del fragmento anterior?",
+      "context": "Lea atentamente el siguiente fragmento descriptivo:\n'Don Joaquín era un anciano de andar enérgico, de espaldas encorvadas por los años y de mirada viva que escudriñaba a su interlocutor tras unos anteojos de plata. Su voz, grave y serena, transmitía una paciencia infinita, propia de quien ha vivido todas las batallas del campo costarricense.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se trata de un retrato literario, pues combina de manera equilibrada la descripción de rasgos físicos y la caracterización moral y psicológica del personaje.",
+          "is_correct": true,
+          "feedback": "Correcto. Detalla rasgos físicos (andar, espaldas, mirada, voz) e internos (paciencia, serena, carácter), configurando un retrato."
+        },
+        {
+          "letter": "B",
+          "text": "Es una etopeya pura porque excluye cualquier mención a la vestimenta, fisonomía o rasgos biológicos externos del personaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto abunda en rasgos físicos (espaldas, andar, mirada, ojos), por lo que no es una etopeya pura."
+        },
+        {
+          "letter": "C",
+          "text": "Corresponde a una topografía detallada sobre las colinas pedregosas donde don Joaquín solía sembrar caña.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se enfoca en un personaje humano, no describe paisajes o colinas."
+        },
+        {
+          "letter": "D",
+          "text": "Es una caricatura burlesca que ridiculiza los rasgos físicos y la vejez del anciano de Cartago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento trata al personaje con respeto y tono solemne, no hay parodia, burla o deformación grotesca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El retrato literario es una síntesis descriptiva integral que fusiona la apariencia exterior del individuo con su intimidad psicológica y espiritual.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v12",
+      "statement": "¿Qué intención estética y expresiva predomina en la selección léxica del fragmento anterior?",
+      "context": "Analice el siguiente fragmento de una descripción del Volcán Arenal:\n'La imponente mole cónica del volcán Arenal se alzaba majestuosa recortando su silueta perfecta sobre un cielo cargado de nubes plomizas. De su cúspide brotaba un lento hilo de vapor grisáceo, un recordatorio silencioso de la inmensa fuerza encerrada en sus entrañas de basalto.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La intención de recopilar datos numéricos precisos sobre la altitud e inclinación de la mole volcánica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No presenta datos numéricos, porcentajes o mediciones de altitud."
+        },
+        {
+          "letter": "B",
+          "text": "La intención de evocar el misterio, la imponencia y el poder telúrico del volcán mediante un lenguaje lírico sumamente evocador y descriptivo.",
+          "is_correct": true,
+          "feedback": "Correcto. El uso de adjetivos evocadores ('imponente mole', 'majestuosa', 'silencio', 'entrañas de basalto') busca crear impacto emocional y admiración estética en el lector."
+        },
+        {
+          "letter": "C",
+          "text": "La intención de instruir sobre las vías de evacuación en caso de una erupción en Alajuela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No provee directrices de seguridad ni planes de emergencia escolar."
+        },
+        {
+          "letter": "D",
+          "text": "La intención de descalificar los programas turísticos que visitan la provincia de Guanacaste.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento alaba la belleza geográfica de la región y no emite juicios sobre turismo o finanzas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La descripción literaria subjetiva se sirve de la adjetivación expresiva y de la personificación metafórica para impregnar la escena de valores sensoriales y afectivos.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v13",
+      "statement": "¿De qué manera esta descripción procesal enriquece el realismo cultural de la obra?",
+      "context": "En una novela costumbrista ambientada en Alajuela, se describe minuciosamente el proceso de elaboración del dulce de caña en un viejo trapiche de bueyes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anula los conflictos de los personajes reduciendo el libro a un manual de repostería del MEP.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pasaje enriquece el marco cultural de fondo sin anular el desarrollo dramático de la trama."
+        },
+        {
+          "letter": "B",
+          "text": "Involucra al lector en las tradiciones productivas y la cotidianidad rural costarricense, aportando verosimilitud histórica y color local a la trama.",
+          "is_correct": true,
+          "feedback": "Correcto. Detallar oficios y tecnologías tradicionales ayuda a preservar la identidad colectiva y dota de realismo a la ficción."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituye por completo los capítulos del nudo dramático para acelerar el desenlace de la historia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descripción de costumbres rurales ambienta, no suprime las acciones principales del relato."
+        },
+        {
+          "letter": "D",
+          "text": "Instruye científicamente sobre la composición molecular de la sacarosa agroindustrial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiene un propósito estético y folclórico, no es un informe químico de laboratorio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La descripción de costumbres y oficios tradicionales costarricenses consolida la verosimilitud del contexto, estrechando el vínculo de identidad con la obra.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v14",
+      "statement": "¿Qué recurso perceptivo predomina en la construcción espacial de este fragmento urbano?",
+      "context": "Lea con atención el siguiente pasaje descriptivo:\n'El mercado central de San José era un laberinto bullicioso de aromas que se entrelazaban con el griterío de los vendedores. El perfume de los granos de café recién molidos chocaba con el olor húmedo del cilantro de coyote y la acidez de las frutas maduras apiladas en los tramos de madera.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La descripción de formas geométricas exactas y medidas métricas de los pasillos del mercado central.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se mencionan dimensiones, distancias o metros lineales."
+        },
+        {
+          "letter": "B",
+          "text": "El uso de la percepción olfativa y auditiva para caracterizar el dinamismo, la vitalidad y la diversidad del ambiente comercial josefino.",
+          "is_correct": true,
+          "feedback": "Correcto. Enfatiza olores (café, cilantro, frutas) y sonidos (griterío, bullicio) para que el lector reconstruya la atmósfera sensorial del mercado."
+        },
+        {
+          "letter": "C",
+          "text": "La enumeración cronológica de los decretos municipales costarricenses de sanidad del mercado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un fragmento literario descriptivo, no legal o normativo municipal."
+        },
+        {
+          "letter": "D",
+          "text": "La descripción de las especies de aves silvestres que anidan en el techo del edificio patrimonial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se hace mención de aves o ecología de nidos en el fragmento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La construcción espacial literaria suele trascender lo puramente visual, incorporando impresiones olfativas y sonoras que sumergen sensitivamente al receptor en la escena.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v15",
+      "statement": "Al evaluar la calidad estilística y retórica de esta descripción, ¿cuál es el principal defecto de redacción presente?",
+      "context": "Un jurado costarricense evalúa la descripción física de un personaje de fantasía en una antología juvenil elaborada en Heredia. El pasaje dice:\n'La criatura era sumamente gigantesca y poseía unos enormes brazos increíblemente grandes que terminaban en unas manos gigantes con unos dedos colosales.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La falta de mención del cantón específico de Heredia donde habita la criatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lugar geográfico es opcional en la literatura fantástica y no constituye un defecto de redacción."
+        },
+        {
+          "letter": "B",
+          "text": "La redundancia léxica extrema e ineficaz (pleonasmo y repetición de sinónimos de tamaño: 'gigantesca', 'enormes', 'grandes', 'gigantes', 'colosales') que empobrece la riqueza del vocabulario descriptivo.",
+          "is_correct": true,
+          "feedback": "Correcto. Repetir vocablos de significado idéntico de forma continua denota falta de recursos lingüísticos y cansa la lectura."
+        },
+        {
+          "letter": "C",
+          "text": "Que la criatura fantástica no posee rasgos humanos tradicionales ni valores morales de Costa Rica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los seres fantásticos no requieren poseer rasgos humanos para estar bien construidos narrativamente."
+        },
+        {
+          "letter": "D",
+          "text": "La ausencia de rimas consonantes al final de cada adjetivo calificativo de la frase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La prosa descriptiva literaria no tiene la exigencia formal de rimar al final de las oraciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La descripción de calidad evita la repetición viciosa de sinónimos absolutos de tamaño o cualidad, prefiriendo la precisión, los símiles originales y la variedad léxica.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v16",
+      "statement": "¿Cómo se califica la coherencia pragmática de este texto de carácter descriptivo-publicitario?",
+      "context": "Lea la siguiente descripción de un hotel turístico ubicado en el Caribe costarricense:\n'El hotel ofrece cabañas de madera rústica rodeadas de un exuberante jardín tropical habitado por monos congos y tucanes, brindando una experiencia inmersiva de total tranquilidad frente al mar.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incoherente porque los monos congos son animales que gritan muy fuerte y arruinan la tranquilidad prometida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el contexto de turismo ecológico, los congos y tucanes simbolizan naturaleza idílica y armonía, no molestia auditiva."
+        },
+        {
+          "letter": "B",
+          "text": "Altamente coherente, ya que selecciona estratégicamente rasgos exóticos agradables del entorno ecológico de Limón para construir una imagen de paraíso natural que atraiga al consumidor de forma persuasiva.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto publicitario destaca la flora y fauna amigables para crear una representación idealizada del destino vacacional."
+        },
+        {
+          "letter": "C",
+          "text": "Poco sólida ya que debió redactarse utilizando fórmulas algebraicas y ecuaciones de balances hoteleros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un folleto descriptivo turístico no es un informe contable o financiero matemático."
+        },
+        {
+          "letter": "D",
+          "text": "Inválida debido a que el MEP costarricense prohíbe la propaganda de hoteles comerciales en las aulas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se evalúa el texto descriptivo como tipología textual y herramienta de comunicación, lo cual es de gran valor curricular."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La descripción de carácter publicitario ejerce una selección sesgada y laudatoria de los elementos del espacio, buscando generar un impacto de atracción o seducción comercial en el destinatario.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v17",
+      "statement": "Al analizar la veracidad espacial y cultural de esta descripción realista costarricense, ¿cuál es el principal anacronismo o incongruencia contextual presente?",
+      "context": "En un artículo sobre la historia del arte costarricense, un ensayista escribe:\n'El pintor herediano esculpió un paisaje invernal donde plasmó las copas nevadas de las montañas josefinas y el gélido viento que congelaba las aguas de la laguna.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mención de la provincia de San José como un territorio con montañas de relieve pronunciado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. San José es un territorio montañoso (Cerro de la Muerte, etc.), lo cual es geográficamente real."
+        },
+        {
+          "letter": "B",
+          "text": "La falta de precisión técnica al no detallar el tipo de pintura al óleo utilizada por el artista de Heredia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se requiere detallar el tipo de pintura química exacta para comprender la escena descrita."
+        },
+        {
+          "letter": "C",
+          "text": "La representación de un invierno con paisajes de nieve y lagunas congeladas en el Valle Central de Costa Rica, lo cual es ajeno al clima tropical del país.",
+          "is_correct": true,
+          "feedback": "Correcto. En Costa Rica, el 'invierno' equivale a la estación lluviosa de clima tropical, por lo que las montañas nevadas y lagunas congeladas son incongruentes con la geografía realista nacional."
+        },
+        {
+          "letter": "D",
+          "text": "Sostener que un pintor herediano de Alajuela pueda realizar paisajes de la provincia de San José.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un artista puede pintar cualquier paisaje de su país o del extranjero independientemente de su lugar de nacimiento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La literatura realista y costumbrista exige coherencia con las variables ecológicas y geográficas del territorio nacional que pretende retratar fidedignamente.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v18",
+      "statement": "¿Qué figura de pensamiento humorística predomina en esta curiosa descripción de la mascota?",
+      "context": "Considere el siguiente fragmento descriptivo literario escrito por un estudiante de Alajuela:\n'La gata de don José era tan ágil como una tortuga cansada y tan silenciosa como una comparsa del carnaval de Limón, lo que fascinaba a todos los vecinos del cantón.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Símil de carácter solemne y exaltación de las cualidades biológicas felinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El símil compara a un felino ágil con una tortuga cansada y silenciosa con un carnaval ruidoso, lo cual es paradójico y cómico, no solemne."
+        },
+        {
+          "letter": "B",
+          "text": "La ironía humorística basada en la comparación incongruente de cualidades opuestas (agilidad-tortuga, silencio-comparsa de Limón) para provocar extrañeza y jocosidad.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto juega irónicamente comparando la agilidad y el silencio del gato con cosas caracterizadas precisamente por la lentitud y el ruido estridente."
+        },
+        {
+          "letter": "C",
+          "text": "Una topografía detallada sobre las playas de la costa limonense durante los desfiles anuales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto describe una mascota felina, no el relieve geográfico de la costa de Limón."
+        },
+        {
+          "letter": "D",
+          "text": "Una cronografía exacta del desarrollo de los felinos costarricenses desde el siglo diecinueve.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No describe épocas históricas o tiempo, describe rasgos irónicos de un animal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ironía descriptiva asocia rasgos contrapuestos de manera intencional, logrando una distorsión semántica lúdica y expresiva que descoloca las expectativas del lector.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es la función semántica de un epíteto en la descripción literaria tradicional?",
+      "context": "Durante una asamblea de Español en Cartago, se analiza la función de los adjetivos especificativos frente a los adjetivos explicativos (epítetos) en los textos descriptivos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Restringir la definición científica del sustantivo para evitar interpretaciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El epíteto no busca restricción científica, busca realzar estéticamente."
+        },
+        {
+          "letter": "B",
+          "text": "Destacar una cualidad intrínseca o natural del sustantivo con fines puramente estéticos y ornamentales (como 'blanca nieve' o 'manso buey').",
+          "is_correct": true,
+          "feedback": "Correcto. El epíteto es un adjetivo explicativo que resalta características inherentes de forma estético-literaria."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituir el uso de verbos conjugados en la oración principal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El adjetivo modifica al sustantivo, jamás reemplaza la función sintáctica del núcleo verbal."
+        },
+        {
+          "letter": "D",
+          "text": "Señalar la procedencia de los personajes de la novela histórica costarricense.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Señalar la procedencia se realiza con adjetivos gentilicios, no con epítetos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El epíteto es un recurso estilístico clave de la descripción poética y clásica que enfatiza propiedades notorias o consustanciales al objeto sin delimitarlo de forma restrictiva.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.32,
+      "bundle_id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v20",
+      "statement": "¿Cómo se denomina a la descripción literaria donde el sujeto describe un paisaje en movimiento, por ejemplo, contemplado desde la ventana del tren al Caribe?",
+      "context": "Un grupo de estudiantes costarricenses estudia los diferentes enfoques de la tipología descriptiva para las Pruebas Nacionales del MEP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Topografía estática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La topografía estática asume que el observador y el paisaje están inmóviles durante el proceso descriptivo."
+        },
+        {
+          "letter": "B",
+          "text": "Descripción cinematográfica o topografía dinámica.",
+          "is_correct": true,
+          "feedback": "Correcto. Ocurre cuando el observador se desplaza, registrando la variación constante de las formas en el espacio geográfico conforme avanza."
+        },
+        {
+          "letter": "C",
+          "text": "Prosopografía en relieve.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se refiere a rasgos humanos físicos y no al desplazamiento espacial frente a un paisaje natural."
+        },
+        {
+          "letter": "D",
+          "text": "Cronografía de secuencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la descripción del transcurrir temporal o de épocas, no del movimiento geográfico observable."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La topografía dinámica o descripción cinematográfica capta la realidad espacial en movimiento, proyectando una secuencia fluida de sensaciones visuales cambiantes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.3,
+      "bundle_id": "CR-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    }
+  ]
+}

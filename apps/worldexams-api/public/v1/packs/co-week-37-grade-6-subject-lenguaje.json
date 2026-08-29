@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-37-grade-6-subject-lengua",
+    "generated_at": "2026-06-18T23:58:37.516Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle-v1",
+      "statement": "¿A qué se refiere la **cohesión** en un texto escrito?",
+      "context": "En el Colegio La Enseñanza de Barranquilla, los estudiantes aprenden los mecanismos que \"amarran\" las palabras dentro de un texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A la idea principal que el autor quiere transmitir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso se refiere a la coherencia."
+        },
+        {
+          "letter": "B",
+          "text": "A la unión y conexión gramatical entre las palabras, oraciones y párrafos mediante el uso de nexos, pronombres y repeticiones.",
+          "is_correct": true,
+          "feedback": "Correcto. La cohesión es la propiedad \"visible\" que articula las partes del texto."
+        },
+        {
+          "letter": "C",
+          "text": "A que el texto sea muy divertido para el lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un texto puede ser serio y estar perfectamente cohesionado."
+        },
+        {
+          "letter": "D",
+          "text": "Al número de páginas que tiene un libro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no garantiza la conexión interna del texto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La cohesión es una propiedad formal del texto que permite que las partes se relacionen entre sí de manera correcta según las reglas del idioma.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el mecanismo de cohesión que consiste en reemplazar una palabra por otra con significado similar, como usar \"canino\" en lugar de \"perro\"?",
+      "context": "Un estudiante de 6° grado en Medellín analiza cómo evitar la repetición innecesaria de palabras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La repetición literal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La repetición usaría la misma palabra \"perro\"."
+        },
+        {
+          "letter": "B",
+          "text": "La sinonimia.",
+          "is_correct": true,
+          "feedback": "Correcto. El uso de sinónimos evita la monotonía y enriquece el texto manteniendo el referente."
+        },
+        {
+          "letter": "C",
+          "text": "El uso de mayúsculas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un mecanismo de cohesión léxica."
+        },
+        {
+          "letter": "D",
+          "text": "La puntuación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La puntuación organiza pausas, no reemplaza términos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La sinonimia es un recurso de cohesión léxica que permite volver sobre un tema sin cansar al lector con la misma palabra repetida constantemente.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle-v3",
+      "statement": "Completa la oración con el conector de **oposición** adecuado: \"Los jugadores entrenaron muy fuerte; ________, no lograron ganar el partido\".",
+      "context": "Un grupo de estudiantes en Cali redacta un texto sobre el deporte y debe usar **conectores lógicos**.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Además.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Además\" indica suma, no oposición."
+        },
+        {
+          "letter": "B",
+          "text": "Porque.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Porque\" indica causa."
+        },
+        {
+          "letter": "C",
+          "text": "Sin embargo.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Sin embargo\" es un conector adversativo que introduce una idea contraria a la anterior."
+        },
+        {
+          "letter": "D",
+          "text": "Por lo tanto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Indica consecuencia, no oposición."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los conectores lógicos son palabras que establecen relaciones de sentido (causa, consecuencia, oposición, tiempo) entre las oraciones, facilitando el hilo conductor del texto.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle-v4",
+      "statement": "En la oración: \"María y Juan fueron al parque. **Ellos** compraron helados\", la palabra resaltada cumple una función de cohesión porque:",
+      "context": "En un taller de lengua en Bogotá, se estudia el uso de los **pronombres** como herramienta de cohesión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indica que la acción ocurrió en el pasado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es función del verbo \"compraron\"."
+        },
+        {
+          "letter": "B",
+          "text": "Sustituye a los sustantivos \"María y Juan\" para evitar repetirlos.",
+          "is_correct": true,
+          "feedback": "Correcto. Este mecanismo se llama referencia o anáfora."
+        },
+        {
+          "letter": "C",
+          "text": "Describe cómo son físicamente María y Juan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pronombre no da características descriptivas."
+        },
+        {
+          "letter": "D",
+          "text": "Une dos oraciones mediante una coma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pronombre no es un signo de puntuación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La referencia pronominal permite mantener el hilo temático refiriéndose a personas o cosas ya mencionadas sin necesidad de nombrarlas nuevamente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de los siguientes grupos de conectores sirve para organizar la **secuencia temporal** de una narración?",
+      "context": "Un estudiante de Bucaramanga quiere organizar las ideas de su exposición siguiendo un orden temporal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pero, mas, sino, aunque.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son conectores de oposición."
+        },
+        {
+          "letter": "B",
+          "text": "Primero, luego, después, finalmente.",
+          "is_correct": true,
+          "feedback": "Correcto. Son conectores temporales que ordenan los hechos cronológicamente."
+        },
+        {
+          "letter": "C",
+          "text": "Ya que, puesto que, debido a.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son conectores de causa."
+        },
+        {
+          "letter": "D",
+          "text": "Es decir, o sea, en otras palabras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son conectores explicativos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los conectores de orden o secuencia son vitales para la cohesión en textos narrativos e instructivos, guiando al lector a través de los pasos o momentos del relato.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle-v6",
+      "statement": "¿En qué consiste el mecanismo de cohesión llamado **elipsis**?",
+      "context": "Un grupo de alumnos en Cartagena analiza un texto que utiliza la **elipsis** para ser más fluido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En repetir la misma idea con las mismas palabras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es redundancia."
+        },
+        {
+          "letter": "B",
+          "text": "En omitir (quitar) una palabra que ya se sobreentiende para no ser repetitivo.",
+          "is_correct": true,
+          "feedback": "Correcto. Ejemplo: \"Yo estudio lengua; mi hermano, matemáticas\" (se omite el verbo estudia)."
+        },
+        {
+          "letter": "C",
+          "text": "En escribir círculos alrededor de las palabras importantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un recurso gráfico, sino lingüístico."
+        },
+        {
+          "letter": "D",
+          "text": "En usar palabras que rimen entre sí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es propio del género lírico (rima)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La elipsis aprovecha el contexto para evitar la pesadez de repetir elementos obvios, haciendo que el texto sea más ágil y elegante.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de las siguientes oraciones utiliza correctamente un conector de **consecuencia**?",
+      "context": "En una clase en Pereira, se estudia cómo los conectores de **consecuencia** cierran razonamientos lógicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Llovió mucho **pero** no me mojé.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Indica oposición."
+        },
+        {
+          "letter": "B",
+          "text": "Llovió mucho **y** saqué el paraguas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Indica suma de acciones."
+        },
+        {
+          "letter": "C",
+          "text": "Llovió mucho; **por consiguiente**, se inundó el patio.",
+          "is_correct": true,
+          "feedback": "Correcto. El segundo hecho es un resultado lógico del primero."
+        },
+        {
+          "letter": "D",
+          "text": "Llovió mucho **mientras** yo dormía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Indica simultaneidad temporal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los conectores de consecuencia (así que, por lo tanto, en consecuencia) establecen una relación de efecto entre la primera idea y la segunda.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle-v8",
+      "statement": "Analiza la oración: \"Me gusta el chocolate, **pero** es muy rico\". ¿Por qué el uso del conector es incorrecto desde el punto de vista de la cohesión?",
+      "context": "Un docente de Popayán evalúa un párrafo donde el estudiante usa mal el conector \"pero\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el chocolate no es rico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es una opinión personal, no un análisis gramatical."
+        },
+        {
+          "letter": "B",
+          "text": "Porque \"pero\" es una palabra muy corta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud de la palabra no afecta su corrección."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el conector \"pero\" indica oposición, y ser \"rico\" no se opone a que \"me guste\".",
+          "is_correct": true,
+          "feedback": "Correcto. Los conectores deben respetar la lógica de las ideas que unen."
+        },
+        {
+          "letter": "D",
+          "text": "Porque falta un punto final después de la palabra chocolate.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El error es de significado lógico del nexo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La cohesión requiere que el nexo elegido coincida con la relación real entre las ideas. Si las ideas se apoyan entre sí, se requiere un conector de suma (y) o de causa (porque).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle-v9",
+      "statement": "En un texto sobre la fauna de los llanos orientales, aparecen las palabras: \"chigüiro\", \"venado\", \"babilla\" y \"garza\". ¿Cómo ayudan estas palabras a la cohesión del texto?",
+      "context": "En un ejercicio de análisis en Villavicencio, se estudia la **cohesión léxica** por campos semánticos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No ayudan, solo sirven para aprender nombres de animales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vocabulario seleccionado tiene una función estructural."
+        },
+        {
+          "letter": "B",
+          "text": "Crean un campo semántico relacionado con la fauna llanera, dándole unidad léxica al texto.",
+          "is_correct": true,
+          "feedback": "Correcto. La selección de palabras de una misma familia o tema refuerza la cohesión."
+        },
+        {
+          "letter": "C",
+          "text": "Ayudan a que el texto rime y suene como una canción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No necesariamente hay rima en un listado temático."
+        },
+        {
+          "letter": "D",
+          "text": "Confunden al lector porque son muchos animales diferentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, ayudan a situar al lector en el contexto ambiental."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La cohesión léxica se logra cuando el autor utiliza palabras que pertenecen a un mismo ámbito de la realidad, creando una red de significados coherente.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.54,
+      "bundle_id": "CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle-v10",
+      "statement": "Lee el texto: \"Fui al mercado. Compré papas. Compré cebollas. Volví a casa. Estaba cansado\". ¿Cuál es la mejor forma de mejorar la **cohesión** de este párrafo?",
+      "context": "Un estudiante de 6° grado en Pasto debe corregir un párrafo que parece una lista de mercado porque no tiene nexos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribir las oraciones en diferentes páginas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso empeora la conexión."
+        },
+        {
+          "letter": "B",
+          "text": "Usar conectores y pronombres: \"Fui al mercado y compré papas y cebollas; luego volví a casa porque estaba cansado\".",
+          "is_correct": true,
+          "feedback": "Correcto. El uso de nexos (y, luego, porque) y la elipsis del sujeto dan fluidez y conexión al texto."
+        },
+        {
+          "letter": "C",
+          "text": "Ponerle un título más largo al texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El título no soluciona los problemas internos de conexión."
+        },
+        {
+          "letter": "D",
+          "text": "Usar solo puntos seguidos entre cada palabra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso haría el texto aún más entrecortado e incoherente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un texto sin cohesión es una suma de oraciones aisladas. La verdadera escritura consiste en tejer esas oraciones mediante mecanismos lingüísticos para crear un mensaje fluido y profesional.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Protocolo v5.2 respetado. |\n| Curricular | 40/40 | Alineado con DBA de G6 sobre cohesión. |\n| Contexto | 20/20 | Referencias a Barranquilla, Medellín, Cali, etc. |\n| Redacción | 10/10 | Alta calidad en las preguntas y respuestas. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.48,
+      "bundle_id": "CO-LEN-6-2026-W37-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

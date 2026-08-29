@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pa",
+    "pack_id": "pa-week-5-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:39.060Z"
+  },
+  "questions": [
+    {
+      "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el factor común de la expresión algebraica $12x^3 - 8x^2 + 4x$?",
+      "context": "Un estudiante en un bachillerato en David repasa el concepto de factor común para simplificar una expresión de costos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x$",
+          "is_correct": false,
+          "feedback": "Aunque x es un factor común, no representa el máximo factor numérico y literal posible."
+        },
+        {
+          "letter": "B",
+          "text": "$4$",
+          "is_correct": false,
+          "feedback": "Aunque 4 es el máximo común divisor numérico, falta incluir la variable común con menor exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$4x$",
+          "is_correct": true,
+          "feedback": "Correcto. El máximo común divisor de 12, 8 y 4 es 4, y la variable común con menor exponente es x."
+        },
+        {
+          "letter": "D",
+          "text": "$4x^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El término final 4x no contiene la potencia x^2, por lo que no puede ser común."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificación del máximo factor común (numérico y literal) en un polinomio.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la forma factorizada de $x^2 - 100$?",
+      "context": "En una clase de matemáticas en Santiago, se explica cómo reconocer una diferencia de cuadrados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x - 10)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este desarrollo resultaría en el trinomio x^2 - 20x + 100."
+        },
+        {
+          "letter": "B",
+          "text": "$(x - 10)(x + 10)$",
+          "is_correct": true,
+          "feedback": "Correcto. Una diferencia de cuadrados a^2 - b^2 se factoriza como el producto de suma por diferencia."
+        },
+        {
+          "letter": "C",
+          "text": "$(x - 50)(x + 50)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al extraer la raíz cuadrada de 100; se usó la mitad del valor en su lugar."
+        },
+        {
+          "letter": "D",
+          "text": "$(x^2 - 10)(x^2 + 10)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se debe mantener la potencia cuadrada en los factores binómicos resultantes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación del caso de factorización \"Diferencia de cuadrados perfectos\".\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v3",
+      "statement": "Factoriza por agrupación la expresión $ax + ay + bx + by$.",
+      "context": "Un carpintero en Chitré utiliza la factorización por agrupación para dividir el diseño de un mueble modular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(a + b) + (x + y)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los factores finales deben estar multiplicándose, no sumándose entre sí."
+        },
+        {
+          "letter": "B",
+          "text": "$(a + b)(x + y)$",
+          "is_correct": true,
+          "feedback": "Correcto. Agrupando por factor común: a(x+y) + b(x+y) = (a+b)(x+y)."
+        },
+        {
+          "letter": "C",
+          "text": "$ab(x + y)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicaron erróneamente los términos comunes en lugar de sumarlos como un factor."
+        },
+        {
+          "letter": "D",
+          "text": "$(ax + by)(ay + bx)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Agrupación defectuosa que no preserva la igualdad con la expresión original."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprensión y aplicación del método de factorización por agrupación de términos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v4",
+      "statement": "Factoriza el trinomio $x^2 + 6x + 9$.",
+      "context": "Un estudiante en Penonomé reconoce un trinomio cuadrado perfecto en el cálculo de un área.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x + 4.5)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió el término lineal entre 2 sin verificar la raíz del término constante."
+        },
+        {
+          "letter": "B",
+          "text": "$(x + 3)^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Es un trinomio cuadrado perfecto porque sqrt(x^2)=x, sqrt(9)=3 y 2*x*3=6x."
+        },
+        {
+          "letter": "C",
+          "text": "$(x + 3)(x - 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a una diferencia de cuadrados, resultando en x^2 - 9."
+        },
+        {
+          "letter": "D",
+          "text": "$(x + 9)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se utilizó el valor de la constante como raíz en lugar de extraer su raíz cuadrada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación y factorización de un Trinomio Cuadrado Perfecto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v5",
+      "statement": "Factoriza la expresión $x^2 + 5x + 6$.",
+      "context": "En una escuela de Aguadulce, se enseña a factorizar buscando números que cumplan condiciones de suma y producto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x + 6)(x + 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el producto es 6, la suma de las constantes es 7, no 5."
+        },
+        {
+          "letter": "B",
+          "text": "$(x + 3)(x + 2)$",
+          "is_correct": true,
+          "feedback": "Correcto. Se buscan dos números que multiplicados den 6 y sumados den 5; estos son 3 y 2."
+        },
+        {
+          "letter": "C",
+          "text": "$(x - 3)(x - 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto de las constantes es +6 pero su suma daría un valor de -5."
+        },
+        {
+          "letter": "D",
+          "text": "$(x + 5)(x + 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ni el producto ni la suma de estas constantes coinciden con el trinomio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Factorización de trinomios de la forma x^2 + bx + c mediante la búsqueda de factores del término independiente.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la factorización correcta de la expresión $x^3 - 8$?",
+      "context": "Un ingeniero hidráulico en el Canal factoriza una diferencia de cubos para una ecuación de flujo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x - 2)^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta potencia de binomio generaría términos cuadráticos y lineales adicionales."
+        },
+        {
+          "letter": "B",
+          "text": "$(x - 2)(x^2 + 2x + 4)$",
+          "is_correct": true,
+          "feedback": "Correcto. Siguiendo la regla a^3 - b^3 = (a-b)(a^2 + ab + b^2) con a=x y b=2."
+        },
+        {
+          "letter": "C",
+          "text": "$(x - 2)(x^2 - 2x + 4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En una diferencia de cubos, todos los términos del factor de segundo grado son positivos."
+        },
+        {
+          "letter": "D",
+          "text": "$(x + 2)(x^2 - 2x + 4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta corresponde a la factorización de una suma de cubos (x^3 + 8)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación del caso de factorización de Diferencia de Cubos Perfectos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v7",
+      "statement": "Factoriza el trinomio $2x^2 + 7x + 3$.",
+      "context": "Un arquitecto en Ciudad de Panamá utiliza factorización para determinar dimensiones estructurales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(2x + 3)(x + 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al expandir este producto, el término central resultaría en 5x, no 7x."
+        },
+        {
+          "letter": "B",
+          "text": "$(2x + 1)(x + 3)$",
+          "is_correct": true,
+          "feedback": "Correcto. 2x*x + 6x + x + 3 = 2x^2 + 7x + 3 tras realizar la distribución."
+        },
+        {
+          "letter": "C",
+          "text": "$(2x + 7)(x + 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto de los términos constantes daría 7 en lugar de la unidad 3."
+        },
+        {
+          "letter": "D",
+          "text": "$(x + 3)(x + 0.5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representación inválida de los factores enteros para el polinomio dado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Factorización de trinomios de la forma ax^2 + bx + c mediante descomposición de términos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v8",
+      "statement": "Factoriza totalmente la expresión $25a^2 - 40ab + 16b^2$.",
+      "context": "Un programador panameño simplifica una expresión racional factorizando un trinomio en el denominador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(5a + 4b)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dado que el término central es negativo, el factor debe ser una diferencia."
+        },
+        {
+          "letter": "B",
+          "text": "$(5a - 4b)^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Las raíces son 5a y 4b, y el doble producto de ambas coincide con el término central."
+        },
+        {
+          "letter": "C",
+          "text": "$(5a - 4b)(5a + 4b)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es la factorización de una diferencia de cuadrados (25a^2 - 16b^2)."
+        },
+        {
+          "letter": "D",
+          "text": "$5a - 4b$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta elevar la expresión factorizada a la potencia cuadrada correspondiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Factorización de trinomios cuadrados perfectos con coeficientes en los términos extremos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v9",
+      "statement": "Factoriza la expresión $27 + y^3$.",
+      "context": "Un estudiante de ingeniería en la UTP simplifica una fracción factorizando una suma de cubos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(3 + y)^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el cubo de una suma y contiene términos polinómicos adicionales."
+        },
+        {
+          "letter": "B",
+          "text": "$(3 + y)(9 - 3y + y^2)$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la regla a^3 + b^3 = (a+b)(a^2 - ab + b^2) con a=3 y b=y."
+        },
+        {
+          "letter": "C",
+          "text": "$(3 + y)(9 + 3y + y^2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En una suma de cubos, el término central del trinomio factor debe ser negativo."
+        },
+        {
+          "letter": "D",
+          "text": "$(3 - y)(9 + 3y + y^2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta corresponde a la factorización de la diferencia de cubos (27 - y^3)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación del caso de factorización de Suma de Cubos Perfectos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la factorización completa de la expresión $3x^4 - 48$?",
+      "context": "Un analista en Ciudad de Panamá factoriza un polinomio de cuarto grado extrayendo factores comunes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3(x^4 - 16)$",
+          "is_correct": false,
+          "feedback": "Incompleto. El binomio resultante aún puede factorizarse como una diferencia de cuadrados."
+        },
+        {
+          "letter": "B",
+          "text": "$3(x^2 - 4)(x^2 + 4)$",
+          "is_correct": false,
+          "feedback": "Incompleto. El primer factor binómico todavía puede reducirse a factores lineales."
+        },
+        {
+          "letter": "C",
+          "text": "$3(x - 2)(x + 2)(x^2 + 4)$",
+          "is_correct": true,
+          "feedback": "Correcto. Se extrae el factor 3 y se aplican diferencias de cuadrados sucesivamente."
+        },
+        {
+          "letter": "D",
+          "text": "$3(x - 2)^2 (x + 2)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de cuadrados x^2 + 4 no se descompone en estos factores reales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ejecución de factorizaciones sucesivas combinando factor común y diferencia de cuadrados.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v11",
+      "statement": "Factoriza por agrupación la siguiente expresión: $x^2 + xy + xz + xy + y^2 + yz$.",
+      "context": "Un geómetra en Chiriquí descompone un polinomio de seis términos por agrupación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x + y)(x + y + z)$",
+          "is_correct": true,
+          "feedback": "Correcto. Agrupando x(x+y+z) + y(x+y+z) se obtiene el producto de los dos factores."
+        },
+        {
+          "letter": "B",
+          "text": "$(x + y)^2 + z$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto no representa una forma factorizada (producto de factores) completa."
+        },
+        {
+          "letter": "C",
+          "text": "$xy(x + y + z)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor común extraído de los primeros tres términos no coincide con esta forma."
+        },
+        {
+          "letter": "D",
+          "text": "$(x + z)(x + y)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Faltan términos en el desarrollo de este producto para igualar a la expresión inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Factorización por agrupación de términos en polinomios de varios términos.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v12",
+      "statement": "Factoriza la expresión algebraica: $(x + 1)^2 - 4$.",
+      "context": "En una competencia de matemáticas, se pide factorizar una diferencia de cuadrados binómicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x - 1)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desarrollo de esta potencia no iguala al valor del binomio original."
+        },
+        {
+          "letter": "B",
+          "text": "$(x + 3)(x - 1)$",
+          "is_correct": true,
+          "feedback": "Correcto. Es una diferencia de cuadrados (x+1+2)(x+1-2), que simplifica a estos factores."
+        },
+        {
+          "letter": "C",
+          "text": "$(x + 1 + 4)(x + 1 - 4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se utilizó el valor 4 en lugar de su raíz cuadrada 2 para la factorización."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 + 2x - 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la forma expandida del polinomio, no su forma factorizada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación de la diferencia de cuadrados sobre bases que son expresiones compuestas (binomios).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la forma factorizada del trinomio $6x^2 - 7x - 3$?",
+      "context": "Un ingeniero de software optimiza una rutina de factorización de trinomios complejos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(6x + 1)(x - 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al expandir, el término central sería -17x en lugar del valor de -7x requerido."
+        },
+        {
+          "letter": "B",
+          "text": "$(3x + 1)(2x - 3)$",
+          "is_correct": true,
+          "feedback": "Correcto. 6x^2 - 9x + 2x - 3 = 6x^2 - 7x - 3 tras realizar la expansión."
+        },
+        {
+          "letter": "C",
+          "text": "$(3x - 1)(2x + 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los signos de las constantes están invertidos, lo que afectaría al signo central."
+        },
+        {
+          "letter": "D",
+          "text": "$(2x - 1)(3x + 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto de las constantes daría el valor correcto, pero el resto no."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Factorización de trinomios con coeficientes principales mayores a 1 y signos negativos.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la factorización de $x^4 + x^2 + 1$? (Identidad de Argand).",
+      "context": "Un experto en criptografía utiliza la factorización de potencias pares para un algoritmo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x^2 + 1)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desarrollo de este cuadrado sobraría o faltaría un término de x^2."
+        },
+        {
+          "letter": "B",
+          "text": "$(x^2 + x + 1)(x^2 - x + 1)$",
+          "is_correct": true,
+          "feedback": "Correcto. Se completa el trinomio (x^2+1)^2 - x^2 y se aplica diferencia de cuadrados."
+        },
+        {
+          "letter": "C",
+          "text": "$(x^2 + x - 1)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta expresión expandida no coincide con los signos del polinomio original."
+        },
+        {
+          "letter": "D",
+          "text": "No es factorizable real",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este tipo de polinomios admite factorización en el campo de los números reales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso del método de adición y sustracción para completar trinomios y factorizar mediante diferencia de cuadrados.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v15",
+      "statement": "Factoriza totalmente el polinomio $x^3 - x^2 - 4x + 4$.",
+      "context": "Un analista de riesgos en Ciudad de Panamá descompone un polinomio para hallar puntos de equilibrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x^2 - 4)(x - 1)$",
+          "is_correct": false,
+          "feedback": "Incompleto. El factor cuadrático todavía admite una descomposición adicional en factores lineales."
+        },
+        {
+          "letter": "B",
+          "text": "$(x - 1)(x - 2)(x + 2)$",
+          "is_correct": true,
+          "feedback": "Correcto. Agrupando x^2(x-1)-4(x-1) y factorizando luego la diferencia de cuadrados."
+        },
+        {
+          "letter": "C",
+          "text": "$(x + 1)(x - 2)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distribución de los signos y valores no reproduce el polinomio dado."
+        },
+        {
+          "letter": "D",
+          "text": "$x(x^2 - x - 4) + 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta no representa una forma factorizada por producto de polinomios."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Factorización completa de polinomios de grado 3 mediante agrupación y diferencia de cuadrados.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v16",
+      "statement": "Factoriza el polinomio $x^3 + 3x^2 - 4$ sabiendo que $x=1$ es una raíz del mismo.",
+      "context": "Un estudiante utiliza la regla de Ruffini para factorizar un polinomio con una raíz conocida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x - 1)(x^2 + 4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al multiplicar estos factores no se recupera el término cuadrático 3x^2."
+        },
+        {
+          "letter": "B",
+          "text": "$(x - 1)(x + 2)^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando Ruffini se obtiene x^2 + 4x + 4, que es el cuadrado de x+2."
+        },
+        {
+          "letter": "C",
+          "text": "$(x - 1)(x - 2)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo del binomio elevado al cuadrado es el opuesto al correcto."
+        },
+        {
+          "letter": "D",
+          "text": "$(x - 1)(x + 2)(x - 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resultaría en un polinomio con un término independiente diferente al original."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Factorización de polinomios mediante el teorema del factor y la regla de Ruffini.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v17",
+      "statement": "Factoriza la expresión algebraica $x^5 + 32$.",
+      "context": "Un investigador utiliza la identidad de suma de potencias impares para un modelo avanzado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x + 2)^5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es una potencia de binomio con múltiples términos polinómicos intermedios."
+        },
+        {
+          "letter": "B",
+          "text": "$(x + 2)(x^4 - 2x^3 + 4x^2 - 8x + 16)$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la regla para suma de potencias impares con signos alternados en el factor largo."
+        },
+        {
+          "letter": "C",
+          "text": "$(x + 2)(x^4 + 2x^3 + 4x^2 + 8x + 16)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En una suma de potencias impares los signos del segundo factor deben ser alternos."
+        },
+        {
+          "letter": "D",
+          "text": "No es factorizable real",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sumas de potencias impares siempre admiten factorización mediante sus raíces."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Generalización de la suma de cubos a la suma de potencias impares de grado superior.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v18",
+      "statement": "Factoriza totalmente la expresión: $a^2 + 2ab + b^2 - c^2$.",
+      "context": "Se requiere factorizar una expresión que combina diferencia de cuadrados y trinomios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(a + b)^2 - c^2$",
+          "is_correct": false,
+          "feedback": "Incompleto. Esta es solo una fase intermedia del proceso de factorización total."
+        },
+        {
+          "letter": "B",
+          "text": "$(a + b + c)(a + b - c)$",
+          "is_correct": true,
+          "feedback": "Correcto. Se forma el trinomio cuadrado (a+b)^2 y luego se aplica diferencia de cuadrados."
+        },
+        {
+          "letter": "C",
+          "text": "$(a + b + c)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expansión de este cuadrado incluiría términos de productos cruzados extra."
+        },
+        {
+          "letter": "D",
+          "text": "$(a^2 + b^2)(a + b - c)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estructura de factores que no coincide con la composición de la expresión inicial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Factorización de expresiones que requieren agrupación para formar un trinomio cuadrado perfecto seguido de una diferencia de cuadrados.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es la factorización total de la expresión $x^6 - y^6$?",
+      "context": "Se plantea un reto sobre la factorización total de una diferencia de potencias sextas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x^3 - y^3)(x^3 + y^3)$",
+          "is_correct": false,
+          "feedback": "Incompleto. Ambos factores son descomposiciones de cubos que deben seguir factorizándose."
+        },
+        {
+          "letter": "B",
+          "text": "$(x - y)(x^2 + xy + y^2)(x + y)(x^2 - xy + y^2)$",
+          "is_correct": true,
+          "feedback": "Correcto. Combinación de diferencia de cuadrados y reglas de suma/resta de cubos."
+        },
+        {
+          "letter": "C",
+          "text": "$(x - y)^6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta potencia generaría una expresión polinómica mucho más extensa."
+        },
+        {
+          "letter": "D",
+          "text": "$(x^2 - y^2)^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Posee términos polinómicos adicionales al realizarse la expansión del cubo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Factorización exhaustiva combinando diferencia de cuadrados y suma/diferencia de cubos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle-v20",
+      "statement": "Factoriza la expresión $4x^4 + 1$ siguiendo la identidad de Sophie Germain.",
+      "context": "Aplicación de la identidad de Sophie Germain para factorizar una suma de potencias cuartas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(2x^2 + 1)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desarrollo de este cuadrado perfecto daría un término central de 4x^2."
+        },
+        {
+          "letter": "B",
+          "text": "$(2x^2 + 2x + 1)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No iguala a la expresión polinómica inicial tras realizar su expansión."
+        },
+        {
+          "letter": "C",
+          "text": "$(2x^2 + 2x + 1)(2x^2 - 2x + 1)$",
+          "is_correct": true,
+          "feedback": "Correcto. Resulta de sumar y restar 4x^2 para aplicar diferencia de cuadrados sobre trinomios."
+        },
+        {
+          "letter": "D",
+          "text": "No es factorizable real",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta identidad permite la descomposición en factores reales de segundo grado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicación de la identidad de Sophie Germain para la factorización de sumas de potencias cuartas.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación |\n| --- | --- |\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "PA-MAT-11-2026-W05-factorizacion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "uy",
+    "pack_id": "uy-week-3-grade-11-subject-matematicas",
+    "generated_at": "2026-07-29T03:05:14.420Z"
+  },
+  "questions": [
+    {
+      "id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una ecuación lineal con una incógnita?",
+      "context": "Una docente de Montevideo introduce el tema de ecuaciones en sexto año de liceo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una igualdad donde la incógnita aparece con exponente 1.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La linealidad significa grado 1 en la incógnita."
+        },
+        {
+          "letter": "B",
+          "text": "Una igualdad donde la incógnita está elevada al cuadrado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería una ecuación cuadrática, de grado 2."
+        },
+        {
+          "letter": "C",
+          "text": "Una desigualdad con una incógnita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las desigualdades son inecuaciones, no ecuaciones."
+        },
+        {
+          "letter": "D",
+          "text": "Una expresión algebraica sin signo de igual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin igualdad no hay ecuación; es solo una expresión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una ecuación lineal tiene la forma $ax + b = 0$ con $a \\ne 0$. Su característica esencial es la igualdad y el exponente 1 de la incógnita.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la solución de la ecuación $x + 7 = 12$?",
+      "context": "En un liceo de Salto se resuelven ecuaciones de un solo paso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 19$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste en lugar de restar el 7."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $x = 12 - 7 = 5$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = -5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisá el signo: 12 es mayor que 7, la diferencia es positiva."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el término que hay que trasponer, no la solución."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se aplica la operación inversa en ambos miembros: restando 7 queda $x = 5$. La verificación $5 + 7 = 12$ confirma el resultado.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v3",
+      "statement": "Resuelve $3x - 6 = 9$.",
+      "context": "Un estudiante de Colonia del Sacramento resuelve una ecuación de dos pasos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Provienede dividir sin sumar primero el 6 en ambos miembros."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $3x = 15$, entonces $x = 5$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste $9 \\div 3$ sin despejar el término independiente."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de $3x$, falta dividir por 3."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero se despeja el término con la incógnita: $3x = 9 + 6 = 15$; luego se divide: $x = 5$. Verificación: $3(5) - 6 = 9$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v4",
+      "statement": "Geométricamente, la solución de un sistema de dos ecuaciones lineales con dos incógnitas representa:",
+      "context": "Una profesora de Punta del Este interpreta gráficamente un sistema de dos ecuaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La pendiente de una de las rectas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es un coeficiente, no la solución del sistema."
+        },
+        {
+          "letter": "B",
+          "text": "El área encerrada entre las dos rectas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dos rectas no encierran un área finita."
+        },
+        {
+          "letter": "C",
+          "text": "El punto de intersección de las dos rectas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El par $(x, y)$ que cumple ambas ecuaciones es donde se cruzan las rectas."
+        },
+        {
+          "letter": "D",
+          "text": "El punto donde cada recta corta al eje $y$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas son las ordenadas al origen, no necesariamente la solución común."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cada ecuación lineal es una recta en el plano. El par solución satisface ambas simultáneamente, así que corresponde al punto donde se intersecan.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v5",
+      "statement": "Resuelve $2(x - 3) = 10$.",
+      "context": "Un técnico de Canelones despeja valores de una ecuación con paréntesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre 2 pero no sumaste el 3 después."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 8$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $x - 3 = 5$, luego $x = 8$. Verificación: $2(5) = 10$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 13$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 3 al 10 antes de dividir; el orden correcto es dividir primero."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 6.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Distribuiste mal: $2x - 3 = 10$ no es equivalente a la ecuación original."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se puede dividir primero entre 2: $x - 3 = 5$, de donde $x = 8$. También vale distribuir: $2x - 6 = 10$, $2x = 16$, $x = 8$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v6",
+      "statement": "Resuelve la ecuación $\\frac{x}{3} + 2 = 5$.",
+      "context": "Una panadera de Maldonado calcula cantidades con una ecuación fraccionaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste 3 entre 3 en lugar de multiplicar para despejar."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 21$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 5 por 3 y sumaste; primero hay que restar el 2."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 9$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\frac{x}{3} = 3$, entonces $x = 9$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de $\\frac{x}{3}$, no de $x$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se resta 2: $\\frac{x}{3} = 3$; se multiplica por 3: $x = 9$. Verificación: $\\frac{9}{3} + 2 = 3 + 2 = 5$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v7",
+      "statement": "Dado el sistema $y = x + 1$ y $x + y = 7$, ¿cuál es el valor de $x$?",
+      "context": "Un estudiante de Tacuarembó resuelve un sistema por sustitución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sustituyendo: $x + (x+1) = 7$, $2x = 6$, $x = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de $y$, no el de $x$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar el 1 al trasponer términos."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisá la sustitución: $2x + 1 = 7$ da $x = 3$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Como $y$ ya está despejada, se sustituye en la segunda ecuación: $x + x + 1 = 7$, así $2x = 6$ y $x = 3$ (con $y = 4$).",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v8",
+      "statement": "¿Cuántas entradas de adulto compró la familia?",
+      "context": "En un cine de Montevideo, la entrada de adulto cuesta $\\$U\\,300$ y la de niño $\\$U\\,180$. Una familia compró 10 entradas por un total de $\\$U\\,2\\,520$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con 4 adultos el total sería $1200 + 1080 = 2280$, no 2520."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con 5 adultos el total sería $1500 + 900 = 2400$."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "is_correct": true,
+          "feedback": "¡Correcto! $300(6) + 180(4) = 1800 + 720 = 2520$ y $6 + 4 = 10$."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con 7 adultos el total sería $2100 + 540 = 2640$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Planteando $a + n = 10$ y $300a + 180n = 2520$, se sustituye $n = 10 - a$: $300a + 180(10-a) = 2520$, así $120a = 720$ y $a = 6$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v9",
+      "statement": "Resuelve la ecuación $5x - 2 = 3x + 8$.",
+      "context": "Un contador de Rivera agrupa términos con la incógnita en ambos miembros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste los coeficientes mal; $5x - 3x = 2x$ y $8 + 2 = 10$, así $x = 5$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $2x = 10$, entonces $x = 5$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de $2x$; falta dividir entre 2."
+        },
+        {
+          "letter": "D",
+          "text": "$x = -5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Trasladaste términos con signos invertidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Agrupando incógnitas a la izquierda y números a la derecha: $5x - 3x = 8 + 2$, es decir $2x = 10$, así $x = 5$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la edad actual de Bruno?",
+      "context": "En Paysandú, Ana tiene el doble de la edad de Bruno. Dentro de 6 años, las edades de ambos sumarán 48 años.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si Bruno tuviera 10, la suma futura sería $36$, no $48$."
+        },
+        {
+          "letter": "B",
+          "text": "12 años",
+          "is_correct": true,
+          "feedback": "¡Correcto! $3B + 12 = 48$ da $B = 12$; Ana tiene 24 y en 6 años suman $30 + 18 = 48$."
+        },
+        {
+          "letter": "C",
+          "text": "16 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor haría que la suma futura fuera $60$."
+        },
+        {
+          "letter": "D",
+          "text": "24 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la edad de Ana, no la de Bruno."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sea $B$ la edad de Bruno: Ana tiene $2B$. En 6 años: $(2B + 6) + (B + 6) = 48$, así $3B = 36$ y $B = 12$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v11",
+      "statement": "El sistema formado por $2x + y = 5$ y $4x + 2y = 8$ es:",
+      "context": "Un docente de Durazno clasifica sistemas según su número de soluciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compatible determinado: tiene una única solución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las rectas no se cortan; los coeficientes son proporcionales pero los términos independientes no."
+        },
+        {
+          "letter": "B",
+          "text": "Incompatible: las rectas son paralelas y no hay solución.",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\frac{2}{4} = \\frac{1}{2} \\ne \\frac{5}{8}$: misma pendiente, distinta ordenada."
+        },
+        {
+          "letter": "C",
+          "text": "Compatible indeterminado: tiene infinitas soluciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para eso la segunda ecuación debería ser $4x + 2y = 10$, múltiplo exacto de la primera."
+        },
+        {
+          "letter": "D",
+          "text": "Incompatible porque las rectas son perpendiculares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las perpendiculares sí se cortan en un punto; el sistema sería determinado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparando razones: los coeficientes de $x$ e $y$ duplican, pero el término independiente no. Las rectas son paralelas distintas: sistema incompatible.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v12",
+      "statement": "Resuelve la ecuación $0.5x + 0.25 = 1.75$.",
+      "context": "Una comerciante de Artigas maneja decimales al calcular el precio por kilo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $x = 2$ queda $1 + 0.25 = 1.25 \\ne 1.75$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $0.5x = 1.5$, entonces $x = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 1.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de $0.5x$, no de $x$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Probablemente restaste $0.25$ de más o dividiste mal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se resta $0.25$: $0.5x = 1.5$; se divide entre $0.5$ (o se multiplica por 2): $x = 3$. Trabajar con decimales exactos evita errores de redondeo.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál de los siguientes sistemas tiene infinitas soluciones?",
+      "context": "En un repaso de Bachillerato en Melo se identifican sistemas con infinitas soluciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x + y = 4$ y $2x + 2y = 8$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La segunda ecuación es el doble de la primera: representan la misma recta."
+        },
+        {
+          "letter": "B",
+          "text": "$x + y = 4$ y $x + y = 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Misma pendiente pero distinta ordenada: son paralelas, sin solución."
+        },
+        {
+          "letter": "C",
+          "text": "$x + y = 4$ y $x - y = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen única solución $(3, 1)$; las rectas se cortan."
+        },
+        {
+          "letter": "D",
+          "text": "$2x + y = 4$ y $x + 2y = 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las pendientes son distintas; hay una única solución."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un sistema es indeterminado cuando una ecuación es múltiplo de la otra. Aquí $2(x + y) = 2 \\cdot 4$ reproduce la segunda ecuación: todas las soluciones de una sirven para la otra.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v14",
+      "statement": "Dado el sistema $3x + 2y = 16$ y $x - y = 2$, ¿cuál es el valor del producto $x \\cdot y$?",
+      "context": "Un ingeniero de San José resuelve un sistema por reducción para dimensionar una obra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería $x + y$; se pide el producto."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "¡Correcto! La solución es $x = 4$, $y = 2$, y $4 \\cdot 2 = 8$."
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Provienede una solución errónea del sistema; verificá en ambas ecuaciones."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de $x$, no el producto pedido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "De la segunda ecuación $x = y + 2$; sustituyendo: $3(y+2) + 2y = 16$, $5y = 10$, $y = 2$, $x = 4$. El producto es 8.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.48,
+      "bundle_id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v15",
+      "statement": "¿Cuántas soluciones tiene el sistema $y = 2x + 1$, $y = 2x - 3$?",
+      "context": "Una estudiante de Florida analiza dos rectas dadas en forma explícita.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una solución, en el punto donde se cruzan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las pendientes son iguales; las rectas nunca se cortan."
+        },
+        {
+          "letter": "B",
+          "text": "Infinitas soluciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las ordenadas al origen difieren, así que son rectas distintas."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna solución, porque las rectas son paralelas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Misma pendiente 2 y distinta ordenada: paralelas, sistema incompatible."
+        },
+        {
+          "letter": "D",
+          "text": "Dos soluciones, una por cada recta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un sistema lineal no puede tener exactamente dos soluciones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En forma explícita, comparar pendientes y ordenadas decide el tipo de sistema: $m_1 = m_2 = 2$ y $b_1 \\ne b_2$ implica rectas paralelas y cero soluciones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v16",
+      "statement": "Si la solución de la ecuación $ax + 3 = 11$ es $x = 4$, ¿cuál es el valor de $a$?",
+      "context": "Un profesor de Rocha propone un problema inverso: hallar un coeficiente conocida la solución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $a = 3$ queda $12 + 3 = 15 \\ne 11$."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $a = 1$ queda $4 + 3 = 7 \\ne 11$."
+        },
+        {
+          "letter": "C",
+          "text": "$a = 2$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $4a = 11 - 3 = 8$, entonces $a = 2$."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de $4a$, no de $a$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Sustituir la solución conocida convierte la ecuación en una nueva ecuación para $a$: $4a + 3 = 11$, de donde $a = 2$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v17",
+      "statement": "Para el sistema $y = 3x - 2$ y $2x + y = 8$, ¿cuál método es el más directo y por qué?",
+      "context": "Una docente de Minas pregunta cuál método de resolución es más eficiente para un sistema dado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sustitución, porque $y$ ya está despejada en la primera ecuación.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Reemplazar $y$ directamente evita pasos algebraicos extra."
+        },
+        {
+          "letter": "B",
+          "text": "Reducción, porque los coeficientes de $x$ son distintos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reducción exigiría multiplicar ecuaciones; la sustitución es inmediata aquí."
+        },
+        {
+          "letter": "C",
+          "text": "Igualación, porque ambas ecuaciones tienen $y$ despejada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda ecuación no tiene $y$ despejada; habría que despejarla primero."
+        },
+        {
+          "letter": "D",
+          "text": "Método gráfico, porque es el más exacto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gráfico es aproximado; los métodos algebraicos dan la solución exacta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Elegir el método según la estructura ahorra trabajo: con una incógnita ya despejada, la sustitución es inmediata: $2x + (3x - 2) = 8$, $x = 2$, $y = 4$.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v18",
+      "statement": "¿Es el par $(2, 5)$ solución del sistema $x + y = 7$, $2x - y = -1$?",
+      "context": "En un examen de Bachillerato en Treinta y Tres se pide validar una posible solución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque $2 + 5 = 7$ y $2(2) - 5 = -1$ cumplen ambas ecuaciones.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El par satisface las dos ecuaciones simultáneamente."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque solo cumple la primera ecuación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. También cumple la segunda: $4 - 5 = -1$."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque los valores deben ser negativos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nada en el sistema exige soluciones negativas."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede saber sin graficar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Basta sustituir los valores en ambas ecuaciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Verificar un par significa sustituirlo en todas las ecuaciones del sistema. Como $(2, 5)$ cumple $2+5=7$ y $4-5=-1$, es solución.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v19",
+      "statement": "¿Para qué distancias resulta más barata la empresa A?",
+      "context": "Dos empresas de transporte de Montevideo ofrecen tarifas distintas: la empresa A cobra $\\$U\\,200$ fijos más $\\$U\\,30$ por km; la empresa B cobra $\\$U\\,50$ por km sin costo fijo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para trayectos de menos de 10 km.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ahí domina el costo fijo: con 5 km, A cuesta 350 y B solo 250."
+        },
+        {
+          "letter": "B",
+          "text": "Para trayectos de más de 10 km.",
+          "is_correct": true,
+          "feedback": "¡Correcto! $200 + 30d < 50d$ equivale a $d > 10$: a partir de 10 km conviene A."
+        },
+        {
+          "letter": "C",
+          "text": "Siempre es más barata la empresa A.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En trayectos cortos el fijo de 200 la hace más cara."
+        },
+        {
+          "letter": "D",
+          "text": "Nunca, la empresa B siempre conviene.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El menor precio por km de A termina compensando el fijo en viajes largos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se comparan los costos: $200 + 30d < 50d$ da $d > 10$. En $d = 10$ ambas cobran 500; más allá, la tarifa menor por km de A domina.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v20",
+      "statement": "¿Para qué valor de $k$ el sistema $x + ky = 4$ y $2x + 4y = 8$ tiene infinitas soluciones?",
+      "context": "Un docente de Cerro Largo propone un sistema con parámetro para evaluar el análisis de coeficientes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$k = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $k = 1$ las rectas tienen distinta pendiente: solución única."
+        },
+        {
+          "letter": "B",
+          "text": "$k = 2$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Con $k = 2$ la segunda ecuación es el doble de la primera: misma recta."
+        },
+        {
+          "letter": "C",
+          "text": "$k = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $k = 4$ las razones de coeficientes difieren: solución única."
+        },
+        {
+          "letter": "D",
+          "text": "$k = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema quedaría $x = 4$ y $x + 2y = 4$: solución única."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para infinitas soluciones se necesita proporcionalidad total: $\\frac{1}{2} = \\frac{k}{4} = \\frac{4}{8}$. La primera razón exige $k = 2$, que también cumple la proporción de los términos independientes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "UY-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "uy"
+    }
+  ]
+}

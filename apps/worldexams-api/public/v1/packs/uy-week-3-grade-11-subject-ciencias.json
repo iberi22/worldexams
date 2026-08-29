@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "uy",
+    "pack_id": "uy-week-3-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-04T05:18:14.096Z"
+  },
+  "questions": [
+    {
+      "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v1",
+      "statement": "¿En qué zona de la mitocondria ocurre el ciclo de Krebs durante la respiración celular?",
+      "context": "Durante una actividad de laboratorio en el Liceo N° 5 de Maldonado, Joaquín analiza la respiración celular mitocondrial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la matriz mitocondrial interna.",
+          "is_correct": true,
+          "feedback": "Correcto. El ciclo de Krebs ocurre en la matriz mitocondrial gracias a enzimas solubles específicas."
+        },
+        {
+          "letter": "B",
+          "text": "En el espacio intermembrana que separa ambas bicapas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En esta zona se acumulan protones transitoriamente para generar el gradiente quimiosmótico."
+        },
+        {
+          "letter": "C",
+          "text": "En las crestas formadas por la membrana mitocondrial interna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En las crestas se localizan las proteínas de la cadena transportadora de electrones y la ATP sintasa."
+        },
+        {
+          "letter": "D",
+          "text": "En la membrana mitocondrial externa permeable a iones libres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La membrana externa es una barrera semipermeable de paso de metabolitos primarios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en sus crestas, optimizando la síntesis de ATP. En este contexto, Joaquín de Maldonado determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.87,
+      "bundle_id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la función del tilacoide en la ultraestructura del cloroplasto?",
+      "context": "En la clase práctica del Liceo Piloto en Tacuarembó, Camila y sus compañeros debaten sobre el cloroplasto y la fotosíntesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contener los fotosistemas y la cadena de transporte de electrones para la fase luminosa.",
+          "is_correct": true,
+          "feedback": "Correcto. La membrana del tilacoide alberga la clorofila y proteínas necesarias para convertir energía solar en química."
+        },
+        {
+          "letter": "B",
+          "text": "Sintetizar la enzima Rubisco para iniciar el ciclo de Calvin fijador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ciclo de Calvin y la síntesis de la enzima Rubisco ocurren en el estroma soluble."
+        },
+        {
+          "letter": "C",
+          "text": "Almacenar el almidón de reserva resultante del metabolismo celular nocturno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los granos de almidón se acumulan transitoriamente en el estroma, fuera de los tilacoides."
+        },
+        {
+          "letter": "D",
+          "text": "Delimitar el paso de lípidos sintetizados en el retículo liso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cloroplasto no se encarga de regular la distribución de grasas del retículo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fase luminosa de la fotosíntesis ocurre en las membranas de los tilacoides, liberando oxígeno y generando NADPH y ATP. En este contexto, Camila de Tacuarembó determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v3",
+      "statement": "¿Qué organelo celular es responsable directo de la síntesis de lípidos de membrana y detoxificación de fármacos?",
+      "context": "Para el proyecto final de ciencias en el Liceo N° 1 Departamental de Mercedes, Mateo investiga acerca de la síntesis y exportación de lípidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El retículo endoplasmático liso (REL).",
+          "is_correct": true,
+          "feedback": "Correcto. El REL carece de ribosomas y se especializa en la biosíntesis de fosfolípidos, colesterol y hormonas esteroideas."
+        },
+        {
+          "letter": "B",
+          "text": "El retículo endoplasmático rugoso (RER).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El RER se encarga principalmente de la síntesis y plegamiento de proteínas de exportación o membrana."
+        },
+        {
+          "letter": "C",
+          "text": "El aparato de Golgi con sus cisternas aplanadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Golgi empaqueta, clasifica y distribuye macromoléculas, modificándolas covalentemente."
+        },
+        {
+          "letter": "D",
+          "text": "Los ribosomas libres asociados a microtúbulos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ribosomas se dedican exclusivamente a la síntesis de cadenas polipeptídicas de proteínas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El retículo endoplasmático liso detoxifica xenobióticos mediante enzimas de la familia del citocromo P450, abundando en hepatocitos. En este contexto, Mateo de Mercedes determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.79,
+      "bundle_id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v4",
+      "statement": "¿Qué tipo de ambiente químico interno caracteriza a los lisosomas para permitir su correcto funcionamiento digestivo?",
+      "context": "Mientras repasa para el examen parcial en Melo, Sofía estudia detenidamente los lisosomas y digestión celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un ambiente ácido mantenido por bombas de protones activas que introducen iones H+.",
+          "is_correct": true,
+          "feedback": "Correcto. Las hidrolasas ácidas de los lisosomas requieren un pH óptimo cercano a 5.0 mantenido por bombas de protones."
+        },
+        {
+          "letter": "B",
+          "text": "Un medio alcalino concentrado con alta saturación de cationes de sodio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un medio básico desnaturaliza y desactiva las enzimas hidrolíticas lisosomales."
+        },
+        {
+          "letter": "C",
+          "text": "Una solución neutra isotónica con nula actividad enzimática hidrolítica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. A pH neutro celular (~7.2) las enzimas lisosomales pierden eficacia catalítica."
+        },
+        {
+          "letter": "D",
+          "text": "Un fluido anhidro sin presencia de moléculas de agua reactivas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las hidrolasas requieren agua para romper enlaces químicos covalentes mediante hidrólisis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El bajo pH del lisosoma actúa como sistema de protección celular: si se rompe, las hidrolasas no dañan el citosol neutro. En este contexto, Sofía de Melo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v5",
+      "statement": "¿En qué zona de la mitocondria ocurre el ciclo de Krebs durante la respiración celular?",
+      "context": "En el taller de Ciencias Naturales en Canelones, Martín observa un modelo experimental de la respiración celular mitocondrial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la matriz mitocondrial interna.",
+          "is_correct": true,
+          "feedback": "Correcto. El ciclo de Krebs ocurre en la matriz mitocondrial gracias a enzimas solubles específicas."
+        },
+        {
+          "letter": "B",
+          "text": "En el espacio intermembrana que separa ambas bicapas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En esta zona se acumulan protones transitoriamente para generar el gradiente quimiosmótico."
+        },
+        {
+          "letter": "C",
+          "text": "En las crestas formadas por la membrana mitocondrial interna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En las crestas se localizan las proteínas de la cadena transportadora de electrones y la ATP sintasa."
+        },
+        {
+          "letter": "D",
+          "text": "En la membrana mitocondrial externa permeable a iones libres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La membrana externa es una barrera semipermeable de paso de metabolitos primarios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en sus crestas, optimizando la síntesis de ATP. En este contexto, Martín de Canelones determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.69,
+      "bundle_id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la función del tilacoide en la ultraestructura del cloroplasto?",
+      "context": "Durante una actividad de laboratorio en el Liceo N° 4 de Montevideo, Lucía analiza el cloroplasto y la fotosíntesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contener los fotosistemas y la cadena de transporte de electrones para la fase luminosa.",
+          "is_correct": true,
+          "feedback": "Correcto. La membrana del tilacoide alberga la clorofila y proteínas necesarias para convertir energía solar en química."
+        },
+        {
+          "letter": "B",
+          "text": "Sintetizar la enzima Rubisco para iniciar el ciclo de Calvin fijador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ciclo de Calvin y la síntesis de la enzima Rubisco ocurren en el estroma soluble."
+        },
+        {
+          "letter": "C",
+          "text": "Almacenar el almidón de reserva resultante del metabolismo celular nocturno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los granos de almidón se acumulan transitoriamente en el estroma, fuera de los tilacoides."
+        },
+        {
+          "letter": "D",
+          "text": "Delimitar el paso de lípidos sintetizados en el retículo liso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cloroplasto no se encarga de regular la distribución de grasas del retículo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fase luminosa de la fotosíntesis ocurre en las membranas de los tilacoides, liberando oxígeno y generando NADPH y ATP. En este contexto, Lucía de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.68,
+      "bundle_id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v7",
+      "statement": "¿Qué organelo celular es responsable directo de la síntesis de lípidos de membrana y detoxificación de fármacos?",
+      "context": "En la clase práctica del Liceo N° 5 en Maldonado, Gastón y sus compañeros debaten sobre la síntesis y exportación de lípidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El retículo endoplasmático liso (REL).",
+          "is_correct": true,
+          "feedback": "Correcto. El REL carece de ribosomas y se especializa en la biosíntesis de fosfolípidos, colesterol y hormonas esteroideas."
+        },
+        {
+          "letter": "B",
+          "text": "El retículo endoplasmático rugoso (RER).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El RER se encarga principalmente de la síntesis y plegamiento de proteínas de exportación o membrana."
+        },
+        {
+          "letter": "C",
+          "text": "El aparato de Golgi con sus cisternas aplanadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Golgi empaqueta, clasifica y distribuye macromoléculas, modificándolas covalentemente."
+        },
+        {
+          "letter": "D",
+          "text": "Los ribosomas libres asociados a microtúbulos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ribosomas se dedican exclusivamente a la síntesis de cadenas polipeptídicas de proteínas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El retículo endoplasmático liso detoxifica xenobióticos mediante enzimas de la familia del citocromo P450, abundando en hepatocitos. En este contexto, Gastón de Maldonado determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.67,
+      "bundle_id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v8",
+      "statement": "¿Qué tipo de ambiente químico interno caracteriza a los lisosomas para permitir su correcto funcionamiento digestivo?",
+      "context": "Para el proyecto final de ciencias en el Liceo Piloto de Tacuarembó, Nicolás investiga acerca de los lisosomas y digestión celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un ambiente ácido mantenido por bombas de protones activas que introducen iones H+.",
+          "is_correct": true,
+          "feedback": "Correcto. Las hidrolasas ácidas de los lisosomas requieren un pH óptimo cercano a 5.0 mantenido por bombas de protones."
+        },
+        {
+          "letter": "B",
+          "text": "Un medio alcalino concentrado con alta saturación de cationes de sodio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un medio básico desnaturaliza y desactiva las enzimas hidrolíticas lisosomales."
+        },
+        {
+          "letter": "C",
+          "text": "Una solución neutra isotónica con nula actividad enzimática hidrolítica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. A pH neutro celular (~7.2) las enzimas lisosomales pierden eficacia catalítica."
+        },
+        {
+          "letter": "D",
+          "text": "Un fluido anhidro sin presencia de moléculas de agua reactivas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las hidrolasas requieren agua para romper enlaces químicos covalentes mediante hidrólisis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El bajo pH del lisosoma actúa como sistema de protección celular: si se rompe, las hidrolasas no dañan el citosol neutro. En este contexto, Nicolás de Tacuarembó determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v9",
+      "statement": "¿En qué zona de la mitocondria ocurre el ciclo de Krebs durante la respiración celular?",
+      "context": "Mientras repasa para el examen parcial en Mercedes, Belén estudia detenidamente la respiración celular mitocondrial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la matriz mitocondrial interna.",
+          "is_correct": true,
+          "feedback": "Correcto. El ciclo de Krebs ocurre en la matriz mitocondrial gracias a enzimas solubles específicas."
+        },
+        {
+          "letter": "B",
+          "text": "En el espacio intermembrana que separa ambas bicapas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En esta zona se acumulan protones transitoriamente para generar el gradiente quimiosmótico."
+        },
+        {
+          "letter": "C",
+          "text": "En las crestas formadas por la membrana mitocondrial interna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En las crestas se localizan las proteínas de la cadena transportadora de electrones y la ATP sintasa."
+        },
+        {
+          "letter": "D",
+          "text": "En la membrana mitocondrial externa permeable a iones libres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La membrana externa es una barrera semipermeable de paso de metabolitos primarios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en sus crestas, optimizando la síntesis de ATP. En este contexto, Belén de Mercedes determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.59,
+      "bundle_id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la función del tilacoide en la ultraestructura del cloroplasto?",
+      "context": "En el taller de Ciencias Naturales en Melo, Felipe observa un modelo experimental de el cloroplasto y la fotosíntesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contener los fotosistemas y la cadena de transporte de electrones para la fase luminosa.",
+          "is_correct": true,
+          "feedback": "Correcto. La membrana del tilacoide alberga la clorofila y proteínas necesarias para convertir energía solar en química."
+        },
+        {
+          "letter": "B",
+          "text": "Sintetizar la enzima Rubisco para iniciar el ciclo de Calvin fijador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ciclo de Calvin y la síntesis de la enzima Rubisco ocurren en el estroma soluble."
+        },
+        {
+          "letter": "C",
+          "text": "Almacenar el almidón de reserva resultante del metabolismo celular nocturno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los granos de almidón se acumulan transitoriamente en el estroma, fuera de los tilacoides."
+        },
+        {
+          "letter": "D",
+          "text": "Delimitar el paso de lípidos sintetizados en el retículo liso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cloroplasto no se encarga de regular la distribución de grasas del retículo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fase luminosa de la fotosíntesis ocurre en las membranas de los tilacoides, liberando oxígeno y generando NADPH y ATP. En este contexto, Felipe de Melo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v11",
+      "statement": "¿Qué organelo celular es responsable directo de la síntesis de lípidos de membrana y detoxificación de fármacos?",
+      "context": "Durante una actividad de laboratorio en el Liceo N° 3 de Canelones, Juana analiza la síntesis y exportación de lípidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El retículo endoplasmático liso (REL).",
+          "is_correct": true,
+          "feedback": "Correcto. El REL carece de ribosomas y se especializa en la biosíntesis de fosfolípidos, colesterol y hormonas esteroideas."
+        },
+        {
+          "letter": "B",
+          "text": "El retículo endoplasmático rugoso (RER).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El RER se encarga principalmente de la síntesis y plegamiento de proteínas de exportación o membrana."
+        },
+        {
+          "letter": "C",
+          "text": "El aparato de Golgi con sus cisternas aplanadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Golgi empaqueta, clasifica y distribuye macromoléculas, modificándolas covalentemente."
+        },
+        {
+          "letter": "D",
+          "text": "Los ribosomas libres asociados a microtúbulos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ribosomas se dedican exclusivamente a la síntesis de cadenas polipeptídicas de proteínas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El retículo endoplasmático liso detoxifica xenobióticos mediante enzimas de la familia del citocromo P450, abundando en hepatocitos. En este contexto, Juana de Canelones determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.47,
+      "bundle_id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v12",
+      "statement": "¿Qué tipo de ambiente químico interno caracteriza a los lisosomas para permitir su correcto funcionamiento digestivo?",
+      "context": "En la clase práctica del Liceo N° 4 en Montevideo, Ignacio y sus compañeros debaten sobre los lisosomas y digestión celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un ambiente ácido mantenido por bombas de protones activas que introducen iones H+.",
+          "is_correct": true,
+          "feedback": "Correcto. Las hidrolasas ácidas de los lisosomas requieren un pH óptimo cercano a 5.0 mantenido por bombas de protones."
+        },
+        {
+          "letter": "B",
+          "text": "Un medio alcalino concentrado con alta saturación de cationes de sodio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un medio básico desnaturaliza y desactiva las enzimas hidrolíticas lisosomales."
+        },
+        {
+          "letter": "C",
+          "text": "Una solución neutra isotónica con nula actividad enzimática hidrolítica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. A pH neutro celular (~7.2) las enzimas lisosomales pierden eficacia catalítica."
+        },
+        {
+          "letter": "D",
+          "text": "Un fluido anhidro sin presencia de moléculas de agua reactivas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las hidrolasas requieren agua para romper enlaces químicos covalentes mediante hidrólisis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El bajo pH del lisosoma actúa como sistema de protección celular: si se rompe, las hidrolasas no dañan el citosol neutro. En este contexto, Ignacio de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.46,
+      "bundle_id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v13",
+      "statement": "¿En qué zona de la mitocondria ocurre el ciclo de Krebs durante la respiración celular?",
+      "context": "Para el proyecto final de ciencias en el Liceo N° 5 de Maldonado, Paula investiga acerca de la respiración celular mitocondrial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la matriz mitocondrial interna.",
+          "is_correct": true,
+          "feedback": "Correcto. El ciclo de Krebs ocurre en la matriz mitocondrial gracias a enzimas solubles específicas."
+        },
+        {
+          "letter": "B",
+          "text": "En el espacio intermembrana que separa ambas bicapas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En esta zona se acumulan protones transitoriamente para generar el gradiente quimiosmótico."
+        },
+        {
+          "letter": "C",
+          "text": "En las crestas formadas por la membrana mitocondrial interna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En las crestas se localizan las proteínas de la cadena transportadora de electrones y la ATP sintasa."
+        },
+        {
+          "letter": "D",
+          "text": "En la membrana mitocondrial externa permeable a iones libres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La membrana externa es una barrera semipermeable de paso de metabolitos primarios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en sus crestas, optimizando la síntesis de ATP. En este contexto, Paula de Maldonado determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la función del tilacoide en la ultraestructura del cloroplasto?",
+      "context": "Mientras repasa para el examen parcial en Tacuarembó, Diego estudia detenidamente el cloroplasto y la fotosíntesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contener los fotosistemas y la cadena de transporte de electrones para la fase luminosa.",
+          "is_correct": true,
+          "feedback": "Correcto. La membrana del tilacoide alberga la clorofila y proteínas necesarias para convertir energía solar en química."
+        },
+        {
+          "letter": "B",
+          "text": "Sintetizar la enzima Rubisco para iniciar el ciclo de Calvin fijador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ciclo de Calvin y la síntesis de la enzima Rubisco ocurren en el estroma soluble."
+        },
+        {
+          "letter": "C",
+          "text": "Almacenar el almidón de reserva resultante del metabolismo celular nocturno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los granos de almidón se acumulan transitoriamente en el estroma, fuera de los tilacoides."
+        },
+        {
+          "letter": "D",
+          "text": "Delimitar el paso de lípidos sintetizados en el retículo liso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cloroplasto no se encarga de regular la distribución de grasas del retículo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fase luminosa de la fotosíntesis ocurre en las membranas de los tilacoides, liberando oxígeno y generando NADPH y ATP. En este contexto, Diego de Tacuarembó determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.38,
+      "bundle_id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v15",
+      "statement": "¿Qué organelo celular es responsable directo de la síntesis de lípidos de membrana y detoxificación de fármacos?",
+      "context": "En el taller de Ciencias Naturales en Mercedes, Clara observa un modelo experimental de la síntesis y exportación de lípidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El retículo endoplasmático liso (REL).",
+          "is_correct": true,
+          "feedback": "Correcto. El REL carece de ribosomas y se especializa en la biosíntesis de fosfolípidos, colesterol y hormonas esteroideas."
+        },
+        {
+          "letter": "B",
+          "text": "El retículo endoplasmático rugoso (RER).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El RER se encarga principalmente de la síntesis y plegamiento de proteínas de exportación o membrana."
+        },
+        {
+          "letter": "C",
+          "text": "El aparato de Golgi con sus cisternas aplanadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Golgi empaqueta, clasifica y distribuye macromoléculas, modificándolas covalentemente."
+        },
+        {
+          "letter": "D",
+          "text": "Los ribosomas libres asociados a microtúbulos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ribosomas se dedican exclusivamente a la síntesis de cadenas polipeptídicas de proteínas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El retículo endoplasmático liso detoxifica xenobióticos mediante enzimas de la familia del citocromo P450, abundando en hepatocitos. En este contexto, Clara de Mercedes determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.37,
+      "bundle_id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v16",
+      "statement": "¿Qué tipo de ambiente químico interno caracteriza a los lisosomas para permitir su correcto funcionamiento digestivo?",
+      "context": "Durante una actividad de laboratorio en el Liceo N° 2 de Melo, Agustín analiza los lisosomas y digestión celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un ambiente ácido mantenido por bombas de protones activas que introducen iones H+.",
+          "is_correct": true,
+          "feedback": "Correcto. Las hidrolasas ácidas de los lisosomas requieren un pH óptimo cercano a 5.0 mantenido por bombas de protones."
+        },
+        {
+          "letter": "B",
+          "text": "Un medio alcalino concentrado con alta saturación de cationes de sodio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un medio básico desnaturaliza y desactiva las enzimas hidrolíticas lisosomales."
+        },
+        {
+          "letter": "C",
+          "text": "Una solución neutra isotónica con nula actividad enzimática hidrolítica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. A pH neutro celular (~7.2) las enzimas lisosomales pierden eficacia catalítica."
+        },
+        {
+          "letter": "D",
+          "text": "Un fluido anhidro sin presencia de moléculas de agua reactivas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las hidrolasas requieren agua para romper enlaces químicos covalentes mediante hidrólisis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El bajo pH del lisosoma actúa como sistema de protección celular: si se rompe, las hidrolasas no dañan el citosol neutro. En este contexto, Agustín de Melo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.36,
+      "bundle_id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v17",
+      "statement": "¿En qué zona de la mitocondria ocurre el ciclo de Krebs durante la respiración celular?",
+      "context": "En la clase práctica del Liceo N° 3 en Canelones, Sebastián y sus compañeros debaten sobre la respiración celular mitocondrial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la matriz mitocondrial interna.",
+          "is_correct": true,
+          "feedback": "Correcto. El ciclo de Krebs ocurre en la matriz mitocondrial gracias a enzimas solubles específicas."
+        },
+        {
+          "letter": "B",
+          "text": "En el espacio intermembrana que separa ambas bicapas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En esta zona se acumulan protones transitoriamente para generar el gradiente quimiosmótico."
+        },
+        {
+          "letter": "C",
+          "text": "En las crestas formadas por la membrana mitocondrial interna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En las crestas se localizan las proteínas de la cadena transportadora de electrones y la ATP sintasa."
+        },
+        {
+          "letter": "D",
+          "text": "En la membrana mitocondrial externa permeable a iones libres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La membrana externa es una barrera semipermeable de paso de metabolitos primarios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en sus crestas, optimizando la síntesis de ATP. En este contexto, Sebastián de Canelones determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.3,
+      "bundle_id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es la función del tilacoide en la ultraestructura del cloroplasto?",
+      "context": "Para el proyecto final de ciencias en el Liceo N° 4 de Montevideo, Valentina investiga acerca de el cloroplasto y la fotosíntesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contener los fotosistemas y la cadena de transporte de electrones para la fase luminosa.",
+          "is_correct": true,
+          "feedback": "Correcto. La membrana del tilacoide alberga la clorofila y proteínas necesarias para convertir energía solar en química."
+        },
+        {
+          "letter": "B",
+          "text": "Sintetizar la enzima Rubisco para iniciar el ciclo de Calvin fijador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ciclo de Calvin y la síntesis de la enzima Rubisco ocurren en el estroma soluble."
+        },
+        {
+          "letter": "C",
+          "text": "Almacenar el almidón de reserva resultante del metabolismo celular nocturno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los granos de almidón se acumulan transitoriamente en el estroma, fuera de los tilacoides."
+        },
+        {
+          "letter": "D",
+          "text": "Delimitar el paso de lípidos sintetizados en el retículo liso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cloroplasto no se encarga de regular la distribución de grasas del retículo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fase luminosa de la fotosíntesis ocurre en las membranas de los tilacoides, liberando oxígeno y generando NADPH y ATP. En este contexto, Valentina de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.3,
+      "bundle_id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v19",
+      "statement": "¿Qué organelo celular es responsable directo de la síntesis de lípidos de membrana y detoxificación de fármacos?",
+      "context": "Mientras repasa para el examen parcial en Maldonado, Santiago estudia detenidamente la síntesis y exportación de lípidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El retículo endoplasmático liso (REL).",
+          "is_correct": true,
+          "feedback": "Correcto. El REL carece de ribosomas y se especializa en la biosíntesis de fosfolípidos, colesterol y hormonas esteroideas."
+        },
+        {
+          "letter": "B",
+          "text": "El retículo endoplasmático rugoso (RER).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El RER se encarga principalmente de la síntesis y plegamiento de proteínas de exportación o membrana."
+        },
+        {
+          "letter": "C",
+          "text": "El aparato de Golgi con sus cisternas aplanadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Golgi empaqueta, clasifica y distribuye macromoléculas, modificándolas covalentemente."
+        },
+        {
+          "letter": "D",
+          "text": "Los ribosomas libres asociados a microtúbulos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ribosomas se dedican exclusivamente a la síntesis de cadenas polipeptídicas de proteínas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El retículo endoplasmático liso detoxifica xenobióticos mediante enzimas de la familia del citocromo P450, abundando en hepatocitos. En este contexto, Santiago de Maldonado determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v20",
+      "statement": "¿Qué tipo de ambiente químico interno caracteriza a los lisosomas para permitir su correcto funcionamiento digestivo?",
+      "context": "En el taller de Ciencias Naturales en Tacuarembó, Florencia observa un modelo experimental de los lisosomas y digestión celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un ambiente ácido mantenido por bombas de protones activas que introducen iones H+.",
+          "is_correct": true,
+          "feedback": "Correcto. Las hidrolasas ácidas de los lisosomas requieren un pH óptimo cercano a 5.0 mantenido por bombas de protones."
+        },
+        {
+          "letter": "B",
+          "text": "Un medio alcalino concentrado con alta saturación de cationes de sodio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un medio básico desnaturaliza y desactiva las enzimas hidrolíticas lisosomales."
+        },
+        {
+          "letter": "C",
+          "text": "Una solución neutra isotónica con nula actividad enzimática hidrolítica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. A pH neutro celular (~7.2) las enzimas lisosomales pierden eficacia catalítica."
+        },
+        {
+          "letter": "D",
+          "text": "Un fluido anhidro sin presencia de moléculas de agua reactivas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las hidrolasas requieren agua para romper enlaces químicos covalentes mediante hidrólisis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El bajo pH del lisosoma actúa como sistema de protección celular: si se rompe, las hidrolasas no dañan el citosol neutro. En este contexto, Florencia de Tacuarembó determinó correctamente la respuesta correcta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    }
+  ]
+}

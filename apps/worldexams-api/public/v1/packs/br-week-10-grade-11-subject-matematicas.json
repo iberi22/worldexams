@@ -1,0 +1,1811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "br",
+    "pack_id": "br-week-10-grade-11-subject-matematica",
+    "generated_at": "2026-06-18T23:58:36.441Z"
+  },
+  "questions": [
+    {
+      "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v1",
+      "statement": "Qual é a lei de formação do termo geral ($a_n$) de uma Progressão Geométrica (PG) de primeiro termo $a_1$ e razão $q$?",
+      "context": "Um estudante em São Paulo está revisando a definição de sequências que crescem ou decrescem por meio de multiplicações sucessivas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_n = a_1 + (n - 1)q$",
+          "is_correct": false,
+          "feedback": "Esta é a fórmula de uma Progressão Aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "$a_n = a_1 \\cdot q^{n-1}$",
+          "is_correct": true,
+          "feedback": "Correto. Em uma PG, cada termo é obtido multiplicando o anterior pela razão q."
+        },
+        {
+          "letter": "C",
+          "text": "$a_n = a_1 \\cdot q^n$",
+          "is_correct": false,
+          "feedback": "Erro: o primeiro termo não deve ser multiplicado pela razão (q elevado a 0 é 1)."
+        },
+        {
+          "letter": "D",
+          "text": "$a_n = (a_1 \\cdot q)^{n-1}$",
+          "is_correct": false,
+          "feedback": "A potência deve ser aplicada apenas à razão q."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Em uma Progressão Geométrica, a relação entre termos consecutivos é constante e igual à razão multiplicativa $q$. Para chegar ao termo de posição $n$, partimos do primeiro termo e multiplicamos pela razão $n-1$ vezes.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v2",
+      "statement": "Uma Progressão Geométrica de termos positivos é considerada **decrescente** quando a razão $q$ satisfaz qual condição?",
+      "context": "Um professor no Rio de Janeiro explica como o valor da razão altera a natureza da sequência geométrica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$q > 1$",
+          "is_correct": false,
+          "feedback": "Se q > 1, os termos aumentam a cada passo (PG crescente)."
+        },
+        {
+          "letter": "B",
+          "text": "$0 < q < 1$",
+          "is_correct": true,
+          "feedback": "Correto. Multiplicar um número positivo por uma fração entre 0 e 1 resulta em um valor menor."
+        },
+        {
+          "letter": "C",
+          "text": "$q = 1$",
+          "is_correct": false,
+          "feedback": "Se q = 1, a PG é constante ou estacionária."
+        },
+        {
+          "letter": "D",
+          "text": "$q < 0$",
+          "is_correct": false,
+          "feedback": "Se q < 0, os termos alternam de sinal (PG oscilante ou alternada)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para uma PG de termos positivos, se a razão está entre 0 e 1, cada novo termo é uma fração do anterior, fazendo com que os valores da sequência diminuam gradualmente em direção a zero.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v3",
+      "statement": "Dada a PG $(4, 12, 36, 108, ...)$, qual é o valor da razão $q$?",
+      "context": "Um biólogo em Manaus observa uma cultura de fungos cuja área ocupada triplica a cada dia de observação.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "8 é a diferença entre os dois primeiros termos, mas PG usa razão multiplicativa."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "q = 12 / 4 = 3."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "4 é o primeiro termo, não a razão."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Se a razão fosse 2, o segundo termo seria 8."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A razão $q$ de uma PG é encontrada dividindo um termo pelo seu antecessor imediato: $q = a_2 / a_1$. No caso, $12 / 4 = 3$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v4",
+      "statement": "Se uma população inicial $P$ cresce a uma taxa de 5\\% ao período, qual é a razão $q$ da PG que descreve esse fenômeno?",
+      "context": "Um economista em Brasília analisa o crescimento populacional de uma cidade que aumenta 2\\% ao ano, caracterizando uma PG.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,05",
+          "is_correct": false,
+          "feedback": "Este é apenas o valor do acréscimo, não o fator multiplicativo total."
+        },
+        {
+          "letter": "B",
+          "text": "1,05",
+          "is_correct": true,
+          "feedback": "Correto. O novo valor é 100% do atual mais 5% (1 + 0,05)."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Uma razão 5 significaria que a população quintuplica a cada período."
+        },
+        {
+          "letter": "D",
+          "text": "1,5",
+          "is_correct": false,
+          "feedback": "Isto representaria um crescimento de 50%."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Em situações de crescimento percentual, a razão da PG é dada por $1 + i$, onde $i$ é a taxa decimal. Para 5\\%, temos $1 + 0,05 = 1,05$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v5",
+      "statement": "Qual é o sexto termo ($a_6$) da PG $(3, 6, 12, ...)$?",
+      "context": "Um técnico em informática em Curitiba analisa a propagação de um boato em uma rede social, onde cada pessoa repassa a informação para duas outras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "B",
+          "text": "64",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "C",
+          "text": "96",
+          "is_correct": true,
+          "feedback": "a1=3, q=2. a6 = 3 * 2⁵ = 3 * 32 = 96."
+        },
+        {
+          "letter": "D",
+          "text": "192",
+          "is_correct": false,
+          "feedback": "Este é o sétimo termo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificamos $a_1 = 3$ e $q = 2$. Aplicando a fórmula do termo geral para $n=6$: $a_6 = 3 \\cdot 2^{6-1} = 3 \\cdot 2^5$. Como $2^5 = 32$, temos $3 \\cdot 32 = 96$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v6",
+      "statement": "Se uma bola é solta de 10 metros e a cada quique atinge 80\\% da altura anterior, qual é a altura atingida após o terceiro quique?",
+      "context": "Um físico em São José dos Campos estuda o rebatimento de uma bola que perde 20\\% de sua altura a cada quique.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 m",
+          "is_correct": false,
+          "feedback": "Esta é a altura após o primeiro quique."
+        },
+        {
+          "letter": "B",
+          "text": "6,4 m",
+          "is_correct": false,
+          "feedback": "Esta é a altura após o segundo quique."
+        },
+        {
+          "letter": "C",
+          "text": "5,12 m",
+          "is_correct": true,
+          "feedback": "a1=10, q=0,8. a_após_3 = 10 * 0,8³ = 10 * 0,512 = 5,12."
+        },
+        {
+          "letter": "D",
+          "text": "4 m",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A altura inicial é o \"termo zero\" ou podemos considerar a sequência das alturas após os quiques: $a_1 = 10 \\cdot 0,8 = 8$. Após o terceiro quique: $a_3 = a_1 \\cdot q^2 = 8 \\cdot (0,8)^2 = 8 \\cdot 0,64 = 5,12$ metros.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v7",
+      "statement": "Qual é a soma dos 5 primeiros termos da PG $(2, 6, 18, ...)$?",
+      "context": "Um investidor em Belo Horizonte utiliza a fórmula da soma da PG finita para calcular o montante acumulado de aportes mensais fixos com juros compostos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "80",
+          "is_correct": false,
+          "feedback": "Valor muito baixo para a sequência dada."
+        },
+        {
+          "letter": "B",
+          "text": "242",
+          "is_correct": true,
+          "feedback": "S5 = 2(3⁵ - 1) / (3 - 1) = 2(243 - 1) / 2 = 242."
+        },
+        {
+          "letter": "C",
+          "text": "484",
+          "is_correct": false,
+          "feedback": "Esqueceu de simplificar a divisão por (q-1)."
+        },
+        {
+          "letter": "D",
+          "text": "162",
+          "is_correct": false,
+          "feedback": "Este é apenas o valor do 5º termo, não a soma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos a fórmula $S_n = \\frac{a_1(q^n - 1)}{q - 1}$. Para $a_1 = 2, q = 3$ e $n = 5$: $S_5 = \\frac{2(3^5 - 1)}{3 - 1} = \\frac{2(243 - 1)}{2} = 242$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v8",
+      "statement": "Qual é a soma infinita dos termos da PG $(10, 5, 2,5, ...)$?",
+      "context": "Em um laboratório químico em Porto Alegre, uma substância radioativa decai pela metade a cada hora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "A soma já atinge 17,5 no terceiro termo."
+        },
+        {
+          "letter": "B",
+          "text": "20",
+          "is_correct": true,
+          "feedback": "S = a1 / (1 - q) = 10 / (1 - 0,5) = 10 / 0,5 = 20."
+        },
+        {
+          "letter": "C",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Cálculo incorreto da soma infinita."
+        },
+        {
+          "letter": "D",
+          "text": "A soma é infinita.",
+          "is_correct": false,
+          "feedback": "Como a razão é menor que 1, a soma converge."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para uma PG infinita com $|q| < 1$, a soma converge para $S = \\frac{a_1}{1 - q}$. Com $a_1 = 10$ e $q = 0,5$: $S = \\frac{10}{1 - 0,5} = \\frac{10}{0,5} = 20$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v9",
+      "statement": "Se o primeiro quadrado tem lado 16, qual é o valor da área do quinto quadrado da sequência?",
+      "context": "Um designer em Recife cria um mosaico onde o lado de cada quadrado é metade do lado do quadrado anterior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Este seria o lado do terceiro quadrado."
+        },
+        {
+          "letter": "B",
+          "text": "0,5",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Lado 5º = 16 * (1/2)⁴ = 1. Área = 1² = 1."
+        },
+        {
+          "letter": "D",
+          "text": "0,25",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Lados em PG: $16, 8, 4, 2, 1$. O quinto termo da sequência de lados é $a_5 = 16 \\cdot (1/2)^4 = 16/16 = 1$. A área de um quadrado é o lado ao quadrado, logo $1^2 = 1$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v10",
+      "statement": "Determine o valor de $x$ para que a sequência $(x-1, x+2, 3x)$ seja uma PG de termos positivos.",
+      "context": "Um estudante em Fortaleza resolve equações para encontrar termos médios de uma progressão geométrica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": "Resultaria no primeiro termo zero, o que não define uma PG usual."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4$",
+          "is_correct": true,
+          "feedback": "(x+2)² = (x-1)(3x) => x²+4x+4 = 3x²-3x => 2x²-7x-4 = 0. Raízes: 4 e -0,5. Para termos positivos, x=4. PG: (3, 6, 12)."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 2$",
+          "is_correct": false,
+          "feedback": "Testando: (1, 4, 6) não é PG."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 5$",
+          "is_correct": false,
+          "feedback": "Testando: (4, 7, 15) não é PG."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Em uma PG de três termos, o quadrado do termo médio é igual ao produto dos extremos: $(x+2)^2 = (x-1) \\cdot 3x$. Expandindo: $x^2 + 4x + 4 = 3x^2 - 3x$. Organizando a equação quadrática: $2x^2 - 7x - 4 = 0$. As soluções são $x = 4$ e $x = -0,5$. Como os termos devem ser positivos, usamos $x = 4$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v11",
+      "statement": "Qual é a soma dos 10 primeiros termos da PG $(1, 2, 4, ...)$?",
+      "context": "Um analista de sistemas em São Paulo calcula a capacidade de armazenamento necessária para um backup que dobra de tamanho a cada semana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "511",
+          "is_correct": false,
+          "feedback": "Valor incorreto."
+        },
+        {
+          "letter": "B",
+          "text": "1.023",
+          "is_correct": true,
+          "feedback": "S10 = 1 * (2¹⁰ - 1) / (2 - 1) = 1024 - 1 = 1023."
+        },
+        {
+          "letter": "C",
+          "text": "1.024",
+          "is_correct": false,
+          "feedback": "Este é o valor do 11º termo, não a soma dos 10 primeiros."
+        },
+        {
+          "letter": "D",
+          "text": "2.047",
+          "is_correct": false,
+          "feedback": "Valor incorreto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Com $a_1 = 1, q = 2$ e $n = 10$: $S_{10} = \\frac{1 \\cdot (2^{10} - 1)}{2 - 1} = 2^{10} - 1$. Como $2^{10} = 1024$, a soma é $1024 - 1 = 1023$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v12",
+      "statement": "Numa PG de termos positivos, o quarto termo é 54 e o primeiro termo é 2. Qual é o valor do quinto termo?",
+      "context": "Um engenheiro civil em Goiânia utiliza PG para calcular a carga em treliças dispostas de forma escalonada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "108",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "B",
+          "text": "162",
+          "is_correct": true,
+          "feedback": "a4 = a1 * q³ => 54 = 2 * q³ => 27 = q³ => q = 3. a5 = 54 * 3 = 162."
+        },
+        {
+          "letter": "C",
+          "text": "216",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "D",
+          "text": "150",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "1) Achamos a razão: $a_4 = a_1 \\cdot q^3 \\Rightarrow 54 = 2 \\cdot q^3 \\Rightarrow 27 = q^3 \\Rightarrow q = 3$.\n2) Achamos o quinto termo: $a_5 = a_4 \\cdot q = 54 \\cdot 3 = 162$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v13",
+      "statement": "Expresse a dízima periódica $0,333...$ como a soma de uma PG infinita e determine sua fração geratriz.",
+      "context": "Um professor em Vitória desafia seus alunos a encontrar a fração geratriz de uma dízima periódica usando a soma da PG infinita.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{3}{10}$",
+          "is_correct": false,
+          "feedback": "Este é o decimal exato 0,3."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{3}$",
+          "is_correct": true,
+          "feedback": "a1=0,3, q=0,1. S = 0,3 / (1 - 0,1) = 0,3 / 0,9 = 3/9 = 1/3."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{3}{11}$",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{9}$",
+          "is_correct": false,
+          "feedback": "Este seria 0,111..."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A dízima pode ser escrita como $0,3 + 0,03 + 0,003 + ...$, que é uma PG infinita com $a_1 = 0,3$ e $q = 0,1$. A soma é $S = \\frac{0,3}{1 - 0,1} = \\frac{0,3}{0,9} = \\frac{1}{3}$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v14",
+      "statement": "Numa PG de 9 termos, o produto do primeiro com o último termo é 100. Qual é o valor do termo central $a_5$? (Considere apenas termos positivos).",
+      "context": "Um matemático em Porto Alegre estuda as propriedades dos produtos de termos equidistantes em uma PG finita.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": true,
+          "feedback": "Pela propriedade, a1*a9 = a5² = 100. Logo a5 = 10."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "D",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Em uma PG finita com número ímpar de termos, o produto dos termos equidistantes dos extremos é igual ao quadrado do termo central: $a_1 \\cdot a_n = (a_{central})^2$. Assim, $100 = (a_5)^2$, o que resulta em $a_5 = 10$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v15",
+      "statement": "Determine a razão de uma PG onde $a_1 = 5$ e $a_4 = 625$.",
+      "context": "Um estatístico analisa um processo de filtragem onde cada etapa remove uma porcentagem fixa de impurezas restantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Se q=25, o segundo termo já seria 125."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "625 = 5 * q³ => 125 = q³ => q = 5."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Se q=4, o quarto termo seria 5 * 64 = 320."
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos o termo geral: $a_4 = a_1 \\cdot q^3 \\Rightarrow 625 = 5 \\cdot q^3$. Dividindo por 5: $125 = q^3$. Extraindo a raiz cúbica: $q = \\sqrt[3]{125} = 5$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v16",
+      "statement": "Se a sequência $(\\log a, \\log b, \\log c)$ é uma PA, então o que se pode afirmar sobre a sequência $(a, b, c)$?",
+      "context": "Um matemático investiga a relação entre os logaritmos dos termos de uma PG.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "É uma PA de razão 10.",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "B",
+          "text": "É uma PG.",
+          "is_correct": true,
+          "feedback": "Em PA: 2 log b = log a + log c => log b² = log(ac) => b² = ac. Esta é a condição de PG."
+        },
+        {
+          "letter": "C",
+          "text": "É uma sequência constante.",
+          "is_correct": false,
+          "feedback": "Somente se a razão da PA fosse zero."
+        },
+        {
+          "letter": "D",
+          "text": "É uma sequência aleatória.",
+          "is_correct": false,
+          "feedback": "Existe uma relação estrutural clara."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pela definição de PA: $2 \\cdot \\log b = \\log a + \\log c$. Usando propriedades de logaritmos: $\\log b^2 = \\log(a \\cdot c)$. Isso implica $b^2 = a \\cdot c$, que é exatamente a condição para que $a, b, c$ formem uma PG.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v17",
+      "statement": "Qual é o valor da soma infinita $1 - \\frac{1}{2} + \\frac{1}{4} - \\frac{1}{8} + ...$?",
+      "context": "Um pesquisador em Campinas analisa a convergência de uma série geométrica alternada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Este seria o valor se todos os sinais fossem positivos."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{2}{3}$",
+          "is_correct": true,
+          "feedback": "a1=1, q=-1/2. S = 1 / (1 - (-1/2)) = 1 / (3/2) = 2/3."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Embora os termos alternem, a soma converge para um valor positivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificamos $a_1 = 1$ e $q = -1/2$. Como $|q| < 1$, aplicamos a fórmula da soma infinita: $S = \\frac{a_1}{1 - q} = \\frac{1}{1 - (-0,5)} = \\frac{1}{1,5} = \\frac{2}{3}$.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v18",
+      "statement": "Calcule o produto dos 10 primeiros termos da PG $(1, 2, 4, 8, ...)$.",
+      "context": "Durante uma olimpíada, propõe-se um problema envolvendo o produto de uma grande quantidade de termos de uma PG.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2^{10}$",
+          "is_correct": false,
+          "feedback": "Este é apenas o 11º termo."
+        },
+        {
+          "letter": "B",
+          "text": "$2^{55}$",
+          "is_correct": false,
+          "feedback": "A soma dos expoentes de 0 a 9 é 45, não 55."
+        },
+        {
+          "letter": "C",
+          "text": "$2^{45}$",
+          "is_correct": true,
+          "feedback": "P = 2⁰ * 2¹ * ... * 2⁹ = 2^(0+1+...+9) = 2^45."
+        },
+        {
+          "letter": "D",
+          "text": "$2^{100}$",
+          "is_correct": false,
+          "feedback": "Valor excessivo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "O produto de termos de uma PG de base 2 é $2^0 \\cdot 2^1 \\cdot 2^2 \\cdot ... \\cdot 2^{n-1} = 2^{S_{PA}}$, onde $S_{PA}$ é a soma dos expoentes de 0 a $n-1$. Para $n=10$, a soma é $\\frac{(0+9) \\cdot 10}{2} = 45$. Assim, o produto é $2^{45}$.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v19",
+      "statement": "Seja uma PG de 3 termos positivos cuja soma é 26 e o produto é 216. Determine o maior desses três termos.",
+      "context": "No vestibular do ITA, propõe-se um problema que relaciona a soma dos termos de uma PG com o seu produto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Este é o termo central."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "C",
+          "text": "18",
+          "is_correct": true,
+          "feedback": "Termos: x/q, x, xq. Produto x³=216 => x=6. Soma: 6/q + 6 + 6q = 26 => 6/q + 6q = 20 => 3/q + 3q = 10 => 3q²-10q+3=0. Raízes 3 e 1/3. Termos: 2, 6, 18."
+        },
+        {
+          "letter": "D",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Representamos a PG como $(\\frac{x}{q}, x, x \\cdot q)$. O produto é $(\\frac{x}{q}) \\cdot x \\cdot (xq) = x^3 = 216$, logo $x = 6$. A soma é $\\frac{6}{q} + 6 + 6q = 26 \\Rightarrow \\frac{6}{q} + 6q = 20$. Multiplicando por $q$: $6q^2 - 20q + 6 = 0 \\Rightarrow 3q^2 - 10q + 3 = 0$. Resolvendo a quadrática, achamos $q = 3$ ou $q = 1/3$. Para $q=3$, os termos são $2, 6, 18$. O maior é 18.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle-v20",
+      "statement": "Considere um quadrado de área $S$. Divide-se o quadrado em 4 quadrados iguais e pinta-se um deles. Repete-se o processo com um dos quadrados não pintados, infinitamente. Qual é a área total pintada ao final do processo?",
+      "context": "Um matemático analisa a área total de um fractal gerado pela soma infinita de áreas de figuras geométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$S/2$",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "B",
+          "text": "$S$",
+          "is_correct": false,
+          "feedback": "Nem toda a área será pintada, pois em cada etapa sobra uma parte significativa."
+        },
+        {
+          "letter": "C",
+          "text": "$S/3$",
+          "is_correct": true,
+          "feedback": "PG: a1=S/4, q=1/4. Soma = (S/4) / (1 - 1/4) = (S/4) / (3/4) = S/3."
+        },
+        {
+          "letter": "D",
+          "text": "$2S/3$",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "As áreas pintadas formam uma PG: $a_1 = S/4$, $a_2 = S/16$, $a_3 = S/64$, e assim por diante, com razão $q = 1/4$. A soma total pintada é uma PG infinita: $S_{total} = \\frac{S/4}{1 - 1/4} = \\frac{S/4}{3/4} = \\frac{S}{3}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "BR-MAT-3EM-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v1",
+      "statement": "Qual é a lei de formação do termo geral ($a_n$) de uma Progressão Geométrica (PG) de primeiro termo $a_1$ e razão $q$?",
+      "context": "Um estudante em São Paulo está revisando a definição de sequências que crescem ou decrescem por meio de multiplicações sucessivas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_n = a_1 + (n - 1)q$",
+          "is_correct": false,
+          "feedback": "Esta é a fórmula de uma Progressão Aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "$a_n = a_1 \\cdot q^{n-1}$",
+          "is_correct": true,
+          "feedback": "Correto. Em uma PG, cada termo é obtido multiplicando o anterior pela razão q."
+        },
+        {
+          "letter": "C",
+          "text": "$a_n = a_1 \\cdot q^n$",
+          "is_correct": false,
+          "feedback": "Erro: o primeiro termo não deve ser multiplicado pela razão (q elevado a 0 é 1)."
+        },
+        {
+          "letter": "D",
+          "text": "$a_n = (a_1 \\cdot q)^{n-1}$",
+          "is_correct": false,
+          "feedback": "A potência deve ser aplicada apenas à razão q."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Em uma Progressão Geométrica, a relação entre termos consecutivos é constante e igual à razão multiplicativa $q$. Para chegar ao termo de posição $n$, partimos do primeiro termo e multiplicamos pela razão $n-1$ vezes.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v2",
+      "statement": "Uma Progressão Geométrica de termos positivos é considerada **decrescente** quando a razão $q$ satisfaz qual condição?",
+      "context": "Um professor no Rio de Janeiro explica como o valor da razão altera a natureza da sequência geométrica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$q > 1$",
+          "is_correct": false,
+          "feedback": "Se q > 1, os termos aumentam a cada passo (PG crescente)."
+        },
+        {
+          "letter": "B",
+          "text": "$0 < q < 1$",
+          "is_correct": true,
+          "feedback": "Correto. Multiplicar um número positivo por uma fração entre 0 e 1 resulta em um valor menor."
+        },
+        {
+          "letter": "C",
+          "text": "$q = 1$",
+          "is_correct": false,
+          "feedback": "Se q = 1, a PG é constante ou estacionária."
+        },
+        {
+          "letter": "D",
+          "text": "$q < 0$",
+          "is_correct": false,
+          "feedback": "Se q < 0, os termos alternam de sinal (PG oscilante ou alternada)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para uma PG de termos positivos, se a razão está entre 0 e 1, cada novo termo é uma fração do anterior, fazendo com que os valores da sequência diminuam gradualmente em direção a zero.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v3",
+      "statement": "Dada a PG $(4, 12, 36, 108, ...)$, qual é o valor da razão $q$?",
+      "context": "Um biólogo em Manaus observa uma cultura de fungos cuja área ocupada triplica a cada dia de observação.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "8 é a diferença entre os dois primeiros termos, mas PG usa razão multiplicativa."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "q = 12 / 4 = 3."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "4 é o primeiro termo, não a razão."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Se a razão fosse 2, o segundo termo seria 8."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A razão $q$ de uma PG é encontrada dividindo um termo pelo seu antecessor imediato: $q = a_2 / a_1$. No caso, $12 / 4 = 3$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v4",
+      "statement": "Se uma população inicial $P$ cresce a uma taxa de 5\\% ao período, qual é a razão $q$ da PG que descreve esse fenômeno?",
+      "context": "Um economista em Brasília analisa o crescimento populacional de uma cidade que aumenta 2\\% ao ano, caracterizando uma PG.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,05",
+          "is_correct": false,
+          "feedback": "Este é apenas o valor do acréscimo, não o fator multiplicativo total."
+        },
+        {
+          "letter": "B",
+          "text": "1,05",
+          "is_correct": true,
+          "feedback": "Correto. O novo valor é 100% do atual mais 5% (1 + 0,05)."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Uma razão 5 significaria que a população quintuplica a cada período."
+        },
+        {
+          "letter": "D",
+          "text": "1,5",
+          "is_correct": false,
+          "feedback": "Isto representaria um crescimento de 50%."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Em situações de crescimento percentual, a razão da PG é dada por $1 + i$, onde $i$ é a taxa decimal. Para 5\\%, temos $1 + 0,05 = 1,05$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v5",
+      "statement": "Qual é o sexto termo ($a_6$) da PG $(3, 6, 12, ...)$?",
+      "context": "Um técnico em informática em Curitiba analisa a propagação de um boato em uma rede social, onde cada pessoa repassa a informação para duas outras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "B",
+          "text": "64",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "C",
+          "text": "96",
+          "is_correct": true,
+          "feedback": "a1=3, q=2. a6 = 3 * 2⁵ = 3 * 32 = 96."
+        },
+        {
+          "letter": "D",
+          "text": "192",
+          "is_correct": false,
+          "feedback": "Este é o sétimo termo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificamos $a_1 = 3$ e $q = 2$. Aplicando a fórmula do termo geral para $n=6$: $a_6 = 3 \\cdot 2^{6-1} = 3 \\cdot 2^5$. Como $2^5 = 32$, temos $3 \\cdot 32 = 96$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v6",
+      "statement": "Se uma bola é solta de 10 metros e a cada quique atinge 80\\% da altura anterior, qual é a altura atingida após o terceiro quique?",
+      "context": "Um físico em São José dos Campos estuda o rebatimento de uma bola que perde 20\\% de sua altura a cada quique.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 m",
+          "is_correct": false,
+          "feedback": "Esta é a altura após o primeiro quique."
+        },
+        {
+          "letter": "B",
+          "text": "6,4 m",
+          "is_correct": false,
+          "feedback": "Esta é a altura após o segundo quique."
+        },
+        {
+          "letter": "C",
+          "text": "5,12 m",
+          "is_correct": true,
+          "feedback": "a1=10, q=0,8. a_após_3 = 10 * 0,8³ = 10 * 0,512 = 5,12."
+        },
+        {
+          "letter": "D",
+          "text": "4 m",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A altura inicial é o \"termo zero\" ou podemos considerar a sequência das alturas após os quiques: $a_1 = 10 \\cdot 0,8 = 8$. Após o terceiro quique: $a_3 = a_1 \\cdot q^2 = 8 \\cdot (0,8)^2 = 8 \\cdot 0,64 = 5,12$ metros.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v7",
+      "statement": "Qual é a soma dos 5 primeiros termos da PG $(2, 6, 18, ...)$?",
+      "context": "Um investidor em Belo Horizonte utiliza a fórmula da soma da PG finita para calcular o montante acumulado de aportes mensais fixos com juros compostos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "80",
+          "is_correct": false,
+          "feedback": "Valor muito baixo para a sequência dada."
+        },
+        {
+          "letter": "B",
+          "text": "242",
+          "is_correct": true,
+          "feedback": "S5 = 2(3⁵ - 1) / (3 - 1) = 2(243 - 1) / 2 = 242."
+        },
+        {
+          "letter": "C",
+          "text": "484",
+          "is_correct": false,
+          "feedback": "Esqueceu de simplificar a divisão por (q-1)."
+        },
+        {
+          "letter": "D",
+          "text": "162",
+          "is_correct": false,
+          "feedback": "Este é apenas o valor do 5º termo, não a soma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos a fórmula $S_n = \\frac{a_1(q^n - 1)}{q - 1}$. Para $a_1 = 2, q = 3$ e $n = 5$: $S_5 = \\frac{2(3^5 - 1)}{3 - 1} = \\frac{2(243 - 1)}{2} = 242$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v8",
+      "statement": "Qual é a soma infinita dos termos da PG $(10, 5, 2,5, ...)$?",
+      "context": "Em um laboratório químico em Porto Alegre, uma substância radioativa decai pela metade a cada hora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "A soma já atinge 17,5 no terceiro termo."
+        },
+        {
+          "letter": "B",
+          "text": "20",
+          "is_correct": true,
+          "feedback": "S = a1 / (1 - q) = 10 / (1 - 0,5) = 10 / 0,5 = 20."
+        },
+        {
+          "letter": "C",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Cálculo incorreto da soma infinita."
+        },
+        {
+          "letter": "D",
+          "text": "A soma é infinita.",
+          "is_correct": false,
+          "feedback": "Como a razão é menor que 1, a soma converge."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para uma PG infinita com $|q| < 1$, a soma converge para $S = \\frac{a_1}{1 - q}$. Com $a_1 = 10$ e $q = 0,5$: $S = \\frac{10}{1 - 0,5} = \\frac{10}{0,5} = 20$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v9",
+      "statement": "Se o primeiro quadrado tem lado 16, qual é o valor da área do quinto quadrado da sequência?",
+      "context": "Um designer em Recife cria um mosaico onde o lado de cada quadrado é metade do lado do quadrado anterior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Este seria o lado do terceiro quadrado."
+        },
+        {
+          "letter": "B",
+          "text": "0,5",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Lado 5º = 16 * (1/2)⁴ = 1. Área = 1² = 1."
+        },
+        {
+          "letter": "D",
+          "text": "0,25",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Lados em PG: $16, 8, 4, 2, 1$. O quinto termo da sequência de lados é $a_5 = 16 \\cdot (1/2)^4 = 16/16 = 1$. A área de um quadrado é o lado ao quadrado, logo $1^2 = 1$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v10",
+      "statement": "Determine o valor de $x$ para que a sequência $(x-1, x+2, 3x)$ seja uma PG de termos positivos.",
+      "context": "Um estudante em Fortaleza resolve equações para encontrar termos médios de uma progressão geométrica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": "Resultaria no primeiro termo zero, o que não define uma PG usual."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4$",
+          "is_correct": true,
+          "feedback": "(x+2)² = (x-1)(3x) => x²+4x+4 = 3x²-3x => 2x²-7x-4 = 0. Raízes: 4 e -0,5. Para termos positivos, x=4. PG: (3, 6, 12)."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 2$",
+          "is_correct": false,
+          "feedback": "Testando: (1, 4, 6) não é PG."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 5$",
+          "is_correct": false,
+          "feedback": "Testando: (4, 7, 15) não é PG."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Em uma PG de três termos, o quadrado do termo médio é igual ao produto dos extremos: $(x+2)^2 = (x-1) \\cdot 3x$. Expandindo: $x^2 + 4x + 4 = 3x^2 - 3x$. Organizando a equação quadrática: $2x^2 - 7x - 4 = 0$. As soluções são $x = 4$ e $x = -0,5$. Como os termos devem ser positivos, usamos $x = 4$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v11",
+      "statement": "Qual é a soma dos 10 primeiros termos da PG $(1, 2, 4, ...)$?",
+      "context": "Um analista de sistemas em São Paulo calcula a capacidade de armazenamento necessária para um backup que dobra de tamanho a cada semana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "511",
+          "is_correct": false,
+          "feedback": "Valor incorreto."
+        },
+        {
+          "letter": "B",
+          "text": "1.023",
+          "is_correct": true,
+          "feedback": "S10 = 1 * (2¹⁰ - 1) / (2 - 1) = 1024 - 1 = 1023."
+        },
+        {
+          "letter": "C",
+          "text": "1.024",
+          "is_correct": false,
+          "feedback": "Este é o valor do 11º termo, não a soma dos 10 primeiros."
+        },
+        {
+          "letter": "D",
+          "text": "2.047",
+          "is_correct": false,
+          "feedback": "Valor incorreto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Com $a_1 = 1, q = 2$ e $n = 10$: $S_{10} = \\frac{1 \\cdot (2^{10} - 1)}{2 - 1} = 2^{10} - 1$. Como $2^{10} = 1024$, a soma é $1024 - 1 = 1023$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v12",
+      "statement": "Numa PG de termos positivos, o quarto termo é 54 e o primeiro termo é 2. Qual é o valor do quinto termo?",
+      "context": "Um engenheiro civil em Goiânia utiliza PG para calcular a carga em treliças dispostas de forma escalonada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "108",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "B",
+          "text": "162",
+          "is_correct": true,
+          "feedback": "a4 = a1 * q³ => 54 = 2 * q³ => 27 = q³ => q = 3. a5 = 54 * 3 = 162."
+        },
+        {
+          "letter": "C",
+          "text": "216",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "D",
+          "text": "150",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "1) Achamos a razão: $a_4 = a_1 \\cdot q^3 \\Rightarrow 54 = 2 \\cdot q^3 \\Rightarrow 27 = q^3 \\Rightarrow q = 3$.\n2) Achamos o quinto termo: $a_5 = a_4 \\cdot q = 54 \\cdot 3 = 162$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v13",
+      "statement": "Expresse a dízima periódica $0,333...$ como a soma de uma PG infinita e determine sua fração geratriz.",
+      "context": "Um professor em Vitória desafia seus alunos a encontrar a fração geratriz de uma dízima periódica usando a soma da PG infinita.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{3}{10}$",
+          "is_correct": false,
+          "feedback": "Este é o decimal exato 0,3."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{3}$",
+          "is_correct": true,
+          "feedback": "a1=0,3, q=0,1. S = 0,3 / (1 - 0,1) = 0,3 / 0,9 = 3/9 = 1/3."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{3}{11}$",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{9}$",
+          "is_correct": false,
+          "feedback": "Este seria 0,111..."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A dízima pode ser escrita como $0,3 + 0,03 + 0,003 + ...$, que é uma PG infinita com $a_1 = 0,3$ e $q = 0,1$. A soma é $S = \\frac{0,3}{1 - 0,1} = \\frac{0,3}{0,9} = \\frac{1}{3}$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v14",
+      "statement": "Numa PG de 9 termos, o produto do primeiro com o último termo é 100. Qual é o valor do termo central $a_5$? (Considere apenas termos positivos).",
+      "context": "Um matemático em Porto Alegre estuda as propriedades dos produtos de termos equidistantes em uma PG finita.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": true,
+          "feedback": "Pela propriedade, a1*a9 = a5² = 100. Logo a5 = 10."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "D",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Em uma PG finita com número ímpar de termos, o produto dos termos equidistantes dos extremos é igual ao quadrado do termo central: $a_1 \\cdot a_n = (a_{central})^2$. Assim, $100 = (a_5)^2$, o que resulta em $a_5 = 10$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v15",
+      "statement": "Determine a razão de uma PG onde $a_1 = 5$ e $a_4 = 625$.",
+      "context": "Um estatístico analisa um processo de filtragem onde cada etapa remove uma porcentagem fixa de impurezas restantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Se q=25, o segundo termo já seria 125."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "625 = 5 * q³ => 125 = q³ => q = 5."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Se q=4, o quarto termo seria 5 * 64 = 320."
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos o termo geral: $a_4 = a_1 \\cdot q^3 \\Rightarrow 625 = 5 \\cdot q^3$. Dividindo por 5: $125 = q^3$. Extraindo a raiz cúbica: $q = \\sqrt[3]{125} = 5$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v16",
+      "statement": "Se a sequência $(\\log a, \\log b, \\log c)$ é uma PA, então o que se pode afirmar sobre a sequência $(a, b, c)$?",
+      "context": "Um matemático investiga a relação entre os logaritmos dos termos de uma PG.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "É uma PA de razão 10.",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "B",
+          "text": "É uma PG.",
+          "is_correct": true,
+          "feedback": "Em PA: 2 log b = log a + log c => log b² = log(ac) => b² = ac. Esta é a condição de PG."
+        },
+        {
+          "letter": "C",
+          "text": "É uma sequência constante.",
+          "is_correct": false,
+          "feedback": "Somente se a razão da PA fosse zero."
+        },
+        {
+          "letter": "D",
+          "text": "É uma sequência aleatória.",
+          "is_correct": false,
+          "feedback": "Existe uma relação estrutural clara."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pela definição de PA: $2 \\cdot \\log b = \\log a + \\log c$. Usando propriedades de logaritmos: $\\log b^2 = \\log(a \\cdot c)$. Isso implica $b^2 = a \\cdot c$, que é exatamente a condição para que $a, b, c$ formem uma PG.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v17",
+      "statement": "Qual é o valor da soma infinita $1 - \\frac{1}{2} + \\frac{1}{4} - \\frac{1}{8} + ...$?",
+      "context": "Um pesquisador em Campinas analisa a convergência de uma série geométrica alternada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Este seria o valor se todos os sinais fossem positivos."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{2}{3}$",
+          "is_correct": true,
+          "feedback": "a1=1, q=-1/2. S = 1 / (1 - (-1/2)) = 1 / (3/2) = 2/3."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Embora os termos alternem, a soma converge para um valor positivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificamos $a_1 = 1$ e $q = -1/2$. Como $|q| < 1$, aplicamos a fórmula da soma infinita: $S = \\frac{a_1}{1 - q} = \\frac{1}{1 - (-0,5)} = \\frac{1}{1,5} = \\frac{2}{3}$.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v18",
+      "statement": "Calcule o produto dos 10 primeiros termos da PG $(1, 2, 4, 8, ...)$.",
+      "context": "Durante uma olimpíada, propõe-se um problema envolvendo o produto de uma grande quantidade de termos de uma PG.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2^{10}$",
+          "is_correct": false,
+          "feedback": "Este é apenas o 11º termo."
+        },
+        {
+          "letter": "B",
+          "text": "$2^{55}$",
+          "is_correct": false,
+          "feedback": "A soma dos expoentes de 0 a 9 é 45, não 55."
+        },
+        {
+          "letter": "C",
+          "text": "$2^{45}$",
+          "is_correct": true,
+          "feedback": "P = 2⁰ * 2¹ * ... * 2⁹ = 2^(0+1+...+9) = 2^45."
+        },
+        {
+          "letter": "D",
+          "text": "$2^{100}$",
+          "is_correct": false,
+          "feedback": "Valor excessivo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "O produto de termos de uma PG de base 2 é $2^0 \\cdot 2^1 \\cdot 2^2 \\cdot ... \\cdot 2^{n-1} = 2^{S_{PA}}$, onde $S_{PA}$ é a soma dos expoentes de 0 a $n-1$. Para $n=10$, a soma é $\\frac{(0+9) \\cdot 10}{2} = 45$. Assim, o produto é $2^{45}$.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v19",
+      "statement": "Seja uma PG de 3 termos positivos cuja soma é 26 e o produto é 216. Determine o maior desses três termos.",
+      "context": "No vestibular do ITA, propõe-se um problema que relaciona a soma dos termos de uma PG com o seu produto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Este é o termo central."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "C",
+          "text": "18",
+          "is_correct": true,
+          "feedback": "Termos: x/q, x, xq. Produto x³=216 => x=6. Soma: 6/q + 6 + 6q = 26 => 6/q + 6q = 20 => 3/q + 3q = 10 => 3q²-10q+3=0. Raízes 3 e 1/3. Termos: 2, 6, 18."
+        },
+        {
+          "letter": "D",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Representamos a PG como $(\\frac{x}{q}, x, x \\cdot q)$. O produto é $(\\frac{x}{q}) \\cdot x \\cdot (xq) = x^3 = 216$, logo $x = 6$. A soma é $\\frac{6}{q} + 6 + 6q = 26 \\Rightarrow \\frac{6}{q} + 6q = 20$. Multiplicando por $q$: $6q^2 - 20q + 6 = 0 \\Rightarrow 3q^2 - 10q + 3 = 0$. Resolvendo a quadrática, achamos $q = 3$ ou $q = 1/3$. Para $q=3$, os termos são $2, 6, 18$. O maior é 18.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle-v20",
+      "statement": "Considere um quadrado de área $S$. Divide-se o quadrado em 4 quadrados iguais e pinta-se um deles. Repete-se o processo com um dos quadrados não pintados, infinitamente. Qual é a área total pintada ao final do processo?",
+      "context": "Um matemático analisa a área total de um fractal gerado pela soma infinita de áreas de figuras geométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$S/2$",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "B",
+          "text": "$S$",
+          "is_correct": false,
+          "feedback": "Nem toda a área será pintada, pois em cada etapa sobra uma parte significativa."
+        },
+        {
+          "letter": "C",
+          "text": "$S/3$",
+          "is_correct": true,
+          "feedback": "PG: a1=S/4, q=1/4. Soma = (S/4) / (1 - 1/4) = (S/4) / (3/4) = S/3."
+        },
+        {
+          "letter": "D",
+          "text": "$2S/3$",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "As áreas pintadas formam uma PG: $a_1 = S/4$, $a_2 = S/16$, $a_3 = S/64$, e assim por diante, com razão $q = 1/4$. A soma total pintada é uma PG infinita: $S_{total} = \\frac{S/4}{1 - 1/4} = \\frac{S/4}{3/4} = \\frac{S}{3}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "BR-MAT-11-2026-W10-progressao-geometrica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    }
+  ]
+}

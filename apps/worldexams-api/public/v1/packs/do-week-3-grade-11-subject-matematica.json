@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "do",
+    "pack_id": "do-week-3-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:38.419Z"
+  },
+  "questions": [
+    {
+      "id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se define una \"razón\" entre dos cantidades $a$ y $b$?",
+      "context": "Un estudiante de secundaria en San Pedro de Macorís revisa conceptos de aritmética básica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es la diferencia ($a - b$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es una comparación por resta (razón aritmética)."
+        },
+        {
+          "letter": "B",
+          "text": "Es el producto ($a \\cdot b$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto no define una comparación proporcional."
+        },
+        {
+          "letter": "C",
+          "text": "Es el cociente o división ($a / b$).",
+          "is_correct": true,
+          "feedback": "Correcto. Una razón geométrica compara dos magnitudes mediante su división."
+        },
+        {
+          "letter": "D",
+          "text": "Es la suma ($a + b$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una relación de comparación proporcional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una razón es el resultado de comparar dos cantidades. La más usada es la geométrica ($a/b$).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v2",
+      "statement": "En una proporción $\\frac{a}{b} = \\frac{c}{d}$, ¿cómo se llaman los términos $a$ y $d$?",
+      "context": "En una panadería en Santo Domingo, se comparan las cantidades de harina y azúcar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Extremos",
+          "is_correct": true,
+          "feedback": "Correcto. En la lectura de la proporción, son el primero y el último términos mencionados."
+        },
+        {
+          "letter": "B",
+          "text": "Medios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los términos b y c."
+        },
+        {
+          "letter": "C",
+          "text": "Consecuentes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son los denominadores de cada razón."
+        },
+        {
+          "letter": "D",
+          "text": "Antecedentes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son los numeradores de cada razón."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la igualdad de dos razones, los términos exteriores se llaman extremos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la razón del concentrado respecto al agua?",
+      "context": "Preparando jugo de chinola en Samaná: se usan 2 tazas de concentrado por cada 5 de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5:2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el orden inverso (agua a concentrado)."
+        },
+        {
+          "letter": "B",
+          "text": "2:5",
+          "is_correct": true,
+          "feedback": "Correcto. Mantiene el orden de las cantidades mencionadas."
+        },
+        {
+          "letter": "C",
+          "text": "2:7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la razón respecto al total de la mezcla."
+        },
+        {
+          "letter": "D",
+          "text": "5:7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Razón de agua respecto al total."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La razón debe respetar estrictamente el orden de los elementos planteados.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v4",
+      "statement": "¿Qué establece la Propiedad Fundamental en la igualdad $\\frac{a}{b} = \\frac{c}{d}$?",
+      "context": "Un arquitecto en Santiago explica la Propiedad Fundamental de las Proporciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a + c = b + d$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una propiedad general de proporcionalidad."
+        },
+        {
+          "letter": "B",
+          "text": "$a \\cdot d = b \\cdot c$",
+          "is_correct": true,
+          "feedback": "Correcto. El producto de los extremos es igual al producto de los medios."
+        },
+        {
+          "letter": "C",
+          "text": "$a = c$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es necesario que los numeradores coincidan."
+        },
+        {
+          "letter": "D",
+          "text": "$a - b = c - d$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplica a proporciones aritméticas, no geométricas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Es la base para resolver incógnitas mediante el producto cruzado.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v5",
+      "statement": "¿Qué representa matemáticamente esta escala?",
+      "context": "Un mapa de República Dominicana tiene una escala de 1:500,000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El mapa es mayor que la realidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una escala de reducción hace el dibujo más pequeño."
+        },
+        {
+          "letter": "B",
+          "text": "1 unidad en el mapa equivale a 500,000 en la realidad.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la definición de escala como razón de semejanza."
+        },
+        {
+          "letter": "C",
+          "text": "La distancia total es 500,000 metros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No define una distancia fija, sino una relación."
+        },
+        {
+          "letter": "D",
+          "text": "Hay 500,000 km por cada centímetro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las unidades deben ser consistentes (1 cm : 500,000 cm)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La escala es una aplicación directa del concepto de razón entre modelo y objeto real.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v6",
+      "statement": "¿Cuánto se debe pagar por 5 libras de arroz?",
+      "context": "En La Romana, 3 libras de arroz cuestan RD\\$ 105.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "RD\\$ 150",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el cálculo de la tasa unitaria."
+        },
+        {
+          "letter": "B",
+          "text": "RD\\$ 175",
+          "is_correct": true,
+          "feedback": "Correcto. 105/3 = 35 por libra; 35 * 5 = 175."
+        },
+        {
+          "letter": "C",
+          "text": "RD\\$ 210",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el costo de 6 libras."
+        },
+        {
+          "letter": "D",
+          "text": "RD\\$ 135",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la aplicación de la proporción directa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Problema de proporcionalidad directa: a mayor peso, mayor costo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v7",
+      "statement": "¿Cuántos litros consumirá en un viaje de 250 km?",
+      "context": "Un vehículo consume 8 litros para recorrer 100 km en la Autovía del Este.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "16 L",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sería para 200 km."
+        },
+        {
+          "letter": "B",
+          "text": "20 L",
+          "is_correct": true,
+          "feedback": "Correcto. 8/100 = x/250 -> 100x = 2000 -> x = 20."
+        },
+        {
+          "letter": "C",
+          "text": "24 L",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excede el consumo proporcional."
+        },
+        {
+          "letter": "D",
+          "text": "12 L",
+          "is_correct": false,
+          "feedback": "Incorrecto. Consumo insuficiente para la distancia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Establecemos la proporción $\\frac{8}{100} = \\frac{x}{250}$ y resolvemos para $x$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v8",
+      "statement": "¿Cuánto recibe la persona a la que le toca la parte menor?",
+      "context": "Reparto proporcional de RD\\$ 1,200 entre dos personas en razón 3:5.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "RD\\$ 600",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería un reparto igualitario (1:1)."
+        },
+        {
+          "letter": "B",
+          "text": "RD\\$ 450",
+          "is_correct": true,
+          "feedback": "Correcto. Suma de partes: 8. 1200/8 = 150. Parte menor: 3 * 150 = 450."
+        },
+        {
+          "letter": "C",
+          "text": "RD\\$ 750",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la parte mayor (5 * 150)."
+        },
+        {
+          "letter": "D",
+          "text": "RD\\$ 400",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la división por el total de partes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dividimos el total por la suma de los términos de la razón para hallar la constante de reparto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v9",
+      "statement": "¿Cuánto tardarán 8 obreros trabajando al mismo ritmo?",
+      "context": "4 obreros terminan una obra en 6 horas en Baní.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 h",
+          "is_correct": false,
+          "feedback": "Incorrecto. A más obreros debe ser menos tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "3 h",
+          "is_correct": true,
+          "feedback": "Correcto. Es proporción inversa: 4 * 6 = 24 obrero-horas. 24 / 8 = 3 h."
+        },
+        {
+          "letter": "C",
+          "text": "4 h",
+          "is_correct": false,
+          "feedback": "Incorrecto. No sigue la relación inversa correcta."
+        },
+        {
+          "letter": "D",
+          "text": "1.5 h",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reducción excesiva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la proporcionalidad inversa, el producto de las magnitudes permanece constante.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v10",
+      "statement": "Si dos magnitudes son \"inversamente proporcionales\", ¿qué ocurre si una disminuye a la tercera parte?",
+      "context": "Se analiza el rendimiento agrícola en San Juan de la Maguana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La otra disminuye a la tercera parte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería proporción directa."
+        },
+        {
+          "letter": "B",
+          "text": "La otra aumenta al triple.",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser inversa, se multiplica por el recíproco del factor de cambio."
+        },
+        {
+          "letter": "C",
+          "text": "La otra se mantiene constante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay una relación de cambio."
+        },
+        {
+          "letter": "D",
+          "text": "La otra aumenta nueve veces.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio debe ser por el mismo factor (3)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Si $x \\cdot y = k$, entonces si $x$ se divide por 3, $y$ debe multiplicarse por 3 para mantener $k$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v11",
+      "statement": "¿Cuántos gramos de la segunda se requieren para 140 g de la primera?",
+      "context": "Mezcla de resinas en Bonao en proporción 7:3.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60 g",
+          "is_correct": true,
+          "feedback": "Correcto. 7/3 = 140/x -> 7x = 420 -> x = 60."
+        },
+        {
+          "letter": "B",
+          "text": "30 g",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de escala."
+        },
+        {
+          "letter": "C",
+          "text": "210 g",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cumple la razón dada."
+        },
+        {
+          "letter": "D",
+          "text": "100 g",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo proporcional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se establece la igualdad de razones y se despeja la incógnita.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál proporción representa correctamente el costo en pesos ($x$) de un objeto de 75 dólares?",
+      "context": "Un economista analiza el cambio de moneda: 1 USD = 58 DOP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/x = 58/75",
+          "is_correct": false,
+          "feedback": "Incorrecto. Magnitudes mal emparejadas."
+        },
+        {
+          "letter": "B",
+          "text": "1/58 = 75/x",
+          "is_correct": true,
+          "feedback": "Correcto. USD/DOP = USD/DOP."
+        },
+        {
+          "letter": "C",
+          "text": "1/75 = x/58",
+          "is_correct": false,
+          "feedback": "Incorrecto. Inversión errónea en el segundo miembro."
+        },
+        {
+          "letter": "D",
+          "text": "1 * 75 = 58 * x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Planteamiento de relación inversa inexistente aquí."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La proporción debe mantener el mismo tipo de magnitud en numeradores y denominadores.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v13",
+      "statement": "Ciudad A: 50,000 hab en 10 km2. Ciudad B: 75,000 hab en 15 km2. ¿Cuál es más densa?",
+      "context": "Comparación de densidades en el Distrito Nacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ciudad B es más densa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sus razones son iguales."
+        },
+        {
+          "letter": "B",
+          "text": "Ciudad A es más densa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sus razones son iguales."
+        },
+        {
+          "letter": "C",
+          "text": "Tienen la misma densidad.",
+          "is_correct": true,
+          "feedback": "Correcto. Ambas dan 5,000 hab/km2."
+        },
+        {
+          "letter": "D",
+          "text": "No se pueden comparar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La razón es la herramienta ideal para comparar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se calcula la razón habitantes/área para verificar la equivalencia.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v14",
+      "statement": "Si $\\frac{x}{y} = \\frac{3}{4}$, ¿cuál es el valor de $\\frac{2x}{3y}$?",
+      "context": "Análisis de proporciones compuestas abstractas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/2",
+          "is_correct": true,
+          "feedback": "Correcto. (2/3) * (x/y) = (2/3) * (3/4) = 6/12 = 1/2."
+        },
+        {
+          "letter": "B",
+          "text": "2/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoraste la razón x/y."
+        },
+        {
+          "letter": "C",
+          "text": "9/8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Operación de fracciones errónea."
+        },
+        {
+          "letter": "D",
+          "text": "3/4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los coeficientes alteran el valor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se trata de una multiplicación de la fracción de coeficientes por la razón dada.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v15",
+      "statement": "¿En qué razón están las velocidades de llenado de A respecto a B?",
+      "context": "Llenado de tanques: Llave A tarda 4h, Llave B tarda 6h.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2:3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la razón de los tiempos."
+        },
+        {
+          "letter": "B",
+          "text": "3:2",
+          "is_correct": true,
+          "feedback": "Correcto. Velocidad = 1/tiempo. (1/4) / (1/6) = 6/4 = 3/2."
+        },
+        {
+          "letter": "C",
+          "text": "4:6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de aplicación directa de tiempos."
+        },
+        {
+          "letter": "D",
+          "text": "1:1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen distintos rendimientos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La velocidad es inversamente proporcional al tiempo empleado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v16",
+      "statement": "Si se usan 28 sacos de grava, ¿cuántos de cemento se requieren?",
+      "context": "Mezcla de concreto (1:2:4 para cemento, arena, grava) en Punta Cana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "14 sacos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la razón parcial."
+        },
+        {
+          "letter": "B",
+          "text": "7 sacos",
+          "is_correct": true,
+          "feedback": "Correcto. Razón cemento:grava es 1:4. 28 / 4 = 7."
+        },
+        {
+          "letter": "C",
+          "text": "4 sacos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo."
+        },
+        {
+          "letter": "D",
+          "text": "28 sacos",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es mezcla equitativa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificamos la razón entre los dos componentes específicos de la pregunta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.4,
+      "bundle_id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v17",
+      "statement": "Si $\\frac{a}{b} = \\frac{c}{d} = k$, ¿cuál expresión es igual a $k$?",
+      "context": "Propiedades algebraicas de razones iguales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(a+b)/(c+d)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es propiedad válida."
+        },
+        {
+          "letter": "B",
+          "text": "(a+c)/(b+d)",
+          "is_correct": true,
+          "feedback": "Correcto. Propiedad de suma de antecedentes y consecuentes."
+        },
+        {
+          "letter": "C",
+          "text": "ac/bd",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería k al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "(a-d)/(b-c)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin fundamento matemático."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Es una propiedad fundamental de la serie de razones iguales.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v18",
+      "statement": "Capital A produce 200 en 4 meses. Capital B produce 300 en 5 meses. ¿Razón A:B?",
+      "context": "Intereses bancarios proporcionales al capital y al tiempo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2:3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoró el tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "4:5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoró el interés."
+        },
+        {
+          "letter": "C",
+          "text": "5:6",
+          "is_correct": true,
+          "feedback": "Correcto. (200/4)/(300/5) = 50/60 = 5/6."
+        },
+        {
+          "letter": "D",
+          "text": "6:5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Razón invertida."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El capital es proporcional al cociente Interés/Tiempo para una tasa fija.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v19",
+      "statement": "¿A qué ecuación cuadrática llega la razón $x = a/b$?",
+      "context": "La Razón Áurea ($\\phi$) definida por $\\frac{a+b}{a} = \\frac{a}{b}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x2 + x + 1 = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signos incorrectos."
+        },
+        {
+          "letter": "B",
+          "text": "x2 - x - 1 = 0",
+          "is_correct": true,
+          "feedback": "Correcto. Resulta de simplificar 1 + 1/x = x."
+        },
+        {
+          "letter": "C",
+          "text": "x2 + x - 1 = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de despeje."
+        },
+        {
+          "letter": "D",
+          "text": "x2 - 1 = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta el término lineal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Proceso de modelación algebraica a partir de una definición de proporción.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la razón final agua:alcohol?",
+      "context": "Mezclas en industria de Haina. R1 (2:3), R2 (3:1). Volúmenes iguales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5:4",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se suman términos directamente."
+        },
+        {
+          "letter": "B",
+          "text": "1:1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Desequilibrio evidente."
+        },
+        {
+          "letter": "C",
+          "text": "23:17",
+          "is_correct": true,
+          "feedback": "Correcto. Suma de fracciones: (2/5+3/4) / (3/5+1/4)."
+        },
+        {
+          "letter": "D",
+          "text": "13:7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fracciones calculadas erróneamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cálculo de concentraciones promedio mediante suma de fracciones.\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Context | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "DO-MAT-11-2026-W03-razones-proporciones-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    }
+  ]
+}

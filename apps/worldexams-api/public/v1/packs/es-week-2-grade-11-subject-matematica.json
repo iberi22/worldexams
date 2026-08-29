@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "es",
+    "pack_id": "es-week-2-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:39.423Z"
+  },
+  "questions": [
+    {
+      "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el resultado de la operación $a^m \\cdot a^n$ para cualquier número real $a \\neq 0$?",
+      "context": "Un estudiante de 1º de Bachillerato en Valencia repasa las propiedades básicas de las potencias antes de entrar en temas de análisis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a^{m \\cdot n}$",
+          "is_correct": false,
+          "feedback": "Esta es la propiedad de la potencia de una potencia, no del producto de potencias de la misma base."
+        },
+        {
+          "letter": "B",
+          "text": "$a^{m + n}$",
+          "is_correct": true,
+          "feedback": "Correcto. Al multiplicar potencias de la misma base, se mantiene la base y se suman los exponentes."
+        },
+        {
+          "letter": "C",
+          "text": "$a^{m - n}$",
+          "is_correct": false,
+          "feedback": "Esta propiedad corresponde a la división de potencias de la misma base."
+        },
+        {
+          "letter": "D",
+          "text": "$(2a)^{m+n}$",
+          "is_correct": false,
+          "feedback": "La base no se multiplica; se mantiene constante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El producto de potencias de la misma base es una de las leyes fundamentales de los exponentes. Indica que la base se mantiene igual y el nuevo exponente es la suma de los exponentes originales, basándose en la definición de potencia como multiplicación reiterada.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se expresa la raíz $n$-ésima de un número $a$ en forma de potencia?",
+      "context": "En un taller de diseño en Barcelona, se utilizan escalas de potencias para representar crecimientos exponenciales de superficies.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a^n$",
+          "is_correct": false,
+          "feedback": "Esto es una potencia de exponente natural, no una raíz."
+        },
+        {
+          "letter": "B",
+          "text": "$a^{1/n}$",
+          "is_correct": true,
+          "feedback": "Correcto. Una raíz de índice $n$ equivale a elevar el radicando al exponente fraccionario $1/n$."
+        },
+        {
+          "letter": "C",
+          "text": "$a^{-n}$",
+          "is_correct": false,
+          "feedback": "Esto representa el recíproco de la potencia, $1/a^n$."
+        },
+        {
+          "letter": "D",
+          "text": "$n^a$",
+          "is_correct": false,
+          "feedback": "Aquí se han intercambiado la base y el exponente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La notación de exponente fraccionario es esencial para unificar el tratamiento de potencias y raíces. El índice de la raíz pasa a ser el denominador del exponente fraccionario de la potencia.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el área exacta de dicho cuadrado?",
+      "context": "Un carpintero en Toledo necesita calcular el área de un cuadrado cuyo lado mide $\\sqrt{5}$ metros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2,5 m²",
+          "is_correct": false,
+          "feedback": "Error al dividir la base por el índice en lugar de elevar al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "5 m²",
+          "is_correct": true,
+          "feedback": "Correcto. El área es el lado al cuadrado: $(\\sqrt{5})^2 = 5$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{10}$ m²",
+          "is_correct": false,
+          "feedback": "Error al multiplicar el radicando por 2."
+        },
+        {
+          "letter": "D",
+          "text": "25 m²",
+          "is_correct": false,
+          "feedback": "Error al elevar al cuadrado el radicando sin eliminar la raíz."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El área de un cuadrado de lado $s$ es $s^2$. Si $s = \\sqrt{5}$, entonces $s^2 = (\\sqrt{5})^2 = 5$. La potencia cuadrada anula la raíz cuadrada.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.82,
+      "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v4",
+      "statement": "¿En qué caso la raíz $\\sqrt[n]{a}$ NO tiene solución dentro del conjunto de los números reales?",
+      "context": "Un estudiante en Sevilla revisa las condiciones de existencia de las raíces de números negativos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando a es positivo y n es impar.",
+          "is_correct": false,
+          "feedback": "Siempre tiene solución real positiva."
+        },
+        {
+          "letter": "B",
+          "text": "Cuando a es negativo y n es impar.",
+          "is_correct": false,
+          "feedback": "Las raíces de índice impar de números negativos existen en los reales."
+        },
+        {
+          "letter": "C",
+          "text": "Cuando a es positivo y n es par.",
+          "is_correct": false,
+          "feedback": "Tiene dos soluciones reales (+ y -)."
+        },
+        {
+          "letter": "D",
+          "text": "Cuando a es negativo y n es par.",
+          "is_correct": true,
+          "feedback": "Correcto. No existe un número real que elevado a una potencia par resulte negativo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En los números reales, las raíces de índice par de números negativos no están definidas, ya que cualquier número real elevado a una potencia par es siempre no negativo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v5",
+      "statement": "Simplifica la expresión $(2^3)^2 \\cdot 2^{-4}$.",
+      "context": "Un informático en Málaga analiza la capacidad de almacenamiento, que suele crecer en potencias de 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2^10",
+          "is_correct": false,
+          "feedback": "Error al sumar exponentes en lugar de multiplicar en la potencia de una potencia."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correcto. $(2^3)^2 = 2^6$; $2^6 \\cdot 2^{-4} = 2^2 = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Error en la resta de los exponentes."
+        },
+        {
+          "letter": "D",
+          "text": "1/4",
+          "is_correct": false,
+          "feedback": "Error de signo en el exponente final."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se aplica la propiedad de potencia de una potencia (multiplicar exponentes) y luego producto de potencias (sumar exponentes). $2^{3 \\cdot 2} \\cdot 2^{-4} = 2^6 \\cdot 2^{-4} = 2^{6-4} = 2^2 = 4$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el volumen del cubo?",
+      "context": "Un arquitecto en Zaragoza calcula el volumen de un cubo de $\\sqrt[3]{2}$ metros de arista.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 m³",
+          "is_correct": false,
+          "feedback": "Error al elevar el radicando al cubo sin considerar la raíz."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt[3]{8}$ m³",
+          "is_correct": false,
+          "feedback": "Aunque es matemáticamente igual a 2, no es la forma simplificada."
+        },
+        {
+          "letter": "C",
+          "text": "2 m³",
+          "is_correct": true,
+          "feedback": "Correcto. El volumen es $(\\sqrt[3]{2})^3 = 2$."
+        },
+        {
+          "letter": "D",
+          "text": "4 m³",
+          "is_correct": false,
+          "feedback": "Error de cálculo en la potencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El volumen de un cubo es arista al cubo. La raíz cúbica elevada al cubo se anula, dejando el radicando como resultado final.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v7",
+      "statement": "Simplifica la expresión $\\sqrt{32} + \\sqrt{2}$.",
+      "context": "Un estudiante de ciencias en Granada simplifica expresiones con radicales para un experimento de física.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{34}$",
+          "is_correct": false,
+          "feedback": "Los radicales no se pueden sumar sumando sus radicandos directamente."
+        },
+        {
+          "letter": "B",
+          "text": "$5\\sqrt{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sqrt{32} = \\sqrt{16 \\cdot 2} = 4\\sqrt{2}$. Entonces $4\\sqrt{2} + \\sqrt{2} = 5\\sqrt{2}$."
+        },
+        {
+          "letter": "C",
+          "text": "$6\\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Error al extraer el factor de la raíz de 32."
+        },
+        {
+          "letter": "D",
+          "text": "$4\\sqrt{4}$",
+          "is_correct": false,
+          "feedback": "Expresión incorrecta que no simplifica los radicales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para sumar radicales, deben ser semejantes. Extraemos factores de $\\sqrt{32}$ identificando el mayor cuadrado perfecto divisor (16). $\\sqrt{32} = 4\\sqrt{2}$. Sumamos los coeficientes de los radicales semejantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la representación correcta en notación científica?",
+      "context": "Se requiere expresar el número 0,000000045 en notación científica para un informe técnico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$45 \\cdot 10^{-9}$",
+          "is_correct": false,
+          "feedback": "No es notación científica estándar (el coeficiente debe estar entre 1 y 10)."
+        },
+        {
+          "letter": "B",
+          "text": "$4,5 \\cdot 10^{-8}$",
+          "is_correct": true,
+          "feedback": "Correcto. Movemos la coma 8 lugares a la derecha."
+        },
+        {
+          "letter": "C",
+          "text": "$4,5 \\cdot 10^8$",
+          "is_correct": false,
+          "feedback": "El exponente debe ser negativo para números menores que 1."
+        },
+        {
+          "letter": "D",
+          "text": "$0,45 \\cdot 10^{-7}$",
+          "is_correct": false,
+          "feedback": "El coeficiente debe ser mayor o igual a 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La notación científica requiere un coeficiente entre 1 (incluido) y 10 (excluido) multiplicado por una potencia de 10. Al desplazar la coma hacia la derecha, el exponente es el número de saltos con signo negativo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v9",
+      "statement": "¿Cómo se puede comparar el valor de $\\sqrt{2}$ y $\\sqrt[3]{3}$ de forma analítica?",
+      "context": "Un estudiante compara dos números reales expresados con radicales de distinto índice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sumando los índices y los radicandos.",
+          "is_correct": false,
+          "feedback": "Esto no permite comparar magnitudes."
+        },
+        {
+          "letter": "B",
+          "text": "Reduciendo ambos radicales a un índice común.",
+          "is_correct": true,
+          "feedback": "Correcto. El mínimo común múltiplo de los índices (2 y 3) es 6."
+        },
+        {
+          "letter": "C",
+          "text": "Elevando ambos al cuadrado únicamente.",
+          "is_correct": false,
+          "feedback": "Elevar al cuadrado no elimina la raíz cúbica."
+        },
+        {
+          "letter": "D",
+          "text": "Restando los radicandos.",
+          "is_correct": false,
+          "feedback": "No es un método válido de comparación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para comparar radicales de distinto índice, se reducen a índice común (m.c.m. de los índices). $\\sqrt{2} = \\sqrt[6]{2^3} = \\sqrt[6]{8}$ y $\\sqrt[3]{3} = \\sqrt[6]{3^2} = \\sqrt[6]{9}$. Así, $\\sqrt[3]{3} > \\sqrt{2}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v10",
+      "statement": "Si la fórmula del volumen es $V = \\frac{4}{3}\\pi r^3$, ¿cuál es el volumen de la perla?",
+      "context": "Un joyero en Córdoba calcula el volumen de una perla esférica cuyo radio es $\\sqrt[3]{3}$ cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4\\pi$ cm³",
+          "is_correct": true,
+          "feedback": "Correcto. $r^3 = $(\\sqrt[3]{3})^3 = 3$. Entonces $V = (4/3)\\pi \\cdot 3 = 4\\pi$."
+        },
+        {
+          "letter": "B",
+          "text": "$3\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Error al simplificar el 3 de la fórmula con el radio."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{4}{3}\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Se ha olvidado multiplicar por el cubo del radio."
+        },
+        {
+          "letter": "D",
+          "text": "$12\\pi$ cm³",
+          "is_correct": false,
+          "feedback": "Error al multiplicar los coeficientes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sustituimos el radio en la fórmula. Al elevar la raíz cúbica de 3 al cubo, obtenemos 3. Este valor se cancela con el denominador 3 de la fórmula del volumen, dejando $4\\pi$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.63,
+      "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v11",
+      "statement": "Racionaliza la expresión $\\frac{6}{\\sqrt{3}}$. ¿Cuál es el resultado simplificado?",
+      "context": "Un estudiante de 1º de Bachillerato en Madrid se enfrenta a la racionalización de expresiones algebraicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6\\sqrt{3}$",
+          "is_correct": false,
+          "feedback": "Falta dividir por el radicando resultante en el denominador."
+        },
+        {
+          "letter": "B",
+          "text": "$3\\sqrt{6}$",
+          "is_correct": false,
+          "feedback": "Confusión entre los valores del numerador y el radicando."
+        },
+        {
+          "letter": "C",
+          "text": "$2\\sqrt{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. Al multiplicar por $\\sqrt{3}/\\sqrt{3}$ obtenemos $6\\sqrt{3}/3 = 2\\sqrt{3}$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Error total en la simplificación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La racionalización elimina la raíz del denominador. Multiplicamos numerador y denominador por la raíz cuadrada del denominador. Luego simplificamos la fracción numérica resultante.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v12",
+      "statement": "Simplifica la expresión resultante en términos de una potencia de $a$.",
+      "context": "Un ingeniero civil calcula la resistencia de un material usando la expresión $\\sqrt[3]{a^2} \\cdot \\sqrt[3]{a^4}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a^3$",
+          "is_correct": false,
+          "feedback": "Error al dividir el exponente total por el índice de forma incorrecta."
+        },
+        {
+          "letter": "B",
+          "text": "$a^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Sumamos los exponentes de los radicandos bajo la misma raíz cúbica: $\\sqrt[3]{a^6} = a^2$."
+        },
+        {
+          "letter": "C",
+          "text": "$a^6$",
+          "is_correct": false,
+          "feedback": "Error al no aplicar la raíz al exponente."
+        },
+        {
+          "letter": "D",
+          "text": "$a^{8/3}$",
+          "is_correct": false,
+          "feedback": "Se han multiplicado los exponentes en lugar de sumarlos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando los radicales tienen el mismo índice, se pueden multiplicar sus radicandos. $\\sqrt[3]{a^2 \\cdot a^4} = \\sqrt[3]{a^6}$. Dividiendo el exponente por el índice obtenemos $a^2$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es el factor racionalizante adecuado para la expresión $\\frac{1}{\\sqrt{5} - \\sqrt{2}}$?",
+      "context": "Un estudiante estudia la racionalización de denominadores con sumas de raíces.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{5} - \\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Multiplicar por el mismo signo no eliminaría las raíces (daría un binomio al cuadrado)."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{5} + \\sqrt{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Se usa el conjugado para aplicar la identidad de diferencia de cuadrados $(a-b)(a+b) = a^2 - b^2$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{3}$",
+          "is_correct": false,
+          "feedback": "Multiplicar por una sola raíz no elimina el binomio del denominador."
+        },
+        {
+          "letter": "D",
+          "text": "$5 - 2$",
+          "is_correct": false,
+          "feedback": "Este es el resultado buscado en el denominador, no el factor para multiplicar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para racionalizar un binomio con raíces cuadradas, multiplicamos por su conjugado (cambiando el signo central). Esto permite usar la identidad de suma por diferencia, que eleva cada término al cuadrado y elimina las raíces.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v14",
+      "statement": "Simplifica la expresión (asume $x > 0$).",
+      "context": "Un físico en Cantabria trabaja con partículas y necesita calcular la raíz cuarta de una potencia: $\\sqrt[4]{16x^8}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4x^2$",
+          "is_correct": false,
+          "feedback": "Se ha calculado la raíz cuadrada de 16, no la cuarta."
+        },
+        {
+          "letter": "B",
+          "text": "$2x^2$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sqrt[4]{16} = 2$ y $\\sqrt[4]{x^8} = x^{8/4} = x^2$."
+        },
+        {
+          "letter": "C",
+          "text": "$2x^4$",
+          "is_correct": false,
+          "feedback": "Error al dividir el exponente por el índice."
+        },
+        {
+          "letter": "D",
+          "text": "$4x^4$",
+          "is_correct": false,
+          "feedback": "Múltiples errores en el cálculo de raíces."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicamos la raíz de un producto. La raíz cuarta de 16 es 2 (porque $2^4=16$). Para la variable, dividimos el exponente por el índice de la raíz ($8/4 = 2$).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.53,
+      "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v15",
+      "statement": "Simplifica la expresión $\\sqrt{x\\sqrt{x}}$.",
+      "context": "Un estudiante analiza la simplificación de radicales anidados en un ejercicio de olimpiada matemática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x$",
+          "is_correct": false,
+          "feedback": "Error al ignorar la estructura de los radicales."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt[3]{x^2}$",
+          "is_correct": false,
+          "feedback": "Error en el cálculo del índice o los exponentes."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt[4]{x^3}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sqrt{x \\cdot x^{1/2}} = \\sqrt{x^{3/2}} = (x^{3/2})^{1/2} = x^{3/4} = \\sqrt[4]{x^3}$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt[4]{x^2}$",
+          "is_correct": false,
+          "feedback": "Error al sumar los exponentes internos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Convertimos los radicales a exponentes fraccionarios de dentro hacia afuera. $x \\cdot \\sqrt{x} = x^1 \\cdot x^{1/2} = x^{3/2}$. Aplicando la raíz exterior: $(x^{3/2})^{1/2} = x^{3/4}$, que en radical es $\\sqrt[4]{x^3}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es el valor simplificado de $\\sqrt{500}$?",
+      "context": "Un agrónomo en Murcia mide una parcela de $500$ m² y quiere saber el lado de un cuadrado equivalente en forma de radical simplificado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$50\\sqrt{10}$",
+          "is_correct": false,
+          "feedback": "Error al extraer el factor; se dividió por 10 en lugar de 100."
+        },
+        {
+          "letter": "B",
+          "text": "$10\\sqrt{5}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sqrt{500} = \\sqrt{100 \\cdot 5} = 10\\sqrt{5}$."
+        },
+        {
+          "letter": "C",
+          "text": "$5\\sqrt{10}$",
+          "is_correct": false,
+          "feedback": "Error al identificar el cuadrado perfecto."
+        },
+        {
+          "letter": "D",
+          "text": "$100\\sqrt{5}$",
+          "is_correct": false,
+          "feedback": "No se extrajo la raíz del factor 100."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para simplificar un radical, descomponemos el radicando en factores, buscando el mayor cuadrado perfecto (en este caso 100). Extraemos su raíz fuera del radical.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.48,
+      "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v17",
+      "statement": "Si $3^{x+1} = \\sqrt{27}$, ¿cuál es el valor de $x$?",
+      "context": "Un estudiante avanzado resuelve una ecuación exponencial sencilla basada en potencias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "$3^{1+1} = 9$, mientras que $\\sqrt{27}$ es $3\\sqrt{3} \\approx 5,2$."
+        },
+        {
+          "letter": "B",
+          "text": "0,5",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sqrt{27} = \\sqrt{3^3} = 3^{3/2} = 3^{1,5}$. Entonces $x+1 = 1,5 \\Rightarrow x=0,5$."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Daría un resultado mucho mayor."
+        },
+        {
+          "letter": "D",
+          "text": "1,5",
+          "is_correct": false,
+          "feedback": "Este es el exponente total, no el valor de x."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Igualamos las bases de la ecuación exponencial. $\\sqrt{27} = 27^{1/2} = (3^3)^{1/2} = 3^{3/2}$. Al tener la misma base, igualamos los exponentes: $x+1 = 3/2$, por lo tanto $x = 1/2 = 0,5$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál de los siguientes números es el mayor?",
+      "context": "Se plantea una comparación compleja entre potencias con bases distintas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2^{60}$",
+          "is_correct": false,
+          "feedback": "Menor que $3^{40}$."
+        },
+        {
+          "letter": "B",
+          "text": "$3^{40}$",
+          "is_correct": true,
+          "feedback": "Correcto. $(3^2)^{20} = 9^{20}$ frente a $(2^3)^{20} = 8^{20}$. $9^{20} > 8^{20}$."
+        },
+        {
+          "letter": "C",
+          "text": "$8^{20}$",
+          "is_correct": false,
+          "feedback": "Es igual a $2^{60}$."
+        },
+        {
+          "letter": "D",
+          "text": "$9^{15}$",
+          "is_correct": false,
+          "feedback": "Es $3^{30}$, menor que $3^{40}$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para comparar potencias con distintas bases y exponentes, buscamos un exponente común o una base común. Aquí, el m.c.d. de los exponentes 60 y 40 es 20. Comparamos $(2^3)^{20} = 8^{20}$ con $(3^2)^{20} = 9^{20}$. Claramente $9^{20} > 8^{20}$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v19",
+      "statement": "Simplifica la expresión $\\frac{\\sqrt[3]{a} \\cdot \\sqrt{a}}{\\sqrt[6]{a^5}}$.",
+      "context": "Un diseño geométrico fractal en un museo de Bilbao usa la repetición de raíces para definir distancias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a$",
+          "is_correct": false,
+          "feedback": "Los exponentes no suman 1."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. Exponentes: $1/3 + 1/2 = 2/6 + 3/6 = 5/6$. Numerador: $a^{5/6}$. Dividido por $a^{5/6}$ da 1."
+        },
+        {
+          "letter": "C",
+          "text": "$a^{1/6}$",
+          "is_correct": false,
+          "feedback": "Error en la suma o resta de exponentes fraccionarios."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "El cociente de potencias no nulas nunca es cero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Convertimos a exponentes fraccionarios: $a^{1/3} \\cdot a^{1/2} = a^{1/3+1/2} = a^{5/6}$. Como el denominador es también $\\sqrt[6]{a^5} = a^{5/6}$, el cociente es igual a la unidad.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el valor de $\\sqrt[3]{-8^2}$?",
+      "context": "Un reto de cálculo numérico sobre la simplificación de raíces de raíces.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-4",
+          "is_correct": false,
+          "feedback": "El cuadrado de -8 es 64, cuya raíz cúbica es 4 positiva."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correcto. $(-8)^2 = 64$. $\\sqrt[3]{64} = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "No existe en los reales",
+          "is_correct": false,
+          "feedback": "El radicando tras elevar al cuadrado es positivo, por lo que la raíz existe."
+        },
+        {
+          "letter": "D",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Error en el cálculo de la raíz cúbica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Siguiendo la jerarquía, primero elevamos al cuadrado: $(-8)^2 = 64$. Luego calculamos la raíz cúbica de 64, que es 4, ya que $4^3 = 64$.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "ES-MAT-11-2026-W02-potencias-raices-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    }
+  ]
+}

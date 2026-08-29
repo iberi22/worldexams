@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "bo",
+    "pack_id": "bo-week-2-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-07-29T02:17:36.147Z"
+  },
+  "questions": [
+    {
+      "id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v1",
+      "statement": "Al realizar experimentos sobre bioquímica y biomoléculas y estudiar biomoléculas compuestas de monosacáridos que sirven como fuente de energía rápida celular, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho analiza un problema sobre bioquímica y biomoléculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los carbohidratos",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a biomoléculas compuestas de monosacáridos que sirven como fuente de energía rápida celular."
+        },
+        {
+          "letter": "B",
+          "text": "Las proteínas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Los lípidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas."
+        },
+        {
+          "letter": "D",
+          "text": "Los ácidos nucleicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Los carbohidratos. Científicamente, esto se explica por la hidrólisis enzimática de enlaces glucosídicos para liberar glucosa celular. Lo cual es fundamental para comprender bioquímica y biomoléculas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v2",
+      "statement": "Al realizar experimentos sobre bioquímica y biomoléculas y estudiar moléculas insolubles en agua destinadas al almacenamiento de energía a largo plazo y estructura de membranas, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Cochabamba, el estudiante Roxana del Unidad Educativa Don Bosco analiza un problema sobre bioquímica y biomoléculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los lípidos",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a moléculas insolubles en agua destinadas al almacenamiento de energía a largo plazo y estructura de membranas."
+        },
+        {
+          "letter": "B",
+          "text": "Los glúcidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Las proteínas",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas."
+        },
+        {
+          "letter": "D",
+          "text": "Los nucleótidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Los lípidos. Científicamente, esto se explica por el carácter hidrofóbico debido a largas cadenas hidrocarbonadas apolares. Lo cual es fundamental para comprender bioquímica y biomoléculas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v3",
+      "statement": "Al realizar experimentos sobre bioquímica y biomoléculas y estudiar monómeros formados por un grupo amino, un carboxilo y un grupo R lateral variable, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar analiza un problema sobre bioquímica y biomoléculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los aminoácidos",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a monómeros formados por un grupo amino, un carboxilo y un grupo R lateral variable."
+        },
+        {
+          "letter": "B",
+          "text": "Los monosacáridos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Los ácidos grasos",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas."
+        },
+        {
+          "letter": "D",
+          "text": "Los nucleótidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Los aminoácidos. Científicamente, esto se explica por la estructura fundamental que compone los polipéptidos y proteínas biológicas. Lo cual es fundamental para comprender bioquímica y biomoléculas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v4",
+      "statement": "Al realizar experimentos sobre bioquímica y biomoléculas y estudiar enlace covalente amida que une el grupo carboxilo de un aminoácido con el amino de otro, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En El Alto, el estudiante Marisol del Colegio San Simón analiza un problema sobre bioquímica y biomoléculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El enlace peptídico",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a enlace covalente amida que une el grupo carboxilo de un aminoácido con el amino de otro."
+        },
+        {
+          "letter": "B",
+          "text": "El enlace glucosídico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "El enlace éster",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas."
+        },
+        {
+          "letter": "D",
+          "text": "El enlace fosfodiéster",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es El enlace peptídico. Científicamente, esto se explica por la reacción de deshidratación o condensación intermolecular entre aminoácidos. Lo cual es fundamental para comprender bioquímica y biomoléculas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v5",
+      "statement": "Al realizar experimentos sobre bioquímica y biomoléculas y estudiar catalizadores biológicos proteicos que disminuyen la energía de activación de las reacciones, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín analiza un problema sobre bioquímica y biomoléculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las enzimas",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a catalizadores biológicos proteicos que disminuyen la energía de activación de las reacciones."
+        },
+        {
+          "letter": "B",
+          "text": "Las hormonas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Las vitaminas",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas."
+        },
+        {
+          "letter": "D",
+          "text": "Los anticuerpos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Las enzimas. Científicamente, esto se explica por la aceleración de la velocidad de reacción química sin consumirse en el proceso. Lo cual es fundamental para comprender bioquímica y biomoléculas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v6",
+      "statement": "Al realizar experimentos sobre bioquímica y biomoléculas y estudiar región de la enzima con forma tridimensional complementaria donde se une el sustrato específico, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Potosí, el estudiante Ronald del Unidad Educativa Juan Pablo II analiza un problema sobre bioquímica y biomoléculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sitio activo",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a región de la enzima con forma tridimensional complementaria donde se une el sustrato específico."
+        },
+        {
+          "letter": "B",
+          "text": "El sitio alostérico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "El cofactor inorgánico",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas."
+        },
+        {
+          "letter": "D",
+          "text": "El inhibidor enzimático",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es El sitio activo. Científicamente, esto se explica por el reconocimiento molecular preciso bajo el modelo de ajuste inducido. Lo cual es fundamental para comprender bioquímica y biomoléculas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v7",
+      "statement": "Al realizar experimentos sobre bioquímica y biomoléculas y estudiar pérdida de la estructura nativa activa de una enzima debido al exceso de temperatura, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Oruro, el estudiante Limbert del Colegio San Calixto analiza un problema sobre bioquímica y biomoléculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desnaturalización térmica",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a pérdida de la estructura nativa activa de una enzima debido al exceso de temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "Glicosilación proteica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Fosforilación catalítica",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas."
+        },
+        {
+          "letter": "D",
+          "text": "Condensación molecular",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Desnaturalización térmica. Científicamente, esto se explica por la ruptura de interacciones débiles como puentes de hidrógeno por agitación térmica. Lo cual es fundamental para comprender bioquímica y biomoléculas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v8",
+      "statement": "Al realizar experimentos sobre bioquímica y biomoléculas y estudiar polímeros de nucleótidos encargados del almacenamiento y transmisión de la información genética, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Tarija, el estudiante Shirley del Colegio Nacional Pichincha analiza un problema sobre bioquímica y biomoléculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los ácidos nucleicos",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a polímeros de nucleótidos encargados del almacenamiento y transmisión de la información genética."
+        },
+        {
+          "letter": "B",
+          "text": "Los fosfolípidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Los polisacáridos",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas."
+        },
+        {
+          "letter": "D",
+          "text": "Los polipéptidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Los ácidos nucleicos. Científicamente, esto se explica por la conformación molecular de cadenas de ADN y ARN con bases nitrogenadas. Lo cual es fundamental para comprender bioquímica y biomoléculas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v9",
+      "statement": "Al realizar experimentos sobre bioquímica y biomoléculas y estudiar unidad monomérica constituida por una pentosa, una base nitrogenada y un grupo fosfato, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez analiza un problema sobre bioquímica y biomoléculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El nucleótido",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a unidad monomérica constituida por una pentosa, una base nitrogenada y un grupo fosfato."
+        },
+        {
+          "letter": "B",
+          "text": "El nucleósido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "El aminoácido",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas."
+        },
+        {
+          "letter": "D",
+          "text": "El ácido graso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es El nucleótido. Científicamente, esto se explica por la estructura química básica que forma la cadena de polímeros nucleicos. Lo cual es fundamental para comprender bioquímica y biomoléculas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v10",
+      "statement": "Al realizar experimentos sobre bioquímica y biomoléculas y estudiar el ADN es bicatenario con desoxirribosa y timina, el ARN es monocatenario con ribosa y uracilo, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Cobija, el estudiante Franz del Colegio Nacional Florida analiza un problema sobre bioquímica y biomoléculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El adn y el arn",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a el ADN es bicatenario con desoxirribosa y timina, el ARN es monocatenario con ribosa y uracilo."
+        },
+        {
+          "letter": "B",
+          "text": "Las proteínas y lípidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "El almidón y glucógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas."
+        },
+        {
+          "letter": "D",
+          "text": "La celulosa y quitina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es El adn y el arn. Científicamente, esto se explica por las diferencias estructurales fundamentales en azúcar, bases y número de cadenas poliméricas. Lo cual es fundamental para comprender bioquímica y biomoléculas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v11",
+      "statement": "Al realizar experimentos sobre bioquímica y biomoléculas y estudiar secuencia lineal ordenada de aminoácidos unidos por enlaces peptídicos covalentes en una proteína, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Tupiza, el estudiante Nancy del Colegio Nacional Ayacucho analiza un problema sobre bioquímica y biomoléculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estructura primaria",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a secuencia lineal ordenada de aminoácidos unidos por enlaces peptídicos covalentes en una proteína."
+        },
+        {
+          "letter": "B",
+          "text": "Estructura secundaria",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Estructura terciaria",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas."
+        },
+        {
+          "letter": "D",
+          "text": "Estructura cuaternaria",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Estructura primaria. Científicamente, esto se explica por el nivel de organización más básico determinado por la información genética en el ARNm. Lo cual es fundamental para comprender bioquímica y biomoléculas.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v12",
+      "statement": "Al realizar experimentos sobre bioquímica y biomoléculas y estudiar plegamiento tridimensional global y definitivo de una única cadena polipeptídica en el espacio, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Uyuni, el estudiante Edwin del Unidad Educativa Don Bosco analiza un problema sobre bioquímica y biomoléculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estructura terciaria",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a plegamiento tridimensional global y definitivo de una única cadena polipeptídica en el espacio."
+        },
+        {
+          "letter": "B",
+          "text": "Estructura primaria",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Estructura secundaria",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas."
+        },
+        {
+          "letter": "D",
+          "text": "Estructura cuaternaria",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Estructura terciaria. Científicamente, esto se explica por las interacciones entre grupos R, incluyendo puentes disulfuro y enlaces iónicos. Lo cual es fundamental para comprender bioquímica y biomoléculas.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v13",
+      "statement": "Al realizar experimentos sobre bioquímica y biomoléculas y estudiar monómero nucleótido que actúa como la principal moneda de intercambio de energía química celular, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Viacha, el estudiante Marcelo del Colegio Bolívar analiza un problema sobre bioquímica y biomoléculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El atp (adenosín trifosfato)",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a monómero nucleótido que actúa como la principal moneda de intercambio de energía química celular."
+        },
+        {
+          "letter": "B",
+          "text": "El adp",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "El amp cíclico",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas."
+        },
+        {
+          "letter": "D",
+          "text": "El nadh",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es El atp (adenosín trifosfato). Científicamente, esto se explica por la liberación de gran cantidad de energía libre al hidrolizar sus enlaces fosfoanhídrido altamente energéticos. Lo cual es fundamental para comprender bioquímica y biomoléculas.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v14",
+      "statement": "Al realizar experimentos sobre bioquímica y biomoléculas y estudiar amortiguador fisiológico que mantiene el pH de la sangre humana en un rango estrecho de 7.35 a 7.45, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Quillacollo, el estudiante Freddy del Colegio San Simón analiza un problema sobre bioquímica y biomoléculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sistema amortiguador bicarbonato",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a amortiguador fisiológico que mantiene el pH de la sangre humana en un rango estrecho de 7.35 a 7.45."
+        },
+        {
+          "letter": "B",
+          "text": "Sistema de fosfato",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Amortiguador de hemoglobina",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas."
+        },
+        {
+          "letter": "D",
+          "text": "Ácido láctico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Sistema amortiguador bicarbonato. Científicamente, esto se explica por el equilibrio químico entre dióxido de carbono, ácido carbónico y bicarbonato en el plasma. Lo cual es fundamental para comprender bioquímica y biomoléculas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v15",
+      "statement": "Al realizar experimentos sobre bioquímica y biomoléculas y estudiar lípido esteroide que regula y mantiene la fluidez de las membranas animales según la temperatura, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Sacaba, el estudiante René del Colegio Nacional Junín analiza un problema sobre bioquímica y biomoléculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El colesterol",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a lípido esteroide que regula y mantiene la fluidez de las membranas animales según la temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "Los triglicéridos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Las ceras vegetales",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas."
+        },
+        {
+          "letter": "D",
+          "text": "Los fosfolípidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es El colesterol. Científicamente, esto se explica por su inserción entre las colas hidrofóbicas, impidiendo la cristalización o excesiva fluidez. Lo cual es fundamental para comprender bioquímica y biomoléculas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v16",
+      "statement": "Al realizar experimentos sobre bioquímica y biomoléculas y estudiar polisacárido estructural rígido insoluble que compone la pared celular de las células de plantas andinas, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Montero, el estudiante Lidia del Unidad Educativa Juan Pablo II analiza un problema sobre bioquímica y biomoléculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La celulosa",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a polisacárido estructural rígido insoluble que compone la pared celular de las células de plantas andinas."
+        },
+        {
+          "letter": "B",
+          "text": "El almidón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "El glucógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas."
+        },
+        {
+          "letter": "D",
+          "text": "La quitina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es La celulosa. Científicamente, esto se explica por la organización de cadenas de glucosa con enlaces beta-1,4 imposibles de digerir por enzimas humanas. Lo cual es fundamental para comprender bioquímica y biomoléculas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v17",
+      "statement": "Al realizar experimentos sobre bioquímica y biomoléculas y estudiar modelo matemático de velocidad enzimática que describe cómo varía la velocidad con la concentración de sustrato, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Riberalta, el estudiante Edwin del Colegio San Calixto analiza un problema sobre bioquímica y biomoléculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cinética de michaelis-menten",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a modelo matemático de velocidad enzimática que describe cómo varía la velocidad con la concentración de sustrato."
+        },
+        {
+          "letter": "B",
+          "text": "Cinética de lineweaver-burk",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Ecuación de henderson-hasselbalch",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas."
+        },
+        {
+          "letter": "D",
+          "text": "Cinética de primer orden",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Cinética de michaelis-menten. Científicamente, esto se explica por la saturación de los sitios activos enzimáticos representados en una curva hiperbólica. Lo cual es fundamental para comprender bioquímica y biomoléculas.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v18",
+      "statement": "Al realizar experimentos sobre bioquímica y biomoléculas y estudiar parámetro que representa la afinidad de la enzima por su sustrato; a menor valor, mayor afinidad, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Warnes, el estudiante Marcelo del Colegio Nacional Pichincha analiza un problema sobre bioquímica y biomoléculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Km (constante de michaelis)",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a parámetro que representa la afinidad de la enzima por su sustrato; a menor valor, mayor afinidad."
+        },
+        {
+          "letter": "B",
+          "text": "Vmax (velocidad máxima)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Kcat (número de recambio)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas."
+        },
+        {
+          "letter": "D",
+          "text": "Ki (constante de inhibición)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Km (constante de michaelis). Científicamente, esto se explica por la concentración de sustrato requerida para alcanzar la mitad de la velocidad máxima de reacción. Lo cual es fundamental para comprender bioquímica y biomoléculas.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v19",
+      "statement": "Al realizar experimentos sobre bioquímica y biomoléculas y estudiar el inhibidor se une al sitio activo impidiendo la unión del sustrato; se supera aumentando la concentración de sustrato, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Colcapirhua, el estudiante Lidia del Colegio Antonio Vaca Díez analiza un problema sobre bioquímica y biomoléculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inhibición competitiva",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a el inhibidor se une al sitio activo impidiendo la unión del sustrato; se supera aumentando la concentración de sustrato."
+        },
+        {
+          "letter": "B",
+          "text": "Inhibición no competitiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Inhibición alostérica",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas."
+        },
+        {
+          "letter": "D",
+          "text": "Activación enzimática",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Inhibición competitiva. Científicamente, esto se explica por la competencia física y reversible por el mismo sitio catalítico tridimensional. Lo cual es fundamental para comprender bioquímica y biomoléculas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle-v20",
+      "statement": "Al realizar experimentos sobre bioquímica y biomoléculas y estudiar las parejas Guanina-Citosina aportan más estabilidad térmica al ADN que Adenina-Timina al poseer 3 puentes de hidrógeno, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Yacuiba, el estudiante Nancy del Colegio Nacional Florida analiza un problema sobre bioquímica y biomoléculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Puentes de hidrógeno g-c",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a las parejas Guanina-Citosina aportan más estabilidad térmica al ADN que Adenina-Timina al poseer 3 puentes de hidrógeno."
+        },
+        {
+          "letter": "B",
+          "text": "Puentes de hidrógeno a-t",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Enlaces covalentes de base",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerzas hidrofóbicas polares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Puentes de hidrógeno g-c. Científicamente, esto se explica por la complementariedad de bases nitrogenadas y la estabilidad de enlace triple vs doble. Lo cual es fundamental para comprender bioquímica y biomoléculas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-24-grade-4-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.683Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-4-2026-W24-meals-of-day-001-MASTERY-v1",
+      "statement": "I have ________ in the morning.",
+      "context": "Learning about meals of the day in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "breakfast",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "lunch",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "dinner",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "a snack",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates remember skills regarding meals of the day at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W24-meals-of-day-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-4-2026-W24-meals-of-day-001-MASTERY-v2",
+      "statement": "I have ________ at school at 12:00 PM.",
+      "context": "Learning about meals of the day in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "supper",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "lunch",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "breakfast",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "dinner",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates understand skills regarding meals of the day at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W24-meals-of-day-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-4-2026-W24-meals-of-day-001-MASTERY-v3",
+      "statement": "I have ________ with my family at night.",
+      "context": "Learning about meals of the day in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "lunch",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "brunch",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "dinner",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "breakfast",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates apply skills regarding meals of the day at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W24-meals-of-day-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-4-2026-W24-meals-of-day-001-MASTERY-v4",
+      "statement": "A small meal between lunch and dinner is a ________.",
+      "context": "Learning about meals of the day in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "feast",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "breakfast",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "lunch",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "snack",
+          "is_correct": true,
+          "feedback": "Correct!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates analyze skills regarding meals of the day at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W24-meals-of-day-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-4-2026-W24-meals-of-day-001-MASTERY-v5",
+      "statement": "What do you eat for lunch?",
+      "context": "Learning about meals of the day in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rice, beans, and meat",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "Milk and cereal",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "A sandwich",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Fruit",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates evaluate skills regarding meals of the day at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W24-meals-of-day-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-4-2026-W24-meals-of-day-001-MASTERY-v6",
+      "statement": "Which meal is at 7:00 AM?",
+      "context": "Learning about meals of the day in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Snack",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Breakfast",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "Lunch",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "Dinner",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates apply skills regarding meals of the day at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W24-meals-of-day-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-4-2026-W24-meals-of-day-001-MASTERY-v7",
+      "statement": "Which meal is at 7:00 PM?",
+      "context": "Learning about meals of the day in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lunch",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "Brunch",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "Dinner",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "Breakfast",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates understand skills regarding meals of the day at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W24-meals-of-day-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-4-2026-W24-meals-of-day-001-MASTERY-v8",
+      "statement": "You eat this in the morning: ________.",
+      "context": "Learning about meals of the day in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "pizza",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "hamburger",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "steak",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "eggs and toast",
+          "is_correct": true,
+          "feedback": "Correct!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates remember skills regarding meals of the day at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W24-meals-of-day-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

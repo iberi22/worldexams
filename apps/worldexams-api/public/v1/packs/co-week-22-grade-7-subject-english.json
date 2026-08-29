@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-22-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.899Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W22-countable-uncountable-001-v1",
+      "statement": "Which of these nouns can be counted (1, 2, 3...)?",
+      "context": "Identifying a countable noun.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Water",
+          "is_correct": false,
+          "feedback": "Incorrect. Water is a liquid and generally uncountable."
+        },
+        {
+          "letter": "B",
+          "text": "Rice",
+          "is_correct": false,
+          "feedback": "Incorrect. Rice consists of many small grains and is uncountable."
+        },
+        {
+          "letter": "C",
+          "text": "Apple",
+          "is_correct": true,
+          "feedback": "Correct! You can have one apple, two apples, etc."
+        },
+        {
+          "letter": "D",
+          "text": "Sugar",
+          "is_correct": false,
+          "feedback": "Incorrect. Sugar is a powder/granule substance and is uncountable."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student identifies basic countable nouns among uncountable substances.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W22-countable-uncountable-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W22-countable-uncountable-002-v1",
+      "statement": "Complete the sentence: \"I want to eat ________ orange.\"",
+      "context": "Using \"a/an\" with singular countable nouns.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a",
+          "is_correct": false,
+          "feedback": "Incorrect. Use \"an\" before a vowel sound."
+        },
+        {
+          "letter": "B",
+          "text": "an",
+          "is_correct": true,
+          "feedback": "Correct! \"Orange\" starts with a vowel sound."
+        },
+        {
+          "letter": "C",
+          "text": "some",
+          "is_correct": false,
+          "feedback": "Incorrect. While possible for plural or uncountable, for a single item \"an\" is more specific here."
+        },
+        {
+          "letter": "D",
+          "text": "the some",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically wrong combination."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student remembers the rule for using indefinite articles with countable singular nouns.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W22-countable-uncountable-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W22-countable-uncountable-003-v1",
+      "statement": "\"Would you like ________ water?\"",
+      "context": "Using \"some\" with uncountable nouns.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a",
+          "is_correct": false,
+          "feedback": "Incorrect. You cannot use \"a\" with an uncountable noun like water."
+        },
+        {
+          "letter": "B",
+          "text": "an",
+          "is_correct": false,
+          "feedback": "Incorrect. You cannot use \"an\" with uncountable nouns."
+        },
+        {
+          "letter": "C",
+          "text": "some",
+          "is_correct": true,
+          "feedback": "Correct! \"Some\" is used with uncountable nouns in offers or affirmative sentences."
+        },
+        {
+          "letter": "D",
+          "text": "any",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Any\" is usually for questions or negatives, but \"some\" is better for polite offers."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student understands the use of \"some\" as a quantifier for uncountable nouns in a social context.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W22-countable-uncountable-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W22-countable-uncountable-004-v1",
+      "statement": "Which sentence is correct for plural items?",
+      "context": "Identifying plural forms of countable nouns.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I have two water.",
+          "is_correct": false,
+          "feedback": "Incorrect. Water is uncountable."
+        },
+        {
+          "letter": "B",
+          "text": "I have two sugars.",
+          "is_correct": false,
+          "feedback": "Incorrect. Sugar is uncountable (unless referring to packets)."
+        },
+        {
+          "letter": "C",
+          "text": "I have two bananas.",
+          "is_correct": true,
+          "feedback": "Correct! Banana is countable and has a plural form."
+        },
+        {
+          "letter": "D",
+          "text": "I have two rices.",
+          "is_correct": false,
+          "feedback": "Incorrect. Rice is uncountable."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student distinguishes between nouns that can take a plural form and those that cannot.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W22-countable-uncountable-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W22-countable-uncountable-005-v1",
+      "statement": "\"On my list, I have: ________ bread, ________ egg, and ________ milk.\"",
+      "context": "Making a shopping list.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a / an / some",
+          "is_correct": false,
+          "feedback": "Incorrect. Bread is uncountable."
+        },
+        {
+          "letter": "B",
+          "text": "some / an / some",
+          "is_correct": true,
+          "feedback": "Correct! Some bread (uncountable), an egg (singular countable), some milk (uncountable)."
+        },
+        {
+          "letter": "C",
+          "text": "some / a / a",
+          "is_correct": false,
+          "feedback": "Incorrect. Egg starts with a vowel and milk is uncountable."
+        },
+        {
+          "letter": "D",
+          "text": "a / some / some",
+          "is_correct": false,
+          "feedback": "Incorrect. Bread is uncountable."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies knowledge of a/an/some to a mixture of countable and uncountable nouns.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W22-countable-uncountable-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W22-countable-uncountable-006-v1",
+      "statement": "Which item in the recipe is a plural countable noun?",
+      "context": "A recipe instruction.\n\"To make the juice, you need three lemons, some sugar, and a liter of water.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "lemons",
+          "is_correct": true,
+          "feedback": "Correct! \"Lemons\" is the plural of the countable noun \"lemon\"."
+        },
+        {
+          "letter": "B",
+          "text": "sugar",
+          "is_correct": false,
+          "feedback": "Incorrect. Sugar is uncountable."
+        },
+        {
+          "letter": "C",
+          "text": "water",
+          "is_correct": false,
+          "feedback": "Incorrect. Water is uncountable."
+        },
+        {
+          "letter": "D",
+          "text": "liter",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a unit of measurement."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student applies grammatical categorization to specific words within a functional text.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W22-countable-uncountable-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W22-countable-uncountable-007-v1",
+      "statement": "\"There is ________ cheese and ________ tomatoes in the fridge.\"",
+      "context": "Describing contents of a fridge.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a / some",
+          "is_correct": false,
+          "feedback": "Incorrect. Cheese is uncountable."
+        },
+        {
+          "letter": "B",
+          "text": "some / some",
+          "is_correct": true,
+          "feedback": "Correct! \"Some\" can be used for both uncountable (cheese) and plural countable (tomatoes)."
+        },
+        {
+          "letter": "C",
+          "text": "some / a",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Tomatoes\" is plural."
+        },
+        {
+          "letter": "D",
+          "text": "a / a",
+          "is_correct": false,
+          "feedback": "Incorrect. Both cheese is uncountable and tomatoes is plural."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies the versatility of the quantifier \"some\" for different noun types.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W22-countable-uncountable-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W22-countable-uncountable-008-v1",
+      "statement": "Which of the following is INCORRECT?",
+      "context": "Identifying errors in quantifying expressions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A piece of bread.",
+          "is_correct": false,
+          "feedback": "Correct structure."
+        },
+        {
+          "letter": "B",
+          "text": "A glass of water.",
+          "is_correct": false,
+          "feedback": "Correct structure."
+        },
+        {
+          "letter": "C",
+          "text": "A milk.",
+          "is_correct": true,
+          "feedback": "Incorrect! You cannot use \"a\" with an uncountable noun like milk without a container word."
+        },
+        {
+          "letter": "D",
+          "text": "A bottle of milk.",
+          "is_correct": false,
+          "feedback": "Correct structure."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student analyzes how to correctly quantify uncountable nouns using container or portion words.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W22-countable-uncountable-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W22-countable-uncountable-009-v1",
+      "statement": "Identify the pair of uncountable nouns mentioned in the dialogue.",
+      "context": "A dialogue at a restaurant.\nCustomer: \"I'd like some soup and a salad, please.\"\nWaiter: \"Certainly. Would you like some juice or a soda with that?\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Salad and soda",
+          "is_correct": false,
+          "feedback": "Incorrect. These are treated as countable here."
+        },
+        {
+          "letter": "B",
+          "text": "Soup and juice",
+          "is_correct": true,
+          "feedback": "Correct! Both soup and juice are liquids/substances typically uncountable."
+        },
+        {
+          "letter": "C",
+          "text": "Salad and juice",
+          "is_correct": false,
+          "feedback": "Incorrect. Salad is countable here (a salad)."
+        },
+        {
+          "letter": "D",
+          "text": "Soup and soda",
+          "is_correct": false,
+          "feedback": "Incorrect. Soda is used with \"a\" here (a soda)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes a text to identify and categorize nouns based on their countability in context.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W22-countable-uncountable-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W22-countable-uncountable-010-v1",
+      "statement": "Which items on this list are abstract uncountable nouns?",
+      "context": "Evaluating a shopping list for a party.\n\"Shopping List: 10 sodas, 5 pizzas, some music, some happiness, and a lot of fun.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sodas and pizzas.",
+          "is_correct": false,
+          "feedback": "Incorrect. These are concrete and countable."
+        },
+        {
+          "letter": "B",
+          "text": "Music and sodas.",
+          "is_correct": false,
+          "feedback": "Incorrect. Sodas are concrete."
+        },
+        {
+          "letter": "C",
+          "text": "Happiness and fun.",
+          "is_correct": true,
+          "feedback": "Correct! These are abstract concepts that cannot be counted."
+        },
+        {
+          "letter": "D",
+          "text": "Pizzas and music.",
+          "is_correct": false,
+          "feedback": "Incorrect. Pizzas are concrete."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student evaluates and distinguishes between concrete/countable and abstract/uncountable nouns in a creative context.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W22-countable-uncountable-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

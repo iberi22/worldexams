@@ -1,0 +1,1811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "mx",
+    "pack_id": "mx-week-6-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:38.953Z"
+  },
+  "questions": [
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la condición fundamental para que una relación entre dos conjuntos, $A$ y $B$, sea clasificada matemáticamente como una función?",
+      "context": "En un curso de matemáticas de una preparatoria en la Ciudad de México, se discuten las reglas para que una relación sea considerada una función.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que todos los elementos del conjunto $B$ tengan una preimagen en el conjunto $A$.",
+          "is_correct": false,
+          "feedback": "Esta es la definición de función suprayectiva, no la condición básica de función."
+        },
+        {
+          "letter": "B",
+          "text": "Que a cada elemento del conjunto $A$ le corresponda exactamente un único elemento del conjunto $B$.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Esta es la definición formal de función: unicidad de la imagen para cada elemento del dominio."
+        },
+        {
+          "letter": "C",
+          "text": "Que el conjunto $A$ y el conjunto $B$ tengan la misma cantidad de elementos.",
+          "is_correct": false,
+          "feedback": "No es necesario que tengan el mismo tamaño; el dominio y el codominio pueden ser distintos."
+        },
+        {
+          "letter": "D",
+          "text": "Que la relación pueda representarse gráficamente mediante una línea recta que pase por el origen.",
+          "is_correct": false,
+          "feedback": "Esto describe específicamente a una función lineal de proporcionalidad directa, no al concepto general de función."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una función es una regla de correspondencia que asigna a cada elemento del conjunto de partida (dominio) uno y solo un elemento del conjunto de llegada (codominio). La característica clave es la unicidad de la imagen.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v2",
+      "statement": "Si se tiene la gráfica de una relación en el plano cartesiano, ¿qué método visual permite determinar de manera rápida si dicha gráfica corresponde a una función?",
+      "context": "Un estudiante del IPN está analizando diversas gráficas en su cuaderno para identificar cuáles representan funciones reales de variable real.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La prueba de la recta horizontal.",
+          "is_correct": false,
+          "feedback": "La prueba de la recta horizontal se usa para determinar si una función es inyectiva (uno a uno), no si es función."
+        },
+        {
+          "letter": "B",
+          "text": "Verificar si la gráfica cruza el eje de las abscisas en más de un punto.",
+          "is_correct": false,
+          "feedback": "Esto determinaría la cantidad de raíces o ceros, pero no define si es función o no."
+        },
+        {
+          "letter": "C",
+          "text": "La prueba de la recta vertical.",
+          "is_correct": true,
+          "feedback": "¡Exacto! Si cualquier recta vertical corta a la gráfica en más de un punto, significa que un valor de x tiene más de una imagen, por lo que no es función."
+        },
+        {
+          "letter": "D",
+          "text": "Comprobar si la gráfica es simétrica respecto al eje de las ordenadas.",
+          "is_correct": false,
+          "feedback": "La simetría respecto al eje y define si una función es par, pero no es criterio de existencia de la función."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La prueba de la recta vertical establece que si es posible trazar una línea vertical que toque la gráfica en dos o más puntos, la relación no es una función, ya que violaría el principio de unicidad (un valor de entrada con múltiples salidas).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v3",
+      "statement": "Dada la expresión $f(x) = 2x^2 - 5$, ¿cuál de las siguientes opciones describe correctamente el significado de la letra $x$ en este contexto?",
+      "context": "En un examen simulacro tipo EXANI-II, se presenta una expresión matemática utilizando la notación de Euler.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa el valor de la función o variable dependiente.",
+          "is_correct": false,
+          "feedback": "El valor de la función está representado por f(x) o y, no por la x aislada."
+        },
+        {
+          "letter": "B",
+          "text": "Representa la variable independiente o elemento del dominio.",
+          "is_correct": true,
+          "feedback": "Correcto. x es el argumento de la función, el valor que ingresa al proceso para obtener un resultado."
+        },
+        {
+          "letter": "C",
+          "text": "Es una constante que determina la pendiente de la función.",
+          "is_correct": false,
+          "feedback": "x es una variable, no una constante. Las constantes son valores fijos como el 2 o el -5."
+        },
+        {
+          "letter": "D",
+          "text": "Indica que la función es siempre positiva para cualquier valor real.",
+          "is_correct": false,
+          "feedback": "La variable x por sí sola no indica el signo de la salida de la función."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la notación $f(x)$, $x$ es la variable independiente (entrada), mientras que $f(x)$ representa la variable dependiente (salida) que resulta de aplicar la regla $f$ sobre $x$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v4",
+      "statement": "En el estudio de funciones, ¿cómo se le denomina técnicamente al conjunto de todos los valores de salida posibles que una función puede efectivamente tomar?",
+      "context": "Una empresa de software en Guadalajara desarrolla una aplicación que calcula costos basándose en el número de usuarios. El equipo técnico define los conjuntos de entrada y salida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dominio.",
+          "is_correct": false,
+          "feedback": "El dominio es el conjunto de valores de entrada, no de salida."
+        },
+        {
+          "letter": "B",
+          "text": "Rango o imagen.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El rango (también llamado imagen o recorrido) es el subconjunto del codominio formado por los valores que la función realmente alcanza."
+        },
+        {
+          "letter": "C",
+          "text": "Asíntota.",
+          "is_correct": false,
+          "feedback": "Una asíntota es una recta a la que la gráfica se aproxima indefinidamente, no es un conjunto de valores."
+        },
+        {
+          "letter": "D",
+          "text": "Conjunto vacío.",
+          "is_correct": false,
+          "feedback": "El conjunto vacío no contiene elementos; una función real estándar tiene valores de salida definidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El dominio son los valores permitidos de entrada ($x$), y el rango o imagen son los valores resultantes de salida ($y$ o $f(x)$).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v5",
+      "statement": "Si el ingeniero desea conocer la concentración exactamente a las 3 horas ($t=3$), ¿cuál es el valor de $C(3)$?",
+      "context": "Un ingeniero ambiental en Monterrey utiliza la función $C(t) = 3t^2 - 2t + 10$ para modelar la concentración de un contaminante en el aire tras $t$ horas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Revisa el cálculo: 3(3^2) - 2(3) + 10 = 3(9) - 6 + 10 = 27 - 6 + 10 = 31."
+        },
+        {
+          "letter": "B",
+          "text": "31",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al sustituir t=3 obtenemos 3(9) - 6 + 10 = 27 - 6 + 10 = 31."
+        },
+        {
+          "letter": "C",
+          "text": "37",
+          "is_correct": false,
+          "feedback": "Error en la resta o suma final. 27 - 6 + 10 es 31, no 37."
+        },
+        {
+          "letter": "D",
+          "text": "19",
+          "is_correct": false,
+          "feedback": "Probablemente no elevaste el 3 al cuadrado correctamente o hubo un error de signos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar una función consiste en sustituir la variable independiente por el valor dado y realizar las operaciones aritméticas respetando la jerarquía: potencias primero, luego multiplicaciones y finalmente sumas/restas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el dominio de la función real $g(x) = \\frac{5}{x - 4}$?",
+      "context": "En un laboratorio de física de la UNAM, se analiza la función $g(x) = \\frac{5}{x - 4}$. El profesor pide identificar los valores de $x$ que no pueden ser procesados por la función.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales.",
+          "is_correct": false,
+          "feedback": "No puede ser todo R porque hay un valor que causa una división entre cero."
+        },
+        {
+          "letter": "B",
+          "text": "$\\{x \\in \\mathbb{R} \\mid x > 4\\}$.",
+          "is_correct": false,
+          "feedback": "Los valores menores a 4 también son válidos; el único problema es el 4 exacto."
+        },
+        {
+          "letter": "C",
+          "text": "$\\{x \\in \\mathbb{R} \\mid x \\neq 4\\}$.",
+          "is_correct": true,
+          "feedback": "¡Correcto! En una función racional, el denominador no puede ser cero. x-4=0 cuando x=4, por lo que este valor debe excluirse."
+        },
+        {
+          "letter": "D",
+          "text": "$\\{x \\in \\mathbb{R} \\mid x \\neq 0\\}$.",
+          "is_correct": false,
+          "feedback": "El cero es un valor válido (g(0) = 5/-4). El problema ocurre cuando el denominador completo se hace cero."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para funciones racionales (fracciones), el dominio consiste en todos los números reales excepto aquellos que hacen que el denominador sea igual a cero, ya que la división entre cero no está definida en los reales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el valor resultante de evaluar $f(g(4))$?",
+      "context": "Un estudiante de preparatoria técnica está resolviendo problemas de composición básica. Se le dan dos funciones: $f(x) = x + 3$ y $g(x) = 2x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "14",
+          "is_correct": false,
+          "feedback": "Calculaste g(f(4)): f(4)=7, g(7)=14. Se pidió f(g(4))."
+        },
+        {
+          "letter": "B",
+          "text": "11",
+          "is_correct": true,
+          "feedback": "¡Correcto! Primero calculamos g(4) = 2(4) = 8. Luego evaluamos f(8) = 8 + 3 = 11."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Revisa los pasos. g(4)=8, f(8)=11."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "7 es el resultado de f(4), pero falta aplicar g o el orden es inverso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la evaluación de funciones compuestas $f(g(x))$, se resuelve de adentro hacia afuera: primero se obtiene el valor de la función interna $g(4)$ y ese resultado se usa como entrada para la función externa $f$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v8",
+      "statement": "Si esta relación se comporta como una función lineal $I(k) = mk$, ¿cuál es el valor de $I(10)$?",
+      "context": "Un comerciante en un mercado de Puebla registra sus ventas. El ingreso $I$ depende de la cantidad de kilogramos vendidos $k$ según la siguiente tabla:\n| $k$ (kg) | 1 | 2 | 3 | 4 |\n| :--- | :--- | :--- | :--- | :--- |\n| $I$ ($) | 45 | 90 | 135 | 180 |",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\$360",
+          "is_correct": false,
+          "feedback": "Este sería el valor para 8 kg. Para 10 kg se requiere multiplicar 45 por 10."
+        },
+        {
+          "letter": "B",
+          "text": "\\$450",
+          "is_correct": true,
+          "feedback": "¡Correcto! La razón de cambio (precio por kg) es 45. Por lo tanto, I(10) = 45 * 10 = 450."
+        },
+        {
+          "letter": "C",
+          "text": "\\$405",
+          "is_correct": false,
+          "feedback": "Este valor corresponde a 9 kg."
+        },
+        {
+          "letter": "D",
+          "text": "\\$500",
+          "is_correct": false,
+          "feedback": "Revisa la constante de proporcionalidad (45/1 = 45)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A partir de la tabla se identifica la regla de correspondencia. En este caso, $I(k) = 45k$. Evaluar para $k=10$ implica una multiplicación directa.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v9",
+      "statement": "¿Cómo se conoce comúnmente a la función $f(x) = |x|$ y cuál es su característica principal respecto al rango?",
+      "context": "En un software de diseño gráfico, se aplican transformaciones. Un diseñador observa la función $f(x) = |x|$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Función identidad; su rango son todos los reales negativos.",
+          "is_correct": false,
+          "feedback": "La función identidad es f(x)=x. f(x)=|x| es valor absoluto."
+        },
+        {
+          "letter": "B",
+          "text": "Función constante; su rango es siempre cero.",
+          "is_correct": false,
+          "feedback": "No es constante; el valor cambia según x, aunque siempre sea no negativo."
+        },
+        {
+          "letter": "C",
+          "text": "Función valor absoluto; su rango son todos los números reales no negativos ($y \\geq 0$).",
+          "is_correct": true,
+          "feedback": "¡Correcto! El valor absoluto de cualquier número real es siempre positivo o cero."
+        },
+        {
+          "letter": "D",
+          "text": "Función cuadrática; su rango es idéntico al de $x^2$.",
+          "is_correct": false,
+          "feedback": "Aunque comparten el rango (y >= 0), f(x)=|x| no es una función cuadrática (polinomio de grado 2)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La función valor absoluto transforma cualquier entrada en su magnitud positiva. Gráficamente tiene forma de \"V\" con el vértice en el origen, y su rango está limitado al intervalo $[0, \\infty)$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el rango de la función $h(x) = x^2 + 5$ si el dominio son todos los números reales?",
+      "context": "Un estudiante analiza la función $h(x) = x^2 + 5$. Sabe que el término $x^2$ nunca es negativo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[0, \\infty)$",
+          "is_correct": false,
+          "feedback": "Este sería el rango de f(x)=x^2. Al sumar 5, toda la gráfica se desplaza hacia arriba."
+        },
+        {
+          "letter": "B",
+          "text": "$(-\\infty, \\infty)$",
+          "is_correct": false,
+          "feedback": "Las funciones cuadráticas con coeficiente principal positivo tienen un valor mínimo, por lo que el rango no es todo R."
+        },
+        {
+          "letter": "C",
+          "text": "$[5, \\infty)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como x^2 es mínimo 0, el valor más pequeño de h(x) es 0 + 5 = 5."
+        },
+        {
+          "letter": "D",
+          "text": "$(-\\infty, 5]$",
+          "is_correct": false,
+          "feedback": "Esto sería si el coeficiente de x^2 fuera negativo (parábola abriendo hacia abajo)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El rango se determina analizando los valores posibles de salida. Dado que $x^2 \\geq 0$ para todo $x$ real, entonces $x^2 + 5 \\geq 5$. El valor mínimo es 5.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v11",
+      "statement": "Determine el dominio de la función real $f(x) = \\sqrt{2x - 6}$.",
+      "context": "En un examen parcial de cálculo en el Estado de México, se pide hallar el dominio de validez de una función que involucra una raíz cuadrada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\neq 3$",
+          "is_correct": false,
+          "feedback": "Esto aplica para denominadores, no para raíces cuadradas en el numerador."
+        },
+        {
+          "letter": "B",
+          "text": "$x \\geq 3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para que la raíz sea real, el radicando debe ser no negativo: 2x - 6 >= 0 => 2x >= 6 => x >= 3."
+        },
+        {
+          "letter": "C",
+          "text": "$x > 3$",
+          "is_correct": false,
+          "feedback": "El valor 3 es permitido, ya que la raíz de cero es cero (un número real válido)."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\leq 3$",
+          "is_correct": false,
+          "feedback": "Si x < 3, por ejemplo x=0, el radicando sería negativo (-6), lo cual no da un resultado real."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En funciones con raíces de índice par (como la raíz cuadrada), el dominio está restringido a los valores que hacen que el contenido de la raíz (radicando) sea mayor o igual a cero.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.62,
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v12",
+      "statement": "A partir de la expresión $y = \\sqrt{4 - x^2}$, identifique correctamente el dominio y el rango de esta función.",
+      "context": "Se presenta la gráfica de una función que consiste en una semicircunferencia superior de radio 2 centrada en el origen: $y = \\sqrt{4 - x^2}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dominio: $[-4, 4]$, Rango: $[0, 4]$",
+          "is_correct": false,
+          "feedback": "El radio es 2, por lo que el dominio es [-2, 2]."
+        },
+        {
+          "letter": "B",
+          "text": "Dominio: $[-2, 2]$, Rango: $[0, 2]$",
+          "is_correct": true,
+          "feedback": "¡Correcto! x^2 no puede exceder a 4, por lo que x está entre -2 y 2. El valor máximo de y es sqrt(4)=2 y el mínimo sqrt(0)=0."
+        },
+        {
+          "letter": "C",
+          "text": "Dominio: $(-\\infty, \\infty)$, Rango: $[0, \\infty)$",
+          "is_correct": false,
+          "feedback": "La función solo está definida donde 4-x^2 >= 0. No es todo R."
+        },
+        {
+          "letter": "D",
+          "text": "Dominio: $[0, 2]$, Rango: $[-2, 2]$",
+          "is_correct": false,
+          "feedback": "Los conceptos de dominio y rango están invertidos o mal calculados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para el dominio: \\$4 - x^2 \\geq 0 \\Rightarrow x^2 \\leq 4 \\Rightarrow |x| \\leq 2 \\Rightarrow -2 \\leq x \\leq 2$. Para el rango: el valor mínimo ocurre en los extremos del dominio ($y=0$) y el máximo en $x=0$ ($y=2$).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v13",
+      "statement": "Si un cliente envía un paquete que pesa 3.5 kg, ¿cuál es el costo total del servicio?",
+      "context": "El servicio de mensajería en Querétaro cobra según el peso $w$ en kg: $C(w) = 50$ si \\$0 < w \\leq 1$, y $C(w) = 50 + 20(w-1)$ si $w > 1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\$70",
+          "is_correct": false,
+          "feedback": "Olvidaste sumar la cuota base de los primeros kg o aplicaste mal la fórmula."
+        },
+        {
+          "letter": "B",
+          "text": "\\$100",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como 3.5 > 1, usamos la segunda regla: 50 + 20(3.5 - 1) = 50 + 20(2.5) = 50 + 50 = 100."
+        },
+        {
+          "letter": "C",
+          "text": "\\$120",
+          "is_correct": false,
+          "feedback": "Revisa la resta (3.5 - 1) = 2.5. 20 * 2.5 = 50."
+        },
+        {
+          "letter": "D",
+          "text": "\\$50",
+          "is_correct": false,
+          "feedback": "Este es el costo solo si el paquete pesara 1 kg o menos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las funciones definidas por partes requieren identificar primero en qué intervalo se encuentra el valor de entrada para aplicar la regla de correspondencia correcta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál de las siguientes funciones se clasifica como una **función par**?",
+      "context": "Un analista de datos está clasificando funciones según sus propiedades de simetría respecto al origen o al eje Y.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = x^3$",
+          "is_correct": false,
+          "feedback": "Esta es una función impar, ya que f(-x) = -f(x). Tiene simetría respecto al origen."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = x^2 - 4$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Una función es par si f(-x) = f(x). Al elevar (-x)^2 obtenemos x^2, por lo que el valor no cambia."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = x + 1$",
+          "is_correct": false,
+          "feedback": "No es par ni impar. f(-x) = -x + 1, que no es igual a f(x) ni a -f(x)."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = \\frac{1}{x}$",
+          "is_correct": false,
+          "feedback": "Es una función impar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una función es par si presenta simetría respecto al eje vertical (Y). Algebraicamente, se cumple que $f(x) = f(-x)$ para todo $x$ en su dominio.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v15",
+      "statement": "Dada la función $f(x) = -x^2 + 6x$, ¿en qué intervalo de su dominio la función presenta un comportamiento **creciente**?",
+      "context": "Se observa la gráfica de la función $f(x) = -x^2 + 6x$. Los estudiantes deben identificar en qué intervalo la función es creciente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(-\\infty, \\infty)$",
+          "is_correct": false,
+          "feedback": "Las parábolas cambian de dirección en su vértice; no pueden ser siempre crecientes."
+        },
+        {
+          "letter": "B",
+          "text": "$(3, \\infty)$",
+          "is_correct": false,
+          "feedback": "En este intervalo, al ser el coeficiente de x^2 negativo, la función está bajando (decreciente)."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 3)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El vértice está en x = -b/(2a) = -6/(-2) = 3. Antes del 3, la parábola sube."
+        },
+        {
+          "letter": "D",
+          "text": "$[0, 6]$",
+          "is_correct": false,
+          "feedback": "En este intervalo la función sube y luego baja (cruza el vértice)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para una parábola que abre hacia abajo ($a < 0$), la función es creciente desde $-\\infty$ hasta la coordenada $x$ del vértice, y decreciente de ahí en adelante.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.56,
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v16",
+      "statement": "Si $f(x) = x^2 + 2x$, ¿cuál es la expresión simplificada para $f(x+h)$?",
+      "context": "En un ejercicio de preparación avanzada, se pide hallar la expresión para $f(x+h)$ dada una función cuadrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + 2x + h$",
+          "is_correct": false,
+          "feedback": "Solo sumaste h al final, no sustituiste x por (x+h) en todos los términos."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + h^2 + 2x + 2h$",
+          "is_correct": false,
+          "feedback": "Olvidaste el término cruzado 2xh que surge al desarrollar el binomio al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + 2xh + h^2 + 2x + 2h$",
+          "is_correct": true,
+          "feedback": "¡Correcto! f(x+h) = (x+h)^2 + 2(x+h) = x^2 + 2xh + h^2 + 2x + 2h."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 + 2x + 2h$",
+          "is_correct": false,
+          "feedback": "Desarrollo incompleto de la función."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar $f(x+h)$ implica reemplazar cada instancia de la variable $x$ en la regla original por el binomio $(x+h)$ y luego simplificar los términos resultantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la función $V(x)$ que representa el volumen de la caja resultante en términos de la altura $x$?",
+      "context": "Un fabricante de cajas en Tijuana utiliza láminas cuadradas de 20 cm por lado. Corta cuadrados de lado $x$ en las esquinas para doblar las pestañas y formar la caja.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$V(x) = (20 - x)^2 x$",
+          "is_correct": false,
+          "feedback": "Al cortar dos esquinas, se resta x de cada lado, por lo que la base es (20 - 2x)."
+        },
+        {
+          "letter": "B",
+          "text": "$V(x) = (20 - 2x)^2 x$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El largo y ancho de la base son (20 - 2x) y la altura es x. Volumen = base * altura."
+        },
+        {
+          "letter": "C",
+          "text": "$V(x) = 400x - 4x^3$",
+          "is_correct": false,
+          "feedback": "Revisa el desarrollo: (20-2x)^2 * x = (400 - 80x + 4x^2) * x = 400x - 80x^2 + 4x^3."
+        },
+        {
+          "letter": "D",
+          "text": "$V(x) = 20x^2$",
+          "is_correct": false,
+          "feedback": "Esta fórmula no considera el recorte de las esquinas para formar la profundidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La modelación requiere traducir condiciones físicas a expresiones algebraicas. Aquí, el recorte reduce las dimensiones originales en dos veces el valor de $x$ (una por cada extremo).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v18",
+      "statement": "Dada la función $f(x) = \\frac{3x - 1}{x + 2}$ con $x \\neq -2$, ¿cuál es su función inversa $f^{-1}(x)$?",
+      "context": "Un estudiante de ingeniería necesita encontrar la función inversa de un proceso de enfriamiento modelado por $f(x) = \\frac{3x - 1}{x + 2}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f^{-1}(x) = \\frac{x + 2}{3x - 1}$",
+          "is_correct": false,
+          "feedback": "Esto es el recíproco, no la inversa. La inversa requiere despejar x."
+        },
+        {
+          "letter": "B",
+          "text": "$f^{-1}(x) = \\frac{2x + 1}{3 - x}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Si y = (3x-1)/(x+2), entonces y(x+2) = 3x-1 => yx + 2y = 3x - 1 => 2y + 1 = 3x - yx => x = (2y+1)/(3-y)."
+        },
+        {
+          "letter": "C",
+          "text": "$f^{-1}(x) = \\frac{3x + 1}{x - 2}$",
+          "is_correct": false,
+          "feedback": "Error en el manejo de signos durante el despeje algebraico."
+        },
+        {
+          "letter": "D",
+          "text": "$f^{-1}(x) = \\frac{2x - 1}{3 + x}$",
+          "is_correct": false,
+          "feedback": "Revisa los signos al trasponer términos de un lado a otro de la igualdad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar la inversa: 1) Escribir $y = f(x)$. 2) Intercambiar $x$ e $y$. 3) Despejar la nueva $y$. Este proceso deshace la operación original de la función.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el dominio de la función real $L(x) = \\log_{10}(x^2 - 9)$?",
+      "context": "En un estudio sobre crecimiento poblacional en el Estado de Yucatán, se utiliza la función $L(x) = \\log_{10}(x^2 - 9)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(3, \\infty)$",
+          "is_correct": false,
+          "feedback": "Los valores negativos menores a -3 también son válidos porque al elevarlos al cuadrado resultan mayores a 9."
+        },
+        {
+          "letter": "B",
+          "text": "$[-3, 3]$",
+          "is_correct": false,
+          "feedback": "En este intervalo x^2 - 9 es cero o negativo, y el logaritmo no está definido para esos valores."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, -3) \\cup (3, \\infty)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El argumento del logaritmo debe ser estrictamente mayor a cero: x^2 - 9 > 0 => x^2 > 9 => |x| > 3."
+        },
+        {
+          "letter": "D",
+          "text": "$\\mathbb{R} \\setminus \\{3, -3\\}$",
+          "is_correct": false,
+          "feedback": "No basta con excluir el 3 y -3; los valores intermedios (como x=0) también deben excluirse."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El dominio de una función logarítmica está restringido a que su argumento sea positivo ($> 0$). Resolver la desigualdad cuadrática resultante define los intervalos permitidos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle-v20",
+      "statement": "Si la función original es $g(x)$, ¿cuál es la expresión de la nueva función $h(x)$ tras aplicar las tres transformaciones mencionadas?",
+      "context": "Un investigador observa que la gráfica de una función base $g(x)$ ha sido reflejada respecto al eje X, desplazada 3 unidades a la izquierda y 2 unidades hacia abajo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$h(x) = g(x + 3) - 2$",
+          "is_correct": false,
+          "feedback": "Falta aplicar la reflexión respecto al eje X (signo negativo externo)."
+        },
+        {
+          "letter": "B",
+          "text": "$h(x) = -g(x + 3) - 2$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El \"-\" exterior refleja en X, el \"+3\" interno desplaza a la izquierda y el \"-2\" externo desplaza hacia abajo."
+        },
+        {
+          "letter": "C",
+          "text": "$h(x) = -g(x - 3) + 2$",
+          "is_correct": false,
+          "feedback": "El \"-3\" interno desplaza a la derecha y el \"+2\" desplaza hacia arriba."
+        },
+        {
+          "letter": "D",
+          "text": "$h(x) = g(-x + 3) - 2$",
+          "is_correct": false,
+          "feedback": "El \"-\" interno refleja respecto al eje Y, no respecto al eje X."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las transformaciones de gráficas se aplican mediante cambios en la ecuación: $-f(x)$ refleja en X, $f(x+c)$ desplaza a la izquierda, y $f(x)-d$ desplaza hacia abajo.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "MX-MAT-11-2026-W06-funciones-concepto-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la condición fundamental para que una relación de un conjunto A en un conjunto B sea clasificada como una función?",
+      "context": "Una alumna de preparatoria en Colima estudia la definición formal de función matemática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que cada elemento del conjunto de partida esté relacionado con exactamente un elemento del conjunto de llegada.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Una función es una regla de correspondencia que asocia a cada elemento de un conjunto de partida un único elemento del conjunto de llegada."
+        },
+        {
+          "letter": "B",
+          "text": "Que todos los elementos del conjunto de llegada tengan asignado un elemento del de partida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto define una función suprayectiva, no es la definición básica de función."
+        },
+        {
+          "letter": "C",
+          "text": "Que la gráfica resultante sea una línea recta continua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existen muchas funciones con gráficas no lineales y curvas."
+        },
+        {
+          "letter": "D",
+          "text": "Que el número de elementos de ambos conjuntos sea exactamente el mismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dominio y el codominio de una función pueden tener tamaños o cardinalidades totalmente distintas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición, una relación f del conjunto A en el conjunto B es una función si y solo si para cada elemento x en el conjunto A (dominio) existe un único elemento y en el conjunto B (codominio o rango) tal que f(x) = y.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v2",
+      "statement": "Si la función de costo está dada por C(x) = 150x + 800, donde x representa el número de pares producidos, ¿cuál es el rango de esta función para valores de producción no negativos?",
+      "context": "Se modela el costo de producción de calzado artesanal en León, Guanajuato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "[800, ∞)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Dado que la producción x es no negativa (x ≥ 0), el costo mínimo ocurre cuando x = 0, donde C(0) = 800. Por lo tanto, el rango va desde $800 en adelante."
+        },
+        {
+          "letter": "B",
+          "text": "[0, ∞)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto correspondería al dominio de la producción, no al rango de costos."
+        },
+        {
+          "letter": "C",
+          "text": "(-∞, ∞)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existen costos de producción negativos en este contexto real."
+        },
+        {
+          "letter": "D",
+          "text": "[0, 800]",
+          "is_correct": false,
+          "feedback": "Incorrecto. El costo de producción aumenta indefinidamente con la cantidad de calzado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio está restringido a valores no negativos de producción, es decir, x ≥ 0. Como el coeficiente de x es positivo (150), la función es creciente. El valor mínimo de C(x) se alcanza en x = 0, dando C(0) = 150(0) + 800 = 800. Para valores mayores de x, C(x) crece indefinidamente, por lo que el rango es [800, ∞).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v3",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 3).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 3.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 3",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 3 ≠ 0, de donde x ≠ 3."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 3), planteamos la restricción: x - 3 ≠ 0 => x ≠ 3.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v4",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 4).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 4.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 4",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 4 ≠ 0, de donde x ≠ 4."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 4), planteamos la restricción: x - 4 ≠ 0 => x ≠ 4.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v5",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 5).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 5.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 5",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 5 ≠ 0, de donde x ≠ 5."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 5), planteamos la restricción: x - 5 ≠ 0 => x ≠ 5.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v6",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 6).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 6.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 6",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 6 ≠ 0, de donde x ≠ 6."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 6), planteamos la restricción: x - 6 ≠ 0 => x ≠ 6.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v7",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 7).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 7.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 7",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 7 ≠ 0, de donde x ≠ 7."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 7), planteamos la restricción: x - 7 ≠ 0 => x ≠ 7.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v8",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 8).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 8.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 8",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 8 ≠ 0, de donde x ≠ 8."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 8), planteamos la restricción: x - 8 ≠ 0 => x ≠ 8.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v9",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 9).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 9.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 9",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 9 ≠ 0, de donde x ≠ 9."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 9), planteamos la restricción: x - 9 ≠ 0 => x ≠ 9.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v10",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 10).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 10.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 10",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 10 ≠ 0, de donde x ≠ 10."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 10), planteamos la restricción: x - 10 ≠ 0 => x ≠ 10.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v11",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 11).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 11",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 11 ≠ 0, de donde x ≠ 11."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 11",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 11), planteamos la restricción: x - 11 ≠ 0 => x ≠ 11.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v12",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 12).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 12.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 12",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 12 ≠ 0, de donde x ≠ 12."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 12",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 12), planteamos la restricción: x - 12 ≠ 0 => x ≠ 12.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v13",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 13).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 13.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 13",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 13 ≠ 0, de donde x ≠ 13."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 13",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 13), planteamos la restricción: x - 13 ≠ 0 => x ≠ 13.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v14",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 14).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 14",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 14 ≠ 0, de donde x ≠ 14."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 14",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 14), planteamos la restricción: x - 14 ≠ 0 => x ≠ 14.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v15",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 15).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 15.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 15",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 15 ≠ 0, de donde x ≠ 15."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 15",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 15), planteamos la restricción: x - 15 ≠ 0 => x ≠ 15.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v16",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 16).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 16.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 16",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 16 ≠ 0, de donde x ≠ 16."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 16",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 16), planteamos la restricción: x - 16 ≠ 0 => x ≠ 16.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v17",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 17).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 17.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 17",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 17 ≠ 0, de donde x ≠ 17."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 17",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 17",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 17), planteamos la restricción: x - 17 ≠ 0 => x ≠ 17.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v18",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 18).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 18.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 18",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 18 ≠ 0, de donde x ≠ 18."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 18",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 18), planteamos la restricción: x - 18 ≠ 0 => x ≠ 18.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v19",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 19).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 19.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 19",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 19 ≠ 0, de donde x ≠ 19."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 19",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 19",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 19), planteamos la restricción: x - 19 ≠ 0 => x ≠ 19.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v20",
+      "statement": "Determina el dominio de la función real f(x) = 10 / (x - 20).",
+      "context": "Análisis conceptual de funciones algebraicas en México, caso 20.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales excepto x = 20",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador no puede ser cero, por lo tanto x - 20 ≠ 0, de donde x ≠ 20."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales mayores a 20",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente el valor real x = 20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el único valor donde la función NO está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales sin ninguna restricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto causaría una división por cero en la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los números reales para los cuales el denominador Q(x) es diferente de cero. Para f(x) = 10 / (x - 20), planteamos la restricción: x - 20 ≠ 0 => x ≠ 20.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    }
+  ]
+}

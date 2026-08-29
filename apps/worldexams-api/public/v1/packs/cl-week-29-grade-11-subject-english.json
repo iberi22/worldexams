@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ingles",
+    "country": "cl",
+    "pack_id": "cl-week-29-grade-11-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.111Z"
+  },
+  "questions": [
+    {
+      "id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-v1",
+      "statement": "The Universal Declaration of Human Rights was adopted by the United Nations in 1948.",
+      "context": "Introduction to the Universal Declaration.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "rejected",
+          "is_correct": false,
+          "feedback": "Incorrect. It was officially accepted."
+        },
+        {
+          "letter": "B",
+          "text": "adopted",
+          "is_correct": true,
+          "feedback": "Correct. Adopted means formally approved or accepted."
+        },
+        {
+          "letter": "C",
+          "text": "ignored",
+          "is_correct": false,
+          "feedback": "Incorrect. It is a fundamental document."
+        },
+        {
+          "letter": "D",
+          "text": "rewritten",
+          "is_correct": false,
+          "feedback": "Incorrect. It was established in 1948."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Adopted' is the formal term for the official acceptance of an international document.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-v2",
+      "statement": "Human rights are inherent to all human beings, regardless of race, gender, or nationality.",
+      "context": "Discussing fundamental principles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "regard",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "regardless of",
+          "is_correct": true,
+          "feedback": "Correct. Prepositional phrase meaning 'without being affected by'."
+        },
+        {
+          "letter": "C",
+          "text": "regarding",
+          "is_correct": false,
+          "feedback": "Incorrect. Means 'about'."
+        },
+        {
+          "letter": "D",
+          "text": "regardless",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs 'of' to connect to the following list."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Regardless of' is essential for expressing the universal and non-discriminatory nature of human rights.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-v3",
+      "statement": "If those activists hadn't fought for their rights, many of our current freedoms wouldn't exist.",
+      "context": "Conditional about social justice history.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "didn't fight",
+          "is_correct": false,
+          "feedback": "Incorrect. Second conditional."
+        },
+        {
+          "letter": "B",
+          "text": "hadn't fought",
+          "is_correct": true,
+          "feedback": "Correct. Third conditional for hypothetical past."
+        },
+        {
+          "letter": "C",
+          "text": "haven't fought",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "wouldn't fight",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' not in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The third conditional is used to express the past importance of social movements.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-v4",
+      "statement": "Freedom of expression is a fundamental right that allows individuals to hold and share opinions without interference.",
+      "context": "Article about freedom of expression.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "interference",
+          "is_correct": true,
+          "feedback": "Correct. Interference is the act of getting in the way or hindering."
+        },
+        {
+          "letter": "B",
+          "text": "agreement",
+          "is_correct": false,
+          "feedback": "Incorrect. You can share opinions even if people disagree."
+        },
+        {
+          "letter": "C",
+          "text": "support",
+          "is_correct": false,
+          "feedback": "Incorrect. The right is about the freedom to speak, with or without support."
+        },
+        {
+          "letter": "D",
+          "text": "attention",
+          "is_correct": false,
+          "feedback": "Incorrect. Not part of the definition."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Without interference' is the key phrase for defining freedom from government or social suppression.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-v5",
+      "statement": "Inalienable rights are rights that cannot be taken away or denied by any government or person.",
+      "context": "Discussion on \"inalienable rights\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "temporary",
+          "is_correct": false,
+          "feedback": "Incorrect. Inalienable means permanent."
+        },
+        {
+          "letter": "B",
+          "text": "inalienable",
+          "is_correct": true,
+          "feedback": "Correct. This is the specific term for rights that cannot be surrendered."
+        },
+        {
+          "letter": "C",
+          "text": "flexible",
+          "is_correct": false,
+          "feedback": "Incorrect. These rights are absolute."
+        },
+        {
+          "letter": "D",
+          "text": "optional",
+          "is_correct": false,
+          "feedback": "Incorrect. They are fundamental."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Inalienable' is the formal term used in political philosophy to describe rights that are inherently part of being human.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-v6",
+      "statement": "A violation occurs when a person's fundamental rights are ignored or actively taken away.",
+      "context": "Describing a violation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "celebration",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "violation",
+          "is_correct": true,
+          "feedback": "Correct. An act that disregards or breaks a law or right."
+        },
+        {
+          "letter": "C",
+          "text": "validation",
+          "is_correct": false,
+          "feedback": "Incorrect. To validate is to confirm."
+        },
+        {
+          "letter": "D",
+          "text": "tradition",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Violation' is the standard term for the breach of human rights.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-v7",
+      "statement": "Many groups are still being marginalized despite the progress made in human rights legislation.",
+      "context": "Passive voice in a rights report.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are marginalizing",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "are being marginalized",
+          "is_correct": true,
+          "feedback": "Correct. Present continuous passive for an ongoing negative state."
+        },
+        {
+          "letter": "C",
+          "text": "marginalized",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "D",
+          "text": "have marginalized",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present continuous passive describes how certain groups continue to experience unfair treatment.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-v8",
+      "statement": "Due process is the legal requirement that the state must respect all legal rights that are owed to a person.",
+      "context": "Text on \"due process\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ignorance",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Due process",
+          "is_correct": true,
+          "feedback": "Correct. Fundamental principle of legal fairness."
+        },
+        {
+          "letter": "C",
+          "text": "Random luck",
+          "is_correct": false,
+          "feedback": "Incorrect. Law should be systematic."
+        },
+        {
+          "letter": "D",
+          "text": "Popularity",
+          "is_correct": false,
+          "feedback": "Incorrect. Rights apply even if you are not popular."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Due process' is the essential legal term for fair treatment through the judicial system.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-v9",
+      "statement": "The report confirmed that several rights had been systematically ignored during the crisis.",
+      "context": "Reporting a human rights finding.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have been",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted in reported speech."
+        },
+        {
+          "letter": "B",
+          "text": "had been",
+          "is_correct": true,
+          "feedback": "Correct. Backshifted from present perfect to past perfect."
+        },
+        {
+          "letter": "C",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrect. Present."
+        },
+        {
+          "letter": "D",
+          "text": "will be",
+          "is_correct": false,
+          "feedback": "Incorrect. Future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, we backshift the tense to show the events happened prior to the report's conclusion.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-v10",
+      "statement": "Tokenism is the practice of making only a perfunctory or symbolic effort to be inclusive to members of minority groups.",
+      "context": "Critique of \"tokenism\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Genuine",
+          "is_correct": false,
+          "feedback": "Incorrect. Tokenism is the opposite of genuine."
+        },
+        {
+          "letter": "B",
+          "text": "perfunctory",
+          "is_correct": true,
+          "feedback": "Correct. Perfunctory means carried out with a minimum of effort or reflection."
+        },
+        {
+          "letter": "C",
+          "text": "extensive",
+          "is_correct": false,
+          "feedback": "Incorrect. Tokenism is a small, superficial effort."
+        },
+        {
+          "letter": "D",
+          "text": "effective",
+          "is_correct": false,
+          "feedback": "Incorrect. Tokenism is usually seen as ineffective or insulting."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Perfunctory' describes the superficial, minimum effort that characterizes tokenism.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-v11",
+      "statement": "Asylum is the protection granted by a nation to someone who has left their native country as a political refugee.",
+      "context": "Definition of asylum.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vacation",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Asylum",
+          "is_correct": true,
+          "feedback": "Correct. Specific term for state protection of refugees."
+        },
+        {
+          "letter": "C",
+          "text": "Employment",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Tourism",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Asylum' is the formal term for the safety and protection sought by refugees in a foreign country.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-v12",
+      "statement": "By the next summit, new protocols will have been implemented to better protect environmental activists.",
+      "context": "Describing a future human rights goal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will implement",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "will have been implemented",
+          "is_correct": true,
+          "feedback": "Correct. Future perfect passive for a completed state in the future."
+        },
+        {
+          "letter": "C",
+          "text": "are implemented",
+          "is_correct": false,
+          "feedback": "Incorrect. Present."
+        },
+        {
+          "letter": "D",
+          "text": "implementing",
+          "is_correct": false,
+          "feedback": "Incorrect. Gerund."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The future perfect passive indicates that the action will be a finished achievement by the stated deadline.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-v13",
+      "statement": "Human rights education aims to empower individuals to stand up for themselves and others.",
+      "context": "Discussing \"empowerment\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "empower",
+          "is_correct": true,
+          "feedback": "Correct. To empower means to give someone the authority or power to do something."
+        },
+        {
+          "letter": "B",
+          "text": "silence",
+          "is_correct": false,
+          "feedback": "Incorrect. Education aims for the opposite."
+        },
+        {
+          "letter": "C",
+          "text": "restrict",
+          "is_correct": false,
+          "feedback": "Incorrect. Education aims to expand ability."
+        },
+        {
+          "letter": "D",
+          "text": "ignore",
+          "is_correct": false,
+          "feedback": "Incorrect. Awareness is about paying attention."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Empower' is the core goal of human rights education: giving people the tools and confidence to act.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-v14",
+      "statement": "If people were more aware of their rights, they would be less likely to be exploited.",
+      "context": "Conditional about awareness.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrect. First conditional."
+        },
+        {
+          "letter": "B",
+          "text": "were",
+          "is_correct": true,
+          "feedback": "Correct. Second conditional for a hypothetical change."
+        },
+        {
+          "letter": "C",
+          "text": "had been",
+          "is_correct": false,
+          "feedback": "Incorrect. Third conditional."
+        },
+        {
+          "letter": "D",
+          "text": "would be",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' not in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The second conditional describes how a hypothetical increase in knowledge would result in a positive social outcome.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-v15",
+      "statement": "The author concludes that companies must be held accountable for any human rights violations in their supply chains.",
+      "context": "Conclusion of an essay on \"corporate responsibility\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "praised",
+          "is_correct": false,
+          "feedback": "Incorrect. They shouldn't be praised for violations."
+        },
+        {
+          "letter": "B",
+          "text": "held accountable",
+          "is_correct": true,
+          "feedback": "Correct. Means expected to explain or take responsibility for actions."
+        },
+        {
+          "letter": "C",
+          "text": "ignored",
+          "is_correct": false,
+          "feedback": "Incorrect. Violations must be addressed."
+        },
+        {
+          "letter": "D",
+          "text": "rewarded",
+          "is_correct": false,
+          "feedback": "Incorrect. Negative behavior shouldn't be rewarded."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Held accountable' is the professional term for requiring responsibility and consequences for actions.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-v16",
+      "statement": "Equality means ensuring that every individual has an equal opportunity to make the most of their lives and talents.",
+      "context": "Describing \"equality\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Wealth",
+          "is_correct": false,
+          "feedback": "Incorrect. Money-focused."
+        },
+        {
+          "letter": "B",
+          "text": "Equality",
+          "is_correct": true,
+          "feedback": "Correct. The state of being equal."
+        },
+        {
+          "letter": "C",
+          "text": "Greed",
+          "is_correct": false,
+          "feedback": "Incorrect. Selfish desire."
+        },
+        {
+          "letter": "D",
+          "text": "Chaos",
+          "is_correct": false,
+          "feedback": "Incorrect. Disorder."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Equality' is the fundamental value described as giving everyone a fair chance.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-v17",
+      "statement": "I wish I had been more involved in social justice work when I was a student.",
+      "context": "Expressing a past wish.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am",
+          "is_correct": false,
+          "feedback": "Incorrect. Present."
+        },
+        {
+          "letter": "B",
+          "text": "was",
+          "is_correct": false,
+          "feedback": "Incorrect. Present hypothetical."
+        },
+        {
+          "letter": "C",
+          "text": "had been",
+          "is_correct": true,
+          "feedback": "Correct. 'Wish + past perfect' for past regret."
+        },
+        {
+          "letter": "D",
+          "text": "would be",
+          "is_correct": false,
+          "feedback": "Incorrect. Future."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The 'wish + past perfect' structure allows for the expression of regret about past inactivity.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-v18",
+      "statement": "Dignity is the right of a person to be valued and respected for their own sake, and to be treated ethically.",
+      "context": "Text about \"dignity\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Status",
+          "is_correct": false,
+          "feedback": "Incorrect. Status can be earned or given; dignity is inherent."
+        },
+        {
+          "letter": "B",
+          "text": "Dignity",
+          "is_correct": true,
+          "feedback": "Correct. The state or quality of being worthy of honor or respect."
+        },
+        {
+          "letter": "C",
+          "text": "Fame",
+          "is_correct": false,
+          "feedback": "Incorrect. Being well-known."
+        },
+        {
+          "letter": "D",
+          "text": "Pride",
+          "is_correct": false,
+          "feedback": "Incorrect. A feeling of satisfaction."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Dignity' is the core human rights concept referring to the inherent worth of every person.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-v19",
+      "statement": "The lawyer argued that the defendant's rights had been infringed upon.",
+      "context": "Reporting a call for justice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted in reported speech."
+        },
+        {
+          "letter": "B",
+          "text": "had been",
+          "is_correct": true,
+          "feedback": "Correct. Backshifted from present perfect or past simple to past perfect."
+        },
+        {
+          "letter": "C",
+          "text": "will be",
+          "is_correct": false,
+          "feedback": "Incorrect. Future."
+        },
+        {
+          "letter": "D",
+          "text": "have been",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, we backshift the tense to show the infringement occurred prior to the lawyer's argument.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-v20",
+      "statement": "Ultimately, human rights provide the common language for a global conversation on dignity and justice.",
+      "context": "Final thought on universal rights.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "common language",
+          "is_correct": true,
+          "feedback": "Correct. Metaphor for shared understanding."
+        },
+        {
+          "letter": "B",
+          "text": "source of conflict",
+          "is_correct": false,
+          "feedback": "Incorrect. While rights can be debated, the author frames them as a unifying tool."
+        },
+        {
+          "letter": "C",
+          "text": "reason for isolation",
+          "is_correct": false,
+          "feedback": "Incorrect. Rights connect us."
+        },
+        {
+          "letter": "D",
+          "text": "barrier to trade",
+          "is_correct": false,
+          "feedback": "Incorrect. Unrelated to the social point."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Common language' metaphorically describes how human rights provide a shared framework for global discussion and ethical standards.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W29-human-rights-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}
