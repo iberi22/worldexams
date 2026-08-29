@@ -102,6 +102,8 @@ async function main() {
   const rawConfig = await fs.readFile(wranglerConfigPath, 'utf8');
   const config = JSON.parse(rawConfig);
 
+  delete config.legacy_env;
+
   if (workerNameOverride) {
     config.name = workerNameOverride;
   }
