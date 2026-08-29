@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "cl",
+    "pack_id": "cl-week-15-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T04:04:54.090Z"
+  },
+  "questions": [
+    {
+      "id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle-v1",
+      "statement": "Un átomo neutro en Valparaíso posee número atómico $Z = 4$ y número másico $A = 10$. ¿Cuántos neutrones alberga en su núcleo?",
+      "context": "Sebastián analiza situaciones académicas en Valparaíso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6$ neutrones",
+          "is_correct": true,
+          "feedback": "¡Correcto! N = A - Z = 10 - 4 = 6."
+        },
+        {
+          "letter": "B",
+          "text": "$4$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el número de neutrones con el número atómico Z."
+        },
+        {
+          "letter": "C",
+          "text": "$10$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el número másico A completo."
+        },
+        {
+          "letter": "D",
+          "text": "$9$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la resta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El número de neutrones se calcula restando el número atómico al número másico: N = A - Z = 10 - 4 = 6.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle-v2",
+      "statement": "Un átomo neutro en Concepción posee número atómico $Z = 5$ y número másico $A = 12$. ¿Cuántos neutrones alberga en su núcleo?",
+      "context": "Sebastián analiza situaciones académicas en Concepción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$7$ neutrones",
+          "is_correct": true,
+          "feedback": "¡Correcto! N = A - Z = 12 - 5 = 7."
+        },
+        {
+          "letter": "B",
+          "text": "$5$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el número de neutrones con el número atómico Z."
+        },
+        {
+          "letter": "C",
+          "text": "$12$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el número másico A completo."
+        },
+        {
+          "letter": "D",
+          "text": "$10$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la resta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El número de neutrones se calcula restando el número atómico al número másico: N = A - Z = 12 - 5 = 7.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle-v3",
+      "statement": "Un átomo neutro en Antofagasta posee número atómico $Z = 6$ y número másico $A = 14$. ¿Cuántos neutrones alberga en su núcleo?",
+      "context": "Sebastián analiza situaciones académicas en Antofagasta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8$ neutrones",
+          "is_correct": true,
+          "feedback": "¡Correcto! N = A - Z = 14 - 6 = 8."
+        },
+        {
+          "letter": "B",
+          "text": "$6$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el número de neutrones con el número atómico Z."
+        },
+        {
+          "letter": "C",
+          "text": "$14$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el número másico A completo."
+        },
+        {
+          "letter": "D",
+          "text": "$11$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la resta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El número de neutrones se calcula restando el número atómico al número másico: N = A - Z = 14 - 6 = 8.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle-v4",
+      "statement": "Un átomo neutro en Temuco posee número atómico $Z = 7$ y número másico $A = 16$. ¿Cuántos neutrones alberga en su núcleo?",
+      "context": "Sebastián analiza situaciones académicas en Temuco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9$ neutrones",
+          "is_correct": true,
+          "feedback": "¡Correcto! N = A - Z = 16 - 7 = 9."
+        },
+        {
+          "letter": "B",
+          "text": "$7$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el número de neutrones con el número atómico Z."
+        },
+        {
+          "letter": "C",
+          "text": "$16$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el número másico A completo."
+        },
+        {
+          "letter": "D",
+          "text": "$12$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la resta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El número de neutrones se calcula restando el número atómico al número másico: N = A - Z = 16 - 7 = 9.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle-v5",
+      "statement": "Un átomo neutro en La Serena posee número atómico $Z = 8$ y número másico $A = 18$. ¿Cuántos neutrones alberga en su núcleo?",
+      "context": "Sebastián analiza situaciones académicas en La Serena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$ neutrones",
+          "is_correct": true,
+          "feedback": "¡Correcto! N = A - Z = 18 - 8 = 10."
+        },
+        {
+          "letter": "B",
+          "text": "$8$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el número de neutrones con el número atómico Z."
+        },
+        {
+          "letter": "C",
+          "text": "$18$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el número másico A completo."
+        },
+        {
+          "letter": "D",
+          "text": "$13$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la resta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El número de neutrones se calcula restando el número atómico al número másico: N = A - Z = 18 - 8 = 10.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle-v6",
+      "statement": "Un átomo neutro en Viña del Mar posee número atómico $Z = 9$ y número másico $A = 20$. ¿Cuántos neutrones alberga en su núcleo?",
+      "context": "Sebastián analiza situaciones académicas en Viña del Mar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$11$ neutrones",
+          "is_correct": true,
+          "feedback": "¡Correcto! N = A - Z = 20 - 9 = 11."
+        },
+        {
+          "letter": "B",
+          "text": "$9$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el número de neutrones con el número atómico Z."
+        },
+        {
+          "letter": "C",
+          "text": "$20$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el número másico A completo."
+        },
+        {
+          "letter": "D",
+          "text": "$14$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la resta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El número de neutrones se calcula restando el número atómico al número másico: N = A - Z = 20 - 9 = 11.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle-v7",
+      "statement": "Un átomo neutro en Iquique posee número atómico $Z = 10$ y número másico $A = 22$. ¿Cuántos neutrones alberga en su núcleo?",
+      "context": "Sebastián analiza situaciones académicas en Iquique.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12$ neutrones",
+          "is_correct": true,
+          "feedback": "¡Correcto! N = A - Z = 22 - 10 = 12."
+        },
+        {
+          "letter": "B",
+          "text": "$10$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el número de neutrones con el número atómico Z."
+        },
+        {
+          "letter": "C",
+          "text": "$22$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el número másico A completo."
+        },
+        {
+          "letter": "D",
+          "text": "$15$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la resta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El número de neutrones se calcula restando el número atómico al número másico: N = A - Z = 22 - 10 = 12.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle-v8",
+      "statement": "Un átomo neutro en Rancagua posee número atómico $Z = 11$ y número másico $A = 24$. ¿Cuántos neutrones alberga en su núcleo?",
+      "context": "Sebastián analiza situaciones académicas en Rancagua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$13$ neutrones",
+          "is_correct": true,
+          "feedback": "¡Correcto! N = A - Z = 24 - 11 = 13."
+        },
+        {
+          "letter": "B",
+          "text": "$11$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el número de neutrones con el número atómico Z."
+        },
+        {
+          "letter": "C",
+          "text": "$24$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el número másico A completo."
+        },
+        {
+          "letter": "D",
+          "text": "$16$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la resta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El número de neutrones se calcula restando el número atómico al número másico: N = A - Z = 24 - 11 = 13.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle-v9",
+      "statement": "Un átomo neutro en Talca posee número atómico $Z = 12$ y número másico $A = 26$. ¿Cuántos neutrones alberga en su núcleo?",
+      "context": "Sebastián analiza situaciones académicas en Talca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$14$ neutrones",
+          "is_correct": true,
+          "feedback": "¡Correcto! N = A - Z = 26 - 12 = 14."
+        },
+        {
+          "letter": "B",
+          "text": "$12$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el número de neutrones con el número atómico Z."
+        },
+        {
+          "letter": "C",
+          "text": "$26$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el número másico A completo."
+        },
+        {
+          "letter": "D",
+          "text": "$17$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la resta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El número de neutrones se calcula restando el número atómico al número másico: N = A - Z = 26 - 12 = 14.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.66,
+      "bundle_id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle-v10",
+      "statement": "Un átomo neutro en Arica posee número atómico $Z = 13$ y número másico $A = 28$. ¿Cuántos neutrones alberga en su núcleo?",
+      "context": "Sebastián analiza situaciones académicas en Arica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$15$ neutrones",
+          "is_correct": true,
+          "feedback": "¡Correcto! N = A - Z = 28 - 13 = 15."
+        },
+        {
+          "letter": "B",
+          "text": "$13$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el número de neutrones con el número atómico Z."
+        },
+        {
+          "letter": "C",
+          "text": "$28$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el número másico A completo."
+        },
+        {
+          "letter": "D",
+          "text": "$18$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la resta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El número de neutrones se calcula restando el número atómico al número másico: N = A - Z = 28 - 13 = 15.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.64,
+      "bundle_id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle-v11",
+      "statement": "Un átomo neutro en Puerto Montt posee número atómico $Z = 14$ y número másico $A = 30$. ¿Cuántos neutrones alberga en su núcleo?",
+      "context": "Sebastián analiza situaciones académicas en Puerto Montt.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$16$ neutrones",
+          "is_correct": true,
+          "feedback": "¡Correcto! N = A - Z = 30 - 14 = 16."
+        },
+        {
+          "letter": "B",
+          "text": "$14$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el número de neutrones con el número atómico Z."
+        },
+        {
+          "letter": "C",
+          "text": "$30$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el número másico A completo."
+        },
+        {
+          "letter": "D",
+          "text": "$19$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la resta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El número de neutrones se calcula restando el número atómico al número másico: N = A - Z = 30 - 14 = 16.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle-v12",
+      "statement": "Un átomo neutro en Chillán posee número atómico $Z = 15$ y número másico $A = 32$. ¿Cuántos neutrones alberga en su núcleo?",
+      "context": "Sebastián analiza situaciones académicas en Chillán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$17$ neutrones",
+          "is_correct": true,
+          "feedback": "¡Correcto! N = A - Z = 32 - 15 = 17."
+        },
+        {
+          "letter": "B",
+          "text": "$15$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el número de neutrones con el número atómico Z."
+        },
+        {
+          "letter": "C",
+          "text": "$32$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el número másico A completo."
+        },
+        {
+          "letter": "D",
+          "text": "$20$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la resta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El número de neutrones se calcula restando el número atómico al número másico: N = A - Z = 32 - 15 = 17.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.56,
+      "bundle_id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle-v13",
+      "statement": "Un átomo neutro en Calama posee número atómico $Z = 16$ y número másico $A = 34$. ¿Cuántos neutrones alberga en su núcleo?",
+      "context": "Sebastián analiza situaciones académicas en Calama.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$18$ neutrones",
+          "is_correct": true,
+          "feedback": "¡Correcto! N = A - Z = 34 - 16 = 18."
+        },
+        {
+          "letter": "B",
+          "text": "$16$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el número de neutrones con el número atómico Z."
+        },
+        {
+          "letter": "C",
+          "text": "$34$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el número másico A completo."
+        },
+        {
+          "letter": "D",
+          "text": "$21$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la resta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El número de neutrones se calcula restando el número atómico al número másico: N = A - Z = 34 - 16 = 18.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.54,
+      "bundle_id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle-v14",
+      "statement": "Un átomo neutro en Valdivia posee número atómico $Z = 17$ y número másico $A = 36$. ¿Cuántos neutrones alberga en su núcleo?",
+      "context": "Sebastián analiza situaciones académicas en Valdivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$19$ neutrones",
+          "is_correct": true,
+          "feedback": "¡Correcto! N = A - Z = 36 - 17 = 19."
+        },
+        {
+          "letter": "B",
+          "text": "$17$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el número de neutrones con el número atómico Z."
+        },
+        {
+          "letter": "C",
+          "text": "$36$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el número másico A completo."
+        },
+        {
+          "letter": "D",
+          "text": "$22$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la resta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El número de neutrones se calcula restando el número atómico al número másico: N = A - Z = 36 - 17 = 19.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle-v15",
+      "statement": "Un átomo neutro en Santiago posee número atómico $Z = 18$ y número másico $A = 38$. ¿Cuántos neutrones alberga en su núcleo?",
+      "context": "Sebastián analiza situaciones académicas en Santiago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$20$ neutrones",
+          "is_correct": true,
+          "feedback": "¡Correcto! N = A - Z = 38 - 18 = 20."
+        },
+        {
+          "letter": "B",
+          "text": "$18$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el número de neutrones con el número atómico Z."
+        },
+        {
+          "letter": "C",
+          "text": "$38$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el número másico A completo."
+        },
+        {
+          "letter": "D",
+          "text": "$23$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la resta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El número de neutrones se calcula restando el número atómico al número másico: N = A - Z = 38 - 18 = 20.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle-v16",
+      "statement": "Un átomo neutro en Valparaíso posee número atómico $Z = 19$ y número másico $A = 40$. ¿Cuántos neutrones alberga en su núcleo?",
+      "context": "Sebastián analiza situaciones académicas en Valparaíso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$21$ neutrones",
+          "is_correct": true,
+          "feedback": "¡Correcto! N = A - Z = 40 - 19 = 21."
+        },
+        {
+          "letter": "B",
+          "text": "$19$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el número de neutrones con el número atómico Z."
+        },
+        {
+          "letter": "C",
+          "text": "$40$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el número másico A completo."
+        },
+        {
+          "letter": "D",
+          "text": "$24$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la resta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El número de neutrones se calcula restando el número atómico al número másico: N = A - Z = 40 - 19 = 21.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle-v17",
+      "statement": "Un átomo neutro en Concepción posee número atómico $Z = 20$ y número másico $A = 42$. ¿Cuántos neutrones alberga en su núcleo?",
+      "context": "Sebastián analiza situaciones académicas en Concepción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$22$ neutrones",
+          "is_correct": true,
+          "feedback": "¡Correcto! N = A - Z = 42 - 20 = 22."
+        },
+        {
+          "letter": "B",
+          "text": "$20$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el número de neutrones con el número atómico Z."
+        },
+        {
+          "letter": "C",
+          "text": "$42$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el número másico A completo."
+        },
+        {
+          "letter": "D",
+          "text": "$25$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la resta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El número de neutrones se calcula restando el número atómico al número másico: N = A - Z = 42 - 20 = 22.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle-v18",
+      "statement": "Un átomo neutro en Antofagasta posee número atómico $Z = 21$ y número másico $A = 44$. ¿Cuántos neutrones alberga en su núcleo?",
+      "context": "Sebastián analiza situaciones académicas en Antofagasta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$23$ neutrones",
+          "is_correct": true,
+          "feedback": "¡Correcto! N = A - Z = 44 - 21 = 23."
+        },
+        {
+          "letter": "B",
+          "text": "$21$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el número de neutrones con el número atómico Z."
+        },
+        {
+          "letter": "C",
+          "text": "$44$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el número másico A completo."
+        },
+        {
+          "letter": "D",
+          "text": "$26$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la resta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El número de neutrones se calcula restando el número atómico al número másico: N = A - Z = 44 - 21 = 23.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle-v19",
+      "statement": "Un átomo neutro en Temuco posee número atómico $Z = 22$ y número másico $A = 46$. ¿Cuántos neutrones alberga en su núcleo?",
+      "context": "Sebastián analiza situaciones académicas en Temuco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$24$ neutrones",
+          "is_correct": true,
+          "feedback": "¡Correcto! N = A - Z = 46 - 22 = 24."
+        },
+        {
+          "letter": "B",
+          "text": "$22$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el número de neutrones con el número atómico Z."
+        },
+        {
+          "letter": "C",
+          "text": "$46$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el número másico A completo."
+        },
+        {
+          "letter": "D",
+          "text": "$27$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la resta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El número de neutrones se calcula restando el número atómico al número másico: N = A - Z = 46 - 22 = 24.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.29,
+      "bundle_id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle-v20",
+      "statement": "Un átomo neutro en La Serena posee número atómico $Z = 23$ y número másico $A = 48$. ¿Cuántos neutrones alberga en su núcleo?",
+      "context": "Sebastián analiza situaciones académicas en La Serena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$25$ neutrones",
+          "is_correct": true,
+          "feedback": "¡Correcto! N = A - Z = 48 - 23 = 25."
+        },
+        {
+          "letter": "B",
+          "text": "$23$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el número de neutrones con el número atómico Z."
+        },
+        {
+          "letter": "C",
+          "text": "$48$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el número másico A completo."
+        },
+        {
+          "letter": "D",
+          "text": "$28$ neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la resta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El número de neutrones se calcula restando el número atómico al número másico: N = A - Z = 48 - 23 = 25.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.26,
+      "bundle_id": "CL-CIE-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

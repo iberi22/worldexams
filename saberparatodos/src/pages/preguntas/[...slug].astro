@@ -1,107 +1,413 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import {
+  getCountryManifest,
+  getAllCountryManifests,
+  getCountriesWithContent,
+  resolveCountryCode,
+  type CountryManifest,
+} from '../../lib/country-manifest-loader';
+import {
+  getSubjectsForCountry,
+  getBundlesForCountrySubject,
+  getBundleByWeek,
+  toTitleCase,
+  canonicalFor,
+} from './_helpers';
 import { getLocalGrade11Questions } from '../../lib/questions/grade11-local-bank';
-import { resolveRuntimeCountryConfig } from '../../config';
+
+// Set edge caching on Cloudflare CDN: 1 day in browser, 7 days in CDN
+Astro.response.headers.set(
+  'Cache-Control',
+  'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400'
+);
 
 const { slug } = Astro.params;
-const countryConfig = resolveRuntimeCountryConfig(Astro.locals.country);
+const slugSegments = String(slug || '').toLowerCase().split('/').filter(Boolean);
 
-const allQuestions = getLocalGrade11Questions();
-const slugStr = String(slug || '').toLowerCase();
+const siteUrl = import.meta.env.PUBLIC_SITE_URL || Astro.site?.toString() || 'https://saberparatodos.space';
+const canonical = canonicalFor(slug ? `/preguntas/${slug}/` : '/preguntas/', siteUrl);
 
-// Filter questions matching slug or bundle ID
-const bundleQuestions = allQuestions.filter(q => {
-  const bId = (q.bundle_id || '').toLowerCase();
-  const qId = (q.id || '').toLowerCase();
-  return slugStr ? (bId.includes(slugStr) || qId.includes(slugStr) || slugStr.includes(bId)) : true;
-}).slice(0, 20);
+let viewType: 'root' | 'country' | 'subject' | 'week' | 'bundle' = 'root';
+let countryManifest: CountryManifest | undefined;
+let subjectSlug = '';
+let weekSlug = '';
 
-const displayQuestions = bundleQuestions.length > 0 ? bundleQuestions : allQuestions.slice(0, 10);
-const pageTitle = `Preguntas y Simulacros - ${countryConfig.product.siteName}`;
-const pageDescription = `Banco de preguntas y simulacros oficiales de preparacion para ${countryConfig.examName}.`;
+if (slugSegments.length === 0) {
+  viewType = 'root';
+} else {
+  countryManifest = getCountryManifest(slugSegments[0]);
+  if (countryManifest) {
+    if (slugSegments.length === 1) {
+      viewType = 'country';
+    } else if (slugSegments.length === 2) {
+      viewType = 'subject';
+      subjectSlug = slugSegments[1];
+    } else if (slugSegments.length >= 3) {
+      viewType = 'week';
+      subjectSlug = slugSegments[1];
+      weekSlug = slugSegments[2];
+    }
+  } else {
+    viewType = 'bundle';
+  }
+}
 
-// Schema.org Question structured data per question in bundle
-const questionSchemas = displayQuestions.map(q => {
-  const correctOpt = q.options.find(o => o.isCorrect) || q.options[0];
-  const incorrectOpts = q.options.filter(o => !o.isCorrect);
+// Fallback country manifest if needed
+if (!countryManifest) {
+  countryManifest = getCountryManifest('colombia')!;
+}
+
+// Prepare titles and metadata based on viewType
+let pageTitle = 'Bancos de Preguntas y Simulacros Oficiales — WorldExams';
+let pageDescription = 'Explora bancos de preguntas oficiales por país, asignatura y semana para preparación de exámenes nacionales.';
+
+if (viewType === 'country' && countryManifest) {
+  pageTitle = `Preguntas y Simulacros ${countryManifest.examName} — ${countryManifest.name} | WorldExams`;
+  pageDescription = `Banco de preguntas y simulacros oficiales para el examen ${countryManifest.examName} en ${countryManifest.name}. Preparación gratuita por asignaturas.`;
+} else if (viewType === 'subject' && countryManifest) {
+  const subjectName = toTitleCase(subjectSlug);
+  pageTitle = `${subjectName} — Preguntas y Simulacros ${countryManifest.examName} ${countryManifest.name}`;
+  pageDescription = `Módulos semanales de ${subjectName} para ${countryManifest.name} (${countryManifest.examName}). Preguntas explicadas pedagógicamente.`;
+} else if (viewType === 'week' && countryManifest) {
+  const subjectName = toTitleCase(subjectSlug);
+  const weekName = weekSlug.toUpperCase();
+  pageTitle = `${subjectName} ${weekName} — ${countryManifest.name} (${countryManifest.examName})`;
+  pageDescription = `Práctica interactiva de ${subjectName} ${weekName} para ${countryManifest.examName} (${countryManifest.name}). Soluciones y retroalimentación paso a paso.`;
+}
+
+// Questions data for week / bundle view
+const allSampleQuestions = getLocalGrade11Questions(subjectSlug);
+const displayQuestions = allSampleQuestions.length > 0 ? allSampleQuestions.slice(0, 10) : [];
+
+// Schema.org Structured Data
+const breadcrumbItems = [
+  { '@type': 'ListItem', position: 1, name: 'Inicio', item: canonicalFor('/', siteUrl) },
+  { '@type': 'ListItem', position: 2, name: 'Preguntas', item: canonicalFor('/preguntas/', siteUrl) },
+];
+
+if (countryManifest && viewType !== 'root') {
+  breadcrumbItems.push({
+    '@type': 'ListItem',
+    position: 3,
+    name: countryManifest.name,
+    item: canonicalFor(`/preguntas/${countryManifest.slug}/`, siteUrl),
+  });
+}
+if (subjectSlug && (viewType === 'subject' || viewType === 'week')) {
+  breadcrumbItems.push({
+    '@type': 'ListItem',
+    position: 4,
+    name: toTitleCase(subjectSlug),
+    item: canonicalFor(`/preguntas/${countryManifest?.slug}/${subjectSlug}/`, siteUrl),
+  });
+}
+if (weekSlug && viewType === 'week') {
+  breadcrumbItems.push({
+    '@type': 'ListItem',
+    position: 5,
+    name: weekSlug.toUpperCase(),
+    item: canonical,
+  });
+}
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: breadcrumbItems,
+};
+
+const questionSchemas = displayQuestions.map((q) => {
+  const correctOpt = q.options.find((o) => o.isCorrect) || q.options[0];
+  const incorrectOpts = q.options.filter((o) => !o.isCorrect);
 
   return {
     '@context': 'https://schema.org',
     '@type': 'Question',
-    'name': q.statement.slice(0, 120),
-    'text': q.statement,
-    'educationalLevel': `Grado ${q.grade}`,
-    'learningResourceType': 'Practice Problem',
-    'inLanguage': countryConfig.language || 'es-CO',
-    'acceptedAnswer': {
+    name: q.statement.slice(0, 120),
+    text: q.statement,
+    educationalLevel: `Grado ${q.grade}`,
+    learningResourceType: 'Practice Problem',
+    inLanguage: countryManifest?.language || 'es-CO',
+    acceptedAnswer: {
       '@type': 'Answer',
-      'text': correctOpt?.text || ''
+      text: correctOpt?.text || '',
     },
-    'suggestedAnswer': incorrectOpts.map(opt => ({
+    suggestedAnswer: incorrectOpts.map((opt) => ({
       '@type': 'Answer',
-      'text': opt.text
-    }))
+      text: opt.text,
+    })),
   };
 });
 ---
 
 <Layout title={pageTitle} description={pageDescription}>
-  {questionSchemas.map(schema => (
+  <script is:inline type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+  {questionSchemas.map((schema) => (
     <script is:inline type="application/ld+json" set:html={JSON.stringify(schema)} />
   ))}
 
-  <section class="max-w-4xl mx-auto px-4 py-8">
-    <div class="mb-8">
-      <span class="text-xs font-mono uppercase tracking-widest text-emerald-400">Banco de Preguntas SEO</span>
-      <h1 class="text-3xl font-bold text-white mt-2">Preguntas de Práctica {countryConfig.examName}</h1>
-      <p class="text-white/70 mt-2">
-        Explora las preguntas de entrenamiento preparadas para {countryConfig.name}. Respuestas con explicación pedagógica.
-      </p>
+  <div class="min-h-screen bg-[#0f172a] text-white">
+    <!-- Subheader / Breadcrumbs -->
+    <div class="border-b border-white/10 bg-slate-900/50 backdrop-blur-sm sticky top-0 z-10">
+      <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between text-sm">
+        <nav aria-label="Breadcrumb" class="text-white/60">
+          <ol class="flex flex-wrap gap-2 items-center">
+            <li><a href="/" class="hover:text-white transition">Inicio</a></li>
+            <li>/</li>
+            <li><a href="/preguntas" class={`${viewType === 'root' ? 'text-emerald-400 font-semibold' : 'hover:text-white transition'}`}>Preguntas</a></li>
+            {countryManifest && viewType !== 'root' && (
+              <>
+                <li>/</li>
+                <li><a href={`/preguntas/${countryManifest.slug}`} class={`${viewType === 'country' ? 'text-emerald-400 font-semibold' : 'hover:text-white transition'}`}>{countryManifest.flag} {countryManifest.name}</a></li>
+              </>
+            )}
+            {subjectSlug && (
+              <>
+                <li>/</li>
+                <li><a href={`/preguntas/${countryManifest?.slug}/${subjectSlug}`} class={`${viewType === 'subject' ? 'text-emerald-400 font-semibold' : 'hover:text-white transition'}`}>{toTitleCase(subjectSlug)}</a></li>
+              </>
+            )}
+            {weekSlug && (
+              <>
+                <li>/</li>
+                <li class="text-emerald-400 font-semibold">{weekSlug.toUpperCase()}</li>
+              </>
+            )}
+          </ol>
+        </nav>
+
+        <a href="/practica" class="px-3 py-1 bg-emerald-500 hover:bg-emerald-400 text-slate-950 text-xs font-bold rounded-md transition shadow">
+          Modo Simulacro ⚡
+        </a>
+      </div>
     </div>
 
-    <div class="space-y-6">
-      {displayQuestions.map((q, idx) => (
-        <article class="bg-white/5 border border-white/10 rounded-xl p-6 shadow-lg">
-          <div class="flex items-center justify-between mb-4">
-            <span class="text-xs font-mono bg-emerald-500/20 text-emerald-300 px-2.5 py-1 rounded-full">
-              Pregunta #{idx + 1} • {q.subject.toUpperCase()}
+    <main class="max-w-6xl mx-auto px-4 py-8">
+      {/* 1. ROOT VIEW: Country Directory */}
+      {viewType === 'root' && (
+        <section>
+          <div class="text-center max-w-3xl mx-auto mb-12">
+            <span class="inline-block px-3 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 text-xs font-mono uppercase tracking-wider mb-3">
+              Catálogo Internacional de Preparación
             </span>
-            <span class="text-xs text-white/50">Dificultad: {q.difficulty}/10</span>
+            <h1 class="text-3xl md:text-4xl font-extrabold text-white tracking-tight">
+              Bancos de Preguntas Oficiales por País
+            </h1>
+            <p class="text-slate-300 mt-3 text-base">
+              Selecciona tu país para acceder a los bancos de preguntas, simulacros semanales y explicaciones paso a paso alineadas con los exámenes nacionales.
+            </p>
           </div>
 
-          <p class="text-lg text-white font-medium mb-4 leading-relaxed">{q.statement}</p>
+          <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+            {getCountriesWithContent().map((country) => (
+              <a
+                href={`/preguntas/${country.slug}`}
+                class="group bg-slate-800/60 hover:bg-slate-800 border border-slate-700/60 hover:border-emerald-500/50 p-5 rounded-2xl transition duration-200 shadow-md flex flex-col justify-between"
+              >
+                <div>
+                  <div class="flex items-center justify-between mb-3">
+                    <span class="text-3xl">{country.flag}</span>
+                    <span class="text-xs font-mono bg-emerald-500/20 text-emerald-300 px-2 py-0.5 rounded-full">
+                      {country.bundleCount} Packs
+                    </span>
+                  </div>
+                  <h2 class="text-lg font-bold text-white group-hover:text-emerald-300 transition">
+                    {country.name}
+                  </h2>
+                  <p class="text-xs text-slate-400 mt-1">
+                    Examen: <strong class="text-slate-200">{country.examName}</strong>
+                  </p>
+                </div>
+                <div class="mt-4 pt-3 border-t border-slate-700/50 flex items-center justify-between text-xs text-emerald-400 font-semibold group-hover:translate-x-1 transition duration-200">
+                  <span>Explorar asignaturas</span>
+                  <span>→</span>
+                </div>
+              </a>
+            ))}
+          </div>
+        </section>
+      )}
 
-          <div class="grid gap-2 mb-4">
-            {q.options.map(opt => (
-              <div class={`p-3 rounded-lg border text-sm flex items-center justify-between ${
-                opt.isCorrect
-                  ? 'bg-emerald-900/30 border-emerald-500/50 text-emerald-200'
-                  : 'bg-white/5 border-white/10 text-white/80'
-              }`}>
-                <span><strong class="mr-2">{opt.id}.</strong> {opt.text}</span>
-                {opt.isCorrect && <span class="text-xs font-bold text-emerald-400">Correcta</span>}
+      {/* 2. COUNTRY VIEW: Subjects and Exam Information */}
+      {viewType === 'country' && countryManifest && (
+        <section>
+          <div class="bg-gradient-to-br from-slate-800 to-slate-900 border border-slate-700 p-8 rounded-3xl mb-8 shadow-xl">
+            <div class="flex flex-wrap items-center gap-4 mb-4">
+              <span class="text-5xl">{countryManifest.flag}</span>
+              <div>
+                <h1 class="text-3xl font-extrabold text-white">
+                  {countryManifest.name} — {countryManifest.examName}
+                </h1>
+                <p class="text-sm text-slate-300 mt-1">
+                  Ente Oficial: <span class="text-emerald-300 font-medium">{countryManifest.examEntity}</span> • Escala: {countryManifest.scoring.scale}
+                </p>
               </div>
+            </div>
+            <p class="text-slate-300 text-sm max-w-2xl leading-relaxed">
+              {countryManifest.seo.description} Explora las asignaturas evaluadas a continuación para practicar con preguntas calibradas y explicadas.
+            </p>
+          </div>
+
+          <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-2">
+            <span>📚</span> Asignaturas Evaluadas
+          </h2>
+
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+            {countryManifest.subjects.map((sub) => {
+              const bundles = getBundlesForCountrySubject(countryManifest!.slug, sub.slug);
+              return (
+                <a
+                  href={`/preguntas/${countryManifest!.slug}/${sub.slug}`}
+                  class="group bg-slate-800/70 hover:bg-slate-800 border border-slate-700/80 hover:border-emerald-500/50 p-6 rounded-2xl transition duration-200 flex flex-col justify-between shadow-lg"
+                >
+                  <div>
+                    <div class="flex items-center justify-between mb-4">
+                      <span class="text-2xl p-2 bg-slate-700/50 rounded-xl">{sub.icon || '📖'}</span>
+                      <span class="text-xs font-mono text-slate-400 bg-slate-900/60 px-2.5 py-1 rounded-full">
+                        {bundles.length} Semanas
+                      </span>
+                    </div>
+                    <h3 class="text-lg font-bold text-white group-hover:text-emerald-300 transition">
+                      {sub.name}
+                    </h3>
+                  </div>
+                  <div class="mt-6 flex items-center justify-between text-xs text-emerald-400 font-semibold group-hover:translate-x-1 transition duration-200">
+                    <span>Ver módulos semanales</span>
+                    <span>→</span>
+                  </div>
+                </a>
+              );
+            })}
+          </div>
+        </section>
+      )}
+
+      {/* 3. SUBJECT VIEW: Weekly Modules */}
+      {viewType === 'subject' && countryManifest && (
+        <section>
+          <div class="mb-8">
+            <span class="text-xs font-mono uppercase tracking-wider text-emerald-400">
+              {countryManifest.flag} {countryManifest.name} • {countryManifest.examName}
+            </span>
+            <h1 class="text-3xl font-extrabold text-white mt-1">
+              {toTitleCase(subjectSlug)}
+            </h1>
+            <p class="text-slate-300 text-sm mt-2">
+              Selecciona una semana de entrenamiento para resolver preguntas con explicaciones pedagógicas.
+            </p>
+          </div>
+
+          <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+            {getBundlesForCountrySubject(countryManifest.slug, subjectSlug).map((bundle) => (
+              <a
+                href={`/preguntas/${countryManifest!.slug}/${subjectSlug}/${bundle.week.toLowerCase()}`}
+                class="group bg-slate-800/60 hover:bg-slate-800 border border-slate-700 hover:border-emerald-500/50 p-5 rounded-2xl transition flex flex-col justify-between shadow"
+              >
+                <div>
+                  <div class="flex items-center justify-between mb-2">
+                    <span class="text-xs font-mono bg-emerald-500/20 text-emerald-300 px-2 py-0.5 rounded-full font-bold">
+                      {bundle.week}
+                    </span>
+                    <span class="text-xs text-slate-400">10 Preguntas</span>
+                  </div>
+                  <h3 class="text-base font-bold text-white group-hover:text-emerald-300 transition mt-2">
+                    {bundle.title}
+                  </h3>
+                </div>
+                <div class="mt-4 pt-3 border-t border-slate-700/50 flex items-center justify-between text-xs text-emerald-400 font-semibold">
+                  <span>Resolver semana</span>
+                  <span>→</span>
+                </div>
+              </a>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* 4. WEEK & BUNDLE VIEW: Interactive Questions & SEO Content */}
+      {(viewType === 'week' || viewType === 'bundle') && (
+        <section>
+          <div class="mb-8">
+            <div class="flex items-center gap-2 mb-2">
+              <span class="text-xs font-mono uppercase bg-emerald-500/20 text-emerald-300 px-2.5 py-1 rounded-full font-bold">
+                {countryManifest?.flag} {countryManifest?.examName}
+              </span>
+              <span class="text-xs font-mono text-slate-400">
+                {toTitleCase(subjectSlug || 'General')} • {weekSlug.toUpperCase() || 'Semana 1'}
+              </span>
+            </div>
+            <h1 class="text-3xl font-extrabold text-white">
+              Preguntas de Práctica Calibradas
+            </h1>
+            <p class="text-slate-300 text-sm mt-2">
+              Preguntas de entrenamiento con justificación pedagógica por opción de respuesta.
+            </p>
+          </div>
+
+          <div class="space-y-6 mb-12">
+            {displayQuestions.map((q, idx) => (
+              <article class="bg-slate-800/80 border border-slate-700/80 rounded-2xl p-6 shadow-xl">
+                <div class="flex items-center justify-between mb-4">
+                  <span class="text-xs font-mono bg-emerald-500/20 text-emerald-300 px-2.5 py-1 rounded-full font-semibold">
+                    Pregunta #{idx + 1} • {q.subject.toUpperCase()}
+                  </span>
+                  <span class="text-xs text-slate-400">Dificultad: {q.difficulty}/10</span>
+                </div>
+
+                <p class="text-base md:text-lg text-white font-medium mb-5 leading-relaxed">
+                  {q.statement}
+                </p>
+
+                <div class="grid gap-2.5 mb-4">
+                  {q.options.map((opt) => (
+                    <div
+                      class={`p-3.5 rounded-xl border text-sm flex items-center justify-between transition ${
+                        opt.isCorrect
+                          ? 'bg-emerald-950/40 border-emerald-500/50 text-emerald-200'
+                          : 'bg-slate-900/40 border-slate-700/50 text-slate-300'
+                      }`}
+                    >
+                      <span>
+                        <strong class="mr-2 text-white font-bold">{opt.id}.</strong> {opt.text}
+                      </span>
+                      {opt.isCorrect && (
+                        <span class="text-xs font-bold bg-emerald-500 text-slate-950 px-2 py-0.5 rounded-md">
+                          Correcta
+                        </span>
+                      )}
+                    </div>
+                  ))}
+                </div>
+
+                {q.explanation && (
+                  <details class="mt-4 pt-4 border-t border-slate-700/60">
+                    <summary class="cursor-pointer text-xs font-bold text-emerald-400 hover:text-emerald-300 transition flex items-center gap-1.5">
+                      <span>💡</span> Ver Explicación Pedagógica
+                    </summary>
+                    <p class="mt-2 text-xs md:text-sm text-slate-300 leading-relaxed bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/40">
+                      {q.explanation}
+                    </p>
+                  </details>
+                )}
+              </article>
             ))}
           </div>
 
-          {q.explanation && (
-            <details class="mt-4 pt-4 border-t border-white/10">
-              <summary class="cursor-pointer text-sm font-semibold text-emerald-400 hover:text-emerald-300 transition">
-                Ver Explicación Pedagógica
-              </summary>
-              <p class="mt-2 text-sm text-white/80 leading-relaxed bg-black/20 p-3 rounded-lg border border-white/5">
-                {q.explanation}
-              </p>
-            </details>
-          )}
-        </article>
-      ))}
-    </div>
-
-    <div class="mt-8 flex justify-center">
-      <a href="/practica" class="px-6 py-3 bg-emerald-500 hover:bg-emerald-600 text-black font-semibold rounded-lg transition">
-        Practicar en Simulación Interactiva
-      </a>
-    </div>
-  </section>
+          <div class="bg-gradient-to-r from-emerald-950/50 to-slate-900 border border-emerald-500/30 p-6 rounded-2xl flex flex-col md:flex-row items-center justify-between gap-4 text-center md:text-left">
+            <div>
+              <h3 class="text-lg font-bold text-white">¿Listo para medir tu tiempo y puntaje real?</h3>
+              <p class="text-xs text-slate-300 mt-1">Realiza un simulacro interactivo con temporizador y análisis de competencias.</p>
+            </div>
+            <a
+              href="/practica"
+              class="px-6 py-3 bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-bold text-sm rounded-xl transition shadow-lg shrink-0"
+            >
+              Iniciar Simulacro Completo →
+            </a>
+          </div>
+        </section>
+      )}
+    </main>
+  </div>
 </Layout>

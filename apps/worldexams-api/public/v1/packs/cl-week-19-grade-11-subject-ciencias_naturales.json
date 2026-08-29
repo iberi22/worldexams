@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "cl",
+    "pack_id": "cl-week-19-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T04:04:54.091Z"
+  },
+  "questions": [
+    {
+      "id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle-v1",
+      "statement": "En un ecosistema terrestre de Chile cerca de La Serena, ¿cuál es la función trófica principal de los productores primarios (autótrofos)?",
+      "context": "Vicente analiza situaciones académicas en La Serena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fijar dióxido de carbono y fotosintetizar energía química",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los productores primarios (autótrofos) tienen como función fijar dióxido de carbono y fotosintetizar energía química."
+        },
+        {
+          "letter": "B",
+          "text": "Consumir directamente a los carnívoros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta función corresponde a otro nivel trófico de la red."
+        },
+        {
+          "letter": "C",
+          "text": "Descomponer la materia orgánica inorgánica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción no corresponde a la ecología de este grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Inactivar la radiación solar incidente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste las funciones de la trama alimentaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los productores primarios (autótrofos) desempeñan la función esencial de fijar dióxido de carbono y fotosintetizar energía química dentro del flujo de materia y energía del ecosistema.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle-v2",
+      "statement": "En un ecosistema terrestre de Chile cerca de Viña del Mar, ¿cuál es la función trófica principal de los consumidores primarios (herbívoros)?",
+      "context": "Diego analiza situaciones académicas en Viña del Mar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alimentarse directamente de organismos autótrofos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los consumidores primarios (herbívoros) tienen como función alimentarse directamente de organismos autótrofos."
+        },
+        {
+          "letter": "B",
+          "text": "Sintetizar glucosa a partir de luz solar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta función corresponde a otro nivel trófico de la red."
+        },
+        {
+          "letter": "C",
+          "text": "Degradar restos cadavéricos en el suelo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción no corresponde a la ecología de este grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Predar sobre consumidores secundarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste las funciones de la trama alimentaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los consumidores primarios (herbívoros) desempeñan la función esencial de alimentarse directamente de organismos autótrofos dentro del flujo de materia y energía del ecosistema.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle-v3",
+      "statement": "En un ecosistema terrestre de Chile cerca de Iquique, ¿cuál es la función trófica principal de los consumidores secundarios (carnívoros)?",
+      "context": "Lucas analiza situaciones académicas en Iquique.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ingerir consumidores primarios u herbívoros",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los consumidores secundarios (carnívoros) tienen como función ingerir consumidores primarios u herbívoros."
+        },
+        {
+          "letter": "B",
+          "text": "Transformar luz solar en energía química",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta función corresponde a otro nivel trófico de la red."
+        },
+        {
+          "letter": "C",
+          "text": "Descomponer celulosa vegetal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción no corresponde a la ecología de este grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Fijar nitrógeno atmosférico directamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste las funciones de la trama alimentaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los consumidores secundarios (carnívoros) desempeñan la función esencial de ingerir consumidores primarios u herbívoros dentro del flujo de materia y energía del ecosistema.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle-v4",
+      "statement": "En un ecosistema terrestre de Chile cerca de Rancagua, ¿cuál es la función trófica principal de los descomponedores (detritívoros)?",
+      "context": "Sofía analiza situaciones académicas en Rancagua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Degradar materia orgánica muerta reciclando nutrientes",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los descomponedores (detritívoros) tienen como función degradar materia orgánica muerta reciclando nutrientes."
+        },
+        {
+          "letter": "B",
+          "text": "Realizar fotosíntesis en la superficie foliar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta función corresponde a otro nivel trófico de la red."
+        },
+        {
+          "letter": "C",
+          "text": "Ingerir directamente productores vivos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción no corresponde a la ecología de este grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Producir energía primaria para la red",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste las funciones de la trama alimentaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los descomponedores (detritívoros) desempeñan la función esencial de degradar materia orgánica muerta reciclando nutrientes dentro del flujo de materia y energía del ecosistema.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle-v5",
+      "statement": "En un ecosistema terrestre de Chile cerca de Talca, ¿cuál es la función trófica principal de los productores primarios (autótrofos)?",
+      "context": "Catalina analiza situaciones académicas en Talca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fijar dióxido de carbono y fotosintetizar energía química",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los productores primarios (autótrofos) tienen como función fijar dióxido de carbono y fotosintetizar energía química."
+        },
+        {
+          "letter": "B",
+          "text": "Consumir directamente a los carnívoros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta función corresponde a otro nivel trófico de la red."
+        },
+        {
+          "letter": "C",
+          "text": "Descomponer la materia orgánica inorgánica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción no corresponde a la ecología de este grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Inactivar la radiación solar incidente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste las funciones de la trama alimentaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los productores primarios (autótrofos) desempeñan la función esencial de fijar dióxido de carbono y fotosintetizar energía química dentro del flujo de materia y energía del ecosistema.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle-v6",
+      "statement": "En un ecosistema terrestre de Chile cerca de Arica, ¿cuál es la función trófica principal de los consumidores primarios (herbívoros)?",
+      "context": "Camila analiza situaciones académicas en Arica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alimentarse directamente de organismos autótrofos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los consumidores primarios (herbívoros) tienen como función alimentarse directamente de organismos autótrofos."
+        },
+        {
+          "letter": "B",
+          "text": "Sintetizar glucosa a partir de luz solar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta función corresponde a otro nivel trófico de la red."
+        },
+        {
+          "letter": "C",
+          "text": "Degradar restos cadavéricos en el suelo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción no corresponde a la ecología de este grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Predar sobre consumidores secundarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste las funciones de la trama alimentaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los consumidores primarios (herbívoros) desempeñan la función esencial de alimentarse directamente de organismos autótrofos dentro del flujo de materia y energía del ecosistema.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle-v7",
+      "statement": "En un ecosistema terrestre de Chile cerca de Puerto Montt, ¿cuál es la función trófica principal de los consumidores secundarios (carnívoros)?",
+      "context": "Javier analiza situaciones académicas en Puerto Montt.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ingerir consumidores primarios u herbívoros",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los consumidores secundarios (carnívoros) tienen como función ingerir consumidores primarios u herbívoros."
+        },
+        {
+          "letter": "B",
+          "text": "Transformar luz solar en energía química",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta función corresponde a otro nivel trófico de la red."
+        },
+        {
+          "letter": "C",
+          "text": "Descomponer celulosa vegetal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción no corresponde a la ecología de este grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Fijar nitrógeno atmosférico directamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste las funciones de la trama alimentaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los consumidores secundarios (carnívoros) desempeñan la función esencial de ingerir consumidores primarios u herbívoros dentro del flujo de materia y energía del ecosistema.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle-v8",
+      "statement": "En un ecosistema terrestre de Chile cerca de Chillán, ¿cuál es la función trófica principal de los descomponedores (detritívoros)?",
+      "context": "Benjamín analiza situaciones académicas en Chillán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Degradar materia orgánica muerta reciclando nutrientes",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los descomponedores (detritívoros) tienen como función degradar materia orgánica muerta reciclando nutrientes."
+        },
+        {
+          "letter": "B",
+          "text": "Realizar fotosíntesis en la superficie foliar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta función corresponde a otro nivel trófico de la red."
+        },
+        {
+          "letter": "C",
+          "text": "Ingerir directamente productores vivos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción no corresponde a la ecología de este grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Producir energía primaria para la red",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste las funciones de la trama alimentaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los descomponedores (detritívoros) desempeñan la función esencial de degradar materia orgánica muerta reciclando nutrientes dentro del flujo de materia y energía del ecosistema.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle-v9",
+      "statement": "En un ecosistema terrestre de Chile cerca de Calama, ¿cuál es la función trófica principal de los productores primarios (autótrofos)?",
+      "context": "Matías analiza situaciones académicas en Calama.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fijar dióxido de carbono y fotosintetizar energía química",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los productores primarios (autótrofos) tienen como función fijar dióxido de carbono y fotosintetizar energía química."
+        },
+        {
+          "letter": "B",
+          "text": "Consumir directamente a los carnívoros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta función corresponde a otro nivel trófico de la red."
+        },
+        {
+          "letter": "C",
+          "text": "Descomponer la materia orgánica inorgánica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción no corresponde a la ecología de este grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Inactivar la radiación solar incidente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste las funciones de la trama alimentaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los productores primarios (autótrofos) desempeñan la función esencial de fijar dióxido de carbono y fotosintetizar energía química dentro del flujo de materia y energía del ecosistema.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.66,
+      "bundle_id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle-v10",
+      "statement": "En un ecosistema terrestre de Chile cerca de Valdivia, ¿cuál es la función trófica principal de los consumidores primarios (herbívoros)?",
+      "context": "Tomás analiza situaciones académicas en Valdivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alimentarse directamente de organismos autótrofos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los consumidores primarios (herbívoros) tienen como función alimentarse directamente de organismos autótrofos."
+        },
+        {
+          "letter": "B",
+          "text": "Sintetizar glucosa a partir de luz solar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta función corresponde a otro nivel trófico de la red."
+        },
+        {
+          "letter": "C",
+          "text": "Degradar restos cadavéricos en el suelo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción no corresponde a la ecología de este grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Predar sobre consumidores secundarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste las funciones de la trama alimentaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los consumidores primarios (herbívoros) desempeñan la función esencial de alimentarse directamente de organismos autótrofos dentro del flujo de materia y energía del ecosistema.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.64,
+      "bundle_id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle-v11",
+      "statement": "En un ecosistema terrestre de Chile cerca de Santiago, ¿cuál es la función trófica principal de los consumidores secundarios (carnívoros)?",
+      "context": "Fernanda analiza situaciones académicas en Santiago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ingerir consumidores primarios u herbívoros",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los consumidores secundarios (carnívoros) tienen como función ingerir consumidores primarios u herbívoros."
+        },
+        {
+          "letter": "B",
+          "text": "Transformar luz solar en energía química",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta función corresponde a otro nivel trófico de la red."
+        },
+        {
+          "letter": "C",
+          "text": "Descomponer celulosa vegetal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción no corresponde a la ecología de este grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Fijar nitrógeno atmosférico directamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste las funciones de la trama alimentaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los consumidores secundarios (carnívoros) desempeñan la función esencial de ingerir consumidores primarios u herbívoros dentro del flujo de materia y energía del ecosistema.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle-v12",
+      "statement": "En un ecosistema terrestre de Chile cerca de Valparaíso, ¿cuál es la función trófica principal de los descomponedores (detritívoros)?",
+      "context": "Martina analiza situaciones académicas en Valparaíso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Degradar materia orgánica muerta reciclando nutrientes",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los descomponedores (detritívoros) tienen como función degradar materia orgánica muerta reciclando nutrientes."
+        },
+        {
+          "letter": "B",
+          "text": "Realizar fotosíntesis en la superficie foliar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta función corresponde a otro nivel trófico de la red."
+        },
+        {
+          "letter": "C",
+          "text": "Ingerir directamente productores vivos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción no corresponde a la ecología de este grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Producir energía primaria para la red",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste las funciones de la trama alimentaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los descomponedores (detritívoros) desempeñan la función esencial de degradar materia orgánica muerta reciclando nutrientes dentro del flujo de materia y energía del ecosistema.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.56,
+      "bundle_id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle-v13",
+      "statement": "En un ecosistema terrestre de Chile cerca de Concepción, ¿cuál es la función trófica principal de los productores primarios (autótrofos)?",
+      "context": "Isidora analiza situaciones académicas en Concepción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fijar dióxido de carbono y fotosintetizar energía química",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los productores primarios (autótrofos) tienen como función fijar dióxido de carbono y fotosintetizar energía química."
+        },
+        {
+          "letter": "B",
+          "text": "Consumir directamente a los carnívoros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta función corresponde a otro nivel trófico de la red."
+        },
+        {
+          "letter": "C",
+          "text": "Descomponer la materia orgánica inorgánica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción no corresponde a la ecología de este grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Inactivar la radiación solar incidente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste las funciones de la trama alimentaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los productores primarios (autótrofos) desempeñan la función esencial de fijar dióxido de carbono y fotosintetizar energía química dentro del flujo de materia y energía del ecosistema.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.54,
+      "bundle_id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle-v14",
+      "statement": "En un ecosistema terrestre de Chile cerca de Antofagasta, ¿cuál es la función trófica principal de los consumidores primarios (herbívoros)?",
+      "context": "Valentina analiza situaciones académicas en Antofagasta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alimentarse directamente de organismos autótrofos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los consumidores primarios (herbívoros) tienen como función alimentarse directamente de organismos autótrofos."
+        },
+        {
+          "letter": "B",
+          "text": "Sintetizar glucosa a partir de luz solar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta función corresponde a otro nivel trófico de la red."
+        },
+        {
+          "letter": "C",
+          "text": "Degradar restos cadavéricos en el suelo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción no corresponde a la ecología de este grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Predar sobre consumidores secundarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste las funciones de la trama alimentaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los consumidores primarios (herbívoros) desempeñan la función esencial de alimentarse directamente de organismos autótrofos dentro del flujo de materia y energía del ecosistema.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle-v15",
+      "statement": "En un ecosistema terrestre de Chile cerca de Temuco, ¿cuál es la función trófica principal de los consumidores secundarios (carnívoros)?",
+      "context": "Sebastián analiza situaciones académicas en Temuco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ingerir consumidores primarios u herbívoros",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los consumidores secundarios (carnívoros) tienen como función ingerir consumidores primarios u herbívoros."
+        },
+        {
+          "letter": "B",
+          "text": "Transformar luz solar en energía química",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta función corresponde a otro nivel trófico de la red."
+        },
+        {
+          "letter": "C",
+          "text": "Descomponer celulosa vegetal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción no corresponde a la ecología de este grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Fijar nitrógeno atmosférico directamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste las funciones de la trama alimentaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los consumidores secundarios (carnívoros) desempeñan la función esencial de ingerir consumidores primarios u herbívoros dentro del flujo de materia y energía del ecosistema.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle-v16",
+      "statement": "En un ecosistema terrestre de Chile cerca de La Serena, ¿cuál es la función trófica principal de los descomponedores (detritívoros)?",
+      "context": "Vicente analiza situaciones académicas en La Serena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Degradar materia orgánica muerta reciclando nutrientes",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los descomponedores (detritívoros) tienen como función degradar materia orgánica muerta reciclando nutrientes."
+        },
+        {
+          "letter": "B",
+          "text": "Realizar fotosíntesis en la superficie foliar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta función corresponde a otro nivel trófico de la red."
+        },
+        {
+          "letter": "C",
+          "text": "Ingerir directamente productores vivos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción no corresponde a la ecología de este grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Producir energía primaria para la red",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste las funciones de la trama alimentaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los descomponedores (detritívoros) desempeñan la función esencial de degradar materia orgánica muerta reciclando nutrientes dentro del flujo de materia y energía del ecosistema.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle-v17",
+      "statement": "En un ecosistema terrestre de Chile cerca de Viña del Mar, ¿cuál es la función trófica principal de los productores primarios (autótrofos)?",
+      "context": "Diego analiza situaciones académicas en Viña del Mar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fijar dióxido de carbono y fotosintetizar energía química",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los productores primarios (autótrofos) tienen como función fijar dióxido de carbono y fotosintetizar energía química."
+        },
+        {
+          "letter": "B",
+          "text": "Consumir directamente a los carnívoros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta función corresponde a otro nivel trófico de la red."
+        },
+        {
+          "letter": "C",
+          "text": "Descomponer la materia orgánica inorgánica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción no corresponde a la ecología de este grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Inactivar la radiación solar incidente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste las funciones de la trama alimentaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los productores primarios (autótrofos) desempeñan la función esencial de fijar dióxido de carbono y fotosintetizar energía química dentro del flujo de materia y energía del ecosistema.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle-v18",
+      "statement": "En un ecosistema terrestre de Chile cerca de Iquique, ¿cuál es la función trófica principal de los consumidores primarios (herbívoros)?",
+      "context": "Lucas analiza situaciones académicas en Iquique.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alimentarse directamente de organismos autótrofos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los consumidores primarios (herbívoros) tienen como función alimentarse directamente de organismos autótrofos."
+        },
+        {
+          "letter": "B",
+          "text": "Sintetizar glucosa a partir de luz solar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta función corresponde a otro nivel trófico de la red."
+        },
+        {
+          "letter": "C",
+          "text": "Degradar restos cadavéricos en el suelo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción no corresponde a la ecología de este grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Predar sobre consumidores secundarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste las funciones de la trama alimentaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los consumidores primarios (herbívoros) desempeñan la función esencial de alimentarse directamente de organismos autótrofos dentro del flujo de materia y energía del ecosistema.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle-v19",
+      "statement": "En un ecosistema terrestre de Chile cerca de Rancagua, ¿cuál es la función trófica principal de los consumidores secundarios (carnívoros)?",
+      "context": "Sofía analiza situaciones académicas en Rancagua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ingerir consumidores primarios u herbívoros",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los consumidores secundarios (carnívoros) tienen como función ingerir consumidores primarios u herbívoros."
+        },
+        {
+          "letter": "B",
+          "text": "Transformar luz solar en energía química",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta función corresponde a otro nivel trófico de la red."
+        },
+        {
+          "letter": "C",
+          "text": "Descomponer celulosa vegetal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción no corresponde a la ecología de este grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Fijar nitrógeno atmosférico directamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste las funciones de la trama alimentaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los consumidores secundarios (carnívoros) desempeñan la función esencial de ingerir consumidores primarios u herbívoros dentro del flujo de materia y energía del ecosistema.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.29,
+      "bundle_id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle-v20",
+      "statement": "En un ecosistema terrestre de Chile cerca de Talca, ¿cuál es la función trófica principal de los descomponedores (detritívoros)?",
+      "context": "Catalina analiza situaciones académicas en Talca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Degradar materia orgánica muerta reciclando nutrientes",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los descomponedores (detritívoros) tienen como función degradar materia orgánica muerta reciclando nutrientes."
+        },
+        {
+          "letter": "B",
+          "text": "Realizar fotosíntesis en la superficie foliar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta función corresponde a otro nivel trófico de la red."
+        },
+        {
+          "letter": "C",
+          "text": "Ingerir directamente productores vivos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción no corresponde a la ecología de este grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Producir energía primaria para la red",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste las funciones de la trama alimentaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los descomponedores (detritívoros) desempeñan la función esencial de degradar materia orgánica muerta reciclando nutrientes dentro del flujo de materia y energía del ecosistema.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.26,
+      "bundle_id": "CL-CIE-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

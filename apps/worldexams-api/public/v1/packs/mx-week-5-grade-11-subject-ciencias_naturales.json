@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "mx",
+    "pack_id": "mx-week-5-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T04:04:54.341Z"
+  },
+  "questions": [
+    {
+      "id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle-v1",
+      "statement": "¿Cuánto trabajo mecánico W realiza el obrero sobre la caja?",
+      "context": "Un obrero en la CDMX empuja una caja aplicando una fuerza constante de 100 N a lo largo de 5 metros en la misma dirección del movimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "500 Joules",
+          "is_correct": true,
+          "feedback": "¡Correcto! W = F * d * cos(0°) = 100 N * 5 m * 1 = 500 J."
+        },
+        {
+          "letter": "B",
+          "text": "20 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurriría si se dividiera F / d."
+        },
+        {
+          "letter": "C",
+          "text": "105 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Suma errónea de fuerza y distancia."
+        },
+        {
+          "letter": "D",
+          "text": "0 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Habría trabajo nulo sólo si la fuerza fuera perpendicular al desplazamiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El trabajo mecánico es W = F d cos θ. Como la fuerza y el desplazamiento tienen la misma dirección (θ = 0°), W = 100 * 5 * 1 = 500 J.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la energía cinética (Ec) que posee el objeto?",
+      "context": "Un objeto de 2 kg se desplaza a una velocidad constante de 6 m/s sobre una pista lisa en Guadalajara.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurriría si no se elevara la velocidad al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "36 Joules",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ec = 0.5 * m * v² = 0.5 * 2 kg * (6 m/s)² = 36 J."
+        },
+        {
+          "letter": "C",
+          "text": "72 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó multiplicar por el factor 1/2."
+        },
+        {
+          "letter": "D",
+          "text": "18 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cálculo equivocado de la potencia cuadrática."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La energía cinética es Ec = (1/2) m v² = 0.5 * 2 kg * (36 m²/s²) = 36 J.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la energía potencial gravitacional (Ep) de la maceta respecto al suelo?",
+      "context": "Una maceta de 3 kg se ubica en el balcón de un tercer piso a 10 metros de altura sobre el suelo en Monterrey (g = 9.8 m/s²).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió la aceleración de la gravedad g."
+        },
+        {
+          "letter": "B",
+          "text": "29.4 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la escala de altura."
+        },
+        {
+          "letter": "C",
+          "text": "294 Joules",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ep = m * g * h = 3 kg * 9.8 m/s² * 10 m = 294 J."
+        },
+        {
+          "letter": "D",
+          "text": "588 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por dos el resultado correcto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La energía potencial gravitacional es Ep = m g h = 3 kg * 9.8 m/s² * 10 m = 294 J.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la potencia mecánica P desarrollada por el motor?",
+      "context": "Un motor eléctrico en Puebla eleva un objeto realizando 2000 Joules de trabajo en un tiempo de 10 segundos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20000 Watts",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó el trabajo por el tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "20 Watts",
+          "is_correct": false,
+          "feedback": "Incorrecto. División errónea de los términos."
+        },
+        {
+          "letter": "C",
+          "text": "2000 Watts",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confusión entre potencia y trabajo total."
+        },
+        {
+          "letter": "D",
+          "text": "200 Watts",
+          "is_correct": true,
+          "feedback": "¡Correcto! P = W / t = 2000 J / 10 s = 200 W."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La potencia es la rapidez con la que se realiza trabajo: P = W / t = 2000 J / 10 s = 200 W.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle-v5",
+      "statement": "¿Con qué velocidad v toca el suelo la pelota al convertirse toda su Ep en Ec?",
+      "context": "Se deja caer libremente desde el reposo una pelota de 1 kg desde una altura h = 20 m (g = 10 m/s², sin fricción del aire).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 m/s",
+          "is_correct": true,
+          "feedback": "¡Correcto! Conservación de energía: m g h = 0.5 m v² -> v = √(2 g h) = √(2 * 10 * 20) = √400 = 20 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "10 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Correspondería a una caída desde sólo 5 m de altura."
+        },
+        {
+          "letter": "C",
+          "text": "400 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió calcular la raíz cuadrada de v²."
+        },
+        {
+          "letter": "D",
+          "text": "14.14 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió multiplicar por 2 dentro del radical."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por conservación de la energía mecánica: m g h = (1/2) m v² -> v = √(2 g h) = √(2 * 10 * 20) = √400 = 20 m/s.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle-v6",
+      "statement": "¿Qué energía potencial elástica (Epe) almacena el resorte comprimido?",
+      "context": "Un resorte ideal con constante elástica k = 200 N/m se comprime una distancia x = 0.3 m desde su posición de equilibrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó elevar la compresión x al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "9 Joules",
+          "is_correct": true,
+          "feedback": "¡Correcto! Epe = 0.5 * k * x² = 0.5 * 200 * (0.3)² = 100 * 0.09 = 9 J."
+        },
+        {
+          "letter": "C",
+          "text": "18 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió el factor 1/2."
+        },
+        {
+          "letter": "D",
+          "text": "60 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicación errónea de los valores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La energía potencial elástica almacenada en un resorte es Epe = (1/2) k x² = 0.5 * 200 * 0.09 = 9 J.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle-v7",
+      "statement": "¿Cuánto trabajo negativo W_friccion realizó la fuerza de fricción sobre el bloque según el Teorema del Trabajo y la Energía Cinética?",
+      "context": "Un bloque de 4 kg se desliza sobre una superficie horizontal con fricción. Inicialmente viaja a 10 m/s y se detiene completamente por fricción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-400 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió multiplicar por 1/2 en la energía cinética."
+        },
+        {
+          "letter": "B",
+          "text": "+200 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. El trabajo de la fricción es resistente y tiene signo negativo."
+        },
+        {
+          "letter": "C",
+          "text": "-200 Joules",
+          "is_correct": true,
+          "feedback": "¡Correcto! W_neto = ΔEc = Ec_final - Ec_inicial = 0 - (0.5 * 4 * 10²) = 0 - 200 = -200 J."
+        },
+        {
+          "letter": "D",
+          "text": "-40 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. No elevó la velocidad al cuadrado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Por el Teorema Trabajo-Energía: W_friccion = ΔEc = 0 - (1/2) m vi² = - 0.5 * 4 * 100 = -200 J.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle-v8",
+      "statement": "¿Cuánta energía eléctrica en Joules consume la bomba en ese periodo?",
+      "context": "Una bomba de agua de 2 HP (1 HP = 746 W) funciona continuamente durante 1 hora (3600 s).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1492 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1492 W es la potencia, no la energía acumulada en 1 hora."
+        },
+        {
+          "letter": "B",
+          "text": "2685600 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Correspondería al consumo de sólo 0.5 HP."
+        },
+        {
+          "letter": "C",
+          "text": "89520 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al multiplicar por los minutos en lugar de segundos."
+        },
+        {
+          "letter": "D",
+          "text": "5371200 Joules (5.37 MJ)",
+          "is_correct": true,
+          "feedback": "¡Correcto! P = 2 * 746 = 1492 W. Energía E = P * t = 1492 W * 3600 s = 5,371,200 J = 5.37 MJ."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Potencia P = 2 HP = 1492 W. Energía E = P * t = 1492 W * 3600 s = 5,371,200 J = 5.37 MJ.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la velocidad del carro al pasar por la altura h2?",
+      "context": "Un carro de montaña rusa de 500 kg parte del reposo desde una altura h1 = 30 m y desciende hasta una altura h2 = 10 m (g = 10 m/s², sin fricción).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 m/s",
+          "is_correct": true,
+          "feedback": "¡Correcto! Conservación: m g h1 = m g h2 + 0.5 m v² -> v = √(2 g (h1 - h2)) = √(2 * 10 * 20) = √400 = 20 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "24.49 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurriría si la altura final fuera 0 m."
+        },
+        {
+          "letter": "C",
+          "text": "14.14 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Consideró únicamente la altura h2 = 10 m."
+        },
+        {
+          "letter": "D",
+          "text": "10 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cálculo erróneo de la pérdida de altura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pérdida de energía potencial ΔEp = m g (h1 - h2) = 500 * 10 * 20 = 100,000 J se convierte en Ec: 0.5 m v² = 100,000 -> v = 20 m/s.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle-v10",
+      "statement": "¿Qué trabajo realiza la fuerza aplicada y qué trabajo realiza la fuerza de gravedad? (g = 10 m/s²)",
+      "context": "Se levanta una caja de 20 kg verticalmente a velocidad constante una distancia de 3 metros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trabajo de la fuerza aplicada = +600 J; Trabajo de la gravedad = +600 J",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad actúa en sentido opuesto al desplazamiento, realizando trabajo negativo."
+        },
+        {
+          "letter": "B",
+          "text": "Trabajo de la fuerza aplicada = +600 J; Trabajo de la gravedad = -600 J",
+          "is_correct": true,
+          "feedback": "¡Correcto! F_aplicada = mg = 200 N hacia arriba -> W_f = +600 J. Gravedad mg = 200 N hacia abajo -> W_g = -600 J. W_neto = 0 J."
+        },
+        {
+          "letter": "C",
+          "text": "Trabajo de la fuerza aplicada = 0 J; Trabajo de la gravedad = -600 J",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si no hubiera trabajo aplicado la caja no subiría."
+        },
+        {
+          "letter": "D",
+          "text": "Trabajo de la fuerza aplicada = +200 J; Trabajo de la gravedad = -200 J",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confusión entre fuerza (200 N) y trabajo (600 J)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al subir a velocidad constante, F_aplicada = mg = 200 N. W_aplicado = +200 * 3 = +600 J. W_gravedad = -200 * 3 = -600 J.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.71,
+      "bundle_id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la velocidad del sistema conjunto inmediatamente después del impacto y qué energía cinética se pierde?",
+      "context": "Un proyectil de 0.01 kg (10 g) impacta a 400 m/s en un bloque de madera de 0.99 kg en reposo y se incrusta en él (choque inelástico).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Velocidad conjunto = 40 m/s; Energía perdida = 80 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al calcular la masa total combinada de 1.0 kg."
+        },
+        {
+          "letter": "B",
+          "text": "Velocidad conjunto = 4 m/s; Energía perdida = 0 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. En choques totalmente inelásticos la energía cinética NO se conserva."
+        },
+        {
+          "letter": "C",
+          "text": "Velocidad conjunto = 4 m/s; Energía perdida = 792 Joules",
+          "is_correct": true,
+          "feedback": "¡Correcto! V_final = (0.01 * 400)/(0.01 + 0.99) = 4 / 1 = 4 m/s. Ec_inicial = 0.5*0.01*160000 = 800 J. Ec_final = 0.5*1.0*16 = 8 J. Perdida = 792 J."
+        },
+        {
+          "letter": "D",
+          "text": "Velocidad conjunto = 0 m/s; Energía perdida = 800 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conjunto se mueve a 4 m/s tras el impacto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Por conservación del momento lineal: (0.01)(400) = (1.0) V -> V = 4 m/s. Ec_i = 800 J, Ec_f = 8 J. Pérdida de energía cinética = 792 J.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle-v12",
+      "statement": "¿Qué distancia d recorrerá el bloque en el tramo horizontal antes de detenerse por completo?",
+      "context": "Un bloque se suelta desde una altura h = 5 m sobre un plano inclinado que desemboca en un tramo horizontal plano con fricción (μk = 0.2, g = 10 m/s²).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Correspondería a un coeficiente de fricción μk = 0.5."
+        },
+        {
+          "letter": "B",
+          "text": "50 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurriría si μk fuera de 0.1."
+        },
+        {
+          "letter": "C",
+          "text": "5 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confusión entre la distancia horizontal y la altura inicial."
+        },
+        {
+          "letter": "D",
+          "text": "25 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! La energía potencial inicial m*g*h se disipa totalmente como trabajo de fricción W_f = μk*m*g*d. m*g*h = μk*m*g*d -> d = h / μk = 5 / 0.2 = 25 m."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Igualando la energía inicial con el trabajo de fricción disipado: m g h = μk m g d -> d = h / μk = 5 / 0.2 = 25 m.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.62,
+      "bundle_id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle-v13",
+      "statement": "¿Cuánto trabajo W realiza la fuerza al desplazar el objeto desde x = 0 m hasta x = 2 m?",
+      "context": "Una fuerza F variable en el tiempo actúa sobre un objeto a lo largo del eje x según la función F(x) = 3x² + 2x (en Newtons).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 Joules",
+          "is_correct": true,
+          "feedback": "¡Correcto! W = ∫(3x² + 2x) dx de 0 a 2 = [x³ + x²] de 0 a 2 = (8 + 4) - 0 = 12 J."
+        },
+        {
+          "letter": "B",
+          "text": "16 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Integración incorrecta de los exponentes."
+        },
+        {
+          "letter": "C",
+          "text": "8 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se integró sólo el término cuadrático 3x²."
+        },
+        {
+          "letter": "D",
+          "text": "24 Joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicación simple de la fuerza final por la distancia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El trabajo de una fuerza variable es la integral de la fuerza respecto a la posición: W = ∫(3x² + 2x)dx = [x³ + x²] de 0 a 2 = (8 + 4) = 12 J.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle-v14",
+      "statement": "¿Cuáles son las velocidades finales de A (vA') y de B (vB') después del choque elástico?",
+      "context": "Dos esferas A (2 kg a 6 m/s) y B (4 kg a 0 m/s) chocan elásticamente de frente en una dimensión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "vA' = 0 m/s; vB' = +3 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta solución no conserva simultáneamente el momento lineal y la energía cinética."
+        },
+        {
+          "letter": "B",
+          "text": "vA' = -2 m/s; vB' = +4 m/s",
+          "is_correct": true,
+          "feedback": "¡Correcto! En choque elástico 1D: vA' = ((mA - mB)vA)/(mA + mB) = (2-4)*6 / 6 = -2 m/s. vB' = (2 mA vA)/(mA + mB) = (2*2*6)/6 = 4 m/s."
+        },
+        {
+          "letter": "C",
+          "text": "vA' = +2 m/s; vB' = +2 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Correspondería a un choque inelástico acoplado."
+        },
+        {
+          "letter": "D",
+          "text": "vA' = -6 m/s; vB' = +6 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Violación de la conservación de la energía cinética."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usando las fórmulas de choque elástico unidimensional: vA' = (2-4)*6/6 = -2 m/s; vB' = (2*2*6)/6 = 4 m/s.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es la velocidad de la masa al pasar por el punto más bajo de su oscilación?",
+      "context": "Un péndulo simple consta de una masa de 1 kg suspendida de un hilo de 2 m de longitud. Se desvía un ángulo de 60° respecto a la vertical y se suelta (g = 10 m/s², cos(60°)=0.5).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6.32 m/s (√40 m/s)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurriría si la altura fuera de 2 m."
+        },
+        {
+          "letter": "B",
+          "text": "3.16 m/s (√10 m/s)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usó una altura de 0.5 m."
+        },
+        {
+          "letter": "C",
+          "text": "4.47 m/s (√20 m/s)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Altura h = L * (1 - cos 60°) = 2 * (1 - 0.5) = 1 m. v = √(2 g h) = √(2 * 10 * 1) = √20 ≈ 4.47 m/s."
+        },
+        {
+          "letter": "D",
+          "text": "10 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al relacionar la aceleración de la gravedad con la altura."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La altura de elevación es h = L(1 - cos 60°) = 2(0.5) = 1 m. Por conservación de energía v = √(2 g h) = √20 ≈ 4.47 m/s.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle-v16",
+      "statement": "¿Cuántos kilogramos de agua puede elevar la bomba por cada segundo?",
+      "context": "Un motor de 10 kW de potencia impulsa una bomba para elevar agua a una altura h = 20 m con una eficiencia del 80% (g = 10 m/s²).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50 kg/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Correspondería a una eficiencia del 100% sin pérdidas."
+        },
+        {
+          "letter": "B",
+          "text": "20 kg/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al calcular la fracción de potencia útil."
+        },
+        {
+          "letter": "C",
+          "text": "80 kg/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por dos la tasa de flujo másico."
+        },
+        {
+          "letter": "D",
+          "text": "40 kg/s",
+          "is_correct": true,
+          "feedback": "¡Correcto! Potencia útil P_util = 0.80 * 10000 W = 8000 W. P_util = (m/t) * g * h -> (m/t) = 8000 / (10 * 20) = 8000 / 200 = 40 kg/s."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Potencia útil = 80% de 10 kW = 8000 W. P_util = (m/t) g h -> m/t = 8000 / (10 * 20) = 40 kg de agua por segundo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál de las siguientes condiciones matemáticas o físicas define rigurosamente a una fuerza F como conservativa?",
+      "context": "Se evalúa el concepto de Fuerza Conservativa en un campo de fuerzas tridimensional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El trabajo realizado por la fuerza a lo largo de cualquier trayectoria cerrada es igual a cero (∮ F·dr = 0, rotacional ∇×F = 0)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Una fuerza es conservativa si el trabajo depende sólo de los puntos inicial y final, derivando de un potencial V (F = -∇V)."
+        },
+        {
+          "letter": "B",
+          "text": "El trabajo depende exclusivamente de la longitud total del camino recorrido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto caracteriza a las fuerzas no conservativas (como la fricción)."
+        },
+        {
+          "letter": "C",
+          "text": "La fuerza es inversamente proporcional a la masa del cuerpo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No define el carácter conservativo de un campo de fuerzas."
+        },
+        {
+          "letter": "D",
+          "text": "Su magnitud aumenta exponencialmente con el tiempo t",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una fuerza dependiente explícitamente del tiempo suele ser no conservativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una fuerza es conservativa si su trabajo en una trayectoria cerrada es nulo (∮ F·dr = 0) o equivale al gradiente de un potencial (F = -∇V).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle-v18",
+      "statement": "¿En qué posiciones x se encuentran los puntos de equilibrio estable del sistema?",
+      "context": "Se analiza un potencial unidimensional V(x) = x⁴ - 4x² (en Joules).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Únicamente en x = 0 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. x = 0 es un punto de equilibrio inestable (d²V/dx² = -8 < 0)."
+        },
+        {
+          "letter": "B",
+          "text": "En x = +√2 m y x = -√2 m",
+          "is_correct": true,
+          "feedback": "¡Correcto! Equilibrio en F = -dV/dx = -(4x³ - 8x) = 0 -> 4x(x² - 2) = 0 -> x = 0, x = ±√2. d²V/dx² = 12x² - 8. En x=±√2, d²V/dx² = 16 > 0 (mínimos = estables)."
+        },
+        {
+          "letter": "C",
+          "text": "En x = +2 m y x = -2 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al resolver las raíces de x² - 2 = 0."
+        },
+        {
+          "letter": "D",
+          "text": "No existen puntos de equilibrio en este potencial",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existen tres puntos donde la derivada primera es nula."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Equilibrio F = -dV/dx = -4x(x² - 2) = 0 -> x = 0, ±√2. La segunda derivada d²V/dx² = 12x² - 8 es positiva en x = ±√2 (equilibrios estables).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle-v19",
+      "statement": "¿Qué ecuaciones de conservación deben aplicarse para resolver las componentes de velocidad en los ejes X e Y en un choque elástico?",
+      "context": "Se analiza el choque bidireccional (2D) oblicuo entre dos partículas de masas m1 y m2 en un plano horizontal sin fricción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conservación de la energía potencial gravitacional en X y momento en Y únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fuerzas gravitatorias son perpendiculares al plano horizontal."
+        },
+        {
+          "letter": "B",
+          "text": "Conservación de la aceleración angular y momento de inercia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si no hay rotación no se aplica momento de inercia."
+        },
+        {
+          "letter": "C",
+          "text": "Conservación del momento lineal en el eje X, en el eje Y y conservación de la energía cinética total",
+          "is_correct": true,
+          "feedback": "¡Correcto! En un choque elástico 2D se conservan independientemente Px, Py y la energía cinética escalar total."
+        },
+        {
+          "letter": "D",
+          "text": "Conservación del impulso escalar sin separar ejes de coordenadas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El momento lineal es vectorial y exige descomposición por ejes cartesianos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En choques elásticos 2D se plantean tres ecuaciones de conservación: Px_inicial = Px_final, Py_inicial = Py_final y Ec_inicial = Ec_final.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle-v20",
+      "statement": "¿Cómo se compara la energía cinética requerida para lanzar un objeto a velocidad de escape con la energía potencial gravitacional en la superficie?",
+      "context": "Se evalúa la velocidad de escape ve de un objeto lanzado desde la superficie de un planeta de masa M y radio R (ve = √(2 G M / R)).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La energía cinética debe ser cuatro veces mayor que la energía potencial",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cuatro veces la energía potencial superaría con creces la velocidad de escape."
+        },
+        {
+          "letter": "B",
+          "text": "La energía cinética debe ser igual a la mitad de la energía potencial",
+          "is_correct": false,
+          "feedback": "Incorrecto. Correspondería a la energía cinética de una órbita circular alrededor del planeta."
+        },
+        {
+          "letter": "C",
+          "text": "La energía cinética debe ser infinitamente grande independientemente de M y R",
+          "is_correct": false,
+          "feedback": "Incorrecto. La velocidad de escape es una cantidad finita bien definida."
+        },
+        {
+          "letter": "D",
+          "text": "La energía cinética es exactamente igual en magnitud a la energía potencial gravitacional de superficie (Ec = |Ep|)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para escapar al infinito (E_total = 0): 0.5 m ve² - G M m / R = 0 -> Ec = G M m / R = |Ep|."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para llegar al infinito con velocidad cero, la energía mecánica total E = Ec + Ep = 0, lo que implica Ec = -Ep = G M m / R.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    }
+  ]
+}

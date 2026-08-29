@@ -8,43 +8,43 @@
   },
   "questions": [
     {
-      "id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v1",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 5 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: esferas e sólidos de revolução.",
+      "id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle-v1",
+      "statement": "Qual é a fórmula do volume de uma esfera de raio r?",
+      "context": "Um estudante em São Paulo revisa as fórmulas da esfera para o ENEM.",
       "options": [
         {
           "letter": "A",
-          "text": "25 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "(4/3)πr²",
+          "is_correct": false,
+          "feedback": "Incorreto: (4/3)πr² mistura as fórmulas de área e volume."
         },
         {
           "letter": "B",
-          "text": "5 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "(4/3)πr³",
+          "is_correct": true,
+          "feedback": "Correto: V = (4/3)πr³."
         },
         {
           "letter": "C",
-          "text": "30 metros",
+          "text": "4πr²",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 4πr² é a área da superfície da esfera."
         },
         {
           "letter": "D",
-          "text": "7 metros",
+          "text": "(2/3)πr³",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: (2/3)πr³ seria o volume de uma semiesfera."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 5 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 5 + 2 * 10 = 25 metros.",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "O volume da esfera é V = (4/3)πr³, e a área de sua superfície é A = 4πr².",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.81,
-      "bundle_id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "expected_success": 0.85,
+      "bundle_id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -53,43 +53,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v2",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 10 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: esferas e sólidos de revolução.",
+      "id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle-v2",
+      "statement": "Qual sólido é gerado pela rotação completa de um retângulo em torno de um de seus lados?",
+      "context": "Durante uma aula em Curitiba, o professor explica o conceito de sólido de revolução.",
       "options": [
         {
           "letter": "A",
-          "text": "30 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "Cone",
+          "is_correct": false,
+          "feedback": "Incorreto: o cone é gerado pela rotação de um triângulo retângulo."
         },
         {
           "letter": "B",
-          "text": "10 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "Cilindro",
+          "is_correct": true,
+          "feedback": "Correto: a rotação de um retângulo em torno de um lado gera um cilindro."
         },
         {
           "letter": "C",
-          "text": "35 metros",
+          "text": "Esfera",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: a esfera é gerada pela rotação de um semicírculo."
         },
         {
           "letter": "D",
-          "text": "12 metros",
+          "text": "Pirâmide",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: a pirâmide não é um sólido de revolução."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 10 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 10 + 2 * 10 = 30 metros.",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "Sólidos de revolução são obtidos pela rotação de uma figura plana em torno de um eixo. O retângulo girando em torno de um lado gera um cilindro.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.77,
-      "bundle_id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "expected_success": 0.8,
+      "bundle_id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -98,43 +98,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v3",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 15 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: esferas e sólidos de revolução.",
+      "id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle-v3",
+      "statement": "Qual é a área da superfície de uma esfera de raio 3 cm? (Use π = 3.)",
+      "context": "Um arquiteto no Rio de Janeiro calcula a área da superfície de uma esfera decorativa.",
       "options": [
         {
           "letter": "A",
-          "text": "35 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "36 cm²",
+          "is_correct": false,
+          "feedback": "Incorreto: 36 seria 4πr com π = 3."
         },
         {
           "letter": "B",
-          "text": "15 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "108 cm²",
+          "is_correct": true,
+          "feedback": "Correto: A = 4πr² = 4 × 3 × 9 = 108 cm²."
         },
         {
           "letter": "C",
-          "text": "40 metros",
+          "text": "72 cm²",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 72 seria o volume da esfera com π = 3."
         },
         {
           "letter": "D",
-          "text": "17 metros",
+          "text": "54 cm²",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 54 seria a metade da área correta."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 15 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 15 + 2 * 10 = 35 metros.",
+      "correct_answer": "B",
+      "explanation": "A área da superfície esférica é A = 4πr² = 4 × 3 × 3² = 108 cm².",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.73,
-      "bundle_id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "expected_success": 0.75,
+      "bundle_id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -143,43 +143,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v4",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 20 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: esferas e sólidos de revolução.",
+      "id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle-v4",
+      "statement": "Qual é o volume de uma esfera de raio 3 cm? (Use π = 3.)",
+      "context": "Um professor em Brasília explica a relação entre o raio e o volume de uma esfera.",
       "options": [
         {
           "letter": "A",
-          "text": "40 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "36 cm³",
+          "is_correct": false,
+          "feedback": "Incorreto: 36 seria o volume de uma esfera de raio 2."
         },
         {
           "letter": "B",
-          "text": "20 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "108 cm³",
+          "is_correct": true,
+          "feedback": "Correto: V = (4/3)πr³ = (4/3) × 3 × 27 = 108 cm³."
         },
         {
           "letter": "C",
-          "text": "45 metros",
+          "text": "54 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 54 seria V = (2/3)πr³."
         },
         {
           "letter": "D",
-          "text": "22 metros",
+          "text": "324 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 324 seria 4πr³."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 20 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 20 + 2 * 10 = 40 metros.",
+      "correct_answer": "B",
+      "explanation": "O volume da esfera é V = (4/3)πr³ = (4/3) × 3 × 27 = 108 cm³.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.69,
-      "bundle_id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "expected_success": 0.7,
+      "bundle_id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -188,43 +188,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v5",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 25 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: esferas e sólidos de revolução.",
+      "id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle-v5",
+      "statement": "Uma esfera de raio 5 cm é cortada por um plano que passa a 3 cm do centro. Qual é o raio da circunferência da seção?",
+      "context": "Um estudante em Salvador analisa a relação entre o raio de uma seção plana e o raio da esfera.",
       "options": [
         {
           "letter": "A",
-          "text": "45 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "2 cm",
+          "is_correct": false,
+          "feedback": "Incorreto: 2 é a diferença entre o raio e a distância."
         },
         {
           "letter": "B",
-          "text": "25 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "4 cm",
+          "is_correct": true,
+          "feedback": "Correto: r_seção = √(5² − 3²) = √16 = 4 cm."
         },
         {
           "letter": "C",
-          "text": "50 metros",
+          "text": "√34 cm",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: √34 seria √(5² + 3²)."
         },
         {
           "letter": "D",
-          "text": "27 metros",
+          "text": "5 cm",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 5 é o raio da esfera, não da seção."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 25 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 25 + 2 * 10 = 45 metros.",
-      "difficulty": "5",
+      "correct_answer": "B",
+      "explanation": "Pelo teorema de Pitágoras na seção meridiana, o raio da seção é r = √(R² − d²) = √(25 − 9) = √16 = 4 cm.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.67,
-      "bundle_id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "expected_success": 0.65,
+      "bundle_id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -233,43 +233,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v6",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 30 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: esferas e sólidos de revolução.",
+      "id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle-v6",
+      "statement": "Qual é o volume de uma semiesfera de raio 3 cm? (Use π = 3.)",
+      "context": "Um engenheiro em Recife calcula o volume de uma semiesfera.",
       "options": [
         {
           "letter": "A",
-          "text": "50 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "108 cm³",
+          "is_correct": false,
+          "feedback": "Incorreto: 108 é o volume da esfera inteira."
         },
         {
           "letter": "B",
-          "text": "30 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "54 cm³",
+          "is_correct": true,
+          "feedback": "Correto: V_semiesfera = (1/2) × (4/3)πr³ = (2/3) × 3 × 27 = 54 cm³."
         },
         {
           "letter": "C",
-          "text": "55 metros",
+          "text": "27 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 27 é o cubo do raio."
         },
         {
           "letter": "D",
-          "text": "32 metros",
+          "text": "36 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 36 seria o volume de uma esfera de raio 2."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 30 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 30 + 2 * 10 = 50 metros.",
-      "difficulty": "5",
+      "correct_answer": "B",
+      "explanation": "O volume de uma semiesfera é metade do volume da esfera: (2/3)πr³ = (2/3) × 3 × 27 = 54 cm³.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.64,
-      "bundle_id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -278,88 +278,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v7",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 35 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: esferas e sólidos de revolução.",
+      "id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle-v7",
+      "statement": "Uma cúpula tem a forma de uma semiesfera de raio 2 m. Qual é a área de sua superfície externa (sem contar a base)?",
+      "context": "Um arquiteto em Fortaleza dimensiona uma cúpula semiesférica.",
       "options": [
         {
           "letter": "A",
-          "text": "55 metros",
+          "text": "8π m²",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: A = 2πr² = 2π × 4 = 8π m²."
         },
         {
           "letter": "B",
-          "text": "35 metros",
+          "text": "4π m²",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 4π é a área de um círculo de raio 2."
         },
         {
           "letter": "C",
-          "text": "60 metros",
+          "text": "16π m²",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 16π seria a área da esfera inteira."
         },
         {
           "letter": "D",
-          "text": "37 metros",
+          "text": "12π m²",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 12π não corresponde a uma semiesfera de raio 2."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 35 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 35 + 2 * 10 = 55 metros.",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.61,
-      "bundle_id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "br"
-    },
-    {
-      "id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v8",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 40 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: esferas e sólidos de revolução.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "60 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
-        },
-        {
-          "letter": "B",
-          "text": "40 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
-        },
-        {
-          "letter": "C",
-          "text": "65 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
-        },
-        {
-          "letter": "D",
-          "text": "42 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 40 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 40 + 2 * 10 = 60 metros.",
+      "explanation": "A área da superfície de uma semiesfera (sem a base) é metade da área da esfera: A = 2πr² = 2π × 4 = 8π m².",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.58,
-      "bundle_id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -368,43 +323,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v9",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 45 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: esferas e sólidos de revolução.",
+      "id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle-v8",
+      "statement": "Uma bola tem diâmetro de 6 cm. Qual é o seu volume? (Use π = 3.)",
+      "context": "Um professor em Manaus pede o volume de uma esfera a partir do diâmetro.",
       "options": [
         {
           "letter": "A",
-          "text": "65 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "288 cm³",
+          "is_correct": false,
+          "feedback": "Incorreto: 288 seria o volume se o raio fosse 6 cm."
         },
         {
           "letter": "B",
-          "text": "45 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "108 cm³",
+          "is_correct": true,
+          "feedback": "Correto: r = 3 cm, V = (4/3) × 3 × 27 = 108 cm³."
         },
         {
           "letter": "C",
-          "text": "70 metros",
+          "text": "54 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 54 seria o volume de uma semiesfera de raio 3."
         },
         {
           "letter": "D",
-          "text": "47 metros",
+          "text": "216 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 216 seria o volume de um cubo de aresta 6."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 45 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 45 + 2 * 10 = 65 metros.",
+      "correct_answer": "B",
+      "explanation": "Com diâmetro 6 cm, o raio é 3 cm. O volume é V = (4/3)πr³ = (4/3) × 3 × 27 = 108 cm³.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "expected_success": 0.55,
-      "bundle_id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -413,43 +368,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v10",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 50 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: esferas e sólidos de revolução.",
+      "id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle-v9",
+      "statement": "Qual sólido é gerado pela rotação completa de um triângulo retângulo em torno de um de seus catetos?",
+      "context": "Um estudante em Goiânia identifica o sólido gerado pela rotação de um triângulo retângulo.",
       "options": [
         {
           "letter": "A",
-          "text": "70 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "Cilindro",
+          "is_correct": false,
+          "feedback": "Incorreto: o cilindro é gerado por um retângulo."
         },
         {
           "letter": "B",
-          "text": "50 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "Cone",
+          "is_correct": true,
+          "feedback": "Correto: a rotação de um triângulo retângulo em torno de um cateto gera um cone reto."
         },
         {
           "letter": "C",
-          "text": "75 metros",
+          "text": "Esfera",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: a esfera é gerada por um semicírculo."
         },
         {
           "letter": "D",
-          "text": "52 metros",
+          "text": "Tronco de cone",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: o tronco de cone é gerado pela rotação de um trapézio retângulo."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 50 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 50 + 2 * 10 = 70 metros.",
+      "correct_answer": "B",
+      "explanation": "Ao girar um triângulo retângulo em torno de um cateto, o outro cateto descreve a base circular e a hipotenusa descreve a superfície lateral do cone.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.52,
-      "bundle_id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -458,43 +413,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v11",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 55 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: esferas e sólidos de revolução.",
+      "id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle-v10",
+      "statement": "Uma esfera de raio 3 cm está inscrita em um cilindro (tangente às bases e à lateral). Qual é o volume do cilindro? (Use π = 3.)",
+      "context": "Um engenheiro em Belém compara o volume de um cilindro com o de uma esfera inscrita.",
       "options": [
         {
           "letter": "A",
-          "text": "75 metros",
+          "text": "162 cm³",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: o cilindro tem raio 3 e altura 6; V = 3 × 9 × 6 = 162 cm³."
         },
         {
           "letter": "B",
-          "text": "55 metros",
+          "text": "108 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 108 é o volume da esfera."
         },
         {
           "letter": "C",
-          "text": "80 metros",
+          "text": "81 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 81 seria o volume de um cilindro de altura 3."
         },
         {
           "letter": "D",
-          "text": "57 metros",
+          "text": "216 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 216 seria o volume de um cubo de aresta 6."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 55 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 55 + 2 * 10 = 75 metros.",
-      "difficulty": "7",
+      "explanation": "O cilindro circunscrito tem raio igual ao da esfera (3 cm) e altura igual ao diâmetro (6 cm). Seu volume é V = πr²h = 3 × 9 × 6 = 162 cm³.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.49,
-      "bundle_id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -503,43 +458,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v12",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 60 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: esferas e sólidos de revolução.",
+      "id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle-v11",
+      "statement": "Um reservatório esférico tem raio interno de 1,5 m. Qual é a sua capacidade aproximada em litros? (Use π = 3 e 1 m³ = 1000 L.)",
+      "context": "Um arquiteto em Florianópolis calcula o volume de um reservatório esférico.",
       "options": [
         {
           "letter": "A",
-          "text": "80 metros",
+          "text": "13.500 L",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: V = (4/3) × 3 × 3,375 = 13,5 m³ = 13.500 L."
         },
         {
           "letter": "B",
-          "text": "60 metros",
+          "text": "4.500 L",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 4.500 L seria o volume de uma esfera de raio 1 m."
         },
         {
           "letter": "C",
-          "text": "85 metros",
+          "text": "27.000 L",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 27.000 L seria o volume de uma esfera de raio 1,9 m."
         },
         {
           "letter": "D",
-          "text": "62 metros",
+          "text": "6.750 L",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 6.750 L seria o volume de uma semiesfera de raio 1,5 m."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 60 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 60 + 2 * 10 = 80 metros.",
-      "difficulty": "7",
+      "explanation": "O volume é V = (4/3)πr³ = (4/3) × 3 × 3,375 = 13,5 m³, ou seja, 13.500 litros.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.46,
-      "bundle_id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -548,43 +503,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v13",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 65 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: esferas e sólidos de revolução.",
+      "id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle-v12",
+      "statement": "Uma esfera tem volume 36π cm³. Qual é o valor do seu raio?",
+      "context": "Um professor em Porto Alegre pede o raio de uma esfera a partir de seu volume.",
       "options": [
         {
           "letter": "A",
-          "text": "85 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "2 cm",
+          "is_correct": false,
+          "feedback": "Incorreto: com r = 2, o volume seria 32π/3 cm³."
         },
         {
           "letter": "B",
-          "text": "65 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "3 cm",
+          "is_correct": true,
+          "feedback": "Correto: (4/3)πr³ = 36π, logo r³ = 27 e r = 3 cm."
         },
         {
           "letter": "C",
-          "text": "90 metros",
+          "text": "4 cm",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: com r = 4, o volume seria 256π/3 cm³."
         },
         {
           "letter": "D",
-          "text": "67 metros",
+          "text": "6 cm",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: com r = 6, o volume seria 288π cm³."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 65 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 65 + 2 * 10 = 85 metros.",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "Igualando (4/3)πr³ = 36π e cancelando π: (4/3)r³ = 36, logo r³ = 27 e r = 3 cm.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.43,
-      "bundle_id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -593,43 +548,88 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v14",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 70 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: esferas e sólidos de revolução.",
+      "id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle-v13",
+      "statement": "A esfera A tem o dobro do raio da esfera B. Qual é a razão entre o volume de A e o volume de B?",
+      "context": "Um estudante em Campinas analisa a razão entre áreas e volumes de esferas com raios diferentes.",
       "options": [
         {
           "letter": "A",
-          "text": "90 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorreto: 2 é a razão entre os raios."
         },
         {
           "letter": "B",
-          "text": "70 metros",
+          "text": "4",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 4 é a razão entre as áreas das superfícies."
         },
         {
           "letter": "C",
-          "text": "95 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "text": "8",
+          "is_correct": true,
+          "feedback": "Correto: o volume cresce com o cubo do raio: 2³ = 8."
         },
         {
           "letter": "D",
-          "text": "72 metros",
+          "text": "16",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 16 seria 2⁴."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 70 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 70 + 2 * 10 = 90 metros.",
+      "correct_answer": "C",
+      "explanation": "O volume da esfera é proporcional ao cubo do raio. Com o raio dobrado, o volume fica 2³ = 8 vezes maior.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle-v14",
+      "statement": "Qual é a razão entre a área da superfície de uma esfera de raio r e a área de seu círculo máximo?",
+      "context": "Um engenheiro em Natal compara as áreas de uma esfera e de seu círculo máximo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorreto: 2 seria a razão se a área fosse 2πr²."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correto: A_esfera/A_círculo = 4πr²/πr² = 4."
+        },
+        {
+          "letter": "C",
+          "text": "4/3",
+          "is_correct": false,
+          "feedback": "Incorreto: 4/3 aparece na fórmula do volume, não aqui."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorreto: 8 seria a razão entre os volumes de esferas com raio dobrado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A área da superfície esférica é 4πr² e a área do círculo máximo é πr². A razão é 4πr²/πr² = 4.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "expected_success": 0.4,
-      "bundle_id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -638,43 +638,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v15",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 75 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: esferas e sólidos de revolução.",
+      "id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle-v15",
+      "statement": "Qual sólido é gerado pela rotação completa de um semicírculo em torno de seu diâmetro?",
+      "context": "Um professor em São José dos Campos analisa o sólido gerado pela rotação de um semicírculo.",
       "options": [
         {
           "letter": "A",
-          "text": "95 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "Cilindro",
+          "is_correct": false,
+          "feedback": "Incorreto: o cilindro é gerado por um retângulo."
         },
         {
           "letter": "B",
-          "text": "75 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "Esfera",
+          "is_correct": true,
+          "feedback": "Correto: a rotação de um semicírculo em torno do diâmetro gera uma esfera."
         },
         {
           "letter": "C",
-          "text": "100 metros",
+          "text": "Cone",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: o cone é gerado por um triângulo retângulo."
         },
         {
           "letter": "D",
-          "text": "77 metros",
+          "text": "Tronco de cone",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: o tronco de cone é gerado por um trapézio retângulo."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 75 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 75 + 2 * 10 = 95 metros.",
+      "correct_answer": "B",
+      "explanation": "O semicírculo, ao girar em torno de seu diâmetro, descreve a superfície esférica e preenche o interior, formando uma esfera completa.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.37,
-      "bundle_id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -683,43 +683,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v16",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 80 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: esferas e sólidos de revolução.",
+      "id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle-v16",
+      "statement": "Um globo decorativo tem área de superfície de 144π cm². Qual é o seu raio?",
+      "context": "Um arquiteto em Vitória calcula o material necessário para um globo decorativo.",
       "options": [
         {
           "letter": "A",
-          "text": "100 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "12 cm",
+          "is_correct": false,
+          "feedback": "Incorreto: 12 é o valor de r²."
         },
         {
           "letter": "B",
-          "text": "80 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "6 cm",
+          "is_correct": true,
+          "feedback": "Correto: 4πr² = 144π, logo r² = 36 e r = 6 cm."
         },
         {
           "letter": "C",
-          "text": "105 metros",
+          "text": "8 cm",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: com r = 8, a área seria 256π cm²."
         },
         {
           "letter": "D",
-          "text": "82 metros",
+          "text": "4 cm",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: com r = 4, a área seria 64π cm²."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 80 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 80 + 2 * 10 = 100 metros.",
+      "correct_answer": "B",
+      "explanation": "Igualando 4πr² = 144π, obtemos r² = 36, logo r = 6 cm.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.34,
-      "bundle_id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "expected_success": 0.35,
+      "bundle_id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -728,43 +728,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v17",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 85 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: esferas e sólidos de revolução.",
+      "id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle-v17",
+      "statement": "Uma esfera está inscrita em um cubo de aresta 6 cm. Qual é a razão entre o volume da esfera e o volume do cubo? (Use π = 3.)",
+      "context": "Um candidato ao ITA avalia a relação entre uma esfera e o cubo que a circunscreve.",
       "options": [
         {
           "letter": "A",
-          "text": "105 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "π/2",
+          "is_correct": false,
+          "feedback": "Incorreto: π/2 não corresponde à razão entre os volumes."
         },
         {
           "letter": "B",
-          "text": "85 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "1/2",
+          "is_correct": true,
+          "feedback": "Correto: V_esfera = 108 cm³ e V_cubo = 216 cm³, logo a razão é 1/2."
         },
         {
           "letter": "C",
-          "text": "110 metros",
+          "text": "1/3",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 1/3 seria a razão entre o volume do cone e do cilindro."
         },
         {
           "letter": "D",
-          "text": "87 metros",
+          "text": "2/3",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 2/3 não corresponde à razão pedida."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 85 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 85 + 2 * 10 = 105 metros.",
-      "difficulty": "9",
+      "correct_answer": "B",
+      "explanation": "A esfera inscrita tem raio 3 cm. V_esfera = (4/3)π × 27 = 108 cm³ (com π = 3) e V_cubo = 216 cm³. A razão é 108/216 = 1/2.",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.28,
-      "bundle_id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "expected_success": 0.3,
+      "bundle_id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -773,43 +773,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v18",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 90 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: esferas e sólidos de revolução.",
+      "id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle-v18",
+      "statement": "Um quadrado de lado 2 cm gira em torno de uma de suas diagonais. Qual é o volume do sólido gerado? (Use π = 3.)",
+      "context": "Um engenheiro em Belo Horizonte analisa o sólido gerado pela rotação de um quadrado em torno de uma diagonal.",
       "options": [
         {
           "letter": "A",
-          "text": "110 metros",
+          "text": "4√2 cm³",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: o sólido são dois cones de raio √2 e altura √2; volume = 2 × (1/3)π(√2)²(√2) = 4√2 cm³."
         },
         {
           "letter": "B",
-          "text": "90 metros",
+          "text": "8 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 8 seria o resultado se o sólido fosse um cubo de aresta 2."
         },
         {
           "letter": "C",
-          "text": "115 metros",
+          "text": "4 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 4 seria o volume de um único cone."
         },
         {
           "letter": "D",
-          "text": "92 metros",
+          "text": "16 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 16 não corresponde ao volume dos dois cones."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 90 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 90 + 2 * 10 = 110 metros.",
-      "difficulty": "9",
+      "explanation": "A diagonal do quadrado mede 2√2 cm. A rotação gera dois cones justapostos, cada um com raio √2 cm e altura √2 cm. O volume total é 2 × (1/3)π(√2)²(√2) = (2/3) × 3 × 2√2 = 4√2 ≈ 5,66 cm³.",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.24,
-      "bundle_id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "expected_success": 0.25,
+      "bundle_id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -818,43 +818,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v19",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 95 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: esferas e sólidos de revolução.",
+      "id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle-v19",
+      "statement": "Uma esfera tangencia as seis faces de um cubo de aresta 4 cm. Qual é a área da superfície da esfera? (Use π = 3.)",
+      "context": "Em uma olimpíada de matemática, pede-se a análise de uma esfera que tangencia as faces de um cubo.",
       "options": [
         {
           "letter": "A",
-          "text": "115 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "16 cm²",
+          "is_correct": false,
+          "feedback": "Incorreto: 16 é a área de uma face do cubo."
         },
         {
           "letter": "B",
-          "text": "95 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "48 cm²",
+          "is_correct": true,
+          "feedback": "Correto: r = 2 cm, A = 4πr² = 4 × 3 × 4 = 48 cm²."
         },
         {
           "letter": "C",
-          "text": "120 metros",
+          "text": "96 cm²",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 96 é a área total do cubo."
         },
         {
           "letter": "D",
-          "text": "97 metros",
+          "text": "24 cm²",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 24 seria a área de um círculo de raio 2 multiplicada por 2."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 95 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 95 + 2 * 10 = 115 metros.",
+      "correct_answer": "B",
+      "explanation": "A esfera inscrita no cubo tem raio igual à metade da aresta: r = 2 cm. A área é A = 4πr² = 4 × 3 × 4 = 48 cm².",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
       "expected_success": 0.2,
-      "bundle_id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -863,43 +863,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v20",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 100 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: esferas e sólidos de revolução.",
+      "id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle-v20",
+      "statement": "Se o raio de uma esfera é reduzido à metade, o que acontece com o seu volume?",
+      "context": "Um pesquisador em Campinas avalia o comportamento do volume de uma esfera quando o raio é alterado.",
       "options": [
         {
           "letter": "A",
-          "text": "120 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "É reduzido à metade",
+          "is_correct": false,
+          "feedback": "Incorreto: o volume não varia linearmente com o raio."
         },
         {
           "letter": "B",
-          "text": "100 metros",
+          "text": "É reduzido a um quarto",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 1/4 é o efeito sobre a área da superfície."
         },
         {
           "letter": "C",
-          "text": "125 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "text": "É reduzido a um oitavo",
+          "is_correct": true,
+          "feedback": "Correto: o volume é proporcional ao cubo do raio: (1/2)³ = 1/8."
         },
         {
           "letter": "D",
-          "text": "102 metros",
+          "text": "Permanece o mesmo",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: o volume depende do raio."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 100 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 100 + 2 * 10 = 120 metros.",
+      "correct_answer": "C",
+      "explanation": "Como V ∝ r³, reduzir o raio à metade multiplica o volume por (1/2)³ = 1/8.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.16,
-      "bundle_id": "BR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "expected_success": 0.2,
+      "bundle_id": "BR-MAT-11-2026-W16-esferas-solidos-revolucao-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
       "cefr_level": null,

@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "cl",
+    "pack_id": "cl-week-16-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T04:04:54.090Z"
+  },
+  "questions": [
+    {
+      "id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle-v1",
+      "statement": "En un estudio de enlaces en Concepción, se analiza un compuesto con una diferencia de electronegatividad de $0.22$. ¿Qué tipo de enlace predomina según Pauling?",
+      "context": "Sofía analiza situaciones académicas en Concepción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace covalente apolar",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para delta EN = 0.22, corresponde a un enlace covalente apolar."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace metálico puro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
+        },
+        {
+          "letter": "C",
+          "text": "Puente de hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una fuerza intermolecular, no un enlace primario."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza de van der Waals",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Según la escala de Pauling, con delta EN = 0.22, la diferencia de electronegatividad es menor o igual a 0,4.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle-v2",
+      "statement": "En un estudio de enlaces en Antofagasta, se analiza un compuesto con una diferencia de electronegatividad de $0.34$. ¿Qué tipo de enlace predomina según Pauling?",
+      "context": "Benjamín analiza situaciones académicas en Antofagasta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace covalente apolar",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para delta EN = 0.34, corresponde a un enlace covalente apolar."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace metálico puro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
+        },
+        {
+          "letter": "C",
+          "text": "Puente de hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una fuerza intermolecular, no un enlace primario."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza de van der Waals",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Según la escala de Pauling, con delta EN = 0.34, la diferencia de electronegatividad es menor o igual a 0,4.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle-v3",
+      "statement": "En un estudio de enlaces en Temuco, se analiza un compuesto con una diferencia de electronegatividad de $0.46$. ¿Qué tipo de enlace predomina según Pauling?",
+      "context": "Martina analiza situaciones académicas en Temuco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace covalente polar",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para delta EN = 0.46, corresponde a un enlace covalente polar."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace metálico puro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
+        },
+        {
+          "letter": "C",
+          "text": "Puente de hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una fuerza intermolecular, no un enlace primario."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza de van der Waals",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Según la escala de Pauling, con delta EN = 0.46, la diferencia de electronegatividad está entre 0,4 y 1,7.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle-v4",
+      "statement": "En un estudio de enlaces en La Serena, se analiza un compuesto con una diferencia de electronegatividad de $0.58$. ¿Qué tipo de enlace predomina según Pauling?",
+      "context": "Vicente analiza situaciones académicas en La Serena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace covalente polar",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para delta EN = 0.58, corresponde a un enlace covalente polar."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace metálico puro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
+        },
+        {
+          "letter": "C",
+          "text": "Puente de hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una fuerza intermolecular, no un enlace primario."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza de van der Waals",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Según la escala de Pauling, con delta EN = 0.58, la diferencia de electronegatividad está entre 0,4 y 1,7.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle-v5",
+      "statement": "En un estudio de enlaces en Viña del Mar, se analiza un compuesto con una diferencia de electronegatividad de $0.70$. ¿Qué tipo de enlace predomina según Pauling?",
+      "context": "Catalina analiza situaciones académicas en Viña del Mar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace covalente polar",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para delta EN = 0.70, corresponde a un enlace covalente polar."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace metálico puro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
+        },
+        {
+          "letter": "C",
+          "text": "Puente de hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una fuerza intermolecular, no un enlace primario."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza de van der Waals",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Según la escala de Pauling, con delta EN = 0.70, la diferencia de electronegatividad está entre 0,4 y 1,7.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle-v6",
+      "statement": "En un estudio de enlaces en Iquique, se analiza un compuesto con una diferencia de electronegatividad de $0.82$. ¿Qué tipo de enlace predomina según Pauling?",
+      "context": "Matías analiza situaciones académicas en Iquique.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace covalente polar",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para delta EN = 0.82, corresponde a un enlace covalente polar."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace metálico puro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
+        },
+        {
+          "letter": "C",
+          "text": "Puente de hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una fuerza intermolecular, no un enlace primario."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza de van der Waals",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Según la escala de Pauling, con delta EN = 0.82, la diferencia de electronegatividad está entre 0,4 y 1,7.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle-v7",
+      "statement": "En un estudio de enlaces en Rancagua, se analiza un compuesto con una diferencia de electronegatividad de $0.94$. ¿Qué tipo de enlace predomina según Pauling?",
+      "context": "Isidora analiza situaciones académicas en Rancagua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace covalente polar",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para delta EN = 0.94, corresponde a un enlace covalente polar."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace metálico puro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
+        },
+        {
+          "letter": "C",
+          "text": "Puente de hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una fuerza intermolecular, no un enlace primario."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza de van der Waals",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Según la escala de Pauling, con delta EN = 0.94, la diferencia de electronegatividad está entre 0,4 y 1,7.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle-v8",
+      "statement": "En un estudio de enlaces en Talca, se analiza un compuesto con una diferencia de electronegatividad de $1.06$. ¿Qué tipo de enlace predomina según Pauling?",
+      "context": "Diego analiza situaciones académicas en Talca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace covalente polar",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para delta EN = 1.06, corresponde a un enlace covalente polar."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace metálico puro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
+        },
+        {
+          "letter": "C",
+          "text": "Puente de hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una fuerza intermolecular, no un enlace primario."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza de van der Waals",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Según la escala de Pauling, con delta EN = 1.06, la diferencia de electronegatividad está entre 0,4 y 1,7.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle-v9",
+      "statement": "En un estudio de enlaces en Arica, se analiza un compuesto con una diferencia de electronegatividad de $1.18$. ¿Qué tipo de enlace predomina según Pauling?",
+      "context": "Camila analiza situaciones académicas en Arica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace covalente polar",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para delta EN = 1.18, corresponde a un enlace covalente polar."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace metálico puro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
+        },
+        {
+          "letter": "C",
+          "text": "Puente de hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una fuerza intermolecular, no un enlace primario."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza de van der Waals",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Según la escala de Pauling, con delta EN = 1.18, la diferencia de electronegatividad está entre 0,4 y 1,7.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.66,
+      "bundle_id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle-v10",
+      "statement": "En un estudio de enlaces en Puerto Montt, se analiza un compuesto con una diferencia de electronegatividad de $1.30$. ¿Qué tipo de enlace predomina según Pauling?",
+      "context": "Tomás analiza situaciones académicas en Puerto Montt.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace covalente polar",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para delta EN = 1.30, corresponde a un enlace covalente polar."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace metálico puro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
+        },
+        {
+          "letter": "C",
+          "text": "Puente de hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una fuerza intermolecular, no un enlace primario."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza de van der Waals",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Según la escala de Pauling, con delta EN = 1.30, la diferencia de electronegatividad está entre 0,4 y 1,7.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.64,
+      "bundle_id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle-v11",
+      "statement": "En un estudio de enlaces en Chillán, se analiza un compuesto con una diferencia de electronegatividad de $1.42$. ¿Qué tipo de enlace predomina según Pauling?",
+      "context": "Valentina analiza situaciones académicas en Chillán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace covalente polar",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para delta EN = 1.42, corresponde a un enlace covalente polar."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace metálico puro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
+        },
+        {
+          "letter": "C",
+          "text": "Puente de hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una fuerza intermolecular, no un enlace primario."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza de van der Waals",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Según la escala de Pauling, con delta EN = 1.42, la diferencia de electronegatividad está entre 0,4 y 1,7.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle-v12",
+      "statement": "En un estudio de enlaces en Calama, se analiza un compuesto con una diferencia de electronegatividad de $1.54$. ¿Qué tipo de enlace predomina según Pauling?",
+      "context": "Lucas analiza situaciones académicas en Calama.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace covalente polar",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para delta EN = 1.54, corresponde a un enlace covalente polar."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace metálico puro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
+        },
+        {
+          "letter": "C",
+          "text": "Puente de hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una fuerza intermolecular, no un enlace primario."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza de van der Waals",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Según la escala de Pauling, con delta EN = 1.54, la diferencia de electronegatividad está entre 0,4 y 1,7.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.56,
+      "bundle_id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle-v13",
+      "statement": "En un estudio de enlaces en Valdivia, se analiza un compuesto con una diferencia de electronegatividad de $1.66$. ¿Qué tipo de enlace predomina según Pauling?",
+      "context": "Javier analiza situaciones académicas en Valdivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace covalente polar",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para delta EN = 1.66, corresponde a un enlace covalente polar."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace metálico puro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
+        },
+        {
+          "letter": "C",
+          "text": "Puente de hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una fuerza intermolecular, no un enlace primario."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza de van der Waals",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Según la escala de Pauling, con delta EN = 1.66, la diferencia de electronegatividad está entre 0,4 y 1,7.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.54,
+      "bundle_id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle-v14",
+      "statement": "En un estudio de enlaces en Santiago, se analiza un compuesto con una diferencia de electronegatividad de $1.78$. ¿Qué tipo de enlace predomina según Pauling?",
+      "context": "Fernanda analiza situaciones académicas en Santiago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace iónico",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para delta EN = 1.78, corresponde a un enlace iónico."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace metálico puro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
+        },
+        {
+          "letter": "C",
+          "text": "Puente de hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una fuerza intermolecular, no un enlace primario."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza de van der Waals",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Según la escala de Pauling, con delta EN = 1.78, la diferencia de electronegatividad es superior a 1,7.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle-v15",
+      "statement": "En un estudio de enlaces en Valparaíso, se analiza un compuesto con una diferencia de electronegatividad de $1.90$. ¿Qué tipo de enlace predomina según Pauling?",
+      "context": "Sebastián analiza situaciones académicas en Valparaíso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace iónico",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para delta EN = 1.90, corresponde a un enlace iónico."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace metálico puro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
+        },
+        {
+          "letter": "C",
+          "text": "Puente de hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una fuerza intermolecular, no un enlace primario."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza de van der Waals",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Según la escala de Pauling, con delta EN = 1.90, la diferencia de electronegatividad es superior a 1,7.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle-v16",
+      "statement": "En un estudio de enlaces en Concepción, se analiza un compuesto con una diferencia de electronegatividad de $2.02$. ¿Qué tipo de enlace predomina según Pauling?",
+      "context": "Sofía analiza situaciones académicas en Concepción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace iónico",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para delta EN = 2.02, corresponde a un enlace iónico."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace metálico puro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
+        },
+        {
+          "letter": "C",
+          "text": "Puente de hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una fuerza intermolecular, no un enlace primario."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza de van der Waals",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Según la escala de Pauling, con delta EN = 2.02, la diferencia de electronegatividad es superior a 1,7.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle-v17",
+      "statement": "En un estudio de enlaces en Antofagasta, se analiza un compuesto con una diferencia de electronegatividad de $2.14$. ¿Qué tipo de enlace predomina según Pauling?",
+      "context": "Benjamín analiza situaciones académicas en Antofagasta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace iónico",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para delta EN = 2.14, corresponde a un enlace iónico."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace metálico puro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
+        },
+        {
+          "letter": "C",
+          "text": "Puente de hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una fuerza intermolecular, no un enlace primario."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza de van der Waals",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Según la escala de Pauling, con delta EN = 2.14, la diferencia de electronegatividad es superior a 1,7.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle-v18",
+      "statement": "En un estudio de enlaces en Temuco, se analiza un compuesto con una diferencia de electronegatividad de $2.26$. ¿Qué tipo de enlace predomina según Pauling?",
+      "context": "Martina analiza situaciones académicas en Temuco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace iónico",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para delta EN = 2.26, corresponde a un enlace iónico."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace metálico puro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
+        },
+        {
+          "letter": "C",
+          "text": "Puente de hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una fuerza intermolecular, no un enlace primario."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza de van der Waals",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Según la escala de Pauling, con delta EN = 2.26, la diferencia de electronegatividad es superior a 1,7.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle-v19",
+      "statement": "En un estudio de enlaces en La Serena, se analiza un compuesto con una diferencia de electronegatividad de $2.38$. ¿Qué tipo de enlace predomina según Pauling?",
+      "context": "Vicente analiza situaciones académicas en La Serena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace iónico",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para delta EN = 2.38, corresponde a un enlace iónico."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace metálico puro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
+        },
+        {
+          "letter": "C",
+          "text": "Puente de hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una fuerza intermolecular, no un enlace primario."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza de van der Waals",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Según la escala de Pauling, con delta EN = 2.38, la diferencia de electronegatividad es superior a 1,7.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.29,
+      "bundle_id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle-v20",
+      "statement": "En un estudio de enlaces en Viña del Mar, se analiza un compuesto con una diferencia de electronegatividad de $2.50$. ¿Qué tipo de enlace predomina según Pauling?",
+      "context": "Catalina analiza situaciones académicas en Viña del Mar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace iónico",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para delta EN = 2.50, corresponde a un enlace iónico."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace metálico puro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
+        },
+        {
+          "letter": "C",
+          "text": "Puente de hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una fuerza intermolecular, no un enlace primario."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza de van der Waals",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Según la escala de Pauling, con delta EN = 2.50, la diferencia de electronegatividad es superior a 1,7.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.26,
+      "bundle_id": "CL-CIE-11-2026-W16-tema-w16-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

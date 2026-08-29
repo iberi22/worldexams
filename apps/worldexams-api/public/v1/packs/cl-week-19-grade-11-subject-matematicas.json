@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "cl",
+    "pack_id": "cl-week-19-grade-11-subject-matematicas",
+    "generated_at": "2026-08-29T04:04:54.128Z"
+  },
+  "questions": [
+    {
+      "id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v1",
+      "statement": "En una muestra probabilística en La Serena, se sabe que $P(B) = 0.22$ y $P(A \\cap B) = 0.09$. ¿Cuál es el valor de $P(A|B)$?",
+      "context": "Vicente analiza situaciones académicas en La Serena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.409$",
+          "is_correct": true,
+          "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.09 / 0.22 ~= 0.409."
+        },
+        {
+          "letter": "B",
+          "text": "$0.0198$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
+        },
+        {
+          "letter": "C",
+          "text": "$2.444$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B)."
+        },
+        {
+          "letter": "D",
+          "text": "$0.31$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las probabilidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.09 / 0.22 ~= 0.409.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v2",
+      "statement": "En una muestra probabilística en Viña del Mar, se sabe que $P(B) = 0.24$ y $P(A \\cap B) = 0.1$. ¿Cuál es el valor de $P(A|B)$?",
+      "context": "Diego analiza situaciones académicas en Viña del Mar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.417$",
+          "is_correct": true,
+          "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.1 / 0.24 ~= 0.417."
+        },
+        {
+          "letter": "B",
+          "text": "$0.0240$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
+        },
+        {
+          "letter": "C",
+          "text": "$2.400$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B)."
+        },
+        {
+          "letter": "D",
+          "text": "$0.34$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las probabilidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.1 / 0.24 ~= 0.417.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v3",
+      "statement": "En una muestra probabilística en Iquique, se sabe que $P(B) = 0.26$ y $P(A \\cap B) = 0.11$. ¿Cuál es el valor de $P(A|B)$?",
+      "context": "Lucas analiza situaciones académicas en Iquique.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.423$",
+          "is_correct": true,
+          "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.11 / 0.26 ~= 0.423."
+        },
+        {
+          "letter": "B",
+          "text": "$0.0286$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
+        },
+        {
+          "letter": "C",
+          "text": "$2.364$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B)."
+        },
+        {
+          "letter": "D",
+          "text": "$0.37$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las probabilidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.11 / 0.26 ~= 0.423.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v4",
+      "statement": "En una muestra probabilística en Rancagua, se sabe que $P(B) = 0.28$ y $P(A \\cap B) = 0.12$. ¿Cuál es el valor de $P(A|B)$?",
+      "context": "Sofía analiza situaciones académicas en Rancagua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.429$",
+          "is_correct": true,
+          "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.12 / 0.28 ~= 0.429."
+        },
+        {
+          "letter": "B",
+          "text": "$0.0336$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
+        },
+        {
+          "letter": "C",
+          "text": "$2.333$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B)."
+        },
+        {
+          "letter": "D",
+          "text": "$0.40$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las probabilidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.12 / 0.28 ~= 0.429.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v5",
+      "statement": "En una muestra probabilística en Talca, se sabe que $P(B) = 0.3$ y $P(A \\cap B) = 0.13$. ¿Cuál es el valor de $P(A|B)$?",
+      "context": "Catalina analiza situaciones académicas en Talca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.433$",
+          "is_correct": true,
+          "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.13 / 0.3 ~= 0.433."
+        },
+        {
+          "letter": "B",
+          "text": "$0.0390$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
+        },
+        {
+          "letter": "C",
+          "text": "$2.308$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B)."
+        },
+        {
+          "letter": "D",
+          "text": "$0.43$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las probabilidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.13 / 0.3 ~= 0.433.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v6",
+      "statement": "En una muestra probabilística en Arica, se sabe que $P(B) = 0.32$ y $P(A \\cap B) = 0.14$. ¿Cuál es el valor de $P(A|B)$?",
+      "context": "Camila analiza situaciones académicas en Arica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.438$",
+          "is_correct": true,
+          "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.14 / 0.32 ~= 0.438."
+        },
+        {
+          "letter": "B",
+          "text": "$0.0448$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
+        },
+        {
+          "letter": "C",
+          "text": "$2.286$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B)."
+        },
+        {
+          "letter": "D",
+          "text": "$0.46$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las probabilidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.14 / 0.32 ~= 0.438.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v7",
+      "statement": "En una muestra probabilística en Puerto Montt, se sabe que $P(B) = 0.34$ y $P(A \\cap B) = 0.15$. ¿Cuál es el valor de $P(A|B)$?",
+      "context": "Javier analiza situaciones académicas en Puerto Montt.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.441$",
+          "is_correct": true,
+          "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.15 / 0.34 ~= 0.441."
+        },
+        {
+          "letter": "B",
+          "text": "$0.0510$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
+        },
+        {
+          "letter": "C",
+          "text": "$2.267$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B)."
+        },
+        {
+          "letter": "D",
+          "text": "$0.49$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las probabilidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.15 / 0.34 ~= 0.441.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v8",
+      "statement": "En una muestra probabilística en Chillán, se sabe que $P(B) = 0.36$ y $P(A \\cap B) = 0.16$. ¿Cuál es el valor de $P(A|B)$?",
+      "context": "Benjamín analiza situaciones académicas en Chillán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.444$",
+          "is_correct": true,
+          "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.16 / 0.36 ~= 0.444."
+        },
+        {
+          "letter": "B",
+          "text": "$0.0576$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
+        },
+        {
+          "letter": "C",
+          "text": "$2.250$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B)."
+        },
+        {
+          "letter": "D",
+          "text": "$0.52$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las probabilidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.16 / 0.36 ~= 0.444.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v9",
+      "statement": "En una muestra probabilística en Calama, se sabe que $P(B) = 0.38$ y $P(A \\cap B) = 0.17$. ¿Cuál es el valor de $P(A|B)$?",
+      "context": "Matías analiza situaciones académicas en Calama.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.447$",
+          "is_correct": true,
+          "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.17 / 0.38 ~= 0.447."
+        },
+        {
+          "letter": "B",
+          "text": "$0.0646$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
+        },
+        {
+          "letter": "C",
+          "text": "$2.235$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B)."
+        },
+        {
+          "letter": "D",
+          "text": "$0.55$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las probabilidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.17 / 0.38 ~= 0.447.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.66,
+      "bundle_id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v10",
+      "statement": "En una muestra probabilística en Valdivia, se sabe que $P(B) = 0.4$ y $P(A \\cap B) = 0.18$. ¿Cuál es el valor de $P(A|B)$?",
+      "context": "Tomás analiza situaciones académicas en Valdivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.450$",
+          "is_correct": true,
+          "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.18 / 0.4 ~= 0.450."
+        },
+        {
+          "letter": "B",
+          "text": "$0.0720$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
+        },
+        {
+          "letter": "C",
+          "text": "$2.222$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B)."
+        },
+        {
+          "letter": "D",
+          "text": "$0.58$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las probabilidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.18 / 0.4 ~= 0.450.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.64,
+      "bundle_id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v11",
+      "statement": "En una muestra probabilística en Santiago, se sabe que $P(B) = 0.42$ y $P(A \\cap B) = 0.19$. ¿Cuál es el valor de $P(A|B)$?",
+      "context": "Fernanda analiza situaciones académicas en Santiago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.452$",
+          "is_correct": true,
+          "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.19 / 0.42 ~= 0.452."
+        },
+        {
+          "letter": "B",
+          "text": "$0.0798$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
+        },
+        {
+          "letter": "C",
+          "text": "$2.211$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B)."
+        },
+        {
+          "letter": "D",
+          "text": "$0.61$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las probabilidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.19 / 0.42 ~= 0.452.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v12",
+      "statement": "En una muestra probabilística en Valparaíso, se sabe que $P(B) = 0.44$ y $P(A \\cap B) = 0.2$. ¿Cuál es el valor de $P(A|B)$?",
+      "context": "Martina analiza situaciones académicas en Valparaíso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.455$",
+          "is_correct": true,
+          "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.2 / 0.44 ~= 0.455."
+        },
+        {
+          "letter": "B",
+          "text": "$0.0880$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
+        },
+        {
+          "letter": "C",
+          "text": "$2.200$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B)."
+        },
+        {
+          "letter": "D",
+          "text": "$0.64$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las probabilidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.2 / 0.44 ~= 0.455.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.56,
+      "bundle_id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v13",
+      "statement": "En una muestra probabilística en Concepción, se sabe que $P(B) = 0.46$ y $P(A \\cap B) = 0.21$. ¿Cuál es el valor de $P(A|B)$?",
+      "context": "Isidora analiza situaciones académicas en Concepción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.457$",
+          "is_correct": true,
+          "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.21 / 0.46 ~= 0.457."
+        },
+        {
+          "letter": "B",
+          "text": "$0.0966$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
+        },
+        {
+          "letter": "C",
+          "text": "$2.190$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B)."
+        },
+        {
+          "letter": "D",
+          "text": "$0.67$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las probabilidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.21 / 0.46 ~= 0.457.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.54,
+      "bundle_id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v14",
+      "statement": "En una muestra probabilística en Antofagasta, se sabe que $P(B) = 0.48$ y $P(A \\cap B) = 0.22$. ¿Cuál es el valor de $P(A|B)$?",
+      "context": "Valentina analiza situaciones académicas en Antofagasta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.458$",
+          "is_correct": true,
+          "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.22 / 0.48 ~= 0.458."
+        },
+        {
+          "letter": "B",
+          "text": "$0.1056$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
+        },
+        {
+          "letter": "C",
+          "text": "$2.182$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B)."
+        },
+        {
+          "letter": "D",
+          "text": "$0.70$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las probabilidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.22 / 0.48 ~= 0.458.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v15",
+      "statement": "En una muestra probabilística en Temuco, se sabe que $P(B) = 0.5$ y $P(A \\cap B) = 0.23$. ¿Cuál es el valor de $P(A|B)$?",
+      "context": "Sebastián analiza situaciones académicas en Temuco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.460$",
+          "is_correct": true,
+          "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.23 / 0.5 ~= 0.460."
+        },
+        {
+          "letter": "B",
+          "text": "$0.1150$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
+        },
+        {
+          "letter": "C",
+          "text": "$2.174$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B)."
+        },
+        {
+          "letter": "D",
+          "text": "$0.73$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las probabilidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.23 / 0.5 ~= 0.460.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v16",
+      "statement": "En una muestra probabilística en La Serena, se sabe que $P(B) = 0.52$ y $P(A \\cap B) = 0.24$. ¿Cuál es el valor de $P(A|B)$?",
+      "context": "Vicente analiza situaciones académicas en La Serena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.462$",
+          "is_correct": true,
+          "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.24 / 0.52 ~= 0.462."
+        },
+        {
+          "letter": "B",
+          "text": "$0.1248$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
+        },
+        {
+          "letter": "C",
+          "text": "$2.167$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B)."
+        },
+        {
+          "letter": "D",
+          "text": "$0.76$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las probabilidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.24 / 0.52 ~= 0.462.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v17",
+      "statement": "En una muestra probabilística en Viña del Mar, se sabe que $P(B) = 0.54$ y $P(A \\cap B) = 0.25$. ¿Cuál es el valor de $P(A|B)$?",
+      "context": "Diego analiza situaciones académicas en Viña del Mar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.463$",
+          "is_correct": true,
+          "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.25 / 0.54 ~= 0.463."
+        },
+        {
+          "letter": "B",
+          "text": "$0.1350$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
+        },
+        {
+          "letter": "C",
+          "text": "$2.160$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B)."
+        },
+        {
+          "letter": "D",
+          "text": "$0.79$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las probabilidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.25 / 0.54 ~= 0.463.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v18",
+      "statement": "En una muestra probabilística en Iquique, se sabe que $P(B) = 0.56$ y $P(A \\cap B) = 0.26$. ¿Cuál es el valor de $P(A|B)$?",
+      "context": "Lucas analiza situaciones académicas en Iquique.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.464$",
+          "is_correct": true,
+          "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.26 / 0.56 ~= 0.464."
+        },
+        {
+          "letter": "B",
+          "text": "$0.1456$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
+        },
+        {
+          "letter": "C",
+          "text": "$2.154$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B)."
+        },
+        {
+          "letter": "D",
+          "text": "$0.82$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las probabilidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.26 / 0.56 ~= 0.464.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v19",
+      "statement": "En una muestra probabilística en Rancagua, se sabe que $P(B) = 0.58$ y $P(A \\cap B) = 0.27$. ¿Cuál es el valor de $P(A|B)$?",
+      "context": "Sofía analiza situaciones académicas en Rancagua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.466$",
+          "is_correct": true,
+          "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.27 / 0.58 ~= 0.466."
+        },
+        {
+          "letter": "B",
+          "text": "$0.1566$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
+        },
+        {
+          "letter": "C",
+          "text": "$2.148$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B)."
+        },
+        {
+          "letter": "D",
+          "text": "$0.85$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las probabilidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.27 / 0.58 ~= 0.466.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.29,
+      "bundle_id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v20",
+      "statement": "En una muestra probabilística en Talca, se sabe que $P(B) = 0.6$ y $P(A \\cap B) = 0.28$. ¿Cuál es el valor de $P(A|B)$?",
+      "context": "Catalina analiza situaciones académicas en Talca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.467$",
+          "is_correct": true,
+          "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.28 / 0.6 ~= 0.467."
+        },
+        {
+          "letter": "B",
+          "text": "$0.1680$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
+        },
+        {
+          "letter": "C",
+          "text": "$2.143$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B)."
+        },
+        {
+          "letter": "D",
+          "text": "$0.88$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las probabilidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.28 / 0.6 ~= 0.467.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.26,
+      "bundle_id": "CL-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

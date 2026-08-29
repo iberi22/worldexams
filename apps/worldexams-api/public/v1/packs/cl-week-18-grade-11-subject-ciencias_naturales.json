@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "cl",
+    "pack_id": "cl-week-18-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T04:04:54.091Z"
+  },
+  "questions": [
+    {
+      "id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle-v1",
+      "statement": "En un estudio sobre primera ley de mendel (monohibridismo) en Temuco, se analiza Cruce de heterocigotos Aa x Aa. ¿Cuál es la conclusión o proporción correcta?",
+      "context": "Martina analiza situaciones académicas en Temuco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25% aa (1/4)",
+          "is_correct": true,
+          "feedback": "¡Correcto! En un cruce monohíbrido Aa x Aa, la proporción de homocigotos recesivos es 1/4 (25%)."
+        },
+        {
+          "letter": "B",
+          "text": "50% aa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la regla de herencia descrita."
+        },
+        {
+          "letter": "C",
+          "text": "75% aa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa las proporciones genotípicas mendelianas."
+        },
+        {
+          "letter": "D",
+          "text": "100% aa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la segregación de alelos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un cruce monohíbrido Aa x Aa, la proporción de homocigotos recesivos es 1/4 (25%).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle-v2",
+      "statement": "En un estudio sobre dihibridismo mendeliano en La Serena, se analiza Cruce AaBb x AaBb. ¿Cuál es la conclusión o proporción correcta?",
+      "context": "Matías analiza situaciones académicas en La Serena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proporción 9:3:3:1",
+          "is_correct": true,
+          "feedback": "¡Correcto! La segregación fenotípica independiente en dihibridismo produce una razón 9:3:3:1."
+        },
+        {
+          "letter": "B",
+          "text": "Proporción 3:1",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la regla de herencia descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Proporción 1:2:1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa las proporciones genotípicas mendelianas."
+        },
+        {
+          "letter": "D",
+          "text": "Proporción 1:1:1:1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la segregación de alelos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La segregación fenotípica independiente en dihibridismo produce una razón 9:3:3:1.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle-v3",
+      "statement": "En un estudio sobre cruce de prueba (testcross) en Viña del Mar, se analiza Cruce de heterocigoto con recesivo Aa x aa. ¿Cuál es la conclusión o proporción correcta?",
+      "context": "Camila analiza situaciones académicas en Viña del Mar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50% Aa y 50% aa",
+          "is_correct": true,
+          "feedback": "¡Correcto! Un cruce de prueba revela el genotipo dando una descendencia 1:1."
+        },
+        {
+          "letter": "B",
+          "text": "100% Aa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la regla de herencia descrita."
+        },
+        {
+          "letter": "C",
+          "text": "75% Aa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa las proporciones genotípicas mendelianas."
+        },
+        {
+          "letter": "D",
+          "text": "25% Aa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la segregación de alelos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un cruce de prueba revela el genotipo dando una descendencia 1:1.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle-v4",
+      "statement": "En un estudio sobre codominancia sanguínea en Iquique, se analiza Grupo AB x Grupo O (IA IB x ii). ¿Cuál es la conclusión o proporción correcta?",
+      "context": "Lucas analiza situaciones académicas en Iquique.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50% Grupo A y 50% Grupo B",
+          "is_correct": true,
+          "feedback": "¡Correcto! El cruce produce descendientes IA i (Grupo A) e IB i (Grupo B) en proporción 1:1."
+        },
+        {
+          "letter": "B",
+          "text": "100% Grupo AB",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la regla de herencia descrita."
+        },
+        {
+          "letter": "C",
+          "text": "25% A, 50% AB, 25% B",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa las proporciones genotípicas mendelianas."
+        },
+        {
+          "letter": "D",
+          "text": "100% O",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la segregación de alelos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cruce produce descendientes IA i (Grupo A) e IB i (Grupo B) en proporción 1:1.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle-v5",
+      "statement": "En un estudio sobre herencia ligada al cromosoma x en Rancagua, se analiza Madre portadora XN Xn y Padre sano XN Y. ¿Cuál es la conclusión o proporción correcta?",
+      "context": "Sebastián analiza situaciones académicas en Rancagua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50% de los hijos varones afectados (Xn Y)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los varones heredan el X materno; si la madre es portadora, el 50% de los varones recibirá Xn."
+        },
+        {
+          "letter": "B",
+          "text": "100% de las hijas afectadas",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la regla de herencia descrita."
+        },
+        {
+          "letter": "C",
+          "text": "0% de riesgo general",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa las proporciones genotípicas mendelianas."
+        },
+        {
+          "letter": "D",
+          "text": "100% de los varones afectados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la segregación de alelos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los varones heredan el X materno; si la madre es portadora, el 50% de los varones recibirá Xn.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle-v6",
+      "statement": "En un estudio sobre genealogías autosómicas dominantes en Talca, se analiza Árbol genealógico familiar. ¿Cuál es la conclusión o proporción correcta?",
+      "context": "Martina analiza situaciones académicas en Talca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se expresa en todas las generaciones sin saltos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los rasgos dominantes suelen manifestarse en todas las generaciones si hay descendencia."
+        },
+        {
+          "letter": "B",
+          "text": "Afecta solo a hombres",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la regla de herencia descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Requiere consanguinidad estricta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa las proporciones genotípicas mendelianas."
+        },
+        {
+          "letter": "D",
+          "text": "Traspaso exclusivo materno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la segregación de alelos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los rasgos dominantes suelen manifestarse en todas las generaciones si hay descendencia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle-v7",
+      "statement": "En un estudio sobre herencia autosómica recesiva en Arica, se analiza Cruce de portadores sanos Aa x Aa. ¿Cuál es la conclusión o proporción correcta?",
+      "context": "Matías analiza situaciones académicas en Arica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25% de probabilidad de hijo afectado (aa)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para expresar la condición recesiva se requiere heredar ambos alelos mutados (aa)."
+        },
+        {
+          "letter": "B",
+          "text": "50% de probabilidad de hijo afectado",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la regla de herencia descrita."
+        },
+        {
+          "letter": "C",
+          "text": "75% de probabilidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa las proporciones genotípicas mendelianas."
+        },
+        {
+          "letter": "D",
+          "text": "100% de probabilidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la segregación de alelos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para expresar la condición recesiva se requiere heredar ambos alelos mutados (aa).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle-v8",
+      "statement": "En un estudio sobre locus y alelos en Puerto Montt, se analiza Variabilidad genética. ¿Cuál es la conclusión o proporción correcta?",
+      "context": "Camila analiza situaciones académicas en Puerto Montt.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Variante alternativa de una secuencia genómica",
+          "is_correct": true,
+          "feedback": "¡Correcto! Un alelo es cada una de las formas alternativas que puede tener un gen en un mismo locus."
+        },
+        {
+          "letter": "B",
+          "text": "Enzima de replicación del ADN",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la regla de herencia descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Proteína estructural del centrómero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa las proporciones genotípicas mendelianas."
+        },
+        {
+          "letter": "D",
+          "text": "ARN ribosomal citoplasmático",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la segregación de alelos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un alelo es cada una de las formas alternativas que puede tener un gen en un mismo locus.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle-v9",
+      "statement": "En un estudio sobre norma de reacción fenotípica en Chillán, se analiza Genotipo y ambiente. ¿Cuál es la conclusión o proporción correcta?",
+      "context": "Lucas analiza situaciones académicas en Chillán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Expresión fenotípica moldeada por el ambiente",
+          "is_correct": true,
+          "feedback": "¡Correcto! El fenotipo resulta de la interacción dinámica entre el genotipo y los factores ambientales."
+        },
+        {
+          "letter": "B",
+          "text": "Inactivación permanente del ADN",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la regla de herencia descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Mutación puntual inducida",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa las proporciones genotípicas mendelianas."
+        },
+        {
+          "letter": "D",
+          "text": "Duplicación del genoma completo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la segregación de alelos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El fenotipo resulta de la interacción dinámica entre el genotipo y los factores ambientales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.66,
+      "bundle_id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle-v10",
+      "statement": "En un estudio sobre cromosomas homólogos en Calama, se analiza Células diploides. ¿Cuál es la conclusión o proporción correcta?",
+      "context": "Sebastián analiza situaciones académicas en Calama.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mismo par genómico, uno de cada progenitor",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los cromosomas homólogos forman pares en células diploides; uno es paterno y otro materno."
+        },
+        {
+          "letter": "B",
+          "text": "Cromátidas hermanas idénticas",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la regla de herencia descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Cromosomas de distinta longitud",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa las proporciones genotípicas mendelianas."
+        },
+        {
+          "letter": "D",
+          "text": "Cromosomas sexuales exclusivamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la segregación de alelos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los cromosomas homólogos forman pares en células diploides; uno es paterno y otro materno.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.64,
+      "bundle_id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle-v11",
+      "statement": "En un estudio sobre primera ley de mendel (monohibridismo) en Valdivia, se analiza Cruce de heterocigotos Aa x Aa. ¿Cuál es la conclusión o proporción correcta?",
+      "context": "Martina analiza situaciones académicas en Valdivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25% aa (1/4)",
+          "is_correct": true,
+          "feedback": "¡Correcto! En un cruce monohíbrido Aa x Aa, la proporción de homocigotos recesivos es 1/4 (25%)."
+        },
+        {
+          "letter": "B",
+          "text": "50% aa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la regla de herencia descrita."
+        },
+        {
+          "letter": "C",
+          "text": "75% aa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa las proporciones genotípicas mendelianas."
+        },
+        {
+          "letter": "D",
+          "text": "100% aa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la segregación de alelos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un cruce monohíbrido Aa x Aa, la proporción de homocigotos recesivos es 1/4 (25%).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle-v12",
+      "statement": "En un estudio sobre dihibridismo mendeliano en Santiago, se analiza Cruce AaBb x AaBb. ¿Cuál es la conclusión o proporción correcta?",
+      "context": "Matías analiza situaciones académicas en Santiago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proporción 9:3:3:1",
+          "is_correct": true,
+          "feedback": "¡Correcto! La segregación fenotípica independiente en dihibridismo produce una razón 9:3:3:1."
+        },
+        {
+          "letter": "B",
+          "text": "Proporción 3:1",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la regla de herencia descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Proporción 1:2:1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa las proporciones genotípicas mendelianas."
+        },
+        {
+          "letter": "D",
+          "text": "Proporción 1:1:1:1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la segregación de alelos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La segregación fenotípica independiente en dihibridismo produce una razón 9:3:3:1.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.56,
+      "bundle_id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle-v13",
+      "statement": "En un estudio sobre cruce de prueba (testcross) en Valparaíso, se analiza Cruce de heterocigoto con recesivo Aa x aa. ¿Cuál es la conclusión o proporción correcta?",
+      "context": "Camila analiza situaciones académicas en Valparaíso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50% Aa y 50% aa",
+          "is_correct": true,
+          "feedback": "¡Correcto! Un cruce de prueba revela el genotipo dando una descendencia 1:1."
+        },
+        {
+          "letter": "B",
+          "text": "100% Aa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la regla de herencia descrita."
+        },
+        {
+          "letter": "C",
+          "text": "75% Aa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa las proporciones genotípicas mendelianas."
+        },
+        {
+          "letter": "D",
+          "text": "25% Aa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la segregación de alelos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un cruce de prueba revela el genotipo dando una descendencia 1:1.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.54,
+      "bundle_id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle-v14",
+      "statement": "En un estudio sobre codominancia sanguínea en Concepción, se analiza Grupo AB x Grupo O (IA IB x ii). ¿Cuál es la conclusión o proporción correcta?",
+      "context": "Lucas analiza situaciones académicas en Concepción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50% Grupo A y 50% Grupo B",
+          "is_correct": true,
+          "feedback": "¡Correcto! El cruce produce descendientes IA i (Grupo A) e IB i (Grupo B) en proporción 1:1."
+        },
+        {
+          "letter": "B",
+          "text": "100% Grupo AB",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la regla de herencia descrita."
+        },
+        {
+          "letter": "C",
+          "text": "25% A, 50% AB, 25% B",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa las proporciones genotípicas mendelianas."
+        },
+        {
+          "letter": "D",
+          "text": "100% O",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la segregación de alelos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cruce produce descendientes IA i (Grupo A) e IB i (Grupo B) en proporción 1:1.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle-v15",
+      "statement": "En un estudio sobre herencia ligada al cromosoma x en Antofagasta, se analiza Madre portadora XN Xn y Padre sano XN Y. ¿Cuál es la conclusión o proporción correcta?",
+      "context": "Sebastián analiza situaciones académicas en Antofagasta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50% de los hijos varones afectados (Xn Y)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los varones heredan el X materno; si la madre es portadora, el 50% de los varones recibirá Xn."
+        },
+        {
+          "letter": "B",
+          "text": "100% de las hijas afectadas",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la regla de herencia descrita."
+        },
+        {
+          "letter": "C",
+          "text": "0% de riesgo general",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa las proporciones genotípicas mendelianas."
+        },
+        {
+          "letter": "D",
+          "text": "100% de los varones afectados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la segregación de alelos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los varones heredan el X materno; si la madre es portadora, el 50% de los varones recibirá Xn.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle-v16",
+      "statement": "En un estudio sobre genealogías autosómicas dominantes en Temuco, se analiza Árbol genealógico familiar. ¿Cuál es la conclusión o proporción correcta?",
+      "context": "Martina analiza situaciones académicas en Temuco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se expresa en todas las generaciones sin saltos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los rasgos dominantes suelen manifestarse en todas las generaciones si hay descendencia."
+        },
+        {
+          "letter": "B",
+          "text": "Afecta solo a hombres",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la regla de herencia descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Requiere consanguinidad estricta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa las proporciones genotípicas mendelianas."
+        },
+        {
+          "letter": "D",
+          "text": "Traspaso exclusivo materno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la segregación de alelos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los rasgos dominantes suelen manifestarse en todas las generaciones si hay descendencia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle-v17",
+      "statement": "En un estudio sobre herencia autosómica recesiva en La Serena, se analiza Cruce de portadores sanos Aa x Aa. ¿Cuál es la conclusión o proporción correcta?",
+      "context": "Matías analiza situaciones académicas en La Serena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25% de probabilidad de hijo afectado (aa)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para expresar la condición recesiva se requiere heredar ambos alelos mutados (aa)."
+        },
+        {
+          "letter": "B",
+          "text": "50% de probabilidad de hijo afectado",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la regla de herencia descrita."
+        },
+        {
+          "letter": "C",
+          "text": "75% de probabilidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa las proporciones genotípicas mendelianas."
+        },
+        {
+          "letter": "D",
+          "text": "100% de probabilidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la segregación de alelos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para expresar la condición recesiva se requiere heredar ambos alelos mutados (aa).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle-v18",
+      "statement": "En un estudio sobre locus y alelos en Viña del Mar, se analiza Variabilidad genética. ¿Cuál es la conclusión o proporción correcta?",
+      "context": "Camila analiza situaciones académicas en Viña del Mar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Variante alternativa de una secuencia genómica",
+          "is_correct": true,
+          "feedback": "¡Correcto! Un alelo es cada una de las formas alternativas que puede tener un gen en un mismo locus."
+        },
+        {
+          "letter": "B",
+          "text": "Enzima de replicación del ADN",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la regla de herencia descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Proteína estructural del centrómero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa las proporciones genotípicas mendelianas."
+        },
+        {
+          "letter": "D",
+          "text": "ARN ribosomal citoplasmático",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la segregación de alelos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un alelo es cada una de las formas alternativas que puede tener un gen en un mismo locus.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle-v19",
+      "statement": "En un estudio sobre norma de reacción fenotípica en Iquique, se analiza Genotipo y ambiente. ¿Cuál es la conclusión o proporción correcta?",
+      "context": "Lucas analiza situaciones académicas en Iquique.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Expresión fenotípica moldeada por el ambiente",
+          "is_correct": true,
+          "feedback": "¡Correcto! El fenotipo resulta de la interacción dinámica entre el genotipo y los factores ambientales."
+        },
+        {
+          "letter": "B",
+          "text": "Inactivación permanente del ADN",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la regla de herencia descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Mutación puntual inducida",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa las proporciones genotípicas mendelianas."
+        },
+        {
+          "letter": "D",
+          "text": "Duplicación del genoma completo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la segregación de alelos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El fenotipo resulta de la interacción dinámica entre el genotipo y los factores ambientales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.29,
+      "bundle_id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle-v20",
+      "statement": "En un estudio sobre cromosomas homólogos en Rancagua, se analiza Células diploides. ¿Cuál es la conclusión o proporción correcta?",
+      "context": "Sebastián analiza situaciones académicas en Rancagua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mismo par genómico, uno de cada progenitor",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los cromosomas homólogos forman pares en células diploides; uno es paterno y otro materno."
+        },
+        {
+          "letter": "B",
+          "text": "Cromátidas hermanas idénticas",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la regla de herencia descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Cromosomas de distinta longitud",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa las proporciones genotípicas mendelianas."
+        },
+        {
+          "letter": "D",
+          "text": "Cromosomas sexuales exclusivamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la segregación de alelos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los cromosomas homólogos forman pares en células diploides; uno es paterno y otro materno.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.26,
+      "bundle_id": "CL-CIE-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

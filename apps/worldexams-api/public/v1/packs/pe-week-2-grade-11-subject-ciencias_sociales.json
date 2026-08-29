@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-sociales",
+    "country": "pe",
+    "pack_id": "pe-week-2-grade-11-subject-ciencias_sociales",
+    "generated_at": "2026-08-29T04:04:54.408Z"
+  },
+  "questions": [
+    {
+      "id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál era la máxima autoridad política, militar y religiosa en el Tahuantinsuyo?",
+      "context": "Un estudiante en un colegio de Lima repasa temas de El Imperio de los Incas: Organización Política, Social y Económica para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Sapa Inca",
+          "is_correct": true,
+          "feedback": "Correcto. El Sapa Inca era considerado el soberano absoluto e hijo del Sol (Intip Churin)."
+        },
+        {
+          "letter": "B",
+          "text": "El Tucuy Ricuy",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Tucuy Ricuy era el inspector real ('el que todo lo ve')."
+        },
+        {
+          "letter": "C",
+          "text": "El Curaca",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Curaca era el jefe del ayllu local."
+        },
+        {
+          "letter": "D",
+          "text": "El Apunchic",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Apunchic era el gobernador de una provincia o wamani."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Sapa Inca concentraba el poder supremo en el imperio incaico como intermediario entre los hombres y las deidades celestial-terrenales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.83,
+      "bundle_id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v2",
+      "statement": "En la economía incaica, el trabajo comunal obligatorio e itinerante realizado por los miembros del ayllu en favor del Estado se denominaba:",
+      "context": "Un estudiante en un colegio de Cusco repasa temas de El Imperio de los Incas: Organización Política, Social y Económica para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mita",
+          "is_correct": true,
+          "feedback": "Correcto. La mita era el trabajo obligatorio por turnos para el Estado incaico (caminos, andenes, fortalezas)."
+        },
+        {
+          "letter": "B",
+          "text": "Ayni",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ayni era la ayuda recíproca entre familias de un mismo ayllu."
+        },
+        {
+          "letter": "C",
+          "text": "Minca",
+          "is_correct": false,
+          "feedback": "Incorrecto. La minca era el trabajo colectivo en beneficio comunal del propio ayllu."
+        },
+        {
+          "letter": "D",
+          "text": "Chala",
+          "is_correct": false,
+          "feedback": "Incorrecto. Chala es el nombre de una región natural de la costa peruana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mita constituyó la fuerza laboral clave con la cual el Estado incaico construyó la vasta red del Qhapaq Ñan y terrazas agrícolas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.81,
+      "bundle_id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v3",
+      "statement": "El jefe del ayllu encatgado de organizar el trabajo comunitario y servir de nexo con el poder central del Inca era el:",
+      "context": "Un estudiante en un colegio de Arequipa repasa temas de El Imperio de los Incas: Organización Política, Social y Económica para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Curaca",
+          "is_correct": true,
+          "feedback": "Correcto. El curaca mediaba entre los comuneros y el Estado incaico organizando la reciprocidad."
+        },
+        {
+          "letter": "B",
+          "text": "Suyuyuc Apu",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Suyuyuc Apu gobernaba uno de los cuatro suyos."
+        },
+        {
+          "letter": "C",
+          "text": "Quipucamayoc",
+          "is_correct": false,
+          "feedback": "Incorrecto. El quipucamayoc administraba la contabilidad y los registros del quipu."
+        },
+        {
+          "letter": "D",
+          "text": "Auki",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Auki era el príncipe heredero del Sapa Inca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El curaca era la autoridad etnica tradicional que garantizaba la mano de obra para el Tahuantinsuyo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.79,
+      "bundle_id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v4",
+      "statement": "¿Qué inca es considerado el gran organizador del imperio tras vencer a los chancas en la batalla de Yahuarpampa?",
+      "context": "Un estudiante en un colegio de Trujillo repasa temas de El Imperio de los Incas: Organización Política, Social y Económica para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pachacútec",
+          "is_correct": true,
+          "feedback": "Correcto. Pachacútec (Cusi Yupanqui) transformó el curacazgo del Cusco en un imperio expansivo."
+        },
+        {
+          "letter": "B",
+          "text": "Túpac Yupanqui",
+          "is_correct": false,
+          "feedback": "Incorrecto. Túpac Yupanqui fue el gran conquistador que extendió los límites hasta Chile y Ecuador."
+        },
+        {
+          "letter": "C",
+          "text": "Huayna Cápac",
+          "is_correct": false,
+          "feedback": "Incorrecto. Huayna Cápac consolidó las fronteras del norte en el actual Ecuador."
+        },
+        {
+          "letter": "D",
+          "text": "Atahualpa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Atahualpa protagonizó la guerra civil contra su hermano Huáscar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pachacútec inició la fase imperial reconstruyendo el Cusco y dividiendo el territorio en cuatro suyos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.77,
+      "bundle_id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v5",
+      "statement": "La red vial monumental que conectaba todos los suyos del imperio incaico se denominaba:",
+      "context": "Un estudiante en un colegio de Chiclayo repasa temas de El Imperio de los Incas: Organización Política, Social y Económica para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Qhapaq Ñan",
+          "is_correct": true,
+          "feedback": "Correcto. El Qhapaq Ñan recorría más de 30,000 km de caminos con tambos y chasquis."
+        },
+        {
+          "letter": "B",
+          "text": "Chala",
+          "is_correct": false,
+          "feedback": "Incorrecto. Chala es la región geográfica litoral."
+        },
+        {
+          "letter": "C",
+          "text": "Intihuatana",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Intihuatana era un reloj solar ritual de piedra."
+        },
+        {
+          "letter": "D",
+          "text": "Yachayhuasi",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Yachayhuasi era la casa del saber o escuela para los jóvenes de la nobleza."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Qhapaq Ñan articuló el transporte de tropas, mensajeros y recursos a lo largo de los Andes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.72,
+      "bundle_id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v6",
+      "statement": "Las escuelas destinadas a la educación de la nobleza incaica Cuzqueña recibían el nombre de:",
+      "context": "Un estudiante en un colegio de Iquitos repasa temas de El Imperio de los Incas: Organización Política, Social y Económica para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yachayhuasi",
+          "is_correct": true,
+          "feedback": "Correcto. El Yachayhuasi era dirigido por los amautas para instruir a los futuros gobernantes."
+        },
+        {
+          "letter": "B",
+          "text": "Acllahuasi",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Acllahuasi abrigaba a las escogidas (acllas) para labores textiles y religiosas."
+        },
+        {
+          "letter": "C",
+          "text": "Pukara",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pukara hace referencia a fortalezas de piedra defensivas."
+        },
+        {
+          "letter": "D",
+          "text": "Colca",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las colcas eran depósitos estatales de alimentos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el Yachayhuasi los amautas enseñaban historia, leyes, milicia y el uso de los quipus.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.69,
+      "bundle_id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v7",
+      "statement": "El sistema de registro contable y mnemotécnico a base de cuerdas de colores y nudos en el imperio incaico era el:",
+      "context": "Un estudiante en un colegio de Piura repasa temas de El Imperio de los Incas: Organización Política, Social y Económica para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quipu",
+          "is_correct": true,
+          "feedback": "Correcto. El quipu registraba datos de población, cosechas, tributación y producción."
+        },
+        {
+          "letter": "B",
+          "text": "Tocapu",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tocapu corresponde a los diseños geométricos bordados en los tejidos nobles."
+        },
+        {
+          "letter": "C",
+          "text": "Kero",
+          "is_correct": false,
+          "feedback": "Incorrecto. El kero era el vaso ceremonial de madera."
+        },
+        {
+          "letter": "D",
+          "text": "Tumi",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tumi era el cuchillo ceremonial metálico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los quipus eran administrados por los quipucamayoc para mantener el control estadístico del Estado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.66,
+      "bundle_id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v8",
+      "statement": "En la cosmovisión incaica, el mundo subterráneo o del interior habitado por los muertos y germen de la vida se denominaba:",
+      "context": "Un estudiante en un colegio de Huancayo repasa temas de El Imperio de los Incas: Organización Política, Social y Económica para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uku Pacha",
+          "is_correct": true,
+          "feedback": "Correcto. El Uku Pacha representaba el mundo de abajo o interior."
+        },
+        {
+          "letter": "B",
+          "text": "Hanan Pacha",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Hanan Pacha era el mundo de arriba o celestial habitado por el Sol y la Luna."
+        },
+        {
+          "letter": "C",
+          "text": "Kay Pacha",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Kay Pacha era el mundo terrenal presente donde habitaban los seres humanos."
+        },
+        {
+          "letter": "D",
+          "text": "Pacarina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pacarina era el lugar místico de origen de un ayllu (cueva, lago, nevado)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La división tripartita del espacio sagrado andino comprendía Hanan Pacha, Kay Pacha y Uku Pacha.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.63,
+      "bundle_id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v9",
+      "statement": "Los mensajeros veloces que se desplazaban por relevos a lo largo del Qhapaq Ñan para transmitir órdenes e informaciones eran los:",
+      "context": "Un estudiante en un colegio de Puno repasa temas de El Imperio de los Incas: Organización Política, Social y Económica para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chasquis",
+          "is_correct": true,
+          "feedback": "Correcto. Los chasquis se albergaban en los tambos y corrían por tramos llevando quipus y encargos."
+        },
+        {
+          "letter": "B",
+          "text": "Mitimaes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los mitimaes eran poblaciones trasladadas a otras provincias."
+        },
+        {
+          "letter": "C",
+          "text": "Yanaconas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los yanaconas eran servidores perpetuos del Inca o del Estado."
+        },
+        {
+          "letter": "D",
+          "text": "Piñas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los piñas eran prisioneros de guerra destinados a los cocales insalubres."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sistema de chasquis permitía una comunicación veloz entre la capital imperial y las fronteras lejanas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál era la deidad incaica vinculada al Rayo, el Trueno y la Lluvia indispensable para las cosechas agrícolas?",
+      "context": "Un estudiante en un colegio de Ayacucho repasa temas de El Imperio de los Incas: Organización Política, Social y Económica para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Illapa",
+          "is_correct": true,
+          "feedback": "Correcto. Illapa era muy venerado en la sierra por ser el regulador del clima y las lluvias."
+        },
+        {
+          "letter": "B",
+          "text": "Pachacámac",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pachacámac era el dios costeño de los terremotos."
+        },
+        {
+          "letter": "C",
+          "text": "Inti",
+          "is_correct": false,
+          "feedback": "Incorrecto. Inti era el dios Sol, divinidad oficial de la panaca real."
+        },
+        {
+          "letter": "D",
+          "text": "Wiracocha",
+          "is_correct": false,
+          "feedback": "Incorrecto. Wiracocha era considerado el dios ordenador del cosmos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Illapa personificaba las fuerzas atmosféricas protectoras de la agricultura andina.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v11",
+      "statement": "Los depósitos estatales situados a lo largo de los caminos para almacenar excedentes agrícolas y pertrechos militares se llamaban:",
+      "context": "Un estudiante en un colegio de Lima repasa temas de El Imperio de los Incas: Organización Política, Social y Económica para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Colcas",
+          "is_correct": true,
+          "feedback": "Correcto. Las colcas aseguraban la redistribución estatal en épocas de sequía o campañas militares."
+        },
+        {
+          "letter": "B",
+          "text": "Tambos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los tambos eran alojamientos y posadas para viajeros y chasquis."
+        },
+        {
+          "letter": "C",
+          "text": "Andenes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los andenes eran terrazas de cultivo en las laderas."
+        },
+        {
+          "letter": "D",
+          "text": "Puquios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los puquios eran manantiales o pozos subterráneos de agua."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las colcas mantenían secos y preservados granos como el maíz y la chuño gracias al clima frío.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.51,
+      "bundle_id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v12",
+      "statement": "¿Qué categoría social incaica estaba formada por prisioneros de guerra sometidos a trabajos forzados en los cocales de la selva?",
+      "context": "Un estudiante en un colegio de Cusco repasa temas de El Imperio de los Incas: Organización Política, Social y Económica para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Piñas",
+          "is_correct": true,
+          "feedback": "Correcto. Los piñas constituían el escalafón más bajo y servil de la estructura social incaica."
+        },
+        {
+          "letter": "B",
+          "text": "Mitimaes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los mitimaes conservaban la cohesión comunal de su ayllu desplazado."
+        },
+        {
+          "letter": "C",
+          "text": "Yanaconas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los yanaconas servían directamente a la nobleza sin carácter de esclavitud total de guerra."
+        },
+        {
+          "letter": "D",
+          "text": "Hatunrunas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los hatunrunas eran los hombres libres del pueblo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los piñas representaban una fuerza laboral en condición de servidumbre forzada en zonas de riesgo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.47,
+      "bundle_id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v13",
+      "statement": "El principio ético y económico incaico basado en la prestación mutua de servicios dentro de un mismo ayllu ('hoy por ti, mañana por mí') era el:",
+      "context": "Un estudiante en un colegio de Arequipa repasa temas de El Imperio de los Incas: Organización Política, Social y Económica para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ayni",
+          "is_correct": true,
+          "feedback": "Correcto. El ayni era la norma de reciprocidad directa y simétrica entre las familias del ayllu."
+        },
+        {
+          "letter": "B",
+          "text": "Mita",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mita era la prestación laboral asimétrica hacia el Estado."
+        },
+        {
+          "letter": "C",
+          "text": "Minca",
+          "is_correct": false,
+          "feedback": "Incorrecto. La minca era el trabajo colectivo para la comunidad."
+        },
+        {
+          "letter": "D",
+          "text": "Tupay",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tupay se refiere al encuentro o enfrentamiento ritual entre parcialidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ayni vertebraba la solidaridad familiar y comunitaria en la sociedad andina.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v14",
+      "statement": "La esposa principal del Sapa Inca, perteneciente a la alta nobleza imperial, ostentaba el título de:",
+      "context": "Un estudiante en un colegio de Trujillo repasa temas de El Imperio de los Incas: Organización Política, Social y Económica para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Coya",
+          "is_correct": true,
+          "feedback": "Correcto. La Coya acompañaba al Sapa Inca y presidía los rituales femeninos sagrados."
+        },
+        {
+          "letter": "B",
+          "text": "Ñusta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Ñusta era la princesa soltera de la familia real."
+        },
+        {
+          "letter": "C",
+          "text": "Palla",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Palla era la mujer noble casada."
+        },
+        {
+          "letter": "D",
+          "text": "Mamaconas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mamaconas eran las matronas instructoras en los acllahuasis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Coya gozaba de gran prestigio político y religioso en la corte imperial cuzqueña.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.39,
+      "bundle_id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v15",
+      "statement": "Las terrazas agrícolas construidas en las laderas de los cerros para ampliar la frontera agrícola y evitar la erosión se conocen como:",
+      "context": "Un estudiante en un colegio de Chiclayo repasa temas de El Imperio de los Incas: Organización Política, Social y Económica para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Andenes",
+          "is_correct": true,
+          "feedback": "Correcto. Los andenes permitían optimizar el riego y el uso del suelo en la accidentada topografía andina."
+        },
+        {
+          "letter": "B",
+          "text": "Camellones (Waru Waru)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los waru waru eran plataformas de tierra rodeadas de agua en el altiplano."
+        },
+        {
+          "letter": "C",
+          "text": "Puquios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los puquios eran canales o pozos de captación acuífera."
+        },
+        {
+          "letter": "D",
+          "text": "Huatadas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las huatadas eran lagunas artificiales temporales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La construcción masiva de andenes por los incas transformó las pendientes en valles fértiles.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v16",
+      "statement": "El gobernador político y militar de una provincia o Wamani en el Tahuantinsuyo era el:",
+      "context": "Un estudiante en un colegio de Iquitos repasa temas de El Imperio de los Incas: Organización Política, Social y Económica para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apunchic o Tocricut",
+          "is_correct": true,
+          "feedback": "Correcto. El Apunchic mantenía el orden provincial y dependía directamente del Consejo Imperial."
+        },
+        {
+          "letter": "B",
+          "text": "Tucuy Ricuy",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Tucuy Ricuy era el fiscalizador ambulante confidencial del Inca."
+        },
+        {
+          "letter": "C",
+          "text": "Curaca",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Curaca gobernaba el ayllu local."
+        },
+        {
+          "letter": "D",
+          "text": "Chasqui",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Chasqui era el correo imperial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Apunchic ostentaba atribuciones administrativas, judiciales y militares en su demarcación.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.31,
+      "bundle_id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v17",
+      "statement": "¿En cuántos suyos o regiones estaba dividido el imperio del Tahuantinsuyo?",
+      "context": "Un estudiante en un colegio de Piura repasa temas de El Imperio de los Incas: Organización Política, Social y Económica para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuatro",
+          "is_correct": true,
+          "feedback": "Correcto. El Tahuantinsuyo significa 'las cuatro regiones unidas' (Chinchaysuyo, Antisuyo, Contisuyo, Collasuyo)."
+        },
+        {
+          "letter": "B",
+          "text": "Tres",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tres corresponde a una división geográfica básica no administrativa."
+        },
+        {
+          "letter": "C",
+          "text": "Dos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dos corresponde a la dualidad Hanan y Hurin Cuzco."
+        },
+        {
+          "letter": "D",
+          "text": "Ocho",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocho corresponde a la división regional natural de Pulgar Vidal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Tahuantinsuyo se dividió en cuatro suyos que convergían en la ciudad sagrada del Cusco.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v18",
+      "statement": "El consejo asesor integrado por los jefes de cada uno de los cuatro suyos que asesoraba al Inca se denominaba:",
+      "context": "Un estudiante en un colegio de Huancayo repasa temas de El Imperio de los Incas: Organización Política, Social y Económica para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Suyuyuc Apu (Consejo Imperial)",
+          "is_correct": true,
+          "feedback": "Correcto. El Consejo Imperial representaba la alta instancia consultiva de la administración incaica."
+        },
+        {
+          "letter": "B",
+          "text": "Tribunal de la Inquisición",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Inquisición fue una institución del virreinato español."
+        },
+        {
+          "letter": "C",
+          "text": "Cabildo de Regidores",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Cabildo fue el municipio colonial hispano."
+        },
+        {
+          "letter": "D",
+          "text": "Asamblea de Curacas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los curacas se reunían localmente pero no formaban el consejo central del Cusco."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Suyuyuc Apu aconsejaba al soberano en decisiones de paz, guerra y administración territorial.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál era el cultivo sagrado y base de la alimentación incaica junto con la papa?",
+      "context": "Un estudiante en un colegio de Puno repasa temas de El Imperio de los Incas: Organización Política, Social y Económica para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maíz (Sara)",
+          "is_correct": true,
+          "feedback": "Correcto. El maíz poseía un alto valor ritual, económico y ceremonial en el Tahuantinsuyo."
+        },
+        {
+          "letter": "B",
+          "text": "Trigo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El trigo fue introducido posteriormente por los europeos."
+        },
+        {
+          "letter": "C",
+          "text": "Arroz",
+          "is_correct": false,
+          "feedback": "Incorrecto. El arroz se trajo de Asia a la costa peruana en la época colonial."
+        },
+        {
+          "letter": "D",
+          "text": "Cebada",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cebada es un cereal europeo del Viejo Mundo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El maíz se cultivaba en valles templados y se destinaba a la producción de chicha para la reciprocidad.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.15,
+      "bundle_id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle-v20",
+      "statement": "La batalla en la cual los incas liderados por Cusi Yupanqui derrotaron a los chancas salvando la ciudad del Cusco se denomina:",
+      "context": "Un estudiante en un colegio de Ayacucho repasa temas de El Imperio de los Incas: Organización Política, Social y Económica para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Batalla de Yahuarpampa",
+          "is_correct": true,
+          "feedback": "Correcto. Yahuarpampa ('pampa de sangre') marcó el nacimiento histórico del imperio incaico."
+        },
+        {
+          "letter": "B",
+          "text": "Batalla de Jaquijahuana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Jaquijahuana fue la batalla donde Pedro de la Gasca derrotó a Gonzalo Pizarro."
+        },
+        {
+          "letter": "C",
+          "text": "Batalla de Las Salinas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las Salinas fue el enfrentamiento entre almagristas y pizarristas."
+        },
+        {
+          "letter": "D",
+          "text": "Batalla de Ayacucho",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ayacucho fue la batalla decisiva de la independencia peruana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La victoria sobre los chancas permitió a Pachacútec fundar la fase de expansión imperial incaica.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.1,
+      "bundle_id": "PE-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    }
+  ]
+}

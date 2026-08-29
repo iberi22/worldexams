@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "cl",
+    "pack_id": "cl-week-11-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T04:04:54.088Z"
+  },
+  "questions": [
+    {
+      "id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v1",
+      "statement": "Un móvil en Chillán acelera a $a = 2 \\text{ m/s}^2$ durante $t = 5 \\text{ s}$ partiendo con velocidad inicial $v_0 = 3 \\text{ m/s}$. ¿Cuál es su velocidad final $v_f$?",
+      "context": "Valentina analiza situaciones académicas en Chillán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$13 \\text{ m/s}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! vf = v0 + a*t = 3 + 2*5 = 13 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "$21 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "$15 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
+        },
+        {
+          "letter": "D",
+          "text": "$10 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 3 + 2*5 = 13 m/s.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v2",
+      "statement": "Un móvil en Calama acelera a $a = 2 \\text{ m/s}^2$ durante $t = 5 \\text{ s}$ partiendo con velocidad inicial $v_0 = 6 \\text{ m/s}$. ¿Cuál es su velocidad final $v_f$?",
+      "context": "Isidora analiza situaciones académicas en Calama.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$16 \\text{ m/s}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! vf = v0 + a*t = 6 + 2*5 = 16 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "$24 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "$30 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
+        },
+        {
+          "letter": "D",
+          "text": "$10 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 6 + 2*5 = 16 m/s.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v3",
+      "statement": "Un móvil en Valdivia acelera a $a = 2 \\text{ m/s}^2$ durante $t = 5 \\text{ s}$ partiendo con velocidad inicial $v_0 = 9 \\text{ m/s}$. ¿Cuál es su velocidad final $v_f$?",
+      "context": "Martina analiza situaciones académicas en Valdivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$19 \\text{ m/s}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! vf = v0 + a*t = 9 + 2*5 = 19 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "$27 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "$45 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
+        },
+        {
+          "letter": "D",
+          "text": "$10 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 9 + 2*5 = 19 m/s.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v4",
+      "statement": "Un móvil en Santiago acelera a $a = 2 \\text{ m/s}^2$ durante $t = 5 \\text{ s}$ partiendo con velocidad inicial $v_0 = 12 \\text{ m/s}$. ¿Cuál es su velocidad final $v_f$?",
+      "context": "Fernanda analiza situaciones académicas en Santiago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$22 \\text{ m/s}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! vf = v0 + a*t = 12 + 2*5 = 22 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "$30 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "$60 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
+        },
+        {
+          "letter": "D",
+          "text": "$10 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 12 + 2*5 = 22 m/s.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v5",
+      "statement": "Un móvil en Valparaíso acelera a $a = 2 \\text{ m/s}^2$ durante $t = 5 \\text{ s}$ partiendo con velocidad inicial $v_0 = 15 \\text{ m/s}$. ¿Cuál es su velocidad final $v_f$?",
+      "context": "Tomás analiza situaciones académicas en Valparaíso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$25 \\text{ m/s}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! vf = v0 + a*t = 15 + 2*5 = 25 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "$33 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "$75 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
+        },
+        {
+          "letter": "D",
+          "text": "$10 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 15 + 2*5 = 25 m/s.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v6",
+      "statement": "Un móvil en Concepción acelera a $a = 2 \\text{ m/s}^2$ durante $t = 5 \\text{ s}$ partiendo con velocidad inicial $v_0 = 18 \\text{ m/s}$. ¿Cuál es su velocidad final $v_f$?",
+      "context": "Matías analiza situaciones académicas en Concepción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$28 \\text{ m/s}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! vf = v0 + a*t = 18 + 2*5 = 28 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "$36 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "$90 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
+        },
+        {
+          "letter": "D",
+          "text": "$10 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 18 + 2*5 = 28 m/s.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v7",
+      "statement": "Un móvil en Antofagasta acelera a $a = 2 \\text{ m/s}^2$ durante $t = 5 \\text{ s}$ partiendo con velocidad inicial $v_0 = 21 \\text{ m/s}$. ¿Cuál es su velocidad final $v_f$?",
+      "context": "Benjamín analiza situaciones académicas en Antofagasta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$31 \\text{ m/s}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! vf = v0 + a*t = 21 + 2*5 = 31 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "$39 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "$105 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
+        },
+        {
+          "letter": "D",
+          "text": "$10 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 21 + 2*5 = 31 m/s.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v8",
+      "statement": "Un móvil en Temuco acelera a $a = 2 \\text{ m/s}^2$ durante $t = 5 \\text{ s}$ partiendo con velocidad inicial $v_0 = 24 \\text{ m/s}$. ¿Cuál es su velocidad final $v_f$?",
+      "context": "Javier analiza situaciones académicas en Temuco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$34 \\text{ m/s}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! vf = v0 + a*t = 24 + 2*5 = 34 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "$42 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "$120 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
+        },
+        {
+          "letter": "D",
+          "text": "$10 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 24 + 2*5 = 34 m/s.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v9",
+      "statement": "Un móvil en La Serena acelera a $a = 2 \\text{ m/s}^2$ durante $t = 5 \\text{ s}$ partiendo con velocidad inicial $v_0 = 27 \\text{ m/s}$. ¿Cuál es su velocidad final $v_f$?",
+      "context": "Camila analiza situaciones académicas en La Serena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$37 \\text{ m/s}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! vf = v0 + a*t = 27 + 2*5 = 37 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "$45 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "$135 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
+        },
+        {
+          "letter": "D",
+          "text": "$10 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 27 + 2*5 = 37 m/s.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.66,
+      "bundle_id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v10",
+      "statement": "Un móvil en Viña del Mar acelera a $a = 2 \\text{ m/s}^2$ durante $t = 5 \\text{ s}$ partiendo con velocidad inicial $v_0 = 30 \\text{ m/s}$. ¿Cuál es su velocidad final $v_f$?",
+      "context": "Catalina analiza situaciones académicas en Viña del Mar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$40 \\text{ m/s}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! vf = v0 + a*t = 30 + 2*5 = 40 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "$48 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "$150 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
+        },
+        {
+          "letter": "D",
+          "text": "$10 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 30 + 2*5 = 40 m/s.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.64,
+      "bundle_id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v11",
+      "statement": "Un móvil en Iquique acelera a $a = 2 \\text{ m/s}^2$ durante $t = 5 \\text{ s}$ partiendo con velocidad inicial $v_0 = 33 \\text{ m/s}$. ¿Cuál es su velocidad final $v_f$?",
+      "context": "Sofía analiza situaciones académicas en Iquique.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$43 \\text{ m/s}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! vf = v0 + a*t = 33 + 2*5 = 43 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "$51 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "$165 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
+        },
+        {
+          "letter": "D",
+          "text": "$10 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 33 + 2*5 = 43 m/s.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v12",
+      "statement": "Un móvil en Rancagua acelera a $a = 2 \\text{ m/s}^2$ durante $t = 5 \\text{ s}$ partiendo con velocidad inicial $v_0 = 36 \\text{ m/s}$. ¿Cuál es su velocidad final $v_f$?",
+      "context": "Lucas analiza situaciones académicas en Rancagua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$46 \\text{ m/s}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! vf = v0 + a*t = 36 + 2*5 = 46 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "$54 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "$180 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
+        },
+        {
+          "letter": "D",
+          "text": "$10 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 36 + 2*5 = 46 m/s.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.56,
+      "bundle_id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v13",
+      "statement": "Un móvil en Talca acelera a $a = 2 \\text{ m/s}^2$ durante $t = 5 \\text{ s}$ partiendo con velocidad inicial $v_0 = 39 \\text{ m/s}$. ¿Cuál es su velocidad final $v_f$?",
+      "context": "Diego analiza situaciones académicas en Talca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$49 \\text{ m/s}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! vf = v0 + a*t = 39 + 2*5 = 49 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "$57 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "$195 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
+        },
+        {
+          "letter": "D",
+          "text": "$10 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 39 + 2*5 = 49 m/s.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.54,
+      "bundle_id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v14",
+      "statement": "Un móvil en Arica acelera a $a = 2 \\text{ m/s}^2$ durante $t = 5 \\text{ s}$ partiendo con velocidad inicial $v_0 = 42 \\text{ m/s}$. ¿Cuál es su velocidad final $v_f$?",
+      "context": "Vicente analiza situaciones académicas en Arica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$52 \\text{ m/s}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! vf = v0 + a*t = 42 + 2*5 = 52 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "$60 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "$210 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
+        },
+        {
+          "letter": "D",
+          "text": "$10 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 42 + 2*5 = 52 m/s.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v15",
+      "statement": "Un móvil en Puerto Montt acelera a $a = 2 \\text{ m/s}^2$ durante $t = 5 \\text{ s}$ partiendo con velocidad inicial $v_0 = 45 \\text{ m/s}$. ¿Cuál es su velocidad final $v_f$?",
+      "context": "Sebastián analiza situaciones académicas en Puerto Montt.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$55 \\text{ m/s}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! vf = v0 + a*t = 45 + 2*5 = 55 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "$63 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "$225 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
+        },
+        {
+          "letter": "D",
+          "text": "$10 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 45 + 2*5 = 55 m/s.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v16",
+      "statement": "Un móvil en Chillán acelera a $a = 2 \\text{ m/s}^2$ durante $t = 5 \\text{ s}$ partiendo con velocidad inicial $v_0 = 48 \\text{ m/s}$. ¿Cuál es su velocidad final $v_f$?",
+      "context": "Valentina analiza situaciones académicas en Chillán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$58 \\text{ m/s}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! vf = v0 + a*t = 48 + 2*5 = 58 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "$66 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "$240 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
+        },
+        {
+          "letter": "D",
+          "text": "$10 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 48 + 2*5 = 58 m/s.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v17",
+      "statement": "Un móvil en Calama acelera a $a = 2 \\text{ m/s}^2$ durante $t = 5 \\text{ s}$ partiendo con velocidad inicial $v_0 = 51 \\text{ m/s}$. ¿Cuál es su velocidad final $v_f$?",
+      "context": "Isidora analiza situaciones académicas en Calama.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$61 \\text{ m/s}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! vf = v0 + a*t = 51 + 2*5 = 61 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "$69 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "$255 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
+        },
+        {
+          "letter": "D",
+          "text": "$10 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 51 + 2*5 = 61 m/s.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v18",
+      "statement": "Un móvil en Valdivia acelera a $a = 2 \\text{ m/s}^2$ durante $t = 5 \\text{ s}$ partiendo con velocidad inicial $v_0 = 54 \\text{ m/s}$. ¿Cuál es su velocidad final $v_f$?",
+      "context": "Martina analiza situaciones académicas en Valdivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$64 \\text{ m/s}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! vf = v0 + a*t = 54 + 2*5 = 64 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "$72 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "$270 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
+        },
+        {
+          "letter": "D",
+          "text": "$10 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 54 + 2*5 = 64 m/s.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v19",
+      "statement": "Un móvil en Santiago acelera a $a = 2 \\text{ m/s}^2$ durante $t = 5 \\text{ s}$ partiendo con velocidad inicial $v_0 = 57 \\text{ m/s}$. ¿Cuál es su velocidad final $v_f$?",
+      "context": "Fernanda analiza situaciones académicas en Santiago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$67 \\text{ m/s}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! vf = v0 + a*t = 57 + 2*5 = 67 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "$75 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "$285 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
+        },
+        {
+          "letter": "D",
+          "text": "$10 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 57 + 2*5 = 67 m/s.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.29,
+      "bundle_id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle-v20",
+      "statement": "Un móvil en Valparaíso acelera a $a = 2 \\text{ m/s}^2$ durante $t = 5 \\text{ s}$ partiendo con velocidad inicial $v_0 = 60 \\text{ m/s}$. ¿Cuál es su velocidad final $v_f$?",
+      "context": "Tomás analiza situaciones académicas en Valparaíso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$70 \\text{ m/s}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! vf = v0 + a*t = 60 + 2*5 = 70 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "$78 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "$300 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
+        },
+        {
+          "letter": "D",
+          "text": "$10 \\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 60 + 2*5 = 70 m/s.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.26,
+      "bundle_id": "CL-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

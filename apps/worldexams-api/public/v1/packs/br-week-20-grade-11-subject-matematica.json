@@ -8,43 +8,43 @@
   },
   "questions": [
     {
-      "id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v1",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 5 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade avançada: condicional e eventos independentes.",
+      "id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle-v1",
+      "statement": "O que afirma o princípio fundamental da contagem?",
+      "context": "Um estudante em São Paulo revisa o princípio fundamental da contagem para o ENEM.",
       "options": [
         {
           "letter": "A",
-          "text": "25 metros",
+          "text": "Se uma decisão tem m opções e outra tem n opções, o total de combinações é m × n",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: o princípio multiplicativo combina as escolhas por multiplicação."
         },
         {
           "letter": "B",
-          "text": "5 metros",
+          "text": "Se uma decisão tem m opções e outra tem n opções, o total é m + n",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: a adição só se aplica a casos mutuamente exclusivos."
         },
         {
           "letter": "C",
-          "text": "30 metros",
+          "text": "O total de combinações é sempre m^n",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: potência aparece apenas em casos específicos com repetição."
         },
         {
           "letter": "D",
-          "text": "7 metros",
+          "text": "O total de combinações é a diferença entre m e n",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: a subtração não representa a combinação de escolhas."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 5 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 5 + 2 * 10 = 25 metros.",
-      "difficulty": "3",
+      "explanation": "O princípio fundamental da contagem (multiplicativo) diz que, se uma escolha pode ser feita de m modos e, para cada um deles, outra de n modos, o total de possibilidades é m × n.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.81,
-      "bundle_id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "expected_success": 0.85,
+      "bundle_id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -53,43 +53,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v2",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 10 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade avançada: condicional e eventos independentes.",
+      "id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle-v2",
+      "statement": "Qual é a fórmula do número de combinações de n elementos tomados p a p, com p ≤ n?",
+      "context": "Durante uma aula em Curitiba, o professor apresenta a fórmula da combinação.",
       "options": [
         {
           "letter": "A",
-          "text": "30 metros",
+          "text": "C(n, p) = n! / (p! · (n − p)!)",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: essa é a fórmula clássica da combinação simples."
         },
         {
           "letter": "B",
-          "text": "10 metros",
+          "text": "C(n, p) = n! / (n − p)!",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: essa é a fórmula do arranjo simples A(n, p)."
         },
         {
           "letter": "C",
-          "text": "35 metros",
+          "text": "C(n, p) = n! · p!",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: o produto de fatoriais não define combinação."
         },
         {
           "letter": "D",
-          "text": "12 metros",
+          "text": "C(n, p) = n! / p!",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: faltou o fator (n − p)! no denominador."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 10 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 10 + 2 * 10 = 30 metros.",
-      "difficulty": "3",
+      "explanation": "A combinação simples, usada quando a ordem não importa, é C(n, p) = n! / (p! · (n − p)!). O arranjo A(n, p) = n!/(n − p)! é o caso em que a ordem importa.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.77,
-      "bundle_id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "expected_success": 0.8,
+      "bundle_id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -98,43 +98,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v3",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 15 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade avançada: condicional e eventos independentes.",
+      "id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle-v3",
+      "statement": "Quando a ordem dos elementos importa, qual técnica de contagem deve ser usada?",
+      "context": "Um arquiteto no Rio de Janeiro organiza a fila de apresentação de projetos.",
       "options": [
         {
           "letter": "A",
-          "text": "35 metros",
+          "text": "Arranjo ou permutação",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: quando a ordem altera o resultado, usam-se arranjo ou permutação."
         },
         {
           "letter": "B",
-          "text": "15 metros",
+          "text": "Combinação",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: a combinação é usada quando a ordem não importa."
         },
         {
           "letter": "C",
-          "text": "40 metros",
+          "text": "Amplitude",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: amplitude é um conceito da estatística, não de contagem."
         },
         {
           "letter": "D",
-          "text": "17 metros",
+          "text": "Média ponderada",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: média ponderada não é uma técnica de contagem."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 15 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 15 + 2 * 10 = 35 metros.",
+      "explanation": "Arranjos e permutações consideram a ordem dos elementos, enquanto combinações a ignoram. A escolha entre elas depende de a ordem alterar ou não o resultado.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.73,
-      "bundle_id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "expected_success": 0.75,
+      "bundle_id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -143,43 +143,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v4",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 20 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade avançada: condicional e eventos independentes.",
+      "id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle-v4",
+      "statement": "Quanto vale 5! (cinco fatorial)?",
+      "context": "Um estudante em Brasília calcula o fatorial de um número pequeno.",
       "options": [
         {
           "letter": "A",
-          "text": "40 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorreto: 25 é o quadrado de 5, não o fatorial."
         },
         {
           "letter": "B",
-          "text": "20 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "120",
+          "is_correct": true,
+          "feedback": "Correto: 5! = 5 × 4 × 3 × 2 × 1 = 120."
         },
         {
           "letter": "C",
-          "text": "45 metros",
+          "text": "15",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 15 é a soma 5 + 4 + 3 + 2 + 1, não o produto."
         },
         {
           "letter": "D",
-          "text": "22 metros",
+          "text": "60",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 60 seria o produto 5 × 4 × 3, ignorando os fatores 2 e 1."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 20 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 20 + 2 * 10 = 40 metros.",
+      "correct_answer": "B",
+      "explanation": "O fatorial de n é o produto dos inteiros positivos de 1 até n: 5! = 5 × 4 × 3 × 2 × 1 = 120.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.69,
-      "bundle_id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "expected_success": 0.7,
+      "bundle_id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -188,43 +188,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v5",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 25 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade avançada: condicional e eventos independentes.",
+      "id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle-v5",
+      "statement": "Uma loja tem 3 modelos de camisa e 4 modelos de calça. De quantas maneiras diferentes um cliente pode escolher uma camisa e uma calça?",
+      "context": "Um vendedor em Salvador combina camisas e calças para montar vitrines.",
       "options": [
         {
           "letter": "A",
-          "text": "45 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorreto: 7 seria a soma 3 + 4, mas as escolhas são combinadas por multiplicação."
         },
         {
           "letter": "B",
-          "text": "25 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "12",
+          "is_correct": true,
+          "feedback": "Correto: pelo princípio multiplicativo, 3 × 4 = 12."
         },
         {
           "letter": "C",
-          "text": "50 metros",
+          "text": "9",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 9 seria 3 × 3, ignorando os 4 modelos de calça."
         },
         {
           "letter": "D",
-          "text": "27 metros",
+          "text": "34",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 34 não corresponde a nenhuma operação entre 3 e 4."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 25 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 25 + 2 * 10 = 45 metros.",
-      "difficulty": "5",
+      "correct_answer": "B",
+      "explanation": "Cada uma das 3 camisas pode ser combinada com cada uma das 4 calças: 3 × 4 = 12 combinações.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.67,
-      "bundle_id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "expected_success": 0.65,
+      "bundle_id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -233,43 +233,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v6",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 30 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade avançada: condicional e eventos independentes.",
+      "id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle-v6",
+      "statement": "Um restaurante oferece 2 opções de entrada, 4 pratos principais e 3 sobremesas. Quantos menus completos (entrada, prato e sobremesa) são possíveis?",
+      "context": "Um restaurante em Recife monta um menu com etapas de escolha.",
       "options": [
         {
           "letter": "A",
-          "text": "50 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorreto: 9 seria a soma das quantidades de opções."
         },
         {
           "letter": "B",
-          "text": "30 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "24",
+          "is_correct": true,
+          "feedback": "Correto: 2 × 4 × 3 = 24 menus completos."
         },
         {
           "letter": "C",
-          "text": "55 metros",
+          "text": "12",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 12 seria o produto apenas de 4 × 3."
         },
         {
           "letter": "D",
-          "text": "32 metros",
+          "text": "20",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 20 não corresponde ao produto das três quantidades."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 30 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 30 + 2 * 10 = 50 metros.",
-      "difficulty": "5",
+      "correct_answer": "B",
+      "explanation": "Pelo princípio multiplicativo: 2 entradas × 4 pratos × 3 sobremesas = 24 menus completos.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.64,
-      "bundle_id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -278,88 +278,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v7",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 35 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade avançada: condicional e eventos independentes.",
+      "id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle-v7",
+      "statement": "De quantas maneiras 4 livros distintos podem ser organizados em uma prateleira?",
+      "context": "Uma bibliotecária em Fortaleza organiza livros distintos em uma prateleira.",
       "options": [
         {
           "letter": "A",
-          "text": "55 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorreto: 16 seria 4², o que valeria se cada posição aceitasse repetição."
         },
         {
           "letter": "B",
-          "text": "35 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
-        },
-        {
-          "letter": "C",
-          "text": "60 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
-        },
-        {
-          "letter": "D",
-          "text": "37 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 35 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 35 + 2 * 10 = 55 metros.",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.61,
-      "bundle_id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
-      "periodo": 20,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "br"
-    },
-    {
-      "id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v8",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 40 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade avançada: condicional e eventos independentes.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "60 metros",
+          "text": "24",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
-        },
-        {
-          "letter": "B",
-          "text": "40 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Correto: trata-se de uma permutação: 4! = 24."
         },
         {
           "letter": "C",
-          "text": "65 metros",
+          "text": "12",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 12 seria 4 × 3, ignorando as demais posições."
         },
         {
           "letter": "D",
-          "text": "42 metros",
+          "text": "8",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 8 seria 4 × 2, sem correspondência com a permutação."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 40 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 40 + 2 * 10 = 60 metros.",
+      "correct_answer": "B",
+      "explanation": "Organizar 4 livros distintos é uma permutação de 4 elementos: 4! = 4 × 3 × 2 × 1 = 24.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.58,
-      "bundle_id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -368,43 +323,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v9",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 45 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade avançada: condicional e eventos independentes.",
+      "id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle-v8",
+      "statement": "De quantas maneiras podem ser escolhidas 2 pessoas entre 6 para formar uma dupla?",
+      "context": "Um organizador em Goiânia escolhe duplas para um torneio de xadrez.",
       "options": [
         {
           "letter": "A",
-          "text": "65 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorreto: 12 seria o arranjo A(6,2) considerando posições, e a ordem da dupla não importa."
         },
         {
           "letter": "B",
-          "text": "45 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "15",
+          "is_correct": true,
+          "feedback": "Correto: C(6,2) = 6!/(2!·4!) = 30/2 = 15."
         },
         {
           "letter": "C",
-          "text": "70 metros",
+          "text": "30",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 30 seria A(6,2) = 6 × 5, contando cada dupla duas vezes."
         },
         {
           "letter": "D",
-          "text": "47 metros",
+          "text": "36",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 36 seria 6², contando com repetição."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 45 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 45 + 2 * 10 = 65 metros.",
+      "correct_answer": "B",
+      "explanation": "Como a ordem dos dois integrantes não importa, usa-se combinação: C(6,2) = (6 × 5)/2 = 15.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "expected_success": 0.55,
-      "bundle_id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -413,43 +368,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v10",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 50 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade avançada: condicional e eventos independentes.",
+      "id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle-v9",
+      "statement": "De quantas maneiras 2 atletas podem ocupar o 1º e o 2º lugar em uma prova com 5 participantes?",
+      "context": "Um professor em Manaus organiza a escolha de atletas para as duas primeiras posições de uma prova.",
       "options": [
         {
           "letter": "A",
-          "text": "70 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorreto: 10 seria a combinação C(5,2), que ignora a ordem dos lugares."
         },
         {
           "letter": "B",
-          "text": "50 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "20",
+          "is_correct": true,
+          "feedback": "Correto: o 1º lugar tem 5 opções e o 2º tem 4: 5 × 4 = 20."
         },
         {
           "letter": "C",
-          "text": "75 metros",
+          "text": "25",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 25 seria 5², permitindo que o mesmo atleta ocupe as duas posições."
         },
         {
           "letter": "D",
-          "text": "52 metros",
+          "text": "15",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 15 seria C(5,2) × 3, sem fundamento no problema."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 50 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 50 + 2 * 10 = 70 metros.",
+      "correct_answer": "B",
+      "explanation": "Como 1º e 2º lugares são posições distintas, a ordem importa: A(5,2) = 5 × 4 = 20.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.52,
-      "bundle_id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -458,43 +413,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v11",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 55 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade avançada: condicional e eventos independentes.",
+      "id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle-v10",
+      "statement": "Quantos números de 3 algarismos distintos podem ser formados com os algarismos 1, 2, 3 e 4?",
+      "context": "Um estudante em Belém forma números com algarismos distintos.",
       "options": [
         {
           "letter": "A",
-          "text": "75 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorreto: 12 seria o resultado se o número tivesse apenas 2 algarismos: 4 × 3."
         },
         {
           "letter": "B",
-          "text": "55 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "24",
+          "is_correct": true,
+          "feedback": "Correto: 4 × 3 × 2 = 24 números distintos."
         },
         {
           "letter": "C",
-          "text": "80 metros",
+          "text": "64",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 64 seria 4³, permitindo repetição de algarismos."
         },
         {
           "letter": "D",
-          "text": "57 metros",
+          "text": "27",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 27 não corresponde ao produto decrescente 4 × 3 × 2."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 55 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 55 + 2 * 10 = 75 metros.",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "O primeiro algarismo tem 4 opções, o segundo 3 e o terceiro 2 (sem repetição): 4 × 3 × 2 = 24.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.49,
-      "bundle_id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -503,43 +458,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v12",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 60 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade avançada: condicional e eventos independentes.",
+      "id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle-v11",
+      "statement": "De quantas maneiras uma comissão de 3 alunos pode ser escolhida entre 8 candidatos?",
+      "context": "Um diretor em Florianópolis escolhe uma comissão de alunos.",
       "options": [
         {
           "letter": "A",
-          "text": "80 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "336",
+          "is_correct": false,
+          "feedback": "Incorreto: 336 é o arranjo A(8,3) = 8 × 7 × 6, que considera a ordem."
         },
         {
           "letter": "B",
-          "text": "60 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "56",
+          "is_correct": true,
+          "feedback": "Correto: C(8,3) = (8 × 7 × 6)/(3 × 2 × 1) = 336/6 = 56."
         },
         {
           "letter": "C",
-          "text": "85 metros",
+          "text": "24",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 24 seria 3!, a quantidade de ordenações internas da comissão."
         },
         {
           "letter": "D",
-          "text": "62 metros",
+          "text": "112",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 112 seria o dobro de 56, sem fundamento no cálculo."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 60 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 60 + 2 * 10 = 80 metros.",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "A ordem dos integrantes da comissão não importa: C(8,3) = 8!/(3!·5!) = 56.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.46,
-      "bundle_id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -548,43 +503,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v13",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 65 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade avançada: condicional e eventos independentes.",
+      "id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle-v12",
+      "statement": "Quantas placas distintas podem ser formadas com 3 letras (26 do alfabeto) e 4 algarismos (0 a 9), admitindo repetição?",
+      "context": "Um engenheiro em Porto Alegre analisa a quantidade de placas de veículos.",
       "options": [
         {
           "letter": "A",
-          "text": "85 metros",
+          "text": "26³ × 10⁴",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: cada letra tem 26 opções e cada algarismo 10, com repetição permitida."
         },
         {
           "letter": "B",
-          "text": "65 metros",
+          "text": "26 × 10",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 26 × 10 consideraria apenas uma letra e um algarismo."
         },
         {
           "letter": "C",
-          "text": "90 metros",
+          "text": "26³ + 10⁴",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: as escolhas são simultâneas e se combinam por multiplicação."
         },
         {
           "letter": "D",
-          "text": "67 metros",
+          "text": "26 × 3 + 10 × 4",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: somar quantidades de posições não conta combinações."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 65 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 65 + 2 * 10 = 85 metros.",
-      "difficulty": "7",
+      "explanation": "Com repetição permitida, cada uma das 3 posições de letra admite 26 opções e cada uma das 4 posições de algarismo admite 10: 26³ × 10⁴.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.43,
-      "bundle_id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -593,43 +548,88 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v14",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 70 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade avançada: condicional e eventos independentes.",
+      "id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle-v13",
+      "statement": "Quantos anagramas distintos podem ser formados com as letras da palavra AMOR?",
+      "context": "Um estudante em Campinas conta os anagramas da palavra AMOR.",
       "options": [
         {
           "letter": "A",
-          "text": "90 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorreto: 16 seria 4², tratando as posições como independentes com repetição."
         },
         {
           "letter": "B",
-          "text": "70 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "24",
+          "is_correct": true,
+          "feedback": "Correto: as 4 letras são distintas, então o número é 4! = 24."
         },
         {
           "letter": "C",
-          "text": "95 metros",
+          "text": "12",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 12 seria 4 × 3, contando apenas duas posições."
         },
         {
           "letter": "D",
-          "text": "72 metros",
+          "text": "8",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 8 não corresponde à permutação de 4 letras distintas."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 70 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 70 + 2 * 10 = 90 metros.",
+      "correct_answer": "B",
+      "explanation": "Como todas as letras de AMOR são distintas, o número de anagramas é a permutação de 4 elementos: 4! = 24.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle-v14",
+      "statement": "De quantas maneiras pode ser formada uma comissão de 3 pessoas a partir de 5 homens e 4 mulheres, com pelo menos 1 mulher?",
+      "context": "Um coordenador em Natal forma comissões com a participação obrigatória de mulheres.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "84",
+          "is_correct": false,
+          "feedback": "Incorreto: 84 é o total de comissões de 3 entre as 9 pessoas, sem restrição."
+        },
+        {
+          "letter": "B",
+          "text": "74",
+          "is_correct": true,
+          "feedback": "Correto: total (C(9,3)=84) menos as comissões só de homens (C(5,3)=10): 84 − 10 = 74."
+        },
+        {
+          "letter": "C",
+          "text": "60",
+          "is_correct": false,
+          "feedback": "Incorreto: 60 resultaria de combinar C(4,2) × C(5,1) com o caso de exatamente 2 mulheres apenas."
+        },
+        {
+          "letter": "D",
+          "text": "50",
+          "is_correct": false,
+          "feedback": "Incorreto: 50 não corresponde ao cálculo de complemento das comissões sem mulheres."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Do total de comissões, subtraem-se as formadas apenas por homens: C(9,3) − C(5,3) = 84 − 10 = 74.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "expected_success": 0.4,
-      "bundle_id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -638,43 +638,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v15",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 75 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade avançada: condicional e eventos independentes.",
+      "id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle-v15",
+      "statement": "Quantos anagramas distintos podem ser formados com as letras da palavra BANANA?",
+      "context": "Um professor em São José dos Campos propõe anagramas com letras repetidas.",
       "options": [
         {
           "letter": "A",
-          "text": "95 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "120",
+          "is_correct": false,
+          "feedback": "Incorreto: 120 seria 6! ÷ 6, descontando apenas uma repetição."
         },
         {
           "letter": "B",
-          "text": "75 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "60",
+          "is_correct": true,
+          "feedback": "Correto: 6!/(3!·2!) = 720/12 = 60."
         },
         {
           "letter": "C",
-          "text": "100 metros",
+          "text": "30",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 30 seria 720/24, descontando repetições em excesso."
         },
         {
           "letter": "D",
-          "text": "77 metros",
+          "text": "720",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 720 é 6!, contando os anagramas como se todas as letras fossem distintas."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 75 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 75 + 2 * 10 = 95 metros.",
+      "correct_answer": "B",
+      "explanation": "A palavra BANANA tem 6 letras, com o A repetido 3 vezes e o N repetido 2 vezes: 6!/(3!·2!) = 720/12 = 60.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.37,
-      "bundle_id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -683,43 +683,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v16",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 80 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade avançada: condicional e eventos independentes.",
+      "id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle-v16",
+      "statement": "Em um campeonato com 8 times, todos se enfrentam uma única vez. Quantos jogos são disputados no total?",
+      "context": "Um organizador em Vitória calcula o número de jogos de um campeonato.",
       "options": [
         {
           "letter": "A",
-          "text": "100 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "56",
+          "is_correct": false,
+          "feedback": "Incorreto: 56 seria o número de jogos em dois turnos (8 × 7)."
         },
         {
           "letter": "B",
-          "text": "80 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "28",
+          "is_correct": true,
+          "feedback": "Correto: cada jogo é uma dupla de times: C(8,2) = (8 × 7)/2 = 28."
         },
         {
           "letter": "C",
-          "text": "105 metros",
+          "text": "16",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 16 seria 8 × 2, sem relação com o confronto entre todos os pares."
         },
         {
           "letter": "D",
-          "text": "82 metros",
+          "text": "64",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 64 seria 8², contando pares ordenados com repetição."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 80 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 80 + 2 * 10 = 100 metros.",
+      "correct_answer": "B",
+      "explanation": "Cada jogo corresponde a uma dupla de times, sem ordem: C(8,2) = 28 jogos.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.34,
-      "bundle_id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "expected_success": 0.35,
+      "bundle_id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -728,43 +728,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v17",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 85 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade avançada: condicional e eventos independentes.",
+      "id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle-v17",
+      "statement": "De quantas maneiras pode ser formada uma comissão de 3 pessoas com exatamente 2 mulheres, escolhendo entre 5 homens e 4 mulheres?",
+      "context": "Um diretor em Belo Horizonte monta uma comissão com composição definida por gênero.",
       "options": [
         {
           "letter": "A",
-          "text": "105 metros",
+          "text": "30",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: C(4,2) × C(5,1) = 6 × 5 = 30."
         },
         {
           "letter": "B",
-          "text": "85 metros",
+          "text": "34",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 34 incluiria também a comissão com 3 mulheres (C(4,3) = 4)."
         },
         {
           "letter": "C",
-          "text": "110 metros",
+          "text": "60",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 60 seria C(4,2) × C(5,2), usando um homem a mais."
         },
         {
           "letter": "D",
-          "text": "87 metros",
+          "text": "20",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 20 seria C(4,2) × C(5,1) com um dos fatores calculado errado."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 85 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 85 + 2 * 10 = 105 metros.",
-      "difficulty": "9",
+      "explanation": "Escolhem-se 2 mulheres entre 4 e 1 homem entre 5: C(4,2) × C(5,1) = 6 × 5 = 30.",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.28,
-      "bundle_id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "expected_success": 0.3,
+      "bundle_id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -773,43 +773,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v18",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 90 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade avançada: condicional e eventos independentes.",
+      "id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle-v18",
+      "statement": "De quantas maneiras distintas podem ser definidos o 1º, o 2º e o 3º colocados de uma prova com 10 atletas?",
+      "context": "Um organizador de competição em Campinas define o pódio de uma prova de atletismo.",
       "options": [
         {
           "letter": "A",
-          "text": "110 metros",
+          "text": "720, pois a ordem dos lugares importa",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: arranjo A(10,3) = 10 × 9 × 8 = 720."
         },
         {
           "letter": "B",
-          "text": "90 metros",
+          "text": "120, pois a ordem não importa",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 120 é C(10,3), que ignoraria a distinção entre os lugares do pódio."
         },
         {
           "letter": "C",
-          "text": "115 metros",
+          "text": "30, pois se somam 10 + 9 + 8",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: as escolhas se combinam por multiplicação, não por soma."
         },
         {
           "letter": "D",
-          "text": "92 metros",
+          "text": "1000, pois cada lugar admite 10 atletas",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 10³ admitiria que um atleta ocupasse mais de um lugar."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 90 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 90 + 2 * 10 = 110 metros.",
-      "difficulty": "9",
+      "explanation": "Como 1º, 2º e 3º lugares são distintos, a ordem importa: A(10,3) = 10 × 9 × 8 = 720.",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.24,
-      "bundle_id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "expected_success": 0.25,
+      "bundle_id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -818,88 +818,88 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v19",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 95 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade avançada: condicional e eventos independentes.",
+      "id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle-v19",
+      "statement": "Quantos anagramas da palavra BRASIL têm as vogais A e I sempre juntas, nessa ordem ou invertida?",
+      "context": "Um estudante em São Paulo conta anagramas com a condição de vogais juntas.",
       "options": [
         {
           "letter": "A",
-          "text": "115 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "720",
+          "is_correct": false,
+          "feedback": "Incorreto: 720 é o total de anagramas sem restrição (6!)."
         },
         {
           "letter": "B",
-          "text": "95 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "240",
+          "is_correct": true,
+          "feedback": "Correto: o bloco (AI) com as 4 consoantes forma 5 itens: 5! × 2! = 120 × 2 = 240."
         },
         {
           "letter": "C",
-          "text": "120 metros",
+          "text": "120",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 120 consideraria as vogais em ordem fixa, sem o fator 2!."
         },
         {
           "letter": "D",
-          "text": "97 metros",
+          "text": "360",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 360 seria 6!/2, tratando as vogais como se fossem iguais entre si."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Tratando (AI) como um bloco, há 5 itens a permutar (bloco + 4 consoantes): 5! = 120. Como A e I podem trocar de posição dentro do bloco (2 ordens), o total é 120 × 2 = 240.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle-v20",
+      "statement": "De quantas maneiras 12 jogadores podem ser divididos em 3 times de 4 jogadores, sem distinguir a ordem dos times?",
+      "context": "Um técnico em São Paulo divide o elenco em times para um treino tático.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5775",
+          "is_correct": true,
+          "feedback": "Correto: C(12,4) × C(8,4) × C(4,4) / 3! = (495 × 70 × 1)/6 = 5775."
+        },
+        {
+          "letter": "B",
+          "text": "34650",
+          "is_correct": false,
+          "feedback": "Incorreto: 34650 é o cálculo sem dividir pelas 3! ordenações dos times."
+        },
+        {
+          "letter": "C",
+          "text": "11550",
+          "is_correct": false,
+          "feedback": "Incorreto: 11550 seria o resultado dividindo apenas por 3, não por 3!."
+        },
+        {
+          "letter": "D",
+          "text": "495",
+          "is_correct": false,
+          "feedback": "Incorreto: 495 é apenas C(12,4), a escolha do primeiro time."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 95 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 95 + 2 * 10 = 115 metros.",
+      "explanation": "Escolhem-se os times em sequência, contando cada divisão 3! vezes (as permutações dos times). O número é (C(12,4) × C(8,4) × C(4,4))/3! = (495 × 70)/6 = 5775.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
       "expected_success": 0.2,
-      "bundle_id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
-      "periodo": 20,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "br"
-    },
-    {
-      "id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v20",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 100 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade avançada: condicional e eventos independentes.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "120 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
-        },
-        {
-          "letter": "B",
-          "text": "100 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
-        },
-        {
-          "letter": "C",
-          "text": "125 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
-        },
-        {
-          "letter": "D",
-          "text": "102 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 100 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 100 + 2 * 10 = 120 metros.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.16,
-      "bundle_id": "BR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W20-analise-combinatoria-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
       "cefr_level": null,

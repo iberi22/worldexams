@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "portugues",
+    "country": "br",
+    "pack_id": "br-week-13-grade-11-subject-portugues",
+    "generated_at": "2026-08-29T04:04:54.076Z"
+  },
+  "questions": [
+    {
+      "id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle-v1",
+      "statement": "No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Conectores Adversativos, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de oposição de ideias e mas e porém?",
+      "context": "Um estudante de São Paulo analisa o tema Conectores Adversativos em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de oposição de ideias permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Conectores Adversativos.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de oposição de ideias limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Conectores Adversativos.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de mas e porém impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. mas e porém é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Conectores Adversativos aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Conectores Adversativos no contexto de Coerência Textual e Conectores Argumentativos exige identificar como oposição de ideias e mas e porém articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle-v2",
+      "statement": "No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Conectores Conclusivos, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de fechamento de raciocínio e portanto e logo?",
+      "context": "Um estudante de Rio de Janeiro analisa o tema Conectores Conclusivos em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de fechamento de raciocínio permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Conectores Conclusivos.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de fechamento de raciocínio limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Conectores Conclusivos.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de portanto e logo impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. portanto e logo é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Conectores Conclusivos aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Conectores Conclusivos no contexto de Coerência Textual e Conectores Argumentativos exige identificar como fechamento de raciocínio e portanto e logo articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle-v3",
+      "statement": "No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Conectores Cautelares / Concessivos, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de ressalva lógica e embora e posto que?",
+      "context": "Um estudante de Belo Horizonte analisa o tema Conectores Cautelares / Concessivos em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de ressalva lógica permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Conectores Cautelares / Concessivos.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de ressalva lógica limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Conectores Cautelares / Concessivos.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de embora e posto que impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. embora e posto que é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Conectores Cautelares / Concessivos aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Conectores Cautelares / Concessivos no contexto de Coerência Textual e Conectores Argumentativos exige identificar como ressalva lógica e embora e posto que articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle-v4",
+      "statement": "No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Conectores Explicativos e Causais, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de motivação do fato e porque e visto que?",
+      "context": "Um estudante de Porto Alegre analisa o tema Conectores Explicativos e Causais em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de motivação do fato permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Conectores Explicativos e Causais.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de motivação do fato limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Conectores Explicativos e Causais.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de porque e visto que impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. porque e visto que é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Conectores Explicativos e Causais aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Conectores Explicativos e Causais no contexto de Coerência Textual e Conectores Argumentativos exige identificar como motivação do fato e porque e visto que articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle-v5",
+      "statement": "No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Conectores Aditivos, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de soma de argumentos e além disso e também?",
+      "context": "Um estudante de Curitiba analisa o tema Conectores Aditivos em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de soma de argumentos permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Conectores Aditivos.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de soma de argumentos limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Conectores Aditivos.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de além disso e também impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. além disso e também é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Conectores Aditivos aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Conectores Aditivos no contexto de Coerência Textual e Conectores Argumentativos exige identificar como soma de argumentos e além disso e também articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle-v6",
+      "statement": "No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Conectores Condicionais, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de hipótese ou requisito e se e caso?",
+      "context": "Um estudante de Salvador analisa o tema Conectores Condicionais em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de hipótese ou requisito permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Conectores Condicionais.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de hipótese ou requisito limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Conectores Condicionais.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de se e caso impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. se e caso é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Conectores Condicionais aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Conectores Condicionais no contexto de Coerência Textual e Conectores Argumentativos exige identificar como hipótese ou requisito e se e caso articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle-v7",
+      "statement": "No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Conectores Consecutivos, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de consequência direta e de modo que?",
+      "context": "Um estudante de Recife analisa o tema Conectores Consecutivos em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de consequência direta permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Conectores Consecutivos.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de consequência direta limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Conectores Consecutivos.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de de modo que impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. de modo que é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Conectores Consecutivos aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Conectores Consecutivos no contexto de Coerência Textual e Conectores Argumentativos exige identificar como consequência direta e de modo que articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle-v8",
+      "statement": "No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Conectores Comparativos, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de analogia lógica e assim como?",
+      "context": "Um estudante de Fortaleza analisa o tema Conectores Comparativos em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de analogia lógica permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Conectores Comparativos.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de analogia lógica limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Conectores Comparativos.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de assim como impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. assim como é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Conectores Comparativos aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Conectores Comparativos no contexto de Coerência Textual e Conectores Argumentativos exige identificar como analogia lógica e assim como articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle-v9",
+      "statement": "No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Conectores Temporais, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de sucessão de fatos e quando e enquanto?",
+      "context": "Um estudante de Manaus analisa o tema Conectores Temporais em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de sucessão de fatos permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Conectores Temporais.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de sucessão de fatos limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Conectores Temporais.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de quando e enquanto impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. quando e enquanto é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Conectores Temporais aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Conectores Temporais no contexto de Coerência Textual e Conectores Argumentativos exige identificar como sucessão de fatos e quando e enquanto articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle-v10",
+      "statement": "No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Conectores Conformes, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de citação de fontes e segundo e conforme?",
+      "context": "Um estudante de Brasília analisa o tema Conectores Conformes em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de citação de fontes permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Conectores Conformes.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de citação de fontes limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Conectores Conformes.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de segundo e conforme impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. segundo e conforme é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Conectores Conformes aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Conectores Conformes no contexto de Coerência Textual e Conectores Argumentativos exige identificar como citação de fontes e segundo e conforme articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle-v11",
+      "statement": "No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Conectores Finais / De Finalidade, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de objetivo pretendido e para que e a fim de?",
+      "context": "Um estudante de São Paulo analisa o tema Conectores Finais / De Finalidade em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de objetivo pretendido permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Conectores Finais / De Finalidade.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de objetivo pretendido limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Conectores Finais / De Finalidade.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de para que e a fim de impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. para que e a fim de é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Conectores Finais / De Finalidade aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Conectores Finais / De Finalidade no contexto de Coerência Textual e Conectores Argumentativos exige identificar como objetivo pretendido e para que e a fim de articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle-v12",
+      "statement": "No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Contradição Lógica Interna, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de quebra de coerência e incompatibilidade?",
+      "context": "Um estudante de Rio de Janeiro analisa o tema Contradição Lógica Interna em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de quebra de coerência permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Contradição Lógica Interna.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de quebra de coerência limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Contradição Lógica Interna.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de incompatibilidade impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. incompatibilidade é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Contradição Lógica Interna aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Contradição Lógica Interna no contexto de Coerência Textual e Conectores Argumentativos exige identificar como quebra de coerência e incompatibilidade articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle-v13",
+      "statement": "No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Articulação de Teses em Redação, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de projeto de texto e estrutura argumentativa?",
+      "context": "Um estudante de Belo Horizonte analisa o tema Articulação de Teses em Redação em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de projeto de texto permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Articulação de Teses em Redação.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de projeto de texto limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Articulação de Teses em Redação.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de estrutura argumentativa impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. estrutura argumentativa é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Articulação de Teses em Redação aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Articulação de Teses em Redação no contexto de Coerência Textual e Conectores Argumentativos exige identificar como projeto de texto e estrutura argumentativa articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle-v14",
+      "statement": "No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Polifonia e Operadores Argumentativos, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de marcas de autoria e escala argumentativa?",
+      "context": "Um estudante de Porto Alegre analisa o tema Polifonia e Operadores Argumentativos em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de marcas de autoria permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Polifonia e Operadores Argumentativos.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de marcas de autoria limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Polifonia e Operadores Argumentativos.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de escala argumentativa impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. escala argumentativa é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Polifonia e Operadores Argumentativos aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Polifonia e Operadores Argumentativos no contexto de Coerência Textual e Conectores Argumentativos exige identificar como marcas de autoria e escala argumentativa articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle-v15",
+      "statement": "No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Mudança de Ponto de Vista, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de transição de foco e contra-argumentação?",
+      "context": "Um estudante de Curitiba analisa o tema Mudança de Ponto de Vista em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de transição de foco permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Mudança de Ponto de Vista.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de transição de foco limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Mudança de Ponto de Vista.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de contra-argumentação impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. contra-argumentação é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Mudança de Ponto de Vista aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Mudança de Ponto de Vista no contexto de Coerência Textual e Conectores Argumentativos exige identificar como transição de foco e contra-argumentação articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle-v16",
+      "statement": "No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Subentendido e Implicitude, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de pressupostos e subentendidos morais?",
+      "context": "Um estudante de Salvador analisa o tema Subentendido e Implicitude em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de pressupostos permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Subentendido e Implicitude.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de pressupostos limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Subentendido e Implicitude.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de subentendidos morais impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. subentendidos morais é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Subentendido e Implicitude aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Subentendido e Implicitude no contexto de Coerência Textual e Conectores Argumentativos exige identificar como pressupostos e subentendidos morais articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.38,
+      "bundle_id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle-v17",
+      "statement": "No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Avaliação Crítica da Argumentação, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de solidez lógica e validade de premissas?",
+      "context": "Um estudante de Recife analisa o tema Avaliação Crítica da Argumentação em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de solidez lógica permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Avaliação Crítica da Argumentação.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de solidez lógica limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Avaliação Crítica da Argumentação.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de validade de premissas impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. validade de premissas é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Avaliação Crítica da Argumentação aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Avaliação Crítica da Argumentação no contexto de Coerência Textual e Conectores Argumentativos exige identificar como solidez lógica e validade de premissas articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle-v18",
+      "statement": "No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Operadores de Força Argumentativa, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de até mesmo e sequer e gradação de força?",
+      "context": "Um estudante de Fortaleza analisa o tema Operadores de Força Argumentativa em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de até mesmo e sequer permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Operadores de Força Argumentativa.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de até mesmo e sequer limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Operadores de Força Argumentativa.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de gradação de força impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. gradação de força é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Operadores de Força Argumentativa aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Operadores de Força Argumentativa no contexto de Coerência Textual e Conectores Argumentativos exige identificar como até mesmo e sequer e gradação de força articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle-v19",
+      "statement": "No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Coerência Global vs Local, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de microcoerência e macrocoerência?",
+      "context": "Um estudante de Manaus analisa o tema Coerência Global vs Local em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de microcoerência permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Coerência Global vs Local.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de microcoerência limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Coerência Global vs Local.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de macrocoerência impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. macrocoerência é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Coerência Global vs Local aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Coerência Global vs Local no contexto de Coerência Textual e Conectores Argumentativos exige identificar como microcoerência e macrocoerência articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle-v20",
+      "statement": "No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Ruídos e Paradoxo Argumentativo, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de contradição pragmática e falácia lógica?",
+      "context": "Um estudante de Brasília analisa o tema Ruídos e Paradoxo Argumentativo em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de contradição pragmática permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Ruídos e Paradoxo Argumentativo.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de contradição pragmática limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Ruídos e Paradoxo Argumentativo.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de falácia lógica impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. falácia lógica é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Ruídos e Paradoxo Argumentativo aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Ruídos e Paradoxo Argumentativo no contexto de Coerência Textual e Conectores Argumentativos exige identificar como contradição pragmática e falácia lógica articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "BR-POR-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    }
+  ]
+}

@@ -8,6 +8,906 @@
   },
   "questions": [
     {
+      "id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una alusión en un texto?",
+      "context": "Ximena, de la Ciudad de México, estudia cómo un ensayo actual dialoga con la poesía de Sor Juana Inés de la Cruz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La reproducción literal y completa de un texto anterior entre comillas.",
+          "is_correct": false,
+          "feedback": "Incorrecto: eso es una cita directa, no una alusión."
+        },
+        {
+          "letter": "B",
+          "text": "Una referencia breve a otro texto, persona o suceso que el lector debe reconocer.",
+          "is_correct": true,
+          "feedback": "Correcto: la alusión evoca sin copiar literalmente."
+        },
+        {
+          "letter": "C",
+          "text": "Un error de atribución de una obra a su autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto: eso es un problema bibliográfico, no un recurso."
+        },
+        {
+          "letter": "D",
+          "text": "La lista de fuentes consultadas al final del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto: eso es una bibliografía."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La alusión es una mención indirecta que activa en el lector el recuerdo de otra obra, autor o acontecimiento. A diferencia de la cita, no reproduce palabras exactas: basta con que el lector reconozca la referencia para que el sentido se complete.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de las siguientes opciones es una cita directa?",
+      "context": "Luis, de Puebla, identifica las formas de citar en un trabajo escolar sobre la poesía novohispana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"La autora defendió el derecho de las mujeres al conocimiento.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: expresa la idea con otras palabras; es una paráfrasis."
+        },
+        {
+          "letter": "B",
+          "text": "\"Sor Juana cuestionó los prejuicios de su época.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: es un resumen de la postura, no sus palabras."
+        },
+        {
+          "letter": "C",
+          "text": "\"Hombres necios que acusáis / a la mujer sin razón\".",
+          "is_correct": true,
+          "feedback": "Correcto: reproduce literalmente los versos de la autora."
+        },
+        {
+          "letter": "D",
+          "text": "\"El poema critica la doble moral de su tiempo.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: es una interpretación del lector, no una cita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La cita directa reproduce las palabras exactas de la fuente, generalmente entre comillas y con atribución. Parafrasear o resumir ideas con lenguaje propio produce citas indirectas, no directas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle-v3",
+      "statement": "El ensayista cita los versos \"Hombres necios que acusáis / a la mujer sin razón\" para sostener su tesis. ¿Qué función cumple esa cita?",
+      "context": "Fernanda, de Guadalajara, analiza la función de la cita de Sor Juana en un ensayo sobre igualdad de género.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Demostrar que Sor Juana escribía mejor que las autoras actuales.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la cita no busca competencia literaria."
+        },
+        {
+          "letter": "B",
+          "text": "Rellenar el ensayo con material decorativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la cita tiene una función argumentativa, no ornamental."
+        },
+        {
+          "letter": "C",
+          "text": "Mostrar que la crítica a la doble moral tiene una tradición en la literatura mexicana.",
+          "is_correct": true,
+          "feedback": "Correcto: la cita ancla la tesis en una voz histórica reconocible."
+        },
+        {
+          "letter": "D",
+          "text": "Probar que la desigualdad de género dejó de existir.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la cita hace lo contrario al recordar una crítica vigente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Citar a un autor del pasado permite al ensayista inscribir su argumento en una tradición: la crítica de la doble moral no es nueva, y la autoridad de Sor Juana refuerza la vigencia del problema.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle-v4",
+      "statement": "Una crónica sobre los pescadores de Yucatán cierra con el refrán \"camarón que se duerme, se lo lleva la corriente\". ¿Qué sentido le da el autor?",
+      "context": "José, de Mérida, interpreta un refrán popular citado en una crónica sobre la pesca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los camarones duermen en el fondo del mar.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el refrán no debe leerse de manera literal."
+        },
+        {
+          "letter": "B",
+          "text": "La pesca es una actividad peligrosa durante la noche.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el peligro nocturno no está en el refrán."
+        },
+        {
+          "letter": "C",
+          "text": "Quien se descuida pierde su oportunidad.",
+          "is_correct": true,
+          "feedback": "Correcto: el refrán advierte que la falta de atención tiene consecuencias."
+        },
+        {
+          "letter": "D",
+          "text": "La corriente marina arrastra todo lo que flota.",
+          "is_correct": false,
+          "feedback": "Incorrecto: es una lectura literal del refrán, no su sentido figurado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los refranes son intertextos de la tradición oral: frases hechas cuyo sentido es figurado. \"Camarón que se duerme...\" advierte sobre el descuido y la pérdida de oportunidades, y el autor lo usa para subrayar la situación de los pescadores.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle-v5",
+      "statement": "El artículo dice: \"Ramón López Velarde imaginó a la patria como una superficie de maíz, y desde entonces esa imagen regresa en cada ensayo sobre lo mexicano.\" ¿Qué tipo de referencia es?",
+      "context": "María, de Tijuana, clasifica las formas de referencia en un artículo cultural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una cita directa con comillas.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no se reproducen palabras exactas del poeta."
+        },
+        {
+          "letter": "B",
+          "text": "Una alusión parafraseada a un verso conocido.",
+          "is_correct": true,
+          "feedback": "Correcto: se evoca la imagen del maíz sin copiar el verso literal."
+        },
+        {
+          "letter": "C",
+          "text": "Un plagio encubierto de la obra del poeta.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la referencia es declarada y transformada."
+        },
+        {
+          "letter": "D",
+          "text": "Una lista bibliográfica.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no es una enumeración de fuentes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La alusión parafraseada evoca un texto conocido sin reproducirlo: el lector que reconoce \"tu superficie es el maíz\" completa el sentido. La referencia es explícita y transformada, por lo que no constituye plagio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle-v6",
+      "statement": "Un ensayista actual retoma la crítica de Sor Juana contra la doble moral y la aplica a los discursos de las redes sociales. ¿Qué tipo de relación intertextual establece?",
+      "context": "Diego, de Monterrey, analiza la relación entre un ensayo actual y la poesía de Sor Juana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parodia: se burla del poema original.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no hay burla ni deformación cómica."
+        },
+        {
+          "letter": "B",
+          "text": "Traducción: vierte el poema a otro idioma.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no hay traslación lingüística."
+        },
+        {
+          "letter": "C",
+          "text": "Dialogo: actualiza una crítica del pasado en un contexto nuevo.",
+          "is_correct": true,
+          "feedback": "Correcto: el ensayista conversa con la tradición y la proyecta al presente."
+        },
+        {
+          "letter": "D",
+          "text": "Refutación: demuestra que Sor Juana estaba equivocada.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el ensayista coincide con la crítica, no la rechaza."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La intertextualidad dialogante retoma voces del pasado para actualizarlas: no se burla de ellas ni las refuta, sino que las reactiva en un contexto nuevo. La doble moral que Sor Juana denunció se reinterpreta en el escenario digital.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle-v7",
+      "statement": "Un orador escolar dice: \"Al que a buen árbol se arrima, buena sombra lo cobija\", para elogiar a su comunidad. ¿Qué efecto busca con el refrán?",
+      "context": "Carlos, de Cancún, analiza por qué un discurso político cita un refrán popular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Demostrar conocimientos botánicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el refrán no se usa en sentido literal."
+        },
+        {
+          "letter": "B",
+          "text": "Ocultar la verdadera intención del discurso.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el refrán refuerza el mensaje, no lo oculta."
+        },
+        {
+          "letter": "C",
+          "text": "Conectar con la sabiduría popular compartida por la audiencia.",
+          "is_correct": true,
+          "feedback": "Correcto: el refrán crea complicidad y hace cercano el elogio."
+        },
+        {
+          "letter": "D",
+          "text": "Impresionar con una cita literaria culta.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el refrán es popular, no erudito."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El refrán funciona como un intertexto de la tradición oral que la comunidad reconoce al instante. Usarlo acerca al orador con su audiencia y envuelve el mensaje en una autoridad compartida.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle-v8",
+      "statement": "Un grupo de estudiantes reescribe el eslogan \"Hazte un favor, hazlo por México\" como \"Hazte un favor, haz la tarea\" para su campaña de estudios. ¿Qué recurso utilizan?",
+      "context": "Guadalupe, de Oaxaca, reconoce una parodia en una campaña escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cita académica formal.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no hay formalidad académica en la reescritura."
+        },
+        {
+          "letter": "B",
+          "text": "Traducción de un texto extranjero.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no se cambia de idioma."
+        },
+        {
+          "letter": "C",
+          "text": "Parodia de un eslogan publicitario conocido.",
+          "is_correct": true,
+          "feedback": "Correcto: la reescritura burlona y lúdica de un texto famoso es parodia."
+        },
+        {
+          "letter": "D",
+          "text": "Refutación científica del eslogan original.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no hay argumentación científica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La parodia reescribe un texto reconocible para producir un efecto cómico o crítico. Al deformar el eslogan conocido, los estudiantes aprovechan su memoria en la audiencia para darle un giro nuevo y persuasivo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle-v9",
+      "statement": "El ensayo retoma la imagen de la patria \"como superficie de maíz\" y la discute. ¿Qué logra el autor al dialogar con ese verso?",
+      "context": "Ximena, de la Ciudad de México, estudia el uso del verso de López Velarde en un ensayo sobre identidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Copiar la idea del poeta sin aportar nada nuevo.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la discusión implica una reelaboración."
+        },
+        {
+          "letter": "B",
+          "text": "Demostrar que el verso es objetivamente falso.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el ensayo discute la imagen, no su verdad fáctica."
+        },
+        {
+          "letter": "C",
+          "text": "Pensar críticamente una imagen fundadora de la identidad mexicana.",
+          "is_correct": true,
+          "feedback": "Correcto: el intertexto se convierte en objeto de análisis."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir la poesía por datos estadísticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la poesía sigue siendo el centro de la reflexión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando un texto toma otro como objeto de reflexión, la intertextualidad se vuelve crítica: el ensayista no repite la imagen del maíz, sino que la examina, la matiza y la interroga como símbolo nacional.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la diferencia central entre homenaje y parodia?",
+      "context": "Luis, de Puebla, diferencia el homenaje de la parodia en textos culturales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El homenaje siempre es más largo que la parodia.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la extensión no distingue ambos recursos."
+        },
+        {
+          "letter": "B",
+          "text": "La parodia siempre cita textualmente y el homenaje nunca lo hace.",
+          "is_correct": false,
+          "feedback": "Incorrecto: ambos pueden citar, aludir o reformular."
+        },
+        {
+          "letter": "C",
+          "text": "El homenaje celebra al texto original; la parodia lo deforma con intención cómica o crítica.",
+          "is_correct": true,
+          "feedback": "Correcto: la actitud ante el original es lo que los distingue."
+        },
+        {
+          "letter": "D",
+          "text": "El homenaje pertenece a la literatura y la parodia al periodismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto: ambos recursos aparecen en todos los géneros."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La diferencia es de actitud: el homenaje reconoce y celebra la obra referida, mientras que la parodia la transforma, generalmente con humor o ironía, para producir un sentido nuevo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle-v11",
+      "statement": "Un texto satírico escribe: \"Al que a buen árbol se arrima, buena sombra lo cobija... siempre que el árbol no sea de los que cobran la sombra.\" ¿Qué produce la reescritura del refrán?",
+      "context": "Fernanda, de Guadalajara, analiza la inversión de un refrán en un texto satírico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un error de memoria del autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la desviación es deliberada."
+        },
+        {
+          "letter": "B",
+          "text": "Una cita más precisa del refrán original.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la versión se aleja del original a propósito."
+        },
+        {
+          "letter": "C",
+          "text": "Un giro crítico que cuestiona los intereses detrás de la ayuda.",
+          "is_correct": true,
+          "feedback": "Correcto: la ampliación del refrán denuncia que el favor puede tener precio."
+        },
+        {
+          "letter": "D",
+          "text": "La demostración de que el refrán es falso.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no se busca refutar el refrán, sino satirizar su uso interesado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reescribir un intertexto conocido produce un desvío que el lector detecta: al prolongar el refrán con un giro comercial, el autor cuestiona la idea misma de la protección desinteresada y obliga a releer la sabiduría popular con suspicacia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle-v12",
+      "statement": "¿Qué efecto argumentativo produce en un ensayo el diálogo constante con autores consagrados?",
+      "context": "José, de Mérida, examina cómo la intertextualidad construye la autoridad del ensayista.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prueba matemáticamente la tesis del ensayista.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la autoridad literaria no opera como una demostración matemática."
+        },
+        {
+          "letter": "B",
+          "text": "Elimina la necesidad de argumentar con razones propias.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el diálogo acompaña, no reemplaza, la argumentación."
+        },
+        {
+          "letter": "C",
+          "text": "Inscribe al autor en una tradición y refuerza la legitimidad de su postura.",
+          "is_correct": true,
+          "feedback": "Correcto: dialogar con voces reconocidas sitúa al ensayista en la conversación culta."
+        },
+        {
+          "letter": "D",
+          "text": "Convierte el ensayo en una obra de ficción.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la referencia erudita no ficcionaliza el texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La intertextualidad erudita construye ethos: al citar, aludir y discutir con autores consagrados, el ensayista demuestra pertenencia a una tradición y gana credibilidad ante el lector culto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle-v13",
+      "statement": "Un guion ambientado en la Nueva España muestra a un personaje diciendo \"esto se va a volver viral\". ¿Qué problema presenta esa frase?",
+      "context": "María, de Tijuana, detecta un anacronismo en un guion estudiantil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una cita literal de un autor del siglo XVII.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la frase no pertenece a ningún texto colonial."
+        },
+        {
+          "letter": "B",
+          "text": "Es un refrán mexicano antiguo.",
+          "is_correct": false,
+          "feedback": "Incorrecto: \"viral\" es un concepto de la era digital."
+        },
+        {
+          "letter": "C",
+          "text": "Es un anacronismo: introduce una referencia de otra época en el contexto histórico.",
+          "is_correct": true,
+          "feedback": "Correcto: ningún personaje novohispano podía hablar de difusión viral."
+        },
+        {
+          "letter": "D",
+          "text": "Es una alusión correcta a la poesía barroca.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no guarda relación con la poesía barroca."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El anacronismo es la inserción de un elemento de una época en otra distinta. Rompe la coherencia histórica del texto y, en este caso, delata que el guionista proyectó su presente sobre el pasado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle-v14",
+      "statement": "El ensayista sostiene que la acusación de \"hombres necios\" sigue vigente, solo que hoy se manifiesta en los comentarios de internet. ¿Qué operación realiza?",
+      "context": "Diego, de Monterrey, analiza qué logra un ensayista al actualizar la crítica de Sor Juana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Refuta el poema con evidencia contemporánea.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no demuestra que el poema sea falso; lo reactiva."
+        },
+        {
+          "letter": "B",
+          "text": "Traduce el poema al lenguaje de las redes.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no hay traslación literal del texto."
+        },
+        {
+          "letter": "C",
+          "text": "Traslada la crítica del pasado al presente para mostrar su continuidad.",
+          "is_correct": true,
+          "feedback": "Correcto: la operación consiste en encontrar el mismo fenómeno en otro escenario."
+        },
+        {
+          "letter": "D",
+          "text": "Borra la distancia histórica entre el siglo XVII y hoy.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la distancia se reconoce y se aprovecha, no se borra."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Actualizar un intertexto consiste en proyectar su contenido crítico sobre un contexto nuevo. La operación subraya la continuidad del problema (la doble moral) y le da al poema una vigencia que sorprende al lector.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle-v15",
+      "statement": "Una campaña universitaria imita el formato de un anuncio de refresco y termina con el eslogan modificado \"Refresca tu mente, no tu velocidad\". ¿Qué efecto produce la parodia?",
+      "context": "Carlos, de Cancún, analiza una parodia de anuncio publicitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elogiar sinceramente a la marca de refresco.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la imitación no celebra a la marca."
+        },
+        {
+          "letter": "B",
+          "text": "Confundir al público entre el producto y la universidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el público reconoce el guiño, no se confunde."
+        },
+        {
+          "letter": "C",
+          "text": "Aprovechar la memoria del eslogan para criticar los excesos de velocidad.",
+          "is_correct": true,
+          "feedback": "Correcto: la deformación del mensaje conocido redirige su fuerza persuasiva."
+        },
+        {
+          "letter": "D",
+          "text": "Copiar la publicidad sin permiso con fines comerciales.",
+          "is_correct": false,
+          "feedback": "Incorrecto: es una campaña educativa con intención crítica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La parodia publicitaria reutiliza la familiaridad del eslogan: al modificarlo, transfiere su fuerza memorable a un mensaje distinto, a menudo crítico. El efecto depende de que el público reconozca el original.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle-v16",
+      "statement": "Un estudiante copia un párrafo de un ensayo famoso y lo presenta como propio, sin comillas ni atribución. ¿Qué lo diferencia de la intertextualidad legítima?",
+      "context": "Guadalupe, de Oaxaca, distingue la intertextualidad legítima del plagio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nada: copiar es la forma más pura de intertextualidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la intertextualidad no exige ocultar la fuente."
+        },
+        {
+          "letter": "B",
+          "text": "La extensión: si el párrafo es corto, no es plagio.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el plagio no depende de la longitud."
+        },
+        {
+          "letter": "C",
+          "text": "La ausencia de reconocimiento: el plagio oculta la fuente, la intertextualidad la declara o la transforma.",
+          "is_correct": true,
+          "feedback": "Correcto: la clave es la transparencia y la reelaboración."
+        },
+        {
+          "letter": "D",
+          "text": "El tema: si el texto trata de literatura, nunca es plagio.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el tema no exime del plagio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La intertextualidad legítima cita, alude o transforma la fuente reconociéndola; el plagio la oculta para atribuirse el mérito. La diferencia no está en el contacto con otros textos, sino en la honestidad de la relación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle-v17",
+      "statement": "Un político justifica un recorte de becas diciendo \"el que nace pa' maceta, del corredor no pasa\". ¿Qué valoración merece ese uso del refrán?",
+      "context": "Ximena, de la Ciudad de México, evalúa críticamente el uso de refranes en un discurso político.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un uso legítimo porque el refrán expresa una verdad universal.",
+          "is_correct": false,
+          "feedback": "Incorrecto: ningún refrán expresa una verdad universal verificable."
+        },
+        {
+          "letter": "B",
+          "text": "Es un recurso literario que embellece el discurso sin efectos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el refrán tiene efectos prácticos: naturaliza la desigualdad."
+        },
+        {
+          "letter": "C",
+          "text": "Es un uso manipulador: presenta la desigualdad de oportunidades como destino inevitable.",
+          "is_correct": true,
+          "feedback": "Correcto: el refrán convierte una decisión política en una ley natural incuestionable."
+        },
+        {
+          "letter": "D",
+          "text": "Es una cita erudita que fortalece la argumentación técnica.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el refrán es popular, no técnico, y su función aquí es cerrar el debate."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los refranes pueden usarse para abrir o para cerrar el pensamiento. Aquí la frase convierte un recorte (decisión política) en un destino natural, silenciando el debate: el análisis crítico debe detectar ese uso.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle-v18",
+      "statement": "Un ensayista lee \"La suave Patria\" y sostiene que su imagen idealizada oculta las desigualdades del mundo rural. ¿Qué tipo de ejercicio realiza?",
+      "context": "Luis, de Puebla, evalúa una relectura crítica de la poesía de López Velarde.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una paráfrasis fiel del poema.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no repite el poema; lo interroga."
+        },
+        {
+          "letter": "B",
+          "text": "Una parodia cómica del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no hay humor ni deformación burlesca."
+        },
+        {
+          "letter": "C",
+          "text": "Una lectura crítica que usa el poema como documento de una ideología.",
+          "is_correct": true,
+          "feedback": "Correcto: el ensayista examina lo que la imagen celebratoria deja fuera."
+        },
+        {
+          "letter": "D",
+          "text": "Una traducción del poema a prosa moderna.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no hay traslación del texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Leer críticamente un texto canónico es preguntarse qué visión del mundo construye y qué silencia. La relectura no busca destruir el poema, sino examinar la ideología que su idealización de la patria conlleva.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle-v19",
+      "statement": "Un escritor publica un cuento que imita el estilo de un autor famoso sin mencionarlo en ningún momento. ¿Cuál es la valoración más equilibrada?",
+      "context": "Fernanda, de Guadalajara, evalúa la ética del pastiche sin atribución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un delito equivalente al robo de un auto.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la imitación de estilo no es equiparable a un delito patrimonial."
+        },
+        {
+          "letter": "B",
+          "text": "Es completamente irrelevante, pues los estilos son de todos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: aunque los estilos circulan, el ocultamiento deliberado plantea cuestiones éticas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un pastiche que puede ser legítimo si la imitación se reconoce como ejercicio creativo; ocultarla deliberadamente engaña al lector.",
+          "is_correct": true,
+          "feedback": "Correcto: la clave está en la transparencia del juego intertextual."
+        },
+        {
+          "letter": "D",
+          "text": "Es válido siempre que el cuento sea bueno.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la calidad no justifica el engaño sobre la deuda creativa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El pastiche (imitación de estilo) es un recurso intertextual legítimo cuando se reconoce como tal: el problema ético aparece cuando el autor oculta la imitación para atribuirse una originalidad que no tiene.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle-v20",
+      "statement": "Para defender que la lengua es un territorio en disputa, un autor cita un artículo de la Constitución y otro parodia el himno nacional. ¿Qué estrategia es más eficaz para un público juvenil?",
+      "context": "José, de Mérida, compara dos estrategias intertextuales para defender la misma tesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cita constitucional, porque es la única fuente válida.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la validez jurídica no garantiza el efecto persuasivo en todos los públicos."
+        },
+        {
+          "letter": "B",
+          "text": "La parodia, porque siempre es más rigurosa que la cita.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la parodia conecta, pero no sustituye el rigor."
+        },
+        {
+          "letter": "C",
+          "text": "La parodia, porque moviliza la memoria cultural del público juvenil, aunque conviene apoyarla con datos.",
+          "is_correct": true,
+          "feedback": "Correcto: la eficacia depende de la audiencia; el humor y el guiño acercan el tema, y los datos lo sostienen."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas son ineficaces porque no citan a un experto internacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la eficacia persuasiva no depende de la autoridad extranjera."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La elección de la estrategia intertextual depende de la audiencia: el humor y la referencia reconocible acercan el tema a un público juvenil, mientras que la cita formal convence a otro tipo de lector. Las estrategias eficaces combinan el guiño cultural con el sustento argumentativo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.28,
+      "bundle_id": "MX-LC-11-2026-W18-intertextualidad-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
       "id": "MX-LC-11-2026-W18-tema-w18-001-v001",
       "statement": "¿Qué elemento o aspecto fundamental es central en el desarrollo del pasaje, según la información directa brindada?",
       "context": "**Pasaje:** *Inteligencia artificial y dilemas éticos en el periodismo mexicano*\n\nLa incorporación de herramientas de inteligencia artificial generativa en las salas de redacción de los medios informativos en México ha inaugurado un horizonte de eficiencia inédito, pero también serios desafíos éticos. La automatización en la redacción de notas, el análisis acelerado de bases de datos masivas del sector público y el diseño de infografías dinámicas optimizan la productividad periodística. No obstante, el peligro de propagar noticias falsas (fake news) de forma automatizada y el sesgo de los algoritmos entrenados con datos históricos parciales amenazan el rigor periodístico. Los defensores del periodismo independiente argumentan que la inteligencia artificial nunca podrá sustituir la ética humana, el juicio crítico sobre las desigualdades sociales, ni el reporteo de campo directo en las comunidades.",
