@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-7-grade-11-subject-lectura_critica",
+    "generated_at": "2026-08-29T19:43:33.960Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle-v1",
+      "statement": "¿De qué manera Ospina interpreta el intento de dominación europea sobre la geografía americana?",
+      "context": "En el ensayo *El país de la canela*, William Ospina reflexiona sobre el choque entre los conquistadores españoles y la exuberancia de la selva suramericana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Como un encuentro trágico donde la codicia metropolitana chocó contra la desmesura indómita de un continente que no se dejó asimilar fácilmente.",
+          "is_correct": true,
+          "feedback": "Ospina analiza la Conquista como la fascinación y el espanto de Europa ante un mundo cuya desmesura desbordaba sus categorías mentales."
+        },
+        {
+          "letter": "B",
+          "text": "Como una pacífica expedición científica aprobada por las universidades de Madrid y París.",
+          "is_correct": false,
+          "feedback": "Ospina subraya la violencia, el delirio de la búsqueda del Dorado y la destrucción ambiental."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que la canela era el único producto agrícola exportado desde la costa Caribe en el siglo XVI.",
+          "is_correct": false,
+          "feedback": "La canela es un símbolo poético y mítico de la codicia que impulsó las expediciones trágicas."
+        },
+        {
+          "letter": "D",
+          "text": "Afirma que los conquistadores españoles renunciaron a sus armas para convertirse en poetas indígenas.",
+          "is_correct": false,
+          "feedback": "Muestra la brutalidad militar y el choque trágico entre ambas cosmovisiones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "William Ospina revisita la historia de la Conquista para reflexionar sobre la identidad mestiza y la desmesura natural del continente.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle-v2",
+      "statement": "¿Qué denuncia social y estética realiza Palacios en esta obra pionera de la literatura afrocolombiana?",
+      "context": "En *Las estrellas son negras* (1949) de Arnoldo Palacios, Irra camina desesperado por las calles de Quibdó sintiendo un hambre ancestral que le quema las entrañas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Visibiliza la exclusión histórica, la pobreza estructural y el desamparo del pueblo negro en el Chocó sin caer en el folclorismo condescendiente.",
+          "is_correct": true,
+          "feedback": "Palacios retrata la rabia y el desamparo del habitante de Quibdó con una prosa existencial de enorme crudeza y dignidad."
+        },
+        {
+          "letter": "B",
+          "text": "Presenta a Quibdó como una capital industrial llena de opulencia económica e igualdad social.",
+          "is_correct": false,
+          "feedback": "La novela denuncia abiertamente la marginación, la falta de oportunidades y el abandono estatal del Pacífico."
+        },
+        {
+          "letter": "C",
+          "text": "Sostiene que el protagonista padecía hambre por decisión personal y ayuno religioso voluntario.",
+          "is_correct": false,
+          "feedback": "El hambre de Irra es el síntoma doloroso de la injusticia social y la exclusión histórica."
+        },
+        {
+          "letter": "D",
+          "text": "Recomienda a los habitantes del Chocó abandonar la agricultura para dedicarse al comercio de esmeraldas.",
+          "is_correct": false,
+          "feedback": "La obra se enfoca en la vivencia interna de la marginación y la búsqueda de dignidad humana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Arnoldo Palacios consagró la literatura afrocolombiana al narrar con realismo desgarrador la dignidad y las luchas del Chocó.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.87,
+      "bundle_id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle-v3",
+      "statement": "¿Qué significado político y literario tuvo la obra de Candelario Obeso en el siglo XIX colombiano?",
+      "context": "En *Cantos populares de mi tierra* (1877) de Candelario Obeso, se reivindica por primera vez la voz y el habla del boga del río Magdalena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dignificó la voz del afrodescendiente al convertir su dialecto y sus dolores en materia poética soberana dentro de un canon clasista.",
+          "is_correct": true,
+          "feedback": "Obeso rompió el elitismo bogotano al darle estatus literario al habla popular de los bogas y trabajadores del río."
+        },
+        {
+          "letter": "B",
+          "text": "Exigió la prohibición de las canciones populares en los barcos de vapor del río Magdalena.",
+          "is_correct": false,
+          "feedback": "Obeso celebró y perennizó precisamente los cantos y sentimientos de los navegantes afrocolombianos."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que los bogas del río eran frailes franciscanos dedicados al rezo del rosario.",
+          "is_correct": false,
+          "feedback": "Eran hombres libres y trabajadores del río cuya fuerza movía el comercio de la nación."
+        },
+        {
+          "letter": "D",
+          "text": "Obligó a los poetas bogotanos a escribir exclusivamente en idioma francés.",
+          "is_correct": false,
+          "feedback": "Obeso reivindicó la lengua viva del pueblo colombiano frente a la copia del modelo académico europeo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Candelario Obeso fue el pionero de la lírica afrocolombiana al otorgar valor estético y dignidad humana al habla del boga.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle-v4",
+      "statement": "¿Qué aporte metodológico hizo Gutiérrez de Pineda a las ciencias sociales y la literatura testimonial en Colombia?",
+      "context": "En el ensayo *La conducta social en Colombia* de Virginia Gutiérrez de Pineda, se analizan las estructuras familiares en las distintas regiones del país.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mapeó la diversidad de tipologías familiares (andina, santandereana, costeña y negra) superando la visión homogeneizadora de la nación.",
+          "is_correct": true,
+          "feedback": "Su investigación demostró que Colombia posee múltiples complejos culturales con dinámicas familiares y de género diversas."
+        },
+        {
+          "letter": "B",
+          "text": "Afirmó que en Colombia existía un único modelo de familia idéntico desde La Guajira hasta el Amazonas.",
+          "is_correct": false,
+          "feedback": "Precisamente destruyó ese mito al revelar la inmensa diversidad regional del país."
+        },
+        {
+          "letter": "C",
+          "text": "Prohibió el matrimonio civil en todas las provincias de la República.",
+          "is_correct": false,
+          "feedback": "Su trabajo fue un riguroso estudio antropológico y sociológico, no un código legislativo."
+        },
+        {
+          "letter": "D",
+          "text": "Demuestra que la sociología debe prescindir de las entrevistas a mujeres campesinas.",
+          "is_correct": false,
+          "feedback": "Involucró la voz de las mujeres campesinas y populares como fuente primaria indiscutible."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Virginia Gutiérrez de Pineda revolucionó la antropología nacional al revelar la complejidad y diversidad de los complejos culturales colombianos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle-v5",
+      "statement": "¿Qué actitud estética y generacional definió al Nadaísmo en la Colombia de los años sesenta?",
+      "context": "En *La marcha de los antorchas*, poema nadaísta de Gonzalo Arango, se proclama la rebelión de la juventud contra \"las momias de la academia y los sacerdotes del dogma\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un espíritu inconformista, desacralizador e iconoclasta que buscó escandalizar a la sociedad burguesa y renovar la poesía.",
+          "is_correct": true,
+          "feedback": "El Nadaísmo (Gonzalo Arango, Jotamario, Eduardo Escobar) combatió la solemnidad retórica y la hipocresía política de la época."
+        },
+        {
+          "letter": "B",
+          "text": "La defensa ferviente del retorno a la literatura colonial escrita en latín.",
+          "is_correct": false,
+          "feedback": "El Nadaísmo fue abiertamente antiacadémico y enemigo del conservadurismo ideológico."
+        },
+        {
+          "letter": "C",
+          "text": "La propuesta de convertir los museos de arte en sucursales bancarias internacionales.",
+          "is_correct": false,
+          "feedback": "Buscaban vitalizar el arte fuera de los templos académicos, no la comercialización bancaria."
+        },
+        {
+          "letter": "D",
+          "text": "El apoyo incondicional a los partidos políticos tradicionales durante el Frente Nacional.",
+          "is_correct": false,
+          "feedback": "El Nadaísmo nació precisamente como respuesta de asfixia ante el pacto bipartidista del Frente Nacional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Nadaísmo convulsionó la cultura colombiana al cuestionar con humor, provocación y lirismo el orden conservador del Frente Nacional.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle-v6",
+      "statement": "¿De qué manera las guerras entre liberales y conservadores afectaron la consolidación del Estado-nación en Colombia?",
+      "context": "En el ensayo *El leviatán criollo* sobre las guerras civiles del siglo XIX en Colombia, se analiza cómo las contiendas bipartidistas moldearon el territorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fragmentaron el territorio en lealtades regionales sectarias e impidieron la creación de un monopolio legítimo de la fuerza y la identidad común.",
+          "is_correct": true,
+          "feedback": "Las contiendas del XIX impusieron la identidad de partido por encima de la identidad nacional, sembrando semillas de violencia recurrente."
+        },
+        {
+          "letter": "B",
+          "text": "Garantizaron un crecimiento económico acelerado que convirtió a Colombia en la primera potencia mundial.",
+          "is_correct": false,
+          "feedback": "Las guerras del siglo XIX arruinaron la hacienda pública, destruyeron vías y paralizaron el comercio."
+        },
+        {
+          "letter": "C",
+          "text": "Lograron que todos los ciudadanos se afiliaran a un único partido político unificado.",
+          "is_correct": false,
+          "feedback": "Profundizaron la división sectaria entre las dos colectividades tradicionales."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminaron el uso de las armas de fuego en todo el territorio nacional.",
+          "is_correct": false,
+          "feedback": "Las guerras se libraron con saña mediante levas forzosas y violencia fratricida."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las guerras civiles decimonónicas impidieron la consolidación de un Estado integrador y profundizaron las lealtades sectarias de partido.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle-v7",
+      "statement": "¿Qué importancia tiene incorporar la perspectiva femenina y doméstica en la reconstrucción del 9 de abril?",
+      "context": "En la novela *Estaba la pájara pinta sentada en el verde limón* de Albalucía Ángel, se narra la vivencia del Bogotazo (9 de abril de 1948) desde la memoria de una niña burguesa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muestra el impacto del estallido social en la intimidad familiar, desmontando la épica masculina de la historia oficial.",
+          "is_correct": true,
+          "feedback": "Albalucía Ángel teje la historia política con la vivencia íntima del miedo, los saqueos y el despertar de la conciencia de clase."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que el asesinato de Jorge Eliécer Gaitán no provocó ningún desorden en la capital.",
+          "is_correct": false,
+          "feedback": "La obra registra la quema del centro de Bogotá, el pánico y el viraje trágico de la historia patria."
+        },
+        {
+          "letter": "C",
+          "text": "Sostiene que las mujeres de la capital celebraron con júbilo la destrucción de la ciudad.",
+          "is_correct": false,
+          "feedback": "Muestra el desconcierto, el encierro y el trauma de las familias ante la marea de violencia."
+        },
+        {
+          "letter": "D",
+          "text": "Transforma el 9 de abril en una fiesta infantil de cumpleaños sin mayor trascendencia.",
+          "is_correct": false,
+          "feedback": "Es una de las obras más lucidas sobre la fractura de la memoria urbana colombiana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Albalucía Ángel enriqueció la narrativa sobre El Bogotazo al entrelazar el cataclismo político con la memoria íntima de la infancia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.71,
+      "bundle_id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle-v8",
+      "statement": "¿Qué concepto de tiempo y memoria histórica sostiene la arquitectura de esta epopeya?",
+      "context": "En *Changó, el gran putas* de Manuel Zapata Olivella, la saga de la libertad afroamericana abarca desde la trata negrera hasta las luchas por los derechos civiles con Martin Luther King y Malcolm X.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un tiempo mítico y ancestral donde los muertos y los vivos (*Muntu*) luchan juntos en una continuidad histórica por la liberación.",
+          "is_correct": true,
+          "feedback": "Zapata Olivella aplica la visión cosmogónica africana: la memoria de los antepasados alienta la resistencia de las generaciones presentes."
+        },
+        {
+          "letter": "B",
+          "text": "Una visión lineal eurocéntrica que considera que la historia de América comenzó en los bancos de Londres.",
+          "is_correct": false,
+          "feedback": "La obra combate precisamente el eurocentrismo reivindicando la soberanía de la memoria negra."
+        },
+        {
+          "letter": "C",
+          "text": "Una cronología que niega la existencia del comercio de esclavos en el Caribe.",
+          "is_correct": false,
+          "feedback": "La novela denuncia con sobrecogedora fuerza la barbarie del comercio negrero."
+        },
+        {
+          "letter": "D",
+          "text": "Un manual de instrucciones para la construcción de barcos de vela.",
+          "is_correct": false,
+          "feedback": "Es una cúpula poética y filosófica de la literatura sobre la libertad americana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "*Changó, el gran putas* articula la resistencia afroamericana desde la cosmogonía ancestral del *Muntu*, uniendo a vivos y antepasados en la lucha.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle-v9",
+      "statement": "¿Qué postura sobre la democracia y el pensamiento crítico defiende Estanislao Zuleta en este célebre texto?",
+      "context": "En el ensayo *Elogio de la dificultad* de Estanislao Zuleta, se critica la tendencia humana a desear utopías fáciles y mundos sin conflicto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Defiende que la democracia requiere asumir el conflicto, la diferencia y el respeto por el otro sin caer en el dogmatismo ni en la búsqueda de paraísos autoritarios.",
+          "is_correct": true,
+          "feedback": "Zuleta sostiene que desear una sociedad sin contradicciones conduce al totalitarismo, proponiendo en cambio una convivencia madura en la diversidad."
+        },
+        {
+          "letter": "B",
+          "text": "Sugiere que los seres humanos deben evitar el pensamiento abstracto para no sufrir de dolores de cabeza.",
+          "is_correct": false,
+          "feedback": "Zuleta elogia precisamente el esfuerzo intelectual y el rigor del pensamiento crítico."
+        },
+        {
+          "letter": "C",
+          "text": "Propone la abolición de las universidades para volver a la vida silvestre.",
+          "is_correct": false,
+          "feedback": "El autor fue un gran pedagogo e intelectual que promovió el amor por la filosofía y la lectura."
+        },
+        {
+          "letter": "D",
+          "text": "Afirma que la felicidad consiste en obedecer sin cuestionar a las autoridades de turno.",
+          "is_correct": false,
+          "feedback": "Critica la servidumbre voluntaria y llama a pensar por cuenta propia con valentía."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Estanislao Zuleta elogia la dificultad del pensamiento crítico y la democracia como el arte de convivir lúcidamente en el conflicto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle-v10",
+      "statement": "¿Qué rasgo distingue la desesperanza de Maqroll respecto al nihilismo destructivo?",
+      "context": "En *La nieve del almirante* de Álvaro Mutis, Maqroll el Gaviero escribe en su diario mientras fiebre y desesperanza lo consumen en la choza de un río tropical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una desesperanza lúcida que no conduce al cinismo ni al abandono, sino a una serena fascinación por la belleza efímera del mundo.",
+          "is_correct": true,
+          "feedback": "El Gaviero asume el fracaso inevitable de sus empresas sin perder la generosidad, el amor por la poesía y la fraternidad."
+        },
+        {
+          "letter": "B",
+          "text": "Es un deseo desmedido de acumular riquezas para comprar títulos nobiliarios en Europa.",
+          "is_correct": false,
+          "feedback": "Maqroll es ajeno a la codicia vulgar y abandona el dinero con la misma facilidad con que lo gana."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que el personaje era un agente secreto al servicio de una potencia militar.",
+          "is_correct": false,
+          "feedback": "Maqroll es un nómada apátrida que huye de las banderas y las instituciones formales."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituye la literatura por un tratado sobre el cultivo del café en el trópico.",
+          "is_correct": false,
+          "feedback": "Su diario es una meditación poética sobre el tiempo, los puertos y la soledad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La desesperanza en la obra de Álvaro Mutis es una categoría poética: la lucidez de quien sabe que la vida es derrota pero celebra el instante.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.61,
+      "bundle_id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle-v11",
+      "statement": "¿Qué elemento de la comedia social y la sátira política utiliza Salom Becerra en su novela?",
+      "context": "En *Un tal Bernabé Bernal* de Álvaro Salom Becerra, se satiriza la burocracia bogotana y el arribismo de la clase media durante los años setenta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La caricaturización de la mezquindad del empleado público que busca ascender mediante la adulación a los políticos de turno.",
+          "is_correct": true,
+          "feedback": "Salom Becerra retrata con humor amargo las miserias del \"tinterillo\" y las trampas del clientelismo en la capital."
+        },
+        {
+          "letter": "B",
+          "text": "La exaltación poética de las virtudes de los ministros y senadores de la época.",
+          "is_correct": false,
+          "feedback": "La obra es una sátira feroz contra la corrupción y la vanidad de la clase política."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que los empleados públicos bogotanos eran héroes de la literatura de ciencia ficción.",
+          "is_correct": false,
+          "feedback": "La novela se enmarca en un realismo satírico y costumbrista urbano."
+        },
+        {
+          "letter": "D",
+          "text": "Obliga a los lectores a memorizar el código de procedimiento administrativo.",
+          "is_correct": false,
+          "feedback": "Utiliza el humor para criticar la vacuidad del sistema burocrático."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Álvaro Salom Becerra empleó la sátira urbana para desnudarse el clientelismo y el arribismo de la burocracia bogotana.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle-v12",
+      "statement": "¿Qué aporte hizo Meira Delmar a la lírica femenina colombiana del siglo XX?",
+      "context": "En la obra poética de Meira Delmar (Olga Chams Eljach), el mar Caribe y la nostalgia del origen libanés convergen en versos de serena belleza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consolidó una poética del intimismo, la memoria de la inmigración y el paisaje marino con un manejo magistral del tono lírico.",
+          "is_correct": true,
+          "feedback": "Meira Delmar es la voz poética por excelencia de Barranquilla, combinando la luz del Caribe con el silencio de la melancolía."
+        },
+        {
+          "letter": "B",
+          "text": "Exigió la prohibición de escribir poemas sobre el mar en la literatura nacional.",
+          "is_correct": false,
+          "feedback": "El mar es el espacio poético recurrente en su obra, símbolo de libertad y nostalgia."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que los poetas costeños no debían publicar sus obras en libros impresos.",
+          "is_correct": false,
+          "feedback": "Publicó varios de los poemarios más célebres y leídos de la poesía colombiana."
+        },
+        {
+          "letter": "D",
+          "text": "Redujo la poesía a una colección de canciones de marcha militar.",
+          "is_correct": false,
+          "feedback": "Su obra destaca por la delicadeza, la música sutil y la profundidad afectiva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Meira Delmar enriqueció la lírica colombiana al hermanar la luz del Caribe con la nostalgia de la herencia árabe en versos de depurada música.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle-v13",
+      "statement": "¿Qué provocación estética e ideológica plantea el discurso del narrador en *La virgen de los sicarios*?",
+      "context": "En *La virgen de los sicarios* (1994) de Fernando Vallejo, el gramático Fernando regresa a Medellín y contempla con estupor la violencia de los jóvenes sicarios en los barrios altos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Invectiva con lenguaje refinado e incisivo contra la degradación de la ciudad, el estallido de la violencia y la descomposición del Estado.",
+          "is_correct": true,
+          "feedback": "Vallejo utiliza un tono nihilista, sarcástico y lírico para retratar la orgía de muerte y la pérdida de futuro de los jóvenes de Medellín."
+        },
+        {
+          "letter": "B",
+          "text": "Defiende que la violencia en Medellín fue una invención de los periódicos extranjeros.",
+          "is_correct": false,
+          "feedback": "La novela muestra la presencia cotidiana del asesinato, el narcotráfico y las comunas."
+        },
+        {
+          "letter": "C",
+          "text": "Propone la creación de un comité de aplausos para los gobernantes de la época.",
+          "is_correct": false,
+          "feedback": "El narrador arremete con furia satírica contra políticos, jueces e instituciones."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituye el idioma español por un dialecto inventado inaccesible para los lectores.",
+          "is_correct": false,
+          "feedback": "El brillo de la obra reside en el contraste entre el español culto del gramático y el parlache de los sicarios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Fernando Vallejo convulsionó la novela urbana al confrontar la belleza de la lengua culta con la atrocidad del sicariato en Medellín.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.52,
+      "bundle_id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle-v14",
+      "statement": "¿Qué papel jugó la preservación de la lengua y los ritos en la resistencia cimarrona durante la Colonia?",
+      "context": "En *La ceiba de la memoria*, se relata cómo los cautivos africanos en los valles del Cauca y el Chocó mantenían vivas sus lenguas sagradas en secreto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Garantizó un espacio de soberanía espiritual y cohesión comunitaria que impidió la aculturación total impuesta por la esclavitud.",
+          "is_correct": true,
+          "feedback": "Mantener los cantos, la partería y los vocablos sagrados fue el escudo simbólico con que los cimarrones preservaron su humanidad."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que los esclavizados olvidaron su origen africano al desembarcar en Cartagena.",
+          "is_correct": false,
+          "feedback": "La literatura afrodiaspórica demuestra la continuidad viva de las raíces africanas en América."
+        },
+        {
+          "letter": "C",
+          "text": "Señala que las lenguas africanas fueron adoptadas como idioma oficial por los virreyes españoles.",
+          "is_correct": false,
+          "feedback": "Se mantuvieron en la clandestinidad de los palenques frente a la represión colonial."
+        },
+        {
+          "letter": "D",
+          "text": "Transforma la historia del cimarronaje en una comedia de enredos de salón.",
+          "is_correct": false,
+          "feedback": "Es un testimonio de heroísmo, dolor y digna resistencia libertaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La preservación clandestina de la lengua y los ritos ancestrales fue la piedra angular de la resistencia cultural del cimarronaje.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.48,
+      "bundle_id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle-v15",
+      "statement": "¿Qué hito marcó el paso de la narrativa costumbrista a la novela de crítica social moderna en Colombia?",
+      "context": "En el ensayo *La novela en Colombia* de Curcio Altamar, se rastrea el origen de la narrativa nacional desde la Colonia hasta el siglo XX.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La superación del mero cuadro de costumbres pintoresco para indagar las estructuras de poder, la violencia y la psicología urbana.",
+          "is_correct": true,
+          "feedback": "La novela dejó de conformarse con pintar vestidos y fiestas regionales para encarar los dramas del conflicto armado y la ciudad."
+        },
+        {
+          "letter": "B",
+          "text": "La prohibición de escribir obras literarias fuera de la ciudad de Bogotá.",
+          "is_correct": false,
+          "feedback": "La novela colombiana moderna floreció precisamente en las regiones (Caribe, Valle, Antioquia)."
+        },
+        {
+          "letter": "C",
+          "text": "El abandono del idioma español para escribir únicamente en latín.",
+          "is_correct": false,
+          "feedback": "Consolidó una prosa propia enriquecida por la oralidad y el léxico nacional."
+        },
+        {
+          "letter": "D",
+          "text": "La sustitución de los libros impresos por boletines oficiales de prensa.",
+          "is_correct": false,
+          "feedback": "La novela se afirmó como la forma estética soberana de interpretación del país."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La transición hacia la novela moderna significó abandonar la estampa costumbrista para asumir el análisis complejo de la sociedad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle-v16",
+      "statement": "¿Qué valor posee el rescate de las biografías de creadoras invisibilizadas en la historiografía del arte?",
+      "context": "En *La desposada del viento*, se relata la vida de las poetas surrealistas que desafiaron los dogmas sociales de la Europa de entreguerras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Restituye la memoria completa de la cultura al revelar que las mujeres no fueron meras musas sino agentes activas de la vanguardia.",
+          "is_correct": true,
+          "feedback": "La crítica feminista demuestra la potencia creadora de escultoras, escritoras y pintoras censuradas por el canon patriarcal."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que las mujeres no tenían interés en la pintura ni en la escritura.",
+          "is_correct": false,
+          "feedback": "La investigación histórica revela una producción de altísimo valor estético e intelectual."
+        },
+        {
+          "letter": "C",
+          "text": "Exige la quema de todas las obras de arte creadas por hombres en el siglo XX.",
+          "is_correct": false,
+          "feedback": "Busca la justicia histórica y la ampliación democrática del canon cultural."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituye el estudio del arte por manuales de etiqueta victoriana.",
+          "is_correct": false,
+          "feedback": "Cuestiona precisamente las normas victorianas que subordinaban a la mujer."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El rescate de las creadoras vanguardistas amplía el canon cultural y reconoce su papel como protagonistas de la modernidad artística.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.42,
+      "bundle_id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle-v17",
+      "statement": "¿Qué rasgo del realismo urbano caracterizó la obra de Luis Fayad?",
+      "context": "En el libro de relatos *Los parientes de Ester* de Luis Fayad, se narra la lenta decadencia económica de una familia de clase media en la Bogotá de los años setenta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La observación minuciosa de la monotonía cotidiana, los pequeños fracasos y las dificultades de la vida modesta en la capital.",
+          "is_correct": true,
+          "feedback": "Fayad sobresale en retratar la trastienda de la burocracia bogotana sin efectismos, con un realismo sobrio de profunda humanidad."
+        },
+        {
+          "letter": "B",
+          "text": "La presencia constante de dragones y castillos mágicos en los barrios del sur de Bogotá.",
+          "is_correct": false,
+          "feedback": "Fayad se aleja de cualquier exotismo para centrarse en el realismo cotidiano y urbano."
+        },
+        {
+          "letter": "C",
+          "text": "La exaltación triunfalista del éxito financiero de los comerciantes capitalinos.",
+          "is_correct": false,
+          "feedback": "Su obra muestra la precariedad, la inflación y la lucha angustiada por la supervivencia."
+        },
+        {
+          "letter": "D",
+          "text": "Un estilo cargado de adjetivos rimbombantes e hipérboles del siglo XIX.",
+          "is_correct": false,
+          "feedback": "Fayad utiliza un lenguaje llano, preciso y de contenida emoción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Luis Fayad es el gran cronista del realismo urbano bogotano, retratando la dignidad y los silenciosos fracasos de la clase media.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.39,
+      "bundle_id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle-v18",
+      "statement": "¿Qué conflicto ético plantea el paso de la sociedad rural tradicional a la modernización industrial en la narrativa antioqueña?",
+      "context": "En *Lejos del nido* de Juan José Botero o los cuentos de Efe Gómez, la narrativa antioqueña de comienzos del siglo XX explora las transformaciones de la arriería y la minería.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tensión entre los valores patriarcales de la fe y la familia frente a la codicia, el dinero rápido y la desintegración comunitaria.",
+          "is_correct": true,
+          "feedback": "Los autores del periodo retrataron con inquietud cómo la fiebre del oro y el comercio alteraban la moral tradicional de las montañas."
+        },
+        {
+          "letter": "B",
+          "text": "La celebración acrítica de que el dinero resuelve todos los dilemas morales del ser humano.",
+          "is_correct": false,
+          "feedback": "La literatura cuestionó abiertamente la pérdida de valores éticos ante la ambición desmedida."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que en Antioquia nunca existió la actividad minera ni la arriería.",
+          "is_correct": false,
+          "feedback": "La arriería y la minería fueron los motores económicos y temas centrales de esa narrativa."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición de construir carreteras en las zonas de montaña.",
+          "is_correct": false,
+          "feedback": "Refleja la llegada del ferrocarril y el impacto de los nuevos medios de transporte."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La literatura antioqueña de transición registró las contradicciones morales provocadas por la llegada del capitalismo minero y la modernidad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.36,
+      "bundle_id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle-v19",
+      "statement": "¿Qué aporta la poesía del Caribe de las sabanas a la diversidad de la lírica colombiana?",
+      "context": "En la poesía de Romulo Bustos Aguirre o Jorge García Usta, la memoria del Caribe continental (el Sinú y la sabana) dialoga con la gran tradición poética universal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una mirada que une la sensualidad de la naturaleza fluvial, la memoria campesina y una profunda reflexión filosófica sobre el tiempo.",
+          "is_correct": true,
+          "feedback": "Bustos Aguirre y García Usta demuestran que la poética del Caribe va más allá del mar para indagar el río, la yuca, el mito y la metafísica."
+        },
+        {
+          "letter": "B",
+          "text": "La exigencia de que todos los poemas sean acompañados por bailes de cumbia obligatorios.",
+          "is_correct": false,
+          "feedback": "Su poesía es de alta densidad reflexiva, meditativa y de refinada elaboración verbal."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación de que el Caribe es una región sin historia ni tradiciones poéticas.",
+          "is_correct": false,
+          "feedback": "Reivindican la herencia de una zona de inmensa riqueza cultural e intelectual."
+        },
+        {
+          "letter": "D",
+          "text": "El uso exclusivo de términos en inglés para dirigirse a los lectores capitalinos.",
+          "is_correct": false,
+          "feedback": "Su lenguaje está arraigado en la belleza del español mestizo de las sabanas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La lírica del Caribe sabanero enriquece la poesía nacional al fusionar la memoria de la tierra con la especulación filosófica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.32,
+      "bundle_id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle-v20",
+      "statement": "¿Qué juicio crítico justifica considerar a la literatura colombiana como una reserva de memoria histórica?",
+      "context": "Al evaluar el valor de la literatura como patrimonio inmaterial de Colombia, un académico afirma que \"en nuestras novelas y poemas reside el archivo más fiel de los dolores y utopías de la nación\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque ha registrado las voces de las víctimas, las subjetividades censuradas y las contradicciones que la historia oficial suele silenciar.",
+          "is_correct": true,
+          "feedback": "Frente a los relatos oficiales, la literatura colombiana ha sido el refugio de la verdad poética, el trauma colectivo y la búsqueda de justicia."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los libros de literatura son los únicos documentos admitidos por los jueces en los tribunales.",
+          "is_correct": false,
+          "feedback": "Su valor no es procesal penal sino ético, estético y de memoria identitaria."
+        },
+        {
+          "letter": "C",
+          "text": "Porque demuestra que en Colombia no han existido momentos de conflicto o sufrimiento.",
+          "is_correct": false,
+          "feedback": "Precisamente ha sido el testimonio más sobrecogedor y lucido de nuestras tragedias."
+        },
+        {
+          "letter": "D",
+          "text": "Porque reemplaza la necesidad de contar con escuelas y universidades en el país.",
+          "is_correct": false,
+          "feedback": "Nutre la educación cívica y la formación de ciudadanos reflexivos e imparciales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La literatura nacional constituye un archivo estético y ético indispensable para comprender las heridas, sueños e identidad de la sociedad colombiana.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.29,
+      "bundle_id": "CO-LC-11-2026-W07-contexto-literario-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

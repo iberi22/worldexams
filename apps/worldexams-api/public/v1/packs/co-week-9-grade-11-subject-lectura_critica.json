@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-9-grade-11-subject-lectura_critica",
+    "generated_at": "2026-08-29T19:43:33.962Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle-v1",
+      "statement": "¿De qué manera se articula la metaficción y la investigación histórica en esta novela colombiana contemporánea?",
+      "context": "En la novela *La forma de las ruinas* de Juan Gabriel Vásquez, el narrador investiga las teorías conspirativas alrededor de los asesinatos de Rafael Uribe Uribe (1914) y Jorge Eliécer Gaitán (1948).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une el documento histórico real con la obsesión del narrador personaje, cuestionando la verdad oficial y mostrando cómo el pasado determina el presente.",
+          "is_correct": true,
+          "feedback": "Vásquez utiliza la voz de un narrador homónimo para explorar cómo los traumas políticos de Colombia se ramifican en la memoria colectiva."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que los crímenes del siglo XX en Bogotá fueron resueltos de forma definitiva y sin dudas por los jueces de la época.",
+          "is_correct": false,
+          "feedback": "La novela indaga precisamente las sombras, cabos sueltos e impunidades de la historia oficial."
+        },
+        {
+          "letter": "C",
+          "text": "Afirma que las balas encontradas en las autopsias pertenecían a coleccionistas de antigüedades del extranjero.",
+          "is_correct": false,
+          "feedback": "Los objetos históricos (las balas, la vértebra de Gaitán) funcionan como símbolos de la herida trágica del país."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituye la narración de ficción por un catálogo de venta de armas antiguas.",
+          "is_correct": false,
+          "feedback": "Es un virtuoso ejercicio de novela negra e histórica que dialoga con los archivos reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Juan Gabriel Vásquez combina la metaficción con la investigación de archivo para explorar el peso de los magnicidios en la identidad nacional.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle-v2",
+      "statement": "¿Qué efecto produce el recurso de las notas a pie de página críticas redactadas por la propia narradora?",
+      "context": "En un capítulo de *El libro de las horas* de una escritora colombiana, la narradora reproduce las cartas encontradas en un baúl antiguo mientras añade notas a pie de página criticando las mentiras de su abuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crea una estructura de contrapunto e intertextualidad donde el presente desmonta la versión idealizada del pasado familiar.",
+          "is_correct": true,
+          "feedback": "Las notas a pie de página interrumpen el flujo epistolar para ofrecer la mirada irónica de la nieta que desacredita la hipocresía del clan."
+        },
+        {
+          "letter": "B",
+          "text": "Prueba que las cartas antiguas eran falsificaciones vendidas en una tienda de curiosidades.",
+          "is_correct": false,
+          "feedback": "El valor de las notas radica en el contraste entre el discurso epistolar del pasado y la crítica presente."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra la incapacidad de la abuela para escribir cartas con buena ortografía.",
+          "is_correct": false,
+          "feedback": "Muestra el choque generacional de valores y la deconstrucción de los mitos domésticos."
+        },
+        {
+          "letter": "D",
+          "text": "Obliga a clasificar la obra como un texto exclusivamente jurídico sobre herencias.",
+          "is_correct": false,
+          "feedback": "Es un recurso metaficcional que enriquece la complejidad de la memoria familiar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El uso de notas a pie de página en la ficción contemporánea dialoga con el texto principal para desarmar verdades únicas e introducir ironía.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.87,
+      "bundle_id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle-v3",
+      "statement": "¿Qué intención estética persigue el uso del \"pastiche paródico\" en la narrativa regional?",
+      "context": "En *Los textos del desierto* de un autor costeño, se parodia el estilo de las crónicas de la Conquista para relatar la llegada del fluido eléctrico a un caserío de la Guajira.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Utilizar la solemnidad del lenguaje arcaico para resaltar con humor la maravilla y el contraste del progreso técnico en la provincia.",
+          "is_correct": true,
+          "feedback": "El pastiche desacraliza la crónica colonial al aplicarla a un evento cotidiano, creando un efecto de insólita belleza e ironía."
+        },
+        {
+          "letter": "B",
+          "text": "Demostrar que los habitantes de la Guajira hablaban en español del siglo XVI.",
+          "is_correct": false,
+          "feedback": "La parodia adopta el estilo antiguo de manera consciente como estrategia literaria."
+        },
+        {
+          "letter": "C",
+          "text": "Prohibir la instalación de redes eléctricas en los departamentos del norte del país.",
+          "is_correct": false,
+          "feedback": "Celebra con humor poético la llegada de la luz y la sorpresa de la comunidad."
+        },
+        {
+          "letter": "D",
+          "text": "Exigir que las empresas de servicios públicos redacten sus facturas en castellano antiguo.",
+          "is_correct": false,
+          "feedback": "Es un juego de estilo que explora el diálogo entre la historia y la modernidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pastiche paródico utiliza el revestimiento estilístico del pasado para resignificar eventos del presente con ironía y lirismo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle-v4",
+      "statement": "¿Qué supone para la teoría de la narrativa la presencia de \"múltiples versiones inconciliables\" de un mismo hecho?",
+      "context": "En la novela *El obsceno pájaro de la noche*, el personaje de la Humberta cuenta la misma historia de la infancia de las niñas aristócratas con cuatro versiones totalmente contradictorias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Postula que la verdad objetiva en la ficción se disuelve frente a la subjetividad, los intereses y el delirio de cada voz que narra.",
+          "is_correct": true,
+          "feedback": "Donoso lleva al límite la relatividad del relato: no hay un hecho único sino una multiplicidad de ficciones que compiten por el sentido."
+        },
+        {
+          "letter": "B",
+          "text": "Prueba un descuido de la casa editorial al no corregir los borradores antes de la impresión.",
+          "is_correct": false,
+          "feedback": "Las versiones contradictorias son el pilar de la poética de la ambigüedad en la gran novela del Boom."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que los personajes sufrían de amnesia temporal provocada por un contagio.",
+          "is_correct": false,
+          "feedback": "Representa la imposibilidad de fijar una memoria única en entornos de decadencia social."
+        },
+        {
+          "letter": "D",
+          "text": "Obliga a los lectores a elegir mediante sorteo cuál versión debe ser considerada verdadera.",
+          "is_correct": false,
+          "feedback": "Desafía la lectura pasiva e invita a aceptar la pluralidad de la ficción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las versiones contrapuestas de un hecho quiebran el dogma del narrador omnisciente y reflejan la naturaleza inestable de la memoria.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle-v5",
+      "statement": "¿Qué concepción de la creación literaria se manifiesta en la declaración del sabio catalán?",
+      "context": "En *Cien años de soledad*, cuando el sabio catalán vende sus libros antes de regresar a Europa, le aconseja a los jóvenes: \"Llévense a Macondo en el corazón, que la literatura es el mejor juguete que se ha inventado para hacer burla de la gente\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La literatura como un juego estético libertario, desmitificador e irónico que se ríe de las solemnidades y del poder.",
+          "is_correct": true,
+          "feedback": "García Márquez sintetiza por boca del sabio catalán su poética: la escritura como regocijo, libertad y desacralización."
+        },
+        {
+          "letter": "B",
+          "text": "Una condena amarga que exige la quema de todas las bibliotecas de América Latina.",
+          "is_correct": false,
+          "feedback": "El sabio ama los libros pero comprende su dimensión de juego inteligente e irónico."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación de que los libros de ficción deben ser reemplazados por juguetes de plástico.",
+          "is_correct": false,
+          "feedback": "Usa la palabra \"juguete\" en sentido de libertad pura, invención y goce intelectual."
+        },
+        {
+          "letter": "D",
+          "text": "La recomendación de usar la literatura únicamente para la enseñanza de valores cívicos oficiales.",
+          "is_correct": false,
+          "feedback": "Defiende el valor lúdico y soberano del arte por encima del didactismo pedagógico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La frase del sabio catalán sintetiza la perspectiva cervantina de García Márquez: la literatura como goce, ironía y desacralización.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle-v6",
+      "statement": "¿Cómo dialoga la memoria sentimental del niño con el contexto histórico de la modernización mexicana?",
+      "context": "En *Las batallas en el desierto* de José Emilio Pacheco, el narrador adulto recuerda su enamoramiento infantil de la madre de su amigo en la Ciudad de México de 1948.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contrapone la inocencia del primer amor con la llegada del consumismo, la corrupción política y la pérdida del paisaje tradicional.",
+          "is_correct": true,
+          "feedback": "Pacheco entrelaza el despertar afectivo de Carlos con la transformación de México en una urbe dominada por la influencia norteamericana."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que la Ciudad de México de los años cuarenta carecía de transporte público.",
+          "is_correct": false,
+          "feedback": "La novela retrata con precisión la llegada de los automóviles, la radio y las marcas importadas."
+        },
+        {
+          "letter": "C",
+          "text": "Afirma que el amor infantil es un delito sancionado por las autoridades de la escuela.",
+          "is_correct": false,
+          "feedback": "Trata con delicadeza la ternura y la incomprensión del mundo adulto ante la sensibilidad infantil."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituye la trama sentimental por un catálogo de marcas de golosinas importadas.",
+          "is_correct": false,
+          "feedback": "Las marcas y canciones de la época enriquecen el clima de época de la narración."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pacheco entrelaza la elegía del primer amor con la transformación social de la ciudad, creando una obra maestra de la memoria.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle-v7",
+      "statement": "¿Qué figura retórica y actitud lírica manifiesta el uso del apóstrofe \"¡Oh selva...!\"?",
+      "context": "En *La vorágine*, Arturo Cova exclama frente a la inmensidad del paisaje: \"¡Oh selva, esposa del silencio, madre de la miseria y de la muerte!\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La invocación vehemente que personifica a la selva como una divinidad devoradora y trágica a la que el poeta interpela con espanto y fascinación.",
+          "is_correct": true,
+          "feedback": "El apóstrofe dramatiza el diálogo del sujeto con la naturaleza desmesurada, convirtiéndola en un ser mítico y despiadado."
+        },
+        {
+          "letter": "B",
+          "text": "Un saludo diplomático dirigido a las autoridades ambientales del departamento del Amazonas.",
+          "is_correct": false,
+          "feedback": "No es un trámite formal sino una desbordante apóstrofe poética de tono romántico e imprecatorio."
+        },
+        {
+          "letter": "C",
+          "text": "La demostración de que el narrador desconocía la extensión del territorio nacional.",
+          "is_correct": false,
+          "feedback": "Cova expresa la sobrecogedora inmensidad de la geografía que lo devorará."
+        },
+        {
+          "letter": "D",
+          "text": "Una recomendación agrícola sobre el cultivo de especies de sombra.",
+          "is_correct": false,
+          "feedback": "El lenguaje es de una altísima tensión pasional y poética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El apóstrofe a la selva en *La vorágine* personifica a la naturaleza indómita como una entidad mítica que fascina y destruye.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.71,
+      "bundle_id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle-v8",
+      "statement": "¿Qué función cumple la intertextualidad con la obra de Shakespeare en la caracterización del criminal?",
+      "context": "En una novela negra colombiana, el asesino redacta diarios en los que cita fragmentos de la tragedia *Macbeth* de Shakespeare para justificar sus crímenes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Otorga una dimensión de densidad trágica y autojustificación intelectual a la mente del criminal, elevando el delito a la categoría de destino.",
+          "is_correct": true,
+          "feedback": "La alusión a *Macbeth* muestra la ambición, la culpa y el delirio de poder que consume la psicología del asesino."
+        },
+        {
+          "letter": "B",
+          "text": "Prueba que el asesino era un profesor de inglés retirado por jubilación.",
+          "is_correct": false,
+          "feedback": "Muestra la fascinación del personaje por los arquetipos de la ambición y la culpa en la literatura universal."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que la novela fue traducida al español por una editorial de Londres.",
+          "is_correct": false,
+          "feedback": "Es un recurso de diseño narrativo para enriquecer la psicología del antagonista."
+        },
+        {
+          "letter": "D",
+          "text": "Obliga a los lectores a memorizar la obra teatral antes de terminar el libro.",
+          "is_correct": false,
+          "feedback": "La cita intertextual enriquece la lectura sin exigir erudición académica previa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intertextualidad con el teatro clásico dota de espesor trágico y complejidad psicológica a los móviles del personaje.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle-v9",
+      "statement": "¿Qué logra Puig al integrar notas a pie de página de tono académico en una historia de afecto en la cárcel?",
+      "context": "En *El beso de la mujer araña* de Manuel Puig, la narración intercala las conversaciones en una celda de prisión entre Molina y Valentín con extensas notas a pie de página de teorías psicoanalíticas y sociológicas sobre la homosexualidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Confrontar el discurso científico rígido del poder con la humanidad, la ternura y la fantasía del amor que florece en la celda.",
+          "is_correct": true,
+          "feedback": "Puig contrapone la frialdad de las teorías patologizadoras con la verdad emocional y la solidaridad de los dos prisioneros."
+        },
+        {
+          "letter": "B",
+          "text": "Demostrar que el libro debe ser leído únicamente en las facultades de medicina.",
+          "is_correct": false,
+          "feedback": "Usa las notas científicas como recurso de contraste estético y ético."
+        },
+        {
+          "letter": "C",
+          "text": "Indicar que los personajes leían tratados de sociología durante las noches de encierro.",
+          "is_correct": false,
+          "feedback": "Las notas son una voz teórica externa que dialoga con el melodrama de la celda."
+        },
+        {
+          "letter": "D",
+          "text": "Prohibir a los lectores conmoverse con la historia de los dos prisioneros.",
+          "is_correct": false,
+          "feedback": "La distancia teórica vuelve aún más entrañable la entrega y el sacrificio final de los personajes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Manuel Puig contrapone el discurso teórico del control con la verdad afectiva y la fantasía emancipadora de sus personajes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle-v10",
+      "statement": "¿Qué sátira sobre la condición humana y la religión plantea la reacción del pueblo ante el ángel caído?",
+      "context": "En un cuento de Gabriel García Márquez (*Un señor muy viejo con unas alas enormes*), un ángel decrépito cae en el patio de una casa campesina y es encerrado en un gallinero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evidencia la incapacidad de la sociedad para reconocer lo sagrado cuando no coincide con sus expectativas espectaculares o utilitarias.",
+          "is_correct": true,
+          "feedback": "El pueblo trata al ángel como una curiosidad de circo o un estorbo, mostrando la ceguera espiritual y la codicia cotidiana."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que las autoridades eclesiásticas actuaron con inmediata sabiduría y caridad.",
+          "is_correct": false,
+          "feedback": "La iglesia envía teólogos a verificar si el ángel entiende el latín, mostrando burocracia en lugar de piedad."
+        },
+        {
+          "letter": "C",
+          "text": "Prueba que el anciano con alas era un piloto de aviación que sufrió un accidente.",
+          "is_correct": false,
+          "feedback": "El relato opera en la clave del realismo mágico y la parábola satírica."
+        },
+        {
+          "letter": "D",
+          "text": "Recomienda la cría de aves de corral en los patios de las casas costeñas.",
+          "is_correct": false,
+          "feedback": "Es una profunda reflexión sobre la mezquindad humana ante el misterio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "*Un señor muy viejo con unas alas enormes* satiriza la mezquindad y el pragmatismo de la sociedad ante la presencia de lo maravilloso.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.61,
+      "bundle_id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle-v11",
+      "statement": "¿Cómo combina la autora la investigación periodística de archivo con la creación novelesca?",
+      "context": "En *La isla de la pasión* de Laura Restrepo, se reconstruye la historia real de un grupo de soldados mexicanos y sus familias olvidados en una isla del Océano Pacífico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Utiliza el rigor del archivo histórico para fundamentar la trama y la imaginación literaria para dar vida a la intimidad y el sufrimiento de los olvidados.",
+          "is_correct": true,
+          "feedback": "Restrepo rescata una tragedia real del olvido, convirtiendo los datos de prensa en un conmovedor relato sobre la supervivencia y el abandono."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que los soldados del Pacífico vivían en un paraíso de riqueza sin dificultades.",
+          "is_correct": false,
+          "feedback": "La obra muestra la degradación, el hambre y la locura de los náufragos del deber."
+        },
+        {
+          "letter": "C",
+          "text": "Afirma que la isla de Clipperton pertenecía legalmente al departamento de Antioquia.",
+          "is_correct": false,
+          "feedback": "El conflicto histórico ocurrió entre México y Francia por la soberanía del atolón."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituye la novela por un expediente judicial sin diálogos ni pasiones.",
+          "is_correct": false,
+          "feedback": "Es un testimonio literario de inmensa vitalidad, humanidad y rigor histórico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Laura Restrepo demuestra la maestría de la narrativa testimonial al transformar la investigación de archivo en una conmovedora epopeya humana.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle-v12",
+      "statement": "¿Qué dicotomía sobre la identidad del creador explora Borges en este célebre texto breve?",
+      "context": "En el ensayo *Borges y yo* de Jorge Luis Borges: \"Al otro, a Borges, es a quien le ocurren las cosas... Yo vivo, yo me dejo vivir, para que Borges pueda tramar su literatura\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La división entre el ser humano íntimo que sufre y envejece y la figura pública o seudónimo literario que le sobrevive en los libros.",
+          "is_correct": true,
+          "feedback": "Borges reflexiona con fina ironía sobre cómo el escritor es devorado por su propio nombre y por la literatura."
+        },
+        {
+          "letter": "B",
+          "text": "La prueba de que Jorge Luis Borges tenía un hermano gemelo que escribía los cuentos por él.",
+          "is_correct": false,
+          "feedback": "Se trata de una meditación filosófica sobre el \"doble\" e la identidad del artista."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación de que la literatura debe ser abandonada para vivir en el campo.",
+          "is_correct": false,
+          "feedback": "El texto celebra la literatura mientras constata la servidumbre del creador ante su obra."
+        },
+        {
+          "letter": "D",
+          "text": "Un trámite legal para cambiar de nombre en la Notaría de Buenos Aires.",
+          "is_correct": false,
+          "feedback": "Es una joya de la literatura introspectiva sobre la división del yo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "*Borges y yo* es una cumbre de la reflexión sobre la doble identidad del artista: el hombre de carne y hueso devorado por su mito literario.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle-v13",
+      "statement": "¿Qué relación se establece entre el ritmo de la prosa y la geografía urbana de la capital?",
+      "context": "En *El desbarajuste* de una escritora colombiana, la narradora cambia el estilo de la prosa según el estado de ánimo de la ciudad: rápida y caótica en el centro, pausada y melancólica en los cerros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La sintaxis mimética traduce formalmente la energía y el clima de los espacios urbanos, convirtiendo al estilo en un espejo del paisaje.",
+          "is_correct": true,
+          "feedback": "El ritmo verbal no solo describe la ciudad sino que la encarna en su aceleración o pausa según el espacio."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que el centro de la ciudad tenía más semáforos que los cerros orientales.",
+          "is_correct": false,
+          "feedback": "No es un reporte vial sino un recurso de correspondencia entre estilo y ambiente."
+        },
+        {
+          "letter": "C",
+          "text": "Indica que la escritora cambió de máquina de escribir durante el recorrido.",
+          "is_correct": false,
+          "feedback": "Es una decisión estilística consciente para enriquecer la textura de la novela."
+        },
+        {
+          "letter": "D",
+          "text": "Obliga a los lectores a caminar por la ciudad mientras leen los capítulos.",
+          "is_correct": false,
+          "feedback": "Genera una experiencia de inmersión sensorial mediante el manejo del ritmo verbal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El manejo del ritmo de la prosa en correspondencia con el espacio urbano convierte a la ciudad en una vivencia lingüística y sensorial.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.52,
+      "bundle_id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle-v14",
+      "statement": "¿Cómo resuelve Borges la paradoja del tiempo en este cuento fantástico?",
+      "context": "En el cuento *El milagro secreto* de Borges, el dramaturgo Jaromir Hladík es condenado al fusilamiento por la Gestapo y pide a Dios un año de tiempo mental para terminar su obra de teatro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tiempo físico se detiene entre la orden de fuego y la descarga de las balas, mientras la mente del poeta vive un año entero para concluir su obra.",
+          "is_correct": true,
+          "feedback": "Borges crea una de sus más hermosas paradojas: un año entero transcurre en la conciencia de Hladík durante el parpadeo de una gota de lluvia."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que los soldados de la Gestapo decidieron perdonarle la vida al escritor.",
+          "is_correct": false,
+          "feedback": "Hladík muere fusilado, pero ha logrado la victoria de terminar su obra en la eternidad del instante."
+        },
+        {
+          "letter": "C",
+          "text": "Sostiene que la obra de teatro era un texto incompleto sin valor literario.",
+          "is_correct": false,
+          "feedback": "La obra queda concluida en la mente del poeta como un milagro secreto entre él y Dios."
+        },
+        {
+          "letter": "D",
+          "text": "Transforma la historia en un reporte sobre el clima en la ciudad de Praga.",
+          "is_correct": false,
+          "feedback": "Es un relato metafísico sobre la victoria de la mente y la poesía sobre la muerte física."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "*El milagro secreto* demuestra la maestría borgesiana para dilatar el tiempo de la conciencia frente al instante implacable de la muerte.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.48,
+      "bundle_id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle-v15",
+      "statement": "¿Qué sentido produce la regresión cronológica en la estructura de una novela de amor?",
+      "context": "En la novela *La casa de la pasión*, la historia de amor se narra en orden inverso: desde la vejez de los amantes en el primer capítulo hasta su primer encuentro infantil en el último.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transforma la lectura en un proceso de desvelamiento de las causas, borrando las cicatrices del tiempo para culminar en la inocencia primera.",
+          "is_correct": true,
+          "feedback": "Al recorrer el tiempo a la inversa, la novela desmonta los desencuentros adultos para regalar al lector la ilusión del origen intocado."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra un error de la imprenta que encuadernó los capítulos al revés.",
+          "is_correct": false,
+          "feedback": "La regresión temporal es una elección de diseño narrativo de alta carga poética."
+        },
+        {
+          "letter": "C",
+          "text": "Obliga al lector a comprar un diccionario de historia para entender las fechas.",
+          "is_correct": false,
+          "feedback": "La estructura inversa invita a una relectura del destino de los personajes."
+        },
+        {
+          "letter": "D",
+          "text": "Afirma que los seres humanos nacen ancianos y mueren siendo niños.",
+          "is_correct": false,
+          "feedback": "Es un recurso de manipulación de la trama que resignifica el desenlace."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La estructura de regresión temporal en la novela amorosa deconstruye la decadencia para buscar la pureza y las causas del origen.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle-v16",
+      "statement": "¿Qué función cumple la intertextualidad musical y el pop en la novela de la juventud urbana?",
+      "context": "En *Opio en las nubes* de Chaparro Madiedo, los personajes escuchan obsesivamente canciones de los Rolling Stones mientras recuerdan a amigos muertos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Funciona como la banda sonora del afecto y el duelo generacional, uniendo a los jóvenes en una identidad rítmica frente a la soledad.",
+          "is_correct": true,
+          "feedback": "La música rock en Chaparro Madiedo no es un adorno sino la sustancia emocional que da ritmo al dolor y la deriva de la ciudad."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que los personajes eran vendedores de discos de vinilo en el centro de Bogotá.",
+          "is_correct": false,
+          "feedback": "La música es el refugio existencial y el canal de expresión de sus afectos."
+        },
+        {
+          "letter": "C",
+          "text": "Prohíbe a los lectores escuchar otros géneros musicales durante la lectura del libro.",
+          "is_correct": false,
+          "feedback": "Crea un clima de época de alta intensidad afectiva e identitaria."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituye la narrativa por una partitura para piano y violín.",
+          "is_correct": false,
+          "feedback": "Integra el ritmo de las canciones en la propia sintaxis de la prosa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intertextualidad musical en la novela urbana funciona como el lenguaje afectivo e identitario de una generación desencantada.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.42,
+      "bundle_id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle-v17",
+      "statement": "¿Qué mecanismo de legitimación ficcional utiliza Borges al atribuir sus cuentos a manuscritos encontrados o libros raros?",
+      "context": "En *El informe de Brodie* de Borges, el narrador presenta una historia leída en las páginas finales de un volumen de los viajes de Gulliver.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Construye un falso documento que dota de verosimilitud erudita a la invención, borrando los límites entre el archivo real y el apócrifo.",
+          "is_correct": true,
+          "feedback": "Borges juega con la erudición fingida: al atribuir la historia a un libro antiguo, la ficción gana peso mítico y distancia irónica."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que el autor no tenía capacidad para inventar historias originales.",
+          "is_correct": false,
+          "feedback": "El falso documento es un artificio estético del que Borges fue un maestro universal."
+        },
+        {
+          "letter": "C",
+          "text": "Exige que los lectores visiten la Biblioteca Nacional para buscar el manuscrito original.",
+          "is_correct": false,
+          "feedback": "Es un juego de simulación literaria que celebra el placer de la lectura y la apócrifa."
+        },
+        {
+          "letter": "D",
+          "text": "Obliga a clasificar sus cuentos como libros de texto para la enseñanza de la historia.",
+          "is_correct": false,
+          "feedback": "Reivindica la ficción como una de las formas más nobles de la inteligencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El recurso del falso documento o manuscrito hallado en Borges otorga un aura de misteriosa erudición a la pura invención ficcional.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.39,
+      "bundle_id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle-v18",
+      "statement": "¿Qué logra el superposición de capas temporales (palimpsesto temporal) en el relato gótico urbano?",
+      "context": "En un cuento de terror psicológico ambientado en un pabellón abandonado del Hospital San Juan de Dios en Bogotá, las voces de las enfermeras del siglo XIX se confunden con el ruido del tráfico actual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mostrar que la ciudad moderna camina sobre las huellas y dolores no resueltos de su pasado, convirtiendo el espacio en un receptáculo de fantasmas.",
+          "is_correct": true,
+          "feedback": "El palimpsesto temporal revela que el pasado no ha muerto: habita en las ruinas del presente como una advertencia o culpa latente."
+        },
+        {
+          "letter": "B",
+          "text": "Prueba que el hospital continuaba prestando servicios médicos en el siglo XXI.",
+          "is_correct": false,
+          "feedback": "Usa las ruinas del hospital como metáfora del olvido institucional y la memoria trágica."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que el tráfico de la ciudad es causado por espíritus del pasado.",
+          "is_correct": false,
+          "feedback": "El ruido urbano contrasta con el silencio de la ruina para intensificar la extrañeza."
+        },
+        {
+          "letter": "D",
+          "text": "Obliga a los médicos a usar uniformes de la época colonial.",
+          "is_correct": false,
+          "feedback": "Es un recurso de ambientación gótica para cuestionar la ilusión de progreso lineal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El palimpsesto temporal en la narrativa urbana muestra que las ruinas del pasado laten bajo el asfalto de la metrópoli moderna.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.36,
+      "bundle_id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle-v19",
+      "statement": "¿Qué objetivo ético y estético persigue la desacralización de los héroes patrios en la novela histórica contemporánea?",
+      "context": "En la novela *La carroza de Bolívar* de Evelio Rosero, se desmitifica la figura del Libertador Simón Bolívar a través de la mirada crítica de un médico de Pasto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuestionar el dogma de la historia oficial de bronce para humanizar los personajes con sus contradicciones, crueldades y flaquezas.",
+          "is_correct": true,
+          "feedback": "Rosero cuestiona el culto cívico ciego al mostrar los estragos de la guerra en el pueblo liso y la soberbia de los caudillos."
+        },
+        {
+          "letter": "B",
+          "text": "Destruir el respeto por la nación para proponer la anexión de Colombia a otros países.",
+          "is_correct": false,
+          "feedback": "Busca una comprensión crítica y madura de la historia lejos de los mitos escolares impagables."
+        },
+        {
+          "letter": "C",
+          "text": "Demostrar que Simón Bolívar nunca estuvo en la ciudad de Pasto.",
+          "is_correct": false,
+          "feedback": "La novela aborda la trágica resistencia de Pasto frente a los ejércitos patriotas."
+        },
+        {
+          "letter": "D",
+          "text": "Obliga a prohibir el uso de estatuas en las plazas públicas del país.",
+          "is_correct": false,
+          "feedback": "Invita a mirar el pasado sin vendajes ideológicos ni culto ciego a los caudillos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La desacralización de los próceres en la nueva novela histórica humaniza el pasado y rescata la memoria de las comunidades agredidas por la guerra.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.32,
+      "bundle_id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle-v20",
+      "statement": "¿Qué postura sobre la lectura crítica defiende esta afirmación?",
+      "context": "Al evaluar el valor del análisis narrativo complejo en la prueba Saber 11, un especialista afirma: \"Analizar la estructura de un texto no es diseccionar un cadáver; es comprender cómo late la vida en la forma\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Defiende que el análisis técnico (voz, tiempo, intertextualidad) debe servir para iluminar el sentido humano, poético y social de la obra.",
+          "is_correct": true,
+          "feedback": "La técnica no es un fin en sí mismo ni un ejercicio mecánico: es la llave que abre la potencia emotiva y conceptual de la literatura."
+        },
+        {
+          "letter": "B",
+          "text": "Sostiene que la teoría literaria debe ser eliminada de las escuelas del país.",
+          "is_correct": false,
+          "feedback": "Reivindica la teoría como herramienta viva de descubrimiento del sentido."
+        },
+        {
+          "letter": "C",
+          "text": "Afirma que las novelas sólo deben ser leídas por personas que hayan estudiado medicina.",
+          "is_correct": false,
+          "feedback": "Usa la metáfora de la disección para rechazar el análisis puramente árido y escolar."
+        },
+        {
+          "letter": "D",
+          "text": "Demuestra que la forma de un libro no tiene ninguna relación con su contenido.",
+          "is_correct": false,
+          "feedback": "Afirma la indisoluble unidad entre la arquitectura formal y la fuerza espiritual del texto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis narrativo cobra pleno sentido cuando las herramientas técnicas permiten desentrañar la fuerza emotiva, ética y estética de la creación literaria.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.29,
+      "bundle_id": "CO-LC-11-2026-W09-analisis-narrativo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

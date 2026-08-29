@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-2-grade-11-subject-lectura_critica",
+    "generated_at": "2026-08-29T19:43:33.957Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle-v1",
+      "statement": "¿Qué diferencia estructural fundamental distingue al cuento clásico de una novela coral como *La hojarasca*?",
+      "context": "En un fragmento de *La hojarasca* de Gabriel García Márquez, tres generaciones de una familia en Macondo recuerdan la llegada del médico extranjero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La novela entrelaza múltiples perspectivas y líneas temporales complejas, mientras el cuento concentra la tensión en un evento unificado.",
+          "is_correct": true,
+          "feedback": "La novela posee la extensión y flexibilidad para desarrollar varias subjetividades, mientras que el cuento busca una unidad de efecto concentrada."
+        },
+        {
+          "letter": "B",
+          "text": "El cuento prohíbe el uso de la primera persona, reservando ese narrador exclusivamente para las novelas históricas.",
+          "is_correct": false,
+          "feedback": "Tanto el cuento como la novela pueden emplear cualquier tipo de voz narrativa sin restricción alguna."
+        },
+        {
+          "letter": "C",
+          "text": "La novela elimina los diálogos entre personajes para centrarse únicamente en la descripción del entorno geográfico.",
+          "is_correct": false,
+          "feedback": "La novela integra diálogos, monólogos y descripciones en su arquitectura narrativa."
+        },
+        {
+          "letter": "D",
+          "text": "El cuento carece por completo de desenlace o resolución de conflicto dramático.",
+          "is_correct": false,
+          "feedback": "El cuento tradicional presenta un nudo y un desenlace bien delimitados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La extensión de la novela permite la multiplicidad de voces (polifonía) y subtramas, a diferencia de la brevedad e intensidad del cuento.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle-v2",
+      "statement": "¿Qué rasgo propio del cuento contemporáneo se evidencia al resignificar un hecho cotidiano como una llovizna urbana?",
+      "context": "En un cuento urbano de Bogotá, el protagonista observa la transformación de los transeúntes en la carrera Séptima durante un aguacero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La condensación de significado simbólico a partir de observaciones de la vida diaria.",
+          "is_correct": true,
+          "feedback": "El cuento contemporáneo utiliza detalles cotidianos para sugerir reflexiones existenciales mediante la economía del lenguaje."
+        },
+        {
+          "letter": "B",
+          "text": "La necesidad de incluir dragones o seres mitológicos antiguos para pertenecer a la narrativa.",
+          "is_correct": false,
+          "feedback": "La significación simbólica urbana no requiere elementos fantásticos tradicionales."
+        },
+        {
+          "letter": "C",
+          "text": "La eliminación del conflicto narrativo para convertir el relato en una lista de compras.",
+          "is_correct": false,
+          "feedback": "El relato mantiene la tensión narrativa entre la rutina del transeúnte y el evento climático."
+        },
+        {
+          "letter": "D",
+          "text": "El uso de métrica poética estricta y rima consonante en todos los párrafos.",
+          "is_correct": false,
+          "feedback": "El cuento es un texto narrativo escrito en prosa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cuento contemporáneo se caracteriza por la economía narrativa y el uso de metáforas urbanas cotidianas cargadas de densidad simbólica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.87,
+      "bundle_id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle-v3",
+      "statement": "¿Qué función cumple la naturaleza y el paisaje romántico en este pasaje novelesco?",
+      "context": "En la novela *María* de Jorge Isaacs, Efraín contempla los rosales del huerto mientras piensa en la enfermedad de María.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Funcionar como un espejo emocional que presagia y amplifica el tono melancólico de los personajes.",
+          "is_correct": true,
+          "feedback": "En el Romanticismo, el paisaje dialoga con la interioridad anímica, convirtiéndose en metáfora del destino lírico."
+        },
+        {
+          "letter": "B",
+          "text": "Presentar un estudio botánico científico neutral sobre las especies vegetales del Valle del Cauca.",
+          "is_correct": false,
+          "feedback": "No se trata de un informe taxonómico, sino de una construcción estética y afectiva."
+        },
+        {
+          "letter": "C",
+          "text": "Criticar los métodos de irrigación empleados en las haciendas azucareras del siglo XIX.",
+          "is_correct": false,
+          "feedback": "La intención del pasaje es sentimental y estética, no un análisis agronómico."
+        },
+        {
+          "letter": "D",
+          "text": "Demostrar que el protagonista prefería la vida urbana en Europa antes que el campo.",
+          "is_correct": false,
+          "feedback": "Efraín evoca con amor idílico su hogar nativo en el Valle."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El paisaje romántico en la literatura hispanoamericana decimonónica actúa como proyección del mundo interior y presagio trágico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el propósito fundamental de la elipsis narrativa en la brevedad extrema del cuento?",
+      "context": "Lectura de un microrrelato publicado en Medellín que consta de tres oraciones sobre un reloj de arena roto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Omitir nexos explícitos para que el lector complete activamente los vacíos del sentido.",
+          "is_correct": true,
+          "feedback": "La elipsis economiza recursos verbales y confía en la capacidad inferencial del receptor para construir la historia."
+        },
+        {
+          "letter": "B",
+          "text": "Impedir que el lector comprenda el final obligándolo a abandonar la lectura.",
+          "is_correct": false,
+          "feedback": "La elipsis busca estimular la imaginación crítica, no frustrar al lector."
+        },
+        {
+          "letter": "C",
+          "text": "Ocultar que el autor olvidó escribir el resto del capítulo por falta de tiempo.",
+          "is_correct": false,
+          "feedback": "La brevedad y la elipsis en el microrrelato son elecciones formales rigurosas."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazar el uso del idioma español por signos de puntuación aleatorios.",
+          "is_correct": false,
+          "feedback": "El microrrelato utiliza el lenguaje verbal con alta precisión expresiva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La elipsis narrativa es fundamental en la narrativa breve porque activa la inferencia del lector mediante lo sugerido y omitido.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle-v5",
+      "statement": "¿De qué manera esta sentencia inicial condiciona la perspectiva del narrador Arturo Cova?",
+      "context": "Fragmento de *La vorágine* de José Eustasio Rivera: \"Jugué mi corazón al azar y me lo ganó la violencia\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Define su temperamento impulsivo y trágico como víctima y victimario de la selva amazónica.",
+          "is_correct": true,
+          "feedback": "La frase marca la pauta de una voz convulsa arrastrada por pasiones desenfrenadas hacia el abismo de la selva."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que la novela es un tratado sobre los juegos de cartas en las cantinas de Bogotá.",
+          "is_correct": false,
+          "feedback": "El juego es una metáfora de la existencia desordenada y pasional del protagonista."
+        },
+        {
+          "letter": "C",
+          "text": "Señala que Cova era un hombre pacífico dedicado exclusivamente a la enseñanza académica.",
+          "is_correct": false,
+          "feedback": "La cita enfatiza el carácter impetuoso y aventurero de Cova."
+        },
+        {
+          "letter": "D",
+          "text": "Indica que los hechos serán narrados desde la perspectiva de un observador extranjero imparcial.",
+          "is_correct": false,
+          "feedback": "Arturo Cova narra en primera persona su propia vivencia trágica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La apertura de *La vorágine* define la personalidad convulsa de Cova y anticipa la fuerza arrolladora de las decisiones impulsivas en la selva.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle-v6",
+      "statement": "¿Qué aporta el registro coloquial y regionalista a la construcción del espacio en el cuento?",
+      "context": "En un cuento de Tomás Carrasquilla, los vecinos de un pueblo antioqueño discuten en la plaza usando modismos locales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Otorga verosimilitud sociocultural y autenticidad a la caracterización de los personajes.",
+          "is_correct": true,
+          "feedback": "El uso dialectal refleja las dinámicas de la comunidad y dota de vida y color local al mundo ficcional."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra una falta de dominio de las reglas sintácticas por parte del escritor.",
+          "is_correct": false,
+          "feedback": "Carrasquilla empleaba el habla popular de forma consciente y con destreza literaria."
+        },
+        {
+          "letter": "C",
+          "text": "Impide que personas ajenas a la región antioqueña puedan entender la obra.",
+          "is_correct": false,
+          "feedback": "El contexto y la maestría narrativa permiten la comprensión universal del conflicto."
+        },
+        {
+          "letter": "D",
+          "text": "Transforma la narración en un documento legal sobre deslinde de terrenos.",
+          "is_correct": false,
+          "feedback": "La intención es literaria y narrativa, no jurídica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El uso del lenguaje regional y coloquial en el cuento costumbrista aporta autenticidad estética y profundidad socio-cultural.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué la novela contemporánea utiliza anacronías como la analepsis y la prolepsis?",
+      "context": "En una novela moderna colombiana, la historia salta constantemente entre los años 1980, 2000 y el presente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para reflejar la naturaleza no lineal de la memoria humana y la complejidad de los procesos históricos.",
+          "is_correct": true,
+          "feedback": "La ruptura del orden cronológico permite contrastar las causas pasadas con las consecuencias presentes."
+        },
+        {
+          "letter": "B",
+          "text": "Para confundir la foliación del libro en la imprenta intencionalmente.",
+          "is_correct": false,
+          "feedback": "El ordenamiento temporal es un recurso de diseño narrativo, no un error de imprenta."
+        },
+        {
+          "letter": "C",
+          "text": "Para obligar al lector a leer únicamente los párrafos pares.",
+          "is_correct": false,
+          "feedback": "Las anacronías forman una totalidad integrada en la lectura fluida."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la literatura actual prohíbe narrar hechos en pasado.",
+          "is_correct": false,
+          "feedback": "La literatura utiliza todos los tiempos verbales según la necesidad dramática."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las anacronías temporales en la novela moderna permiten explorar la interioridad del personaje y la naturaleza subjetiva del tiempo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.71,
+      "bundle_id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle-v8",
+      "statement": "¿Qué efecto busca el autor al dejar un final abierto en el cuento?",
+      "context": "El cuento *El tranvía* finaliza cuando el conductor abre una puerta y descubre una sombra, sin explicar qué ocurrió después.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Involucrar al lector para que interprete el desenlace a partir de las pistas del relato.",
+          "is_correct": true,
+          "feedback": "El final abierto renuncia a la resolución categórica y promueve la participación hermenéutica del lector."
+        },
+        {
+          "letter": "B",
+          "text": "Asegurar la venta de una segunda parte del libro en la feria del libro.",
+          "is_correct": false,
+          "feedback": "Es un procedimiento literario autónomo y no una estrategia comercial."
+        },
+        {
+          "letter": "C",
+          "text": "Demostrar que la historia no tenía ninguna importancia temática.",
+          "is_correct": false,
+          "feedback": "El suspenso y la incertidumbre aumentan el valor reflexivo del texto."
+        },
+        {
+          "letter": "D",
+          "text": "Ocultar la identidad del autor bajo un seudónimo misterioso.",
+          "is_correct": false,
+          "feedback": "La estructura del desenlace afecta a la trama, no a la firma del autor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El final abierto en el cuento contemporáneo desestabiliza la certeza del lector y fomenta una lectura crítica participativa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle-v9",
+      "statement": "¿Qué ventaja interpretativa ofrece la estructura polifónica en esta novela?",
+      "context": "En la novela *Delirio* de Laura Restrepo, se alternan las voces de Aguilar, Midas y la memoria de Agustina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reconstruir una verdad compleja al contrastar múltiples testimonios e ideologías sobre la locura y la sociedad.",
+          "is_correct": true,
+          "feedback": "La polifonía evita una visión monológica, revelando que el dolor individual está conectado con el entorno social."
+        },
+        {
+          "letter": "B",
+          "text": "Garantizar que todos los personajes tengan exactamente los mismos pensamientos y opiniones.",
+          "is_correct": false,
+          "feedback": "La polifonía destaca la diversidad y contradicción entre los discursos de los personajes."
+        },
+        {
+          "letter": "C",
+          "text": "Reducir el número de páginas necesarias para imprimir la obra.",
+          "is_correct": false,
+          "feedback": "La multiplicidad de voces suele enriquecer y ampliar la extensión del relato."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminar los diálogos directos entre los protagonistas.",
+          "is_correct": false,
+          "feedback": "La polifonía incluye tanto diálogos como monólogos entrecruzados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La perspectiva polifónica en *Delirio* descentra la figura del narrador único para indagar cómo las heridas privadas se entrelazan con las violencias colectivas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle-v10",
+      "statement": "¿Qué técnica narrativa se emplea al reproducir el flujo ininterrumpido de ideas e impresiones del personaje?",
+      "context": "Un relato introspectivo narra el recorrido en el metro de Medellín a través de los pensamientos desordenados del pasajero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El monólogo interior o flujo de conciencia.",
+          "is_correct": true,
+          "feedback": "Esta técnica busca capturar el discurrir libre de la mente antes de que las ideas sean organizadas lógicamente."
+        },
+        {
+          "letter": "B",
+          "text": "La descripción periodística objetiva de datos estadísticos.",
+          "is_correct": false,
+          "feedback": "El texto explora la subjetividad interna, no cifras ni datos neutros."
+        },
+        {
+          "letter": "C",
+          "text": "La estructura de un libreto teatral con acotaciones de director.",
+          "is_correct": false,
+          "feedback": "No utiliza formato de guion con nombres de personajes y acotaciones."
+        },
+        {
+          "letter": "D",
+          "text": "El informe judicial de un perito en tránsito urbano.",
+          "is_correct": false,
+          "feedback": "Se trata de un recurso de exploración psicológica de la literatura ficcional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El monólogo interior capta el discurrir psíquico inmediato del personaje, herramienta clave en la narrativa del siglo XX.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.61,
+      "bundle_id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle-v11",
+      "statement": "¿Qué caracteriza a un narrador homodiegético en una historia sobre la violencia en el campo colombiana?",
+      "context": "En un estudio narratológico sobre la novela hispanoamericana, se analiza la diferencia entre narrador homodiegético y heterodiegético.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Participa dentro de la historia como personaje principal o testigo de los acontecimientos.",
+          "is_correct": true,
+          "feedback": "El narrador homodiegético forma parte del mundo ficcional (diégesis) que relata."
+        },
+        {
+          "letter": "B",
+          "text": "Se sitúa fuera de la historia y conoce todos los pensamientos futuros de la humanidad.",
+          "is_correct": false,
+          "feedback": "Ese sería un narrador omnisciente heterodiegético."
+        },
+        {
+          "letter": "C",
+          "text": "Utiliza únicamente verbos en futuro de subjuntivo para redactar.",
+          "is_correct": false,
+          "feedback": "El tipo de narrador depende de su posición respecto a la trama, no del tiempo verbal."
+        },
+        {
+          "letter": "D",
+          "text": "Es un bot de inteligencia artificial que genera respuestas automáticas.",
+          "is_correct": false,
+          "feedback": "Es una categoría de la teoría literaria que describe voces dentro del texto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El narrador homodiegético se integra en la diégesis como participante directo o testigo del mundo narrado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle-v12",
+      "statement": "¿Qué función cumple la ambientación espacial en la construcción del pacto ficcional?",
+      "context": "En un cuento de ciencia ficción ambientado en una Bogotá del año 2150, la ciudad se describe como un laberinto submarino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Establecer las reglas del mundo representado que el lector acepta como verosímiles durante la lectura.",
+          "is_correct": true,
+          "feedback": "La descripción detallada del espacio sostiene la suspensión de la incredulidad en la literatura fantástica o de ciencia ficción."
+        },
+        {
+          "letter": "B",
+          "text": "Demostrar que el autor desconoce la altitud geográfica real de Bogotá.",
+          "is_correct": false,
+          "feedback": "El autor crea un espacio de ficción futurista, no un error geográfico inadvertido."
+        },
+        {
+          "letter": "C",
+          "text": "Obligar a la Alcaldía a modificar los planos urbanísticos vigentes.",
+          "is_correct": false,
+          "feedback": "La obra de ficción no tiene carácter de decreto administrativo."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminar la necesidad de personajes en el desarrollo de la trama.",
+          "is_correct": false,
+          "feedback": "El espacio interactúa con los personajes que lo habitan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El marco espacial funda la verosimilitud interna y las reglas del pacto de lectura de la ciencia ficción.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle-v13",
+      "statement": "¿De qué manera el ritmo narrativo acelerado en las frases cortas transmite la tensión del momento histórico?",
+      "context": "Analizamos un capítulo de *La casa grande* de Álvaro Cepeda Samudio sobre la masacre de las bananeras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La brevedad sintáctica genera un clima de angustia, urgencia y caos inminente.",
+          "is_correct": true,
+          "feedback": "La velocidad de la prosa refleja la violencia desatada y el pánico de los acontecimientos."
+        },
+        {
+          "letter": "B",
+          "text": "El ritmo acelerado demuestra que el autor tenía prisa por terminar de escribir.",
+          "is_correct": false,
+          "feedback": "La estructura sintáctica corta es una decisión de estilo deliberada para intensificar la atmósfera."
+        },
+        {
+          "letter": "C",
+          "text": "Las frases cortas se usan para enseñar a leer a niños de preescolar.",
+          "is_correct": false,
+          "feedback": "*La casa grande* es una obra fundamental de la narrativa adulta colombiana."
+        },
+        {
+          "letter": "D",
+          "text": "Indica que la obra fue concebida como un poema épico griego en hexámetros.",
+          "is_correct": false,
+          "feedback": "Cepeda Samudio utiliza una prosa avant-garde propia del siglo XX."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ritmo fragmentario y acelerado traduce la urgencia y el clima sofocante del conflicto sangriento.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.52,
+      "bundle_id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle-v14",
+      "statement": "¿Qué estructura motívica popular reaparece en este tipo de cuento folclórico?",
+      "context": "En un cuento tradicional se narra la historia de un campesino que engaña al diablo en una curva del camino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El triunfo de la astucia popular frente a una fuerza poderosa o sobrenatural.",
+          "is_correct": true,
+          "feedback": "Los cuentos de tradición oral suelen celebrar el ingenio del humilde frente al mal o la autoridad."
+        },
+        {
+          "letter": "B",
+          "text": "La explicación detallada de la física de partículas en los caminos veredales.",
+          "is_correct": false,
+          "feedback": "La temática es simbólica y popular, no un análisis de física."
+        },
+        {
+          "letter": "C",
+          "text": "La defensa del feudalismo europeo como modelo político ideal.",
+          "is_correct": false,
+          "feedback": "Los cuentos campesinos reflejan la cultura mestiza y popular local."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición absoluta de relatar historias durante la noche.",
+          "is_correct": false,
+          "feedback": "Al contrario, la cuentería tradicional florece en espacios nocturnos comunitarios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El folclore oral resalta el triunfo del ingenio popular sobre fuerzas superiores o demoníacas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.48,
+      "bundle_id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle-v15",
+      "statement": "¿Qué diferencia la función del diálogo en el teatro del absurdo o cuento del absurdo frente al realismo?",
+      "context": "Se compara el uso del diálogo entre una novela de realismo crítico y un cuento de absurdo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el absurdo los diálogos muestran la incomunicación y la falta de lógica, mientras en el realismo hacen avanzar la acción con coherencia.",
+          "is_correct": true,
+          "feedback": "El absurdo utiliza la inconsecuencia verbal para evidenciar la crisis del sentido en la condición humana."
+        },
+        {
+          "letter": "B",
+          "text": "El realismo prohíbe que los personajes hablen entre sí durante más de un segundo.",
+          "is_correct": false,
+          "feedback": "La novela realista contiene extensos diálogos fluidos y coherentes."
+        },
+        {
+          "letter": "C",
+          "text": "El absurdo utiliza exclusivamente jeroglíficos antiguos en lugar de palabras.",
+          "is_correct": false,
+          "feedback": "El absurdo usa la lengua cotidiana pero desarticula la lógica de las respuestas."
+        },
+        {
+          "letter": "D",
+          "text": "En ambos géneros los diálogos son transcripciones exactas de audiencias judiciales.",
+          "is_correct": false,
+          "feedback": "Cada género literario adapta el diálogo a sus propósitos estéticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La literatura del absurdo emplea el diálogo desarticulado para subrayar la dificultad de comunicación del ser humano.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle-v16",
+      "statement": "¿Qué representa la constante negativa de la llegada de la carta en la vida del personaje?",
+      "context": "En la novela *El coronel no tiene quien le escriba*, el coronel espera durante quince años la carta de su pensión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La dignidad inquebrantable frente al abandono estatal y la burocracia interminable.",
+          "is_correct": true,
+          "feedback": "La espera del coronel encarna la resistencia moral de la población golpeada por las promesas incumplidas del poder."
+        },
+        {
+          "letter": "B",
+          "text": "El olvido involuntario del cartero del pueblo por falta de anteojos.",
+          "is_correct": false,
+          "feedback": "La ausencia de pensión es fruto del descuido institucional y político, no un accidente del cartero."
+        },
+        {
+          "letter": "C",
+          "text": "La prueba de que el coronel no sabía leer ni escribir.",
+          "is_correct": false,
+          "feedback": "El personaje sabe leer y conserva documentos oficiales con celo."
+        },
+        {
+          "letter": "D",
+          "text": "Un truco de magia para hacer desaparecer la oficina de correos.",
+          "is_correct": false,
+          "feedback": "La novela se enmarca en un realismo desgarrador y cotidiano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La vana espera de la pensión simboliza la dignidad trágica frente a la indolencia de la burocracia estatal.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.42,
+      "bundle_id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle-v17",
+      "statement": "¿Por qué esta obra es considerada una obra maestra de la concisión narrativa?",
+      "context": "El microrrelato *El dinosaurio* de Augusto Monterroso: \"Cuando despertó, el dinosaurio todavía estaba allí\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque sintetiza en siete palabras un conflicto, una temporalidad y una multitud de sugerencias filosóficas.",
+          "is_correct": true,
+          "feedback": "Monterroso demuestra que la intensidad estética no depende de la cantidad de texto sino del poder de evocación."
+        },
+        {
+          "letter": "B",
+          "text": "Porque demuestra la existencia de dinosaurios vivos en la América Central contemporánea.",
+          "is_correct": false,
+          "feedback": "Es un texto ficcional de profunda carga alegórica, no un hallazgo de biología."
+        },
+        {
+          "letter": "C",
+          "text": "Porque es una copia textual de un proverbio Chino traducido al español.",
+          "is_correct": false,
+          "feedback": "Es una creación literaria original de Augusto Monterroso."
+        },
+        {
+          "letter": "D",
+          "text": "Porque carece por completo de verbo principal en su estructura sintáctica.",
+          "is_correct": false,
+          "feedback": "Contiene los verbos \"despertó\" y \"estaba\", esenciales para la acción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Monterroso muestra que la potencia narrativa abre insondables resonancias simbólicas en una única y magistral oración.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.39,
+      "bundle_id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle-v18",
+      "statement": "¿Cómo se articulan los elementos del género negro en la novela urbana moderna?",
+      "context": "En una novela policíaca ambientada en Cali, el detective analiza las huellas en la escena del crimen mientras cuestiona su propia moral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Combinan la investigación del enigma criminal con la crítica a la corrupción social y el desencanto existencial.",
+          "is_correct": true,
+          "feedback": "La novela negra contemporánea utiliza el delito para radiografiar las contradicciones morales de la ciudad."
+        },
+        {
+          "letter": "B",
+          "text": "Exigen que el culpable sea siempre un monstruo mitológico extraterrestre.",
+          "is_correct": false,
+          "feedback": "El género negro se enfoca en móviles humanos, institucionales y sociales."
+        },
+        {
+          "letter": "C",
+          "text": "Prohíben la presencia de detectives en historias urbanas.",
+          "is_correct": false,
+          "feedback": "La figura del investigador (oficial o aficionado) es central en el género."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituyen los capítulos por recetas de cocina tradicional.",
+          "is_correct": false,
+          "feedback": "La trama mantiene la indagación sobre el conflicto delictivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El género negro utiliza la indagación policíaca como vehículo de crítica social y disección urbana.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.36,
+      "bundle_id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle-v19",
+      "statement": "¿Qué perspectiva crítica aporta dar voz a los sujetos subalternos en la novela histórica reciente?",
+      "context": "Un pasaje de una novela histórica recrea la gesta de la Independencia desde los ojos de una campesina anónima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desmitifica la historia oficial celebrando los aportes de comunidades invisibilizadas en el relato dominante.",
+          "is_correct": true,
+          "feedback": "La nueva novela histórica cuestiona los héroes de bronce al rescatar las vivencias del pueblo llano."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que los archivos históricos oficiales eran impecables y no requerían revisión.",
+          "is_correct": false,
+          "feedback": "Al contrario, problematiza los sesgos del archivo oficial."
+        },
+        {
+          "letter": "C",
+          "text": "Afirma que la guerra de Independencia fue un evento pacífico sin batallas.",
+          "is_correct": false,
+          "feedback": "La obra muestra los dolores y estragos cotidianos de la contienda."
+        },
+        {
+          "letter": "D",
+          "text": "Obliga a sustituir los libros de texto escolares por mapas en blanco.",
+          "is_correct": false,
+          "feedback": "Busca complementar y enriquecer la comprensión crítica del pasado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La voz subalterna en la ficción histórica cuestiona el discurso monolítico oficial e integra visiones populares.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.32,
+      "bundle_id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle-v20",
+      "statement": "¿Qué relación establece García Márquez entre la desmesura de la realidad americana y la necesidad de una nueva literatura?",
+      "context": "En el ensayo *La soledad de América Latina* de Gabriel García Márquez, se reflexiona sobre la desmedida realidad de nuestro continente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La realidad hiperbólica y trágica de América Latina exige lenguajes narrativos renovados que hagan creíble nuestra verdad.",
+          "is_correct": true,
+          "feedback": "Frente a historias de violencia y belleza inverosímiles, la literatura requiere encontrar claves poéticas como el realismo mágico."
+        },
+        {
+          "letter": "B",
+          "text": "Sugiere que los latinoamericanos debemos dejar de escribir e imitar a los autores europeos.",
+          "is_correct": false,
+          "feedback": "García Márquez reclama autonomía cultural y comprensión para nuestra propia búsqueda."
+        },
+        {
+          "letter": "C",
+          "text": "Afirma que en América Latina nunca han ocurrido acontecimientos de importancia histórica.",
+          "is_correct": false,
+          "feedback": "El discurso destaca la intensidad e hipérbole permanente de nuestras luchas."
+        },
+        {
+          "letter": "D",
+          "text": "Propone que el periodismo reemplace a todas las artes plásticas del planeta.",
+          "is_correct": false,
+          "feedback": "El autor valora la complementariedad entre la crónica de la realidad y la creación artística."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "García Márquez sostiene que la desmesura histórica del continente demanda fórmulas expresivas propias y renovadas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.29,
+      "bundle_id": "CO-LC-11-2026-W02-cuento-novela-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

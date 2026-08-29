@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-10-grade-11-subject-lectura_critica",
+    "generated_at": "2026-08-29T19:43:33.963Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la tesis principal que defiende Zuleta sobre la tentación de buscar soluciones fáciles a la complejidad humana?",
+      "context": "En el ensayo *Elogio de la dificultad* de Estanislao Zuleta: \"Deseamos un mapa sin laberintos, una victoria sin combate, un amor sin celos ni dudas; por eso caemos en los cantos de sirena del autoritarismo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La búsqueda de utopías simplistas y sin conflicto conduce a la servidumbre política y al dogmatismo autoritario.",
+          "is_correct": true,
+          "feedback": "Zuleta argumenta que rechazar la dificultad del pensamiento y la convivencia nos entrega inermes a regímenes que prometen orden fácil."
+        },
+        {
+          "letter": "B",
+          "text": "Los seres humanos deben evitar los laberintos reales para no perderse en las montañas de Colombia.",
+          "is_correct": false,
+          "feedback": "Usa la metáfora del laberinto para criticar la simplificación de la vida y el pensamiento."
+        },
+        {
+          "letter": "C",
+          "text": "La victoria en cualquier combate depende del uso de armas de fuego de última generación.",
+          "is_correct": false,
+          "feedback": "No se refiere a contiendas bélicas físicas sino al esfuerzo y la tensión ética del pensamiento."
+        },
+        {
+          "letter": "D",
+          "text": "El autoritarismo es el único sistema político capaz de garantizar la paz en las universidades.",
+          "is_correct": false,
+          "feedback": "El ensayo ataca abiertamente al autoritarismo como síntoma de inmadurez y miedo al conflicto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Zuleta postula que el deseo de evitar el conflicto conduce a la servidumbre y defiende la dificultad como espacio de libertad crítica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle-v2",
+      "statement": "¿Qué tipo de argumento utiliza el autor para sostener la necesidad irremplazable del juicio humano en la lectura?",
+      "context": "En un artículo de opinión sobre la IA en la educación: \"Aunque los sistemas generativos redactan resúmenes en segundos, no poseen conciencia ni ética; confinar la Lectura Crítica a un algoritmo es delegar la soberanía del pensamiento humano\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un argumento de distinción cualitativa que contrapone el procesamiento mecánico de datos con la capacidad ética y reflexiva de la mente humana.",
+          "is_correct": true,
+          "feedback": "El autor diferencia la velocidad técnica de la máquina frente a la dimensión ética y crítica de la interpretación humana."
+        },
+        {
+          "letter": "B",
+          "text": "Una falacia ad hominem que ataca la vida privada de los ingenieros de sistemas.",
+          "is_correct": false,
+          "feedback": "El argumento analiza las propiedades y límites de la tecnología, no a los programadores."
+        },
+        {
+          "letter": "C",
+          "text": "Una estadística numérica que mide el consumo de energía eléctrica de los servidores de internet.",
+          "is_correct": false,
+          "feedback": "No ofrece datos de consumo eléctrico sino un juicio filosófico sobre la soberanía del pensamiento."
+        },
+        {
+          "letter": "D",
+          "text": "Un ejemplo anecdótico sobre un fallo en una calculadora de bolsillo.",
+          "is_correct": false,
+          "feedback": "Se enfoca en la capacidad crítica frente a la inteligencia artificial generativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto contrapone la eficiencia sintáctica del procesamiento automático con la soberanía ética de la interpretación crítica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.87,
+      "bundle_id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle-v3",
+      "statement": "¿Qué función cumple la azucena como símbolo en la estructura narrativa del Romanticismo?",
+      "context": "En la novela *María* de Jorge Isaacs, cuando Efraín se despide de María para viajar a Europa, ella le entrega una azucena cortada del huerto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Condensa la pureza del amor idílico de María y anticipa la brevedad efímera de su vida y de la felicidad de los amantes.",
+          "is_correct": true,
+          "feedback": "La flor es la metafora romántica por excelencia de la fragilidad, la inocencia y el presagio de la muerte temprana."
+        },
+        {
+          "letter": "B",
+          "text": "Indica que Efraín planeaba vender flores colombianas en los mercados de Londres.",
+          "is_correct": false,
+          "feedback": "Es un símbolo de amor y presagio lírico, lejos del comercio vegetal."
+        },
+        {
+          "letter": "C",
+          "text": "Prueba que María era una experta en Botánica agronómica egresada de la universidad.",
+          "is_correct": false,
+          "feedback": "Expresa la delicadeza sentimental del personaje en el marco del idilio novelesco."
+        },
+        {
+          "letter": "D",
+          "text": "Demuestra que la azucena era la única planta que crecía en el Valle del Cauca en el siglo XIX.",
+          "is_correct": false,
+          "feedback": "Usa la flora local como vehículo de significación emotiva y poética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La azucena romántica es un emblema de la pureza de María y un presagio de la caducidad efímera de su vida.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle-v4",
+      "statement": "¿Qué visión del entorno amazónico transmite la metáfora de la \"catedral de la pesadumbre\"?",
+      "context": "En *La vorágine* de José Eustasio Rivera, Arturo Cova afirma: \"La selva es la catedral de la pesadumbre, donde dioses desconocidos murmuran la venganza de las plantas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una naturaleza majestuosa pero aterradora que aprisiona al hombre y devora sus ambiciones en un infierno verde.",
+          "is_correct": true,
+          "feedback": "Rivera desacraliza la visión bucólica del trópico presentando la selva como una trampa indómita de explotación y locura."
+        },
+        {
+          "letter": "B",
+          "text": "Un parque natural diseñado para la recreación y el turismo ecológico de la clase alta.",
+          "is_correct": false,
+          "feedback": "La selva se describe con pavor, fiebre y sobrecogimiento desgarrador."
+        },
+        {
+          "letter": "C",
+          "text": "La prueba de que los templos religiosos de Bogotá eran idénticos a los árboles del Putumayo.",
+          "is_correct": false,
+          "feedback": "Utiliza el término \"catedral\" para sugerir monumentalidad opresiva y sagrada."
+        },
+        {
+          "letter": "D",
+          "text": "Un informe científico sobre la deforestación en la frontera con el Brasil.",
+          "is_correct": false,
+          "feedback": "Es una imagen poética de altísima tensión expresiva sobre la devoración del ser humano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La metáfora de Rivera desmitifica el paisaje idílico para revelar la selva como una fuerza devoradora y trágica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle-v5",
+      "statement": "¿Cómo justifica García Márquez el nacimiento del realismo mágico frente al canon europeo?",
+      "context": "En el ensayo *La soledad de América Latina* de Gabriel García Márquez: \"La violencia y la demencia de nuestra historia no son invención literaria; son la realidad desmesurada que habita entre nosotros\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sostiene que la desmesura de la historia latinoamericana supera los límites del realismo tradicional y exige nuevos lenguajes para ser creíble.",
+          "is_correct": true,
+          "feedback": "El autor explica que el realismo mágico no es un truco fantástico sino la única forma de dar cuenta de una realidad trágica e hiperbólica."
+        },
+        {
+          "letter": "B",
+          "text": "Afirma que los escritores europeos deben abandonar el idioma español por falta de imaginación.",
+          "is_correct": false,
+          "feedback": "Reivindica la autonomía cultural y la especificidad histórica de América Latina."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que la historia de nuestro continente ha sido pacífica y sin conflictos notables.",
+          "is_correct": false,
+          "feedback": "Subraya la intensidad de nuestras guerras, dictaduras y búsquedas libertarias."
+        },
+        {
+          "letter": "D",
+          "text": "Recomienda a los historiadores reemplazar los documentos oficiales por libros de poesía.",
+          "is_correct": false,
+          "feedback": "Defiende la capacidad de la literatura para captar la verdad profunda de la vida americana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "García Márquez fundamenta el realismo mágico en la desmesura objetiva de la historia de América Latina.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle-v6",
+      "statement": "¿Qué relación establece el narrador entre el trauma histórico de los magnicidios y la memoria contemporánea?",
+      "context": "En un fragmento de *La forma de las ruinas* de Juan Gabriel Vásquez: \"Los magnicidios en Colombia no son eventos del pasado; son cicatrices vivas que siguen dirigiendo nuestros miedos presentes\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El pasado no está clausurado: la impunidad de los grandes crímenes políticos continúa moldeando las desconfianzas de la sociedad actual.",
+          "is_correct": true,
+          "feedback": "Vásquez indaga cómo el asesinato de líderes como Uribe Uribe o Gaitán fracturó el tejido social dejando huellas abiertas en el presente."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que los crímenes del pasado no tienen ninguna influencia en la vida actual del país.",
+          "is_correct": false,
+          "feedback": "La novela sostiene precisamente lo contrario: el pasado reciente nos habita y condiciona."
+        },
+        {
+          "letter": "C",
+          "text": "Afirma que la historia de Colombia comenzó en el año 2000 con la llegada del nuevo milenio.",
+          "is_correct": false,
+          "feedback": "Inscribe el relato en la larga duración de los traumas y fracturas políticas del siglo XX."
+        },
+        {
+          "letter": "D",
+          "text": "Sugiere que la policía debe abandonar las investigaciones sobre sucesos antiguos.",
+          "is_correct": false,
+          "feedback": "Reflexiona sobre la responsabilidad ética de la memoria y la verdad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La narrativa histórica de Vásquez concibe el trauma político no como pieza de museo sino como una herida activa que exige comprensión.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle-v7",
+      "statement": "¿Qué actitud hacia la existencia manifiesta la voz lírica a través de las metáforas del juego y el azar?",
+      "context": "En un poema de León de Greiff: \"Juego mi vida al gallo de la pasión, al dado de la suerte, al azar de las cartas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La vivencia de la vida como una aventura peligrosa y desinteresada donde se arriesga todo sin buscar recompensas materiales.",
+          "is_correct": true,
+          "feedback": "De Greiff encarna al sujeto bohemio e iconoclasta que rechaza la prudencia burguesa y entrega su destino a la pasión pura."
+        },
+        {
+          "letter": "B",
+          "text": "La recomendación formal de abrir salas de apuestas en las plazas de mercado de Antioquia.",
+          "is_correct": false,
+          "feedback": "El juego es una metáfora existencial del poeta, no una propuesta de negocio urbano."
+        },
+        {
+          "letter": "C",
+          "text": "Un estudio sobre las probabilidades matemáticas de ganar en las cartas.",
+          "is_correct": false,
+          "feedback": "No se trata de cálculo probabilístico sino de la entrega romántica e irónica al destino."
+        },
+        {
+          "letter": "D",
+          "text": "La condena moral de los vicios populares en la sociedad decimonónica.",
+          "is_correct": false,
+          "feedback": "El poema celebra con ironía la libertad y el riesgo de vivir al margen del dogma."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las metáforas del juego en León de Greiff expresan la libertad irónica del creador que apuesta su vida a la belleza y la pasión.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.71,
+      "bundle_id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la función pedagógica del símil \"como esponjas gigantes\" en un texto de divulgación ambiental?",
+      "context": "En un texto expositivo sobre los páramos colombianos: \"Los frailejones retienen el agua de la neblina como esponjas gigantes, alimentando las cuencas fluviales que abastecen al 70% de la población nacional\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Facilitar la comprensión de un proceso ecológico complejo mediante una analogía cotidiana y accesible para el lector no especializado.",
+          "is_correct": true,
+          "feedback": "El símil con la esponja visualiza la capacidad de retención hídrica del frailejón, concientizando sobre su valor biológico."
+        },
+        {
+          "letter": "B",
+          "text": "Demostrar que los frailejones están fabricados con productos sintéticos industriales.",
+          "is_correct": false,
+          "feedback": "Usa la palabra \"esponja\" como figura de comparación, no como descripción de material."
+        },
+        {
+          "letter": "C",
+          "text": "Prohibir el consumo de agua potable en las grandes ciudades del país.",
+          "is_correct": false,
+          "feedback": "El texto busca educar sobre la conservación de las fuentes hídricas naturales."
+        },
+        {
+          "letter": "D",
+          "text": "Recomienda sustituir la vegetación de los páramos por cultivos de pino importado.",
+          "is_correct": false,
+          "feedback": "Subraya la importancia insustituible de la flora nativa en la regulación del ciclo del agua."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El símil pedagógico en la divulgación científica aproxima conceptos complejos al receptor mediante referentes familiares de la vida diaria.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle-v9",
+      "statement": "¿Qué dimensión ética de la justicia popular se manifiesta en las palabras del dentista?",
+      "context": "En el cuento *Un día de estos* de García Márquez, el dentista Aurelio Escovar le dice al alcalde sin anestesia: \"Aquí nos paga veinte muertos, teniente\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Invierte la jerarquía del poder político, aprovechando el dolor físico para cobrar en la intimidad del gabinete las víctimas de la represión.",
+          "is_correct": true,
+          "feedback": "Escovar ejercer una justicia silenciosa e implacable: en el sillón del dentista, la autoridad armada queda a merced de la dignidad del pueblo."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que el dentista cobraba veinte pesos por cada extracción dental.",
+          "is_correct": false,
+          "feedback": "Los \"veinte muertos\" aluden a las víctimas de la violencia política patrocinada por el alcalde."
+        },
+        {
+          "letter": "C",
+          "text": "Afirma que el alcalde era un cliente distinguido que siempre pagaba sus deudas con puntualidad.",
+          "is_correct": false,
+          "feedback": "El ambiente del cuento es de profunda tensión, rencor contenido y dignidad."
+        },
+        {
+          "letter": "D",
+          "text": "Señala que el consultorio era una escuela de medicina legal de la policía.",
+          "is_correct": false,
+          "feedback": "Es un gabinete modesto donde la violencia social encuentra un insólito espacio de cobro moral."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La frase del dentista es un hito de la narrativa breve: la vulnerabilidad del tirano ante el dolor iguala las cuentas de la represión.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle-v10",
+      "statement": "¿Qué tono trágico impregna la caracterización del espacio en esta novela contemporánea?",
+      "context": "En *La perra* de Pilar Quintana, Damaris contempla la selva y el mar de la bahía de Málaga sintiendo que \"todo lo que nacía en ese lugar estaba destinado a la herida y al desamparo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un determinismo doloroso donde la naturaleza indómita y la exclusión social condenan a los personajes a la frustración de sus afectos.",
+          "is_correct": true,
+          "feedback": "Quintana construye un universo donde la intemperie física refleja la imposibilidad de la ternura en un entorno marcado por la violencia."
+        },
+        {
+          "letter": "B",
+          "text": "Una visión optimista que promete la llegada inmediata del turismo internacional a la bahía.",
+          "is_correct": false,
+          "feedback": "La obra muestra la crudeza, la pobreza y la soledad del Pacífico sin velos idílicos."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación de que los animales de la selva viven en perfecta armonía con los humanos.",
+          "is_correct": false,
+          "feedback": "El relato expone la ferocidad de la naturaleza y la trágica dificultad de la convivencia."
+        },
+        {
+          "letter": "D",
+          "text": "Un tratado de biología marina sobre la migración de las ballenas yubartas.",
+          "is_correct": false,
+          "feedback": "Usa la geografía del Pacífico como escenario de una tragedia íntima e inolvidable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El tono determinista y trágico en Pilar Quintana articula el aislamiento geográfico con el dolor inapelable de la protagonista.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.61,
+      "bundle_id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle-v11",
+      "statement": "¿Qué recurso metáforico caracteriza la visión de la ciudad en la prosa de Caballero?",
+      "context": "En un fragmento de *Sin remedio* de Antonio Caballero, el protagonista afirma: \"En Bogotá no llueve agua; llueve tristeza congelada sobre las sombrillas de los transeúntes\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Subjetiva el fenómeno climático para convertir el agua en metáfora de la apatía y el desencanto de los habitantes de la capital.",
+          "is_correct": true,
+          "feedback": "Caballero transfigura la llovizna bogotana en un síntoma de la neurosis y el tedio urbano de la clase media intelectual."
+        },
+        {
+          "letter": "B",
+          "text": "Informa que la temperatura de la ciudad cayó por debajo de los cero grados centígrados.",
+          "is_correct": false,
+          "feedback": "No es un reporte de meteorología sino una construcción de atmósfera poética y satírica."
+        },
+        {
+          "letter": "C",
+          "text": "Recomienda el uso de sombrillas metálicas para protegerse de las granizadas.",
+          "is_correct": false,
+          "feedback": "Usa la lluvia como símbolo del clima emocional de la metrópoli."
+        },
+        {
+          "letter": "D",
+          "text": "Demuestra que en Bogotá nunca sale el sol en ninguna época del año.",
+          "is_correct": false,
+          "feedback": "Exagera el clima gris para enfatizar el humor melancólico del personaje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La metáfora de la \"tristeza congelada\" en Caballero convierte al clima bogotano en el espejo de la neurosis urbana.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle-v12",
+      "statement": "¿Qué función cumple la \"metonimia del objeto abandonado\" en la representación del desplazamiento forzado?",
+      "context": "En *Los ejércitos* de Evelio Rosero, las casas desiertas del pueblo de San José conservan las mesas puestas y las puertas abiertas tras la huida de las familias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evidencia la interrupción abrupta de la vida cotidiana y el pánico del abandono mediante la presencia muda de las pertenencias de las víctimas.",
+          "is_correct": true,
+          "feedback": "Las mesas con platos servidos y las puertas abiertas son la huella desgarradora del terror que obliga a huir dejando atrás la historia personal."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que los habitantes salieron de paseo por pocas horas al campo.",
+          "is_correct": false,
+          "feedback": "La ausencia de los vecinos y el silencio del pueblo indican el drama irreversible de la huida."
+        },
+        {
+          "letter": "C",
+          "text": "Indica que las viviendas fueron transformadas en hoteles comunitarios.",
+          "is_correct": false,
+          "feedback": "La desolación del pueblo desierto es la prueba del triunfo del pavor armado."
+        },
+        {
+          "letter": "D",
+          "text": "Muestra la riqueza material de las comunidades rurales de la región.",
+          "is_correct": false,
+          "feedback": "Representa la desposesión trágica y el despojo provocado por el conflicto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los objetos cotidianos abandonados en *Los ejércitos* funcionan como elocuentes testimonios mudos del pavor del desplazamiento forzado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle-v13",
+      "statement": "¿Qué paralelismo entre el esfuerzo físico del boga y la lucha existencial del afrodescendiente expresa el poema?",
+      "context": "En un verso de Candelario Obeso: \"Qué trampa tiene la vida, qué pena tiene el bogar; el agua corre pa' abajo y yo pa' arriba he de andar\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Símboliza la resistencia del humilde que navega a contracorriente de la adversidad social y el peso de la discriminación.",
+          "is_correct": true,
+          "feedback": "Obeso convierte el remado físico contra la corriente del Magdalena en la alegoría de la tenaz lucha del negro por su dignidad."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que los ríos de Colombia fluyen en dirección opuesta a las leyes de la física.",
+          "is_correct": false,
+          "feedback": "La corriente del río es la metáfora de las fuerzas sociales adversas."
+        },
+        {
+          "letter": "C",
+          "text": "Recomienda el uso de motores de gasolina para evitar el cansancio del remo.",
+          "is_correct": false,
+          "feedback": "Celebra el esfuerzo heroico y el canto del boga en el siglo XIX."
+        },
+        {
+          "letter": "D",
+          "text": "Prohíbe la navegación nocturna en el río Magdalena.",
+          "is_correct": false,
+          "feedback": "Reivindica la voz y la filosofía de vida del trabajador afrocolombiano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El verso de Obeso convierte el esfuerzo físico de remar a contracorriente en una metáfora de la resistencia social del pueblo negro.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.52,
+      "bundle_id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle-v14",
+      "statement": "¿Qué crisis ética y religiosa plantea la pérdida de fe del sacerdote frente a la miseria urbana?",
+      "context": "En la novela *Satanás* de Mario Mendoza, un sacerdote pierde la fe al enfrentarse a la presencia del mal en los barrios marginales de Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muestra el colapso de los dogmas religiosos ante la evidencia del dolor humano, la violencia sin respuesta y el abandono social.",
+          "is_correct": true,
+          "feedback": "Mendoza cuestiona la teología tradicional mostrando cómo el sufrimiento de los inocentes en la gran ciudad quiebra la fe del clérigo."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que el sacerdote deseaba cambiar de profesión para dedicarse a la medicina.",
+          "is_correct": false,
+          "feedback": "La quiebra del personaje es un dilema de la fe ante el problema del mal y el dolor."
+        },
+        {
+          "letter": "C",
+          "text": "Señala que los templos de Bogotá eran los más ricos de América Latina.",
+          "is_correct": false,
+          "feedback": "Expone las grietas de la institución eclesial frente a la marginalidad y el crimen."
+        },
+        {
+          "letter": "D",
+          "text": "Prohíbe el ejercicio del sacerdocio en las zonas urbanas marginales.",
+          "is_correct": false,
+          "feedback": "Indaga la crisis de sentido y la alienación del sujeto en la metrópoli moderna."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La crisis del sacerdote en *Satanás* refleja la insuficiencia de los dogmas tradicionales para explicar el mal y la miseria urbana.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.48,
+      "bundle_id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle-v15",
+      "statement": "¿Qué hiperbole y tono poético caracterizan la visión del amor en esta novela de los años noventa?",
+      "context": "En *Opio en las nubes* de Chaparro Madiedo: \"Amar es como andar en un convertible amarillo a doscientos kilómetros por hora directo contra una pared de ladrillos\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Expresa una pasión desenfrenada, suicida y vertiginosa que une el placer absoluto con la inminencia de la destrucción.",
+          "is_correct": true,
+          "feedback": "Chaparro Madiedo define el amor desde la estética punk de la aceleración, el riesgo y el goce límite."
+        },
+        {
+          "letter": "B",
+          "text": "Advierte a los jóvenes sobre las normas de tránsito y los límites de velocidad.",
+          "is_correct": false,
+          "feedback": "No se trata de una lección de conducción sino de una metáfora pasional desbordada."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que los convertibles amarillos eran los vehículos más vendidos en Bogotá.",
+          "is_correct": false,
+          "feedback": "Usa la velocidad y el coche como símbolos pop de libertad y vértigo."
+        },
+        {
+          "letter": "D",
+          "text": "Prohíbe a las parejas enamoradas viajar por las carreteras intermunicipales.",
+          "is_correct": false,
+          "feedback": "Celebra el ardor de la entrega afectiva sin medir las consecuencias."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La hipérbole del automóvil a gran velocidad contra la pared define la visión trágica, apasionada y punk del amor en Chaparro Madiedo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle-v16",
+      "statement": "¿Qué logro estético y crítico alcanza el autor al omitir los nombres propios históricos en la novela?",
+      "context": "En el ensayo *La casa grande* de Álvaro Cepeda Samudio, la historia de la masacre de las bananeras se construye sin nombrar nunca directamente la palabra \"ejército\" ni \"bananeras\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eleva el evento histórico a la categoría de parábola universal sobre la violencia del poder y el silenciamiento de las víctimas.",
+          "is_correct": true,
+          "feedback": "Al despojar la historia de la nomenclatura periodística, Cepeda Samudio convierte la tragedia en un mito de dolor universal."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que el autor desconocía los nombres del lugar y de las instituciones.",
+          "is_correct": false,
+          "feedback": "Cepeda Samudio era un profundo conocedor de la historia de Ciénaga y eligió la omisión por razones estilísticas."
+        },
+        {
+          "letter": "C",
+          "text": "Obliga a los lectores a dudar de si la masacre ocurrió realmente en la zona del Caribe.",
+          "is_correct": false,
+          "feedback": "El contexto histórico es inconfundible, pero la omisión acentúa la dimensión poética del drama."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituye la novela por una colección de avisos publicitarios de la época.",
+          "is_correct": false,
+          "feedback": "Es un virtuoso ejercicio de contención y elipsis de la narrativa de vanguardia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La omisión de los nombres propios en *La casa grande* transforma un hecho histórico específico en un mito universal sobre el poder y la violencia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.42,
+      "bundle_id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle-v17",
+      "statement": "¿Qué postura crítico-histórica adopta la novela frente al dogma del heroísmo patrio?",
+      "context": "En un fragmento de *La carroza de Bolívar* de Evelio Rosero, un médico de Pasto cuestiona los actos del Libertador durante la Navidad Negra de 1822.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reivindica la memoria de las comunidades agredidas por los ejércitos libertadores, cuestionando el culto ciego a los próceres de la historia oficial.",
+          "is_correct": true,
+          "feedback": "Rosero da voz al dolor de los pastusos para desmitificar las atrocidades cometidas en nombre de la patria y rescatar la verdad del pueblo."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que las guerras de Independencia no tuvieron consecuencias humanas.",
+          "is_correct": false,
+          "feedback": "Visibiliza la saña, los saqueos y la violencia sufrida por la población civil."
+        },
+        {
+          "letter": "C",
+          "text": "Afirma que Simón Bolívar fue una invención de los historiadores del siglo XX.",
+          "is_correct": false,
+          "feedback": "Cuestiona los actos del personaje histórico de carne y hueso lejos de la estatua de bronce."
+        },
+        {
+          "letter": "D",
+          "text": "Exige la sustitución de los libros de historia por novelas de ciencia ficción.",
+          "is_correct": false,
+          "feedback": "Promueve un pensamiento crítico e imparcial sobre las luces y sombras del pasado nacional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La desacralización de los próceres en Evelio Rosero recupera la memoria de las víctimas olvidadas por la historia oficial de bronce.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.39,
+      "bundle_id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle-v18",
+      "statement": "¿De qué manera la cosmogonía africana reconfigura la novela histórica en América Latina?",
+      "context": "En *Changó, el gran putas* de Manuel Zapata Olivella, los ancestros africanos (*Orishas*) guían la resistencia de los esclavizados en Cartagena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quiebra el racionalismo eurocéntrico al integrar la espiritualidad ancestral como una fuerza activa de liberación y memoria colectiva.",
+          "is_correct": true,
+          "feedback": "Zapata Olivella muestra que la lucha contra la esclavitud no fue solo física sino un combate espiritual impulsado por la fe en los ancestros."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que los esclavizados carecían de pensamiento filosófico o religioso propio.",
+          "is_correct": false,
+          "feedback": "La novela celebra precisamente la inmensa riqueza y sofisticación de la filosofía Bantú y Yoruba."
+        },
+        {
+          "letter": "C",
+          "text": "Señala que los *Orishas* eran autoridades del gobierno colonial español.",
+          "is_correct": false,
+          "feedback": "Son las divinidades y ancestros que infunden aliento de libertad a los oprimidos."
+        },
+        {
+          "letter": "D",
+          "text": "Obliga a clasificar la obra como un texto exclusivo para antropólogos extranjeros.",
+          "is_correct": false,
+          "feedback": "Es una monumental novela épica fundamental para toda la literatura del continente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Zapata Olivella revoluciona la novela histórica al situar la espiritualidad y cosmogonía africana en el centro de la gesta de la libertad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.36,
+      "bundle_id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle-v19",
+      "statement": "¿Qué afirmación de identidad y resistencia atraviesa estos versos contemporáneos?",
+      "context": "En el poema *Canto a Colombia* de una poeta afrodescendiente: \"Soy la hija de la selva y el mangle, la voz que no pudieron ahogar en los barcos de la trata\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La reafirmación del orgullo étnico y la continuidad histórica de la mujer afrocolombiana como heredera de la libertad cimarrona.",
+          "is_correct": true,
+          "feedback": "La voz poética asume la memoria de los ancestros como un compromiso vivo de dignidad, presencia y creación en la Colombia actual."
+        },
+        {
+          "letter": "B",
+          "text": "La recomendación de olvidar las raíces culturales para asimilarse a la vida urbana.",
+          "is_correct": false,
+          "feedback": "Reivindica con altivez el territorio del mangle, la selva y la herencia de los barcos."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que la trata negrera no dejó huellas en la cultura del país.",
+          "is_correct": false,
+          "feedback": "Honra la memoria del dolor para afianzar la soberanía del presente."
+        },
+        {
+          "letter": "D",
+          "text": "Prohíbe el uso de instrumentos de percusión en las festividades del Pacífico.",
+          "is_correct": false,
+          "feedback": "La poesía es en sí misma ritmo, tambor y memoria viva de la comunidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La poesía afrocolombiana contemporánea reafirma la identidad y la memoria ancestral como pilares de soberanía y creación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.32,
+      "bundle_id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle-v20",
+      "statement": "¿Qué actitud intelectual define al \"lector crítico\" según esta síntesis pedagógica?",
+      "context": "Al concluir el repaso de contenidos de Lectura Crítica del Periodo 1 para la prueba Saber 11, se sintetiza que \"leer críticamente es aprender a habitar el texto sin someterse a él\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un receptor activo que comprende la lógica interna del texto pero cuestiona sus premisas, detecta sesgos y formula juicios autónomos.",
+          "is_correct": true,
+          "feedback": "El lector crítico no es un espectador pasivo ni un destructor sin razones: es un interlocutor lúcido que dialoga con la obra con libertad intelectual."
+        },
+        {
+          "letter": "B",
+          "text": "Un estudiante que memoriza de corré de principio a fin todos los párrafos del examen.",
+          "is_correct": false,
+          "feedback": "La lectura crítica evalúa el razonamiento e interpretación autónoma, no la memorización."
+        },
+        {
+          "letter": "C",
+          "text": "Un lector que rechaza todos los libros por considerar que la literatura carece de valor.",
+          "is_correct": false,
+          "feedback": "Sabe valorar la belleza y la verdad de los textos al tiempo que ejercita su propia razón."
+        },
+        {
+          "letter": "D",
+          "text": "Un funcionario que busca errores ortográficos para imponer multas editoriales.",
+          "is_correct": false,
+          "feedback": "Se enfoca en la arquitectura de los argumentos, las metáforas y las intenciones del discurso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El lector crítico habita el texto con sensibilidad y rigor, dialogando con la obra sin someter su juicio a dogmas ni evidencias falsas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.29,
+      "bundle_id": "CO-LC-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}
