@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "mx",
+    "pack_id": "mx-week-6-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T04:04:54.342Z"
+  },
+  "questions": [
+    {
+      "id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle-v1",
+      "statement": "¿Qué partícula subatómica posee carga eléctrica negativa y orbita en la nube electrónica exterior del átomo?",
+      "context": "En una clase de química fundamental en la CDMX, se repasan las partículas subatómicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El electrón",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los electrones son partículas de carga negativa (-1e) ubicadas en los orbitales atómicos."
+        },
+        {
+          "letter": "B",
+          "text": "El protón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los protones tienen carga positiva y están en el núcleo."
+        },
+        {
+          "letter": "C",
+          "text": "El neutrón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los neutrones son neutros sin carga eléctrica."
+        },
+        {
+          "letter": "D",
+          "text": "El quárk arriba",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los quarks forman los protones y neutrones dentro del núcleo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los electrones son las partículas subatómicas fundamentales de carga negativa que forman la corteza o nube electrónica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle-v2",
+      "statement": "¿Qué indica exactamente el número atómico Z de un elemento neutro?",
+      "context": "Se examina el elemento Sodio (Na) con número atómico Z = 11 en la Tabla Periódica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El número total de neutrones exclusivamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número de neutrones se calcula restando A - Z."
+        },
+        {
+          "letter": "B",
+          "text": "El número de protones en el núcleo atómico (e igual al número de electrones en estado neutro)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El número atómico Z define la identidad del elemento e indica el número de protones atómicos."
+        },
+        {
+          "letter": "C",
+          "text": "La masa atómica expresada en gramos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa atómica es la suma ponderada de isótopos (A)."
+        },
+        {
+          "letter": "D",
+          "text": "El número de niveles energéticos ocupados",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número de niveles lo indica el periodo en la tabla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El número atómico Z define la cantidad de protones presentes en el núcleo de un átomo y caracteriza al elemento químico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la configuración electrónica correcta del átomo de Calcio en su estado fundamental?",
+      "context": "Un estudiante en Monterrey analiza la configuración electrónica del Calcio (Z = 20).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1s² 2s² 2p⁶ 3s² 3p⁸",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los orbitales p sólo admiten un máximo de 6 electrones."
+        },
+        {
+          "letter": "B",
+          "text": "1s² 2s² 2p⁶ 3s⁴ 3p⁶",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los orbitales s sólo admiten un máximo de 2 electrones."
+        },
+        {
+          "letter": "C",
+          "text": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s²",
+          "is_correct": true,
+          "feedback": "¡Correcto! Siguiendo el principio de Auf-bau: 2 + 2 + 6 + 2 + 6 + 2 = 20 electrones."
+        },
+        {
+          "letter": "D",
+          "text": "1s² 2s² 2p¹⁰ 3s² 3p⁶",
+          "is_correct": false,
+          "feedback": "Incorrecto. Violación de la capacidad máxima del subnivel p (máximo 6)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Siguiendo el principio de construcción Auf-bau y la regla de las diagonales, para Z = 20: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s².",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle-v4",
+      "statement": "¿A qué grupo o familia pertenecen los halógenos (Flúor, Cloro, Bromo, Yodo)?",
+      "context": "Se compara la ubicación de los elementos Halógenos en la Tabla Periódica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grupo 1 (I A)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a los metales alcalinos."
+        },
+        {
+          "letter": "B",
+          "text": "Grupo 18 (VIII A)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a los gases nobles."
+        },
+        {
+          "letter": "C",
+          "text": "Grupo 2 (II A)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a los metales alcalinotérreos."
+        },
+        {
+          "letter": "D",
+          "text": "Grupo 17 (VII A)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los halógenos pertenecen al grupo 17 y poseen 7 electrones de valencia."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los halógenos ocupan el Grupo 17 (VII A) de la tabla periódica y tienen 7 electrones en su capa de valencia (ns² np⁵).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántos protones, neutrones y electrones tiene este isótopo respectivamente?",
+      "context": "Un átomo neutro de Carbono posee Z = 6 y número de masa A = 14 (Carbono-14).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 protones, 8 neutrones y 6 electrones",
+          "is_correct": true,
+          "feedback": "¡Correcto! Z = 6 protones y 6 electrones en átomo neutro. Neutrones = A - Z = 14 - 6 = 8 neutrones."
+        },
+        {
+          "letter": "B",
+          "text": "6 protones, 6 neutrones y 6 electrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Correspondería al isótopo estable Carbono-12."
+        },
+        {
+          "letter": "C",
+          "text": "8 protones, 6 neutrones y 8 electrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiar el número de protones alteraría el elemento a Oxígeno."
+        },
+        {
+          "letter": "D",
+          "text": "14 protones, 6 neutrones y 14 electrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. 14 es el número de masa A, no de protones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para el isótopo C-14: Protones = Z = 6. Electrones (átomo neutro) = 6. Neutrones = A - Z = 14 - 6 = 8.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle-v6",
+      "statement": "¿Cómo varía el radio atómico en un mismo periodo (de izquierda a derecha) y en un mismo grupo (de arriba a abajo)?",
+      "context": "Se analiza la tendencia del radio atómico a lo largo de la Tabla Periódica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta de izquierda a derecha y disminuye de arriba a abajo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las tendencias están invertidas."
+        },
+        {
+          "letter": "B",
+          "text": "Disminuye de izquierda a derecha en un periodo y aumenta de arriba a abajo en un grupo",
+          "is_correct": true,
+          "feedback": "¡Correcto! En un periodo el radio disminuye por mayor carga nuclear efectiva (Zef); en un grupo aumenta al añadir capas electrónicas."
+        },
+        {
+          "letter": "C",
+          "text": "Permanecer constante en toda la tabla periódica",
+          "is_correct": false,
+          "feedback": "Incorrecto. El radio atómico es una propiedad periódica altamente variable."
+        },
+        {
+          "letter": "D",
+          "text": "Aumenta en ambas direcciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. La atracción nuclear comprime los átomos a la derecha del periodo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al avanzar a la derecha en un periodo aumenta Zef comprimiendo la nube. Al bajar en un grupo se añaden niveles principales n aumentando el radio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle-v7",
+      "statement": "¿Cuáles son los valores correctos de los números cuánticos (n, l, ml, ms) para este electrón en 3s¹?",
+      "context": "Un estudiante en Puebla revisa los números cuánticos del último electrón de valencia del Sodio (1s² 2s² 2p⁶ 3s¹).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(3, 1, 0, +1/2)",
+          "is_correct": false,
+          "feedback": "Incorrecto. l = 1 corresponde a un subnivel p, no s."
+        },
+        {
+          "letter": "B",
+          "text": "(2, 0, 0, -1/2)",
+          "is_correct": false,
+          "feedback": "Incorrecto. n = 2 corresponde al nivel interno anterior."
+        },
+        {
+          "letter": "C",
+          "text": "(3, 0, 0, +1/2)",
+          "is_correct": true,
+          "feedback": "¡Correcto! n = 3 (nivel), l = 0 (subnivel s), ml = 0 (único orbital s), ms = +1/2 (primer electrón del orbital)."
+        },
+        {
+          "letter": "D",
+          "text": "(3, 0, 1, -1/2)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para l = 0, el valor de ml sólo puede ser 0."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para el electrón 3s¹: n=3; para subnivel s l=0; cuando l=0 ml=0; el spin del primer electrón es ms = +1/2.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el elemento químico más electronegativo de toda la Tabla Periódica?",
+      "context": "Se compara la electronegatividad de distintos elementos según la escala de Pauling.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oxígeno (O)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Oxígeno es el segundo más electronegativo (~3.5), superado por el Flúor."
+        },
+        {
+          "letter": "B",
+          "text": "Francio (Fr)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Francio es uno de los elementos menos electronegativos (más electropositivos)."
+        },
+        {
+          "letter": "C",
+          "text": "Cloro (Cl)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Cloro tiene electronegatividad de 3.0, inferior al Flúor."
+        },
+        {
+          "letter": "D",
+          "text": "Flúor (F)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El Flúor posee el valor máximo de electronegatividad (4.0 en la escala de Pauling)."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El Flúor es el elemento con mayor tendencia a atraer electrones hacia sí en un enlace químico, con electronegatividad 4.0.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle-v9",
+      "statement": "¿Cuántos electrones posee este catión divalente?",
+      "context": "Un ion Magnesio se representa como Mg²⁺ (Z = 12).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 electrones",
+          "is_correct": true,
+          "feedback": "¡Correcto! El átomo neutro posee 12 electrones; al perder 2 electrones de valencia para formar el catión Mg²⁺ quedan 10 electrones."
+        },
+        {
+          "letter": "B",
+          "text": "12 electrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. 12 electrones corresponde al átomo neutro de Magnesio."
+        },
+        {
+          "letter": "C",
+          "text": "14 electrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. 14 electrones correspondería a un anión Mg²⁻ inexistente."
+        },
+        {
+          "letter": "D",
+          "text": "24 electrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se duplicó el número atómico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un catión con carga +2 ha perdido 2 electrones: Electrones = Z - carga = 12 - 2 = 10 electrones (isoelectrónico con el Neón).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle-v10",
+      "statement": "¿Qué proceso mide la Primera Energía de Ionización?",
+      "context": "Se define la Energía de Ionización de un elemento químico en estado gaseoso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La energía liberada cuando un átomo capta un electrón adicional",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la definición de Afinidad Electrónica."
+        },
+        {
+          "letter": "B",
+          "text": "La energía mínima requerida para arrancar el electrón más externo de un átomo gaseoso neutro",
+          "is_correct": true,
+          "feedback": "¡Correcto! Mide la energía necesaria para remoción del electrón de valencia: A(g) + EI -> A⁺(g) + e⁻."
+        },
+        {
+          "letter": "C",
+          "text": "La energía de atracción entre dos núcleos unidos por enlace covalente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere a la energía de enlace químico."
+        },
+        {
+          "letter": "D",
+          "text": "La energía desprendida durante la fisión del núcleo atómico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a energía nuclear de fisión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La primera energía de ionización es la energía requerida para remover un electrón de valencia de un átomo neutro en fase gaseosa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.71,
+      "bundle_id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la configuración electrónica real y correcta del Cromo debido a la estabilidad del subnivel d semilleno?",
+      "context": "Se analiza la anomalía en la configuración electrónica del Cromo (Z = 24) en su estado fundamental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "[Ar] 4s² 3d⁴",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la configuración teórica esperada por Auf-bau, pero inestable frente a [Ar] 4s¹ 3d⁵."
+        },
+        {
+          "letter": "B",
+          "text": "[Ar] 4s⁰ 3d⁶",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde al estado fundamental del Cromo neutro."
+        },
+        {
+          "letter": "C",
+          "text": "[Ar] 4s¹ 3d⁵",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para lograr mayor estabilidad con el subnivel d semilleno (d⁵), un electrón del orbital 4s pasa al 3d."
+        },
+        {
+          "letter": "D",
+          "text": "[Ar] 4s² 3d⁵",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta configuración sumaría 25 electrones (Manganeso)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Cromo presenta la anomalía de promoción electrónica: [Ar] 4s¹ 3d⁵ para ganar la estabilidad cuántica de subniveles d semillenos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál de estas especies posee el menor radio iónico/atómico?",
+      "context": "Se comparan las especies isoelectrónicas O²⁻, F⁻, Ne, Na⁺ y Mg²⁺ (todas con 10 electrones).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O²⁻",
+          "is_correct": false,
+          "feedback": "Incorrecto. O²⁻ tiene Z = 8 (menor carga nuclear), por lo que posee el mayor radio de la serie."
+        },
+        {
+          "letter": "B",
+          "text": "Ne",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Neón neutro tiene menor carga nuclear que el catión Mg²⁺."
+        },
+        {
+          "letter": "C",
+          "text": "F⁻",
+          "is_correct": false,
+          "feedback": "Incorrecto. F⁻ posee Z = 9, teniendo mayor radio que Mg²⁺."
+        },
+        {
+          "letter": "D",
+          "text": "Mg²⁺",
+          "is_correct": true,
+          "feedback": "¡Correcto! Mg²⁺ tiene Z = 12 (el mayor número de protones), ejerciendo la mayor atracción nuclear sobre los 10 electrones y contrayendo más la nube."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En una serie isoelectrónica, a mayor número atómico Z (más protones), mayor atracción sobre la nube electrónica y menor radio. Mg²⁺ tiene Z=12 (el menor radio).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.62,
+      "bundle_id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle-v13",
+      "statement": "¿Qué establece el Principio de Exclusión de Pauli?",
+      "context": "El principio de exclusión de Pauli es uno de los pilares de la mecánica cuántica atómica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos electrones en un mismo átomo no pueden tener los 4 números cuánticos idénticos",
+          "is_correct": true,
+          "feedback": "¡Correcto! En un mismo orbital (igual n, l, ml) los dos electrones deben tener spins opuestos (+1/2 y -1/2)."
+        },
+        {
+          "letter": "B",
+          "text": "Los electrones ocupan primero los orbitales de menor energía disponible",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el Principio de Auf-bau."
+        },
+        {
+          "letter": "C",
+          "text": "En orbitales degenerados los electrones se desaparean al máximo con spins paralelos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la Regla de Hund."
+        },
+        {
+          "letter": "D",
+          "text": "Es imposible conocer simultáneamente la posición y el momento de un electrón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el Principio de Incertidumbre de Heisenberg."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Principio de Exclusión de Pauli establece que no pueden existir dos electrones en el mismo átomo con los 4 números cuánticos exactamente iguales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle-v14",
+      "statement": "¿A qué periodo, bloque y grupo de la Tabla Periódica pertenece el elemento X y de qué elemento se trata?",
+      "context": "Un elemento X tiene configuración electrónica [Ne] 3s² 3p⁴ en su estado fundamental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Periodo 2, bloque s, Grupo 14 (IV A); Carbono (C)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nivel 3s² 3p⁴ indica n = 3, no periodo 2."
+        },
+        {
+          "letter": "B",
+          "text": "Periodo 3, bloque p, Grupo 16 (VI A); Azufre (S)",
+          "is_correct": true,
+          "feedback": "¡Correcto! n = 3 (Periodo 3), termina en subnivel p (bloque p), 2 + 4 = 6 electrones de valencia (Grupo 16). Z = 16 (Azufre)."
+        },
+        {
+          "letter": "C",
+          "text": "Periodo 3, bloque d, Grupo 6 (VI B); Cromo (Cr)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los electrones de valencia están en s y p, no d."
+        },
+        {
+          "letter": "D",
+          "text": "Periodo 4, bloque p, Grupo 17 (VII A); Cloro (Cl)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nivel principal de valencia es 3, no 4."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Con n = 3 se ubica en el Periodo 3. La capa externa 3s² 3p⁴ suma 6 electrones de valencia (Grupo 16, bloque p). Z = 16 correspondiendo al Azufre (S).",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es el valor aproximado de Zef para el electrón 3s¹ del Sodio?",
+      "context": "Se calcula la carga nuclear efectiva (Zef) que experimenta un electrón de valencia del Sodio (Z = 11) usando la aproximación simplificada (Zef = Z - S, donde S son electrones internos).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "+11",
+          "is_correct": false,
+          "feedback": "Incorrecto. +11 es la carga nuclear total Z sin considerar el apantallamiento de electrones internos."
+        },
+        {
+          "letter": "B",
+          "text": "+2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la resta del apantallamiento."
+        },
+        {
+          "letter": "C",
+          "text": "+1",
+          "is_correct": true,
+          "feedback": "¡Correcto! Z = 11. Electrones internos apantallantes (1s² 2s² 2p⁶) S = 10. Zef = 11 - 10 = +1."
+        },
+        {
+          "letter": "D",
+          "text": "+5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cálculo equivocado de los electrones del núcleo interno."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La carga nuclear efectiva simplificada es Zef = Z - S = 11 protones - 10 electrones de capa interna = +1.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle-v16",
+      "statement": "¿Es el átomo de Nitrógeno paramagnético o diamagnético y cuántos electrones desapareados posee?",
+      "context": "Se evalúan las propiedades magnéticas de un átomo neutro de Nitrógeno (Z = 7, 1s² 2s² 2p³).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diamagnético sin electrones desapareados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería diamagnético si todos sus orbitales tuviesen pares de electrones aperados."
+        },
+        {
+          "letter": "B",
+          "text": "Paramagnético con 1 electrón desapareado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los 3 electrones p están desapareados en 2px, 2py, 2pz."
+        },
+        {
+          "letter": "C",
+          "text": "Ferromagnético permanente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ferromagnetismo es una propiedad macroscópica de red sólida (como Fe, Co, Ni)."
+        },
+        {
+          "letter": "D",
+          "text": "Paramagnético con 3 electrones desapareados",
+          "is_correct": true,
+          "feedback": "¡Correcto! Según la Regla de Hund, en el subnivel 2p³ los 3 electrones ocupan orbitales distintos con spins paralelos, por lo que es paramagnético."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Por la regla de Hund, el subnivel 2p³ se distribuye como (↑)(↑)(↑) en px, py, pz. Al tener 3 electrones desapareados es paramagnético.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle-v17",
+      "statement": "¿Qué longitud de onda o serie espectral se emite cuando un electrón salta desde un nivel n ≥ 2 al nivel fundamental n = 1?",
+      "context": "Se analiza el espectro de emisión del átomo de Hidrógeno mediante el modelo de Bohr.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Serie de Lyman (región ultravioleta)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las transiciones electrónicas con destino al nivel n = 1 corresponden a la Serie de Lyman en el rango ultravioleta (UV)."
+        },
+        {
+          "letter": "B",
+          "text": "Serie de Balmer (región visible)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La serie de Balmer corresponde a caídas al nivel n = 2 (luz visible)."
+        },
+        {
+          "letter": "C",
+          "text": "Serie de Paschen (región infrarroja)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La serie de Paschen corresponde a caídas al nivel n = 3 (infrarrojo)."
+        },
+        {
+          "letter": "D",
+          "text": "Serie de Brackett (región de microondas)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La serie de Brackett corresponde a caídas al nivel n = 4."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las transiciones electrónicas en el Hidrógeno con llegada al nivel fundamental n = 1 emiten fotones de alta energía en la región ultravioleta (Serie de Lyman).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es la fórmula fundamental de la hipótesis de de Broglie que demuestra la naturaleza dual onda-partícula de la materia?",
+      "context": "Se calcula la longitud de onda de de Broglie λ para una partícula de masa m que se mueve a velocidad v.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "λ = h * m * v",
+          "is_correct": false,
+          "feedback": "Incorrecto. Inconsistencia dimensional."
+        },
+        {
+          "letter": "B",
+          "text": "λ = h / (m * v)",
+          "is_correct": true,
+          "feedback": "¡Correcto! De Broglie postuló que a toda partícula de momento p = mv le corresponde una longitud de onda asociadas λ = h / p = h / (mv)."
+        },
+        {
+          "letter": "C",
+          "text": "λ = m * v² / h",
+          "is_correct": false,
+          "feedback": "Incorrecto. Unidades físicamente incorrectas."
+        },
+        {
+          "letter": "D",
+          "text": "λ = h / (1/2 m v²)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asocia la longitud de onda a la energía cinética en lugar del momento lineal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La hipótesis de Louis de Broglie establece la dualidad onda-partícula asignando a la materia una longitud de onda λ = h / p = h / (m v).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle-v19",
+      "statement": "Si se determina la posición de un electrón dentro de un átomo con absoluta precisión (Δx -> 0), ¿qué sucede con la incertidumbre en su momento lineal Δp?",
+      "context": "Se evalúa la paradoja del Principio de Incertidumbre de Heisenberg: Δx * Δp ≥ h / (4π).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La incertidumbre en su momento lineal se reduce a cero (Δp -> 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Violación matemática del principio de incertidumbre."
+        },
+        {
+          "letter": "B",
+          "text": "Permanecer constante e igual a la velocidad de la luz",
+          "is_correct": false,
+          "feedback": "Incorrecto. La velocidad de la luz es una constante límite de transporte."
+        },
+        {
+          "letter": "C",
+          "text": "La incertidumbre en su momento lineal tiende al infinito (Δp -> ∞)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Dado que el producto Δx * Δp es mayor o igual a una constante finita (ℏ/2), si Δx -> 0, Δp obligatoriamente tiende al infinito."
+        },
+        {
+          "letter": "D",
+          "text": "La masa del electrón se convierte íntegramente en fotones",
+          "is_correct": false,
+          "feedback": "Incorrecto. El principio de incertidumbre es de medida cuántica, no de aniquilación de materia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dado que Δx * Δp ≥ ℏ/2, el límite cuando la incertidumbre posicional Δx se aproxima a cero fuerza a que la incertidumbre en el momento Δp sea infinitamente grande.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle-v20",
+      "statement": "¿Qué representa físicamente el cuadrado del módulo de la función de onda (|Ψ|²)?",
+      "context": "Se resuelve la Ecuación de Schrödinger independiente del tiempo para el átomo de Hidrógeno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La trayectoria elíptica exacta seguida por el electrón en su órbita",
+          "is_correct": false,
+          "feedback": "Incorrecto. En mecánica cuántica no existen trayectorias deterministas continuas."
+        },
+        {
+          "letter": "B",
+          "text": "La carga eléctrica exacta concentrada en un punto fijo del núcleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La carga del electrón está delocalizada en la nube orbital."
+        },
+        {
+          "letter": "C",
+          "text": "La energía cinética total disipada en forma de radiación continua",
+          "is_correct": false,
+          "feedback": "Incorrecto. |Ψ|² es una densidad de probabilidad espacial dimensional (m⁻³)."
+        },
+        {
+          "letter": "D",
+          "text": "La densidad de probabilidad de encontrar al electrón en una región específica del espacio (orbital atómico)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Max Born interpretó |Ψ|² como la función de densidad de probabilidad de localización del electrón en el espacio tridimensional."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La interpretación probabilística de Max Born establece que |Ψ(x,y,z)|² representa la probabilidad por unidad de volumen de encontrar al electrón en un punto dado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    }
+  ]
+}

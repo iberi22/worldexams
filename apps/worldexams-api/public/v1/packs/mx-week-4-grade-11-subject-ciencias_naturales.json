@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "mx",
+    "pack_id": "mx-week-4-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T04:04:54.341Z"
+  },
+  "questions": [
+    {
+      "id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el valor de la fuerza normal ejercida por la mesa sobre el bloque? (g = 9.8 m/s²)",
+      "context": "Un bloque de 10 kg descansa sobre una mesa horizontal lisa en un laboratorio en la CDMX.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "98 N dirigida hacia arriba",
+          "is_correct": true,
+          "feedback": "¡Correcto! En equilibrio vertical N = m*g = 10 kg * 9.8 m/s² = 98 N hacia arriba."
+        },
+        {
+          "letter": "B",
+          "text": "10 N dirigida hacia abajo",
+          "is_correct": false,
+          "feedback": "Incorrecto. 10 kg es la masa, no la fuerza en Newtons."
+        },
+        {
+          "letter": "C",
+          "text": "0 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Habría aceleración vertical si la normal fuera cero."
+        },
+        {
+          "letter": "D",
+          "text": "49 N dirigida horizontalmente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fuerza normal es perpendicular a la superficie de contacto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Primera Ley de Newton en el eje vertical establece N - mg = 0, por lo que N = mg = 98 N hacia arriba.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle-v2",
+      "statement": "¿Qué aceleración experimenta el carrito suponiendo fricción despreciable?",
+      "context": "Se aplica una fuerza constante de 50 N sobre un carrito de compras de 25 kg en Guadalajara.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.5 m/s²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurriría si se dividiera m / F."
+        },
+        {
+          "letter": "B",
+          "text": "2 m/s²",
+          "is_correct": true,
+          "feedback": "¡Correcto! De la Segunda Ley de Newton: a = F / m = 50 N / 25 kg = 2 m/s²."
+        },
+        {
+          "letter": "C",
+          "text": "1250 m/s²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurriría si se multiplicara la fuerza por la masa."
+        },
+        {
+          "letter": "D",
+          "text": "5 m/s²",
+          "is_correct": false,
+          "feedback": "Incorrecto. División errónea de los valores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Segunda Ley de Newton establece a = F / m = 50 N / 25 kg = 2 m/s².",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle-v3",
+      "statement": "¿Qué principio de la dinámica explica por qué ambos patinadores se mueven en sentidos opuestos con fuerzas idénticas?",
+      "context": "Un patinador empuja a otro de igual masa sobre una pista de hielo en Monterrey.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primera Ley de Newton (Inercia)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Primera Ley describe la tendencia a mantener el estado de movimiento."
+        },
+        {
+          "letter": "B",
+          "text": "Ley de Gravitación Universal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe la atracción entre masas por gravedad."
+        },
+        {
+          "letter": "C",
+          "text": "Tercera Ley de Newton (Acción y Reacción)",
+          "is_correct": true,
+          "feedback": "¡Correcto! A toda fuerza de acción corresponde una fuerza de reacción de igual magnitud y sentido opuesto."
+        },
+        {
+          "letter": "D",
+          "text": "Principio de Conservación de la Carga",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere a cargas eléctricas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Tercera Ley de Newton establece que si un cuerpo A ejerce una fuerza sobre B, B ejerce una fuerza igual y opuesta sobre A.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle-v4",
+      "statement": "¿Qué propiedad de la materia hace que los pasajeros tiendan a mantener su velocidad previa?",
+      "context": "Un autobús viaja a 80 km/h y frena intempestivamente. Los pasajeros se desplazan hacia adelante en sus asientos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fricción dinámica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fricción se opone al deslizamiento superficial."
+        },
+        {
+          "letter": "B",
+          "text": "Peso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso es la fuerza gravitatoria actuando sobre la masa."
+        },
+        {
+          "letter": "C",
+          "text": "Elasticidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La elasticidad es la capacidad de deformarse y recuperar la forma."
+        },
+        {
+          "letter": "D",
+          "text": "Inercia",
+          "is_correct": true,
+          "feedback": "¡Correcto! La inercia es la propiedad de los cuerpos de resistirse a cambiar su estado de movimiento."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La Primera Ley de Newton (Inercia) indica que un cuerpo tiende a conservar su velocidad constante a menos que actúe una fuerza neta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la fuerza de fricción cinética fk y la aceleración neta del bloque?",
+      "context": "Un bloque de 5 kg es jalado por una fuerza horizontal de 30 N con coeficiente de fricción cinético μk = 0.2 (g = 10 m/s²).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "fk = 10 N; a = 4 m/s²",
+          "is_correct": true,
+          "feedback": "¡Correcto! N = mg = 50 N. fk = μk*N = 0.2*50 = 10 N. Fneta = 30 - 10 = 20 N. a = 20 / 5 = 4 m/s²."
+        },
+        {
+          "letter": "B",
+          "text": "fk = 30 N; a = 0 m/s²",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fricción no cancela totalmente la fuerza aplicada."
+        },
+        {
+          "letter": "C",
+          "text": "fk = 5 N; a = 5 m/s²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cálculo equivocado de la fuerza normal."
+        },
+        {
+          "letter": "D",
+          "text": "fk = 20 N; a = 2 m/s²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la multiplicación por el coeficiente de fricción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "N = 50 N; fk = 0.2 * 50 = 10 N. Fneta = 30 - 10 = 20 N. a = 20 / 5 = 4 m/s².",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la tensión T del cable que sostiene al elevador?",
+      "context": "Un elevador de 800 kg sube con una aceleración constante de 2 m/s² hacia arriba (g = 9.8 m/s²).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7840 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. 7840 N es el peso estático a velocidad constante."
+        },
+        {
+          "letter": "B",
+          "text": "9440 N",
+          "is_correct": true,
+          "feedback": "¡Correcto! T - mg = m*a -> T = m*(g + a) = 800 kg * (9.8 + 2) m/s² = 9440 N."
+        },
+        {
+          "letter": "C",
+          "text": "6240 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurriría si el elevador acelerara hacia abajo."
+        },
+        {
+          "letter": "D",
+          "text": "1600 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es sólo la fuerza neta m*a sin considerar el peso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sumando fuerzas en el eje vertical T - mg = ma, despejamos T = m(g + a) = 800 * 11.8 = 9440 N.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la componente de la fuerza de gravedad paralela al plano que acelera al bloque?",
+      "context": "Un bloque de 4 kg se encuentra en un plano inclinado 30° respecto a la horizontal sin fricción (g = 10 m/s²).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "34.64 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. 34.64 N es la componente perpendicular (m*g*cos(30°))."
+        },
+        {
+          "letter": "B",
+          "text": "40 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. 40 N es el peso total vertical mg."
+        },
+        {
+          "letter": "C",
+          "text": "20 N",
+          "is_correct": true,
+          "feedback": "¡Correcto! F_paralela = m*g*sin(30°) = 4 kg * 10 m/s² * 0.5 = 20 N."
+        },
+        {
+          "letter": "D",
+          "text": "10 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. División errónea del peso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La componente gravitacional paralela al plano inclinado es F = mg sin θ = 4 * 10 * sin(30°) = 20 N.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la magnitud del impulso recibido y la fuerza media si el contacto duró 0.01 s?",
+      "context": "Una pelota de 0.5 kg viaja a 10 m/s y es golpeada por un bate, saliendo en sentido contrario a 20 m/s.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Impulso = 5 N·s; Fuerza media = 500 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restaron las velocidades sin considerar la inversión de sentido."
+        },
+        {
+          "letter": "B",
+          "text": "Impulso = 10 N·s; Fuerza media = 1000 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo del cambio de momento lineal."
+        },
+        {
+          "letter": "C",
+          "text": "Impulso = 30 N·s; Fuerza media = 3000 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por la masa sin dividir entre 2."
+        },
+        {
+          "letter": "D",
+          "text": "Impulso = 15 N·s; Fuerza media = 1500 N",
+          "is_correct": true,
+          "feedback": "¡Correcto! J = m*Δv = 0.5 * (20 - (-10)) = 15 N·s. F = J / Δt = 15 / 0.01 = 1500 N."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "J = m Δv = 0.5 * (20 - (-10)) = 15 N·s. La fuerza media F = J / Δt = 15 / 0.01 = 1500 N.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la aceleración del sistema y la fuerza de contacto entre las cajas?",
+      "context": "Dos cajas A (10 kg) y B (20 kg) en contacto sobre piso liso son empujadas con una fuerza de 60 N sobre A.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a = 2 m/s²; Fuerza de contacto = 40 N",
+          "is_correct": true,
+          "feedback": "¡Correcto! a = F / m_total = 60 / 30 = 2 m/s². Fuerza sobre B = mB * a = 20 * 2 = 40 N."
+        },
+        {
+          "letter": "B",
+          "text": "a = 3 m/s²; Fuerza de contacto = 60 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al calcular la masa total."
+        },
+        {
+          "letter": "C",
+          "text": "a = 2 m/s²; Fuerza de contacto = 20 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. 20 N es la fuerza neta que acelera a la caja A."
+        },
+        {
+          "letter": "D",
+          "text": "a = 6 m/s²; Fuerza de contacto = 30 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mala interpretación del sistema acoplado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "a = 60 N / (10 + 20) kg = 2 m/s². La fuerza de contacto que A ejerce sobre B es FAB = mB * a = 20 * 2 = 40 N.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle-v10",
+      "statement": "¿Hacia dónde sale disparado el objeto en el instante de la ruptura?",
+      "context": "Un objeto gira amarrado a una cuerda en un plano horizontal. La cuerda se rompe repentinamente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Radialmente hacia afuera del centro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confusión común con una fuerza centrífuga inexistente al romper la cuerda."
+        },
+        {
+          "letter": "B",
+          "text": "En dirección tangente a la trayectoria circular en el punto de ruptura",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al desaparecer la fuerza centrípeta, el objeto sigue su velocidad tangencial por inercia."
+        },
+        {
+          "letter": "C",
+          "text": "Radialmente hacia el centro de giro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hacia el centro apuntaba la tensión previa."
+        },
+        {
+          "letter": "D",
+          "text": "Se detiene secamente cayendo verticalmente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mantiene la velocidad tangencial que poseía por inercia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al romperse la cuerda cesa la fuerza centrípeta. El objeto se mueve en línea recta a lo largo de la tangente (1ª Ley de Newton).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.71,
+      "bundle_id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle-v11",
+      "statement": "¿Se deslizará el bloque por el plano inclinado?",
+      "context": "Un bloque de 8 kg reposa en un plano inclinado de 37° con μs = 0.5 (g = 10 m/s², sin(37°)=0.6, cos(37°)=0.8).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No se desliza, porque la fricción estática es mayor que la componente del peso",
+          "is_correct": false,
+          "feedback": "Incorrecto. 32 N de fricción no detienen los 48 N paralelos al plano."
+        },
+        {
+          "letter": "B",
+          "text": "Permanece en equilibrio justo al límite de deslice",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para estar en el límite se requeriría tan(37°) = μs, pero 0.75 > 0.5."
+        },
+        {
+          "letter": "C",
+          "text": "Sí se desliza, porque F_paralela (48 N) supera la fuerza de fricción estática máxima fs_max (32 N)",
+          "is_correct": true,
+          "feedback": "¡Correcto! F_paralela = 80*0.6 = 48 N. fs_max = 0.5*80*0.8 = 32 N. Como 48 N > 32 N, se desliza."
+        },
+        {
+          "letter": "D",
+          "text": "Sale volando hacia arriba por la fuerza normal",
+          "is_correct": false,
+          "feedback": "Incorrecto. La normal es perpendicular y está equilibrada por la componente del peso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "F_paralela = mg sin(37°) = 48 N. Fricción estática máxima = μs mg cos(37°) = 32 N. Como 48 N > 32 N, el bloque se desliza.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la aceleración del sistema y la tensión T en la cuerda?",
+      "context": "Dos masas m1 = 3 kg y m2 = 2 kg están conectadas en una máquina de Atwood (polea ideal, g = 10 m/s²).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a = 5 m/s²; T = 30 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al restar las masas en el numerador."
+        },
+        {
+          "letter": "B",
+          "text": "a = 1 m/s²; T = 20 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. División errónea de la masa total."
+        },
+        {
+          "letter": "C",
+          "text": "a = 10 m/s²; T = 50 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aceleración equivalente a caída libre sin cuerda."
+        },
+        {
+          "letter": "D",
+          "text": "a = 2 m/s²; T = 24 N",
+          "is_correct": true,
+          "feedback": "¡Correcto! a = (m1 - m2)*g / (m1 + m2) = (3 - 2)*10 / 5 = 2 m/s². T = m2*(g + a) = 2*(10 + 2) = 24 N."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En la máquina de Atwood: a = (m1 - m2)g / (m1 + m2) = 1*10 / 5 = 2 m/s². T = m2(g + a) = 2(10 + 2) = 24 N.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.62,
+      "bundle_id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la velocidad de retroceso V del cañón por conservación de cantidad de movimiento?",
+      "context": "Un cañón de M = 500 kg dispara una bala de m = 5 kg a v = 200 m/s sobre terreno plano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-2 m/s",
+          "is_correct": true,
+          "feedback": "¡Correcto! P_inicial = 0. M*V + m*v = 0 -> V = - (m*v)/M = - (5 * 200)/500 = -2 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "-20 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurriría si la masa del cañón fuera de 50 kg."
+        },
+        {
+          "letter": "C",
+          "text": "-0.5 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Inversión en el cociente de las masas."
+        },
+        {
+          "letter": "D",
+          "text": "0 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cañón retrocede para conservar la cantidad de movimiento total."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por conservación del momento lineal: M V + m v = 0 -> V = - (5 * 200) / 500 = -2 m/s.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la velocidad máxima v_max sin derrapar fuera de la curva?",
+      "context": "Un coche de 1000 kg toma una curva plana de 50 m de radio con coeficiente de fricción estático μs = 0.5 (g = 10 m/s²).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió la raíz cuadrada de v²."
+        },
+        {
+          "letter": "B",
+          "text": "15.81 m/s (~56.9 km/h)",
+          "is_correct": true,
+          "feedback": "¡Correcto! m*v²/r = μs*m*g -> v_max = √(μs * g * r) = √(0.5 * 10 * 50) = √250 = 15.81 m/s."
+        },
+        {
+          "letter": "C",
+          "text": "10 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cálculo incompleto dentro del radical."
+        },
+        {
+          "letter": "D",
+          "text": "50 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confusión con el valor del radio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Igualando la fuerza centrípeta a la fricción m v²/r = μs m g obtenemos v_max = √(μs g r) = √250 ≈ 15.81 m/s.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es la tensión T de la cuerda en el punto más bajo?",
+      "context": "Un objeto de 2 kg oscila atado a una cuerda de 1 m. En el punto más bajo su velocidad es 4 m/s (g = 10 m/s²).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. 32 N es sólo la fuerza centrípeta sin sumar el peso."
+        },
+        {
+          "letter": "B",
+          "text": "20 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. 20 N es sólo el peso estático mg."
+        },
+        {
+          "letter": "C",
+          "text": "52 N",
+          "is_correct": true,
+          "feedback": "¡Correcto! T - mg = m*v²/r -> T = mg + m*v²/r = 2*10 + 2*(16)/1 = 20 + 32 = 52 N."
+        },
+        {
+          "letter": "D",
+          "text": "12 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó la fuerza centrípeta en lugar de sumarse al peso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En el punto más bajo T = mg + m v²/r = 20 + 2(16)/1 = 52 N.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la fuerza de contacto que A ejerce sobre B?",
+      "context": "Fuerza horizontal de 100 N sobre bloque A (6 kg) empujando a B (4 kg) con fricción μk = 0.1 (g = 10 m/s²).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "36 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó sumar la fuerza de fricción del bloque B."
+        },
+        {
+          "letter": "B",
+          "text": "60 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería la fuerza sin considerar la aceleración proporcional del sistema."
+        },
+        {
+          "letter": "C",
+          "text": "10 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde sólo a la fricción del bloque A."
+        },
+        {
+          "letter": "D",
+          "text": "40 N",
+          "is_correct": true,
+          "feedback": "¡Correcto! a = (100 - 10)/10 = 9 m/s². Para B: F_AB - fk_B = mB*a -> F_AB = 4*(9) + 4 = 40 N."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aceleración a = (100 - 10)/10 = 9 m/s². Para mover B superando su fricción de 4 N: FAB = 4(9) + 4 = 40 N.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle-v17",
+      "statement": "¿Qué fuerzas ficticias deben introducirse para aplicar la dinámica en este marco?",
+      "context": "Se analiza un marco de referencia no inercial en rotación con velocidad angular ω.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuerza centrífuga y Fuerza de Coriolis",
+          "is_correct": true,
+          "feedback": "¡Correcto! En marcos rotatorios no inerciales se introducen las fuerzas inerciales ficticias centrífuga y de Coriolis."
+        },
+        {
+          "letter": "B",
+          "text": "Fuerza gravitatoria y Fuerza normal",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad y la normal son fuerzas reales de interacción."
+        },
+        {
+          "letter": "C",
+          "text": "Fuerza nuclear fuerte y débil",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son interacciones subatómicas fundamentales."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza electromagnética y de tensión",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son fuerzas reales de interacción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un marco no inercial en rotación es obligatorio incorporar la fuerza centrífuga e inercial de Coriolis.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle-v18",
+      "statement": "Si se traslada a un radio 4*r, ¿cómo cambian la velocidad orbital v' y el periodo T'?",
+      "context": "Un satélite orbita en trayectoria circular de radio r a velocidad v = √(GM/r).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "v' = 4 v y T' = T / 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. A mayor distancia la velocidad disminuye y el periodo aumenta."
+        },
+        {
+          "letter": "B",
+          "text": "v' = v / 2 y T' = 8 * T",
+          "is_correct": true,
+          "feedback": "¡Correcto! v' = √(GM / 4r) = v / 2. De la 3ª Ley de Kepler T² ∝ r³, T' = √(4³) T = 8 T."
+        },
+        {
+          "letter": "C",
+          "text": "v' = v y T' = 4 T",
+          "is_correct": false,
+          "feedback": "Incorrecto. La velocidad orbital varía inversamente con la raíz del radio."
+        },
+        {
+          "letter": "D",
+          "text": "v' = v / 4 y T' = 2 T",
+          "is_correct": false,
+          "feedback": "Incorrecto. Violación de la Tercera Ley de Kepler."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "v' = √(GM/4r) = v/2. Por la 3ª Ley de Kepler T' = (4)^(3/2) T = 8 T.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle-v19",
+      "statement": "¿Qué cantidad física se conserva en la dirección horizontal durante todo el movimiento?",
+      "context": "Un bloque se desliza sobre una cuña triangular de masa M que descansa sobre una mesa lisa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La energía cinética del bloque únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay transferencia de energía entre bloque y cuña."
+        },
+        {
+          "letter": "B",
+          "text": "La aceleración vertical del centro de masas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El centro de masas acelera verticalmente."
+        },
+        {
+          "letter": "C",
+          "text": "La componente horizontal de la cantidad de movimiento total del sistema cuña-bloque",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al no haber fuerzas externas horizontales, Px_total permanece constante."
+        },
+        {
+          "letter": "D",
+          "text": "La fuerza normal de la mesa sobre la cuña",
+          "is_correct": false,
+          "feedback": "Incorrecto. La normal varía dinámicamente durante el movimiento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Sin fuerzas externas horizontales (mesa lisa), por conservación del momento lineal Px_total es constante.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle-v20",
+      "statement": "¿Es posible lograr que la cuerda quede perfectamente horizontal (θ = 0°) sin deflexión?",
+      "context": "Se intenta tensar una cuerda suspendida de masa m aplicándole tensión T en sus extremos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, si la masa de la cuerda es superior a 100 kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. A mayor masa, mayor la deflexión vertical por peso."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, si la tensión T es exactamente igual al peso mg",
+          "is_correct": false,
+          "feedback": "Incorrecto. T = mg sostendría una cuerda colgada verticalmente."
+        },
+        {
+          "letter": "C",
+          "text": "No, debido a la fricción del aire",
+          "is_correct": false,
+          "feedback": "Incorrecto. La causa es el equilibrio gravitatorio vertical."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque siempre se requiere una componente vertical de la tensión para equilibrar el peso de la cuerda",
+          "is_correct": true,
+          "feedback": "¡Correcto! T*sin(θ) = mg. Si θ = 0°, sin(0°)=0, requiriendo T infinita imposible."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para equilibrio vertical 2 T sin(θ) = mg. Para que la cuerda esté horizontal (θ = 0°) se requeriría T -> ∞, lo cual es físicamente imposible.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    }
+  ]
+}

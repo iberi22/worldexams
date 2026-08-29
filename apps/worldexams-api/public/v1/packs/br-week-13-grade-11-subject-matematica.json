@@ -8,43 +8,43 @@
   },
   "questions": [
     {
-      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v1",
-      "statement": "Qual é o equivalente em radianos para um ângulo de rotação de 180 graus?",
-      "context": "Um engenheiro mecânico em Curitiba estuda o movimento circular de uma polia.",
+      "id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle-v1",
+      "statement": "Quantos graus correspondem a π radianos?",
+      "context": "Um estudante em São Paulo revisa as conversões entre graus e radianos para a prova do ENEM.",
       "options": [
         {
           "letter": "A",
-          "text": "π rad",
+          "text": "180°",
           "is_correct": true,
-          "feedback": "Correto! Por definição, meia volta na circunferência trigonométrica (180°) corresponde a π radianos."
+          "feedback": "Correto: π rad = 180°."
         },
         {
           "letter": "B",
-          "text": "2π rad",
+          "text": "90°",
           "is_correct": false,
-          "feedback": "Incorreto. 2π radianos equivale a 360° (uma volta completa)."
+          "feedback": "Incorreto: 90° corresponde a π/2 rad."
         },
         {
           "letter": "C",
-          "text": "π/2 rad",
+          "text": "360°",
           "is_correct": false,
-          "feedback": "Incorreto. π/2 radianos equivale a 90° (um quarto de volta)."
+          "feedback": "Incorreto: 360° corresponde a 2π rad."
         },
         {
           "letter": "D",
-          "text": "π/4 rad",
+          "text": "100°",
           "is_correct": false,
-          "feedback": "Incorreto. π/4 radianos equivale a 45°."
+          "feedback": "Incorreto: 100° não corresponde a π rad."
         }
       ],
       "correct_answer": "A",
-      "explanation": "A relação de conversão fundamental entre graus e radianos é 180° = π rad. Assim, qualquer outro ângulo pode ser convertido por regra de três simples a partir desta correspondência.",
-      "difficulty": "3",
+      "explanation": "A medida de uma volta completa na circunferência é 2π rad ou 360°, portanto π rad = 180°.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.81,
-      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "expected_success": 0.85,
+      "bundle_id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -53,43 +53,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v2",
-      "statement": "Qual é a medida do raio do ciclo trigonométrico padrão em geometria analítica?",
-      "context": "Um desenvolvedor de jogos em Porto Alegre programa o giro de uma roda de raio unitário.",
+      "id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle-v2",
+      "statement": "Qual é o valor de sen 150°?",
+      "context": "Durante uma aula em Curitiba, o professor pergunta o valor do seno no segundo quadrante.",
       "options": [
         {
           "letter": "A",
-          "text": "0,5 unidade",
-          "is_correct": false,
-          "feedback": "Incorreto. O ciclo trigonométrico padrão possui raio de valor exatamente unitário."
+          "text": "1/2",
+          "is_correct": true,
+          "feedback": "Correto: sen 150° = sen 30° = 1/2 (redução ao primeiro quadrante)."
         },
         {
           "letter": "B",
-          "text": "1 unidade",
-          "is_correct": true,
-          "feedback": "Correto! O ciclo trigonométrico padrão é definido por uma circunferência com centro na origem e raio exato de 1 unidade."
+          "text": "√3/2",
+          "is_correct": false,
+          "feedback": "Incorreto: √3/2 é o seno de 120°."
         },
         {
           "letter": "C",
-          "text": "2 unidades",
+          "text": "−1/2",
           "is_correct": false,
-          "feedback": "Incorreto. O ciclo trigonométrico tem raio unitário, ou seja, de valor 1."
+          "feedback": "Incorreto: o seno é positivo no segundo quadrante."
         },
         {
           "letter": "D",
-          "text": "π unidades",
+          "text": "−√3/2",
           "is_correct": false,
-          "feedback": "Incorreto. O raio é fixo em 1 unidade."
+          "feedback": "Incorreto: o seno de 150° é positivo."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Por definição matemática, a circunferência trigonométrica possui centro no ponto (0,0) e raio unitário, o que simplifica as coordenadas dos pontos terminais dos arcos.",
-      "difficulty": "3",
+      "correct_answer": "A",
+      "explanation": "No segundo quadrante, o seno é positivo. Pela redução ao primeiro quadrante, sen 150° = sen (180° − 30°) = sen 30° = 1/2.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.77,
-      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "expected_success": 0.8,
+      "bundle_id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -98,43 +98,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v3",
-      "statement": "Em qual quadrante do ciclo trigonométrico está localizado o terminal de um arco de 120 graus?",
-      "context": "Durante uma aula de navegação aérea em São José dos Campos, os alunos analisam uma rotação de 120 graus.",
+      "id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle-v3",
+      "statement": "Em qual quadrante o cosseno é positivo e o seno é negativo?",
+      "context": "Um engenheiro no Rio de Janeiro analisa o sinal das funções trigonométricas em cada quadrante.",
       "options": [
         {
           "letter": "A",
           "text": "Primeiro quadrante",
           "is_correct": false,
-          "feedback": "Incorreto. O primeiro quadrante contém arcos de 0° a 90°."
+          "feedback": "Incorreto: no primeiro quadrante, seno e cosseno são positivos."
         },
         {
           "letter": "B",
           "text": "Segundo quadrante",
-          "is_correct": true,
-          "feedback": "Correto! O segundo quadrante vai de 90° a 180°, portanto 120° está contido nele."
+          "is_correct": false,
+          "feedback": "Incorreto: no segundo quadrante, o seno é positivo e o cosseno é negativo."
         },
         {
           "letter": "C",
-          "text": "Terceiro quadrante",
-          "is_correct": false,
-          "feedback": "Incorreto. O terceiro quadrante vai de 180° a 270°."
+          "text": "Quarto quadrante",
+          "is_correct": true,
+          "feedback": "Correto: no quarto quadrante, o cosseno é positivo e o seno é negativo."
         },
         {
           "letter": "D",
-          "text": "Quarto quadrante",
+          "text": "Terceiro quadrante",
           "is_correct": false,
-          "feedback": "Incorreto. O quarto quadrante vai de 270° a 360°."
+          "feedback": "Incorreto: no terceiro quadrante, seno e cosseno são negativos."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Dividindo o círculo em quatro partes iguais de 90°: 1° quadrante (0° a 90°), 2° quadrante (90° a 180°), 3° quadrante (180° a 270°) e 4° quadrante (270° a 360°). O arco de 120° está no segundo quadrante.",
+      "correct_answer": "C",
+      "explanation": "No ciclo trigonométrico, o cosseno é positivo no 1º e no 4º quadrantes, e o seno é positivo no 1º e no 2º. A condição pedida (cos > 0 e sen < 0) ocorre apenas no quarto quadrante.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.73,
-      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "expected_success": 0.75,
+      "bundle_id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -143,43 +143,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v4",
-      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 120 graus?",
-      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 120 graus.",
+      "id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle-v4",
+      "statement": "Qual é a medida em radianos do arco de 270°?",
+      "context": "Um professor em Brasília relaciona as medidas em radianos dos arcos notáveis.",
       "options": [
         {
           "letter": "A",
-          "text": "Primeiro quadrante",
+          "text": "π/2 rad",
           "is_correct": false,
-          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+          "feedback": "Incorreto: π/2 corresponde a 90°."
         },
         {
           "letter": "B",
-          "text": "Segundo quadrante",
+          "text": "3π/2 rad",
           "is_correct": true,
-          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+          "feedback": "Correto: 270° = 3 × 90° = 3π/2 rad."
         },
         {
           "letter": "C",
-          "text": "Terceiro quadrante",
+          "text": "3π/4 rad",
           "is_correct": false,
-          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+          "feedback": "Incorreto: 3π/4 corresponde a 135°."
         },
         {
           "letter": "D",
-          "text": "Quarto quadrante",
+          "text": "2π/3 rad",
           "is_correct": false,
-          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+          "feedback": "Incorreto: 2π/3 corresponde a 120°."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Dividindo o arco 120° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no segundo quadrante.",
+      "explanation": "A conversão usa a proporção 180° ↔ π rad. Assim, 270° = 270 × π/180 = 3π/2 rad.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.69,
-      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "expected_success": 0.7,
+      "bundle_id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -188,43 +188,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v5",
-      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 150 graus?",
-      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 150 graus.",
+      "id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle-v5",
+      "statement": "Qual é o período da função f(x) = sen x?",
+      "context": "Um estudante em Salvador analisa a periodicidade das funções trigonométricas.",
       "options": [
         {
           "letter": "A",
-          "text": "Primeiro quadrante",
+          "text": "π",
           "is_correct": false,
-          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+          "feedback": "Incorreto: π é o período da função tangente."
         },
         {
           "letter": "B",
-          "text": "Segundo quadrante",
+          "text": "2π",
           "is_correct": true,
-          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+          "feedback": "Correto: a função seno se repete a cada 2π rad."
         },
         {
           "letter": "C",
-          "text": "Terceiro quadrante",
+          "text": "360 rad",
           "is_correct": false,
-          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+          "feedback": "Incorreto: o período é dado em radianos, e 360° equivalem a 2π rad, não a 360 rad."
         },
         {
           "letter": "D",
-          "text": "Quarto quadrante",
+          "text": "1",
           "is_correct": false,
-          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+          "feedback": "Incorreto: 1 não é o período da função seno."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Dividindo o arco 150° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no segundo quadrante.",
-      "difficulty": "5",
+      "explanation": "A função seno é periódica com período fundamental 2π: sen(x + 2π) = sen x para todo x real.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.67,
-      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "expected_success": 0.65,
+      "bundle_id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -233,43 +233,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v6",
-      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 180 graus?",
-      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 180 graus.",
+      "id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle-v6",
+      "statement": "Qual é o valor de cos 120°?",
+      "context": "Um aluno em Recife compara os valores do seno e do cosseno de arcos com ângulos complementares.",
       "options": [
         {
           "letter": "A",
-          "text": "Primeiro quadrante",
+          "text": "1/2",
           "is_correct": false,
-          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+          "feedback": "Incorreto: 1/2 é o valor do cos 60°, com sinal trocado."
         },
         {
           "letter": "B",
-          "text": "Segundo quadrante",
-          "is_correct": false,
-          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+          "text": "−1/2",
+          "is_correct": true,
+          "feedback": "Correto: cos 120° = −cos 60° = −1/2, pois 120° está no segundo quadrante."
         },
         {
           "letter": "C",
-          "text": "Terceiro quadrante",
-          "is_correct": true,
-          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+          "text": "√3/2",
+          "is_correct": false,
+          "feedback": "Incorreto: √3/2 é o cos 30°."
         },
         {
           "letter": "D",
-          "text": "Quarto quadrante",
+          "text": "−√3/2",
           "is_correct": false,
-          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+          "feedback": "Incorreto: −√3/2 é o cos 150°."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Dividindo o arco 180° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no terceiro quadrante.",
-      "difficulty": "5",
+      "correct_answer": "B",
+      "explanation": "No segundo quadrante, o cosseno é negativo. Pela redução, cos 120° = −cos (180° − 120°) = −cos 60° = −1/2.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.64,
-      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -278,88 +278,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v7",
-      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 210 graus?",
-      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 210 graus.",
+      "id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle-v7",
+      "statement": "Qual é a primeira determinação positiva de um arco de 750°?",
+      "context": "Um navegador em Fortaleza usa arcos côngruos para simplificar uma medida angular.",
       "options": [
         {
           "letter": "A",
-          "text": "Primeiro quadrante",
-          "is_correct": false,
-          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+          "text": "30°",
+          "is_correct": true,
+          "feedback": "Correto: 750° = 2 × 360° + 30°, logo a primeira determinação é 30°."
         },
         {
           "letter": "B",
-          "text": "Segundo quadrante",
+          "text": "60°",
           "is_correct": false,
-          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+          "feedback": "Incorreto: 750° − 720° = 30°, não 60°."
         },
         {
           "letter": "C",
-          "text": "Terceiro quadrante",
-          "is_correct": true,
-          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+          "text": "90°",
+          "is_correct": false,
+          "feedback": "Incorreto: 750° − 720° = 30°, não 90°."
         },
         {
           "letter": "D",
-          "text": "Quarto quadrante",
+          "text": "120°",
           "is_correct": false,
-          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+          "feedback": "Incorreto: a subtração de duas voltas completas resulta em 30°."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Dividindo o arco 210° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no terceiro quadrante.",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.61,
-      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "br"
-    },
-    {
-      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v8",
-      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 240 graus?",
-      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 240 graus.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Primeiro quadrante",
-          "is_correct": false,
-          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
-        },
-        {
-          "letter": "B",
-          "text": "Segundo quadrante",
-          "is_correct": false,
-          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
-        },
-        {
-          "letter": "C",
-          "text": "Terceiro quadrante",
-          "is_correct": true,
-          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
-        },
-        {
-          "letter": "D",
-          "text": "Quarto quadrante",
-          "is_correct": false,
-          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Dividindo o arco 240° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no terceiro quadrante.",
+      "correct_answer": "A",
+      "explanation": "Dividindo 750° por 360°, obtemos quociente 2 e resto 30°. A primeira determinação positiva é 30°, e o arco é côngruo a ele.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.58,
-      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -368,43 +323,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v9",
-      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 270 graus?",
-      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 270 graus.",
+      "id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle-v8",
+      "statement": "Qual é o valor de tan 180°?",
+      "context": "Um estudante em Manaus simplifica expressões trigonométricas usando identidades.",
       "options": [
         {
           "letter": "A",
-          "text": "Primeiro quadrante",
+          "text": "1",
           "is_correct": false,
-          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+          "feedback": "Incorreto: 1 é a tangente de 45°."
         },
         {
           "letter": "B",
-          "text": "Segundo quadrante",
+          "text": "∞",
           "is_correct": false,
-          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+          "feedback": "Incorreto: a tangente não existe em 90° e 270°, mas existe em 180°."
         },
         {
           "letter": "C",
-          "text": "Terceiro quadrante",
-          "is_correct": false,
-          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+          "text": "0",
+          "is_correct": true,
+          "feedback": "Correto: tan 180° = sen 180°/cos 180° = 0/(−1) = 0."
         },
         {
           "letter": "D",
-          "text": "Quarto quadrante",
-          "is_correct": true,
-          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+          "text": "−1",
+          "is_correct": false,
+          "feedback": "Incorreto: −1 é a tangente de 135°."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Dividindo o arco 270° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no quarto quadrante.",
+      "correct_answer": "C",
+      "explanation": "A tangente é a razão entre seno e cosseno. Como sen 180° = 0 e cos 180° = −1, temos tan 180° = 0.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "expected_success": 0.55,
-      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -413,43 +368,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v10",
-      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 300 graus?",
-      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 300 graus.",
+      "id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle-v9",
+      "statement": "Qual é o valor de sen 240°?",
+      "context": "Um engenheiro em Goiânia usa a redução ao primeiro quadrante para calcular senos de arcos grandes.",
       "options": [
         {
           "letter": "A",
-          "text": "Primeiro quadrante",
+          "text": "√3/2",
           "is_correct": false,
-          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+          "feedback": "Incorreto: √3/2 é o seno de 240° com sinal positivo, mas o seno é negativo no terceiro quadrante."
         },
         {
           "letter": "B",
-          "text": "Segundo quadrante",
-          "is_correct": false,
-          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+          "text": "−√3/2",
+          "is_correct": true,
+          "feedback": "Correto: sen 240° = −sen 60° = −√3/2, pois 240° está no terceiro quadrante."
         },
         {
           "letter": "C",
-          "text": "Terceiro quadrante",
+          "text": "−1/2",
           "is_correct": false,
-          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+          "feedback": "Incorreto: −1/2 é o seno de 210°."
         },
         {
           "letter": "D",
-          "text": "Quarto quadrante",
-          "is_correct": true,
-          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+          "text": "1/2",
+          "is_correct": false,
+          "feedback": "Incorreto: o seno de 240° é negativo."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Dividindo o arco 300° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no quarto quadrante.",
+      "correct_answer": "B",
+      "explanation": "No terceiro quadrante, o seno é negativo. Pela redução, sen 240° = −sen (240° − 180°) = −sen 60° = −√3/2.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.52,
-      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -458,43 +413,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v11",
-      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 330 graus?",
-      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 330 graus.",
+      "id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle-v10",
+      "statement": "Sabendo que cos θ = −3/5 e que θ pertence ao segundo quadrante, qual é o valor de sen θ?",
+      "context": "Um professor em Belém propõe a verificação da relação fundamental no ciclo trigonométrico.",
       "options": [
         {
           "letter": "A",
-          "text": "Primeiro quadrante",
+          "text": "2/5",
           "is_correct": false,
-          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+          "feedback": "Incorreto: 2/5 não satisfaz a relação fundamental."
         },
         {
           "letter": "B",
-          "text": "Segundo quadrante",
-          "is_correct": false,
-          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+          "text": "4/5",
+          "is_correct": true,
+          "feedback": "Correto: sen²θ = 1 − 9/25 = 16/25, e no segundo quadrante o seno é positivo: sen θ = 4/5."
         },
         {
           "letter": "C",
-          "text": "Terceiro quadrante",
+          "text": "−4/5",
           "is_correct": false,
-          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+          "feedback": "Incorreto: o seno é positivo no segundo quadrante."
         },
         {
           "letter": "D",
-          "text": "Quarto quadrante",
-          "is_correct": true,
-          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+          "text": "3/5",
+          "is_correct": false,
+          "feedback": "Incorreto: 3/5 é o valor absoluto do cosseno, não do seno."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Dividindo o arco 330° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no quarto quadrante.",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "Pela relação fundamental, sen²θ + cos²θ = 1, então sen²θ = 1 − 9/25 = 16/25. Como θ está no segundo quadrante, onde o seno é positivo, sen θ = 4/5.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.49,
-      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -503,43 +458,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v12",
-      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 360 graus?",
-      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 360 graus.",
+      "id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle-v11",
+      "statement": "No intervalo [0°, 360°), quais são as soluções da equação sen x = 1/2?",
+      "context": "Um estudante de engenharia em Florianópolis resolve uma equação trigonométrica simples.",
       "options": [
         {
           "letter": "A",
-          "text": "Primeiro quadrante",
-          "is_correct": true,
-          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+          "text": "30° e 330°",
+          "is_correct": false,
+          "feedback": "Incorreto: em 330° o seno é −1/2."
         },
         {
           "letter": "B",
-          "text": "Segundo quadrante",
+          "text": "150° e 330°",
           "is_correct": false,
-          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+          "feedback": "Incorreto: em 330° o seno é −1/2."
         },
         {
           "letter": "C",
-          "text": "Terceiro quadrante",
-          "is_correct": false,
-          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+          "text": "30° e 150°",
+          "is_correct": true,
+          "feedback": "Correto: sen 30° = sen 150° = 1/2."
         },
         {
           "letter": "D",
-          "text": "Quarto quadrante",
+          "text": "60° e 120°",
           "is_correct": false,
-          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+          "feedback": "Incorreto: em 60° e 120° o seno é √3/2."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Dividindo o arco 360° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no primeiro quadrante.",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "O seno é positivo no primeiro e no segundo quadrantes. As soluções de sen x = 1/2 no intervalo dado são x = 30° e x = 150°.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.46,
-      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -548,43 +503,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v13",
-      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 390 graus?",
-      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 390 graus.",
+      "id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle-v12",
+      "statement": "Uma roda gigante tem raio de 20 m e seu centro está a 22 m do chão. Modelando a altura h(t) da cabine por h(t) = 22 + 20·sen(πt/15), qual é a altura máxima atingida?",
+      "context": "Um arquiteto em Porto Alegre dimensiona uma roda gigante usando o modelo da função seno.",
       "options": [
         {
           "letter": "A",
-          "text": "Primeiro quadrante",
-          "is_correct": true,
-          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+          "text": "22 m",
+          "is_correct": false,
+          "feedback": "Incorreto: 22 m é a altura do centro, não a máxima."
         },
         {
           "letter": "B",
-          "text": "Segundo quadrante",
-          "is_correct": false,
-          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+          "text": "42 m",
+          "is_correct": true,
+          "feedback": "Correto: o valor máximo de sen é 1, logo h_máx = 22 + 20 = 42 m."
         },
         {
           "letter": "C",
-          "text": "Terceiro quadrante",
+          "text": "20 m",
           "is_correct": false,
-          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+          "feedback": "Incorreto: 20 m é a amplitude, não a altura máxima."
         },
         {
           "letter": "D",
-          "text": "Quarto quadrante",
+          "text": "40 m",
           "is_correct": false,
-          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+          "feedback": "Incorreto: 40 m seria a soma apenas da amplitude com 20 m, sem considerar o centro em 22 m."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Dividindo o arco 390° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no primeiro quadrante.",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "A altura máxima ocorre quando sen(πt/15) = 1, resultando em h = 22 + 20 × 1 = 42 m. A amplitude do movimento é 20 m em torno do valor central 22 m.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.43,
-      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -593,43 +548,88 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v14",
-      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 420 graus?",
-      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 420 graus.",
+      "id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle-v13",
+      "statement": "Em qual intervalo a função tangente é crescente e positiva?",
+      "context": "Um aluno em Campinas analisa o comportamento da função tangente em diferentes quadrantes.",
       "options": [
         {
           "letter": "A",
-          "text": "Primeiro quadrante",
+          "text": "De 0° a 90°",
           "is_correct": true,
-          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+          "feedback": "Correto: no primeiro quadrante, a tangente cresce de 0 a +∞, sendo positiva."
         },
         {
           "letter": "B",
-          "text": "Segundo quadrante",
+          "text": "De 90° a 180°",
           "is_correct": false,
-          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+          "feedback": "Incorreto: no segundo quadrante, a tangente é negativa."
         },
         {
           "letter": "C",
-          "text": "Terceiro quadrante",
+          "text": "De 180° a 270°",
           "is_correct": false,
-          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+          "feedback": "Incorreto: no terceiro quadrante, a tangente é positiva, mas o enunciado pede o intervalo onde isso ocorre desde o início."
         },
         {
           "letter": "D",
-          "text": "Quarto quadrante",
+          "text": "De 270° a 360°",
           "is_correct": false,
-          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+          "feedback": "Incorreto: no quarto quadrante, a tangente é negativa."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Dividindo o arco 420° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no primeiro quadrante.",
+      "explanation": "A tangente é positiva no primeiro e no terceiro quadrantes. No primeiro quadrante (0° a 90°), ela cresce de 0 até +∞, sendo a opção que combina crescimento e positividade.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle-v14",
+      "statement": "Sobre as funções seno e cosseno, é correto afirmar que:",
+      "context": "Um professor em Natal analisa a paridade das funções trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ambas são funções ímpares",
+          "is_correct": false,
+          "feedback": "Incorreto: o cosseno é uma função par."
+        },
+        {
+          "letter": "B",
+          "text": "o seno é ímpar e o cosseno é par",
+          "is_correct": true,
+          "feedback": "Correto: sen(−x) = −sen x e cos(−x) = cos x."
+        },
+        {
+          "letter": "C",
+          "text": "o seno é par e o cosseno é ímpar",
+          "is_correct": false,
+          "feedback": "Incorreto: a relação é a inversa."
+        },
+        {
+          "letter": "D",
+          "text": "ambas são funções pares",
+          "is_correct": false,
+          "feedback": "Incorreto: o seno é ímpar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A função seno é ímpar: sen(−x) = −sen x. A função cosseno é par: cos(−x) = cos x. Essa propriedade decorre da simetria do ciclo trigonométrico.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "expected_success": 0.4,
-      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -638,43 +638,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v15",
-      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 450 graus?",
-      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 450 graus.",
+      "id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle-v15",
+      "statement": "Sabendo que x é um arco do primeiro quadrante, qual é o valor de sen(90° − x)?",
+      "context": "Um estudante em São José dos Campos simplifica expressões com arcos complementares.",
       "options": [
         {
           "letter": "A",
-          "text": "Primeiro quadrante",
+          "text": "−cos x",
           "is_correct": false,
-          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+          "feedback": "Incorreto: o sinal está incorreto."
         },
         {
           "letter": "B",
-          "text": "Segundo quadrante",
+          "text": "cos x",
           "is_correct": true,
-          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+          "feedback": "Correto: sen(90° − x) = cos x, propriedade dos arcos complementares."
         },
         {
           "letter": "C",
-          "text": "Terceiro quadrante",
+          "text": "sen x",
           "is_correct": false,
-          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+          "feedback": "Incorreto: sen(90° − x) é igual ao cosseno de x, não ao seno."
         },
         {
           "letter": "D",
-          "text": "Quarto quadrante",
+          "text": "−sen x",
           "is_correct": false,
-          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+          "feedback": "Incorreto: a identidade é com o cosseno positivo."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Dividindo o arco 450° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no segundo quadrante.",
+      "explanation": "Para arcos complementares, sen(90° − x) = cos x e cos(90° − x) = sen x. Essa é uma identidade fundamental da trigonometria.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.37,
-      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -683,43 +683,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v16",
-      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 480 graus?",
-      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 480 graus.",
+      "id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle-v16",
+      "statement": "Se sen x = 3/5 e x pertence ao segundo quadrante, qual é o valor de cos 2x?",
+      "context": "Um matemático em Vitória investiga a relação entre o arco e seu dobro no ciclo trigonométrico.",
       "options": [
         {
           "letter": "A",
-          "text": "Primeiro quadrante",
-          "is_correct": false,
-          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+          "text": "7/25",
+          "is_correct": true,
+          "feedback": "Correto: cos 2x = cos²x − sen²x = 16/25 − 9/25 = 7/25."
         },
         {
           "letter": "B",
-          "text": "Segundo quadrante",
-          "is_correct": true,
-          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+          "text": "−7/25",
+          "is_correct": false,
+          "feedback": "Incorreto: cos 2x = cos²x − sen²x, que é positivo neste caso."
         },
         {
           "letter": "C",
-          "text": "Terceiro quadrante",
+          "text": "9/25",
           "is_correct": false,
-          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+          "feedback": "Incorreto: 9/25 é o sen²x."
         },
         {
           "letter": "D",
-          "text": "Quarto quadrante",
+          "text": "−1",
           "is_correct": false,
-          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+          "feedback": "Incorreto: −1 seria o cosseno de 180°."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Dividindo o arco 480° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no segundo quadrante.",
+      "correct_answer": "A",
+      "explanation": "Como x está no segundo quadrante, cos x = −√(1 − 9/25) = −4/5. Pela fórmula do arco duplo, cos 2x = cos²x − sen²x = 16/25 − 9/25 = 7/25.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.34,
-      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "expected_success": 0.35,
+      "bundle_id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -728,43 +728,88 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v17",
-      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 510 graus?",
-      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 510 graus.",
+      "id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle-v17",
+      "statement": "Qual é o valor da expressão sen²20° + sen²70°?",
+      "context": "Um candidato ao vestibular do ITA avalia a consistência de uma identidade trigonométrica.",
       "options": [
         {
           "letter": "A",
-          "text": "Primeiro quadrante",
-          "is_correct": false,
-          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correto: sen 70° = cos 20°, logo a expressão é sen²20° + cos²20° = 1."
         },
         {
           "letter": "B",
-          "text": "Segundo quadrante",
-          "is_correct": true,
-          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorreto: a soma dos quadrados de seno e cosseno do mesmo arco é 1."
         },
         {
           "letter": "C",
-          "text": "Terceiro quadrante",
+          "text": "0",
           "is_correct": false,
-          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+          "feedback": "Incorreto: os termos são positivos."
         },
         {
           "letter": "D",
-          "text": "Quarto quadrante",
+          "text": "sen²90°",
           "is_correct": false,
-          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+          "feedback": "Incorreto: sen²90° = 1, o que coincide numericamente, mas a justificativa correta é a relação dos complementares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Como 20° e 70° são complementares, sen 70° = cos 20°. Assim, sen²20° + sen²70° = sen²20° + cos²20° = 1.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle-v18",
+      "statement": "No intervalo [0°, 360°), a equação cos x = −√2/2 possui quantas soluções?",
+      "context": "Um professor em Belo Horizonte propõe a análise de uma equação trigonométrica com mais de uma solução.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorreto: o cosseno assume o mesmo valor em dois quadrantes."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correto: as soluções são 135° e 225°."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorreto: em um período completo, há exatamente duas soluções."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorreto: haveria quatro soluções apenas para equações do tipo sen²x = k."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Dividindo o arco 510° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no segundo quadrante.",
-      "difficulty": "9",
+      "explanation": "O cosseno é negativo no segundo e no terceiro quadrantes. As soluções de cos x = −√2/2 no intervalo [0°, 360°) são x = 135° e x = 225°.",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.28,
-      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "expected_success": 0.25,
+      "bundle_id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -773,88 +818,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v18",
-      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 540 graus?",
-      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 540 graus.",
+      "id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle-v19",
+      "statement": "Qual é o valor de cos (1110°)?",
+      "context": "Em uma olimpíada de matemática, pede-se a combinação de periodicidade e arcos côngruos.",
       "options": [
         {
           "letter": "A",
-          "text": "Primeiro quadrante",
+          "text": "1/2",
           "is_correct": false,
-          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+          "feedback": "Incorreto: este é o cosseno de 60°, não do arco reduzido de 1110°."
         },
         {
           "letter": "B",
-          "text": "Segundo quadrante",
+          "text": "−1/2",
           "is_correct": false,
-          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+          "feedback": "Incorreto: o sinal está trocado."
         },
         {
           "letter": "C",
-          "text": "Terceiro quadrante",
+          "text": "√3/2",
           "is_correct": true,
-          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+          "feedback": "Correto: 1110° = 3 × 360° + 30°, então cos 1110° = cos 30° = √3/2."
         },
         {
           "letter": "D",
-          "text": "Quarto quadrante",
+          "text": "−√3/2",
           "is_correct": false,
-          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+          "feedback": "Incorreto: o cosseno de 30° é positivo."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Dividindo o arco 540° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no terceiro quadrante.",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.24,
-      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "br"
-    },
-    {
-      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v19",
-      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 570 graus?",
-      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 570 graus.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Primeiro quadrante",
-          "is_correct": false,
-          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
-        },
-        {
-          "letter": "B",
-          "text": "Segundo quadrante",
-          "is_correct": false,
-          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
-        },
-        {
-          "letter": "C",
-          "text": "Terceiro quadrante",
-          "is_correct": true,
-          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
-        },
-        {
-          "letter": "D",
-          "text": "Quarto quadrante",
-          "is_correct": false,
-          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Dividindo o arco 570° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no terceiro quadrante.",
+      "explanation": "Descontando as voltas completas: 1110° = 3 × 360° + 30°. Assim, cos 1110° = cos 30° = √3/2.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
       "expected_success": 0.2,
-      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -863,43 +863,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v20",
-      "statement": "Qual é o quadrante correspondente no ciclo trigonométrico de um arco de 600 graus?",
-      "context": "Um estudante em Salvador analisa as propriedades de um ângulo de 600 graus.",
+      "id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle-v20",
+      "statement": "Simplificando a expressão (1 − cos²x)/sen x para x no primeiro quadrante, obtém-se:",
+      "context": "Um pesquisador em Campinas analisa uma identidade que combina várias relações do ciclo.",
       "options": [
         {
           "letter": "A",
-          "text": "Primeiro quadrante",
+          "text": "cos x",
           "is_correct": false,
-          "feedback": "Feedback para o primeiro quadrante (0° a 90°)."
+          "feedback": "Incorreto: (1 − cos²x) = sen²x, e a divisão por sen x resulta em sen x."
         },
         {
           "letter": "B",
-          "text": "Segundo quadrante",
-          "is_correct": false,
-          "feedback": "Feedback para o segundo quadrante (90° a 180°)."
+          "text": "sen x",
+          "is_correct": true,
+          "feedback": "Correto: como 1 − cos²x = sen²x, a expressão vale sen²x/sen x = sen x."
         },
         {
           "letter": "C",
-          "text": "Terceiro quadrante",
-          "is_correct": true,
-          "feedback": "Feedback para o terceiro quadrante (180° a 270°)."
+          "text": "tan x",
+          "is_correct": false,
+          "feedback": "Incorreto: tan x = sen x/cos x."
         },
         {
           "letter": "D",
-          "text": "Quarto quadrante",
+          "text": "1/sen x",
           "is_correct": false,
-          "feedback": "Feedback para o quarto quadrante (270° a 360°)."
+          "feedback": "Incorreto: esse é o resultado se o numerador fosse 1 + cos²x."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Dividindo o arco 600° pela volta de 360°, encontramos a menor determinação positiva. Analisando as divisões de 90°, concluímos que o arco está situado no terceiro quadrante.",
+      "correct_answer": "B",
+      "explanation": "Usando a relação fundamental, 1 − cos²x = sen²x. Substituindo, a expressão se torna sen²x/sen x = sen x, válida para sen x ≠ 0.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.16,
-      "bundle_id": "BR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "expected_success": 0.2,
+      "bundle_id": "BR-MAT-11-2026-W13-trigonometria-circunferencia-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
       "cefr_level": null,

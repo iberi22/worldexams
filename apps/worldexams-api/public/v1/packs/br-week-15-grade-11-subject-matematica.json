@@ -8,43 +8,43 @@
   },
   "questions": [
     {
-      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v1",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 5 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle-v1",
+      "statement": "Quantas faces possui uma pirâmide de base quadrangular?",
+      "context": "Um estudante em São Paulo revisa os elementos de uma pirâmide para o ENEM.",
       "options": [
         {
           "letter": "A",
-          "text": "25 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorreto: 4 é o número de faces laterais."
         },
         {
           "letter": "B",
-          "text": "5 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correto: 4 faces laterais triangulares + 1 base = 5 faces."
         },
         {
           "letter": "C",
-          "text": "30 metros",
+          "text": "6",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 6 seria o número de faces de um prisma de base triangular."
         },
         {
           "letter": "D",
-          "text": "7 metros",
+          "text": "8",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 8 seria o número de arestas."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 5 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 5 + 2 * 10 = 25 metros.",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "Uma pirâmide de base quadrangular tem 4 faces laterais triangulares e 1 face da base, totalizando 5 faces.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.81,
-      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "expected_success": 0.85,
+      "bundle_id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -53,43 +53,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v2",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 10 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle-v2",
+      "statement": "Qual é a fórmula do volume de um cone circular reto de raio r e altura h?",
+      "context": "Durante uma aula em Curitiba, o professor pergunta a fórmula do volume de um cone.",
       "options": [
         {
           "letter": "A",
-          "text": "30 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "πr²h",
+          "is_correct": false,
+          "feedback": "Incorreto: essa é a fórmula do volume do cilindro."
         },
         {
           "letter": "B",
-          "text": "10 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "(1/3)πr²h",
+          "is_correct": true,
+          "feedback": "Correto: o volume do cone é um terço do volume do cilindro de mesma base e altura."
         },
         {
           "letter": "C",
-          "text": "35 metros",
+          "text": "(2/3)πr²h",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: (2/3)πr²h seria o volume da metade de uma esfera de raio r com altura h."
         },
         {
           "letter": "D",
-          "text": "12 metros",
+          "text": "πr√(r² + h²)",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: essa expressão se relaciona à área lateral do cone."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 10 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 10 + 2 * 10 = 30 metros.",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "O volume do cone circular reto é V = (1/3) × área da base × altura = (1/3)πr²h.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.77,
-      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "expected_success": 0.8,
+      "bundle_id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -98,43 +98,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v3",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 15 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle-v3",
+      "statement": "Uma pirâmide tem base quadrada de lado 6 cm e altura 9 cm. Qual é o seu volume?",
+      "context": "Um arquiteto no Rio de Janeiro calcula o volume de uma pirâmide de base quadrada.",
       "options": [
         {
           "letter": "A",
-          "text": "35 metros",
+          "text": "108 cm³",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: V = (1/3) × 36 × 9 = 108 cm³."
         },
         {
           "letter": "B",
-          "text": "15 metros",
+          "text": "324 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 324 seria o volume de um prisma de mesma base e altura."
         },
         {
           "letter": "C",
-          "text": "40 metros",
+          "text": "54 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 54 seria o volume se a altura fosse 4,5 cm."
         },
         {
           "letter": "D",
-          "text": "17 metros",
+          "text": "216 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 216 seria o volume de um cubo de aresta 6."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 15 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 15 + 2 * 10 = 35 metros.",
+      "explanation": "A área da base quadrada é 6² = 36 cm². O volume da pirâmide é V = (1/3) × 36 × 9 = 108 cm³.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.73,
-      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "expected_success": 0.75,
+      "bundle_id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -143,43 +143,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v4",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 20 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle-v4",
+      "statement": "Em um cone circular reto, a geratriz g, o raio r da base e a altura h satisfazem qual relação?",
+      "context": "Um professor em Brasília explica a relação entre a geratriz, o raio e a altura de um cone reto.",
       "options": [
         {
           "letter": "A",
-          "text": "40 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "g = r + h",
+          "is_correct": false,
+          "feedback": "Incorreto: a geratriz não é a soma do raio com a altura."
         },
         {
           "letter": "B",
-          "text": "20 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "g² = r² + h²",
+          "is_correct": true,
+          "feedback": "Correto: o triângulo formado por geratriz, raio e altura é retângulo."
         },
         {
           "letter": "C",
-          "text": "45 metros",
+          "text": "g = r·h",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: g·h não tem relação com a geratriz."
         },
         {
           "letter": "D",
-          "text": "22 metros",
+          "text": "g² = r² − h²",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: o quadrado da geratriz é a soma, não a diferença."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 20 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 20 + 2 * 10 = 40 metros.",
+      "correct_answer": "B",
+      "explanation": "A geratriz, o raio da base e a altura do cone formam um triângulo retângulo, com a geratriz como hipotenusa: g² = r² + h².",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.69,
-      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "expected_success": 0.7,
+      "bundle_id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -188,43 +188,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v5",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 25 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle-v5",
+      "statement": "Qual é a área lateral de um cone reto de raio 3 cm e geratriz 5 cm?",
+      "context": "Um estudante em Salvador analisa a área lateral de um cone.",
       "options": [
         {
           "letter": "A",
-          "text": "45 metros",
+          "text": "15π cm²",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: A_lat = πrg = π × 3 × 5 = 15π cm²."
         },
         {
           "letter": "B",
-          "text": "25 metros",
+          "text": "12π cm²",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 12π seria πr² com r = 2√3."
         },
         {
           "letter": "C",
-          "text": "50 metros",
+          "text": "20π cm²",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 20π seria πg² com g = 2√5."
         },
         {
           "letter": "D",
-          "text": "27 metros",
+          "text": "9π cm²",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 9π é a área da base."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 25 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 25 + 2 * 10 = 45 metros.",
-      "difficulty": "5",
+      "explanation": "A área lateral do cone reto é A_lat = πrg, onde g é a geratriz. Assim, A_lat = π × 3 × 5 = 15π cm².",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.67,
-      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "expected_success": 0.65,
+      "bundle_id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -233,43 +233,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v6",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 30 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle-v6",
+      "statement": "Um cone reto tem geratriz 13 cm e raio da base 5 cm. Qual é a sua altura?",
+      "context": "Um engenheiro em Recife calcula a altura de um cone a partir da geratriz e do raio.",
       "options": [
         {
           "letter": "A",
-          "text": "50 metros",
+          "text": "12 cm",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: h = √(13² − 5²) = √(169 − 25) = √144 = 12 cm."
         },
         {
           "letter": "B",
-          "text": "30 metros",
+          "text": "8 cm",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 8 seria √(13² − 5²) com erro de cálculo."
         },
         {
           "letter": "C",
-          "text": "55 metros",
+          "text": "18 cm",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 18 é a soma da geratriz com o raio."
         },
         {
           "letter": "D",
-          "text": "32 metros",
+          "text": "6,5 cm",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 6,5 é a metade da geratriz."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 30 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 30 + 2 * 10 = 50 metros.",
-      "difficulty": "5",
+      "explanation": "Pela relação g² = r² + h², temos h² = 169 − 25 = 144, logo h = 12 cm.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.64,
-      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -278,88 +278,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v7",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 35 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle-v7",
+      "statement": "Uma tenda tem formato de pirâmide regular de base quadrada de lado 8 m e altura 3 m. Qual é o volume da tenda?",
+      "context": "Um arquiteto em Fortaleza dimensiona uma tenda em formato de pirâmide de base quadrada.",
       "options": [
         {
           "letter": "A",
-          "text": "55 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "24 m³",
+          "is_correct": false,
+          "feedback": "Incorreto: 24 seria o volume se a área da base fosse 18 m²."
         },
         {
           "letter": "B",
-          "text": "35 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
-        },
-        {
-          "letter": "C",
-          "text": "60 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
-        },
-        {
-          "letter": "D",
-          "text": "37 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 35 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 35 + 2 * 10 = 55 metros.",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.61,
-      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "br"
-    },
-    {
-      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v8",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 40 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "60 metros",
+          "text": "64 m³",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
-        },
-        {
-          "letter": "B",
-          "text": "40 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Correto: V = (1/3) × 64 × 3 = 64 m³."
         },
         {
           "letter": "C",
-          "text": "65 metros",
+          "text": "192 m³",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 192 seria o volume se o fator 1/3 não fosse aplicado."
         },
         {
           "letter": "D",
-          "text": "42 metros",
+          "text": "32 m³",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 32 seria o volume se o lado da base fosse 4√2."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 40 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 40 + 2 * 10 = 60 metros.",
+      "correct_answer": "B",
+      "explanation": "A área da base é 8² = 64 m². O volume é V = (1/3) × 64 × 3 = 64 m³.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.58,
-      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -368,43 +323,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v9",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 45 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle-v8",
+      "statement": "Um cone reto tem diâmetro da base 8 cm e altura 6 cm. Qual é o seu volume? (Use π = 3.)",
+      "context": "Um estudante em Manaus calcula o volume de um cone a partir de seu diâmetro.",
       "options": [
         {
           "letter": "A",
-          "text": "65 metros",
+          "text": "96 cm³",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: r = 4, V = (1/3) × 3 × 16 × 6 = 96 cm³."
         },
         {
           "letter": "B",
-          "text": "45 metros",
+          "text": "192 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 192 seria o volume do cilindro de mesma base e altura."
         },
         {
           "letter": "C",
-          "text": "70 metros",
+          "text": "48 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 48 seria o volume se o raio fosse 2 cm."
         },
         {
           "letter": "D",
-          "text": "47 metros",
+          "text": "288 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 288 seria o volume se o fator 1/3 fosse ignorado e o raio fosse 8."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 45 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 45 + 2 * 10 = 65 metros.",
+      "explanation": "Com diâmetro 8 cm, o raio é 4 cm. O volume é V = (1/3)πr²h = (1/3) × 3 × 16 × 6 = 96 cm³.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "expected_success": 0.55,
-      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -413,43 +368,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v10",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 50 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle-v9",
+      "statement": "Qual é a área total de um cone reto de raio 2 cm e geratriz 4 cm? (Use π = 3.)",
+      "context": "Um professor em Goiânia pede a área total de um cone.",
       "options": [
         {
           "letter": "A",
-          "text": "70 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "24 cm²",
+          "is_correct": false,
+          "feedback": "Incorreto: 24 é apenas a área lateral."
         },
         {
           "letter": "B",
-          "text": "50 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "36 cm²",
+          "is_correct": true,
+          "feedback": "Correto: A_total = πr(r + g) = 3 × 2 × (2 + 4) = 36 cm²."
         },
         {
           "letter": "C",
-          "text": "75 metros",
+          "text": "48 cm²",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 48 seria o dobro da área total correta."
         },
         {
           "letter": "D",
-          "text": "52 metros",
+          "text": "12 cm²",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 12 é a área da base."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 50 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 50 + 2 * 10 = 70 metros.",
+      "correct_answer": "B",
+      "explanation": "A área total do cone é A = πr² + πrg = πr(r + g) = 3 × 2 × 6 = 36 cm².",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.52,
-      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -458,43 +413,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v11",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 55 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle-v10",
+      "statement": "Um prisma e uma pirâmide têm a mesma base (área 30 cm²) e a mesma altura (9 cm). Qual é a diferença entre o volume do prisma e o volume da pirâmide?",
+      "context": "Um engenheiro em Belém compara o volume de uma pirâmide com o de um prisma de mesma base.",
       "options": [
         {
           "letter": "A",
-          "text": "75 metros",
+          "text": "180 cm³",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: prismas têm V = 270 cm³ e pirâmides V = 90 cm³; diferença = 180 cm³."
         },
         {
           "letter": "B",
-          "text": "55 metros",
+          "text": "90 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 90 é o volume da pirâmide."
         },
         {
           "letter": "C",
-          "text": "80 metros",
+          "text": "270 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 270 é o volume do prisma."
         },
         {
           "letter": "D",
-          "text": "57 metros",
+          "text": "60 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 60 não corresponde à diferença pedida."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 55 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 55 + 2 * 10 = 75 metros.",
-      "difficulty": "7",
+      "explanation": "O prisma tem volume 30 × 9 = 270 cm³ e a pirâmide tem volume (1/3) × 30 × 9 = 90 cm³. A diferença é 270 − 90 = 180 cm³.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.49,
-      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -503,43 +458,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v12",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 60 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle-v11",
+      "statement": "Uma pirâmide regular de base quadrada de lado 6 cm tem altura 4 cm. Qual é a área lateral da pirâmide (soma das 4 faces triangulares)?",
+      "context": "Um arquiteto em Florianópolis calcula a área lateral de uma pirâmide regular de base quadrada.",
       "options": [
         {
           "letter": "A",
-          "text": "80 metros",
+          "text": "60 cm²",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: o apótema da face é √(4² + 3²) = 5 cm; cada face tem área (6 × 5)/2 = 15 cm²; total = 60 cm²."
         },
         {
           "letter": "B",
-          "text": "60 metros",
+          "text": "120 cm²",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 120 seria o dobro da área lateral."
         },
         {
           "letter": "C",
-          "text": "85 metros",
+          "text": "48 cm²",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 48 seria a área lateral de um prisma quadrado de altura 4."
         },
         {
           "letter": "D",
-          "text": "62 metros",
+          "text": "30 cm²",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 30 é a área de apenas duas faces."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 60 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 60 + 2 * 10 = 80 metros.",
-      "difficulty": "7",
+      "explanation": "O apótema da base é 3 cm (metade do lado). O apótema da face é m = √(4² + 3²) = 5 cm. Cada face triangular tem área (6 × 5)/2 = 15 cm², e a área lateral é 4 × 15 = 60 cm².",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.46,
-      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -548,43 +503,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v13",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 65 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle-v12",
+      "statement": "Um cone reto tem volume 32π cm³ e raio da base 4 cm. Qual é a sua altura?",
+      "context": "Um fabricante de embalagens em Porto Alegre dimensiona um cone de papel.",
       "options": [
         {
           "letter": "A",
-          "text": "85 metros",
+          "text": "6 cm",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: V = (1/3)πr²h, logo 32π = (1/3)·π·16·h, e h = 6 cm."
         },
         {
           "letter": "B",
-          "text": "65 metros",
+          "text": "8 cm",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 8 seria a altura se o volume fosse (1/3)·π·16·8 = 128π/3."
         },
         {
           "letter": "C",
-          "text": "90 metros",
+          "text": "4 cm",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 4 seria a altura se o volume fosse 64π/3."
         },
         {
           "letter": "D",
-          "text": "67 metros",
+          "text": "12 cm",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 12 seria a altura se o volume fosse 64π."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 65 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 65 + 2 * 10 = 85 metros.",
-      "difficulty": "7",
+      "explanation": "Da fórmula do volume: 32π = (1/3) × π × 16 × h, então h = (32 × 3)/16 = 6 cm.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.43,
-      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -593,43 +548,88 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v14",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 70 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle-v13",
+      "statement": "Em um cone equilátero, a geratriz é igual ao diâmetro da base. Se a geratriz mede 10 cm, qual é a altura do cone?",
+      "context": "Um professor em Campinas analisa o cone equilátero.",
       "options": [
         {
           "letter": "A",
-          "text": "90 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "5 cm",
+          "is_correct": false,
+          "feedback": "Incorreto: 5 é o raio da base."
         },
         {
           "letter": "B",
-          "text": "70 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "5√3 cm",
+          "is_correct": true,
+          "feedback": "Correto: r = 5 cm e h = √(10² − 5²) = √75 = 5√3 cm."
         },
         {
           "letter": "C",
-          "text": "95 metros",
+          "text": "10√3 cm",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 10√3 seria a altura se a geratriz fosse 20 cm."
         },
         {
           "letter": "D",
-          "text": "72 metros",
+          "text": "10 cm",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 10 é a geratriz."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "No cone equilátero, a secção meridiana é um triângulo equilátero, logo g = 2r = 10 cm e r = 5 cm. A altura é h = √(g² − r²) = √(100 − 25) = √75 = 5√3 cm.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle-v14",
+      "statement": "Um tetraedro regular tem todas as arestas medindo 6 cm. Sabendo que o volume de um tetraedro regular de aresta a é a³√2/12, qual é o volume desse tetraedro?",
+      "context": "Um estudante em Natal calcula o volume de um tetraedro regular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18√2 cm³",
+          "is_correct": true,
+          "feedback": "Correto: V = 6³√2/12 = 216√2/12 = 18√2 cm³."
+        },
+        {
+          "letter": "B",
+          "text": "36√2 cm³",
+          "is_correct": false,
+          "feedback": "Incorreto: 36√2 seria o volume se a aresta fosse 6√2."
+        },
+        {
+          "letter": "C",
+          "text": "12√2 cm³",
+          "is_correct": false,
+          "feedback": "Incorreto: 12√2 seria o volume se a aresta fosse √72."
+        },
+        {
+          "letter": "D",
+          "text": "54√2 cm³",
+          "is_correct": false,
+          "feedback": "Incorreto: 54√2 seria o volume se a aresta fosse 9."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 70 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 70 + 2 * 10 = 90 metros.",
+      "explanation": "Substituindo a = 6 na fórmula do volume do tetraedro regular: V = 6³√2/12 = 216√2/12 = 18√2 cm³.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "expected_success": 0.4,
-      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -638,43 +638,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v15",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 75 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle-v15",
+      "statement": "Dois cones são semelhantes, e a razão entre suas alturas é 2/3. Qual é a razão entre o volume do cone menor e o volume do cone maior?",
+      "context": "Um engenheiro em São José dos Campos analisa a razão entre volumes de cones semelhantes.",
       "options": [
         {
           "letter": "A",
-          "text": "95 metros",
+          "text": "8/27",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: a razão dos volumes é o cubo da razão linear: (2/3)³ = 8/27."
         },
         {
           "letter": "B",
-          "text": "75 metros",
+          "text": "4/9",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 4/9 é a razão entre as áreas das bases."
         },
         {
           "letter": "C",
-          "text": "100 metros",
+          "text": "2/3",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 2/3 é a razão linear."
         },
         {
           "letter": "D",
-          "text": "77 metros",
+          "text": "8/9",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 8/9 não corresponde a nenhuma razão derivada de 2/3."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 75 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 75 + 2 * 10 = 95 metros.",
+      "explanation": "Em sólidos semelhantes, a razão entre os volumes é o cubo da razão de semelhança: (2/3)³ = 8/27.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.37,
-      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -683,43 +683,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v16",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 80 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle-v16",
+      "statement": "O desenvolvimento da superfície lateral de um cone reto é um setor circular de raio 6 cm e ângulo central 120°. Qual é o raio da base do cone?",
+      "context": "Um professor em Vitória analisa a área lateral de um cone a partir do setor circular que o forma.",
       "options": [
         {
           "letter": "A",
-          "text": "100 metros",
+          "text": "2 cm",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: o comprimento do arco é (120/360) × 2π × 6 = 4π cm, igual a 2πr, logo r = 2 cm."
         },
         {
           "letter": "B",
-          "text": "80 metros",
+          "text": "3 cm",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 3 seria o raio se o ângulo fosse 180°."
         },
         {
           "letter": "C",
-          "text": "105 metros",
+          "text": "4 cm",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 4 seria o raio da base se o setor tivesse 240°."
         },
         {
           "letter": "D",
-          "text": "82 metros",
+          "text": "6 cm",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 6 é o raio do setor (a geratriz), não o raio da base."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 80 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 80 + 2 * 10 = 100 metros.",
+      "explanation": "O arco do setor circular é o comprimento da circunferência da base: (1/3) × 2π × 6 = 4π = 2πr, logo r = 2 cm.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.34,
-      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "expected_success": 0.35,
+      "bundle_id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -728,43 +728,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v17",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 85 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle-v17",
+      "statement": "Uma pirâmide regular tem base quadrada de lado 4 cm e as faces laterais são triângulos equiláteros. Qual é a área lateral da pirâmide?",
+      "context": "Um candidato ao ITA avalia a área lateral de uma pirâmide cujas faces são triângulos equiláteros.",
       "options": [
         {
           "letter": "A",
-          "text": "105 metros",
+          "text": "16√3 cm²",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: cada face equilátera de lado 4 tem área 4²√3/4 = 4√3 cm²; total = 4 × 4√3 = 16√3 cm²."
         },
         {
           "letter": "B",
-          "text": "85 metros",
+          "text": "8√3 cm²",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 8√3 seria a área de duas faces."
         },
         {
           "letter": "C",
-          "text": "110 metros",
+          "text": "32 cm²",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 32 seria a área lateral se as faces fossem quadradas."
         },
         {
           "letter": "D",
-          "text": "87 metros",
+          "text": "64 cm²",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 64 seria o dobro da área lateral correta."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 85 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 85 + 2 * 10 = 105 metros.",
-      "difficulty": "9",
+      "explanation": "A área de um triângulo equilátero de lado 4 é 4²√3/4 = 4√3 cm². Com 4 faces iguais, a área lateral é 4 × 4√3 = 16√3 cm².",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.28,
-      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "expected_success": 0.3,
+      "bundle_id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -773,43 +773,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v18",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 90 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle-v18",
+      "statement": "Um reservatório cônico invertido tem raio da base 3 m e altura 4 m. Quando o nível da água está a 2 m de altura (medida do vértice), qual fração do volume total do cone está ocupada?",
+      "context": "Um engenheiro em Belo Horizonte dimensiona um reservatório cônico invertido.",
       "options": [
         {
           "letter": "A",
-          "text": "110 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "1/2",
+          "is_correct": false,
+          "feedback": "Incorreto: o volume não varia linearmente com a altura."
         },
         {
           "letter": "B",
-          "text": "90 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "1/8",
+          "is_correct": true,
+          "feedback": "Correto: o cone de água é semelhante ao cone total com razão 2/4 = 1/2; o volume é (1/2)³ = 1/8 do total."
         },
         {
           "letter": "C",
-          "text": "115 metros",
+          "text": "1/4",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 1/4 seria a razão entre as áreas das seções."
         },
         {
           "letter": "D",
-          "text": "92 metros",
+          "text": "1/16",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 1/16 seria (1/2)⁴."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 90 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 90 + 2 * 10 = 110 metros.",
-      "difficulty": "9",
+      "correct_answer": "B",
+      "explanation": "O cone formado pela água é semelhante ao cone total, com razão linear 2/4 = 1/2. A razão entre os volumes é o cubo da razão linear: (1/2)³ = 1/8.",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.24,
-      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "expected_success": 0.25,
+      "bundle_id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -818,43 +818,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v19",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 95 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle-v19",
+      "statement": "Uma pirâmide regular tem base hexagonal de lado 2 cm e altura 4 cm. Sabendo que a área de um hexágono regular de lado 2 é 6√3 cm², qual é o volume da pirâmide?",
+      "context": "Em uma olimpíada de matemática, pede-se a análise de uma pirâmide regular de base hexagonal.",
       "options": [
         {
           "letter": "A",
-          "text": "115 metros",
+          "text": "8√3 cm³",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: V = (1/3) × 6√3 × 4 = 8√3 cm³."
         },
         {
           "letter": "B",
-          "text": "95 metros",
+          "text": "24√3 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 24√3 seria o volume do prisma de mesma base e altura."
         },
         {
           "letter": "C",
-          "text": "120 metros",
+          "text": "16√3 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 16√3 seria o dobro do volume correto."
         },
         {
           "letter": "D",
-          "text": "97 metros",
+          "text": "4√3 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 4√3 seria o volume se a altura fosse 2 cm."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 95 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 95 + 2 * 10 = 115 metros.",
+      "explanation": "O volume da pirâmide é V = (1/3) × área da base × altura = (1/3) × 6√3 × 4 = 8√3 cm³.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
       "expected_success": 0.2,
-      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -863,43 +863,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v20",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 100 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle-v20",
+      "statement": "Um cone reto tem área lateral igual ao dobro da área de sua base. Qual é a relação entre a geratriz g e o raio r?",
+      "context": "Um pesquisador em Campinas avalia a relação entre a área lateral de um cone e a área de sua base.",
       "options": [
         {
           "letter": "A",
-          "text": "120 metros",
+          "text": "g = 2r",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: πrg = 2πr², logo g = 2r (o cone é equilátero)."
         },
         {
           "letter": "B",
-          "text": "100 metros",
+          "text": "g = r/2",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: g = r/2 faria a área lateral ser metade da base."
         },
         {
           "letter": "C",
-          "text": "125 metros",
+          "text": "g = √2·r",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: √2·r faria a área lateral ser √2 vezes a base."
         },
         {
           "letter": "D",
-          "text": "102 metros",
+          "text": "g = 4r",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: g = 4r faria a área lateral ser 4 vezes a base."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 100 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 100 + 2 * 10 = 120 metros.",
+      "explanation": "Igualando a área lateral ao dobro da área da base: πrg = 2πr². Cancelando πr, obtemos g = 2r.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.16,
-      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "expected_success": 0.2,
+      "bundle_id": "BR-MAT-11-2026-W15-piramides-cones-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
       "cefr_level": null,

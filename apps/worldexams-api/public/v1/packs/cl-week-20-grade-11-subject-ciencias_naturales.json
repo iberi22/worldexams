@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "cl",
+    "pack_id": "cl-week-20-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T04:04:54.092Z"
+  },
+  "questions": [
+    {
+      "id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle-v1",
+      "statement": "Durante la regulación del equilibrio interno (homeostasis) en Viña del Mar, ¿cuál es el papel fisiológico de centro termorregulador hipotalámico?",
+      "context": "Catalina analiza situaciones académicas en Viña del Mar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El hipotálamo integra información térmica y coordina la sudoración y vasomoción.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El hipotálamo integra información térmica y coordina la sudoración y vasomoción."
+        },
+        {
+          "letter": "B",
+          "text": "Destruir los gradientes iónicos celulares de forma irreversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a una respuesta fisiológica homeostática."
+        },
+        {
+          "letter": "C",
+          "text": "Inactivar la síntesis de ATP en el tejido nervioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP."
+        },
+        {
+          "letter": "D",
+          "text": "Bloquear la secreción de todas las glándulas endocrinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Centro termorregulador hipotalámico: El hipotálamo integra información térmica y coordina la sudoración y vasomoción.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle-v2",
+      "statement": "Durante la regulación del equilibrio interno (homeostasis) en Iquique, ¿cuál es el papel fisiológico de potencial de acción neuronal?",
+      "context": "Tomás analiza situaciones académicas en Iquique.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La despolarización ocurre por la entrada masiva de Na+ por canales dependientes de voltaje.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La despolarización ocurre por la entrada masiva de Na+ por canales dependientes de voltaje."
+        },
+        {
+          "letter": "B",
+          "text": "Destruir los gradientes iónicos celulares de forma irreversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a una respuesta fisiológica homeostática."
+        },
+        {
+          "letter": "C",
+          "text": "Inactivar la síntesis de ATP en el tejido nervioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP."
+        },
+        {
+          "letter": "D",
+          "text": "Bloquear la secreción de todas las glándulas endocrinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Potencial de acción neuronal: La despolarización ocurre por la entrada masiva de Na+ por canales dependientes de voltaje.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle-v3",
+      "statement": "Durante la regulación del equilibrio interno (homeostasis) en Rancagua, ¿cuál es el papel fisiológico de sinapsis química?",
+      "context": "Sebastián analiza situaciones académicas en Rancagua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La liberación de neurotransmisores a la hendidura sináptica transmite el impulso.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La liberación de neurotransmisores a la hendidura sináptica transmite el impulso."
+        },
+        {
+          "letter": "B",
+          "text": "Destruir los gradientes iónicos celulares de forma irreversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a una respuesta fisiológica homeostática."
+        },
+        {
+          "letter": "C",
+          "text": "Inactivar la síntesis de ATP en el tejido nervioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP."
+        },
+        {
+          "letter": "D",
+          "text": "Bloquear la secreción de todas las glándulas endocrinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sinapsis química: La liberación de neurotransmisores a la hendidura sináptica transmite el impulso.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle-v4",
+      "statement": "Durante la regulación del equilibrio interno (homeostasis) en Talca, ¿cuál es el papel fisiológico de arco reflejo medular?",
+      "context": "Catalina analiza situaciones académicas en Talca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vía involuntaria rápida: receptor, vía aferente, integración medular, vía eferente y efector.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Vía involuntaria rápida: receptor, vía aferente, integración medular, vía eferente y efector."
+        },
+        {
+          "letter": "B",
+          "text": "Destruir los gradientes iónicos celulares de forma irreversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a una respuesta fisiológica homeostática."
+        },
+        {
+          "letter": "C",
+          "text": "Inactivar la síntesis de ATP en el tejido nervioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP."
+        },
+        {
+          "letter": "D",
+          "text": "Bloquear la secreción de todas las glándulas endocrinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Arco reflejo medular: Vía involuntaria rápida: receptor, vía aferente, integración medular, vía eferente y efector.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle-v5",
+      "statement": "Durante la regulación del equilibrio interno (homeostasis) en Arica, ¿cuál es el papel fisiológico de sistema nervioso simpático?",
+      "context": "Tomás analiza situaciones académicas en Arica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Activa la respuesta de lucha o huida generando taquicardia y broncodilatación.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Activa la respuesta de lucha o huida generando taquicardia y broncodilatación."
+        },
+        {
+          "letter": "B",
+          "text": "Destruir los gradientes iónicos celulares de forma irreversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a una respuesta fisiológica homeostática."
+        },
+        {
+          "letter": "C",
+          "text": "Inactivar la síntesis de ATP en el tejido nervioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP."
+        },
+        {
+          "letter": "D",
+          "text": "Bloquear la secreción de todas las glándulas endocrinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sistema nervioso simpático: Activa la respuesta de lucha o huida generando taquicardia y broncodilatación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle-v6",
+      "statement": "Durante la regulación del equilibrio interno (homeostasis) en Puerto Montt, ¿cuál es el papel fisiológico de vaina de mielina?",
+      "context": "Sebastián analiza situaciones académicas en Puerto Montt.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aislante lipídico que permite la conducción saltatoria veloz en los nodos de Ranvier.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aislante lipídico que permite la conducción saltatoria veloz en los nodos de Ranvier."
+        },
+        {
+          "letter": "B",
+          "text": "Destruir los gradientes iónicos celulares de forma irreversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a una respuesta fisiológica homeostática."
+        },
+        {
+          "letter": "C",
+          "text": "Inactivar la síntesis de ATP en el tejido nervioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP."
+        },
+        {
+          "letter": "D",
+          "text": "Bloquear la secreción de todas las glándulas endocrinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Vaina de mielina: Aislante lipídico que permite la conducción saltatoria veloz en los nodos de Ranvier.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle-v7",
+      "statement": "Durante la regulación del equilibrio interno (homeostasis) en Chillán, ¿cuál es el papel fisiológico de regulación pancreática de glicemia?",
+      "context": "Catalina analiza situaciones académicas en Chillán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La insulina disminuye la glicemia y el glucagón estimula la glucogenólisis para elevarla.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La insulina disminuye la glicemia y el glucagón estimula la glucogenólisis para elevarla."
+        },
+        {
+          "letter": "B",
+          "text": "Destruir los gradientes iónicos celulares de forma irreversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a una respuesta fisiológica homeostática."
+        },
+        {
+          "letter": "C",
+          "text": "Inactivar la síntesis de ATP en el tejido nervioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP."
+        },
+        {
+          "letter": "D",
+          "text": "Bloquear la secreción de todas las glándulas endocrinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Regulación pancreática de glicemia: La insulina disminuye la glicemia y el glucagón estimula la glucogenólisis para elevarla.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle-v8",
+      "statement": "Durante la regulación del equilibrio interno (homeostasis) en Calama, ¿cuál es el papel fisiológico de hormona antidiurética (adh)?",
+      "context": "Tomás analiza situaciones académicas en Calama.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta la reabsorción hídrica en los túbulos colectores de la nefrona renal.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aumenta la reabsorción hídrica en los túbulos colectores de la nefrona renal."
+        },
+        {
+          "letter": "B",
+          "text": "Destruir los gradientes iónicos celulares de forma irreversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a una respuesta fisiológica homeostática."
+        },
+        {
+          "letter": "C",
+          "text": "Inactivar la síntesis de ATP en el tejido nervioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP."
+        },
+        {
+          "letter": "D",
+          "text": "Bloquear la secreción de todas las glándulas endocrinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Hormona antidiurética (ADH): Aumenta la reabsorción hídrica en los túbulos colectores de la nefrona renal.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle-v9",
+      "statement": "Durante la regulación del equilibrio interno (homeostasis) en Valdivia, ¿cuál es el papel fisiológico de sinapsis inhibitoria (ppsi)?",
+      "context": "Sebastián analiza situaciones académicas en Valdivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Provoca hiperpolarización postsináptica por apertura de canales de Cl- o K+.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Provoca hiperpolarización postsináptica por apertura de canales de Cl- o K+."
+        },
+        {
+          "letter": "B",
+          "text": "Destruir los gradientes iónicos celulares de forma irreversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a una respuesta fisiológica homeostática."
+        },
+        {
+          "letter": "C",
+          "text": "Inactivar la síntesis de ATP en el tejido nervioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP."
+        },
+        {
+          "letter": "D",
+          "text": "Bloquear la secreción de todas las glándulas endocrinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sinapsis inhibitoria (PPSI): Provoca hiperpolarización postsináptica por apertura de canales de Cl- o K+.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.66,
+      "bundle_id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle-v10",
+      "statement": "Durante la regulación del equilibrio interno (homeostasis) en Santiago, ¿cuál es el papel fisiológico de mecanorreceptores?",
+      "context": "Catalina analiza situaciones académicas en Santiago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Receptores sensoriales que detectan deformación física, presión o vibración mecánica.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Receptores sensoriales que detectan deformación física, presión o vibración mecánica."
+        },
+        {
+          "letter": "B",
+          "text": "Destruir los gradientes iónicos celulares de forma irreversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a una respuesta fisiológica homeostática."
+        },
+        {
+          "letter": "C",
+          "text": "Inactivar la síntesis de ATP en el tejido nervioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP."
+        },
+        {
+          "letter": "D",
+          "text": "Bloquear la secreción de todas las glándulas endocrinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mecanorreceptores: Receptores sensoriales que detectan deformación física, presión o vibración mecánica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.64,
+      "bundle_id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle-v11",
+      "statement": "Durante la regulación del equilibrio interno (homeostasis) en Valparaíso, ¿cuál es el papel fisiológico de centro termorregulador hipotalámico?",
+      "context": "Tomás analiza situaciones académicas en Valparaíso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El hipotálamo integra información térmica y coordina la sudoración y vasomoción.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El hipotálamo integra información térmica y coordina la sudoración y vasomoción."
+        },
+        {
+          "letter": "B",
+          "text": "Destruir los gradientes iónicos celulares de forma irreversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a una respuesta fisiológica homeostática."
+        },
+        {
+          "letter": "C",
+          "text": "Inactivar la síntesis de ATP en el tejido nervioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP."
+        },
+        {
+          "letter": "D",
+          "text": "Bloquear la secreción de todas las glándulas endocrinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Centro termorregulador hipotalámico: El hipotálamo integra información térmica y coordina la sudoración y vasomoción.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle-v12",
+      "statement": "Durante la regulación del equilibrio interno (homeostasis) en Concepción, ¿cuál es el papel fisiológico de potencial de acción neuronal?",
+      "context": "Sebastián analiza situaciones académicas en Concepción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La despolarización ocurre por la entrada masiva de Na+ por canales dependientes de voltaje.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La despolarización ocurre por la entrada masiva de Na+ por canales dependientes de voltaje."
+        },
+        {
+          "letter": "B",
+          "text": "Destruir los gradientes iónicos celulares de forma irreversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a una respuesta fisiológica homeostática."
+        },
+        {
+          "letter": "C",
+          "text": "Inactivar la síntesis de ATP en el tejido nervioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP."
+        },
+        {
+          "letter": "D",
+          "text": "Bloquear la secreción de todas las glándulas endocrinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Potencial de acción neuronal: La despolarización ocurre por la entrada masiva de Na+ por canales dependientes de voltaje.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.56,
+      "bundle_id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle-v13",
+      "statement": "Durante la regulación del equilibrio interno (homeostasis) en Antofagasta, ¿cuál es el papel fisiológico de sinapsis química?",
+      "context": "Catalina analiza situaciones académicas en Antofagasta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La liberación de neurotransmisores a la hendidura sináptica transmite el impulso.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La liberación de neurotransmisores a la hendidura sináptica transmite el impulso."
+        },
+        {
+          "letter": "B",
+          "text": "Destruir los gradientes iónicos celulares de forma irreversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a una respuesta fisiológica homeostática."
+        },
+        {
+          "letter": "C",
+          "text": "Inactivar la síntesis de ATP en el tejido nervioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP."
+        },
+        {
+          "letter": "D",
+          "text": "Bloquear la secreción de todas las glándulas endocrinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sinapsis química: La liberación de neurotransmisores a la hendidura sináptica transmite el impulso.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.54,
+      "bundle_id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle-v14",
+      "statement": "Durante la regulación del equilibrio interno (homeostasis) en Temuco, ¿cuál es el papel fisiológico de arco reflejo medular?",
+      "context": "Tomás analiza situaciones académicas en Temuco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vía involuntaria rápida: receptor, vía aferente, integración medular, vía eferente y efector.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Vía involuntaria rápida: receptor, vía aferente, integración medular, vía eferente y efector."
+        },
+        {
+          "letter": "B",
+          "text": "Destruir los gradientes iónicos celulares de forma irreversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a una respuesta fisiológica homeostática."
+        },
+        {
+          "letter": "C",
+          "text": "Inactivar la síntesis de ATP en el tejido nervioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP."
+        },
+        {
+          "letter": "D",
+          "text": "Bloquear la secreción de todas las glándulas endocrinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Arco reflejo medular: Vía involuntaria rápida: receptor, vía aferente, integración medular, vía eferente y efector.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle-v15",
+      "statement": "Durante la regulación del equilibrio interno (homeostasis) en La Serena, ¿cuál es el papel fisiológico de sistema nervioso simpático?",
+      "context": "Sebastián analiza situaciones académicas en La Serena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Activa la respuesta de lucha o huida generando taquicardia y broncodilatación.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Activa la respuesta de lucha o huida generando taquicardia y broncodilatación."
+        },
+        {
+          "letter": "B",
+          "text": "Destruir los gradientes iónicos celulares de forma irreversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a una respuesta fisiológica homeostática."
+        },
+        {
+          "letter": "C",
+          "text": "Inactivar la síntesis de ATP en el tejido nervioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP."
+        },
+        {
+          "letter": "D",
+          "text": "Bloquear la secreción de todas las glándulas endocrinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sistema nervioso simpático: Activa la respuesta de lucha o huida generando taquicardia y broncodilatación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle-v16",
+      "statement": "Durante la regulación del equilibrio interno (homeostasis) en Viña del Mar, ¿cuál es el papel fisiológico de vaina de mielina?",
+      "context": "Catalina analiza situaciones académicas en Viña del Mar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aislante lipídico que permite la conducción saltatoria veloz en los nodos de Ranvier.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aislante lipídico que permite la conducción saltatoria veloz en los nodos de Ranvier."
+        },
+        {
+          "letter": "B",
+          "text": "Destruir los gradientes iónicos celulares de forma irreversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a una respuesta fisiológica homeostática."
+        },
+        {
+          "letter": "C",
+          "text": "Inactivar la síntesis de ATP en el tejido nervioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP."
+        },
+        {
+          "letter": "D",
+          "text": "Bloquear la secreción de todas las glándulas endocrinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Vaina de mielina: Aislante lipídico que permite la conducción saltatoria veloz en los nodos de Ranvier.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle-v17",
+      "statement": "Durante la regulación del equilibrio interno (homeostasis) en Iquique, ¿cuál es el papel fisiológico de regulación pancreática de glicemia?",
+      "context": "Tomás analiza situaciones académicas en Iquique.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La insulina disminuye la glicemia y el glucagón estimula la glucogenólisis para elevarla.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La insulina disminuye la glicemia y el glucagón estimula la glucogenólisis para elevarla."
+        },
+        {
+          "letter": "B",
+          "text": "Destruir los gradientes iónicos celulares de forma irreversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a una respuesta fisiológica homeostática."
+        },
+        {
+          "letter": "C",
+          "text": "Inactivar la síntesis de ATP en el tejido nervioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP."
+        },
+        {
+          "letter": "D",
+          "text": "Bloquear la secreción de todas las glándulas endocrinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Regulación pancreática de glicemia: La insulina disminuye la glicemia y el glucagón estimula la glucogenólisis para elevarla.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle-v18",
+      "statement": "Durante la regulación del equilibrio interno (homeostasis) en Rancagua, ¿cuál es el papel fisiológico de hormona antidiurética (adh)?",
+      "context": "Sebastián analiza situaciones académicas en Rancagua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta la reabsorción hídrica en los túbulos colectores de la nefrona renal.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aumenta la reabsorción hídrica en los túbulos colectores de la nefrona renal."
+        },
+        {
+          "letter": "B",
+          "text": "Destruir los gradientes iónicos celulares de forma irreversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a una respuesta fisiológica homeostática."
+        },
+        {
+          "letter": "C",
+          "text": "Inactivar la síntesis de ATP en el tejido nervioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP."
+        },
+        {
+          "letter": "D",
+          "text": "Bloquear la secreción de todas las glándulas endocrinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Hormona antidiurética (ADH): Aumenta la reabsorción hídrica en los túbulos colectores de la nefrona renal.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle-v19",
+      "statement": "Durante la regulación del equilibrio interno (homeostasis) en Talca, ¿cuál es el papel fisiológico de sinapsis inhibitoria (ppsi)?",
+      "context": "Catalina analiza situaciones académicas en Talca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Provoca hiperpolarización postsináptica por apertura de canales de Cl- o K+.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Provoca hiperpolarización postsináptica por apertura de canales de Cl- o K+."
+        },
+        {
+          "letter": "B",
+          "text": "Destruir los gradientes iónicos celulares de forma irreversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a una respuesta fisiológica homeostática."
+        },
+        {
+          "letter": "C",
+          "text": "Inactivar la síntesis de ATP en el tejido nervioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP."
+        },
+        {
+          "letter": "D",
+          "text": "Bloquear la secreción de todas las glándulas endocrinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sinapsis inhibitoria (PPSI): Provoca hiperpolarización postsináptica por apertura de canales de Cl- o K+.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.29,
+      "bundle_id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle-v20",
+      "statement": "Durante la regulación del equilibrio interno (homeostasis) en Arica, ¿cuál es el papel fisiológico de mecanorreceptores?",
+      "context": "Tomás analiza situaciones académicas en Arica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Receptores sensoriales que detectan deformación física, presión o vibración mecánica.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Receptores sensoriales que detectan deformación física, presión o vibración mecánica."
+        },
+        {
+          "letter": "B",
+          "text": "Destruir los gradientes iónicos celulares de forma irreversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a una respuesta fisiológica homeostática."
+        },
+        {
+          "letter": "C",
+          "text": "Inactivar la síntesis de ATP en el tejido nervioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP."
+        },
+        {
+          "letter": "D",
+          "text": "Bloquear la secreción de todas las glándulas endocrinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mecanorreceptores: Receptores sensoriales que detectan deformación física, presión o vibración mecánica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.26,
+      "bundle_id": "CL-CIE-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

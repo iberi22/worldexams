@@ -906,6 +906,906 @@
       "subject": "lectura-critica",
       "grade": 11,
       "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes características es propia de un texto científico?",
+      "context": "María, de la Ciudad de México, lee en su clase de metodología un artículo científico sobre la calidad del aire.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usar lenguaje figurado para emocionar al lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el lenguaje figurado es propio de la literatura; el texto científico busca precisión."
+        },
+        {
+          "letter": "B",
+          "text": "Emplear un lenguaje objetivo, preciso y verificable.",
+          "is_correct": true,
+          "feedback": "Correcto: la objetividad, la precisión conceptual y la verificabilidad son rasgos centrales del discurso científico."
+        },
+        {
+          "letter": "C",
+          "text": "Defender una opinión personal sin evidencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la opinión sin evidencia contradice el método científico."
+        },
+        {
+          "letter": "D",
+          "text": "Ocultar el método usado para sorprender al lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el texto científico debe explicar su método para que otros puedan replicarlo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El discurso científico se caracteriza por la objetividad, la precisión y la verificabilidad: las afirmaciones deben poder comprobarse y el método debe describirse. Rasgos como la emoción, la opinión sin sustento o el ocultamiento del procedimiento corresponden a otros tipos de discurso.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la función del resumen en un artículo científico?",
+      "context": "Luis, de Guadalajara, revisa la primera página de un artículo de investigación y encuentra el resumen (abstract).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decorar la primera página con texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el resumen tiene una función informativa, no decorativa."
+        },
+        {
+          "letter": "B",
+          "text": "Sintetizar los aspectos esenciales del estudio: problema, método y resultados.",
+          "is_correct": true,
+          "feedback": "Correcto: el resumen permite al lector conocer lo esencial del trabajo sin leerlo completo."
+        },
+        {
+          "letter": "C",
+          "text": "Ocultar los resultados para generar suspenso.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el resumen presenta los hallazgos, no los oculta."
+        },
+        {
+          "letter": "D",
+          "text": "Agradecer a las personas que financiaron la investigación.",
+          "is_correct": false,
+          "feedback": "Incorrecto: los agradecimientos son una sección aparte, no la función del resumen."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El resumen (abstract) condensa el contenido esencial de la investigación —problema, método, resultados y conclusiones— para que el lector decida si le conviene leer el texto completo. Es una puerta de entrada al artículo, no un adorno ni una sección de agradecimientos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el orden típico de las secciones de un artículo científico?",
+      "context": "Fernanda, de Puebla, recibe en su clase una guía sobre cómo se organiza un artículo científico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conclusiones, introducción, resultados, método.",
+          "is_correct": false,
+          "feedback": "Incorrecto: las conclusiones no van al inicio; el orden típico parte de la introducción."
+        },
+        {
+          "letter": "B",
+          "text": "Resultados, método, introducción, conclusiones.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la introducción precede al método y a los resultados."
+        },
+        {
+          "letter": "C",
+          "text": "Introducción, método, resultados, discusión y conclusiones.",
+          "is_correct": true,
+          "feedback": "Correcto: ese es el orden canónico (IMRyD) que sigue la lógica de la investigación."
+        },
+        {
+          "letter": "D",
+          "text": "Método, conclusiones, introducción, resultados.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la introducción debe presentar el problema antes del método."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La estructura IMRyD (Introducción, Método, Resultados y Discusión) organiza el artículo siguiendo la lógica de la investigación: primero se plantea el problema, luego se explica cómo se estudió, después se muestran los hallazgos y finalmente se interpretan y concluyen.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la función principal de las citas en un texto académico?",
+      "context": "Diego, de Monterrey, lee un ensayo académico y observa que el autor cita a otros investigadores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alargar el texto para que parezca más serio.",
+          "is_correct": false,
+          "feedback": "Incorrecto: citar no busca inflar la extensión."
+        },
+        {
+          "letter": "B",
+          "text": "Evitar tener que escribir ideas propias.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el texto académico combina voces ajenas con aportes propios del autor."
+        },
+        {
+          "letter": "C",
+          "text": "Reconocer las fuentes, respaldar afirmaciones y situar el trabajo dentro de la investigación existente.",
+          "is_correct": true,
+          "feedback": "Correcto: la cita da crédito, sustenta lo dicho y conecta con la comunidad académica."
+        },
+        {
+          "letter": "D",
+          "text": "Impedir que el lector consulte las fuentes originales.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la cita, al contrario, permite localizar y consultar la fuente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Citar cumple tres funciones: reconocer la autoría de las ideas ajenas (evitar el plagio), respaldar las afirmaciones propias con evidencia y ubicar la investigación dentro de un diálogo académico. La cita transparenta las fuentes y permite al lector rastrearlas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de las siguientes acciones constituye un plagio?",
+      "context": "Ximena, de Querétaro, prepara su monografía y su maestra le explica la diferencia entre parafrasear y plagiar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parafrasear una idea con palabras propias y citar la fuente.",
+          "is_correct": false,
+          "feedback": "Incorrecto: parafrasear citando la fuente es una práctica académica correcta."
+        },
+        {
+          "letter": "B",
+          "text": "Copiar un párrafo de otro autor y presentarlo como propio, sin citar.",
+          "is_correct": true,
+          "feedback": "Correcto: usar las palabras ajenas sin reconocer la autoría es plagio, una falta académica grave."
+        },
+        {
+          "letter": "C",
+          "text": "Resumir un capítulo indicando el autor y el año de publicación.",
+          "is_correct": false,
+          "feedback": "Incorrecto: resumir con referencia correcta es legítimo."
+        },
+        {
+          "letter": "D",
+          "text": "Citar textualmente entre comillas y con la referencia completa.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la cita textual bien señalada es válida académicamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El plagio consiste en presentar ideas, palabras o datos de otros como propios, sin reconocer la fuente. Parafrasear, resumir o citar son legítimos cuando se indica la procedencia. La honestidad académica exige distinguir siempre entre lo propio y lo ajeno.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.72,
+      "bundle_id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle-v6",
+      "statement": "¿Qué elemento del método científico se encuentra en esa oración?",
+      "context": "José, de Mérida, lee la introducción de un estudio sobre el agua potable que plantea: \"Si la infraestructura de captación se mantiene sin mantenimiento, la disponibilidad de agua disminuirá en la región durante la próxima década\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una conclusión definitiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la oración plantea una relación condicional por comprobar, no un resultado cerrado."
+        },
+        {
+          "letter": "B",
+          "text": "Una hipótesis: una afirmación comprobable sobre la relación entre dos variables.",
+          "is_correct": true,
+          "feedback": "Correcto: la oración propone que el mantenimiento (variable) afecta la disponibilidad de agua (variable), en forma de predicción comprobable."
+        },
+        {
+          "letter": "C",
+          "text": "Un dato estadístico.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no hay cifras; hay una predicción condicional."
+        },
+        {
+          "letter": "D",
+          "text": "Una cita bibliográfica.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no se remite a una fuente; se formula una conjetura de investigación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La hipótesis es una afirmación provisional y comprobable que establece una relación esperada entre variables. La oración condiciona la disponibilidad de agua al mantenimiento de la infraestructura: es exactamente una predicción que la investigación deberá confirmar o refutar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle-v7",
+      "statement": "¿En qué sección del artículo se encuentra esta información y qué función cumple?",
+      "context": "Carlos, de la Ciudad de México, lee un artículo sobre la contaminación del aire y encuentra una sección que describe cómo se tomaron las muestras, con qué instrumentos y en qué horarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En las conclusiones; sirve para resumir los hallazgos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: las conclusiones interpretan resultados; no describen procedimientos."
+        },
+        {
+          "letter": "B",
+          "text": "En el método; sirve para que otros investigadores puedan replicar el estudio.",
+          "is_correct": true,
+          "feedback": "Correcto: describir instrumentos y procedimientos permite repetir el experimento y verificar los resultados."
+        },
+        {
+          "letter": "C",
+          "text": "En la introducción; sirve para justificar el tema.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la introducción presenta el problema y los antecedentes, no el procedimiento."
+        },
+        {
+          "letter": "D",
+          "text": "En los resultados; sirve para mostrar las gráficas.",
+          "is_correct": false,
+          "feedback": "Incorrecto: los resultados presentan lo encontrado, no cómo se hizo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La sección de método detalla cómo se realizó la investigación: muestra, instrumentos, procedimientos y análisis. Su función es garantizar la replicabilidad, uno de los principios del método científico: solo si el procedimiento es transparente, otros pueden repetirlo y verificar los resultados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle-v8",
+      "statement": "¿Qué proceso describe esa situación?",
+      "context": "Guadalupe, de Guadalajara, investiga sobre los murciélagos y encuentra que un estudio fue revisado por especialistas anónimos antes de publicarse.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La edición de estilo del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la corrección de estilo es otra cosa; aquí se evalúa el contenido científico."
+        },
+        {
+          "letter": "B",
+          "text": "La revisión por pares (arbitraje): especialistas evalúan la calidad del estudio antes de su publicación.",
+          "is_correct": true,
+          "feedback": "Correcto: el arbitraje anónimo de expertos es el filtro de calidad de la ciencia publicada."
+        },
+        {
+          "letter": "C",
+          "text": "La censura gubernamental de la ciencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la revisión por pares evalúa rigor científico; no es una censura del Estado."
+        },
+        {
+          "letter": "D",
+          "text": "La divulgación del estudio en redes sociales.",
+          "is_correct": false,
+          "feedback": "Incorrecto: publicar en redes no implica evaluación de expertos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La revisión por pares (peer review) es el proceso en el que especialistas del mismo campo evalúan, de forma anónima, la calidad, validez y originalidad de un estudio antes de su publicación. Es un filtro de calidad que distingue a la literatura científica seria de las publicaciones sin control.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál de los dos textos tiene mayor carácter científico y por qué?",
+      "context": "Fernanda, de Tijuana, encuentra en internet dos textos: uno afirma que \"un suplemento elimina el 100% de las enfermedades\" y otro dice que \"los estudios no han demostrado un efecto superior al placebo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El primero, porque hace una promesa clara y contundente.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la contundencia de la promesa no es un criterio científico; las afirmaciones absolutas suelen ser señal de pseudociencia."
+        },
+        {
+          "letter": "B",
+          "text": "El segundo, porque se expresa con cautela, matiza y se apoya en evidencia contrastada.",
+          "is_correct": true,
+          "feedback": "Correcto: la ciencia evita afirmaciones absolutas y matiza sus conclusiones según la evidencia disponible."
+        },
+        {
+          "letter": "C",
+          "text": "El primero, porque es más fácil de entender.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la claridad no equivale a rigor científico."
+        },
+        {
+          "letter": "D",
+          "text": "El segundo, porque es más largo.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la extensión no determina el carácter científico de un texto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El discurso científico se caracteriza por la cautela: matiza afirmaciones, reconoce límites y se apoya en evidencia. Las promesas absolutas (\"elimina el 100%\") son típicas de la pseudociencia y la publicidad engañosa. Evaluar el carácter científico exige atender al tono, la evidencia y el matiz, no a la claridad o la extensión.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la función de la sección de conclusiones en ese artículo?",
+      "context": "Diego, de Oaxaca, lee el final de un artículo sobre las abejas nativas sin aguijón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar por primera vez los datos de la investigación.",
+          "is_correct": false,
+          "feedback": "Incorrecto: los datos se presentan en los resultados, no en las conclusiones."
+        },
+        {
+          "letter": "B",
+          "text": "Describir los instrumentos utilizados en el laboratorio.",
+          "is_correct": false,
+          "feedback": "Incorrecto: los instrumentos pertenecen a la sección de método."
+        },
+        {
+          "letter": "C",
+          "text": "Interpretar los resultados, responder la pregunta de investigación y señalar implicaciones.",
+          "is_correct": true,
+          "feedback": "Correcto: las conclusiones cierran el estudio: qué significan los hallazgos y qué implican."
+        },
+        {
+          "letter": "D",
+          "text": "Agradecer a los participantes del estudio.",
+          "is_correct": false,
+          "feedback": "Incorrecto: los agradecimientos son una sección aparte."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las conclusiones interpretan los resultados a la luz de la pregunta de investigación, explican su significado, reconocen limitaciones y proponen implicaciones o líneas futuras. Cierran el ciclo del artículo: del problema inicial a la respuesta final.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la fuente más confiable para una cita académica y por qué?",
+      "context": "Ximena, de la Ciudad de México, debe citar en su trabajo una afirmación sobre el cambio climático y encuentra tres fuentes posibles: un blog sin autor, una publicación de una universidad pública y un foro de comentarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El blog sin autor, porque es el más fácil de leer.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la facilidad de lectura no es un criterio de confiabilidad académica."
+        },
+        {
+          "letter": "B",
+          "text": "La publicación universitaria, porque tiene autoría institucional, revisión y respaldo académico.",
+          "is_correct": true,
+          "feedback": "Correcto: las instituciones académicas garantizan procesos de revisión y autoría identificable."
+        },
+        {
+          "letter": "C",
+          "text": "El foro de comentarios, porque reúne muchas opiniones.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la cantidad de opiniones no equivale a rigor científico."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres fuentes son igualmente confiables.",
+          "is_correct": false,
+          "feedback": "Incorrecto: difieren radicalmente en autoría, revisión y respaldo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar fuentes exige considerar la autoría, el respaldo institucional y los procesos de revisión. Una publicación universitaria ofrece autoría identificable y control de calidad; un blog anónimo o un foro carecen de esos filtros. La confiabilidad no depende de la facilidad de lectura ni de la cantidad de opiniones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle-v12",
+      "statement": "¿Qué debe hacer el lector para interpretar correctamente la gráfica?",
+      "context": "José, de Monterrey, analiza una gráfica de barras que compara el consumo de agua por habitante en cinco ciudades del país.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leer solo los títulos de las columnas más altas.",
+          "is_correct": false,
+          "feedback": "Incorrecto: seleccionar solo las columnas altas distorsiona la comparación."
+        },
+        {
+          "letter": "B",
+          "text": "Revisar los ejes, las unidades de medida y el título para comprender qué se compara.",
+          "is_correct": true,
+          "feedback": "Correcto: la interpretación exige leer los elementos de la gráfica: título, ejes y unidades."
+        },
+        {
+          "letter": "C",
+          "text": "Ignorar las unidades porque no son importantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto: sin unidades, los valores no significan nada."
+        },
+        {
+          "letter": "D",
+          "text": "Adivinar los valores por el tamaño de las barras.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la lectura visual aproximada no sustituye la información de los ejes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los textos discontinuos, como las gráficas, exigen una lectura específica: primero el título (qué se compara), luego los ejes (qué variables) y las unidades (en qué se mide). Interpretar sin esos elementos lleva a conclusiones erróneas. La gráfica es un lenguaje con reglas propias de lectura.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle-v13",
+      "statement": "¿Qué rasgo revela que este texto NO es científico?",
+      "context": "Fernanda, de Puebla, lee un texto que se presenta como científico y dice: \"como todo el mundo sabe, los alimentos orgánicos son siempre superiores y los científicos que dudan están comprados por la industria\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usa palabras en español.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el idioma no determina el carácter científico."
+        },
+        {
+          "letter": "B",
+          "text": "Recurre a generalizaciones absolutas (\"siempre\") y descalifica a quien disiente en lugar de aportar evidencia.",
+          "is_correct": true,
+          "feedback": "Correcto: la ciencia matiza y debate con evidencia; descalificar al oponente y generalizar sin datos es un rasgo pseudocientífico."
+        },
+        {
+          "letter": "C",
+          "text": "Menciona alimentos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el tema no define el rigor del texto."
+        },
+        {
+          "letter": "D",
+          "text": "Tiene un autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto: tener autor no garantiza cientificidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El texto pseudocientífico se reconoce por sus recursos: generalizaciones absolutas, apelación a la opinión común y descalificación del disenso en lugar de evidencia. La ciencia se caracteriza por la cautela, la matización y la disposición a revisar las afirmaciones ante nuevos datos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle-v14",
+      "statement": "¿Qué función cumple esa sección dentro del texto académico?",
+      "context": "Carlos, de Guadalajara, lee una tesis y encuentra una sección que resume lo que ya han investigado otros autores sobre su tema, organizado cronológicamente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar los resultados propios del autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto: los resultados propios aparecen en la sección de resultados."
+        },
+        {
+          "letter": "B",
+          "text": "Explicar el procedimiento experimental.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el procedimiento pertenece al método."
+        },
+        {
+          "letter": "C",
+          "text": "Situar la investigación en el contexto del conocimiento existente y justificar su pertinencia.",
+          "is_correct": true,
+          "feedback": "Correcto: el estado del arte muestra qué se sabe, qué falta y por qué este estudio aporta algo nuevo."
+        },
+        {
+          "letter": "D",
+          "text": "Agradecer a los autores citados.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el repaso de la literatura no es un agradecimiento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El marco teórico o estado del arte revisa la investigación previa para ubicar el estudio dentro del conocimiento acumulado, identificar vacíos y justificar la pertinencia del trabajo. Es la base que muestra por qué la nueva investigación es necesaria y qué aporta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle-v15",
+      "statement": "¿Qué problema presenta esta afirmación desde el punto de vista científico?",
+      "context": "Guadalupe, de la Ciudad de México, lee un artículo de divulgación que afirma: \"los mexicanos ya no leen nada\" y sustenta la afirmación solo con la experiencia del autor en su casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que es demasiado específica.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el problema es lo contrario: generaliza sin base."
+        },
+        {
+          "letter": "B",
+          "text": "Que generaliza sobre toda una población a partir de un caso aislado y sin datos.",
+          "is_correct": true,
+          "feedback": "Correcto: una experiencia personal no permite afirmar nada sobre \"los mexicanos\"; se requiere una muestra y un método."
+        },
+        {
+          "letter": "C",
+          "text": "Que usa un lenguaje muy técnico.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el lenguaje es coloquial; el problema es la falta de sustento empírico."
+        },
+        {
+          "letter": "D",
+          "text": "Que cita demasiadas fuentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no cita ninguna fuente; esa es justamente la falla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La generalización apresurada es una falacia: pasar de un caso particular a una afirmación universal sin evidencia. La ciencia exige muestras representativas y métodos explícitos para sostener afirmaciones sobre poblaciones. Un lector crítico debe detectar cuándo una conclusión excede los datos que la apoyan.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle-v16",
+      "statement": "¿Qué diferencia hay entre las dos fuentes?",
+      "context": "Ximena, de Mérida, investiga sobre el flamenco rosado: encuentra el informe original de un censo de aves y una nota de periódico que lo resume.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La nota de periódico es más confiable porque es más reciente.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la fecha no determina la jerarquía entre fuente primaria y secundaria."
+        },
+        {
+          "letter": "B",
+          "text": "El informe y la nota tienen exactamente el mismo valor.",
+          "is_correct": false,
+          "feedback": "Incorrecto: difieren en su relación con los datos originales."
+        },
+        {
+          "letter": "C",
+          "text": "El informe es una fuente primaria (datos originales) y la nota es una fuente secundaria que los interpreta o resume.",
+          "is_correct": true,
+          "feedback": "Correcto: la fuente primaria contiene la información original; la secundaria la difunde, resume o comenta."
+        },
+        {
+          "letter": "D",
+          "text": "La nota es primaria porque está escrita en periódico.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el medio de publicación no define la jerarquía; lo define la relación con los datos originales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las fuentes primarias contienen la información original (informes, datos, documentos); las secundarias la interpretan, resumen o difunden (notas, reseñas, manuales). Para verificar afirmaciones, conviene acudir a la fuente primaria; para conocer el contexto, las secundarias ayudan, pero siempre con conciencia de su mediación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál de las siguientes fuentes es la más adecuada para sustentar un trabajo académico?",
+      "context": "Diego, de Puebla, debe elegir la fuente principal para su trabajo de investigación sobre los manglares de Yucatán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una publicación en redes sociales sin firma.",
+          "is_correct": false,
+          "feedback": "Incorrecto: carece de autoría y de control de calidad."
+        },
+        {
+          "letter": "B",
+          "text": "Un artículo de una revista científica con revisión por pares, reciente y con referencias.",
+          "is_correct": true,
+          "feedback": "Correcto: la revista arbitrada garantiza calidad, actualidad y trazabilidad de las fuentes."
+        },
+        {
+          "letter": "C",
+          "text": "Un video de opinión de una persona famosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la fama no respalda el rigor científico."
+        },
+        {
+          "letter": "D",
+          "text": "Un foro de viajeros que visitaron la zona.",
+          "is_correct": false,
+          "feedback": "Incorrecto: las experiencias de viaje no son evidencia científica contrastada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Seleccionar fuentes académicas exige criterios: autoría identificable, revisión por pares, actualidad y referencias verificables. La revista científica arbitrada reúne esos criterios; las redes, los videos de opinión y los foros no pasan por filtros de calidad científica, por más populares que sean.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle-v18",
+      "statement": "¿Qué error de razonamiento contiene esa conclusión?",
+      "context": "Fernanda, de Monterrey, lee el resumen de un estudio que concluye: \"como la contaminación aumentó y también las enfermedades respiratorias, la contaminación causó las enfermedades\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un ejemplo correcto de método científico.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la conclusión confunde correlación con causalidad."
+        },
+        {
+          "letter": "B",
+          "text": "El error es usar demasiados datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el problema no es la cantidad de datos, sino la interpretación de su relación."
+        },
+        {
+          "letter": "C",
+          "text": "Confunde correlación con causalidad: que dos fenómenos aumenten juntos no prueba que uno cause al otro.",
+          "is_correct": true,
+          "feedback": "Correcto: la covariación no basta para establecer causa; harían falta controles y análisis de otras variables."
+        },
+        {
+          "letter": "D",
+          "text": "El error es no citar suficientes autores.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la falla es lógica, no de citación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Post hoc ergo propter hoc\" o confusión entre correlación y causalidad: dos variables que varían juntas no implican que una cause la otra. La ciencia exige controlar variables y descartar explicaciones alternativas antes de afirmar causalidad. Evaluar conclusiones implica revisar si los datos realmente las sustentan.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle-v19",
+      "statement": "¿La conclusión del estudio puede aplicarse a todo el estado?",
+      "context": "José, de Oaxaca, evalúa un estudio sobre el consumo de agua en su comunidad: la muestra fueron cinco familias de su misma calle.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque cinco familias son suficientes para cualquier conclusión.",
+          "is_correct": false,
+          "feedback": "Incorrecto: una muestra de cinco familias de una calle no representa a todo el estado."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque los datos fueron tomados en campo.",
+          "is_correct": false,
+          "feedback": "Incorrecto: estar en campo no garantiza representatividad."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque la muestra es pequeña y no representativa de la diversidad del estado.",
+          "is_correct": true,
+          "feedback": "Correcto: generalizar exige una muestra que refleje la variedad de la población estudiada."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque los datos son demasiado precisos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la precisión de los datos no resuelve el problema de representatividad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La validez externa de un estudio depende de la representatividad de su muestra. Una muestra pequeña y local (cinco familias de una calle) solo permite hablar de ese grupo; extender las conclusiones a todo el estado es una generalización indebida. Evaluar conclusiones exige revisar la relación entre muestra y población.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la decisión académicamente correcta y por qué?",
+      "context": "Carlos, de Guadalajara, termina su ensayo académico y encuentra que copió un párrafo de una fuente sin citarla; su compañero le sugiere cambiarlo por sus propias palabras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dejar el párrafo tal como está, porque nadie lo notará.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el plagio no deja de ser falta académica porque pase desapercibido."
+        },
+        {
+          "letter": "B",
+          "text": "Cambiar algunas palabras del párrafo sin citar la fuente.",
+          "is_correct": false,
+          "feedback": "Incorrecto: disfrazar el texto ajeno sigue siendo plagio si no se reconoce la procedencia."
+        },
+        {
+          "letter": "C",
+          "text": "Parafrasear la idea con palabras propias y citar la fuente de donde se tomó.",
+          "is_correct": true,
+          "feedback": "Correcto: el uso legítimo de ideas ajenas exige reformular y reconocer la autoría."
+        },
+        {
+          "letter": "D",
+          "text": "Firmar el párrafo como propio porque ya lo escribió en su computadora.",
+          "is_correct": false,
+          "feedback": "Incorrecto: escribirlo en su computadora no lo convierte en autor de la idea."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La honestidad académica exige distinguir lo propio de lo ajeno. Parafrasear con palabras propias y citar la fuente es el uso legítimo del conocimiento; copiar, incluso con cambios superficiales, sin reconocer la autoría, constituye plagio. La decisión correcta combina reformulación y referencia explícita.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.28,
+      "bundle_id": "MX-LC-11-2026-W20-textos-academicos-cientificos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
     }
   ]
 }

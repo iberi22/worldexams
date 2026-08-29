@@ -8,6 +8,906 @@
   },
   "questions": [
     {
+      "id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle-v1",
+      "statement": "¿A qué se refiere la palabra \"Ella\" en la segunda oración?",
+      "context": "María, de Guadalajara, lee un texto sobre la mariposa monarca: \"La mariposa monarca viaja miles de kilómetros. Ella llega cada año a los bosques de Michoacán\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A la mariposa monarca.",
+          "is_correct": true,
+          "feedback": "Correcto: \"Ella\" retoma al sustantivo femenino singular mencionado antes: la mariposa monarca."
+        },
+        {
+          "letter": "B",
+          "text": "A los bosques de Michoacán.",
+          "is_correct": false,
+          "feedback": "Incorrecto: los bosques son plurales y no se diría \"ella\" para referirse a ellos."
+        },
+        {
+          "letter": "C",
+          "text": "A los miles de kilómetros.",
+          "is_correct": false,
+          "feedback": "Incorrecto: los kilómetros son una medida, no un ser femenino singular al que \"Ella\" pueda retomar."
+        },
+        {
+          "letter": "D",
+          "text": "A María.",
+          "is_correct": false,
+          "feedback": "Incorrecto: María no aparece dentro del texto citado; el pronombre remite a un antecedente del propio texto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La anáfora es un mecanismo de cohesión: un pronombre (Ella) retoma un elemento mencionado antes (la mariposa monarca), evitando repetir el sustantivo y enlazando las dos oraciones. Para resolverla hay que buscar el antecedente femenino singular más cercano y compatible.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle-v2",
+      "statement": "¿Qué función cumple el conector \"sin embargo\" en esa oración?",
+      "context": "Luis, de Monterrey, lee un artículo sobre el transporte público: \"El camión llegó a tiempo; sin embargo, la fila avanzó muy lento\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sumar una idea a la anterior.",
+          "is_correct": false,
+          "feedback": "Incorrecto: sumar es función de conectores como \"además\" o \"también\", no de \"sin embargo\"."
+        },
+        {
+          "letter": "B",
+          "text": "Introducir una idea que contrasta o se opone a la anterior.",
+          "is_correct": true,
+          "feedback": "Correcto: \"sin embargo\" marca una oposición: a pesar de que el camión llegó a tiempo, la fila avanzó lento."
+        },
+        {
+          "letter": "C",
+          "text": "Explicar la causa de lo anterior.",
+          "is_correct": false,
+          "feedback": "Incorrecto: explicar la causa es función de \"porque\" o \"ya que\"."
+        },
+        {
+          "letter": "D",
+          "text": "Indicar el orden temporal de los hechos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el orden temporal se marca con \"primero\", \"después\", \"finalmente\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Sin embargo\" es un conector de contraste u oposición: une dos ideas en las que la segunda contradice o matiza lo esperado de la primera. Reconocer la función de los conectores permite seguir la lógica del texto y predecir la relación entre las oraciones.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle-v3",
+      "statement": "¿A quién se refiere la expresión \"Este último\"?",
+      "context": "Ximena, de Puebla, lee un texto sobre dos artistas mexicanos: \"Frida Kahlo y Diego Rivera fueron pareja. Este último es famoso por sus murales\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A Frida Kahlo.",
+          "is_correct": false,
+          "feedback": "Incorrecto: \"este último\" retoma al último elemento mencionado de la lista, que es Diego Rivera."
+        },
+        {
+          "letter": "B",
+          "text": "A Diego Rivera.",
+          "is_correct": true,
+          "feedback": "Correcto: al mencionar dos personas, \"este último\" remite a la segunda nombrada: Diego Rivera."
+        },
+        {
+          "letter": "C",
+          "text": "A los murales.",
+          "is_correct": false,
+          "feedback": "Incorrecto: los murales se mencionan después, como posesión de Rivera; no son el antecedente de \"este último\"."
+        },
+        {
+          "letter": "D",
+          "text": "A la pareja en general.",
+          "is_correct": false,
+          "feedback": "Incorrecto: \"este último\" selecciona a uno de los dos miembros, no al conjunto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Este último\" y \"el primero\" son expresiones deícticas que ordenan la referencia cuando se han mencionado dos o más elementos. En la secuencia \"Frida Kahlo y Diego Rivera\", \"este último\" designa al segundo: Diego Rivera. La cohesión se logra porque la expresión recupera el orden de mención.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle-v4",
+      "statement": "¿Qué relación lógica establece el conector \"por lo tanto\" entre las dos partes de la oración?",
+      "context": "Diego, de la Ciudad de México, lee una nota sobre el sargazo: \"El sargazo llegó a las playas de Cancún; por lo tanto, las labores de limpieza se intensificaron\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una relación de contraste.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el contraste se marca con \"sin embargo\" o \"no obstante\"."
+        },
+        {
+          "letter": "B",
+          "text": "Una relación de adición.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la adición se marca con \"además\" o \"y\"."
+        },
+        {
+          "letter": "C",
+          "text": "Una relación de consecuencia: la segunda parte es el resultado de la primera.",
+          "is_correct": true,
+          "feedback": "Correcto: \"por lo tanto\" presenta la segunda idea como consecuencia de la primera: si llegó el sargazo, se intensificó la limpieza."
+        },
+        {
+          "letter": "D",
+          "text": "Una relación de ejemplificación.",
+          "is_correct": false,
+          "feedback": "Incorrecto: ejemplificar se marca con \"por ejemplo\" o \"como\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Por lo tanto\" es un conector consecutivo: introduce la conclusión o el resultado que se deriva de lo dicho antes. La llegada del sargazo (causa) explica la intensificación de la limpieza (consecuencia). Identificar conectores consecutivos ayuda a reconstruir la línea argumentativa del texto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle-v5",
+      "statement": "¿Qué función cumple el conector \"además\" en esa oración?",
+      "context": "Fernanda, de Oaxaca, lee un texto sobre las lenguas originarias: \"El zapoteco se habla en varias regiones del estado; además, cuenta con distintas variantes\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Señalar una consecuencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la consecuencia se marca con \"por lo tanto\" o \"en consecuencia\"."
+        },
+        {
+          "letter": "B",
+          "text": "Introducir un contraste.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el contraste se marca con \"pero\" o \"sin embargo\"."
+        },
+        {
+          "letter": "C",
+          "text": "Agregar una información nueva sobre el mismo tema.",
+          "is_correct": true,
+          "feedback": "Correcto: \"además\" suma otra característica del zapoteco: sus variantes."
+        },
+        {
+          "letter": "D",
+          "text": "Indicar el orden de los hechos en el tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el orden temporal se marca con \"primero\", \"luego\", \"finalmente\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Además\" es un conector aditivo: incorpora información que se suma a lo ya dicho manteniendo la línea temática. La cohesión se construye acumulando datos sobre el mismo referente (el zapoteco), y el conector hace explícita esa suma para el lector.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.72,
+      "bundle_id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle-v6",
+      "statement": "En la segunda parte de la oración, ¿qué elemento se ha omitido y qué mecanismo de cohesión se emplea?",
+      "context": "José, de Mérida, lee un texto sobre hábitos de consumo: \"María prefiere el café; Luis, el té\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se omitió el conector \"pero\" para agilizar la lectura.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la elisión no es de conectores; la segunda parte conserva su relación con la primera sin necesidad de conector."
+        },
+        {
+          "letter": "B",
+          "text": "Se omitió el verbo \"prefiere\", que se sobreentiende; es un caso de elipsis.",
+          "is_correct": true,
+          "feedback": "Correcto: la elipsis suprime el verbo repetido (\"Luis prefiere el té\") porque el lector lo repone con facilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Se omitió el nombre \"María\" porque ya se mencionó antes.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el nombre de Luis sí aparece; lo elidido es el verbo, no el sujeto."
+        },
+        {
+          "letter": "D",
+          "text": "Se omitió la palabra \"café\" por repetición.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la palabra omitida es el verbo \"prefiere\", no el sustantivo \"café\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La elipsis consiste en suprimir elementos que el contexto permite reponer sin ambigüedad. En \"María prefiere el café; Luis, el té\" se omite el verbo \"prefiere\" en la segunda oración. Este mecanismo evita la repetición y mantiene la cohesión porque el lector reconstruye el sentido completo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle-v7",
+      "statement": "¿A qué se refiere la expresión \"Dicha medida\"?",
+      "context": "Carlos, de Tijuana, lee una nota sobre el programa de becas: \"El gobierno anunció un nuevo programa de becas para educación superior. Dicha medida busca reducir la deserción escolar\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al programa de becas anunciado en la oración anterior.",
+          "is_correct": true,
+          "feedback": "Correcto: \"dicha medida\" retoma el programa de becas y evita repetirlo, uniendo ambas oraciones."
+        },
+        {
+          "letter": "B",
+          "text": "A la deserción escolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la deserción es el problema que la medida busca reducir, no la medida misma."
+        },
+        {
+          "letter": "C",
+          "text": "A la educación superior.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la educación superior es el nivel al que se dirige el programa, no la medida."
+        },
+        {
+          "letter": "D",
+          "text": "Al anuncio del gobierno.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la medida es el programa en sí, no el acto de anunciarlo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Dicho\" (y sus variantes) es un mecanismo de cohesión referencial: retoma un elemento mencionado antes para continuar el discurso sin repetirlo. \"Dicha medida\" recupera \"el nuevo programa de becas\" y conecta la información nueva (reducir la deserción) con la ya presentada.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el orden correcto de las oraciones para formar un párrafo coherente?",
+      "context": "Guadalupe, de la Ciudad de México, debe ordenar las oraciones de un párrafo sobre el ajolote para que sea coherente: 1) \"Por eso su conservación es urgente\". 2) \"El ajolote habita los canales de Xochimilco\". 3) \"Su hábitat ha sido afectado por la contaminación\". 4) \"Este anfibio es endémico de México\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2, 1, 3, 4.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la oración 1 (\"por eso\") exige que la causa se mencione antes; en este orden la conclusión aparece sin sustento."
+        },
+        {
+          "letter": "B",
+          "text": "1, 4, 2, 3.",
+          "is_correct": false,
+          "feedback": "Incorrecto: empezar por la conclusión (\"por eso\") rompe la progresión lógica del párrafo."
+        },
+        {
+          "letter": "C",
+          "text": "4, 2, 3, 1.",
+          "is_correct": true,
+          "feedback": "Correcto: se presenta al animal, su hábitat, el problema y la conclusión: la secuencia avanza de lo general a lo específico y termina en la consecuencia."
+        },
+        {
+          "letter": "D",
+          "text": "3, 4, 2, 1.",
+          "is_correct": false,
+          "feedback": "Incorrecto: comenzar por el problema sin haber presentado al animal dificulta la comprensión de la referencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La coherencia exige ordenar la información de manera que cada oración se apoye en la anterior. El orden correcto presenta el tema (ajolote endémico), lo ubica (Xochimilco), señala el problema (contaminación) y cierra con la consecuencia (urgencia de conservación). El conector \"por eso\" de la oración 1 confirma que debe ir al final.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle-v9",
+      "statement": "¿Qué relación establece \"No obstante\" entre las dos oraciones?",
+      "context": "Fernanda, de Querétaro, lee un texto sobre la lectura: \"Leer desarrolla la empatía. No obstante, muchas personas abandonan los libros por falta de tiempo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La segunda explica las causas de la primera.",
+          "is_correct": false,
+          "feedback": "Incorrecto: explicar la causa es función de \"porque\" o \"ya que\"."
+        },
+        {
+          "letter": "B",
+          "text": "La segunda añade un ejemplo de la primera.",
+          "is_correct": false,
+          "feedback": "Incorrecto: añadir un ejemplo es función de \"por ejemplo\"."
+        },
+        {
+          "letter": "C",
+          "text": "La segunda presenta una objeción o un dato que contrasta con la primera.",
+          "is_correct": true,
+          "feedback": "Correcto: \"no obstante\" marca que, pese al beneficio de la lectura, hay un obstáculo: la falta de tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "La segunda describe el orden temporal en que ocurren los hechos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el orden temporal se marca con conectores como \"después\" o \"mientras\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"No obstante\" funciona igual que \"sin embargo\": introduce una idea que contrasta o matiza la anterior. El texto afirma un beneficio de la lectura y luego señala una limitación (la falta de tiempo). Reconocer conectores de contraste permite anticipar que la información siguiente pondrá un pero a lo dicho.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle-v10",
+      "statement": "¿Qué función cumple el conector \"en cambio\" en esa oración?",
+      "context": "Diego, de Morelia, lee un texto sobre dos estaciones del año: \"En el norte del país el invierno es seco; en cambio, en el sureste suele ser más húmedo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Señalar una consecuencia de lo dicho.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la consecuencia se marca con \"por lo tanto\"."
+        },
+        {
+          "letter": "B",
+          "text": "Contrastar dos situaciones diferentes.",
+          "is_correct": true,
+          "feedback": "Correcto: \"en cambio\" opone el clima del norte al del sureste."
+        },
+        {
+          "letter": "C",
+          "text": "Sumar una característica más.",
+          "is_correct": false,
+          "feedback": "Incorrecto: sumar es función de \"además\"; aquí hay oposición, no acumulación."
+        },
+        {
+          "letter": "D",
+          "text": "Introducir una conclusión general.",
+          "is_correct": false,
+          "feedback": "Incorrecto: concluir es función de \"en conclusión\" o \"finalmente\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"En cambio\" es un conector de contraste que opone dos situaciones referidas a ámbitos distintos: el invierno seco del norte frente al húmedo del sureste. A diferencia de \"sin embargo\", no presenta una objeción sino una alternativa paralela que se compara.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle-v11",
+      "statement": "¿Qué mecanismo de cohesión une el segundo párrafo con el primero?",
+      "context": "Ximena, de la Ciudad de México, analiza un texto sobre el agua: el primer párrafo habla de la escasez; el segundo empieza así: \"Este problema se agrava en las zonas urbanas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una elipsis del sujeto.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el sujeto (\"este problema\") está expreso; no hay supresión de elementos."
+        },
+        {
+          "letter": "B",
+          "text": "Una referencia anafórica: \"este problema\" retoma el tema de la escasez mencionado antes.",
+          "is_correct": true,
+          "feedback": "Correcto: la expresión demostrativa \"este problema\" recupera la escasez del párrafo anterior y la convierte en punto de partida."
+        },
+        {
+          "letter": "C",
+          "text": "Un conector temporal que ordena los hechos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: \"este problema\" no marca tiempo; retoma un referente del discurso."
+        },
+        {
+          "letter": "D",
+          "text": "Una sinonimia léxica entre dos palabras distintas.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no hay palabras equivalentes; hay un demostrativo que señala hacia atrás."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La cohesión entre párrafos suele lograrse con referencias anafóricas: \"este problema\" señala hacia atrás y recupera la escasez de agua, conectando el nuevo párrafo con el anterior. Este mecanismo evita repetir el tema completo y crea continuidad temática para el lector.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle-v12",
+      "statement": "¿Qué significa \"Lo\" en la segunda oración y qué función cumple en el texto?",
+      "context": "Luis, de Guadalajara, lee una crónica: \"El chef preparó el mole durante horas. Lo hizo con ingredientes de su pueblo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se refiere al chef y sirve para evitar repetir su nombre.",
+          "is_correct": false,
+          "feedback": "Incorrecto: \"lo\" es neutro y retoma la acción de preparar el mole, no a la persona."
+        },
+        {
+          "letter": "B",
+          "text": "Se refiere a la acción de preparar el mole y evita repetirla, uniendo ambas oraciones.",
+          "is_correct": true,
+          "feedback": "Correcto: \"lo hizo\" retoma la acción completa de preparar el mole; es una anáfora de predicado."
+        },
+        {
+          "letter": "C",
+          "text": "Se refiere a los ingredientes del pueblo.",
+          "is_correct": false,
+          "feedback": "Incorrecto: los ingredientes aparecen al final de la oración; \"lo\" remite a lo ya dicho, no a lo que sigue."
+        },
+        {
+          "letter": "D",
+          "text": "Es un artículo que acompaña al sustantivo \"hizo\".",
+          "is_correct": false,
+          "feedback": "Incorrecto: \"lo\" funciona aquí como pronombre que sustituye a una acción, no como artículo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Lo hizo\" es una anáfora de predicado: el pronombre \"lo\" sustituye la acción completa \"preparó el mole durante horas\". Este mecanismo evita la repetición del verbo y su complemento, y crea cohesión al enlazar la segunda oración con la información ya presentada.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál de los siguientes conectores puede sustituir a \"porque\" conservando el mismo significado de causa?",
+      "context": "María, de Puebla, debe reescribir una oración para evitar repetir la palabra \"porque\": \"Los alumnos llegaron tarde porque el camión se descompuso\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sin embargo.",
+          "is_correct": false,
+          "feedback": "Incorrecto: \"sin embargo\" marca contraste, no causa."
+        },
+        {
+          "letter": "B",
+          "text": "Además.",
+          "is_correct": false,
+          "feedback": "Incorrecto: \"además\" suma información, no explica la causa."
+        },
+        {
+          "letter": "C",
+          "text": "Ya que.",
+          "is_correct": true,
+          "feedback": "Correcto: \"ya que\" introduce la causa igual que \"porque\": la descompostura explica la tardanza."
+        },
+        {
+          "letter": "D",
+          "text": "Por lo tanto.",
+          "is_correct": false,
+          "feedback": "Incorrecto: \"por lo tanto\" marca consecuencia, la dirección opuesta a la causa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Porque\" y \"ya que\" son conectores causales: introducen la razón del hecho expresado en la oración principal. Sustituir conectores exige conservar la relación lógica original. \"Sin embargo\" (contraste), \"además\" (adición) y \"por lo tanto\" (consecuencia) cambiarían el sentido de la oración.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle-v14",
+      "statement": "¿Qué oración rompe la coherencia del párrafo?",
+      "context": "Fernanda, de Monterrey, revisa un párrafo de su ensayo sobre la basura electrónica: \"Los aparatos electrónicos contienen materiales tóxicos. El reciclaje formal es costoso. El sol brillaba sobre la ciudad. Muchos desechos terminan en tiraderos informales\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Los aparatos electrónicos contienen materiales tóxicos.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: esta oración introduce el tema y se relaciona con el problema de los desechos."
+        },
+        {
+          "letter": "B",
+          "text": "\"El reciclaje formal es costoso.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: esta oración aporta una causa que explica por qué los desechos terminan mal."
+        },
+        {
+          "letter": "C",
+          "text": "\"El sol brillaba sobre la ciudad.\"",
+          "is_correct": true,
+          "feedback": "Correcto: esta oración introduce un dato climático ajeno al tema de la basura electrónica y rompe la progresión temática."
+        },
+        {
+          "letter": "D",
+          "text": "\"Muchos desechos terminan en tiraderos informales.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: esta oración es la consecuencia lógica del problema planteado y cierra el párrafo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La coherencia exige que todas las oraciones desarrollen un mismo tema. La oración sobre el sol introduce información ajena al problema de la basura electrónica, cortando la progresión lógica (problema, causa, consecuencia). Detectar la oración que rompe la coherencia es clave para revisar y mejorar la redacción propia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle-v15",
+      "statement": "¿Qué función cumplen las expresiones \"Ellos\" y \"Estos productores\" en la secuencia?",
+      "context": "Diego, de la Ciudad de México, analiza un texto sobre el maíz: \"Los agricultores siembran variedades nativas. Ellos conservan semillas de generación en generación. Estos productores defienden su territorio\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Introducir personajes nuevos en cada oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto: ninguna de las expresiones introduce a alguien nuevo; todas retoman al mismo grupo."
+        },
+        {
+          "letter": "B",
+          "text": "Distinguir tres grupos distintos de personas.",
+          "is_correct": false,
+          "feedback": "Incorrecto: las tres expresiones remiten al mismo referente: los agricultores."
+        },
+        {
+          "letter": "C",
+          "text": "Formar una cadena referencial que nombra al mismo grupo con distintas expresiones para evitar repeticiones.",
+          "is_correct": true,
+          "feedback": "Correcto: \"los agricultores\", \"ellos\" y \"estos productores\" forman una cadena referencial que mantiene el tema sin repetir la misma palabra."
+        },
+        {
+          "letter": "D",
+          "text": "Señalar un cambio de tema entre las oraciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el tema permanece; la variación de expresiones no cambia el asunto del texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una cadena referencial es una serie de expresiones que designan al mismo referente a lo largo del texto: sustantivo inicial, pronombres y sinónimos o paráfrasis. \"Ellos\" y \"estos productores\" retoman a los agricultores, dando cohesión y continuidad temática sin repeticiones monótonas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle-v16",
+      "statement": "¿Qué función cumple el conector \"Asimismo\" al inicio de la segunda oración?",
+      "context": "Ximena, de Oaxaca, lee un texto sobre las bibliotecas: \"La biblioteca ofrece talleres de lectura. Asimismo, organiza clubes de debate y exposiciones\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Marcar una oposición entre las actividades.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la oposición se marca con \"sin embargo\" o \"en cambio\"."
+        },
+        {
+          "letter": "B",
+          "text": "Señalar una consecuencia de los talleres.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la consecuencia se marca con \"por lo tanto\"."
+        },
+        {
+          "letter": "C",
+          "text": "Agregar actividades similares a las ya mencionadas, en el mismo nivel de importancia.",
+          "is_correct": true,
+          "feedback": "Correcto: \"asimismo\" suma información del mismo tipo: talleres, clubes y exposiciones son actividades de la biblioteca."
+        },
+        {
+          "letter": "D",
+          "text": "Indicar que la segunda oración ocurre después en el tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto: \"asimismo\" no marca tiempo; ordenar en el tiempo es función de \"luego\" o \"después\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Asimismo\" es un conector aditivo de registro formal: incorpora información que se suma a lo anterior sin cambiar de nivel. Aquí enlaza las actividades de la biblioteca en una lista cohesionada. Reconocer conectores aditivos permite seguir enumeraciones y acumulaciones de datos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál de las siguientes opciones une ambas oraciones con la relación lógica correcta y mejor cohesión?",
+      "context": "José, de Mérida, debe unir dos oraciones de su informe: \"El manglar protege la costa\". \"Su destrucción aumenta el riesgo de inundaciones\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El manglar protege la costa, además su destrucción aumenta el riesgo de inundaciones.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: \"además\" suma ideas equivalentes, pero aquí hay una relación de consecuencia entre destrucción y riesgo."
+        },
+        {
+          "letter": "B",
+          "text": "\"El manglar protege la costa, sin embargo su destrucción aumenta el riesgo de inundaciones.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: \"sin embargo\" marca contraste, pero lo que une ambas ideas es la causa-consecuencia."
+        },
+        {
+          "letter": "C",
+          "text": "\"El manglar protege la costa, por eso su destrucción aumenta el riesgo de inundaciones.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: \"por eso\" haría de la protección la causa del riesgo, invirtiendo la relación lógica."
+        },
+        {
+          "letter": "D",
+          "text": "\"Como el manglar protege la costa, su destrucción aumenta el riesgo de inundaciones.\"",
+          "is_correct": true,
+          "feedback": "Correcto: \"como\" introduce la causa (la función protectora) y la consecuencia (el riesgo) queda claramente vinculada."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Unir oraciones exige elegir el conector que respete la relación lógica. La función protectora del manglar explica por qué su destrucción eleva el riesgo: es una relación causal. \"Como\" introduce la causa y ordena la secuencia con cohesión; los demás conectores distorsionan la relación entre las ideas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle-v18",
+      "statement": "¿Qué problema de cohesión presenta el fragmento?",
+      "context": "Guadalupe, de Puebla, revisa un texto sobre el transporte en su ciudad y encuentra este fragmento: \"Los ciudadanos pidieron más rutas. Ellos se quejaron del aumento de la tarifa. El alcalde prometió revisar el servicio. Ellos agradecieron la respuesta\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso de \"Ellos\" es correcto y no hay ningún problema.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el fragmento sí presenta un problema de referencia."
+        },
+        {
+          "letter": "B",
+          "text": "Falta un conector de causa en la primera oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el problema no es la ausencia de un conector causal al inicio."
+        },
+        {
+          "letter": "C",
+          "text": "El pronombre \"Ellos\" de la última oración es ambiguo: puede referirse a los ciudadanos o al alcalde.",
+          "is_correct": true,
+          "feedback": "Correcto: \"Ellos agradecieron\" admite dos lecturas, pues el antecedente más cercano es el alcalde, pero el lógico son los ciudadanos."
+        },
+        {
+          "letter": "D",
+          "text": "La palabra \"servicio\" debería repetirse en cada oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto: repetir innecesariamente no mejora la cohesión; el problema es la ambigüedad pronominal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La cohesión exige referencias inequívocas. Al mencionar dos participantes (ciudadanos y alcalde), el pronombre \"Ellos\" de la última oración resulta ambiguo: el antecedente gramatical más cercano es el alcalde, pero el sentido lógico apunta a los ciudadanos. La ambigüedad obliga al lector a adivinar y debe corregirse especificando el referente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál de las siguientes reescrituras mejora más la cohesión del párrafo?",
+      "context": "Fernanda, de Guadalajara, redacta un párrafo sobre el reciclaje y quiere mejorar su cohesión: \"El vidrio se recicla fácilmente. El vidrio se funde. El vidrio se reutiliza en nuevos envases\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El vidrio se recicla fácilmente. El vidrio se funde. El vidrio se reutiliza en nuevos envases.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: repetir \"el vidrio\" tres veces es monótono y no aprovecha los mecanismos de cohesión."
+        },
+        {
+          "letter": "B",
+          "text": "\"El vidrio se recicla fácilmente. El vidrio se funde, y luego el vidrio se reutiliza en nuevos envases.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: sigue repitiendo el sustantivo sin usar pronombres ni elipsis; la mejora es mínima."
+        },
+        {
+          "letter": "C",
+          "text": "\"El vidrio se recicla fácilmente: se funde y se reutiliza en nuevos envases.\"",
+          "is_correct": true,
+          "feedback": "Correcto: la elipsis del sujeto y el conector \"y\" unen las acciones en una secuencia fluida y sin repeticiones."
+        },
+        {
+          "letter": "D",
+          "text": "\"El vidrio se recicla fácilmente; sin embargo, se funde y se reutiliza en nuevos envases.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: \"sin embargo\" introduce un contraste inexistente entre las acciones, distorsionando la relación lógica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Mejorar la cohesión implica eliminar repeticiones innecesarias mediante elipsis, pronombres y conectores adecuados. La opción correcta suprime el sujeto repetido (la elipsis lo repone con facilidad) y une la secuencia de acciones con \"y\". \"Sin embargo\" sería un error porque no hay oposición entre las ideas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál de los siguientes conectores completa mejor la oración?",
+      "context": "Carlos, de Cancún, escribe un párrafo sobre el sargazo y debe elegir el conector que exprese la relación correcta: \"El sargazo desprende gases al descomponerse ____ afecta la calidad del aire en la costa\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En cambio.",
+          "is_correct": false,
+          "feedback": "Incorrecto: \"en cambio\" contrasta dos situaciones; aquí la segunda parte es consecuencia de la primera."
+        },
+        {
+          "letter": "B",
+          "text": "No obstante.",
+          "is_correct": false,
+          "feedback": "Incorrecto: \"no obstante\" introduce una objeción, no un resultado."
+        },
+        {
+          "letter": "C",
+          "text": "Además.",
+          "is_correct": false,
+          "feedback": "Incorrecto: \"además\" sumaría un dato independiente, pero aquí la afectación del aire se deriva de la descomposición."
+        },
+        {
+          "letter": "D",
+          "text": "Por lo que.",
+          "is_correct": true,
+          "feedback": "Correcto: \"por lo que\" introduce la consecuencia: la descomposición del sargazo produce gases y eso afecta la calidad del aire."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Elegir el conector adecuado exige identificar la relación lógica entre las ideas. La descomposición del sargazo (causa) produce la afectación de la calidad del aire (consecuencia). \"Por lo que\" expresa esa relación consecutiva con naturalidad; los conectores de contraste y adición cambiarían el sentido de la oración.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.28,
+      "bundle_id": "MX-LC-11-2026-W15-cohesion-textual-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
       "id": "MX-LC-11-2026-W15-tema-w15-001-v001",
       "statement": "¿Qué elemento o aspecto fundamental es central en el desarrollo del pasaje, según la información directa brindada?",
       "context": "**Pasaje:** *El realismo mágico y la herencia de Juan Rulfo*\n\nLa publicación de *Pedro Páramo* y *El llano en llamas* de Juan Rulfo redefinió para siempre el rumbo de la narrativa hispanoamericana, sentando las bases estéticas de lo que más tarde se conocería como realismo mágico. En las áridas llanuras de Jalisco, Rulfo sitúa un universo donde los vivos y los muertos coexisten sin fronteras precisas en el pueblo fantasmal de Comala. La genialidad de Rulfo radica en su prosa poética, despojada de adornos retóricos superfluos, que captura la desolación, el dolor y el desencanto postrevolucionario del campesinado mexicano. Su representación de la muerte no es un mero recurso gótico de terror, sino un reflejo profundo de la mitología popular mexicana, donde la frontera de la existencia es permeable y los murmullos de la memoria configuran la realidad cotidiana.",

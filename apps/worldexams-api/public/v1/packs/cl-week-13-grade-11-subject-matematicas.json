@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "cl",
+    "pack_id": "cl-week-13-grade-11-subject-matematicas",
+    "generated_at": "2026-08-29T04:04:54.126Z"
+  },
+  "questions": [
+    {
+      "id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v1",
+      "statement": "Un vector en $\\mathbb{R}^3$ está dado por $\\vec{v} = (1, 3, 5)$. ¿Cuál es la magnitud $|\\vec{v}|$?",
+      "context": "Javier analiza situaciones académicas en Valdivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{35}$ unidades",
+          "is_correct": true,
+          "feedback": "¡Correcto! |v| = sqrt(1^2 + 3^2 + 5^2) = sqrt(35)."
+        },
+        {
+          "letter": "B",
+          "text": "$9$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$35$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{47}$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(1^2 + 3^2 + 5^2) = sqrt(35) unidades.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v2",
+      "statement": "Un vector en $\\mathbb{R}^3$ está dado por $\\vec{v} = (2, 4, 6)$. ¿Cuál es la magnitud $|\\vec{v}|$?",
+      "context": "Valentina analiza situaciones académicas en Santiago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{56}$ unidades",
+          "is_correct": true,
+          "feedback": "¡Correcto! |v| = sqrt(2^2 + 4^2 + 6^2) = sqrt(56)."
+        },
+        {
+          "letter": "B",
+          "text": "$12$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$56$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{68}$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(2^2 + 4^2 + 6^2) = sqrt(56) unidades.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v3",
+      "statement": "Un vector en $\\mathbb{R}^3$ está dado por $\\vec{v} = (3, 5, 7)$. ¿Cuál es la magnitud $|\\vec{v}|$?",
+      "context": "Camila analiza situaciones académicas en Valparaíso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{83}$ unidades",
+          "is_correct": true,
+          "feedback": "¡Correcto! |v| = sqrt(3^2 + 5^2 + 7^2) = sqrt(83)."
+        },
+        {
+          "letter": "B",
+          "text": "$15$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$83$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{95}$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(3^2 + 5^2 + 7^2) = sqrt(83) unidades.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v4",
+      "statement": "Un vector en $\\mathbb{R}^3$ está dado por $\\vec{v} = (4, 6, 8)$. ¿Cuál es la magnitud $|\\vec{v}|$?",
+      "context": "Isidora analiza situaciones académicas en Concepción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{116}$ unidades",
+          "is_correct": true,
+          "feedback": "¡Correcto! |v| = sqrt(4^2 + 6^2 + 8^2) = sqrt(116)."
+        },
+        {
+          "letter": "B",
+          "text": "$18$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$116$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{128}$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(4^2 + 6^2 + 8^2) = sqrt(116) unidades.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v5",
+      "statement": "Un vector en $\\mathbb{R}^3$ está dado por $\\vec{v} = (5, 7, 9)$. ¿Cuál es la magnitud $|\\vec{v}|$?",
+      "context": "Catalina analiza situaciones académicas en Antofagasta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{155}$ unidades",
+          "is_correct": true,
+          "feedback": "¡Correcto! |v| = sqrt(5^2 + 7^2 + 9^2) = sqrt(155)."
+        },
+        {
+          "letter": "B",
+          "text": "$21$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$155$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{167}$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(5^2 + 7^2 + 9^2) = sqrt(155) unidades.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v6",
+      "statement": "Un vector en $\\mathbb{R}^3$ está dado por $\\vec{v} = (6, 8, 10)$. ¿Cuál es la magnitud $|\\vec{v}|$?",
+      "context": "Martina analiza situaciones académicas en Temuco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{200}$ unidades",
+          "is_correct": true,
+          "feedback": "¡Correcto! |v| = sqrt(6^2 + 8^2 + 10^2) = sqrt(200)."
+        },
+        {
+          "letter": "B",
+          "text": "$24$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$200$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{212}$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(6^2 + 8^2 + 10^2) = sqrt(200) unidades.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v7",
+      "statement": "Un vector en $\\mathbb{R}^3$ está dado por $\\vec{v} = (7, 9, 11)$. ¿Cuál es la magnitud $|\\vec{v}|$?",
+      "context": "Sofía analiza situaciones académicas en La Serena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{251}$ unidades",
+          "is_correct": true,
+          "feedback": "¡Correcto! |v| = sqrt(7^2 + 9^2 + 11^2) = sqrt(251)."
+        },
+        {
+          "letter": "B",
+          "text": "$27$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$251$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{263}$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(7^2 + 9^2 + 11^2) = sqrt(251) unidades.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v8",
+      "statement": "Un vector en $\\mathbb{R}^3$ está dado por $\\vec{v} = (8, 10, 12)$. ¿Cuál es la magnitud $|\\vec{v}|$?",
+      "context": "Fernanda analiza situaciones académicas en Viña del Mar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{308}$ unidades",
+          "is_correct": true,
+          "feedback": "¡Correcto! |v| = sqrt(8^2 + 10^2 + 12^2) = sqrt(308)."
+        },
+        {
+          "letter": "B",
+          "text": "$30$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$308$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{320}$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(8^2 + 10^2 + 12^2) = sqrt(308) unidades.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v9",
+      "statement": "Un vector en $\\mathbb{R}^3$ está dado por $\\vec{v} = (9, 11, 13)$. ¿Cuál es la magnitud $|\\vec{v}|$?",
+      "context": "Lucas analiza situaciones académicas en Iquique.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{371}$ unidades",
+          "is_correct": true,
+          "feedback": "¡Correcto! |v| = sqrt(9^2 + 11^2 + 13^2) = sqrt(371)."
+        },
+        {
+          "letter": "B",
+          "text": "$33$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$371$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{383}$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(9^2 + 11^2 + 13^2) = sqrt(371) unidades.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.66,
+      "bundle_id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v10",
+      "statement": "Un vector en $\\mathbb{R}^3$ está dado por $\\vec{v} = (10, 12, 14)$. ¿Cuál es la magnitud $|\\vec{v}|$?",
+      "context": "Tomás analiza situaciones académicas en Rancagua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{440}$ unidades",
+          "is_correct": true,
+          "feedback": "¡Correcto! |v| = sqrt(10^2 + 12^2 + 14^2) = sqrt(440)."
+        },
+        {
+          "letter": "B",
+          "text": "$36$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$440$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{452}$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(10^2 + 12^2 + 14^2) = sqrt(440) unidades.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.64,
+      "bundle_id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v11",
+      "statement": "Un vector en $\\mathbb{R}^3$ está dado por $\\vec{v} = (11, 13, 15)$. ¿Cuál es la magnitud $|\\vec{v}|$?",
+      "context": "Diego analiza situaciones académicas en Talca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{515}$ unidades",
+          "is_correct": true,
+          "feedback": "¡Correcto! |v| = sqrt(11^2 + 13^2 + 15^2) = sqrt(515)."
+        },
+        {
+          "letter": "B",
+          "text": "$39$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$515$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{527}$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(11^2 + 13^2 + 15^2) = sqrt(515) unidades.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v12",
+      "statement": "Un vector en $\\mathbb{R}^3$ está dado por $\\vec{v} = (12, 14, 16)$. ¿Cuál es la magnitud $|\\vec{v}|$?",
+      "context": "Matías analiza situaciones académicas en Arica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{596}$ unidades",
+          "is_correct": true,
+          "feedback": "¡Correcto! |v| = sqrt(12^2 + 14^2 + 16^2) = sqrt(596)."
+        },
+        {
+          "letter": "B",
+          "text": "$42$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$596$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{608}$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(12^2 + 14^2 + 16^2) = sqrt(596) unidades.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.56,
+      "bundle_id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v13",
+      "statement": "Un vector en $\\mathbb{R}^3$ está dado por $\\vec{v} = (13, 15, 17)$. ¿Cuál es la magnitud $|\\vec{v}|$?",
+      "context": "Vicente analiza situaciones académicas en Puerto Montt.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{683}$ unidades",
+          "is_correct": true,
+          "feedback": "¡Correcto! |v| = sqrt(13^2 + 15^2 + 17^2) = sqrt(683)."
+        },
+        {
+          "letter": "B",
+          "text": "$45$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$683$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{695}$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(13^2 + 15^2 + 17^2) = sqrt(683) unidades.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.54,
+      "bundle_id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v14",
+      "statement": "Un vector en $\\mathbb{R}^3$ está dado por $\\vec{v} = (14, 16, 18)$. ¿Cuál es la magnitud $|\\vec{v}|$?",
+      "context": "Benjamín analiza situaciones académicas en Chillán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{776}$ unidades",
+          "is_correct": true,
+          "feedback": "¡Correcto! |v| = sqrt(14^2 + 16^2 + 18^2) = sqrt(776)."
+        },
+        {
+          "letter": "B",
+          "text": "$48$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$776$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{788}$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(14^2 + 16^2 + 18^2) = sqrt(776) unidades.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v15",
+      "statement": "Un vector en $\\mathbb{R}^3$ está dado por $\\vec{v} = (15, 17, 19)$. ¿Cuál es la magnitud $|\\vec{v}|$?",
+      "context": "Sebastián analiza situaciones académicas en Calama.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{875}$ unidades",
+          "is_correct": true,
+          "feedback": "¡Correcto! |v| = sqrt(15^2 + 17^2 + 19^2) = sqrt(875)."
+        },
+        {
+          "letter": "B",
+          "text": "$51$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$875$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{887}$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(15^2 + 17^2 + 19^2) = sqrt(875) unidades.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v16",
+      "statement": "Un vector en $\\mathbb{R}^3$ está dado por $\\vec{v} = (16, 18, 20)$. ¿Cuál es la magnitud $|\\vec{v}|$?",
+      "context": "Javier analiza situaciones académicas en Valdivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{980}$ unidades",
+          "is_correct": true,
+          "feedback": "¡Correcto! |v| = sqrt(16^2 + 18^2 + 20^2) = sqrt(980)."
+        },
+        {
+          "letter": "B",
+          "text": "$54$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$980$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{992}$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(16^2 + 18^2 + 20^2) = sqrt(980) unidades.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v17",
+      "statement": "Un vector en $\\mathbb{R}^3$ está dado por $\\vec{v} = (17, 19, 21)$. ¿Cuál es la magnitud $|\\vec{v}|$?",
+      "context": "Valentina analiza situaciones académicas en Santiago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{1091}$ unidades",
+          "is_correct": true,
+          "feedback": "¡Correcto! |v| = sqrt(17^2 + 19^2 + 21^2) = sqrt(1091)."
+        },
+        {
+          "letter": "B",
+          "text": "$57$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$1091$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{1103}$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(17^2 + 19^2 + 21^2) = sqrt(1091) unidades.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v18",
+      "statement": "Un vector en $\\mathbb{R}^3$ está dado por $\\vec{v} = (18, 20, 22)$. ¿Cuál es la magnitud $|\\vec{v}|$?",
+      "context": "Camila analiza situaciones académicas en Valparaíso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{1208}$ unidades",
+          "is_correct": true,
+          "feedback": "¡Correcto! |v| = sqrt(18^2 + 20^2 + 22^2) = sqrt(1208)."
+        },
+        {
+          "letter": "B",
+          "text": "$60$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$1208$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{1220}$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(18^2 + 20^2 + 22^2) = sqrt(1208) unidades.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v19",
+      "statement": "Un vector en $\\mathbb{R}^3$ está dado por $\\vec{v} = (19, 21, 23)$. ¿Cuál es la magnitud $|\\vec{v}|$?",
+      "context": "Isidora analiza situaciones académicas en Concepción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{1331}$ unidades",
+          "is_correct": true,
+          "feedback": "¡Correcto! |v| = sqrt(19^2 + 21^2 + 23^2) = sqrt(1331)."
+        },
+        {
+          "letter": "B",
+          "text": "$63$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$1331$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{1343}$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(19^2 + 21^2 + 23^2) = sqrt(1331) unidades.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.29,
+      "bundle_id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v20",
+      "statement": "Un vector en $\\mathbb{R}^3$ está dado por $\\vec{v} = (20, 22, 24)$. ¿Cuál es la magnitud $|\\vec{v}|$?",
+      "context": "Catalina analiza situaciones académicas en Antofagasta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{1460}$ unidades",
+          "is_correct": true,
+          "feedback": "¡Correcto! |v| = sqrt(20^2 + 22^2 + 24^2) = sqrt(1460)."
+        },
+        {
+          "letter": "B",
+          "text": "$66$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$1460$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{1472}$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(20^2 + 22^2 + 24^2) = sqrt(1460) unidades.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.26,
+      "bundle_id": "CL-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

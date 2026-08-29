@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "mx",
+    "pack_id": "mx-week-7-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T04:04:54.342Z"
+  },
+  "questions": [
+    {
+      "id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle-v1",
+      "statement": "¿Qué tipo de enlace químico se forma por transferencia completa de electrones entre un metal y un no metal?",
+      "context": "En una clase de química fundamental en la CDMX, se analiza la formación del cloruro de sodio (NaCl).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace iónico",
+          "is_correct": true,
+          "feedback": "¡Correcto! El enlace iónico resulta de la atracción electrostática entre cationes y aniones formados por transferencia de electrones."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace covalente apolar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre al compartir electrones por igual entre átomos no metálicos idénticos."
+        },
+        {
+          "letter": "C",
+          "text": "Enlace metálico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre en una red de cationes inmersos en un mar de electrones deslocalizados."
+        },
+        {
+          "letter": "D",
+          "text": "Enlace por puentes de hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una fuerza intermolecular atractiva, no un enlace intramolecular primario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El enlace iónico se forma cuando existe una gran diferencia de electronegatividad (ΔEN > 1.7), produciéndose la transferencia completa de electrones y atracción electrostática entre iones.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle-v2",
+      "statement": "¿Qué tipo de enlace químico une a los dos átomos de oxígeno compartiendo dos pares de electrones?",
+      "context": "Se analiza la molécula de oxígeno diatómico (O2) presente en la atmósfera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace iónico triple",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oxígeno no forma enlaces iónicos triples en moléculas homonucleares."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace covalente doble apolar",
+          "is_correct": true,
+          "feedback": "¡Correcto! Comparten 2 pares de electrones (4 e⁻ en total) entre dos átomos idénticos de igual electronegatividad."
+        },
+        {
+          "letter": "C",
+          "text": "Enlace covalente polar sencillo",
+          "is_correct": false,
+          "feedback": "Incorrecto. O2 comparte dos pares de electrones (enlace doble) y no es polar."
+        },
+        {
+          "letter": "D",
+          "text": "Enlace metálico deslocalizado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oxígeno es un no metal gaseoso a condiciones estándar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los dos átomos de oxígeno comparten 2 pares de electrones para completar el octeto de valencia, formando un enlace covalente doble no polar (ΔEN = 0).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle-v3",
+      "statement": "¿Qué modelo de enlace explica estas propiedades físicas en los metales?",
+      "context": "Se estudia la elevada conductividad eléctrica y maleabilidad de una lámina de Cobre (Cu).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Red de enlaces covalentes direccionales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los enlaces covalentes son rígidos y no otorgan maleabilidad o alta ductilidad."
+        },
+        {
+          "letter": "B",
+          "text": "Atracción de van der Waals instantánea",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fuerzas de van der Waals son débiles y propias de sustancias moleculares."
+        },
+        {
+          "letter": "C",
+          "text": "Modelo del mar de electrones (enlace metálico)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los cationes metálicos se organizan en una red rodeada por electrones de valencia libres deslocalizados."
+        },
+        {
+          "letter": "D",
+          "text": "Cristal iónico rígido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cristales iónicos son quebradizos y frágiles al impacto mecánico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El enlace metálico consiste en un arreglo tridimensional de cationes inmersos en una nube deslocalizada de electrones libres que conducen electricidad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle-v4",
+      "statement": "¿Qué fuerza intermolecular excepcionalmente fuerte es responsable del alto punto de ebullición del agua?",
+      "context": "Se compara el punto de ebullición del agua (H2O, 100 °C) con el del sulfuro de hidrógeno (H2S, -60 °C).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuerza de dispersión de London",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fuerzas de London son más débiles y dominan en moléculas apolares."
+        },
+        {
+          "letter": "B",
+          "text": "Atracción ión-dipolo permanente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre entre un ion y una molécula polar, no entre moléculas de agua puras."
+        },
+        {
+          "letter": "C",
+          "text": "Fuerza dipolo inducido - dipolo inducido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a interacciones de dispersión instantáneas."
+        },
+        {
+          "letter": "D",
+          "text": "Puente de hidrógeno",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los puentes de hidrógeno ocurren cuando el H está unido covalentemente a F, O o N de alta electronegatividad."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El agua forma una red tridimensional de puentes de hidrógeno debido a la alta polaridad del enlace O-H y los pares solitarios del oxígeno.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la geometría molecular y el ángulo de enlace aproximado H-C-H del metano?",
+      "context": "Un estudiante en Monterrey predice la geometría molecular del metano (CH4) según la teoría de VSEPR.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Geometría tetraédrica con ángulo de ~109.5°",
+          "is_correct": true,
+          "feedback": "¡Correcto! El carbono central posee 4 pares enlazantes y 0 pares libres, adoptando ordenamiento tetraédrico a 109.5°."
+        },
+        {
+          "letter": "B",
+          "text": "Geometría plana trigonal con ángulo de 120°",
+          "is_correct": false,
+          "feedback": "Incorrecto. La geometría plana trigonal corresponde a 3 dominios de electrones (como BF3)."
+        },
+        {
+          "letter": "C",
+          "text": "Geometría lineal con ángulo de 180°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a 2 dominios de electrones (como CO2)."
+        },
+        {
+          "letter": "D",
+          "text": "Geometría piramidal trigonal con ángulo de 107°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a 3 pares enlazantes y 1 par libre (como NH3)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Según la Teoría de Repulsión de Pares de Electrones de Valencia (VSEPR), 4 pares de electrones alrededor de un átomo central se repelen hacia las esquinas de un tetraedro (109.5°).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué el CO2 es una molécula apolar mientras que el H2O es polar, a pesar de que ambas tienen enlaces polares?",
+      "context": "Se evalúa la polaridad de las moléculas de Dióxido de Carbono (CO2) y Agua (H2O).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el enlace C-O es no polar y el enlace O-H es totalmente iónico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos son enlaces covalentes polares."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el CO2 es una molécula lineal cuyos momentos dipolares se anulan vectorialmente, mientras que el H2O es angular",
+          "is_correct": true,
+          "feedback": "¡Correcto! La simetría lineal del CO2 (180°) anula sus dipolos (μ = 0). El H2O posee geometría angular (104.5°) con momento dipolo neto (μ > 0)."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el CO2 posee puentes de hidrógeno intramoleculares que cancelan la carga",
+          "is_correct": false,
+          "feedback": "Incorrecto. El CO2 no forma puentes de hidrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el H2O es una molécula totalmente simétrica y esférica",
+          "is_correct": false,
+          "feedback": "Incorrecto. El H2O es asimétrica debido a sus dos pares de electrones solitarios."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La polaridad molecular depende de la geometría espacial. En el CO2 lineal los momentos dipolares opuestos se cancelan (μ=0). En el H2O angular se suman vectorialmente (μ≠0).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle-v7",
+      "statement": "¿Qué hibridación presentan los carbonos con doble enlace en el eteno y qué ángulo de enlace forman?",
+      "context": "Se analiza el tipo de hibridación de los átomos de carbono en el eteno o etileno (H2C=CH2).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hibridación sp³ con geometría tetraédrica (109.5°)",
+          "is_correct": false,
+          "feedback": "Incorrecto. sp³ corresponde a carbonos con 4 enlaces sencillos sigma (alcanos)."
+        },
+        {
+          "letter": "B",
+          "text": "Hibridación sp con geometría lineal (180°)",
+          "is_correct": false,
+          "feedback": "Incorrecto. sp corresponde a carbonos con triple enlace (alquinos)."
+        },
+        {
+          "letter": "C",
+          "text": "Hibridación sp² con geometría plana trigonal (120°)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Cada C forma 3 enlaces sigma (sp²) a 120° y conserva un orbital p puro traslapado para el enlace pi (π)."
+        },
+        {
+          "letter": "D",
+          "text": "Hibridación sp³d con geometría bipiramidal trigonal",
+          "is_correct": false,
+          "feedback": "Incorrecto. El carbono no expande su octeto a orbitales d."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los átomos de carbono con doble enlace combinan un orbital s y dos orbitales p formando 3 orbitales híbridos sp² orientados a 120° en un plano.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle-v8",
+      "statement": "¿A qué se debe el incremento en la fuerza de atracción de London y del punto de fusión al descender en el grupo de los halógenos?",
+      "context": "Se comparan los estados de agregación de los halógenos a temperatura ambiente: F2 y Cl2 (gases), Br2 (líquido) y I2 (sólido).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A la disminución constante del número total de electrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al descender en el grupo aumenta el número atómico y de electrones."
+        },
+        {
+          "letter": "B",
+          "text": "A la formación de enlaces iónicos entre moléculas homonucleares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los halógenos son moléculas covalentes apolares neutras."
+        },
+        {
+          "letter": "C",
+          "text": "A la pérdida de electrones de valencia para formar cationes gaseosos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las moléculas no se ionizan espontáneamente a temperatura ambiente."
+        },
+        {
+          "letter": "D",
+          "text": "Al aumento en la masa molecular, tamaño del átomo y polarizabilidad de la nube electrónica",
+          "is_correct": true,
+          "feedback": "¡Correcto! A mayor tamaño y número de electrones, la nube es más fácilmente polarizable, intensificando los dipolos instantáneos de London."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las fuerzas de dispersión de London aumentan con el tamaño de la nube electrónica y la masa molecular, incrementando la polarizabilidad y los puntos de ebullición.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el número de pares de electrones enlazantes y pares libres en el átomo central de nitrógeno, y su geometría molecular?",
+      "context": "Un estudiante en Querétaro analiza la estructura de Lewis del amoníaco (NH3).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 pares enlazantes, 1 par libre; geometría piramidal trigonal (~107°)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El N forma 3 enlaces N-H y conserva 1 par solitario, repeliendo a los enlaces hacia una pirámide trigonal."
+        },
+        {
+          "letter": "B",
+          "text": "4 pares enlazantes, 0 pares libres; geometría tetraédrica (109.5°)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al ion amonio (NH4⁺)."
+        },
+        {
+          "letter": "C",
+          "text": "2 pares enlazantes, 2 pares libres; geometría angular (104.5°)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la molécula de agua (H2O)."
+        },
+        {
+          "letter": "D",
+          "text": "3 pares enlazantes, 0 pares libres; geometría plana trigonal (120°)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al trifluoruro de boro (BF3)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Nitrógeno central en NH3 posee 4 dominios electrónicos (sp³), de los cuales 3 son enlazantes y 1 es libre, generando geometría piramidal trigonal (107°).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle-v10",
+      "statement": "¿Qué tipo especial de enlace covalente se establece cuando uno solo de los átomos aporta el par de electrones compartido?",
+      "context": "Se estudia la reacción entre el amoníaco (NH3) y un protón (H⁺) para formar el ion amonio (NH4⁺).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace iónico puro",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay transferencia permanente completa de electrones en la red."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace covalente coordinado o dativo",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nitrógeno aporta su par solitario completo para acomodar al ion H⁺ deficiente de electrones."
+        },
+        {
+          "letter": "C",
+          "text": "Enlace metálico deslocalizado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre en la red sólida de metales."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza de dispersión momentánea",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una atracción intermolecular débil, no un enlace covalente intramolecular."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un enlace covalente coordinado (o dativo) se forma cuando los dos electrones del par compartido son cedidos por un mismo átomo (el dador).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.71,
+      "bundle_id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál de estos compuestos presenta la mayor Energía Reticular debido a las cargas de sus iones y distancias interiónicas?",
+      "context": "Se compara la Energía Reticular o de Red (U) de los compuestos iónicos LiF, NaCl y MgO según la Ley de Coulomb.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "NaCl",
+          "is_correct": false,
+          "feedback": "Incorrecto. NaCl posee cargas monovalentes (+1 y -1) y mayor distancia interiónica."
+        },
+        {
+          "letter": "B",
+          "text": "LiF",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque LiF es pequeño, posee cargas monovalentes (+1 y -1), superado por MgO."
+        },
+        {
+          "letter": "C",
+          "text": "MgO",
+          "is_correct": true,
+          "feedback": "¡Correcto! MgO posee cargas divalentes (+2 y -2). De la Ley de Coulomb (U ∝ q1*q2 / r), la mayor carga duplica la fuerza de atracción de la red."
+        },
+        {
+          "letter": "D",
+          "text": "Todos poseen exactamente la misma energía reticular",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía de red varía marcadamente con la carga y el tamaño iónico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La energía reticular U es proporcional al producto de las cargas iónicas (q1 * q2). En el MgO (+2)(-2) = 4, siendo 4 veces superior a las redes monovalentes (+1)(-1) = 1.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle-v12",
+      "statement": "¿Qué excepción a la Regla del Octeto presenta el Boro en el BF3?",
+      "context": "Se examina la molécula de Trifluoruro de Boro (BF3) que actúa como un ácido de Lewis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Octeto expandido (el Boro alberga 10 electrones de valencia)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Boro es un elemento del segundo periodo que no posee orbitales d para expandir octeto."
+        },
+        {
+          "letter": "B",
+          "text": "Molécula con número impar de electrones (radical libre)",
+          "is_correct": false,
+          "feedback": "Incorrecto. BF3 posee 24 electrones de valencia totales (número par)."
+        },
+        {
+          "letter": "C",
+          "text": "Formación de una red metálica amorfa",
+          "is_correct": false,
+          "feedback": "Incorrecto. BF3 es una molécula covalente gaseosa discreta."
+        },
+        {
+          "letter": "D",
+          "text": "Octeto incompleto (el Boro es estable rodeado por sólo 6 electrones de valencia)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El Boro (grupo 13) forma 3 enlaces covalentes reteniendo 6 electrones en su capa de valencia (deficiencia de electrones)."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El Boro en el BF3 presenta un octeto incompleto con 6 electrones de valencia, lo que le otorga una alta avidez por pares electrónicos (ácido de Lewis).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.62,
+      "bundle_id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la relación entre el orden de enlace, la longitud de enlace y la energía de enlace?",
+      "context": "Se analizan las longitudes de enlace y energías de disociación en la serie de hidrocarburos Etano (C-C), Eteno (C=C) y Etino (C≡C).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A mayor orden de enlace (triple > doble > sencillo), menor es la longitud de enlace y mayor la energía de enlace",
+          "is_correct": true,
+          "feedback": "¡Correcto! El enlace triple C≡C es el más corto y el más fuerte (requiere mayor energía para romperse)."
+        },
+        {
+          "letter": "B",
+          "text": "A mayor orden de enlace, mayor es la longitud de enlace y menor la energía de enlace",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud disminuye al aumentar la atracción del enlace múltiple."
+        },
+        {
+          "letter": "C",
+          "text": "La longitud y energía de enlace son completamente independientes del orden de enlace",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existe una correlación física estricta entre estas propiedades."
+        },
+        {
+          "letter": "D",
+          "text": "El enlace sencillo es el más corto y más fuerte de la serie",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace sencillo C-C es el más largo y débil de la serie de hidrocarburos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al aumentar el orden de enlace (de 1 a 3), los núcleos son atraídos con mayor fuerza, acortando la distancia interatómica y elevando la energía de disociación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es el orden de enlace promedio para cada uno de los tres enlaces Nitrógeno-Oxígeno en el ion Nitrato?",
+      "context": "Se dibuja la estructura de resonancia del ion Nitrato (NO3⁻).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.00 (sencillo puro)",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1.00 significaría 3 enlaces sencillos puros, lo que dejaría al nitrógeno sin octeto."
+        },
+        {
+          "letter": "B",
+          "text": "1.33 (4 tercios)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Hay 4 pares de electrones compartidos en total distribuidos equitativamente entre los 3 enlaces N-O por resonancia: 4/3 = 1.33."
+        },
+        {
+          "letter": "C",
+          "text": "2.00 (doble puro)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Requeriría 6 pares de electrones alrededor del nitrógeno (violación de octeto)."
+        },
+        {
+          "letter": "D",
+          "text": "1.50 (3 medios)",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1.50 corresponde al ion Carbonato o a moléculas con 3 pares en 2 enlaces."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ion NO3⁻ posee 3 estructuras de resonancia equivalentes. El orden de enlace promedio es el número total de enlaces (4) dividido entre los grupos ligantes (3) = 1.33.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle-v15",
+      "statement": "¿En cuál disolvente se disolverá preferentemente el I2 y bajo qué principio de solubilidad?",
+      "context": "Se disuelve Yodo molecular (I2, apolar) en dos disolventes: Agua (H2O, polar) y Tetracloruro de Carbono (CCl4, apolar).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En H2O, porque forma puentes de hidrógeno con los átomos de Yodo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El I2 es apolar y no forma puentes de hidrógeno con el agua."
+        },
+        {
+          "letter": "B",
+          "text": "En H2O, porque el Yodo se ioniza instantáneamente en I⁻ y I⁺",
+          "is_correct": false,
+          "feedback": "Incorrecto. El I2 molecular no se ioniza de forma espontánea en solución neutra."
+        },
+        {
+          "letter": "C",
+          "text": "En CCl4, bajo el principio de que 'lo semejante disuelve a lo semejante' por interacciones de London",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los solutos apolares son solubles en disolventes apolares gracias a las fuerzas de dispersión de London similares."
+        },
+        {
+          "letter": "D",
+          "text": "No se disuelve en ninguno de los dos disolventes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El I2 se disuelve extensamente en CCl4 otorgando un color violeta característico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El principio 'lo semejante disuelve a lo semejante' establece que sustancias apolares (I2) interactúan favorablemente con solventes apolares (CCl4) por fuerzas de London.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la geometría electrónica y la geometría molecular real del ion I3⁻ según VSEPR?",
+      "context": "Se analiza la geometría electrónica y molecular del ion Triyoduro (I3⁻). El yodo central posee 2 pares enlazantes y 3 pares libres.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Geometría electrónica tetraédrica y geometría molecular angular (104.5°)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a 4 dominios electrónicos con 2 pares libres."
+        },
+        {
+          "letter": "B",
+          "text": "Geometría electrónica octaédrica y geometría molecular en forma de T",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a 6 dominios electrónicos."
+        },
+        {
+          "letter": "C",
+          "text": "Geometría electrónica y molecular plana trigonal (120°)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omite considerar los 3 pares solitarios del átomo central."
+        },
+        {
+          "letter": "D",
+          "text": "Geometría electrónica bipiramidal trigonal y geometría molecular lineal (180°)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los 5 dominios se ordenan bipiramidal trigonal. Los 3 pares libres ocupan el plano ecuatorial (120°) para minimizar repulsión, dejando los 2 yodos en posición axial a 180°."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El átomo central en I3⁻ tiene 5 dominios de electrones (sp³d). Los 3 pares solitarios se posicionan en el plano ecuatorial a 120° dejando los enlaces coaxiales a 180° (lineal).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es el orden de enlace (OE) calculado para el N2 y qué propiedad magnética presenta?",
+      "context": "Se aplica la Teoría de Orbitales Moleculares (TOM) a la molécula diatómica de Nitrógeno (N2, 10 electrones de valencia).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "OE = 3 (diamagnética)",
+          "is_correct": true,
+          "feedback": "¡Correcto! OE = (1/2)*(N_enlazantes - N_antienlazantes) = (1/2)*(8 - 2) = 3. Todos los electrones en los OM están apareados (diamagnética)."
+        },
+        {
+          "letter": "B",
+          "text": "OE = 2 (paramagnética)",
+          "is_correct": false,
+          "feedback": "Incorrecto. OE = 2 corresponde al Oxígeno (O2)."
+        },
+        {
+          "letter": "C",
+          "text": "OE = 1 (diamagnética)",
+          "is_correct": false,
+          "feedback": "Incorrecto. OE = 1 corresponde al Flúor (F2)."
+        },
+        {
+          "letter": "D",
+          "text": "OE = 2.5 (paramagnética)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a cationes moleculares como N2⁺."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Según la TOM para el N2 con 10 electrones de valencia: (σ2s)² (σ*2s)² (π2p)⁴ (σ2p)². OE = (8 - 2)/2 = 3. Al estar todos apareados, es una molécula diamagnética.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle-v18",
+      "statement": "¿De qué manera la Teoría de Orbitales Moleculares (TOM) explica que el O2 se adhiera a los polos de un imán?",
+      "context": "Se evalúa la incapacidad del modelo de Lewis para explicar el paramagnetismo experimental del Oxígeno diatómico (O2).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Demuestra que el O2 forma un enlace triple iónico en fase líquida",
+          "is_correct": false,
+          "feedback": "Incorrecto. El O2 posee un enlace doble covalente."
+        },
+        {
+          "letter": "B",
+          "text": "Muestra que el O2 posee dos electrones desapareados en los orbitales antienlazantes degénerados π*2py y π*2pz",
+          "is_correct": true,
+          "feedback": "¡Correcto! La configuración en TOM del O2 asigna un electrón a cada orbital π*2p por la regla de Hund, haciendo a la molécula paramagnética."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que el O2 se disocia en radicales libres de hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. El O2 puro no contiene hidrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "Prueba que todos los electrones del O2 se encuentran totalmente apareados en orbitales σ",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si estuviesen apareados sería diamagnético y no interactuaría con imanes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La TOM predice correctamente que el O2 tiene la configuración ... (π*2p)¹(π*2p)¹. La presencia de 2 electrones desapareados fundamenta el paramagnetismo del O2.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle-v19",
+      "statement": "¿Qué principio de la Teoría VSEPR justifica la compresión progresiva del ángulo de enlace?",
+      "context": "Se analiza la variación sistemática en los ángulos de enlace en la serie isoelectrónica: CH4 (109.5°), NH3 (107°) y H2O (104.5°).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aumento de la masa atómica del átomo central comprime mecánicamente los enlaces",
+          "is_correct": false,
+          "feedback": "Incorrecto. La repulsión es un efecto electrostático cuántico, no mecano-ponderal de la masa del núcleo."
+        },
+        {
+          "letter": "B",
+          "text": "La disminución en el número de electrones de valencia totales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las tres moléculas son isoelectrónicas con 8 electrones de valencia."
+        },
+        {
+          "letter": "C",
+          "text": "Los pares de electrones libres ejercen mayor repulsión que los pares enlazantes, comprimiendo los ángulos adyacentes",
+          "is_correct": true,
+          "feedback": "¡Correcto! La nube electrónica no compartida de un par libre está contenida por un solo núcleo, ocupando mayor volumen y repeliendo con más fuerza a los pares enlazantes."
+        },
+        {
+          "letter": "D",
+          "text": "El aumento en la longitud del enlace covalente de los hidrógenos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las longitudes de enlace C-H, N-H y O-H no causan la compresión por sí solas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La fuerza de repulsión disminuye en el orden: Par Libre - Par Libre > Par Libre - Par Enlazante > Par Enlazante - Par Enlazante. Cada par libre cierra el ángulo ~2°.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle-v20",
+      "statement": "¿Por qué el KCl sólido es un aislante eléctrico pero fundido o disuelto en agua conduce la electricidad eficientemente?",
+      "context": "Se analiza la conducción de corriente eléctrica en compuestos iónicos (como el KCl) en estado sólido versus fundido o en solución acuosa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el sólido no existen electrones ni iones de ninguna clase",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sólido consta de una red iónica ordenada de K⁺ y Cl⁻."
+        },
+        {
+          "letter": "B",
+          "text": "Al fundirse, el KCl se transforma en un metal líquido compuesto por electrones libres",
+          "is_correct": false,
+          "feedback": "Incorrecto. El KCl fundido es un líquido iónico, no un metal neutro."
+        },
+        {
+          "letter": "C",
+          "text": "El agua aporta los electrones libres necesarios para transportar la corriente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conducción iónica se debe al movimiento de K⁺ y Cl⁻, no a electrones del agua."
+        },
+        {
+          "letter": "D",
+          "text": "En el sólido los iones están fijos en la red cristalina; al fundir o disolverse, los iones quedan libres para migrar hacia los electrodos",
+          "is_correct": true,
+          "feedback": "¡Correcto! La conducción eléctrica requiere portadores de carga móbiles. En el cristal sólido los iones carecen de movilidad espacial."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para conducir electricidad se requiere movilidad de partículas cargadas. En sólidos iónicos los iones se hallan fijos en posiciones reticulares; al fundir o disolver son móbiles.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    }
+  ]
+}

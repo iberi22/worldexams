@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-sociales",
+    "country": "pe",
+    "pack_id": "pe-week-3-grade-11-subject-ciencias_sociales",
+    "generated_at": "2026-08-29T04:04:54.409Z"
+  },
+  "questions": [
+    {
+      "id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v1",
+      "statement": "El acuerdo firmado en 1529 entre Francisco Pizarro y la Corona Española que autorizó la conquista del Perú se conoce como:",
+      "context": "Un estudiante en un colegio de Lima repasa temas de Conquista del Perú y Resistencia de Vilcabamba para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Capitulaciones de Toledo",
+          "is_correct": true,
+          "feedback": "Correcto. La Capitulación de Toledo concedió a Pizarro los títulos de Gobernador y Capitán General de Nueva Castilla."
+        },
+        {
+          "letter": "B",
+          "text": "Tratado de Tordesillas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Tratado de Tordesillas de 1494 dividió las zonas de navegación entre España y Portugal."
+        },
+        {
+          "letter": "C",
+          "text": "Capitulación de Santa Fe",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Capitulación de Santa Fe de 1492 autorizó los viajes de Cristóbal Colón."
+        },
+        {
+          "letter": "D",
+          "text": "Tratado de Ancón",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Tratado de Ancón de 1883 puso fin a la Guerra del Pacífico entre Perú y Chile."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Capitulación de Toledo formalizó legalmente la empresa invasora al Perú otorgando preeminencia política a Pizarro.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.83,
+      "bundle_id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v2",
+      "statement": "¿En qué ciudad andina fue capturado el Inca Atahualpa el 16 de noviembre de 1532 por las huestes de Pizarro?",
+      "context": "Un estudiante en un colegio de Cusco repasa temas de Conquista del Perú y Resistencia de Vilcabamba para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cajamarca",
+          "is_correct": true,
+          "feedback": "Correcto. La captura ocurrió en la plaza de Cajamarca tras el requerimiento formulado por el fraile Vicente de Valverde."
+        },
+        {
+          "letter": "B",
+          "text": "Cusco",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Cusco fue ocupado posteriormente en 1533."
+        },
+        {
+          "letter": "C",
+          "text": "Jauja",
+          "is_correct": false,
+          "feedback": "Incorrecto. Jauja fue fundada como primera capital provisional por Pizarro en 1534."
+        },
+        {
+          "letter": "D",
+          "text": "Lima",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lima fue fundada como la Ciudad de los Reyes en enero de 1535."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La emboscada de Cajamarca aprovechó la sorpresa táctica y la división incaica tras la guerra civil.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.81,
+      "bundle_id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v3",
+      "statement": "El líder inca que inició la gran rebelión de 1536 contra los españoles y cercó las ciudades del Cusco y Lima fue:",
+      "context": "Un estudiante en un colegio de Arequipa repasa temas de Conquista del Perú y Resistencia de Vilcabamba para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Manco Inca",
+          "is_correct": true,
+          "feedback": "Correcto. Manco Inca rompió su alianza inicial con Pizarro y emprendió la guerra de reconquista andina."
+        },
+        {
+          "letter": "B",
+          "text": "Sayri Túpac",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sayri Túpac aceptó encomiendas en Yucay tras negociar con el virrey."
+        },
+        {
+          "letter": "C",
+          "text": "Titu Cusi Yupanqui",
+          "is_correct": false,
+          "feedback": "Incorrecto. Titu Cusi Yupanqui escribió las Crónicas de Vilcabamba y aceptó el Tratado de Acobamba."
+        },
+        {
+          "letter": "D",
+          "text": "Túpac Amaru I",
+          "is_correct": false,
+          "feedback": "Incorrecto. Túpac Amaru I fue el último Inca de Vilcabamba ejecutado por el virrey Toledo en 1572."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Manco Inca organizó el cerco del Cusco y envió a Titu Yupanqui a asediar la recién fundada Lima.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.79,
+      "bundle_id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v4",
+      "statement": "Los tres socios principales de la Empresa de Levante o del Pacto de Panamá para la invasión al Perú fueron:",
+      "context": "Un estudiante en un colegio de Trujillo repasa temas de Conquista del Perú y Resistencia de Vilcabamba para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pizarro, Almagro y Luque",
+          "is_correct": true,
+          "feedback": "Correcto. Francisco Pizarro (capitán), Diego de Almagro (proveedor) y Hernando de Luque (financista)."
+        },
+        {
+          "letter": "B",
+          "text": "Pizarro, Valdivia y Cortés",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hernán Cortés conquistó México y Pedro de Valdivia inició la conquista de Chile."
+        },
+        {
+          "letter": "C",
+          "text": "Almagro, Colón y Ojeda",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colón y Ojeda pertenecen a las primeras décadas de la exploración del Caribe."
+        },
+        {
+          "letter": "D",
+          "text": "Toledo, La Serna y Abascal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toledo, La Serna y Abascal fueron virreyes españoles del Perú."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La sociedad mercantil de Panamá contó también con el financiamiento oculto de Gaspar de Espinoza.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.77,
+      "bundle_id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v5",
+      "statement": "El último Inca de la resistencia de Vilcabamba ejecutado en la plaza del Cusco en 1572 por orden del virrey Toledo fue:",
+      "context": "Un estudiante en un colegio de Chiclayo repasa temas de Conquista del Perú y Resistencia de Vilcabamba para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Túpac Amaru I",
+          "is_correct": true,
+          "feedback": "Correcto. Con la decapitación de Túpac Amaru I se extinguió la dinastía real incaica de Vilcabamba."
+        },
+        {
+          "letter": "B",
+          "text": "Manco Inca",
+          "is_correct": false,
+          "feedback": "Incorrecto. Manco Inca fue asesinado en Vilcabamba por almagristas refugiados."
+        },
+        {
+          "letter": "C",
+          "text": "Sayri Túpac",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sayri Túpac falleció en el valle de Yucay tras convertirse al cristianismo."
+        },
+        {
+          "letter": "D",
+          "text": "Atahualpa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Atahualpa fue ejecutado en Cajamarca en 1533 mediante la pena del garrote."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El virrey Toledo aplastó el reducto rebelde de Vilcabamba y ordenó la ejecución de Túpac Amaru I.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.72,
+      "bundle_id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v6",
+      "statement": "El primer asiento de gobierno fundado por Francisco Pizarro en la costa norte peruana en 1532 fue:",
+      "context": "Un estudiante en un colegio de Iquitos repasa temas de Conquista del Perú y Resistencia de Vilcabamba para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "San Miguel de Tangarará (Piura)",
+          "is_correct": true,
+          "feedback": "Correcto. Tangarará (en el valle del Chira, Piura) fue la primera ciudad española fundada en el Perú."
+        },
+        {
+          "letter": "B",
+          "text": "Trujillo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Trujillo fue fundada posteriormente en 1534."
+        },
+        {
+          "letter": "C",
+          "text": "Lima",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lima fue fundada en enero de 1535 en el valle del Rímac."
+        },
+        {
+          "letter": "D",
+          "text": "Arequipa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Arequipa fue fundada por Garci Manuel de Carbajal en 1540."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "San Miguel de Piura constituyó la base logística inicial de la expedición conquistadora.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.69,
+      "bundle_id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v7",
+      "statement": "La guerra civil entre los encomenderos españoles (almagristas y pizarristas) tuvo como detonante la posesión de la rica ciudad de:",
+      "context": "Un estudiante en un colegio de Piura repasa temas de Conquista del Perú y Resistencia de Vilcabamba para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cusco",
+          "is_correct": true,
+          "feedback": "Correcto. Tanto Pizarro como Almagro reclamaban el Cusco dentro de sus respectivas gobernaciones (Nueva Castilla y Nueva Toledo)."
+        },
+        {
+          "letter": "B",
+          "text": "Potosí",
+          "is_correct": false,
+          "feedback": "Incorrecto. Potosí cobró relevancia minera a partir del descubrimiento del cerro rico en 1545."
+        },
+        {
+          "letter": "C",
+          "text": "Lima",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lima era la sede administrativa fundada por Pizarro sin disputa con Almagro."
+        },
+        {
+          "letter": "D",
+          "text": "Quito",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quito fue disputada entre Pedro de Alvarado y los socios de la conquista en 1534."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ambigüedad en los límites geográficos de las gobernaciones concedidas por la Corona provocó la guerra civil.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.66,
+      "bundle_id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v8",
+      "statement": "El movimiento religioso y mesiánico andino surgido en Huamanga (1564) que predicaba el retorno de las huacas y el rechazo al cristianismo fue:",
+      "context": "Un estudiante en un colegio de Huancayo repasa temas de Conquista del Perú y Resistencia de Vilcabamba para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Taki Onqoy",
+          "is_correct": true,
+          "feedback": "Correcto. El Taki Onqoy ('enfermedad del canto') fue liderado por Juan Chocne promoviendo la alianza de las huacas andinas."
+        },
+        {
+          "letter": "B",
+          "text": "Inkarri",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mito de Inkarri surgió tras la decapitación del Inca simbolizando la reconstitución del cuerpo del rey."
+        },
+        {
+          "letter": "C",
+          "text": "Yanahuara",
+          "is_correct": false,
+          "feedback": "Incorrecto. Yanahuara es un distrito tradicional de Arequipa."
+        },
+        {
+          "letter": "D",
+          "text": "Huaca Prieta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Huaca Prieta es un sitio arqueológico precerámico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Taki Onqoy expresaba la resistencia ideológico-religiosa de las etnias andinas frente a la extirpación de idolatrías.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.63,
+      "bundle_id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v9",
+      "statement": "La Batalla de Las Salinas (1538) se libró cerca del Cusco entre las fuerzas de:",
+      "context": "Un estudiante en un colegio de Puno repasa temas de Conquista del Perú y Resistencia de Vilcabamba para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hernando Pizarro y Diego de Almagro 'el Viejo'",
+          "is_correct": true,
+          "feedback": "Correcto. Las fuerzas de Pizarro derrotaron a Almagro, quien fue apresado y posteriormente ejecutado."
+        },
+        {
+          "letter": "B",
+          "text": "Gonzalo Pizarro y Blasco Núñez Vela",
+          "is_correct": false,
+          "feedback": "Incorrecto. Gonzalo Pizarro enfrentó al virrey en la batalla de Añaquito (1546)."
+        },
+        {
+          "letter": "C",
+          "text": "Pedro de la Gasca y Gonzalo Pizarro",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Gasca derrotó a Gonzalo Pizarro en Jaquijahuana (1548)."
+        },
+        {
+          "letter": "D",
+          "text": "Manco Inca y Diego de Almagro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Almagro intentó pactar con Manco Inca tras regresar de su expedición a Chile."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La derrota de Almagro en Las Salinas consolidó temporalmente el dominio de la facción pizarrista.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v10",
+      "statement": "El virrey español enviado por la Corona para pacificar el Perú y derrotar la rebelión de los encomenderos de Gonzalo Pizarro fue:",
+      "context": "Un estudiante en un colegio de Ayacucho repasa temas de Conquista del Perú y Resistencia de Vilcabamba para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pedro de la Gasca",
+          "is_correct": true,
+          "feedback": "Correcto. El 'Pacificador' Pedro de la Gasca ofreció el perdón real y la concesión de encomiendas para desarmar la rebelión."
+        },
+        {
+          "letter": "B",
+          "text": "Blasco Núñez Vela",
+          "is_correct": false,
+          "feedback": "Incorrecto. Núñez Vela causó la rebelión al intentar aplicar estrictamente las Leyes Nuevas de 1542."
+        },
+        {
+          "letter": "C",
+          "text": "Francisco de Toledo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toledo gobernó posteriormente entre 1569 y 1581."
+        },
+        {
+          "letter": "D",
+          "text": "Manuel de Amat",
+          "is_correct": false,
+          "feedback": "Incorrecto. Amat gobernó en el siglo XVIII."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Gasca logró la victoria sin gran derramamiento de sangre en la batalla de Jaquijahuana (1548).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v11",
+      "statement": "Las 'Leyes Nuevas' promulgadas por el rey Carlos I en 1542 buscaban principalmente:",
+      "context": "Un estudiante en un colegio de Lima repasa temas de Conquista del Perú y Resistencia de Vilcabamba para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reafirmar la autoridad real y limitar el poder hereditario de los encomenderos",
+          "is_correct": true,
+          "feedback": "Correcto. Las Leyes Nuevas crearon el Virreinato del Perú y prohibieron la servidumbre indígena no regulada."
+        },
+        {
+          "letter": "B",
+          "text": "Entregar la propiedad perpetua de la tierra a los conquistadores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, la Corona temía la formación de un sistema feudal autónomo en América."
+        },
+        {
+          "letter": "C",
+          "text": "Declarar la libertad total de los colonos para comerciar con potencias extranjeras",
+          "is_correct": false,
+          "feedback": "Incorrecto. El monopolio comercial metropolitano se mantuvo sumamente rígido."
+        },
+        {
+          "letter": "D",
+          "text": "Abolir el cobro de impuestos y el tributo en los territorios de ultramar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se estructuró una eficiente hacienda pública colonial tributaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las Leyes Nuevas desataron la rebelión de los encomenderos encabezada por Gonzalo Pizarro.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.51,
+      "bundle_id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v12",
+      "statement": "El legendario general incaico que organizó la resistencia militar en el norte (Quito) contra Pizarro fue:",
+      "context": "Un estudiante en un colegio de Cusco repasa temas de Conquista del Perú y Resistencia de Vilcabamba para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rumiñahui",
+          "is_correct": true,
+          "feedback": "Correcto. Rumiñahui combatió heroicamente destruyendo instalaciones en Quito para evitar su saqueo."
+        },
+        {
+          "letter": "B",
+          "text": "Calcuchímac",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calcuchímac fue capturado en la sierra central y quemado vivo por los españoles."
+        },
+        {
+          "letter": "C",
+          "text": "Quizquiz",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quizquiz enfrentó a los españoles en la marcha hacia el Cusco."
+        },
+        {
+          "letter": "D",
+          "text": "Cahuide",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cahuide es el héroe indígena que se arrojó de la torre de Sacsayhuamán."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Rumiñahui encabezó una encarnizada resistencia en el norte hasta su captura por Sebastián de Belalcázar.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.47,
+      "bundle_id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v13",
+      "statement": "El requerimiento leído por los españoles a las autoridades nativas antes de iniciar el combate exigía:",
+      "context": "Un estudiante en un colegio de Arequipa repasa temas de Conquista del Perú y Resistencia de Vilcabamba para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aceptar la autoridad del Rey de España y la fe católica bajo amenaza de guerra",
+          "is_correct": true,
+          "feedback": "Correcto. El Requerimiento era un documento jurídico-teológico formulado por la monarquía hispana."
+        },
+        {
+          "letter": "B",
+          "text": "Pagar una renta en monedas de oro a los capitanes invasores",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oro era buscado como botín, pero el texto legal exigía la sumisión política y espiritual."
+        },
+        {
+          "letter": "C",
+          "text": "Firmar un tratado de libre comercio marítimo en la costa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existían tratados mercantiles bilaterales con los nativos."
+        },
+        {
+          "letter": "D",
+          "text": "Entregar tierras a los soldados a cambio de caballos y armas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los indígenas eran despojados de sus señoríos tras la imposición de la encomienda."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Requerimiento justificaba ideológicamente la 'guerra justa' según la doctrina europea de la época.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v14",
+      "statement": "La batalla de Añaquito (1546) en el actual Ecuador enfrentó y culminó con la muerte de:",
+      "context": "Un estudiante en un colegio de Trujillo repasa temas de Conquista del Perú y Resistencia de Vilcabamba para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El virrey Blasco Núñez Vela a manos de Gonzalo Pizarro",
+          "is_correct": true,
+          "feedback": "Correcto. Gonzalo Pizarro venció al virrey consolidando temporalmente su control sobre el Perú."
+        },
+        {
+          "letter": "B",
+          "text": "Diego de Almagro 'el Mozo' a manos de Vaca de Castro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Almagro el Mozo fue derrotado en Chupas (1542)."
+        },
+        {
+          "letter": "C",
+          "text": "Francisco Pizarro a manos de los de Chile",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pizarro fue asesinado en su palacio de Lima en 1541."
+        },
+        {
+          "letter": "D",
+          "text": "Hernando Pizarro a manos de Túpac Amaru I",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hernando Pizarro regresó a España donde estuvo encarcelado en Medina del Campo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Añaquito representó el punto máximo del desafío encomendero a la Corona española.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.39,
+      "bundle_id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v15",
+      "statement": "El líder mestizo que sucedió a Manco Inca en Vilcabamba y firmó el Tratado de Acobamba en 1566 fue:",
+      "context": "Un estudiante en un colegio de Chiclayo repasa temas de Conquista del Perú y Resistencia de Vilcabamba para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Titu Cusi Yupanqui",
+          "is_correct": true,
+          "feedback": "Correcto. Titu Cusi Yupanqui permitió el ingreso de misioneros agustinos a Vilcabamba."
+        },
+        {
+          "letter": "B",
+          "text": "Sayri Túpac",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sayri Túpac abandonó la lucha armada años antes a cambio de mercedes reales."
+        },
+        {
+          "letter": "C",
+          "text": "Túpac Amaru I",
+          "is_correct": false,
+          "feedback": "Incorrecto. Túpac Amaru I rompió las negociaciones y retomó las armas."
+        },
+        {
+          "letter": "D",
+          "text": "Diego de Almagro el Mozo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Almagro el Mozo fue el líder mestizo hijo del conquistador Almagro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Titu Cusi Cusi dictó una célebre memoria justificando la causa de los Incas de Vilcabamba.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v16",
+      "statement": "La causa principal que facilitó la rápida caída del Tahuantinsuyo frente al reducido contingente español fue:",
+      "context": "Un estudiante en un colegio de Iquitos repasa temas de Conquista del Perú y Resistencia de Vilcabamba para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La guerra civil entre Huáscar y Atahualpa combinada con la alianza de etnias vasallas con los invasores",
+          "is_correct": true,
+          "feedback": "Correcto. La división interna y la insatisfacción de pueblos como huancas, cañaris y chachapoyas destruyeron la cohesión imperial."
+        },
+        {
+          "letter": "B",
+          "text": "La superioridad biológica inmunológica y pacífica de los pobladores andinos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las epidemias mermaron a la población, pero el factor militar decisivo fue la fractura política."
+        },
+        {
+          "letter": "C",
+          "text": "El apoyo de la aviación y artillería moderna del siglo XIX",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las armas de fuego eran arcabuses y culebrinas del siglo XVI."
+        },
+        {
+          "letter": "D",
+          "text": "La rendición voluntaria del Cusco por consejo de los sacerdotes del Sol",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los generales incaicos opusieron encarnizada resistencia en diversos frentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La historiografía actual coincide en que el factor étnico-político fue determinante en el colapso incaico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.31,
+      "bundle_id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v17",
+      "statement": "El capitán español que fundó la ciudad de Arequipa el 15 de agosto de 1540 por orden de Pizarro fue:",
+      "context": "Un estudiante en un colegio de Piura repasa temas de Conquista del Perú y Resistencia de Vilcabamba para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Garci Manuel de Carbajal",
+          "is_correct": true,
+          "feedback": "Correcto. Carbajal fundó la Villa Hermosa de Nuestra Señora de la Asunción de la Valle de Arequipa."
+        },
+        {
+          "letter": "B",
+          "text": "Diego de Almagro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Almagro exploró los valles del sur pero no fundó Arequipa."
+        },
+        {
+          "letter": "C",
+          "text": "Pedro de Valdivia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valdivia fundó Santiago de Chile en 1541."
+        },
+        {
+          "letter": "D",
+          "text": "Sebastián de Belalcázar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Belalcázar fundó San Francisco de Quito y Popayán."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Arequipa se constituyó en un nexo estratégico entre la costa sur y las minas de Potosí.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v18",
+      "statement": "El sacerdote dominico que denunció los abusos contra los indígenas e influyó en la promulgación de las Leyes Nuevas fue:",
+      "context": "Un estudiante en un colegio de Huancayo repasa temas de Conquista del Perú y Resistencia de Vilcabamba para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bartolomé de las Casas",
+          "is_correct": true,
+          "feedback": "Correcto. Las Casas redactó la 'Brevísima relación de la destrucción de las Indias' defendiendo la condición humana de los nativos."
+        },
+        {
+          "letter": "B",
+          "text": "Vicente de Valverde",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valverde participó en la captura de Atahualpa en Cajamarca."
+        },
+        {
+          "letter": "C",
+          "text": "Toribio de Mogrovejo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Santo Toribio de Mogrovejo fue el gran arzobispo de Lima organizador de la Iglesia virreinal."
+        },
+        {
+          "letter": "D",
+          "text": "Hernando de Luque",
+          "is_correct": false,
+          "feedback": "Incorrecto. Luque fue el socio financista de la conquista."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las Casas promovió el debate teológico y jurídico en la Junta de Valladolid frente a Juan Ginés de Sepúlveda.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v19",
+      "statement": "En la Batalla de Chupas (1542) cerca de Huamanga, el gobernador Cristóbal Vaca de Castro derrotó a las fuerzas almagristas de:",
+      "context": "Un estudiante en un colegio de Puno repasa temas de Conquista del Perú y Resistencia de Vilcabamba para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diego de Almagro 'el Mozo'",
+          "is_correct": true,
+          "feedback": "Correcto. Tras su derrota en Chupas, Almagro el Mozo fue juzgado y ejecutado en el Cusco."
+        },
+        {
+          "letter": "B",
+          "text": "Gonzalo Pizarro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Gonzalo Pizarro no participó en esta contienda."
+        },
+        {
+          "letter": "C",
+          "text": "Francisco Hernández Girón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hernández Girón lideró una rebelión posterior en 1553."
+        },
+        {
+          "letter": "D",
+          "text": "Manco Inca",
+          "is_correct": false,
+          "feedback": "Incorrecto. Manco Inca brindó refugio en Vilcabamba a algunos sobrevivientes de esta batalla."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La victoria de Vaca de Castro sofocó la primera rebelión almagrista tras el asesinato de Pizarro.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.15,
+      "bundle_id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle-v20",
+      "statement": "La encomienda colonial otorgada a los conquistadores consistía fundamentalmente en:",
+      "context": "Un estudiante en un colegio de Ayacucho repasa temas de Conquista del Perú y Resistencia de Vilcabamba para el examen de admisión universitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El derecho a percibir el tributo y trabajo de un grupo de indígenas a cambio de su evangelización",
+          "is_correct": true,
+          "feedback": "Correcto. La encomienda no otorgaba la propiedad de la tierra, sino la concesión real del tributo nativo."
+        },
+        {
+          "letter": "B",
+          "text": "La entrega en propiedad privada e irrevocable de grandes extensiones de latifundios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los latifundios se consolidaron posteriormente mediante la compra y composición de tierras."
+        },
+        {
+          "letter": "C",
+          "text": "El monopolio exclusivo del comercio transatlántico con la Casa de Contratación",
+          "is_correct": false,
+          "feedback": "Incorrecto. El comercio estaba reservado a mercaderes autorizados del Consulado."
+        },
+        {
+          "letter": "D",
+          "text": "La exención total del pago de diezmos a la Iglesia Católica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los encomenderos debían financiar la construcción de doctrinas y el sustento de curas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La encomienda fue la institución económico-social básica durante las primeras décadas de la colonización.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.1,
+      "bundle_id": "PE-SOC-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-sociales",
+      "grade": 11,
+      "country": "pe"
+    }
+  ]
+}

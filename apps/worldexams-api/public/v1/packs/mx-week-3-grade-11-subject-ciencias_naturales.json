@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "mx",
+    "pack_id": "mx-week-3-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T04:04:54.340Z"
+  },
+  "questions": [
+    {
+      "id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle-v1",
+      "statement": "¿Qué tipo de movimiento realiza el vehículo y cuál es su aceleración?",
+      "context": "Un automóvil viaja por la autopista México-Puebla a velocidad constante de 90 km/h.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Movimiento Rectilíneo Uniforme (MRU) con aceleración igual a 0 m/s²",
+          "is_correct": true,
+          "feedback": "¡Correcto! En el MRU la velocidad se mantiene constante, por lo que la aceleración es nula."
+        },
+        {
+          "letter": "B",
+          "text": "Movimiento Rectilíneo Uniformemente Acelerado (MRUA) con aceleración positiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el MRUA la velocidad varía con el tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Movimiento Circular Uniforme con aceleración centrípeta nula",
+          "is_correct": false,
+          "feedback": "Incorrecto. El movimiento es rectilíneo."
+        },
+        {
+          "letter": "D",
+          "text": "Movimiento Armónico Simple con fuerza restauradora",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay oscilaciones en este trayecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el MRU la velocidad es constante (v = d/t), por lo que la aceleración (cambio de velocidad) es cero.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la velocidad escalar del tren expresada en m/s?",
+      "context": "Un tren de carga sale de Querétaro y recorre 180 km en 2 horas a velocidad constante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "90 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. 90 es la velocidad en km/h, no en m/s."
+        },
+        {
+          "letter": "B",
+          "text": "25 m/s",
+          "is_correct": true,
+          "feedback": "¡Correcto! 180 km / 2 h = 90 km/h. Al convertir a SI: 90 / 3.6 = 25 m/s."
+        },
+        {
+          "letter": "C",
+          "text": "50 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. 50 m/s equivale a 180 km/h."
+        },
+        {
+          "letter": "D",
+          "text": "10 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. 10 m/s equivale a 36 km/h."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero v = 180 km / 2 h = 90 km/h. Para convertir a m/s dividimos entre 3.6: 90 / 3.6 = 25 m/s.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la velocidad final alcanzada por el autobús?",
+      "context": "Un autobús parte del reposo en Toluca y acelera a razón constante de 2 m/s² durante 6 s.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resultado de dividir velocidad entre 2."
+        },
+        {
+          "letter": "B",
+          "text": "36 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resultado de elevar al cuadrado el tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "12 m/s",
+          "is_correct": true,
+          "feedback": "¡Correcto! vf = vi + a*t = 0 + (2 m/s²)*(6 s) = 12 m/s."
+        },
+        {
+          "letter": "D",
+          "text": "8 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Suma errónea de aceleración y tiempo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En MRUA partiendo del reposo (vi = 0), vf = a * t = 2 m/s² * 6 s = 12 m/s.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle-v4",
+      "statement": "¿Qué distancia habrá recorrido la piedra al cabo de 3 segundos?",
+      "context": "Se deja caer una piedra desde lo alto de un puente en Monterrey (caída libre, g = 9.8 m/s²).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "29.4 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. 29.4 m/s es la velocidad alcanzada, no la distancia."
+        },
+        {
+          "letter": "B",
+          "text": "88.2 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió multiplicar por 1/2."
+        },
+        {
+          "letter": "C",
+          "text": "14.7 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se elevó el tiempo al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "44.1 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! d = 0.5 * g * t² = 0.5 * 9.8 * 9 = 44.1 m."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En caída libre partiendo del reposo (vi = 0), d = (1/2)*g*t² = 0.5 * 9.8 * 9 = 44.1 m.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la magnitud de la aceleración centrípeta del ciclista?",
+      "context": "Un ciclista en Guadalajara rueda por una pista circular de 50 m de radio a 10 m/s constante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 m/s²",
+          "is_correct": true,
+          "feedback": "¡Correcto! ac = v² / r = (10)² / 50 = 100 / 50 = 2 m/s²."
+        },
+        {
+          "letter": "B",
+          "text": "0.2 m/s²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la potencia de la velocidad."
+        },
+        {
+          "letter": "C",
+          "text": "5 m/s²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resultado de dividir r / v."
+        },
+        {
+          "letter": "D",
+          "text": "20 m/s²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicación errónea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En MCU, la aceleración centrípeta es ac = v² / r = 100 / 50 = 2 m/s².",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la magnitud de la aceleración de frenado?",
+      "context": "Un vehículo frena de 30 m/s a 10 m/s en un trayecto de 100 metros con desaceleración constante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-2 m/s²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurriría si la distancia fuera de 200 m."
+        },
+        {
+          "letter": "B",
+          "text": "-4 m/s²",
+          "is_correct": true,
+          "feedback": "¡Correcto! (10)² = (30)² + 2*a*100 -> 100 = 900 + 200a -> a = -800/200 = -4 m/s²."
+        },
+        {
+          "letter": "C",
+          "text": "-8 m/s²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvido del factor 2 en la ecuación."
+        },
+        {
+          "letter": "D",
+          "text": "-1 m/s²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cálculo erróneo de diferencia de cuadrados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usando vf² = vi² + 2ad, despejamos a = (vf² - vi²) / (2d) = (100 - 900) / 200 = -4 m/s².",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el tiempo total de vuelo del proyectil hasta impactar el terreno plano?",
+      "context": "Un proyectil es lanzado a 20 m/s con un ángulo de 45° respecto a la horizontal (g = 10 m/s²).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.41 segundos",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1.41 s es el tiempo de subida a la altura máxima."
+        },
+        {
+          "letter": "B",
+          "text": "4.00 segundos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería el tiempo si el tiro fuera vertical."
+        },
+        {
+          "letter": "C",
+          "text": "2.83 segundos",
+          "is_correct": true,
+          "feedback": "¡Correcto! tv = (2 * v0 * sin(45°)) / g = (2 * 20 * 0.707) / 10 = 2.83 s."
+        },
+        {
+          "letter": "D",
+          "text": "2.00 segundos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió la función seno del ángulo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El tiempo total de vuelo en tiro parabólico es tv = (2 * v0 * sin θ) / g = (40 * 0.7071) / 10 = 2.83 s.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es su aceleración instantánea constante?",
+      "context": "La posición de un móvil viene dada por la ecuación x(t) = 4t² - 2t + 5 (en metros).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 m/s²",
+          "is_correct": false,
+          "feedback": "Incorrecto. 4 es el coeficiente cuadrático, no la aceleración."
+        },
+        {
+          "letter": "B",
+          "text": "2 m/s²",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2 es el coeficiente del término lineal."
+        },
+        {
+          "letter": "C",
+          "text": "16 m/s²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicación innecesaria de la derivada."
+        },
+        {
+          "letter": "D",
+          "text": "8 m/s²",
+          "is_correct": true,
+          "feedback": "¡Correcto! v(t) = dx/dt = 8t - 2; a(t) = dv/dt = 8 m/s²."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Derivando dos veces la posición x(t) respecto al tiempo t obtenemos a(t) = 8 m/s².",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle-v9",
+      "statement": "¿Qué representa el área bajo la curva v vs t y cuál es su valor?",
+      "context": "Se analiza una gráfica v vs t triangular entre t = 0 y t = 4 s alcanzando v = 12 m/s.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El desplazamiento total recorrido; equivale a 24 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! Área = (base * altura)/2 = (4 * 12)/2 = 24 m."
+        },
+        {
+          "letter": "B",
+          "text": "La aceleración media; equivale a 3 m/s²",
+          "is_correct": false,
+          "feedback": "Incorrecto. La aceleración es la pendiente, no el área."
+        },
+        {
+          "letter": "C",
+          "text": "La velocidad promedio; equivale a 48 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. La velocidad no se mide en metros."
+        },
+        {
+          "letter": "D",
+          "text": "La fuerza neta aplicada; equivale a 6 Newtons",
+          "is_correct": false,
+          "feedback": "Incorrecto. El área v vs t no da la fuerza neta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la gráfica v vs t, el área geométrica bajo la curva representa la distancia/desplazamiento: (4 * 12)/2 = 24 m.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es su desplazamiento vectorial al completar una vuelta entera?",
+      "context": "Un dron sobrevuela una trayectoria circular cerrada de 100 m de radio a velocidad constante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "628 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. 628 m es la distancia escalar recorrida (2*π*r)."
+        },
+        {
+          "letter": "B",
+          "text": "0 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al volver al punto de partida el cambio vectorial de posición es nulo."
+        },
+        {
+          "letter": "C",
+          "text": "314 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. 314 m es la distancia en media vuelta."
+        },
+        {
+          "letter": "D",
+          "text": "100 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. 100 m es el radio de la pista."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El desplazamiento mide la diferencia entre posición final e inicial. Al completar la vuelta Δr = 0 m.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.71,
+      "bundle_id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la velocidad relativa de B observada desde A?",
+      "context": "Dos autos A (100 km/h) y B (120 km/h) viajan en el mismo sentido por una recta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "220 km/h hacia adelante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería la velocidad si viajaran en sentidos opuestos."
+        },
+        {
+          "letter": "B",
+          "text": "-20 km/h hacia atrás",
+          "is_correct": false,
+          "feedback": "Incorrecto. B es más rápido y adelanta a A."
+        },
+        {
+          "letter": "C",
+          "text": "20 km/h hacia adelante",
+          "is_correct": true,
+          "feedback": "¡Correcto! v_rel = vB - vA = 120 - 100 = +20 km/h."
+        },
+        {
+          "letter": "D",
+          "text": "100 km/h constantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la velocidad de A respecto al suelo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La velocidad relativa entre dos cuerpos moviéndose en la misma dirección es vB - vA = 120 - 100 = 20 km/h.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle-v12",
+      "statement": "¿Cuánto tarda en alcanzar la altura máxima y cuál es esa altura?",
+      "context": "Se lanza una pelota verticalmente hacia arriba a 29.4 m/s (g = 9.8 m/s²).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 segundos y 88.2 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. 6 s es el tiempo total de vuelo ida y vuelta."
+        },
+        {
+          "letter": "B",
+          "text": "2 segundos y 29.4 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cálculo incompleto de la cinemática vertical."
+        },
+        {
+          "letter": "C",
+          "text": "3 segundos y 29.4 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confusión entre velocidad inicial y altura."
+        },
+        {
+          "letter": "D",
+          "text": "3 segundos y 44.1 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! t = v0 / g = 29.4 / 9.8 = 3 s. h_max = v0²/(2g) = 44.1 m."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En el punto más alto vf = 0. t = 29.4 / 9.8 = 3 s. h_max = (29.4)² / (2 * 9.8) = 44.1 m.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.62,
+      "bundle_id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la velocidad angular ω en radianes por segundo (rad/s)?",
+      "context": "Un disco compacto gira en un reproductor a 300 revoluciones por minuto (rpm).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10π rad/s (~31.42 rad/s)",
+          "is_correct": true,
+          "feedback": "¡Correcto! ω = 300 * 2π / 60 = 10π rad/s."
+        },
+        {
+          "letter": "B",
+          "text": "5π rad/s (~15.71 rad/s)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvido del factor 2 de los radianes por vuelta."
+        },
+        {
+          "letter": "C",
+          "text": "300π rad/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin convertir minutos a segundos."
+        },
+        {
+          "letter": "D",
+          "text": "20π rad/s (~62.83 rad/s)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicación duplicada del resultado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Convertimos rpm a rad/s: ω = (300 rev/min) * (2π rad/rev) * (1 min/60 s) = 10π rad/s.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle-v14",
+      "statement": "¿Qué distancia d2 recorre durante el 2º segundo de movimiento?",
+      "context": "Un objeto parte del reposo con aceleración a constante. En el 1º segundo recorre distancia d1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "d2 = 2 * d1",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distancia sigue la proporción de números impares (1, 3, 5...)."
+        },
+        {
+          "letter": "B",
+          "text": "d2 = 3 * d1",
+          "is_correct": true,
+          "feedback": "¡Correcto! d(1)=0.5a. d(2)=2a. La distancia en el 2º segundo es 2a - 0.5a = 1.5a = 3 d1."
+        },
+        {
+          "letter": "C",
+          "text": "d2 = d1",
+          "is_correct": false,
+          "feedback": "Incorrecto. d2=d1 correspondería a velocidad constante."
+        },
+        {
+          "letter": "D",
+          "text": "d2 = 4 * d1",
+          "is_correct": false,
+          "feedback": "Incorrecto. 4*d1 es la distancia acumulada total desde t=0."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Por la regla de números impares de Galileo, las distancias recorridas en intervalos iguales en MRUA guardan la proporción 1 : 3 : 5 : 7...",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle-v15",
+      "statement": "¿Cómo se comparan los alcances horizontales máximos R obtenibles?",
+      "context": "Un proyectil se dispara a la misma velocidad inicial con ángulos de 30° y 60°.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A 60° alcanza el doble de distancia horizontal que a 30°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Alcanza mayor altura, pero idéntico alcance horizontal."
+        },
+        {
+          "letter": "B",
+          "text": "A 30° alcanza el doble de distancia horizontal que a 60°",
+          "is_correct": false,
+          "feedback": "Incorrecto. El alcance horizontal es simétrico."
+        },
+        {
+          "letter": "C",
+          "text": "Los alcances horizontales R son idénticos para ambos ángulos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para ángulos complementarios (30° + 60° = 90°), sin(2*30°)=sin(2*60°)=sin(60°), dando igual alcance."
+        },
+        {
+          "letter": "D",
+          "text": "A 60° cae verticalmente sin distancia horizontal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Posee componente de velocidad horizontal considerable."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La fórmula R = (v0² sin 2θ) / g produce el mismo resultado para ángulos complementarios θ y 90°-θ.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es el tiempo total y la distancia total del trayecto?",
+      "context": "Un tren acelera a 1.5 m/s² durante 10 s, luego viaja 20 s a velocidad constante y frena a -3 m/s² hasta parar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 s y 300 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió las etapas acelerada y frenada."
+        },
+        {
+          "letter": "B",
+          "text": "40 s y 500 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el tiempo de frenado."
+        },
+        {
+          "letter": "C",
+          "text": "35 s y 375 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo del primer tramo."
+        },
+        {
+          "letter": "D",
+          "text": "35 s y 412.5 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! d1=75m (10s), d2=300m (20s), d3=37.5m (5s). Total t=35 s, d=412.5 m."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Calculando por tramos: d1 = 75 m (10 s), d2 = 300 m (20 s), d3 = 37.5 m (5 s). Sumando: t = 35 s y d = 412.5 m.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle-v17",
+      "statement": "¿Cuáles son las expresiones para v(t) y x(t)?",
+      "context": "Se analiza un movimiento con aceleración a(t) = 6t (m/s³), partiendo del reposo en x = 0 a t = 0.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "v(t) = 3t² m/s; x(t) = t³ m",
+          "is_correct": true,
+          "feedback": "¡Correcto! v(t) = ∫ 6t dt = 3t²; x(t) = ∫ 3t² dt = t³."
+        },
+        {
+          "letter": "B",
+          "text": "v(t) = 6t² m/s; x(t) = 6t³ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al integrar los exponentes de la variable t."
+        },
+        {
+          "letter": "C",
+          "text": "v(t) = 6 m/s; x(t) = 6t m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumió aceleración constante en lugar de variable."
+        },
+        {
+          "letter": "D",
+          "text": "v(t) = 3t m/s; x(t) = 1.5t² m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Integración errónea del término lineal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Integrando sucesivamente a(t)=6t: v(t) = ∫ 6t dt = 3t², x(t) = ∫ 3t² dt = t³.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle-v18",
+      "statement": "Si se duplica v0 a 2*v0 manteniendo H, ¿cómo cambia la distancia horizontal D?",
+      "context": "Un objeto se lanza horizontalmente a v0 desde una altura H tocando el suelo a distancia D.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La distancia D se cuadruplica (4 * D)",
+          "is_correct": false,
+          "feedback": "Incorrecto. D es directamente proporcional a v0."
+        },
+        {
+          "letter": "B",
+          "text": "La distancia D se duplica exactamente (2 * D)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El tiempo de caída sólo depende de H. D = v0 * t_caída se duplica al duplicar v0."
+        },
+        {
+          "letter": "C",
+          "text": "La distancia D aumenta por factor de √2",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tiempo de caída permanece constante."
+        },
+        {
+          "letter": "D",
+          "text": "La distancia D disminuye a la mitad",
+          "is_correct": false,
+          "feedback": "Incorrecto. A mayor velocidad horizontal, la distancia recorrida es mayor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dado que t_caída = √(2H/g) no depende de la velocidad horizontal v0, D = v0 * t_caída se duplica directamente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle-v19",
+      "statement": "¿Cómo varía el periodo de oscilación T en la Luna respecto a la Tierra?",
+      "context": "Un péndulo simple oscila en la Tierra (g = 9.8 m/s²) y en la Luna (g_luna = 1.63 m/s²).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuye a la mitad (oscila más rápido)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Menor gravedad implica menor fuerza de retorno y oscilación más lenta."
+        },
+        {
+          "letter": "B",
+          "text": "Permanece idéntico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El periodo del péndulo depende de la intensidad de la gravedad."
+        },
+        {
+          "letter": "C",
+          "text": "Aumenta por un factor de √(9.8 / 1.63) ≈ 2.45 veces (oscila más lento)",
+          "is_correct": true,
+          "feedback": "¡Correcto! T = 2π √(L / g). Al disminuir g, T aumenta."
+        },
+        {
+          "letter": "D",
+          "text": "Se vuelve infinito sin oscilar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad lunar es diferente de cero (1.63 m/s²)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El periodo T = 2π √(L/g). Como g en la Luna es ~1/6 de la Tierra, el periodo se multiplica por √6 ≈ 2.45.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle-v20",
+      "statement": "¿Qué relación debe cumplirse entre la velocidad orbital v, R y g'?",
+      "context": "Un satélite orbita la Tierra en órbita circular de radio R donde la aceleración de gravedad local es g'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "v = g' * R",
+          "is_correct": false,
+          "feedback": "Incorrecto. Inconsistencia en las dimensiones físicas."
+        },
+        {
+          "letter": "B",
+          "text": "v = √(g' / R)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dimensiones erróneas."
+        },
+        {
+          "letter": "C",
+          "text": "v = 2π * g' * R²",
+          "is_correct": false,
+          "feedback": "Incorrecto. No iguala la aceleración centrípeta a la gravedad."
+        },
+        {
+          "letter": "D",
+          "text": "v = √(g' * R)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La fuerza centrípeta es la gravedad: m*v²/R = m*g' -> v = √(g' * R)."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Igualando ac = v²/R con la aceleración gravitacional local g': v²/R = g' -> v = √(g' * R).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    }
+  ]
+}

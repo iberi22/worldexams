@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "cl",
+    "pack_id": "cl-week-11-grade-11-subject-matematicas",
+    "generated_at": "2026-08-29T04:04:54.125Z"
+  },
+  "questions": [
+    {
+      "id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la pendiente $m$ de la recta que pasa por $A(1, 2)$ y $B(4, 11)$ en un plano cartesiano en Chillán?",
+      "context": "Valentina analiza situaciones académicas en Chillán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9/3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! m = (11 - 2)/(4 - 1) = 9/3."
+        },
+        {
+          "letter": "B",
+          "text": "$3/9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
+        },
+        {
+          "letter": "C",
+          "text": "$10/3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
+        },
+        {
+          "letter": "D",
+          "text": "$9/5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (11 - 2) / (4 - 1) = 9/3.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la pendiente $m$ de la recta que pasa por $A(2, 3)$ y $B(5, 12)$ en un plano cartesiano en Calama?",
+      "context": "Isidora analiza situaciones académicas en Calama.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9/3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! m = (12 - 3)/(5 - 2) = 9/3."
+        },
+        {
+          "letter": "B",
+          "text": "$3/9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
+        },
+        {
+          "letter": "C",
+          "text": "$10/3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
+        },
+        {
+          "letter": "D",
+          "text": "$9/5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (12 - 3) / (5 - 2) = 9/3.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la pendiente $m$ de la recta que pasa por $A(3, 4)$ y $B(6, 13)$ en un plano cartesiano en Valdivia?",
+      "context": "Martina analiza situaciones académicas en Valdivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9/3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! m = (13 - 4)/(6 - 3) = 9/3."
+        },
+        {
+          "letter": "B",
+          "text": "$3/9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
+        },
+        {
+          "letter": "C",
+          "text": "$10/3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
+        },
+        {
+          "letter": "D",
+          "text": "$9/5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (13 - 4) / (6 - 3) = 9/3.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la pendiente $m$ de la recta que pasa por $A(4, 5)$ y $B(7, 14)$ en un plano cartesiano en Santiago?",
+      "context": "Fernanda analiza situaciones académicas en Santiago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9/3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! m = (14 - 5)/(7 - 4) = 9/3."
+        },
+        {
+          "letter": "B",
+          "text": "$3/9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
+        },
+        {
+          "letter": "C",
+          "text": "$10/3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
+        },
+        {
+          "letter": "D",
+          "text": "$9/5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (14 - 5) / (7 - 4) = 9/3.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la pendiente $m$ de la recta que pasa por $A(5, 6)$ y $B(8, 15)$ en un plano cartesiano en Valparaíso?",
+      "context": "Tomás analiza situaciones académicas en Valparaíso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9/3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! m = (15 - 6)/(8 - 5) = 9/3."
+        },
+        {
+          "letter": "B",
+          "text": "$3/9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
+        },
+        {
+          "letter": "C",
+          "text": "$10/3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
+        },
+        {
+          "letter": "D",
+          "text": "$9/5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (15 - 6) / (8 - 5) = 9/3.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la pendiente $m$ de la recta que pasa por $A(6, 7)$ y $B(9, 16)$ en un plano cartesiano en Concepción?",
+      "context": "Matías analiza situaciones académicas en Concepción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9/3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! m = (16 - 7)/(9 - 6) = 9/3."
+        },
+        {
+          "letter": "B",
+          "text": "$3/9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
+        },
+        {
+          "letter": "C",
+          "text": "$10/3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
+        },
+        {
+          "letter": "D",
+          "text": "$9/5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (16 - 7) / (9 - 6) = 9/3.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la pendiente $m$ de la recta que pasa por $A(7, 8)$ y $B(10, 17)$ en un plano cartesiano en Antofagasta?",
+      "context": "Benjamín analiza situaciones académicas en Antofagasta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9/3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! m = (17 - 8)/(10 - 7) = 9/3."
+        },
+        {
+          "letter": "B",
+          "text": "$3/9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
+        },
+        {
+          "letter": "C",
+          "text": "$10/3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
+        },
+        {
+          "letter": "D",
+          "text": "$9/5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (17 - 8) / (10 - 7) = 9/3.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la pendiente $m$ de la recta que pasa por $A(8, 9)$ y $B(11, 18)$ en un plano cartesiano en Temuco?",
+      "context": "Javier analiza situaciones académicas en Temuco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9/3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! m = (18 - 9)/(11 - 8) = 9/3."
+        },
+        {
+          "letter": "B",
+          "text": "$3/9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
+        },
+        {
+          "letter": "C",
+          "text": "$10/3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
+        },
+        {
+          "letter": "D",
+          "text": "$9/5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (18 - 9) / (11 - 8) = 9/3.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la pendiente $m$ de la recta que pasa por $A(9, 10)$ y $B(12, 19)$ en un plano cartesiano en La Serena?",
+      "context": "Camila analiza situaciones académicas en La Serena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9/3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! m = (19 - 10)/(12 - 9) = 9/3."
+        },
+        {
+          "letter": "B",
+          "text": "$3/9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
+        },
+        {
+          "letter": "C",
+          "text": "$10/3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
+        },
+        {
+          "letter": "D",
+          "text": "$9/5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (19 - 10) / (12 - 9) = 9/3.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.66,
+      "bundle_id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la pendiente $m$ de la recta que pasa por $A(10, 11)$ y $B(13, 20)$ en un plano cartesiano en Viña del Mar?",
+      "context": "Catalina analiza situaciones académicas en Viña del Mar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9/3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! m = (20 - 11)/(13 - 10) = 9/3."
+        },
+        {
+          "letter": "B",
+          "text": "$3/9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
+        },
+        {
+          "letter": "C",
+          "text": "$10/3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
+        },
+        {
+          "letter": "D",
+          "text": "$9/5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (20 - 11) / (13 - 10) = 9/3.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.64,
+      "bundle_id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la pendiente $m$ de la recta que pasa por $A(11, 12)$ y $B(14, 21)$ en un plano cartesiano en Iquique?",
+      "context": "Sofía analiza situaciones académicas en Iquique.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9/3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! m = (21 - 12)/(14 - 11) = 9/3."
+        },
+        {
+          "letter": "B",
+          "text": "$3/9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
+        },
+        {
+          "letter": "C",
+          "text": "$10/3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
+        },
+        {
+          "letter": "D",
+          "text": "$9/5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (21 - 12) / (14 - 11) = 9/3.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la pendiente $m$ de la recta que pasa por $A(12, 13)$ y $B(15, 22)$ en un plano cartesiano en Rancagua?",
+      "context": "Lucas analiza situaciones académicas en Rancagua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9/3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! m = (22 - 13)/(15 - 12) = 9/3."
+        },
+        {
+          "letter": "B",
+          "text": "$3/9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
+        },
+        {
+          "letter": "C",
+          "text": "$10/3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
+        },
+        {
+          "letter": "D",
+          "text": "$9/5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (22 - 13) / (15 - 12) = 9/3.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.56,
+      "bundle_id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la pendiente $m$ de la recta que pasa por $A(13, 14)$ y $B(16, 23)$ en un plano cartesiano en Talca?",
+      "context": "Diego analiza situaciones académicas en Talca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9/3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! m = (23 - 14)/(16 - 13) = 9/3."
+        },
+        {
+          "letter": "B",
+          "text": "$3/9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
+        },
+        {
+          "letter": "C",
+          "text": "$10/3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
+        },
+        {
+          "letter": "D",
+          "text": "$9/5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (23 - 14) / (16 - 13) = 9/3.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.54,
+      "bundle_id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la pendiente $m$ de la recta que pasa por $A(14, 15)$ y $B(17, 24)$ en un plano cartesiano en Arica?",
+      "context": "Vicente analiza situaciones académicas en Arica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9/3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! m = (24 - 15)/(17 - 14) = 9/3."
+        },
+        {
+          "letter": "B",
+          "text": "$3/9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
+        },
+        {
+          "letter": "C",
+          "text": "$10/3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
+        },
+        {
+          "letter": "D",
+          "text": "$9/5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (24 - 15) / (17 - 14) = 9/3.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es la pendiente $m$ de la recta que pasa por $A(15, 16)$ y $B(18, 25)$ en un plano cartesiano en Puerto Montt?",
+      "context": "Sebastián analiza situaciones académicas en Puerto Montt.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9/3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! m = (25 - 16)/(18 - 15) = 9/3."
+        },
+        {
+          "letter": "B",
+          "text": "$3/9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
+        },
+        {
+          "letter": "C",
+          "text": "$10/3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
+        },
+        {
+          "letter": "D",
+          "text": "$9/5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (25 - 16) / (18 - 15) = 9/3.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la pendiente $m$ de la recta que pasa por $A(16, 17)$ y $B(19, 26)$ en un plano cartesiano en Chillán?",
+      "context": "Valentina analiza situaciones académicas en Chillán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9/3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! m = (26 - 17)/(19 - 16) = 9/3."
+        },
+        {
+          "letter": "B",
+          "text": "$3/9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
+        },
+        {
+          "letter": "C",
+          "text": "$10/3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
+        },
+        {
+          "letter": "D",
+          "text": "$9/5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (26 - 17) / (19 - 16) = 9/3.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la pendiente $m$ de la recta que pasa por $A(17, 18)$ y $B(20, 27)$ en un plano cartesiano en Calama?",
+      "context": "Isidora analiza situaciones académicas en Calama.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9/3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! m = (27 - 18)/(20 - 17) = 9/3."
+        },
+        {
+          "letter": "B",
+          "text": "$3/9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
+        },
+        {
+          "letter": "C",
+          "text": "$10/3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
+        },
+        {
+          "letter": "D",
+          "text": "$9/5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (27 - 18) / (20 - 17) = 9/3.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es la pendiente $m$ de la recta que pasa por $A(18, 19)$ y $B(21, 28)$ en un plano cartesiano en Valdivia?",
+      "context": "Martina analiza situaciones académicas en Valdivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9/3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! m = (28 - 19)/(21 - 18) = 9/3."
+        },
+        {
+          "letter": "B",
+          "text": "$3/9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
+        },
+        {
+          "letter": "C",
+          "text": "$10/3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
+        },
+        {
+          "letter": "D",
+          "text": "$9/5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (28 - 19) / (21 - 18) = 9/3.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es la pendiente $m$ de la recta que pasa por $A(19, 20)$ y $B(22, 29)$ en un plano cartesiano en Santiago?",
+      "context": "Fernanda analiza situaciones académicas en Santiago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9/3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! m = (29 - 20)/(22 - 19) = 9/3."
+        },
+        {
+          "letter": "B",
+          "text": "$3/9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
+        },
+        {
+          "letter": "C",
+          "text": "$10/3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
+        },
+        {
+          "letter": "D",
+          "text": "$9/5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (29 - 20) / (22 - 19) = 9/3.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.29,
+      "bundle_id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la pendiente $m$ de la recta que pasa por $A(20, 21)$ y $B(23, 30)$ en un plano cartesiano en Valparaíso?",
+      "context": "Tomás analiza situaciones académicas en Valparaíso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9/3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! m = (30 - 21)/(23 - 20) = 9/3."
+        },
+        {
+          "letter": "B",
+          "text": "$3/9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
+        },
+        {
+          "letter": "C",
+          "text": "$10/3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
+        },
+        {
+          "letter": "D",
+          "text": "$9/5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (30 - 21) / (23 - 20) = 9/3.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.26,
+      "bundle_id": "CL-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

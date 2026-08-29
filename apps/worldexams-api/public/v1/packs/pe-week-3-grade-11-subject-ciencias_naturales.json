@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "pe",
+    "pack_id": "pe-week-3-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T04:04:54.405Z"
+  },
+  "questions": [
+    {
+      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v1",
+      "statement": "Durante el proceso de transcripción en células eucariotas, la enzima encargada de sintetizar una hebra de ARN mensajero a partir del molde de ADN es:",
+      "context": "Un laboratorio escolar en un colegio de Lima realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ARN polimerasa II",
+          "is_correct": true,
+          "feedback": "Correcto. La ARN polimerasa II sintetiza el ARN pre-mensajero a partir del molde de ADN en el núcleo."
+        },
+        {
+          "letter": "B",
+          "text": "ADN helicasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La helicasa desenrolla y abre la doble hélice de ADN en la horquilla de replicación."
+        },
+        {
+          "letter": "C",
+          "text": "ADN ligasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ADN ligasa une los fragmentos de Okazaki en la hebra discontinua de ADN."
+        },
+        {
+          "letter": "D",
+          "text": "Topoisomerasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La topoisomerasa alivia la tensión de superenrollamiento del ADN durante la replicación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ARN polimerasa sintetiza ARNm en dirección 5' -> 3' leyendo la cadena molde de ADN.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.83,
+      "bundle_id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v2",
+      "statement": "En la replicación del ADN, la enzima que une los fragmentos de Okazaki en la hebra discontinua o retardada es la:",
+      "context": "Un laboratorio escolar en un colegio de Cusco realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ADN ligasa",
+          "is_correct": true,
+          "feedback": "Correcto. La ADN ligasa forma enlaces fosfodiéster entre los fragmentos sintetizados."
+        },
+        {
+          "letter": "B",
+          "text": "ADN polimerasa I",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ADN polimerasa I remueve los cebadores de ARN y los reemplaza por ADN."
+        },
+        {
+          "letter": "C",
+          "text": "Helicasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La helicasa separa las hebras complementarias rompiendo puentes de hidrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "Primasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primasa sintetiza los cebadores de ARN iniciales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ADN ligasa sella las muescas en el esqueleto de azúcar-fosfato uniendo fragmentos adyacentes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.81,
+      "bundle_id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v3",
+      "statement": "La Primera Ley de Mendel o Ley de la Segregación de los caracteres establece que:",
+      "context": "Un laboratorio escolar en un colegio de Arequipa realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los alelos de un gen se separan durante la formación de los gametos quedándose cada gameto con uno solo",
+          "is_correct": true,
+          "feedback": "Correcto. Durante la meiosis cada alelo del par parental segrega equitativamente en gametos distintos."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los descendientes F1 presentan fenotipo intermedio codominante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde a herencia intermedia o codominancia."
+        },
+        {
+          "letter": "C",
+          "text": "Los genes de diferentes cromosomas se heredan ligados siempre",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tercera ley aborda la transmisión independiente de genes no ligados."
+        },
+        {
+          "letter": "D",
+          "text": "El fenotipo recesivo se expresa únicamente en presencia de alelos dominantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El recesivo se expresa en homocigosis recesiva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La segregación de alelos en la meiosis explica las proporciones mendelianas 3:1 en la F2.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.79,
+      "bundle_id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v4",
+      "statement": "El triplete de nucleótidos presente en el ARN mensajero que codifica para un aminoácido específico se denomina:",
+      "context": "Un laboratorio escolar en un colegio de Trujillo realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Codón",
+          "is_correct": true,
+          "feedback": "Correcto. El codón consta de 3 bases consecutivas en el ARNm reconocido por el anticodón del ARNt."
+        },
+        {
+          "letter": "B",
+          "text": "Anticodón",
+          "is_correct": false,
+          "feedback": "Incorrecto. El anticodón es el triplete complementario en el extremo del ARNt."
+        },
+        {
+          "letter": "C",
+          "text": "Promotor",
+          "is_correct": false,
+          "feedback": "Incorrecto. El promotor es la secuencia de ADN donde se une la ARN polimerasa."
+        },
+        {
+          "letter": "D",
+          "text": "Intrón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los intrones son secuencias no codificantes eliminadas durante el empalme (splicing)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Existen 64 codones posibles que constituyen el código genético degenerado y universal.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.77,
+      "bundle_id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el codón de iniciación universal que marca el comienzo de la traducción e incorpora metionina?",
+      "context": "Un laboratorio escolar en un colegio de Chiclayo realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "AUG",
+          "is_correct": true,
+          "feedback": "Correcto. AUG codifica para metionina en eucariotas y formalmetionina en procariotas."
+        },
+        {
+          "letter": "B",
+          "text": "UAA",
+          "is_correct": false,
+          "feedback": "Incorrecto. UAA es un codón de parada o terminación (ocre)."
+        },
+        {
+          "letter": "C",
+          "text": "UAG",
+          "is_correct": false,
+          "feedback": "Incorrecto. UAG es un codón de parada (ámbar)."
+        },
+        {
+          "letter": "D",
+          "text": "UGA",
+          "is_correct": false,
+          "feedback": "Incorrecto. UGA es un codón de parada (ópalo)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "AUG marca el sitio de inicio del marco de lectura abierto en el ribosoma.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.72,
+      "bundle_id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v6",
+      "statement": "Si se cruzan dos plantas heterocigotas para la altura ($Tt \times Tt$), ¿cuál es la probabilidad genotípica de obtener descendientes homocigotos recesivos ($tt$)?",
+      "context": "Un laboratorio escolar en un colegio de Iquitos realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25% (1/4)",
+          "is_correct": true,
+          "feedback": "Correcto. El cruce heterocigoto produce genotipos 1 TT : 2 Tt : 1 tt (25% tt)."
+        },
+        {
+          "letter": "B",
+          "text": "50% (1/2)",
+          "is_correct": false,
+          "feedback": "Incorrecto. 50% corresponde a la frecuencia de heterocigotos Tt."
+        },
+        {
+          "letter": "C",
+          "text": "75% (3/4)",
+          "is_correct": false,
+          "feedback": "Incorrecto. 75% corresponde a la proporción fenotípica dominante."
+        },
+        {
+          "letter": "D",
+          "text": "100%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurriría solo entre homocigotos recesivos tt x tt."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cuadro de Punnett para Tt x Tt determina 1/4 TT, 2/4 Tt y 1/4 tt.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.69,
+      "bundle_id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v7",
+      "statement": "La anomalía cromosómica numérica caracterizada por la presencia de tres cromosomas en el par 21 (Trisomía 21) se conoce como:",
+      "context": "Un laboratorio escolar en un colegio de Piura realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Síndrome de Down",
+          "is_correct": true,
+          "feedback": "Correcto. El síndrome de Down se debe a una no disyunción meiótica del cromosoma 21."
+        },
+        {
+          "letter": "B",
+          "text": "Síndrome de Turner",
+          "is_correct": false,
+          "feedback": "Incorrecto. El síndrome de Turner es una monosomía 45,X0 en mujeres."
+        },
+        {
+          "letter": "C",
+          "text": "Síndrome de Klinefelter",
+          "is_correct": false,
+          "feedback": "Incorrecto. Klinefelter es una trisomía sexual 47,XXY en varones."
+        },
+        {
+          "letter": "D",
+          "text": "Síndrome de Edwards",
+          "is_correct": false,
+          "feedback": "Incorrecto. El síndrome de Edwards es la trisomía del cromosoma 18."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La trisomía 21 es la causa genética más frecuente de discapacidad intelectual y rasgos característicos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.66,
+      "bundle_id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v8",
+      "statement": "El proceso de eliminación de intrones y unión de exones en el ARN pre-mensajero eucariótico se llama:",
+      "context": "Un laboratorio escolar en un colegio de Huancayo realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Empalme o Splicing",
+          "is_correct": true,
+          "feedback": "Correcto. El splicing es realizado por el espliceosoma para generar el ARNm maduro."
+        },
+        {
+          "letter": "B",
+          "text": "Traducción polipeptídica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La traducción convierte ARNm en proteína en el ribosoma."
+        },
+        {
+          "letter": "C",
+          "text": "Replicación semiconservativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La replicación duplica el genoma en la fase S del ciclo celular."
+        },
+        {
+          "letter": "D",
+          "text": "Transcripción inversa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La transcripción inversa sintetiza ADN a partir de ARN viral mediante la transcriptasa inversa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El splicing alternativo permite generar múltiples isoformas proteicas a partir de un único gen.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.63,
+      "bundle_id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v9",
+      "statement": "La molécula encargada de transportar aminoácidos específicos hacia el ribosoma durante la traducción proteica es el:",
+      "context": "Un laboratorio escolar en un colegio de Puno realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ARN de transferencia (ARNt)",
+          "is_correct": true,
+          "feedback": "Correcto. El ARNt posee el anticodón complementario al codón del ARNm y carga el aminoácido en su extremo 3'."
+        },
+        {
+          "letter": "B",
+          "text": "ARN ribosomal (ARNr)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ARNr forma la estructura catalítica de las subunidades ribosómicas."
+        },
+        {
+          "letter": "C",
+          "text": "ARN nuclear pequeño (ARNsn)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ARNsn participa en el procesamiento del ARNm en el núcleo."
+        },
+        {
+          "letter": "D",
+          "text": "ADN polimerasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ADN polimerasa replica el ADN y no transporta aminoácidos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ARNt actúa como adaptador entre el código genético y la secuencia primaria de aminoácidos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v10",
+      "statement": "La hipótesis que demuestra que cada hebra original de ADN sirve como molde para sintetizar una nueva hebra complementaria se conoce como replicación:",
+      "context": "Un laboratorio escolar en un colegio de Ayacucho realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Semiconservativa",
+          "is_correct": true,
+          "feedback": "Correcto. Demostrada por Meselson y Stahl, cada molécula hija conserva una hebra antigua y una hebra nueva."
+        },
+        {
+          "letter": "B",
+          "text": "Conservativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Postulaba que la hélice paterna permanecía totalmente intacta."
+        },
+        {
+          "letter": "C",
+          "text": "Dispersiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. Postulaba que las hebras hijas eran mezclas fragmentadas de ADN viejo y nuevo."
+        },
+        {
+          "letter": "D",
+          "text": "Semicontinua exclusivamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere a la forma de síntesis leading/lagging strand, no al destino de las hebras progenitoras."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La replicación semiconservativa garantiza la fidelidad en la transmisión de la información hereditaria.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v11",
+      "statement": "Durante el proceso de transcripción en células eucariotas, la enzima encargada de sintetizar una hebra de ARN mensajero a partir del molde de ADN es:",
+      "context": "Un laboratorio escolar en un colegio de Lima realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ARN polimerasa II",
+          "is_correct": true,
+          "feedback": "Correcto. La ARN polimerasa II sintetiza el ARN pre-mensajero a partir del molde de ADN en el núcleo."
+        },
+        {
+          "letter": "B",
+          "text": "ADN helicasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La helicasa desenrolla y abre la doble hélice de ADN en la horquilla de replicación."
+        },
+        {
+          "letter": "C",
+          "text": "ADN ligasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ADN ligasa une los fragmentos de Okazaki en la hebra discontinua de ADN."
+        },
+        {
+          "letter": "D",
+          "text": "Topoisomerasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La topoisomerasa alivia la tensión de superenrollamiento del ADN durante la replicación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ARN polimerasa sintetiza ARNm en dirección 5' -> 3' leyendo la cadena molde de ADN.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.51,
+      "bundle_id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v12",
+      "statement": "En la replicación del ADN, la enzima que une los fragmentos de Okazaki en la hebra discontinua o retardada es la:",
+      "context": "Un laboratorio escolar en un colegio de Cusco realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ADN ligasa",
+          "is_correct": true,
+          "feedback": "Correcto. La ADN ligasa forma enlaces fosfodiéster entre los fragmentos sintetizados."
+        },
+        {
+          "letter": "B",
+          "text": "ADN polimerasa I",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ADN polimerasa I remueve los cebadores de ARN y los reemplaza por ADN."
+        },
+        {
+          "letter": "C",
+          "text": "Helicasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La helicasa separa las hebras complementarias rompiendo puentes de hidrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "Primasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primasa sintetiza los cebadores de ARN iniciales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ADN ligasa sella las muescas en el esqueleto de azúcar-fosfato uniendo fragmentos adyacentes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.47,
+      "bundle_id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v13",
+      "statement": "La Primera Ley de Mendel o Ley de la Segregación de los caracteres establece que:",
+      "context": "Un laboratorio escolar en un colegio de Arequipa realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los alelos de un gen se separan durante la formación de los gametos quedándose cada gameto con uno solo",
+          "is_correct": true,
+          "feedback": "Correcto. Durante la meiosis cada alelo del par parental segrega equitativamente en gametos distintos."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los descendientes F1 presentan fenotipo intermedio codominante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde a herencia intermedia o codominancia."
+        },
+        {
+          "letter": "C",
+          "text": "Los genes de diferentes cromosomas se heredan ligados siempre",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tercera ley aborda la transmisión independiente de genes no ligados."
+        },
+        {
+          "letter": "D",
+          "text": "El fenotipo recesivo se expresa únicamente en presencia de alelos dominantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El recesivo se expresa en homocigosis recesiva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La segregación de alelos en la meiosis explica las proporciones mendelianas 3:1 en la F2.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v14",
+      "statement": "El triplete de nucleótidos presente en el ARN mensajero que codifica para un aminoácido específico se denomina:",
+      "context": "Un laboratorio escolar en un colegio de Trujillo realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Codón",
+          "is_correct": true,
+          "feedback": "Correcto. El codón consta de 3 bases consecutivas en el ARNm reconocido por el anticodón del ARNt."
+        },
+        {
+          "letter": "B",
+          "text": "Anticodón",
+          "is_correct": false,
+          "feedback": "Incorrecto. El anticodón es el triplete complementario en el extremo del ARNt."
+        },
+        {
+          "letter": "C",
+          "text": "Promotor",
+          "is_correct": false,
+          "feedback": "Incorrecto. El promotor es la secuencia de ADN donde se une la ARN polimerasa."
+        },
+        {
+          "letter": "D",
+          "text": "Intrón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los intrones son secuencias no codificantes eliminadas durante el empalme (splicing)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Existen 64 codones posibles que constituyen el código genético degenerado y universal.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.39,
+      "bundle_id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es el codón de iniciación universal que marca el comienzo de la traducción e incorpora metionina?",
+      "context": "Un laboratorio escolar en un colegio de Chiclayo realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "AUG",
+          "is_correct": true,
+          "feedback": "Correcto. AUG codifica para metionina en eucariotas y formalmetionina en procariotas."
+        },
+        {
+          "letter": "B",
+          "text": "UAA",
+          "is_correct": false,
+          "feedback": "Incorrecto. UAA es un codón de parada o terminación (ocre)."
+        },
+        {
+          "letter": "C",
+          "text": "UAG",
+          "is_correct": false,
+          "feedback": "Incorrecto. UAG es un codón de parada (ámbar)."
+        },
+        {
+          "letter": "D",
+          "text": "UGA",
+          "is_correct": false,
+          "feedback": "Incorrecto. UGA es un codón de parada (ópalo)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "AUG marca el sitio de inicio del marco de lectura abierto en el ribosoma.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v16",
+      "statement": "Si se cruzan dos plantas heterocigotas para la altura ($Tt \times Tt$), ¿cuál es la probabilidad genotípica de obtener descendientes homocigotos recesivos ($tt$)?",
+      "context": "Un laboratorio escolar en un colegio de Iquitos realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25% (1/4)",
+          "is_correct": true,
+          "feedback": "Correcto. El cruce heterocigoto produce genotipos 1 TT : 2 Tt : 1 tt (25% tt)."
+        },
+        {
+          "letter": "B",
+          "text": "50% (1/2)",
+          "is_correct": false,
+          "feedback": "Incorrecto. 50% corresponde a la frecuencia de heterocigotos Tt."
+        },
+        {
+          "letter": "C",
+          "text": "75% (3/4)",
+          "is_correct": false,
+          "feedback": "Incorrecto. 75% corresponde a la proporción fenotípica dominante."
+        },
+        {
+          "letter": "D",
+          "text": "100%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurriría solo entre homocigotos recesivos tt x tt."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cuadro de Punnett para Tt x Tt determina 1/4 TT, 2/4 Tt y 1/4 tt.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.31,
+      "bundle_id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v17",
+      "statement": "La anomalía cromosómica numérica caracterizada por la presencia de tres cromosomas en el par 21 (Trisomía 21) se conoce como:",
+      "context": "Un laboratorio escolar en un colegio de Piura realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Síndrome de Down",
+          "is_correct": true,
+          "feedback": "Correcto. El síndrome de Down se debe a una no disyunción meiótica del cromosoma 21."
+        },
+        {
+          "letter": "B",
+          "text": "Síndrome de Turner",
+          "is_correct": false,
+          "feedback": "Incorrecto. El síndrome de Turner es una monosomía 45,X0 en mujeres."
+        },
+        {
+          "letter": "C",
+          "text": "Síndrome de Klinefelter",
+          "is_correct": false,
+          "feedback": "Incorrecto. Klinefelter es una trisomía sexual 47,XXY en varones."
+        },
+        {
+          "letter": "D",
+          "text": "Síndrome de Edwards",
+          "is_correct": false,
+          "feedback": "Incorrecto. El síndrome de Edwards es la trisomía del cromosoma 18."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La trisomía 21 es la causa genética más frecuente de discapacidad intelectual y rasgos característicos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v18",
+      "statement": "El proceso de eliminación de intrones y unión de exones en el ARN pre-mensajero eucariótico se llama:",
+      "context": "Un laboratorio escolar en un colegio de Huancayo realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Empalme o Splicing",
+          "is_correct": true,
+          "feedback": "Correcto. El splicing es realizado por el espliceosoma para generar el ARNm maduro."
+        },
+        {
+          "letter": "B",
+          "text": "Traducción polipeptídica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La traducción convierte ARNm en proteína en el ribosoma."
+        },
+        {
+          "letter": "C",
+          "text": "Replicación semiconservativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La replicación duplica el genoma en la fase S del ciclo celular."
+        },
+        {
+          "letter": "D",
+          "text": "Transcripción inversa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La transcripción inversa sintetiza ADN a partir de ARN viral mediante la transcriptasa inversa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El splicing alternativo permite generar múltiples isoformas proteicas a partir de un único gen.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v19",
+      "statement": "La molécula encargada de transportar aminoácidos específicos hacia el ribosoma durante la traducción proteica es el:",
+      "context": "Un laboratorio escolar en un colegio de Puno realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ARN de transferencia (ARNt)",
+          "is_correct": true,
+          "feedback": "Correcto. El ARNt posee el anticodón complementario al codón del ARNm y carga el aminoácido en su extremo 3'."
+        },
+        {
+          "letter": "B",
+          "text": "ARN ribosomal (ARNr)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ARNr forma la estructura catalítica de las subunidades ribosómicas."
+        },
+        {
+          "letter": "C",
+          "text": "ARN nuclear pequeño (ARNsn)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ARNsn participa en el procesamiento del ARNm en el núcleo."
+        },
+        {
+          "letter": "D",
+          "text": "ADN polimerasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ADN polimerasa replica el ADN y no transporta aminoácidos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ARNt actúa como adaptador entre el código genético y la secuencia primaria de aminoácidos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.15,
+      "bundle_id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v20",
+      "statement": "La hipótesis que demuestra que cada hebra original de ADN sirve como molde para sintetizar una nueva hebra complementaria se conoce como replicación:",
+      "context": "Un laboratorio escolar en un colegio de Ayacucho realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Semiconservativa",
+          "is_correct": true,
+          "feedback": "Correcto. Demostrada por Meselson y Stahl, cada molécula hija conserva una hebra antigua y una hebra nueva."
+        },
+        {
+          "letter": "B",
+          "text": "Conservativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Postulaba que la hélice paterna permanecía totalmente intacta."
+        },
+        {
+          "letter": "C",
+          "text": "Dispersiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. Postulaba que las hebras hijas eran mezclas fragmentadas de ADN viejo y nuevo."
+        },
+        {
+          "letter": "D",
+          "text": "Semicontinua exclusivamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere a la forma de síntesis leading/lagging strand, no al destino de las hebras progenitoras."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La replicación semiconservativa garantiza la fidelidad en la transmisión de la información hereditaria.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.1,
+      "bundle_id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    }
+  ]
+}

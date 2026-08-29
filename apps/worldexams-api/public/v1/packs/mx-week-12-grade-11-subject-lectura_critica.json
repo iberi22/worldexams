@@ -8,6 +8,906 @@
   },
   "questions": [
     {
+      "id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle-v1",
+      "statement": "¿A qué tipo de texto corresponde el fragmento anterior?",
+      "context": "**Pasaje:** El regreso de la mariposa monarca\n\nCada año, al comenzar el invierno, millones de mariposas monarca llegan a los bosques de oyamel de la Reserva de la Biósfera Mariposa Monarca, en los límites de Michoacán y el Estado de México. Han recorrido miles de kilómetros desde el sur de Canadá y el norte de Estados Unidos. En los santuarios de El Rosario y Sierra Chincua, los visitantes observan cómo las ramas se doblan bajo el peso de las colonias. La llegada es recibida como una fiesta: para las comunidades de la región significa turismo, empleo y prestigio; para los científicos, una señal del estado del ecosistema. Sin embargo, la misma celebración encierra una advertencia: la tala ilegal, las sequías y el uso de plaguicidas reducen año con año la superficie de bosque disponible. Proteger los santuarios, concluye la nota, no es solo un gesto de cariño por una mariposa: es una decisión sobre el futuro de los bosques templados de México.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A un cuento fantástico sobre insectos parlantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay elementos ficticios ni personajes fantásticos."
+        },
+        {
+          "letter": "B",
+          "text": "A un reglamento de visitantes de la reserva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se enumeran normas ni sanciones."
+        },
+        {
+          "letter": "C",
+          "text": "A una nota informativa de divulgación, pues expone datos sobre un fenómeno real.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto informa sobre la migración de la monarca con datos verificables."
+        },
+        {
+          "letter": "D",
+          "text": "A un texto publicitario de una aerolínea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No promueve ningún servicio comercial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El texto presenta información objetiva sobre la llegada de la mariposa monarca a México: datos de lugar, origen del viaje y amenazas. Es una nota informativa de divulgación, de tipo expositivo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle-v2",
+      "statement": "Según la nota, ¿dónde se refugian las mariposas monarca al llegar a México?",
+      "context": "**Pasaje:** El regreso de la mariposa monarca\n\nCada año, al comenzar el invierno, millones de mariposas monarca llegan a los bosques de oyamel de la Reserva de la Biósfera Mariposa Monarca, en los límites de Michoacán y el Estado de México. Han recorrido miles de kilómetros desde el sur de Canadá y el norte de Estados Unidos. En los santuarios de El Rosario y Sierra Chincua, los visitantes observan cómo las ramas se doblan bajo el peso de las colonias. La llegada es recibida como una fiesta: para las comunidades de la región significa turismo, empleo y prestigio; para los científicos, una señal del estado del ecosistema. Sin embargo, la misma celebración encierra una advertencia: la tala ilegal, las sequías y el uso de plaguicidas reducen año con año la superficie de bosque disponible. Proteger los santuarios, concluye la nota, no es solo un gesto de cariño por una mariposa: es una decisión sobre el futuro de los bosques templados de México.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En los bosques de coníferas de Chihuahua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nota sitúa los santuarios en el centro del país, no en el norte."
+        },
+        {
+          "letter": "B",
+          "text": "En los bosques de oyamel de la Reserva de la Biósfera Mariposa Monarca, entre Michoacán y el Estado de México.",
+          "is_correct": true,
+          "feedback": "Correcto. Es el dato explícito que ofrece el texto."
+        },
+        {
+          "letter": "C",
+          "text": "En las selvas bajas de la península de Yucatán.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mariposas no se refugian en selvas tropicales según la nota."
+        },
+        {
+          "letter": "D",
+          "text": "En los desiertos de Baja California.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no menciona esa región."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta se localiza directamente en el texto: las monarcas llegan a los bosques de oyamel de la Reserva de la Biósfera Mariposa Monarca, entre Michoacán y el Estado de México.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la idea principal de la nota?",
+      "context": "**Pasaje:** El regreso de la mariposa monarca\n\nCada año, al comenzar el invierno, millones de mariposas monarca llegan a los bosques de oyamel de la Reserva de la Biósfera Mariposa Monarca, en los límites de Michoacán y el Estado de México. Han recorrido miles de kilómetros desde el sur de Canadá y el norte de Estados Unidos. En los santuarios de El Rosario y Sierra Chincua, los visitantes observan cómo las ramas se doblan bajo el peso de las colonias. La llegada es recibida como una fiesta: para las comunidades de la región significa turismo, empleo y prestigio; para los científicos, una señal del estado del ecosistema. Sin embargo, la misma celebración encierra una advertencia: la tala ilegal, las sequías y el uso de plaguicidas reducen año con año la superficie de bosque disponible. Proteger los santuarios, concluye la nota, no es solo un gesto de cariño por una mariposa: es una decisión sobre el futuro de los bosques templados de México.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las mariposas monarca son la atracción turística más cara del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nota no trata costos ni compara atracciones."
+        },
+        {
+          "letter": "B",
+          "text": "La llegada de la monarca es un acontecimiento valioso que también alerta sobre las amenazas a los bosques.",
+          "is_correct": true,
+          "feedback": "Correcto. La nota equilibra la celebración con la advertencia sobre tala, sequías y plaguicidas."
+        },
+        {
+          "letter": "C",
+          "text": "Los santuarios deben cerrarse a los visitantes para siempre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto reconoce que el turismo beneficia a las comunidades."
+        },
+        {
+          "letter": "D",
+          "text": "La mariposa monarca ya no migra a México.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda la nota describe su llegada anual."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La idea principal integra las dos caras del texto: la llegada de la monarca es una celebración y, al mismo tiempo, un termómetro que alerta sobre la salud de los bosques y sus amenazas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el propósito principal del autor de la nota?",
+      "context": "**Pasaje:** El regreso de la mariposa monarca\n\nCada año, al comenzar el invierno, millones de mariposas monarca llegan a los bosques de oyamel de la Reserva de la Biósfera Mariposa Monarca, en los límites de Michoacán y el Estado de México. Han recorrido miles de kilómetros desde el sur de Canadá y el norte de Estados Unidos. En los santuarios de El Rosario y Sierra Chincua, los visitantes observan cómo las ramas se doblan bajo el peso de las colonias. La llegada es recibida como una fiesta: para las comunidades de la región significa turismo, empleo y prestigio; para los científicos, una señal del estado del ecosistema. Sin embargo, la misma celebración encierra una advertencia: la tala ilegal, las sequías y el uso de plaguicidas reducen año con año la superficie de bosque disponible. Proteger los santuarios, concluye la nota, no es solo un gesto de cariño por una mariposa: es una decisión sobre el futuro de los bosques templados de México.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vender paquetes turísticos a los santuarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nota no promueve servicios comerciales."
+        },
+        {
+          "letter": "B",
+          "text": "Narrar una leyenda indígena sobre la mariposa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay relato legendario."
+        },
+        {
+          "letter": "C",
+          "text": "Informar sobre la migración de la monarca y llamar la atención sobre su conservación.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto informa y cierra con un llamado a proteger los santuarios."
+        },
+        {
+          "letter": "D",
+          "text": "Describir el ciclo de vida de la mariposa en detalle.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ciclo de vida no es el tema de esta nota."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El propósito del texto informativo es comunicar un fenómeno y, en este caso, generar conciencia: la nota describe la migración y concluye subrayando la importancia de proteger los bosques.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle-v5",
+      "statement": "Cuando la nota dice que la llegada de la monarca es \"una señal del estado del ecosistema\", quiere decir que:",
+      "context": "**Pasaje:** El regreso de la mariposa monarca\n\nCada año, al comenzar el invierno, millones de mariposas monarca llegan a los bosques de oyamel de la Reserva de la Biósfera Mariposa Monarca, en los límites de Michoacán y el Estado de México. Han recorrido miles de kilómetros desde el sur de Canadá y el norte de Estados Unidos. En los santuarios de El Rosario y Sierra Chincua, los visitantes observan cómo las ramas se doblan bajo el peso de las colonias. La llegada es recibida como una fiesta: para las comunidades de la región significa turismo, empleo y prestigio; para los científicos, una señal del estado del ecosistema. Sin embargo, la misma celebración encierra una advertencia: la tala ilegal, las sequías y el uso de plaguicidas reducen año con año la superficie de bosque disponible. Proteger los santuarios, concluye la nota, no es solo un gesto de cariño por una mariposa: es una decisión sobre el futuro de los bosques templados de México.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "las mariposas transmiten mensajes entre los árboles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión es figurada, no literal."
+        },
+        {
+          "letter": "B",
+          "text": "los santuarios emiten señales de radio a los visitantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se alude a ningún sistema de comunicaciones."
+        },
+        {
+          "letter": "C",
+          "text": "la cantidad de mariposas refleja la salud de los bosques donde se refugian.",
+          "is_correct": true,
+          "feedback": "Correcto. La paráfrasis conserva el sentido: si el bosque está sano, la población de monarcas lo muestra."
+        },
+        {
+          "letter": "D",
+          "text": "los científicos usan a las mariposas como mascotas de laboratorio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no habla de laboratorios ni de mascotas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Parafrasear la metáfora implica traducirla a lenguaje directo: la población de monarcas funciona como un indicador de la salud del ecosistema del bosque.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle-v6",
+      "statement": "Según el artículo, ¿cuál es el orden correcto del ciclo de vida descrito?",
+      "context": "**Pasaje:** Las cuatro generaciones de la monarca\n\nLa ruta migratoria de la mariposa monarca no la completa un solo individuo. En primavera y verano, varias generaciones viven apenas unas semanas: nacen, se reproducen y mueren en los campos del norte. La última generación del año es distinta: retrasa su reproducción, acumula reservas y emprende el viaje de miles de kilómetros hacia el centro de México. Esa generación, llamada por algunos científicos la generación Methuselah, puede vivir varios meses y es la que llega a los santuarios de oyamel. Al regreso de la primavera, esas mariposas ponen sus huevos en el sur de Estados Unidos y mueren; sus descendientes continuarán el camino hacia el norte. Por eso se dice que ninguna mariposa hace el viaje completo de ida y vuelta: la migración es una herencia que se transmite de generación en generación, como una memoria escrita en el instinto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nacer, reproducirse, morir y transmitir la migración a los descendientes.",
+          "is_correct": true,
+          "feedback": "Correcto. Ese es el ciclo que el texto describe para cada generación."
+        },
+        {
+          "letter": "B",
+          "text": "Migrar primero y reproducirse después durante varios años.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La generación migratoria retrasa la reproducción hasta llegar al destino."
+        },
+        {
+          "letter": "C",
+          "text": "Vivir varios años antes de emprender cualquier viaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las generaciones de verano viven apenas unas semanas."
+        },
+        {
+          "letter": "D",
+          "text": "Nacer en México y morir en Canadá.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto aclara que ninguna mariposa completa el viaje de ida y vuelta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La secuencia del texto es: las generaciones de verano nacen, se reproducen y mueren; la generación migratoria retrasa su reproducción, viaja y, al regreso de la primavera, deja sus huevos, con lo que la migración continúa en sus descendientes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle-v7",
+      "statement": "En la frase \"millones de mariposas monarca llegan a los bosques\", la palabra \"colonias\" se refiere a:",
+      "context": "**Pasaje:** El regreso de la mariposa monarca\n\nCada año, al comenzar el invierno, millones de mariposas monarca llegan a los bosques de oyamel de la Reserva de la Biósfera Mariposa Monarca, en los límites de Michoacán y el Estado de México. Han recorrido miles de kilómetros desde el sur de Canadá y el norte de Estados Unidos. En los santuarios de El Rosario y Sierra Chincua, los visitantes observan cómo las ramas se doblan bajo el peso de las colonias. La llegada es recibida como una fiesta: para las comunidades de la región significa turismo, empleo y prestigio; para los científicos, una señal del estado del ecosistema. Sin embargo, la misma celebración encierra una advertencia: la tala ilegal, las sequías y el uso de plaguicidas reducen año con año la superficie de bosque disponible. Proteger los santuarios, concluye la nota, no es solo un gesto de cariño por una mariposa: es una decisión sobre el futuro de los bosques templados de México.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pueblos fundados por los visitantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se trata de asentamientos humanos."
+        },
+        {
+          "letter": "B",
+          "text": "Grandes grupos de mariposas que permanecen juntas.",
+          "is_correct": true,
+          "feedback": "Correcto. En el contexto, las colonias son las agrupaciones de mariposas posadas en los árboles."
+        },
+        {
+          "letter": "C",
+          "text": "Paquetes turísticos organizados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El contexto habla de mariposas, no de servicios."
+        },
+        {
+          "letter": "D",
+          "text": "Especies de árboles de la reserva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las colonias no son vegetación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El significado de \"colonias\" se deduce del contexto: las ramas se doblan por el peso de las colonias, es decir, de los conjuntos de mariposas agrupadas en los árboles.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle-v8",
+      "statement": "En el artículo, ¿qué significa que una mariposa \"retrasa su reproducción\"?",
+      "context": "**Pasaje:** Las cuatro generaciones de la monarca\n\nLa ruta migratoria de la mariposa monarca no la completa un solo individuo. En primavera y verano, varias generaciones viven apenas unas semanas: nacen, se reproducen y mueren en los campos del norte. La última generación del año es distinta: retrasa su reproducción, acumula reservas y emprende el viaje de miles de kilómetros hacia el centro de México. Esa generación, llamada por algunos científicos la generación Methuselah, puede vivir varios meses y es la que llega a los santuarios de oyamel. Al regreso de la primavera, esas mariposas ponen sus huevos en el sur de Estados Unidos y mueren; sus descendientes continuarán el camino hacia el norte. Por eso se dice que ninguna mariposa hace el viaje completo de ida y vuelta: la migración es una herencia que se transmite de generación en generación, como una memoria escrita en el instinto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que deja de reproducirse para siempre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El retraso es temporal, no definitivo."
+        },
+        {
+          "letter": "B",
+          "text": "Que pospone poner huevos hasta después del viaje.",
+          "is_correct": true,
+          "feedback": "Correcto. La generación migratoria acumula reservas y reproduce primero su viaje, no su descendencia."
+        },
+        {
+          "letter": "C",
+          "text": "Que se reproduce más de una vez por semana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no describe esa frecuencia."
+        },
+        {
+          "letter": "D",
+          "text": "Que muere antes de reproducirse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al final de la primavera esas mariposas sí ponen sus huevos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Retrasa su reproducción\" se entiende por el contexto: la generación final del año pospone la puesta de huevos hasta llegar al destino, lo que le permite dedicar su energía al viaje.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle-v9",
+      "statement": "En la frase \"Esa generación, llamada por algunos científicos la generación Methuselah\", ¿a qué generación se refiere el demostrativo \"Esa\"?",
+      "context": "**Pasaje:** Las cuatro generaciones de la monarca\n\nLa ruta migratoria de la mariposa monarca no la completa un solo individuo. En primavera y verano, varias generaciones viven apenas unas semanas: nacen, se reproducen y mueren en los campos del norte. La última generación del año es distinta: retrasa su reproducción, acumula reservas y emprende el viaje de miles de kilómetros hacia el centro de México. Esa generación, llamada por algunos científicos la generación Methuselah, puede vivir varios meses y es la que llega a los santuarios de oyamel. Al regreso de la primavera, esas mariposas ponen sus huevos en el sur de Estados Unidos y mueren; sus descendientes continuarán el camino hacia el norte. Por eso se dice que ninguna mariposa hace el viaje completo de ida y vuelta: la migración es una herencia que se transmite de generación en generación, como una memoria escrita en el instinto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A las generaciones de verano que viven pocas semanas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Esa\" remite a la generación recién descrita, no a las anteriores."
+        },
+        {
+          "letter": "B",
+          "text": "A la última generación del año, la que retrasa su reproducción y migra.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Esa\" retoma la generación mencionada en la oración anterior."
+        },
+        {
+          "letter": "C",
+          "text": "A los científicos que estudian a la mariposa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Esa generación\" no puede referirse a personas."
+        },
+        {
+          "letter": "D",
+          "text": "A los santuarios de oyamel del centro de México.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El demostrativo acompaña a \"generación\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El demostrativo \"Esa\" funciona como referencia anafórica: conecta la oración con la \"última generación del año\" descrita justo antes, garantizando la cohesión del texto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle-v10",
+      "statement": "¿Qué función cumple la palabra \"Sin embargo\" al inicio de la oración \"Sin embargo, la misma celebración encierra una advertencia\"?",
+      "context": "**Pasaje:** El regreso de la mariposa monarca\n\nCada año, al comenzar el invierno, millones de mariposas monarca llegan a los bosques de oyamel de la Reserva de la Biósfera Mariposa Monarca, en los límites de Michoacán y el Estado de México. Han recorrido miles de kilómetros desde el sur de Canadá y el norte de Estados Unidos. En los santuarios de El Rosario y Sierra Chincua, los visitantes observan cómo las ramas se doblan bajo el peso de las colonias. La llegada es recibida como una fiesta: para las comunidades de la región significa turismo, empleo y prestigio; para los científicos, una señal del estado del ecosistema. Sin embargo, la misma celebración encierra una advertencia: la tala ilegal, las sequías y el uso de plaguicidas reducen año con año la superficie de bosque disponible. Proteger los santuarios, concluye la nota, no es solo un gesto de cariño por una mariposa: es una decisión sobre el futuro de los bosques templados de México.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Añadir otro ejemplo de festejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No suma un ejemplo."
+        },
+        {
+          "letter": "B",
+          "text": "Marcar un contraste entre la celebración y los riesgos que la acompañan.",
+          "is_correct": true,
+          "feedback": "Correcto. El conector opone la fiesta de la llegada a la advertencia sobre las amenazas."
+        },
+        {
+          "letter": "C",
+          "text": "Indicar una consecuencia lógica de la migración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No expresa consecuencia."
+        },
+        {
+          "letter": "D",
+          "text": "Ordenar cronológicamente las estaciones del año.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No organiza una secuencia temporal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Sin embargo\" es un conector de contraste: el autor pasa de la celebración de la llegada a la advertencia sobre tala, sequías y plaguicidas, y el conector hace visible ese cambio de perspectiva.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál de las siguientes opciones resume de manera más completa la convocatoria?",
+      "context": "**Pasaje:** Convocatoria de voluntariado\n\nEl Comité de Conservación de la Reserva convoca a jóvenes de entre 18 y 25 años de Toluca, Morelia y Ciudad de México a participar en la brigada de invierno. Actividades: monitoreo de colonias, mantenimiento de senderos y talleres de educación ambiental con escuelas locales. Perfil deseado: interés por el trabajo de campo, disponibilidad de fines de semana de noviembre a febrero y disposición para convivir con comunidades rurales. Se ofrece: capacitación, equipo básico y constancia con valor curricular. Los interesados deberán enviar una carta de motivos antes de la fecha límite señalada. El cupo es limitado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una escuela de Toluca busca estudiantes de biología para un examen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una escuela ni un examen."
+        },
+        {
+          "letter": "B",
+          "text": "Un comité busca jóvenes voluntarios para actividades de conservación durante el invierno, con capacitación y constancia.",
+          "is_correct": true,
+          "feedback": "Correcto. El resumen conserva convocante, perfil, actividades y beneficios."
+        },
+        {
+          "letter": "C",
+          "text": "Un grupo turístico vende recorridos de fin de semana por los santuarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se venden recorridos."
+        },
+        {
+          "letter": "D",
+          "text": "Una reserva contrata empleados de tiempo completo durante todo el año.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es voluntariado de fines de semana, no empleo de tiempo completo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resumir un texto discontinuo como una convocatoria exige identificar convocante, requisitos, actividades y beneficios. La opción B integra esos elementos sin inventar información.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle-v12",
+      "statement": "¿Con qué intención principal se escribió esta convocatoria?",
+      "context": "**Pasaje:** Convocatoria de voluntariado\n\nEl Comité de Conservación de la Reserva convoca a jóvenes de entre 18 y 25 años de Toluca, Morelia y Ciudad de México a participar en la brigada de invierno. Actividades: monitoreo de colonias, mantenimiento de senderos y talleres de educación ambiental con escuelas locales. Perfil deseado: interés por el trabajo de campo, disponibilidad de fines de semana de noviembre a febrero y disposición para convivir con comunidades rurales. Se ofrece: capacitación, equipo básico y constancia con valor curricular. Los interesados deberán enviar una carta de motivos antes de la fecha límite señalada. El cupo es limitado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con la intención de informar los resultados de un censo de mariposas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No presenta resultados."
+        },
+        {
+          "letter": "B",
+          "text": "Con la intención de narrar las experiencias de los brigadistas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay narración de experiencias."
+        },
+        {
+          "letter": "C",
+          "text": "Con la intención de invitar a jóvenes a participar en un programa de conservación.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto busca reclutar voluntarios para la brigada."
+        },
+        {
+          "letter": "D",
+          "text": "Con la intención de prohibir la entrada a los santuarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No establece prohibiciones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El propósito de una convocatoria es persuadir a un público específico para que participe: aquí, invitar a jóvenes a unirse a la brigada de conservación durante el invierno.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle-v13",
+      "statement": "Si ninguna mariposa completa el viaje de ida y vuelta, ¿qué se infiere sobre la migración?",
+      "context": "**Pasaje:** Las cuatro generaciones de la monarca\n\nLa ruta migratoria de la mariposa monarca no la completa un solo individuo. En primavera y verano, varias generaciones viven apenas unas semanas: nacen, se reproducen y mueren en los campos del norte. La última generación del año es distinta: retrasa su reproducción, acumula reservas y emprende el viaje de miles de kilómetros hacia el centro de México. Esa generación, llamada por algunos científicos la generación Methuselah, puede vivir varios meses y es la que llega a los santuarios de oyamel. Al regreso de la primavera, esas mariposas ponen sus huevos en el sur de Estados Unidos y mueren; sus descendientes continuarán el camino hacia el norte. Por eso se dice que ninguna mariposa hace el viaje completo de ida y vuelta: la migración es una herencia que se transmite de generación en generación, como una memoria escrita en el instinto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que cada mariposa nace sabiendo la ruta completa por experiencia propia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna lo recorre completo, por lo que no puede aprenderlo por experiencia."
+        },
+        {
+          "letter": "B",
+          "text": "Que el viaje solo ocurre cada varias décadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La migración es anual."
+        },
+        {
+          "letter": "C",
+          "text": "Que la ruta se transmite de generación en generación mediante mecanismos heredados.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto lo dice con la metáfora de \"una memoria escrita en el instinto\"."
+        },
+        {
+          "letter": "D",
+          "text": "Que las mariposas migratorias son guiadas por los científicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay intervención humana en la guía."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La inferencia clave del texto es que la migración no depende de la experiencia individual: se transmite entre generaciones como una pauta heredada, lo que el autor llama memoria escrita en el instinto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle-v14",
+      "statement": "¿Qué función cumple la última oración de la nota?",
+      "context": "**Pasaje:** El regreso de la mariposa monarca\n\nCada año, al comenzar el invierno, millones de mariposas monarca llegan a los bosques de oyamel de la Reserva de la Biósfera Mariposa Monarca, en los límites de Michoacán y el Estado de México. Han recorrido miles de kilómetros desde el sur de Canadá y el norte de Estados Unidos. En los santuarios de El Rosario y Sierra Chincua, los visitantes observan cómo las ramas se doblan bajo el peso de las colonias. La llegada es recibida como una fiesta: para las comunidades de la región significa turismo, empleo y prestigio; para los científicos, una señal del estado del ecosistema. Sin embargo, la misma celebración encierra una advertencia: la tala ilegal, las sequías y el uso de plaguicidas reducen año con año la superficie de bosque disponible. Proteger los santuarios, concluye la nota, no es solo un gesto de cariño por una mariposa: es una decisión sobre el futuro de los bosques templados de México.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar una hipótesis científica sin comprobar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se formula una hipótesis de investigación."
+        },
+        {
+          "letter": "B",
+          "text": "Describir el paisaje de la reserva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay descripción paisajística final."
+        },
+        {
+          "letter": "C",
+          "text": "Cerrar el texto ampliando el sentido del tema: proteger la mariposa es proteger los bosques.",
+          "is_correct": true,
+          "feedback": "Correcto. La conclusión eleva el motivo de la conservación a una decisión de futuro."
+        },
+        {
+          "letter": "D",
+          "text": "Introducir una nueva especie migratoria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se introduce otra especie."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La estructura de la nota es: presentación del fenómeno, desarrollo con datos y cierre valorativo. La última oración concluye ampliando el tema: la protección de la mariposa equivale a la protección de los bosques templados.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es la postura del autor frente a la conservación de los santuarios?",
+      "context": "**Pasaje:** El regreso de la mariposa monarca\n\nCada año, al comenzar el invierno, millones de mariposas monarca llegan a los bosques de oyamel de la Reserva de la Biósfera Mariposa Monarca, en los límites de Michoacán y el Estado de México. Han recorrido miles de kilómetros desde el sur de Canadá y el norte de Estados Unidos. En los santuarios de El Rosario y Sierra Chincua, los visitantes observan cómo las ramas se doblan bajo el peso de las colonias. La llegada es recibida como una fiesta: para las comunidades de la región significa turismo, empleo y prestigio; para los científicos, una señal del estado del ecosistema. Sin embargo, la misma celebración encierra una advertencia: la tala ilegal, las sequías y el uso de plaguicidas reducen año con año la superficie de bosque disponible. Proteger los santuarios, concluye la nota, no es solo un gesto de cariño por una mariposa: es una decisión sobre el futuro de los bosques templados de México.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indiferente, pues solo describe datos sin tomar partido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conclusión toma partido claramente."
+        },
+        {
+          "letter": "B",
+          "text": "Comprometida y favorable a la protección del bosque.",
+          "is_correct": true,
+          "feedback": "Correcto. El autor valora la llegada de la monarca y llama a proteger los santuarios."
+        },
+        {
+          "letter": "C",
+          "text": "Contraria, pues considera que el turismo destruye todo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor reconoce beneficios del turismo para las comunidades."
+        },
+        {
+          "letter": "D",
+          "text": "Escéptica, pues duda de que las mariposas existan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto da por real la migración."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La postura se deduce del tratamiento del tema: el autor celebra la migración, advierte sobre las amenazas y cierra con un llamado explícito a proteger los santuarios, lo que revela una postura comprometida a favor de la conservación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle-v16",
+      "statement": "Si una joven de Guadalajara no está registrada en Toluca, Morelia ni Ciudad de México, ¿qué se infiere de la convocatoria?",
+      "context": "**Pasaje:** Convocatoria de voluntariado\n\nEl Comité de Conservación de la Reserva convoca a jóvenes de entre 18 y 25 años de Toluca, Morelia y Ciudad de México a participar en la brigada de invierno. Actividades: monitoreo de colonias, mantenimiento de senderos y talleres de educación ambiental con escuelas locales. Perfil deseado: interés por el trabajo de campo, disponibilidad de fines de semana de noviembre a febrero y disposición para convivir con comunidades rurales. Se ofrece: capacitación, equipo básico y constancia con valor curricular. Los interesados deberán enviar una carta de motivos antes de la fecha límite señalada. El cupo es limitado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que será aceptada automáticamente por venir de otra ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La convocatoria no establece esa ventaja."
+        },
+        {
+          "letter": "B",
+          "text": "Que en principio el llamado se dirige a jóvenes de las tres ciudades señaladas.",
+          "is_correct": true,
+          "feedback": "Correcto. La convocatoria explicita esas procedencias, lo que sugiere una convocatoria regional."
+        },
+        {
+          "letter": "C",
+          "text": "Que no podrá participar nunca, sin importar las circunstancias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no establece una exclusión absoluta; solo señala el perfil buscado."
+        },
+        {
+          "letter": "D",
+          "text": "Que deberá presentar un examen médico obligatorio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se menciona ningún examen médico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferir implica leer entre líneas: la mención de tres ciudades indica que la convocatoria tiene un alcance regional; de ello no se sigue una prohibición absoluta para otros, pero sí un perfil preferente de procedencia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle-v17",
+      "statement": "¿Qué elemento haría más confiable esta convocatoria ante un lector crítico?",
+      "context": "**Pasaje:** Convocatoria de voluntariado\n\nEl Comité de Conservación de la Reserva convoca a jóvenes de entre 18 y 25 años de Toluca, Morelia y Ciudad de México a participar en la brigada de invierno. Actividades: monitoreo de colonias, mantenimiento de senderos y talleres de educación ambiental con escuelas locales. Perfil deseado: interés por el trabajo de campo, disponibilidad de fines de semana de noviembre a febrero y disposición para convivir con comunidades rurales. Se ofrece: capacitación, equipo básico y constancia con valor curricular. Los interesados deberán enviar una carta de motivos antes de la fecha límite señalada. El cupo es limitado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La promesa de una constancia con valor curricular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un beneficio no aumenta la confiabilidad del aviso."
+        },
+        {
+          "letter": "B",
+          "text": "El nombre de una institución responsable y datos de contacto verificables.",
+          "is_correct": true,
+          "feedback": "Correcto. Identificar al emisor y permitir verificar la convocatoria la vuelve más confiable."
+        },
+        {
+          "letter": "C",
+          "text": "El uso de letras de colores llamativos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diseño no aporta confiabilidad."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación de que el cupo es limitado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La restricción de cupo no es prueba de legitimidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar la confiabilidad de un texto discontinuo implica verificar la identidad del emisor y la posibilidad de comprobar la información. Una convocatoria sin institución responsable ni contacto resulta difícil de verificar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle-v18",
+      "statement": "De las siguientes afirmaciones, ¿cuál es un hecho verificable y no una opinión?",
+      "context": "**Pasaje:** El regreso de la mariposa monarca\n\nCada año, al comenzar el invierno, millones de mariposas monarca llegan a los bosques de oyamel de la Reserva de la Biósfera Mariposa Monarca, en los límites de Michoacán y el Estado de México. Han recorrido miles de kilómetros desde el sur de Canadá y el norte de Estados Unidos. En los santuarios de El Rosario y Sierra Chincua, los visitantes observan cómo las ramas se doblan bajo el peso de las colonias. La llegada es recibida como una fiesta: para las comunidades de la región significa turismo, empleo y prestigio; para los científicos, una señal del estado del ecosistema. Sin embargo, la misma celebración encierra una advertencia: la tala ilegal, las sequías y el uso de plaguicidas reducen año con año la superficie de bosque disponible. Proteger los santuarios, concluye la nota, no es solo un gesto de cariño por una mariposa: es una decisión sobre el futuro de los bosques templados de México.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las mariposas monarca migran cada año desde el sur de Canadá y el norte de Estados Unidos hacia México.",
+          "is_correct": true,
+          "feedback": "Correcto. Es un fenómeno documentado y comprobable."
+        },
+        {
+          "letter": "B",
+          "text": "Proteger los santuarios es una decisión sobre el futuro del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una valoración del autor."
+        },
+        {
+          "letter": "C",
+          "text": "La llegada de la monarca debería celebrarse con más fiestas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Expresa un deseo o juicio personal."
+        },
+        {
+          "letter": "D",
+          "text": "Los santuarios son el lugar más hermoso del mundo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una apreciación subjetiva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Distinguir hecho de opinión: la migración anual de la monarca es un fenómeno observado y documentado, mientras que las demás afirmaciones expresan valoraciones o deseos personales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle-v19",
+      "statement": "El autor compara la migración con \"una memoria escrita en el instinto\". ¿Qué implica esa metáfora?",
+      "context": "**Pasaje:** Las cuatro generaciones de la monarca\n\nLa ruta migratoria de la mariposa monarca no la completa un solo individuo. En primavera y verano, varias generaciones viven apenas unas semanas: nacen, se reproducen y mueren en los campos del norte. La última generación del año es distinta: retrasa su reproducción, acumula reservas y emprende el viaje de miles de kilómetros hacia el centro de México. Esa generación, llamada por algunos científicos la generación Methuselah, puede vivir varios meses y es la que llega a los santuarios de oyamel. Al regreso de la primavera, esas mariposas ponen sus huevos en el sur de Estados Unidos y mueren; sus descendientes continuarán el camino hacia el norte. Por eso se dice que ninguna mariposa hace el viaje completo de ida y vuelta: la migración es una herencia que se transmite de generación en generación, como una memoria escrita en el instinto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las mariposas recuerdan sus vidas anteriores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La metáfora no alude a vidas pasadas ni a recuerdos conscientes."
+        },
+        {
+          "letter": "B",
+          "text": "Que la información de la ruta está incorporada en el comportamiento heredado, sin aprendizaje previo.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Memoria en el instinto\" sugiere una pauta innata que se transmite entre generaciones."
+        },
+        {
+          "letter": "C",
+          "text": "Que los científicos escriben bitácoras de viaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La memoria no pertenece a los científicos."
+        },
+        {
+          "letter": "D",
+          "text": "Que las mariposas pueden leer mapas impresos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una lectura figurada de la palabra \"memoria\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El juicio crítico exige interpretar la metáfora: llamar \"memoria\" al instinto implica que la ruta no se aprende por experiencia, sino que está codificada en el comportamiento heredado de la especie.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle-v20",
+      "statement": "Como lector crítico, ¿qué limitación informativa presenta la nota?",
+      "context": "**Pasaje:** El regreso de la mariposa monarca\n\nCada año, al comenzar el invierno, millones de mariposas monarca llegan a los bosques de oyamel de la Reserva de la Biósfera Mariposa Monarca, en los límites de Michoacán y el Estado de México. Han recorrido miles de kilómetros desde el sur de Canadá y el norte de Estados Unidos. En los santuarios de El Rosario y Sierra Chincua, los visitantes observan cómo las ramas se doblan bajo el peso de las colonias. La llegada es recibida como una fiesta: para las comunidades de la región significa turismo, empleo y prestigio; para los científicos, una señal del estado del ecosistema. Sin embargo, la misma celebración encierra una advertencia: la tala ilegal, las sequías y el uso de plaguicidas reducen año con año la superficie de bosque disponible. Proteger los santuarios, concluye la nota, no es solo un gesto de cariño por una mariposa: es una decisión sobre el futuro de los bosques templados de México.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No mencionar el color naranja de las alas de la mariposa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un detalle irrelevante para la función informativa de la nota."
+        },
+        {
+          "letter": "B",
+          "text": "No ofrecer cifras ni fuentes verificables sobre la magnitud de las amenazas.",
+          "is_correct": true,
+          "feedback": "Correcto. La nota afirma que las amenazas reducen el bosque, pero sin datos ni referencias que permitan comprobarlo."
+        },
+        {
+          "letter": "C",
+          "text": "No indicar el horario de apertura de los santuarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nota no tiene esa función de servicio práctico."
+        },
+        {
+          "letter": "D",
+          "text": "No enlistar los nombres de todos los visitantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un dato ajeno al propósito del texto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La lectura crítica evalúa la solidez informativa: la nota cumple su función divulgativa, pero carece de datos cuantificables y fuentes citadas sobre la tala, las sequías y los plaguicidas, lo que limita su valor como evidencia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "MX-LC-11-2026-W12-santuario-mariposa-monarca-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
       "id": "MX-LC-11-2026-W12-tema-w12-001-v001",
       "statement": "¿Qué elemento o aspecto fundamental es central en el desarrollo del pasaje, según la información directa brindada?",
       "context": "**Pasaje:** *La conservación del santuario de la mariposa monarca*\n\nLa migración de la mariposa monarca desde los bosques de Canadá y Estados Unidos hasta los santuarios de Michoacán y el Estado de México es uno de los fenómenos biológicos más fascinantes del planeta. Sin embargo, este frágil ciclo migratorio se encuentra bajo una amenaza latente. La tala inmoderada ilegal de los bosques de oyamel —el microclima específico que estas mariposas necesitan para hibernar— ha fragmentado su hábitat de forma severa. Aunque el gobierno mexicano y diversas organizaciones civiles han establecido la Reserva de la Biosfera de la Mariposa Monarca, el cambio climático y el uso excesivo de pesticidas agrícolas a lo largo de su ruta migratoria continuúan diezmando las poblaciones. La conservación de esta especie no es sólo un asunto estético o de orgullo nacional; la mariposa monarca es un polinizador crucial y un indicador biológico de la salud ambiental de los ecosistemas templados de Norteamérica.",
