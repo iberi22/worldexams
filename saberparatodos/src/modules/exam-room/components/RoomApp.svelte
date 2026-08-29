@@ -7,10 +7,13 @@
   import RoomResults from './RoomResults.svelte';
   import StopModeSetup from './StopModeSetup.svelte';
   import RoomBrowser from './RoomBrowser.svelte';
+  import LocalPairingRadar from './LocalPairingRadar.svelte';
+  import { localMeshPairing } from '../../../lib/local-mesh-pairing';
 
   let view = $state<'home' | 'create' | 'create-speed' | 'join' | 'lobby' | 'game' | 'results' | 'discover'>('home');
   let backendMode = $state<'rust' | 'supabase' | 'edge-mesh'>('edge-mesh');
   let isCheckingBackend = $state(true);
+  let showLocalRadar = $state(false);
 
   // Form state
   let hostName = $state('');
@@ -56,6 +59,15 @@
           mode: 'standard'
         }
       );
+
+      // 📡 Anunciar en el mesh local para emparejamiento automático por Wi-Fi
+      localMeshPairing.announceRoom({
+        code: roomId || roomState.config?.id || 'ROOM',
+        name: roomName || 'Sala de Examen',
+        hostName: hostName || 'Docente',
+        subject: selectedSubject,
+        grade: selectedGrade,
+      });
 
       view = 'lobby';
     } catch (error) {
@@ -195,6 +207,12 @@
               Unirse con Código
             </button>
             <button
+              onclick={() => showLocalRadar = true}
+              class="w-full px-6 py-3 bg-cyan-700 hover:bg-cyan-600 rounded-lg font-bold text-lg transition-colors flex items-center justify-center gap-2 text-white shadow-lg shadow-cyan-900/30"
+            >
+              📡 Radar Wi-Fi / Bluetooth (Auto-Pair)
+            </button>
+            <button
                onclick={() => view = 'discover'}
                class="w-full px-6 py-3 bg-gray-700 hover:bg-gray-600 rounded-lg font-bold text-lg transition-colors flex items-center justify-center gap-2"
             >
@@ -203,6 +221,18 @@
           </div>
         </div>
       </div>
+
+      <!-- Local Pairing Radar Modal -->
+      {#if showLocalRadar}
+        <LocalPairingRadar
+          onSelectRoom={(code) => {
+            roomCode = code;
+            showLocalRadar = false;
+            view = 'join';
+          }}
+          onClose={() => showLocalRadar = false}
+        />
+      {/if}
 
       <!-- Server Info -->
       <div class="mt-12 p-6 bg-gray-800 rounded-lg">
