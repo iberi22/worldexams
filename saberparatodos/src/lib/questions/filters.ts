@@ -84,7 +84,16 @@ export function filterByPeriod(
 
   return questions.filter((q) => {
     if (q.periodo !== undefined && q.periodo !== null) {
-      return Number(q.periodo) === Number(config.period);
+      // PACKS SEMANALES: el campo `periodo` de los bundles v5.2 transporta la
+      // semana curricular interna (W01–W40), NO el periodo académico (1–4).
+      // Mapeo: period = ceil(week / 10). Valores 1–4 se tratan como periodo explícito.
+      const raw = Number(q.periodo);
+      if (raw >= 1 && raw <= 4) return raw === Number(config.period);
+      if (raw > 4) {
+        const mappedPeriod = Math.min(4, Math.max(1, Math.ceil(raw / 10)));
+        return mappedPeriod === Number(config.period);
+      }
+      return false;
     }
 
     if (periodTopics.length === 0) {

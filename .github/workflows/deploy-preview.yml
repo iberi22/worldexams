@@ -65,6 +65,8 @@ jobs:
     needs: validate-and-build
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    outputs:
+      preview_url: ${{ steps.deploy.outputs.preview_url }}
 
     steps:
       - name: Checkout repository
@@ -81,8 +83,12 @@ jobs:
         run: node scripts/normalize-wrangler-config.mjs --target preview
 
       - name: ⚡ Deploy SaberParaTodos SSR Worker (Preview)
+        id: deploy
         working-directory: ./saberparatodos
-        run: npx wrangler deploy --config dist/server/wrangler.json --name="saberparatodos-preview-${{ github.ref_name }}"
+        run: |
+          npx wrangler deploy --config dist/server/wrangler.json --name="saberparatodos-preview-${{ github.ref_name }}" | tee wrangler-preview.log
+          PREVIEW_URL=$(grep -oE 'https://[a-z0-9.-]+\.workers\.dev' wrangler-preview.log | head -1 || true)
+          echo "preview_url=$PREVIEW_URL" >> "$GITHUB_OUTPUT"
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
@@ -121,14 +127,22 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '22'
-
-      - name: Wait for deployment
-        run: sleep 10
-
-      - name: Verify Health Endpoint
+      - name: Resolve preview URL
+        id: resolve
         run: |
-          echo "Preview deployment completed successfully."
+          URL="${{ needs.deploy-preview.outputs.preview_url }}"
+          if [ -z "$URL" ]; then
+            echo "::error::No se capturó la URL *.workers.dev del deploy de preview"
+            exit 1
+          fi
+          echo "url=$URL" >> "$GITHUB_OUTPUT"
+          echo "Preview URL: $URL"
+
+      # 2026-08-29: antes este job solo hacía `echo "Preview deployment completed
+      # successfully."` — no verificaba nada. Ahora ejercita la app de preview y
+      # la API con los parámetros reales del frontend, y falla el job si algo
+      # devuelve 4xx o payloads vacíos.
+      - name: 🩺 Preview Smoke Test
+        env:
+          APP_URL: ${{ steps.resolve.outputs.url }}
+        run: bash scripts/deploy-smoke.sh

@@ -17,6 +17,10 @@ const examMatrix = [
 const periodUiMatrix = [
   { grade: 11, subjectLabel: "Matemáticas", periodLabel: /Periodo 1/i },
   { grade: 11, subjectLabel: "Ciencias Naturales", periodLabel: /Periodo 1/i },
+  // REGRESIÓN 2026-08-29: "Simulacro Completo" + Periodo 4 lanzaba "No hay
+  // preguntas disponibles" (los packs traen periodo=semana W01-W40 y el filtro
+  // lo comparaba 1:1 contra periodo académico 1-4). Cubre el bug reportado.
+  { grade: 11, subjectLabel: "Simulacro Completo", periodLabel: /Periodo 4/i },
 ];
 
 describe("Production exam creation matrix", () => {

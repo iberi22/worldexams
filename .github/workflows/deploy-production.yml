@@ -141,18 +141,11 @@ jobs:
       - name: 📥 Checkout repository
         uses: actions/checkout@v4
 
-      - name: 🩺 Verify SaberParaTodos PWA Health
-        run: |
-          echo "Pinging https://saberparatodos.space..."
-          STATUS=$(curl -s -o /dev/null -w "%{http_code}" https://saberparatodos.space || echo "000")
-          echo "SaberParaTodos status code: $STATUS"
-
-      - name: 🩺 Verify API Gateway Health & Grade Bundles
-        run: |
-          echo "Pinging https://api.saberparatodos.space/v1/health..."
-          curl -s -f https://api.saberparatodos.space/v1/health || echo "API Health Ping finished"
-          echo "Verifying Grade 11 Full Pack bundle..."
-          curl -s -f https://api.saberparatodos.space/v1/grades/co/11/bundle || echo "Pack bundle verified"
+      # 2026-08-29: el smoke anterior usaba /v1/health (404: la ruta real del
+      # worker es /health) y silenciaba fallos con `|| echo "..."` → job siempre
+      # verde. Ahora: endpoints reales que consume el front + exit code estricto.
+      - name: 🩺 Post-Deploy Smoke Test (app + API + packs + questions)
+        run: bash scripts/deploy-smoke.sh
 
   # =========================================================================
   # Phase 5: GitCore Automated Version & Release Tagging
