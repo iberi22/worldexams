@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-11-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T21:14:50.033Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el grupo funcional característico que define a los alcoholes y fenoles?",
+      "context": "En la industria química farmacéutica de Bogotá, se identifican las familias de compuestos orgánicos oxigenados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El grupo hidroxilo ($-OH$).",
+          "is_correct": true,
+          "feedback": "Correcto. Los alcoholes y fenoles se caracterizan por la presencia de uno o más grupos hidroxilo covalentemente unidos a carbonos."
+        },
+        {
+          "letter": "B",
+          "text": "El grupo carbonilo ($-C=O$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el grupo funcional característico de aldehídos y cetonas."
+        },
+        {
+          "letter": "C",
+          "text": "El grupo carboxilo ($-COOH$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el grupo funcional característico de los ácidos carboxílicos."
+        },
+        {
+          "letter": "D",
+          "text": "El grupo amino ($-NH_2$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el grupo funcional característico de las aminas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los alcoholes ($R-OH$) y fenoles ($Ar-OH$) contienen el grupo funcional hidroxilo ($-OH$) unido a cadenas alquílicas o anillos aromáticos respectivamente.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia estructural fundamental entre un alcohol y un fenol?",
+      "context": "En un laboratorio escolar de Medellín, se diferencian estructuralmente el etanol ($CH_3-CH_2-OH$) y el fenol ($C_6H_5-OH$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En los alcoholes el grupo $-OH$ está unido a un carbono alifático ($sp^3$), mientras en los fenoles está unido directamente a un anillo aromático ($sp^2$).",
+          "is_correct": true,
+          "feedback": "Correcto. En el fenol el $-OH$ se enlaza a un carbono del anillo bencénico, alterando notablemente su acidez y reactividad."
+        },
+        {
+          "letter": "B",
+          "text": "Los alcoholes contienen átomos de nitrógeno y los fenoles no.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos posee nitrógeno en su estructura base."
+        },
+        {
+          "letter": "C",
+          "text": "Los fenoles son solubles en gasolina y los alcoholes son gases incombustibles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El etanol y metanol son líquidos combustibles muy volátiles."
+        },
+        {
+          "letter": "D",
+          "text": "Los alcoholes poseen enlaces iónicos y los fenoles no.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos son compuestos orgánicos moleculares con enlaces covalentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un alcohol alifático, el grupo $-OH$ se enlaza a un carbono saturado con hibridación $sp^3$ ($R-OH$). En un fenol, el grupo $-OH$ está enlazado directamente a un átomo de carbono con hibridación $sp^2$ de un anillo aromático ($Ar-OH$).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué el etanol ($CH_3-CH_2-OH$) tiene un punto de ebullición ($78^circ\text{C}$) mucho más alto que el del etano ($CH_3-CH_3$, $-88^circ\text{C}$)?",
+      "context": "En una planta licorera en Cali, se analiza el proceso de fermentación del etanol y sus propiedades físicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debido a la formación de puentes de hidrógeno intermoleculares entre las moléculas de etanol.",
+          "is_correct": true,
+          "feedback": "Correcto. El grupo polar $-OH$ permite formar redes de puentes de hidrógeno intermoleculares que exigen más energía para romper."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el etano es un compuesto metálico de alta densidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El etano es un alcano no polar de baja masa molar."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el etanol reacciona con el nitrógeno del aire aumentando su masa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El punto de ebullición es una propiedad física pura."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el etanol carece de electrones de valencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los compuestos orgánicos neutros poseen pares de electrones de valencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El enlace $O-H$ highly polar del grupo hidroxilo en los alcoholes permite la atracción dipolar especial mediante puentes de hidrógeno entre moléculas vecinas, elevando drásticamente su punto de ebullición frente a los alcanos de masa similar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle-v4",
+      "statement": "¿A qué categoría pertenece el 2-propanol ($CH_3-CH(OH)-CH_3$)?",
+      "context": "Se clasifica el 2-propanol (alcohol isopropílico) en el laboratorio de Tunja según el tipo de carbono al que se une el $-OH$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alcohol secundario.",
+          "is_correct": true,
+          "feedback": "Correcto. El grupo $-OH$ se enlaza a un carbono secundario (unido directamente a otros dos átomos de carbono)."
+        },
+        {
+          "letter": "B",
+          "text": "Alcohol primario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En alcoholes primarios el $-OH$ se enlaza a un carbono unido a un solo carbono (ej. 1-propanol)."
+        },
+        {
+          "letter": "C",
+          "text": "Alcohol terciario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En alcoholes terciarios el $-OH$ está en un carbono unido a tres carbonos (ej. 2-metil-2-propanol)."
+        },
+        {
+          "letter": "D",
+          "text": "Fenol sustituido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 2-propanol es un alcohol alifático, no un compuesto aromático."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un alcohol se clasifica como primario, secundario o terciario según el tipo de carbono que soporta al grupo hidroxilo. En el $CH_3-CH(OH)-CH_3$, el carbono 2 está unido a dos carbonos, por lo que es un alcohol secundario ($2^circ$).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle-v5",
+      "statement": "¿Qué producto orgánico se obtiene en primera instancia por la oxidación controlada de un alcohol primario?",
+      "context": "Un laboratorio de química orgánica en Manizales realiza la oxidación del 1-propanol (alcohol primario) con dicromato de potasio ($K_2Cr_2O_7$) en medio ácido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un aldehído (propanal).",
+          "is_correct": true,
+          "feedback": "Correcto. La oxidación suave de un alcohol primario remueve dos hidrógenos generando un aldehído ($-CHO$)."
+        },
+        {
+          "letter": "B",
+          "text": "Una cetona (propanona).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cetonas se obtienen por oxidación de alcoholes secundarios."
+        },
+        {
+          "letter": "C",
+          "text": "Un alqueno (propeno).",
+          "is_correct": false,
+          "feedback": "Incorrecto. La formación de alquenos ocurre por deshidratación con ácido sulfúrico concentrado."
+        },
+        {
+          "letter": "D",
+          "text": "Un éter simétrico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La síntesis de éteres es una sustitución intermolecular por deshidratación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La oxidación de alcoholes primarios ($R-CH_2OH$) elimina los dos átomos de hidrógeno (uno del $-OH$ y otro del $C_alpha$), formando un grupo carbonilo terminal ($R-CHO$), es decir, un aldehído. Si la oxidación prosigue, se convierte en ácido carboxílico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el producto de la oxidación de este alcohol secundario?",
+      "context": "En el mismo laboratorio de Manizales, se somete a oxidación el 2-propanol (alcohol secundario) con permanganato de potasio ($KMnO_4$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una cetona (propanona o acetona).",
+          "is_correct": true,
+          "feedback": "Correcto. La oxidación de alcoholes secundarios convierte el grupo $-CH(OH)-$ en un grupo carbonilo no terminal ($-CO-$), formando una cetona."
+        },
+        {
+          "letter": "B",
+          "text": "Un ácido carboxílico de dos carbonos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Requeriría la ruptura del esqueleto de carbono."
+        },
+        {
+          "letter": "C",
+          "text": "Un ester aromático.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ésteres se forman por reacción entre alcoholes y ácidos carboxílicos."
+        },
+        {
+          "letter": "D",
+          "text": "El producto no reacciona porque los alcoholes secundarios son inalterables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los alcoholes secundarios se oxidan fácilmente a cetonas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los alcoholes secundarios ($R_1-CH(OH)-R_2$) poseen un hidrógeno en el carbono $alpha$. Al oxidarse pierden este hidrógeno y el del $-OH$, formando un grupo carbonilo interno ($R_1-CO-R_2$), que corresponde a una cetona.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué los alcoholes terciarios son resistentes a la oxidación en condiciones suaves?",
+      "context": "Se prueba la oxidación del 2-metil-2-propanol (alcohol terciario) con oxidantes fuertes ($K_2Cr_2O_7 / H^+$) a temperatura ambiente en Bucaramanga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el carbono que porta el grupo $-OH$ carece de átomos de hidrógeno disponibles ($C_alpha-H$) para ser removidos.",
+          "is_correct": true,
+          "feedback": "Correcto. Para formar el doble enlace $C=O$ sin romper la cadena $C-C$, se requiere un hidrógeno en el carbono $alpha$, del cual carecen los alcoholes $3^circ$."
+        },
+        {
+          "letter": "B",
+          "text": "Porque no son solubles en agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La solubilidad no impide las reacciones redox si se usa solvente adecuado."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el grupo $-OH$ de los alcoholes terciarios es un gas inerte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sigue siendo un grupo funcional líquido reactivo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque son compuestos altamente aromáticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son alcoholes alifáticos ramificados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La oxidación suave de alcoholes implica la abstracción del hidrógeno unido al carbono que sostiene al $-OH$ ($C_alpha-H$). Como los alcoholes terciarios ($R_3C-OH$) tienen dicho carbono unido a tres grupos alquilo y a cero hidrógenos, no pueden oxidarse sin romper covalentemente el esqueleto de carbono.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle-v8",
+      "statement": "¿Qué tipo de reacción ocurre y qué producto principal se obtiene?",
+      "context": "En una síntesis industrial en Cartagena, se calienta etanol en presencia de ácido sulfúrico concentrado ($H_2SO_4$) a $180^circ\text{C}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reacción de deshidratación intramolecular que produce eteno ($CH_2=CH_2$) y agua.",
+          "is_correct": true,
+          "feedback": "Correcto. La deshidratación intramolecular de alcoholes en medio ácido fuerte a alta temperatura elimina $H_2O$ formando un alqueno."
+        },
+        {
+          "letter": "B",
+          "text": "Reacción de adición que produce etano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La adición requiere hidrógeno gaseoso sobre un doble enlace."
+        },
+        {
+          "letter": "C",
+          "text": "Reacción de halogenación que produce cloroetano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Requiere reactivos halogenantes como $HCl$ o $PCl_3$."
+        },
+        {
+          "letter": "D",
+          "text": "Reacción de saponificación que produce jabón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La saponificación es la hidrólisis básica de ésteres o grasas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La deshidratación de alcoholes catalizada por ácido sulfúrico es una reacción de eliminación ($E1$ o $E2$). A temperaturas elevadas ($sim 180^circ\text{C}$), se elimina una molécula de agua de la propia molécula de alcohol (deshidratación intramolecular), originando un doble enlace $C=C$ (eteno).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle-v9",
+      "statement": "¿Por qué el fenol es aproximadamente un millón de veces más ácido ($pK_a = 10$) que el etanol ($pK_a = 16$)?",
+      "context": "En el laboratorio de la Universidad Nacional en Bogotá, se mide el $pK_a$ del fenol ($C_6H_5OH, pK_a approx 10$) y se compara con el del etanol ($CH_3CH_2OH, pK_a approx 16$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la base conjugada del fenol (ion fenóxido) estabiliza la carga negativa por resonancia deslocalizándola sobre el anillo aromático.",
+          "is_correct": true,
+          "feedback": "Correcto. El ion fenóxido ($C_6H_5O^-$) deslocaliza la carga negativa en el sistema $pi$ del benceno, desplazando el equilibrio hacia la ionización ácida."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el etanol posee mayor masa molecular que el fenol.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fenol ($94\text{ g/mol}$) es más pesado que el etanol ($46\text{ g/mol}$)."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el fenol no posee átomos de oxígeno en su estructura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fenol posee un grupo $-OH$ enlazado al anillo bencénico."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el etanol reacciona con el dióxido de carbono del aire formando un ácido fuerte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El etanol es un compuesto neutro en solución acuosa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La acidez de un compuesto aumenta cuando su base conjugada es muy estable. En el ion fenóxido ($C_6H_5O^-$), el par solitario sobre el oxígeno se deslocaliza por resonancia en los orbitales $p$ del anillo bencénico. En el ion etóxido ($CH_3CH_2O^-$), la carga negativa se encuentra fija y concentrada sobre el oxígeno, haciendo al etanol mucho menos ácido.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la fórmula general y el grupo funcional característico que define a la familia de los éteres?",
+      "context": "Un estudiante investiga la nomenclatura IUPAC de las estructuras de éteres, como el etoxietano ($CH_3-CH_2-O-CH_2-CH_3$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$R_1-O-R_2$, caracterizada por un átomo de oxígeno unido mediante enlaces sencillos a dos grupos alquilo o arilo.",
+          "is_correct": true,
+          "feedback": "Correcto. Los éteres poseen la estructura $R_1-O-R_2$, donde el oxígeno actúa como puente entre dos cadenas hidrocarbonadas."
+        },
+        {
+          "letter": "B",
+          "text": "$R-CO-O-R$, grupo éster.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la familia de los ésteres."
+        },
+        {
+          "letter": "C",
+          "text": "$R-CHO$, grupo aldehído.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a los aldehídos."
+        },
+        {
+          "letter": "D",
+          "text": "$R-CO-NH_2$, grupo amida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a las amidas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los éteres son compuestos orgánicos de fórmula general $R_1-O-R_2$ (donde $R_1$ y $R_2$ pueden ser grupos alquilo o arilo, iguales o diferentes). Presentan un átomo de oxígeno esquelético central con hibridación $sp^3$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la velocidad relativa de reacción con el reactivo de Lucas (observada por la turbidez inmediata del cloruro de alquilo insoluble)?",
+      "context": "En el laboratorio de reactivos en Neiva, se diferencian experimentalmente un alcohol primario, uno secundario y uno terciario usando el Reactivo de Lucas ($ZnCl_2$ en $HCl$ concentrado).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alcohol terciario ($3^circ$) > Alcohol secundario ($2^circ$) > Alcohol primario ($1^circ$).",
+          "is_correct": true,
+          "feedback": "Correcto. La reacción de Lucas sigue un mecanismo $S_N1$ vía carbocatión. Los alcoholes $3^circ$ forman el carbocatión más estable reaccionando instantáneamente."
+        },
+        {
+          "letter": "B",
+          "text": "Alcohol primario ($1^circ$) > Alcohol secundario ($2^circ$) > Alcohol terciario ($3^circ$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Secuencia invertida. Los alcoholes primarios no reaccionan a temperatura ambiente."
+        },
+        {
+          "letter": "C",
+          "text": "Los tres alcoholes reaccionan a la misma velocidad sin turbidez.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La prueba de Lucas sirve para diferenciar las tres clases por su tiempo de reacción."
+        },
+        {
+          "letter": "D",
+          "text": "Únicamente los alcoholes primarios producen turbidez inmediata.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los primarios requieren horas o calentamiento intenso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La prueba de Lucas evalúa la sustitución nucleofílica $S_N1$ para formar haluros de alquilo insolubles. Puesto que la estabilidad de los carbocationes es $3^circ > 2^circ > 1^circ$, los alcoholes terciarios reaccionan de inmediato (< 1 min), los secundarios tardan 5-10 min, y los primarios no muestran reacción aparente a temperatura ambiente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle-v12",
+      "statement": "¿Por qué la solubilidad en agua disminuye drásticamente a medida que aumenta la longitud de la cadena hidrocarbonada de la molécula de alcohol?",
+      "context": "Se compara la solubilidad en agua de los alcoholes monohídricos alifáticos: metanol ($CH_3OH$), propanol ($C_3H_7OH$), hexanol ($C_6H_{13}OH$) y octanol ($C_8H_{17}OH$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la parte apolar o hidrofóbica de la cadena hidrocarbonada domina sobre el grupo hidroxilo polar ($OH$), dificultando la interacción con el agua.",
+          "is_correct": true,
+          "feedback": "Correcto. La cadena alquílica apolar no forma enlaces de hidrógeno con el agua; si es muy grande, enmascara el carácter hidrofílico del grupo $-OH$."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la masa molecular disuelve al agua por evaporación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Explicación sin sentido físico."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el grupo $-OH$ se destruye al aumentar el número de carbonos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grupo $-OH$ permanece intacto en todos los homólogos de la serie."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los alcoholes de cadena larga se vuelven ácidos inorgánicos fuertes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acidez no se altera significativamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un alcohol posee dos regiones: la zona polar e hidrofílica (grupo $-OH$) y la zona apolar e hidrofóbica (cadena hidrocarbonada $R$). A medida que $R$ crece, la naturaleza hidrofóbica domina, impidiendo que la molécula se solvate en el agua y disminuyendo su solubilidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle-v13",
+      "statement": "¿Qué tipo de mecanismo de reacción orgánica ocurre en esta síntesis y cuál es el producto principal formado?",
+      "context": "Un análisis de la síntesis de Williamson en Ibagué evalúa la reacción entre etóxido de sodio ($CH_3CH_2O^- Na^+$) y yodometano ($CH_3I$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sustitución nucleofílica bimolecular ($S_N2$), produciendo etil metil éter ($CH_3CH_2-O-CH_3$).",
+          "is_correct": true,
+          "feedback": "Correcto. El nucleófilo fuerte etóxido ataca al haluro de metilo en una etapa desplazando al yoduro ($S_N2$) para formar un éter."
+        },
+        {
+          "letter": "B",
+          "text": "Adición electrofílica, produciendo propanal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No involucra ataques sobre enlaces dobles o triples."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminación unimolecular ($E1$), produciendo eteno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El haluro de metilo ($CH_3I$) no puede sufrir eliminación por tener un solo carbono."
+        },
+        {
+          "letter": "D",
+          "text": "Sustitución aromática electrofílica ($SEAr$), produciendo anisol.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reacción de haloalcanos alifáticos, no de anillos aromáticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La síntesis de Williamson es una reacción $S_N2$ donde un alkóxido (nucleófilo fuerte $R-O^-$) ataca la posición posterior de un haluro de alquilo primario o metílico ($R'-X$), desplazando al halógeno para rendir un éter ($R-O-R'$).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.52,
+      "bundle_id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle-v14",
+      "statement": "¿Por qué el *p*-nitrofenol ($pK_a approx 7.15$) es sustancialmente MÁS ÁCIDO que el fenol no sustituido ($pK_a approx 10.0$)?",
+      "context": "Se compara la acidez del fenol ($C_6H_5OH$) con la del *p*-nitrofenol ($O_2N-C_6H_4OH$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el grupo nitro ($-NO_2$) es un grupo fuertemente extractor de electrones por efectos inductivo y resonante, aumentando la estabilidad del anión nitrofenóxido.",
+          "is_correct": true,
+          "feedback": "Correcto. Los grupos desactivantes extractores de electrones ($-NO_2$) dispersan la carga negativa del anión fenóxido, estabilizándolo y aumentando la acidez."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el grupo nitro dona electrones al anillo bencénico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grupo nitro es un desactivante y extractor de electrones, no un donador."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el *p*-nitrofenol destruye el anillo bencénico en agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estructura aromática permanece intacta."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el fenol no forma puentes de hidrógeno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos pueden interactuar mediante puentes de hidrógeno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La presencia de sustituyentes extractores de densidad electrónica (como el grupo nitro $-NO_2$) en posiciones *orto* o *para* del fenol ayuda a deslocalizar aún más la carga negativa del anión fenóxido por efecto mesómero e inductivo ($-M, -I$), aumentando la estabilidad de la base conjugada y elevando la acidez ($pK_a$ menor).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.48,
+      "bundle_id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle-v15",
+      "statement": "¿Qué observación experimental permite confirmar la presencia de un fenol frente a un alcohol alifático?",
+      "context": "En una prueba cualitativa de identificación en Pereira, se adiciona una solución neutra de cloruro férrico ($FeCl_3$) a muestras de etanol y fenol por separado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La aparición de una coloración intensa violeta (o azul-verdosa) en el fenol debido a la formación de un complejo de coordinación con el ion $Fe^{3+}$.",
+          "is_correct": true,
+          "feedback": "Correcto. El test de $FeCl_3$ es específico para enoles y fenoles, formando complejos teñidos característicos. Los alcoholes alifáticos no reaccionan."
+        },
+        {
+          "letter": "B",
+          "text": "La formación de un precipitado blanco e inodoro en el etanol.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El etanol no reacciona con $FeCl_3$."
+        },
+        {
+          "letter": "C",
+          "text": "La ebullición instantánea con desprendimiento de gas hidrógeno en el etanol.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La liberación de $H_2$ ocurre al agregar sodio metálico ($Na^0$), no con $FeCl_3$."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas muestras cambian a color rosa fucsia fluorescente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Únicamente las estructuras fenólicas forman el complejo de color violeta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ion férrico ($Fe^{3+}$) reacciona selectivamente con compuestos que contienen el grupo enol o fenol ($Ar-OH$) para formar complejos de coordinación coloreados (violeta, verde o azul intenso). Los alcoholes alifáticos simples no forman estos complejos y la solución conserva el color amarillo de $FeCl_3$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.45,
+      "bundle_id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle-v16",
+      "statement": "¿A qué se debe la enorme diferencia de puntos de ebullición entre estos dos isómeros de idéntica masa molar?",
+      "context": "Se compara el punto de ebullición del etoxietano ($CH_3CH_2-O-CH_2CH_3$, $34.5^circ\text{C}$) con el del 1-butanol ($CH_3CH_2CH_2CH_2OH$, $117^circ\text{C}$), ambos isómeros funcionales de fórmula $C_4H_{10}O$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El 1-butanol forma puentes de hidrógeno intermoleculares fuertes gracias al enlace $O-H$, mientras el etoxietano carece de hidrógenos unidos al oxígeno y no puede asociarse por puentes de hidrógeno entre sí.",
+          "is_correct": true,
+          "feedback": "Correcto. Los éteres carecen de enlaces $O-H$, por lo que no pueden formar puentes de hidrógeno entre sus propias moléculas, resultando en puntos de ebullición mucho menores que los alcoholes isómeros."
+        },
+        {
+          "letter": "B",
+          "text": "El etoxietano es una molécula iónica de alta densidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un líquido volátil apolar/débilmente polar."
+        },
+        {
+          "letter": "C",
+          "text": "El 1-butanol posee menor masa molecular que el etoxietano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen idéntica masa molecular ($74\text{ g/mol}$) por ser isómeros."
+        },
+        {
+          "letter": "D",
+          "text": "El etoxietano se descompone espontáneamente en aire libre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No justifica la diferencia de temperaturas de cambio de fase física."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A pesar de poseer idéntica fórmula molecular ($C_4H_{10}O$) y masa atómica, el 1-butanol posee un enlace $O-H$ que le permite actuar como donador y aceptor de puentes de hidrógeno intermoleculares. El etoxietano sólo tiene enlaces $C-O-C$, por lo que sus fuerzas intermoleculares son únicamente dipolo-dipolo débiles, ebullendo a mucha menor temperatura.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.42,
+      "bundle_id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál de las siguientes combinaciones de reactivos en una síntesis de Williamson garantiza la formación de $MTBE$ evitando la reacción competitiva de eliminación ($E2$)?",
+      "context": "En la síntesis de éteres asimétricos orientada a la industria química, se desea preparar *tert*-butil metil éter ($MTBE$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "*tert*-butóxido de potasio ($(CH_3)_3C-O^- K^+$) + Yodometano ($CH_3I$).",
+          "is_correct": true,
+          "feedback": "Correcto. Usar un nucleófilo impedido con un haluro de metilo ($CH_3I$, no impedido sin hidrógenos $\beta$) obliga al mecanismo $S_N2$ impidiendo la eliminación."
+        },
+        {
+          "letter": "B",
+          "text": "Metóxido de sodio ($CH_3O^- Na^+$) + cloruro de *tert*-butilo ($(CH_3)_3C-Cl$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El haluro terciario con una base fuerte sufrirá eliminación $E2$ exclusiva formando isobuteno en lugar del éter."
+        },
+        {
+          "letter": "C",
+          "text": "Metanol destilado + *tert*-butanol en medio alcalino suave.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Producirá una mezcla no selectiva de éteres y deshidratación."
+        },
+        {
+          "letter": "D",
+          "text": "Benceno anhidro + cloruro de acetilo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Generará una reacción de acilación de Friedel-Crafts."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la síntesis de Williamson, si el haluro de alquilo es terciario (como el $(CH_3)_3C-Cl$), la base/nucleófilo sufre eliminación $E2$ formando exclusivamente un alqueno (isobuteno). Para preparar un éter con un grupo terciario, se DEBE usar el alkóxido terciario ($(CH_3)_3C-O^-$) reaccionando sobre un haluro de metilo o primario ($CH_3I$) que no puede sufrir eliminación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.38,
+      "bundle_id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle-v18",
+      "statement": "¿Por qué el *o*-nitrofenol es notablemente más volátil y puede separarse del *p*-nitrofenol por destilación al vapor?",
+      "context": "Se realiza la nitración aromática del fenol con ácido nítrico diluido ($HNO_3$) a temperatura ambiente en Cali. Se obtienen dos productos principales: *o*-nitrofenol y *p*-nitrofenol.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El *o*-nitrofenol forma un puente de hidrógeno INTRAMOLECULAR que previene la asociación entre sus moléculas, mientras el *p*-nitrofenol forma puentes de hidrógeno INTERMOLECULARES.",
+          "is_correct": true,
+          "feedback": "Correcto. La proximidad del $-OH$ y el $-NO_2$ en posición *orto* permite un puente de hidrógeno interno que reduce la atracción intermolecular, aumentando la volatilidad."
+        },
+        {
+          "letter": "B",
+          "text": "El *o*-nitrofenol tiene menor masa molecular que el *p*-nitrofenol.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son isómeros posicionales con idéntica masa molar."
+        },
+        {
+          "letter": "C",
+          "text": "El *p*-nitrofenol es un gas inerte a temperatura ambiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El *p*-nitrofenol es un sólido cristalino."
+        },
+        {
+          "letter": "D",
+          "text": "El *o*-nitrofenol destruye las fuerzas de Van der Waals.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Explicación sin fundamento físico-químico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el *o*-nitrofenol, los grupos $-OH$ y $-NO_2$ están adyacentes y forman un enlace de hidrógeno *intramolecular* (que \"encierra\" el grupo hidroxilo dentro de la propia molécula). En el *p*-nitrofenol, la separación geométrica impide la interacción interna, forzando la formación de puentes de hidrógeno *intermoleculares* entre distintas moléculas, lo que reduce la volatilidad del isómero *para*.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.35,
+      "bundle_id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle-v19",
+      "statement": "¿Cuáles son los productos finales de la ruptura ácida de este éter?",
+      "context": "Se trata un éter dialquílico simétrico como el dietil éter ($CH_3CH_2-O-CH_2CH_3$) con exceso de ácido yodhídrico concentrado ($HI$) en caliente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos moléculas de yodoetano ($2 CH_3CH_2I$) y una molécula de agua ($H_2O$).",
+          "is_correct": true,
+          "feedback": "Correcto. El $HI$ en exceso protona al oxígeno del éter e induce la sustitución nucleofílica del enlace $C-O$, convirtiendo ambos fragmentos en haluros de alquilo."
+        },
+        {
+          "letter": "B",
+          "text": "Dos moléculas de etanol y yodo elemental.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los alcoholes formados inicialmente reaccionan con el exceso de $HI$ convirtiéndose en yodoalcanos."
+        },
+        {
+          "letter": "C",
+          "text": "Eteno, gas metano y dióxido de carbono.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ruptura ácida de éteres no produce descarboxilación."
+        },
+        {
+          "letter": "D",
+          "text": "Etano y ácido acético.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No ocurren procesos redox de oxidación a ácidos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mecanismo de ruptura ácida de éteres con $HI$ concentrado en caliente:\n1) $R-O-R + HI \rightarrow R-OH + R-I$\n2) El alcohol $R-OH$ generado reacciona con la segunda molécula de $HI$: $R-OH + HI \rightarrow R-I + H_2O$.\nResultado global: $R-O-R + 2 HI \rightarrow 2 R-I + H_2O$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.32,
+      "bundle_id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle-v20",
+      "statement": "¿Por qué la reacción de sustitución nucleofílica de alcoholes alílicos con ácidos halhídricos es excepcionalmente rápida?",
+      "context": "Se evalúa el reacondicionamiento de un alcohol alílico como el 2-propen-1-ol ($CH_2=CH-CH_2OH$) en medio ácido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la protonación del $-OH$ y posterior salida de $H_2O$ forma un carbocatión alílico ($CH_2=CH-CH_2^+$) highly estable por resonancia con el doble enlace adyacente.",
+          "is_correct": true,
+          "feedback": "Correcto. La deslocalización de la carga positiva entre los carbonos 1 y 3 por resonancia alílica disminuye la energía de activación."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el doble enlace $C=C$ absorbe protones del núcleo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Explicación nuclear ajena a la reactividad alílica."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el alcohol alílico se convierte espontáneamente en un gas noble.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sigue siendo un compuesto orgánico insaturado."
+        },
+        {
+          "letter": "D",
+          "text": "Porque carece de electrones en el enlace $C-O$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace $C-O$ es un enlace covalente $sp^3$ estándar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los carbocationes alílicos presentan estabilización por resonancia: $[CH_2=CH-CH_2^+ leftrightarrow ^+CH_2-CH=CH_2]$. Esta deslocalización de la carga positiva reduce drásticamente la energía de activación para la formación del intermediario, haciendo que la velocidad de sustitución nucleofílica $S_N1$ sea extremadamente elevada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.28,
+      "bundle_id": "CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}
