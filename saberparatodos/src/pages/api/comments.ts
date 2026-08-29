@@ -69,6 +69,8 @@ const CommentsPostSchema = z.object({
   content: z.string().min(1).max(1000),
   userName: z.string().min(1).max(100).optional().nullable(),
   userId: z.string().uuid().optional().nullable(),
+  role: z.enum(['student', 'teacher', 'contributor']).optional().nullable(),
+  contributionType: z.enum(['doubt', 'alternative', 'tip', 'general']).optional().nullable(),
 });
 
 /**
@@ -202,7 +204,7 @@ export const POST: APIRoute = async ({ request, locals }) => {
       });
     }
 
-    const { questionId, content: commentContent } = validationResult.data;
+    const { questionId, content: commentContent, role, contributionType } = validationResult.data;
 
     const env = getServerRuntimeEnv(locals as RuntimeLocals);
 
@@ -232,7 +234,9 @@ export const POST: APIRoute = async ({ request, locals }) => {
           content: commentContent,
           user_name: authenticatedUserName,
           user_id: authenticatedUserId,
-          is_approved: false
+          is_approved: false,
+          role: role || 'student',
+          contribution_type: contributionType || 'general'
         }
       ])
       .select()
