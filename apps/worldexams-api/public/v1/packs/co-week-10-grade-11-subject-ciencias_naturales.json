@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-10-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T21:14:50.031Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la diferencia fundamental entre una magnitud escalar (como la masa o la rapidez) y una magnitud vectorial (como la velocidad o la fuerza)?",
+      "context": "Un estudiante en Bogotá repasa los conceptos de cinemática y dinámica para el examen del Periodo 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las magnitudes vectoriales poseen dirección y sentido además de magnitud numérica y unidad, mientras las escalares solo tienen magnitud y unidad.",
+          "is_correct": true,
+          "feedback": "Correcto. Los vectores requieren especificación de dirección y sentido en el espacio tridimensional."
+        },
+        {
+          "letter": "B",
+          "text": "Las magnitudes escalares cambian con el tiempo y las vectoriales son siempre constantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tipos de magnitudes pueden variar o ser constantes en el tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Las magnitudes vectoriales no se pueden medir con instrumentos de laboratorio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Instrumentos como dinamómetros miden magnitudes vectoriales."
+        },
+        {
+          "letter": "D",
+          "text": "Las magnitudes escalares se expresan únicamente en números negativos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Masa, rapidez y tiempo son siempre no negativas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una magnitud escalar queda completamente definida por un número y una unidad de medida. Una magnitud vectorial requiere además la indicación explícita de su dirección y sentido.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v2",
+      "statement": "¿Qué hibridación presenta un átomo de carbono que forma cuatro enlaces sencillos de tipo sigma ($sigma$)?",
+      "context": "En un taller de repaso en Medellín, se revisa la clasificación de la materia y los tipos de carbono.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hibridación $sp^3$",
+          "is_correct": true,
+          "feedback": "Correcto. La hibridación $sp^3$ forma 4 enlaces $sigma$ dirigidos tetraédricamente ($109.5^circ$)."
+        },
+        {
+          "letter": "B",
+          "text": "Hibridación $sp^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Característica de carbonos con un enlace doble y tres enlaces $sigma$."
+        },
+        {
+          "letter": "C",
+          "text": "Hibridación $sp$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Característica de carbonos con un enlace triple o dos enlaces dobles acumulados."
+        },
+        {
+          "letter": "D",
+          "text": "Hibridación $d^2sp^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Imposible para el carbono por falta de orbitales $d$ de valencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un carbono con 4 enlaces sencillos de tipo $sigma$ distribuidos tetraédricamente posee hibridación $sp^3$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v3",
+      "statement": "En ausencia de fricción con el aire, ¿qué ocurre con la energía mecánica total ($E_k + E_p$) del péndulo a lo largo de todo su recorrido?",
+      "context": "Se repasa la conservación de la energía en un péndulo simple que oscila en Cali.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permanece estrictamente constante en todos los puntos de la oscilación.",
+          "is_correct": true,
+          "feedback": "Correcto. Las fuerzas conservativas (gravedad) mantienen constante la energía mecánica total."
+        },
+        {
+          "letter": "B",
+          "text": "Alcanza su valor máximo en los extremos de la oscilación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En los extremos la energía cinética es nula pero la potencial es máxima, manteniendo la suma constante."
+        },
+        {
+          "letter": "C",
+          "text": "Se destruye gradualmente en cada ciclo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin fricción no hay disipación de energía."
+        },
+        {
+          "letter": "D",
+          "text": "Se duplica cada vez que pasa por la posición de equilibrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Violación de la ley de conservación de la energía."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Bajo la acción exclusiva de fuerzas conservativas como la gravedad, la energía mecánica total $E_m = E_k + E_p$ se conserva inalterada en todo instante del movimiento.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el orden correcto de llenado de los subniveles atómicos $3s$, $3p$, $4s$ y $3d$?",
+      "context": "Un examen de prueba en Tunja evalúa el orden de llenado de los subniveles atómicos según el principio de Auf-bau.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3s \rightarrow 3p \rightarrow 4s \rightarrow 3d$",
+          "is_correct": true,
+          "feedback": "Correcto. Según la regla de $(n+l)$, el subnivel $4s$ ($n+l = 4+0 = 4$) se llena antes que el $3d$ ($n+l = 3+2 = 5$)."
+        },
+        {
+          "letter": "B",
+          "text": "$3s \rightarrow 3p \rightarrow 3d \rightarrow 4s$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Secuencia numérica engañosa que ignora la regla de energía $(n+l)$."
+        },
+        {
+          "letter": "C",
+          "text": "$4s \rightarrow 3s \rightarrow 3p \rightarrow 3d$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los niveles inferiores $n=3$ se llenan antes que $n=4$."
+        },
+        {
+          "letter": "D",
+          "text": "$3d \rightarrow 4s \rightarrow 3p \rightarrow 3s$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Llenado inverso a la energía de subnivel."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Principio de Auf-bau establece que los orbitales se llenan en orden creciente de energía según el valor de $(n+l)$. Como para $4s$, $n+l = 4$, y para $3d$, $n+l = 5$, el subnivel $4s$ se llena antes que el $3d$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la altura máxima alcanzada por el proyectil?",
+      "context": "Un proyectil es lanzado con una velocidad de $20\text{ m/s}$ y un ángulo de $30^circ$ sobre la horizontal en Ibagué. Considere $g = 10\text{ m/s}^2$ y $sin(30^circ) = 0.5$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5\text{ metros}$",
+          "is_correct": true,
+          "feedback": "Correcto. $v_{y0} = 20 sin(30^circ) = 10\text{ m/s}$. $h_{max} = \\frac{v_{y0}^2}{2g} = \\frac{100}{20} = 5\text{ m}$."
+        },
+        {
+          "letter": "B",
+          "text": "$10\text{ metros}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió dividir entre 2 la constante $g$."
+        },
+        {
+          "letter": "C",
+          "text": "$20\text{ metros}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó usando la velocidad total inicial en lugar de la componente vertical."
+        },
+        {
+          "letter": "D",
+          "text": "$2.5\text{ metros}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de escala al dividir entre 40."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La componente vertical inicial de la velocidad es $v_{y0} = v_0 sin\theta = 20 \times 0.5 = 10\text{ m/s}$. La altura máxima alcanzada se obtiene con $h_{max} = \\frac{v_{y0}^2}{2g} = \\frac{100}{20} = 5\text{ m}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la magnitud de la fuerza aplada $F$?",
+      "context": "Un bloque de $10\text{ kg}$ se acelera sobre un piso horizontal a $2\text{ m/s}^2$ mediante una fuerza horizontal $F$. Si la fuerza de fricción cinemática es $f_k = 5\text{ N}$, ¿cuál es el valor de la fuerza $F$?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$25\text{ N}$",
+          "is_correct": true,
+          "feedback": "Correcto. Segunda ley de Newton: $F - f_k = m a \\implies F - 5 = 10 \times 2 \\implies F = 20 + 5 = 25\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "$20\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $20\text{ N}$ es la fuerza neta $m cdot a$ sin compensar la fricción."
+        },
+        {
+          "letter": "C",
+          "text": "$15\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resta errónea de la fricción en lugar de sumarla."
+        },
+        {
+          "letter": "D",
+          "text": "$50\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicación errónea de masa por fricción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicando la segunda ley de Newton $F_{neta} = F - f_k = m cdot a$. Despejando la fuerza aplicada: $F = m cdot a + f_k = (10\text{ kg} \times 2\text{ m/s}^2) + 5\text{ N} = 20 + 5 = 25\text{ N}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v7",
+      "statement": "¿Cuántos enlaces sigma ($sigma$) y enlaces pi ($pi$) posee la molécula acíclica de 2-penteno ($CH_3-CH=CH-CH_2-CH_3$)?",
+      "context": "Se determina la masa molecular y estructura del 2-penteno ($C_5H_{10}$) en Neiva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "14 enlaces $sigma$ y 1 enlace $pi$.",
+          "is_correct": true,
+          "feedback": "Correcto. Hay 4 enlaces $C-C$ simples/doble ($3sigma + 1sigma + 1pi$) y 10 enlaces $C-H$ ($sigma$). Total: $14sigma$ y $1pi$."
+        },
+        {
+          "letter": "B",
+          "text": "15 enlaces $sigma$ y 0 enlaces $pi$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El doble enlace contiene necesariamente $1pi$."
+        },
+        {
+          "letter": "C",
+          "text": "12 enlaces $sigma$ y 2 enlaces $pi$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los enlaces dobles aislados consisten en $1sigma$ y $1pi$."
+        },
+        {
+          "letter": "D",
+          "text": "10 enlaces $sigma$ y 4 enlaces $pi$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Conteo equivocado de los enlaces hidrógeno-carbono."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la molécula de $C_5H_{10}$: Hay 10 enlaces sencillos $C-H$ ($sigma$), 3 enlaces $C-C$ sencillos ($sigma$), y 1 enlace doble $C=C$ ($1sigma + 1pi$). Suma total: $14$ enlaces $sigma$ y $1$ enlace $pi$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las tres especies químicas posee el MENOR tamaño o radio?",
+      "context": "Se comparan las radios iónicos y atómicos de las especies $S$ ($Z=16$), $S^{2-}$ ($18 e^-$) y $Ca^{2+}$ ($Z=20, 18 e^-$) en Bucaramanga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$Ca^{2+}$, porque posee la mayor carga nuclear ($Z=20$) sobre la misma cantidad de electrones (18 $e^-$).",
+          "is_correct": true,
+          "feedback": "Correcto. En especies isoelectrónicas, a mayor número de protones ($Z$), mayor atracción sobre la nube y menor radio."
+        },
+        {
+          "letter": "B",
+          "text": "$S^{2-}$, porque la carga negativa contrae el núcleo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La carga negativa expande la nube electrónica por repulsión interelectrónica."
+        },
+        {
+          "letter": "C",
+          "text": "El átomo neutro de $S$, porque no posee carga eléctrica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El $S$ neutro tiene 16 electrones pero un radio mayor que el $Ca^{2+}$."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres presentan idéntico tamaño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las variaciones en la carga nuclear alteran fuertemente el tamaño."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al comparar especies isoelectrónicas con 18 electrones ($S^{2-}$ y $Ca^{2+}$), el catión $Ca^{2+}$ cuenta con 20 protones atrayendo a la nube electrónica, comprimiendo su radio por encima de todas las demás especies de la serie.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la potencia media desarrollada por la grúa durante el izaje?",
+      "context": "Una grúa eleva un contenedor de $500\text{ kg}$ a una altura de $12\text{ m}$ en $10\text{ segundos}$ a velocidad constante en el puerto de Buenaventura. Considere $g = 10\text{ m/s}^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6000\text{ Watts}$ ($6\text{ kW}$)",
+          "is_correct": true,
+          "feedback": "Correcto. Trabajo $W = m g h = 500 \times 10 \times 12 = 60000\text{ J}$. Potencia $P = \\frac{W}{t} = \\frac{60000}{10} = 6000\text{ W}$."
+        },
+        {
+          "letter": "B",
+          "text": "$600\text{ Watts}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió multiplicar por la constante de gravedad $g$."
+        },
+        {
+          "letter": "C",
+          "text": "$60000\text{ Watts}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el trabajo total realizado en Joules, no la potencia por segundo."
+        },
+        {
+          "letter": "D",
+          "text": "$1200\text{ Watts}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. División errónea de la masa por el tiempo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La potencia mecánica es la tasa de realización de trabajo: $P = \\frac{W}{Delta t} = \\frac{m cdot g cdot h}{Delta t} = \\frac{500\text{ kg} \times 10\text{ m/s}^2 \times 12\text{ m}}{10\text{ s}} = 6000\text{ W} = 6\text{ kW}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el juego de números cuánticos $(n, l, m_l, m_s)$ para el electrón diferenciador del Sodio ($3s^1$)?",
+      "context": "Un estudiante en Manizales debe identificar los números cuánticos del último electrón en el átomo de Sodio ($Na, Z=11$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(3, 0, 0, +1/2)$",
+          "is_correct": true,
+          "feedback": "Correcto. Subnivel $3s^1 \\implies n=3$, $l=0$ (orbital s), $m_l=0$, primer electrón con $m_s=+1/2$."
+        },
+        {
+          "letter": "B",
+          "text": "$(3, 1, 0, +1/2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $l=1$ corresponde al subnivel $p$, no al $s$."
+        },
+        {
+          "letter": "C",
+          "text": "$(2, 0, 0, -1/2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nivel $n=2$ completo en la capa interna."
+        },
+        {
+          "letter": "D",
+          "text": "$(3, 0, 1, -1/2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para $l=0$, $m_l$ solo puede tomar el valor $0$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El electrón diferenciador del Sodio ($Z=11$) ocupa el orbital $3s^1$. Por tanto: nivel $n=3$, subnivel $s \\implies l=0$, orientación $m_l=0$, y espín $+1/2$. Juego: $(3, 0, 0, +1/2)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v11",
+      "statement": "¿Cuáles son las velocidades de las esferas A y B tras el choque elástico entre masas idénticas?",
+      "context": "Dos esferas idénticas de $1\text{ kg}$ se desplazan sobre una pista recta en Pasto. La esfera A viaja a $6\text{ m/s}$ hacia la derecha y choca elásticamente contra la esfera B que viaja a $2\text{ m/s}$ hacia la izquierda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Esfera A = $2\text{ m/s}$ hacia la izquierda; Esfera B = $6\text{ m/s}$ hacia la derecha.",
+          "is_correct": true,
+          "feedback": "Correcto. En una colisión elástica unidimensional entre masas iguales, los cuerpos intercambian sus velocidades vectoriales completas ($v_{Af} = -2\text{ m/s}$, $v_{Bf} = +6\text{ m/s}$)."
+        },
+        {
+          "letter": "B",
+          "text": "Esfera A = $6\text{ m/s}$ hacia la izquierda; Esfera B = $2\text{ m/s}$ hacia la derecha.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simplemente invierte los signos sin intercambiar los valores entre masas."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas esferas quedan en reposo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurriría solo si chocaran inelásticamente con velocidades opuestas e iguales."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas avanzan juntas a $2\text{ m/s}$ hacia la derecha.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso caracterizaría a un choque perfectamente inelástico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En colisiones frontales perfectamente elásticas entre dos masas exactamente iguales ($m_1 = m_2$), las partículas intercambian por completo sus vectores de velocidad. Por tanto: $v_{Af} = v_{Bi} = -2\text{ m/s}$ y $v_{Bf} = v_{Ai} = +6\text{ m/s}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v12",
+      "statement": "¿Por qué el punto de ebullición aumenta de forma constante al incrementar la longitud de la cadena hidrocarbonada lineal?",
+      "context": "En Cartagena se analiza el punto de ebullición de los alcanos lineales en función del número de carbonos ($C_1$ a $C_{10}$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque aumenta la masa molar y la superficie molecular, fortaleciendo la intensidad de las fuerzas de dispersión de London.",
+          "is_correct": true,
+          "feedback": "Correcto. Las moléculas más grandes tienen mayor área de contacto e inducen dipolos instantáneos más intensos (fuerzas de London)."
+        },
+        {
+          "letter": "B",
+          "text": "Porque se forman puentes de hidrógeno entre los metilos terminales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los alcanos apolares carecen de puentes de hidrógeno."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el enlace C-C se vuelve progresivamente iónico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los enlaces carbono-carbono son covalentes no polares pura."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los alcanos de mayor longitud pierden hidrógenos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mantienen la proporción $C_n H_{2n+2}$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al aumentar la longitud de la cadena lineal en alcanos, la masa molecular y la superficie de interacción aumentan. Esto incrementa la polarizabilidad de la nube electrónica, intensificando las fuerzas intermoleculares de dispersión de London y elevando el punto de ebullición.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v13",
+      "statement": "¿Cuánto trabajo en Joules realizó la fuerza de fricción durante el descenso del bloque?",
+      "context": "Un bloque de $5\text{ kg}$ parte del reposo y se desliza desde la cima de un plano inclinado de $4\text{ m}$ de altura en Bogotá. Al llegar a la base, su velocidad medida es de $6\text{ m/s}$. Considere $g = 10\text{ m/s}^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-110\text{ Joules}$",
+          "is_correct": true,
+          "feedback": "Correcto. $E_{pi} = m g h = 5 \times 10 \times 4 = 200\text{ J}$. $E_{kf} = \\frac{1}{2} m v^2 = \\frac{1}{2}(5)(36) = 90\text{ J}$. Trabajo de fricción $W_{friccion} = E_{kf} - E_{pi} = 90 - 200 = -110\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "$-200\text{ Joules}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la energía potencial inicial total disipada hipotéticamente."
+        },
+        {
+          "letter": "C",
+          "text": "$-90\text{ Joules}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la energía cinética final adquirida por el cuerpo."
+        },
+        {
+          "letter": "D",
+          "text": "$0\text{ Joules}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si no hubiera fricción la velocidad final habría sido $sqrt{80} approx 8.94\text{ m/s}$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por el Teorema Trabajo-Energía no conservativo: $W_{friccion} = Delta E_m = E_{m,f} - E_{m,i} = \\frac{1}{2} m v_f^2 - m g h_i = 90\text{ J} - 200\text{ J} = -110\text{ J}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.52,
+      "bundle_id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la relación entre la energía del fotón A ($E_A$) y la energía del fotón B ($E_B$)?",
+      "context": "Se mide la frecuencia de fotones emitidos por dos fuentes atómicas: Fuente A ($\nu_A = 6 \times 10^{14}\text{ Hz}$) y Fuente B ($\nu_B = 3 \times 10^{14}\text{ Hz}$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$E_A = 2 E_B$",
+          "is_correct": true,
+          "feedback": "Correcto. Por la ecuación de Planck $E = h\nu$, la energía es directamente proporcional a la frecuencia. Al ser $\nu_A = 2\nu_B$, resulta $E_A = 2 E_B$."
+        },
+        {
+          "letter": "B",
+          "text": "$E_A = \\frac{1}{2} E_B$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Relación inversamente proporcional errónea."
+        },
+        {
+          "letter": "C",
+          "text": "$E_A = 4 E_B$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Supone dependencia cuadrática de la frecuencia."
+        },
+        {
+          "letter": "D",
+          "text": "$E_A = E_B$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía depende directamente de la frecuencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La hipótesis cuántica de Planck postula que la energía de un fotón es $E = h cdot\nu$. Dado que la frecuencia de A es el doble de la de B ($\nu_A = 2\nu_B$), su energía es el doble ($E_A = 2 E_B$).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.48,
+      "bundle_id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál de los dos isómeros posee un momento dipolar neto diferente de cero ($mu\neq 0$) y cuál tiene momento dipolar nulo ($mu = 0$)?",
+      "context": "Se compara la estabilidad de los isómeros geométricos *cis*-1,2-dicloroeteno y *trans*-1,2-dicloroeteno en un laboratorio de Armenia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El isómero *cis* es polar ($mu\neq 0$) y el isómero *trans* es apolar ($mu = 0$).",
+          "is_correct": true,
+          "feedback": "Correcto. En el isómero *trans*, los vectores dipolo C-Cl apuntan en sentidos opuestos cancelándose. En el *cis* apuntan al mismo lado sumándose."
+        },
+        {
+          "letter": "B",
+          "text": "El isómero *trans* es polar y el *cis* es apolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asignación espacial invertida de los dipolos de enlace."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos isómeros son estrictamente apolares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace C-Cl es polar y en la conformación *cis* sus vectores se suman."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos isómeros poseen el mismo momento dipolar no nulo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La simetría del isómero *trans* anula el dipolo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el *trans*-1,2-dicloroeteno, los dos enlaces polares $C-Cl$ están orientados simétricamente a $180^circ$ uno del otro respecto al eje central, cancelando los dipolos ($\\vec{mu}_{trans} = 0$). En el *cis*, los dos cloros están del mismo lado, sumando sus dipolos ($\\vec{mu}_{cis}\neq 0$).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.45,
+      "bundle_id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es el nuevo período de oscilación del péndulo alargado?",
+      "context": "Un péndulo simple oscila con un período de $2.0\text{ s}$ en Bogotá. Si se quadruplica la longitud de la cuerda ($L' = 4L$), ¿cuál será el nuevo período $T'$?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4.0\text{ segundos}$",
+          "is_correct": true,
+          "feedback": "Correcto. Como $T propto sqrt{L}$, al quadruplicar la longitud $L \rightarrow 4L$, el período se multiplica por $sqrt{4} = 2$. $T' = 2 \times 2.0 = 4.0\text{ s}$."
+        },
+        {
+          "letter": "B",
+          "text": "$8.0\text{ segundos}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asume una relación de proporcionalidad directa sin raíz cuadrada."
+        },
+        {
+          "letter": "C",
+          "text": "$1.0\text{ segundo}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El período aumenta al alargar la cuerda, no disminuye."
+        },
+        {
+          "letter": "D",
+          "text": "$2.0\text{ segundos}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El período es sensible a la longitud de la cuerda."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El período de un péndulo es $T = 2pi sqrt{\\frac{L}{g}}$. Si la longitud cambia a $L' = 4L$, el nuevo período es $T' = 2pi sqrt{\\frac{4L}{g}} = 2 \\left(2pi sqrt{\\frac{L}{g}}\r\\right) = 2 T = 2(2.0) = 4.0\text{ s}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.42,
+      "bundle_id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es el paso fundamental de INICIACIÓN del mecanismo radicalario desencadenado por la luz ultravioleta ($h\nu$)?",
+      "context": "Se investiga el mecanismo de reacción de cloración del metano que transcurre por radicales libres con activación fotoquímica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ruptura homolítica de la molécula de $Cl_2$ formando dos radicales libres de cloro.",
+          "is_correct": true,
+          "feedback": "Correcto. La luz fotoliza el enlace covalente $Cl-Cl$ repartiendo equitativamente los electrones para generar dos radicales libres de cloro."
+        },
+        {
+          "letter": "B",
+          "text": "Ruptura heterolítica del metano generando un catión metilo y un hidruro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre en reacciones iónicas polarizadas, no radicalarias iniciadas por luz."
+        },
+        {
+          "letter": "C",
+          "text": "Ataque directo del $Cl_2$ neutro sobre el enlace $C-H$ sin intermediarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Requiere la formación inicial de los radicales libres propagadores."
+        },
+        {
+          "letter": "D",
+          "text": "Combustión completa del metano produciendo $CO_2$ y agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reacción de oxidación térmica no sustitutiva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La etapa de iniciación en la halogenación radicalaria involucra la absorción de un fotón $h\nu$ por la molécula de halógeno ($Cl_2$), provocando la escisión homolítica del enlace $Cl-Cl$ para producir dos radicales libres de cloro altamente reactivos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.38,
+      "bundle_id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v18",
+      "statement": "¿En qué posición $x_{CM}$ se localiza el centro de masa del sistema?",
+      "context": "Un sistema físico de tres masas $m_1=1\text{ kg}$, $m_2=2\text{ kg}$ y $m_3=3\text{ kg}$ se ubica sobre el eje $x$ en las posiciones $x_1=0\text{ m}$, $x_2=3\text{ m}$ y $x_3=6\text{ m}$ respectivamente en Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x_{CM} = 4.0\text{ metros}$",
+          "is_correct": true,
+          "feedback": "Correcto. $x_{CM} = \\frac{m_1 x_1 + m_2 x_2 + m_3 x_3}{m_1 + m_2 + m_3} = \\frac{(1 \times 0) + (2 \times 3) + (3 \times 6)}{1 + 2 + 3} = \\frac{0 + 6 + 18}{6} = \\frac{24}{6} = 4.0\text{ m}$."
+        },
+        {
+          "letter": "B",
+          "text": "$x_{CM} = 3.0\text{ metros}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Promedio aritmético simple de las posiciones sin ponderar por la masa."
+        },
+        {
+          "letter": "C",
+          "text": "$x_{CM} = 4.5\text{ metros}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo en el numerador."
+        },
+        {
+          "letter": "D",
+          "text": "$x_{CM} = 2.0\text{ metros}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Desplazamiento erróneo hacia la masa menor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coordenada del centro de masa para una distribución discreta de masas unidimensional es $x_{CM} = \\frac{sum m_i x_i}{sum m_i} = \\frac{(1 cdot 0) + (2 cdot 3) + (3 cdot 6)}{1 + 2 + 3} = \\frac{24}{6} = 4.0\text{ m}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.35,
+      "bundle_id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el núcleo hijo ($X$) resultante tras la emisión de una partícula alfa ($^4_2He$)?",
+      "context": "Se analiza el decaimiento radiactivo Alfa del Uranio-238 ($^{238}_{92}U$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Torio-234 ($^{234}_{90}Th$)",
+          "is_correct": true,
+          "feedback": "Correcto. La emisión alfa resta 4 a la masa atómica $A$ ($238 - 4 = 234$) y resta 2 al número atómico $Z$ ($92 - 2 = 90$, Torio)."
+        },
+        {
+          "letter": "B",
+          "text": "Torio-238 ($^{238}_{90}Th$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La emisión alfa reduce la masa en 4 unidades."
+        },
+        {
+          "letter": "C",
+          "text": "Plutonio-242 ($^{242}_{94}Pu$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una fusión nuclear hipotética."
+        },
+        {
+          "letter": "D",
+          "text": "Radio-226 ($^{226}_{88}Ra$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a múltiples decaimientos sucesivos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una partícula alfa es un núcleo de Helio ($^4_2He$). Por conservación del número de masa y número atómico: $^{238}_{92}U \rightarrow ^{234}_{90}Th + ^4_2He$. El elemento producido con $Z=90$ es el Torio.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.32,
+      "bundle_id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la velocidad de propagación de las ondas en la cuerda?",
+      "context": "Una cuerda lisa fija en ambos extremos de longitud $L = 1.2\text{ m}$ vibra en su tercer armónico ($n=3$) a una frecuencia de $150\text{ Hz}$ en un experimento de acústica en la Universidad Nacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$120\text{ m/s}$",
+          "is_correct": true,
+          "feedback": "Correcto. Longitud de onda para el tercer armónico: $lambda_3 = \\frac{2L}{3} = \\frac{2(1.2)}{3} = 0.8\text{ m}$. Velocidad de la onda: $v = lambda f = 0.8 \times 150 = 120\text{ m/s}$."
+        },
+        {
+          "letter": "B",
+          "text": "$360\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió dividir entre el número del armónico $n=3$."
+        },
+        {
+          "letter": "C",
+          "text": "$180\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cálculo erróneo usando el armónico fundamental."
+        },
+        {
+          "letter": "D",
+          "text": "$90\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de escala en la longitud de onda."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "1) Para ondas estacionarias en una cuerda con extremos fijos, $lambda_n = \\frac{2L}{n}$. Para $n=3$, $lambda_3 = \\frac{2(1.2)}{3} = 0.8\text{ m}$.\n2) La velocidad de la onda es $v = lambda cdot f = 0.8\text{ m} \times 150\text{ Hz} = 120\text{ m/s}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.28,
+      "bundle_id": "CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-5-grade-11-subject-lectura_critica",
+    "generated_at": "2026-08-29T21:14:50.291Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle-v1",
+      "statement": "¿Qué efecto produce el uso de un narrador testigo colectivo que habla desde la memoria de la comunidad?",
+      "context": "En un cuento de Marvel Moreno, la voz narrativa reconstruye la vida de las mujeres de la alta sociedad de Barranquilla a través del rumor y el secreto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Descentra la autoridad del héroe individual y muestra el peso de los prejuicios y la presión social sobre el sujeto.",
+          "is_correct": true,
+          "feedback": "El narrador colectivo de Moreno capta la mirada escrutadora de la clase social que juzga y condena las libertades individuales."
+        },
+        {
+          "letter": "B",
+          "text": "Garantiza que la historia sea una crónica judicial aprobada por la Notaría Primera de la ciudad.",
+          "is_correct": false,
+          "feedback": "No es un informe jurídico sino una construcción estética sobre la convención social y la memoria."
+        },
+        {
+          "letter": "C",
+          "text": "Impide que los personajes femeninos tengan voz o deseos propios dentro de la trama.",
+          "is_correct": false,
+          "feedback": "La voz colectiva expone precisamente las tensiones entre los mandatos sociales y el deseo reprimido."
+        },
+        {
+          "letter": "D",
+          "text": "Demuestra que el cuento fue escrito por cuatro autores distintos en un taller literario.",
+          "is_correct": false,
+          "feedback": "Es una estrategia narrativa consciente de focalización compartida o rumor de época."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La voz narrativa colectiva en Marvel Moreno visibiliza cómo la mirada social modela y vigila los comportamientos en el espacio privado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se articula la relación entre el espacio geográfico del Pacífico y la interioridad de la protagonista?",
+      "context": "En *La perra* de Pilar Quintana, la protagonista Damaris adopta una perra en la selva del Pacífico colombiano mientras enfrenta la frustración de no tener hijos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La selva hostil y el mar embravecido actúan como una extensión física de la violencia silenciada y la soledad de Damaris.",
+          "is_correct": true,
+          "feedback": "En Quintana, la naturaleza no es un adorno exótico sino una fuerza indómita que espejea la trágica opresión de la protagonista."
+        },
+        {
+          "letter": "B",
+          "text": "Se presenta una descripción turística idílica recomendada por las agencias de viajes de Cali.",
+          "is_correct": false,
+          "feedback": "La obra muestra la crudeza, la intemperie y la precariedad de la vida en la costa pacífica."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que la fauna de la región debe ser clasificada según criterios de biología marina pura.",
+          "is_correct": false,
+          "feedback": "La perra y la selva cumplen una función simbólica y narrativa profunda, no taxonómica."
+        },
+        {
+          "letter": "D",
+          "text": "Sostiene que la protagonista no tenía ninguna relación con el entorno natural que la rodeaba.",
+          "is_correct": false,
+          "feedback": "Existe una conexión indisoluble entre el clima, el aislamiento y la tormenta interior del personaje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La narrativa de Pilar Quintana utiliza el paisaje hostil del Pacífico como resonancia trágica de la psicología de los personajes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.87,
+      "bundle_id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle-v3",
+      "statement": "¿Qué rasgo característico de la novela urbana colombiana de finales del siglo XX encarna Ignacio Escobar?",
+      "context": "En *Sin remedio* de Antonio Caballero, Ignacio Escobar deambula por Bogotá buscando escribir un poema perfecto sobre la nada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El desencanto existencial, la apatía burguesa y el cinismo frente a los discursos de progreso y la política tradicional.",
+          "is_correct": true,
+          "feedback": "Escobar simboliza al antiinmortal refinado y escéptico que observa la decadencia de la capital con ironía."
+        },
+        {
+          "letter": "B",
+          "text": "El fervor revolucionario de un líder campesino que encabeza marchas en la Sabana de Bogotá.",
+          "is_correct": false,
+          "feedback": "El personaje es un poeta urbano acomodado y escéptico, lejano al liderazgo de masas."
+        },
+        {
+          "letter": "C",
+          "text": "La fe ciega en que la poesía resolverá los problemas de movilidad del transporte público.",
+          "is_correct": false,
+          "feedback": "Escobar ironiza sobre la inutilidad social de su propia poesía en una ciudad caótica."
+        },
+        {
+          "letter": "D",
+          "text": "Un héroe romántico que muere batallando a espada por el honor de una dama santafereña.",
+          "is_correct": false,
+          "feedback": "Caballero parodia las formas heroicas decimonónicas en favor de la sátira urbana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "*Sin remedio* es una pieza clave de la novela urbana que retrata la neurosis y el desencanto de la juventud intelectual bogotana.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle-v4",
+      "statement": "¿Cómo influye la perspectiva de un anciano contemplativo en la representación del horror de la guerra?",
+      "context": "En un fragmento de *Los ejércitos* de Evelio Rosero, el viejo profesor Ismail Isora observa desde su jardín cómo la violencia se apodera lentamente del pueblo de San José.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aporta una mirada de fragilidad y desconcierto que contrasta la cotidianidad pacífica perdida con la absurda irrupción de la violencia.",
+          "is_correct": true,
+          "feedback": "Rosero utiliza la mirada ingenua e inerme de Ismail para volver más desgarradora la pérdida de la normalidad en el pueblo."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que el protagonista era el comandante estratégico de uno de los grupos armados.",
+          "is_correct": false,
+          "feedback": "Ismail es una víctima civil inerme que contempla desolado la desintegración de su comunidad."
+        },
+        {
+          "letter": "C",
+          "text": "Afirma que los habitantes de San José no notaron la llegada de los hombres armados.",
+          "is_correct": false,
+          "feedback": "La narración registra con dolor los secuestros, la huida y el pavor de los vecinos."
+        },
+        {
+          "letter": "D",
+          "text": "Transforma la historia en un folleto de propaganda de guerra gubernamental.",
+          "is_correct": false,
+          "feedback": "Es una novela de honda sensibilidad humana que denuncia el pánico y la desolación de las víctimas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En *Los ejércitos*, la focalización en un anciano indefenso desnuda la vulnerabilidad de la población civil ante el conflicto armado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle-v5",
+      "statement": "¿Qué función cumple la convergencia entre el drama personal del forastero y el conflicto colectivo del pueblo?",
+      "context": "En *El día señalado* de Manuel Mejía Vallejo, la llegada de un forastero que busca a su padre para vengarse coincide con el clima de terror en un pueblo de la montaña.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muestra cómo el ciclo del odio personal se entrelaza y nutre de la violencia colectiva que devora a la sociedad.",
+          "is_correct": true,
+          "feedback": "Mejía Vallejo conecta el drama de la bastardía y la venganza con el contexto mayor de La Violencia bipartidista."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que las venganzas personales nunca ocurren en zonas rurales de Colombia.",
+          "is_correct": false,
+          "feedback": "El drama rural expone precisamente las heridas de la afrenta y el desamparo."
+        },
+        {
+          "letter": "C",
+          "text": "Señala que el forastero llegó a la población para abrir una sucursal bancaria.",
+          "is_correct": false,
+          "feedback": "El móvil del personaje es estrictamente de justicia de sangre y memoria."
+        },
+        {
+          "letter": "D",
+          "text": "Elimina la tensión narrativa convirtiendo la novela en una comedia de costumbres.",
+          "is_correct": false,
+          "feedback": "La obra mantiene un clima denso, trágico y de constante inminencia de la muerte."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La novela de Mejía Vallejo entrelaza el conflicto edípico individual con la tragedia social de la violencia política rural.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle-v6",
+      "statement": "¿De qué manera el lenguaje barroco y musical del autor rescata la identidad afrocaribeña?",
+      "context": "En un cuento de Roberto Burgos Cantor ambientado en el barrio Getsemaní de Cartagena, las voces del mercado y del muelle se entrecruzan con la memoria de la esclavitud.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Revitaliza la oralidad, los ritmos populares y la dignidad histórica de las comunidades negras frente a la amnesia oficial.",
+          "is_correct": true,
+          "feedback": "Burgos Cantor utiliza una prosa rítmica y poética para celebrar la resistencia y la memoria viva del Caribe heroico y popular."
+        },
+        {
+          "letter": "B",
+          "text": "Prohíbe la presencia de modismos locales para adaptar el texto al español neutro de España.",
+          "is_correct": false,
+          "feedback": "El autor celebra precisamente el léxico, el sabor y la cadencia del habla afrocaribeña."
+        },
+        {
+          "letter": "C",
+          "text": "Afirma que la historia de Cartagena comenzó con la construcción de los grandes hoteles modernos.",
+          "is_correct": false,
+          "feedback": "El relato indaga en las raíces coloniales, la muralla, el puerto y la gesta libertaria."
+        },
+        {
+          "letter": "D",
+          "text": "Reduce la cultura del Caribe a una lista de canciones de música electrónica comercial.",
+          "is_correct": false,
+          "feedback": "Su literatura abre una dimensión poética y filosófica sobre el cuerpo, la música y la memoria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La narrativa de Burgos Cantor reivindica la memoria afrodescendiente del Caribe mediante una prosa lírica de gran riqueza sonora.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle-v7",
+      "statement": "¿Qué visión de la urbe contemporánea articula la estructura de relatos entrelazados en *Satanás*?",
+      "context": "En *Satanás* de Mario Mendoza, tres historias paralelas en Bogotá desembocan trágicamente en la masacre del restaurante Pozzetto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa a Bogotá como un laberinto de soledades e incomprensión donde el mal y la violencia acechan a cualquier ciudadano.",
+          "is_correct": true,
+          "feedback": "Mendoza conecta a personajes de distintas clases sociales cuya alienación común estalla en el fatídico evento real."
+        },
+        {
+          "letter": "B",
+          "text": "Muestra una ciudad utópica donde todos los habitantes viven en perfecta armonía y fraternidad.",
+          "is_correct": false,
+          "feedback": "La novela retrata el lado oscuro, la marginalidad, la neurosis y el dolor urbano."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que los crímenes de la ciudad son causados por la invasión de seres extraterrestres.",
+          "is_correct": false,
+          "feedback": "El mal en *Satanás* nace de las fracturas psicológicas, la exclusión y la fragilidad humana."
+        },
+        {
+          "letter": "D",
+          "text": "Informa sobre los precios de la carta del restaurante donde ocurren los hechos.",
+          "is_correct": false,
+          "feedback": "El espacio restaurante es el escenario dramático del clímax, no un folleto gastronómico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mario Mendoza indaga el lado oscuro y alienante de la Bogotá moderna a través de vidas paralelas abocadas a la tragedia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.71,
+      "bundle_id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle-v8",
+      "statement": "¿Cómo combina Carrasquilla la tradición oral antioqueña con la teología popular en este célebre relato?",
+      "context": "En el cuento *En la diestra de Dios Padre* de Tomás Carrasquilla, Peralta utiliza los tres deseos concedidos por Jesús para burlar a la Muerte.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incorpora el ingenio campesino, la picaresca y el habla dialectal para humanizar lo sagrado y celebrar la caridad sin solemnidad.",
+          "is_correct": true,
+          "feedback": "Peralta representa la astucia del humilde que pone la caridad por encima de la norma eclesial, derrotando al diablo y a la muerte con picardía."
+        },
+        {
+          "letter": "B",
+          "text": "Escribe un tratado dogmático para la enseñanza del catecismo en los seminarios de la Iglesia.",
+          "is_correct": false,
+          "feedback": "Es una obra maestra de la narrativa de ficción popular y picaresca, no una instrucción dogmática."
+        },
+        {
+          "letter": "C",
+          "text": "Critica la caridad de Peralta considerándola un delito sancionable por las leyes civiles.",
+          "is_correct": false,
+          "feedback": "El relato ensalza la figura de Peralta como encarnación del amor compasivo y la gracia."
+        },
+        {
+          "letter": "D",
+          "text": "Utiliza exclusivamente el idioma latín para redactar las conversaciones entre Jesús y Peralta.",
+          "is_correct": false,
+          "feedback": "Carrasquilla brilla en el uso sabroso del dialecto y los modismos del pueblo antioqueño."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Carrasquilla fusiona la picaresca española con el folclore antioqueño en una parábola entrañable sobre la compasión y la astucia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle-v9",
+      "statement": "¿Qué innovación estética introdujo esta novela en la narrativa colombiana de los años noventa?",
+      "context": "En *Opio en las nubes* de Rafael Chaparro Madiedo, un gato llamado Pink Floyd y jóvenes marginados narran sus vidas aceleradas en una Bogotá subterránea.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso de una prosa poética rítmica impregnada de rock, psicodelia y subjetividades no humanas que rompió con el realismo tradicional.",
+          "is_correct": true,
+          "feedback": "Chaparro inventó un lenguaje musical y fragmentario que dio voz a la nocturnidad, las drogas y la juventud bohemia de la capital."
+        },
+        {
+          "letter": "B",
+          "text": "El retorno a la novela de caballerías medieval con caballeros andantes y torneos de lanza.",
+          "is_correct": false,
+          "feedback": "Es una obra vanguardista y punk de estética abiertamente urbana y marginal."
+        },
+        {
+          "letter": "C",
+          "text": "Un análisis numérico sobre la importación de alimentos procesados en Colombia.",
+          "is_correct": false,
+          "feedback": "La novela es una experiencia poética, visceral y sensorial sobre la juventud descarriada."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición de usar nombres de bandas de música en los títulos de los capítulos.",
+          "is_correct": false,
+          "feedback": "La novela está saturada de referencias a la cultura rock y la música pop de la época."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "*Opio en las nubes* revolucionó la literatura urbana colombiana mediante una prosa rítmica, poética y desenfadada.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle-v10",
+      "statement": "¿Qué efecto produce la metaficción cuando el texto reflexiona sobre su propio proceso de escritura?",
+      "context": "En un fragmento de *La lluvia de arroz* de una autora colombiana, la narradora interrumpe el relato de la boda para discutir con el lector sobre la veracidad de los celos de la novia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rompe la ilusión de la cuarta pared e invita al lector a dudar de las certezas de la ficción y asumir un rol de coautor.",
+          "is_correct": true,
+          "feedback": "La metaficción revela los andamios de la invención literaria, mostrando que todo relato es una construcción deliberada."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que la escritora olvidó la trama principal y busca excusas para rellenar la página.",
+          "is_correct": false,
+          "feedback": "Es una estrategia narrativa de autoconciencia crítica muy valorada en la literatura contemporánea."
+        },
+        {
+          "letter": "C",
+          "text": "Obliga al lector a cerrar el libro y presentar un examen en la universidad.",
+          "is_correct": false,
+          "feedback": "Estimula el pensamiento crítico sobre la naturaleza de la literatura sin salir del espacio de lectura."
+        },
+        {
+          "letter": "D",
+          "text": "Garantiza que la boda descrita ocurrió realmente en una parroquia de la capital.",
+          "is_correct": false,
+          "feedback": "La metaficción enfatiza el carácter artificioso y creado del mundo de papel."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La técnica metaficcional alienta la distancia crítica del lector al exponer los mecanismos de la invención narrativa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.61,
+      "bundle_id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle-v11",
+      "statement": "¿Cómo funciona la estructura de historias cruzadas en la narrativa de la intimidad femenina?",
+      "context": "En *El albergue de las mujeres tristes* de Marcela Serrano, varias mujeres de distintas edades se reúnen en la isla de Chiloé para sanar sus heridas afectivas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite tejer un mapa de la condición femenina donde el dolor individual se transforma en sororidad y memoria colectiva.",
+          "is_correct": true,
+          "feedback": "La novela contrapone diversos testimonios para revelar las opresiones de género y la posibilidad de sanación comunitaria."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que las mujeres no deben viajar solas sin autorización familiar.",
+          "is_correct": false,
+          "feedback": "La obra reivindica la autonomía, la libertad y el viaje interior de la mujer contemporánea."
+        },
+        {
+          "letter": "C",
+          "text": "Establece que los problemas emocionales se resuelven mediante decretos gubernamentales.",
+          "is_correct": false,
+          "feedback": "Aborda la dimensión afectiva, psicológica y social desde la introspección y el diálogo."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituye la literatura por un manual de primeros auxilios médicos.",
+          "is_correct": false,
+          "feedback": "Es una profunda indagación narrativa sobre los afectos, las pérdidas y la identidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La polifonía de voces femeninas en la novela contemporánea construye una memoria compartida sobre las luchas e identidades de la mujer.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle-v12",
+      "statement": "¿Qué busca la narrativa no lineal basada en la forma del diccionario o enciclopedia?",
+      "context": "En *El barroco del Universo* de un autor colombiano, la narración se estructura como un diccionario alfabético donde cada término abre un relato breve.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ofrecer una estructura de lectura fragmentaria y combinatoria que desafía el orden cronológico tradicional.",
+          "is_correct": true,
+          "feedback": "Al usar la forma de diccionario, la obra permite al lector navegar libremente entre entradas que componen un tapiz ficcional."
+        },
+        {
+          "letter": "B",
+          "text": "Obligar a las escuelas a sustituir todos los diccionarios académicos por libros de cuentos.",
+          "is_correct": false,
+          "feedback": "Es una propuesta de diseño literario que parodia o asimila las formas del saber enciclopédico."
+        },
+        {
+          "letter": "C",
+          "text": "Demostrar que el autor era incapaz de escribir un capítulo largo de corrido.",
+          "is_correct": false,
+          "feedback": "Exige una rigurosa arquitectura de síntesis y relaciones cruzadas entre los vocablos."
+        },
+        {
+          "letter": "D",
+          "text": "Prohibir el uso de palabras que empiecen por consonantes compuestas.",
+          "is_correct": false,
+          "feedback": "Usa las letras del alfabeto como principio organizador de ficciones independientes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las formas diccionariles (como en Pavic o Borges) subvierten la linealidad y convierten la lectura en un juego de exploración.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle-v13",
+      "statement": "¿Qué significó para la literatura hispanoamericana la monumental recreación de la diáspora africana por Zapata Olivella?",
+      "context": "En *La ceiba de la memoria* de Manuel Zapata Olivella, la épica de la migración forzada de los cautivos africanos se narra desde las entrañas de los barcos negreros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El rescate de la cosmogonía ancestral y la dignificación del sufrimiento y resistencia del pueblo negro frente a la barbarie colonial.",
+          "is_correct": true,
+          "feedback": "Zapata Olivella creó una obra cumbre que integra la filosofía Bantú, la historia y la voz de los ancestros en la saga de la libertad."
+        },
+        {
+          "letter": "B",
+          "text": "Una justificación de los métodos de comercio empleados por los imperios europeos del siglo XVI.",
+          "is_correct": false,
+          "feedback": "La obra es una denuncia radical contra el horror de la trata negrera y un canto a la liberación."
+        },
+        {
+          "letter": "C",
+          "text": "Un estudio puramente administrativo sobre las rutas de navegación del Atlántico.",
+          "is_correct": false,
+          "feedback": "Es una novela de deslumbrante aliento poético, filosófico e histórico."
+        },
+        {
+          "letter": "D",
+          "text": "La recomendación de olvidar las raíces africanas para integrarse a la cultura urbana.",
+          "is_correct": false,
+          "feedback": "Reivindica el *Muntu* y la fuerza de los ancestros como pilar indisoluble de nuestra identidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Manuel Zapata Olivella consagró la epopeya de la afrodiaspórica en una novela que combina historia, mito y filosofía ancestral.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.52,
+      "bundle_id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle-v14",
+      "statement": "¿De qué manera el espacio fronterizo intensifica las tensiones del género negro?",
+      "context": "En un cuento de policíaco de vanguardia ambientado en la frontera entre Cúcuta y San Antonio, un detective privado investiga el contrabando de gasolina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Funciona como un territorio de porosidad moral y legal donde las identidades se desdibujan y la autoridad se fragmenta.",
+          "is_correct": true,
+          "feedback": "La frontera ofrece el escenario perfecto para el género negro: violencia soterrada, lealtades dobles y la búsqueda de justicia en la sombra."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra la perfección de los controles aduaneros en todas las carreteras del país.",
+          "is_correct": false,
+          "feedback": "El género negro explora precisamente las fisuras, la corrupción y los pasajes clandestinos."
+        },
+        {
+          "letter": "C",
+          "text": "Señala que los detectives en la frontera solo consumen comida vegetariana.",
+          "is_correct": false,
+          "feedback": "Los rasgos del personaje atienden al desencanto y el riesgo del entorno hostil."
+        },
+        {
+          "letter": "D",
+          "text": "Transforma la historia en un reporte topográfico sobre los ríos de la Orinoquía.",
+          "is_correct": false,
+          "feedback": "El espacio fronterizo potencia el conflicto ético y la intriga policíaca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El espacio de frontera en la literatura negra contemporánea complejiza la investigación al situarla en un territorio de indefinición legal y moral.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.48,
+      "bundle_id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle-v15",
+      "statement": "¿Qué mecanismo causa la extrañeza en el cuento fantástico urbano de Fuentes?",
+      "context": "En *Cantar de ciegos* de Carlos Fuentes, varios relatos abordan la irrupción de lo insólito en salones de la clase alta de la Ciudad de México.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La quiebra de la lógica cotidiana burguesa por la irrupción inmotivada de fantasmas, espejos y obsesiones del pasado.",
+          "is_correct": true,
+          "feedback": "Fuentes desestabiliza la seguridad de la vida acomodada introduciendo lo sobrenatural como metáfora de culpas reprimidas."
+        },
+        {
+          "letter": "B",
+          "text": "La explicación médica detallada de las alucinaciones por contagio de virus.",
+          "is_correct": false,
+          "feedback": "El cuento fantástico sostiene la duda sobre lo maravilloso sin reducirlo a diagnóstico clínico."
+        },
+        {
+          "letter": "C",
+          "text": "La presencia de un narrador que afirma ser un inspector de hacienda pública.",
+          "is_correct": false,
+          "feedback": "La voz narrativa construye climas de suspenso y ambigüedad estética."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición de encender luces durante las noches en la capital.",
+          "is_correct": false,
+          "feedback": "El elemento insólito se manifiesta en medio de la vida ordinaria y elegante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cuento fantástico urbano cuestiona las certezas del mundo burgués revelando las grietas misteriosas de la realidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle-v16",
+      "statement": "¿Qué valor cultural posee la picaresca y la repentización verbal en la literatura de tradición oral?",
+      "context": "En un poema narrativo de la lírica popular colombiana, un trovador relata el duelo a verso improvisado entre dos guitarreros en una tienda de vereda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Preserva el ingenio popular, la agilidad mental y la memoria de las comunidades como forma de resistencia e identidad.",
+          "is_correct": true,
+          "feedback": "La trova y la picaresca oral son manifestaciones vivas de la cultura donde la comunidad celebra el talento y el humor colectivo."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra la incapacidad de los campesinos para escribir textos en papel impreso.",
+          "is_correct": false,
+          "feedback": "La oralidad es una forma culta y compleja de creación poética con reglas propias."
+        },
+        {
+          "letter": "C",
+          "text": "Exige que todos los duelos verbales concluyan en combates con machete.",
+          "is_correct": false,
+          "feedback": "El duelo de trova es una contienda de inteligencia, rima e ingenio sin violencia física."
+        },
+        {
+          "letter": "D",
+          "text": "Prohíbe el uso de instrumentos musicales de cuerda en las zonas rurales.",
+          "is_correct": false,
+          "feedback": "La música de cuerda es el acompañamiento natural e inseparable de la trovada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La literatura oral de trovas y contrapunteos expresa la vitalidad del pensamiento popular mediante el manejo virtuoso del verso improvisado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.42,
+      "bundle_id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle-v17",
+      "statement": "¿Qué visión de la existencia humana encarna el personaje desesperanzado de Maqroll el Gaviero?",
+      "context": "En *La nieve del almirante* de Álvaro Mutis, Maqroll el Gaviero remonta un río hirviente en busca de unos aserraderos inexistentes en la selva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El viajero lúcido y fatalista que asume la quiebra de sus empresas sin perder la dignidad ni la fascinación por el camino.",
+          "is_correct": true,
+          "feedback": "Maqroll es el arquetipo del nómada moderno que sabe que la meta es ilusoria pero encuentra belleza en la travesía y la derrota."
+        },
+        {
+          "letter": "B",
+          "text": "Un empresario de éxito que logra construir un imperio hotelero en la cuenca del Amazonas.",
+          "is_correct": false,
+          "feedback": "La esencia de Maqroll es la ruina constante de sus proyectos y su vagabundeo sin fortuna."
+        },
+        {
+          "letter": "C",
+          "text": "Un almirante naval que nunca ha salido de la bahía de Cartagena de Indias.",
+          "is_correct": false,
+          "feedback": "Maqroll ha recorrido todos los puertos del mundo acumulando nostalgias y naufragios."
+        },
+        {
+          "letter": "D",
+          "text": "Un funcionario público que redacta informes sobre la navegación fluvial.",
+          "is_correct": false,
+          "feedback": "Es un aventurero poético, margínal y de honda lucidez existencial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Maqroll el Gaviero es una de las mayores creaciones de la literatura hispanoamericana: la encarnación del viaje sin retorno y la lucidez frente al fracaso.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.39,
+      "bundle_id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle-v18",
+      "statement": "¿Qué crítica ecológica y social plantea esta premisa en la literatura futurista?",
+      "context": "En un relato de ciencia ficción especulativa publicado en Bogotá, los ciudadanos alquilan recuerdos sintéticos de bosques desaparecidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alerta sobre la mercantilización de la memoria y la pérdida irreversible de la naturaleza a manos del desarrollo industrial desenfrenado.",
+          "is_correct": true,
+          "feedback": "La distopía utiliza la memoria artificial para cuestionar la ceguera ecológica del presente y la codicia de la tecnología corporativa."
+        },
+        {
+          "letter": "B",
+          "text": "Celebra la sustitución definitiva de las plantas reales por circuitos electrónicos de silicio.",
+          "is_correct": false,
+          "feedback": "El texto denuncia la tragedia de un mundo despojado de vida vegetal verdadera."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que los seres humanos prefieren los bosques de plástico a la brisa natural.",
+          "is_correct": false,
+          "feedback": "La melancolía de los personajes revela la dolorosa orfandad de la pérdida natural."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituye la literatura por un catálogo de venta de videojuegos de realidad virtual.",
+          "is_correct": false,
+          "feedback": "Usa la ciencia ficción como vehículo de reflexión ética sobre el futuro del planeta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La narrativa distópica contemporánea utiliza la tecnología sintética como advertencia crítica sobre la crisis ambiental del siglo XXI.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.36,
+      "bundle_id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle-v19",
+      "statement": "¿Qué función cumple la imaginación fabuladora en la vejez y la marginalidad según el relato?",
+      "context": "En *El albergue de los mendigos* de un autor costeño, los ancianos de un asilo inventan una revolución ficticia para no morir de aburrimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Actúa como una estrategia de dignidad y juego que devuelve el sentido a la existencia frente al abandono y el olvido.",
+          "is_correct": true,
+          "feedback": "La fabulación les permite volver a sentirse actores de la historia, derrotando la monotonía de la institución mediante la ficción compartida."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que los ancianos padecían demencia senil irreversible comprobada por los médicos.",
+          "is_correct": false,
+          "feedback": "La invención de la revolución es un juego lúcido y deliberado de resistencia afable."
+        },
+        {
+          "letter": "C",
+          "text": "Provoca la intervención de las fuerzas armadas para desalojar el albergue.",
+          "is_correct": false,
+          "feedback": "Se trata de un pacto de ficción inocente dentro de los muros del asilo."
+        },
+        {
+          "letter": "D",
+          "text": "Prohíbe a los mendigos hablar entre sí durante las horas de la tarde.",
+          "is_correct": false,
+          "feedback": "La fabulación se nutre del diálogo apasionado y la complicidad del grupo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fabulación compartida en la vejez opera como un acto de resistencia poética frente a la muerte y la invisibilidad social.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.32,
+      "bundle_id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle-v20",
+      "statement": "¿Qué transformación crítica supuso la consolidación de las narradoras colombianas a partir de los años ochenta?",
+      "context": "En el ensayo *El estilo y la voz* de Montserrat Ordóñez, se analiza la irrupción de las escritoras colombianas en el canon dominado por hombres.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La desarticulación de los estereotipos patriarcales y la incorporación de nuevos mapas afectivos, espacios urbanos y memorias del conflicto.",
+          "is_correct": true,
+          "feedback": "Ordóñez destaca cómo autoras como Restrepo, Moreno, Marvel y Quintana refundaron las letras nacionales desde miradas audaces y complejas."
+        },
+        {
+          "letter": "B",
+          "text": "La obligación de que todos los libros publicados en Colombia fueran revisados por un comité masculino.",
+          "is_correct": false,
+          "feedback": "Las narradoras conquistaron autonomía y reconocimiento internacional por el valor de sus obras."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación de que las mujeres solo debían escribir literatura para niños.",
+          "is_correct": false,
+          "feedback": "Demostraron maestría en la novela política, la violencia urbana, el erotismo y el ensayo."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición de vender obras escritas por mujeres en las librerías universitarias.",
+          "is_correct": false,
+          "feedback": "Sus obras se convirtieron en lecturas indispensables de los currículos de literatura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La irrupción de las voces femeninas enriqueció y diversificó el canon literario colombiano al aportar perspectivas estéticas e ideológicas renovadoras.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.29,
+      "bundle_id": "CO-LC-11-2026-W05-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

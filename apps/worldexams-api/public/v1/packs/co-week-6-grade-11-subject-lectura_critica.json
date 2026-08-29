@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-6-grade-11-subject-lectura_critica",
+    "generated_at": "2026-08-29T21:14:50.292Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle-v1",
+      "statement": "¿Qué logro estructural alcanza el autor al anticipar el desenlace desde el inicio de la novela (prolepsis inicial)?",
+      "context": "En el comienzo de *Crónica de una muerte anunciada* de García Márquez, se revela en la primera frase que Santiago Nasar va a ser asesinado el día que regresa el obispo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desplaza el interés del lector del \"¿qué pasará al final?\" hacia el \"cómo y por qué nadie evitó la tragedia anunciada\".",
+          "is_correct": true,
+          "feedback": "Al revelar el destino final, la tensión se traslada al engranaje de fatalidades, cobardías e incomprensiones que provocaron el crimen."
+        },
+        {
+          "letter": "B",
+          "text": "Arruina la trama detectivesca provocando que los lectores abandonen el libro en la primera página.",
+          "is_correct": false,
+          "feedback": "García Márquez convierte la revelación del crimen en un mecanismo de suspenso e indignación trágica superior."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que los hermanos Vicario eran inocentes y no cometieron ningún delito.",
+          "is_correct": false,
+          "feedback": "La obra confirma desde el inicio la autoría del crimen por motivos de honor familiar."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituye la estructura de novela por una guía turística sobre los puertos del río Magdalena.",
+          "is_correct": false,
+          "feedback": "Mantiene una densa arquitectura narrativa que combina la crónica, el testimonio y el destino trágico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La prolepsis inicial en *Crónica de una muerte anunciada* redefine el pacto de lectura, enfocando la tensión en el engranaje social del crimen.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle-v2",
+      "statement": "¿Qué efecto produce intercalar documentos de tono oficial dentro de la estructura de la novela?",
+      "context": "En la novela *La casa grande* de Álvaro Cepeda Samudio, el capítulo titulado \"Decreto\" transcribe fielmente la orden militar que declara a los huelguistas \"cuadrilla de malhechores\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Denuncia el lenguaje deshumanizador del Estado que legitima la violencia legal frente al dolor de los trabajadores.",
+          "is_correct": true,
+          "feedback": "El decreto frio y burocrático contrapone la violencia institucional con la voz trágica del pueblo arrasado."
+        },
+        {
+          "letter": "B",
+          "text": "Prueba la estricta imparcialidad y benevolencia de la compañía bananera en el conflicto.",
+          "is_correct": false,
+          "feedback": "El texto expone precisamente la arbitrariedad y connivencia entre las fuerzas militares y la multinacional."
+        },
+        {
+          "letter": "C",
+          "text": "Indica que la novela fue escrita por un secretario del Ministerio de Guerra.",
+          "is_correct": false,
+          "feedback": "Cepeda Samudio utiliza el documento como recurso estético de montaje vanguardista."
+        },
+        {
+          "letter": "D",
+          "text": "Elimina de la obra cualquier elemento de ficción o valor estético.",
+          "is_correct": false,
+          "feedback": "El montaje documental enriquece la polifonía y el compromiso crítico de la novela."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La técnica del montaje de textos oficiales en la novela moderna expone la violencia del discurso del poder frente a las víctimas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.87,
+      "bundle_id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle-v3",
+      "statement": "¿Qué función cumple la estructura de relatos enmarcados (historias dentro de historias) en la novela?",
+      "context": "En un fragmento de *La vorágine* de José Eustasio Rivera, el relato principal de Arturo Cova se interrumpe para insertar la historia de Clemente Silva sobre las muertes en los cauchales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ampliar el testimonio de la explotación amazónica incorporando la voz de las víctimas directas que vivieron el infierno del caucho.",
+          "is_correct": true,
+          "feedback": "La historia de Clemente Silva aporta veracidad, crudeza y contrapunto al relato pasional de Cova."
+        },
+        {
+          "letter": "B",
+          "text": "Confundir la cronología para que el lector no sepa en qué país transcurre la acción.",
+          "is_correct": false,
+          "feedback": "Las historias enmarcadas están claramente ubicadas en la cuenca del Amazonas y el Putumayo."
+        },
+        {
+          "letter": "C",
+          "text": "Demostrar que los caucheros vivían en condiciones de lujo y comodidad.",
+          "is_correct": false,
+          "feedback": "El relato de Silva visibiliza la esclavitud, las torturas y la fiebre en la selva."
+        },
+        {
+          "letter": "D",
+          "text": "Obligar a que la novela sea leída como un libreto de ópera italiana.",
+          "is_correct": false,
+          "feedback": "Es una técnica narratológica de ramificación testimonial propia de la novela de la selva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las historias enmarcadas en *La vorágine* otorgan densidad documental y polifonía al retrato de la explotación en la Amazonía.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle-v4",
+      "statement": "¿Qué relación se establece entre el \"tiempo de la historia\" (cronológico) y el \"tiempo del relato\" (duración verbal)?",
+      "context": "En *La lluvia de arroz*, la narración transcurre en apenas dos horas durante una recepción matrimonial, pero abarca tres décadas a través de los recuerdos de los invitados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se produce una dilatación temporal donde el tiempo del relato se expande mediante la memoria y la introspección de las vidas pasadas.",
+          "is_correct": true,
+          "feedback": "El tiempo presente de la boda funciona como un ancla desde donde la prosa se dilata explorando tres décadas de recuerdos."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que el reloj de la iglesia estaba detenido por falta de mantenimiento.",
+          "is_correct": false,
+          "feedback": "No es un fallo del reloj sino un procedimiento de diseño narrativo de manipulación temporal."
+        },
+        {
+          "letter": "C",
+          "text": "Afirma que las dos horas reales duraron exactamente treinta años solares en la Tierra.",
+          "is_correct": false,
+          "feedback": "Diferencia el tiempo físico del evento del tiempo psíquico narrado en la novela."
+        },
+        {
+          "letter": "D",
+          "text": "Obliga al lector a leer el libro en un lapso estricto de dos horas de reloj.",
+          "is_correct": false,
+          "feedback": "La lectura depende del ritmo del receptor, ajena a la duración de los hechos ficcionales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La distancia entre el tiempo breve de la escena y la dilatación de la memoria es un recurso clave de la novela introspectiva.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle-v5",
+      "statement": "¿Qué busca la técnica de iniciar la narración *in media res* (en medio del conflicto)?",
+      "context": "En un cuento de ciencia ficción de un autor caleño, la historia arranca *in media res* cuando el protagonista despierta flotando en una cápsula averiada en la órbita de Marte.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Atrapar la atención inmediata del lector sumergiéndolo en el clímax de la acción sin preámbulos explicativos.",
+          "is_correct": true,
+          "feedback": "Al omitir la introducción tradicional, la narrativa *in media res* genera un ritmo vertiginoso e intriga por conocer los antecedentes."
+        },
+        {
+          "letter": "B",
+          "text": "Evitar que el autor tenga que inventar el pasado del personaje principal.",
+          "is_correct": false,
+          "feedback": "Los antecedentes se van revelando progresivamente mediante dosificaciones o flashbacks."
+        },
+        {
+          "letter": "C",
+          "text": "Cumplir con las normas de redacción de comunicados de prensa científicos.",
+          "is_correct": false,
+          "feedback": "Es una técnica clásica de la narrativa épica y moderna para dinamizar el comienzo."
+        },
+        {
+          "letter": "D",
+          "text": "Garantizar que el relato tenga exactamente tres páginas impresas.",
+          "is_correct": false,
+          "feedback": "No condiciona la extensión del texto sino el punto de entrada a la trama."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El inicio *in media res* dinamiza la entrada al universo ficcional al situar al receptor en el núcleo del peligro o conflicto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle-v6",
+      "statement": "¿Cómo articula esta célebre oración el pasado, el presente y el futuro en la estructura de la obra?",
+      "context": "En la novela *Cien años de soledad*, el relato comienza con la famosa frase: \"Muchos años después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Engarza tres tiempos en un solo movimiento sintáctico: un futuro del pasado (pelotón) que evoca un pasado remoto (el hielo) desde el presente del relato.",
+          "is_correct": true,
+          "feedback": "García Márquez crea un bucle temporal perfecto que condensa la memoria, el destino y la nostalgia en una sola clausula magistral."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que el coronel Aureliano Buendía murió congelado en un experimento científico.",
+          "is_correct": false,
+          "feedback": "La frase evoca la fascinación infantil del personaje ante el hielo traído por los gitanos."
+        },
+        {
+          "letter": "C",
+          "text": "Indica que la novela fue redactada por un historiador español del siglo XVI.",
+          "is_correct": false,
+          "feedback": "Es una frase de apertura moderna que inaugura la epopeya mítica de Macondo."
+        },
+        {
+          "letter": "D",
+          "text": "Señala que el pelotón de fusilamiento era una comedia teatral representada en el pueblo.",
+          "is_correct": false,
+          "feedback": "El pelotón alude a las continuas guerras civiles y a la inminencia de la muerte."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El arranque de *Cien años de soledad* es un prodigio de arquitectura temporal que trenza pasado, futuro e infancia en un destello de memoria.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle-v7",
+      "statement": "¿Qué función cumple la \"pausa descriptiva\" en el ritmo narrativo del cuento de suspenso?",
+      "context": "En un cuento de terror ambientado en una hacienda abandonada en el altiplano cundiboyacense, las descripciones del viento en las ventanas ocupan tres páginas completas sin que ocurran acciones físicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Detiene el avance de los acontecimientos para construir una atmósfera de opresión, presagio y tensión psicológica.",
+          "is_correct": true,
+          "feedback": "La pausa descriptiva dilata el tiempo de espera, agudizando la inquietud del lector ante el peligro inminente."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra la incapacidad del autor para hacer que los personajes dialoguen entre sí.",
+          "is_correct": false,
+          "feedback": "La descripción ambiental es un recurso intencional para edificar el clima gótico o de suspenso."
+        },
+        {
+          "letter": "C",
+          "text": "Informa al lector sobre los precios de venta de los inmuebles rurales en Boyacá.",
+          "is_correct": false,
+          "feedback": "La intención es crear un ambiente inquietante, no un catálogo inmobiliario."
+        },
+        {
+          "letter": "D",
+          "text": "Elimina de la obra cualquier tipo de conflicto dramático.",
+          "is_correct": false,
+          "feedback": "Al contrario, acumula energía dramática retardando el desenlace del conflicto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pausa descriptiva en el relato de suspenso dilata la espera y carga el espacio de resonancias inquietantes que intensifican el pavor.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.71,
+      "bundle_id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle-v8",
+      "statement": "¿Qué procedimiento de manipulación temporal se aplica al resumir un largo periodo en pocas palabras (elipsis / resumen)?",
+      "context": "En una novela sobre la independencia colombiana, el autor dedica apenas dos frases para resumir los cinco años que el protagonista pasó en prisión en Cádiz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acelera el ritmo narrativo suprimiendo la monotonía del encierro para centrar la atención en los momentos de mayor impacto dramático.",
+          "is_correct": true,
+          "feedback": "El resumen o elipsis economiza el tiempo del relato seleccionando únicamente los hitos decisivos de la biografía del héroe."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que las prisiones coloniales no tenían importancia para la historia del país.",
+          "is_correct": false,
+          "feedback": "Omite los detalles cotidianos del encierro para mantener el dinamismo de la narración."
+        },
+        {
+          "letter": "C",
+          "text": "Indica que el autor perdió las páginas donde describía la vida en la cárcel.",
+          "is_correct": false,
+          "feedback": "Es una técnica consciente de dosificación temporal de la prosa."
+        },
+        {
+          "letter": "D",
+          "text": "Obliga al lector a investigar en archivos históricos qué comía el preso cada día.",
+          "is_correct": false,
+          "feedback": "El texto ofrece una experiencia estética autónoma mediante la síntesis narrativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El resumen y la elipsis son mecanismos de economía narrativa que aceleran el ritmo seleccionando los eventos significativos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle-v9",
+      "statement": "¿Cómo funciona el espacio cerrado de la casa burguesa en la economía simbólica de la novela?",
+      "context": "En *Delirio* de Laura Restrepo, el espacio de la casa familiar de Agustina en Bogotá se describe como un lugar lleno de espejos cubiertos y secretos guardados en el sanatorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Refleja la decadencia moral, el ahogo y las apariencias de una clase social que oculta sus traumas y la locura tras muros solemnes.",
+          "is_correct": true,
+          "feedback": "La casa de Agustina es un microcosmos de la sociedad tradicional bogotana que prefiere el silencio y el encierro antes que enfrentar la verdad."
+        },
+        {
+          "letter": "B",
+          "text": "Muestra una arquitectura idílica admirada por los urbanistas de todo el mundo.",
+          "is_correct": false,
+          "feedback": "El espacio doméstico se describe con opresión, sombras y fracturas ocultas."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que la familia se dedicaba al comercio de espejos importados de Europa.",
+          "is_correct": false,
+          "feedback": "Los espejos cubiertos simbolizan el miedo a mirar la propia imagen y la locura."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituye la trama de la novela por un plano arquitectónico a escala del inmueble.",
+          "is_correct": false,
+          "feedback": "El espacio privado carga un denso valor metafórico sobre el secreto y la culpa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El espacio doméstico en *Delirio* funciona como espejo de las fisuras morales, la hipocresía y el trauma de la burguesía urbana.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle-v10",
+      "statement": "¿Qué sentido filosófico transmite una estructura narrativa circular?",
+      "context": "En el cuento *El tranvía de la medianoche*, la narración presenta una estructura circular: arranca con un pasajero comprando un tiquete de madera y cierra con el mismo pasajero comprando el mismo tiquete.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evoca la imposibilidad de escapar del destino, la repetición del error o la condena a un bucle temporal insuperable.",
+          "is_correct": true,
+          "feedback": "La circularidad quiebra la ilusión de progreso lineal, atrapando al personaje en una condena o mito de eterno retorno."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que la empresa de tranvías tenía un solo tipo de tiquete a la venta.",
+          "is_correct": false,
+          "feedback": "El tiquete repetido es la marca simbólica del atrapamiento en el bucle."
+        },
+        {
+          "letter": "C",
+          "text": "Indica que el cuento debe ser leído dos veces seguidas para que la imprenta cobre el doble.",
+          "is_correct": false,
+          "feedback": "Es una propuesta de clausura estética sobre la fatalidad y el tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "Garantiza que la historia continuará en una serie de historietas infantiles.",
+          "is_correct": false,
+          "feedback": "Sella la obra en un universo cerrado sobre sí mismo de alta densidad poética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La estructura circular en el cuento enfatiza la trampa del destino, la fatalidad y la repetición trágica sin salida.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.61,
+      "bundle_id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle-v11",
+      "statement": "¿Qué función cumple el contrapunto espacial entre el Llano y la Selva en la novela de Rivera?",
+      "context": "En *La vorágine*, el espacio geográfico se transforma a medida que los personajes se adentran en la selva: de la libertad de los Llanos a la cárcel verde del Amazonas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contrasta la ilusión de libertad y horizonte abierto del Llano con la sofocante vorágine de la selva que devora la razón humana.",
+          "is_correct": true,
+          "feedback": "El cambio de escenario acompaña la degradación moral y física de Cova, pasando del espacio abierto a la trampa verde."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que el autor prefirió la vida en la selva por sobre la vida en las ciudades.",
+          "is_correct": false,
+          "feedback": "Rivera describe la selva con fascinación y espanto: un infierno de explotación y fiebre."
+        },
+        {
+          "letter": "C",
+          "text": "Informa al lector sobre las diferencias de temperatura promedio entre ambas regiones.",
+          "is_correct": false,
+          "feedback": "No es una lección de geografía física sino una construcción de espacios dramáticos opuestos."
+        },
+        {
+          "letter": "D",
+          "text": "Obliga a los personajes a convertirse en botánicos profesionales.",
+          "is_correct": false,
+          "feedback": "El espacio influye en la psicología y el destino de los caucheros y aventureros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El contrapunto espacial en *La vorágine* simboliza el tránsito de la libertad pasional al infierno de la explotación y el extravío.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle-v12",
+      "statement": "¿Qué papel cumple el \"pasquín anónimo\" como motor de la trama y la tensión social en la novela?",
+      "context": "En *La mala hora* de García Márquez, el pueblo se despierta cada mañana con pasquines anónimos pegados en las puertas que revelan los secretos vergonzosos de los vecinos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Funciona como un catalizador invisible del pavor, la desconfianza colectiva y el afloramiento del odio en una comunidad dividida.",
+          "is_correct": true,
+          "feedback": "El pasquín no crea los secretos pero los saca a la luz, desatando la paranoia, la violencia soterrada y la descomposición del pueblo."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que todos los habitantes del pueblo tenían excelente caligrafía.",
+          "is_correct": false,
+          "feedback": "El valor del pasquín no es gráfico sino su poder de fractura social y delación."
+        },
+        {
+          "letter": "C",
+          "text": "Muestra que el alcalde era un poeta aficionado que regalaba sus versos por las noches.",
+          "is_correct": false,
+          "feedback": "El pasquín es un arma de difamación y terror moral que desestabiliza a la comunidad."
+        },
+        {
+          "letter": "D",
+          "text": "Es una estrategia publicitaria de un periódico de Bogotá para vender suscripciones.",
+          "is_correct": false,
+          "feedback": "Representa la violencia moral que acompaña a la represión política en el pueblo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pasquín anónimo en *La mala hora* desencadena la paranoia colectiva y expone las ruinas morales de una comunidad aplastada por la violencia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle-v13",
+      "statement": "¿Qué aporta el contrapunto o montaje paralelo de acciones simultáneas a la estructura de la novela urbana?",
+      "context": "En *Satanás* de Mario Mendoza, las acciones de los tres protagonistas ocurren de forma simultánea en distintas zonas de Bogotá durante el mismo día.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Construye una red de tensión convergente que muestra cómo destinos aparentemente ajenos caminan hacia la misma tragedia colectiva.",
+          "is_correct": true,
+          "feedback": "El montaje paralelo genera un ritmo trepidante y revela las invisibles conexiones de la alienación y el mal en la gran ciudad."
+        },
+        {
+          "letter": "B",
+          "text": "Garantiza que los tres personajes se conocieran desde la infancia y vivieran en la misma casa.",
+          "is_correct": false,
+          "feedback": "Los personajes no se conocen previamente; la estructura los reúne fatalmente al final."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que el transporte público de Bogotá funcionaba con absoluta puntualidad.",
+          "is_correct": false,
+          "feedback": "El mapa urbano se describe como hostil, caótico y saturado de tensión."
+        },
+        {
+          "letter": "D",
+          "text": "Elimina de la novela cualquier tipo de desenlace dramático.",
+          "is_correct": false,
+          "feedback": "El montaje paralelo acelera el ritmo hacia el estallido inevitable del clímax."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La estructura de contrapunto simultáneo en la novela urbana teje una red de vidas paralelas atrapadas en el mismo devenir trágico.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.52,
+      "bundle_id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle-v14",
+      "statement": "¿Qué relación existe entre la fragmentación de la estructura espacial y la disolución de la mente del narrador?",
+      "context": "En *El obsceno pájaro de la noche* de José Donoso, la voz del narrador Mudito se desintegra a medida que el espacio de la residencia de ancianos se vuelve un laberinto confuso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La arquitectura laberíntica y decrepita del edificio materializa formalmente el colapso psíquico y la pérdida de identidad del personaje.",
+          "is_correct": true,
+          "feedback": "Donoso funde el espacio físico con la pesadilla mental del Mudito, creando un universo donde los muros reflejan la demencia."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que la residencia de ancianos requería una inversión en pintura de pared.",
+          "is_correct": false,
+          "feedback": "El espacio fúnebre y laberíntico es una construcción metafórica de la decadencia."
+        },
+        {
+          "letter": "C",
+          "text": "Indica que el libro fue escrito para enseñar arquitectura de hospitales en Chile.",
+          "is_correct": false,
+          "feedback": "Es una de las cumbres de la novela gótica y de la descomposición de la voz narrativa en el Boom."
+        },
+        {
+          "letter": "D",
+          "text": "Muestra que el narrador era un arquitecto profesional contratado por el gobierno.",
+          "is_correct": false,
+          "feedback": "El Mudito es un personaje marginal atrapado en sus propios delirios y sirviente del asilo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La disolución del espacio y la voz narrativa en Donoso materializan la pesadilla de la decrepitud y la pérdida de la razón.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.48,
+      "bundle_id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle-v15",
+      "statement": "¿Qué función cumple el \"espacio de la noche veredal\" como marco de la narrativa de tradición oral?",
+      "context": "En *La carreta de la muerte*, un cuento de tradición popular de la costa atlántica, se narra la aparición de una carreta fantasma que recorre los pueblos en las noches de eclipse.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Configura un territorio de misterio y respeto comunitario donde las normas del mundo diurno se suspenden ante lo sagrado y lo mítico.",
+          "is_correct": true,
+          "feedback": "La noche veredal es el escenario perfecto para el mito oral, donde el silencio y la penumbra alimentan la fe en lo prodigioso."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que las veredas colombianas carecían de alumbrado público en el siglo XVIII.",
+          "is_correct": false,
+          "feedback": "Aunque refleja la oscuridad física, su valor en el cuento es la creación del espacio mítico."
+        },
+        {
+          "letter": "C",
+          "text": "Prohíbe a los campesinos salir a trabajar durante las horas de la mañana.",
+          "is_correct": false,
+          "feedback": "El mito nocturno educa la conducta y transmite valores sin alterar el trabajo diurno."
+        },
+        {
+          "letter": "D",
+          "text": "Transforma el cuento en una lección sobre la reparación de ruedas de madera.",
+          "is_correct": false,
+          "feedback": "La carreta fantasma es un símbolo de advertencia moral y memoria ancestral."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El espacio nocturno en la narrativa oral favorece la suspensión de la incredulidad y la preservación de los mitos comunitarios.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle-v16",
+      "statement": "¿Qué impacto produce el \"desenlace trunco o abierto\" en la lectura de un relato policíaco o institucional?",
+      "context": "En un cuento de intriga ambientado en los pasillos del Palacio de Justicia de Bogotá, el conflicto no se resuelve y el maletín con las pruebas desaparece al final.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Descoloca la expectativa de justicia del lector, obligándolo a reflexionar sobre la impunidad y la fragilidad del sistema legal.",
+          "is_correct": true,
+          "feedback": "Al negar el final feliz o la resolución del enigma, el relato abierto traslada la inquietud ética al plano de la realidad social."
+        },
+        {
+          "letter": "B",
+          "text": "Prueba que el autor perdió las últimas páginas del manuscrito antes de entregarlo a la imprenta.",
+          "is_correct": false,
+          "feedback": "El final abierto en la literatura contemporánea es una decisión deliberada de crítica social y estética."
+        },
+        {
+          "letter": "C",
+          "text": "Asegura que el maletín será encontrado por los lectores si visitan el edificio real.",
+          "is_correct": false,
+          "feedback": "Es un artefacto ficcional que simboliza la pérdida de la verdad en la burocracia."
+        },
+        {
+          "letter": "D",
+          "text": "Elimina cualquier valor literario del texto por no encarcelar al culpable.",
+          "is_correct": false,
+          "feedback": "Precisamente su valor crítico reside en dejar expuesta la impunidad del poder."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El final abierto en el relato de denuncia institucional cuestiona la ilusión de justicia perfecta y apela al juicio crítico del receptor.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.42,
+      "bundle_id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle-v17",
+      "statement": "¿Qué sugiere la elección de estos tres títulos para la estructura de la obra?",
+      "context": "En la novela *El resplandor de la selva*, la historia se divide en tres partes tituladas \"La Semilla\", \"La Flor\" y \"La Ceniza\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anticipa el ciclo vital de nacimiento, esplendor y destrucción trágica del proyecto humano en el territorio.",
+          "is_correct": true,
+          "feedback": "Los nombres de los capítulos funcionan como metáforas orgánicas que marcan el ascenso y la ruina inevitable de la comunidad."
+        },
+        {
+          "letter": "B",
+          "text": "Indica que la novela es un manual práctico para el cultivo de plantas florales.",
+          "is_correct": false,
+          "feedback": "Los títulos metafóricos señalan las etapas del drama humano, no instrucciones agrícolas."
+        },
+        {
+          "letter": "C",
+          "text": "Muestra que el autor desconocía los nombres de los meses del año solar.",
+          "is_correct": false,
+          "feedback": "Usa una nomenclatura simbólica para estructurar la progresión del argumento."
+        },
+        {
+          "letter": "D",
+          "text": "Obliga a leer la novela dentro de un vivero de plantas medicinales.",
+          "is_correct": false,
+          "feedback": "Es un recurso de diseño literario para organizar las fases del conflicto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La titulación metafórica de las partes de una novela anticipa la parábola trágica del argumento y su desarrollo orgánico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.39,
+      "bundle_id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle-v18",
+      "statement": "¿Qué revelación metaficcional produce el momento en que Aureliano Babilonia descifra los pergaminos al final de la novela?",
+      "context": "En *Cien años de soledad*, los manuscritos de Melquíades redactados en sánscrito contienen la historia de Macondo escrita con cien años de anticipación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Descubre que el tiempo de Macondo era un ciclo ya escrito y que la lectura del manuscrito coincide con la destrucción final del pueblo por el viento.",
+          "is_correct": true,
+          "feedback": "La lectura del manuscrito por Aureliano clausura la novela: el texto se devora a sí mismo cuando la ficción coincide con la realidad."
+        },
+        {
+          "letter": "B",
+          "text": "Prueba que Melquíades era un profesor de idiomas contratado por la alcaldía.",
+          "is_correct": false,
+          "feedback": "Melquíades representa al sabio mítico y la figura del propio narrador demiurgo."
+        },
+        {
+          "letter": "C",
+          "text": "Indica que los habitantes de Macondo debían emigrar hacia la India inmediatamente.",
+          "is_correct": false,
+          "feedback": "Los pergaminos profetizan la condena a la soledad y la extinción de la estirpe."
+        },
+        {
+          "letter": "D",
+          "text": "Demuestra que la novela fue escrita en sánscrito para que nadie pudiera leerla.",
+          "is_correct": false,
+          "feedback": "El sánscrito es la clave secreta que al ser traducida al español cierra el universo de Macondo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La descodificación de los manuscritos de Melquíades es una de las cumbres de la metaficción universal: el texto se lee a sí mismo en su instante final.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.36,
+      "bundle_id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle-v19",
+      "statement": "¿Qué efecto produce la simultaneidad entre la gesta deportiva en Europa y la recepción popular por radio en el campo?",
+      "context": "En un relato contemporáneo sobre un ciclista colombiano en el Tour de Francia, el tiempo del pedaleo en la montaña se cruza con las voces de los campesinos que lo escuchan por radio en Boyacá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Construye un espacio afectivo compartido que une la distancia geográfica mediante la emoción colectiva y la identidad nacional.",
+          "is_correct": true,
+          "feedback": "La narración paralela muestra cómo la radio transforma el pedaleo distante en un mito identitario vivido en tiempo real por los campesinos."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que las transmisiones de radio eran más rápidas que la velocidad de la luz.",
+          "is_correct": false,
+          "feedback": "Resalta la función social de la radio como creadora de comunidad e imaginarios compartidos."
+        },
+        {
+          "letter": "C",
+          "text": "Afirma que los campesinos preferían viajar en bicicleta antes que cultivar la tierra.",
+          "is_correct": false,
+          "feedback": "El relato celebra la pasión popular por el ciclismo como símbolo de tenacidad."
+        },
+        {
+          "letter": "D",
+          "text": "Elimina el suspenso de la carrera deportiva al revelar quién ganó el trofeo.",
+          "is_correct": false,
+          "feedback": "Mantiene la tensión alternando el sufrimiento en la rampa con la angustia frente al radio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El montaje paralelo entre la transmisión radial y la escucha campesina retrata la construcción de la épica popular colombiana.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.32,
+      "bundle_id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle-v20",
+      "statement": "¿Qué juicio crítico sobre el análisis literario fundamenta esta afirmación?",
+      "context": "Al analizar la estructura de las grandes novelas del siglo XX, un teórico afirma que \"la forma no es un envase neutro, sino la primera afirmación de sentido del texto\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sostiene que las decisiones formales (tiempo, espacio, voz, secuencia) son elecciones ideológicas y estéticas inseparables del contenido.",
+          "is_correct": true,
+          "feedback": "La estructura narrativa es en sí misma lenguaje y significado: la manera como se cuenta una historia determina lo que la historia significa."
+        },
+        {
+          "letter": "B",
+          "text": "Afirma que el contenido de un libro no tiene ninguna importancia frente al color de la portada.",
+          "is_correct": false,
+          "feedback": "Destaca la unidad indisoluble entre forma artística y significado profundo."
+        },
+        {
+          "letter": "C",
+          "text": "Sugiere que las novelas deben escribirse sin ningún tipo de división en capítulos.",
+          "is_correct": false,
+          "feedback": "Defiende la libertad de diseño formal como garante del efecto literario."
+        },
+        {
+          "letter": "D",
+          "text": "Demuestra que la teoría literaria debe ser reemplazada por ejercicios de cálculo presupuestal.",
+          "is_correct": false,
+          "feedback": "Reivindica la especificidad del análisis estético y la arquitectura del relato."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La forma narrativa es contenido condensado: la manera en que el texto organiza el tiempo y el espacio constituye su primera toma de posición estética.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.29,
+      "bundle_id": "CO-LC-11-2026-W06-estructura-narrativa-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}
