@@ -134,7 +134,7 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           workingDirectory: 'saberparatodos'
-          command: deploy --config dist/server/wrangler.json --name=saberparatodos
+          command: deploy --config dist/server/wrangler.json
 
   # =========================================================================
   # Phase 4: Post-Deployment Smoke Verification
