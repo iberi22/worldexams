@@ -1,7 +1,7 @@
 name = "worldexams-api"
 main = "src/index.ts"
 compatibility_date = "2026-03-10"
-workers_dev = false
+workers_dev = true
 
 # ⚠️  SECURITY NOTE:
 # SUPABASE_ANON_KEY is intentionally public (read-only access, gated by RLS).
@@ -10,10 +10,12 @@ workers_dev = false
 SUPABASE_URL = "https://your-project.supabase.co"
 SUPABASE_ANON_KEY = "your_supabase_anon_key_here"
 
-[[routes]]
-pattern = "api.saberparatodos.space/*"
-zone_name = "saberparatodos.space"
-
 [assets]
 directory = "public"
 binding = "ASSETS"
+
+[env.production]
+workers_dev = false
+[[env.production.routes]]
+pattern = "api.saberparatodos.space/*"
+zone_name = "saberparatodos.space"
