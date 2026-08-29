@@ -305,7 +305,7 @@ ${chunkText || '(sin RAG — usa conocimiento curricular general)'}
       if (!selectedFile && ragChunks.length===0) {
         show(genStatus, 'Primero sube un PDF (o igual puedes generar demo sin PDF, se usarán plantillas).', 'info');
       }
-      if (btnGenerar) btnGenerar.disabled = true;
+      if (btnGenerar) (btnGenerar as HTMLButtonElement).disabled = true;
       show(genStatus, `🧠 Generando ${count} preguntas con IA local…`, 'info');
       genProgress?.classList.remove('hidden');
       if (genBar) { genBar.style.width='28%'; setTimeout(()=> genBar.style.width='62%', 900); }
@@ -357,7 +357,7 @@ ${chunkText || '(sin RAG — usa conocimiento curricular general)'}
         show(genStatus, `✗ Error al generar: ${String((err as Error)?.message || err)}`, 'error');
         genProgress?.classList.add('hidden');
       } finally {
-        if (btnGenerar) btnGenerar.disabled = false;
+        if (btnGenerar) (btnGenerar as HTMLButtonElement).disabled = false;
         if (genBar) setTimeout(()=> genBar.style.width='28%', 1200);
       }
     });
