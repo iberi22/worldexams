@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pr",
+    "pack_id": "pr-week-17-grade-11-subject-matematicas",
+    "generated_at": "2026-07-29T05:17:39.283Z"
+  },
+  "questions": [
+    {
+      "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v1",
+      "statement": "En un triángulo rectángulo, los catetos miden 6 cm y 8 cm. ¿Cuál es la medida de la hipotenusa?",
+      "context": "En Humacao, Francisco estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Patria Latorre Ramírez.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 cm",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sqrt{6^2 + 8^2} = \\sqrt{36 + 64} = 10$."
+        },
+        {
+          "letter": "B",
+          "text": "100 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+        },
+        {
+          "letter": "C",
+          "text": "12 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor erróneo."
+        },
+        {
+          "letter": "D",
+          "text": "14 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron los catetos linealmente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicando el Teorema de Pitágoras $a^2 + b^2 = c^2$: $6^2 + 8^2 = c^2 \\implies 36 + 64 = c^2 \\implies 100 = c^2$. Tomando raíz cuadrada obtenemos $c = 10$ cm.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v2",
+      "statement": "En un triángulo rectángulo, la hipotenusa mide 13 cm y uno de los catetos mide 5 cm. ¿Cuál es la medida del otro cateto?",
+      "context": "Durante un taller de preparación académica en la Escuela Superior Ramón Power y Giralt de Río Piedras, Ana resuelve un ejercicio propuesto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 cm",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sqrt{13^2 - 5^2} = \\sqrt{169 - 25} = 12$."
+        },
+        {
+          "letter": "B",
+          "text": "144 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+        },
+        {
+          "letter": "C",
+          "text": "18 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las longitudes."
+        },
+        {
+          "letter": "D",
+          "text": "8 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restaron las longitudes linealmente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por el Teorema de Pitágoras: $a^2 + b^2 = c^2 \\implies 5^2 + b^2 = 13^2 \\implies 25 + b^2 = 169 \\implies b^2 = 144 \\implies b = 12$ cm.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v3",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(8, 15)$.",
+      "context": "Durante un taller de preparación académica en la Escuela Superior Luis Muñoz Rivera de Utuado, José resuelve un ejercicio propuesto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "17",
+          "is_correct": true,
+          "feedback": "Correcto. La distancia es $\\sqrt{8^2 + 15^2} = 17$."
+        },
+        {
+          "letter": "B",
+          "text": "23",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+        },
+        {
+          "letter": "C",
+          "text": "289",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restaron las coordenadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(8, 15)$: $d = \\sqrt{8^2 + 15^2} = \\sqrt{64 + 225} = \\sqrt{289} = 17$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v4",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(5, 12)$.",
+      "context": "Durante un taller de preparación académica en la Escuela Superior Margarita Janer Palacios de Guaynabo, Camila resuelve un ejercicio propuesto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "13",
+          "is_correct": true,
+          "feedback": "Correcto. La distancia es $\\sqrt{5^2 + 12^2} = 13$."
+        },
+        {
+          "letter": "B",
+          "text": "169",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+        },
+        {
+          "letter": "C",
+          "text": "17",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restaron las coordenadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(5, 12)$: $d = \\sqrt{5^2 + 12^2} = \\sqrt{25 + 144} = \\sqrt{169} = 13$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v5",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(3, 4)$.",
+      "context": "Un grupo de estudiantes de la Escuela Superior Ponce High en Ponce realiza una investigación guiada por Mateo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restaron las coordenadas."
+        },
+        {
+          "letter": "B",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. La distancia es $\\sqrt{3^2 + 4^2} = 5$."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(3, 4)$: $d = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v6",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(5, 12)$.",
+      "context": "En Fajardo, Mariana estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Dr. Santiago Veve Calzada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "13",
+          "is_correct": true,
+          "feedback": "Correcto. La distancia es $\\sqrt{5^2 + 12^2} = 13$."
+        },
+        {
+          "letter": "B",
+          "text": "169",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+        },
+        {
+          "letter": "C",
+          "text": "17",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restaron las coordenadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(5, 12)$: $d = \\sqrt{5^2 + 12^2} = \\sqrt{25 + 144} = \\sqrt{169} = 13$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v7",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(5, 12)$.",
+      "context": "Como parte de las olimpiades científicas en Cayey, Yaritza aplica conceptos algebraicos en la Escuela Superior Miguel Meléndez Muñoz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "13",
+          "is_correct": true,
+          "feedback": "Correcto. La distancia es $\\sqrt{5^2 + 12^2} = 13$."
+        },
+        {
+          "letter": "B",
+          "text": "169",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+        },
+        {
+          "letter": "C",
+          "text": "17",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restaron las coordenadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(5, 12)$: $d = \\sqrt{5^2 + 12^2} = \\sqrt{25 + 144} = \\sqrt{169} = 13$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v8",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(5, 12)$.",
+      "context": "En Aguadilla, Keylor diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Juan Suárez Pelegrina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "13",
+          "is_correct": true,
+          "feedback": "Correcto. La distancia es $\\sqrt{5^2 + 12^2} = 13$."
+        },
+        {
+          "letter": "B",
+          "text": "169",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+        },
+        {
+          "letter": "C",
+          "text": "17",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restaron las coordenadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(5, 12)$: $d = \\sqrt{5^2 + 12^2} = \\sqrt{25 + 144} = \\sqrt{169} = 13$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v9",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(5, 12)$.",
+      "context": "En Cayey, Sebastián analiza un problema de modelación matemática para un proyecto de la Escuela Superior Miguel Meléndez Muñoz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "13",
+          "is_correct": true,
+          "feedback": "Correcto. La distancia es $\\sqrt{5^2 + 12^2} = 13$."
+        },
+        {
+          "letter": "B",
+          "text": "169",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+        },
+        {
+          "letter": "C",
+          "text": "17",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restaron las coordenadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(5, 12)$: $d = \\sqrt{5^2 + 12^2} = \\sqrt{25 + 144} = \\sqrt{169} = 13$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v10",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(8, 15)$.",
+      "context": "En Cabo Rojo, Keylor diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Monserrate León de Irizarry.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "17",
+          "is_correct": true,
+          "feedback": "Correcto. La distancia es $\\sqrt{8^2 + 15^2} = 17$."
+        },
+        {
+          "letter": "B",
+          "text": "23",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+        },
+        {
+          "letter": "C",
+          "text": "289",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restaron las coordenadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(8, 15)$: $d = \\sqrt{8^2 + 15^2} = \\sqrt{64 + 225} = \\sqrt{289} = 17$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v11",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(5, 12)$.",
+      "context": "En Río Piedras, José diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Ramón Power y Giralt.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "13",
+          "is_correct": true,
+          "feedback": "Correcto. La distancia es $\\sqrt{5^2 + 12^2} = 13$."
+        },
+        {
+          "letter": "B",
+          "text": "169",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+        },
+        {
+          "letter": "C",
+          "text": "17",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restaron las coordenadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(5, 12)$: $d = \\sqrt{5^2 + 12^2} = \\sqrt{25 + 144} = \\sqrt{169} = 13$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v12",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(8, 15)$.",
+      "context": "Como parte de las olimpiades científicas en Fajardo, Isabella aplica conceptos algebraicos en la Escuela Superior Dr. Santiago Veve Calzada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "17",
+          "is_correct": true,
+          "feedback": "Correcto. La distancia es $\\sqrt{8^2 + 15^2} = 17$."
+        },
+        {
+          "letter": "B",
+          "text": "23",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+        },
+        {
+          "letter": "C",
+          "text": "289",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restaron las coordenadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(8, 15)$: $d = \\sqrt{8^2 + 15^2} = \\sqrt{64 + 225} = \\sqrt{289} = 17$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v13",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(3, 4)$.",
+      "context": "Un grupo de estudiantes de la Escuela Superior Dra. Concepción Aponte en Bayamón realiza una investigación guiada por Sofía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restaron las coordenadas."
+        },
+        {
+          "letter": "B",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. La distancia es $\\sqrt{3^2 + 4^2} = 5$."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(3, 4)$: $d = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v14",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(8, 15)$.",
+      "context": "En Humacao, Camila diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Patria Latorre Ramírez.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "17",
+          "is_correct": true,
+          "feedback": "Correcto. La distancia es $\\sqrt{8^2 + 15^2} = 17$."
+        },
+        {
+          "letter": "B",
+          "text": "23",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+        },
+        {
+          "letter": "C",
+          "text": "289",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restaron las coordenadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(8, 15)$: $d = \\sqrt{8^2 + 15^2} = \\sqrt{64 + 225} = \\sqrt{289} = 17$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v15",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(3, 4)$.",
+      "context": "Durante un taller de preparación académica en la Escuela Superior de Mayagüez (SILA) de Mayagüez, Francisco resuelve un ejercicio propuesto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restaron las coordenadas."
+        },
+        {
+          "letter": "B",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. La distancia es $\\sqrt{3^2 + 4^2} = 5$."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(3, 4)$: $d = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v16",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(3, 4)$.",
+      "context": "En Carolina, Carmen estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Ana Roque de Duprey.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restaron las coordenadas."
+        },
+        {
+          "letter": "B",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. La distancia es $\\sqrt{3^2 + 4^2} = 5$."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(3, 4)$: $d = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v17",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(3, 4)$.",
+      "context": "Un grupo de estudiantes de la Escuela Superior Dra. Concepción Aponte en Bayamón realiza una investigación guiada por María.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restaron las coordenadas."
+        },
+        {
+          "letter": "B",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. La distancia es $\\sqrt{3^2 + 4^2} = 5$."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(3, 4)$: $d = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v18",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(3, 4)$.",
+      "context": "En Humacao, Gabriel diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Patria Latorre Ramírez.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restaron las coordenadas."
+        },
+        {
+          "letter": "B",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. La distancia es $\\sqrt{3^2 + 4^2} = 5$."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(3, 4)$: $d = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v19",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(3, 4)$.",
+      "context": "Como parte de las olimpiades científicas en Carolina, Sofía aplica conceptos algebraicos en la Escuela Superior Ana Roque de Duprey.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restaron las coordenadas."
+        },
+        {
+          "letter": "B",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. La distancia es $\\sqrt{3^2 + 4^2} = 5$."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(3, 4)$: $d = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v20",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(3, 4)$.",
+      "context": "En Ponce, Alondra analiza un problema de modelación matemática para un proyecto de la Escuela Superior Ponce High.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restaron las coordenadas."
+        },
+        {
+          "letter": "B",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. La distancia es $\\sqrt{3^2 + 4^2} = 5$."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(3, 4)$: $d = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    }
+  ]
+}

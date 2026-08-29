@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-37-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.907Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W37-sustainability-recycling-001-v1",
+      "statement": "What are the \"3 Rs\" of the environment?",
+      "context": "Identifying the \"3 Rs\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Read, Run, Rest",
+          "is_correct": false,
+          "feedback": "Incorrect. These are general activities."
+        },
+        {
+          "letter": "B",
+          "text": "Reduce, Reuse, Recycle",
+          "is_correct": true,
+          "feedback": "Correct! These are the three pillars of environmental waste management."
+        },
+        {
+          "letter": "C",
+          "text": "Rain, River, Rock",
+          "is_correct": false,
+          "feedback": "Incorrect. These are natural elements."
+        },
+        {
+          "letter": "D",
+          "text": "Red, Rare, Real",
+          "is_correct": false,
+          "feedback": "Incorrect. These are adjectives."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies the core terminology used in environmental sustainability.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W37-sustainability-recycling-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W37-sustainability-recycling-002-v1",
+      "statement": "Which of these materials is commonly recycled?",
+      "context": "Identifying recyclable materials.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Food scraps",
+          "is_correct": false,
+          "feedback": "Incorrect. These are usually composted, not recycled in the standard sense."
+        },
+        {
+          "letter": "B",
+          "text": "Glass bottles",
+          "is_correct": true,
+          "feedback": "Correct! Glass is a highly recyclable material."
+        },
+        {
+          "letter": "C",
+          "text": "Dirty napkins",
+          "is_correct": false,
+          "feedback": "Incorrect. Contaminated paper cannot be recycled."
+        },
+        {
+          "letter": "D",
+          "text": "Wooden sticks",
+          "is_correct": false,
+          "feedback": "Incorrect. Wood is biodegradable but not typically part of standard recycling bins."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies recyclable versus non-recyclable materials.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W37-sustainability-recycling-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W37-sustainability-recycling-003-v1",
+      "statement": "\"When you use a plastic bottle again as a plant pot, you are ________ it.\"",
+      "context": "Understanding the meaning of \"reuse\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "reducing",
+          "is_correct": false,
+          "feedback": "Incorrect. Reducing means using less of it."
+        },
+        {
+          "letter": "B",
+          "text": "reusing",
+          "is_correct": true,
+          "feedback": "Correct! Using an item again for a new purpose is \"reusing\"."
+        },
+        {
+          "letter": "C",
+          "text": "recycling",
+          "is_correct": false,
+          "feedback": "Incorrect. Recycling involves breaking down the material to make something new."
+        },
+        {
+          "letter": "D",
+          "text": "throwing",
+          "is_correct": false,
+          "feedback": "Incorrect. You are keeping it."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the specific distinction between reusing and other waste management actions.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W37-sustainability-recycling-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W37-sustainability-recycling-004-v1",
+      "statement": "\"Solar and wind energy are ________ because they come from natural sources that don't run out.\"",
+      "context": "Understanding renewable energy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "expensive",
+          "is_correct": false,
+          "feedback": "Incorrect. While they can be, it's not the defining characteristic here."
+        },
+        {
+          "letter": "B",
+          "text": "renewable",
+          "is_correct": true,
+          "feedback": "Correct! Energy sources that replenish naturally are renewable."
+        },
+        {
+          "letter": "C",
+          "text": "dangerous",
+          "is_correct": false,
+          "feedback": "Incorrect. They are generally safer than fossil fuels."
+        },
+        {
+          "letter": "D",
+          "text": "limited",
+          "is_correct": false,
+          "feedback": "Incorrect. They are virtually unlimited."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the concept and vocabulary of renewable energy.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W37-sustainability-recycling-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W37-sustainability-recycling-005-v1",
+      "statement": "\"We should buy products with less ________ to reduce the amount of trash we create.\"",
+      "context": "Applying sustainability to daily choices.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "color",
+          "is_correct": false,
+          "feedback": "Incorrect. Color doesn't affect the amount of trash."
+        },
+        {
+          "letter": "B",
+          "text": "packaging",
+          "is_correct": true,
+          "feedback": "Correct! Excess wrapping and boxes (packaging) create more waste."
+        },
+        {
+          "letter": "C",
+          "text": "quality",
+          "is_correct": false,
+          "feedback": "Incorrect. Low quality leads to more waste as things break faster."
+        },
+        {
+          "letter": "D",
+          "text": "flavor",
+          "is_correct": false,
+          "feedback": "Incorrect. Not related to trash."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies the concept of \"reduce\" to consumer choices.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W37-sustainability-recycling-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W37-sustainability-recycling-006-v1",
+      "statement": "How are the students practicing \"Reduce\" in the project?",
+      "context": "A description of a \"Zero Waste\" project.\n\"The school started a Zero Waste project. Students bring their own water bottles and use digital notebooks. They also have a compost bin for fruit remains.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "By making a compost bin.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for organic waste management."
+        },
+        {
+          "letter": "B",
+          "text": "By using digital notebooks to use less paper.",
+          "is_correct": true,
+          "feedback": "Correct! Using less of a material (paper) is a form of reducing."
+        },
+        {
+          "letter": "C",
+          "text": "By throwing fruit remains away.",
+          "is_correct": false,
+          "feedback": "Incorrect. They are composting them."
+        },
+        {
+          "letter": "D",
+          "text": "By buying more plastic bottles.",
+          "is_correct": false,
+          "feedback": "Incorrect. They bring their own (reusable) ones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies reading comprehension to categorize a specific action within the \"3 Rs\" framework.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W37-sustainability-recycling-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W37-sustainability-recycling-007-v1",
+      "statement": "\"A sustainable home ________ use solar panels to produce its own electricity.\"",
+      "context": "Describing a sustainable home.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "shouldn't",
+          "is_correct": false,
+          "feedback": "Incorrect. This would be bad advice for sustainability."
+        },
+        {
+          "letter": "B",
+          "text": "can",
+          "is_correct": true,
+          "feedback": "Correct! Shows a possibility that aligns with sustainability goals."
+        },
+        {
+          "letter": "C",
+          "text": "mustn't",
+          "is_correct": false,
+          "feedback": "Incorrect. Prohibition."
+        },
+        {
+          "letter": "D",
+          "text": "isn't",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically wrong."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies knowledge of sustainable practices using the appropriate modal verb for possibility.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W37-sustainability-recycling-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W37-sustainability-recycling-008-v1",
+      "statement": "What are the multiple benefits of recycling paper mentioned in the text?",
+      "context": "Analyzing the impact of recycling.\n\"Recycling one ton of paper saves about 17 trees and thousands of liters of water. It also requires less energy than making new paper from wood.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It saves trees only.",
+          "is_correct": false,
+          "feedback": "Incorrect. It also saves water and energy."
+        },
+        {
+          "letter": "B",
+          "text": "It is faster to make paper from wood.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text doesn't mention speed."
+        },
+        {
+          "letter": "C",
+          "text": "It conserves natural resources (trees, water) and reduces energy consumption.",
+          "is_correct": true,
+          "feedback": "Correct! The text mentions saving trees, water, and energy."
+        },
+        {
+          "letter": "D",
+          "text": "It is more expensive than making new paper.",
+          "is_correct": false,
+          "feedback": "Incorrect. Not mentioned."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student analyzes a text to identify and summarize multiple advantages of a sustainable practice.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W37-sustainability-recycling-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W37-sustainability-recycling-009-v1",
+      "statement": "Which list contains ONLY renewable energy sources?",
+      "context": "Distinguishing between different types of energy sources.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solar, Wind, Coal",
+          "is_correct": false,
+          "feedback": "Incorrect. Coal is a fossil fuel."
+        },
+        {
+          "letter": "B",
+          "text": "Solar, Wind, Hydroelectric",
+          "is_correct": true,
+          "feedback": "Correct! All three come from naturally replenishing sources (sun, wind, water)."
+        },
+        {
+          "letter": "C",
+          "text": "Oil, Gas, Solar",
+          "is_correct": false,
+          "feedback": "Incorrect. Oil and Gas are fossil fuels."
+        },
+        {
+          "letter": "D",
+          "text": "Wind, Nuclear, Gas",
+          "is_correct": false,
+          "feedback": "Incorrect. Gas is not renewable."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes and categorizes energy sources based on their sustainability.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W37-sustainability-recycling-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W37-sustainability-recycling-010-v1",
+      "statement": "According to this definition, which action is sustainable?",
+      "context": "Evaluating the definition of sustainability.\n\"Sustainability means meeting our own needs without compromising the ability of future generations to meet their own needs.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Using all the available water today because we are thirsty.",
+          "is_correct": false,
+          "feedback": "Incorrect. This compromises the future."
+        },
+        {
+          "letter": "B",
+          "text": "Cutting down all the forests to build many houses quickly.",
+          "is_correct": false,
+          "feedback": "Incorrect. This compromises the future."
+        },
+        {
+          "letter": "C",
+          "text": "Using resources carefully so that there is enough for people in 50 years.",
+          "is_correct": true,
+          "feedback": "Correct! This balances current needs with future needs."
+        },
+        {
+          "letter": "D",
+          "text": "Ignoring the environment because technology will solve everything.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is risky and doesn't meet the definition of careful resource management."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student evaluates behaviors against a formal definition of sustainability to identify the most responsible action.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W37-sustainability-recycling-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "cr",
+    "pack_id": "cr-week-6-grade-11-subject-lengua",
+    "generated_at": "2026-07-28T22:41:05.365Z"
+  },
+  "questions": [
+    {
+      "id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes características define formalmente a la narrativa frente al género lírico?",
+      "context": "Durante una sesión de análisis en Cartago, se debate sobre los atributos fundamentales del género literario narrativo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La presencia indispensable de un narrador que relata acontecimientos ocurridos a unos personajes en un espacio y tiempo determinados.",
+          "is_correct": true,
+          "feedback": "Correcto. El narrador y la secuencia de acciones temporales definen formalmente a la narrativa."
+        },
+        {
+          "letter": "B",
+          "text": "La expresión directa del yo lírico mediante versos rimados sin trama de acontecimientos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto constituye la definición formal del género lírico poético."
+        },
+        {
+          "letter": "C",
+          "text": "La escritura exclusiva en forma de diálogos destinados a la representación escénica por actores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto define formalmente al género dramático o teatral."
+        },
+        {
+          "letter": "D",
+          "text": "La abolición total de todo tipo de figuras literarias y recursos de embellecimiento estético de la provincia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La narrativa literaria artística utiliza abundantes recursos estéticos y tropos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El género narrativo se constituye a partir de la mediación de la voz del narrador, encargada de estructurar el relato del acontecer ficticio.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v2",
+      "statement": "¿Qué rasgo es característico de la novela costumbrista y realista costarricense de principios del siglo XX?",
+      "context": "En la biblioteca pública de San José, Andrey estudia la evolución de la narrativa costarricense clásica, prestando atención a la novela 'El moto' (1900) de Joaquín García Monge.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La presencia de viajes espaciales y de tecnologías futuristas en Alajuela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El costumbrismo retrata la realidad rural de la época, libre de ciencia ficción futurista."
+        },
+        {
+          "letter": "B",
+          "text": "El retrato fiel de la vida rural campesina, el uso de regionalismos costarricenses en los diálogos y la denuncia de las convenciones sociales de la época.",
+          "is_correct": true,
+          "feedback": "Correcto. El costumbrismo y realismo rural costarricense se enfocaban en plasmar con fidelidad lingüística y social la cotidianidad del campo."
+        },
+        {
+          "letter": "C",
+          "text": "La escritura de toda la novela utilizando versos alejandrinos con rima.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las novelas costumbristas se escriben en prosa, no en estructuras poéticas rimadas."
+        },
+        {
+          "letter": "D",
+          "text": "La ambientación exclusiva de la trama en cortes de la edad media.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se ambientaban de forma realista en pueblos y cantones rurales del Valle Central de Costa Rica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La narrativa costumbrista de autores de la Generación del Olimpo como García Monge o Magón retrata al campesino costarricense y sus costumbres.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v3",
+      "statement": "¿Qué función cumple la recreación del habla popular costarricense en los diálogos de los personajes de esta literatura?",
+      "context": "Un grupo de estudiantes de Heredia analiza el cuento 'La propia' de Manuel González Zeledón (Magón).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Demostrar que los campesinos no sabían leer ni escribir de forma formal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El propósito del autor es de representación artística, no una burla de alfabetización."
+        },
+        {
+          "letter": "B",
+          "text": "Aportar realismo, color local y autenticidad sociocultural a la caracterización de los personajes del agro costarricense.",
+          "is_correct": true,
+          "feedback": "Correcto. Recrear el dialecto popular rústico dota de verosimilitud y arraigo nacional a la ficción literaria."
+        },
+        {
+          "letter": "C",
+          "text": "Corregir los errores ortográficos de la población de la provincia conforme a las directrices del MEP.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La obra es literaria artística, no un manual pedagógico corrector del Ministerio."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir el uso de la raya de diálogo (—) por el pronombre de tratamiento 'vos' en las oraciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La raya de diálogo sigue usándose formalmente para estructurar el diálogo escrito independientemente de la variante dialectal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La incorporación de la variante dialectal campesina o rústica en el costumbrismo consolida la verosimilitud y el valor de la obra.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de las siguientes descripciones representa mejor el estilo de la narrativa realista social?",
+      "context": "Para un proyecto literario de undécimo año en Alajuela, Javier escribe un relato realista sobre la siembra de caña en San Carlos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los bueyes volaban sobre las plantaciones de caña de la provincia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto pertenece al género de la fantasía o el realismo mágico, alejado del realismo social puro."
+        },
+        {
+          "letter": "B",
+          "text": "El jornalero limpiaba el sudor de su frente mientras el sol de las doce calentaba la tierra agrietada. Su salario de tres colones apenas alcanzaba para el sustento diario de su familia.",
+          "is_correct": true,
+          "feedback": "Correcto. Describe con crudeza las condiciones socioeconómicas reales y duras del peón del campo."
+        },
+        {
+          "letter": "C",
+          "text": "Un dragón de fuego bajó del Volcán Arenal destruyendo todos los trapiches.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Introduce de fantasía mítica ajenos al propósito del retrato de realismo social."
+        },
+        {
+          "letter": "D",
+          "text": "La caña de azúcar es una planta gramínea que posee un tallo macizo lleno de jugo rico en sacarosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un texto explicativo puramente expositivo botánico, no un relato literario realista."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La narrativa de realismo social se caracteriza por el retrato objetivo y crítico de las condiciones de vida de las clases trabajadoras, denunciando injusticias.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v5",
+      "statement": "¿Qué elemento define al realismo mágico dentro de la narrativa hispanoamericana del siglo XX?",
+      "context": "Sofía analiza un fragmento del cuento de realismo mágico 'Cien años de soledad' de Gabriel García Márquez para comparar la narrativa hispanoamericana con la costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La descripción de tecnologías del siglo XXI en contextos de la provincia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto constituye un anacronismo de ciencia ficción, no realismo mágico."
+        },
+        {
+          "letter": "B",
+          "text": "La inserción de sucesos fantásticos o maravillosos dentro de la cotidianidad de forma natural, sin causar extrañeza en los personajes.",
+          "is_correct": true,
+          "feedback": "Correcto. El realismo mágico integra lo irreal o insólito como parte de la realidad normal cotidiana."
+        },
+        {
+          "letter": "C",
+          "text": "La ausencia absoluta de diálogos e intervenciones de personajes en la novela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El realismo mágico utiliza diálogos y una gran profusión de personajes humanos."
+        },
+        {
+          "letter": "D",
+          "text": "El uso de oraciones explicativas técnicas de carácter meteorológico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pertenece al género de ficción literaria y utiliza un lenguaje estético evocador."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El realismo mágico difumina las fronteras entre lo real y lo fantástico, asimilando lo extraordinario como un componente natural de la cotidianidad de los personajes.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de las siguientes opciones describe el tema principal y el marco de fondo de esta obra cumbre del realismo social costarricense?",
+      "context": "María estudia la novela costarricense 'Mamita Yunai' (1941) de Carlos Luis Fallas (Calufa), centrada en el Caribe costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las vacaciones de un grupo de jóvenes adinerados de San José por las playas de Limón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La obra aborda la cruda realidad obrera, no el turismo de ocio josefino."
+        },
+        {
+          "letter": "B",
+          "text": "La explotación laboral de los trabajadores bananeros por parte de las multinacionales extranjeras y las precarias condiciones de salud en el Caribe costarricense.",
+          "is_correct": true,
+          "feedback": "Correcto. 'Mamita Yunai' retrata con fidelidad de denuncia las duras condiciones de la United Fruit Company y el desamparo de los peones."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción de las enfermedades de la planta de banano emitida por el Ministerio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una novela literaria con enfoque de realismo social humano, no un informe agronómico."
+        },
+        {
+          "letter": "D",
+          "text": "La coronación de un monarca europeo en el puerto de Limón durante el siglo dieciocho.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se ambienta en el siglo veinte en Costa Rica y trata sobre obreros agrícolas, no sobre realeza europea."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La novela de Carlos Luis Fallas es una denuncia militante del imperialismo económico y la miseria obrera en las plantaciones bananeras de Costa Rica de mediados de siglo.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v7",
+      "statement": "¿Qué técnica de suspenso es eficaz para mantener el interés del lector joven a lo largo del relato narrativo?",
+      "context": "Andrey elabora una reseña sobre el cuento costarricense de misterio contemporáneo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Revelar la identidad del culpable de forma explícita en la primera línea del cuento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Destruye el suspenso de manera inmediata, eliminando la intriga del relato."
+        },
+        {
+          "letter": "B",
+          "text": "Dosificar la información de manera estratégica, empleando elipsis temporales e indicios misteriosos antes de la revelación final.",
+          "is_correct": true,
+          "feedback": "Correcto. Retener información de forma calculada estimula la curiosidad del lector."
+        },
+        {
+          "letter": "C",
+          "text": "Introducir tablas con el censo de la provincia de Puntarenas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un dato estadístico que corta el ritmo narrativo de suspenso."
+        },
+        {
+          "letter": "D",
+          "text": "Escribir todo el cuento utilizando únicamente oraciones cortas de la provincia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Atenta contra la coherencia expresiva elemental y dificulta el desarrollo de tramas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El suspenso en la narrativa de misterio se sustenta en la administración de los datos de la trama, estimulando la conjetura del receptor.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v8",
+      "statement": "¿Qué personaje del folclore tradicional protagoniza la mayoría de estas divertidas historias populares costarricenses?",
+      "context": "Javier lee 'Cuentos de mi tía Panchita' (1920) de Carmen Lyra, obra de la literatura infantil costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El monstruo de la laguna del Volcán Irazú.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un personaje ajeno a los cuentos de Carmen Lyra."
+        },
+        {
+          "letter": "B",
+          "text": "Uvieta o el Tío Conejo, quien burla de forma ingeniosa a personajes de mayor tamaño como Tío Coyote o la misma Muerte.",
+          "is_correct": true,
+          "feedback": "Correcto. Tío Conejo es el arquetipo de la astucia popular campesina en los cuentos tradicionales de Carmen Lyra."
+        },
+        {
+          "letter": "C",
+          "text": "Un caballero español que recorre las llanuras en busca de castillos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es ajeno al folclore costarricense de la tía Panchita."
+        },
+        {
+          "letter": "D",
+          "text": "Un superhéroe moderno que vuela sobre la provincia de Cartago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cuentos se nutren del folclore tradicional y personajes de animales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los cuentos de Carmen Lyra adaptan el folclore popular costarricense, elevando a personajes como Tío Conejo a símbolos del ingenio de los sectores populares.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál de las problemática socioecológica costarricense que denuncia de forma magistral esta novela contemporánea?",
+      "context": "Un grupo de estudiantes de Cartago analiza la novela corta 'Única mirando al mar' (1993) de Fernando Contreras Castro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La falta de infraestructura turística en las playas de la provincia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aborda el turismo hotelero de Guanacaste, se enfoca en problemas marginales urbanos."
+        },
+        {
+          "letter": "B",
+          "text": "La marginación social de los buceadores de basura en el botadero de Río Azul y la problemática del manejo de desechos en el Área Metropolitana.",
+          "is_correct": true,
+          "feedback": "Correcto. La novela expone con ternura y crudeza de realismo social contemporáneo la vida de quienes sobreviven de la basura en el basurero de Río Azul."
+        },
+        {
+          "letter": "C",
+          "text": "La historia de la construcción del ferrocarril de la provincia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a novelas de temática histórica caribeña, no al contexto urbano marginal de Río Azul."
+        },
+        {
+          "letter": "D",
+          "text": "La descripción de las especies de peces del Golfo de Nicoya.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una novela con enfoque de realismo social urbano, no un manual de biología marina."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La obra de Fernando Contreras Castro es una de carácter ecológico y social sobre el consumismo, la exclusión y la dignidad humana en los márgenes de la sociedad.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es una diferencia formal que caracteriza al cuento frente al género de la novela?",
+      "context": "Durante un foro en el Liceo de San José, se contrasta la estructura del cuento frente a la de la novela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cuento es siempre de autoría anónima, mientras que la novela posee firma de la provincia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos géneros tienen autores individuales identificados de forma libre."
+        },
+        {
+          "letter": "B",
+          "text": "El cuento posee una extensión breve, se concentra en un único conflicto dramático de intensidad alta y tiene pocos personajes, mientras que la novela despliega tramas complejas.",
+          "is_correct": true,
+          "feedback": "Correcto. Describe con precisión las propiedades de brevedad del cuento frente a la novela."
+        },
+        {
+          "letter": "C",
+          "text": "El cuento se escribe en versos rimados y la novela en prosa descriptiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos géneros se escriben de forma convencional en prosa descriptiva literaria."
+        },
+        {
+          "letter": "D",
+          "text": "El cuento carece de un desenlace lógico debido a la prisa de la provincia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuento posee desenlaces de gran impacto estético."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cuento destaca por la concentración de sus recursos estéticos en un único núcleo de tensión dramática, logrando un efecto de intensidad.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.62,
+      "bundle_id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v11",
+      "statement": "¿Qué oposición simbólica fundamental estructura el sentido de este fragmento?",
+      "context": "Lea atentamente el siguiente fragmento del realismo social costarricense:\n'Única se acomodó sobre el colchón remendado. El olor penetrante del botadero flotaba en el aire de Río Azul, transformado por la brisa nocturna en un manto de la provincia que asfixiaba los sueños de los buceadores de basura. A lo lejos, las luces de la capital brillaban como estrellas inalcanzables.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La contraposición entre el mundo marginal, miserable e insalubre del basurero de Río Azul (miseria inmediata) frente al mundo opulento, indiferente y lejano de la ciudad capital (estrellas inalcanzables).",
+          "is_correct": true,
+          "feedback": "Correcto. El fragmento utiliza el espacio de Río Azul y las luces lejanas de San José para metaforizar la exclusión social de los personajes de la novela."
+        },
+        {
+          "letter": "B",
+          "text": "La lucha de los buceadores contra la invasión de naves de la provincia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las estrellas inalcanzables son una metáfora de las luces de la ciudad capital, no naves reales fantásticas."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción de las ventajas de vivir en el centro de San José.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un de realismo crítico y denuncia de la exclusión social, no una apología residencial urbana capitalina."
+        },
+        {
+          "letter": "D",
+          "text": "La narración de una excursión turística nocturna al botadero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe las condiciones duras de vida cotidiana, no paseos de escuela."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La geografía literaria en la novela social contemporánea de Costa Rica plasma la brecha social, oponiendo el residuo urbano marginal frente al consumo capitalino.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el propósito del costumbrismo en este pasaje?",
+      "context": "Considere el siguiente pasaje del cuento costumbrista 'La propia' de Magón:\n'—¡Diay, compadre don Sebastián! —exclamó con voz cantarina el recién llegado—. ¡Qué milagro verlo por estos rumbos de Alajuela, tan lejos de sus cafetales de Cartago! ¿Viene a buscar peones o a vender bueyes para la zafra?'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A través del uso de latinismos para elevar la dignidad de la provincia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No utiliza latín, emplea el habla popular campesina local."
+        },
+        {
+          "letter": "B",
+          "text": "A través de la recreación del idiolecto campesino con interjecciones típicas ('diay') y referencias geográficas reales, reafirmando la identidad.",
+          "is_correct": true,
+          "feedback": "Correcto. El costumbrismo persigue capturar la esencia popular agraria recreando el habla y las dinámicas cotidianas con un sentido de pertenencia nacional."
+        },
+        {
+          "letter": "C",
+          "text": "Mediante una crítica a la falta de escuelas públicas rurales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay denuncia educativa en este pasaje afectivo de saludo."
+        },
+        {
+          "letter": "D",
+          "text": "A través de la exclusión de toda raya de diálogo (—) para acelerar de forma drástica la lectura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Utiliza rayas de diálogo formales, respetando las normas editoriales de la época."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El costumbrismo costarricense valida la identidad campesina dándole espacio literario a sus giros lingüísticos, costumbres laborales y paisajes regionales.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v13",
+      "statement": "¿Qué contradicción de la sociedad agraria costarricense expone el desenlace trágico de esta novela?",
+      "context": "En la novela costarricense 'El Moto' de Joaquín García Monge, el protagonista, José Blas (el Moto), es un humilde huérfano que se enamora de Cundila, la hija de un rico terrateniente del pueblo que la obliga a casarse con el adinerado don Sebastián.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La falta de inversión en tecnologías de transporte de San José hacia Cartago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aborda problemas de transporte, se enfoca en el drama de los matrimonios de conveniencia."
+        },
+        {
+          "letter": "B",
+          "text": "La preeminencia de las alianzas económicas de clase basadas en el poder patrimonial sobre el libre albedrío afectivo de los jóvenes del campo.",
+          "is_correct": true,
+          "feedback": "Correcto. El matrimonio arreglado de Cundila con don Sebastián refleja el predominio del interés de clase sobre los afectos de los desposeídos."
+        },
+        {
+          "letter": "C",
+          "text": "La abolición del cultivo de café debido a plagas en la provincia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No trata sobre crisis fitosanitarias cafetaleras, expone el drama social del campesinado."
+        },
+        {
+          "letter": "D",
+          "text": "La exigencia del MEP de exigir certificados de bachillerato para casarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sitúa en el año 1900, mucho antes de las pruebas de bachillerato modernas del país."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El desenlace de 'El Moto' rompe con el idilio costumbrista bucólico y denuncia las estructuras patriarcales de la época.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v14",
+      "statement": "¿Cómo opera el mecanismo de la ironía en este fragmento?",
+      "context": "Considere el uso de la ironía en el siguiente enunciado sobre la burocracia en Costa Rica:\n'El funcionario de San José atendía con la velocidad de un glaciar tropical, firmando un documento cada tres horas mientras saboreaba pacientemente su taza de café de la tarde.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Asocia una lentitud extrema (la velocidad de un glaciar) con la parsimonia de la oficina, logrando un efecto satírico mediante comparaciones hiperbólicas.",
+          "is_correct": true,
+          "feedback": "Correcto. Utiliza la ironía y la hipérbole ('velocidad de un glaciar', 'firmar cada tres horas') para satirizar la ineficiencia laboral en la oficina capitalina."
+        },
+        {
+          "letter": "B",
+          "text": "Describe científicamente el fenómeno de la cordillera volcánica de Costa Rica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Costa Rica es tropical y no tiene glaciares físicos activos; es un tropo irónico del autor."
+        },
+        {
+          "letter": "C",
+          "text": "Alaba la velocidad sobrehumana del empleado de la provincia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Critica de forma satírica la lentitud, no alaba la velocidad."
+        },
+        {
+          "letter": "D",
+          "text": "Exige la creación de nuevas oficinas en la provincia de Puntarenas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una crítica de comportamiento, ajena a reformas del colegio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ironía consiste en dar a entender lo contrario de lo que se dice explícitamente, o en asociar conceptos contradictorios para satirizar de forma lúdica.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v15",
+      "statement": "¿Qué valor humano, ético e intercultural aporta el análisis de esta temática en las aulas de undécimo año de Costa Rica?",
+      "context": "Considere el fragmento de una novela contemporánea que relata la soledad de un inmigrante nicaragüense que trabaja como vigilante nocturno en un centro comercial de San José.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Promueve la discriminación y la segregación social de las poblaciones extranjeras de la capital.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El propósito educativo es diametralmente opuesto: busca fomentar la inclusión, no el prejuicio."
+        },
+        {
+          "letter": "B",
+          "text": "Fomenta la empatía, la sensibilidad social y la comprensión de los fenómenos migratorios contemporáneos, reconociendo la dignidad de las personas en la sociedad.",
+          "is_correct": true,
+          "feedback": "Correcto. La literatura contemporánea es un vehículo idóneo para educar en valores humanos, derechos y respeto intercultural."
+        },
+        {
+          "letter": "C",
+          "text": "Instruye en los procedimientos legales que realiza la policía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un análisis estético y humanista literario, no un manual de procedimientos de patrullas policiales o derecho."
+        },
+        {
+          "letter": "D",
+          "text": "Exige la abolición del uso de la moneda de colones para realizar intercambios comerciales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las novelas literarias no tienen la finalidad económica de reformar el sistema de moneda nacional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis literario de problemáticas marginales o migratorias humaniza la educación, convirtiendo la lectura en un taller de reflexión ética e intercultural.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v16",
+      "statement": "Al evaluar la consistencia estética y la coherencia de género de este desenlace, ¿cuál es el dictamen crítico más acertado?",
+      "context": "Un jurado de Alajuela analiza un cuento de realismo social contemporáneo escrito por un joven de secundaria. El cuento describe la vida de un recolector de piña, pero concluye con la sorpresiva aparición de un hada que le regala un millón de colones, solucionando sus problemas de forma mágica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una muestra de que el autor posee un gran manejo de la historia de la provincia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta resolución destruye la seriedad del realismo social e invalida la denuncia planteada con un recurso de fantasía infantil ajeno."
+        },
+        {
+          "letter": "B",
+          "text": "Constituye una ruptura de las convenciones del realismo social, de carácter facilista del tipo 'deus ex machina' que invalida la denuncia de las condiciones de vida del obrero.",
+          "is_correct": true,
+          "feedback": "Correcto. El realismo social exige resoluciones lógicas de la sociedad, no salvaciones mágicas inverosímiles."
+        },
+        {
+          "letter": "C",
+          "text": "Es una muestra de que el estudiante no estudió las normas del Ministerio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un fallo de técnica de estructura dramática de género literario, no un error de ortografía elemental."
+        },
+        {
+          "letter": "D",
+          "text": "La resolución es sumamente viable en Costa Rica puesto que los bancos regalan dinero cotidianamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una fantasía ajena a la dura realidad laboral y económica de la provincia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coherencia de género literario exige respetar el marco de verosimilitud construido. El realismo social pierde su fuerza de denuncia si recurre a resoluciones mágicas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v17",
+      "statement": "¿Qué criterio metodológico valida el rigor de esta construcción narrativa de ciencia ficción?",
+      "context": "Lea el siguiente fragmento de un relato de ciencia ficción ambientado en un Cartago futurista del año 2126:\n'Los trenes magnéticos volaban silenciosamente rozando las faldas del Volcán Irazú, controlados por un cerebro artificial central que administraba el tráfico de toda la Gran Área Metropolitana (GAM).'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La inclusión de recetas tradicionales de Cartago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las recetas aportan valor costumbrista, no rigor al género especulativo de ciencia ficción futurista."
+        },
+        {
+          "letter": "B",
+          "text": "La extrapolación coherente de tendencias contemporáneas aplicadas a un marco geográfico real del país.",
+          "is_correct": true,
+          "feedback": "Correcto. La ciencia ficción sólida proyecta hipótesis lógicas y coherentes sobre la sociedad o el territorio."
+        },
+        {
+          "letter": "C",
+          "text": "Sostener que el Volcán Irazú fue construido artificialmente en el siglo pasado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Inventar datos falsos absurdos del pasado destruye la verosimilitud de fondo."
+        },
+        {
+          "letter": "D",
+          "text": "La redacción del fragmento utilizando rimas de la provincia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La prosa especulativa de ciencia ficción no requiere rimar para sostener su coherencia interna."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La verosimilitud de la ciencia ficción especulativa reposa en la coherencia de sus hipótesis tecnológicas desarrolladas de forma lógica sobre un sustrato real.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v18",
+      "statement": "¿Qué valor aporta el contraste de posturas expresado en el diálogo para el sentido de la obra?",
+      "context": "Analice el siguiente diálogo extraído de una obra contemporánea:\n'—Usted no sabe lo que es trabajar de sol a sol en Guanacaste —dijo Andrey sin mirarme—. Ver la tierra agrietada y saber que el pozo se está secando... Eso es pánico, compadre, no sus historias de fantasmas de San José.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Demuestra que la población de Guanacaste posee un odio contra San José.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay odio en el pasaje, expresa una queja de supervivencia frente a visiones urbanas de la capital."
+        },
+        {
+          "letter": "B",
+          "text": "Contrapone de forma dramática las preocupaciones de la sequía del campo frente a las inquietudes de la vida de la capital.",
+          "is_correct": true,
+          "feedback": "Correcto. Ilustra el abismo existencial entre la dureza agraria realista y las preocupaciones ociosas o fantásticas de la urbe."
+        },
+        {
+          "letter": "C",
+          "text": "Instruye sobre la geología de los pozos de la provincia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No provee datos técnicos de ingeniería hídrica del AyA; es una queja de supervivencia humana de ficción."
+        },
+        {
+          "letter": "D",
+          "text": "Exige que se autorice la siembra de café de la provincia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Guanacaste es de clima seco inadecuado para café; la novela no propone absurdos agronómicos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El diálogo condensa las tensiones de clase o regionales de un país, devaluando el suspenso superficial frente al conflicto realista del desamparo ambiental.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál fue el aporte literario de esta generación conformada por Carmen Lyra, Carlos Luis Fallas, Fabián Dobles y Joaquín Gutiérrez?",
+      "context": "Durante una asamblea de Español en Alajuela, se debate sobre la importancia de la 'Generación del 40' en Costa Rica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La traducción del latín clásico de obras teatrales en la provincia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta generación se abocó a temáticas nacionales realistas, no a traducciones medievales europeas."
+        },
+        {
+          "letter": "B",
+          "text": "El desarrollo de una narrativa de fuerte denuncia social, que retrató de forma realista los conflictos agrarios, las plantaciones bananeras del Caribe y la vida de los desposeídos.",
+          "is_correct": true,
+          "feedback": "Correcto. La Generación de los Cuarenta marcó la cumbre del realismo de denuncia social e identitaria en Costa Rica."
+        },
+        {
+          "letter": "C",
+          "text": "La introducción de temas de fantasía espacial en San José.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su narrativa es estrictamente realista de corte humano social, alejada de la fantasía espacial futurista."
+        },
+        {
+          "letter": "D",
+          "text": "La abolición del cuento obligando al uso de la lírica de la provincia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta generación destacó tanto en la novela como en el cuento de corte realista."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Generación del Cuarenta dotó a la literatura nacional de un marcado compromiso ético, de denuncia obrera y agraria frente al costumbrismo bucólico e idílico anterior.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.32,
+      "bundle_id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v20",
+      "statement": "¿Cómo se denomina técnicamente a la novela que narra hechos de trascendencia histórica, pero reconstruidos artísticamente a través de la ficción y personajes literarios?",
+      "context": "Un grupo de estudiantes de undécimo año del Liceo de Cartago repasa los géneros literarios para Bachillerato MEP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Novela de ciencia ficción de la provincia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ciencia ficción Recrea hipótesis futuristas de tecnología espacial, no hechos reales del pasado."
+        },
+        {
+          "letter": "B",
+          "text": "Novela histórica.",
+          "is_correct": true,
+          "feedback": "Correcto. El género de la novela histórica funde la documentación real de acontecimientos del pasado nacional o mundial con el tejido ficcional de la creación artística."
+        },
+        {
+          "letter": "C",
+          "text": "Novela policíaca clásica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La novela policíaca gira en torno a la resolución lógica de un crimen o delito mediante un detective."
+        },
+        {
+          "letter": "D",
+          "text": "Novela epistolar en verso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se estructura mediante correspondencia epistolar (cartas), no de hechos reales históricos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La novela histórica es un subgenernero narrativo que utiliza la investigación histórica real de un país como marco y andamiaje para la creación de tramas artísticas ficcionales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.3,
+      "bundle_id": "CR-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "ec",
+    "pack_id": "ec-week-18-grade-11-subject-matematicas",
+    "generated_at": "2026-07-03T19:49:45.157Z"
+  },
+  "questions": [
+    {
+      "id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v1",
+      "statement": "¿Qué representa geométricamente la integral definida $\\int_a^b f(x) \\, dx$ para una función continua y positiva?",
+      "context": "Un estudiante de arquitectura en Quito calcula el área de una sección transversal de una viga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La pendiente de la recta tangente en el intervalo $[a, b]$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso se relaciona con la derivada."
+        },
+        {
+          "letter": "B",
+          "text": "El área neta bajo la curva entre el eje $x$ y las rectas $x=a$ y $x=b$.",
+          "is_correct": true,
+          "feedback": "Correcto. La integral definida es la herramienta fundamental para el cálculo de áreas en el plano."
+        },
+        {
+          "letter": "C",
+          "text": "El volumen de la función al rotar sobre el eje $y$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso requiere una fórmula adicional (sólidos de revolución)."
+        },
+        {
+          "letter": "D",
+          "text": "La longitud del arco de la curva desde $a$ hasta $b$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud de arco usa una integral con una raíz cuadrada de la derivada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La integral definida suma infinitesimalmente los productos de la altura ($f(x)$) por el ancho ($dx$), resultando en el área bajo la gráfica.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v2",
+      "statement": "¿Qué establece la Regla de Barrow para calcular una integral definida de una función continua $f(x)$ con antiderivada $F(x)$?",
+      "context": "El Segundo Teorema Fundamental del Cálculo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\int_a^b f(x) \\, dx = F(b) - F(a)$",
+          "is_correct": true,
+          "feedback": "Correcto. Esta regla permite evaluar integrales definidas usando las antiderivadas calculadas previamente."
+        },
+        {
+          "letter": "B",
+          "text": "$\\int_a^b f(x) \\, dx = F(a) - F(b)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden de los límites es superior menos inferior."
+        },
+        {
+          "letter": "C",
+          "text": "El valor es simplemente $f(b) - f(a)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se deben usar las antiderivadas ($F$), no los valores de la función original ($f$)."
+        },
+        {
+          "letter": "D",
+          "text": "La integral es $F'(b) - F'(a)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto devolvería los valores de la función original, no el área."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Regla de Barrow es el puente operativo entre el cálculo diferencial y el integral, simplificando la evaluación de áreas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v3",
+      "statement": "Calcule el valor de $\\int_1^3 2x \\, dx$.",
+      "context": "Cálculo de una integral definida simple.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique la evaluación en los límites superior e inferior."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "Correcto. Antiderivada de $2x$ es $x^2$. Evaluando: $3^2 - 1^2 = 9 - 1 = 8$."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó restar el valor en el límite inferior."
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo de la antiderivada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación directa de la regla de la potencia e integración definida en un intervalo polinómico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v4",
+      "statement": "Si $\\int_0^5 f(x) \\, dx = 10$ y $\\int_0^2 f(x) \\, dx = 3$, ¿cuál es el valor de $\\int_2^5 f(x) \\, dx$?",
+      "context": "Propiedades de la integral definida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los valores en lugar de aplicar la propiedad de aditividad del intervalo."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Correcto. Por la propiedad de aditividad: $\\int_0^5 = \\int_0^2 + \\int_2^5 \\Rightarrow 10 = 3 + \\int_2^5 \\Rightarrow \\int_2^5 = 7$."
+        },
+        {
+          "letter": "C",
+          "text": "3.33",
+          "is_correct": false,
+          "feedback": "Incorrecto. La integral no se divide proporcionalmente si no conocemos la función."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las propiedades de la integral permiten hallar este valor con los datos dados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso de la propiedad de aditividad respecto al intervalo de integración para descomponer y resolver áreas parciales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el área de la cara lateral de la rampa?",
+      "context": "Un ingeniero civil en Guayaquil diseña una rampa cuyo perfil superior sigue $y = x^2$ y el inferior el eje $x$, desde $x=0$ hasta $x=2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor de la altura en el extremo, no el área."
+        },
+        {
+          "letter": "B",
+          "text": "8/3",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int_0^2 x^2 \\, dx = [x^3/3]_0^2 = 8/3 - 0 = 8/3$."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al integrar o evaluar."
+        },
+        {
+          "letter": "D",
+          "text": "4/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió por el límite superior en lugar de aplicar la potencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cálculo de áreas planas delimitadas por funciones polinómicas y los ejes coordenados.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v6",
+      "statement": "Determine el área de una \"joroba\" completa de la función seno (desde $x=0$ hasta $x=\\pi$).",
+      "context": "Área de funciones trigonométricas en un ciclo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería el resultado si integrara de 0 a $2\\pi$ debido a la cancelación de áreas positivas y negativas."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al evaluar la antiderivada."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int_0^\\pi \\sin(x) \\, dx = [-\\cos(x)]_0^\\pi = -\\cos(\\pi) - (-\\cos(0)) = -(-1) + 1 = 2$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió el valor numérico con la longitud del intervalo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluación de integrales trigonométricas para determinar magnitudes físicas reales (áreas siempre positivas).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v7",
+      "statement": "Si $f(x)$ es una función impar (como $x^3$) y el intervalo es simétrico respecto al origen $[-a, a]$, ¿cuál es el valor de $\\int_{-a}^a f(x) \\, dx$?",
+      "context": "Simetría e integrales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2 \\int_0^a f(x) \\, dx$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es válido para funciones pares."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": true,
+          "feedback": "Correcto. En funciones impares, el área a la izquierda del eje y tiene el signo opuesto al área a la derecha, por lo que se anulan."
+        },
+        {
+          "letter": "C",
+          "text": "$a^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay relación directa con el cuadrado del límite."
+        },
+        {
+          "letter": "D",
+          "text": "Depende del valor de $a$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para cualquier $a$ en el dominio de una función impar, la integral sobre el intervalo simétrico es cero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso de propiedades de paridad y simetría para simplificar el cálculo de integrales definidas sin realizar antiderivadas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el valor de dicha área?",
+      "context": "Área entre dos curvas. Se desea calcular el área encerrada entre $y = x$ y $y = x^2$ en el primer cuadrante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Área bajo la recta $y=x$ desde 0 a 1."
+        },
+        {
+          "letter": "B",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Área bajo la parábola $y=x^2$ desde 0 a 1."
+        },
+        {
+          "letter": "C",
+          "text": "1/6",
+          "is_correct": true,
+          "feedback": "Correcto. Puntos de corte: $x = x^2 \\Rightarrow x=0, x=1$. Área = $\\int_0^1 (x - x^2) \\, dx = [x^2/2 - x^3/3]_0^1 = 1/2 - 1/3 = 1/6$."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó las áreas en lugar de restarlas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Procedimiento para hallar el área entre dos funciones: identificar puntos de intersección y restar la función inferior de la superior.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál fue el aumento total de temperatura en ese periodo?",
+      "context": "Un sensor térmico en una industria de Ambato registra un cambio de temperatura dado por $T'(t) = 3\\sqrt{t}$ entre $t=0$ y $t=4$ horas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 °C",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el proceso de integración."
+        },
+        {
+          "letter": "B",
+          "text": "12 °C",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó aplicar el exponente 3/2 correctamente."
+        },
+        {
+          "letter": "C",
+          "text": "16 °C",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int_0^4 3t^{1/2} \\, dt = [3 \\frac{t^{3/2}}{3/2}]_0^4 = [2t^{3/2}]_0^4 = 2(4^{3/2}) = 2(8) = 16$."
+        },
+        {
+          "letter": "D",
+          "text": "24 °C",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó mal los términos finales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicación de la integral definida para calcular el cambio total en una magnitud física dada su tasa de variación.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v10",
+      "statement": "Si $g(x) = \\int_0^x e^{t^2} \\, dt$, ¿cuál es el valor de $g'(x)$?",
+      "context": "Primer Teorema Fundamental del Cálculo (derivada de una integral).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$e^{x^2} \\cdot 2x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicó regla de la cadena innecesariamente para el límite superior simple."
+        },
+        {
+          "letter": "B",
+          "text": "$e^{x^2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Por el Teorema Fundamental del Cálculo, la derivada de una integral respecto a su límite superior es el integrando evaluado en ese límite."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{e^{x^2}}{2x}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Trató de integrar en lugar de derivar."
+        },
+        {
+          "letter": "D",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función $g(x)$ cambia con $x$, por lo que su derivada no es cero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprensión de que la derivación y la integración son operaciones inversas en el sentido del Teorema Fundamental del Cálculo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el costo total aproximado de nivelar el terreno?",
+      "context": "Un terreno en el valle de los Chillos tiene forma delimitada por $y = \\sqrt{x}$, el eje $x$ y la recta $x = 9$. El costo de nivelación es de $10 por metro cuadrado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$270",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó el área máxima posible de un rectángulo ($3 \\cdot 9 = 27$) por el costo unitario."
+        },
+        {
+          "letter": "B",
+          "text": "$180",
+          "is_correct": true,
+          "feedback": "Correcto. El área es $\\int_0^9 x^{1/2} \\, dx = [\\frac{2}{3}x^{3/2}]_0^9 = \\frac{2}{3}(27) = 18$ m². El costo es $18 \\text{ m}^2 \\cdot \\$10/\\text{m}^2 = \\$180$."
+        },
+        {
+          "letter": "C",
+          "text": "$360",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor excedido por un error en el cálculo de la potencia."
+        },
+        {
+          "letter": "D",
+          "text": "$90",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor obtenido por una integración errónea."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cálculo de costos basado en la determinación del área mediante integración de funciones raíz.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v12",
+      "statement": "Si $f(x)$ es continua en $[a, b]$, existe un valor $c \\in [a, b]$ tal que $f(c) = \\frac{1}{b-a} \\int_a^b f(x) \\, dx$. ¿Qué representa físicamente este valor $f(c)$?",
+      "context": "Teorema del Valor Medio para integrales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El valor máximo de la función.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un promedio, no un extremo."
+        },
+        {
+          "letter": "B",
+          "text": "El valor promedio de la función en el intervalo.",
+          "is_correct": true,
+          "feedback": "Correcto. Representa la altura de un rectángulo con la misma base que tiene la misma área que la curva."
+        },
+        {
+          "letter": "C",
+          "text": "El punto medio del intervalo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es $(a+b)/2$, el cual es una coordenada $x$, no un valor de $f(x)$."
+        },
+        {
+          "letter": "D",
+          "text": "La tasa de cambio promedio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde al Teorema del Valor Medio de la derivada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Interpretación de la integral definida como herramienta para calcular promedios de magnitudes que varían continuamente.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.5,
+      "bundle_id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es el valor promedio de la función?",
+      "context": "Calcule el valor promedio de $f(x) = x^2$ en el intervalo $[0, 3]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor máximo en el intervalo."
+        },
+        {
+          "letter": "B",
+          "text": "4.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Promedio simple de los extremos, lo cual no es válido para funciones no lineales."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. Área = $\\int_0^3 x^2 \\, dx = 9$. Promedio = Área / Longitud = $9 / (3 - 0) = 3$."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el proceso de integración o división."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cálculo operativo del valor medio de una función cuadrática utilizando la definición integral.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v14",
+      "statement": "Determine el área total (suma de los valores absolutos de las diferencias).",
+      "context": "Área entre curvas que se cruzan. Calcule el área total encerrada por $y = \\sin(x)$ y $y = \\cos(x)$ desde $x = 0$ hasta $x = \\pi/2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las áreas no se cancelan porque buscamos el área entre las curvas, no la integral neta de una función."
+        },
+        {
+          "letter": "B",
+          "text": "$2\\sqrt{2} - 2$",
+          "is_correct": true,
+          "feedback": "Correcto. Las curvas se cruzan en $x = \\pi/4$. Área = $\\int_0^{\\pi/4} (\\cos x - \\sin x) \\, dx + \\int_{\\pi/4}^{\\pi/2} (\\sin x - \\cos x) \\, dx$. Cada parte vale $\\sqrt{2}-1$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó restar los términos constantes de la evaluación de la antiderivada."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor obtenido por una simplificación errónea de los senos y cosenos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Manejo de áreas totales para funciones que cambian de posición relativa (cuál está arriba y cuál abajo) dentro del intervalo de interés.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v15",
+      "statement": "Calcule el valor de la integral.",
+      "context": "Integral de una función con valor absoluto: $\\int_{-2}^2 |x| \\, dx$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor absoluto siempre es positivo o cero; el área no puede anularse."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correcto. Geométricamente son dos triángulos de base 2 y altura 2. Área = $2(2 \\cdot 2 / 2) = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo consideró un lado del eje y."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al calcular el área de los triángulos (no dividió por 2)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de integrales de funciones no suaves mediante la descomposición en intervalos donde la función es lineal.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál de las siguientes integrales representa el área de un semicírculo de radio 1?",
+      "context": "Un tanque de almacenamiento en una refinería de Esmeraldas tiene una sección transversal circular. Queremos calcular el área de un segmento circular usando integración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\int_{-1}^1 (1 - x^2) \\, dx$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es el área bajo una parábola."
+        },
+        {
+          "letter": "B",
+          "text": "$\\int_{-1}^1 \\sqrt{1 - x^2} \\, dx$",
+          "is_correct": true,
+          "feedback": "Correcto. La ecuación del círculo es $x^2 + y^2 = 1$, despejando $y = \\sqrt{1-x^2}$. El resultado es $\\pi/2$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\int_0^1 \\pi x^2 \\, dx$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se relaciona con el volumen de un sólido de revolución."
+        },
+        {
+          "letter": "D",
+          "text": "$\\int_{-1}^1 (1 + x^2) \\, dx$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta curva se abre hacia arriba y no delimita un semicírculo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Modelado de figuras geométricas clásicas (círculos) mediante funciones irracionales y el cálculo integral.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.4,
+      "bundle_id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es el área total bajo la curva desde $x=0$ hasta el infinito?",
+      "context": "Cálculo de un área infinita (Integral Impropia). Un modelo de radiación en un laboratorio de física en Quito sigue la función $f(x) = e^{-x}$ para $x \\ge 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función es positiva en todo su dominio."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. $\\lim_{b \\to \\infty} \\int_0^b e^{-x} \\, dx = \\lim_{b \\to \\infty} [-e^{-x}]_0^b = \\lim_{b \\to \\infty} (-e^{-b} + e^0) = 0 + 1 = 1$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\infty$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el intervalo es infinito, el área converge a un valor finito."
+        },
+        {
+          "letter": "D",
+          "text": "$e$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al evaluar el límite o la antiderivada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Introducción al concepto de convergencia de áreas en intervalos no acotados para funciones que decaen rápidamente.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v18",
+      "statement": "Calcule el trabajo total realizado ($W = \\int F \\, dx$).",
+      "context": "Un problema de física sobre el trabajo realizado por una fuerza variable $F(x) = \\frac{10}{x^2}$ al mover una partícula desde $x=1$ hasta $x=5$ metros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 J",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor obtenido por una integración errónea."
+        },
+        {
+          "letter": "B",
+          "text": "8 J",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int_1^5 10x^{-2} \\, dx = [-10/x]_1^5 = -10/5 - (-10/1) = -2 + 10 = 8$."
+        },
+        {
+          "letter": "C",
+          "text": "2 J",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo al evaluar la antiderivada."
+        },
+        {
+          "letter": "D",
+          "text": "50 J",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó la fuerza máxima por la distancia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación de la integral definida para calcular magnitudes físicas integradas, como el trabajo mecánico realizado por fuerzas no constantes.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.3,
+      "bundle_id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v19",
+      "statement": "Halle la derivada de $F(x) = \\int_0^{x^2} \\sin(t) \\, dt$.",
+      "context": "Diferenciación bajo el signo integral (Regla de Leibniz).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sin(x^2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó aplicar la regla de la cadena para el límite superior $x^2$."
+        },
+        {
+          "letter": "B",
+          "text": "$2x \\sin(x^2)$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{d}{dx} \\int_a^{g(x)} f(t) \\, dt = f(g(x)) \\cdot g'(x) = \\sin(x^2) \\cdot 2x$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\cos(x^2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Trató de derivar el integrando antes de aplicar el teorema fundamental."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 \\sin(x^2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por el límite en lugar de su derivada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Generalización del Teorema Fundamental del Cálculo para casos donde los límites de integración son funciones de la variable independiente.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el superávit del consumidor (el área entre la demanda y el precio de equilibrio)?",
+      "context": "Un problema de economía matemática sobre el superávit del consumidor en el mercado de flores de Ecuador. La demanda es $D(x) = 100 - 2x$ y el precio de equilibrio es $P = 60$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "800",
+          "is_correct": false,
+          "feedback": "Incorrecto. Área del rectángulo completo de ingresos."
+        },
+        {
+          "letter": "B",
+          "text": "400",
+          "is_correct": true,
+          "feedback": "Correcto. Punto de equilibrio: $100-2x = 60 \\Rightarrow 2x=40 \\Rightarrow x=20$. Superávit = $\\int_0^{20} (100 - 2x - 60) \\, dx = \\int_0^{20} (40 - 2x) \\, dx = [40x - x^2]_0^{20} = 800 - 400 = 400$."
+        },
+        {
+          "letter": "C",
+          "text": "1200",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó el precio de equilibrio en lugar de restarlo."
+        },
+        {
+          "letter": "D",
+          "text": "200",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en los límites de integración o en la antiderivada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso de la integral definida para cuantificar conceptos de bienestar económico y eficiencia de mercado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.2,
+      "bundle_id": "EC-MAT-11-2026-W18-integral-definida-y-areas-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    }
+  ]
+}

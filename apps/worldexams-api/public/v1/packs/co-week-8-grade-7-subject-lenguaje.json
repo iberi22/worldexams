@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-8-grade-7-subject-lengua",
+    "generated_at": "2026-06-18T23:58:37.533Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle-v1",
+      "statement": "¿Quién es el autor de la famosa novela romántica \"María\", publicada en 1867 y considerada un símbolo de la identidad vallecaucana?",
+      "context": "En la historia literaria de Colombia, ciertos nombres se consideran los pilares sobre los que se construyó nuestra narrativa y poesía nacional.\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rafael Pombo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pombo es principalmente poeta y fabulista."
+        },
+        {
+          "letter": "B",
+          "text": "Jorge Isaacs",
+          "is_correct": true,
+          "feedback": "¡Correcto! Jorge Isaacs es el autor de esta obra cumbre del romanticismo hispanoamericano."
+        },
+        {
+          "letter": "C",
+          "text": "Tomás Carrasquilla",
+          "is_correct": false,
+          "feedback": "Incorrecto. Carrasquilla es un autor realista y costumbrista antioqueño."
+        },
+        {
+          "letter": "D",
+          "text": "José Asunción Silva",
+          "is_correct": false,
+          "feedback": "Incorrecto. Silva es un poeta modernista de finales del siglo XIX."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Jorge Isaacs logró en \"María\" una perfecta combinación entre la sensibilidad romántica europea y la descripción del paisaje y las costumbres colombianas. Su obra es lectura obligatoria para entender la sensibilidad del siglo XIX.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de los siguientes autores es el creador de personajes infantiles como \"Rinrín Renacuajo\" y \"La Pobre Viejecita\"?",
+      "context": "Colombia es conocida como un país de poetas. Uno de ellos es especialmente recordado por los niños, aunque su obra para adultos sea profunda y melancólica.\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Julio Flórez",
+          "is_correct": false,
+          "feedback": "Incorrecto. Julio Flórez es un poeta romántico de temas oscuros y sentimentales."
+        },
+        {
+          "letter": "B",
+          "text": "Rafael Pombo",
+          "is_correct": true,
+          "feedback": "¡Correcto! Pombo adaptó fábulas y creó historias infantiles que son parte del patrimonio cultural colombiano."
+        },
+        {
+          "letter": "C",
+          "text": "Gabriel García Márquez",
+          "is_correct": false,
+          "feedback": "Incorrecto. García Márquez es un autor del siglo XX, famoso por el realismo mágico."
+        },
+        {
+          "letter": "D",
+          "text": "Soledad Acosta de Samper",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue una importante escritora e historiadora, pero no se destaca por fábulas infantiles."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Rafael Pombo fue un diplomático y escritor que vivió mucho tiempo en Estados Unidos. Sus \"Cuentos pintados\" y \"Cuentos morales para niños formales\" son clásicos de la literatura en español que mezclan el humor con la enseñanza.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle-v3",
+      "statement": "¿A qué autor costumbrista, fundador del grupo literario \"El Mosaico\", pertenece este estilo de retratar la vida diaria de la capital?",
+      "context": "Valentina lee un fragmento donde se describen las ruidosas calles de Bogotá en 1858 y las conversaciones de los señores en las chicherías.\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Jorge Isaacs",
+          "is_correct": false,
+          "feedback": "Incorrecto. Isaacs se centró más en la novela sentimental de ambiente rural."
+        },
+        {
+          "letter": "B",
+          "text": "José Eugenio Díaz Castro",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es el autor de \"Manuela\" y uno de los grandes retratistas de las costumbres locales."
+        },
+        {
+          "letter": "C",
+          "text": "José María Vergara y Vergara",
+          "is_correct": false,
+          "feedback": "¡Casi! También fue fundador, pero Díaz Castro es más reconocido por el retrato de tipos sociales. Se acepta Díaz Castro por su obra \"Manuela\"."
+        },
+        {
+          "letter": "D",
+          "text": "León de Greiff",
+          "is_correct": false,
+          "feedback": "Incorrecto. De Greiff es un poeta vanguardista del siglo XX."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "José Eugenio Díaz Castro, con su novela \"Manuela\", logró pintar la realidad política y social de los pueblos de la Sabana de Bogotá. Su obra es un documento valioso sobre el lenguaje y las tradiciones del altiplano cundiboyacense.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle-v4",
+      "statement": "¿Quién fue la escritora colombiana más prolífica del siglo XIX, autora de novelas, biografías y cuadros de costumbres, como \"La mujer en la sociedad moderna\"?",
+      "context": "En el siglo XIX, las mujeres también tuvieron una presencia importante en las letras, a pesar de las dificultades sociales para publicar.\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Josefa Acevedo de Gómez",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue una importante escritora de cuadros de costumbres, pero no la más prolífica en diversos géneros."
+        },
+        {
+          "letter": "B",
+          "text": "Soledad Acosta de Samper",
+          "is_correct": true,
+          "feedback": "¡Correcto! Escribió más de 20 novelas y fundó la revista \"La Mujer\", siendo una pionera de las letras femeninas."
+        },
+        {
+          "letter": "C",
+          "text": "Piedad Bonnett",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una destacada poeta y novelista colombiana contemporánea (siglos XX-XXI)."
+        },
+        {
+          "letter": "D",
+          "text": "Virginia Gutiérrez de Pineda",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue una importante antropóloga del siglo XX."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Soledad Acosta de Samper fue una mujer excepcionalmente culta. Su obra permitió visibilizar el papel de la mujer en la historia de Colombia y analizar la sociedad de su tiempo desde una perspectiva crítica y educada.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle-v5",
+      "statement": "¿Qué autor antioqueño, autor de \"Frutos de mi tierra\", es reconocido por rescatar el habla popular y la vida sencilla de los pueblos?",
+      "context": "Santiago lee sobre un autor que defendió el uso del lenguaje popular y fue criticado por los intelectuales que querían un español \"puro\" como el de España.\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Julio Flórez",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su obra es lírica y no se centra en el lenguaje popular regional."
+        },
+        {
+          "letter": "B",
+          "text": "Rafael Núñez",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue un político (presidente) y poeta, autor del Himno Nacional, pero no de narrativa popular."
+        },
+        {
+          "letter": "C",
+          "text": "Tomás Carrasquilla",
+          "is_correct": true,
+          "feedback": "¡Correcto! Carrasquilla es el gran maestro del realismo costumbrista en Colombia."
+        },
+        {
+          "letter": "D",
+          "text": "Porfirio Barba Jacob",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un poeta de inicios del siglo XX con un estilo muy diferente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Tomás Carrasquilla rompió con la idea de que para hacer gran literatura había que hablar de temas elevados y usar un lenguaje difícil. Él demostró que en la vida de un campesino o de un minero había tanta belleza y verdad como en cualquier palacio europeo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle-v6",
+      "statement": "¿Quién es el autor del famoso \"Nocturno III\", que comienza con \"Una noche / una noche toda llena de perfumes...\", y es considerado el padre del Modernismo colombiano?",
+      "context": "A finales del siglo XIX, surge un joven poeta que cambiaría la forma de escribir versos, introduciendo el Modernismo en Colombia.\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gregorio Gutiérrez González",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un poeta romántico famoso por su poema \"Memoria sobre el cultivo del maíz\"."
+        },
+        {
+          "letter": "B",
+          "text": "José Asunción Silva",
+          "is_correct": true,
+          "feedback": "¡Correcto! Silva renovó la métrica y el lenguaje poético, influyendo en toda la literatura en español."
+        },
+        {
+          "letter": "C",
+          "text": "Luis Carlos López",
+          "is_correct": false,
+          "feedback": "Incorrecto. Conocido como \"El Tuerto López\", es un poeta posterior, famoso por su ironía."
+        },
+        {
+          "letter": "D",
+          "text": "Guillermo Valencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fue un importante poeta modernista, pero posterior a la renovación iniciada por Silva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "José Asunción Silva vivió una vida corta y trágica, pero su obra es inmensa. En su poesía se siente el paso del romanticismo sentimental hacia una búsqueda de la belleza pura, la musicalidad y la melancolía existencial del hombre moderno.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle-v7",
+      "statement": "¿A qué autor pertenece esta obra que une la utilidad práctica del campo con la belleza de la poesía romántica?",
+      "context": "Camila analiza el poema \"Memoria sobre el cultivo del maíz\", que trata de forma poética algo tan cotidiano como la agricultura.\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gregorio Gutiérrez González",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es su obra más famosa, donde exalta la labor del campesino antioqueño."
+        },
+        {
+          "letter": "B",
+          "text": "Jorge Isaacs",
+          "is_correct": false,
+          "feedback": "Incorrecto. Isaacs escribió poesía, pero no de este tema agrícola específico."
+        },
+        {
+          "letter": "C",
+          "text": "Candelario Obeso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Obeso es famoso por su \"Cantos populares de mi tierra\", centrados en el habla de los bogas del Magdalena."
+        },
+        {
+          "letter": "D",
+          "text": "Eduardo Caballero Calderón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un autor importante del siglo XX."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Gutiérrez González logró algo único: hacer un manual de agricultura en verso que es, al mismo tiempo, un canto de amor a la tierra colombiana. Representa el orgullo por lo propio y la valoración del trabajo manual desde el arte.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle-v8",
+      "statement": "¿Quién es el autor de \"Cantos populares de mi tierra\", pionero en usar el dialecto afrocolombiano en la literatura escrita?",
+      "context": "En el Caribe colombiano, surge una voz única que utiliza el habla de los pescadores y trabajadores del río Magdalena para hacer poesía.\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Manuel Zapata Olivella",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el gran representante de la cultura afrocolombiana, pero en el siglo XX."
+        },
+        {
+          "letter": "B",
+          "text": "Candelario Obeso",
+          "is_correct": true,
+          "feedback": "¡Correcto! Obeso, nacido en Mompox, fue el primer gran poeta en darle voz al pueblo negro de Colombia."
+        },
+        {
+          "letter": "C",
+          "text": "Gabriel García Márquez",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque es del Caribe, su obra principal es narrativa del siglo XX."
+        },
+        {
+          "letter": "D",
+          "text": "Meira Delmar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Destacada poeta barranquillera del siglo XX."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Candelario Obeso rompió barreras sociales y culturales. Al escribir poemas como \"Canción del boga ausente\", mostró la tristeza, el amor y la fuerza de una parte de la población que la literatura oficial solía ignorar. Es fundamental para entender la diversidad de Colombia.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle-v9",
+      "statement": "¿Qué conclusión se puede sacar sobre la literatura colombiana del siglo XIX a partir de sus autores más destacados?",
+      "context": "Al observar la lista de autores del siglo XIX (Isaacs, Pombo, Carrasquilla, Silva, Obeso), se nota una gran variedad de estilos.\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que era una literatura que solo le importaba a la gente de Bogotá.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los autores venían de todas las regiones: Valle, Antioquia, Caribe, etc."
+        },
+        {
+          "letter": "B",
+          "text": "Que todos los escritores estaban de acuerdo en cómo debía ser el país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Había grandes disputas políticas y literarias entre ellos."
+        },
+        {
+          "letter": "C",
+          "text": "Que fue un siglo de exploración donde se sentaron las bases para la diversidad de temas y voces que caracterizan a Colombia hoy.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se pasó de lo sentimental a lo social, de lo culto a lo popular."
+        },
+        {
+          "letter": "D",
+          "text": "Que no hubo obras originales y todo fue una copia de España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Obras como \"María\" o \"Cantos populares de mi tierra\" son profundamente originales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El siglo XIX no fue un periodo estático. Los autores colombianos se atrevieron a experimentar con el lenguaje, a mirar sus propios conflictos y a valorar su geografía, creando un ecosistema literario muy rico que permitió el estallido de creatividad del siglo siguiente.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál fue el papel fundamental de José María Vergara y Vergara en la literatura del siglo XIX?",
+      "context": "Un historiador afirma: \"Sin la revista 'El Mosaico' y autores como Vergara y Vergara, Colombia no tendría una historia literaria organizada\".\n**Expected_Success:** 0.50",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribir las mejores novelas de terror de la época.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se dedicó al género de terror."
+        },
+        {
+          "letter": "B",
+          "text": "Prohibir que los autores publicaran en periódicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, fomentó la publicación periódica."
+        },
+        {
+          "letter": "C",
+          "text": "Ser el primer gran historiador y crítico de la literatura colombiana, organizando y valorando la producción nacional.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Escribió la \"Historia de la literatura en Nueva Granada\"."
+        },
+        {
+          "letter": "D",
+          "text": "Inventar el sistema de imprenta que se usaba en todo el país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La imprenta ya existía; él fue un líder intelectual."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Vergara y Vergara fue un \"curador\" de la cultura. Se encargó de recopilar lo que se había escrito desde la colonia hasta su tiempo, dándole a los colombianos la conciencia de que tenían una literatura propia digna de ser estudiada y preservada.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LEN-7-2026-W08-autores-obras-siglo-xix-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

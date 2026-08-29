@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "uy",
+    "pack_id": "uy-week-6-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-04T05:18:14.097Z"
+  },
+  "questions": [
+    {
+      "id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v1",
+      "statement": "Si cruzás dos plantas de arveja homocigotas puras, una de semilla amarilla dominante ($AA$) y otra de semilla verde recesiva ($aa$), ¿qué fenotipos se esperan en la primera generación filial ($F_1$)?",
+      "context": "Durante una actividad de laboratorio en el Liceo N° 2 de Tacuarembó, Sofía analiza primera ley de mendel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100% plantas de semilla amarilla.",
+          "is_correct": true,
+          "feedback": "Correcto. Toda la descendencia $F_1$ es heterocigota ($Aa$) y exhibe el fenotipo asociado al alelo dominante."
+        },
+        {
+          "letter": "B",
+          "text": "50% plantas amarillas y 50% verdes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta proporción corresponde a un cruce de prueba entre un heterocigoto y un homocigoto recesivo."
+        },
+        {
+          "letter": "C",
+          "text": "75% plantas amarillas y 25% verdes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta proporción es la clásica segregación fenotípica de la generación filial $F_2$."
+        },
+        {
+          "letter": "D",
+          "text": "100% plantas verdes de bajo vigor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El alelo recesivo queda enmascarado por el dominante en la generación $F_1$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ley de la uniformidad establece que al cruzar dos líneas puras para un carácter, toda la descendencia híbrida es idéntica fenotípicamente. En este contexto, Sofía de Tacuarembó determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.87,
+      "bundle_id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v2",
+      "statement": "Al autofecundar las plantas heterocigotas $Aa$ de la generación $F_1$, ¿cuál es la proporción fenotípica esperada en la generación $F_2$ según la ley de segregación?",
+      "context": "En la clase práctica del Liceo N° 3 en Melo, Martín y sus compañeros debaten sobre segunda ley de mendel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3:1 (75% dominantes, 25% recesivos).",
+          "is_correct": true,
+          "feedback": "Correcto. El alelo recesivo vuelve a manifestarse en $F_2$ en un 25% de los individuos de genotipo $aa$."
+        },
+        {
+          "letter": "B",
+          "text": "1:2:1 (proporción fenotípica idéntica a genotípica pura).",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1:2:1 es la proporción genotípica ($1AA: 2Aa: 1aa$), no la proporción fenotípica con dominancia completa."
+        },
+        {
+          "letter": "C",
+          "text": "9:3:3:1 (proporción diheterocigota cruzada).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta proporción 9:3:3:1 corresponde a la tercera ley de Mendel para dos caracteres independientes."
+        },
+        {
+          "letter": "D",
+          "text": "1:1 (proporción homogénea de cruce recesivo).",
+          "is_correct": false,
+          "feedback": "Incorrecto. La proporción 1:1 resulta de cruces de retrocruza o prueba, no de autofecundaciones híbridas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los alelos para cada carácter se separan o segregan durante la formación de gametos haploides mediante meiosis. En este contexto, Martín de Melo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo se manifiesta fenotípicamente un carácter bajo el patrón de herencia de codominancia en un individuo heterocigoto?",
+      "context": "Para el proyecto final de ciencias en el Liceo N° 4 de Montevideo, Lucía investiga acerca de codominancia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se expresan de manera simultánea y completa ambos alelos parentales sin mezclarse.",
+          "is_correct": true,
+          "feedback": "Correcto. Un ejemplo clásico es el sistema sanguíneo ABO, donde el genotipo $I^AI^B$ expresa los antígenos A y B de forma simultánea."
+        },
+        {
+          "letter": "B",
+          "text": "Se genera un fenotipo intermedio diluido que mezcla ambas características.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión intermedia o mezcla es característica de la dominancia incompleta o herencia corta."
+        },
+        {
+          "letter": "C",
+          "text": "Solo se manifiesta el alelo de origen materno por impronta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La herencia codominante es mendeliana y no depende de marcas epigenéticas de impronta."
+        },
+        {
+          "letter": "D",
+          "text": "El individuo desarrolla una mutación letal que inviabiliza el nacimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La codominancia es un patrón de herencia normal y no representa letalidad génica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En codominancia ambos alelos se manifiestan en el fenotipo del heterocigoto con idéntica intensidad fisiológica. En este contexto, Lucía de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.79,
+      "bundle_id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué las enfermedades recesivas ligadas al cromosoma X (como la hemofilia) se expresan con mayor frecuencia fenotípica en hombres que en mujeres?",
+      "context": "Mientras repasa para el examen parcial en Tacuarembó, Gastón estudia detenidamente herencia ligada al sexo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los hombres son hemicigotos para el cromosoma X, por lo que un solo alelo mutado determina la afección.",
+          "is_correct": true,
+          "feedback": "Correcto. Como los hombres tienen cariotipo XY, no disponen de un segundo cromosoma X que pueda compensar la mutación recesiva."
+        },
+        {
+          "letter": "B",
+          "text": "Las hormonas masculinas como la testosterona aumentan la tasa de mutaciones génicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las hormonas sexuales regulan caracteres secundarios pero no alteran la tasa mutacional cromosómica general."
+        },
+        {
+          "letter": "C",
+          "text": "Las mujeres carecen de cromosoma X y transmiten la mutación mediante mitocondrias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mujeres tienen dos cromosomas X (XX) y transmiten la hemofilia de manera normal como portadoras saludables."
+        },
+        {
+          "letter": "D",
+          "text": "El cromosoma Y masculino silencia la expresión de las enzimas de coagulación sanguínea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cromosoma Y posee pocos genes específicos y no interfiere con los genes del cromosoma X."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La herencia ligada al sexo sigue patrones característicos asociados a los cromosomas que determinan el sexo biológico. En este contexto, Gastón de Tacuarembó determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v5",
+      "statement": "Si cruzás dos plantas de arveja homocigotas puras, una de semilla amarilla dominante ($AA$) y otra de semilla verde recesiva ($aa$), ¿qué fenotipos se esperan en la primera generación filial ($F_1$)?",
+      "context": "En el taller de Ciencias Naturales en Melo, Nicolás observa un modelo experimental de primera ley de mendel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100% plantas de semilla amarilla.",
+          "is_correct": true,
+          "feedback": "Correcto. Toda la descendencia $F_1$ es heterocigota ($Aa$) y exhibe el fenotipo asociado al alelo dominante."
+        },
+        {
+          "letter": "B",
+          "text": "50% plantas amarillas y 50% verdes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta proporción corresponde a un cruce de prueba entre un heterocigoto y un homocigoto recesivo."
+        },
+        {
+          "letter": "C",
+          "text": "75% plantas amarillas y 25% verdes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta proporción es la clásica segregación fenotípica de la generación filial $F_2$."
+        },
+        {
+          "letter": "D",
+          "text": "100% plantas verdes de bajo vigor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El alelo recesivo queda enmascarado por el dominante en la generación $F_1$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ley de la uniformidad establece que al cruzar dos líneas puras para un carácter, toda la descendencia híbrida es idéntica fenotípicamente. En este contexto, Nicolás de Melo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.69,
+      "bundle_id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v6",
+      "statement": "Al autofecundar las plantas heterocigotas $Aa$ de la generación $F_1$, ¿cuál es la proporción fenotípica esperada en la generación $F_2$ según la ley de segregación?",
+      "context": "Durante una actividad de laboratorio en el Liceo N° 1 Departamental de Montevideo, Belén analiza segunda ley de mendel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3:1 (75% dominantes, 25% recesivos).",
+          "is_correct": true,
+          "feedback": "Correcto. El alelo recesivo vuelve a manifestarse en $F_2$ en un 25% de los individuos de genotipo $aa$."
+        },
+        {
+          "letter": "B",
+          "text": "1:2:1 (proporción fenotípica idéntica a genotípica pura).",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1:2:1 es la proporción genotípica ($1AA: 2Aa: 1aa$), no la proporción fenotípica con dominancia completa."
+        },
+        {
+          "letter": "C",
+          "text": "9:3:3:1 (proporción diheterocigota cruzada).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta proporción 9:3:3:1 corresponde a la tercera ley de Mendel para dos caracteres independientes."
+        },
+        {
+          "letter": "D",
+          "text": "1:1 (proporción homogénea de cruce recesivo).",
+          "is_correct": false,
+          "feedback": "Incorrecto. La proporción 1:1 resulta de cruces de retrocruza o prueba, no de autofecundaciones híbridas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los alelos para cada carácter se separan o segregan durante la formación de gametos haploides mediante meiosis. En este contexto, Belén de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.68,
+      "bundle_id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v7",
+      "statement": "¿Cómo se manifiesta fenotípicamente un carácter bajo el patrón de herencia de codominancia en un individuo heterocigoto?",
+      "context": "En la clase práctica del Liceo N° 2 en Tacuarembó, Felipe y sus compañeros debaten sobre codominancia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se expresan de manera simultánea y completa ambos alelos parentales sin mezclarse.",
+          "is_correct": true,
+          "feedback": "Correcto. Un ejemplo clásico es el sistema sanguíneo ABO, donde el genotipo $I^AI^B$ expresa los antígenos A y B de forma simultánea."
+        },
+        {
+          "letter": "B",
+          "text": "Se genera un fenotipo intermedio diluido que mezcla ambas características.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión intermedia o mezcla es característica de la dominancia incompleta o herencia corta."
+        },
+        {
+          "letter": "C",
+          "text": "Solo se manifiesta el alelo de origen materno por impronta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La herencia codominante es mendeliana y no depende de marcas epigenéticas de impronta."
+        },
+        {
+          "letter": "D",
+          "text": "El individuo desarrolla una mutación letal que inviabiliza el nacimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La codominancia es un patrón de herencia normal y no representa letalidad génica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En codominancia ambos alelos se manifiestan en el fenotipo del heterocigoto con idéntica intensidad fisiológica. En este contexto, Felipe de Tacuarembó determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.67,
+      "bundle_id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué las enfermedades recesivas ligadas al cromosoma X (como la hemofilia) se expresan con mayor frecuencia fenotípica en hombres que en mujeres?",
+      "context": "Para el proyecto final de ciencias en el Liceo N° 3 de Melo, Juana investiga acerca de herencia ligada al sexo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los hombres son hemicigotos para el cromosoma X, por lo que un solo alelo mutado determina la afección.",
+          "is_correct": true,
+          "feedback": "Correcto. Como los hombres tienen cariotipo XY, no disponen de un segundo cromosoma X que pueda compensar la mutación recesiva."
+        },
+        {
+          "letter": "B",
+          "text": "Las hormonas masculinas como la testosterona aumentan la tasa de mutaciones génicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las hormonas sexuales regulan caracteres secundarios pero no alteran la tasa mutacional cromosómica general."
+        },
+        {
+          "letter": "C",
+          "text": "Las mujeres carecen de cromosoma X y transmiten la mutación mediante mitocondrias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mujeres tienen dos cromosomas X (XX) y transmiten la hemofilia de manera normal como portadoras saludables."
+        },
+        {
+          "letter": "D",
+          "text": "El cromosoma Y masculino silencia la expresión de las enzimas de coagulación sanguínea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cromosoma Y posee pocos genes específicos y no interfiere con los genes del cromosoma X."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La herencia ligada al sexo sigue patrones característicos asociados a los cromosomas que determinan el sexo biológico. En este contexto, Juana de Melo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v9",
+      "statement": "Si cruzás dos plantas de arveja homocigotas puras, una de semilla amarilla dominante ($AA$) y otra de semilla verde recesiva ($aa$), ¿qué fenotipos se esperan en la primera generación filial ($F_1$)?",
+      "context": "Mientras repasa para el examen parcial en Montevideo, Ignacio estudia detenidamente primera ley de mendel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100% plantas de semilla amarilla.",
+          "is_correct": true,
+          "feedback": "Correcto. Toda la descendencia $F_1$ es heterocigota ($Aa$) y exhibe el fenotipo asociado al alelo dominante."
+        },
+        {
+          "letter": "B",
+          "text": "50% plantas amarillas y 50% verdes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta proporción corresponde a un cruce de prueba entre un heterocigoto y un homocigoto recesivo."
+        },
+        {
+          "letter": "C",
+          "text": "75% plantas amarillas y 25% verdes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta proporción es la clásica segregación fenotípica de la generación filial $F_2$."
+        },
+        {
+          "letter": "D",
+          "text": "100% plantas verdes de bajo vigor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El alelo recesivo queda enmascarado por el dominante en la generación $F_1$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ley de la uniformidad establece que al cruzar dos líneas puras para un carácter, toda la descendencia híbrida es idéntica fenotípicamente. En este contexto, Ignacio de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.59,
+      "bundle_id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v10",
+      "statement": "Al autofecundar las plantas heterocigotas $Aa$ de la generación $F_1$, ¿cuál es la proporción fenotípica esperada en la generación $F_2$ según la ley de segregación?",
+      "context": "En el taller de Ciencias Naturales en Tacuarembó, Paula observa un modelo experimental de segunda ley de mendel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3:1 (75% dominantes, 25% recesivos).",
+          "is_correct": true,
+          "feedback": "Correcto. El alelo recesivo vuelve a manifestarse en $F_2$ en un 25% de los individuos de genotipo $aa$."
+        },
+        {
+          "letter": "B",
+          "text": "1:2:1 (proporción fenotípica idéntica a genotípica pura).",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1:2:1 es la proporción genotípica ($1AA: 2Aa: 1aa$), no la proporción fenotípica con dominancia completa."
+        },
+        {
+          "letter": "C",
+          "text": "9:3:3:1 (proporción diheterocigota cruzada).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta proporción 9:3:3:1 corresponde a la tercera ley de Mendel para dos caracteres independientes."
+        },
+        {
+          "letter": "D",
+          "text": "1:1 (proporción homogénea de cruce recesivo).",
+          "is_correct": false,
+          "feedback": "Incorrecto. La proporción 1:1 resulta de cruces de retrocruza o prueba, no de autofecundaciones híbridas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los alelos para cada carácter se separan o segregan durante la formación de gametos haploides mediante meiosis. En este contexto, Paula de Tacuarembó determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v11",
+      "statement": "¿Cómo se manifiesta fenotípicamente un carácter bajo el patrón de herencia de codominancia en un individuo heterocigoto?",
+      "context": "Durante una actividad de laboratorio en el Liceo Piloto de Melo, Diego analiza codominancia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se expresan de manera simultánea y completa ambos alelos parentales sin mezclarse.",
+          "is_correct": true,
+          "feedback": "Correcto. Un ejemplo clásico es el sistema sanguíneo ABO, donde el genotipo $I^AI^B$ expresa los antígenos A y B de forma simultánea."
+        },
+        {
+          "letter": "B",
+          "text": "Se genera un fenotipo intermedio diluido que mezcla ambas características.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión intermedia o mezcla es característica de la dominancia incompleta o herencia corta."
+        },
+        {
+          "letter": "C",
+          "text": "Solo se manifiesta el alelo de origen materno por impronta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La herencia codominante es mendeliana y no depende de marcas epigenéticas de impronta."
+        },
+        {
+          "letter": "D",
+          "text": "El individuo desarrolla una mutación letal que inviabiliza el nacimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La codominancia es un patrón de herencia normal y no representa letalidad génica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En codominancia ambos alelos se manifiestan en el fenotipo del heterocigoto con idéntica intensidad fisiológica. En este contexto, Diego de Melo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.47,
+      "bundle_id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v12",
+      "statement": "¿Por qué las enfermedades recesivas ligadas al cromosoma X (como la hemofilia) se expresan con mayor frecuencia fenotípica en hombres que en mujeres?",
+      "context": "En la clase práctica del Liceo N° 1 Departamental en Montevideo, Clara y sus compañeros debaten sobre herencia ligada al sexo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los hombres son hemicigotos para el cromosoma X, por lo que un solo alelo mutado determina la afección.",
+          "is_correct": true,
+          "feedback": "Correcto. Como los hombres tienen cariotipo XY, no disponen de un segundo cromosoma X que pueda compensar la mutación recesiva."
+        },
+        {
+          "letter": "B",
+          "text": "Las hormonas masculinas como la testosterona aumentan la tasa de mutaciones génicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las hormonas sexuales regulan caracteres secundarios pero no alteran la tasa mutacional cromosómica general."
+        },
+        {
+          "letter": "C",
+          "text": "Las mujeres carecen de cromosoma X y transmiten la mutación mediante mitocondrias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mujeres tienen dos cromosomas X (XX) y transmiten la hemofilia de manera normal como portadoras saludables."
+        },
+        {
+          "letter": "D",
+          "text": "El cromosoma Y masculino silencia la expresión de las enzimas de coagulación sanguínea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cromosoma Y posee pocos genes específicos y no interfiere con los genes del cromosoma X."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La herencia ligada al sexo sigue patrones característicos asociados a los cromosomas que determinan el sexo biológico. En este contexto, Clara de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.46,
+      "bundle_id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v13",
+      "statement": "Si cruzás dos plantas de arveja homocigotas puras, una de semilla amarilla dominante ($AA$) y otra de semilla verde recesiva ($aa$), ¿qué fenotipos se esperan en la primera generación filial ($F_1$)?",
+      "context": "Para el proyecto final de ciencias en el Liceo N° 2 de Tacuarembó, Agustín investiga acerca de primera ley de mendel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100% plantas de semilla amarilla.",
+          "is_correct": true,
+          "feedback": "Correcto. Toda la descendencia $F_1$ es heterocigota ($Aa$) y exhibe el fenotipo asociado al alelo dominante."
+        },
+        {
+          "letter": "B",
+          "text": "50% plantas amarillas y 50% verdes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta proporción corresponde a un cruce de prueba entre un heterocigoto y un homocigoto recesivo."
+        },
+        {
+          "letter": "C",
+          "text": "75% plantas amarillas y 25% verdes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta proporción es la clásica segregación fenotípica de la generación filial $F_2$."
+        },
+        {
+          "letter": "D",
+          "text": "100% plantas verdes de bajo vigor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El alelo recesivo queda enmascarado por el dominante en la generación $F_1$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ley de la uniformidad establece que al cruzar dos líneas puras para un carácter, toda la descendencia híbrida es idéntica fenotípicamente. En este contexto, Agustín de Tacuarembó determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v14",
+      "statement": "Al autofecundar las plantas heterocigotas $Aa$ de la generación $F_1$, ¿cuál es la proporción fenotípica esperada en la generación $F_2$ según la ley de segregación?",
+      "context": "Mientras repasa para el examen parcial en Melo, Sebastián estudia detenidamente segunda ley de mendel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3:1 (75% dominantes, 25% recesivos).",
+          "is_correct": true,
+          "feedback": "Correcto. El alelo recesivo vuelve a manifestarse en $F_2$ en un 25% de los individuos de genotipo $aa$."
+        },
+        {
+          "letter": "B",
+          "text": "1:2:1 (proporción fenotípica idéntica a genotípica pura).",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1:2:1 es la proporción genotípica ($1AA: 2Aa: 1aa$), no la proporción fenotípica con dominancia completa."
+        },
+        {
+          "letter": "C",
+          "text": "9:3:3:1 (proporción diheterocigota cruzada).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta proporción 9:3:3:1 corresponde a la tercera ley de Mendel para dos caracteres independientes."
+        },
+        {
+          "letter": "D",
+          "text": "1:1 (proporción homogénea de cruce recesivo).",
+          "is_correct": false,
+          "feedback": "Incorrecto. La proporción 1:1 resulta de cruces de retrocruza o prueba, no de autofecundaciones híbridas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los alelos para cada carácter se separan o segregan durante la formación de gametos haploides mediante meiosis. En este contexto, Sebastián de Melo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.38,
+      "bundle_id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v15",
+      "statement": "¿Cómo se manifiesta fenotípicamente un carácter bajo el patrón de herencia de codominancia en un individuo heterocigoto?",
+      "context": "En el taller de Ciencias Naturales en Montevideo, Valentina observa un modelo experimental de codominancia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se expresan de manera simultánea y completa ambos alelos parentales sin mezclarse.",
+          "is_correct": true,
+          "feedback": "Correcto. Un ejemplo clásico es el sistema sanguíneo ABO, donde el genotipo $I^AI^B$ expresa los antígenos A y B de forma simultánea."
+        },
+        {
+          "letter": "B",
+          "text": "Se genera un fenotipo intermedio diluido que mezcla ambas características.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión intermedia o mezcla es característica de la dominancia incompleta o herencia corta."
+        },
+        {
+          "letter": "C",
+          "text": "Solo se manifiesta el alelo de origen materno por impronta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La herencia codominante es mendeliana y no depende de marcas epigenéticas de impronta."
+        },
+        {
+          "letter": "D",
+          "text": "El individuo desarrolla una mutación letal que inviabiliza el nacimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La codominancia es un patrón de herencia normal y no representa letalidad génica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En codominancia ambos alelos se manifiestan en el fenotipo del heterocigoto con idéntica intensidad fisiológica. En este contexto, Valentina de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.37,
+      "bundle_id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v16",
+      "statement": "¿Por qué las enfermedades recesivas ligadas al cromosoma X (como la hemofilia) se expresan con mayor frecuencia fenotípica en hombres que en mujeres?",
+      "context": "Durante una actividad de laboratorio en el Liceo N° 5 de Tacuarembó, Santiago analiza herencia ligada al sexo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los hombres son hemicigotos para el cromosoma X, por lo que un solo alelo mutado determina la afección.",
+          "is_correct": true,
+          "feedback": "Correcto. Como los hombres tienen cariotipo XY, no disponen de un segundo cromosoma X que pueda compensar la mutación recesiva."
+        },
+        {
+          "letter": "B",
+          "text": "Las hormonas masculinas como la testosterona aumentan la tasa de mutaciones génicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las hormonas sexuales regulan caracteres secundarios pero no alteran la tasa mutacional cromosómica general."
+        },
+        {
+          "letter": "C",
+          "text": "Las mujeres carecen de cromosoma X y transmiten la mutación mediante mitocondrias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mujeres tienen dos cromosomas X (XX) y transmiten la hemofilia de manera normal como portadoras saludables."
+        },
+        {
+          "letter": "D",
+          "text": "El cromosoma Y masculino silencia la expresión de las enzimas de coagulación sanguínea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cromosoma Y posee pocos genes específicos y no interfiere con los genes del cromosoma X."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La herencia ligada al sexo sigue patrones característicos asociados a los cromosomas que determinan el sexo biológico. En este contexto, Santiago de Tacuarembó determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.36,
+      "bundle_id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v17",
+      "statement": "Si cruzás dos plantas de arveja homocigotas puras, una de semilla amarilla dominante ($AA$) y otra de semilla verde recesiva ($aa$), ¿qué fenotipos se esperan en la primera generación filial ($F_1$)?",
+      "context": "En la clase práctica del Liceo Piloto en Melo, Florencia y sus compañeros debaten sobre primera ley de mendel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100% plantas de semilla amarilla.",
+          "is_correct": true,
+          "feedback": "Correcto. Toda la descendencia $F_1$ es heterocigota ($Aa$) y exhibe el fenotipo asociado al alelo dominante."
+        },
+        {
+          "letter": "B",
+          "text": "50% plantas amarillas y 50% verdes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta proporción corresponde a un cruce de prueba entre un heterocigoto y un homocigoto recesivo."
+        },
+        {
+          "letter": "C",
+          "text": "75% plantas amarillas y 25% verdes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta proporción es la clásica segregación fenotípica de la generación filial $F_2$."
+        },
+        {
+          "letter": "D",
+          "text": "100% plantas verdes de bajo vigor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El alelo recesivo queda enmascarado por el dominante en la generación $F_1$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ley de la uniformidad establece que al cruzar dos líneas puras para un carácter, toda la descendencia híbrida es idéntica fenotípicamente. En este contexto, Florencia de Melo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.3,
+      "bundle_id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v18",
+      "statement": "Al autofecundar las plantas heterocigotas $Aa$ de la generación $F_1$, ¿cuál es la proporción fenotípica esperada en la generación $F_2$ según la ley de segregación?",
+      "context": "Para el proyecto final de ciencias en el Liceo N° 1 Departamental de Montevideo, Joaquín investiga acerca de segunda ley de mendel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3:1 (75% dominantes, 25% recesivos).",
+          "is_correct": true,
+          "feedback": "Correcto. El alelo recesivo vuelve a manifestarse en $F_2$ en un 25% de los individuos de genotipo $aa$."
+        },
+        {
+          "letter": "B",
+          "text": "1:2:1 (proporción fenotípica idéntica a genotípica pura).",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1:2:1 es la proporción genotípica ($1AA: 2Aa: 1aa$), no la proporción fenotípica con dominancia completa."
+        },
+        {
+          "letter": "C",
+          "text": "9:3:3:1 (proporción diheterocigota cruzada).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta proporción 9:3:3:1 corresponde a la tercera ley de Mendel para dos caracteres independientes."
+        },
+        {
+          "letter": "D",
+          "text": "1:1 (proporción homogénea de cruce recesivo).",
+          "is_correct": false,
+          "feedback": "Incorrecto. La proporción 1:1 resulta de cruces de retrocruza o prueba, no de autofecundaciones híbridas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los alelos para cada carácter se separan o segregan durante la formación de gametos haploides mediante meiosis. En este contexto, Joaquín de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.3,
+      "bundle_id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v19",
+      "statement": "¿Cómo se manifiesta fenotípicamente un carácter bajo el patrón de herencia de codominancia en un individuo heterocigoto?",
+      "context": "Mientras repasa para el examen parcial en Tacuarembó, Camila estudia detenidamente codominancia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se expresan de manera simultánea y completa ambos alelos parentales sin mezclarse.",
+          "is_correct": true,
+          "feedback": "Correcto. Un ejemplo clásico es el sistema sanguíneo ABO, donde el genotipo $I^AI^B$ expresa los antígenos A y B de forma simultánea."
+        },
+        {
+          "letter": "B",
+          "text": "Se genera un fenotipo intermedio diluido que mezcla ambas características.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión intermedia o mezcla es característica de la dominancia incompleta o herencia corta."
+        },
+        {
+          "letter": "C",
+          "text": "Solo se manifiesta el alelo de origen materno por impronta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La herencia codominante es mendeliana y no depende de marcas epigenéticas de impronta."
+        },
+        {
+          "letter": "D",
+          "text": "El individuo desarrolla una mutación letal que inviabiliza el nacimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La codominancia es un patrón de herencia normal y no representa letalidad génica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En codominancia ambos alelos se manifiestan en el fenotipo del heterocigoto con idéntica intensidad fisiológica. En este contexto, Camila de Tacuarembó determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle-v20",
+      "statement": "¿Por qué las enfermedades recesivas ligadas al cromosoma X (como la hemofilia) se expresan con mayor frecuencia fenotípica en hombres que en mujeres?",
+      "context": "En el taller de Ciencias Naturales en Melo, Mateo observa un modelo experimental de herencia ligada al sexo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los hombres son hemicigotos para el cromosoma X, por lo que un solo alelo mutado determina la afección.",
+          "is_correct": true,
+          "feedback": "Correcto. Como los hombres tienen cariotipo XY, no disponen de un segundo cromosoma X que pueda compensar la mutación recesiva."
+        },
+        {
+          "letter": "B",
+          "text": "Las hormonas masculinas como la testosterona aumentan la tasa de mutaciones génicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las hormonas sexuales regulan caracteres secundarios pero no alteran la tasa mutacional cromosómica general."
+        },
+        {
+          "letter": "C",
+          "text": "Las mujeres carecen de cromosoma X y transmiten la mutación mediante mitocondrias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mujeres tienen dos cromosomas X (XX) y transmiten la hemofilia de manera normal como portadoras saludables."
+        },
+        {
+          "letter": "D",
+          "text": "El cromosoma Y masculino silencia la expresión de las enzimas de coagulación sanguínea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cromosoma Y posee pocos genes específicos y no interfiere con los genes del cromosoma X."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La herencia ligada al sexo sigue patrones característicos asociados a los cromosomas que determinan el sexo biológico. En este contexto, Mateo de Melo determinó correctamente la respuesta correcta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "UY-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    }
+  ]
+}

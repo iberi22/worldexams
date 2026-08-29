@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-1-grade-8-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.730Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-8-2026-W01-daily-routines-001-MASTERY-v1",
+      "statement": "Juan usually ________ coffee in the morning, but today he is drinking orange juice.",
+      "context": "Describing a regular morning activity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "drinks",
+          "is_correct": true,
+          "feedback": "Correct! We use Present Simple for habitual actions like \"usually\"."
+        },
+        {
+          "letter": "B",
+          "text": "is drinking",
+          "is_correct": false,
+          "feedback": "Incorrect. This form is for what is happening right now, not a regular habit."
+        },
+        {
+          "letter": "C",
+          "text": "drink",
+          "is_correct": false,
+          "feedback": "Incorrect. Juan is third person singular, so the verb needs an 's'."
+        },
+        {
+          "letter": "D",
+          "text": "drinking",
+          "is_correct": false,
+          "feedback": "Incorrect. This form requires an auxiliary verb (is/are) and doesn't show habit."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En inglés, utilizamos el Presente Simple para hablar de hábitos o rutinas (marcado por palabras como \"usually\"). Para la tercera persona (Juan/He), agregamos una 's' al verbo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W01-daily-routines-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W01-daily-routines-001-MASTERY-v2",
+      "statement": "How ________ do you practice sports after school?",
+      "context": "Asking about frequency.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "many",
+          "is_correct": false,
+          "feedback": "Incorrect. \"How many\" is used for countable quantities."
+        },
+        {
+          "letter": "B",
+          "text": "often",
+          "is_correct": true,
+          "feedback": "Correct! \"How often\" is the standard question for frequency."
+        },
+        {
+          "letter": "C",
+          "text": "much",
+          "is_correct": false,
+          "feedback": "Incorrect. \"How much\" is used for uncountable quantities or price."
+        },
+        {
+          "letter": "D",
+          "text": "time",
+          "is_correct": false,
+          "feedback": "Incorrect. \"How time\" is not a correct way to ask about frequency."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La expresión \"How often\" se utiliza para preguntar por la frecuencia con la que se realiza una actividad en una rutina.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W01-daily-routines-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W01-daily-routines-001-MASTERY-v3",
+      "statement": "Look! The students ________ the traditional dance in the plaza right now.",
+      "context": "Identifying an action happening at the moment.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "performs",
+          "is_correct": false,
+          "feedback": "Incorrect. This is Present Simple, but we need Present Continuous for \"right now\"."
+        },
+        {
+          "letter": "B",
+          "text": "perform",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for general habits, not an action in progress."
+        },
+        {
+          "letter": "C",
+          "text": "are performing",
+          "is_correct": true,
+          "feedback": "Correct! Present Continuous (be + ing) describes actions happening at the moment."
+        },
+        {
+          "letter": "D",
+          "text": "is performing",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Students\" is plural, so we must use \"are\", not \"is\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Usamos el Presente Continuo (auxiliar \"to be\" + verbo con -ing) para describir acciones que están ocurriendo en el momento exacto del habla (\"right now\").\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W01-daily-routines-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W01-daily-routines-001-MASTERY-v4",
+      "statement": "My sister ________ in Bogotá, but she ________ in Medellín this month for a project.",
+      "context": "Contrasting habit vs. temporary action.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "lives / lives",
+          "is_correct": false,
+          "feedback": "Incorrect. The second part is a temporary action, so it needs Present Continuous."
+        },
+        {
+          "letter": "B",
+          "text": "lives / is staying",
+          "is_correct": true,
+          "feedback": "Correct! \"Lives\" is a permanent state (Simple), \"is staying\" is temporary (Continuous)."
+        },
+        {
+          "letter": "C",
+          "text": "is living / stays",
+          "is_correct": false,
+          "feedback": "Incorrect. Habitually we use Simple for residence and Continuous for temporary stays."
+        },
+        {
+          "letter": "D",
+          "text": "stay / living",
+          "is_correct": false,
+          "feedback": "Incorrect. These forms are grammatically incomplete for the context."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este ejercicio evalúa la diferencia entre estados permanentes (Presente Simple: lives) y situaciones temporales (Presente Continuo: is staying).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W01-daily-routines-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W01-daily-routines-001-MASTERY-v5",
+      "statement": "Which sentence is grammatically correct?",
+      "context": "Using adverbs of frequency correctly.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I go always to the library on Mondays.",
+          "is_correct": false,
+          "feedback": "Incorrect. Adverbs of frequency usually go before the main verb."
+        },
+        {
+          "letter": "B",
+          "text": "I always go to the library on Mondays.",
+          "is_correct": true,
+          "feedback": "Correct! The adverb \"always\" correctly precedes the verb \"go\"."
+        },
+        {
+          "letter": "C",
+          "text": "Always I go to the library on Mondays.",
+          "is_correct": false,
+          "feedback": "Incorrect. This word order is more common in Spanish but unusual in English."
+        },
+        {
+          "letter": "D",
+          "text": "I go to the library always on Mondays.",
+          "is_correct": false,
+          "feedback": "Incorrect. The placement of the adverb is awkward here."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En inglés, los adverbios de frecuencia (always, usually, sometimes, never) se colocan generalmente antes del verbo principal, a menos que el verbo sea \"to be\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-8-2026-W01-daily-routines-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W01-daily-routines-001-MASTERY-v6",
+      "statement": "In most Colombian public schools, the morning shift ________ at 6:30 AM.",
+      "context": "Talking about school schedules in Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "starts",
+          "is_correct": true,
+          "feedback": "Correct! Timetables and schedules are expressed in Present Simple."
+        },
+        {
+          "letter": "B",
+          "text": "is starting",
+          "is_correct": false,
+          "feedback": "Incorrect. We don't use Continuous for fixed schedules."
+        },
+        {
+          "letter": "C",
+          "text": "starting",
+          "is_correct": false,
+          "feedback": "Incorrect. This form lacks a finite verb."
+        },
+        {
+          "letter": "D",
+          "text": "start",
+          "is_correct": false,
+          "feedback": "Incorrect. \"The morning shift\" is singular, requiring \"starts\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para hablar de horarios fijos (escuela, buses, cine), el tiempo gramatical estándar es el Presente Simple, incluso si nos referimos al futuro cercano.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-8-2026-W01-daily-routines-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W01-daily-routines-001-MASTERY-v7",
+      "statement": "I ________ we should finish the homework before we go out to play.",
+      "context": "Stative verbs in routines.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am thinking",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Think\" as an opinion is a stative verb and rarely used in Continuous."
+        },
+        {
+          "letter": "B",
+          "text": "think",
+          "is_correct": true,
+          "feedback": "Correct! Expressing an opinion is a state, not an action in progress."
+        },
+        {
+          "letter": "C",
+          "text": "thinks",
+          "is_correct": false,
+          "feedback": "Incorrect. \"I\" does not take the -s ending in Present Simple."
+        },
+        {
+          "letter": "D",
+          "text": "thought",
+          "is_correct": false,
+          "feedback": "Incorrect. This is Past Simple, but the context is present advice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Existen \"stative verbs\" (verbos de estado) como *think*, *believe*, *know* o *love* que generalmente no se usan en tiempos continuos cuando expresan una opinión o estado mental.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-8-2026-W01-daily-routines-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W01-daily-routines-001-MASTERY-v8",
+      "statement": "My brother is **always** losing his keys! It's so annoying.\n\nWhat does this sentence imply?",
+      "context": "Understanding the nuance of \"always\" with Present Continuous.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He lost his keys one time today.",
+          "is_correct": false,
+          "feedback": "Incorrect. The sentence describes a repeated behavior."
+        },
+        {
+          "letter": "B",
+          "text": "It is a frequent and irritating habit.",
+          "is_correct": true,
+          "feedback": "Correct! \"Always\" with Continuous often expresses annoyance."
+        },
+        {
+          "letter": "C",
+          "text": "He is looking for his keys at this exact moment.",
+          "is_correct": false,
+          "feedback": "Incorrect. While he might be, the focus is on the recurring habit."
+        },
+        {
+          "letter": "D",
+          "text": "He never loses his keys.",
+          "is_correct": false,
+          "feedback": "Incorrect. The sentence says the exact opposite."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando usamos \"always\" con el Presente Continuo, a menudo no es para describir una acción en progreso, sino para quejarse de un hábito repetitivo que resulta molesto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-8-2026-W01-daily-routines-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W01-daily-routines-001-MASTERY-v9",
+      "statement": "While Maria ________ her lunch, her father ________ a call from work.",
+      "context": "Complex sentence structure.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "eats / takes",
+          "is_correct": false,
+          "feedback": "Incorrect. Usually, \"while\" introduces a continuous action."
+        },
+        {
+          "letter": "B",
+          "text": "is eating / is taking",
+          "is_correct": true,
+          "feedback": "Correct! Two actions happening simultaneously in the present."
+        },
+        {
+          "letter": "C",
+          "text": "is eat / take",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically incorrect verb forms."
+        },
+        {
+          "letter": "D",
+          "text": "eat / taking",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing auxiliary verbs and subject-verb agreement."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"While\" se utiliza frecuentemente para conectar dos acciones que ocurren al mismo tiempo. En este contexto presente, ambas pueden ir en Presente Continuo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-8-2026-W01-daily-routines-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W01-daily-routines-001-MASTERY-v10",
+      "statement": "Identify the error in the following sentence:\n\"Actually, I **am preferring** (A) to walk (B) to school because it **gives** (C) me time **to think** (D).\"",
+      "context": "Correcting errors in a complex routine description.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am preferring",
+          "is_correct": true,
+          "feedback": "Correct! \"Prefer\" is a stative verb and should be in Simple Present: \"I prefer\"."
+        },
+        {
+          "letter": "B",
+          "text": "to walk",
+          "is_correct": false,
+          "feedback": "Incorrect. This infinitive is correctly used after \"prefer\"."
+        },
+        {
+          "letter": "C",
+          "text": "gives",
+          "is_correct": false,
+          "feedback": "Incorrect. \"It\" refers to walking (singular), so \"gives\" is correct."
+        },
+        {
+          "letter": "D",
+          "text": "to think",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a correct infinitive of purpose."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El verbo \"prefer\" expresa un gusto o preferencia, por lo que se considera un verbo de estado (stative verb) y no debe usarse en presente continuo en este contexto.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-8-2026-W01-daily-routines-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W01-daily-routines-001-MASTERY-v11",
+      "statement": "In a formal job interview for a weekend position, which is the most appropriate way to ask about the daily schedule?",
+      "context": "Formal vs. Informal routine inquiry.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "What time do I gotta show up?",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Gotta\" is too informal for an interview."
+        },
+        {
+          "letter": "B",
+          "text": "Could you please tell me what the typical daily responsibilities are?",
+          "is_correct": true,
+          "feedback": "Correct! It is polite, formal, and uses B1 level structures."
+        },
+        {
+          "letter": "C",
+          "text": "When are you starting the work every day?",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically weak and too direct."
+        },
+        {
+          "letter": "D",
+          "text": "Tell me about the routine now.",
+          "is_correct": false,
+          "feedback": "Incorrect. An imperative is too aggressive for an interview."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En contextos formales (nivel B1), se espera que el estudiante use preguntas indirectas o modales de cortesía (\"Could you...\", \"Would you...\") para obtener información.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-8-2026-W01-daily-routines-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W01-daily-routines-001-MASTERY-v12",
+      "statement": "Choose the sentence that best completes the following paragraph:\n\"Many people believe that habits are hard to change. However, scientific research suggests that if you repeat an action every day for 21 days, it becomes automatic. This is why...\"",
+      "context": "Selecting the best conclusion for a paragraph about habits.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "establishing a healthy morning routine is achievable with persistence.",
+          "is_correct": true,
+          "feedback": "Correct! It logically follows the idea of repeating actions to form habits."
+        },
+        {
+          "letter": "B",
+          "text": "we are always changing our minds about what we like to do.",
+          "is_correct": false,
+          "feedback": "Incorrect. This doesn't follow the logic of habit formation."
+        },
+        {
+          "letter": "C",
+          "text": "habits are never going to be part of our daily lives.",
+          "is_correct": false,
+          "feedback": "Incorrect. Contradicts the previous sentence."
+        },
+        {
+          "letter": "D",
+          "text": "science is studying why people are so lazy nowadays.",
+          "is_correct": false,
+          "feedback": "Incorrect. Off-topic and overly judgmental."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Completar un párrafo requiere coherencia y cohesión (nivel B1). El estudiante debe identificar que la persistencia lleva a la formación de rutinas automáticas según el texto previo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-8-2026-W01-daily-routines-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

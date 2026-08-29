@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ingles",
+    "country": "cl",
+    "pack_id": "cl-week-14-grade-11-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.100Z"
+  },
+  "questions": [
+    {
+      "id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-v1",
+      "statement": "An era is a long and distinct period of history with a particular feature or characteristic.",
+      "context": "General historical terms.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "second",
+          "is_correct": false,
+          "feedback": "Incorrect. An era is much longer."
+        },
+        {
+          "letter": "B",
+          "text": "era",
+          "is_correct": true,
+          "feedback": "Correct. An era defines a specific period."
+        },
+        {
+          "letter": "C",
+          "text": "moment",
+          "is_correct": false,
+          "feedback": "Incorrect. A moment is very brief."
+        },
+        {
+          "letter": "D",
+          "text": "flash",
+          "is_correct": false,
+          "feedback": "Incorrect. A flash is instantaneous."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Era' is the standard historical term for a significant period of time.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-v2",
+      "statement": "The Berlin Wall had stood for twenty-eight years before it was finally torn down in 1989.",
+      "context": "Describing a historical sequence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "stood",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple doesn't show the sequence before another past action."
+        },
+        {
+          "letter": "B",
+          "text": "had stood",
+          "is_correct": true,
+          "feedback": "Correct. Past perfect for an action that lasted until a specific point in the past."
+        },
+        {
+          "letter": "C",
+          "text": "has stood",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect is for the present."
+        },
+        {
+          "letter": "D",
+          "text": "will stand",
+          "is_correct": false,
+          "feedback": "Incorrect. Future tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The past perfect 'had stood' indicates that the duration of the wall's existence happened before its fall.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-v3",
+      "statement": "If the peace treaty hadn't been signed, the conflict would have continued for many more years.",
+      "context": "Conditional about a historical event.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wasn't signed",
+          "is_correct": false,
+          "feedback": "Incorrect. Second conditional."
+        },
+        {
+          "letter": "B",
+          "text": "hadn't been signed",
+          "is_correct": true,
+          "feedback": "Correct. Third conditional for hypothetical past condition."
+        },
+        {
+          "letter": "C",
+          "text": "isn't signed",
+          "is_correct": false,
+          "feedback": "Incorrect. Present."
+        },
+        {
+          "letter": "D",
+          "text": "wouldn't be signed",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' not used in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The third conditional is used to imagine an alternative outcome for a historical event.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-v4",
+      "statement": "The Industrial Revolution was a period of transition to new manufacturing processes that began in the 18th century.",
+      "context": "Article about the Industrial Revolution.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "stagnation",
+          "is_correct": false,
+          "feedback": "Incorrect. Stagnation is staying the same."
+        },
+        {
+          "letter": "B",
+          "text": "transition",
+          "is_correct": true,
+          "feedback": "Correct. Transition means the process of changing from one state to another."
+        },
+        {
+          "letter": "C",
+          "text": "tradition",
+          "is_correct": false,
+          "feedback": "Incorrect. It was a break from tradition."
+        },
+        {
+          "letter": "D",
+          "text": "isolation",
+          "is_correct": false,
+          "feedback": "Incorrect. It led to more global connection."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Transition' correctly describes the period of rapid change from manual labor to machine-based manufacturing.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-v5",
+      "statement": "Historians must analyze primary sources carefully to avoid bias and gain a more accurate understanding of the past.",
+      "context": "Discussion on historical interpretation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "stories",
+          "is_correct": false,
+          "feedback": "Incorrect. Primary sources are original accounts, not just 'stories'."
+        },
+        {
+          "letter": "B",
+          "text": "primary sources",
+          "is_correct": true,
+          "feedback": "Correct. Primary sources are immediate, first-hand accounts."
+        },
+        {
+          "letter": "C",
+          "text": "rumors",
+          "is_correct": false,
+          "feedback": "Incorrect. Rumors are not reliable for history."
+        },
+        {
+          "letter": "D",
+          "text": "inventions",
+          "is_correct": false,
+          "feedback": "Incorrect. History deals with facts."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Primary sources' are the essential raw materials of historical research.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-v6",
+      "statement": "An uprising is an act of resistance or rebellion; a revolt.",
+      "context": "Describing a revolution.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "agreement",
+          "is_correct": false,
+          "feedback": "Incorrect. An uprising is a conflict."
+        },
+        {
+          "letter": "B",
+          "text": "uprising",
+          "is_correct": true,
+          "feedback": "Correct. Uprising is a synonym for revolt or rebellion."
+        },
+        {
+          "letter": "C",
+          "text": "celebration",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "silence",
+          "is_correct": false,
+          "feedback": "Incorrect. Resistance is usually active."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Uprising' is a common term for organized resistance against authority.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-v7",
+      "statement": "The effects of the Great Depression were being felt around the world throughout the 1930s.",
+      "context": "Describing a long-term historical impact.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are felt",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "B",
+          "text": "were being felt",
+          "is_correct": true,
+          "feedback": "Correct. Past continuous passive for an ongoing state in the past."
+        },
+        {
+          "letter": "C",
+          "text": "feel",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "D",
+          "text": "have felt",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice and present."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The past continuous passive 'were being felt' emphasizes the ongoing suffering during that decade.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-v8",
+      "statement": "The Cold War was characterized by ideological conflict and a nuclear arms race between the superpowers.",
+      "context": "Text on the \"Cold War\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "peaceful",
+          "is_correct": false,
+          "feedback": "Incorrect. It was a conflict."
+        },
+        {
+          "letter": "B",
+          "text": "ideological",
+          "is_correct": true,
+          "feedback": "Correct. Ideological refers to a system of ideas and ideals."
+        },
+        {
+          "letter": "C",
+          "text": "religious",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "geographical",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Ideological' describes the clash of different political and economic systems.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-v9",
+      "statement": "If the leaders had negotiated more effectively, the war might have been avoided.",
+      "context": "Discussing a missed historical opportunity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Negotiate",
+          "is_correct": false,
+          "feedback": "Incorrect. Base form."
+        },
+        {
+          "letter": "B",
+          "text": "had negotiated",
+          "is_correct": true,
+          "feedback": "Correct. Third conditional for hypothetical past action."
+        },
+        {
+          "letter": "C",
+          "text": "have negotiated",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "were negotiating",
+          "is_correct": false,
+          "feedback": "Incorrect. Past continuous."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The third conditional 'if + past perfect' allows us to speculate about different outcomes in history.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-v10",
+      "statement": "The legacy of colonialism continues to influence the political and economic landscape of many nations today.",
+      "context": "Critique of \"colonialism\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "future",
+          "is_correct": false,
+          "feedback": "Incorrect. Legacy refers to the past."
+        },
+        {
+          "letter": "B",
+          "text": "legacy",
+          "is_correct": true,
+          "feedback": "Correct. A legacy is something handed down from the past."
+        },
+        {
+          "letter": "C",
+          "text": "rumor",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "invention",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Legacy' refers to the long-term consequences and remains of a historical system or event.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-v11",
+      "statement": "An armistice is an agreement made by opposing sides in a war to stop fighting for a certain time; a truce.",
+      "context": "Post-war terminology.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "battle",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "armistice",
+          "is_correct": true,
+          "feedback": "Correct. A formal agreement to stop fighting."
+        },
+        {
+          "letter": "C",
+          "text": "invasion",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "draft",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Armistice' is the formal term for a temporary cessation of hostilities.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-v12",
+      "statement": "Nelson Mandela spent twenty-seven years in prison before he was released in 1990.",
+      "context": "Discussing a historic figure.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "releases",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "B",
+          "text": "was released",
+          "is_correct": true,
+          "feedback": "Correct. Past simple passive for a completed event."
+        },
+        {
+          "letter": "C",
+          "text": "has been released",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "releasing",
+          "is_correct": false,
+          "feedback": "Incorrect. Gerund."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The past simple passive 'was released' describes a specific completed action in the past.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-v13",
+      "statement": "The invention of the printing press catalyzed the spread of information and ideas during the Renaissance.",
+      "context": "Discussing the impact of a discovery.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "catalyzed",
+          "is_correct": true,
+          "feedback": "Correct. To catalyze means to cause or accelerate a reaction."
+        },
+        {
+          "letter": "B",
+          "text": "hindered",
+          "is_correct": false,
+          "feedback": "Incorrect. To hinder means to stop or slow down."
+        },
+        {
+          "letter": "C",
+          "text": "ignored",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "concealed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Catalyzed' is an effective verb to describe how a discovery speeds up a social or cultural process.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-v14",
+      "statement": "If the internet hadn't been created, globalization would have progressed much more slowly.",
+      "context": "Conditional about the invention of the internet.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wasn't created",
+          "is_correct": false,
+          "feedback": "Incorrect. Second conditional."
+        },
+        {
+          "letter": "B",
+          "text": "hadn't been created",
+          "is_correct": true,
+          "feedback": "Correct. Third conditional passive."
+        },
+        {
+          "letter": "C",
+          "text": "isn't created",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "wouldn't be created",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The third conditional passive allows for speculation about the impact of past technological developments.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-v15",
+      "statement": "The author argues that studying history helps us develop a sense of perspective and understand the complexity of human experience.",
+      "context": "Conclusion of an essay on historical empathy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "simplicity",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "perspective",
+          "is_correct": true,
+          "feedback": "Correct. Perspective is a particular way of regarding something."
+        },
+        {
+          "letter": "C",
+          "text": "confusion",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "indifference",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Perspective' refers to the broader understanding gained from seeing events in their historical context.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-v16",
+      "statement": "A treaty is a formally concluded and ratified agreement between countries.",
+      "context": "Describing a treaty.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "rumor",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "treaty",
+          "is_correct": true,
+          "feedback": "Correct. A formal international agreement."
+        },
+        {
+          "letter": "C",
+          "text": "gossip",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "myth",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Treaty' is the specific term for a formal agreement between nations.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-v17",
+      "statement": "Historians stated that the revolution had changed the course of history forever.",
+      "context": "Reporting a historical fact.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has changed",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted in reported speech."
+        },
+        {
+          "letter": "B",
+          "text": "had changed",
+          "is_correct": true,
+          "feedback": "Correct. Backshifted from present perfect to past perfect."
+        },
+        {
+          "letter": "C",
+          "text": "changes",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "D",
+          "text": "will change",
+          "is_correct": false,
+          "feedback": "Incorrect. Future tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, we backshift tenses: 'The revolution has changed...' becomes '...stated that the revolution had changed...'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-v18",
+      "statement": "The suffragettes fought for the right of women to vote in public elections.",
+      "context": "Text about the \"suffragette\" movement.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "drive",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "vote",
+          "is_correct": true,
+          "feedback": "Correct. Suffrage specifically refers to the right to vote."
+        },
+        {
+          "letter": "C",
+          "text": "work",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "travel",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Suffrage' is the specific term for the right to vote in political elections.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-v19",
+      "statement": "The nation had been struggling for independence for years before it finally achieved sovereignty.",
+      "context": "Describing a past struggle for independence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was struggling",
+          "is_correct": false,
+          "feedback": "Incorrect. Past continuous."
+        },
+        {
+          "letter": "B",
+          "text": "had been struggling",
+          "is_correct": true,
+          "feedback": "Correct. Past perfect continuous for duration before a past point."
+        },
+        {
+          "letter": "C",
+          "text": "has been struggling",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect continuous."
+        },
+        {
+          "letter": "D",
+          "text": "struggles",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The past perfect continuous describes a continuous effort that led up to a specific historical turning point.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-v20",
+      "statement": "By understanding the mistakes of the past, we are better equipped to build a more just and peaceful future.",
+      "context": "Final thought on the value of history.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "equipped",
+          "is_correct": true,
+          "feedback": "Correct. Equipped means provided with what is needed."
+        },
+        {
+          "letter": "B",
+          "text": "confused",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "ignored",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "delayed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Equipped' metaphorically describes being mentally or intellectually prepared for the challenges of the future.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

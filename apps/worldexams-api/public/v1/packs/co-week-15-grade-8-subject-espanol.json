@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-15-grade-8-subject-lengua",
+    "generated_at": "2026-06-18T23:58:37.588Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle-v1",
+      "statement": "¿Quién es el escritor francés considerado el fundador y máximo teórico del Naturalismo con su obra \"La novela experimental\"?",
+      "context": "El Naturalismo es una corriente literaria que surgió en la segunda mitad del siglo XIX, llevando al extremo los principios del Realismo.\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gustave Flaubert",
+          "is_correct": false,
+          "feedback": "Flaubert es un maestro del Realismo, pero no el teórico del Naturalismo."
+        },
+        {
+          "letter": "B",
+          "text": "Émile Zola",
+          "is_correct": true,
+          "feedback": "Zola propuso que el novelista debía actuar como un científico que estudia el comportamiento humano."
+        },
+        {
+          "letter": "C",
+          "text": "Víctor Hugo",
+          "is_correct": false,
+          "feedback": "Víctor Hugo es el gran representante del Romanticismo francés."
+        },
+        {
+          "letter": "D",
+          "text": "Honoré de Balzac",
+          "is_correct": false,
+          "feedback": "Balzac es el precursor del Realismo con su \"Comedia Humana\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Émile Zola definió el Naturalismo como la aplicación del método científico de la experimentación a la creación literaria.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el concepto fundamental del Naturalismo que sostiene que el destino de las personas está determinado por su herencia biológica y su entorno social?",
+      "context": "El Naturalismo se basa en la idea de que el ser humano está condicionado por factores que no puede controlar.\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Libre albedrío",
+          "is_correct": false,
+          "feedback": "El libre albedrío es la capacidad de elegir, algo que el Naturalismo cuestiona."
+        },
+        {
+          "letter": "B",
+          "text": "Determinismo",
+          "is_correct": true,
+          "feedback": "Según esta idea, las circunstancias de nacimiento y el medio ambiente anulan la libertad individual."
+        },
+        {
+          "letter": "C",
+          "text": "Surrealismo",
+          "is_correct": false,
+          "feedback": "El surrealismo se centra en los sueños e impulsos irracionales, no en leyes científicas."
+        },
+        {
+          "letter": "D",
+          "text": "Idealismo",
+          "is_correct": false,
+          "feedback": "El idealismo busca la perfección y la belleza, lo opuesto a la crudeza naturalista."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El determinismo es la base filosófica del Naturalismo, explicando la conducta humana mediante leyes de la herencia y la sociología.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle-v3",
+      "statement": "¿Qué tipo de ambientes y realidades prefiere mostrar la literatura naturalista para demostrar sus teorías sobre la conducta humana?",
+      "context": "Los temas del Naturalismo suelen ser más crudos y desagradables que los del Realismo convencional.\n**Expected_Success:** 0.82",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Palacios lujosos y fiestas de la alta sociedad.",
+          "is_correct": false,
+          "feedback": "Estos escenarios son más propios de la novela realista burguesa."
+        },
+        {
+          "letter": "B",
+          "text": "Ambientes marginales, miseria, alcoholismo y enfermedades.",
+          "is_correct": true,
+          "feedback": "Se busca analizar la realidad en sus condiciones más extremas y difíciles."
+        },
+        {
+          "letter": "C",
+          "text": "Paisajes exóticos en islas desiertas y selvas vírgenes.",
+          "is_correct": false,
+          "feedback": "El Naturalismo se centra en la sociedad industrial y urbana."
+        },
+        {
+          "letter": "D",
+          "text": "Sueños e imágenes fantásticas del subconsciente.",
+          "is_correct": false,
+          "feedback": "Esto es propio de movimientos vanguardistas posteriores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Naturalismo pone el foco en los aspectos más sórdidos de la realidad para denunciar las condiciones que degradan al ser humano.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la función del autor dentro de una novela naturalista según la teoría de Émile Zola?",
+      "context": "El Naturalismo aplica el método científico a la literatura. El autor es como un médico que realiza una autopsia social.\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entretener al lector con historias divertidas y finales felices.",
+          "is_correct": false,
+          "feedback": "El Naturalismo no busca el entretenimiento ligero, sino el análisis crítico."
+        },
+        {
+          "letter": "B",
+          "text": "Opinar constantemente sobre lo que está bien y lo que está mal.",
+          "is_correct": false,
+          "feedback": "Se busca la objetividad impersonal, dejando que los hechos hablen solos."
+        },
+        {
+          "letter": "C",
+          "text": "Observar y registrar los hechos de forma objetiva, sin juzgar moralmente a los personajes.",
+          "is_correct": true,
+          "feedback": "El autor es un observador imparcial que analiza causas y efectos."
+        },
+        {
+          "letter": "D",
+          "text": "Escribir poemas líricos sobre la belleza de la naturaleza salvaje.",
+          "is_correct": false,
+          "feedback": "El Naturalismo prefiere la prosa narrativa y temas sociales crudos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La impersonalidad narrativa busca que el relato parezca un documento científico de la realidad, eliminando la voz subjetiva del autor.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle-v5",
+      "statement": "Si en una novela naturalista se describe que un joven es alcohólico porque su padre y su abuelo lo fueron, ¿qué ley se está intentando demostrar?",
+      "context": "La herencia genética es un factor clave en el desarrollo de los personajes naturalistas.\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la suerte es el factor más importante en la vida de los hombres.",
+          "is_correct": false,
+          "feedback": "No es suerte, es una ley biológica predecible según el autor."
+        },
+        {
+          "letter": "B",
+          "text": "Que la voluntad del joven es débil y no quiere esforzarse.",
+          "is_correct": false,
+          "feedback": "El Naturalismo minimiza la importancia de la voluntad frente a la herencia."
+        },
+        {
+          "letter": "C",
+          "text": "La herencia biológica como un factor determinante e inevitable de la conducta.",
+          "is_correct": true,
+          "feedback": "Los vicios o virtudes se transmiten a través de la sangre según esta visión."
+        },
+        {
+          "letter": "D",
+          "text": "Que beber alcohol era la única actividad divertida en el siglo XIX.",
+          "is_correct": false,
+          "feedback": "El alcoholismo se presenta como una patología social y biológica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La herencia funciona en el Naturalismo como una \"maldición\" biológica que encadena al individuo a los errores de sus antepasados.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál fue la principal adaptación que hizo Emilia Pardo Bazán del Naturalismo francés para que fuera aceptado en la sociedad católica española?",
+      "context": "Emilia Pardo Bazán fue la introductora del Naturalismo en España con sus artículos \"La cuestión palpitante\" y su novela \"Los pazos de Ulloa\".\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eliminar todas las descripciones de pobreza y suciedad.",
+          "is_correct": false,
+          "feedback": "Sus novelas son muy realistas y crudas en sus descripciones."
+        },
+        {
+          "letter": "B",
+          "text": "Rechazar el determinismo absoluto y defender que el ser humano siempre conserva su libre albedrío.",
+          "is_correct": true,
+          "feedback": "Concilia la ciencia con la fe católica, negando que el hombre sea solo materia."
+        },
+        {
+          "letter": "C",
+          "text": "Escribir las novelas en verso en lugar de en prosa.",
+          "is_correct": false,
+          "feedback": "Siguió usando la novela como el género naturalista por excelencia."
+        },
+        {
+          "letter": "D",
+          "text": "Decir que el Naturalismo era en realidad un invento español antiguo.",
+          "is_correct": false,
+          "feedback": "Reconoció su origen francés pero propuso una versión propia y moderada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El naturalismo español (o naturalismo cristiano) suavizó el materialismo de Zola, manteniendo la capacidad de elección moral del individuo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué los críticos de la época acusaron al Naturalismo de ser una literatura \"asquerosa\" o \"de alcantarilla\"?",
+      "context": "El Naturalismo presta mucha atención a la fisiología humana y a las funciones básicas del cuerpo.\n**Expected_Success:** 0.62",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los libros olían mal debido a la mala calidad del papel.",
+          "is_correct": false,
+          "feedback": "Es una crítica metafórica sobre el contenido, no física sobre el objeto."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los autores escribían sus obras dentro de los túneles del metro.",
+          "is_correct": false,
+          "feedback": "No se refiere al lugar de escritura, sino a la temática marginal."
+        },
+        {
+          "letter": "C",
+          "text": "Por su insistencia en describir los aspectos más crudos, feos y animales del ser humano.",
+          "is_correct": true,
+          "feedback": "La descripción de enfermedades y vicios rompía con el decoro tradicional de la literatura."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los personajes siempre estaban limpiando sus casas con mucha agua.",
+          "is_correct": false,
+          "feedback": "Al contrario, solían describir ambientes sucios y descuidados."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La crudeza descriptiva del Naturalismo buscaba la verdad científica, pero fue interpretada como falta de gusto o morbosidad por los sectores tradicionales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle-v8",
+      "statement": "¿Qué objetivo político y social perseguía el Naturalismo al mostrar las terribles condiciones de vida del proletariado industrial?",
+      "context": "En la novela naturalista \"Germinal\" de Zola, se describe la vida de los mineros y sus luchas sociales.\n**Expected_Success:** 0.58",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convencer a los mineros de que debían trabajar más horas para ser felices.",
+          "is_correct": false,
+          "feedback": "La obra muestra que el trabajo excesivo en esas condiciones es deshumanizador."
+        },
+        {
+          "letter": "B",
+          "text": "Demostrar que los dueños de las fábricas eran siempre personas santas.",
+          "is_correct": false,
+          "feedback": "Critica duramente la explotación y la desigualdad social."
+        },
+        {
+          "letter": "C",
+          "text": "Denunciar las injusticias del sistema y provocar una reflexión sobre la necesidad de cambios sociales profundos.",
+          "is_correct": true,
+          "feedback": "El naturalismo tiene una fuerte carga de denuncia social y política."
+        },
+        {
+          "letter": "D",
+          "text": "Enseñar a los lectores técnicas de minería seguras para evitar accidentes.",
+          "is_correct": false,
+          "feedback": "No es un manual técnico, sino una obra de arte con compromiso social."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Naturalismo es el arte de la conciencia social de finales del siglo XIX, visibilizando los conflictos de clase generados por la Revolución Industrial.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle-v9",
+      "statement": "Si en una novela naturalista se describe a un hombre peleando por comida \"como un lobo hambriento, con los instintos dominando su razón\", ¿qué visión del ser humano se está transmitiendo?",
+      "context": "El Naturalismo utiliza a menudo la técnica de la \"animalización\" de los personajes.\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el hombre puede transformarse en animal mediante la magia.",
+          "is_correct": false,
+          "feedback": "El Naturalismo es realista, no usa elementos fantásticos."
+        },
+        {
+          "letter": "B",
+          "text": "Que los lobos son animales muy inteligentes y parecidos a nosotros.",
+          "is_correct": false,
+          "feedback": "La comparación busca degradar al hombre a su estado puramente biológico."
+        },
+        {
+          "letter": "C",
+          "text": "Que bajo condiciones extremas, la cultura desaparece y el hombre queda reducido a sus impulsos biológicos.",
+          "is_correct": true,
+          "feedback": "Es la visión materialista del ser humano como un organismo regido por instintos."
+        },
+        {
+          "letter": "D",
+          "text": "Que es muy importante alimentar bien a las mascotas para que no sean agresivas.",
+          "is_correct": false,
+          "feedback": "La metáfora se aplica a la condición humana en la miseria."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La animalización subraya el pesimismo naturalista: el hombre no es un ser espiritual superior, sino un animal más sometido a las leyes de la naturaleza.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la diferencia entre el campo idealizado del Renacimiento y el campo naturalista de Blasco Ibáñez?",
+      "context": "Blasco Ibáñez, en sus novelas valencianas como \"La barraca\", aplicó el Naturalismo a la realidad del campo español.\n**Expected_Success:** 0.52",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el Renacimiento el campo era feo y en el Naturalismo es muy bonito.",
+          "is_correct": false,
+          "feedback": "Es exactamente al revés."
+        },
+        {
+          "letter": "B",
+          "text": "En el Renacimiento los pastores eran pobres y en el Naturalismo son todos ricos.",
+          "is_correct": false,
+          "feedback": "En el Naturalismo se muestra la pobreza real y la lucha por la tierra."
+        },
+        {
+          "letter": "C",
+          "text": "El Renacimiento muestra una naturaleza armoniosa; el Naturalismo muestra una naturaleza hostil y un trabajo campesino agotador y brutal.",
+          "is_correct": true,
+          "feedback": "El campo naturalista es un lugar de lucha, sudor y conflictos sociales violentos."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia, el campo siempre se ha descrito igual en la literatura.",
+          "is_correct": false,
+          "feedback": "Cada movimiento literario proyecta una visión distinta sobre la naturaleza."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La visión naturalista del campo elimina cualquier rastro de nostalgia pastoril para centrarse en la lucha por la supervivencia y la propiedad.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.52,
+      "bundle_id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle-v11",
+      "statement": "¿De qué manera las descripciones hiperrealistas del Naturalismo anticiparon el lenguaje del cine que nacería pocos años después?",
+      "context": "Algunos críticos modernos sostienen que el Naturalismo fue la \"primera literatura multimedia\" por su obsesión con el detalle sensorial y visual.\n**Expected_Success:** 0.45",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los autores regalaban entradas para el cine con cada libro.",
+          "is_correct": false,
+          "feedback": "El cine apenas estaba naciendo y era una curiosidad técnica."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las novelas naturalistas eran muy cortas, como los primeros vídeos.",
+          "is_correct": false,
+          "feedback": "Eran novelas muy extensas y densas."
+        },
+        {
+          "letter": "C",
+          "text": "Mediante el uso de \"planos\" descriptivos, atención a la luz y una mirada casi mecánica sobre la realidad.",
+          "is_correct": true,
+          "feedback": "La minuciosidad descriptiva preparó al lector para la narrativa visual de la cámara."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los personajes hablaban poco para que se pudiera ver bien la acción.",
+          "is_correct": false,
+          "feedback": "Los diálogos eran extensos, pero la fuerza residía en la ambientación visual detallada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La estética naturalista buscaba una precisión tal que la palabra casi se convertía en imagen, influyendo profundamente en el posterior realismo cinematográfico.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle-v12",
+      "statement": "Si el determinismo es total, ¿qué valor tiene la lucha de los personajes naturalistas por mejorar su vida?",
+      "context": "El Naturalismo ha sido criticado por ser excesivamente pesimista, eliminando la esperanza de cambio personal.\n**Expected_Success:** 0.42",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiene un gran valor porque siempre logran vencer al destino al final.",
+          "is_correct": false,
+          "feedback": "En el Naturalismo puro, el destino suele ser trágico e inevitable."
+        },
+        {
+          "letter": "B",
+          "text": "Ningún valor, por eso las novelas naturalistas no tienen protagonistas.",
+          "is_correct": false,
+          "feedback": "Tienen protagonistas, pero su lucha es contra fuerzas superiores."
+        },
+        {
+          "letter": "C",
+          "text": "Un valor trágico: la lucha resalta la injusticia de un sistema y de unas leyes que aplastan al individuo a pesar de su esfuerzo.",
+          "is_correct": true,
+          "feedback": "La tragedia reside en la imposibilidad de escapar de la \"trampa\" biológica y social."
+        },
+        {
+          "letter": "D",
+          "text": "Significa que los personajes son tontos por no saber que el determinismo existe.",
+          "is_correct": false,
+          "feedback": "Los personajes actúan según su naturaleza, no según teorías literarias."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El pesimismo naturalista no es gratuito; busca sacudir al lector mostrando la inevitabilidad del fracaso bajo ciertas condiciones sociales, impulsando así el deseo de cambio externo (político).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.42,
+      "bundle_id": "CO-LEN-8-2026-W15-literatura-naturalismo-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pa",
+    "pack_id": "pa-week-7-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:39.061Z"
+  },
+  "questions": [
+    {
+      "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v1",
+      "statement": "¿Qué representa gráficamente la solución de un sistema de dos ecuaciones lineales con dos incógnitas?",
+      "context": "Un estudiante en un bachillerato en David repasa los conceptos básicos de los sistemas de ecuaciones lineales 2x2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La suma de las áreas bajo las rectas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El área no define la solución de un sistema de ecuaciones lineales."
+        },
+        {
+          "letter": "B",
+          "text": "El punto de intersección de las dos rectas",
+          "is_correct": true,
+          "feedback": "Correcto. La solución de un sistema es el conjunto de valores que satisface ambas ecuaciones, lo cual corresponde al punto común."
+        },
+        {
+          "letter": "C",
+          "text": "El valor de la pendiente de la primera recta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente indica la inclinación, no el punto común entre las dos funciones."
+        },
+        {
+          "letter": "D",
+          "text": "El intercepto con el eje y de la segunda recta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este punto pertenece solo a una de las rectas en la mayoría de los casos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprensión geométrica de la solución de un sistema de ecuaciones lineales 2x2.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el nombre del método que consiste en despejar una incógnita en una ecuación y sustituir su expresión en la otra?",
+      "context": "En una clase de matemáticas en la Ciudad de Panamá, se explican los diferentes métodos algebraicos de resolución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Método de Reducción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este método busca eliminar una variable sumando o restando las dos igualdades originales."
+        },
+        {
+          "letter": "B",
+          "text": "Método de Igualación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este método consiste en despejar la misma incógnita en ambas igualdades."
+        },
+        {
+          "letter": "C",
+          "text": "Método de Sustitución",
+          "is_correct": true,
+          "feedback": "Correcto. Tal como indica su nombre, se sustituye el valor despejado en la ecuación restante."
+        },
+        {
+          "letter": "D",
+          "text": "Método de Cramer",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este método utiliza determinantes y matrices para hallar los valores de las incógnitas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificación de los métodos clásicos de resolución de sistemas de ecuaciones lineales.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v3",
+      "statement": "Si las rectas que representan un sistema de ecuaciones son paralelas y distintas, ¿cuántas soluciones posee el sistema?",
+      "context": "Un analista en Colón observa el comportamiento de dos rutas de transporte que no poseen puntos comunes en el mapa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una solución única",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto solo ocurre si las rectas se intersecan en exactamente un punto."
+        },
+        {
+          "letter": "B",
+          "text": "Ninguna solución",
+          "is_correct": true,
+          "feedback": "Correcto. Si las rectas son paralelas y no coinciden, nunca se cruzan, por lo que no hay solución."
+        },
+        {
+          "letter": "C",
+          "text": "Infinitas soluciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurriría si las rectas fueran coincidentes (la misma línea)."
+        },
+        {
+          "letter": "D",
+          "text": "Dos soluciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dos líneas rectas distintas en el plano no pueden cruzarse en más de un punto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Clasificación de sistemas de ecuaciones lineales incompatibles o inconsistentes.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v4",
+      "statement": "¿Es el par (x=2, y=3) una solución para el sistema: x + y = 5 y 2x - y = 1?",
+      "context": "Un comerciante en Santiago desea verificar si un par de valores satisface su registro diario de ventas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, es la solución correcta",
+          "is_correct": true,
+          "feedback": "Correcto. Sustituyendo: 2+3=5 y 2(2)-3=1. Ambas igualdades se cumplen plenamente."
+        },
+        {
+          "letter": "B",
+          "text": "No, solo satisface la primera",
+          "is_correct": false,
+          "feedback": "Incorrecto. También satisface la segunda ecuación del sistema planteado."
+        },
+        {
+          "letter": "C",
+          "text": "No, solo satisface la segunda",
+          "is_correct": false,
+          "feedback": "Incorrecto. También satisface la primera ecuación del sistema planteado."
+        },
+        {
+          "letter": "D",
+          "text": "No satisface ninguna",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas igualdades numéricas resultan ser verdaderas con estos valores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Verificación de soluciones en sistemas de ecuaciones lineales mediante la sustitución directa de pares ordenados.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v5",
+      "statement": "En el sistema: 3x + y = 7 y 2x - 3y = 1, ¿por qué número conviene multiplicar la primera ecuación para eliminar la variable y?",
+      "context": "Un estudiante en Penonomé está resolviendo un sistema por reducción y debe elegir un multiplicador adecuado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por el número 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ayudaría a igualar los coeficientes de la variable x, pero no los de y."
+        },
+        {
+          "letter": "B",
+          "text": "Por el número -3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto daría términos negativos de y que no se cancelarían al sumarse."
+        },
+        {
+          "letter": "C",
+          "text": "Por el número 3",
+          "is_correct": true,
+          "feedback": "Correcto. Al multiplicar por 3 obtenemos +3y, que se anula con el -3y de la segunda ecuación."
+        },
+        {
+          "letter": "D",
+          "text": "Por el número 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mantener los coeficientes originales no permite la eliminación directa de la variable."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprensión de la estrategia de eliminación en el método de reducción para sistemas lineales 2x2.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v6",
+      "statement": "Resuelve por sustitución: y = 2x y x + y = 15. ¿Cuál es el valor de la incógnita x?",
+      "context": "Un artesano vende sombreros y carteras en Los Santos. Utiliza un sistema para determinar sus ventas individuales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor de la variable dependiente y tras realizar el cálculo final."
+        },
+        {
+          "letter": "B",
+          "text": "x = 5",
+          "is_correct": true,
+          "feedback": "Correcto. Sustituyendo y: x + 2x = 15, entonces 3x = 15 y el resultado es x = 5."
+        },
+        {
+          "letter": "C",
+          "text": "x = 7.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al sumar los términos que contienen a la variable x."
+        },
+        {
+          "letter": "D",
+          "text": "x = 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la división final tras haber realizado la sustitución de la variable."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de un sistema de ecuaciones lineales 2x2 mediante el método de sustitución directa.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v7",
+      "statement": "Halla la solución del sistema mediante reducción: x + y = 10 y x - y = 4.",
+      "context": "Un técnico en refrigeración en Chitré necesita encontrar el equilibrio entre dos flujos representados linealmente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 7, y = 3",
+          "is_correct": true,
+          "feedback": "Correcto. Sumando: 2x = 14, por lo que x=7. Sustituyendo: 7+y=10, por lo que y=3."
+        },
+        {
+          "letter": "B",
+          "text": "x = 6, y = 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia de estos valores no iguala a la constante 4 de la segunda ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "x = 5, y = 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia daría cero, no cumpliendo la condición de la resta del sistema."
+        },
+        {
+          "letter": "D",
+          "text": "x = 8, y = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. La resta de estos valores daría 6 en lugar de la constante 4 solicitada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicación del método de reducción en sistemas de ecuaciones lineales de estructura simple.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v8",
+      "statement": "Encuentra los valores de x e y en el sistema: 2x + y = 8 y x + y = 5.",
+      "context": "Un agricultor en Boquete plantea un sistema para calcular la cantidad de sacos de café de diferentes variedades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 2, y = 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al sustituir en la primera ecuación se obtiene un valor de 7 en lugar de 8."
+        },
+        {
+          "letter": "B",
+          "text": "x = 3, y = 2",
+          "is_correct": true,
+          "feedback": "Correcto. Restando las ecuaciones se obtiene x=3. Luego 3+y=5, lo que resulta en y=2."
+        },
+        {
+          "letter": "C",
+          "text": "x = 4, y = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al sustituir en la segunda ecuación no se alcanza la suma constante de 5."
+        },
+        {
+          "letter": "D",
+          "text": "x = 1, y = 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se cumple la igualdad de los términos en la primera ecuación del sistema."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de sistemas de ecuaciones lineales 2x2 mediante la resta de ecuaciones.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v9",
+      "statement": "Resuelve por igualación: x = 3y - 1 y x = y + 5. ¿Cuál es el par de valores?",
+      "context": "Un analista logístico en el Canal de Panamá calcula el tránsito de buques usando el método de igualación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 3, y = 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se intercambiaron los valores de las variables en el resultado final."
+        },
+        {
+          "letter": "B",
+          "text": "x = 8, y = 3",
+          "is_correct": true,
+          "feedback": "Correcto. 3y-1 = y+5 implica 2y=6, por lo que y=3. Entonces x = 3+5 = 8."
+        },
+        {
+          "letter": "C",
+          "text": "x = 2, y = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la segunda ecuación de igualdad del sistema lineal."
+        },
+        {
+          "letter": "D",
+          "text": "x = 5, y = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se mantiene la igualdad en ninguna de las dos expresiones dadas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de sistemas de ecuaciones lineales 2x2 mediante el método de igualación de variables.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v10",
+      "statement": "Resuelve el sistema: 3x + 2y = 12 y 5x - 2y = 4.",
+      "context": "Un estudiante en Aguadulce resuelve un problema de mezclas químicas usando un sistema de dos variables.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 2, y = 3",
+          "is_correct": true,
+          "feedback": "Correcto. Sumando queda 8x=16, por lo que x=2. Luego 3(2)+2y=12 da y=3."
+        },
+        {
+          "letter": "B",
+          "text": "x = 3, y = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al sustituir en la segunda ecuación no se obtiene el valor constante 4."
+        },
+        {
+          "letter": "C",
+          "text": "x = 4, y = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La resta de los términos en la segunda ecuación daría 20 en lugar de 4."
+        },
+        {
+          "letter": "D",
+          "text": "x = 1, y = 4.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la segunda condición de igualdad del sistema planteado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ejecución del método de reducción en sistemas donde una variable posee coeficientes opuestos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v11",
+      "statement": "Resuelve el sistema: x/2 + y = 4 y x - y = 2.",
+      "context": "Un economista en Panamá analiza el mercado y plantea un sistema que involucra una fracción simple.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 2, y = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la primera ecuación de igualdad del sistema fraccionario."
+        },
+        {
+          "letter": "B",
+          "text": "x = 4, y = 2",
+          "is_correct": true,
+          "feedback": "Correcto. De la segunda y=x-2. Sustituyendo: x/2 + x - 2 = 4 da 1.5x=6, por lo que x=4."
+        },
+        {
+          "letter": "C",
+          "text": "x = 6, y = 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al evaluar en la primera ecuación se obtiene un valor de 7 en lugar de 4."
+        },
+        {
+          "letter": "D",
+          "text": "x = 5, y = 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al operar con los términos fraccionarios durante el proceso de despeje."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de sistemas de ecuaciones lineales que contienen términos con coeficientes fraccionarios.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v12",
+      "statement": "¿Qué tipo de sistema representan las ecuaciones 2x - y = 5 y -4x + 2y = -10?",
+      "context": "Un arquitecto en la Ciudad del Saber evalúa la consistencia de dos planos lineales paralelos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sistema Compatible Determinado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las rectas no se cruzan en un único punto debido a su proporcionalidad."
+        },
+        {
+          "letter": "B",
+          "text": "Sistema Incompatible",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las ecuaciones no son solo paralelas sino que representan exactamente la misma línea."
+        },
+        {
+          "letter": "C",
+          "text": "Sistema Compatible Indeterminado",
+          "is_correct": true,
+          "feedback": "Correcto. La segunda ecuación es la primera multiplicada por -2; hay infinitas soluciones."
+        },
+        {
+          "letter": "D",
+          "text": "Sistema No Lineal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas expresiones matemáticas corresponden a funciones de primer grado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Análisis de la dependencia lineal y clasificación de sistemas de ecuaciones (infinitas soluciones).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v13",
+      "statement": "Halla la solución del sistema: x + y = 100 y 0.2x + 0.5y = 35.",
+      "context": "Un farmacéutico en Panamá mezcla dos soluciones para obtener una concentración usando un sistema decimal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 70, y = 30",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cálculo de los porcentajes no coincide con el valor total de 35."
+        },
+        {
+          "letter": "B",
+          "text": "x = 50, y = 50",
+          "is_correct": true,
+          "feedback": "Correcto. 0.2(50) + 0.5(50) = 10 + 25 = 35. Además la suma total es 100."
+        },
+        {
+          "letter": "C",
+          "text": "x = 40, y = 60",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resultado ponderado de estas cantidades superaría el valor de 35."
+        },
+        {
+          "letter": "D",
+          "text": "x = 60, y = 40",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resultado ponderado de estas cantidades sería inferior al valor de 35."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de sistemas de ecuaciones aplicados a problemas de mezclas con coeficientes decimales.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es el valor del determinante principal del sistema: 4x + 3y = 11 y 2x - 5y = -1?",
+      "context": "Un ingeniero de tránsito cerca del Puente de las Américas utiliza determinantes para flujos vehiculares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al operar con los signos de los productos de la matriz de coeficientes."
+        },
+        {
+          "letter": "B",
+          "text": "-26",
+          "is_correct": true,
+          "feedback": "Correcto. El determinante se calcula como (4*-5) - (2*3) = -20 - 6 = -26."
+        },
+        {
+          "letter": "C",
+          "text": "-14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo aritmético en la multiplicación de los elementos diagonales."
+        },
+        {
+          "letter": "D",
+          "text": "26",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió la aplicación de los signos negativos en el resultado final."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cálculo del determinante de la matriz de coeficientes en un sistema de ecuaciones lineales 2x2.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v15",
+      "statement": "En el sistema x + y + z = 6, y = 2 y z = 3, ¿cuál es el valor de x?",
+      "context": "En un problema de olimpiada matemática se plantea un sistema con tres incógnitas mediante sustitución simple.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 1",
+          "is_correct": true,
+          "feedback": "Correcto. Sustituyendo los valores conocidos: x + 2 + 3 = 6, por lo que x + 5 = 6 y x = 1."
+        },
+        {
+          "letter": "B",
+          "text": "x = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de las tres variables excedería el valor constante de 6."
+        },
+        {
+          "letter": "C",
+          "text": "x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de las tres variables sería inferior al valor constante de 6."
+        },
+        {
+          "letter": "D",
+          "text": "x = -1",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se cumple la igualdad numérica de la primera ecuación del sistema."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Resolución de sistemas de ecuaciones lineales mediante el proceso de sustitución progresiva de variables.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v16",
+      "statement": "Halla el valor de x en el sistema: 3x - 4y = 13 y 2x + 3y = -14.",
+      "context": "Un arqueólogo en Panamá Viejo modela hallazgos usando un sistema 2x2 con coeficientes variados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al sustituir este valor no se cumplen las igualdades de ninguna de las ecuaciones."
+        },
+        {
+          "letter": "B",
+          "text": "x = -1",
+          "is_correct": true,
+          "feedback": "Correcto. Multiplicando la 1ra por 3 y 2da por 4: 9x-12y=39 y 8x+12y=-56. Sumando: 17x=-17, por lo que x=-1."
+        },
+        {
+          "letter": "C",
+          "text": "x = 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor produciría resultados numéricos alejados de las constantes dadas."
+        },
+        {
+          "letter": "D",
+          "text": "x = -3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo en la fase de eliminación o suma de las ecuaciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de sistemas de ecuaciones lineales mediante el método de reducción con doble multiplicación.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v17",
+      "statement": "¿Para qué valor de k el sistema kx + 2y = 10 y 3x + y = 5 posee infinitas soluciones?",
+      "context": "Un científico ambiental analiza el equilibrio de gases mediante condiciones paramétricas en un sistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "k = 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con este valor las rectas poseen pendientes distintas y una única solución común."
+        },
+        {
+          "letter": "B",
+          "text": "k = 6",
+          "is_correct": true,
+          "feedback": "Correcto. Para soluciones infinitas los coeficientes deben ser proporcionales (6/3 = 2/1 = 10/5)."
+        },
+        {
+          "letter": "C",
+          "text": "k = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se cumple la condición de proporcionalidad necesaria para la coincidencia de rectas."
+        },
+        {
+          "letter": "D",
+          "text": "No existe valor de k",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor de k=6 satisface plenamente el requisito de dependencia lineal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis de parámetros en sistemas de ecuaciones lineales para determinar la naturaleza de las soluciones.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v18",
+      "statement": "En un sistema 3x3, si x + y = 5, y + z = 7 y x + z = 8, ¿cuál es el valor de la suma total x + y + z?",
+      "context": "Un experto en finanzas resuelve un sistema 3x3 para determinar inversiones en diferentes fondos bancarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la suma de los resultados parciales sin considerar la duplicidad de las variables."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": true,
+          "feedback": "Correcto. Sumando las tres: 2(x+y+z) = 20. Al dividir entre dos se obtiene el valor de 10."
+        },
+        {
+          "letter": "C",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al interpretar la estructura simétrica del sistema de ecuaciones dado."
+        },
+        {
+          "letter": "D",
+          "text": "10.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo aritmético simple durante el proceso de reducción de la suma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución estratégica de sistemas de ecuaciones lineales de orden superior mediante manipulación de sumas globales.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v19",
+      "statement": "Halla la solución x para el sistema 3x3: x+y+z=6, x-y+z=2 y 2x+y-z=1.",
+      "context": "Reto de alta complejidad sobre la intersección de tres planos en el espacio para ingeniería.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al sustituir este valor no se alcanza la consistencia con el resto de las variables."
+        },
+        {
+          "letter": "B",
+          "text": "x = 1",
+          "is_correct": true,
+          "feedback": "Correcto. Reduciendo: 2x+2z=8 y 2y=4 (y=2). Sustituyendo y=2 da 2x-z=-1. Resolviendo x+z=4 y 2x-z=-1 da x=1."
+        },
+        {
+          "letter": "C",
+          "text": "x = 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor no satisface el conjunto de igualdades lineales simultáneas planteado."
+        },
+        {
+          "letter": "D",
+          "text": "x = 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor obtenido por una interpretación errónea de los pasos de eliminación de Gauss."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de sistemas de ecuaciones lineales 3x3 mediante los métodos de reducción y sustitución.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle-v20",
+      "statement": "Determina el valor de x en el sistema: 2/x + 3/y = 2 y 4/x - 9/y = -1.",
+      "context": "Un criptógrafo analiza la seguridad basada en un sistema que requiere un cambio de variable racional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al sustituir este valor en las expresiones racionales no se obtiene la igualdad."
+        },
+        {
+          "letter": "B",
+          "text": "x = 2",
+          "is_correct": true,
+          "feedback": "Correcto. Sea u=1/x. Resolviendo 2u+3v=2 y 4u-9v=-1 se obtiene u=0.5, por lo que x=1/0.5=2."
+        },
+        {
+          "letter": "C",
+          "text": "x = 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor resultante para la variable u sería diferente al necesario para el sistema."
+        },
+        {
+          "letter": "D",
+          "text": "x = 0.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confusión entre el valor de la variable auxiliar u y el valor de la incógnita x."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de sistemas de ecuaciones con incógnitas en el denominador mediante cambio de variable.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación |\n| --- | --- |\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "PA-MAT-11-2026-W07-sistemas-ecuaciones-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-2-grade-7-subject-lengua",
+    "generated_at": "2026-06-18T23:58:37.523Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de los siguientes elementos es el responsable de contar la historia y organizar los hechos en el género narrativo?",
+      "context": "En la clase de Lengua del Colegio San Bartolomé en Bogotá, los estudiantes discuten sobre los elementos que componen una historia.\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El autor real",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor es la persona real que escribe, pero el que cuenta la historia dentro del texto es el narrador."
+        },
+        {
+          "letter": "B",
+          "text": "El narrador",
+          "is_correct": true,
+          "feedback": "¡Correcto! El narrador es la voz ficticia creada por el autor para relatar los acontecimientos de la obra."
+        },
+        {
+          "letter": "C",
+          "text": "El protagonista",
+          "is_correct": false,
+          "feedback": "Incorrecto. El protagonista realiza las acciones, pero no siempre es quien cuenta la historia."
+        },
+        {
+          "letter": "D",
+          "text": "El público",
+          "is_correct": false,
+          "feedback": "Incorrecto. El público es quien recibe la obra, no quien la narra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El narrador es un elemento interno fundamental del texto narrativo. Puede estar en primera persona (si participa en los hechos) o en tercera persona (si observa desde fuera). Es distinto del autor, quien es el ser humano real fuera de la ficción.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia fundamental en la estructura entre el cuento y la novela?",
+      "context": "Un grupo de estudiantes en Medellín compara el \"Cuento de los tres hermanos\" con la novela \"La Vorágine\".\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cuento siempre es real y la novela siempre es fantástica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos pueden ser reales o fantásticos; la diferencia es de extensión y complejidad."
+        },
+        {
+          "letter": "B",
+          "text": "El cuento es breve y tiene una sola trama principal; la novela es extensa y permite varias tramas secundarias.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La extensión y la complejidad de los personajes y el tiempo son los rasgos distintivos."
+        },
+        {
+          "letter": "C",
+          "text": "El cuento no tiene personajes y la novela sí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos necesitan personajes para que ocurra la acción."
+        },
+        {
+          "letter": "D",
+          "text": "El cuento solo se lee en voz alta y la novela en silencio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La forma de lectura no define el subgénero literario."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cuento se caracteriza por su brevedad y por producir un efecto único en el lector, centrándose en un conflicto principal. La novela, al ser más larga, permite desarrollar profundamente la psicología de los personajes y describir con mayor detalle el ambiente.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle-v3",
+      "statement": "¿Qué tipo de narrador se evidencia en el fragmento leído por Valentina?",
+      "context": "Valentina lee un fragmento: \"Yo no sabía lo que me esperaba al llegar a Cartagena. Caminaba por las murallas sintiendo el aire salino...\".\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrador omnisciente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador omnisciente habla en tercera persona y sabe lo que todos sienten; aquí se habla en primera persona."
+        },
+        {
+          "letter": "B",
+          "text": "Narrador protagonista",
+          "is_correct": true,
+          "feedback": "¡Correcto! El uso de la primera persona (\"Yo no sabía\", \"Caminaba\") indica que el narrador es quien vive la historia."
+        },
+        {
+          "letter": "C",
+          "text": "Narrador testigo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El testigo cuenta lo que le pasa a otros desde dentro, pero aquí el narrador habla de su propia experiencia."
+        },
+        {
+          "letter": "D",
+          "text": "Narrador en segunda persona",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda persona se dirige al lector como \"tú\", lo cual no ocurre aquí."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El narrador protagonista cuenta su propia historia. Esto genera una sensación de mayor cercanía y subjetividad, ya que el lector solo conoce los hechos a través de los ojos y sentimientos de quien los está viviendo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle-v4",
+      "statement": "¿Cómo se denomina al momento de la narración donde el conflicto se vuelve más intenso y se llega al punto de máxima tensión?",
+      "context": "En el análisis narrativo, se suele dividir la acción en tres momentos principales para entender su evolución.\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inicio o planteamiento",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el inicio se presentan los personajes y el ambiente, pero aún no hay tensión máxima."
+        },
+        {
+          "letter": "B",
+          "text": "Desenlace",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desenlace es la resolución final del conflicto."
+        },
+        {
+          "letter": "C",
+          "text": "Nudo o clímax",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nudo contiene el desarrollo del problema, y el clímax es el momento de mayor intensidad emocional o de acción."
+        },
+        {
+          "letter": "D",
+          "text": "Epílogo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El epílogo es una sección final que ocurre después de que la historia principal ha terminado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La estructura clásica de la narración (inicio, nudo y desenlace) ayuda a organizar la trama. El nudo es la parte más extensa donde los personajes intentan resolver el problema que surgió, llevando la historia hacia el clímax.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es una característica fundamental de los subgéneros narrativos tradicionales como el mito y la leyenda?",
+      "context": "Un grupo de estudiantes en Cali analiza una leyenda sobre \"La Llorona\". Notan que la historia ha pasado de padres a hijos durante generaciones.\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Siempre se escriben en un lenguaje científico y preciso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usan un lenguaje simbólico, fantástico y popular."
+        },
+        {
+          "letter": "B",
+          "text": "Tienen un origen oral y forman parte de la identidad cultural de un pueblo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se transmiten de voz en voz antes de ser fijados por la escritura."
+        },
+        {
+          "letter": "C",
+          "text": "Sus autores son siempre famosos escritores contemporáneos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Suelen ser anónimos o de autoría colectiva a lo largo del tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "Solo se pueden contar durante las noches de luna llena.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el ambiente influye, no es una regla del género literario."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El mito busca explicar el origen del mundo o de fenómenos naturales mediante dioses o héroes; la leyenda parte de un hecho posiblemente real pero enriquecido con elementos fantásticos. Ambos son pilares de la narrativa popular colombiana.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle-v6",
+      "statement": "¿Qué característica define al narrador del texto que está leyendo Santiago?",
+      "context": "Santiago lee una novela donde el narrador dice: \"Juan no lo sabía, pero mientras él dormía en Bucaramanga, su hermano planeaba una sorpresa en Cúcuta\".\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un narrador limitado que solo sabe lo que ve.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un narrador limitado no sabría lo que pasa en dos ciudades distintas al tiempo ni los planes secretos."
+        },
+        {
+          "letter": "B",
+          "text": "Es un narrador omnisciente porque conoce los pensamientos y acciones de todos los personajes en diferentes lugares.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La omnisciencia significa \"que lo sabe todo\"."
+        },
+        {
+          "letter": "C",
+          "text": "Es el hermano de Juan contando su plan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto usa la tercera persona (\"su hermano planeaba\"), no la primera (\"yo planeaba\")."
+        },
+        {
+          "letter": "D",
+          "text": "Es un personaje secundario que está espiando a Juan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay marcas de que el narrador sea un personaje dentro de la historia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El narrador omnisciente es como un \"dios\" de la historia. No participa en ella pero conoce el pasado, el futuro y la mente de todos los personajes. Es el narrador más común en la novela clásica realista del siglo XIX.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle-v7",
+      "statement": "Si una historia comienza por el final y luego retrocede para explicar cómo se llegó allí, ¿qué técnica temporal se está utilizando?",
+      "context": "En el estudio del tiempo narrativo, se diferencia entre el tiempo en que ocurren los hechos y el orden en que se cuentan.\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiempo lineal o cronológico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tiempo lineal sigue el orden natural: primero-después-final."
+        },
+        {
+          "letter": "B",
+          "text": "Simultaneidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La simultaneidad es contar dos cosas que pasan al mismo tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Flashback o analepsis",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es un salto hacia atrás en el tiempo de la historia."
+        },
+        {
+          "letter": "D",
+          "text": "Premonición",
+          "is_correct": false,
+          "feedback": "Incorrecto. La premonición es ver el futuro, no volver al pasado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los autores juegan con el tiempo para generar suspenso o interés. Empezar \"in media res\" (en medio de la acción) o usar saltos al pasado (analepsis) son recursos comunes para romper la monotonía del relato cronológico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle-v8",
+      "statement": "¿Cómo se denomina a un personaje que evoluciona, cambia su forma de pensar o aprende una lección importante durante la narración?",
+      "context": "Durante el análisis de personajes, se distingue entre aquellos que cambian a lo largo de la historia y los que permanecen igual.\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Personaje plano",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los personajes planos no cambian y tienen rasgos muy simples."
+        },
+        {
+          "letter": "B",
+          "text": "Personaje redondo o dinámico",
+          "is_correct": true,
+          "feedback": "¡Correcto! Son complejos y muestran cambios significativos en su personalidad o valores."
+        },
+        {
+          "letter": "C",
+          "text": "Personaje antagonista",
+          "is_correct": false,
+          "feedback": "Incorrecto. El antagonista es quien se opone al protagonista, independientemente de si cambia o no."
+        },
+        {
+          "letter": "D",
+          "text": "Personaje secundario",
+          "is_correct": false,
+          "feedback": "Incorrecto. La importancia en la trama (primario/secundario) es distinta a su complejidad (plano/redondo)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La complejidad de los personajes es clave en las novelas modernas. Un personaje redondo es más realista porque, al igual que las personas en la vida real, se ve afectado por las experiencias que vive durante la historia.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle-v9",
+      "statement": "En una novela ambientada en la selva amazónica colombiana, donde los personajes se sienten atrapados y agobiados, ¿qué función cumple el espacio?",
+      "context": "Un crítico literario afirma que \"el espacio en la narrativa no es solo un decorado, sino que influye en el comportamiento de los personajes\".\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decorativa, para que el lector sepa que hay muchos árboles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La selva aquí tiene una carga emocional y psicológica sobre los personajes."
+        },
+        {
+          "letter": "B",
+          "text": "Simbólica y psicológica, actuando casi como un personaje que oprime a los protagonistas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El ambiente refleja o causa el estado de ánimo de los personajes."
+        },
+        {
+          "letter": "C",
+          "text": "Turística, para invitar al lector a visitar la región.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El propósito literario es estético y narrativo, no comercial."
+        },
+        {
+          "letter": "D",
+          "text": "Informativa, para enseñar botánica sobre las plantas de la selva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque puede dar datos, su función en la trama es narrativa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En obras como \"La Vorágine\", el espacio (la selva) es determinante. El ambiente puede ser aliado o enemigo, puede reflejar la paz interior o, como en este caso, la locura y la desesperación de los personajes. A esto se le llama atmósfera o ambiente narrativo.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle-v10",
+      "statement": "¿Por qué este famosísimo texto de Augusto Monterroso se considera una obra maestra del género narrativo a pesar de tener solo siete palabras?",
+      "context": "Se presenta un microcuento: \"Cuando despertó, el dinosaurio todavía estaba allí\".\n**Expected_Success:** 0.50",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es muy fácil de memorizar para un examen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La calidad no depende de la facilidad para memorizar."
+        },
+        {
+          "letter": "B",
+          "text": "Porque logra sugerir toda una historia (personaje, acción, conflicto y ambiente) dejando que el lector la complete.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La capacidad de síntesis y sugerencia es el arte del microrrelato."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los dinosaurios son temas que siempre gustan a los niños.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor literario reside en la técnica narrativa, no solo en el tema."
+        },
+        {
+          "letter": "D",
+          "text": "Porque demuestra que escribir libros largos es una pérdida de tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada subgénero (novela, cuento, microcuento) tiene su propio valor y técnica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El microrrelato es un subgénero narrativo moderno que exige una gran precisión. En el ejemplo de Monterroso, el lector debe imaginar quién despertó, dónde estaba y por qué es sorprendente que el dinosaurio siguiera allí. Demuestra que la esencia de la narrativa es la capacidad de evocar mundos.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LEN-7-2026-W02-genero-narrativo-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

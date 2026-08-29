@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-10-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.893Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W10-final-review-p1-001-v1",
+      "statement": "Match the question to the information: \"What is your nationality?\"",
+      "context": "Basic personal information questions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am 13.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is age."
+        },
+        {
+          "letter": "B",
+          "text": "I am Colombian.",
+          "is_correct": true,
+          "feedback": "Correct! This refers to the country of citizenship/origin."
+        },
+        {
+          "letter": "C",
+          "text": "I am a student.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is occupation."
+        },
+        {
+          "letter": "D",
+          "text": "I am happy.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a feeling."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies the correct type of personal information requested.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W10-final-review-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W10-final-review-p1-002-v1",
+      "statement": "Complete: \"He ________ breakfast at 6:00 AM every morning.\"",
+      "context": "Describing a daily habit.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Incorrect. For \"he\", the irregular form of \"have\" is \"has\"."
+        },
+        {
+          "letter": "B",
+          "text": "has",
+          "is_correct": true,
+          "feedback": "Correct! Third person singular of \"have\"."
+        },
+        {
+          "letter": "C",
+          "text": "haves",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Have\" is irregular and does not take 's' directly."
+        },
+        {
+          "letter": "D",
+          "text": "having",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the continuous form."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student remembers the irregular third-person singular form of the verb \"to have\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W10-final-review-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W10-final-review-p1-003-v1",
+      "statement": "\"I ________ go to the gym on Mondays and Wednesdays.\" (Two days a week)",
+      "context": "Using a frequency adverb correctly.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "always",
+          "is_correct": false,
+          "feedback": "Incorrect. Always means 7 days a week."
+        },
+        {
+          "letter": "B",
+          "text": "sometimes",
+          "is_correct": true,
+          "feedback": "Correct! Twice a week fits the \"sometimes\" or \"often\" frequency better than extremes."
+        },
+        {
+          "letter": "C",
+          "text": "never",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Never\" means zero days."
+        },
+        {
+          "letter": "D",
+          "text": "twice",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Twice\" is not a frequency adverb used in this position before the verb without \"a week\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the relative frequency described and chooses the best adverb.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmatic Matching",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W10-final-review-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W10-final-review-p1-004-v1",
+      "statement": "\"My sister ________ in the living room now.\"",
+      "context": "Describing a current action in a house in Cali.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is dance",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs -ing."
+        },
+        {
+          "letter": "B",
+          "text": "is dancing",
+          "is_correct": true,
+          "feedback": "Correct! Present continuous for an action happening \"now\"."
+        },
+        {
+          "letter": "C",
+          "text": "dancing",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing the verb \"to be\"."
+        },
+        {
+          "letter": "D",
+          "text": "dances",
+          "is_correct": false,
+          "feedback": "Incorrect. This would be a habit, not specifically \"now\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands that the time marker \"now\" requires the Present Continuous tense.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W10-final-review-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W10-final-review-p1-005-v1",
+      "statement": "Choose the correct sentence to say the computer belongs to Maria.",
+      "context": "Expressing possession of a common object.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maria computer is new.",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing the possessive marker."
+        },
+        {
+          "letter": "B",
+          "text": "Maria's computer is new.",
+          "is_correct": true,
+          "feedback": "Correct! Saxon genitive for possession."
+        },
+        {
+          "letter": "C",
+          "text": "The computer of Maria is new.",
+          "is_correct": false,
+          "feedback": "Incorrect. Less natural in English than the Saxon genitive."
+        },
+        {
+          "letter": "D",
+          "text": "Marias computer is new.",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing the apostrophe."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies the rule for the Saxon Genitive to express possession.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W10-final-review-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W10-final-review-p1-006-v1",
+      "statement": "\"I am very ________ because I have no work and nothing to do.\"",
+      "context": "Describing feelings in a specific situation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "excited",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for positive, high-energy events."
+        },
+        {
+          "letter": "B",
+          "text": "bored",
+          "is_correct": true,
+          "feedback": "Correct! Having nothing to do leads to boredom."
+        },
+        {
+          "letter": "C",
+          "text": "angry",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a reaction to something wrong."
+        },
+        {
+          "letter": "D",
+          "text": "surprised",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a reaction to something unexpected."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies vocabulary for emotions to a specific situational context.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W10-final-review-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W10-final-review-p1-007-v1",
+      "statement": "What does Lucas look like?",
+      "context": "A description of a friend's physical appearance.\n\"My best friend is Lucas. He has curly brown hair and he wears glasses. He is very tall.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He has straight hair and he is tall.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says his hair is curly."
+        },
+        {
+          "letter": "B",
+          "text": "He is short and wears glasses.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says he is tall."
+        },
+        {
+          "letter": "C",
+          "text": "He is tall and has curly hair.",
+          "is_correct": true,
+          "feedback": "Correct! These two features are explicitly mentioned."
+        },
+        {
+          "letter": "D",
+          "text": "He has brown eyes and glasses.",
+          "is_correct": false,
+          "feedback": "Incorrect. The eyes are not mentioned, only the hair."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student applies reading comprehension to verify physical description details.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W10-final-review-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W10-final-review-p1-008-v1",
+      "statement": "Which sentence is grammatically correct for a permanent fact?",
+      "context": "Analyzing negative structures in Present Simple vs Continuous.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "My dog isn't like cats.",
+          "is_correct": false,
+          "feedback": "Incorrect. To express a permanent like/dislike, we use \"doesn't like\"."
+        },
+        {
+          "letter": "B",
+          "text": "My dog doesn't like cats.",
+          "is_correct": true,
+          "feedback": "Correct! Present Simple negative for a general fact/habit."
+        },
+        {
+          "letter": "C",
+          "text": "My dog don't like cats.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Dog\" is third person singular, needs \"doesn't\"."
+        },
+        {
+          "letter": "D",
+          "text": "My dog not like cats.",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing the auxiliary verb."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes and selects the correct negative structure for a general fact in the third person.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W10-final-review-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W10-final-review-p1-009-v1",
+      "statement": "What is Julian doing TODAY?",
+      "context": "Analyzing a person's routine and frequency.\n\"Julian is a student. He always goes to school in the morning. He never eats fast food. He usually plays soccer after class, but today he is studying at home for a test.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He is playing soccer.",
+          "is_correct": false,
+          "feedback": "Incorrect. He \"usually\" plays soccer, but not today."
+        },
+        {
+          "letter": "B",
+          "text": "He is eating fast food.",
+          "is_correct": false,
+          "feedback": "Incorrect. He \"never\" eats it."
+        },
+        {
+          "letter": "C",
+          "text": "He is studying at home.",
+          "is_correct": true,
+          "feedback": "Correct! The text explicitly mentions his action for today."
+        },
+        {
+          "letter": "D",
+          "text": "He is at school.",
+          "is_correct": false,
+          "feedback": "Incorrect. He is at home studying."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student analyzes the contrast between a routine (\"usually\") and a current exception (\"today\") using different tenses.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W10-final-review-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W10-final-review-p1-010-v1",
+      "statement": "What can we conclude about Clara's personality and goals?",
+      "context": "Evaluating a student's introduction and intentions.\n\"Hello everyone! My name is Clara. I'm from Cali, the city of salsa. I'm 13 and I'm very excited to be here. I love music and I always practice the guitar after school. I want to be a famous musician one day.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She is a lazy person who only likes salsa.",
+          "is_correct": false,
+          "feedback": "Incorrect. She \"always practices\", which shows discipline."
+        },
+        {
+          "letter": "B",
+          "text": "She is a student from Bogotá who wants to play guitar.",
+          "is_correct": false,
+          "feedback": "Incorrect. She is from Cali."
+        },
+        {
+          "letter": "C",
+          "text": "She is a passionate and disciplined student with clear artistic goals.",
+          "is_correct": true,
+          "feedback": "Correct! Her love for music, daily practice, and ambition to be a musician support this."
+        },
+        {
+          "letter": "D",
+          "text": "She is a professional musician from Cali.",
+          "is_correct": false,
+          "feedback": "Incorrect. She is 13 and \"wants to be\" one day."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student evaluates the description to infer character traits (passion, discipline) and confirm facts (origin, age, goals).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W10-final-review-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

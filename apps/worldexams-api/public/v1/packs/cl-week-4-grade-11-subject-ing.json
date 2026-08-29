@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ingles",
+    "country": "cl",
+    "pack_id": "cl-week-4-grade-11-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.091Z"
+  },
+  "questions": [
+    {
+      "id": "CL-ING-11-2026-W04-media-society-001-MASTERY-v1",
+      "statement": "The term \"mass media\" refers to various means of communication that reach or influence people widely, such as television and the internet.",
+      "context": "Introduction to media studies.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "archive",
+          "is_correct": false,
+          "feedback": "Incorrect. An archive is a collection of records."
+        },
+        {
+          "letter": "B",
+          "text": "mass media",
+          "is_correct": true,
+          "feedback": "Correct. Mass media is the standard term for large-scale communication methods."
+        },
+        {
+          "letter": "C",
+          "text": "gossip",
+          "is_correct": false,
+          "feedback": "Incorrect. Gossip is informal conversation."
+        },
+        {
+          "letter": "D",
+          "text": "manuscript",
+          "is_correct": false,
+          "feedback": "Incorrect. A manuscript is a hand-written document."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Mass media' is the technical term for the diverse array of media technologies that reach a large audience.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W04-media-society-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W04-media-society-001-MASTERY-v2",
+      "statement": "Information is disseminated across the globe in seconds thanks to digital platforms.",
+      "context": "Discussing the spread of news.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "disseminate",
+          "is_correct": false,
+          "feedback": "Incorrect. Plural verb form with a singular subject."
+        },
+        {
+          "letter": "B",
+          "text": "is disseminated",
+          "is_correct": true,
+          "feedback": "Correct. Present simple passive for a general fact about an uncountable noun."
+        },
+        {
+          "letter": "C",
+          "text": "are disseminated",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Information' is singular."
+        },
+        {
+          "letter": "D",
+          "text": "disseminating",
+          "is_correct": false,
+          "feedback": "Incorrect. Gerund doesn't fit here."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Information' is an uncountable noun in English and takes a singular verb. The passive voice is used to focus on the action.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W04-media-society-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W04-media-society-001-MASTERY-v3",
+      "statement": "You shouldn't believe everything you read on social media without verifying the source first.",
+      "context": "Warning about misinformation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "might not",
+          "is_correct": false,
+          "feedback": "Incorrect. Too weak for a warning."
+        },
+        {
+          "letter": "B",
+          "text": "shouldn't",
+          "is_correct": true,
+          "feedback": "Correct. 'Shouldn't' is used to give negative advice."
+        },
+        {
+          "letter": "C",
+          "text": "wouldn't",
+          "is_correct": false,
+          "feedback": "Incorrect. Used for conditionals."
+        },
+        {
+          "letter": "D",
+          "text": "can't",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Shouldn't' implies advice against the action."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Shouldn't' is the appropriate modal for advising someone against a potentially harmful action.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W04-media-society-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W04-media-society-001-MASTERY-v4",
+      "statement": "Sensationalist headlines are often used as \"clickbait\" to entice users to click on a link.",
+      "context": "Article about \"fake news\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "clickbait",
+          "is_correct": true,
+          "feedback": "Correct. Clickbait attracts attention and encourages clicks."
+        },
+        {
+          "letter": "B",
+          "text": "editorial",
+          "is_correct": false,
+          "feedback": "Incorrect. An editorial is an opinion piece."
+        },
+        {
+          "letter": "C",
+          "text": "feature",
+          "is_correct": false,
+          "feedback": "Incorrect. A feature is a prominent article."
+        },
+        {
+          "letter": "D",
+          "text": "obituary",
+          "is_correct": false,
+          "feedback": "Incorrect. An obituary is a notice of a death."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Clickbait' is a modern media term for deceptive headlines designed to drive traffic.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W04-media-society-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W04-media-society-001-MASTERY-v5",
+      "statement": "The primary responsibility of a journalist is to provide unbiased and accurate reporting of events.",
+      "context": "Discussion on the role of journalists.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "biased",
+          "is_correct": false,
+          "feedback": "Incorrect. Biased means favoring one side."
+        },
+        {
+          "letter": "B",
+          "text": "unbiased",
+          "is_correct": true,
+          "feedback": "Correct. Unbiased means showing no prejudice; impartial."
+        },
+        {
+          "letter": "C",
+          "text": "creative",
+          "is_correct": false,
+          "feedback": "Incorrect. While reporting can be creative, 'unbiased' is more fundamental."
+        },
+        {
+          "letter": "D",
+          "text": "profitable",
+          "is_correct": false,
+          "feedback": "Incorrect. The journalist's responsibility is towards truth."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Impartiality or being 'unbiased' is a core principle of journalistic ethics.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W04-media-society-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W04-media-society-001-MASTERY-v6",
+      "statement": "A slogan is a short and striking or memorable phrase used in advertising.",
+      "context": "Marketing and advertising.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "paragraph",
+          "is_correct": false,
+          "feedback": "Incorrect. A paragraph is a group of sentences."
+        },
+        {
+          "letter": "B",
+          "text": "slogan",
+          "is_correct": true,
+          "feedback": "Correct. A slogan is a memorable motto or phrase."
+        },
+        {
+          "letter": "C",
+          "text": "dialogue",
+          "is_correct": false,
+          "feedback": "Incorrect. A dialogue is a conversation."
+        },
+        {
+          "letter": "D",
+          "text": "prologue",
+          "is_correct": false,
+          "feedback": "Incorrect. A prologue is an introductory section."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Slogan' is the specific term for a catchphrase used in marketing.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W04-media-society-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W04-media-society-001-MASTERY-v7",
+      "statement": "In some countries, certain websites are blocked to restrict access to information.",
+      "context": "Discussing media censorship.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "block",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "are blocked",
+          "is_correct": true,
+          "feedback": "Correct. Present simple passive for a general ongoing situation."
+        },
+        {
+          "letter": "C",
+          "text": "were blocked",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "D",
+          "text": "have blocked",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The passive voice 'are blocked' is used because the subject (the websites) is the recipient of the action.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W04-media-society-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W04-media-society-001-MASTERY-v8",
+      "statement": "Social media algorithms can create \"echo chambers\" where users are only exposed to information that reinforces their existing beliefs.",
+      "context": "Text on \"echo chambers\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "challenges",
+          "is_correct": false,
+          "feedback": "Incorrect. Echo chambers prevent challenging information."
+        },
+        {
+          "letter": "B",
+          "text": "reinforces",
+          "is_correct": true,
+          "feedback": "Correct. To reinforce means to strengthen or support."
+        },
+        {
+          "letter": "C",
+          "text": "contradicts",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the opposite."
+        },
+        {
+          "letter": "D",
+          "text": "ignores",
+          "is_correct": false,
+          "feedback": "Incorrect. The beliefs are confirmed."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Reinforces' describes how algorithms show users content that aligns with what they already think.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W04-media-society-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W04-media-society-001-MASTERY-v9",
+      "statement": "The celebrity was surrounded by several reporters when she arrived at the airport.",
+      "context": "Talking about an interview that happened in the past.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was surrounded",
+          "is_correct": true,
+          "feedback": "Correct. Past simple passive for a specific completed event."
+        },
+        {
+          "letter": "B",
+          "text": "is surrounded",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "C",
+          "text": "surrounding",
+          "is_correct": false,
+          "feedback": "Incorrect. Gerund."
+        },
+        {
+          "letter": "D",
+          "text": "has surrounded",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The past simple passive 'was surrounded' describes what happened to the celebrity at a specific time in the past.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W04-media-society-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W04-media-society-001-MASTERY-v10",
+      "statement": "The concept of the \"attention economy\" suggests that in a world of information overload, human attention is a scarce resource.",
+      "context": "Critique of the \"attention economy\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "limitless",
+          "is_correct": false,
+          "feedback": "Incorrect. Attention is limited."
+        },
+        {
+          "letter": "B",
+          "text": "scarce",
+          "is_correct": true,
+          "feedback": "Correct. Scarce means insufficient for the demand."
+        },
+        {
+          "letter": "C",
+          "text": "useless",
+          "is_correct": false,
+          "feedback": "Incorrect. It's very valuable."
+        },
+        {
+          "letter": "D",
+          "text": "transparent",
+          "is_correct": false,
+          "feedback": "Incorrect. Transparency is unrelated."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In an economy, a 'scarce' resource is one that is limited and therefore has value.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W04-media-society-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W04-media-society-001-MASTERY-v11",
+      "statement": "The editor is the person in charge of a newspaper or magazine who decides what should be included.",
+      "context": "Newsroom roles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "reporter",
+          "is_correct": false,
+          "feedback": "Incorrect. Reporters write the stories."
+        },
+        {
+          "letter": "B",
+          "text": "editor",
+          "is_correct": true,
+          "feedback": "Correct. The editor manages the content and staff."
+        },
+        {
+          "letter": "C",
+          "text": "illustrator",
+          "is_correct": false,
+          "feedback": "Incorrect. Illustrators create images."
+        },
+        {
+          "letter": "D",
+          "text": "subscriber",
+          "is_correct": false,
+          "feedback": "Incorrect. Subscribers are the people who pay."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Editor' is the title for the individual who oversees the content of a publication.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W04-media-society-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W04-media-society-001-MASTERY-v12",
+      "statement": "Traditional print newspapers have been replaced by digital news sites over the last few years.",
+      "context": "Discussing media trends.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "replaced",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "are replaced",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple passive."
+        },
+        {
+          "letter": "C",
+          "text": "have been replaced",
+          "is_correct": true,
+          "feedback": "Correct. Present perfect passive for a process starting in the past and continuing."
+        },
+        {
+          "letter": "D",
+          "text": "will be replaced",
+          "is_correct": false,
+          "feedback": "Incorrect. Future tense."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Have been replaced' indicates a process that began in the past and has had a significant impact by the present.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W04-media-society-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W04-media-society-001-MASTERY-v13",
+      "statement": "Media literacy is the ability to access, analyze, evaluate, and create media in a variety of forms.",
+      "context": "Discussing media literacy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "fluency",
+          "is_correct": false,
+          "feedback": "Incorrect. Fluency is usually about language speaking."
+        },
+        {
+          "letter": "B",
+          "text": "literacy",
+          "is_correct": true,
+          "feedback": "Correct. Media literacy is the specific term."
+        },
+        {
+          "letter": "C",
+          "text": "technology",
+          "is_correct": false,
+          "feedback": "Incorrect. Technology is the tool."
+        },
+        {
+          "letter": "D",
+          "text": "consumption",
+          "is_correct": false,
+          "feedback": "Incorrect. Consumption is the act of using media."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Media literacy' is the standard educational term for the critical thinking skills used to navigate the media landscape.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W04-media-society-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W04-media-society-001-MASTERY-v14",
+      "statement": "If the news reported more positive stories, people's mental health might improve.",
+      "context": "Conditional about media influence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "report",
+          "is_correct": false,
+          "feedback": "Incorrect. First conditional."
+        },
+        {
+          "letter": "B",
+          "text": "reported",
+          "is_correct": true,
+          "feedback": "Correct. Second conditional for a hypothetical change."
+        },
+        {
+          "letter": "C",
+          "text": "had reported",
+          "is_correct": false,
+          "feedback": "Incorrect. Third conditional."
+        },
+        {
+          "letter": "D",
+          "text": "would report",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' not used in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The second conditional is used to discuss a hypothetical situation and its likely result.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W04-media-society-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W04-media-society-001-MASTERY-v15",
+      "statement": "Citizen journalism often lacks the rigorous fact-checking found in professional news organizations.",
+      "context": "Argument about citizen journalism.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "creativity",
+          "is_correct": false,
+          "feedback": "Incorrect. Citizen journalists can be creative."
+        },
+        {
+          "letter": "B",
+          "text": "fact-checking",
+          "is_correct": true,
+          "feedback": "Correct. Fact-checking is the process of verifying information."
+        },
+        {
+          "letter": "C",
+          "text": "popularity",
+          "is_correct": false,
+          "feedback": "Incorrect. Some citizen journalism is popular."
+        },
+        {
+          "letter": "D",
+          "text": "speed",
+          "is_correct": false,
+          "feedback": "Incorrect. Citizen journalism is often faster."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Fact-checking' is the critical verification process that distinguishes professional journalism from informal reporting.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W04-media-society-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W04-media-society-001-MASTERY-v16",
+      "statement": "A broadcast is a live or recorded performance that is transmitted on television or the internet.",
+      "context": "Television broadcasting.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "column",
+          "is_correct": false,
+          "feedback": "Incorrect. A column is a regular feature in a newspaper."
+        },
+        {
+          "letter": "B",
+          "text": "broadcast",
+          "is_correct": true,
+          "feedback": "Correct. A broadcast is a program transmitted over airwaves or internet."
+        },
+        {
+          "letter": "C",
+          "text": "headline",
+          "is_correct": false,
+          "feedback": "Incorrect. A headline is the title."
+        },
+        {
+          "letter": "D",
+          "text": "caption",
+          "is_correct": false,
+          "feedback": "Incorrect. A caption is a short text under a picture."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Broadcast' can be used to refer to transmitted media content.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W04-media-society-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W04-media-society-001-MASTERY-v17",
+      "statement": "I wish I hadn't spent so much time watching mindless television yesterday.",
+      "context": "Expressing a past regret about media consumption.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "don't spend",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "B",
+          "text": "didn't spend",
+          "is_correct": false,
+          "feedback": "Incorrect. Wish about the present."
+        },
+        {
+          "letter": "C",
+          "text": "hadn't spent",
+          "is_correct": true,
+          "feedback": "Correct. 'Wish + past perfect' is used to express regret about the past."
+        },
+        {
+          "letter": "D",
+          "text": "wouldn't spend",
+          "is_correct": false,
+          "feedback": "Incorrect. Used for future changes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The 'wish + past perfect' structure is used to express a desire for the past to have been different.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W04-media-society-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W04-media-society-001-MASTERY-v18",
+      "statement": "Your digital footprint consists of all the information you leave behind while using the internet.",
+      "context": "Text about digital footprints.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "shadow",
+          "is_correct": false,
+          "feedback": "Incorrect. The term is 'footprint'."
+        },
+        {
+          "letter": "B",
+          "text": "footprint",
+          "is_correct": true,
+          "feedback": "Correct. Digital footprint is the standard term."
+        },
+        {
+          "letter": "C",
+          "text": "path",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Path' is not the standard term."
+        },
+        {
+          "letter": "D",
+          "text": "identity",
+          "is_correct": false,
+          "feedback": "Incorrect. Identity is broader."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Digital footprint' metaphorically describes the data trail individuals create online.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W04-media-society-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W04-media-society-001-MASTERY-v19",
+      "statement": "The professor said that the media had a profound impact on public opinion.",
+      "context": "Reporting what someone said about the media.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has",
+          "is_correct": false,
+          "feedback": "Incorrect. In reported speech, we usually backshift."
+        },
+        {
+          "letter": "B",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. Past simple for backshifting the present simple 'has'."
+        },
+        {
+          "letter": "C",
+          "text": "has had",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "will have",
+          "is_correct": false,
+          "feedback": "Incorrect. Future tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, a present simple statement is typically changed to past simple.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W04-media-society-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W04-media-society-001-MASTERY-v20",
+      "statement": "The challenge for future society is to balance freedom of expression with the need to prevent misinformation.",
+      "context": "Final thought on the future of media.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "expression",
+          "is_correct": true,
+          "feedback": "Correct. Freedom of expression is a fundamental right."
+        },
+        {
+          "letter": "B",
+          "text": "consumption",
+          "is_correct": false,
+          "feedback": "Incorrect. Not the primary legal debate."
+        },
+        {
+          "letter": "C",
+          "text": "technology",
+          "is_correct": false,
+          "feedback": "Incorrect. Not a standard term here."
+        },
+        {
+          "letter": "D",
+          "text": "subscription",
+          "is_correct": false,
+          "feedback": "Incorrect. Not the issue."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Freedom of expression' is the core human right at the center of the debate over media regulation.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W04-media-society-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

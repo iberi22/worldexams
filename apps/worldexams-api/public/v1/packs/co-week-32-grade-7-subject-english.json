@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-32-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.904Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W32-modals-advice-001-v1",
+      "statement": "Which modal verb is most commonly used to give a suggestion or advice?",
+      "context": "Identifying the modal for advice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Must",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for strong obligation."
+        },
+        {
+          "letter": "B",
+          "text": "Can",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for ability."
+        },
+        {
+          "letter": "C",
+          "text": "Should",
+          "is_correct": true,
+          "feedback": "Correct! \"Should\" is the standard verb for giving advice."
+        },
+        {
+          "letter": "D",
+          "text": "Will",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for the future."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student identifies the basic function of the modal verb \"should\".\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W32-modals-advice-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W32-modals-advice-002-v1",
+      "statement": "\"It is very late. You ________ stay awake playing video games.\"",
+      "context": "Identifying a negative advice situation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "Incorrect. This would be bad advice."
+        },
+        {
+          "letter": "B",
+          "text": "shouldn't",
+          "is_correct": true,
+          "feedback": "Correct! \"Shouldn't\" is used for advice against an action."
+        },
+        {
+          "letter": "C",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Incorrect. While you \"can\", it is not recommended."
+        },
+        {
+          "letter": "D",
+          "text": "must",
+          "is_correct": false,
+          "feedback": "Incorrect. Too strong for this context."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies the need for negative advice in a common lifestyle scenario.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W32-modals-advice-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W32-modals-advice-003-v1",
+      "statement": "\"I have a terrible toothache. What ________ I do?\"",
+      "context": "Asking for advice about a problem.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must",
+          "is_correct": false,
+          "feedback": "Incorrect. Usually, people ask for advice with \"should\"."
+        },
+        {
+          "letter": "B",
+          "text": "should",
+          "is_correct": true,
+          "feedback": "Correct! \"What should I do?\" is the standard question for advice."
+        },
+        {
+          "letter": "C",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Incorrect. Asks about possibility, not recommendations."
+        },
+        {
+          "letter": "D",
+          "text": "will",
+          "is_correct": false,
+          "feedback": "Incorrect. Future tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands how to form a question asking for advice in a medical context.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmatic Matching",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W32-modals-advice-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W32-modals-advice-004-v1",
+      "statement": "\"If you want to pass the exam, you ________ study every day.\"",
+      "context": "Giving advice for school success.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "should",
+          "is_correct": true,
+          "feedback": "Correct! This is a logical recommendation for success."
+        },
+        {
+          "letter": "B",
+          "text": "shouldn't",
+          "is_correct": false,
+          "feedback": "Incorrect. This would be bad advice."
+        },
+        {
+          "letter": "C",
+          "text": "can't",
+          "is_correct": false,
+          "feedback": "Incorrect. Contradicts the goal."
+        },
+        {
+          "letter": "D",
+          "text": "won't",
+          "is_correct": false,
+          "feedback": "Incorrect. Not used for advice."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student understands the use of \"should\" to connect a goal with a recommended action.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W32-modals-advice-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W32-modals-advice-005-v1",
+      "statement": "\"You ________ to be more careful when you cross the street.\"",
+      "context": "Using \"ought to\" as a synonym.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Should\" is not followed by \"to\"."
+        },
+        {
+          "letter": "B",
+          "text": "ought",
+          "is_correct": true,
+          "feedback": "Correct! \"Ought to\" is a synonym for \"should\"."
+        },
+        {
+          "letter": "C",
+          "text": "must",
+          "is_correct": false,
+          "feedback": "Incorrect. No \"to\" after \"must\"."
+        },
+        {
+          "letter": "D",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically wrong."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies knowledge of \"ought to\" as an alternative structure for giving advice.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W32-modals-advice-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W32-modals-advice-006-v1",
+      "statement": "What is Abby's advice for making friends?",
+      "context": "A letter to an advice columnist.\n\"Dear Abby, I am very shy and I want to make new friends. What should I do? Abby's answer: You should join a school club and you shouldn't be afraid to say hello first.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To be afraid of saying hello.",
+          "is_correct": false,
+          "feedback": "Incorrect. She says \"shouldn't\"."
+        },
+        {
+          "letter": "B",
+          "text": "To join a school club.",
+          "is_correct": true,
+          "feedback": "Correct! This is the primary suggestion given."
+        },
+        {
+          "letter": "C",
+          "text": "To stay at home alone.",
+          "is_correct": false,
+          "feedback": "Incorrect. Not mentioned and bad advice."
+        },
+        {
+          "letter": "D",
+          "text": "To only talk to people you already know.",
+          "is_correct": false,
+          "feedback": "Incorrect. The advice is about making \"new\" friends."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies reading strategies to extract specific advice from a short text.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W32-modals-advice-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W32-modals-advice-007-v1",
+      "statement": "\"You ________ drink so much soda; it has too much sugar.\"",
+      "context": "Advising against an unhealthy habit.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "Incorrect. Bad advice."
+        },
+        {
+          "letter": "B",
+          "text": "shouldn't",
+          "is_correct": true,
+          "feedback": "Correct! Standard negative advice based on health evidence."
+        },
+        {
+          "letter": "C",
+          "text": "must",
+          "is_correct": false,
+          "feedback": "Incorrect. Strong obligation to do something unhealthy."
+        },
+        {
+          "letter": "D",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Incorrect. Not appropriate for advice in this context."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies the modal \"shouldn't\" to a nutritional context.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W32-modals-advice-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W32-modals-advice-008-v1",
+      "statement": "Which sentence is grammatically correct?",
+      "context": "Analyzing the correct form of \"should\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He shoulds study more.",
+          "is_correct": false,
+          "feedback": "Incorrect. Modal verbs don't take 's' in the third person."
+        },
+        {
+          "letter": "B",
+          "text": "He should to study more.",
+          "is_correct": false,
+          "feedback": "Incorrect. We don't use \"to\" after \"should\"."
+        },
+        {
+          "letter": "C",
+          "text": "He should study more.",
+          "is_correct": true,
+          "feedback": "Correct! Modal + base form of the verb."
+        },
+        {
+          "letter": "D",
+          "text": "He should studying more.",
+          "is_correct": false,
+          "feedback": "Incorrect. Use base form, not -ing."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student analyzes the grammatical properties of modal verbs (no 's' for third person, followed by base form).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W32-modals-advice-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W32-modals-advice-009-v1",
+      "statement": "Who provides the most professional and likely the best long-term advice?",
+      "context": "Analyzing conflicting advice.\n\"Patient: I am tired. Friend A: You should sleep more. Friend B: You should drink more coffee. Doctor: You should eat more iron-rich foods.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Friend A",
+          "is_correct": false,
+          "feedback": "Incorrect. Good advice, but not as specific as the doctor's."
+        },
+        {
+          "letter": "B",
+          "text": "Friend B",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a temporary solution, not a cure."
+        },
+        {
+          "letter": "C",
+          "text": "The Doctor",
+          "is_correct": true,
+          "feedback": "Correct! Medical professional advice targeting a potential cause (nutrition)."
+        },
+        {
+          "letter": "D",
+          "text": "All are equally good.",
+          "is_correct": false,
+          "feedback": "Incorrect. The doctor's advice is more professional and scientifically grounded."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student analyzes the source and content of multiple pieces of advice to identify the most appropriate one.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W32-modals-advice-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W32-modals-advice-010-v1",
+      "statement": "What is the core recommendation of this text?",
+      "context": "Evaluating a moral recommendation.\n\"We should treat everyone with respect, regardless of where they come from. A better world starts with how we behave towards others every day.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Universal respect is the foundation for a better society.",
+          "is_correct": true,
+          "feedback": "Correct! The text emphasizes respect for \"everyone\" as the way to a \"better world\"."
+        },
+        {
+          "letter": "B",
+          "text": "You should only respect people from your own city.",
+          "is_correct": false,
+          "feedback": "Incorrect. Contradicts \"regardless of where they come from\"."
+        },
+        {
+          "letter": "C",
+          "text": "Behavior is not important for the world.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says it \"starts with how we behave\"."
+        },
+        {
+          "letter": "D",
+          "text": "We should wait for others to be respectful first.",
+          "is_correct": false,
+          "feedback": "Incorrect. It suggests taking the initiative \"every day\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student evaluates the central theme of a text that uses \"should\" to express a moral or social recommendation.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W32-modals-advice-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

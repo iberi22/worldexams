@@ -1,0 +1,1811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "mx",
+    "pack_id": "mx-week-14-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:38.958Z"
+  },
+  "questions": [
+    {
+      "id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v1",
+      "statement": "¿En qué tipo de triángulos se puede aplicar directamente el Teorema de Pitágoras para relacionar sus lados?",
+      "context": "Un estudiante de bachillerato en Monterrey está repasando las bases de la geometría para un examen parcial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Triángulos equiláteros",
+          "is_correct": false,
+          "feedback": "Aunque se puede usar en la altura de un equilátero, el teorema se define para triángulos con un ángulo de 90°."
+        },
+        {
+          "letter": "B",
+          "text": "Triángulos obtusángulos",
+          "is_correct": false,
+          "feedback": "En estos triángulos, el cuadrado del lado mayor es superior a la suma de los cuadrados de los otros dos."
+        },
+        {
+          "letter": "C",
+          "text": "Triángulos rectángulos",
+          "is_correct": true,
+          "feedback": "Correcto. El Teorema de Pitágoras es exclusivo y fundamental para los triángulos que poseen un ángulo recto."
+        },
+        {
+          "letter": "D",
+          "text": "Cualquier tipo de triángulo",
+          "is_correct": false,
+          "feedback": "Para otros triángulos se requiere el Teorema del Coseno, una generalización de Pitágoras."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Teorema de Pitágoras establece que, únicamente en un triángulo rectángulo, el cuadrado de la hipotenusa es igual a la suma de los cuadrados de los catetos ($c^2 = a^2 + b^2$).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v2",
+      "statement": "En un triángulo rectángulo, ¿cómo se le llama al lado de mayor longitud, el cual se encuentra opuesto al ángulo recto?",
+      "context": "Un carpintero en Guadalajara necesita identificar los nombres de los lados de un marco triangular que acaba de construir.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cateto opuesto",
+          "is_correct": false,
+          "feedback": "Este nombre depende de la referencia a un ángulo agudo específico."
+        },
+        {
+          "letter": "B",
+          "text": "Cateto adyacente",
+          "is_correct": false,
+          "feedback": "Al igual que el anterior, depende de la posición respecto a un ángulo agudo."
+        },
+        {
+          "letter": "C",
+          "text": "Hipotenusa",
+          "is_correct": true,
+          "feedback": "Correcto. La hipotenusa es siempre el lado más largo y opuesto al ángulo de 90 grados."
+        },
+        {
+          "letter": "D",
+          "text": "Altura",
+          "is_correct": false,
+          "feedback": "La altura es una medida perpendicular, que en un triángulo rectángulo puede coincidir con un cateto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la terminología del triángulo rectángulo, los dos lados que forman el ángulo recto se denominan catetos, mientras que el lado opuesto al ángulo recto es la hipotenusa.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de los siguientes conjuntos de medidas corresponde a un triángulo rectángulo (terna pitagórica)?",
+      "context": "Un estudiante observa las medidas de tres varillas de madera en un taller de artes plásticas en la CDMX.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2, 3, 4",
+          "is_correct": false,
+          "feedback": "2² + 3² = 4 + 9 = 13, que es diferente de 4² (16)."
+        },
+        {
+          "letter": "B",
+          "text": "3, 4, 5",
+          "is_correct": true,
+          "feedback": "Correcto. 3² + 4² = 9 + 16 = 25, y 5² = 25. Cumple perfectamente el teorema."
+        },
+        {
+          "letter": "C",
+          "text": "5, 5, 10",
+          "is_correct": false,
+          "feedback": "La suma de dos lados debe ser mayor que el tercero para formar un triángulo; además no cumple el teorema."
+        },
+        {
+          "letter": "D",
+          "text": "1, 1, 2",
+          "is_correct": false,
+          "feedback": "1² + 1² = 2, pero la hipotenusa debería ser √2, no 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una terna pitagórica es un conjunto de tres números enteros que satisfacen la ecuación $a^2 + b^2 = c^2$. La terna $(3, 4, 5)$ es la más básica y conocida.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v4",
+      "statement": "Si la escalera mide 5 metros y su base está a 3 metros de la pared, ¿a qué altura llega la escalera en la pared?",
+      "context": "Un electricista apoya una escalera contra una pared vertical en una casa en Querétaro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 metros",
+          "is_correct": false,
+          "feedback": "Restaste las medidas directamente en lugar de usar el teorema."
+        },
+        {
+          "letter": "B",
+          "text": "4 metros",
+          "is_correct": true,
+          "feedback": "Correcto. h = √(5² - 3²) = √(25 - 9) = √16 = 4."
+        },
+        {
+          "letter": "C",
+          "text": "8 metros",
+          "is_correct": false,
+          "feedback": "La hipotenusa es 5, un cateto no puede ser mayor que la hipotenusa."
+        },
+        {
+          "letter": "D",
+          "text": "5.8 metros",
+          "is_correct": false,
+          "feedback": "Sumaste los cuadrados en lugar de restarlos para hallar un cateto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al formar un triángulo rectángulo donde la escalera es la hipotenusa ($c=5$) y la distancia al suelo es un cateto ($a=3$), buscamos el otro cateto ($b$). Usamos $b = \\sqrt{c^2 - a^2} = \\sqrt{25 - 9} = 4\\text{ metros}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v5",
+      "statement": "Si el terreno mide 60 metros de largo y 80 metros de ancho, ¿qué distancia recorre al cruzarlo diagonalmente?",
+      "context": "Un corredor en el Parque Metropolitano de Guadalajara decide cortar camino atravesando un terreno rectangular de forma diagonal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "140 metros",
+          "is_correct": false,
+          "feedback": "Esta es la suma de los dos lados, no la diagonal."
+        },
+        {
+          "letter": "B",
+          "text": "70 metros",
+          "is_correct": false,
+          "feedback": "Este valor no corresponde al cálculo de la hipotenusa para estos catetos."
+        },
+        {
+          "letter": "C",
+          "text": "100 metros",
+          "is_correct": true,
+          "feedback": "Correcto. d = √(60² + 80²) = √(3600 + 6400) = √10000 = 100."
+        },
+        {
+          "letter": "D",
+          "text": "120 metros",
+          "is_correct": false,
+          "feedback": "Error en la aplicación del teorema o en el cálculo de las raíces."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La diagonal de un rectángulo divide a este en dos triángulos rectángulos iguales. Los catetos son los lados del rectángulo ($60$ y $80$). La diagonal es la hipotenusa: $d = \\sqrt{60^2 + 80^2} = \\sqrt{3,600 + 6,400} = \\sqrt{10,000} = 100\\text{ metros}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v6",
+      "statement": "El cable se debe anclar al suelo a una distancia de 5 metros de la base de la antena. ¿Qué longitud debe tener el cable?",
+      "context": "Un ingeniero civil en Puebla está calculando la longitud de un cable de soporte para una antena de 12 metros de altura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7 metros",
+          "is_correct": false,
+          "feedback": "Restaste la altura y la distancia de anclaje."
+        },
+        {
+          "letter": "B",
+          "text": "17 metros",
+          "is_correct": false,
+          "feedback": "Sumaste las medidas lineales directamente."
+        },
+        {
+          "letter": "C",
+          "text": "13 metros",
+          "is_correct": true,
+          "feedback": "Correcto. L = √(12² + 5²) = √(144 + 25) = √169 = 13."
+        },
+        {
+          "letter": "D",
+          "text": "15 metros",
+          "is_correct": false,
+          "feedback": "Error en el cálculo de los cuadrados o la raíz resultante."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La antena (vertical) y la distancia al suelo (horizontal) forman los catetos de un triángulo rectángulo. El cable es la hipotenusa. Por el Teorema de Pitágoras: $c = \\sqrt{12^2 + 5^2} = \\sqrt{144 + 25} = \\sqrt{169} = 13\\text{ metros}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la altura del triángulo respecto a la base dada?",
+      "context": "Un geómetra en la UNAM está analizando un triángulo isósceles cuya base mide 10 cm y sus lados iguales miden 13 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11 cm",
+          "is_correct": false,
+          "feedback": "Valor incorrecto producto de un error de procedimiento."
+        },
+        {
+          "letter": "B",
+          "text": "8 cm",
+          "is_correct": false,
+          "feedback": "Usaste la base completa en lugar de su mitad para el triángulo rectángulo."
+        },
+        {
+          "letter": "C",
+          "text": "12 cm",
+          "is_correct": true,
+          "feedback": "Correcto. La altura divide la base en dos de 5 cm. h = √(13² - 5²) = √(169 - 25) = √144 = 12."
+        },
+        {
+          "letter": "D",
+          "text": "15 cm",
+          "is_correct": false,
+          "feedback": "La altura de un triángulo no puede ser mayor que sus lados laterales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La altura de un triángulo isósceles divide a la base en dos segmentos iguales y forma dos triángulos rectángulos. Un cateto es la mitad de la base ($10/2 = 5\\text{ cm}$) y la hipotenusa es el lado igual ($13\\text{ cm}$). La altura es el otro cateto: $h = \\sqrt{13^2 - 5^2} = 12\\text{ cm}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v8",
+      "statement": "Si el ancho de la pantalla es de 20 pulgadas, ¿cuál es su altura?",
+      "context": "En un monitor de computadora en una oficina de Monterrey, se especifica que el tamaño de la pantalla es de 25 pulgadas (medida diagonal).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 pulgadas",
+          "is_correct": false,
+          "feedback": "Restaste las medidas directamente."
+        },
+        {
+          "letter": "B",
+          "text": "15 pulgadas",
+          "is_correct": true,
+          "feedback": "Correcto. h = √(25² - 20²) = √(625 - 400) = √225 = 15."
+        },
+        {
+          "letter": "C",
+          "text": "10 pulgadas",
+          "is_correct": false,
+          "feedback": "Error aritmético en el cálculo de la raíz."
+        },
+        {
+          "letter": "D",
+          "text": "32 pulgadas",
+          "is_correct": false,
+          "feedback": "La altura no puede ser mayor que la diagonal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La diagonal, el ancho y la altura de una pantalla forman un triángulo rectángulo. La diagonal es la hipotenusa ($c=25$) y el ancho es un cateto ($a=20$). Calculamos la altura ($b$): $b = \\sqrt{25^2 - 20^2} = \\sqrt{625 - 400} = \\sqrt{225} = 15\\text{ pulgadas}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v9",
+      "statement": "¿Cómo se clasifica este triángulo según sus ángulos, basándose en la relación de sus lados?",
+      "context": "Un artesano en Taxco está fabricando una pieza de plata en forma de triángulo con lados de 8, 15 y 17 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acutángulo",
+          "is_correct": false,
+          "feedback": "Esto ocurriría si 17² fuera menor que 8² + 15²."
+        },
+        {
+          "letter": "B",
+          "text": "Obtusángulo",
+          "is_correct": false,
+          "feedback": "Esto ocurriría si 17² fuera mayor que 8² + 15²."
+        },
+        {
+          "letter": "C",
+          "text": "Rectángulo",
+          "is_correct": true,
+          "feedback": "Correcto. 8² + 15² = 64 + 225 = 289, y 17² = 289. Al cumplirse la igualdad, el ángulo es de 90°."
+        },
+        {
+          "letter": "D",
+          "text": "Equilátero",
+          "is_correct": false,
+          "feedback": "Un triángulo equilátero debe tener sus tres lados iguales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para clasificar un triángulo por sus lados usamos el recíproco del Teorema de Pitágoras. Comparamos el cuadrado del lado mayor ($17^2 = 289$) con la suma de los cuadrados de los menores ($8^2 + 15^2 = 64 + 225 = 289$). Al ser iguales, el triángulo es rectángulo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v10",
+      "statement": "El radio del círculo es de 10 m y la distancia mínima del centro del círculo a la valla es de 6 m. ¿Cuánto mide la valla?",
+      "context": "Un arquitecto en Mérida diseña un jardín circular y desea colocar una valla recta que sea una cuerda del círculo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 m",
+          "is_correct": false,
+          "feedback": "Este es el valor de la mitad de la valla, falta duplicarlo."
+        },
+        {
+          "letter": "B",
+          "text": "16 m",
+          "is_correct": true,
+          "feedback": "Correcto. Se forma un triángulo de hipotenusa 10 y cateto 6. El otro cateto (mitad de la valla) es √(10²-6²) = 8. Valla = 8×2 = 16."
+        },
+        {
+          "letter": "C",
+          "text": "12 m",
+          "is_correct": false,
+          "feedback": "Confundiste el valor de la distancia con la medida de la cuerda."
+        },
+        {
+          "letter": "D",
+          "text": "4 m",
+          "is_correct": false,
+          "feedback": "Valor incorrecto producto de un error de procedimiento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El radio ($10\\text{ m}$), la distancia al centro ($6\\text{ m}$) y la mitad de la cuerda forman un triángulo rectángulo. El cateto que representa la mitad de la cuerda es $\\sqrt{10^2 - 6^2} = 8\\text{ m}$. Por lo tanto, la longitud total de la valla (la cuerda completa) es $8 \\cdot 2 = 16\\text{ metros}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v11",
+      "statement": "Si las dimensiones de la caja son 30 cm de largo, 40 cm de ancho y 120 cm de alto, ¿cuál es la longitud de la diagonal espacial de la caja?",
+      "context": "Un diseñador industrial en el Estado de México está calculando la diagonal de una caja (paralelepípedo) para asegurar que un producto quepa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 cm",
+          "is_correct": false,
+          "feedback": "Este valor es insuficiente para cubrir la altura de 120 cm de la caja."
+        },
+        {
+          "letter": "B",
+          "text": "130 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando el teorema en 3D: D = √(l² + w² + h²) = √(30² + 40² + 120²) = 130."
+        },
+        {
+          "letter": "C",
+          "text": "190 cm",
+          "is_correct": false,
+          "feedback": "Sumaste las tres dimensiones directamente."
+        },
+        {
+          "letter": "D",
+          "text": "150 cm",
+          "is_correct": false,
+          "feedback": "Error en la suma de los cuadrados o en el cálculo de la raíz."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para un prisma rectangular, la diagonal espacial se calcula extendiendo el Teorema de Pitágoras a tres dimensiones: $D = \\sqrt{l^2 + w^2 + h^2}$. Sustituyendo: $D = \\sqrt{30^2 + 40^2 + 120^2} = \\sqrt{900 + 1,600 + 14,400} = \\sqrt{16,900} = 130\\text{ cm}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v12",
+      "statement": "Si al final se encuentra a una distancia en línea recta de 17 km desde su punto de partida, ¿cuántos kilómetros recorrió hacia el este?",
+      "context": "Un navegante en Veracruz se desplaza 15 km hacia el norte y luego un número determinado de kilómetros hacia el este.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 km",
+          "is_correct": false,
+          "feedback": "Restaste las distancias directamente."
+        },
+        {
+          "letter": "B",
+          "text": "8 km",
+          "is_correct": true,
+          "feedback": "Correcto. d_este = √(17² - 15²) = √(289 - 225) = √64 = 8."
+        },
+        {
+          "letter": "C",
+          "text": "12 km",
+          "is_correct": false,
+          "feedback": "Error en el cálculo de los cuadrados en el teorema."
+        },
+        {
+          "letter": "D",
+          "text": "32 km",
+          "is_correct": false,
+          "feedback": "Sumaste las distancias o los cuadrados erróneamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El desplazamiento norte (cateto vertical), el desplazamiento este (cateto horizontal) y la distancia total (hipotenusa) forman un triángulo rectángulo. Buscamos el cateto horizontal: $x = \\sqrt{17^2 - 15^2} = \\sqrt{289 - 225} = \\sqrt{64} = 8\\text{ km}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la longitud del lado del rombo?",
+      "context": "En un rombo, las diagonales se cruzan perpendicularmente en sus puntos medios. El rombo tiene diagonales de 10 cm y 24 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "17 cm",
+          "is_correct": false,
+          "feedback": "Error en el cálculo de los catetos del triángulo rectángulo formado."
+        },
+        {
+          "letter": "B",
+          "text": "13 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Los catetos son la mitad de las diagonales: 5 y 12. Lado = √(5² + 12²) = √(25 + 144) = √169 = 13."
+        },
+        {
+          "letter": "C",
+          "text": "26 cm",
+          "is_correct": false,
+          "feedback": "Este valor es el doble de la medida correcta del lado."
+        },
+        {
+          "letter": "D",
+          "text": "15 cm",
+          "is_correct": false,
+          "feedback": "Valor incorrecto producto de un error de procedimiento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las diagonales de un rombo forman cuatro triángulos rectángulos iguales. Los catetos de estos triángulos son las mitades de las diagonales: $10/2 = 5\\text{ cm}$ y $24/2 = 12\\text{ cm}$. El lado del rombo es la hipotenusa: $l = \\sqrt{5^2 + 12^2} = \\sqrt{25 + 144} = \\sqrt{169} = 13\\text{ cm}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v14",
+      "statement": "El radio del tubo es de 25 cm. La superficie del agua (la cuerda) tiene un ancho de 40 cm. ¿Cuál es la profundidad máxima del agua si esta cubre menos de la mitad del tubo?",
+      "context": "Un estudiante de ingeniería en San Luis Potosí analiza la sección transversal de un tubo de drenaje que está parcialmente lleno de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 cm",
+          "is_correct": false,
+          "feedback": "Esta es la distancia desde el centro del tubo hasta la superficie del agua."
+        },
+        {
+          "letter": "B",
+          "text": "10 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Distancia centro-agua = √(25² - 20²) = 15. Profundidad = Radio - Distancia = 25 - 15 = 10."
+        },
+        {
+          "letter": "C",
+          "text": "20 cm",
+          "is_correct": false,
+          "feedback": "Este es el valor de la mitad del ancho de la superficie del agua."
+        },
+        {
+          "letter": "D",
+          "text": "5 cm",
+          "is_correct": false,
+          "feedback": "Error en la resta final del radio y la distancia calculada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Formamos un triángulo rectángulo con el radio ($c=25$) y la mitad de la cuerda ($a=20$). La distancia vertical desde el centro hasta la cuerda es $d = \\sqrt{25^2 - 20^2} = 15\\text{ cm}$. La profundidad del agua es la diferencia entre el radio total y esta distancia: $25 - 15 = 10\\text{ cm}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v15",
+      "statement": "Punto A: (2, 3) y Punto B: (7, 15). ¿Cuál es la distancia en línea recta entre ambos puntos?",
+      "context": "Se desea calcular la distancia entre dos puntos en un plano cartesiano, que representan la ubicación de dos sucursales de una tienda en Cancún.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 unidades",
+          "is_correct": false,
+          "feedback": "Solo consideraste la diferencia en el eje Y."
+        },
+        {
+          "letter": "B",
+          "text": "17 unidades",
+          "is_correct": false,
+          "feedback": "Sumaste las diferencias de los ejes X e Y."
+        },
+        {
+          "letter": "C",
+          "text": "13 unidades",
+          "is_correct": true,
+          "feedback": "Correcto. Δx = 7-2 = 5. Δy = 15-3 = 12. Distancia = √(5² + 12²) = 13."
+        },
+        {
+          "letter": "D",
+          "text": "15 unidades",
+          "is_correct": false,
+          "feedback": "Error en el cálculo de las diferencias o de la raíz final."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La distancia entre dos puntos $(x_1, y_1)$ y $(x_2, y_2)$ es una aplicación del Teorema de Pitágoras: $d = \\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$. Aquí: $d = \\sqrt{(7-2)^2 + (15-3)^2} = \\sqrt{5^2 + 12^2} = \\sqrt{25 + 144} = 13\\text{ unidades}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.35,
+      "bundle_id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la expresión simplificada para la diagonal de un cuadrado de lado $L$?",
+      "context": "Se tiene un cuadrado de lado $L$. Se desea conocer la longitud de su diagonal en términos de $L$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$L^2$",
+          "is_correct": false,
+          "feedback": "El resultado debe tener unidades de longitud, no de área."
+        },
+        {
+          "letter": "B",
+          "text": "$L\\sqrt{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. d = √(L² + L²) = √2L² = L√2."
+        },
+        {
+          "letter": "C",
+          "text": "$2L$",
+          "is_correct": false,
+          "feedback": "La diagonal de un cuadrado es menor que la suma de sus dos lados."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{L}{\\sqrt{2}}$",
+          "is_correct": false,
+          "feedback": "Esta expresión corresponde al lado de un cuadrado si se conoce su diagonal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicando el Teorema de Pitágoras a los dos lados del cuadrado que forman el ángulo recto: $d^2 = L^2 + L^2 = 2L^2$. Extrayendo la raíz cuadrada: $d = \\sqrt{2L^2} = L\\sqrt{2}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.3,
+      "bundle_id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v17",
+      "statement": "Si construimos semicírculos sobre los tres lados de un triángulo rectángulo, ¿cuál es la relación entre sus áreas ($A_a, A_b, A_c$)?",
+      "context": "Un matemático de la UNAM explora la generalización del Teorema de Pitágoras para cualquier figura semejante construida sobre los lados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$A_c^2 = A_a^2 + A_b^2$",
+          "is_correct": false,
+          "feedback": "La relación cuadrática ya está implícita en la fórmula del área respecto al diámetro."
+        },
+        {
+          "letter": "B",
+          "text": "$A_c = A_a + A_b$",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser figuras semejantes, sus áreas son proporcionales al cuadrado de los lados. Como c² = a² + b², entonces Ac = Aa + Ab."
+        },
+        {
+          "letter": "C",
+          "text": "$A_c = \\pi(A_a + A_b)$",
+          "is_correct": false,
+          "feedback": "El factor π ya está incluido en el cálculo de cada área individual."
+        },
+        {
+          "letter": "D",
+          "text": "No existe relación directa entre las áreas.",
+          "is_correct": false,
+          "feedback": "De hecho, la relación de Pitágoras se cumple para cualquier conjunto de figuras semejantes construidas sobre los lados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Debido a que el área de figuras semejantes es proporcional al cuadrado de su dimensión lineal característica (el lado del triángulo), y dado que $c^2 = a^2 + b^2$, entonces cualquier área $A = k \\cdot (\\text{lado})^2$ cumplirá que $k \\cdot c^2 = k \\cdot a^2 + k \\cdot b^2$, es decir, $A_c = A_a + A_b$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es el área del triángulo rectángulo en términos de $c$ y $s$?",
+      "context": "Se plantea un problema avanzado sobre un triángulo rectángulo donde la hipotenusa mide $c$ y la suma de los catetos es $s$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{s^2 - c^2}{2}$",
+          "is_correct": false,
+          "feedback": "Falta dividir entre 4 para obtener el área correcta del triángulo."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{s^2 - c^2}{4}$",
+          "is_correct": true,
+          "feedback": "Correcto. (a+b)² = a²+b²+2ab -> s² = c²+2(2Area) -> s²-c² = 4Area -> Area = (s²-c²)/4."
+        },
+        {
+          "letter": "C",
+          "text": "$s^2 - c^2$",
+          "is_correct": false,
+          "feedback": "Esta expresión equivale a cuatro veces el área del triángulo."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{s - c}{2}$",
+          "is_correct": false,
+          "feedback": "Esta expresión no tiene dimensiones de área."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sabemos que $s = a+b$ y $c^2 = a^2+b^2$. Elevando $s$ al cuadrado: $s^2 = (a+b)^2 = a^2 + b^2 + 2ab = c^2 + 2ab$. Dado que el área del triángulo es $A = \\frac{ab}{2}$, entonces $2ab = 4A$. Sustituyendo: $s^2 = c^2 + 4A$, de donde $A = \\frac{s^2 - c^2}{4}$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v19",
+      "statement": "Un cilindro tiene radio $R$ y altura $H$. Una línea (hélice) da exactamente una vuelta alrededor del cilindro desde la base hasta la cima. ¿Cuál es su longitud?",
+      "context": "Un arquitecto diseña una escalera de caracol. Se analiza el desarrollo plano de un cilindro para calcular la longitud de la rampa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{R^2 + H^2}$",
+          "is_correct": false,
+          "feedback": "Olvidaste que la distancia horizontal es la circunferencia del cilindro, no el radio."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{(2\\pi R)^2 + H^2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Al desenrollar el cilindro, la hélice es la hipotenusa de un rectángulo de base 2πR y altura H."
+        },
+        {
+          "letter": "C",
+          "text": "$2\\pi R + H$",
+          "is_correct": false,
+          "feedback": "Esta es la suma de los desplazamientos, no la distancia en línea recta sobre el desarrollo plano."
+        },
+        {
+          "letter": "D",
+          "text": "$2\\pi \\sqrt{R^2 + H^2}$",
+          "is_correct": false,
+          "feedback": "Error en la composición de la fórmula de la hipotenusa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al \"desenrollar\" la superficie lateral de un cilindro, obtenemos un rectángulo cuya base es la circunferencia ($2\\pi R$) y cuya altura es $H$. Una vuelta completa de la hélice se convierte en la diagonal de este rectángulo. Por Pitágoras: $L = \\sqrt{(2\\pi R)^2 + H^2}$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el radio $r$ del círculo inscrito en términos de los lados del triángulo?",
+      "context": "Se tiene un círculo inscrito en un triángulo rectángulo cuyos catetos miden $a$ y $b$, e hipotenusa $c$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{a+b+c}{2}$",
+          "is_correct": false,
+          "feedback": "Este es el semiperímetro (s), no el radio."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{a+b-c}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Usando la propiedad de tangentes desde un punto externo y que Area = rs, se llega a esta elegante simplificación."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{ab}{a+b+c}$",
+          "is_correct": false,
+          "feedback": "Esta expresión es correcta pero suele presentarse simplificada como la opción B."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{ab}$",
+          "is_correct": false,
+          "feedback": "Esta es la media geométrica de los catetos, no el radio inscrito."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un triángulo rectángulo, el radio del círculo inscrito (inradio) se puede calcular mediante la fórmula $r = \\frac{a+b-c}{2}$. Esto se deriva de igualar el área calculada como $\\frac{ab}{2}$ con el área calculada como $r \\cdot s$ (donde $s$ es el semiperímetro).\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntaje |\n|-----------|---------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.15,
+      "bundle_id": "MX-MAT-11-2026-W14-geometria-teorema-pitagoras-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v1",
+      "statement": "Si la escalera mide 10 metros de longitud y su base se coloca a 6 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?",
+      "context": "Un trabajador de la construcción en León apoya una escalera sobre una pared vertical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8.0 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²)."
+        },
+        {
+          "letter": "B",
+          "text": "16 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados."
+        },
+        {
+          "letter": "C",
+          "text": "11.66 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera."
+        },
+        {
+          "letter": "D",
+          "text": "4 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simple diferencia de los lados, que no corresponde al cálculo geométrico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por el teorema de Pitágoras, la hipotenusa al cuadrado (longitud de la escalera: 10 m) es igual a la suma de los cuadrados de los catetos (distancia a la pared: 6 m y altura h). Despejando la altura: h = √((10)² - (6)²) = √(100 - 36) = √(64) ≈ 8.0 metros.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v2",
+      "statement": "Si la escalera mide 11 metros de longitud y su base se coloca a 7 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?",
+      "context": "Un trabajador de la construcción en Toluca apoya una escalera sobre una pared vertical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8.49 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²)."
+        },
+        {
+          "letter": "B",
+          "text": "18 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados."
+        },
+        {
+          "letter": "C",
+          "text": "13.04 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera."
+        },
+        {
+          "letter": "D",
+          "text": "5 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simple diferencia de los lados, que no corresponde al cálculo geométrico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por el teorema de Pitágoras, la hipotenusa al cuadrado (longitud de la escalera: 11 m) es igual a la suma de los cuadrados de los catetos (distancia a la pared: 7 m y altura h). Despejando la altura: h = √((11)² - (7)²) = √(121 - 49) = √(72) ≈ 8.49 metros.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v3",
+      "statement": "Si la escalera mide 12 metros de longitud y su base se coloca a 8 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?",
+      "context": "Un trabajador de la construcción en Pachuca apoya una escalera sobre una pared vertical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8.94 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²)."
+        },
+        {
+          "letter": "B",
+          "text": "20 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados."
+        },
+        {
+          "letter": "C",
+          "text": "14.42 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera."
+        },
+        {
+          "letter": "D",
+          "text": "6 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simple diferencia de los lados, que no corresponde al cálculo geométrico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por el teorema de Pitágoras, la hipotenusa al cuadrado (longitud de la escalera: 12 m) es igual a la suma de los cuadrados de los catetos (distancia a la pared: 8 m y altura h). Despejando la altura: h = √((12)² - (8)²) = √(144 - 64) = √(80) ≈ 8.94 metros.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v4",
+      "statement": "Si la escalera mide 13 metros de longitud y su base se coloca a 6 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?",
+      "context": "Un trabajador de la construcción en Mérida apoya una escalera sobre una pared vertical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11.53 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²)."
+        },
+        {
+          "letter": "B",
+          "text": "19 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados."
+        },
+        {
+          "letter": "C",
+          "text": "14.32 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera."
+        },
+        {
+          "letter": "D",
+          "text": "7 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simple diferencia de los lados, que no corresponde al cálculo geométrico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por el teorema de Pitágoras, la hipotenusa al cuadrado (longitud de la escalera: 13 m) es igual a la suma de los cuadrados de los catetos (distancia a la pared: 6 m y altura h). Despejando la altura: h = √((13)² - (6)²) = √(169 - 36) = √(133) ≈ 11.53 metros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v5",
+      "statement": "Si la escalera mide 14 metros de longitud y su base se coloca a 7 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?",
+      "context": "Un trabajador de la construcción en Oaxaca apoya una escalera sobre una pared vertical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12.12 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²)."
+        },
+        {
+          "letter": "B",
+          "text": "21 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados."
+        },
+        {
+          "letter": "C",
+          "text": "15.65 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera."
+        },
+        {
+          "letter": "D",
+          "text": "8 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simple diferencia de los lados, que no corresponde al cálculo geométrico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por el teorema de Pitágoras, la hipotenusa al cuadrado (longitud de la escalera: 14 m) es igual a la suma de los cuadrados de los catetos (distancia a la pared: 7 m y altura h). Despejando la altura: h = √((14)² - (7)²) = √(196 - 49) = √(147) ≈ 12.12 metros.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v6",
+      "statement": "Si la escalera mide 15 metros de longitud y su base se coloca a 8 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?",
+      "context": "Un trabajador de la construcción en Saltillo apoya una escalera sobre una pared vertical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12.69 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²)."
+        },
+        {
+          "letter": "B",
+          "text": "23 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados."
+        },
+        {
+          "letter": "C",
+          "text": "17.0 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera."
+        },
+        {
+          "letter": "D",
+          "text": "9 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simple diferencia de los lados, que no corresponde al cálculo geométrico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por el teorema de Pitágoras, la hipotenusa al cuadrado (longitud de la escalera: 15 m) es igual a la suma de los cuadrados de los catetos (distancia a la pared: 8 m y altura h). Despejando la altura: h = √((15)² - (8)²) = √(225 - 64) = √(161) ≈ 12.69 metros.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v7",
+      "statement": "Si la escalera mide 16 metros de longitud y su base se coloca a 6 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?",
+      "context": "Un trabajador de la construcción en Guadalajara apoya una escalera sobre una pared vertical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "14.83 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²)."
+        },
+        {
+          "letter": "B",
+          "text": "22 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados."
+        },
+        {
+          "letter": "C",
+          "text": "17.09 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera."
+        },
+        {
+          "letter": "D",
+          "text": "10 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simple diferencia de los lados, que no corresponde al cálculo geométrico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por el teorema de Pitágoras, la hipotenusa al cuadrado (longitud de la escalera: 16 m) es igual a la suma de los cuadrados de los catetos (distancia a la pared: 6 m y altura h). Despejando la altura: h = √((16)² - (6)²) = √(256 - 36) = √(220) ≈ 14.83 metros.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v8",
+      "statement": "Si la escalera mide 17 metros de longitud y su base se coloca a 7 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?",
+      "context": "Un trabajador de la construcción en CDMX apoya una escalera sobre una pared vertical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15.49 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²)."
+        },
+        {
+          "letter": "B",
+          "text": "24 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados."
+        },
+        {
+          "letter": "C",
+          "text": "18.38 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera."
+        },
+        {
+          "letter": "D",
+          "text": "11 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simple diferencia de los lados, que no corresponde al cálculo geométrico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por el teorema de Pitágoras, la hipotenusa al cuadrado (longitud de la escalera: 17 m) es igual a la suma de los cuadrados de los catetos (distancia a la pared: 7 m y altura h). Despejando la altura: h = √((17)² - (7)²) = √(289 - 49) = √(240) ≈ 15.49 metros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v9",
+      "statement": "Si la escalera mide 18 metros de longitud y su base se coloca a 8 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?",
+      "context": "Un trabajador de la construcción en Puebla apoya una escalera sobre una pared vertical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "16.12 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²)."
+        },
+        {
+          "letter": "B",
+          "text": "26 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados."
+        },
+        {
+          "letter": "C",
+          "text": "19.7 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera."
+        },
+        {
+          "letter": "D",
+          "text": "12 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simple diferencia de los lados, que no corresponde al cálculo geométrico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por el teorema de Pitágoras, la hipotenusa al cuadrado (longitud de la escalera: 18 m) es igual a la suma de los cuadrados de los catetos (distancia a la pared: 8 m y altura h). Despejando la altura: h = √((18)² - (8)²) = √(324 - 64) = √(260) ≈ 16.12 metros.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v10",
+      "statement": "Si la escalera mide 19 metros de longitud y su base se coloca a 6 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?",
+      "context": "Un trabajador de la construcción en Veracruz apoya una escalera sobre una pared vertical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18.03 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²)."
+        },
+        {
+          "letter": "B",
+          "text": "25 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados."
+        },
+        {
+          "letter": "C",
+          "text": "19.92 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera."
+        },
+        {
+          "letter": "D",
+          "text": "13 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simple diferencia de los lados, que no corresponde al cálculo geométrico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por el teorema de Pitágoras, la hipotenusa al cuadrado (longitud de la escalera: 19 m) es igual a la suma de los cuadrados de los catetos (distancia a la pared: 6 m y altura h). Despejando la altura: h = √((19)² - (6)²) = √(361 - 36) = √(325) ≈ 18.03 metros.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v11",
+      "statement": "Si la escalera mide 20 metros de longitud y su base se coloca a 7 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?",
+      "context": "Un trabajador de la construcción en León apoya una escalera sobre una pared vertical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18.73 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²)."
+        },
+        {
+          "letter": "B",
+          "text": "27 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados."
+        },
+        {
+          "letter": "C",
+          "text": "21.19 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera."
+        },
+        {
+          "letter": "D",
+          "text": "14 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simple diferencia de los lados, que no corresponde al cálculo geométrico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por el teorema de Pitágoras, la hipotenusa al cuadrado (longitud de la escalera: 20 m) es igual a la suma de los cuadrados de los catetos (distancia a la pared: 7 m y altura h). Despejando la altura: h = √((20)² - (7)²) = √(400 - 49) = √(351) ≈ 18.73 metros.",
+      "difficulty": "11",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v12",
+      "statement": "Si la escalera mide 21 metros de longitud y su base se coloca a 8 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?",
+      "context": "Un trabajador de la construcción en Toluca apoya una escalera sobre una pared vertical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "19.42 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²)."
+        },
+        {
+          "letter": "B",
+          "text": "29 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados."
+        },
+        {
+          "letter": "C",
+          "text": "22.47 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera."
+        },
+        {
+          "letter": "D",
+          "text": "15 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simple diferencia de los lados, que no corresponde al cálculo geométrico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por el teorema de Pitágoras, la hipotenusa al cuadrado (longitud de la escalera: 21 m) es igual a la suma de los cuadrados de los catetos (distancia a la pared: 8 m y altura h). Despejando la altura: h = √((21)² - (8)²) = √(441 - 64) = √(377) ≈ 19.42 metros.",
+      "difficulty": "12",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v13",
+      "statement": "Si la escalera mide 22 metros de longitud y su base se coloca a 6 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?",
+      "context": "Un trabajador de la construcción en Pachuca apoya una escalera sobre una pared vertical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "21.17 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²)."
+        },
+        {
+          "letter": "B",
+          "text": "28 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados."
+        },
+        {
+          "letter": "C",
+          "text": "22.8 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera."
+        },
+        {
+          "letter": "D",
+          "text": "16 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simple diferencia de los lados, que no corresponde al cálculo geométrico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por el teorema de Pitágoras, la hipotenusa al cuadrado (longitud de la escalera: 22 m) es igual a la suma de los cuadrados de los catetos (distancia a la pared: 6 m y altura h). Despejando la altura: h = √((22)² - (6)²) = √(484 - 36) = √(448) ≈ 21.17 metros.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v14",
+      "statement": "Si la escalera mide 23 metros de longitud y su base se coloca a 7 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?",
+      "context": "Un trabajador de la construcción en Mérida apoya una escalera sobre una pared vertical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "21.91 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²)."
+        },
+        {
+          "letter": "B",
+          "text": "30 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados."
+        },
+        {
+          "letter": "C",
+          "text": "24.04 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera."
+        },
+        {
+          "letter": "D",
+          "text": "17 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simple diferencia de los lados, que no corresponde al cálculo geométrico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por el teorema de Pitágoras, la hipotenusa al cuadrado (longitud de la escalera: 23 m) es igual a la suma de los cuadrados de los catetos (distancia a la pared: 7 m y altura h). Despejando la altura: h = √((23)² - (7)²) = √(529 - 49) = √(480) ≈ 21.91 metros.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v15",
+      "statement": "Si la escalera mide 24 metros de longitud y su base se coloca a 8 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?",
+      "context": "Un trabajador de la construcción en Oaxaca apoya una escalera sobre una pared vertical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "22.63 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²)."
+        },
+        {
+          "letter": "B",
+          "text": "32 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados."
+        },
+        {
+          "letter": "C",
+          "text": "25.3 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera."
+        },
+        {
+          "letter": "D",
+          "text": "18 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simple diferencia de los lados, que no corresponde al cálculo geométrico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por el teorema de Pitágoras, la hipotenusa al cuadrado (longitud de la escalera: 24 m) es igual a la suma de los cuadrados de los catetos (distancia a la pared: 8 m y altura h). Despejando la altura: h = √((24)² - (8)²) = √(576 - 64) = √(512) ≈ 22.63 metros.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v16",
+      "statement": "Si la escalera mide 25 metros de longitud y su base se coloca a 6 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?",
+      "context": "Un trabajador de la construcción en Saltillo apoya una escalera sobre una pared vertical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24.27 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²)."
+        },
+        {
+          "letter": "B",
+          "text": "31 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados."
+        },
+        {
+          "letter": "C",
+          "text": "25.71 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera."
+        },
+        {
+          "letter": "D",
+          "text": "19 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simple diferencia de los lados, que no corresponde al cálculo geométrico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por el teorema de Pitágoras, la hipotenusa al cuadrado (longitud de la escalera: 25 m) es igual a la suma de los cuadrados de los catetos (distancia a la pared: 6 m y altura h). Despejando la altura: h = √((25)² - (6)²) = √(625 - 36) = √(589) ≈ 24.27 metros.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v17",
+      "statement": "Si la escalera mide 26 metros de longitud y su base se coloca a 7 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?",
+      "context": "Un trabajador de la construcción en Guadalajara apoya una escalera sobre una pared vertical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25.04 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²)."
+        },
+        {
+          "letter": "B",
+          "text": "33 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados."
+        },
+        {
+          "letter": "C",
+          "text": "26.93 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera."
+        },
+        {
+          "letter": "D",
+          "text": "20 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simple diferencia de los lados, que no corresponde al cálculo geométrico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por el teorema de Pitágoras, la hipotenusa al cuadrado (longitud de la escalera: 26 m) es igual a la suma de los cuadrados de los catetos (distancia a la pared: 7 m y altura h). Despejando la altura: h = √((26)² - (7)²) = √(676 - 49) = √(627) ≈ 25.04 metros.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v18",
+      "statement": "Si la escalera mide 27 metros de longitud y su base se coloca a 8 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?",
+      "context": "Un trabajador de la construcción en CDMX apoya una escalera sobre una pared vertical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25.79 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²)."
+        },
+        {
+          "letter": "B",
+          "text": "35 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados."
+        },
+        {
+          "letter": "C",
+          "text": "28.16 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera."
+        },
+        {
+          "letter": "D",
+          "text": "21 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simple diferencia de los lados, que no corresponde al cálculo geométrico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por el teorema de Pitágoras, la hipotenusa al cuadrado (longitud de la escalera: 27 m) es igual a la suma de los cuadrados de los catetos (distancia a la pared: 8 m y altura h). Despejando la altura: h = √((27)² - (8)²) = √(729 - 64) = √(665) ≈ 25.79 metros.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v19",
+      "statement": "Si la escalera mide 28 metros de longitud y su base se coloca a 6 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?",
+      "context": "Un trabajador de la construcción en Puebla apoya una escalera sobre una pared vertical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "27.35 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²)."
+        },
+        {
+          "letter": "B",
+          "text": "34 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados."
+        },
+        {
+          "letter": "C",
+          "text": "28.64 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera."
+        },
+        {
+          "letter": "D",
+          "text": "22 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simple diferencia de los lados, que no corresponde al cálculo geométrico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por el teorema de Pitágoras, la hipotenusa al cuadrado (longitud de la escalera: 28 m) es igual a la suma de los cuadrados de los catetos (distancia a la pared: 6 m y altura h). Despejando la altura: h = √((28)² - (6)²) = √(784 - 36) = √(748) ≈ 27.35 metros.",
+      "difficulty": "11",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v20",
+      "statement": "Si la escalera mide 29 metros de longitud y su base se coloca a 7 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?",
+      "context": "Un trabajador de la construcción en Veracruz apoya una escalera sobre una pared vertical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "28.14 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²)."
+        },
+        {
+          "letter": "B",
+          "text": "36 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados."
+        },
+        {
+          "letter": "C",
+          "text": "29.83 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera."
+        },
+        {
+          "letter": "D",
+          "text": "23 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simple diferencia de los lados, que no corresponde al cálculo geométrico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por el teorema de Pitágoras, la hipotenusa al cuadrado (longitud de la escalera: 29 m) es igual a la suma de los cuadrados de los catetos (distancia a la pared: 7 m y altura h). Despejando la altura: h = √((29)² - (7)²) = √(841 - 49) = √(792) ≈ 28.14 metros.",
+      "difficulty": "12",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    }
+  ]
+}

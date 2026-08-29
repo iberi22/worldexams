@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-35-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.905Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W35-review-p4-modals-001-v1",
+      "statement": "Where do you go to catch a bus to another city?",
+      "context": "Identifying a city place.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Airport",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for planes."
+        },
+        {
+          "letter": "B",
+          "text": "Bus station",
+          "is_correct": true,
+          "feedback": "Correct! This is the terminal for buses."
+        },
+        {
+          "letter": "C",
+          "text": "Police station",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for law enforcement."
+        },
+        {
+          "letter": "D",
+          "text": "Fire station",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for firefighters."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies basic vocabulary for city transportation hubs.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W35-review-p4-modals-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W35-review-p4-modals-002-v1",
+      "statement": "\"It is a rule in the museum: You ________ touch the paintings.\"",
+      "context": "Using \"must\" for obligation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "Incorrect. Touching paintings is usually forbidden, not a suggestion."
+        },
+        {
+          "letter": "B",
+          "text": "mustn't",
+          "is_correct": true,
+          "feedback": "Correct! \"Mustn't\" is used for prohibition (strong obligation NOT to do something)."
+        },
+        {
+          "letter": "C",
+          "text": "don't have to",
+          "is_correct": false,
+          "feedback": "Incorrect. This means it's optional."
+        },
+        {
+          "letter": "D",
+          "text": "have to",
+          "is_correct": false,
+          "feedback": "Incorrect. This would mean it's mandatory to touch them."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies the correct modal for a formal prohibition.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W35-review-p4-modals-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W35-review-p4-modals-003-v1",
+      "statement": "\"If you have a fever, you ________ stay at home and rest.\"",
+      "context": "Giving advice for a health problem.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "should",
+          "is_correct": true,
+          "feedback": "Correct! \"Should\" is the appropriate modal for giving medical advice."
+        },
+        {
+          "letter": "B",
+          "text": "mustn't",
+          "is_correct": false,
+          "feedback": "Incorrect. Contradicts the advice."
+        },
+        {
+          "letter": "C",
+          "text": "shouldn't",
+          "is_correct": false,
+          "feedback": "Incorrect. Contradicts the advice."
+        },
+        {
+          "letter": "D",
+          "text": "has to",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammar error (needs \"have to\" or \"must\" for obligation, but \"should\" is better for advice)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student understands the use of \"should\" for providing helpful suggestions.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W35-review-p4-modals-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W35-review-p4-modals-004-v1",
+      "statement": "\"Excuse me, ________ can I get to the city center from here?\"",
+      "context": "Asking for directions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Where",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Where\" asks for the location, \"How\" asks for the method/way. \"How can I get to\" is the standard phrase."
+        },
+        {
+          "letter": "B",
+          "text": "How",
+          "is_correct": true,
+          "feedback": "Correct! \"How can I get to...\" is used to ask for directions or means of transport."
+        },
+        {
+          "letter": "C",
+          "text": "What",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "When",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the functional language for asking how to reach a destination.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmatic Matching",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W35-review-p4-modals-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W35-review-p4-modals-005-v1",
+      "statement": "\"The museum is free today. We ________ buy tickets.\"",
+      "context": "Describing a lack of necessity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "mustn't",
+          "is_correct": false,
+          "feedback": "Incorrect. This means it is forbidden."
+        },
+        {
+          "letter": "B",
+          "text": "don't have to",
+          "is_correct": true,
+          "feedback": "Correct! Since it is free, it is not necessary to buy tickets."
+        },
+        {
+          "letter": "C",
+          "text": "shouldn't",
+          "is_correct": false,
+          "feedback": "Incorrect. Not a matter of advice."
+        },
+        {
+          "letter": "D",
+          "text": "must",
+          "is_correct": false,
+          "feedback": "Incorrect. Not an obligation."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies the concept of \"don't have to\" for situations where an action is not required.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W35-review-p4-modals-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W35-review-p4-modals-006-v1",
+      "statement": "What is an obligation for students on Fridays?",
+      "context": "A school handbook fragment.\n\"Students should arrive 5 minutes early. They must wear the official PE uniform on Fridays. They don't have to bring their own lunch because the school provides it.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To bring their own lunch.",
+          "is_correct": false,
+          "feedback": "Incorrect. They \"don't have to\"."
+        },
+        {
+          "letter": "B",
+          "text": "To wear the PE uniform.",
+          "is_correct": true,
+          "feedback": "Correct! The text says they \"must\" wear it."
+        },
+        {
+          "letter": "C",
+          "text": "To arrive 30 minutes early.",
+          "is_correct": false,
+          "feedback": "Incorrect. The advice is 5 minutes."
+        },
+        {
+          "letter": "D",
+          "text": "To study only PE.",
+          "is_correct": false,
+          "feedback": "Incorrect. Not mentioned."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies reading comprehension to distinguish between advice, obligation, and lack of necessity.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W35-review-p4-modals-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W35-review-p4-modals-007-v1",
+      "statement": "\"Turn left at the bank and walk ________ the street to the library.\"",
+      "context": "Combining directions and prepositions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "into",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Into\" is for entering."
+        },
+        {
+          "letter": "B",
+          "text": "across",
+          "is_correct": true,
+          "feedback": "Correct! \"Across\" is used for crossing a street."
+        },
+        {
+          "letter": "C",
+          "text": "over",
+          "is_correct": false,
+          "feedback": "Incorrect. Unless there is a bridge, you walk across."
+        },
+        {
+          "letter": "D",
+          "text": "under",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies the correct movement preposition to a directional instruction.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W35-review-p4-modals-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W35-review-p4-modals-008-v1",
+      "statement": "Which sentence is correct about a doctor's work?",
+      "context": "Analyzing the correct form of \"have to\" for third person.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A doctor have to help sick people.",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs \"has to\" for singular."
+        },
+        {
+          "letter": "B",
+          "text": "A doctor has to help sick people.",
+          "is_correct": true,
+          "feedback": "Correct! Subject-verb agreement for \"have to\"."
+        },
+        {
+          "letter": "C",
+          "text": "A doctor must to help sick people.",
+          "is_correct": false,
+          "feedback": "Incorrect. No \"to\" after \"must\"."
+        },
+        {
+          "letter": "D",
+          "text": "A doctor doesn't has to help sick people.",
+          "is_correct": false,
+          "feedback": "Incorrect. After \"doesn't\", use base form \"have\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes agreement rules for semi-modal and modal verbs.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W35-review-p4-modals-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W35-review-p4-modals-009-v1",
+      "statement": "Where exactly is the movie theater located?",
+      "context": "Analyzing a complex direction scenario.\n\"Go straight for three blocks. Turn right at the park. The movie theater is on your left, between the bakery and the bank.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On the right side of the park.",
+          "is_correct": false,
+          "feedback": "Incorrect. You turn right, but the theater is on your left."
+        },
+        {
+          "letter": "B",
+          "text": "Next to both a bakery and a bank.",
+          "is_correct": true,
+          "feedback": "Correct! \"Between\" implies it is next to both."
+        },
+        {
+          "letter": "C",
+          "text": "Inside the bank.",
+          "is_correct": false,
+          "feedback": "Incorrect. It is next to it."
+        },
+        {
+          "letter": "D",
+          "text": "After the fourth block.",
+          "is_correct": false,
+          "feedback": "Incorrect. It's after three blocks and a turn."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes multiple spatial indicators to pin down a specific location.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W35-review-p4-modals-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W35-review-p4-modals-010-v1",
+      "statement": "What is the most important instruction for the tourist's physical comfort?",
+      "context": "Evaluating advice for a tourist in Colombia.\n\"You should visit the Salt Cathedral in Zipaquirá. You must bring a jacket because it's cold inside. You don't have to worry about the distance; it's very near Bogotá.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To visit the Cathedral.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the main activity, not specific to physical comfort."
+        },
+        {
+          "letter": "B",
+          "text": "To bring a jacket.",
+          "is_correct": true,
+          "feedback": "Correct! This addresses the temperature (physical comfort)."
+        },
+        {
+          "letter": "C",
+          "text": "To not worry about the distance.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is about logistics."
+        },
+        {
+          "letter": "D",
+          "text": "To stay in Bogotá.",
+          "is_correct": false,
+          "feedback": "Incorrect. The advice is to visit another place."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student evaluates the functions of different modal sentences in a text to identify a specific type of recommendation.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W35-review-p4-modals-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "ar",
+    "pack_id": "ar-week-27-grade-11-subject-matematica",
+    "generated_at": "2026-06-18T23:58:36.290Z"
+  },
+  "questions": [
+    {
+      "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se denomina al conjunto total de todos los ciudadanos habilitados para votar en la Ciudad de Buenos Aires?",
+      "context": "Un consultor político en la Ciudad de Buenos Aires desea conocer la intención de voto para las próximas elecciones legislativas.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v1\n**Bloom:** Remember\n**EJE:** Probabilidad y Estadística\n**Contexto:** Consultoría política y opinión pública.\n**Expected_Success:** 0.92",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muestra",
+          "is_correct": false,
+          "feedback": "Incorrecto. La muestra es solo una parte representativa del total."
+        },
+        {
+          "letter": "B",
+          "text": "Población",
+          "is_correct": true,
+          "feedback": "Correcto. En estadística, la población es el conjunto completo de individuos u objetos que se desea estudiar."
+        },
+        {
+          "letter": "C",
+          "text": "Censo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El censo es el proceso de recolectar datos de toda la población, no el conjunto en sí."
+        },
+        {
+          "letter": "D",
+          "text": "Marco muestral",
+          "is_correct": false,
+          "feedback": "Incorrecto. El marco es la lista o registro de donde se extrae la muestra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La población es el universo completo de estudio. En este caso, todos los votantes habilitados de la jurisdicción analizada.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.92,
+      "bundle_id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el término correcto para designar a este subgrupo de 1.000 personas extraído de la población total?",
+      "context": "Para un estudio sobre hábitos de consumo de yerba mate, se eligen 1.000 personas de distintas provincias argentinas.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v2\n**Bloom:** Remember\n**EJE:** Probabilidad y Estadística\n**Contexto:** Estudio de mercado nacional.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estrato",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un estrato es una subdivisión de la población con características comunes."
+        },
+        {
+          "letter": "B",
+          "text": "Conglomerado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un conglomerado es un grupo natural (como un barrio) usado en ciertos muestreos."
+        },
+        {
+          "letter": "C",
+          "text": "Muestra",
+          "is_correct": true,
+          "feedback": "Correcto. Una muestra es un subconjunto de la población que se selecciona para obtener información sobre el total."
+        },
+        {
+          "letter": "D",
+          "text": "Parámetro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un parámetro es un valor numérico que describe una característica de la población."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La muestra es la parte representativa de la población sobre la cual se realizan efectivamente las mediciones o encuestas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo se clasifica este tipo de muestreo?",
+      "context": "Un investigador del CONICET decide realizar un muestreo donde cada individuo de la población tiene exactamente la misma probabilidad de ser elegido.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v3\n**Bloom:** Remember\n**EJE:** Probabilidad y Estadística\n**Contexto:** Investigación científica oficial.\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No probabilístico",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el no probabilístico la elección depende del criterio del investigador."
+        },
+        {
+          "letter": "B",
+          "text": "Probabilístico o Aleatorio",
+          "is_correct": true,
+          "feedback": "Correcto. Se basa en el principio de equiprobabilidad, garantizando que la elección sea al azar."
+        },
+        {
+          "letter": "C",
+          "text": "Por conveniencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es un tipo de muestreo no probabilístico."
+        },
+        {
+          "letter": "D",
+          "text": "Por cuotas",
+          "is_correct": false,
+          "feedback": "Incorrecto. También es un método no probabilístico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El muestreo probabilístico es aquel en el que se conoce la probabilidad de cada elemento de ser seleccionado, siendo el azar el mecanismo de elección.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué este tipo de muestreo se considera \"no probabilístico\"?",
+      "context": "Un periodista deportivo en una radio de Córdoba hace una encuesta a los oyentes que llaman por teléfono para saber quién ganará el clásico Talleres-Belgrano.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v4\n**Bloom:** Understand\n**EJE:** Probabilidad y Estadística\n**Contexto:** Medios de comunicación y encuestas rápidas.\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque no se usa una computadora para elegir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tecnología no define la naturaleza del muestreo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la población de Córdoba es muy grande.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño de la población no determina el tipo de muestreo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque solo participan las personas que deciden llamar (autoselección), no es al azar.",
+          "is_correct": true,
+          "feedback": "Correcto. No todos los hinchas tienen la misma probabilidad de ser elegidos; solo los que escuchan esa radio y quieren llamar."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el fútbol es una variable cualitativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene relación con el método de selección."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En el muestreo no probabilístico, no se puede garantizar que todos los miembros de la población tengan la oportunidad de ser seleccionados, lo que suele introducir sesgos importantes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v5",
+      "statement": "¿Cómo se denomina técnicamente este método de muestreo?",
+      "context": "En una fábrica de alfajores de Mar del Plata, se desea controlar la calidad de la producción diaria (10.000 unidades). Se decide elegir un alfajor cada 100 producidos.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v5\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Control de calidad industrial.\n**Expected_Success:** 0.82",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aleatorio simple",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el simple se eligen individuos aislados sin un patrón fijo."
+        },
+        {
+          "letter": "B",
+          "text": "Sistemático",
+          "is_correct": true,
+          "feedback": "Correcto. Se elige un punto de partida al azar y luego se seleccionan elementos siguiendo un intervalo fijo (k)."
+        },
+        {
+          "letter": "C",
+          "text": "Estratificado",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se dividió la producción en grupos con características distintas."
+        },
+        {
+          "letter": "D",
+          "text": "Por conglomerados",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se eligieron grupos naturales completos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El muestreo sistemático consiste en seleccionar elementos de una lista o línea de producción utilizando un intervalo constante k = N/n.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.82,
+      "bundle_id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v6",
+      "statement": "¿Qué tipo de muestreo se está aplicando?",
+      "context": "El Ministerio de Educación quiere evaluar el nivel de lectura en escuelas secundarias. Divide al país en 24 jurisdicciones (provincias + CABA) y asegura que la muestra tenga una proporción de alumnos de cada provincia igual a la de la población total.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v6\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Evaluación educativa nacional (Aprender).\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aleatorio simple",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se está forzando una estructura de grupos."
+        },
+        {
+          "letter": "B",
+          "text": "Estratificado",
+          "is_correct": true,
+          "feedback": "Correcto. Se divide la población en grupos (estratos) y se selecciona una muestra de cada uno para asegurar representatividad."
+        },
+        {
+          "letter": "C",
+          "text": "Por conveniencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un método científico planificado, no por facilidad."
+        },
+        {
+          "letter": "D",
+          "text": "Sistemático",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se usa un intervalo fijo sobre una lista única."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El muestreo estratificado garantiza que los subgrupos importantes de la población (estratos) estén representados proporcionalmente en la muestra final.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v7",
+      "statement": "¿A qué tipo de muestreo corresponde este procedimiento?",
+      "context": "Una empresa de logística quiere encuestar a sus empleados. Decide seleccionar al azar 5 sucursales completas de las 50 que tiene en todo el país y encuestar a todos los trabajadores de esas 5 sedes.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v7\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Clima organizacional en empresas federales.\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estratificado",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el estratificado se sacan algunos de cada grupo; aquí se sacan grupos completos."
+        },
+        {
+          "letter": "B",
+          "text": "Por conglomerados",
+          "is_correct": true,
+          "feedback": "Correcto. Los grupos (sucursales) se eligen al azar y se estudia a todos los miembros dentro de ellos."
+        },
+        {
+          "letter": "C",
+          "text": "Aleatorio simple",
+          "is_correct": false,
+          "feedback": "Incorrecto. La unidad de elección no es el individuo, sino el grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Bola de nieve",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este método se usa para poblaciones de difícil acceso mediante contactos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el muestreo por conglomerados, la población se divide en grupos naturales heterogéneos y se seleccionan algunos de estos grupos para ser censados o analizados íntegramente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el nombre de este método de muestreo no probabilístico?",
+      "context": "Un sociólogo en Rosario quiere estudiar a personas con una enfermedad muy rara. Como no tiene una lista de pacientes, contacta a uno, y le pide que le recomiende a otros conocidos que tengan la misma condición.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v8\n**Bloom:** Understand\n**EJE:** Probabilidad y Estadística\n**Contexto:** Investigación social de poblaciones ocultas.\n**Expected_Success:** 0.74",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muestreo por cuotas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este se basa en llenar categorías preestablecidas."
+        },
+        {
+          "letter": "B",
+          "text": "Muestreo de bola de nieve",
+          "is_correct": true,
+          "feedback": "Correcto. Se utiliza cuando los miembros de una población son difíciles de localizar; los sujetos actuales reclutan a los futuros."
+        },
+        {
+          "letter": "C",
+          "text": "Muestreo sistemático",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay un orden ni intervalo preestablecido."
+        },
+        {
+          "letter": "D",
+          "text": "Muestreo intencional",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aquí la selección depende de la red de contactos, no solo del juicio del experto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El muestreo de bola de nieve (o por redes) es una técnica no probabilística donde los individuos seleccionados ayudan a identificar y reclutar a otros participantes potenciales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el principal problema de este diseño muestral?",
+      "context": "En una encuesta telefónica sobre el uso de billeteras virtuales en Argentina, se decide llamar solo a teléfonos fijos entre las 10 y las 14 horas.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v9\n**Bloom:** Understand\n**EJE:** Probabilidad y Estadística\n**Contexto:** Error metodológico en encuestas.\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tamaño de la muestra es pequeño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema no es la cantidad, sino a quiénes se llama."
+        },
+        {
+          "letter": "B",
+          "text": "Se gasta mucho dinero en llamadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es un tema operativo, no de validez estadística."
+        },
+        {
+          "letter": "C",
+          "text": "Presenta un sesgo de cobertura (excluye a quienes solo usan celular o trabajan en ese horario).",
+          "is_correct": true,
+          "feedback": "Correcto. La muestra no será representativa porque deja afuera sistemáticamente a gran parte de la población joven y trabajadora."
+        },
+        {
+          "letter": "D",
+          "text": "Es un muestreo aleatorio simple perfecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un diseño con graves fallas de representatividad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El sesgo de cobertura ocurre cuando algunos miembros de la población tienen probabilidad cero de ser seleccionados debido al método de recolección de datos elegido.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.72,
+      "bundle_id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de las siguientes es una descripción correcta de un \"parámetro\"?",
+      "context": "Un estadístico explica la diferencia entre un \"parámetro\" y un \"estadístico\" o \"estimador\".\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v10\n**Bloom:** Remember\n**EJE:** Probabilidad y Estadística\n**Contexto:** Conceptos teóricos fundamentales.\n**Expected_Success:** 0.82",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un valor numérico que describe una característica de toda la población.",
+          "is_correct": true,
+          "feedback": "Correcto. Por ejemplo, el promedio de altura de todos los argentinos."
+        },
+        {
+          "letter": "B",
+          "text": "Es un valor que se calcula a partir de los datos de una muestra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso se llama estadístico o estimador."
+        },
+        {
+          "letter": "C",
+          "text": "Es el error que se comete al elegir la muestra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es el error de muestreo."
+        },
+        {
+          "letter": "D",
+          "text": "Es la lista de nombres de los encuestados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es parte del marco muestral."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los parámetros son valores fijos y desconocidos de la población, mientras que los estadísticos son valores variables calculados en la muestra para estimar a los parámetros.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál debe ser el intervalo de selección (k) y cuál es el procedimiento correcto?",
+      "context": "Se quiere realizar un muestreo sistemático en una lista de 5.000 facturas de una empresa en Mendoza. Se necesita una muestra de 200 facturas.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v11\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Auditoría contable mediante muestreo.\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "k = 50; se eligen las primeras 200 facturas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elegir las primeras no es aleatorio."
+        },
+        {
+          "letter": "B",
+          "text": "k = 25; se elige un número al azar entre 1 y 25, y luego cada 25 facturas.",
+          "is_correct": true,
+          "feedback": "Correcto. k = N / n = 5000 / 200 = 25."
+        },
+        {
+          "letter": "C",
+          "text": "k = 200; se eligen 200 facturas al azar de la lista completa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería aleatorio simple, no sistemático."
+        },
+        {
+          "letter": "D",
+          "text": "k = 10; se eligen facturas que terminen en cero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No respeta el cálculo del intervalo k necesario."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para el muestreo sistemático, k = N/n. 5000 / 200 = 25. Se elige un \"arranque aleatorio\" entre 1 y k, y a partir de allí se suma k sucesivamente.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v12",
+      "statement": "¿Cuántas personas deben seleccionarse del estrato B?",
+      "context": "En un muestreo estratificado proporcional, una población de 10.000 personas tiene dos estratos: A (8.000 personas) y B (2.000 personas). Se decide tomar una muestra total de 500 personas.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v12\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Diseño de muestra proporcional.\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "250 personas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sería un muestreo no proporcional (mitad y mitad)."
+        },
+        {
+          "letter": "B",
+          "text": "200 personas",
+          "is_correct": false,
+          "feedback": "Incorrecto. No respeta la proporción del 20% del estrato B."
+        },
+        {
+          "letter": "C",
+          "text": "100 personas",
+          "is_correct": true,
+          "feedback": "Correcto. El estrato B es el 20% de la población (2000/10000). El 20% de la muestra de 500 es 100."
+        },
+        {
+          "letter": "D",
+          "text": "400 personas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería la cantidad para el estrato A."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En el muestreo estratificado proporcional, el tamaño de la muestra de cada estrato (ni) mantiene la misma proporción que el estrato en la población (Ni/N). ni = (Ni/N) * n.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v13",
+      "statement": "¿Cómo se denomina este método de muestreo?",
+      "context": "Un encuestador en San Miguel de Tucumán recibe la instrucción de entrevistar a 50 hombres y 50 mujeres, de los cuales 20 deben ser menores de 30 años en cada grupo. Se le permite elegir a quién entrevistar siempre que cumpla con esas cantidades.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v13\n**Bloom:** Understand\n**EJE:** Probabilidad y Estadística\n**Contexto:** Trabajo de campo en encuestas de mercado.\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muestreo estratificado aleatorio",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el aleatorio, la selección dentro del estrato debe ser al azar, no a criterio del encuestador."
+        },
+        {
+          "letter": "B",
+          "text": "Muestreo por cuotas",
+          "is_correct": true,
+          "feedback": "Correcto. Es la versión no probabilística del estratificado; se fijan cantidades (cuotas) pero la selección es discrecional."
+        },
+        {
+          "letter": "C",
+          "text": "Muestreo aleatorio simple",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay libertad total de azar, hay restricciones de grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Censo parcial",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe ese término técnico en este contexto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El muestreo por cuotas define categorías de la población que deben estar presentes en la muestra, pero deja la elección final de los sujetos en manos del encuestador.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v14",
+      "statement": "¿Cómo se denomina técnicamente este fenómeno que afecta la validez de la muestra?",
+      "context": "Al realizar una encuesta nacional sobre el censo 2022, se observa que las personas con mayor nivel educativo tienden a responder más que las de menor nivel educativo.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v14\n**Bloom:** Analyze\n**EJE:** Probabilidad y Estadística\n**Contexto:** Problemas de respuesta en encuestas.\n**Expected_Success:** 0.62",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sesgo de selección",
+          "is_correct": false,
+          "feedback": "Incorrecto. El investigador los eligió bien, pero ellos no respondieron."
+        },
+        {
+          "letter": "B",
+          "text": "Sesgo de no respuesta",
+          "is_correct": true,
+          "feedback": "Correcto. Ocurre cuando la probabilidad de responder está relacionada con la variable de estudio, distorsionando los resultados."
+        },
+        {
+          "letter": "C",
+          "text": "Error de tipeo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un error de recolección, no de carga de datos."
+        },
+        {
+          "letter": "D",
+          "text": "Variabilidad natural",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un error sistemático, no azaroso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sesgo de no respuesta ocurre cuando los individuos que no contestan la encuesta tienen características o comportamientos diferentes a los que sí contestan.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.62,
+      "bundle_id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v15",
+      "statement": "¿A qué se debe esta diferencia inevitable?",
+      "context": "Un analista explica que, incluso si el muestreo es perfecto y aleatorio, el estadístico de la muestra casi nunca coincide exactamente con el parámetro de la población.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v15\n**Bloom:** Understand\n**EJE:** Probabilidad y Estadística\n**Contexto:** Error inherente al muestreo.\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A que los encuestadores mienten.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sería un error no muestral."
+        },
+        {
+          "letter": "B",
+          "text": "Al error de muestreo (o error aleatorio).",
+          "is_correct": true,
+          "feedback": "Correcto. Es la variabilidad natural producida por el hecho de observar solo una parte de la población."
+        },
+        {
+          "letter": "C",
+          "text": "A que el marco muestral está desactualizado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es un error sistemático, no inevitable."
+        },
+        {
+          "letter": "D",
+          "text": "A que la población es infinita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre también en poblaciones finitas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El error de muestreo es la diferencia entre el resultado de la muestra y el de la población que se debe exclusivamente al azar del proceso de selección. Se puede reducir aumentando el tamaño de la muestra.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la clasificación de este procedimiento de muestreo?",
+      "context": "Se desea estudiar el uso de agroquímicos en campos de la provincia de Buenos Aires. Se eligen al azar 10 partidos (municipios) y dentro de cada partido se eligen al azar 20 campos.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v16\n**Bloom:** Analyze\n**EJE:** Probabilidad y Estadística\n**Contexto:** Muestreo en etapas.\n**Expected_Success:** 0.58",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muestreo en una etapa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hubo dos niveles de selección."
+        },
+        {
+          "letter": "B",
+          "text": "Muestreo bietápico (o multietápico)",
+          "is_correct": true,
+          "feedback": "Correcto. Primero se seleccionan unidades mayores (partidos) y luego unidades menores (campos) dentro de ellas."
+        },
+        {
+          "letter": "C",
+          "text": "Muestreo estratificado simple",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se seleccionaron campos de todos los partidos, solo de algunos elegidos al azar."
+        },
+        {
+          "letter": "D",
+          "text": "Censo por conglomerados",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se estudiaron todos los campos de los partidos elegidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El muestreo multietápico combina diferentes técnicas en niveles sucesivos, permitiendo mayor eficiencia logística en poblaciones geográficamente dispersas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es el valor del promedio de todas las medias muestrales posibles (μ_x)?",
+      "context": "Consideramos una población de N = 4 elementos {2, 4, 6, 8}. Se extraen todas las muestras posibles de tamaño n = 2 CON reposición.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v17\n**Bloom:** Evaluate\n**EJE:** Probabilidad y Estadística\n**Contexto:** Distribución muestral de la media.\n**Expected_Success:** 0.50",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. No coincide con la media poblacional."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. La media de la población es (2+4+6+8)/4 = 5. Según la teoría, la media de las medias muestrales es siempre igual a la media poblacional."
+        },
+        {
+          "letter": "C",
+          "text": "2,5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sería si se dividiera por el tamaño de muestra."
+        },
+        {
+          "letter": "D",
+          "text": "6,25",
+          "is_correct": false,
+          "feedback": "Incorrecto. No surge de las propiedades de la distribución muestral."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una propiedad fundamental de la estadística es que el valor esperado (promedio) de la distribución muestral de la media es idéntico a la media de la población original. E[X] = μ.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v18",
+      "statement": "¿Es correcta la afirmación del estadístico?",
+      "context": "Un estadístico afirma que al duplicar el tamaño de una muestra (de n a 2n), el error de muestreo se reduce a la mitad.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v18\n**Bloom:** Evaluate\n**EJE:** Probabilidad y Estadística\n**Contexto:** Relación entre error y tamaño de muestra.\n**Expected_Success:** 0.45",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, es una relación lineal directa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El error no baja linealmente con n."
+        },
+        {
+          "letter": "B",
+          "text": "No, para reducir el error a la mitad se debe cuadruplicar el tamaño de la muestra (4n).",
+          "is_correct": true,
+          "feedback": "Correcto. El error estándar es proporcional a 1/√n. Para reducir el error por un factor de 2, n debe aumentar por un factor de 2² = 4."
+        },
+        {
+          "letter": "C",
+          "text": "No, el error no depende del tamaño de la muestra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí depende, pero no de forma lineal."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, siempre que la población sea mayor a 100.000.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación raíz cuadrada aplica para cualquier población grande."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El error típico de estimación disminuye con la raíz cuadrada del tamaño de la muestra. Por lo tanto, mejorar la precisión requiere aumentos significativos en la cantidad de datos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál de los siguientes es el error más grave presente en este diseño?",
+      "context": "Se realiza un estudio de mercado en CABA sobre una nueva marca de alfajores. El marco muestral utilizado es la guía telefónica de líneas fijas del año 2015.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v19\n**Bloom:** Evaluate\n**EJE:** Probabilidad y Estadística\n**Contexto:** Error en el marco muestral.\n**Expected_Success:** 0.52",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Error de redondeo en las encuestas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un tema menor frente al problema estructural."
+        },
+        {
+          "letter": "B",
+          "text": "Error de marco muestral (falta de paridad entre población objetivo y marco).",
+          "is_correct": true,
+          "feedback": "Correcto. El registro está muy desactualizado y no incluye a los nuevos usuarios ni a quienes solo tienen celular."
+        },
+        {
+          "letter": "C",
+          "text": "Error por excesiva precisión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene sentido técnico."
+        },
+        {
+          "letter": "D",
+          "text": "Sesgo del entrevistador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema es previo a la entrevista, está en la selección."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El error de marco ocurre cuando la lista de la que se extrae la muestra no coincide con la población que realmente se quiere estudiar, dejando fuera a grupos enteros o incluyendo a personas que no corresponden.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.52,
+      "bundle_id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál de los dos métodos es más probable que proporcione una estimación más precisa (menor varianza)?",
+      "context": "Un investigador de Bariloche quiere comparar dos métodos de muestreo para estimar la cantidad de nieve promedio en una montaña: (1) Elegir 10 puntos al azar en toda la montaña, (2) Dividir la montaña en 5 zonas de altura y elegir 2 puntos al azar en cada zona.\n\n**ID:** AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle-v20\n**Bloom:** Evaluate\n**EJE:** Probabilidad y Estadística\n**Contexto:** Eficiencia de diseños muestrales.\n**Expected_Success:** 0.42",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El método 1 (aleatorio simple) porque es más puro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aleatorio simple suele tener mayor varianza cuando la población es heterogénea."
+        },
+        {
+          "letter": "B",
+          "text": "El método 2 (estratificado) porque asegura representación de todas las alturas.",
+          "is_correct": true,
+          "feedback": "Correcto. La nieve varía mucho con la altura (estratificación efectiva), por lo que este método reduce la variabilidad de la muestra."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos son idénticos porque el tamaño total de muestra es 10.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diseño afecta la precisión aunque n sea igual."
+        },
+        {
+          "letter": "D",
+          "text": "Depende de qué día se realice la medición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estamos evaluando la eficiencia teórica del diseño."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El muestreo estratificado es más eficiente que el aleatorio simple cuando la variable de estudio está correlacionada con los estratos. Al capturar la variabilidad entre zonas de altura, se reduce el error de estimación global.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "AR-MAT-11-2026-W27-muestreo-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    }
+  ]
+}

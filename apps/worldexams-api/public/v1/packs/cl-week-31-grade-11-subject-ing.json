@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ingles",
+    "country": "cl",
+    "pack_id": "cl-week-31-grade-11-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.112Z"
+  },
+  "questions": [
+    {
+      "id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-v1",
+      "statement": "A metaphor is a figure of speech that describes an object or action in a way that isn’t literally true, but helps explain an idea or make a comparison.",
+      "context": "Introduction to figurative language.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fact",
+          "is_correct": false,
+          "feedback": "Incorrect. A metaphor is not literally true."
+        },
+        {
+          "letter": "B",
+          "text": "Metaphor",
+          "is_correct": true,
+          "feedback": "Correct. Specific term for this type of comparison."
+        },
+        {
+          "letter": "C",
+          "text": "Slogan",
+          "is_correct": false,
+          "feedback": "Incorrect. Used in advertising."
+        },
+        {
+          "letter": "D",
+          "text": "Archive",
+          "is_correct": false,
+          "feedback": "Incorrect. A collection of records."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Metaphor' is the foundational literary term for non-literal comparisons used to create imagery.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-v2",
+      "statement": "First-person narration is a mode of storytelling in which the narrator is a character in the story and speaks for themselves.",
+      "context": "Discussing narrative voice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "speak",
+          "is_correct": false,
+          "feedback": "Incorrect. Subject-verb agreement ('narrator' is singular)."
+        },
+        {
+          "letter": "B",
+          "text": "speaks",
+          "is_correct": true,
+          "feedback": "Correct. Present simple for a definition."
+        },
+        {
+          "letter": "C",
+          "text": "speaking",
+          "is_correct": false,
+          "feedback": "Incorrect. Gerund."
+        },
+        {
+          "letter": "D",
+          "text": "spoke",
+          "is_correct": false,
+          "feedback": "Incorrect. Past tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present simple 'speaks' describes the constant function of a narrative style.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-v3",
+      "statement": "If the author had revealed the secret in the first chapter, the ending wouldn't have been so shocking.",
+      "context": "Speculating about a plot twist.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "revealed",
+          "is_correct": false,
+          "feedback": "Incorrect. Second conditional."
+        },
+        {
+          "letter": "B",
+          "text": "had revealed",
+          "is_correct": true,
+          "feedback": "Correct. Third conditional for hypothetical past."
+        },
+        {
+          "letter": "C",
+          "text": "has revealed",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "would reveal",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' not used in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The third conditional is used to imagine how a different narrative choice would have affected the reader's experience.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-v4",
+      "statement": "\"Show, don't tell\" is a technique used in creative writing to allow the reader to experience the story through action and sensory details.",
+      "context": "Article about \"show, don't tell\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sensory",
+          "is_correct": true,
+          "feedback": "Correct. Sensory details relate to the five senses."
+        },
+        {
+          "letter": "B",
+          "text": "boring",
+          "is_correct": false,
+          "feedback": "Incorrect. The technique aims to make writing more engaging."
+        },
+        {
+          "letter": "C",
+          "text": "hidden",
+          "is_correct": false,
+          "feedback": "Incorrect. Details should be present to 'show' the scene."
+        },
+        {
+          "letter": "D",
+          "text": "numerical",
+          "is_correct": false,
+          "feedback": "Incorrect. Unrelated to the creative technique."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Sensory' details are the sights, sounds, smells, etc., that writers use to create immersive scenes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-v5",
+      "statement": "Effective character development involves creating a protagonist who is complex and multi-dimensional.",
+      "context": "Discussion on \"character development\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "simple",
+          "is_correct": false,
+          "feedback": "Incorrect. Good characters are usually complex."
+        },
+        {
+          "letter": "B",
+          "text": "complex",
+          "is_correct": true,
+          "feedback": "Correct. Complex characters have many parts or aspects."
+        },
+        {
+          "letter": "C",
+          "text": "invisible",
+          "is_correct": false,
+          "feedback": "Incorrect. Characters need to be present."
+        },
+        {
+          "letter": "D",
+          "text": "perfect",
+          "is_correct": false,
+          "feedback": "Incorrect. Flaws often make characters more relatable and interesting."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Complex' refers to the richness and depth of a well-written character's personality and motivations.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-v6",
+      "statement": "A draft is a preliminary version of a piece of writing.",
+      "context": "Describing a draft.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "finale",
+          "is_correct": false,
+          "feedback": "Incorrect. The final version."
+        },
+        {
+          "letter": "B",
+          "text": "draft",
+          "is_correct": true,
+          "feedback": "Correct. An early or rough version of a text."
+        },
+        {
+          "letter": "C",
+          "text": "slogan",
+          "is_correct": false,
+          "feedback": "Incorrect. Advertising phrase."
+        },
+        {
+          "letter": "D",
+          "text": "prompt",
+          "is_correct": false,
+          "feedback": "Incorrect. A starting instruction for writing."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Draft' is the standard term for the various versions a writer produces before finishing a work.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-v7",
+      "statement": "She is used to revising her work multiple times before she is satisfied with the result.",
+      "context": "Describing a writer's routine.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "use to",
+          "is_correct": false,
+          "feedback": "Incorrect grammar."
+        },
+        {
+          "letter": "B",
+          "text": "is used to",
+          "is_correct": true,
+          "feedback": "Correct. 'Be used to + -ing' means 'accustomed to'."
+        },
+        {
+          "letter": "C",
+          "text": "used to",
+          "is_correct": false,
+          "feedback": "Incorrect. Refers to a past habit."
+        },
+        {
+          "letter": "D",
+          "text": "used",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Is used to + gerund' describes a current state of being accustomed to a specific professional habit.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-v8",
+      "statement": "Alliteration is the occurrence of the same letter or sound at the beginning of adjacent or closely connected words.",
+      "context": "Text on \"alliteration\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rhyme",
+          "is_correct": false,
+          "feedback": "Incorrect. Occurs at the end of words."
+        },
+        {
+          "letter": "B",
+          "text": "Alliteration",
+          "is_correct": true,
+          "feedback": "Correct. Occurs at the beginning of words."
+        },
+        {
+          "letter": "C",
+          "text": "Irony",
+          "is_correct": false,
+          "feedback": "Incorrect. Contrast between expectation and reality."
+        },
+        {
+          "letter": "D",
+          "text": "Imagery",
+          "is_correct": false,
+          "feedback": "Incorrect. Use of vivid description."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Alliteration' is the technical term for the repetition of initial consonant sounds.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-v9",
+      "statement": "New stories are being inspired by current events and personal experiences every day.",
+      "context": "Describing an ongoing process of creative inspiration.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are inspiring",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "are being inspired",
+          "is_correct": true,
+          "feedback": "Correct. Present continuous passive for an ongoing process."
+        },
+        {
+          "letter": "C",
+          "text": "inspired",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "D",
+          "text": "have inspired",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present continuous passive describes the active and constant influence of life on literature.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-v10",
+      "statement": "A cliché is a phrase or opinion that is overused and betrays a lack of original thought.",
+      "context": "Critique of \"overused tropes\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "masterpiece",
+          "is_correct": false,
+          "feedback": "Incorrect. A masterpiece is original and great."
+        },
+        {
+          "letter": "B",
+          "text": "cliché",
+          "is_correct": true,
+          "feedback": "Correct. Term for an unoriginal or overused idea."
+        },
+        {
+          "letter": "C",
+          "text": "metaphor",
+          "is_correct": false,
+          "feedback": "Incorrect. A tool for creative comparison."
+        },
+        {
+          "letter": "D",
+          "text": "dialogue",
+          "is_correct": false,
+          "feedback": "Incorrect. A tool for representing speech."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Cliché' describes the unoriginality that writers aim to avoid in creative work.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-v11",
+      "statement": "A genre is a category of artistic composition characterized by similarities in form, style, or subject matter.",
+      "context": "Definition of a genre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Script",
+          "is_correct": false,
+          "feedback": "Incorrect. A written plan."
+        },
+        {
+          "letter": "B",
+          "text": "Genre",
+          "is_correct": true,
+          "feedback": "Correct. A category like mystery, romance, or sci-fi."
+        },
+        {
+          "letter": "C",
+          "text": "Prompt",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Review",
+          "is_correct": false,
+          "feedback": "Incorrect. An evaluation."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Genre' is the standard term for classifying literary and artistic works.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-v12",
+      "statement": "By the end of the year, she will have completed her second novel.",
+      "context": "Describing a future publication milestone.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will complete",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple future."
+        },
+        {
+          "letter": "B",
+          "text": "will have completed",
+          "is_correct": true,
+          "feedback": "Correct. Future perfect for a completed action by a future point."
+        },
+        {
+          "letter": "C",
+          "text": "completes",
+          "is_correct": false,
+          "feedback": "Incorrect. Present."
+        },
+        {
+          "letter": "D",
+          "text": "completed",
+          "is_correct": false,
+          "feedback": "Incorrect. Past."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The future perfect describes a goal that will be a finished achievement by the stated deadline.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-v13",
+      "statement": "A writer's voice is the unique style or perspective that makes their work recognizable.",
+      "context": "Discussing \"voice\" in writing.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "unique",
+          "is_correct": true,
+          "feedback": "Correct. Unique means being the only one of its kind; unlike anything else."
+        },
+        {
+          "letter": "B",
+          "text": "identical",
+          "is_correct": false,
+          "feedback": "Incorrect. Opposite of unique."
+        },
+        {
+          "letter": "C",
+          "text": "common",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Voice' should be distinct."
+        },
+        {
+          "letter": "D",
+          "text": "invisible",
+          "is_correct": false,
+          "feedback": "Incorrect. Voice should be felt by the reader."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Unique' captures the individuality that defines a writer's specific stylistic 'voice'.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-v14",
+      "statement": "If I had more time to daydream, I would come up with more interesting story ideas.",
+      "context": "Condition about creativity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Incorrect. First conditional."
+        },
+        {
+          "letter": "B",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. Second conditional for a hypothetical change."
+        },
+        {
+          "letter": "C",
+          "text": "have had",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "would have",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' not used in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The second conditional 'if + past simple' describes how a hypothetical change in lifestyle would affect creativity.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-v15",
+      "statement": "The author concludes that \"writing is rewriting,\" emphasizing the critical role of revision in the creative process.",
+      "context": "Conclusion of an essay on the importance of revision.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "secondary",
+          "is_correct": false,
+          "feedback": "Incorrect. The author says it's critical (essential)."
+        },
+        {
+          "letter": "B",
+          "text": "critical",
+          "is_correct": true,
+          "feedback": "Correct. Critical means expressing adverse or disapproving comments or judgments, but also (as here) essential or fundamental."
+        },
+        {
+          "letter": "C",
+          "text": "optional",
+          "is_correct": false,
+          "feedback": "Incorrect. Author says it's central to the process."
+        },
+        {
+          "letter": "D",
+          "text": "boring",
+          "is_correct": false,
+          "feedback": "Incorrect. While it might be, 'critical' is the professional evaluation of its role."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Critical' correctly identifies the essential and fundamental role that revision plays in high-quality writing.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-v16",
+      "statement": "The protagonist is the main character in a play, novel, or movie.",
+      "context": "Describing a \"protagonist\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Antagonist",
+          "is_correct": false,
+          "feedback": "Incorrect. The opponent."
+        },
+        {
+          "letter": "B",
+          "text": "Protagonist",
+          "is_correct": true,
+          "feedback": "Correct. The leading character."
+        },
+        {
+          "letter": "C",
+          "text": "Narrator",
+          "is_correct": false,
+          "feedback": "Incorrect. The one telling the story."
+        },
+        {
+          "letter": "D",
+          "text": "Extra",
+          "is_correct": false,
+          "feedback": "Incorrect. A character with no speaking part."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Protagonist' is the technical term for the central figure in a creative narrative.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-v17",
+      "statement": "The instructor suggested that we experiment with different narrative perspectives.",
+      "context": "Reporting a writer's advice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "experiment",
+          "is_correct": true,
+          "feedback": "Correct. Subjunctive base form after 'suggested'."
+        },
+        {
+          "letter": "B",
+          "text": "experiments",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "to experiment",
+          "is_correct": false,
+          "feedback": "Incorrect. Doesn't fit 'that' clause."
+        },
+        {
+          "letter": "D",
+          "text": "experimenting",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Verbs of suggestion take a 'that' clause with the base form (subjunctive mood) of the following verb.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-v18",
+      "statement": "Poetic license is the freedom of a writer to depart from conventional rules of language or fact for artistic effect.",
+      "context": "Text about \"poetic license\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Restriction",
+          "is_correct": false,
+          "feedback": "Incorrect. It's about freedom."
+        },
+        {
+          "letter": "B",
+          "text": "Poetic license",
+          "is_correct": true,
+          "feedback": "Correct. Term for artistic freedom from rules."
+        },
+        {
+          "letter": "C",
+          "text": "Plagiarism",
+          "is_correct": false,
+          "feedback": "Incorrect. This is illegal/unethical use of work."
+        },
+        {
+          "letter": "D",
+          "text": "Grammar",
+          "is_correct": false,
+          "feedback": "Incorrect. Refers to the rules themselves."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Poetic license' is the standard phrase for the artistic freedom allowed to writers and poets.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-v19",
+      "statement": "I had been struggling with writer's block for weeks before the inspiration finally struck.",
+      "context": "Describing a past struggle with writer's block.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was struggling",
+          "is_correct": false,
+          "feedback": "Incorrect. Past continuous."
+        },
+        {
+          "letter": "B",
+          "text": "had been struggling",
+          "is_correct": true,
+          "feedback": "Correct. Past perfect continuous for duration before a past point."
+        },
+        {
+          "letter": "C",
+          "text": "have been struggling",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect continuous."
+        },
+        {
+          "letter": "D",
+          "text": "struggle",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The past perfect continuous emphasizes the duration of the difficulty leading up to a specific past moment of success.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-v20",
+      "statement": "Creative writing is a powerful means of self-expression, allowing us to share our unique vision of the world with others.",
+      "context": "Final thought on self-expression.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "self-expression",
+          "is_correct": true,
+          "feedback": "Correct. Expression of one's own personality, feelings, or ideas."
+        },
+        {
+          "letter": "B",
+          "text": "isolation",
+          "is_correct": false,
+          "feedback": "Incorrect. Writing aims to connect."
+        },
+        {
+          "letter": "C",
+          "text": "confusion",
+          "is_correct": false,
+          "feedback": "Incorrect. Writing aims for clarity of vision."
+        },
+        {
+          "letter": "D",
+          "text": "greed",
+          "is_correct": false,
+          "feedback": "Incorrect. Unrelated."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Self-expression' is the primary purpose and benefit of creative work described in the text.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W31-creative-writing-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

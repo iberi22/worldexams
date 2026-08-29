@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ingles",
+    "country": "cl",
+    "pack_id": "cl-week-6-grade-11-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.093Z"
+  },
+  "questions": [
+    {
+      "id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v1",
+      "statement": "The preservation of natural resources for future generations is the core principle of sustainability.",
+      "context": "Discussion on conservation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "exploitation",
+          "is_correct": false,
+          "feedback": "Incorrect. Exploitation means using something for benefit."
+        },
+        {
+          "letter": "B",
+          "text": "preservation",
+          "is_correct": true,
+          "feedback": "Correct. Preservation is the act of keeping something as it is."
+        },
+        {
+          "letter": "C",
+          "text": "destruction",
+          "is_correct": false,
+          "feedback": "Incorrect. Destruction is the opposite."
+        },
+        {
+          "letter": "D",
+          "text": "consumption",
+          "is_correct": false,
+          "feedback": "Incorrect. Consumption means using something up."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Preservation' refers to the careful management and protection of resources to ensure they last.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v2",
+      "statement": "Species are disappearing at an alarming rate due to habitat loss and climate change.",
+      "context": "Describing an ongoing environmental process.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "disappear",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple."
+        },
+        {
+          "letter": "B",
+          "text": "are disappearing",
+          "is_correct": true,
+          "feedback": "Correct. Present continuous for an ongoing trend."
+        },
+        {
+          "letter": "C",
+          "text": "have disappeared",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "will disappear",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present continuous 'are disappearing' emphasizes that this is a current and ongoing phenomenon.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v3",
+      "statement": "If we had acted sooner, we could have prevented much of the damage to the ozone layer.",
+      "context": "Talking about past environmental damage.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "acted",
+          "is_correct": false,
+          "feedback": "Incorrect. Second conditional."
+        },
+        {
+          "letter": "B",
+          "text": "had acted",
+          "is_correct": true,
+          "feedback": "Correct. Third conditional for hypothetical past situations."
+        },
+        {
+          "letter": "C",
+          "text": "act",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "D",
+          "text": "would act",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' is not used in the 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The third conditional (if + past perfect) describes an alternative past that did not happen.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v4",
+      "statement": "Greenwashing occurs when a company spends more time on marketing itself as environmentally friendly than on actually minimizing its impact.",
+      "context": "Text about \"greenwashing\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "greenwashing",
+          "is_correct": true,
+          "feedback": "Correct. Greenwashing is deceptive environmental marketing."
+        },
+        {
+          "letter": "B",
+          "text": "recycling",
+          "is_correct": false,
+          "feedback": "Incorrect. Recycling is a real environmental action."
+        },
+        {
+          "letter": "C",
+          "text": "reforestation",
+          "is_correct": false,
+          "feedback": "Incorrect. Reforestation is planting trees."
+        },
+        {
+          "letter": "D",
+          "text": "composting",
+          "is_correct": false,
+          "feedback": "Incorrect. Composting is recycling organic waste."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Greenwashing' is the specific term for misleading consumers regarding the environmental practices of a company.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v5",
+      "statement": "The primary challenge in managing plastic waste is its persistence in the environment.",
+      "context": "Discussion on the \"plastic crisis\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "solubility",
+          "is_correct": false,
+          "feedback": "Incorrect. Solubility refers to dissolving."
+        },
+        {
+          "letter": "B",
+          "text": "persistence",
+          "is_correct": true,
+          "feedback": "Correct. Persistence refers to the ability to remain for a long time."
+        },
+        {
+          "letter": "C",
+          "text": "variety",
+          "is_correct": false,
+          "feedback": "Incorrect. Variety refers to diversity."
+        },
+        {
+          "letter": "D",
+          "text": "weight",
+          "is_correct": false,
+          "feedback": "Incorrect. Weight is not the main problem."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Persistence' correctly describes the quality of plastic remaining in the environment without breaking down.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v6",
+      "statement": "Solar panels convert sunlight into electricity, providing a clean source of power.",
+      "context": "Describing renewable energy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "fuel",
+          "is_correct": false,
+          "feedback": "Incorrect. Fuel usually refers to combustibles."
+        },
+        {
+          "letter": "B",
+          "text": "electricity",
+          "is_correct": true,
+          "feedback": "Correct. Solar panels produce electrical energy."
+        },
+        {
+          "letter": "C",
+          "text": "heat",
+          "is_correct": false,
+          "feedback": "Incorrect. While related, electricity is the main discussion."
+        },
+        {
+          "letter": "D",
+          "text": "gas",
+          "is_correct": false,
+          "feedback": "Incorrect. Gas is a different source."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The primary function of photovoltaic solar panels is to generate electricity.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v7",
+      "statement": "It is essential that we reduce our water consumption to prepare for future droughts.",
+      "context": "Recommendation for water conservation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "reduce",
+          "is_correct": true,
+          "feedback": "Correct. Subjunctive form after 'It is essential that...'."
+        },
+        {
+          "letter": "B",
+          "text": "reduces",
+          "is_correct": false,
+          "feedback": "Incorrect. Third person singular."
+        },
+        {
+          "letter": "C",
+          "text": "to reduce",
+          "is_correct": false,
+          "feedback": "Incorrect. Infinitive doesn't fit here."
+        },
+        {
+          "letter": "D",
+          "text": "reducing",
+          "is_correct": false,
+          "feedback": "Incorrect. Gerund doesn't fit here."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Reduce' is the base form used in the subjunctive mood to express necessity.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v8",
+      "statement": "Urban sprawl often leads to the destruction of natural habitats and increased reliance on automobiles.",
+      "context": "Text on urban planning.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "rejuvenation",
+          "is_correct": false,
+          "feedback": "Incorrect. Rejuvenation means making something young again."
+        },
+        {
+          "letter": "B",
+          "text": "sprawl",
+          "is_correct": true,
+          "feedback": "Correct. Urban sprawl is the expansion of cities."
+        },
+        {
+          "letter": "C",
+          "text": "density",
+          "is_correct": false,
+          "feedback": "Incorrect. Density refers to compact building."
+        },
+        {
+          "letter": "D",
+          "text": "forestry",
+          "is_correct": false,
+          "feedback": "Incorrect. Forestry is about managing forests."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Urban sprawl' describes the outward growth of cities into rural areas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v9",
+      "statement": "Years ago, people used to throw away much more waste than we do now.",
+      "context": "Describing a past habit.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "use to",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs 'used' for past habits."
+        },
+        {
+          "letter": "B",
+          "text": "used to",
+          "is_correct": true,
+          "feedback": "Correct. 'Used to' describes past habits."
+        },
+        {
+          "letter": "C",
+          "text": "would",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Used to' is better for states."
+        },
+        {
+          "letter": "D",
+          "text": "are used to",
+          "is_correct": false,
+          "feedback": "Incorrect. This means 'accustomed to'."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Used to' is the appropriate structure for describing a past habit or state that has changed.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v10",
+      "statement": "The \"throwaway culture\" refers to a society that prioritizes convenience over the environmental cost.",
+      "context": "Critique of the \"throwaway culture\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "economy",
+          "is_correct": false,
+          "feedback": "Incorrect. While related, convenience is the focus."
+        },
+        {
+          "letter": "B",
+          "text": "convenience",
+          "is_correct": true,
+          "feedback": "Correct. Desired for easy, one-time use."
+        },
+        {
+          "letter": "C",
+          "text": "tradition",
+          "is_correct": false,
+          "feedback": "Incorrect. Modern phenomenon."
+        },
+        {
+          "letter": "D",
+          "text": "safety",
+          "is_correct": false,
+          "feedback": "Incorrect. General culture is about ease."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Convenience' is the primary driver of the consumption of single-use products.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v11",
+      "statement": "An endangered species is a type of organism which is at risk of extinction.",
+      "context": "Environmental legislation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "invasive",
+          "is_correct": false,
+          "feedback": "Incorrect. Invasive species cause harm."
+        },
+        {
+          "letter": "B",
+          "text": "extinct",
+          "is_correct": false,
+          "feedback": "Incorrect. Extinct species are gone."
+        },
+        {
+          "letter": "C",
+          "text": "endangered",
+          "is_correct": true,
+          "feedback": "Correct. Endangered means at risk."
+        },
+        {
+          "letter": "D",
+          "text": "resilient",
+          "is_correct": false,
+          "feedback": "Incorrect. Resilient means able to recover."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Endangered' is the formal status for species close to being lost.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v12",
+      "statement": "Vast areas of the rainforest are being cleared to make way for agriculture.",
+      "context": "Passive voice in an ecology report.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are clearing",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "are being cleared",
+          "is_correct": true,
+          "feedback": "Correct. Present continuous passive for ongoing process."
+        },
+        {
+          "letter": "C",
+          "text": "cleared",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "D",
+          "text": "have cleared",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present continuous passive 'are being cleared' describes the current destruction.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v13",
+      "statement": "Reforestation projects help to sequester carbon from the atmosphere.",
+      "context": "Discussing climate mitigation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sequester",
+          "is_correct": true,
+          "feedback": "Correct. To sequester means to store carbon."
+        },
+        {
+          "letter": "B",
+          "text": "release",
+          "is_correct": false,
+          "feedback": "Incorrect. Releasing carbon is bad."
+        },
+        {
+          "letter": "C",
+          "text": "ignore",
+          "is_correct": false,
+          "feedback": "Incorrect. Trees don't ignore carbon."
+        },
+        {
+          "letter": "D",
+          "text": "manufacture",
+          "is_correct": false,
+          "feedback": "Incorrect. Trees absorb it."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Sequester' is the technical term for the absorption and storage of carbon dioxide.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v14",
+      "statement": "If the government imposed higher taxes on carbon, companies would likely invest more in clean energy.",
+      "context": "Conditional about policy change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "imposes",
+          "is_correct": false,
+          "feedback": "Incorrect. First conditional."
+        },
+        {
+          "letter": "B",
+          "text": "imposed",
+          "is_correct": true,
+          "feedback": "Correct. Second conditional for hypothetical policy."
+        },
+        {
+          "letter": "C",
+          "text": "had imposed",
+          "is_correct": false,
+          "feedback": "Incorrect. Third conditional."
+        },
+        {
+          "letter": "D",
+          "text": "would impose",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' not used in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The second conditional is used to describe a hypothetical scenario and its likely outcome.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v15",
+      "statement": "The study concludes that unless we address acidification, coral reefs will face collapse.",
+      "context": "Conclusion of a study on marine biology.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "if",
+          "is_correct": false,
+          "feedback": "Incorrect. Collapse happens if we don't fix it."
+        },
+        {
+          "letter": "B",
+          "text": "unless",
+          "is_correct": true,
+          "feedback": "Correct. 'Unless' means 'if not'."
+        },
+        {
+          "letter": "C",
+          "text": "although",
+          "is_correct": false,
+          "feedback": "Incorrect. Expresses contrast."
+        },
+        {
+          "letter": "D",
+          "text": "provided",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Provided' means 'if'."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Unless' sets the condition that collapse is inevitable if acidification is not addressed.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v16",
+      "statement": "Biodegradable materials can be broken down by bacteria.",
+      "context": "Waste management.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Synthetic",
+          "is_correct": false,
+          "feedback": "Incorrect. Often not biodegradable."
+        },
+        {
+          "letter": "B",
+          "text": "Biodegradable",
+          "is_correct": true,
+          "feedback": "Correct. Capable of being decomposed."
+        },
+        {
+          "letter": "C",
+          "text": "Permanent",
+          "is_correct": false,
+          "feedback": "Incorrect. Lasts forever."
+        },
+        {
+          "letter": "D",
+          "text": "Hazardous",
+          "is_correct": false,
+          "feedback": "Incorrect. Means dangerous."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Biodegradable' is the property of substances that decompose naturally.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v17",
+      "statement": "By 2040, the Arctic Ocean might be ice-free during the summer.",
+      "context": "Speculating about the arctic.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "might be",
+          "is_correct": true,
+          "feedback": "Correct. Expresses possibility."
+        },
+        {
+          "letter": "B",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple."
+        },
+        {
+          "letter": "C",
+          "text": "was",
+          "is_correct": false,
+          "feedback": "Incorrect. Past tense."
+        },
+        {
+          "letter": "D",
+          "text": "will have been",
+          "is_correct": false,
+          "feedback": "Incorrect. Future perfect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Might' is appropriate for expressing a scientific projection with uncertainty.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v18",
+      "statement": "The burning of fossil fuels releases large amounts of carbon dioxide.",
+      "context": "Text about the \"carbon cycle\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "absorbs",
+          "is_correct": false,
+          "feedback": "Incorrect. Burning releases."
+        },
+        {
+          "letter": "B",
+          "text": "releases",
+          "is_correct": true,
+          "feedback": "Correct. Set free or allow to escape."
+        },
+        {
+          "letter": "C",
+          "text": "creates",
+          "is_correct": false,
+          "feedback": "Incorrect. Carbon was already there."
+        },
+        {
+          "letter": "D",
+          "text": "destroys",
+          "is_correct": false,
+          "feedback": "Incorrect. Carbon cannot be destroyed."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Releases' correctly describes how carbon stored in fossil fuels is emitted.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v19",
+      "statement": "The scientist warned that the effects of climate change were becoming irreversible.",
+      "context": "Reporting a scientist's warning.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are becoming",
+          "is_correct": false,
+          "feedback": "Incorrect. Doesn't match 'warned'."
+        },
+        {
+          "letter": "B",
+          "text": "were becoming",
+          "is_correct": true,
+          "feedback": "Correct. Backshifting from 'are' to 'were'."
+        },
+        {
+          "letter": "C",
+          "text": "have become",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "will become",
+          "is_correct": false,
+          "feedback": "Incorrect. Future tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, we backshift tenses: 'are becoming' becomes 'were becoming'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-v20",
+      "statement": "Sustainability requires a fundamental shift in how we perceive our relationship with nature.",
+      "context": "Final thought on environmental ethics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ignore",
+          "is_correct": false,
+          "feedback": "Incorrect. Won't lead to sustainability."
+        },
+        {
+          "letter": "B",
+          "text": "exploit",
+          "is_correct": false,
+          "feedback": "Incorrect. Opposite of sustainability."
+        },
+        {
+          "letter": "C",
+          "text": "perceive",
+          "is_correct": true,
+          "feedback": "Correct. Conscious of something."
+        },
+        {
+          "letter": "D",
+          "text": "destroy",
+          "is_correct": false,
+          "feedback": "Incorrect. Not part of sustainability."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Perceive' refers to the mental perspective that must change.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W06-environmental-sustainability-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

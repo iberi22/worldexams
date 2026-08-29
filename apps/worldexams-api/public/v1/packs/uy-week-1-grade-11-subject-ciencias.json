@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "uy",
+    "pack_id": "uy-week-1-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-04T05:18:14.096Z"
+  },
+  "questions": [
+    {
+      "id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la característica principal de una hipótesis científica bien planteada?",
+      "context": "Durante una actividad de laboratorio en el Liceo N° 3 de Salto, Santiago analiza la formulación de hipótesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe ser falsable y permitir la formulación de predicciones empíricas testeables.",
+          "is_correct": true,
+          "feedback": "Correcto. Una hipótesis científica debe poder someterse a prueba mediante experimentación u observación, siendo susceptible de ser falsa."
+        },
+        {
+          "letter": "B",
+          "text": "Debe ser una verdad absoluta que no requiera verificación posterior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una hipótesis nunca se asume como verdad absoluta, siempre se contrasta."
+        },
+        {
+          "letter": "C",
+          "text": "Debe basarse únicamente en la opinión personal u opiniones de expertos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las opiniones personales no constituyen una base científica válida si no hay evidencia empírica."
+        },
+        {
+          "letter": "D",
+          "text": "Debe formularse de manera ambigua para evitar que pueda ser refutada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ambigüedad impide la contrastación empírica directa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El diseño metodológico exige hipótesis claras, operacionales y falsables para permitir el avance del conocimiento. En este contexto, Santiago de Salto determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.87,
+      "bundle_id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v2",
+      "statement": "Si diseñás un experimento para medir el efecto de la temperatura sobre la velocidad de una reacción enzimática, ¿cuál es la variable independiente?",
+      "context": "En la clase práctica del Liceo N° 4 en Colonia del Sacramento, Florencia y sus compañeros debaten sobre identificación de variables.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La temperatura establecida para cada ensayo experimental.",
+          "is_correct": true,
+          "feedback": "Correcto. La variable independiente es la que manipula activamente el investigador, en este caso la temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "La velocidad de la reacción medida por el consumo de sustrato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la variable dependiente, ya que responde a los cambios de temperatura."
+        },
+        {
+          "letter": "C",
+          "text": "La concentración fija de enzima utilizada en todos los tubos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a una variable controlada para asegurar homogeneidad."
+        },
+        {
+          "letter": "D",
+          "text": "El volumen total de la solución de amortiguación (buffer).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es otra variable controlada o constante en el diseño."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La variable independiente se modifica deliberadamente para evaluar su efecto causal directo sobre la variable dependiente. En este contexto, Florencia de Colonia del Sacramento determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué es indispensable incluir un grupo de control en un diseño experimental biológico?",
+      "context": "Para el proyecto final de ciencias en el Liceo N° 5 de Maldonado, Joaquín investiga acerca de el grupo de control.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite aislar el efecto de la variable independiente descartando factores externos o azarosos.",
+          "is_correct": true,
+          "feedback": "Correcto. El control provee una línea de base comparativa para asegurar que los cambios se deben solo a la variable experimental."
+        },
+        {
+          "letter": "B",
+          "text": "Garantiza que todos los datos obtenidos sean exactamente iguales a los esperados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ciencia no busca forzar datos esperados, sino observar la realidad objetiva."
+        },
+        {
+          "letter": "C",
+          "text": "Sirve para duplicar el tamaño de la muestra sin modificar el procedimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grupo de control tiene propósitos comparativos, no meramente cuantitativos."
+        },
+        {
+          "letter": "D",
+          "text": "Elimina la necesidad de realizar réplicas o mediciones repetidas en el ensayo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las réplicas siguen siendo obligatorias para reducir el error experimental estadístico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El grupo de control se mantiene en idénticas condiciones que el grupo experimental, excepto por la variable independiente manipulada. En este contexto, Joaquín de Maldonado determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.79,
+      "bundle_id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v4",
+      "statement": "Al registrar una gran dispersión en los datos obtenidos, ¿qué medida estadística es más adecuada para reportar la variabilidad en el informe?",
+      "context": "Mientras repasa para el examen parcial en Paysandú, Camila estudia detenidamente análisis de resultados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La desviación estándar de las muestras analizadas.",
+          "is_correct": true,
+          "feedback": "Correcto. La desviación estándar cuantifica el grado de dispersión de los datos alrededor de la media aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "La suma total de todas las mediciones realizadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma total no describe cómo varían o se dispersan los datos individuales."
+        },
+        {
+          "letter": "C",
+          "text": "El promedio simple o media aritmética de los ensayos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El promedio da una tendencia central pero no informa sobre la variabilidad."
+        },
+        {
+          "letter": "D",
+          "text": "El valor mínimo absoluto registrado en la serie de datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un solo valor extremo no representa la dispersión global del set de datos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La variabilidad se analiza con herramientas de estadística descriptiva como la desviación estándar para determinar la confiabilidad de los datos. En este contexto, Camila de Paysandú determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la característica principal de una hipótesis científica bien planteada?",
+      "context": "En el taller de Ciencias Naturales en Rivera, Mateo observa un modelo experimental de la formulación de hipótesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe ser falsable y permitir la formulación de predicciones empíricas testeables.",
+          "is_correct": true,
+          "feedback": "Correcto. Una hipótesis científica debe poder someterse a prueba mediante experimentación u observación, siendo susceptible de ser falsa."
+        },
+        {
+          "letter": "B",
+          "text": "Debe ser una verdad absoluta que no requiera verificación posterior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una hipótesis nunca se asume como verdad absoluta, siempre se contrasta."
+        },
+        {
+          "letter": "C",
+          "text": "Debe basarse únicamente en la opinión personal u opiniones de expertos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las opiniones personales no constituyen una base científica válida si no hay evidencia empírica."
+        },
+        {
+          "letter": "D",
+          "text": "Debe formularse de manera ambigua para evitar que pueda ser refutada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ambigüedad impide la contrastación empírica directa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El diseño metodológico exige hipótesis claras, operacionales y falsables para permitir el avance del conocimiento. En este contexto, Mateo de Rivera determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.69,
+      "bundle_id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v6",
+      "statement": "Si diseñás un experimento para medir el efecto de la temperatura sobre la velocidad de una reacción enzimática, ¿cuál es la variable independiente?",
+      "context": "Durante una actividad de laboratorio en el Liceo N° 2 de Tacuarembó, Sofía analiza identificación de variables.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La temperatura establecida para cada ensayo experimental.",
+          "is_correct": true,
+          "feedback": "Correcto. La variable independiente es la que manipula activamente el investigador, en este caso la temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "La velocidad de la reacción medida por el consumo de sustrato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la variable dependiente, ya que responde a los cambios de temperatura."
+        },
+        {
+          "letter": "C",
+          "text": "La concentración fija de enzima utilizada en todos los tubos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a una variable controlada para asegurar homogeneidad."
+        },
+        {
+          "letter": "D",
+          "text": "El volumen total de la solución de amortiguación (buffer).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es otra variable controlada o constante en el diseño."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La variable independiente se modifica deliberadamente para evaluar su efecto causal directo sobre la variable dependiente. En este contexto, Sofía de Tacuarembó determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.68,
+      "bundle_id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué es indispensable incluir un grupo de control en un diseño experimental biológico?",
+      "context": "En la clase práctica del Liceo N° 3 en Rocha, Martín y sus compañeros debaten sobre el grupo de control.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite aislar el efecto de la variable independiente descartando factores externos o azarosos.",
+          "is_correct": true,
+          "feedback": "Correcto. El control provee una línea de base comparativa para asegurar que los cambios se deben solo a la variable experimental."
+        },
+        {
+          "letter": "B",
+          "text": "Garantiza que todos los datos obtenidos sean exactamente iguales a los esperados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ciencia no busca forzar datos esperados, sino observar la realidad objetiva."
+        },
+        {
+          "letter": "C",
+          "text": "Sirve para duplicar el tamaño de la muestra sin modificar el procedimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grupo de control tiene propósitos comparativos, no meramente cuantitativos."
+        },
+        {
+          "letter": "D",
+          "text": "Elimina la necesidad de realizar réplicas o mediciones repetidas en el ensayo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las réplicas siguen siendo obligatorias para reducir el error experimental estadístico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El grupo de control se mantiene en idénticas condiciones que el grupo experimental, excepto por la variable independiente manipulada. En este contexto, Martín de Rocha determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.67,
+      "bundle_id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v8",
+      "statement": "Al registrar una gran dispersión en los datos obtenidos, ¿qué medida estadística es más adecuada para reportar la variabilidad en el informe?",
+      "context": "Para el proyecto final de ciencias en el Liceo N° 4 de Fray Bentos, Lucía investiga acerca de análisis de resultados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La desviación estándar de las muestras analizadas.",
+          "is_correct": true,
+          "feedback": "Correcto. La desviación estándar cuantifica el grado de dispersión de los datos alrededor de la media aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "La suma total de todas las mediciones realizadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma total no describe cómo varían o se dispersan los datos individuales."
+        },
+        {
+          "letter": "C",
+          "text": "El promedio simple o media aritmética de los ensayos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El promedio da una tendencia central pero no informa sobre la variabilidad."
+        },
+        {
+          "letter": "D",
+          "text": "El valor mínimo absoluto registrado en la serie de datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un solo valor extremo no representa la dispersión global del set de datos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La variabilidad se analiza con herramientas de estadística descriptiva como la desviación estándar para determinar la confiabilidad de los datos. En este contexto, Lucía de Fray Bentos determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la característica principal de una hipótesis científica bien planteada?",
+      "context": "Mientras repasa para el examen parcial en Mercedes, Gastón estudia detenidamente la formulación de hipótesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe ser falsable y permitir la formulación de predicciones empíricas testeables.",
+          "is_correct": true,
+          "feedback": "Correcto. Una hipótesis científica debe poder someterse a prueba mediante experimentación u observación, siendo susceptible de ser falsa."
+        },
+        {
+          "letter": "B",
+          "text": "Debe ser una verdad absoluta que no requiera verificación posterior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una hipótesis nunca se asume como verdad absoluta, siempre se contrasta."
+        },
+        {
+          "letter": "C",
+          "text": "Debe basarse únicamente en la opinión personal u opiniones de expertos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las opiniones personales no constituyen una base científica válida si no hay evidencia empírica."
+        },
+        {
+          "letter": "D",
+          "text": "Debe formularse de manera ambigua para evitar que pueda ser refutada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ambigüedad impide la contrastación empírica directa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El diseño metodológico exige hipótesis claras, operacionales y falsables para permitir el avance del conocimiento. En este contexto, Gastón de Mercedes determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.59,
+      "bundle_id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v10",
+      "statement": "Si diseñás un experimento para medir el efecto de la temperatura sobre la velocidad de una reacción enzimática, ¿cuál es la variable independiente?",
+      "context": "En el taller de Ciencias Naturales en Las Piedras, Nicolás observa un modelo experimental de identificación de variables.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La temperatura establecida para cada ensayo experimental.",
+          "is_correct": true,
+          "feedback": "Correcto. La variable independiente es la que manipula activamente el investigador, en este caso la temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "La velocidad de la reacción medida por el consumo de sustrato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la variable dependiente, ya que responde a los cambios de temperatura."
+        },
+        {
+          "letter": "C",
+          "text": "La concentración fija de enzima utilizada en todos los tubos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a una variable controlada para asegurar homogeneidad."
+        },
+        {
+          "letter": "D",
+          "text": "El volumen total de la solución de amortiguación (buffer).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es otra variable controlada o constante en el diseño."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La variable independiente se modifica deliberadamente para evaluar su efecto causal directo sobre la variable dependiente. En este contexto, Nicolás de Las Piedras determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v11",
+      "statement": "¿Por qué es indispensable incluir un grupo de control en un diseño experimental biológico?",
+      "context": "Durante una actividad de laboratorio en el Liceo N° 1 Departamental de Punta del Este, Belén analiza el grupo de control.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite aislar el efecto de la variable independiente descartando factores externos o azarosos.",
+          "is_correct": true,
+          "feedback": "Correcto. El control provee una línea de base comparativa para asegurar que los cambios se deben solo a la variable experimental."
+        },
+        {
+          "letter": "B",
+          "text": "Garantiza que todos los datos obtenidos sean exactamente iguales a los esperados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ciencia no busca forzar datos esperados, sino observar la realidad objetiva."
+        },
+        {
+          "letter": "C",
+          "text": "Sirve para duplicar el tamaño de la muestra sin modificar el procedimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grupo de control tiene propósitos comparativos, no meramente cuantitativos."
+        },
+        {
+          "letter": "D",
+          "text": "Elimina la necesidad de realizar réplicas o mediciones repetidas en el ensayo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las réplicas siguen siendo obligatorias para reducir el error experimental estadístico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El grupo de control se mantiene en idénticas condiciones que el grupo experimental, excepto por la variable independiente manipulada. En este contexto, Belén de Punta del Este determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.47,
+      "bundle_id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v12",
+      "statement": "Al registrar una gran dispersión en los datos obtenidos, ¿qué medida estadística es más adecuada para reportar la variabilidad en el informe?",
+      "context": "En la clase práctica del Liceo N° 2 en Melo, Felipe y sus compañeros debaten sobre análisis de resultados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La desviación estándar de las muestras analizadas.",
+          "is_correct": true,
+          "feedback": "Correcto. La desviación estándar cuantifica el grado de dispersión de los datos alrededor de la media aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "La suma total de todas las mediciones realizadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma total no describe cómo varían o se dispersan los datos individuales."
+        },
+        {
+          "letter": "C",
+          "text": "El promedio simple o media aritmética de los ensayos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El promedio da una tendencia central pero no informa sobre la variabilidad."
+        },
+        {
+          "letter": "D",
+          "text": "El valor mínimo absoluto registrado en la serie de datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un solo valor extremo no representa la dispersión global del set de datos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La variabilidad se analiza con herramientas de estadística descriptiva como la desviación estándar para determinar la confiabilidad de los datos. En este contexto, Felipe de Melo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.46,
+      "bundle_id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la característica principal de una hipótesis científica bien planteada?",
+      "context": "Para el proyecto final de ciencias en el Liceo N° 3 de San José de Mayo, Juana investiga acerca de la formulación de hipótesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe ser falsable y permitir la formulación de predicciones empíricas testeables.",
+          "is_correct": true,
+          "feedback": "Correcto. Una hipótesis científica debe poder someterse a prueba mediante experimentación u observación, siendo susceptible de ser falsa."
+        },
+        {
+          "letter": "B",
+          "text": "Debe ser una verdad absoluta que no requiera verificación posterior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una hipótesis nunca se asume como verdad absoluta, siempre se contrasta."
+        },
+        {
+          "letter": "C",
+          "text": "Debe basarse únicamente en la opinión personal u opiniones de expertos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las opiniones personales no constituyen una base científica válida si no hay evidencia empírica."
+        },
+        {
+          "letter": "D",
+          "text": "Debe formularse de manera ambigua para evitar que pueda ser refutada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ambigüedad impide la contrastación empírica directa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El diseño metodológico exige hipótesis claras, operacionales y falsables para permitir el avance del conocimiento. En este contexto, Juana de San José de Mayo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v14",
+      "statement": "Si diseñás un experimento para medir el efecto de la temperatura sobre la velocidad de una reacción enzimática, ¿cuál es la variable independiente?",
+      "context": "Mientras repasa para el examen parcial en Minas, Ignacio estudia detenidamente identificación de variables.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La temperatura establecida para cada ensayo experimental.",
+          "is_correct": true,
+          "feedback": "Correcto. La variable independiente es la que manipula activamente el investigador, en este caso la temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "La velocidad de la reacción medida por el consumo de sustrato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la variable dependiente, ya que responde a los cambios de temperatura."
+        },
+        {
+          "letter": "C",
+          "text": "La concentración fija de enzima utilizada en todos los tubos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a una variable controlada para asegurar homogeneidad."
+        },
+        {
+          "letter": "D",
+          "text": "El volumen total de la solución de amortiguación (buffer).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es otra variable controlada o constante en el diseño."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La variable independiente se modifica deliberadamente para evaluar su efecto causal directo sobre la variable dependiente. En este contexto, Ignacio de Minas determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.38,
+      "bundle_id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v15",
+      "statement": "¿Por qué es indispensable incluir un grupo de control en un diseño experimental biológico?",
+      "context": "En el taller de Ciencias Naturales en Canelones, Paula observa un modelo experimental de el grupo de control.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite aislar el efecto de la variable independiente descartando factores externos o azarosos.",
+          "is_correct": true,
+          "feedback": "Correcto. El control provee una línea de base comparativa para asegurar que los cambios se deben solo a la variable experimental."
+        },
+        {
+          "letter": "B",
+          "text": "Garantiza que todos los datos obtenidos sean exactamente iguales a los esperados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ciencia no busca forzar datos esperados, sino observar la realidad objetiva."
+        },
+        {
+          "letter": "C",
+          "text": "Sirve para duplicar el tamaño de la muestra sin modificar el procedimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grupo de control tiene propósitos comparativos, no meramente cuantitativos."
+        },
+        {
+          "letter": "D",
+          "text": "Elimina la necesidad de realizar réplicas o mediciones repetidas en el ensayo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las réplicas siguen siendo obligatorias para reducir el error experimental estadístico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El grupo de control se mantiene en idénticas condiciones que el grupo experimental, excepto por la variable independiente manipulada. En este contexto, Paula de Canelones determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.37,
+      "bundle_id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v16",
+      "statement": "Al registrar una gran dispersión en los datos obtenidos, ¿qué medida estadística es más adecuada para reportar la variabilidad en el informe?",
+      "context": "Durante una actividad de laboratorio en el Liceo Piloto de Florida, Diego analiza análisis de resultados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La desviación estándar de las muestras analizadas.",
+          "is_correct": true,
+          "feedback": "Correcto. La desviación estándar cuantifica el grado de dispersión de los datos alrededor de la media aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "La suma total de todas las mediciones realizadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma total no describe cómo varían o se dispersan los datos individuales."
+        },
+        {
+          "letter": "C",
+          "text": "El promedio simple o media aritmética de los ensayos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El promedio da una tendencia central pero no informa sobre la variabilidad."
+        },
+        {
+          "letter": "D",
+          "text": "El valor mínimo absoluto registrado en la serie de datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un solo valor extremo no representa la dispersión global del set de datos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La variabilidad se analiza con herramientas de estadística descriptiva como la desviación estándar para determinar la confiabilidad de los datos. En este contexto, Diego de Florida determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.36,
+      "bundle_id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la característica principal de una hipótesis científica bien planteada?",
+      "context": "En la clase práctica del Liceo N° 1 Departamental en Artigas, Clara y sus compañeros debaten sobre la formulación de hipótesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe ser falsable y permitir la formulación de predicciones empíricas testeables.",
+          "is_correct": true,
+          "feedback": "Correcto. Una hipótesis científica debe poder someterse a prueba mediante experimentación u observación, siendo susceptible de ser falsa."
+        },
+        {
+          "letter": "B",
+          "text": "Debe ser una verdad absoluta que no requiera verificación posterior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una hipótesis nunca se asume como verdad absoluta, siempre se contrasta."
+        },
+        {
+          "letter": "C",
+          "text": "Debe basarse únicamente en la opinión personal u opiniones de expertos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las opiniones personales no constituyen una base científica válida si no hay evidencia empírica."
+        },
+        {
+          "letter": "D",
+          "text": "Debe formularse de manera ambigua para evitar que pueda ser refutada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ambigüedad impide la contrastación empírica directa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El diseño metodológico exige hipótesis claras, operacionales y falsables para permitir el avance del conocimiento. En este contexto, Clara de Artigas determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.3,
+      "bundle_id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v18",
+      "statement": "Si diseñás un experimento para medir el efecto de la temperatura sobre la velocidad de una reacción enzimática, ¿cuál es la variable independiente?",
+      "context": "Para el proyecto final de ciencias en el Liceo N° 2 de Montevideo, Agustín investiga acerca de identificación de variables.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La temperatura establecida para cada ensayo experimental.",
+          "is_correct": true,
+          "feedback": "Correcto. La variable independiente es la que manipula activamente el investigador, en este caso la temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "La velocidad de la reacción medida por el consumo de sustrato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la variable dependiente, ya que responde a los cambios de temperatura."
+        },
+        {
+          "letter": "C",
+          "text": "La concentración fija de enzima utilizada en todos los tubos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto corresponde a una variable controlada para asegurar homogeneidad."
+        },
+        {
+          "letter": "D",
+          "text": "El volumen total de la solución de amortiguación (buffer).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es otra variable controlada o constante en el diseño."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La variable independiente se modifica deliberadamente para evaluar su efecto causal directo sobre la variable dependiente. En este contexto, Agustín de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.3,
+      "bundle_id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v19",
+      "statement": "¿Por qué es indispensable incluir un grupo de control en un diseño experimental biológico?",
+      "context": "Mientras repasa para el examen parcial en Salto, Sebastián estudia detenidamente el grupo de control.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite aislar el efecto de la variable independiente descartando factores externos o azarosos.",
+          "is_correct": true,
+          "feedback": "Correcto. El control provee una línea de base comparativa para asegurar que los cambios se deben solo a la variable experimental."
+        },
+        {
+          "letter": "B",
+          "text": "Garantiza que todos los datos obtenidos sean exactamente iguales a los esperados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ciencia no busca forzar datos esperados, sino observar la realidad objetiva."
+        },
+        {
+          "letter": "C",
+          "text": "Sirve para duplicar el tamaño de la muestra sin modificar el procedimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grupo de control tiene propósitos comparativos, no meramente cuantitativos."
+        },
+        {
+          "letter": "D",
+          "text": "Elimina la necesidad de realizar réplicas o mediciones repetidas en el ensayo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las réplicas siguen siendo obligatorias para reducir el error experimental estadístico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El grupo de control se mantiene en idénticas condiciones que el grupo experimental, excepto por la variable independiente manipulada. En este contexto, Sebastián de Salto determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v20",
+      "statement": "Al registrar una gran dispersión en los datos obtenidos, ¿qué medida estadística es más adecuada para reportar la variabilidad en el informe?",
+      "context": "En el taller de Ciencias Naturales en Colonia del Sacramento, Valentina observa un modelo experimental de análisis de resultados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La desviación estándar de las muestras analizadas.",
+          "is_correct": true,
+          "feedback": "Correcto. La desviación estándar cuantifica el grado de dispersión de los datos alrededor de la media aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "La suma total de todas las mediciones realizadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma total no describe cómo varían o se dispersan los datos individuales."
+        },
+        {
+          "letter": "C",
+          "text": "El promedio simple o media aritmética de los ensayos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El promedio da una tendencia central pero no informa sobre la variabilidad."
+        },
+        {
+          "letter": "D",
+          "text": "El valor mínimo absoluto registrado en la serie de datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un solo valor extremo no representa la dispersión global del set de datos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La variabilidad se analiza con herramientas de estadística descriptiva como la desviación estándar para determinar la confiabilidad de los datos. En este contexto, Valentina de Colonia del Sacramento determinó correctamente la respuesta correcta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "UY-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-2-grade-9-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.934Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle-v1",
+      "statement": "I ________ a marathon last year, and since then, I ________ to stay fit.",
+      "context": "Talking about a personal achievement in sports.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have run / tried",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Last year\" requires Past Simple, and the ongoing effort requires Present Perfect."
+        },
+        {
+          "letter": "B",
+          "text": "ran / have tried",
+          "is_correct": true,
+          "feedback": "Correct! Past Simple for a finished time (\"last year\") and Present Perfect for an action continuing to the present."
+        },
+        {
+          "letter": "C",
+          "text": "run / try",
+          "is_correct": false,
+          "feedback": "Incorrect. These are simple present forms, not suitable for past events or ongoing results."
+        },
+        {
+          "letter": "D",
+          "text": "have run / have tried",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Last year\" cannot be used with Present Perfect in this context."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos el *Past Simple* (*ran*) para acciones completadas en un tiempo específico del pasado (*last year*). El *Present Perfect* (*have tried*) se usa para acciones que comenzaron en el pasado y tienen relevancia o continúan en el presente.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle-v2",
+      "statement": "\"________ you ever ________ a vegetarian diet?\"\n\"Yes, I ________ it for a month in 2022.\"",
+      "context": "Asking about past experiences without a specific time.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Did / try / have tried",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Ever\" usually takes Present Perfect, and \"in 2022\" requires Past Simple."
+        },
+        {
+          "letter": "B",
+          "text": "Have / tried / tried",
+          "is_correct": true,
+          "feedback": "Correct! Present Perfect for experiences (*ever*) and Past Simple for a specific date (*in 2022*)."
+        },
+        {
+          "letter": "C",
+          "text": "Have / tried / have tried",
+          "is_correct": false,
+          "feedback": "Incorrect. \"In 2022\" is a finished time, so we cannot use Present Perfect."
+        },
+        {
+          "letter": "D",
+          "text": "Do / try / tried",
+          "is_correct": false,
+          "feedback": "Incorrect. The first part is about experience, not a general habit."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para preguntar sobre experiencias de vida en general usamos *Present Perfect* con *ever*. Sin embargo, si mencionamos un momento específico en el pasado (*in 2022*), debemos cambiar a *Past Simple*.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle-v3",
+      "statement": "The Colombian government ________ several health campaigns since the beginning of the decade.",
+      "context": "Discussing the history of public health in Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "launched",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Since\" indicates a period starting in the past and continuing to now, requiring Present Perfect."
+        },
+        {
+          "letter": "B",
+          "text": "has launched",
+          "is_correct": true,
+          "feedback": "Correct! Present Perfect fits the timeframe starting \"since the beginning of the decade\"."
+        },
+        {
+          "letter": "C",
+          "text": "was launching",
+          "is_correct": false,
+          "feedback": "Incorrect. This describes an action in progress in the past."
+        },
+        {
+          "letter": "D",
+          "text": "launches",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for general routines or facts."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La palabra *since* es un marcador clave del *Present Perfect*, ya que conecta el inicio de una acción en el pasado con el momento actual.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle-v4",
+      "statement": "Maria ________ to the gym regularly three years ago, but she ________ a member of a yoga club for the last six months.",
+      "context": "Describing a change in habits.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has gone / has been",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Three years ago\" requires Past Simple."
+        },
+        {
+          "letter": "B",
+          "text": "went / has been",
+          "is_correct": true,
+          "feedback": "Correct! Past Simple for the finished habit and Present Perfect for the current situation."
+        },
+        {
+          "letter": "C",
+          "text": "goes / is",
+          "is_correct": false,
+          "feedback": "Incorrect. Doesn't correctly reflect the past time markers."
+        },
+        {
+          "letter": "D",
+          "text": "went / was",
+          "is_correct": false,
+          "feedback": "Incorrect. \"For the last six months\" implies she is still a member."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Diferenciamos entre un hábito terminado en el pasado (*went... three years ago*) y una situación que continúa en el presente (*has been... for the last six months*).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle-v5",
+      "statement": "\"You look much better! ________ you ________ more water lately?\"\n\"Yes, I ________ a liter of water before breakfast this morning.\"",
+      "context": "A doctor talking to a patient about recent habits.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Have / been drinking / drank",
+          "is_correct": true,
+          "feedback": "Correct! Present Perfect Continuous for a recent habit (*lately*) and Past Simple for a specific past time (*this morning*)."
+        },
+        {
+          "letter": "B",
+          "text": "Did / drink / drank",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Lately\" is a marker for Present Perfect."
+        },
+        {
+          "letter": "C",
+          "text": "Have / drunk / have drunk",
+          "is_correct": false,
+          "feedback": "Incorrect. \"This morning\" is considered a finished time in this context."
+        },
+        {
+          "letter": "D",
+          "text": "Are / drinking / drink",
+          "is_correct": false,
+          "feedback": "Incorrect. Improper use of tenses for recent and specific past actions."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "*Lately* indica una tendencia reciente (Presente Perfecto Continuo), mientras que una acción completada en un momento específico de hoy (*this morning*) se expresa habitualmente en *Past Simple*.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle-v6",
+      "statement": "Bogotá's Ciclovía ________ in 1974, and it ________ a Sunday tradition for millions of people ever since.",
+      "context": "Discussing the popularity of \"Ciclovía\" in Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has started / became",
+          "is_correct": false,
+          "feedback": "Incorrect. The start date is a specific past point."
+        },
+        {
+          "letter": "B",
+          "text": "started / became",
+          "is_correct": false,
+          "feedback": "Incorrect. The second part needs to show the tradition continues."
+        },
+        {
+          "letter": "C",
+          "text": "started / has been",
+          "is_correct": true,
+          "feedback": "Correct! Specific start date in the past and a state that continues to the present."
+        },
+        {
+          "letter": "D",
+          "text": "has started / has been",
+          "is_correct": false,
+          "feedback": "Incorrect. The year 1974 requires Past Simple."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El evento histórico del inicio de la Ciclovía se narra en *Past Simple*. El hecho de que siga siendo una tradición se expresa con *Present Perfect* acompañado de *ever since*.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle-v7",
+      "statement": "Which sentence implies that the person **still** lives a healthy life?",
+      "context": "Analyzing subtle differences in meaning.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I was very healthy when I was a teenager.",
+          "is_correct": false,
+          "feedback": "Incorrect. This only refers to the past."
+        },
+        {
+          "letter": "B",
+          "text": "I lived a healthy life for ten years.",
+          "is_correct": false,
+          "feedback": "Incorrect. This implies the ten-year period is finished."
+        },
+        {
+          "letter": "C",
+          "text": "I have lived a healthy life for ten years.",
+          "is_correct": true,
+          "feedback": "Correct! Present Perfect implies the state started ten years ago and continues now."
+        },
+        {
+          "letter": "D",
+          "text": "I have been healthy last month.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Last month\" is a finished time, so Present Perfect shouldn't be used."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El uso de *for* con el *Present Perfect* indica la duración de una acción o estado que aún es válido en el presente. Si usáramos *Past Simple*, la acción se consideraría terminada.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle-v8",
+      "statement": "\"I **have seen** (1) a nutritionist **yesterday** (2) because I **wanted** (3) to change my eating habits. I **haven't eaten** (4) junk food since then.\"\n\nWhich part of the sentence is grammatically incorrect?",
+      "context": "Correcting a common error in a conversation about diet.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1) have seen",
+          "is_correct": true,
+          "feedback": "Correct! With \"yesterday\", you must use Past Simple: \"I saw\"."
+        },
+        {
+          "letter": "B",
+          "text": "(2) yesterday",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Yesterday\" is a correct time marker for the past."
+        },
+        {
+          "letter": "C",
+          "text": "(3) wanted",
+          "is_correct": false,
+          "feedback": "Incorrect. Past Simple is correct here for a past intention."
+        },
+        {
+          "letter": "D",
+          "text": "(4) haven't eaten",
+          "is_correct": false,
+          "feedback": "Incorrect. Present Perfect is correct with \"since then\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un error común en el nivel B2 es mezclar el *Present Perfect* con marcadores de tiempo terminado como *yesterday*. En esos casos, el *Past Simple* es obligatorio.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle-v9",
+      "statement": "Since the government ________ the tax on sugary drinks, the consumption of soda ________ significantly.",
+      "context": "Discussing the impact of sugar taxes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "introduced / has fallen",
+          "is_correct": true,
+          "feedback": "Correct! The introduction was a specific past event, and the fall is an ongoing result."
+        },
+        {
+          "letter": "B",
+          "text": "has introduced / fell",
+          "is_correct": false,
+          "feedback": "Incorrect. Improper sequence of tenses."
+        },
+        {
+          "letter": "C",
+          "text": "introduced / fell",
+          "is_correct": false,
+          "feedback": "Incorrect. Doesn't emphasize the current result."
+        },
+        {
+          "letter": "D",
+          "text": "introduces / is falling",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Since\" requires a past event and a perfect result."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Después de *since*, la cláusula suele ir en *Past Simple* para marcar el punto de inicio, mientras que la cláusula principal usa *Present Perfect* para mostrar el efecto actual.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle-v10",
+      "statement": "Read the following sentence:\n\"The rate of childhood obesity **increased** (A) between 2010 and 2020, but recent studies **showed** (B) that it **has stabilized** (C) since local schools **started** (D) promoting better nutrition.\"\n\nWhich verb is used incorrectly in the context of a current report?",
+      "context": "Evaluating the use of tenses in a health report.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "increased",
+          "is_correct": false,
+          "feedback": "Incorrect. This is correct for a finished time period (2010-2020)."
+        },
+        {
+          "letter": "B",
+          "text": "showed",
+          "is_correct": true,
+          "feedback": "Incorrect. \"Show\" should be in Present Perfect (*have shown*) to indicate the relevance of recent studies to the present."
+        },
+        {
+          "letter": "C",
+          "text": "has stabilized",
+          "is_correct": false,
+          "feedback": "Incorrect. Present Perfect is correct with *since*."
+        },
+        {
+          "letter": "D",
+          "text": "started",
+          "is_correct": false,
+          "feedback": "Incorrect. Past Simple is correct after *since* to mark the starting point."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para reportar hallazgos de estudios recientes que tienen validez actual, el *Present Perfect* es más apropiado que el *Past Simple*, ya que conecta los resultados con el presente.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle-v11",
+      "statement": "\"I've just finished my workout.\"\nWhat does this sentence tell us about the speaker?",
+      "context": "Understanding the nuance of \"just\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They finished their workout a long time ago.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Just\" implies a very recent completion."
+        },
+        {
+          "letter": "B",
+          "text": "They are likely still tired or at the gym.",
+          "is_correct": true,
+          "feedback": "Correct! \"Just\" with Present Perfect shows an action finished moments ago with present consequences."
+        },
+        {
+          "letter": "C",
+          "text": "They finish their workout at the same time every day.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is not about a routine."
+        },
+        {
+          "letter": "D",
+          "text": "They didn't finish the workout properly.",
+          "is_correct": false,
+          "feedback": "Incorrect. It only refers to the timing."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso de *just* con el *Present Perfect* enfatiza que la acción se completó hace un instante, lo cual suele implicar un estado presente (como estar sudado o cansado tras el ejercicio).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle-v12",
+      "statement": "Choose the best summary for a blog post that uses both tenses correctly:\n\"I ________ a professional athlete for five years before I ________ a knee injury in 2018. Since then, I ________ my focus to coaching and healthy living.\"",
+      "context": "Critiquing a fitness blog post.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have been / have had / have shifted",
+          "is_correct": false,
+          "feedback": "Incorrect. The first two parts are finished past events."
+        },
+        {
+          "letter": "B",
+          "text": "was / had / shifted",
+          "is_correct": false,
+          "feedback": "Incorrect. The third part continues to the present."
+        },
+        {
+          "letter": "C",
+          "text": "was / had / have shifted",
+          "is_correct": true,
+          "feedback": "Correct! Past Simple for the finished career and injury, Present Perfect for the current focus."
+        },
+        {
+          "letter": "D",
+          "text": "am / got / shift",
+          "is_correct": false,
+          "feedback": "Incorrect. Inconsistent use of tenses."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este ejercicio requiere evaluar la línea de tiempo completa: hechos pasados terminados (*was/had*) frente a una nueva dirección que se mantiene hasta hoy (*have shifted*).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-9-2026-W02-healthy-lifestyles-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

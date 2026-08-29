@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "gt",
+    "pack_id": "gt-week-3-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:38.746Z"
+  },
+  "questions": [
+    {
+      "id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la expresión algebraica que representa \"el triple de un número aumentado en cinco unidades\"?",
+      "context": "Un estudiante de bachillerato en Ciudad de Guatemala está traduciendo enunciados cotidianos al lenguaje algebraico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^3 + 5$",
+          "is_correct": false,
+          "feedback": "Esto representa un número al cubo aumentado en cinco, no el triple."
+        },
+        {
+          "letter": "B",
+          "text": "$3x + 5$",
+          "is_correct": true,
+          "feedback": "Correcto. \"El triple\" significa multiplicar por 3 y \"aumentado\" significa sumar."
+        },
+        {
+          "letter": "C",
+          "text": "$3(x + 5)$",
+          "is_correct": false,
+          "feedback": "Esto representa el triple de la suma de un número y cinco, no el triple del número solamente."
+        },
+        {
+          "letter": "D",
+          "text": "$x/3 + 5$",
+          "is_correct": false,
+          "feedback": "Esto representa la tercera parte de un número, no el triple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La traducción al lenguaje algebraico requiere identificar las palabras clave que corresponden a cada operación matemática. \"Triple\" indica multiplicación por 3.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v2",
+      "statement": "En el término $-5x^2y^3$, ¿cuál es el grado absoluto de la expresión?",
+      "context": "En un examen de álgebra, se pide identificar las partes fundamentales de un término algebraico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Este es el grado relativo a la variable $x$."
+        },
+        {
+          "letter": "B",
+          "text": "$3$",
+          "is_correct": false,
+          "feedback": "Este es el grado relativo a la variable $y$."
+        },
+        {
+          "letter": "C",
+          "text": "$5$",
+          "is_correct": true,
+          "feedback": "Correcto. El grado absoluto es la suma de los exponentes de las variables: $2 + 3 = 5$."
+        },
+        {
+          "letter": "D",
+          "text": "$-5$",
+          "is_correct": false,
+          "feedback": "Este es el coeficiente numérico, no el grado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El grado absoluto de un monomio se obtiene sumando los exponentes de todas sus variables literales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v3",
+      "statement": "Si el largo de la plaza es $L = 2x + 3$ y el ancho es $W = x - 1$, ¿cuál es la expresión para el perímetro de la plaza?",
+      "context": "Un arquitecto diseña una plaza rectangular en Antigua Guatemala y utiliza expresiones para sus dimensiones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3x + 2$",
+          "is_correct": false,
+          "feedback": "Esto es solo la suma de largo y ancho, falta multiplicar por 2."
+        },
+        {
+          "letter": "B",
+          "text": "$6x + 4$",
+          "is_correct": true,
+          "feedback": "Correcto. Perímetro = $2(2x + 3) + 2(x - 1) = 4x + 6 + 2x - 2 = 6x + 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$2x^2 + x - 3$",
+          "is_correct": false,
+          "feedback": "Esto representa el área de la plaza (producto de largo y ancho), no el perímetro."
+        },
+        {
+          "letter": "D",
+          "text": "$4x + 4$",
+          "is_correct": false,
+          "feedback": "Error al simplificar los términos constantes durante la suma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El perímetro de un rectángulo se calcula sumando el doble del largo y el doble del ancho. Se deben agrupar los términos semejantes correctamente.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de los siguientes es un trinomio de segundo grado?",
+      "context": "Un comerciante de artesanías usa polinomios para modelar sus costos y ventas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + 5x$",
+          "is_correct": false,
+          "feedback": "Es un binomio (dos términos)."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 - 3x + 2$",
+          "is_correct": true,
+          "feedback": "Correcto. Tiene tres términos y el exponente mayor es 2."
+        },
+        {
+          "letter": "C",
+          "text": "$x^3 + x^2 + x + 1$",
+          "is_correct": false,
+          "feedback": "Es un polinomio de tercer grado con cuatro términos."
+        },
+        {
+          "letter": "D",
+          "text": "$2x + 3y - 5z$",
+          "is_correct": false,
+          "feedback": "Es un trinomio, pero de primer grado (lineal)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un trinomio es un polinomio con tres términos. Su grado se define por el término con el mayor exponente.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v5",
+      "statement": "Simplifica la expresión: $(5x^2 - 3x + 2) + (2x^2 + 7x - 8)$.",
+      "context": "Un estudiante simplifica expresiones antes de realizar cálculos de física.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$7x^4 + 4x^2 - 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al sumar polinomios, los exponentes de las variables no cambian."
+        },
+        {
+          "letter": "B",
+          "text": "$7x^2 + 4x - 6$",
+          "is_correct": true,
+          "feedback": "Correcto. $5x^2 + 2x^2 = 7x^2$; $-3x + 7x = 4x$; $2 - 8 = -6$."
+        },
+        {
+          "letter": "C",
+          "text": "$3x^2 - 10x + 10$",
+          "is_correct": false,
+          "feedback": "Se restaron los términos en lugar de sumarlos."
+        },
+        {
+          "letter": "D",
+          "text": "$7x^2 + 10x - 10$",
+          "is_correct": false,
+          "feedback": "Error en los signos al agrupar los términos constantes y lineales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La suma de polinomios se realiza agrupando y sumando únicamente los coeficientes de los términos semejantes (aquellos con la misma variable y exponente).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v6",
+      "statement": "Resta el polinomio $(2a^2 - 5a + 3)$ del polinomio $(5a^2 + 2a - 1)$.",
+      "context": "Un carpintero en Mixco calcula el área sobrante de una tabla de madera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3a^2 + 7a - 4$",
+          "is_correct": true,
+          "feedback": "Correcto. $(5a^2 - 2a^2) + (2a - (-5a)) + (-1 - 3) = 3a^2 + 7a - 4$."
+        },
+        {
+          "letter": "B",
+          "text": "$7a^2 - 3a + 2$",
+          "is_correct": false,
+          "feedback": "Se sumaron los polinomios en lugar de restarlos."
+        },
+        {
+          "letter": "C",
+          "text": "$3a^2 - 3a - 4$",
+          "is_correct": false,
+          "feedback": "Error al cambiar el signo del segundo término durante la resta."
+        },
+        {
+          "letter": "D",
+          "text": "$3a^2 + 7a + 2$",
+          "is_correct": false,
+          "feedback": "Error al restar los términos constantes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para restar polinomios, se suma al primer polinomio el opuesto del segundo (cambiando el signo de todos sus términos).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el resultado de aplicar la propiedad distributiva en $3x(2x - 5)$?",
+      "context": "Un analista de sistemas necesita optimizar el almacenamiento de datos usando expresiones simplificadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6x - 15$",
+          "is_correct": false,
+          "feedback": "Olvidaste multiplicar $x \\times x$ en el primer término."
+        },
+        {
+          "letter": "B",
+          "text": "$6x^2 - 5$",
+          "is_correct": false,
+          "feedback": "Olvidaste multiplicar el segundo término por $3x$."
+        },
+        {
+          "letter": "C",
+          "text": "$6x^2 - 15x$",
+          "is_correct": true,
+          "feedback": "Correcto. $3x \\times 2x = 6x^2$ y $3x \\times (-5) = -15x$."
+        },
+        {
+          "letter": "D",
+          "text": "$5x^2 - 8x$",
+          "is_correct": false,
+          "feedback": "Sumaste los coeficientes en lugar de multiplicarlos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La propiedad distributiva establece que el monomio exterior multiplica a cada uno de los términos dentro del paréntesis.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el desarrollo del binomio al cuadrado $(x + 4)^2$?",
+      "context": "Un grupo de estudiantes en Quetzaltenango estudia productos notables para agilizar sus cálculos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + 16$",
+          "is_correct": false,
+          "feedback": "Falta el término medio (doble producto del primero por el segundo)."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + 8x + 16$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $(a+b)^2 = a^2 + 2ab + b^2$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + 4x + 16$",
+          "is_correct": false,
+          "feedback": "El término medio debe ser $2 \\times x \\times 4 = 8x$."
+        },
+        {
+          "letter": "D",
+          "text": "$2x + 8$",
+          "is_correct": false,
+          "feedback": "Confundiste la potencia con una multiplicación por 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cuadrado de un binomio resulta en un trinomio cuadrado perfecto: el cuadrado del primero, más el doble del primero por el segundo, más el cuadrado del segundo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el resultado de multiplicar $(x + 5)(x - 5)$?",
+      "context": "En un taller de metalurgia en Escuintla, se calculan dimensiones de láminas metálicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 - 25$",
+          "is_correct": true,
+          "feedback": "Correcto. Es un producto de binomios conjugados: $(a+b)(a-b) = a^2 - b^2$."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + 25$",
+          "is_correct": false,
+          "feedback": "El producto de conjugados siempre resulta en una diferencia de cuadrados."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 - 10x + 25$",
+          "is_correct": false,
+          "feedback": "Este es el desarrollo de $(x-5)^2$, no de $(x+5)(x-5)$."
+        },
+        {
+          "letter": "D",
+          "text": "$2x - 10$",
+          "is_correct": false,
+          "feedback": "Operación incorrecta de multiplicación de binomios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El producto de la suma por la diferencia de dos términos es igual a la diferencia de sus cuadrados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v10",
+      "statement": "Si $P(x) = 2x^2 - 3x + 1$, ¿cuál es el valor de $P(2)$?",
+      "context": "Un programador usa el valor numérico de expresiones para probar sus algoritmos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5$",
+          "is_correct": false,
+          "feedback": "$2(2)^2 - 3(2) + 1 = 8 - 6 + 1 = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$3$",
+          "is_correct": true,
+          "feedback": "Correcto. $2(4) - 6 + 1 = 8 - 6 + 1 = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Error al evaluar el primer término o al operar los signos."
+        },
+        {
+          "letter": "D",
+          "text": "$7$",
+          "is_correct": false,
+          "feedback": "Error aritmético en la sustitución y resolución de las potencias."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar un polinomio consiste en sustituir la variable por el valor dado y realizar las operaciones respetando la jerarquía (potencias primero, luego productos, al final sumas y restas).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la factorización correcta del trinomio $x^2 + 7x + 10$?",
+      "context": "Un ingeniero civil en Guatemala necesita factorizar expresiones para simplificar el cálculo de esfuerzos en vigas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x + 10)(x + 1)$",
+          "is_correct": false,
+          "feedback": "El producto es 10, pero la suma es 11, no 7."
+        },
+        {
+          "letter": "B",
+          "text": "$(x + 5)(x + 2)$",
+          "is_correct": true,
+          "feedback": "Correcto. $5 \\times 2 = 10$ y $5 + 2 = 7$."
+        },
+        {
+          "letter": "C",
+          "text": "$(x - 5)(x - 2)$",
+          "is_correct": false,
+          "feedback": "El producto es 10, pero la suma es -7."
+        },
+        {
+          "letter": "D",
+          "text": "$(x + 7)(x + 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto y la suma no coinciden con los términos del trinomio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para factorizar un trinomio de la forma $x^2 + bx + c$, buscamos dos números que multiplicados den $c$ y sumados den $b$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v12",
+      "statement": "Simplifica la expresión: $\\frac{x^2 - 9}{x + 3}$.",
+      "context": "En un laboratorio de química, se usan fracciones algebraicas para expresar concentraciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x^2-9 = (x+3)(x-3)$. Al cancelar $(x+3)$ queda $(x-3)$."
+        },
+        {
+          "letter": "B",
+          "text": "$x - 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando el numerador: $\\frac{(x+3)(x-3)}{x+3} = x-3$."
+        },
+        {
+          "letter": "C",
+          "text": "$x - 9$",
+          "is_correct": false,
+          "feedback": "No se puede cancelar términos de una suma o resta directamente; se debe factorizar primero."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 - 3$",
+          "is_correct": false,
+          "feedback": "Error en el proceso de simplificación de la fracción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La simplificación de fracciones algebraicas requiere factorizar numerador y denominador para cancelar los factores comunes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es el resultado de elevar al cubo el binomio $(x - 1)$?",
+      "context": "Un diseñador gráfico utiliza potencias de polinomios para crear patrones escalables.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^3 - 1$",
+          "is_correct": false,
+          "feedback": "Olvidaste los términos intermedios del cubo del binomio."
+        },
+        {
+          "letter": "B",
+          "text": "$x^3 - 3x^2 + 3x - 1$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $(a-b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^3 - x^2 + x - 1$",
+          "is_correct": false,
+          "feedback": "Los coeficientes de los términos intermedios en el cubo de un binomio son 3."
+        },
+        {
+          "letter": "D",
+          "text": "$x^3 + 3x^2 + 3x + 1$",
+          "is_correct": false,
+          "feedback": "Estos son los signos para $(x+1)^3$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cubo de un binomio sigue un patrón específico de coeficientes ($1, 3, 3, 1$) y los signos alternan cuando el binomio es una resta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es el cociente de la división $(x^2 + 5x + 6) \\div (x + 2)$?",
+      "context": "Un contable en una exportadora de banano en Izabal utiliza división de polinomios para prorratear costos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x + 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $(x+2)(x+2) = x^2+4x+4$."
+        },
+        {
+          "letter": "B",
+          "text": "$x + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Dado que $(x+2)(x+3) = x^2+5x+6$."
+        },
+        {
+          "letter": "C",
+          "text": "$x + 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto no coincide con el dividendo."
+        },
+        {
+          "letter": "D",
+          "text": "$x - 3$",
+          "is_correct": false,
+          "feedback": "Error en el signo del término constante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La división de polinomios puede realizarse mediante división larga o, en este caso, factorizando el trinomio y simplificando.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v15",
+      "statement": "Factoriza completamente la expresión: $6x^3y - 12x^2y^2$.",
+      "context": "Un estudiante de ingeniería utiliza el factor común para simplificar fórmulas de resistencia de materiales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6(x^3y - 2x^2y^2)$",
+          "is_correct": false,
+          "feedback": "Se puede extraer más factor común (variables)."
+        },
+        {
+          "letter": "B",
+          "text": "$6x^2y(x - 2y)$",
+          "is_correct": true,
+          "feedback": "Correcto. El MCD de 6 y 12 es 6, y se extraen las variables con su menor exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$6xy(x^2 - 2xy)$",
+          "is_correct": false,
+          "feedback": "Todavía queda una $x$ como factor común dentro del paréntesis."
+        },
+        {
+          "letter": "D",
+          "text": "$12x^2y(x - y)$",
+          "is_correct": false,
+          "feedback": "El coeficiente 12 no es factor común de 6."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para factorizar por factor común, se identifica el máximo común divisor de los coeficientes y las variables comunes con su menor exponente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v16",
+      "statement": "Factoriza la expresión $49x^2 - 64$.",
+      "context": "Un topógrafo necesita calcular el área de un terreno irregular modelado por la diferencia de dos cuadrados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(7x - 8)^2$",
+          "is_correct": false,
+          "feedback": "Esto daría $49x^2 - 112x + 64$."
+        },
+        {
+          "letter": "B",
+          "text": "$(7x + 8)(7x - 8)$",
+          "is_correct": true,
+          "feedback": "Correcto. Es una diferencia de cuadrados: $a^2 - b^2 = (a+b)(a-b)$."
+        },
+        {
+          "letter": "C",
+          "text": "$(7x + 32)(7x - 32)$",
+          "is_correct": false,
+          "feedback": "El cuadrado de 32 no es 64."
+        },
+        {
+          "letter": "D",
+          "text": "$7(x + 8)(x - 8)$",
+          "is_correct": false,
+          "feedback": "El 7 no es factor común y no afecta a ambos términos así."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una diferencia de cuadrados se factoriza como el producto de binomios conjugados, extrayendo la raíz cuadrada de cada término.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál de las siguientes expresiones representa una suma de cubos y cuál es su factorización correcta?",
+      "context": "Un matemático guatemalteco analiza la estructura de los polinomios primos sobre los números reales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^3 - 8 = (x - 2)(x^2 + 2x + 4)$",
+          "is_correct": false,
+          "feedback": "Esta es una diferencia de cubos, no una suma."
+        },
+        {
+          "letter": "B",
+          "text": "$x^3 + 27 = (x + 3)(x^2 - 3x + 9)$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $a^3 + b^3 = (a+b)(a^2 - ab + b^2)$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^3 + 27 = (x + 3)^3$",
+          "is_correct": false,
+          "feedback": "El cubo de un binomio no es igual a la suma de cubos."
+        },
+        {
+          "letter": "D",
+          "text": "$x^3 + 9 = (x + 3)(x^2 + 3)$",
+          "is_correct": false,
+          "feedback": "9 no es un cubo perfecto y la factorización es incorrecta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La suma de cubos se factoriza como un binomio por un trinomio. El signo del término lineal del trinomio es opuesto al signo del binomio.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v18",
+      "statement": "Al dividir $x^3 - 2x^2 + 3x - 5$ entre $x - 2$ usando división sintética, ¿cuál es el residuo?",
+      "context": "Un estudiante utiliza la regla de Ruffini (división sintética) para hallar raíces de polinomios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": "$P(2) = 2^3 - 2(2)^2 + 3(2) - 5 = 8 - 8 + 6 - 5 = 1$."
+        },
+        {
+          "letter": "B",
+          "text": "$1$",
+          "is_correct": true,
+          "feedback": "Correcto. Por el teorema del residuo, el resto es $P(2) = 8 - 8 + 6 - 5 = 1$."
+        },
+        {
+          "letter": "C",
+          "text": "$-5$",
+          "is_correct": false,
+          "feedback": "Error al aplicar el teorema del residuo."
+        },
+        {
+          "letter": "D",
+          "text": "$3$",
+          "is_correct": false,
+          "feedback": "Error aritmético durante la división sintética."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El teorema del residuo establece que el resto de dividir un polinomio $P(x)$ entre $(x - a)$ es igual a $P(a)$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v19",
+      "statement": "Factoriza completamente el polinomio: $x^4 - 13x^2 + 36$.",
+      "context": "Un investigador de la USAC trabaja en la simplificación de modelos polinómicos complejos para estudios demográficos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x^2 - 6)^2$",
+          "is_correct": false,
+          "feedback": "Esto resultaría en $x^4 - 12x^2 + 36$."
+        },
+        {
+          "letter": "B",
+          "text": "$(x^2 - 9)(x^2 - 4)$",
+          "is_correct": false,
+          "feedback": "Aunque es un paso correcto, no está factorizado \"completamente\"."
+        },
+        {
+          "letter": "C",
+          "text": "$(x + 3)(x - 3)(x + 2)(x - 2)$",
+          "is_correct": true,
+          "feedback": "Correcto. Primero se factoriza como trinomio $(x^2-9)(x^2-4)$, luego cada parte como diferencia de cuadrados."
+        },
+        {
+          "letter": "D",
+          "text": "$(x + 6)(x - 6)(x + 1)(x - 1)$",
+          "is_correct": false,
+          "feedback": "Los factores del trinomio original no coinciden."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este es un polinomio de tipo bicuadrático. Se factoriza primero como un trinomio simple y luego se aplican diferencias de cuadrados si es posible.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle-v20",
+      "statement": "Simplifica la expresión: $\\frac{x^2 - 5x + 6}{x^2 - 4} \\cdot \\frac{x + 2}{x - 3}$.",
+      "context": "En un certamen de matemáticas, se plantea un reto sobre simplificación de expresiones racionales compuestas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{x - 2}{x + 2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al simplificar todos los factores se cancelan."
+        },
+        {
+          "letter": "B",
+          "text": "$x - 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No queda ningún término variable."
+        },
+        {
+          "letter": "C",
+          "text": "$1$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{(x-2)(x-3)}{(x-2)(x+2)} \\cdot \\frac{x+2}{x-3} = 1$ después de cancelar todos los factores comunes."
+        },
+        {
+          "letter": "D",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": "El resultado de una simplificación donde se cancelan todos los términos de una fracción por división es 1, no 0."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La multiplicación de fracciones algebraicas se facilita factorizando todos los numeradores y denominadores para cancelar factores comunes que aparecen tanto arriba como abajo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "GT-MAT-11-2026-W03-expresiones-algebraicas-polinomios-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    }
+  ]
+}

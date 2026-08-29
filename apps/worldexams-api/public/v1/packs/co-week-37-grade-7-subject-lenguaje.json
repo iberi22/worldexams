@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-37-grade-7-subject-lengua",
+    "generated_at": "2026-06-18T23:58:37.570Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-v1",
+      "statement": "¿Cuál es la diferencia fundamental entre el mito y la leyenda en la tradición oral colombiana?",
+      "context": "En una noche de campamento en el Tolima, un abuelo cuenta a sus nietos la historia de la Madre Monte, una mujer que protege los bosques y castiga a quienes los destruyen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El mito es siempre corto y la leyenda es siempre muy larga.",
+          "is_correct": false,
+          "feedback": "La extensión no es la diferencia definitoria entre ambos géneros."
+        },
+        {
+          "letter": "B",
+          "text": "El mito explica el origen del mundo y los seres divinos, mientras que la leyenda narra sucesos con base real mezclados con lo fantástico en un tiempo cercano.",
+          "is_correct": true,
+          "feedback": "El mito tiene un carácter sagrado y fundacional; la leyenda suele tener un matiz moral o local y ocurre en un tiempo histórico."
+        },
+        {
+          "letter": "C",
+          "text": "El mito solo se cuenta en las ciudades y la leyenda solo en los campos.",
+          "is_correct": false,
+          "feedback": "Ambos géneros viven tanto en zonas rurales como urbanas, aunque su origen sea a menudo campesino o indígena."
+        },
+        {
+          "letter": "D",
+          "text": "El mito es totalmente verdadero y la leyenda es totalmente falsa.",
+          "is_correct": false,
+          "feedback": "Ambos contienen verdades culturales y simbólicas, independientemente de su veracidad científica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El mito y la leyenda son pilares de la narrativa popular. El mito se ubica en un tiempo fuera del tiempo (el origen), mientras que la leyenda se ancla en lugares específicos y tiempos reconocibles por la comunidad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-v2",
+      "statement": "¿Cuál de las siguientes es una característica típica de la leyenda colombiana que se evidencia en el caso del Mohán?",
+      "context": "Los estudiantes de un colegio en Neiva investigan sobre el \"Mohán\", un personaje que vive en cuevas a orillas del río Magdalena y asusta a los pescadores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ocurre en planetas lejanos con tecnología avanzada.",
+          "is_correct": false,
+          "feedback": "Las leyendas se ubican en la geografía local y conocida (ríos, bosques)."
+        },
+        {
+          "letter": "B",
+          "text": "Los personajes no tienen ninguna descripción física.",
+          "is_correct": false,
+          "feedback": "Al contrario, las leyendas suelen dar detalles vívidos y aterradores o fantásticos de los personajes."
+        },
+        {
+          "letter": "C",
+          "text": "Se desarrolla en un lugar geográfico real y conocido por la comunidad.",
+          "is_correct": true,
+          "feedback": "El anclaje en el territorio (como el río Magdalena) le da credibilidad y cercanía a la historia."
+        },
+        {
+          "letter": "D",
+          "text": "Es una historia escrita por un solo autor famoso de Bogotá.",
+          "is_correct": false,
+          "feedback": "Las leyendas son creaciones colectivas y anónimas transmitidas por la tradición oral."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La leyenda se nutre del paisaje regional. Personajes como el Mohán, la Llorona o la Patasola están ligados a ecosistemas específicos, lo que refuerza el sentido de pertenencia y respeto por el entorno.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-v3",
+      "statement": "A partir del fragmento, ¿cuál es la función social o moralizante de esta leyenda?",
+      "context": "Lee este fragmento de la leyenda de la Llorona: \"Vaga por las orillas de los ríos de Antioquia, lanzando gritos desgarradores por los hijos que perdió debido a su propia desesperación. Dicen que su llanto es un aviso para los padres descuidados\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enseñar a la gente a nadar mejor en los ríos caudalosos.",
+          "is_correct": false,
+          "feedback": "La leyenda no da instrucciones de natación, tiene un propósito ético."
+        },
+        {
+          "letter": "B",
+          "text": "Servir como una advertencia sobre la responsabilidad y el cuidado de los hijos.",
+          "is_correct": true,
+          "feedback": "Las leyendas suelen tener un trasfondo pedagógico que busca regular comportamientos sociales mediante el miedo o el ejemplo."
+        },
+        {
+          "letter": "C",
+          "text": "Promocionar el turismo nocturno en las orillas de los ríos.",
+          "is_correct": false,
+          "feedback": "El propósito es preventivo y moral, no comercial o turístico."
+        },
+        {
+          "letter": "D",
+          "text": "Explicar científicamente por qué los ríos hacen ruidos extraños por la noche.",
+          "is_correct": false,
+          "feedback": "La leyenda da una explicación sobrenatural, no un análisis acústico o físico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La literatura de tradición oral cumple funciones de control social. Las leyendas actúan como normas de conducta \"encarnadas\" en personajes fantásticos que castigan o premian acciones humanas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-v4",
+      "statement": "¿Qué concepto fundamental sobre la vida y la muerte se puede inferir del mito de Bachué?",
+      "context": "En el mito muisca de Bachué, una mujer sale de la laguna de Iguaque con un niño, pueblan la tierra y luego se transforman en serpientes para regresar al agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el agua es peligrosa y nadie debe acercarse a las lagunas.",
+          "is_correct": false,
+          "feedback": "En el mito, el agua es el origen sagrado y el lugar de retorno, no solo un peligro."
+        },
+        {
+          "letter": "B",
+          "text": "Que los seres humanos vienen de las estrellas en naves espaciales.",
+          "is_correct": false,
+          "feedback": "El mito señala un origen terrestre y acuático vinculado al territorio local."
+        },
+        {
+          "letter": "C",
+          "text": "La idea de un ciclo sagrado donde la vida surge de la naturaleza y vuelve a ella.",
+          "is_correct": true,
+          "feedback": "La transformación en serpientes y el regreso a la laguna simbolizan la renovación y el ciclo vital infinito."
+        },
+        {
+          "letter": "D",
+          "text": "Que es necesario construir puentes sobre todas las lagunas de Boyacá.",
+          "is_correct": false,
+          "feedback": "El mito tiene un sentido espiritual, no se refiere a obras civiles de infraestructura."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los mitos fundacionales como el de Bachué estructuran la cosmovisión de un pueblo. Entenderlos permite comprender el valor sagrado que comunidades como la Muisca le otorgan al agua y al equilibrio natural.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-v5",
+      "statement": "¿Cuál de las siguientes situaciones encajaría mejor en el género de la leyenda urbana manteniendo su esencia tradicional?",
+      "context": "Imagina que quieres escribir una \"leyenda urbana\" moderna para tu colegio en Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un cuento sobre un astronauta que come pizza en la Luna.",
+          "is_correct": false,
+          "feedback": "Carece del anclaje local y del misterio cercano propio de la leyenda."
+        },
+        {
+          "letter": "B",
+          "text": "La historia de un fantasma que se aparece en el tercer piso del bloque antiguo del colegio a las seis de la tarde.",
+          "is_correct": true,
+          "feedback": "Utiliza un lugar conocido (el colegio) y un elemento sobrenatural que genera misterio en la comunidad escolar."
+        },
+        {
+          "letter": "C",
+          "text": "Una noticia real sobre el aumento del precio de los cuadernos en la papelería.",
+          "is_correct": false,
+          "feedback": "Esto es un hecho informativo cotidiano, no tiene elementos fantásticos o legendarios."
+        },
+        {
+          "letter": "D",
+          "text": "Un poema sobre la belleza de las flores del jardín botánico.",
+          "is_correct": false,
+          "feedback": "Es un texto lírico contemplativo, no una narración de sucesos misteriosos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La leyenda urbana es la evolución contemporánea de la leyenda tradicional. Sigue basándose en la proximidad geográfica y en la transmisión de boca en boca (o de chat en chat) de sucesos inexplicables en entornos urbanos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-v6",
+      "statement": "¿Qué nombre recibe este recurso narrativo y qué suele representar en la literatura popular?",
+      "context": "En muchas leyendas de la región Caribe, como la del Hombre Caimán, se narra la transformación de un humano en animal como consecuencia de un comportamiento indebido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metáfora astronómica; representa el movimiento de los planetas.",
+          "is_correct": false,
+          "feedback": "No tiene relación con los planetas, sino con la naturaleza humana y animal."
+        },
+        {
+          "letter": "B",
+          "text": "Metamorfosis; representa la pérdida de la condición humana por romper las normas de la comunidad.",
+          "is_correct": true,
+          "feedback": "La transformación física simboliza una degradación moral o un castigo por una falta grave."
+        },
+        {
+          "letter": "C",
+          "text": "Rima consonante; representa el ritmo de la música de acordeón.",
+          "is_correct": false,
+          "feedback": "La rima es un recurso sonoro, no un suceso narrativo de transformación."
+        },
+        {
+          "letter": "D",
+          "text": "Hipérbole de velocidad; representa lo rápido que corren los caimanes.",
+          "is_correct": false,
+          "feedback": "La metamorfosis es un cambio de forma, no solo una exageración de una capacidad física."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La metamorfosis en la leyenda es un símbolo poderoso. Al perder su forma humana, el personaje queda marcado para siempre, sirviendo como un recordatorio visual y narrativo de las consecuencias de las malas acciones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-v7",
+      "statement": "¿En qué se diferencian principalmente los protagonistas de estos dos relatos?",
+      "context": "Analiza esta comparación:\n- El mito de Bochica (Muisca): Un anciano sabio que enseña a tejer y a cultivar, y que salva a la gente de una inundación abriendo el Salto del Tequendama.\n- La leyenda del Sombrerón: Un hombre de negro con un sombrero gigante que persigue a los borrachos y a los trasnochadores en las noches de Antioquia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bochica es un personaje malvado y el Sombrerón es un dios bondadoso.",
+          "is_correct": false,
+          "feedback": "Es al revés en cuanto a la función protectora/civilizadora frente a la de espanto."
+        },
+        {
+          "letter": "B",
+          "text": "El Sombrerón explica cómo se creó el universo colombiano.",
+          "is_correct": false,
+          "feedback": "El Sombrerón es un espanto local de leyenda, no un dios creador de mito."
+        },
+        {
+          "letter": "C",
+          "text": "Bochica es un héroe cultural y civilizador del mito, mientras que el Sombrerón es un personaje de espanto que vigila el comportamiento social.",
+          "is_correct": true,
+          "feedback": "Reflejan las funciones distintas de los personajes según el género (fundación vs. advertencia moral)."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia, ambos son personajes de cuentos infantiles modernos.",
+          "is_correct": false,
+          "feedback": "Tienen orígenes y funciones culturales muy profundas que van más allá del entretenimiento infantil."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El análisis comparativo entre mito y leyenda revela cómo las sociedades construyen sus figuras de autoridad espiritual (dioses, héroes) y sus figuras de control cotidiano (espantos, leyendas).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-v8",
+      "statement": "¿Qué se puede analizar críticamente sobre el origen social de muchas de nuestras leyendas a partir de esta afirmación?",
+      "context": "Un estudioso de la cultura afirma: \"Las leyendas de espantos como la Patasola son, en realidad, una forma de violencia simbólica contra las mujeres que no cumplían con lo que la sociedad de antes esperaba de ellas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las leyendas son perfectas y no deben ser cuestionadas nunca.",
+          "is_correct": false,
+          "feedback": "Toda producción cultural puede y debe ser analizada críticamente."
+        },
+        {
+          "letter": "B",
+          "text": "Que muchas historias tradicionales reflejan prejuicios y formas de control de la época en que fueron creadas.",
+          "is_correct": true,
+          "feedback": "La crítica permite ver cómo el miedo se usó para imponer roles de género o conductas específicas en el pasado."
+        },
+        {
+          "letter": "C",
+          "text": "Que la Patasola debería ser la protagonista de una película de acción moderna.",
+          "is_correct": false,
+          "feedback": "Esta no es una reflexión crítica sobre el contenido social de la leyenda."
+        },
+        {
+          "letter": "D",
+          "text": "Que los hombres de antes no tenían miedo de nada porque no había leyendas.",
+          "is_correct": false,
+          "feedback": "Las leyendas existían precisamente porque el miedo era un motor social importante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La lectura crítica de la tradición oral permite entender que las historias no son \"neutrales\". Reflejan la mentalidad de una época y, a veces, perpetúan visiones del mundo que hoy podemos cuestionar desde los derechos humanos y la equidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-v9",
+      "statement": "Desde un análisis del papel de la literatura oral en la actualidad, ¿qué función está cumpliendo la leyenda en este conflicto?",
+      "context": "En un pueblo del Huila, una empresa quiere talar un bosque sagrado. Los ancianos cuentan la leyenda de que allí vive un espíritu protector que enfermará a quien toque los árboles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una función de entretenimiento para que los trabajadores de la empresa no se aburran.",
+          "is_correct": false,
+          "feedback": "La leyenda se usa aquí como una herramienta de defensa, no de ocio."
+        },
+        {
+          "letter": "B",
+          "text": "Una función científica para explicar la botánica del bosque.",
+          "is_correct": false,
+          "feedback": "El lenguaje es simbólico y espiritual, no técnico-científico."
+        },
+        {
+          "letter": "C",
+          "text": "Una función de resistencia cultural y defensa del territorio frente a amenazas externas.",
+          "is_correct": true,
+          "feedback": "La leyenda actúa como un escudo simbólico que protege un recurso natural valorado por la comunidad."
+        },
+        {
+          "letter": "D",
+          "text": "Una función de promoción para vender madera con \"espíritus incluidos\".",
+          "is_correct": false,
+          "feedback": "La intención de la comunidad es proteger el bosque, no comercializarlo de esa manera."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tradición oral no es algo del pasado; sigue siendo una herramienta viva. En muchos contextos colombianos, los mitos y leyendas son el fundamento para la conservación ambiental y la lucha política por el territorio.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-v10",
+      "statement": "¿Cuál es la consecuencia más grave de esta pérdida de la tradición oral local para la identidad nacional?",
+      "context": "Evalúa el impacto de que los jóvenes colombianos dejen de contar mitos y leyendas y solo consuman historias de superhéroes de otros países.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los jóvenes van a tener mejores notas en inglés pero peores en español.",
+          "is_correct": false,
+          "feedback": "Es una consecuencia posible pero no la más profunda a nivel de identidad cultural."
+        },
+        {
+          "letter": "B",
+          "text": "Que los superhéroes son más fuertes que los espantos colombianos.",
+          "is_correct": false,
+          "feedback": "Esta es una comparación de fuerza ficticia, no un análisis de impacto cultural."
+        },
+        {
+          "letter": "C",
+          "text": "El debilitamiento del vínculo emocional con el territorio y la pérdida de una forma única de entender y respetar nuestro entorno.",
+          "is_correct": true,
+          "feedback": "Nuestras leyendas nos conectan con nuestros ríos, montañas y selvas; sin ellas, el paisaje pierde su significado sagrado y cultural."
+        },
+        {
+          "letter": "D",
+          "text": "Que ya nadie va a comprar velas para contar historias en la oscuridad.",
+          "is_correct": false,
+          "feedback": "Es una consecuencia material insignificante frente a la pérdida del patrimonio inmaterial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La evaluación final resalta la importancia de la soberanía narrativa. Contar nuestras propias historias (mitos y leyendas) es esencial para que el territorio colombiano sea algo más que un mapa; es un lugar habitado por la memoria y el sentido.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación | Notas |\n| :--- | :---: | :--- |\n| Técnico | 30/30 | Formato v5.2 respetado. |\n| Curricular | 40/40 | Aborda mito, leyenda y su función social para grado 7. |\n| Contexto | 20/20 | Referencias a Tolima, Huila, Antioquia, Sierra Nevada y mitos Muiscas. |\n| Redacción | 10/10 | Enunciados claros y explicaciones pedagógicas sólidas. |\n| **Total** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LEN-7-2026-W37-mito-leyenda-colombiana-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

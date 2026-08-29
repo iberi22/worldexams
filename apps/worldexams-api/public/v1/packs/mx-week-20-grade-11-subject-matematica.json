@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "mx",
+    "pack_id": "mx-week-20-grade-11-subject-matematicas",
+    "generated_at": "2026-07-29T05:11:20.318Z"
+  },
+  "questions": [
+    {
+      "id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v1",
+      "statement": "Determina la pendiente m de la recta que pasa por los puntos P₁(1, 3) y P₂(4, 12) en el plano cartesiano.",
+      "context": "Un analista urbano en Toluca modela la trayectoria lineal del crecimiento de una avenida de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (12 - 3) / (4 - 1) = 9 / 3 = 3."
+        },
+        {
+          "letter": "B",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "-3",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmula m = (y₂ - y₁) / (x₂ - x₁). Sustituyendo los puntos dados P₁(1, 3) y P₂(4, 12): m = (12 - 3) / (4 - 1) = 9 / 3 = 3.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v2",
+      "statement": "Determina la pendiente m de la recta que pasa por los puntos P₁(2, 4) y P₂(5, 13) en el plano cartesiano.",
+      "context": "Un analista urbano en Guadalajara modela la trayectoria lineal del crecimiento de una avenida de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (13 - 4) / (5 - 2) = 9 / 3 = 3."
+        },
+        {
+          "letter": "B",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "-3",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmula m = (y₂ - y₁) / (x₂ - x₁). Sustituyendo los puntos dados P₁(2, 4) y P₂(5, 13): m = (13 - 4) / (5 - 2) = 9 / 3 = 3.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v3",
+      "statement": "Determina la pendiente m de la recta que pasa por los puntos P₁(3, 5) y P₂(6, 14) en el plano cartesiano.",
+      "context": "Un analista urbano en CDMX modela la trayectoria lineal del crecimiento de una avenida de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (14 - 5) / (6 - 3) = 9 / 3 = 3."
+        },
+        {
+          "letter": "B",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "-3",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmula m = (y₂ - y₁) / (x₂ - x₁). Sustituyendo los puntos dados P₁(3, 5) y P₂(6, 14): m = (14 - 5) / (6 - 3) = 9 / 3 = 3.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v4",
+      "statement": "Determina la pendiente m de la recta que pasa por los puntos P₁(4, 3) y P₂(7, 12) en el plano cartesiano.",
+      "context": "Un analista urbano en Monterrey modela la trayectoria lineal del crecimiento de una avenida de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (12 - 3) / (7 - 4) = 9 / 3 = 3."
+        },
+        {
+          "letter": "B",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "-3",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmula m = (y₂ - y₁) / (x₂ - x₁). Sustituyendo los puntos dados P₁(4, 3) y P₂(7, 12): m = (12 - 3) / (7 - 4) = 9 / 3 = 3.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v5",
+      "statement": "Determina la pendiente m de la recta que pasa por los puntos P₁(5, 4) y P₂(8, 13) en el plano cartesiano.",
+      "context": "Un analista urbano en Veracruz modela la trayectoria lineal del crecimiento de una avenida de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (13 - 4) / (8 - 5) = 9 / 3 = 3."
+        },
+        {
+          "letter": "B",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "-3",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmula m = (y₂ - y₁) / (x₂ - x₁). Sustituyendo los puntos dados P₁(5, 4) y P₂(8, 13): m = (13 - 4) / (8 - 5) = 9 / 3 = 3.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v6",
+      "statement": "Determina la pendiente m de la recta que pasa por los puntos P₁(6, 5) y P₂(9, 14) en el plano cartesiano.",
+      "context": "Un analista urbano en Querétaro modela la trayectoria lineal del crecimiento de una avenida de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (14 - 5) / (9 - 6) = 9 / 3 = 3."
+        },
+        {
+          "letter": "B",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "-3",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmula m = (y₂ - y₁) / (x₂ - x₁). Sustituyendo los puntos dados P₁(6, 5) y P₂(9, 14): m = (14 - 5) / (9 - 6) = 9 / 3 = 3.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v7",
+      "statement": "Determina la pendiente m de la recta que pasa por los puntos P₁(7, 3) y P₂(10, 12) en el plano cartesiano.",
+      "context": "Un analista urbano en León modela la trayectoria lineal del crecimiento de una avenida de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (12 - 3) / (10 - 7) = 9 / 3 = 3."
+        },
+        {
+          "letter": "B",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "-3",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmula m = (y₂ - y₁) / (x₂ - x₁). Sustituyendo los puntos dados P₁(7, 3) y P₂(10, 12): m = (12 - 3) / (10 - 7) = 9 / 3 = 3.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v8",
+      "statement": "Determina la pendiente m de la recta que pasa por los puntos P₁(8, 4) y P₂(11, 13) en el plano cartesiano.",
+      "context": "Un analista urbano en Mérida modela la trayectoria lineal del crecimiento de una avenida de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (13 - 4) / (11 - 8) = 9 / 3 = 3."
+        },
+        {
+          "letter": "B",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "-3",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmula m = (y₂ - y₁) / (x₂ - x₁). Sustituyendo los puntos dados P₁(8, 4) y P₂(11, 13): m = (13 - 4) / (11 - 8) = 9 / 3 = 3.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v9",
+      "statement": "Determina la pendiente m de la recta que pasa por los puntos P₁(9, 5) y P₂(12, 14) en el plano cartesiano.",
+      "context": "Un analista urbano en Morelia modela la trayectoria lineal del crecimiento de una avenida de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (14 - 5) / (12 - 9) = 9 / 3 = 3."
+        },
+        {
+          "letter": "B",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "-3",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmula m = (y₂ - y₁) / (x₂ - x₁). Sustituyendo los puntos dados P₁(9, 5) y P₂(12, 14): m = (14 - 5) / (12 - 9) = 9 / 3 = 3.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v10",
+      "statement": "Determina la pendiente m de la recta que pasa por los puntos P₁(10, 3) y P₂(13, 12) en el plano cartesiano.",
+      "context": "Un analista urbano en Oaxaca modela la trayectoria lineal del crecimiento de una avenida de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (12 - 3) / (13 - 10) = 9 / 3 = 3."
+        },
+        {
+          "letter": "B",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "-3",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmula m = (y₂ - y₁) / (x₂ - x₁). Sustituyendo los puntos dados P₁(10, 3) y P₂(13, 12): m = (12 - 3) / (13 - 10) = 9 / 3 = 3.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v11",
+      "statement": "Determina la pendiente m de la recta que pasa por los puntos P₁(11, 4) y P₂(14, 13) en el plano cartesiano.",
+      "context": "Un analista urbano en Toluca modela la trayectoria lineal del crecimiento de una avenida de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (13 - 4) / (14 - 11) = 9 / 3 = 3."
+        },
+        {
+          "letter": "B",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "-3",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmula m = (y₂ - y₁) / (x₂ - x₁). Sustituyendo los puntos dados P₁(11, 4) y P₂(14, 13): m = (13 - 4) / (14 - 11) = 9 / 3 = 3.",
+      "difficulty": "11",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v12",
+      "statement": "Determina la pendiente m de la recta que pasa por los puntos P₁(12, 5) y P₂(15, 14) en el plano cartesiano.",
+      "context": "Un analista urbano en Guadalajara modela la trayectoria lineal del crecimiento de una avenida de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (14 - 5) / (15 - 12) = 9 / 3 = 3."
+        },
+        {
+          "letter": "B",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "-3",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmula m = (y₂ - y₁) / (x₂ - x₁). Sustituyendo los puntos dados P₁(12, 5) y P₂(15, 14): m = (14 - 5) / (15 - 12) = 9 / 3 = 3.",
+      "difficulty": "12",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v13",
+      "statement": "Determina la pendiente m de la recta que pasa por los puntos P₁(13, 3) y P₂(16, 12) en el plano cartesiano.",
+      "context": "Un analista urbano en CDMX modela la trayectoria lineal del crecimiento de una avenida de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (12 - 3) / (16 - 13) = 9 / 3 = 3."
+        },
+        {
+          "letter": "B",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "-3",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmula m = (y₂ - y₁) / (x₂ - x₁). Sustituyendo los puntos dados P₁(13, 3) y P₂(16, 12): m = (12 - 3) / (16 - 13) = 9 / 3 = 3.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v14",
+      "statement": "Determina la pendiente m de la recta que pasa por los puntos P₁(14, 4) y P₂(17, 13) en el plano cartesiano.",
+      "context": "Un analista urbano en Monterrey modela la trayectoria lineal del crecimiento de una avenida de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (13 - 4) / (17 - 14) = 9 / 3 = 3."
+        },
+        {
+          "letter": "B",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "-3",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmula m = (y₂ - y₁) / (x₂ - x₁). Sustituyendo los puntos dados P₁(14, 4) y P₂(17, 13): m = (13 - 4) / (17 - 14) = 9 / 3 = 3.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v15",
+      "statement": "Determina la pendiente m de la recta que pasa por los puntos P₁(15, 5) y P₂(18, 14) en el plano cartesiano.",
+      "context": "Un analista urbano en Veracruz modela la trayectoria lineal del crecimiento de una avenida de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (14 - 5) / (18 - 15) = 9 / 3 = 3."
+        },
+        {
+          "letter": "B",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "-3",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmula m = (y₂ - y₁) / (x₂ - x₁). Sustituyendo los puntos dados P₁(15, 5) y P₂(18, 14): m = (14 - 5) / (18 - 15) = 9 / 3 = 3.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v16",
+      "statement": "Determina la pendiente m de la recta que pasa por los puntos P₁(16, 3) y P₂(19, 12) en el plano cartesiano.",
+      "context": "Un analista urbano en Querétaro modela la trayectoria lineal del crecimiento de una avenida de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (12 - 3) / (19 - 16) = 9 / 3 = 3."
+        },
+        {
+          "letter": "B",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "-3",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmula m = (y₂ - y₁) / (x₂ - x₁). Sustituyendo los puntos dados P₁(16, 3) y P₂(19, 12): m = (12 - 3) / (19 - 16) = 9 / 3 = 3.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v17",
+      "statement": "Determina la pendiente m de la recta que pasa por los puntos P₁(17, 4) y P₂(20, 13) en el plano cartesiano.",
+      "context": "Un analista urbano en León modela la trayectoria lineal del crecimiento de una avenida de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (13 - 4) / (20 - 17) = 9 / 3 = 3."
+        },
+        {
+          "letter": "B",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "-3",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmula m = (y₂ - y₁) / (x₂ - x₁). Sustituyendo los puntos dados P₁(17, 4) y P₂(20, 13): m = (13 - 4) / (20 - 17) = 9 / 3 = 3.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v18",
+      "statement": "Determina la pendiente m de la recta que pasa por los puntos P₁(18, 5) y P₂(21, 14) en el plano cartesiano.",
+      "context": "Un analista urbano en Mérida modela la trayectoria lineal del crecimiento de una avenida de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (14 - 5) / (21 - 18) = 9 / 3 = 3."
+        },
+        {
+          "letter": "B",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "-3",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmula m = (y₂ - y₁) / (x₂ - x₁). Sustituyendo los puntos dados P₁(18, 5) y P₂(21, 14): m = (14 - 5) / (21 - 18) = 9 / 3 = 3.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v19",
+      "statement": "Determina la pendiente m de la recta que pasa por los puntos P₁(19, 3) y P₂(22, 12) en el plano cartesiano.",
+      "context": "Un analista urbano en Morelia modela la trayectoria lineal del crecimiento de una avenida de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (12 - 3) / (22 - 19) = 9 / 3 = 3."
+        },
+        {
+          "letter": "B",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "-3",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmula m = (y₂ - y₁) / (x₂ - x₁). Sustituyendo los puntos dados P₁(19, 3) y P₂(22, 12): m = (12 - 3) / (22 - 19) = 9 / 3 = 3.",
+      "difficulty": "11",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v20",
+      "statement": "Determina la pendiente m de la recta que pasa por los puntos P₁(20, 4) y P₂(23, 13) en el plano cartesiano.",
+      "context": "Un analista urbano en Oaxaca modela la trayectoria lineal del crecimiento de una avenida de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (13 - 4) / (23 - 20) = 9 / 3 = 3."
+        },
+        {
+          "letter": "B",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "-3",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmula m = (y₂ - y₁) / (x₂ - x₁). Sustituyendo los puntos dados P₁(20, 4) y P₂(23, 13): m = (13 - 4) / (23 - 20) = 9 / 3 = 3.",
+      "difficulty": "12",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    }
+  ]
+}

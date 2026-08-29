@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "py",
+    "pack_id": "py-week-4-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-05T19:40:28.845Z"
+  },
+  "questions": [
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v1",
+      "statement": "¿Qué modelo estructural describe la membrana plasmática como una bicapa lipídica dinámica y fluida?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Joaquín y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El modelo de mosaico fluido",
+          "is_correct": true,
+          "feedback": "¡Correcto! El modelo de mosaico fluido responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "El fosfolípido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fosfolípido no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La acuaporina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acuaporina es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La proteína integral o transmembrana",
+          "is_correct": false,
+          "feedback": "Incorrecto. La proteína integral o transmembrana describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de El modelo de mosaico fluido constituye un fundamento esencial para comprender los procesos analizados en la unidad de Membrana y transporte celular.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v2",
+      "statement": "¿Qué lípido de la membrana celular de plantas y hongos cumple una función análoga a la del colesterol en animales?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Jorge y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ergosterol",
+          "is_correct": true,
+          "feedback": "¡Correcto! El ergosterol responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La bomba sodio-potasio ATPasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La bomba sodio-potasio ATPasa no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La proteína integral o transmembrana",
+          "is_correct": false,
+          "feedback": "Incorrecto. La proteína integral o transmembrana es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "El modelo de mosaico fluido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modelo de mosaico fluido describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de El ergosterol constituye un fundamento esencial para comprender los procesos analizados en la unidad de Membrana y transporte celular.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v3",
+      "statement": "¿Qué tipo de transporte pasivo permite el paso libre de moléculas pequeñas no polares directamente a través de la bicapa?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Ramón y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La difusión simple",
+          "is_correct": true,
+          "feedback": "¡Correcto! La difusión simple responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La difusión facilitada",
+          "is_correct": false,
+          "feedback": "Incorrecto. La difusión facilitada no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "El ergosterol",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ergosterol es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Las glicoproteínas y glicolípidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las glicoproteínas y glicolípidos describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La difusión simple constituye un fundamento esencial para comprender los procesos analizados en la unidad de Membrana y transporte celular.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.79,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v4",
+      "statement": "¿Qué tipo de transporte pasivo utiliza proteínas de canal o carriers para mover solutos polares a favor de su gradiente?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Benjamín y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La difusión facilitada",
+          "is_correct": true,
+          "feedback": "¡Correcto! La difusión facilitada responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "El modelo de mosaico fluido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modelo de mosaico fluido no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La proteína extrínseca",
+          "is_correct": false,
+          "feedback": "Incorrecto. La proteína extrínseca es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "El fosfolípido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fosfolípido describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La difusión facilitada constituye un fundamento esencial para comprender los procesos analizados en la unidad de Membrana y transporte celular.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v5",
+      "statement": "¿Qué proceso osmótico experimenta una célula vegetal cuando se la coloca en un medio extremadamente hipotónico?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Camila y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La turgencia celular",
+          "is_correct": true,
+          "feedback": "¡Correcto! La turgencia celular responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La exocitosis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La exocitosis no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La plasmólisis celular",
+          "is_correct": false,
+          "feedback": "Incorrecto. La plasmólisis celular es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Su carácter no polar o hidrofóbico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su carácter no polar o hidrofóbico describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La turgencia celular constituye un fundamento esencial para comprender los procesos analizados en la unidad de Membrana y transporte celular.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v6",
+      "statement": "¿Qué proceso experimenta una célula animal (como un glóbulo rojo) cuando se la introduce en agua destilada?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, María y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La citólisis (o lisis osmótica)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La citólisis (o lisis osmótica) responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La plasmólisis celular",
+          "is_correct": false,
+          "feedback": "Incorrecto. La plasmólisis celular no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La ósmosis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ósmosis es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La turgencia celular",
+          "is_correct": false,
+          "feedback": "Incorrecto. La turgencia celular describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La citólisis (o lisis osmótica) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Membrana y transporte celular.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v7",
+      "statement": "¿Qué proceso describe el movimiento del agua a través de una membrana semipermeable a favor de su propio gradiente?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Jorge y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ósmosis",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ósmosis responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La bomba sodio-potasio ATPasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La bomba sodio-potasio ATPasa no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La acuaporina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acuaporina es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Su carácter no polar o hidrofóbico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su carácter no polar o hidrofóbico describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La ósmosis constituye un fundamento esencial para comprender los procesos analizados en la unidad de Membrana y transporte celular.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v8",
+      "statement": "¿Qué proteína transmembrana bombea activamente tres iones de sodio al exterior y dos de potasio al interior de la célula?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Liz y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La bomba sodio-potasio ATPasa",
+          "is_correct": true,
+          "feedback": "¡Correcto! La bomba sodio-potasio ATPasa responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "El simportador de sodio-glucosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El simportador de sodio-glucosa no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La difusión simple",
+          "is_correct": false,
+          "feedback": "Incorrecto. La difusión simple es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La proteína integral o transmembrana",
+          "is_correct": false,
+          "feedback": "Incorrecto. La proteína integral o transmembrana describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La bomba sodio-potasio ATPasa constituye un fundamento esencial para comprender los procesos analizados en la unidad de Membrana y transporte celular.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.64,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v9",
+      "statement": "¿Qué mecanismo de transporte celular utiliza el gradiente de sodio preestablecido para ingresar glucosa en contra de su gradiente?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Florencia y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El simportador de sodio-glucosa",
+          "is_correct": true,
+          "feedback": "¡Correcto! El simportador de sodio-glucosa responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La citólisis (o lisis osmótica)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La citólisis (o lisis osmótica) no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "El ergosterol",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ergosterol es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Los plasmodesmos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los plasmodesmos describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de El simportador de sodio-glucosa constituye un fundamento esencial para comprender los procesos analizados en la unidad de Membrana y transporte celular.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.61,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v10",
+      "statement": "¿Qué tipo de endocitosis permite a la célula incorporar selectivamente solutos específicos del exterior usando receptores?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Martina y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La endocitosis mediada por receptor",
+          "is_correct": true,
+          "feedback": "¡Correcto! La endocitosis mediada por receptor responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La ósmosis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ósmosis no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La difusión facilitada y transporte activo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La difusión facilitada y transporte activo es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "El modelo de mosaico fluido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modelo de mosaico fluido describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La endocitosis mediada por receptor constituye un fundamento esencial para comprender los procesos analizados en la unidad de Membrana y transporte celular.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.58,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v11",
+      "statement": "¿Qué tipo de transporte vesicular secreta compuestos elaborados por la célula hacia el espacio extracelular?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Gladys y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La exocitosis",
+          "is_correct": true,
+          "feedback": "¡Correcto! La exocitosis responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "El fosfolípido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fosfolípido no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La ósmosis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ósmosis es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La proteína extrínseca",
+          "is_correct": false,
+          "feedback": "Incorrecto. La proteína extrínseca describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La exocitosis constituye un fundamento esencial para comprender los procesos analizados en la unidad de Membrana y transporte celular.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v12",
+      "statement": "¿Qué propiedad de las colas hidrofóbicas de los fosfolípidos les impide mezclarse de manera espontánea con el agua?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Santiago y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su carácter no polar o hidrofóbico",
+          "is_correct": true,
+          "feedback": "¡Correcto! Su carácter no polar o hidrofóbico responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La citólisis (o lisis osmótica)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La citólisis (o lisis osmótica) no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La proteína integral o transmembrana",
+          "is_correct": false,
+          "feedback": "Incorrecto. La proteína integral o transmembrana es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "El simportador de sodio-glucosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El simportador de sodio-glucosa describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Su carácter no polar o hidrofóbico constituye un fundamento esencial para comprender los procesos analizados en la unidad de Membrana y transporte celular.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v13",
+      "statement": "¿Qué carbohidratos externos de la membrana de células animales forman el glucocálix encargado del reconocimiento?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Jorge y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las glicoproteínas y glicolípidos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las glicoproteínas y glicolípidos responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La acuaporina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acuaporina no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La difusión simple",
+          "is_correct": false,
+          "feedback": "Incorrecto. La difusión simple es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La proteína integral o transmembrana",
+          "is_correct": false,
+          "feedback": "Incorrecto. La proteína integral o transmembrana describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Las glicoproteínas y glicolípidos constituye un fundamento esencial para comprender los procesos analizados en la unidad de Membrana y transporte celular.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.49,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v14",
+      "statement": "¿Qué tipo de proteína de membrana atraviesa completamente la bicapa lipídica de un extremo a otro?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Santiago y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La proteína integral o transmembrana",
+          "is_correct": true,
+          "feedback": "¡Correcto! La proteína integral o transmembrana responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Su carácter no polar o hidrofóbico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su carácter no polar o hidrofóbico no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La citólisis (o lisis osmótica)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La citólisis (o lisis osmótica) es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "El simportador de sodio-glucosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El simportador de sodio-glucosa describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La proteína integral o transmembrana constituye un fundamento esencial para comprender los procesos analizados en la unidad de Membrana y transporte celular.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.46,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v15",
+      "statement": "¿Qué molécula canalizadora del paso de agua se localiza de manera abundante en las membranas celulares del túbulo renal?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, María y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La acuaporina",
+          "is_correct": true,
+          "feedback": "¡Correcto! La acuaporina responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La proteína integral o transmembrana",
+          "is_correct": false,
+          "feedback": "Incorrecto. La proteína integral o transmembrana no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La endocitosis mediada por receptor",
+          "is_correct": false,
+          "feedback": "Incorrecto. La endocitosis mediada por receptor es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La plasmólisis celular",
+          "is_correct": false,
+          "feedback": "Incorrecto. La plasmólisis celular describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La acuaporina constituye un fundamento esencial para comprender los procesos analizados en la unidad de Membrana y transporte celular.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v16",
+      "statement": "¿Qué estado celular de marchitamiento experimenta una planta colocada en un medio de salinidad muy alta (hipertónico)?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Camila y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La plasmólisis celular",
+          "is_correct": true,
+          "feedback": "¡Correcto! La plasmólisis celular responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "El fosfolípido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fosfolípido no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La difusión facilitada y transporte activo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La difusión facilitada y transporte activo es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La acuaporina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acuaporina describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La plasmólisis celular constituye un fundamento esencial para comprender los procesos analizados en la unidad de Membrana y transporte celular.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.4,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v17",
+      "statement": "¿Qué tipo de transporte transmembrana se satura cuando todos los sitios de unión de las proteínas transportadoras están ocupados?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Jorge y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La difusión facilitada y transporte activo",
+          "is_correct": true,
+          "feedback": "¡Correcto! La difusión facilitada y transporte activo responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "El fosfolípido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fosfolípido no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "El simportador de sodio-glucosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El simportador de sodio-glucosa es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La difusión facilitada",
+          "is_correct": false,
+          "feedback": "Incorrecto. La difusión facilitada describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La difusión facilitada y transporte activo constituye un fundamento esencial para comprender los procesos analizados en la unidad de Membrana y transporte celular.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.37,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v18",
+      "statement": "¿Qué compuesto lipídico de la bicapa posee un extremo hidrofílico soluble en agua y dos colas hidrofóbicas?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Florencia y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El fosfolípido",
+          "is_correct": true,
+          "feedback": "¡Correcto! El fosfolípido responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "El modelo de mosaico fluido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modelo de mosaico fluido no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La difusión simple",
+          "is_correct": false,
+          "feedback": "Incorrecto. La difusión simple es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La acuaporina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acuaporina describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de El fosfolípido constituye un fundamento esencial para comprender los procesos analizados en la unidad de Membrana y transporte celular.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.34,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v19",
+      "statement": "¿Qué tipo de unión intercelular en plantas atraviesa la pared celular facilitando el paso directo de agua y metabolitos?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Ramón y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los plasmodesmos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los plasmodesmos responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "El fosfolípido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fosfolípido no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La citólisis (o lisis osmótica)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La citólisis (o lisis osmótica) es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "El modelo de mosaico fluido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modelo de mosaico fluido describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Los plasmodesmos constituye un fundamento esencial para comprender los procesos analizados en la unidad de Membrana y transporte celular.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.31,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-v20",
+      "statement": "¿Qué tipo de proteína periférica se asocia débilmente a la superficie interna de la bicapa lipídica sin penetrarla?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Martina y su grupo investigan sobre Membrana y transporte celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La proteína extrínseca",
+          "is_correct": true,
+          "feedback": "¡Correcto! La proteína extrínseca responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La citólisis (o lisis osmótica)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La citólisis (o lisis osmótica) no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Su carácter no polar o hidrofóbico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su carácter no polar o hidrofóbico es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La ósmosis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ósmosis describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La proteína extrínseca constituye un fundamento esencial para comprender los procesos analizados en la unidad de Membrana y transporte celular.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.28,
+      "bundle_id": "PY-CIE-11-2026-W04-tema-w04-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}

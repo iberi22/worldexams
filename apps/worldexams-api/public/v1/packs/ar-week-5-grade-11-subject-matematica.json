@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "ar",
+    "pack_id": "ar-week-5-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:36.271Z"
+  },
+  "questions": [
+    {
+      "id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v1",
+      "statement": "Dada la función polinómica $P(x) = -2x^3 + 5x^2 - x^4 + 7$, ¿cuál es el grado del polinomio y su coeficiente principal?",
+      "context": "Martina analiza la estructura de los polinomios y sus respectivos grados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grado 3, coeficiente principal $-2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grado está determinado por el mayor exponente de la variable."
+        },
+        {
+          "letter": "B",
+          "text": "Grado 4, coeficiente principal $-1$.",
+          "is_correct": true,
+          "feedback": "Correcto. El mayor exponente de $x$ es 4, lo que define el grado. El coeficiente que acompaña a $x^4$ es $-1$."
+        },
+        {
+          "letter": "C",
+          "text": "Grado 4, coeficiente principal $7$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $7$ es el término independiente."
+        },
+        {
+          "letter": "D",
+          "text": "Grado 3, coeficiente principal $5$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta no es la potencia dominante del polinomio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El grado de un polinomio es el mayor exponente de la variable con coeficiente no nulo. Su coeficiente principal es el coeficiente asociado a esa variable dominante.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v2",
+      "statement": "Según el teorema del resto, ¿cuál es el resto de dividir un polinomio $P(x)$ por un binomio de la forma $x - a$?",
+      "context": "Matías estudia el teorema del resto para dividir polinomios en Córdoba.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El valor $P(-a)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se debe sustituir el valor de $a$ con el signo opuesto."
+        },
+        {
+          "letter": "B",
+          "text": "El valor $P(a)$.",
+          "is_correct": true,
+          "feedback": "Correcto. El teorema del resto establece que el residuo de la división de un polinomio $P(x)$ por $x - a$ es igual a evaluar el polinomio en $a$."
+        },
+        {
+          "letter": "C",
+          "text": "El valor constante $0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurre únicamente si $a$ es una raíz del polinomio."
+        },
+        {
+          "letter": "D",
+          "text": "El coeficiente principal de $P(x)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resto es un número real que no necesariamente es igual al coeficiente principal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El teorema del resto es una herramienta algebraica que permite calcular directamente el resto de una división por un divisor de primer grado $x-a$ evaluando $P(a)$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de los siguientes divisores tiene la forma requerida para poder aplicar de manera directa la regla de Ruffini en la división de polinomios?",
+      "context": "Valentina repasa la regla de Ruffini en Mendoza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El divisor debe ser de primer grado."
+        },
+        {
+          "letter": "B",
+          "text": "$x - 3$",
+          "is_correct": true,
+          "feedback": "Correcto. La regla de Ruffini es aplicable para divisiones donde el divisor es un binomio mónico de primer grado de la forma $x - a$."
+        },
+        {
+          "letter": "C",
+          "text": "$2x + 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente de $x$ debe ser exactamente igual a 1 (mónico) para aplicarse directamente."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{x - 1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este término representa una fracción algebraica, no un polinomio divisor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La regla de Ruffini es un algoritmo abreviado de división que se aplica únicamente cuando el divisor es un polinomio lineal mónico de la forma $x - a$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v4",
+      "statement": "Si una función polinómica tiene una raíz real de multiplicidad par (por ejemplo, multiplicidad 2), ¿cómo se comporta su gráfica al cruzar el eje de las abscisas (eje $x$) en dicho punto?",
+      "context": "Agustín analiza el comportamiento gráfico de una raíz con multiplicidad par en La Plata.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cruza el eje horizontal de forma perfectamente recta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurre en raíces simples de multiplicidad 1."
+        },
+        {
+          "letter": "B",
+          "text": "Toca el eje horizontal pero no lo cruza, rebotando en él.",
+          "is_correct": true,
+          "feedback": "Correcto. Las raíces de multiplicidad par producen un 'rebote' gráfico en el eje $x$, conservando el signo de la ordenada."
+        },
+        {
+          "letter": "C",
+          "text": "La gráfica presenta una asíntota vertical en esa posición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las funciones polinómicas son continuas en todos los reales y no poseen asíntotas."
+        },
+        {
+          "letter": "D",
+          "text": "Cruza el eje horizontal formando una meseta (punto de inflexión).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto describe a raíces de multiplicidad impar mayor a 1 (como multiplicidad 3)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La multiplicidad de una raíz determina el comportamiento de la gráfica en su intersección con el eje $x$. Multiplicidad par implica rebote; multiplicidad impar implica cruce.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v5",
+      "statement": "Dada la función racional $f(x) = \\frac{2x - 3}{x - 4}$, ¿cuál es la ecuación de su asíntota vertical?",
+      "context": "Lucía busca las asíntotas verticales de una función de concentración química en Rosario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta ecuación describe a la asíntota horizontal."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4$",
+          "is_correct": true,
+          "feedback": "Correcto. Las asíntotas verticales se localizan en los valores de $x$ que anulan el denominador sin anular el numerador: $x - 4 = 0 \\Rightarrow x = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor no anula al denominador de la función."
+        },
+        {
+          "letter": "D",
+          "text": "$y = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las asíntotas verticales se expresan como $x = c$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una asíntota vertical ocurre en los puntos de discontinuidad no evitable de una función racional donde el denominador se hace cero y la función tiende a infinito.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v6",
+      "statement": "Dada la función racional $f(x) = \\frac{6x^2 + 1}{2x^2 - 4}$, ¿cuál es la ecuación de su asíntota horizontal?",
+      "context": "Franco analiza las asíntotas horizontales de modelos físicos de decaimiento en Buenos Aires.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No divide el coeficiente del término dominante del denominador."
+        },
+        {
+          "letter": "B",
+          "text": "$y = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Como los grados de numerador y denominador son iguales, la asíntota horizontal es el cociente de los coeficientes principales: $y = 6/2 = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto describe las asíntotas verticales."
+        },
+        {
+          "letter": "D",
+          "text": "No posee asíntota horizontal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al tener igual grado, sí posee una asíntota horizontal constante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para funciones racionales con igual grado en numerador y denominador, la asíntota horizontal se obtiene como el cociente de los coeficientes principales de ambos polinomios.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v7",
+      "statement": "Utilizá la regla de Ruffini para encontrar el resto de dividir el polinomio $P(x) = x^3 - 3x^2 + 2x - 5$ por el binomio $x - 2$.",
+      "context": "Sofía realiza la división abreviada de polinomios en San Miguel de Tucumán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Resto = $-1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo al operar los términos intermedios."
+        },
+        {
+          "letter": "B",
+          "text": "Resto = $5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería el valor del resto si la raíz fuera otra."
+        },
+        {
+          "letter": "C",
+          "text": "Resto = $-5$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando el teorema del resto o Ruffini para $x=2$: $P(2) = 2^3 - 3(2)^2 + 2(2) - 5 = 8 - 12 + 4 - 5 = -5$."
+        },
+        {
+          "letter": "D",
+          "text": "Resto = $0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El binomio $x-2$ no es un divisor exacto de $P(x)$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicando el teorema del resto, evaluamos el polinomio en $x=2$: $2^3 - 3(2^2) + 2(2) - 5 = 8 - 12 + 4 - 5 = -5$. Por Ruffini se obtiene el mismo valor en la última posición del esquema.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v8",
+      "statement": "La concentración de un fármaco viene dada por la función racional $C(t) = \\frac{4t}{t^2 + 2}$, donde $t \\ge 0$ es el tiempo en horas. ¿Cuál es el límite de la concentración del fármaco a largo plazo (es decir, cuando $t$ tiende a infinito)?",
+      "context": "Mateo analiza la concentración de un fármaco en el torrente sanguíneo en Salta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiende a $4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurriría si los grados fueran iguales."
+        },
+        {
+          "letter": "B",
+          "text": "Tiende a $0$.",
+          "is_correct": true,
+          "feedback": "Correcto. Como el grado del denominador ($2$) es mayor que el del numerador ($1$), cuando $t \\to \\infty$, la función tiende a cero."
+        },
+        {
+          "letter": "C",
+          "text": "Tiende a infinito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El denominador crece mucho más rápido que el numerador, amortiguando la concentración."
+        },
+        {
+          "letter": "D",
+          "text": "Tiende a $2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor independiente de la constante no define el límite al infinito."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando el grado del denominador de una función racional es estrictamente mayor que el grado del numerador, el límite de la función a medida que la variable independiente tiende a infinito es igual a cero.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v9",
+      "statement": "La función de costo promedio unitario está modelada por $f(x) = \\frac{50x + 2000}{x}$, donde $x$ es la cantidad de calzados producidos. ¿Qué valor representa la asíntota horizontal y qué significado físico tiene?",
+      "context": "Camila analiza el costo unitario de producción en una fábrica de calzado en Mendoza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 2000$, representa el costo de la primera unidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2000 es el costo fijo total."
+        },
+        {
+          "letter": "B",
+          "text": "$y = 50$, representa el costo promedio mínimo de producción a gran escala.",
+          "is_correct": true,
+          "feedback": "Correcto. La asíntota horizontal es $y=50$. A medida que se producen infinitas unidades, el costo promedio por calzado se aproxima a $\\$50$, licuando los costos fijos."
+        },
+        {
+          "letter": "C",
+          "text": "$y = 0$, representa que producir muchas unidades no tiene costo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Siempre hay un costo variable mínimo asociado."
+        },
+        {
+          "letter": "D",
+          "text": "$y = 100$, representa el costo fijo unitario ponderado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El costo variable unitario es 50."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al calcular el límite para $x \\to \\infty$ de la función de costo promedio $f(x) = \\frac{50x + 2000}{x}$, se obtiene la asíntota horizontal $y=50$, que representa el costo marginal variable de producción.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v10",
+      "statement": "Dado el polinomio cúbico $P(x) = x^3 - 4x^2 + x + 6$, y sabiendo que $x = -1$ es una raíz de este, realizá la división para encontrar las otras raíces.",
+      "context": "Joaquín factoriza polinomios para modelar la resistencia de materiales en Bahía Blanca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$ y $x = 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto de las raíces no coincide con el término independiente."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2$ y $x = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Al dividir $P(x)$ por $(x + 1)$ usando Ruffini se obtiene el polinomio cuadrático $x^2 - 5x + 6$. Sus raíces son $x = 2$ y $x = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = -2$ y $x = -3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Darían signos opuestos en la factorización."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 0$ y $x = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son raíces del polinomio cúbico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dividiendo $P(x)$ por el factor conocido $(x+1)$ mediante Ruffini, obtenemos el polinomio reducido $x^2 - 5x + 6$. Resolviendo la ecuación cuadrática resultante encontramos que las otras raíces son $2$ y $3$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v11",
+      "statement": "Calculá la ecuación de la asíntota oblicua de la función racional $f(x) = \\frac{2x^2 + 3x + 1}{x - 1}$.",
+      "context": "Julieta analiza la trayectoria asintótica de un proyectil en Neuquén.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 2x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta el término independiente obtenido al realizar el cociente."
+        },
+        {
+          "letter": "B",
+          "text": "$y = 2x + 5$",
+          "is_correct": true,
+          "feedback": "Correcto. Realizando la división polinómica del numerador por el denominador, se obtiene como cociente $2x + 5$ y resto $6$. La ecuación de la asíntota oblicua es $y = 2x + 5$."
+        },
+        {
+          "letter": "C",
+          "text": "$y = 2x - 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en los signos de la división polinómica."
+        },
+        {
+          "letter": "D",
+          "text": "No posee asíntota oblicua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como el grado del numerador es exactamente uno mayor que el del denominador, sí posee asíntota oblicua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una asíntota oblicua de la forma $y = mx + b$ se produce cuando el grado del numerador es exactamente una unidad mayor que el del denominador. Se calcula determinando el cociente de la división polinómica.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v12",
+      "statement": "Dada la función racional $f(x) = \\frac{x^2 - 9}{x - 3}$, ¿qué comportamiento geométrico presenta su gráfica en el punto de discontinuidad $x = 3$?",
+      "context": "Lautaro analiza una discontinuidad evitable en un sistema de engranajes en San Juan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una asíntota vertical de ecuación $x = 3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como el numerador también se anula en $x=3$, la discontinuidad es evitable."
+        },
+        {
+          "letter": "B",
+          "text": "Un punto vacío o \"hueco\" en la coordenada $(3, 6)$.",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando el numerador: $\\frac{(x-3)(x+3)}{x-3}$. Para $x \\neq 3$ la función equivale a $y = x + 3$. En $x=3$ se produce una discontinuidad evitable, representada por un hueco en $(3,6)$."
+        },
+        {
+          "letter": "C",
+          "text": "Una asíntota horizontal de ecuación $y = 3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función no presenta comportamiento asintótico horizontal en ese punto."
+        },
+        {
+          "letter": "D",
+          "text": "La gráfica es perfectamente continua y no presenta anomalías.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función no está definida en $x=3$ por provocar división por cero, por lo que no es continua allí."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Si un valor de $x$ anula simultáneamente al numerador y al denominador de una función racional, y el límite existe y es finito, se genera una discontinuidad evitable representada gráficamente por un punto vacío.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v13",
+      "statement": "Encontrá la fórmula del polinomio de tercer grado $P(x)$ que pasa por el punto $(0, 12)$, y cuyas raíces son $x_1 = 1$, $x_2 = 2$ y $x_3 = -2$.",
+      "context": "Delfina analiza el comportamiento de una estructura metálica mediante funciones polinómicas en San Luis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$P(x) = (x - 1)(x - 2)(x + 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para esta opción, el término independiente es $P(0) = 4$, no 12."
+        },
+        {
+          "letter": "B",
+          "text": "$P(x) = 3(x - 1)(x - 2)(x + 2)$",
+          "is_correct": true,
+          "feedback": "Correcto. La forma factorizada es $P(x) = a(x - 1)(x - 2)(x + 2)$. Evaluamos en $(0,12)$: $12 = a(0-1)(0-2)(0+2) \\Rightarrow 12 = 4a \\Rightarrow a = 3$. Por lo tanto, $P(x) = 3(x - 1)(x - 2)(x + 2)$."
+        },
+        {
+          "letter": "C",
+          "text": "$P(x) = -3(x + 1)(x + 2)(x - 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en los signos de los factores de las raíces."
+        },
+        {
+          "letter": "D",
+          "text": "$P(x) = 12(x - 1)(x - 2)(x + 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usó de forma errónea la ordenada al origen como coeficiente principal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Planteamos la forma factorizada general $P(x) = a(x - x_1)(x - x_2)(x - x_3)$ y sustituimos las tres raíces. Utilizando el punto $(0,12)$, se resuelve la ecuación lineal para hallar la constante multiplicativa $a = 3$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v14",
+      "statement": "Dada la función racional $f(x) = \\frac{x + 1}{x - 2}$, ¿cómo se comporta el límite lateral de la función cuando $x$ se aproxima a $2$ por la derecha ($x \\to 2^+$)?",
+      "context": "Isabella analiza el comportamiento asintótico lateral de una función de costos en Ushuaia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiende a $-\\infty$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al acercarse por derecha, los valores de $x$ son mayores que 2, por lo que el denominador es positivo."
+        },
+        {
+          "letter": "B",
+          "text": "Tiende a $+\\infty$.",
+          "is_correct": true,
+          "feedback": "Correcto. Si $x \\to 2^+$, el numerador tiende a $3$ (positivo) y el denominador tiende a $0$ a través de valores positivos, por lo que la fracción tiende a $+\\infty$."
+        },
+        {
+          "letter": "C",
+          "text": "Tiende a $0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite en el punto de la asíntota vertical no puede ser cero."
+        },
+        {
+          "letter": "D",
+          "text": "Tiende a $1$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1 es el límite cuando $x$ tiende a infinito, no cuando se aproxima a 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al evaluar el límite lateral $\\lim_{x \\to 2^+} \\frac{x+1}{x-2}$, se observa que el numerador tiende a un valor positivo ($3$) mientras que el denominador se aproxima a $0$ por valores positivos. Esto produce un crecimiento infinito positivo ($+\\infty$).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v15",
+      "statement": "Resolvé la inecuación polinómica $(x - 1)(x - 3)(x + 2) \\ge 0$ para encontrar el conjunto solución en los números reales.",
+      "context": "Tomas resuelve inecuaciones polinómicas para un estudio de rendimiento agrícola en Bariloche.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[-2, 1] \\cup [3, +\\\\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verificá los corchetes y paréntesis en la unión."
+        },
+        {
+          "letter": "B",
+          "text": "$[-2, 1] \\cup [3, +\\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. Los puntos críticos son $-2$, $1$ y $3$. Evaluando los signos por intervalos, la expresión es positiva en $[-2, 1]$ y en $[3, +\\infty)$."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\\\infty, -2] \\cup [1, 3]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En este rango la función toma valores menores o iguales a cero."
+        },
+        {
+          "letter": "D",
+          "text": "$[-2, 3]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omite evaluar correctamente el signo en el intervalo entre 1 y 3."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La resolución se realiza determinando los signos de cada factor en los intervalos delimitados por las raíces reales de la función. El producto es positivo en los intervalos $[-2, 1]$ y $[3, +\\infty)$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v16",
+      "statement": "Dada la función racional $f(x) = \\frac{ax^3 + 2x^2}{3x^3 - x + 1}$, ¿cuál debe ser el valor del parámetro real $a$ para que la asíntota horizontal de la función sea la recta de ecuación $y = 4$?",
+      "context": "Milagros analiza el comportamiento límite de funciones de densidad en Paraná.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si $a=4$, la asíntota sería $y = 4/3$."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 12$",
+          "is_correct": true,
+          "feedback": "Correcto. Como los grados de numerador y denominador son iguales a 3, la asíntota horizontal es $y = a/3$. Para que sea igual a 4: $a/3 = 4 \\Rightarrow a = 12$."
+        },
+        {
+          "letter": "C",
+          "text": "$a = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Daría una asíntota horizontal en $y = 1$."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cumple con la ecuación de la asíntota pedida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para que la asíntota horizontal de una función racional con grados iguales sea $y = C$, el cociente de sus coeficientes principales debe ser igual a dicha constante. De allí, $\\frac{a}{3} = 4 \\Rightarrow a = 12$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v17",
+      "statement": "Una función racional de la forma $f(x) = \\frac{ax + b}{x + c}$ tiene una asíntota vertical en $x = -2$, una asíntota horizontal en $y = 3$, y corta al eje de las ordenadas en el punto $(0, 4)$. ¿Cuáles son los valores de los parámetros reales $a$, $b$ y $c$?",
+      "context": "Nicolas estudia la variación de una función racional con parámetros desconocidos en Corrientes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = 2, b = 4, c = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor de la asíntota vertical implica que $c=2$."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 3, b = 8, c = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. Asíntota vertical en $x = -2 \\Rightarrow c = 2$. Asíntota horizontal en $y = 3 \\Rightarrow a/1 = 3 \\Rightarrow a = 3$. Corte en el eje y en $y=4 \\Rightarrow f(0) = b/c = 4 \\Rightarrow b/2 = 4 \\Rightarrow b = 8$."
+        },
+        {
+          "letter": "C",
+          "text": "$a = 3, b = 4, c = -2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si $c = -2$ la asíntota vertical estaría en $x=2$ positivo."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 1, b = 2, c = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No verifica ninguno de los parámetros asintóticos de la función dada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Despejamos cada parámetro secuencialmente: $c=2$ de la asíntota vertical; $a=3$ de la horizontal; y finalmente $b=8$ evaluando la intersección ordenada $f(0) = 4$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v18",
+      "statement": "Dada la función racional $f(x) = \\frac{x^2 - 1}{x^2 - 2x - 3}$, ¿cuáles son las asíntotas y puntos de discontinuidad evitable de esta función?",
+      "context": "Catalina estudia el comportamiento de un filtro digital de frecuencias en Resistencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Asíntota vertical en $x = -1$, asíntota horizontal en $y = 1$, hueco en $x = 3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor $(x+1)$ se simplifica, por lo que la discontinuidad evitable ocurre en $x = -1$."
+        },
+        {
+          "letter": "B",
+          "text": "Asíntota vertical en $x = 3$, asíntota horizontal en $y = 1$, hueco en $x = -1$.",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando: $\\frac{(x-1)(x+1)}{(x-3)(x+1)}$. El factor $(x+1)$ se anula en ambos dando un hueco en $x = -1$. El denominador se anula de forma única en $x = 3$ dando una asíntota vertical. Al tener igual grado, la asíntota horizontal es $y = 1$."
+        },
+        {
+          "letter": "C",
+          "text": "Asíntotas verticales en $x = 3$ y $x = -1$, asíntota horizontal en $y = 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignora que el factor común se puede simplificar eliminando una asíntota vertical."
+        },
+        {
+          "letter": "D",
+          "text": "No posee asíntotas de ningún tipo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí presenta comportamiento asintótico tanto vertical como horizontal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Mediante factorización completa $\\frac{(x-1)(x+1)}{(x-3)(x+1)}$, identificamos que $x=-1$ anula a ambos términos (discontinuidad evitable, hueco) y $x=3$ anula únicamente al denominador (asíntota vertical).\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v19",
+      "statement": "Evaluá la veracidad de la siguiente afirmación: 'La gráfica de una función racional nunca puede cortar o cruzar a su propia asíntota horizontal'. ¿Es esta afirmación verdadera o falsa?",
+      "context": "Facundo evalúa una demostración algebraica sobre límites y asíntotas en Posadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Verdadera, porque una asíntota es por definición una línea invisible e infranqueable que la gráfica no puede tocar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confunde el comportamiento asintótico global en el infinito con restricciones locales."
+        },
+        {
+          "letter": "B",
+          "text": "Falsa, porque la definición de asíntota horizontal describe únicamente el comportamiento límite en el infinito ($x \\to \\pm\\infty$); a valores finitos de $x$, la gráfica sí puede cruzar la asíntota horizontal.",
+          "is_correct": true,
+          "feedback": "Correcto. Una función racional puede cruzarse con su asíntota horizontal para valores finitos de $x$. La restricción de no tocar la recta solo se aplica en el comportamiento límite cuando $x$ tiende a infinito."
+        },
+        {
+          "letter": "C",
+          "text": "Verdadera, pero solo si la función tiene un grado impar en su denominador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grado del polinomio no impide que localmente se cruce con la recta asintótica."
+        },
+        {
+          "letter": "D",
+          "text": "Falsa, porque las asíntotas horizontales solo existen si el numerador es de mayor grado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si el numerador es de mayor grado, no posee asíntota horizontal (posee oblicua)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La asíntota horizontal describe el comportamiento de la función en el extremo lejano de la recta real ($x \\to \\infty$). No restringe en absoluto el comportamiento de la función para valores finitos, donde es común que ocurran intersecciones.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v20",
+      "statement": "Para hallar las raíces racionales del polinomio $P(x) = 2x^3 - x^2 + 5x - 3$, un estudiante propone que las únicas posibles raíces racionales son los divisores del término independiente: $\\pm 1$ y $\\pm 3$. Evaluá la validez matemática de este criterio.",
+      "context": "Martina evalúa críticamente el uso del teorema de las raíces racionales en Jujuy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El criterio es completamente válido y no requiere modificaciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estudiante se olvidó de considerar los divisores del coeficiente principal."
+        },
+        {
+          "letter": "B",
+          "text": "Es incorrecto porque, según el teorema de las raíces racionales, las posibles raíces tienen la forma $p/q$, donde $p$ divide al término independiente ($-3$) y $q$ divide al coeficiente principal ($2$), incluyendo candidatos como $\\pm \\frac{1}{2}$ y $\\pm \\frac{3}{2}$.",
+          "is_correct": true,
+          "feedback": "Correcto. Deben considerarse los divisores de ambos términos para armar todas las combinaciones fraccionarias posibles $p/q$."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecto porque el teorema de las raíces racionales solo se aplica a polinomios de grado par.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplica a cualquier polinomio de coeficientes enteros sin importar su grado."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcto únicamente si el coeficiente principal es un número irracional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los coeficientes del polinomio deben ser enteros."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El teorema de las raíces racionales establece que toda raíz racional de un polinomio con coeficientes enteros expresada como fracción irreducible $p/q$ cumple que $p$ es divisor del término independiente y $q$ es divisor del coeficiente principal.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "AR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    }
+  ]
+}

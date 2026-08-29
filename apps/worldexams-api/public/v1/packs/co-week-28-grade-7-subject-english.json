@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-28-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.902Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W28-future-going-to-001-v1",
+      "statement": "Which auxiliary verb is essential to form the \"going to\" future?",
+      "context": "Identifying the auxiliary for \"be going to\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Do",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Do\" is for present simple."
+        },
+        {
+          "letter": "B",
+          "text": "Be (Am, Is, Are)",
+          "is_correct": true,
+          "feedback": "Correct! \"Be going to\" requires the verb to be conjugated correctly."
+        },
+        {
+          "letter": "C",
+          "text": "Have",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Have\" is for perfect tenses."
+        },
+        {
+          "letter": "D",
+          "text": "Will",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Will\" is a separate way to form the future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies the basic structural component of the \"going to\" future tense.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W28-future-going-to-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W28-future-going-to-002-v1",
+      "statement": "Complete the sentence: \"I ________ to study English this afternoon.\"",
+      "context": "Describing a personal plan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "going",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing the verb \"to be\"."
+        },
+        {
+          "letter": "B",
+          "text": "am going",
+          "is_correct": true,
+          "feedback": "Correct! \"Am\" for \"I\" and \"going to\"."
+        },
+        {
+          "letter": "C",
+          "text": "is going",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Is\" is not used with \"I\"."
+        },
+        {
+          "letter": "D",
+          "text": "will going",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically impossible combination."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student remembers the correct first-person singular conjugation for the \"going to\" structure.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W28-future-going-to-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W28-future-going-to-003-v1",
+      "statement": "\"We ________ visit our grandparents in Medellín next Saturday.\"",
+      "context": "A plan for the weekend in Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is going to",
+          "is_correct": false,
+          "feedback": "Incorrect. \"We\" requires \"are\"."
+        },
+        {
+          "letter": "B",
+          "text": "are going to",
+          "is_correct": true,
+          "feedback": "Correct! Plural subject \"We\" uses \"are\"."
+        },
+        {
+          "letter": "C",
+          "text": "going to",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing the auxiliary \"be\"."
+        },
+        {
+          "letter": "D",
+          "text": "am going to",
+          "is_correct": false,
+          "feedback": "Incorrect. Only for \"I\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the need for subject-verb agreement within the \"be going to\" structure.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W28-future-going-to-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W28-future-going-to-004-v1",
+      "statement": "Choose the correct question about someone's future intentions.",
+      "context": "Asking about a future plan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "What you are going to do?",
+          "is_correct": false,
+          "feedback": "Incorrect. The verb \"be\" must come before the subject in a question."
+        },
+        {
+          "letter": "B",
+          "text": "What are you going to do?",
+          "is_correct": true,
+          "feedback": "Correct! Standard auxiliary + subject + going to + verb structure."
+        },
+        {
+          "letter": "C",
+          "text": "What do you going to do?",
+          "is_correct": false,
+          "feedback": "Incorrect. Don't use \"do\" with \"going to\"."
+        },
+        {
+          "letter": "D",
+          "text": "Are you will go to do?",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically wrong."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the word order requirements for questions in the \"going to\" future.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W28-future-going-to-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W28-future-going-to-005-v1",
+      "statement": "\"Look at those black clouds! It ________ rain very soon.\"",
+      "context": "Predicting something based on present evidence (clouds).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is go to",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing \"ing\"."
+        },
+        {
+          "letter": "B",
+          "text": "is going to",
+          "is_correct": true,
+          "feedback": "Correct! \"Is going to\" is used for predictions based on current evidence."
+        },
+        {
+          "letter": "C",
+          "text": "are going to",
+          "is_correct": false,
+          "feedback": "Incorrect. \"It\" (weather) is singular."
+        },
+        {
+          "letter": "D",
+          "text": "going to",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing the auxiliary."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies the use of \"be going to\" for predictions based on visible evidence.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W28-future-going-to-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W28-future-going-to-006-v1",
+      "statement": "According to the list, what is the student's intention regarding video games?",
+      "context": "A student's list of intentions.\n\"My plans for the holidays: 1. I am going to learn to swim. 2. My family is going to travel to Cartagena. 3. I am not going to play video games all day.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They are going to play more video games.",
+          "is_correct": false,
+          "feedback": "Incorrect. The list says \"not going to\"."
+        },
+        {
+          "letter": "B",
+          "text": "They plan to limit or stop playing video games all day.",
+          "is_correct": true,
+          "feedback": "Correct! The negative intention indicates a plan to avoid that activity."
+        },
+        {
+          "letter": "C",
+          "text": "They are going to buy new video games in Cartagena.",
+          "is_correct": false,
+          "feedback": "Incorrect. Not mentioned."
+        },
+        {
+          "letter": "D",
+          "text": "They are going to play video games only when they swim.",
+          "is_correct": false,
+          "feedback": "Incorrect. Illogical and not in text."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies reading strategies to understand negative intentions in a plan.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W28-future-going-to-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W28-future-going-to-007-v1",
+      "statement": "\"Camilo is studying very hard. He ________ be a doctor when he grows up.\"",
+      "context": "Describing a future professional goal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "going to",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing \"is\"."
+        },
+        {
+          "letter": "B",
+          "text": "am going to",
+          "is_correct": false,
+          "feedback": "Incorrect. For \"He\", use \"is\"."
+        },
+        {
+          "letter": "C",
+          "text": "is going to",
+          "is_correct": true,
+          "feedback": "Correct! Shows a firm intention or plan based on his current effort."
+        },
+        {
+          "letter": "D",
+          "text": "are going to",
+          "is_correct": false,
+          "feedback": "Incorrect. For plural."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student applies the \"be going to\" structure to express long-term plans or intentions.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W28-future-going-to-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W28-future-going-to-008-v1",
+      "statement": "Which negative sentence is grammatically correct?",
+      "context": "Identifying the correct negative structure.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I not going to eat junk food.",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing \"am\"."
+        },
+        {
+          "letter": "B",
+          "text": "I don't going to eat junk food.",
+          "is_correct": false,
+          "feedback": "Incorrect. Use \"am not\" for \"going to\"."
+        },
+        {
+          "letter": "C",
+          "text": "I am not going to eat junk food.",
+          "is_correct": true,
+          "feedback": "Correct! Auxiliary \"am\" + \"not\" + \"going to\"."
+        },
+        {
+          "letter": "D",
+          "text": "I am going to not eat junk food.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Not\" should come after the verb \"be\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student analyzes the position of the negative particle \"not\" within the \"be going to\" structure.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W28-future-going-to-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W28-future-going-to-009-v1",
+      "statement": "Which sentence accurately describes their plans using \"going to\"?",
+      "context": "Comparing two people's plans.\n\"Ana has her plane ticket to Cali. Luis says he might go to Cali but he doesn't have a ticket yet.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ana is going to travel to Cali.",
+          "is_correct": true,
+          "feedback": "Correct! Having a ticket shows a definite plan/evidence."
+        },
+        {
+          "letter": "B",
+          "text": "Luis is going to travel to Cali.",
+          "is_correct": false,
+          "feedback": "Incorrect. He only \"might\" go; it's not a definite plan yet."
+        },
+        {
+          "letter": "C",
+          "text": "Both are going to travel to Cali.",
+          "is_correct": false,
+          "feedback": "Incorrect. Only Ana has a confirmed plan."
+        },
+        {
+          "letter": "D",
+          "text": "Neither is going to travel.",
+          "is_correct": false,
+          "feedback": "Incorrect. Ana is definitely planning to."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student analyzes the level of certainty and evidence in the text to correctly use \"going to\" for the person with the definite plan.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W28-future-going-to-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W28-future-going-to-010-v1",
+      "statement": "What is the best evaluation of this student's intentions?",
+      "context": "Evaluating a student's resolution.\n\"I am going to start my homework earlier every day. I am also going to ask my teacher more questions. I want to improve my grades this term.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The student is lazy and wants more help.",
+          "is_correct": false,
+          "feedback": "Incorrect. Asking questions and starting earlier shows initiative."
+        },
+        {
+          "letter": "B",
+          "text": "The student has a proactive plan to achieve better academic results.",
+          "is_correct": true,
+          "feedback": "Correct! Both intentions (starting earlier and asking questions) are proactive steps toward the goal."
+        },
+        {
+          "letter": "C",
+          "text": "The student is going to fail because they have too many plans.",
+          "is_correct": false,
+          "feedback": "Incorrect. The plans are realistic and positive."
+        },
+        {
+          "letter": "D",
+          "text": "The student only cares about asking questions.",
+          "is_correct": false,
+          "feedback": "Incorrect. They also plan to start homework earlier."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student evaluates a set of future intentions to determine the underlying attitude and goal of the speaker.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W28-future-going-to-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

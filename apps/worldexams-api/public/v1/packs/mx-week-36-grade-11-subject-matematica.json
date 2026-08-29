@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "mx",
+    "pack_id": "mx-week-36-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:38.973Z"
+  },
+  "questions": [
+    {
+      "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la definición fundamental de la unidad imaginaria $i$?",
+      "context": "Definición de la unidad imaginaria.\n**Expected_Success:** 0.95",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$i = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$i = \\sqrt{-1}$",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición, i es el número cuya raíz cuadrada es -1, o i^2 = -1."
+        },
+        {
+          "letter": "C",
+          "text": "$i = -1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor de i^2."
+        },
+        {
+          "letter": "D",
+          "text": "$i = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La unidad imaginaria $i$ permite resolver raíces cuadradas de números negativos. Se define como $i = \\sqrt{-1}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.95,
+      "bundle_id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v2",
+      "statement": "En el número complejo $z = 4 - 7i$, ¿cuáles son la parte real ($Re$) y la parte imaginaria ($Im$)?",
+      "context": "Partes de un número complejo.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$Re = 4, Im = 7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo negativo pertenece a la parte imaginaria."
+        },
+        {
+          "letter": "B",
+          "text": "$Re = 4, Im = -7$",
+          "is_correct": true,
+          "feedback": "Correcto. El número real es 4 y el coeficiente de i es -7."
+        },
+        {
+          "letter": "C",
+          "text": "$Re = -7, Im = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores están invertidos."
+        },
+        {
+          "letter": "D",
+          "text": "$Re = 4, Im = -7i$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La parte imaginaria es el coeficiente, no incluye la unidad i."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un complejo $a + bi$ tiene parte real $a$ y parte imaginaria $b$. Para $4 - 7i$, $a = 4$ y $b = -7$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.9,
+      "bundle_id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el valor resultante de elevar $i$ a la potencia 4 ($i^4$)?",
+      "context": "Potencias de i.\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$i$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$-i$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$-1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor de i^2."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. i^4 = (i^2)^2 = (-1)^2 = 1."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las potencias de $i$ son cíclicas cada 4: $i^1=i, i^2=-1, i^3=-i, i^4=1$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v4",
+      "statement": "Realiza la siguiente suma: $(3 + 5i) + (2 - 8i)$.",
+      "context": "Suma de números complejos.\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5 + 13i$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa la resta de 5 - 8."
+        },
+        {
+          "letter": "B",
+          "text": "$5 - 3i$",
+          "is_correct": true,
+          "feedback": "Correcto. (3 + 2) + (5i - 8i) = 5 - 3i."
+        },
+        {
+          "letter": "C",
+          "text": "$1 + 13i$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$5 + 3i$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sumamos partes reales con reales y partes imaginarias con imaginarias: $3+2=5$ y $5-8=-3$. Resultado: $5 - 3i$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.85,
+      "bundle_id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v5",
+      "statement": "Calcula el producto: $(2 + i)(3 - 2i)$.",
+      "context": "Multiplicación de números complejos.\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6 - 2i$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$8 + i$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$8 - i$",
+          "is_correct": true,
+          "feedback": "Correcto. 2(3) + 2(-2i) + i(3) + i(-2i) = 6 - 4i + 3i - 2i^2 = 6 - i + 2 = 8 - i."
+        },
+        {
+          "letter": "D",
+          "text": "$4 - i$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Usamos la propiedad distributiva: $6 - 4i + 3i - 2i^2$. Como $i^2 = -1$, el término $-2i^2$ se convierte en $+2$. Sumamos: $(6+2) + (-4i+3i) = 8 - i$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v6",
+      "statement": "Si $z = -5 + 2i$, ¿cuál es el producto de $z$ por su conjugado $\\bar{z}$?",
+      "context": "El conjugado de un número complejo.\n**Expected_Success:** 0.82",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-21",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "21",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "29",
+          "is_correct": true,
+          "feedback": "Correcto. z * conj(z) = (-5)^2 + (2)^2 = 25 + 4 = 29."
+        },
+        {
+          "letter": "D",
+          "text": "-29",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El producto de un complejo por su conjugado es siempre la suma de los cuadrados de sus partes: $a^2 + b^2$. Aquí: $(-5)^2 + 2^2 = 25 + 4 = 29$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v7",
+      "statement": "Simplifica la expresión: $\\frac{10}{1 + 3i}$.",
+      "context": "División de números complejos.\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-1 + 3i$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambia indebidamente el signo de la parte real."
+        },
+        {
+          "letter": "B",
+          "text": "$1 - 3i$",
+          "is_correct": true,
+          "feedback": "Correcto. 10(1-3i) / (1^2 + 3^2) = 10(1-3i) / 10 = 1 - 3i."
+        },
+        {
+          "letter": "C",
+          "text": "$1 + 3i$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$10 - 30i$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Multiplicamos numerador y denominador por el conjugado del denominador ($1-3i$): $\\frac{10(1-3i)}{1^2+3^2} = \\frac{10(1-3i)}{10} = 1 - 3i$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la distancia al origen (módulo) del número complejo $z = -3 + 4i$ en el plano de Argand?",
+      "context": "Módulo de un número complejo.\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Has sumado las magnitudes."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. |z| = sqrt((-3)^2 + 4^2) = sqrt(9 + 16) = sqrt(25) = 5."
+        },
+        {
+          "letter": "D",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste la raíz cuadrada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El módulo $|z|$ es la magnitud del vector: $\\sqrt{a^2 + b^2}$. Aplicando los valores: $\\sqrt{9+16} = 5$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v9",
+      "statement": "Expresa $\\sqrt{-36} + \\sqrt{-64}$ en términos de $i$.",
+      "context": "Simplificación de raíces negativas.\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{-100}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces no se suman así."
+        },
+        {
+          "letter": "B",
+          "text": "$100i$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$14i$",
+          "is_correct": true,
+          "feedback": "Correcto. sqrt(-36) = 6i y sqrt(-64) = 8i. 6i + 8i = 14i."
+        },
+        {
+          "letter": "D",
+          "text": "$-14$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Extraemos la unidad imaginaria: $6i + 8i = 14i$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v10",
+      "statement": "Calcula el valor de $i^{25}$.",
+      "context": "Potencias elevadas de i.\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$i$",
+          "is_correct": true,
+          "feedback": "Correcto. 25 dividido entre 4 deja un residuo de 1. i^25 = i^1 = i."
+        },
+        {
+          "letter": "B",
+          "text": "$-i$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "-1",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dividimos el exponente entre 4 y tomamos el residuo: $25 = 6 \\times 4 + 1$. El valor es igual a $i^1 = i$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.72,
+      "bundle_id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v11",
+      "statement": "¿Cuáles son las soluciones de la ecuación $x^2 + 9 = 0$?",
+      "context": "Ecuaciones cuadráticas con soluciones complejas.\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3^2 + 9 = 18."
+        },
+        {
+          "letter": "B",
+          "text": "$x = \\pm 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = \\pm 3i$",
+          "is_correct": true,
+          "feedback": "Correcto. x^2 = -9 => x = sqrt(-9) => x = 3i o x = -3i."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiene soluciones en el campo de los números complejos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Despejamos $x$: $x^2 = -9$. La raíz cuadrada de un número negativo introduce la unidad imaginaria: $x = \\pm \\sqrt{9}i = \\pm 3i$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el argumento (ángulo) en el plano de Argand del número complejo $z = 1 + i$?",
+      "context": "Forma trigonométrica/polar (conceptual).\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0°",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "90°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería para z = i."
+        },
+        {
+          "letter": "C",
+          "text": "45°",
+          "is_correct": true,
+          "feedback": "Correcto. tan(theta) = b/a = 1/1 = 1. theta = arctan(1) = 45°."
+        },
+        {
+          "letter": "D",
+          "text": "180°",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El ángulo se halla con $\\tan(\\theta) = \\frac{Im}{Re}$. Como $a=1, b=1$, $\\tan(\\theta)=1$ y el punto está en el primer cuadrante, el ángulo es 45°.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v13",
+      "statement": "Calcula $(1 + i)^2$.",
+      "context": "Potencia de un binomio complejo.\n**Expected_Success:** 0.58",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1 + i$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$2i$",
+          "is_correct": true,
+          "feedback": "Correcto. (1)^2 + 2(1)(i) + (i)^2 = 1 + 2i - 1 = 2i."
+        },
+        {
+          "letter": "D",
+          "text": "$1 + 2i$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Desarrollamos el cuadrado: $1 + 2i + i^2$. Como $i^2 = -1$, el 1 y el -1 se cancelan, quedando $2i$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v14",
+      "statement": "Si $z = a + bi$, ¿qué representa la expresión $\\frac{z + \\bar{z}}{2}$?",
+      "context": "Identidades con números complejos.\n**Expected_Success:** 0.50",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La parte real de $z$ ($a$)",
+          "is_correct": true,
+          "feedback": "Correcto. (a + bi + a - bi) / 2 = 2a / 2 = a."
+        },
+        {
+          "letter": "B",
+          "text": "La parte imaginaria de $z$ ($b$)",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "El módulo de $z$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "El conjugado de $z$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al sumar un complejo con su conjugado, las partes imaginarias se anulan y queda el doble de la parte real. Al dividir entre 2, obtenemos exactamente $a$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v15",
+      "statement": "Simplifica la expresión $i^2 + i^4 + i^6 + i^8$.",
+      "context": "Resolución de sistemas con i.\n**Expected_Success:** 0.52",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": true,
+          "feedback": "Correcto. -1 + 1 + (-1) + 1 = 0."
+        },
+        {
+          "letter": "C",
+          "text": "$2i$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sustituimos cada potencia: $i^2=-1, i^4=1, i^6=-1, i^8=1$. La suma es $(-1+1) + (-1+1) = 0$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v16",
+      "statement": "Calcula el inverso multiplicativo de $i$.",
+      "context": "Inverso de un número complejo.\n**Expected_Success:** 0.48",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$i$",
+          "is_correct": false,
+          "feedback": "Incorrecto. i * i = -1, no 1."
+        },
+        {
+          "letter": "B",
+          "text": "$-i$",
+          "is_correct": true,
+          "feedback": "Correcto. i * (-i) = -i^2 = -(-1) = 1."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$-1$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El inverso $z^{-1}$ cumple $z \\cdot z^{-1} = 1$. Para $i$, su inverso es $\\frac{1}{i}$. Multiplicando por $\\frac{-i}{-i}$ obtenemos $\\frac{-i}{1} = -i$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v17",
+      "statement": "Halla los valores de $x$ y $y$ (reales) que satisfacen la ecuación: $(x + yi)(2 - i) = 5 + 5i$.",
+      "context": "Ecuaciones complejas avanzadas.\n**Expected_Success:** 0.35",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x=3, y=3$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$x=1, y=3$",
+          "is_correct": true,
+          "feedback": "Correcto. $(x + yi) = (5 + 5i) / (2 - i) = \\frac{(5 + 5i)(2 + i)}{4 + 1} = \\frac{10 + 5i + 10i - 5}{5} = \\frac{5 + 15i}{5} = 1 + 3i$. Por tanto, $x=1$ y $y=3$."
+        },
+        {
+          "letter": "C",
+          "text": "$x=3, y=1$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$x=5, y=5$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Despejamos $x+yi$ dividiendo el resultado entre el factor $(2-i)$. Al realizar la división de complejos obtenemos $1+3i$, por lo que $x=1$ y $y=3$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es el valor de $(1 + i)^{10}$?",
+      "context": "Raíces de la unidad.\n**Expected_Success:** 0.30",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10i$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "$32i$",
+          "is_correct": true,
+          "feedback": "Correcto. (1+i)^2 = 2i. Entonces (1+i)^10 = (2i)^5 = 32 * i^5 = 32i."
+        },
+        {
+          "letter": "C",
+          "text": "32",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$-32i$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la propiedad $(1+i)^2 = 2i$. Entonces $((1+i)^2)^5 = (2i)^5 = 32 i^5 = 32i$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v19",
+      "statement": "Si el módulo de $z$ es 1 ($|z|=1$), ¿qué se puede afirmar sobre el número $\\frac{1}{z}$?",
+      "context": "Geometría de los complejos.\n**Expected_Success:** 0.32",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es igual a $z$.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Es igual al conjugado $\\bar{z}$.",
+          "is_correct": true,
+          "feedback": "Correcto. z * conj(z) = |z|^2. Si |z|=1, entonces z * conj(z) = 1, lo que implica conj(z) = 1/z."
+        },
+        {
+          "letter": "C",
+          "text": "Es igual a $-z$.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Su módulo es 0.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "De la relación $z \\cdot \\bar{z} = |z|^2$, si $|z|=1$, entonces $z \\cdot \\bar{z} = 1$, despejando se obtiene que $\\bar{z} = 1/z$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle-v20",
+      "statement": "Calcula la suma de las potencias de $i$ desde $i^1$ hasta $i^{100}$: $\\sum_{n=1}^{100} i^n$.",
+      "context": "Aplicación teórica.\n**Expected_Success:** 0.28",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": true,
+          "feedback": "Correcto. La suma de cada bloque de 4 potencias consecutivas (i + i^2 + i^3 + i^4) es 0. Como hay 25 bloques completos de 4, la suma total es 0."
+        },
+        {
+          "letter": "B",
+          "text": "$i$",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "-1",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La suma $i + i^2 + i^3 + i^4 = i - 1 - i + 1 = 0$. Dado que 100 es múltiplo de 4, la serie se compone de 25 ciclos completos que suman cero.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.28,
+      "bundle_id": "MX-MAT-11-2026-W36-numeros-complejos-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pa",
+    "pack_id": "pa-week-10-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:39.063Z"
+  },
+  "questions": [
+    {
+      "id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la forma general de la ecuación de una función lineal o de primer grado?",
+      "context": "Un estudiante repasa las características de la función lineal para su examen de graduación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = ax^2 + bx + c$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta representa la forma general de una función cuadrática de segundo grado."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = mx + b$",
+          "is_correct": true,
+          "feedback": "Correcto. Donde m es la pendiente y b representa el intercepto con el eje vertical y."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = a^x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta estructura corresponde a una función de tipo exponencial."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = k/x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta estructura representa una función de proporcionalidad inversa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de la representación algebraica estándar de la función lineal.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se denomina al punto máximo o mínimo absoluto de una función cuadrática?",
+      "context": "En una clase en David, se discute el significado geométrico de los parámetros de una parábola.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Foco",
+          "is_correct": false,
+          "feedback": "El foco es un punto interno de la curva usado en su definición, pero no es su punto extremo."
+        },
+        {
+          "letter": "B",
+          "text": "Vértice",
+          "is_correct": true,
+          "feedback": "Correcto. El vértice es el punto donde la curva cambia de dirección y alcanza su valor límite."
+        },
+        {
+          "letter": "C",
+          "text": "Directriz",
+          "is_correct": false,
+          "feedback": "La directriz es una línea recta de referencia, no un punto perteneciente a la función."
+        },
+        {
+          "letter": "D",
+          "text": "Eje focal",
+          "is_correct": false,
+          "feedback": "El eje de simetría o eje focal es una recta, no un punto específico de la gráfica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de los elementos clave de la gráfica de una función cuadrática.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v3",
+      "statement": "Si una función lineal posee una pendiente m = 0, ¿qué tipo de recta representa en el plano?",
+      "context": "Un mensajero en Colón analiza la pendiente de una calle representada por una función lineal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una recta vertical",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las rectas verticales poseen una pendiente indefinida o infinita."
+        },
+        {
+          "letter": "B",
+          "text": "Una recta horizontal",
+          "is_correct": true,
+          "feedback": "Correcto. Una inclinación nula indica que la función es constante y paralela al eje horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "Una recta a 45 grados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa inclinación específica corresponde a una pendiente igual a la unidad."
+        },
+        {
+          "letter": "D",
+          "text": "Recta identidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La recta identidad tiene pendiente uno y pasa por el origen de coordenadas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Interpretación geométrica del valor de la pendiente en funciones lineales.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v4",
+      "statement": "Dada la función I(x) = 15x + 50, ¿cuál es el ingreso total si se venden exactamente 10 unidades?",
+      "context": "Un comerciante en Santiago utiliza una función para calcular ingresos basados en unidades vendidas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "150 balboas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió sumar el valor del intercepto constante de la función de ingresos."
+        },
+        {
+          "letter": "B",
+          "text": "200 balboas",
+          "is_correct": true,
+          "feedback": "Correcto. 15(10) + 50 resulta en 150 + 50 = 200 balboas totales."
+        },
+        {
+          "letter": "C",
+          "text": "650 balboas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error en la ejecución de las operaciones de multiplicación y suma."
+        },
+        {
+          "letter": "D",
+          "text": "50 balboas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor base cuando no se realiza ninguna venta (x=0)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluación de funciones lineales en contextos de aplicación comercial y financiera.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v5",
+      "statement": "¿Hacia dónde abre la parábola representada por la función f(x) = -3x^2 + 5x - 2?",
+      "context": "Un estudiante en Penonomé analiza el cambio de concavidad según el coeficiente principal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacia arriba",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sucedería solo si el coeficiente del término cuadrático fuera positivo."
+        },
+        {
+          "letter": "B",
+          "text": "Hacia abajo",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser el coeficiente principal negativo (-3), la curva es cóncava hacia abajo."
+        },
+        {
+          "letter": "C",
+          "text": "Hacia la derecha",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las funciones reales de x solo pueden tener aperturas verticales."
+        },
+        {
+          "letter": "D",
+          "text": "Es una línea recta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La presencia del término de segundo grado garantiza una forma parabólica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Relación entre el signo del coeficiente principal y la concavidad de la función cuadrática.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la pendiente de la recta que pasa por los puntos coordenados A(2, 5) y B(4, 11)?",
+      "context": "Un arquitecto en David calcula la pendiente de una rampa que conecta dos puntos específicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "m = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al calcular la razón entre las diferencias de las coordenadas."
+        },
+        {
+          "letter": "B",
+          "text": "m = 3",
+          "is_correct": true,
+          "feedback": "Correcto. Pendiente = (11 - 5) / (4 - 2) = 6 / 2 = 3."
+        },
+        {
+          "letter": "C",
+          "text": "m = 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se realizó la división por la diferencia de las coordenadas del eje x."
+        },
+        {
+          "letter": "D",
+          "text": "m = 1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se invirtió el orden de la fórmula de la pendiente (cambio en x sobre cambio en y)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cálculo de la pendiente de una función lineal a partir de dos puntos conocidos en el plano.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la coordenada x del vértice de la parábola f(x) = x^2 - 6x + 8?",
+      "context": "Un ingeniero hidráulico determina el punto más bajo de una sección de canal parabólica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = -3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error de signo al aplicar la fórmula de la coordenada del vértice."
+        },
+        {
+          "letter": "B",
+          "text": "x = 3",
+          "is_correct": true,
+          "feedback": "Correcto. Usando la fórmula x = -b / 2a: -(-6) / (2*1) resulta en un valor de tres."
+        },
+        {
+          "letter": "C",
+          "text": "x = 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó realizar la división por el factor del doble del coeficiente principal."
+        },
+        {
+          "letter": "D",
+          "text": "x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor correspondería si no existiera el término lineal en la función."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cálculo de la coordenada del vértice en una función cuadrática mediante su fórmula analítica.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v8",
+      "statement": "¿Cuáles son las raíces o interceptos con el eje x de la función cuadrática f(x) = x^2 - 5x + 6?",
+      "context": "Un técnico en refrigeración encuentra los interceptos para calibrar un sensor de temperatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = -2, x = -3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no anulan la función al ser sustituidos en la expresión original."
+        },
+        {
+          "letter": "B",
+          "text": "x = 2, x = 3",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando como (x-2)(x-3) se obtienen las raíces que hacen nula la función."
+        },
+        {
+          "letter": "C",
+          "text": "x = 6, x = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de estos valores no coincide con el coeficiente del término lineal."
+        },
+        {
+          "letter": "D",
+          "text": "x = 0, x = 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. El intercepto con el eje vertical es 6, no nulo como sugieren estos puntos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Determinación de las raíces de una función cuadrática mediante la técnica de factorización.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v9",
+      "statement": "Dada la función cuadrática f(x) = 2(x - 4)^2 + 1, ¿cuáles son las coordenadas de su vértice?",
+      "context": "Un analista en la Ciudad del Saber utiliza la forma canónica para describir la trayectoria de una señal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Punto (-4, 1)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor del parámetro h cambia de signo al pasar a la coordenada del vértice."
+        },
+        {
+          "letter": "B",
+          "text": "Punto (4, 1)",
+          "is_correct": true,
+          "feedback": "Correcto. En la forma canónica a(x-h)^2 + k el vértice se ubica exactamente en (h, k)."
+        },
+        {
+          "letter": "C",
+          "text": "Punto (4, -1)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El parámetro k mantiene su signo original fuera del paréntesis de la función."
+        },
+        {
+          "letter": "D",
+          "text": "Punto (2, 1)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confundió el coeficiente de apertura con la coordenada horizontal del vértice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de los elementos del vértice a partir de la forma canónica de la función cuadrática.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v10",
+      "statement": "Halla la ecuación de la recta que pasa por (0, 4) y es paralela a la recta y = -2x + 7.",
+      "context": "Un estudiante en Los Santos determina la ecuación de una recta paralela a una vía principal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "y = 2x + 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las rectas paralelas deben compartir exactamente la misma pendiente original."
+        },
+        {
+          "letter": "B",
+          "text": "y = -2x + 4",
+          "is_correct": true,
+          "feedback": "Correcto. Mantiene la pendiente negativa y usa el intercepto dado como punto de paso."
+        },
+        {
+          "letter": "C",
+          "text": "y = 0.5x + 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa pendiente correspondería a una relación de perpendicularidad, no paralelismo."
+        },
+        {
+          "letter": "D",
+          "text": "y = -2x + 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la misma recta dada, no una paralela distinta a la original."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Construcción de ecuaciones lineales basándose en condiciones de paralelismo entre rectas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v11",
+      "statement": "Calcula el discriminante (D = b^2 - 4ac) de f(x) = 2x^2 - 4x + 2 e indica el número de raíces reales.",
+      "context": "Un ingeniero de tránsito modela la velocidad mediante una función cuadrática y usa el discriminante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "D = 16; dos raíces",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error en el cálculo de los productos de la fórmula."
+        },
+        {
+          "letter": "B",
+          "text": "D = 0; una raíz única",
+          "is_correct": true,
+          "feedback": "Correcto. D = 16 - 16 = 0. Un valor nulo indica una sola solución real repetida."
+        },
+        {
+          "letter": "C",
+          "text": "D = -8; ninguna raíz",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor del discriminante para esta función no es de carácter negativo."
+        },
+        {
+          "letter": "D",
+          "text": "D = 32; dos raíces",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se realizó una operación aritmética errónea con los coeficientes dados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso del discriminante para determinar la naturaleza y cantidad de las raíces reales de una función cuadrática.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v12",
+      "statement": "¿En qué puntos coordenados se intersecan la recta y = 2x y la parábola y = x^2?",
+      "context": "Un arquitecto analiza la intersección entre una pared recta y un arco parabólico decorativo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo en el origen (0, 0)",
+          "is_correct": false,
+          "feedback": "Incompleto. Existe un segundo punto de corte donde ambas expresiones coinciden."
+        },
+        {
+          "letter": "B",
+          "text": "En (0, 0) y en (2, 4)",
+          "is_correct": true,
+          "feedback": "Correcto. Al igualar x^2 = 2x se obtienen las dos soluciones para la variable x."
+        },
+        {
+          "letter": "C",
+          "text": "En (0, 0) y en (1, 2)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El punto (1, 2) no pertenece a la trayectoria de la función cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "Las curvas no se cortan",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existen dos puntos reales donde las igualdades se cumplen simultáneamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de sistemas mixtos lineal-cuadráticos para hallar puntos de intersección en el plano.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v13",
+      "statement": "Un equipo cuesta 10,000 balboas y pierde 1,000 anuales. ¿Qué función representa su valor V tras t años?",
+      "context": "Un experto financiero proyecta la depreciación lineal de un equipo portuario valorado en balboas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "V(t) = 1000t + 10000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta función describiría un aumento de valor, no una pérdida o depreciación."
+        },
+        {
+          "letter": "B",
+          "text": "V(t) = -1000t + 10000",
+          "is_correct": true,
+          "feedback": "Correcto. El valor inicial es el intercepto y la tasa de pérdida es la pendiente negativa."
+        },
+        {
+          "letter": "C",
+          "text": "V(t) = 10000(0.9)^t",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta fórmula corresponde a una depreciación exponencial, no a una lineal."
+        },
+        {
+          "letter": "D",
+          "text": "V(t) = -1000t",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió incluir el valor del costo inicial del equipo en la función."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Modelado de problemas de depreciación mediante funciones lineales con pendiente de signo negativo.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v14",
+      "statement": "Si la altura está dada por H(t) = -t^2 + 8t + 10, ¿en qué semana se alcanza la altura máxima de la planta?",
+      "context": "Un científico analiza el crecimiento de una planta en Gamboa mediante un modelo cuadrático.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la semana 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se utilizó el valor del coeficiente b de forma directa sin la división necesaria."
+        },
+        {
+          "letter": "B",
+          "text": "En la semana 4",
+          "is_correct": true,
+          "feedback": "Correcto. El máximo ocurre en el vértice de la parábola: t = -8 / (2*-1) = 4."
+        },
+        {
+          "letter": "C",
+          "text": "En la semana 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor representa la altura inicial al momento de la siembra (t=0)."
+        },
+        {
+          "letter": "D",
+          "text": "En la semana 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error en el cálculo de la posición horizontal del vértice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación del concepto de vértice para la optimización de valores máximos en funciones cuadráticas reales.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es la pendiente de una recta perpendicular a la recta definida por la ecuación y = (2/3)x - 5?",
+      "context": "Un geómetra en Chiriquí determina la ecuación de una recta perpendicular a una cerca perimetral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pendiente m = 2/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería la pendiente para una condición de paralelismo total."
+        },
+        {
+          "letter": "B",
+          "text": "Pendiente m = 3/2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo representa el recíproco; falta aplicar el cambio de signo necesario."
+        },
+        {
+          "letter": "C",
+          "text": "Pendiente m = -3/2",
+          "is_correct": true,
+          "feedback": "Correcto. Las pendientes perpendiculares son recíprocas y de signos opuestos entre sí."
+        },
+        {
+          "letter": "D",
+          "text": "Pendiente m = -2/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo representa la opuesta; falta aplicar el recíproco a la fracción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Relación analítica entre las pendientes de rectas perpendiculares en el plano cartesiano.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v16",
+      "statement": "Halla la ecuación de la parábola cuyo vértice es (0, 0) y pasa por el punto coordenado (2, 8).",
+      "context": "Un estudiante encuentra la ecuación de una parábola que pasa por el origen y un punto dado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La recta y = 4x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta expresión describe una relación lineal, no una curva parabólica."
+        },
+        {
+          "letter": "B",
+          "text": "La curva y = 2x^2",
+          "is_correct": true,
+          "feedback": "Correcto. Sustituyendo el punto: 8 = a(2^2) implica 8 = 4a, por lo que el coeficiente es dos."
+        },
+        {
+          "letter": "C",
+          "text": "La curva y = x^2 + 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vértice de esta función no coincidiría con el origen de coordenadas."
+        },
+        {
+          "letter": "D",
+          "text": "La curva y = 8x^2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al sustituir x=2 se obtendría una imagen de 32 en lugar de 8."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Determinación de coeficientes de una función cuadrática a partir de información de puntos específicos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v17",
+      "statement": "Si C(x) = 5x + 100 e I(x) = 25x, ¿cuántas unidades deben venderse para obtener una utilidad de 300 balboas?",
+      "context": "Un economista analiza el punto de equilibrio donde los ingresos igualan a los costos variables.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al plantear la igualdad para la utilidad neta."
+        },
+        {
+          "letter": "B",
+          "text": "20 unidades",
+          "is_correct": true,
+          "feedback": "Correcto. (25x) - (5x + 100) = 300 implica 20x = 400, por lo que x es veinte."
+        },
+        {
+          "letter": "C",
+          "text": "5 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor representaría el punto de equilibrio para una utilidad nula."
+        },
+        {
+          "letter": "D",
+          "text": "10 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se cumple la condición de beneficio monetario requerida por el problema."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de problemas de optimización económica mediante el uso de modelos de funciones lineales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v18",
+      "statement": "¿En qué intervalo de x la función cuadrática f(x) = x^2 - 4 toma exclusivamente valores negativos?",
+      "context": "Un físico modela la energía cinética y necesita encontrar el rango de velocidades negativas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x mayor que 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. En este rango de la recta la función toma valores de carácter positivo."
+        },
+        {
+          "letter": "B",
+          "text": "Entre -2 y 2",
+          "is_correct": true,
+          "feedback": "Correcto. La parte de la parábola bajo el eje horizontal se encuentra entre sus dos raíces reales."
+        },
+        {
+          "letter": "C",
+          "text": "Fuera de [-2, 2]",
+          "is_correct": false,
+          "feedback": "Incorrecto. En estas regiones exteriores la función se encuentra por encima del eje x."
+        },
+        {
+          "letter": "D",
+          "text": "Intervalo cerrado [-2, 2]",
+          "is_correct": false,
+          "feedback": "Incorrecto. En los extremos de este rango la función vale cero, no es negativa estricta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis de signos de funciones cuadráticas basándose en su representación e interceptos.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el valor de k para que el vértice de y = x^2 + 4x + k se encuentre exactamente sobre el eje x?",
+      "context": "Reto de alta complejidad sobre una familia de parábolas tangentes al eje horizontal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "k = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con este valor la curva cortaría al eje en dos puntos distintos en lugar de ser tangente."
+        },
+        {
+          "letter": "B",
+          "text": "k = 4",
+          "is_correct": true,
+          "feedback": "Correcto. Para que el vértice toque al eje x, el discriminante debe ser nulo: 16 - 4k = 0."
+        },
+        {
+          "letter": "C",
+          "text": "k = -4",
+          "is_correct": false,
+          "feedback": "Incorrecto. La curva tendría dos raíces reales y el vértice se ubicaría bajo el eje horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "k = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. La condición de nulidad del discriminante no se cumple para este valor de la constante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis de la posición del vértice basándose en los parámetros cuadráticos y el valor del discriminante.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle-v20",
+      "statement": "Si h(t) = -5t^2 + 20t + 25 metros, ¿en qué segundo exacto el objeto impacta finalmente contra el suelo?",
+      "context": "Un experto en balística modela la altura de un proyectil disparado desde una plataforma.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el segundo 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este tiempo corresponde al momento de alcanzar la altura máxima de vuelo."
+        },
+        {
+          "letter": "B",
+          "text": "En el segundo 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. A los cuatro segundos el proyectil se encuentra aún a 25 metros de altura."
+        },
+        {
+          "letter": "C",
+          "text": "En el segundo 5",
+          "is_correct": true,
+          "feedback": "Correcto. Resolviendo la ecuación h(t)=0 se obtiene la raíz positiva correspondiente al impacto."
+        },
+        {
+          "letter": "D",
+          "text": "En el segundo 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. En este instante el objeto todavía se encuentra en su fase ascendente de vuelo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Resolución de problemas de cinemática mediante el cálculo de raíces de funciones cuadráticas aplicadas.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación |\n| --- | --- |\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "PA-MAT-11-2026-W10-funcion-lineal-cuadratica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    }
+  ]
+}

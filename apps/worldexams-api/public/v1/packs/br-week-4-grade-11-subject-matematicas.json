@@ -1,0 +1,1811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "br",
+    "pack_id": "br-week-4-grade-11-subject-matematica",
+    "generated_at": "2026-06-18T23:58:36.436Z"
+  },
+  "questions": [
+    {
+      "id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v1",
+      "statement": "Qual é a forma geral de uma função quadrática?",
+      "context": "Um estudante em São Paulo estuda as características das funções do 2º grau e como identificá-las por sua lei de formação.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = ax + b$",
+          "is_correct": false,
+          "feedback": "Esta é a forma geral de uma função afim ou do 1º grau."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = ax^2 + bx + c$, com $a \\neq 0$",
+          "is_correct": true,
+          "feedback": "Correto. O termo x² caracteriza a função quadrática, e o coeficiente 'a' não pode ser nulo."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = a^x + b$",
+          "is_correct": false,
+          "feedback": "Esta é uma função exponencial."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = \\frac{a}{x}$",
+          "is_correct": false,
+          "feedback": "Esta é uma função racional simples."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uma função quadrática é definida por um polinômio de grau 2. A presença do termo $x^2$ com coeficiente não nulo garante que o gráfico da função seja uma parábola.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v2",
+      "statement": "O gráfico de uma função quadrática é uma curva chamada:",
+      "context": "Um arquiteto no Rio de Janeiro utiliza curvas parabólicas no design de um arco monumental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reta",
+          "is_correct": false,
+          "feedback": "Retas são gráficos de funções do 1º grau."
+        },
+        {
+          "letter": "B",
+          "text": "Hipérbole",
+          "is_correct": false,
+          "feedback": "Hipérboles são gráficos de funções do tipo y = k/x."
+        },
+        {
+          "letter": "C",
+          "text": "Parábola",
+          "is_correct": true,
+          "feedback": "Correto. A parábola é a curva característica de toda função do 2º grau."
+        },
+        {
+          "letter": "D",
+          "text": "Elipse",
+          "is_correct": false,
+          "feedback": "Elipses não representam funções simples do tipo y = f(x)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Diferente das funções lineares, a taxa de variação das funções quadráticas não é constante, resultando em uma curva simétrica conhecida como parábola.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v3",
+      "statement": "Na função $f(x) = ax^2 + bx + c$, o que determina se a concavidade da parábola é voltada para cima ou para baixo?",
+      "context": "Em uma aula de física em Curitiba, analisa-se a concavidade da trajetória de um projétil lançado para cima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O sinal do coeficiente $c$.",
+          "is_correct": false,
+          "feedback": "O coeficiente c indica apenas onde a parábola corta o eixo y."
+        },
+        {
+          "letter": "B",
+          "text": "O sinal do coeficiente $a$.",
+          "is_correct": true,
+          "feedback": "Correto. Se a > 0, concavidade para cima. Se a < 0, concavidade para baixo."
+        },
+        {
+          "letter": "C",
+          "text": "O valor do discriminante ($\\Delta$).",
+          "is_correct": false,
+          "feedback": "O discriminante determina o número de raízes reais, não a concavidade."
+        },
+        {
+          "letter": "D",
+          "text": "O sinal do coeficiente $b$.",
+          "is_correct": false,
+          "feedback": "O sinal de b influencia o deslocamento lateral do vértice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "O coeficiente $a$ (termo dominante) define a \"abertura\" e a orientação da parábola. Se $a$ é positivo, a função tem um valor mínimo e a abertura é para cima. Se $a$ é negativo, a função tem um valor máximo e a abertura é para baixo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v4",
+      "statement": "Como é chamado o termo $\\Delta = b^2 - 4ac$ na fórmula de Bhaskara?",
+      "context": "Um engenheiro civil em Brasília analisa os pontos onde uma ponte encosta no solo, representados pelas raízes da função.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vértice",
+          "is_correct": false,
+          "feedback": "Vértice é o ponto extremo (máximo ou mínimo) da parábola."
+        },
+        {
+          "letter": "B",
+          "text": "Discriminante",
+          "is_correct": true,
+          "feedback": "Correto. O valor de delta \"discrimina\" a natureza das raízes da equação."
+        },
+        {
+          "letter": "C",
+          "text": "Coeficiente linear",
+          "is_correct": false,
+          "feedback": "Coeficiente linear geralmente refere-se ao termo 'b' em funções afins ou 'c' em quadráticas."
+        },
+        {
+          "letter": "D",
+          "text": "Raiz quadrada",
+          "is_correct": false,
+          "feedback": "Delta está sob o sinal da raiz quadrada na fórmula, mas não é a raiz em si."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "O discriminante ($\\Delta$) é fundamental para entender a interseção da parábola com o eixo $x$: se $\\Delta > 0$ há duas raízes, se $\\Delta = 0$ há uma, e se $\\Delta < 0$ não há raízes reais.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v5",
+      "statement": "Dada a função $f(x) = x^2 - 6x + 5$, quais são as raízes desta função?",
+      "context": "Um biólogo em Manaus estuda a área ocupada por uma colônia de fungos, que cresce de forma quadrática com o tempo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 e 3",
+          "is_correct": false,
+          "feedback": "O produto é 6, mas o termo constante da função é 5."
+        },
+        {
+          "letter": "B",
+          "text": "1 e 5",
+          "is_correct": true,
+          "feedback": "A soma das raízes é -(-6)/1 = 6 e o produto é 5/1 = 5. Os números são 1 e 5."
+        },
+        {
+          "letter": "C",
+          "text": "-1 e -5",
+          "is_correct": false,
+          "feedback": "A soma seria -6, mas a soma correta deve ser 6."
+        },
+        {
+          "letter": "D",
+          "text": "0 e 5",
+          "is_correct": false,
+          "feedback": "O produto seria 0, mas o produto correto deve ser 5."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Podemos usar a soma ($S = -b/a = 6$) e o produto ($P = c/a = 5$) das raízes. Dois números que somados dão 6 e multiplicados dão 5 são 1 e 5.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v6",
+      "statement": "Onde a parábola da função $f(x) = 2x^2 - 4x + 7$ intercepta o eixo das ordenadas ($y$)?",
+      "context": "Um fotógrafo em Belo Horizonte quer entender em que ponto sua lente captura o foco máximo, modelado por uma parábola.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(0, 2)$",
+          "is_correct": false,
+          "feedback": "2 é o valor do coeficiente 'a', não do ponto de interseção com y."
+        },
+        {
+          "letter": "B",
+          "text": "$(0, -4)$",
+          "is_correct": false,
+          "feedback": "-4 é o valor do coeficiente 'b'."
+        },
+        {
+          "letter": "C",
+          "text": "$(0, 7)$",
+          "is_correct": true,
+          "feedback": "Correto. Para x = 0, f(0) = 7. O intercepto y é sempre o valor de c."
+        },
+        {
+          "letter": "D",
+          "text": "$(7, 0)$",
+          "is_correct": false,
+          "feedback": "Este seria um intercepto no eixo x (raiz), mas (0,7) é o intercepto y."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para encontrar o intercepto $y$, basta calcular $f(0)$. Em qualquer função do tipo $f(x) = ax^2 + bx + c$, temos $f(0) = c$. Logo, o ponto é $(0, c)$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v7",
+      "statement": "Em que instante $t$ (em segundos) o projétil atinge sua altura máxima?",
+      "context": "Um projétil é lançado de um ponto em Salvador e sua altura $h$ em metros segue a função $h(t) = -5t^2 + 20t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$t = 4$ s",
+          "is_correct": false,
+          "feedback": "t = 4 é o instante em que o projétil volta ao solo (raiz)."
+        },
+        {
+          "letter": "B",
+          "text": "$t = 2$ s",
+          "is_correct": true,
+          "feedback": "t_v = -b / 2a = -20 / (2 * -5) = -20 / -10 = 2."
+        },
+        {
+          "letter": "C",
+          "text": "$t = 5$ s",
+          "is_correct": false,
+          "feedback": "Cálculo incorreto da coordenada x do vértice."
+        },
+        {
+          "letter": "D",
+          "text": "$t = 20$ s",
+          "is_correct": false,
+          "feedback": "20 é o coeficiente 'b', não o instante do máximo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A altura máxima ocorre no vértice da parábola. A coordenada $t$ do vértice é dada por $t_v = -b / 2a$. Substituindo: $t_v = -20 / (2 \\cdot -5) = 2$ segundos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v8",
+      "statement": "Dada a função $f(x) = x^2 - 8x + 12$, quais são as coordenadas do vértice da parábola?",
+      "context": "Um administrador de empresas em Porto Alegre analisa a função custo de produção para minimizar gastos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(4, 12)$",
+          "is_correct": false,
+          "feedback": "x_v = 4 está correto, mas f(4) = 16 - 32 + 12 = -4."
+        },
+        {
+          "letter": "B",
+          "text": "$(4, -4)$",
+          "is_correct": true,
+          "feedback": "x_v = -(-8)/2 = 4. y_v = f(4) = 4² - 8(4) + 12 = 16 - 32 + 12 = -4."
+        },
+        {
+          "letter": "C",
+          "text": "$(8, 12)$",
+          "is_correct": false,
+          "feedback": "x_v deve ser -b/2a, que resulta em 4."
+        },
+        {
+          "letter": "D",
+          "text": "$(-4, 4)$",
+          "is_correct": false,
+          "feedback": "Erro nos sinais das coordenadas do vértice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "O vértice $V(x_v, y_v)$ tem $x_v = -b / 2a = 8 / 2 = 4$. Substituindo $x=4$ na função para achar $y_v$: $y_v = 4^2 - 8 \\cdot 4 + 12 = 16 - 32 + 12 = -4$. O vértice é $(4, -4)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v9",
+      "statement": "Para que a função $f(x) = x^2 - 4x + k$ tenha exatamente uma raiz real (seja tangente ao eixo $x$), qual deve ser o valor de $k$?",
+      "context": "Um designer em Recife projeta um logotipo usando uma parábola que toca o eixo $x$ em apenas um ponto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$k = 0$",
+          "is_correct": false,
+          "feedback": "Se k=0, a função tem raízes 0 e 4."
+        },
+        {
+          "letter": "B",
+          "text": "$k = 2$",
+          "is_correct": false,
+          "feedback": "Se k=2, delta seria 16 - 8 = 8, tendo duas raízes reais."
+        },
+        {
+          "letter": "C",
+          "text": "$k = 4$",
+          "is_correct": true,
+          "feedback": "Para ter uma única raiz, delta deve ser zero. b² - 4ac = (-4)² - 4(1)k = 16 - 4k = 0 => k = 4."
+        },
+        {
+          "letter": "D",
+          "text": "$k = -4$",
+          "is_correct": false,
+          "feedback": "Se k=-4, delta seria 16 + 16 = 32, tendo duas raízes reais."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Uma função quadrática possui apenas uma raiz real (ou duas raízes iguais) quando o discriminante é zero ($\\Delta = 0$). Calculando $\\Delta = (-4)^2 - 4 \\cdot 1 \\cdot k = 16 - 4k$. Igualando a zero, temos $k = 4$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v10",
+      "statement": "A parábola da função $f(x) = -x^2 + 10x - 21$ intercepta o eixo $x$ em dois pontos. Qual é a distância entre esses dois pontos?",
+      "context": "Um agrimensor em Manaus analisa a curvatura de um terreno modelada por uma função do 2º grau.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "10 é a soma das raízes, não a distância entre elas."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "As raízes são 3 e 7. A distância entre elas é 4."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Raízes: x = (-10 ± √16) / -2 => x = (-10 ± 4) / -2. Raízes são 7 e 3. Distância = 7 - 3 = 4."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Cálculo incorreto das raízes da função."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Encontramos as raízes resolvendo $-x^2 + 10x - 21 = 0$. $\\Delta = 100 - 84 = 16$. As raízes são $x = (-10 \\pm 4) / -2$, resultando em $x_1 = 3$ e $x_2 = 7$. A distância é $|x_2 - x_1| = 7 - 3 = 4$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v11",
+      "statement": "Considere a função $f(x) = x^2 - 2x + 5$. Qual é o valor mínimo que esta função pode assumir?",
+      "context": "Um investidor em São Paulo monitora o valor de uma ação que seguiu uma trajetória parabólica ao longo de um dia de negociações.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "1 é o valor de x onde ocorre o mínimo (x_v), não o valor mínimo da função."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "y_v = -Δ / 4a = -(4 - 20) / 4 = 16 / 4 = 4."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "5 é o valor de f(0), não o valor mínimo."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "A função não possui raízes reais (Δ < 0), então ela nunca atinge o valor zero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "O valor mínimo da função é a coordenada $y$ do vértice ($y_v$). Como $a > 0$, o vértice é um ponto de mínimo. Calculamos $x_v = -b / 2a = 2 / 2 = 1$ e então $f(1) = 1^2 - 2(1) + 5 = 4$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v12",
+      "statement": "Qual é a lei da função quadrática cujas raízes são $-1$ e $3$ e que passa pelo ponto $(0, -3)$?",
+      "context": "Um professor em Goiânia mostra como determinar a lei de uma função quadrática a partir de seus pontos notáveis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = x^2 - 2x - 3$",
+          "is_correct": true,
+          "feedback": "Raízes: x²-2x-3 = (x+1)(x-3). Ponto (0,-3): 0²-2(0)-3 = -3. Confere."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = x^2 + 2x - 3$",
+          "is_correct": false,
+          "feedback": "As raízes desta função seriam 1 e -3."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = -x^2 + 2x + 3$",
+          "is_correct": false,
+          "feedback": "Esta função passa pelo ponto (0,3), não (0,-3)."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = x^2 - 3x + 1$",
+          "is_correct": false,
+          "feedback": "Não possui as raízes dadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Usamos a forma fatorada: $f(x) = a(x - x_1)(x - x_2)$. Assim, $f(x) = a(x + 1)(x - 3)$. Substituímos o ponto $(0, -3)$: $-3 = a(0+1)(0-3) \\Rightarrow -3 = -3a \\Rightarrow a = 1$. Expandindo: $f(x) = (x+1)(x-3) = x^2 - 2x - 3$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v13",
+      "statement": "Dada a função $f(x) = kx^2 - 4x + 1$, para quais valores de $k$ a função NÃO possui raízes reais?",
+      "context": "Um analista de sistemas em Florianópolis otimiza um código que calcula a trajetória de objetos em um jogo digital.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$k < 4$",
+          "is_correct": false,
+          "feedback": "Nem todos os valores menores que 4 satisfazem a condição de não ter raízes."
+        },
+        {
+          "letter": "B",
+          "text": "$k > 4$",
+          "is_correct": true,
+          "feedback": "Δ = (-4)² - 4(k)(1) = 16 - 4k. Para não ter raízes reais, Δ < 0 => 16 < 4k => k > 4."
+        },
+        {
+          "letter": "C",
+          "text": "$k = 4$",
+          "is_correct": false,
+          "feedback": "Com k=4, a função teria uma raiz real (delta = 0)."
+        },
+        {
+          "letter": "D",
+          "text": "$k < 0$",
+          "is_correct": false,
+          "feedback": "Se k for negativo, o produto -4ac será positivo e delta sempre será maior que zero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para que uma função do 2º grau não tenha raízes reais, o discriminante deve ser estritamente negativo ($\\Delta < 0$). Resolvendo $16 - 4k < 0$, obtemos $16 < 4k$, o que resulta em $k > 4$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v14",
+      "statement": "Um retângulo tem perímetro de 20 metros. Sendo $x$ a medida de um dos lados, a área $A$ é dada por $A(x) = x(10 - x)$. Qual é a área máxima possível para esse retângulo?",
+      "context": "Um arquiteto paisagista em Porto Alegre projeta um canteiro retangular onde a área deve ser maximizada para um dado perímetro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 m²",
+          "is_correct": false,
+          "feedback": "Valor abaixo do máximo possível para um retângulo de perímetro 20."
+        },
+        {
+          "letter": "B",
+          "text": "20 m²",
+          "is_correct": false,
+          "feedback": "Valor incorreto para o vértice da função área."
+        },
+        {
+          "letter": "C",
+          "text": "25 m²",
+          "is_correct": true,
+          "feedback": "A(x) = -x² + 10x. Vértice em x = -10/-2 = 5. A(5) = 5(10 - 5) = 25."
+        },
+        {
+          "letter": "D",
+          "text": "100 m²",
+          "is_correct": false,
+          "feedback": "Valor impossível, pois exigiria lados que somam mais que o perímetro disponível."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A função área é $A(x) = -x^2 + 10x$. O valor máximo ocorre no vértice $x_v = -10 / (2 \\cdot -1) = 5$. Substituindo, a área máxima é $A(5) = -25 + 50 = 25$. Geometricamente, o retângulo de área máxima para um perímetro fixo é o quadrado.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v15",
+      "statement": "A quantidade vendida $q$ de um produto depende do preço $p$ segundo a função $q = 60 - 2p$. A receita é $R(p) = p \\cdot q$. Qual preço $p$ maximiza a receita?",
+      "context": "Um economista em São Paulo analisa a função receita de uma loja, dada pelo produto do preço pela quantidade vendida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "R\\$ 60,00",
+          "is_correct": false,
+          "feedback": "Com p=60, a quantidade vendida seria negativa, logo receita negativa."
+        },
+        {
+          "letter": "B",
+          "text": "R\\$ 30,00",
+          "is_correct": false,
+          "feedback": "Com p=30, a quantidade vendida é zero, logo receita zero."
+        },
+        {
+          "letter": "C",
+          "text": "R\\$ 15,00",
+          "is_correct": true,
+          "feedback": "R(p) = p(60 - 2p) = -2p² + 60p. Vértice em p = -60 / (2 * -2) = 15."
+        },
+        {
+          "letter": "D",
+          "text": "R\\$ 10,00",
+          "is_correct": false,
+          "feedback": "p=10 gera receita de 10 * 40 = 400, que é menor que a receita com p=15 (450)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A função receita é $R(p) = -2p^2 + 60p$. Esta é uma função quadrática com concavidade para baixo. O ponto de máximo (preço ideal) é dado por $p_v = -b / 2a = -60 / (2 \\cdot -2) = 15$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v16",
+      "statement": "O gráfico de $f(x) = ax^2 + bx + c$ tem vértice em $(2, -1)$ e passa por $(0, 3)$. Determine o valor de $a$.",
+      "context": "Um físico em São José dos Campos estuda a energia potencial de uma mola, que é uma função quadrática da deformação.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = -1$",
+          "is_correct": false,
+          "feedback": "Se a fosse negativo, a parábola abriria para baixo e não passaria em y=3 vindo de y=-1."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 1$",
+          "is_correct": true,
+          "feedback": "Usando a forma canônica y = a(x-h)² + k: 3 = a(0-2)² - 1 => 3 = 4a - 1 => 4a = 4 => a = 1."
+        },
+        {
+          "letter": "C",
+          "text": "$a = 2$",
+          "is_correct": false,
+          "feedback": "Incorreto ao resolver a equação do ponto dado."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 0,5$",
+          "is_correct": false,
+          "feedback": "Incorreto ao resolver a equação do ponto dado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos a forma canônica da função quadrática: $f(x) = a(x - x_v)^2 + y_v$. Substituindo o vértice $(2, -1)$: $f(x) = a(x - 2)^2 - 1$. Agora usamos o ponto $(0, 3)$ para achar $a$: $3 = a(0 - 2)^2 - 1 \\Rightarrow 3 = 4a - 1 \\Rightarrow 4 = 4a \\Rightarrow a = 1$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v17",
+      "statement": "Sejam $x_1$ e $x_2$ as raízes de $f(x) = x^2 - mx + (m-1)$. Qual é o valor da expressão $x_1^2 + x_2^2$ em termos de $m$?",
+      "context": "Um matemático em Campinas investiga as propriedades das somas e produtos de raízes em funções com parâmetros variáveis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m^2$",
+          "is_correct": false,
+          "feedback": "x1² + x2² = (x1 + x2)² - 2x1x2. Faltou subtrair o termo do produto."
+        },
+        {
+          "letter": "B",
+          "text": "$m^2 - 2m + 2$",
+          "is_correct": true,
+          "feedback": "(x1 + x2)² - 2x1x2 = m² - 2(m - 1) = m² - 2m + 2."
+        },
+        {
+          "letter": "C",
+          "text": "$m^2 + 2m - 2$",
+          "is_correct": false,
+          "feedback": "Erro nos sinais ao expandir a expressão algébrica."
+        },
+        {
+          "letter": "D",
+          "text": "$2m - 2$",
+          "is_correct": false,
+          "feedback": "Falta o termo quadrático m²."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos as relações de Girard: $x_1 + x_2 = m$ e $x_1 \\cdot x_2 = m - 1$. A expressão $x_1^2 + x_2^2$ pode ser escrita como $(x_1 + x_2)^2 - 2x_1x_2$. Substituindo os valores: $m^2 - 2(m - 1) = m^2 - 2m + 2$.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v18",
+      "statement": "Considere a função $f(x) = ax^2 + bx + c$. Se $a < 0$, $b = 0$ e $c > 0$, qual é a posição do vértice e a quantidade de raízes reais?",
+      "context": "Durante uma olimpíada de matemática, os estudantes devem analisar o comportamento de uma parábola cujos coeficientes dependem de um sorteio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vértice sobre o eixo x, uma única raiz real.",
+          "is_correct": false,
+          "feedback": "Se c > 0 e a < 0, a parábola corta o eixo y acima de zero e desce, tendo duas raízes."
+        },
+        {
+          "letter": "B",
+          "text": "Vértice no quarto quadrante, nenhuma raiz real.",
+          "is_correct": false,
+          "feedback": "O vértice está no eixo y (pois b=0)."
+        },
+        {
+          "letter": "C",
+          "text": "Vértice sobre o eixo y, duas raízes reais.",
+          "is_correct": true,
+          "feedback": "b = 0 implica x_v = 0. f(0) = c > 0. Como a < 0, a parábola desce a partir do ponto (0,c), cortando o eixo x duas vezes."
+        },
+        {
+          "letter": "D",
+          "text": "Vértice na origem, nenhuma raiz real.",
+          "is_correct": false,
+          "feedback": "O vértice só estaria na origem se b=0 e c=0."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Como $b = 0$, o eixo de simetria é o próprio eixo $y$ ($x_v = 0$). O vértice é o ponto $(0, c)$. Como $c > 0$, o vértice está acima do eixo $x$. Sendo $a < 0$, a concavidade é para baixo, forçando a parábola a cruzar o eixo $x$ em dois pontos distintos (raízes simétricas).",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v19",
+      "statement": "Uma parábola de equação $y = x^2$ sofre uma translação de 3 unidades para a direita e 2 unidades para baixo. Qual é a nova equação na forma polinomial expandida?",
+      "context": "No vestibular de uma universidade militar de elite no Brasil, avalia-se o conhecimento profundo sobre o deslocamento de parábolas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = x^2 - 6x + 7$",
+          "is_correct": true,
+          "feedback": "(x-3)² - 2 = x² - 6x + 9 - 2 = x² - 6x + 7. Correto."
+        },
+        {
+          "letter": "B",
+          "text": "$y = x^2 + 6x + 7$",
+          "is_correct": false,
+          "feedback": "Translação para a direita exige o sinal de menos dentro do parêntese (x-3)."
+        },
+        {
+          "letter": "C",
+          "text": "$y = x^2 - 3x - 2$",
+          "is_correct": false,
+          "feedback": "Erro na aplicação da regra de translação horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "$y = x^2 + 3x + 2$",
+          "is_correct": false,
+          "feedback": "Erro na aplicação da regra de translação."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A translação de $h$ unidades para a direita e $k$ para cima transforma $f(x)$ em $f(x-h) + k$. No caso, $h=3$ e $k=-2$. A nova função é $y = (x - 3)^2 - 2$. Expandindo: $y = (x^2 - 6x + 9) - 2 = x^2 - 6x + 7$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v20",
+      "statement": "Qual é a área do triângulo cujos vértices são as raízes da função $f(x) = -x^2 + 6x - 8$ e o vértice da própria parábola?",
+      "context": "Um matemático em São Paulo estuda a área de triângulos cujos vértices são pontos notáveis de uma parábola.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Área = (base * altura) / 2. Base (distância entre raízes) é 2. Altura (y_v) é 1. Área = (2 * 1) / 2 = 1."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Erro no cálculo das dimensões ou na fórmula da área."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Raízes: 2 e 4. Base = 2. Vértice: x_v = 3, y_v = -3² + 18 - 8 = 1. Altura = 1. Área = (2 * 1) / 2 = 1."
+        },
+        {
+          "letter": "D",
+          "text": "0,5",
+          "is_correct": false,
+          "feedback": "Erro no cálculo das dimensões."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "1. Raízes: $x^2 - 6x + 8 = 0 \\Rightarrow (x-2)(x-4)=0 \\Rightarrow$ raízes 2 e 4. Base do triângulo = $4 - 2 = 2$.\n2. Vértice: $x_v = 3$. $y_v = f(3) = -9 + 18 - 8 = 1$. A altura do triângulo em relação ao eixo $x$ é $|y_v| = 1$.\n3. Área = $(\\text{base} \\cdot \\text{altura}) / 2 = (2 \\cdot 1) / 2 = 1$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v1",
+      "statement": "Qual é a forma geral de uma função quadrática?",
+      "context": "Um estudante em São Paulo estuda as características das funções do 2º grau e como identificá-las por sua lei de formação.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = ax + b$",
+          "is_correct": false,
+          "feedback": "Esta é a forma geral de uma função afim ou do 1º grau."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = ax^2 + bx + c$, com $a \\neq 0$",
+          "is_correct": true,
+          "feedback": "Correto. O termo x² caracteriza a função quadrática, e o coeficiente 'a' não pode ser nulo."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = a^x + b$",
+          "is_correct": false,
+          "feedback": "Esta é uma função exponencial."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = \\frac{a}{x}$",
+          "is_correct": false,
+          "feedback": "Esta é uma função racional simples."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uma função quadrática é definida por um polinômio de grau 2. A presença do termo $x^2$ com coeficiente não nulo garante que o gráfico da função seja uma parábola.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v2",
+      "statement": "O gráfico de uma função quadrática é uma curva chamada:",
+      "context": "Um arquiteto no Rio de Janeiro utiliza curvas parabólicas no design de um arco monumental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reta",
+          "is_correct": false,
+          "feedback": "Retas são gráficos de funções do 1º grau."
+        },
+        {
+          "letter": "B",
+          "text": "Hipérbole",
+          "is_correct": false,
+          "feedback": "Hipérboles são gráficos de funções do tipo y = k/x."
+        },
+        {
+          "letter": "C",
+          "text": "Parábola",
+          "is_correct": true,
+          "feedback": "Correto. A parábola é a curva característica de toda função do 2º grau."
+        },
+        {
+          "letter": "D",
+          "text": "Elipse",
+          "is_correct": false,
+          "feedback": "Elipses não representam funções simples do tipo y = f(x)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Diferente das funções lineares, a taxa de variação das funções quadráticas não é constante, resultando em uma curva simétrica conhecida como parábola.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v3",
+      "statement": "Na função $f(x) = ax^2 + bx + c$, o que determina se a concavidade da parábola é voltada para cima ou para baixo?",
+      "context": "Em uma aula de física em Curitiba, analisa-se a concavidade da trajetória de um projétil lançado para cima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O sinal do coeficiente $c$.",
+          "is_correct": false,
+          "feedback": "O coeficiente c indica apenas onde a parábola corta o eixo y."
+        },
+        {
+          "letter": "B",
+          "text": "O sinal do coeficiente $a$.",
+          "is_correct": true,
+          "feedback": "Correto. Se a > 0, concavidade para cima. Se a < 0, concavidade para baixo."
+        },
+        {
+          "letter": "C",
+          "text": "O valor do discriminante ($\\Delta$).",
+          "is_correct": false,
+          "feedback": "O discriminante determina o número de raízes reais, não a concavidade."
+        },
+        {
+          "letter": "D",
+          "text": "O sinal do coeficiente $b$.",
+          "is_correct": false,
+          "feedback": "O sinal de b influencia o deslocamento lateral do vértice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "O coeficiente $a$ (termo dominante) define a \"abertura\" e a orientação da parábola. Se $a$ é positivo, a função tem um valor mínimo e a abertura é para cima. Se $a$ é negativo, a função tem um valor máximo e a abertura é para baixo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v4",
+      "statement": "Como é chamado o termo $\\Delta = b^2 - 4ac$ na fórmula de Bhaskara?",
+      "context": "Um engenheiro civil em Brasília analisa os pontos onde uma ponte encosta no solo, representados pelas raízes da função.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vértice",
+          "is_correct": false,
+          "feedback": "Vértice é o ponto extremo (máximo ou mínimo) da parábola."
+        },
+        {
+          "letter": "B",
+          "text": "Discriminante",
+          "is_correct": true,
+          "feedback": "Correto. O valor de delta \"discrimina\" a natureza das raízes da equação."
+        },
+        {
+          "letter": "C",
+          "text": "Coeficiente linear",
+          "is_correct": false,
+          "feedback": "Coeficiente linear geralmente refere-se ao termo 'b' em funções afins ou 'c' em quadráticas."
+        },
+        {
+          "letter": "D",
+          "text": "Raiz quadrada",
+          "is_correct": false,
+          "feedback": "Delta está sob o sinal da raiz quadrada na fórmula, mas não é a raiz em si."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "O discriminante ($\\Delta$) é fundamental para entender a interseção da parábola com o eixo $x$: se $\\Delta > 0$ há duas raízes, se $\\Delta = 0$ há uma, e se $\\Delta < 0$ não há raízes reais.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v5",
+      "statement": "Dada a função $f(x) = x^2 - 6x + 5$, quais são as raízes desta função?",
+      "context": "Um biólogo em Manaus estuda a área ocupada por uma colônia de fungos, que cresce de forma quadrática com o tempo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 e 3",
+          "is_correct": false,
+          "feedback": "O produto é 6, mas o termo constante da função é 5."
+        },
+        {
+          "letter": "B",
+          "text": "1 e 5",
+          "is_correct": true,
+          "feedback": "A soma das raízes é -(-6)/1 = 6 e o produto é 5/1 = 5. Os números são 1 e 5."
+        },
+        {
+          "letter": "C",
+          "text": "-1 e -5",
+          "is_correct": false,
+          "feedback": "A soma seria -6, mas a soma correta deve ser 6."
+        },
+        {
+          "letter": "D",
+          "text": "0 e 5",
+          "is_correct": false,
+          "feedback": "O produto seria 0, mas o produto correto deve ser 5."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Podemos usar a soma ($S = -b/a = 6$) e o produto ($P = c/a = 5$) das raízes. Dois números que somados dão 6 e multiplicados dão 5 são 1 e 5.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v6",
+      "statement": "Onde a parábola da função $f(x) = 2x^2 - 4x + 7$ intercepta o eixo das ordenadas ($y$)?",
+      "context": "Um fotógrafo em Belo Horizonte quer entender em que ponto sua lente captura o foco máximo, modelado por uma parábola.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(0, 2)$",
+          "is_correct": false,
+          "feedback": "2 é o valor do coeficiente 'a', não do ponto de interseção com y."
+        },
+        {
+          "letter": "B",
+          "text": "$(0, -4)$",
+          "is_correct": false,
+          "feedback": "-4 é o valor do coeficiente 'b'."
+        },
+        {
+          "letter": "C",
+          "text": "$(0, 7)$",
+          "is_correct": true,
+          "feedback": "Correto. Para x = 0, f(0) = 7. O intercepto y é sempre o valor de c."
+        },
+        {
+          "letter": "D",
+          "text": "$(7, 0)$",
+          "is_correct": false,
+          "feedback": "Este seria um intercepto no eixo x (raiz), mas (0,7) é o intercepto y."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para encontrar o intercepto $y$, basta calcular $f(0)$. Em qualquer função do tipo $f(x) = ax^2 + bx + c$, temos $f(0) = c$. Logo, o ponto é $(0, c)$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v7",
+      "statement": "Em que instante $t$ (em segundos) o projétil atinge sua altura máxima?",
+      "context": "Um projétil é lançado de um ponto em Salvador e sua altura $h$ em metros segue a função $h(t) = -5t^2 + 20t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$t = 4$ s",
+          "is_correct": false,
+          "feedback": "t = 4 é o instante em que o projétil volta ao solo (raiz)."
+        },
+        {
+          "letter": "B",
+          "text": "$t = 2$ s",
+          "is_correct": true,
+          "feedback": "t_v = -b / 2a = -20 / (2 * -5) = -20 / -10 = 2."
+        },
+        {
+          "letter": "C",
+          "text": "$t = 5$ s",
+          "is_correct": false,
+          "feedback": "Cálculo incorreto da coordenada x do vértice."
+        },
+        {
+          "letter": "D",
+          "text": "$t = 20$ s",
+          "is_correct": false,
+          "feedback": "20 é o coeficiente 'b', não o instante do máximo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A altura máxima ocorre no vértice da parábola. A coordenada $t$ do vértice é dada por $t_v = -b / 2a$. Substituindo: $t_v = -20 / (2 \\cdot -5) = 2$ segundos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v8",
+      "statement": "Dada a função $f(x) = x^2 - 8x + 12$, quais são as coordenadas do vértice da parábola?",
+      "context": "Um administrador de empresas em Porto Alegre analisa a função custo de produção para minimizar gastos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(4, 12)$",
+          "is_correct": false,
+          "feedback": "x_v = 4 está correto, mas f(4) = 16 - 32 + 12 = -4."
+        },
+        {
+          "letter": "B",
+          "text": "$(4, -4)$",
+          "is_correct": true,
+          "feedback": "x_v = -(-8)/2 = 4. y_v = f(4) = 4² - 8(4) + 12 = 16 - 32 + 12 = -4."
+        },
+        {
+          "letter": "C",
+          "text": "$(8, 12)$",
+          "is_correct": false,
+          "feedback": "x_v deve ser -b/2a, que resulta em 4."
+        },
+        {
+          "letter": "D",
+          "text": "$(-4, 4)$",
+          "is_correct": false,
+          "feedback": "Erro nos sinais das coordenadas do vértice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "O vértice $V(x_v, y_v)$ tem $x_v = -b / 2a = 8 / 2 = 4$. Substituindo $x=4$ na função para achar $y_v$: $y_v = 4^2 - 8 \\cdot 4 + 12 = 16 - 32 + 12 = -4$. O vértice é $(4, -4)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v9",
+      "statement": "Para que a função $f(x) = x^2 - 4x + k$ tenha exatamente uma raiz real (seja tangente ao eixo $x$), qual deve ser o valor de $k$?",
+      "context": "Um designer em Recife projeta um logotipo usando uma parábola que toca o eixo $x$ em apenas um ponto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$k = 0$",
+          "is_correct": false,
+          "feedback": "Se k=0, a função tem raízes 0 e 4."
+        },
+        {
+          "letter": "B",
+          "text": "$k = 2$",
+          "is_correct": false,
+          "feedback": "Se k=2, delta seria 16 - 8 = 8, tendo duas raízes reais."
+        },
+        {
+          "letter": "C",
+          "text": "$k = 4$",
+          "is_correct": true,
+          "feedback": "Para ter uma única raiz, delta deve ser zero. b² - 4ac = (-4)² - 4(1)k = 16 - 4k = 0 => k = 4."
+        },
+        {
+          "letter": "D",
+          "text": "$k = -4$",
+          "is_correct": false,
+          "feedback": "Se k=-4, delta seria 16 + 16 = 32, tendo duas raízes reais."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Uma função quadrática possui apenas uma raiz real (ou duas raízes iguais) quando o discriminante é zero ($\\Delta = 0$). Calculando $\\Delta = (-4)^2 - 4 \\cdot 1 \\cdot k = 16 - 4k$. Igualando a zero, temos $k = 4$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v10",
+      "statement": "A parábola da função $f(x) = -x^2 + 10x - 21$ intercepta o eixo $x$ em dois pontos. Qual é a distância entre esses dois pontos?",
+      "context": "Um agrimensor em Manaus analisa a curvatura de um terreno modelada por uma função do 2º grau.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "10 é a soma das raízes, não a distância entre elas."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "As raízes são 3 e 7. A distância entre elas é 4."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Raízes: x = (-10 ± √16) / -2 => x = (-10 ± 4) / -2. Raízes são 7 e 3. Distância = 7 - 3 = 4."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Cálculo incorreto das raízes da função."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Encontramos as raízes resolvendo $-x^2 + 10x - 21 = 0$. $\\Delta = 100 - 84 = 16$. As raízes são $x = (-10 \\pm 4) / -2$, resultando em $x_1 = 3$ e $x_2 = 7$. A distância é $|x_2 - x_1| = 7 - 3 = 4$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v11",
+      "statement": "Considere a função $f(x) = x^2 - 2x + 5$. Qual é o valor mínimo que esta função pode assumir?",
+      "context": "Um investidor em São Paulo monitora o valor de uma ação que seguiu uma trajetória parabólica ao longo de um dia de negociações.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "1 é o valor de x onde ocorre o mínimo (x_v), não o valor mínimo da função."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "y_v = -Δ / 4a = -(4 - 20) / 4 = 16 / 4 = 4."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "5 é o valor de f(0), não o valor mínimo."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "A função não possui raízes reais (Δ < 0), então ela nunca atinge o valor zero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "O valor mínimo da função é a coordenada $y$ do vértice ($y_v$). Como $a > 0$, o vértice é um ponto de mínimo. Calculamos $x_v = -b / 2a = 2 / 2 = 1$ e então $f(1) = 1^2 - 2(1) + 5 = 4$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v12",
+      "statement": "Qual é a lei da função quadrática cujas raízes são $-1$ e $3$ e que passa pelo ponto $(0, -3)$?",
+      "context": "Um professor em Goiânia mostra como determinar a lei de uma função quadrática a partir de seus pontos notáveis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = x^2 - 2x - 3$",
+          "is_correct": true,
+          "feedback": "Raízes: x²-2x-3 = (x+1)(x-3). Ponto (0,-3): 0²-2(0)-3 = -3. Confere."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = x^2 + 2x - 3$",
+          "is_correct": false,
+          "feedback": "As raízes desta função seriam 1 e -3."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = -x^2 + 2x + 3$",
+          "is_correct": false,
+          "feedback": "Esta função passa pelo ponto (0,3), não (0,-3)."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = x^2 - 3x + 1$",
+          "is_correct": false,
+          "feedback": "Não possui as raízes dadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Usamos a forma fatorada: $f(x) = a(x - x_1)(x - x_2)$. Assim, $f(x) = a(x + 1)(x - 3)$. Substituímos o ponto $(0, -3)$: $-3 = a(0+1)(0-3) \\Rightarrow -3 = -3a \\Rightarrow a = 1$. Expandindo: $f(x) = (x+1)(x-3) = x^2 - 2x - 3$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v13",
+      "statement": "Dada a função $f(x) = kx^2 - 4x + 1$, para quais valores de $k$ a função NÃO possui raízes reais?",
+      "context": "Um analista de sistemas em Florianópolis otimiza um código que calcula a trajetória de objetos em um jogo digital.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$k < 4$",
+          "is_correct": false,
+          "feedback": "Nem todos os valores menores que 4 satisfazem a condição de não ter raízes."
+        },
+        {
+          "letter": "B",
+          "text": "$k > 4$",
+          "is_correct": true,
+          "feedback": "Δ = (-4)² - 4(k)(1) = 16 - 4k. Para não ter raízes reais, Δ < 0 => 16 < 4k => k > 4."
+        },
+        {
+          "letter": "C",
+          "text": "$k = 4$",
+          "is_correct": false,
+          "feedback": "Com k=4, a função teria uma raiz real (delta = 0)."
+        },
+        {
+          "letter": "D",
+          "text": "$k < 0$",
+          "is_correct": false,
+          "feedback": "Se k for negativo, o produto -4ac será positivo e delta sempre será maior que zero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para que uma função do 2º grau não tenha raízes reais, o discriminante deve ser estritamente negativo ($\\Delta < 0$). Resolvendo $16 - 4k < 0$, obtemos $16 < 4k$, o que resulta em $k > 4$.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v14",
+      "statement": "Um retângulo tem perímetro de 20 metros. Sendo $x$ a medida de um dos lados, a área $A$ é dada por $A(x) = x(10 - x)$. Qual é a área máxima possível para esse retângulo?",
+      "context": "Um arquiteto paisagista em Porto Alegre projeta um canteiro retangular onde a área deve ser maximizada para um dado perímetro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 m²",
+          "is_correct": false,
+          "feedback": "Valor abaixo do máximo possível para um retângulo de perímetro 20."
+        },
+        {
+          "letter": "B",
+          "text": "20 m²",
+          "is_correct": false,
+          "feedback": "Valor incorreto para o vértice da função área."
+        },
+        {
+          "letter": "C",
+          "text": "25 m²",
+          "is_correct": true,
+          "feedback": "A(x) = -x² + 10x. Vértice em x = -10/-2 = 5. A(5) = 5(10 - 5) = 25."
+        },
+        {
+          "letter": "D",
+          "text": "100 m²",
+          "is_correct": false,
+          "feedback": "Valor impossível, pois exigiria lados que somam mais que o perímetro disponível."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A função área é $A(x) = -x^2 + 10x$. O valor máximo ocorre no vértice $x_v = -10 / (2 \\cdot -1) = 5$. Substituindo, a área máxima é $A(5) = -25 + 50 = 25$. Geometricamente, o retângulo de área máxima para um perímetro fixo é o quadrado.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v15",
+      "statement": "A quantidade vendida $q$ de um produto depende do preço $p$ segundo a função $q = 60 - 2p$. A receita é $R(p) = p \\cdot q$. Qual preço $p$ maximiza a receita?",
+      "context": "Um economista em São Paulo analisa a função receita de uma loja, dada pelo produto do preço pela quantidade vendida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "R\\$ 60,00",
+          "is_correct": false,
+          "feedback": "Com p=60, a quantidade vendida seria negativa, logo receita negativa."
+        },
+        {
+          "letter": "B",
+          "text": "R\\$ 30,00",
+          "is_correct": false,
+          "feedback": "Com p=30, a quantidade vendida é zero, logo receita zero."
+        },
+        {
+          "letter": "C",
+          "text": "R\\$ 15,00",
+          "is_correct": true,
+          "feedback": "R(p) = p(60 - 2p) = -2p² + 60p. Vértice em p = -60 / (2 * -2) = 15."
+        },
+        {
+          "letter": "D",
+          "text": "R\\$ 10,00",
+          "is_correct": false,
+          "feedback": "p=10 gera receita de 10 * 40 = 400, que é menor que a receita com p=15 (450)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A função receita é $R(p) = -2p^2 + 60p$. Esta é uma função quadrática com concavidade para baixo. O ponto de máximo (preço ideal) é dado por $p_v = -b / 2a = -60 / (2 \\cdot -2) = 15$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v16",
+      "statement": "O gráfico de $f(x) = ax^2 + bx + c$ tem vértice em $(2, -1)$ e passa por $(0, 3)$. Determine o valor de $a$.",
+      "context": "Um físico em São José dos Campos estuda a energia potencial de uma mola, que é uma função quadrática da deformação.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = -1$",
+          "is_correct": false,
+          "feedback": "Se a fosse negativo, a parábola abriria para baixo e não passaria em y=3 vindo de y=-1."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 1$",
+          "is_correct": true,
+          "feedback": "Usando a forma canônica y = a(x-h)² + k: 3 = a(0-2)² - 1 => 3 = 4a - 1 => 4a = 4 => a = 1."
+        },
+        {
+          "letter": "C",
+          "text": "$a = 2$",
+          "is_correct": false,
+          "feedback": "Incorreto ao resolver a equação do ponto dado."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 0,5$",
+          "is_correct": false,
+          "feedback": "Incorreto ao resolver a equação do ponto dado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos a forma canônica da função quadrática: $f(x) = a(x - x_v)^2 + y_v$. Substituindo o vértice $(2, -1)$: $f(x) = a(x - 2)^2 - 1$. Agora usamos o ponto $(0, 3)$ para achar $a$: $3 = a(0 - 2)^2 - 1 \\Rightarrow 3 = 4a - 1 \\Rightarrow 4 = 4a \\Rightarrow a = 1$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v17",
+      "statement": "Sejam $x_1$ e $x_2$ as raízes de $f(x) = x^2 - mx + (m-1)$. Qual é o valor da expressão $x_1^2 + x_2^2$ em termos de $m$?",
+      "context": "Um matemático em Campinas investiga as propriedades das somas e produtos de raízes em funções com parâmetros variáveis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m^2$",
+          "is_correct": false,
+          "feedback": "x1² + x2² = (x1 + x2)² - 2x1x2. Faltou subtrair o termo do produto."
+        },
+        {
+          "letter": "B",
+          "text": "$m^2 - 2m + 2$",
+          "is_correct": true,
+          "feedback": "(x1 + x2)² - 2x1x2 = m² - 2(m - 1) = m² - 2m + 2."
+        },
+        {
+          "letter": "C",
+          "text": "$m^2 + 2m - 2$",
+          "is_correct": false,
+          "feedback": "Erro nos sinais ao expandir a expressão algébrica."
+        },
+        {
+          "letter": "D",
+          "text": "$2m - 2$",
+          "is_correct": false,
+          "feedback": "Falta o termo quadrático m²."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos as relações de Girard: $x_1 + x_2 = m$ e $x_1 \\cdot x_2 = m - 1$. A expressão $x_1^2 + x_2^2$ pode ser escrita como $(x_1 + x_2)^2 - 2x_1x_2$. Substituindo os valores: $m^2 - 2(m - 1) = m^2 - 2m + 2$.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v18",
+      "statement": "Considere a função $f(x) = ax^2 + bx + c$. Se $a < 0$, $b = 0$ e $c > 0$, qual é a posição do vértice e a quantidade de raízes reais?",
+      "context": "Durante uma olimpíada de matemática, os estudantes devem analisar o comportamento de uma parábola cujos coeficientes dependem de um sorteio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vértice sobre o eixo x, uma única raiz real.",
+          "is_correct": false,
+          "feedback": "Se c > 0 e a < 0, a parábola corta o eixo y acima de zero e desce, tendo duas raízes."
+        },
+        {
+          "letter": "B",
+          "text": "Vértice no quarto quadrante, nenhuma raiz real.",
+          "is_correct": false,
+          "feedback": "O vértice está no eixo y (pois b=0)."
+        },
+        {
+          "letter": "C",
+          "text": "Vértice sobre o eixo y, duas raízes reais.",
+          "is_correct": true,
+          "feedback": "b = 0 implica x_v = 0. f(0) = c > 0. Como a < 0, a parábola desce a partir do ponto (0,c), cortando o eixo x duas vezes."
+        },
+        {
+          "letter": "D",
+          "text": "Vértice na origem, nenhuma raiz real.",
+          "is_correct": false,
+          "feedback": "O vértice só estaria na origem se b=0 e c=0."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Como $b = 0$, o eixo de simetria é o próprio eixo $y$ ($x_v = 0$). O vértice é o ponto $(0, c)$. Como $c > 0$, o vértice está acima do eixo $x$. Sendo $a < 0$, a concavidade é para baixo, forçando a parábola a cruzar o eixo $x$ em dois pontos distintos (raízes simétricas).",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v19",
+      "statement": "Uma parábola de equação $y = x^2$ sofre uma translação de 3 unidades para a direita e 2 unidades para baixo. Qual é a nova equação na forma polinomial expandida?",
+      "context": "No vestibular de uma universidade militar de elite no Brasil, avalia-se o conhecimento profundo sobre o deslocamento de parábolas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = x^2 - 6x + 7$",
+          "is_correct": true,
+          "feedback": "(x-3)² - 2 = x² - 6x + 9 - 2 = x² - 6x + 7. Correto."
+        },
+        {
+          "letter": "B",
+          "text": "$y = x^2 + 6x + 7$",
+          "is_correct": false,
+          "feedback": "Translação para a direita exige o sinal de menos dentro do parêntese (x-3)."
+        },
+        {
+          "letter": "C",
+          "text": "$y = x^2 - 3x - 2$",
+          "is_correct": false,
+          "feedback": "Erro na aplicação da regra de translação horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "$y = x^2 + 3x + 2$",
+          "is_correct": false,
+          "feedback": "Erro na aplicação da regra de translação."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A translação de $h$ unidades para a direita e $k$ para cima transforma $f(x)$ em $f(x-h) + k$. No caso, $h=3$ e $k=-2$. A nova função é $y = (x - 3)^2 - 2$. Expandindo: $y = (x^2 - 6x + 9) - 2 = x^2 - 6x + 7$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle-v20",
+      "statement": "Qual é a área do triângulo cujos vértices são as raízes da função $f(x) = -x^2 + 6x - 8$ e o vértice da própria parábola?",
+      "context": "Um matemático em São Paulo estuda a área de triângulos cujos vértices são pontos notáveis de uma parábola.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Área = (base * altura) / 2. Base (distância entre raízes) é 2. Altura (y_v) é 1. Área = (2 * 1) / 2 = 1."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Erro no cálculo das dimensões ou na fórmula da área."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Raízes: 2 e 4. Base = 2. Vértice: x_v = 3, y_v = -3² + 18 - 8 = 1. Altura = 1. Área = (2 * 1) / 2 = 1."
+        },
+        {
+          "letter": "D",
+          "text": "0,5",
+          "is_correct": false,
+          "feedback": "Erro no cálculo das dimensões."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "1. Raízes: $x^2 - 6x + 8 = 0 \\Rightarrow (x-2)(x-4)=0 \\Rightarrow$ raízes 2 e 4. Base do triângulo = $4 - 2 = 2$.\n2. Vértice: $x_v = 3$. $y_v = f(3) = -9 + 18 - 8 = 1$. A altura do triângulo em relação ao eixo $x$ é $|y_v| = 1$.\n3. Área = $(\\text{base} \\cdot \\text{altura}) / 2 = (2 \\cdot 1) / 2 = 1$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "BR-MAT-11-2026-W04-funcao-quadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    }
+  ]
+}

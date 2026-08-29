@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "uy",
+    "pack_id": "uy-week-1-grade-11-subject-lengua",
+    "generated_at": "2026-07-28T22:41:05.965Z"
+  },
+  "questions": [
+    {
+      "id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el canal en este proceso de comunicación?",
+      "context": "En una parada de ómnibus en la Avenida 18 de Julio en Montevideo, un cartel electrónico muestra el mensaje: 'Línea 103 - Destino: Plaza España - Próximo arribo: 5 min'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La empresa de transporte público que define las frecuencias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La empresa es el emisor o la fuente institucional, no el canal de transmisión."
+        },
+        {
+          "letter": "B",
+          "text": "El pasajero que lee la pantalla para decidir si esperar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pasajero es el receptor que decodifica la información."
+        },
+        {
+          "letter": "C",
+          "text": "La pantalla electrónica del cartel que emite las ondas luminosas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El canal es el medio físico por el cual se transmite el mensaje, que en este caso es el soporte electrónico y visual."
+        },
+        {
+          "letter": "D",
+          "text": "El idioma español escrito que permite comprender la información.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El idioma español constituye el código de la comunicación, no el canal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El canal es el soporte o medio físico a través del cual viaja la señal que transporta el mensaje desde el emisor al receptor. La pantalla digital del paradero actúa como este medio visual.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v2",
+      "statement": "¿Qué función del lenguaje predomina en el enunciado anterior?",
+      "context": "Un grupo de gurises en la rambla de Pocitos conversa animadamente. Uno de ellos dice: '¡Pa, qué salado está el viento hoy, che!'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Función apelativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se busca influir u ordenar una conducta directa en el oyente."
+        },
+        {
+          "letter": "B",
+          "text": "Función expresiva o emotiva.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El emisor manifiesta su propio estado de ánimo, impresión subjetiva y asombro mediante interjecciones ('pa', 'che') y adjetivación ('salado')."
+        },
+        {
+          "letter": "C",
+          "text": "Función metalingüística.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La metalingüística se centra en explicar el propio código lingüístico."
+        },
+        {
+          "letter": "D",
+          "text": "Función referencial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque alude al viento (contexto), la carga subjetiva, afectiva e interjectiva hace prevalecer la emotiva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función expresiva o emotiva se centra en el emisor, permitiéndole exteriorizar sus sentimientos, emociones o sensaciones respecto al entorno, utilizando exclamaciones y coloquialismos uruguayos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el elemento del proceso de comunicación sobre el que se ejerce la función apelativa en este caso?",
+      "context": "Analizá la siguiente situación: En el Liceo de Colonia del Sacramento, una profesora le dice a su clase antes de un examen escrito: 'Por favor, guarden los celulares y dejen sobre el banco únicamente el documento de identidad y una lapicera'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El mensaje transmitido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función poética es la que se centra en la estética o forma del mensaje mismo."
+        },
+        {
+          "letter": "B",
+          "text": "El canal físico de la voz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función fática o de contacto se centra en asegurar el funcionamiento del canal."
+        },
+        {
+          "letter": "C",
+          "text": "El receptor (los estudiantes).",
+          "is_correct": true,
+          "feedback": "¡Correcto! La función apelativa o conativa se orienta directamente hacia el receptor para influir en su comportamiento, en este caso, solicitando una acción específica."
+        },
+        {
+          "letter": "D",
+          "text": "El código del idioma español.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El código se relaciona con la función metalingüística."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La función apelativa busca provocar una respuesta o cambio de conducta en el receptor. En la consigna escolar, la profesora apela directamente a los estudiantes para que guarden sus celulares.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v4",
+      "statement": "¿Qué función del lenguaje se activa principalmente cuando la vecina dice: '¿Me escuchás bien?'?",
+      "context": "Dos vecinas se encuentran en un almacén en la ciudad de Salto. Una de ellas le pregunta a la otra: '¿Me escuchás bien? Con el ruido de la heladera nueva casi no te oigo'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Función poética.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se busca embellecer el texto ni generar efectos líricos."
+        },
+        {
+          "letter": "B",
+          "text": "Función referencial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se está comunicando información objetiva sobre el mundo circundante."
+        },
+        {
+          "letter": "C",
+          "text": "Función fática o de contacto.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La expresión tiene como fin corroborar que el canal de comunicación sigue abierto y que el flujo comunicativo no se ha interrumpido por el ruido de fondo."
+        },
+        {
+          "letter": "D",
+          "text": "Función emotiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El foco no está en exteriorizar sentimientos internos de la vecina."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La función fática se utiliza para iniciar, prolongar, interrumpir o verificar la viabilidad del canal de comunicación. Preguntar '¿Me escuchás bien?' cumple exactamente este propósito técnico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v5",
+      "statement": "¿Qué función del lenguaje destaca en este fragmento poético literario?",
+      "context": "Leé el siguiente fragmento del poema 'La higuera' de la uruguaya Juana de Ibarbourou: 'Porque es áspera y fea, / porque todas sus ramas son grises, / yo le tengo piedad a la higuera'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La función poética, combinada de forma secundaria con la función emotiva.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Domina la función poética al centrar la atención en la belleza, ritmo e imágenes artísticas del mensaje, apoyada por la función emotiva del emisor al expresar compasión por el árbol."
+        },
+        {
+          "letter": "B",
+          "text": "La función referencial de forma exclusiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un poema no pretende meramente dar un reporte biológico u objetivo sobre un árbol."
+        },
+        {
+          "letter": "C",
+          "text": "La función metalingüística y la apelativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se explica gramática ni se ordena nada al receptor."
+        },
+        {
+          "letter": "D",
+          "text": "La función conativa meramente informativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función conativa es sinónimo de apelativa, la cual no es el eje del poema."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La literatura utiliza la función poética, donde la estructura del mensaje y los recursos estilísticos adquieren un valor en sí mismos. En el poema, se expresa artísticamente un sentimiento íntimo (emotiva).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v6",
+      "statement": "¿Qué función lingüística se está ejecutando en la intervención del docente?",
+      "context": "En una clase de Lengua en el Liceo N° 1 de Rivera, el docente explica: 'La palabra uruguayismo es un sustantivo masculino que refiere a los vocablos típicos de nuestra variedad rioplatense'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Función poética.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay un fin estético, sino una explicación conceptual del lenguaje."
+        },
+        {
+          "letter": "B",
+          "text": "Función fática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se está probando si el canal funciona."
+        },
+        {
+          "letter": "C",
+          "text": "Función metalingüística.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El código de la lengua española se utiliza para analizar y conceptualizar un aspecto de su propio funcionamiento, estructura o vocabulario."
+        },
+        {
+          "letter": "D",
+          "text": "Función emotiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El docente se expresa con objetividad informativa sobre el término."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando la lengua se toma a sí misma como objeto de estudio o de explicación, estamos ante la función metalingüística, típica de los diccionarios, gramáticas y explicaciones idomáticas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el objetivo comunicativo y la función del lenguaje que querés lograr con este titular?",
+      "context": "Imaginate que estás redactando un folleto informativo para la Intendencia de Maldonado para concientizar sobre el cuidado de las playas de Punta del Este. El titular del folleto dice: 'Cuidar nuestras dunas es proteger el futuro de nuestras costas'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar objetivamente usando una función metalingüística.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se analiza el significado de palabras."
+        },
+        {
+          "letter": "B",
+          "text": "Persuadir a la población mediante una función apelativa o conativa implícita en una afirmación valorativa (función referencial expresiva).",
+          "is_correct": true,
+          "feedback": "¡Correcto! El titular busca sensibilizar e incidir en el comportamiento de los ciudadanos (apelativa) a través de una afirmación sobre el medio ambiente (referencial)."
+        },
+        {
+          "letter": "C",
+          "text": "Crear un espacio lúdico de entretenimiento usando solo la función fática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función fática no tiene como fin la concientización ambiental."
+        },
+        {
+          "letter": "D",
+          "text": "Expresar exclusivamente la molestia personal del redactor con la función expresiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al ser una campaña de bien público, excede la catarsis personal del emisor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los mensajes publicitarios o de bien público combinan la transmisión de datos (referencial) con la persuasión directa o indirecta del receptor (apelativa) para modificar actitudes.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v8",
+      "statement": "¿Qué funciones del lenguaje confluyen de manera evidente en esta exclamación?",
+      "context": "Durante un debate televisivo en Canal 12 de Montevideo, un participante exclama de forma imprevista: '¡Por favor, pido que me deje hablar! No me interrumpa más'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apelativa y emotiva.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es apelativa porque exige una acción del interlocutor ('deje', 'no interrumpa') y emotiva porque se expresa con indignación y enojo subjetivo ('¡Por favor!')."
+        },
+        {
+          "letter": "B",
+          "text": "Poética y metalingüística.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay intención artística ni explicaciones sobre gramática o semántica."
+        },
+        {
+          "letter": "C",
+          "text": "Referencial y poética.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se relata un hecho objetivo del mundo ni se recurre a metáforas estilizadas."
+        },
+        {
+          "letter": "D",
+          "text": "Fática y metalingüística.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fática sirve para mantener el canal abierto, pero aquí el emisor busca mandar y expresar su molestia afectiva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la comunicación real las funciones no se presentan aisladas. Al exigir silencio mostrando alteración emocional, el hablante entrelaza la persuasión/orden (apelativa) con su estado de ánimo (emotiva).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.77,
+      "bundle_id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v9",
+      "statement": "¿Por qué se afirma que la función predominante en este texto informativo periodístico es la referencial?",
+      "context": "Leé atentamente el siguiente fragmento de una noticia del diario El País de Uruguay: 'Ayer se registró un récord histórico de temperatura en la ciudad de Mercedes, alcanzando los 42 °C a las tres de la tarde de acuerdo con el boletín oficial de Inumet'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque busca emocionar al lector para que viaje a Mercedes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No expresa emociones ni promueve el turismo de forma afectiva."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el mensaje se enfoca de manera objetiva y verificable en el contexto, describiendo un hecho real con datos concretos.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La función referencial o representativa se caracteriza por centrarse en el contexto externo, transmitiendo información de forma clara, precisa, despersonalizada y contrastable."
+        },
+        {
+          "letter": "C",
+          "text": "Because utiliza juegos de palabras poéticos para embellecer el clima riguroso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un lenguaje llano, periodístico y exento de recursos estéticos figurativos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque busca persuadir a la población de Mercedes de no salir de sus casas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Informa sobre un hecho ya acontecido, sin emitir órdenes directas de acción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función referencial se prioriza en el periodismo informativo y la ciencia, ya que su finalidad es representar fielmente la realidad objetiva mediante hechos observables.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v10",
+      "statement": "¿A qué concepto del proceso de comunicación se asocia esta perturbación técnica que altera la correcta recepción del mensaje?",
+      "context": "Mateo le envía un mensaje de texto por WhatsApp a Valentina para invitarla a tomar unos mates en el Prado de Montevideo, pero debido a la mala señal en la zona, el mensaje llega incompleto y con caracteres distorsionados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ruido.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El ruido es cualquier factor o interferencia física, técnica o ambiental que distorsiona, debilita o altera el mensaje durante su transmisión por el canal."
+        },
+        {
+          "letter": "B",
+          "text": "Código inadecuado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos manejan el mismo código (español y emojis), el fallo fue técnico-físico de la señal."
+        },
+        {
+          "letter": "C",
+          "text": "Fallo de decodificación mental.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema reside en la transmisión física del soporte técnico, no en la capacidad de lectura de Valentina."
+        },
+        {
+          "letter": "D",
+          "text": "Desviación del emisor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El emisor redactó el mensaje de forma adecuada; la alteración ocurrió en el viaje de la señal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cualquier distorsión en la transmisión de un mensaje por el canal se cataloga técnicamente como ruido, obstaculizando la descodificación ideal del receptor.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v11",
+      "statement": "Analizá la relación entre la imagen visual y el texto escrito en este proceso de comunicación. ¿Qué fenómeno se produce?",
+      "context": "Un afiche de seguridad vial de la Unasev en Uruguay muestra el dibujo de una llave de auto dentro de un vaso de cerveza tachado con una cruz roja gigante, acompañado del texto: 'Si tomás, no manejes'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos canales son independientes y transmiten mensajes contradictorios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se contradicen, sino que apuntan exactamente al mismo fin."
+        },
+        {
+          "letter": "B",
+          "text": "La imagen actúa como ruido que distrae al receptor de la lectura del código lingüístico escrito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lejos de ser ruido, la imagen es parte del mensaje deliberado y de hecho refuerza la comprensión."
+        },
+        {
+          "letter": "C",
+          "text": "Hay un proceso de complementariedad o redundancia sígnica no verbal que refuerza la función apelativa del mensaje escrito.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los signos icónicos (dibujo de llave y cerveza tachada) y los signos lingüísticos ('Si tomás, no manejes') cooperan para que el mensaje preventivo (apelativo) se capte de forma inmediata y unívoca."
+        },
+        {
+          "letter": "D",
+          "text": "La imagen pertenece a un código privado de los diseñadores que el ciudadano común no puede interpretar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La simbología de prohibición (cruz roja) y alcohol-conducción es de dominio público global."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la comunicación multimodal (afiches, videos), los códigos verbales y no verbales se integran. El canal visual aloja signos icónicos que complementan la asimilación conceptual del mensaje persuasivo verbal.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.79,
+      "bundle_id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el principal código y la función que se están ejerciendo de cara al público?",
+      "context": "Leé la siguiente situación: Florencia asiste a una obra de teatro dramática en el Teatro Solís. Durante la función, uno de los actores mira fijamente a la platea y declama en tono solemne: '¿Quién determina dónde acaba el mar y dónde empieza la nostalgia?'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Código verbal oral en función poética.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El código es la lengua española expresada oralmente en el escenario, y se utiliza la función poética, ya que la pregunta lírica busca generar emoción artística y estético-filosófica en la audiencia."
+        },
+        {
+          "letter": "B",
+          "text": "Código no verbal kinésico en función fática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se centra principalmente en la palabra declamada (verbal) y no en gestos mudos para abrir un canal técnico."
+        },
+        {
+          "letter": "C",
+          "text": "Código escrito en función referencial de datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El teatro es una representación en vivo (código oral-gestual) y el contenido no es un dato científico o geográfico verídico."
+        },
+        {
+          "letter": "D",
+          "text": "Código sonoro instrumental en función apelativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se trata de música de fondo ordenando al público actuar físicamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La representación dramática teatral es un acto de comunicación complejo que descansa en el código verbal oral potenciado artísticamente por recursos literarios, encarnando la función poética del lenguaje.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v13",
+      "statement": "¿Qué elemento de la comunicación determina de manera directa la selección del vocabulario, la estructura sintáctica formal y la ausencia de términos coloquiales rioplatenses en este mensaje?",
+      "context": "En un correo formal dirigido a la Dirección General de Educación Secundaria de Uruguay, un docente escribe: 'Por medio de la presente, me dirijo a usted a efectos de solicitar una prórroga...'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El canal informático de internet que prohíbe el uso de lenguaje coloquial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por internet se pueden mandar mensajes sumamente informales; el medio técnico no impone la cortesía formal de manera automática."
+        },
+        {
+          "letter": "B",
+          "text": "El contexto institucional y la relación de asimetría entre emisor y receptor.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El contexto situacional de carácter formal y la distancia jerárquica entre el emisor (docente) y el receptor (autoridad de Secundaria) imponen la necesidad de un registro formal culto para asegurar la adecuación comunicativa."
+        },
+        {
+          "letter": "C",
+          "text": "El código del idioma español, que carece de formas informales oficiales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El español posee amplios recursos para registros informales y coloquiales muy habituales."
+        },
+        {
+          "letter": "D",
+          "text": "La función emotiva del docente que se siente estresado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un registro formal precisamente neutraliza la función emotiva desmedida para lograr la objetividad protocolar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La adecuación es la propiedad textual que adapta el mensaje a la situación comunicativa. El contexto y la relación de jerarquía emisor-receptor regulan la formalidad del registro empleado.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.72,
+      "bundle_id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v14",
+      "statement": "¿Qué opciones describen con exactitud el juego de funciones y el uso de la variación de personas gramaticales en este diálogo áulico?",
+      "context": "Estudiá el siguiente texto: 'A ver, muchachos, abran la ventana que el aire está pesado. Vos, Joaquín, alcanzame el borrador, por favor'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Predomina la función metalingüística y se aprecia el tuteo formal característico de Montevideo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay función metalingüística (no se analiza la gramática) y se usa 'vos' (voseo), no 'tú' (tuteo)."
+        },
+        {
+          "letter": "B",
+          "text": "Predomina la función poética, utilizando metáforas barrocas para describir el aula del liceo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un lenguaje ordinario y directo de aula; no persigue fines líricos o estéticos barrocos."
+        },
+        {
+          "letter": "C",
+          "text": "Predomina la función apelativa, evidenciada en los imperativos ('abran', 'alcanzame') y el pronombre de segunda persona 'vos' rioplatense.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La función apelativa se concreta mediante el uso de verbos en modo imperativo para mandar una acción al grupo y a un individuo, utilizando además el voseo pronominal ('vos') y desinencial ('alcanzame')."
+        },
+        {
+          "letter": "D",
+          "text": "La función predominante es la fática, destinada a inaugurar el diálogo entre personas que no se conocen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las órdenes directas van más allá de comprobar la línea telefónica o de contacto inicial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La función apelativa o conativa se apoya gramaticalmente en el uso del imperativo, las interrogaciones directas y los vocativos. El uso de 'vos' y desinencias asociadas es propio de la interacción uruguaya.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v15",
+      "statement": "Analizá la pintada. ¿Cómo interactúan el contexto cultural uruguayo y la función poética en este texto urbano?",
+      "context": "Un lingüista uruguayo lee la pintada de un muro en el barrio Palermo de Montevideo que reza: 'La vida es lo que pasa mientras vos cebás el mate'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La función poética fracasa rotundamente porque el término 'mate' es demasiado vulgar y rompe la métrica del verso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El registro coloquial e identitario no anula la poesía; de hecho, le otorga fuerza comunicativa local."
+        },
+        {
+          "letter": "B",
+          "text": "La función poética resignifica un elemento de la vida cotidiana uruguaya (el ritual del mate) para construir una metáfora existencial dirigida al transeúnte receptor utilizando el voseo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se produce una recontextualización lírica de una costumbre diaria uruguaya, articulando la función poética con un elemento de identidad local ('cebás el mate') que interpela al receptor mediante el voseo afectivo."
+        },
+        {
+          "letter": "C",
+          "text": "El texto carece de función poética porque las pintadas callejeras solo cumplen una función fática de marcar territorio urbano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las reflexiones existenciales en muros tienen una clara intencionalidad estética y expresiva que supera la fática."
+        },
+        {
+          "letter": "D",
+          "text": "La función metalingüística predomina al explicar la técnica culinaria correcta para calentar el agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El muro no da instrucciones técnicas de cebado de infusión; medita líricamente sobre el transcurrir de la vida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El arte urbano y las leyendas populares funden la función poética con la identidad local, transformando símbolos culturales propios (como el mate en Uruguay) en vehículos de expresión estética general.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.71,
+      "bundle_id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v16",
+      "statement": "Evaluá este acto de comunicación. ¿Qué elementos están fallando y qué funciones se despliegan para resolver el inconveniente?",
+      "context": "Durante una clase virtual, un estudiante apaga su micrófono y escribe en el chat de la plataforma: 'Profe, no le anda la cámara, se quedó congelada su imagen'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El canal técnico (video) está fallando (ruido), y el estudiante activa la función fática e informativa (referencial) por un canal alternativo (chat) para advertir al emisor.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El fallo de la cámara es un ruido en el canal visual. El estudiante recurre a otro canal (chat de texto) combinando la función fática (avisar del corte de conexión) y la referencial (describir la congelación de imagen)."
+        },
+        {
+          "letter": "B",
+          "text": "Hay un error de código, pues el profesor no comprende las abreviaturas informáticas del chat de los jóvenes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mensaje es claro, ortográfico y directo; no hay un conflicto de incomprensión idiomática."
+        },
+        {
+          "letter": "C",
+          "text": "El estudiante usa la función poética para mofarse sutilmente de la postura física del docente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mensaje es puramente descriptivo e instrumental frente a un obstáculo técnico de conectividad."
+        },
+        {
+          "letter": "D",
+          "text": "Se interrumpe la comunicación debido a que el docente y el alumno carecen de un referente real compartido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos comparten la misma clase virtual en tiempo real (referente contextual claro)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando un canal tecnológico falla, se genera un ruido físico. Los participantes de la comunicación de inmediato reajustan sus funciones fáticas e instrumentales para subsanar el malentendido técnico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.69,
+      "bundle_id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v17",
+      "statement": "Desde una perspectiva crítica de la comunicación, ¿de qué manera el emisor manipula los elementos del proceso de comunicación para lograr persuadir al consumidor receptor?",
+      "context": "Considerá un afiche publicitario de una marca de refresco que muestra la fotografía de una botella transpirada de frío sobre arena soleada y el eslogan: 'Sentí el sabor de tu libertad'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El emisor utiliza la función referencial pura para dar un informe químico exacto de los azúcares que componen la bebida fría.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La publicidad no busca objetividad científica; eslogan y foto apelan a sensaciones ideales abstractas."
+        },
+        {
+          "letter": "B",
+          "text": "Se anula por completo el canal visual al priorizar exclusivamente el código escrito del eslogan literario abstracto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fotografía es el canal visual principal que genera el impacto sensorial inmediato indispensable."
+        },
+        {
+          "letter": "C",
+          "text": "El emisor asocia un referente físico real (la bebida) con un referente abstracto altamente valorado (la libertad), canalizándolo con función poética ('Sentí el sabor...') para enmascarar un mandato de consumo apelativo directo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La publicidad opera vinculando un producto material con conceptos existenciales o aspiracionales mediante recursos artísticos (función poética) que estimulan sutilmente el deseo de compra (función apelativa del receptor)."
+        },
+        {
+          "letter": "D",
+          "text": "La marca actúa como un receptor pasivo que espera a que el consumidor defina el código semántico de la botella.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La marca es el emisor activo que planifica de forma estratégica el significado del anuncio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El análisis crítico de los textos publicitarios devela cómo se solapan la función estética y afectiva para camuflar la verdadera función conativa (comprar el producto), cargando de valor simbólico al referente.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.68,
+      "bundle_id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v18",
+      "statement": "Evaluá críticamente el uso de los elementos de la comunicación y las funciones lingüísticas en este fragmento. ¿Qué recurso estratégico destaca en el discurso para movilizar a la audiencia?",
+      "context": "Leé detenidamente el siguiente fragmento de un discurso político pronunciado en un acto público en la Plaza Independencia de Montevideo: '¡Uruguayos, el porvenir no se escribe con promesas vacías, sino con el esfuerzo de cada uno de nosotros en las fábricas, en las escuelas y en los campos!'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La exclusión deliberada de un emisor personal mediante el uso de un código científico secreto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orador se integra con la audiencia ('nosotros') y el vocabulario es simple y popular."
+        },
+        {
+          "letter": "B",
+          "text": "La interpelación colectiva ('Uruguayos') que activa la función apelativa, combinada con la función emotiva y poética de la metáfora del 'porvenir', orientadas a cohesionar al grupo y promover un accionar común.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El vocativo inicial define al receptor colectivo. El orador usa recursos estéticos (poética) y pasión patriótica (emotiva) para impulsar un compromiso de esfuerzo social (función apelativa conativa)."
+        },
+        {
+          "letter": "C",
+          "text": "El uso estricto de la función fática para constatar la potencia técnica de los parlantes de la plaza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su discurso busca motivar políticamente a la población, no probar los micrófonos."
+        },
+        {
+          "letter": "D",
+          "text": "La preeminencia absoluta de la función metalingüística para debatir el origen etimológico del nombre 'Uruguay'.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se hace mención al origen filológico de las palabras usadas en el discurso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El discurso político es un género discursivo eminentemente persuasivo. Combina de forma magistral las funciones expresivas (para empatizar), poéticas (para seducir oratoriamente) y conativas (para movilizar la acción ciudadana).\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
+      "bundle_id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v19",
+      "statement": "¿Qué significa esta afirmación aplicada al análisis crítico de los textos que leemos a diario en el liceo o en los medios de comunicación?",
+      "context": "Leé con atención esta cita del célebre lingüista Roman Jakobson: 'La diversidad de los mensajes lingüísticos no radica en el monopolio de una única función, sino en la diferente jerarquía de sus funciones'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que cada texto que existe en el mundo posee única y exclusivamente una función del lenguaje pura y aislada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Jakobson sostiene lo opuesto: las funciones conviven de forma integrada, no aisladas."
+        },
+        {
+          "letter": "B",
+          "text": "Que para analizar un texto debemos descubrir qué función tiene la primacía o dominancia jerárquica, reconociendo que coexisten otras funciones secundarias subordinadas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! En cualquier texto real (un editorial, una conversación, un poema) conviven múltiples funciones comunicativas. El análisis lingüístico busca identificar la función dominante que define el género del texto, sin omitir las complementarias."
+        },
+        {
+          "letter": "C",
+          "text": "Que las funciones del lenguaje carecen de importancia práctica dado que el código escrito siempre las confunde.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modelo de Jakobson es una herramienta metodológica fundamental y muy precisa en la lingüística."
+        },
+        {
+          "letter": "D",
+          "text": "Que las funciones del lenguaje cambian aleatoriamente cada vez que un receptor diferente lee el mismo canal físico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la recepción varía, el texto posee marcas lingüísticas intencionales estructuradas por el emisor de forma de forma estable."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La teoría de Jakobson destaca que los mensajes reales son plurifuncionales. La clave del análisis reside en desentrañar la jerarquía interna: cuál es la función dominante o matriz y cuáles actúan de soporte.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.63,
+      "bundle_id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v20",
+      "statement": "¿Qué elemento del circuito de la comunicación ha fallado críticamente en este escenario y cómo afecta la decodificación del mensaje?",
+      "context": "Analizá la siguiente situación: Un docente en un liceo uruguayo escribe en el pizarrón: 'Mañana no habrá clase de apoyo por licencia reglamentaria', pero se retira sin firmar ni dar aviso verbal previo. Los estudiantes quedan desorientados porque no saben quién dejó la nota ni a qué grupo va dirigida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Falló el canal, debido a que el pizarrón de tiza no es un soporte físico válido para la escritura en el aula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pizarrón es un canal físico tradicional perfectamente funcional y visible para el aula."
+        },
+        {
+          "letter": "B",
+          "text": "Falló el código, pues el idioma español en que está escrito el mensaje resulta ininteligible para los liceales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto está en español estándar claro; el vocabulario fue descodificado lingüísticamente."
+        },
+        {
+          "letter": "C",
+          "text": "La descontextualización por ausencia de marcas explícitas del emisor (quién firma) y del receptor específico (a quién va dirigido) impide completar el referente, frustrando la efectividad de la función referencial objetiva del mensaje.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para que un mensaje escrito sea eficaz, el contexto situacional debe estar claro. Sin emisor identificado ni receptor delimitado, el referente queda flotando y los estudiantes no pueden operar la información de manera unívoca."
+        },
+        {
+          "letter": "D",
+          "text": "Falló la función poética, ya que la nota carecía de rima asonante y figuras literarias ornamentales de cortesía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una nota administrativa-escolar no requiere fines artísticos ni estéticos poéticos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La comunicación requiere de la contextualización situacional para su pleno éxito. Omitir el emisor o el receptor destinatario en un mensaje impreso o escrito desarticula la referencia indispensable para la acción.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "UY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "uy"
+    }
+  ]
+}

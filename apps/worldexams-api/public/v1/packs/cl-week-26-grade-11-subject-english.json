@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ingles",
+    "country": "cl",
+    "pack_id": "cl-week-26-grade-11-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.109Z"
+  },
+  "questions": [
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v1",
+      "statement": "Global citizenship is the idea that one's identity transcends geography or political borders.",
+      "context": "Defining the core concept.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "stays within",
+          "is_correct": false,
+          "feedback": "Incorrect. Global citizenship goes beyond borders."
+        },
+        {
+          "letter": "B",
+          "text": "transcends",
+          "is_correct": true,
+          "feedback": "Correct. Transcends means to go beyond the range or limits of."
+        },
+        {
+          "letter": "C",
+          "text": "obeys",
+          "is_correct": false,
+          "feedback": "Incorrect. While laws are obeyed, the 'identity' is what transcends."
+        },
+        {
+          "letter": "D",
+          "text": "ignores",
+          "is_correct": false,
+          "feedback": "Incorrect. It recognizes borders but places identity beyond them."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Transcends' is the appropriate verb for describing how an identity or idea goes beyond physical limits.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v2",
+      "statement": "Human rights are being protected by international treaties and organizations around the world.",
+      "context": "Discussing human rights.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are protecting",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "are being protected",
+          "is_correct": true,
+          "feedback": "Correct. Present continuous passive for an ongoing state."
+        },
+        {
+          "letter": "C",
+          "text": "protected",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "D",
+          "text": "have protected",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present continuous passive describes the ongoing, active protection of rights.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v3",
+      "statement": "If nations cooperated more effectively, many global crises would be resolved faster.",
+      "context": "Conditional about global cooperation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "cooperate",
+          "is_correct": false,
+          "feedback": "Incorrect. First conditional."
+        },
+        {
+          "letter": "B",
+          "text": "cooperated",
+          "is_correct": true,
+          "feedback": "Correct. Second conditional for a hypothetical present change."
+        },
+        {
+          "letter": "C",
+          "text": "have cooperated",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "would cooperate",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' not in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The second conditional 'if + past simple' describes the likely result of an imaginary increase in global cooperation.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v4",
+      "statement": "Cosmopolitanism is the ideology that all human beings belong to a single community, based on a shared morality.",
+      "context": "Article about \"cosmopolitanism\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "morality",
+          "is_correct": true,
+          "feedback": "Correct. Morality refers to principles concerning the distinction between right and wrong."
+        },
+        {
+          "letter": "B",
+          "text": "currency",
+          "is_correct": false,
+          "feedback": "Incorrect. Not all share the same money."
+        },
+        {
+          "letter": "C",
+          "text": "language",
+          "is_correct": false,
+          "feedback": "Incorrect. There are many different languages."
+        },
+        {
+          "letter": "D",
+          "text": "location",
+          "is_correct": false,
+          "feedback": "Incorrect. Human beings are spread globally."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Morality' (or shared ethics) is the foundation of the cosmopolitan idea of a single human community.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v5",
+      "statement": "Civic engagement involves individual and collective actions designed to identify and address issues of public concern.",
+      "context": "Discussion on \"civic engagement\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "private",
+          "is_correct": false,
+          "feedback": "Incorrect. Focus is on 'public' concern."
+        },
+        {
+          "letter": "B",
+          "text": "public",
+          "is_correct": true,
+          "feedback": "Correct. Civic engagement is about the community and society."
+        },
+        {
+          "letter": "C",
+          "text": "secret",
+          "is_correct": false,
+          "feedback": "Incorrect. Usually involves open participation."
+        },
+        {
+          "letter": "D",
+          "text": "trivial",
+          "is_correct": false,
+          "feedback": "Incorrect. Issues addressed are usually important."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Public' concern describes the shared social or political issues that civic engagement aims to improve.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v6",
+      "statement": "An NGO is a non-profit organization that operates independently of any government.",
+      "context": "Non-profit organizations.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agency",
+          "is_correct": false,
+          "feedback": "Incorrect. Agencies are often government-run."
+        },
+        {
+          "letter": "B",
+          "text": "NGO",
+          "is_correct": true,
+          "feedback": "Correct. Non-Governmental Organization."
+        },
+        {
+          "letter": "C",
+          "text": "Corporation",
+          "is_correct": false,
+          "feedback": "Incorrect. A corporation is usually for-profit."
+        },
+        {
+          "letter": "D",
+          "text": "Embassy",
+          "is_correct": false,
+          "feedback": "Incorrect. An embassy is a government office abroad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'NGO' is the acronym for organizations that work on social or environmental issues without government control.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v7",
+      "statement": "It is recommended that students learn about different cultures to foster global understanding.",
+      "context": "Recommendation for global awareness.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "learn",
+          "is_correct": true,
+          "feedback": "Correct. Subjunctive base form after 'recommended'."
+        },
+        {
+          "letter": "B",
+          "text": "learns",
+          "is_correct": false,
+          "feedback": "Incorrect. Third person singular not used in formal subjunctive."
+        },
+        {
+          "letter": "C",
+          "text": "to learn",
+          "is_correct": false,
+          "feedback": "Incorrect. Doesn't fit 'that' clause."
+        },
+        {
+          "letter": "D",
+          "text": "learning",
+          "is_correct": false,
+          "feedback": "Incorrect. Gerund."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The base form 'learn' is used in the subjunctive mood to express a recommendation.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v8",
+      "statement": "Advocacy is any action that speaks, writes, or acts on behalf of a particular cause or policy.",
+      "context": "Text on \"advocacy\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Silence",
+          "is_correct": false,
+          "feedback": "Incorrect. Advocacy is active."
+        },
+        {
+          "letter": "B",
+          "text": "Advocacy",
+          "is_correct": true,
+          "feedback": "Correct. The act of supporting or recommending a cause."
+        },
+        {
+          "letter": "C",
+          "text": "Denial",
+          "is_correct": false,
+          "feedback": "Incorrect. Rejecting something."
+        },
+        {
+          "letter": "D",
+          "text": "Indifference",
+          "is_correct": false,
+          "feedback": "Incorrect. Not caring."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Advocacy' is the specific term for active support and promotion of a cause.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v9",
+      "statement": "He had been volunteering for the Red Cross for two years before he was hired as a full-time staff member.",
+      "context": "Describing a past volunteer experience.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was volunteering",
+          "is_correct": false,
+          "feedback": "Incorrect. Past continuous doesn't emphasize duration as well here."
+        },
+        {
+          "letter": "B",
+          "text": "had been volunteering",
+          "is_correct": true,
+          "feedback": "Correct. Past perfect continuous for duration before a past point."
+        },
+        {
+          "letter": "C",
+          "text": "has been volunteering",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect continuous."
+        },
+        {
+          "letter": "D",
+          "text": "volunteered",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The past perfect continuous describes a continuous action (volunteering) leading up to a specific past event (being hired).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v10",
+      "statement": "Ethnocentrism is the tendency to view one's own culture as superior and to judge other cultures based on one's own standards.",
+      "context": "Critique of \"ethnocentrism\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "equality",
+          "is_correct": false,
+          "feedback": "Incorrect. Based on superiority."
+        },
+        {
+          "letter": "B",
+          "text": "superior",
+          "is_correct": true,
+          "feedback": "Correct. Superiority is the belief that one's culture is better than others."
+        },
+        {
+          "letter": "C",
+          "text": "inferior",
+          "is_correct": false,
+          "feedback": "Incorrect. Judge others as inferior, but view *one's own* as superior."
+        },
+        {
+          "letter": "D",
+          "text": "neutral",
+          "is_correct": false,
+          "feedback": "Incorrect. It is a biased view."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Superior' correctly identifies the biased perspective that characterizes ethnocentrism.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v11",
+      "statement": "Empathy is a key component of global citizenship, as it allows us to understand the experiences of people from different backgrounds.",
+      "context": "Defining \"empathy\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apathy",
+          "is_correct": false,
+          "feedback": "Incorrect. Lack of interest."
+        },
+        {
+          "letter": "B",
+          "text": "Empathy",
+          "is_correct": true,
+          "feedback": "Correct. Ability to understand others."
+        },
+        {
+          "letter": "C",
+          "text": "Envy",
+          "is_correct": false,
+          "feedback": "Incorrect. Jealousy."
+        },
+        {
+          "letter": "D",
+          "text": "Greed",
+          "is_correct": false,
+          "feedback": "Incorrect. Selfish desire."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Empathy' is fundamental for understanding and connecting with the global community.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v12",
+      "statement": "Migrants whose safety is at risk have the right to seek asylum in other countries.",
+      "context": "Passenger rights (adapted for global migrants).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "Incorrect. Subject pronoun."
+        },
+        {
+          "letter": "B",
+          "text": "whose",
+          "is_correct": true,
+          "feedback": "Correct. Possessive relative pronoun for 'migrants' safety'."
+        },
+        {
+          "letter": "C",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Whose' is used to show possession, linking the migrants to the safety that is at risk.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v13",
+      "statement": "Social justice is the view that everyone deserves equal economic, political, and social rights and opportunities.",
+      "context": "Discussing \"social justice\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wealth",
+          "is_correct": false,
+          "feedback": "Incorrect. Money-focused."
+        },
+        {
+          "letter": "B",
+          "text": "opportunities",
+          "is_correct": true,
+          "feedback": "Correct. Refers to chances for success."
+        },
+        {
+          "letter": "C",
+          "text": "outcomes",
+          "is_correct": false,
+          "feedback": "Incorrect. Not the standard phrase."
+        },
+        {
+          "letter": "D",
+          "text": "status",
+          "is_correct": false,
+          "feedback": "Incorrect. Position."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Opportunities' is a core part of the definition of social justice, emphasizing fair chances for all.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v14",
+      "statement": "You shouldn't judge cultural practices unless you understand the context in which they developed.",
+      "context": "Advice on cross-cultural interaction.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "if",
+          "is_correct": false,
+          "feedback": "Incorrect. 'If you understand' would mean don't judge if you *do* understand."
+        },
+        {
+          "letter": "B",
+          "text": "unless",
+          "is_correct": true,
+          "feedback": "Correct. 'Unless' means 'if not'."
+        },
+        {
+          "letter": "C",
+          "text": "although",
+          "is_correct": false,
+          "feedback": "Incorrect. Contrast."
+        },
+        {
+          "letter": "D",
+          "text": "whether",
+          "is_correct": false,
+          "feedback": "Incorrect. Choice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Unless' sets the condition that understanding context must happen before judgment can be fair.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v15",
+      "statement": "The author concludes that being an active citizen means taking responsibility for the well-being of the entire global community.",
+      "context": "Conclusion of an essay on \"active citizenship\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ignoring",
+          "is_correct": false,
+          "feedback": "Incorrect. Opposite of active."
+        },
+        {
+          "letter": "B",
+          "text": "taking responsibility",
+          "is_correct": true,
+          "feedback": "Correct. Implies active care and effort."
+        },
+        {
+          "letter": "C",
+          "text": "avoiding",
+          "is_correct": false,
+          "feedback": "Incorrect. Negative."
+        },
+        {
+          "letter": "D",
+          "text": "resenting",
+          "is_correct": false,
+          "feedback": "Incorrect. Negative feeling."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Taking responsibility' is the proactive behavior that defines active global citizenship.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v16",
+      "statement": "A stereotype is a widely held but fixed and oversimplified image or idea of a particular type of person or thing.",
+      "context": "Intercultural terms.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "fact",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "stereotype",
+          "is_correct": true,
+          "feedback": "Correct. Oversimplified and often biased idea."
+        },
+        {
+          "letter": "C",
+          "text": "news",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "slogan",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Stereotype' is the term for the reductive generalizations made about groups of people.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v17",
+      "statement": "I wish I had learned a second language when I was younger to better connect with people from other countries.",
+      "context": "Expressing a past regret about global awareness.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "learned",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "B",
+          "text": "had learned",
+          "is_correct": true,
+          "feedback": "Correct. 'Wish + past perfect' for past regret."
+        },
+        {
+          "letter": "C",
+          "text": "learn",
+          "is_correct": false,
+          "feedback": "Incorrect. Present."
+        },
+        {
+          "letter": "D",
+          "text": "would learn",
+          "is_correct": false,
+          "feedback": "Incorrect. Future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The 'wish + past perfect' structure is used to express regret about a past lack of action or knowledge.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v18",
+      "statement": "Cultural diplomacy involves the exchange of ideas, information, and art to foster mutual understanding between nations.",
+      "context": "Text about \"cultural diplomacy\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "conflict",
+          "is_correct": false,
+          "feedback": "Incorrect. Diplomacy aims to reduce conflict."
+        },
+        {
+          "letter": "B",
+          "text": "mutual understanding",
+          "is_correct": true,
+          "feedback": "Correct. The goal of positive intercultural exchange."
+        },
+        {
+          "letter": "C",
+          "text": "trade barriers",
+          "is_correct": false,
+          "feedback": "Incorrect. Diplomacy often works to remove these."
+        },
+        {
+          "letter": "D",
+          "text": "isolation",
+          "is_correct": false,
+          "feedback": "Incorrect. Diplomacy is about connection."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Mutual understanding' is the primary positive outcome sought through cultural diplomacy.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v19",
+      "statement": "The activist said that everyone had a role to play in protecting the environment.",
+      "context": "Reporting a speaker's call to action.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted in reported speech."
+        },
+        {
+          "letter": "B",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. Backshifted from 'has' to 'had'."
+        },
+        {
+          "letter": "C",
+          "text": "will have",
+          "is_correct": false,
+          "feedback": "Incorrect. Future."
+        },
+        {
+          "letter": "D",
+          "text": "have had",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, we backshift the tense of the original statement to show it was said in the past.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-v20",
+      "statement": "Ultimately, our shared humanity is more significant than the national or cultural differences that divide us.",
+      "context": "Final thought on humanity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "humanity",
+          "is_correct": true,
+          "feedback": "Correct. The quality of being human."
+        },
+        {
+          "letter": "B",
+          "text": "wealth",
+          "is_correct": false,
+          "feedback": "Incorrect. Unrelated to the social point."
+        },
+        {
+          "letter": "C",
+          "text": "power",
+          "is_correct": false,
+          "feedback": "Incorrect. Power often divides."
+        },
+        {
+          "letter": "D",
+          "text": "greed",
+          "is_correct": false,
+          "feedback": "Incorrect. Negative."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Shared humanity' is the central concept in global citizenship that emphasizes commonality over division.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W26-global-citizenship-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

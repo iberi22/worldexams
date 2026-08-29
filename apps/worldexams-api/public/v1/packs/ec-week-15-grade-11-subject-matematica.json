@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "ec",
+    "pack_id": "ec-week-15-grade-11-subject-matematicas",
+    "generated_at": "2026-07-03T19:49:45.153Z"
+  },
+  "questions": [
+    {
+      "id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v1",
+      "statement": "En el contexto del cálculo diferencial, ¿qué significa optimizar una función?",
+      "context": "Un administrador de un mercado en Quito desea entender el objetivo de la optimización matemática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Encontrar todos los puntos donde la función cruza el eje x.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es buscar raíces."
+        },
+        {
+          "letter": "B",
+          "text": "Determinar los valores máximos o mínimos de una función bajo ciertas condiciones.",
+          "is_correct": true,
+          "feedback": "Correcto. La optimización busca el \"mejor\" valor (máximo beneficio, mínimo costo, etc.)."
+        },
+        {
+          "letter": "C",
+          "text": "Simplificar la expresión algebraica de la función.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es simplificación algebraica, no optimización funcional."
+        },
+        {
+          "letter": "D",
+          "text": "Calcular el área total encerrada por la gráfica de la función.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde a la integración."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La optimización es la aplicación práctica de los extremos locales y globales para resolver problemas de eficiencia en diversos campos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v2",
+      "statement": "Al resolver un problema de optimización, ¿cuál es el propósito de la \"función objetivo\"?",
+      "context": "Pasos para resolver problemas de optimización.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es la magnitud que se desea maximizar o minimizar.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la función principal sobre la cual aplicaremos la derivada para hallar sus extremos."
+        },
+        {
+          "letter": "B",
+          "text": "Es la restricción que limita los valores de las variables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso se llama ecuación de restricción o ligadura."
+        },
+        {
+          "letter": "C",
+          "text": "Es la derivada de la función original.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada es una herramienta, no la función objetivo en sí."
+        },
+        {
+          "letter": "D",
+          "text": "Es el intervalo de valores permitidos para la variable independiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es el dominio del problema."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar la función objetivo es el paso crítico para traducir un problema verbal a un modelo matemático de optimización.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v3",
+      "statement": "Si $x$ es el ancho de los dos lados perpendiculares a la pared, ¿cuál es la expresión para el área $A$ del huerto?",
+      "context": "Un agricultor en Ibarra tiene 40 metros de malla para cercar un huerto rectangular aprovechando una pared existente (solo necesita cercar tres lados).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$A = x(40 - x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró que hay dos anchos $x$."
+        },
+        {
+          "letter": "B",
+          "text": "$A = x(40 - 2x)$",
+          "is_correct": true,
+          "feedback": "Correcto. El largo es $40 - 2x$. El área es ancho por largo: $x(40-2x)$."
+        },
+        {
+          "letter": "C",
+          "text": "$A = 2x + 2y$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la fórmula del perímetro, no del área."
+        },
+        {
+          "letter": "D",
+          "text": "$A = x^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto asume un huerto cuadrado sin considerar la restricción de la malla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Modelado de funciones de área sujetas a restricciones de perímetro en contextos de producción agrícola.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuáles son esos dos números?",
+      "context": "Optimización de números. Se buscan dos números positivos cuya suma sea 20 y cuyo producto sea máximo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 y 15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su producto es 75."
+        },
+        {
+          "letter": "B",
+          "text": "10 y 10",
+          "is_correct": true,
+          "feedback": "Correcto. $P(x) = x(20-x) = 20x - x^2$. $P'(x) = 20 - 2x = 0 \\Rightarrow x = 10$. El otro número es $20-10=10$."
+        },
+        {
+          "letter": "C",
+          "text": "8 y 12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su producto es 96."
+        },
+        {
+          "letter": "D",
+          "text": "1 y 19",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su producto es el mínimo posible para números enteros en este rango."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Demostración de que para una suma constante, el producto máximo se alcanza cuando los sumandos son iguales (un cuadrado en términos geométricos).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v5",
+      "statement": "Determine el valor de $x$ que maximiza el volumen de la caja.",
+      "context": "Un fabricante de cajas en Guayaquil desea construir una caja abierta a partir de una lámina cuadrada de 12 cm de lado, cortando cuadrados iguales de lado $x$ en las esquinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 3$ cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor anula la derivada pero resulta en un volumen menor o es un extremo del dominio."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2$ cm",
+          "is_correct": true,
+          "feedback": "Correcto. $V(x) = x(12-2x)^2 = 4x^3 - 48x^2 + 144x$. $V'(x) = 12x^2 - 96x + 144 = 0$. Dividiendo por 12: $x^2 - 8x + 12 = 0 \\Rightarrow (x-2)(x-6)=0$. Como $x<6$, la respuesta es 2."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 4$ cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $x=4$, el volumen es menor que en $x=2$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 1$ cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. El volumen es positivo pero no es el máximo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución del clásico problema de la caja de cartón aplicando el análisis de puntos críticos de un polinomio de tercer grado.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la relación entre la altura $h$ y el radio $r$ que minimiza el área superficial total (y por tanto el costo)?",
+      "context": "Minimizando el costo de materiales. Una lata cilíndrica debe contener un volumen de $500$ cm³. El costo del material es el mismo para la base, la tapa y el lateral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$h = r$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta relación no es óptima para cilindros con tapa."
+        },
+        {
+          "letter": "B",
+          "text": "$h = 2r$",
+          "is_correct": true,
+          "feedback": "Correcto. Para un volumen dado, el área superficial de un cilindro cerrado se minimiza cuando el diámetro es igual a la altura ($2r = h$)."
+        },
+        {
+          "letter": "C",
+          "text": "$h = 4r$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resulta en una lata muy delgada y alta con exceso de área lateral."
+        },
+        {
+          "letter": "D",
+          "text": "$h = \\pi r$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor sin fundamento matemático en este problema de optimización."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Determinación de proporciones óptimas en envases industriales para reducir el desperdicio de materia prima.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v7",
+      "statement": "¿Qué principio de la física se aplica para resolver este problema de optimización del tiempo?",
+      "context": "Una empresa de logística en Manta quiere minimizar el tiempo de viaje. Un repartidor debe ir de un punto A en la playa a un punto B en el mar. Corre a 5 m/s en la arena y nada a 3 m/s en el agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ley de Gravitación Universal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay relación con fuerzas gravitatorias."
+        },
+        {
+          "letter": "B",
+          "text": "Ley de Snell (o principio de tiempo mínimo).",
+          "is_correct": true,
+          "feedback": "Correcto. Aunque es un problema de cálculo, el resultado coincide con la refracción de la luz que busca el camino de menor tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Tercera Ley de Newton.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Relacionada con acción y reacción, no con optimización de rutas."
+        },
+        {
+          "letter": "D",
+          "text": "Principio de Arquímedes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Relacionado con flotabilidad, no con velocidad de desplazamiento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Conexión entre problemas de optimización de trayectorias y leyes fundamentales de la óptica y la cinemática.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el precio de la entrada que maximiza el ingreso total?",
+      "context": "Maximización de ingresos. Un teatro en Quito tiene capacidad para 500 personas. Si la entrada cuesta $20, se llena. Por cada $1 de aumento en el precio, se pierden 10 espectadores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ingreso: $25 \\cdot 450 = 11250$."
+        },
+        {
+          "letter": "B",
+          "text": "$30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ingreso: $30 \\cdot 400 = 12000$."
+        },
+        {
+          "letter": "C",
+          "text": "$35",
+          "is_correct": true,
+          "feedback": "Correcto. Ingreso $I(x) = (20+x)(500-10x) = 10000 + 300x - 10x^2$. Derivada: $300 - 20x = 0 \\Rightarrow x = 15$. Precio: $20+15 = 35$."
+        },
+        {
+          "letter": "D",
+          "text": "$40",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ingreso: $40 \\cdot 300 = 12000$. Es menor que el máximo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicación del cálculo para encontrar el punto de equilibrio entre el precio unitario y la demanda para maximizar la recaudación.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la variable que generalmente se utiliza para modelar este problema de costo mínimo?",
+      "context": "Un cable de electricidad debe conectar una planta en la orilla de un río de 300 m de ancho con una ciudad ubicada 800 m río abajo en la otra orilla. El costo por tierra es menor que por agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La distancia desde el punto directamente opuesto a la planta hasta donde el cable sale del agua.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta distancia $x$ permite definir el tramo hipotenusa (agua) y el tramo lineal (tierra)."
+        },
+        {
+          "letter": "B",
+          "text": "La profundidad del río en el centro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No afecta la longitud del cable en un modelo 2D estándar."
+        },
+        {
+          "letter": "C",
+          "text": "La corriente del río en m/s.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un problema de geometría y costos, no de dinámica de fluidos."
+        },
+        {
+          "letter": "D",
+          "text": "El grosor del cable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se asume constante para el cálculo de la trayectoria óptima."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Estructuración de modelos de optimización para infraestructura utilizando el Teorema de Pitágoras y funciones de costo por tramos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v10",
+      "statement": "¿Cuáles deben ser las dimensiones para que la cantidad de cerca necesaria sea mínima?",
+      "context": "Perímetro mínimo para un área dada. Se desea diseñar un jardín rectangular de 36 m² de área en un parque de Cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 m y 9 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Perímetro: $2(4+9) = 26$ m."
+        },
+        {
+          "letter": "B",
+          "text": "6 m y 6 m",
+          "is_correct": true,
+          "feedback": "Correcto. Para un área fija, el rectángulo de perímetro mínimo es el cuadrado. $\\sqrt{36} = 6$. Perímetro: $24$ m."
+        },
+        {
+          "letter": "C",
+          "text": "3 m y 12 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Perímetro: $2(3+12) = 30$ m."
+        },
+        {
+          "letter": "D",
+          "text": "2 m y 18 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Perímetro: $2(2+18) = 40$ m."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Deducción de que el cuadrado es el polígono de cuatro lados más eficiente en términos de relación área/perímetro.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el área máxima que puede tener dicho rectángulo?",
+      "context": "Un rectángulo está inscrito en un triángulo rectángulo con catetos de 3 y 4 unidades. Dos lados del rectángulo están sobre los catetos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 unidades²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es el área del triángulo completo."
+        },
+        {
+          "letter": "B",
+          "text": "3 unidades²",
+          "is_correct": true,
+          "feedback": "Correcto. El área máxima de un rectángulo inscrito en un triángulo es siempre la mitad del área del triángulo: $(3 \\cdot 4 / 2) / 2 = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "4 unidades²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excede el límite de optimización para este caso."
+        },
+        {
+          "letter": "D",
+          "text": "2 unidades²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se puede lograr un área mayor con las dimensiones adecuadas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso de la semejanza de triángulos para establecer la relación entre las variables del rectángulo inscrito.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la función de costo $C(x)$ a minimizar? (Use $k$ como el costo unitario del material lateral).",
+      "context": "Un envase de cartón para leche en Ambato debe tener capacidad de 1 litro ($1000$ cm³). Su base es cuadrada de lado $x$. El costo del material de la base y tapa es el doble que el de las paredes laterales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$C(x) = k(x^2 + 4xh)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró que la base y tapa son más caras."
+        },
+        {
+          "letter": "B",
+          "text": "$C(x) = k(4x^2 + \\frac{4000}{x})$",
+          "is_correct": true,
+          "feedback": "Correcto. Costo base/tapa: $2x^2 \\cdot 2k = 4kx^2$. Costo lateral: $4xh \\cdot k$. Como $V = x^2h = 1000 \\Rightarrow h = 1000/x^2$. Costo lateral: $4k(1000/x) = 4000k/x$."
+        },
+        {
+          "letter": "C",
+          "text": "$C(x) = k(2x^2 + 4000/x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la ponderación del costo de las tapas."
+        },
+        {
+          "letter": "D",
+          "text": "$C(x) = k(x^2 + 1000/x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Modelo de costo incompleto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Modelado de problemas de optimización con costos diferenciados por tipo de superficie, común en ingeniería de empaques.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v13",
+      "statement": "¿Qué función es más conveniente minimizar para simplificar los cálculos?",
+      "context": "Distancia mínima a una curva. Queremos encontrar el punto sobre la parábola $y = x^2$ que está más cerca del punto $(0, 5)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La función de la parábola $y = x^2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta función define la restricción, no el objetivo."
+        },
+        {
+          "letter": "B",
+          "text": "El cuadrado de la distancia: $D^2 = (x-0)^2 + (y-5)^2$.",
+          "is_correct": true,
+          "feedback": "Correcto. Minimizar el cuadrado de la distancia es equivalente a minimizar la distancia y evita trabajar con raíces cuadradas en la derivada."
+        },
+        {
+          "letter": "C",
+          "text": "La pendiente de la recta normal a la curva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque se puede usar para hallar el punto, no es la función objetivo primaria."
+        },
+        {
+          "letter": "D",
+          "text": "La suma de las coordenadas $x+y$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto no representa la distancia geométrica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Técnica de simplificación de funciones objetivo (uso del cuadrado de la distancia) para agilizar la resolución de problemas geométricos.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v14",
+      "statement": "¿Qué ángulo $\\theta$ con la horizontal deben tener los lados para que el área de la sección sea máxima (y transporte más agua)?",
+      "context": "Un canal de agua en la provincia de Loja tiene una sección transversal en forma de trapecio isósceles. El fondo y los lados miden 2 metros cada uno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$45^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es el ángulo de eficiencia máxima para un trapecio."
+        },
+        {
+          "letter": "B",
+          "text": "$60^\\circ$",
+          "is_correct": true,
+          "feedback": "Correcto. El área máxima para un canal de tres lados iguales se obtiene cuando forma la mitad de un hexágono regular, lo que implica ángulos de $60^\\circ$."
+        },
+        {
+          "letter": "C",
+          "text": "$30^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El canal resultaría demasiado ancho y poco profundo."
+        },
+        {
+          "letter": "D",
+          "text": "$90^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto formaría un rectángulo, que es menos eficiente que el trapecio óptimo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Optimización de secciones hidráulicas para maximizar el caudal, aplicando trigonometría y cálculo diferencial.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v15",
+      "statement": "¿Cuántas unidades debe producir para obtener la utilidad máxima local?",
+      "context": "Un fabricante de ropa en Otavalo estima que si produce $x$ unidades, su utilidad es $U(x) = -x^3 + 300x^2 - 22500x - 2000$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. En este punto la utilidad es decreciente."
+        },
+        {
+          "letter": "B",
+          "text": "150 unidades",
+          "is_correct": true,
+          "feedback": "Correcto. $U'(x) = -3x^2 + 600x - 22500$. Para que 150 sea un punto crítico, la derivada debe ser cero. (Nota: Ajustando valores para raíces exactas). Si $U'(x) = -3(x-50)(x-150) = -3x^2 + 600x - 22500$. El máximo ocurre en $x=150$ ya que la parábola de la derivada abre hacia abajo entre sus raíces."
+        },
+        {
+          "letter": "C",
+          "text": "200 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor fuera de la zona de utilidad máxima."
+        },
+        {
+          "letter": "D",
+          "text": "100 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Punto de inflexión del modelo de utilidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis de funciones de utilidad de tercer grado, identificando el máximo relevante dentro del contexto de producción.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v16",
+      "statement": "¿Por qué es fundamental realizar la prueba de la segunda derivada (o analizar los signos de la primera) al finalizar un problema de optimización?",
+      "context": "Verificación de la concavidad en un problema de optimización.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para asegurar que el punto crítico es una raíz de la función.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No buscamos raíces, buscamos extremos."
+        },
+        {
+          "letter": "B",
+          "text": "Para confirmar si el punto hallado es efectivamente un máximo o un mínimo, según lo solicitado.",
+          "is_correct": true,
+          "feedback": "Correcto. Un punto crítico solo indica un posible extremo; la concavidad confirma su naturaleza."
+        },
+        {
+          "letter": "C",
+          "text": "Para simplificar el resultado final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene fines de simplificación."
+        },
+        {
+          "letter": "D",
+          "text": "Para verificar si la función es continua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se asume continuidad para aplicar las reglas de derivación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Importancia del rigor matemático al clasificar puntos críticos para evitar errores de interpretación en la toma de decisiones.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la altura $h$ de dicho cilindro?",
+      "context": "Cilindro inscrito en una esfera. Se desea inscribir un cilindro circular recto de volumen máximo en una esfera de radio $R = 3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$h = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor igual al radio de la esfera, no optimiza el volumen."
+        },
+        {
+          "letter": "B",
+          "text": "$h = 2\\sqrt{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. El volumen $V = \\pi r^2 h$. Por Pitágoras, $r^2 + (h/2)^2 = R^2 \\Rightarrow r^2 = R^2 - h^2/4$. $V(h) = \\pi h (R^2 - h^2/4)$. $V'(h) = \\pi (R^2 - 3h^2/4) = 0 \\Rightarrow h = 2R/\\sqrt{3}$. Para $R=3$, $h = 6/\\sqrt{3} = 2\\sqrt{3}$."
+        },
+        {
+          "letter": "C",
+          "text": "$h = \\sqrt{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó el factor 2 en la relación de altura."
+        },
+        {
+          "letter": "D",
+          "text": "$h = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estimación sin fundamento en el análisis de derivadas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Optimización de volúmenes inscritos en cuerpos geométricos curvos utilizando restricciones trigonométricas o pitagóricas.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v18",
+      "statement": "¿Qué propiedad de los ángulos se cumple en el punto de reflexión óptimo?",
+      "context": "Reflexión de la luz. Un rayo de luz viaja del punto A al punto B reflejándose en un espejo plano (eje x). El camino óptimo minimiza la distancia total.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ángulo de incidencia es el doble del ángulo de reflexión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Violación de las leyes ópticas y geométricas."
+        },
+        {
+          "letter": "B",
+          "text": "El ángulo de incidencia es igual al ángulo de reflexión.",
+          "is_correct": true,
+          "feedback": "Correcto. Este resultado de la optimización de la distancia es la base de la ley de reflexión de la luz."
+        },
+        {
+          "letter": "C",
+          "text": "La suma de los ángulos es $90^\\circ$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una propiedad general del camino óptimo."
+        },
+        {
+          "letter": "D",
+          "text": "Los ángulos son complementarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confusión de términos geométricos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso del cálculo diferencial para demostrar leyes físicas clásicas a partir del principio de minimización de trayectorias.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.3,
+      "bundle_id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el tamaño de pedido $x$ que minimiza el costo total y cuál es ese costo mínimo?",
+      "context": "Un problema de inventarios en una fábrica de zapatos de Latacunga. El costo total anual es $C(x) = \\frac{500000}{x} + 2x + 10000$, donde $x$ es el tamaño de cada pedido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 100$, Costo = $15000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El costo unitario por pedido es muy alto."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 500$, Costo = $12000$",
+          "is_correct": true,
+          "feedback": "Correcto. $C'(x) = -500000/x^2 + 2 = 0 \\Rightarrow 2x^2 = 500000 \\Rightarrow x^2 = 250000 \\Rightarrow x = 500$. Costo: $500000/500 + 2(500) + 10000 = 1000 + 1000 + 10000 = 12000$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 1000$, Costo = $12500$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Supera el punto de equilibrio de costos de almacenamiento."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 250$, Costo = $12500$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Costos de pedido demasiado elevados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación del modelo de la Cantidad Económica de Pedido (EOQ) mediante el análisis de extremos de funciones racionales.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.25,
+      "bundle_id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el valor de la coordenada $x$ del vértice superior derecho que maximiza el área?",
+      "context": "Un problema de optimización en una superficie curva. Se desea encontrar el rectángulo de mayor área con base en el eje x y vértices superiores en la elipse $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = a/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Relación simplista que no surge del cálculo de derivadas."
+        },
+        {
+          "letter": "B",
+          "text": "$x = a/\\sqrt{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Área $A = 2x y = 2x b \\sqrt{1 - x^2/a^2}$. Al derivar e igualar a cero, se obtiene $x = a/\\sqrt{2}$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = a/\\sqrt{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor típico de cilindros en esferas, no de rectángulos en elipses."
+        },
+        {
+          "letter": "D",
+          "text": "$x = a/4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Área demasiado pequeña."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Modelado y optimización avanzada de figuras inscritas en cónicas utilizando derivación de funciones compuestas con parámetros.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "EC-MAT-11-2026-W15-problemas-de-optimizacion-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    }
+  ]
+}

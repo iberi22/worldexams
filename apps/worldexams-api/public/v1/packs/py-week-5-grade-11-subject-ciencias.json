@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "py",
+    "pack_id": "py-week-5-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-05T19:40:28.846Z"
+  },
+  "questions": [
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v1",
+      "statement": "¿En qué etapa de la mitosis las cromátidas hermanas se separan de manera simultánea y migran hacia polos opuestos?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Liz y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anafase",
+          "is_correct": true,
+          "feedback": "¡Correcto! Anafase responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La dineína y la cinesina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dineína y la cinesina no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Las histonas nucleares H2A, H2B, H3 y H4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las histonas nucleares H2A, H2B, H3 y H4 es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Quiasma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quiasma describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Anafase constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v2",
+      "statement": "¿En qué subfase del ciclo celular somático eucariota ocurre la duplicación del ADN cromosómico?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Joaquín y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fase S",
+          "is_correct": true,
+          "feedback": "¡Correcto! Fase S responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "El complejo promotor de la anafase (APC/C)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El complejo promotor de la anafase (APC/C) no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La dineína y la cinesina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dineína y la cinesina es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Telofase",
+          "is_correct": false,
+          "feedback": "Incorrecto. Telofase describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Fase S constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v3",
+      "statement": "¿Qué estructura proteica en el centrómero de los cromosomas sirve como punto de anclaje para los microtúbulos del huso?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Sofía y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cinetocoro",
+          "is_correct": true,
+          "feedback": "¡Correcto! El cinetocoro responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La dineína y la cinesina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dineína y la cinesina no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La meiosis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La meiosis es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La fisión binaria",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fisión binaria describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de El cinetocoro constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.79,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v4",
+      "statement": "¿Qué proceso de división nuclear mitótica mantiene rigurosamente constante la ploidía genómica en las células hijas?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Valentina y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mitosis",
+          "is_correct": true,
+          "feedback": "¡Correcto! La mitosis responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Fase S",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fase S no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Las neuronas maduras",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las neuronas maduras es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Zigoteno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Zigoteno describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La mitosis constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v5",
+      "statement": "¿Qué proceso divisional nuclear especializado rinde cuatro células haploides a partir de una célula progenitora diploide?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Jorge y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La meiosis",
+          "is_correct": true,
+          "feedback": "¡Correcto! La meiosis responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Fase G1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fase G1 no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La dineína y la cinesina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dineína y la cinesina es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "El cinetocoro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cinetocoro describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La meiosis constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v6",
+      "statement": "¿Durante qué fase mitótica se vuelve a formar la envoltura nuclear alrededor de los cromosomas descondensados?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Benjamín y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Telofase",
+          "is_correct": true,
+          "feedback": "¡Correcto! Telofase responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Fase G1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fase G1 no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Zigoteno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Zigoteno es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La dineína y la cinesina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dineína y la cinesina describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Telofase constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v7",
+      "statement": "¿Qué subfase de la profase I de la meiosis se caracteriza por el apareamiento y sinapsis de cromosomas homólogos?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Valentina y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zigoteno",
+          "is_correct": true,
+          "feedback": "¡Correcto! Zigoteno responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Anafase",
+          "is_correct": false,
+          "feedback": "Incorrecto. Anafase no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La fisión binaria",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fisión binaria es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La dineína y la cinesina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dineína y la cinesina describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Zigoteno constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v8",
+      "statement": "¿Cómo se denomina la unión visible de cromátidas no hermanas donde se ha producido un entrecruzamiento de ADN?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Sebastián y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quiasma",
+          "is_correct": true,
+          "feedback": "¡Correcto! Quiasma responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Fase S",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fase S no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La mitosis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mitosis es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Metafase I",
+          "is_correct": false,
+          "feedback": "Incorrecto. Metafase I describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Quiasma constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.64,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v9",
+      "statement": "¿En qué fase de la meiosis I los pares de cromosomas homólogos se alinean de manera aleatoria en el ecuador celular?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Joaquín y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metafase I",
+          "is_correct": true,
+          "feedback": "¡Correcto! Metafase I responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La mitosis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mitosis no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "El complejo promotor de la anafase (APC/C)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El complejo promotor de la anafase (APC/C) es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Las neuronas maduras",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las neuronas maduras describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Metafase I constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.61,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v10",
+      "statement": "¿Qué proteína motora interactúa con los microtúbulos cinetocóricos para mover los cromosomas durante la anafase?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Sofía y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La dineína y la cinesina",
+          "is_correct": true,
+          "feedback": "¡Correcto! La dineína y la cinesina responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Meiosis II",
+          "is_correct": false,
+          "feedback": "Incorrecto. Meiosis II no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Fase S",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fase S es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "El fragmoplasto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmoplasto describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La dineína y la cinesina constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.58,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v11",
+      "statement": "¿Qué molécula del ciclo celular, regulada por ciclinas, controla el paso de la fase G2 a la fase M?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Liz y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La quinasa dependiente de ciclina (CDK)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La quinasa dependiente de ciclina (CDK) responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Zigoteno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Zigoteno no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Meiosis II",
+          "is_correct": false,
+          "feedback": "Incorrecto. Meiosis II es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La fisión binaria",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fisión binaria describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La quinasa dependiente de ciclina (CDK) constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v12",
+      "statement": "¿En qué etapa de la interfase la célula crece, sintetiza proteínas y acumula organelos sin duplicar su material genético?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Gladys y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fase G1",
+          "is_correct": true,
+          "feedback": "¡Correcto! Fase G1 responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Las neuronas maduras",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las neuronas maduras no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Los microtúbulos polares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los microtúbulos polares es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Metafase I",
+          "is_correct": false,
+          "feedback": "Incorrecto. Metafase I describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Fase G1 constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v13",
+      "statement": "¿Qué tipo de células somáticas humanas entran en una fase de latencia permanente llamada G0 sin dividirse más?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Joaquín y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las neuronas maduras",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las neuronas maduras responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Fase G1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fase G1 no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Fase S",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fase S es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La fisión binaria",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fisión binaria describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Las neuronas maduras constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.49,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v14",
+      "statement": "¿Qué estructura citoesquelética se encarga de realizar la citocinesis en las células de las raíces de las plantas?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Joaquín y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El fragmoplasto",
+          "is_correct": true,
+          "feedback": "¡Correcto! El fragmoplasto responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La quinasa dependiente de ciclina (CDK)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La quinasa dependiente de ciclina (CDK) no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La dineína y la cinesina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dineína y la cinesina es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La mitosis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mitosis describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de El fragmoplasto constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.46,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v15",
+      "statement": "¿Qué tipo de división celular bacteriana asexual duplica el ADN circular y divide la célula en dos de forma equitativa?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Sofía y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fisión binaria",
+          "is_correct": true,
+          "feedback": "¡Correcto! La fisión binaria responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "El fragmoplasto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmoplasto no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La quinasa dependiente de ciclina (CDK)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La quinasa dependiente de ciclina (CDK) es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Anafase",
+          "is_correct": false,
+          "feedback": "Incorrecto. Anafase describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La fisión binaria constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v16",
+      "statement": "¿Durante qué división meiótica (I o II) se separan físicamente las cromátidas hermanas sin recombinación previa?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Camila y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Meiosis II",
+          "is_correct": true,
+          "feedback": "¡Correcto! Meiosis II responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Zigoteno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Zigoteno no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Las histonas nucleares H2A, H2B, H3 y H4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las histonas nucleares H2A, H2B, H3 y H4 es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Fase S",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fase S describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Meiosis II constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.4,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v17",
+      "statement": "¿Qué anomalía en la segregación cromosómica durante la anafase meiótica puede ocasionar una trisomía en el cigoto?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Santiago y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La no disyunción cromosómica",
+          "is_correct": true,
+          "feedback": "¡Correcto! La no disyunción cromosómica responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La mitosis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mitosis no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "El complejo promotor de la anafase (APC/C)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El complejo promotor de la anafase (APC/C) es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Fase S",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fase S describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La no disyunción cromosómica constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.37,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v18",
+      "statement": "¿Qué filamento microtubular especial no se ancla a ningún cromosoma pero estabiliza el huso de un polo a otro?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Jorge y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los microtúbulos polares",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los microtúbulos polares responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Fase G1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fase G1 no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La dineína y la cinesina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dineína y la cinesina es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Anafase",
+          "is_correct": false,
+          "feedback": "Incorrecto. Anafase describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Los microtúbulos polares constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.34,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v19",
+      "statement": "¿Qué tipo de proteínas histónicas forman el núcleo del nucleosoma alrededor del cual se enrolla el ADN cromosómico?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Liz y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las histonas nucleares H2A, H2B, H3 y H4",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las histonas nucleares H2A, H2B, H3 y H4 responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La meiosis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La meiosis no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Fase G1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fase G1 es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "El fragmoplasto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmoplasto describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Las histonas nucleares H2A, H2B, H3 y H4 constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.31,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-v20",
+      "statement": "¿Qué complejo multiproteico degrada selectivamente las ciclinas promoviendo la salida de la mitosis celular?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Ramón y su grupo investigan sobre División celular: mitosis y meiosis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El complejo promotor de la anafase (APC/C)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El complejo promotor de la anafase (APC/C) responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Quiasma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quiasma no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "El fragmoplasto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmoplasto es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Las histonas nucleares H2A, H2B, H3 y H4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las histonas nucleares H2A, H2B, H3 y H4 describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de El complejo promotor de la anafase (APC/C) constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.28,
+      "bundle_id": "PY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}

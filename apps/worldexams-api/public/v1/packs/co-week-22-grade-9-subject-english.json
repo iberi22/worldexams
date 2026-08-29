@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-22-grade-9-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.944Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle-v1",
+      "statement": "There is a lot of traffic. There ________ been an accident.",
+      "context": "Traffic jam cause.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "must have",
+          "is_correct": true,
+          "feedback": "Correct! Logical deduction about the past."
+        },
+        {
+          "letter": "C",
+          "text": "can't have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "should have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos *must have* para hacer una deducción lógica sobre algo que probablemente sucedió.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle-v2",
+      "statement": "The city ________ invested more in the metro years ago.",
+      "context": "Missed opportunity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "might have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "should have",
+          "is_correct": true,
+          "feedback": "Correct! Used for past regrets."
+        },
+        {
+          "letter": "D",
+          "text": "could have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "*Should have* se utiliza para expresar que algo habría sido una buena idea en el pasado.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle-v3",
+      "statement": "The building was demolished. It ________ been unsafe.",
+      "context": "Demolished building.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can't have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "might have",
+          "is_correct": true,
+          "feedback": "Correct! Expresses a past possibility."
+        },
+        {
+          "letter": "C",
+          "text": "should have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "mustn't have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos *might have* cuando mencionamos una de las posibles razones en el pasado.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle-v4",
+      "statement": "\"The project failed because of the budget.\"\n\"That ________! There was plenty of money.\"",
+      "context": "Denying past fact.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must have been true",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "might have been true",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "can't have been true",
+          "is_correct": true,
+          "feedback": "Correct! Strong negative deduction about the past."
+        },
+        {
+          "letter": "D",
+          "text": "shouldn't have been true",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "*Can't have been* se utiliza cuando estamos seguros de que algo no ocurrió.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle-v5",
+      "statement": "They ________ built the highway so close; it's too noisy.",
+      "context": "Planning decision.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "shouldn't have",
+          "is_correct": true,
+          "feedback": "Correct! Used for criticizing a past decision."
+        },
+        {
+          "letter": "C",
+          "text": "couldn't have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "might not have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para criticar una decisión tomada en el pasado, usamos *shouldn't have*.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle-v6",
+      "statement": "If they had asked, they ________ found a better solution.",
+      "context": "Alternative past.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "should have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "could have",
+          "is_correct": true,
+          "feedback": "Correct! Past possibility that wasn't realized."
+        },
+        {
+          "letter": "D",
+          "text": "can't have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "*Could have* se usa para indicar una posibilidad que existió pero no se concretó.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle-v7",
+      "statement": "Which sentence expresses **strong criticism** of inaction?",
+      "context": "Strong criticism.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He might have forgotten.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "He could have told us.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "He should have warned us.",
+          "is_correct": true,
+          "feedback": "Correct! Used for moral or practical criticism."
+        },
+        {
+          "letter": "D",
+          "text": "He must have missed it.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificar la intención comunicativa de cada modal es fundamental.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle-v8",
+      "statement": "\"The bank was robbed. Julian ________ it; he was with me.\"",
+      "context": "Impossibility.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "mustn't have done",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "couldn't have done",
+          "is_correct": true,
+          "feedback": "Correct! Indicates physical impossibility."
+        },
+        {
+          "letter": "C",
+          "text": "might not have done",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "shouldn't have done",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "*Couldn't have* indica que un evento pasado era imposible.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle-v9",
+      "statement": "The box is empty. The campaign ________ been successful.",
+      "context": "Campaign success.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must have",
+          "is_correct": true,
+          "feedback": "Correct! Positive deduction based on evidence."
+        },
+        {
+          "letter": "B",
+          "text": "might have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "can't have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "should have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Usamos *must have* cuando las pistas actuales llevan a una conclusión lógica.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle-v10",
+      "statement": "Identify the error:\n\"They **must had noticed** (B) the state of the cables.\"",
+      "context": "Identifying error.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "could have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "must had noticed",
+          "is_correct": true,
+          "feedback": "Correct! Should be \"must have noticed\"."
+        },
+        {
+          "letter": "C",
+          "text": "should have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "can't have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La estructura es fija: *modal + have + past participle*.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle-v11",
+      "statement": "Which provides the most **logical analysis** of the cause?",
+      "context": "Water crisis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The residents might not save water.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "The government can't have built more.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Planners must have underestimated population growth.",
+          "is_correct": true,
+          "feedback": "Correct! Strong analysis of past error."
+        },
+        {
+          "letter": "D",
+          "text": "They should have water.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analiza fallos sistémicos mediante el uso de modales de pasado.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle-v12",
+      "statement": "\"The council ________ allowed it to close. They ________ turned it into a center.\"",
+      "context": "Urban decay.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must / must",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "can't / might",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "shouldn't have / could have",
+          "is_correct": true,
+          "feedback": "Correct! Criticism and alternative suggestion."
+        },
+        {
+          "letter": "D",
+          "text": "might not / should",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evalúa la combinación de crítica y sugerencia de alternativas pasadas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-9-2026-W22-urban-challenges-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

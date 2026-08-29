@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pe",
+    "pack_id": "pe-week-29-grade-11-subject-matematicas",
+    "generated_at": "2026-07-03T19:49:46.434Z"
+  },
+  "questions": [
+    {
+      "id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes medidas representa el valor que aparece con mayor frecuencia en un conjunto de datos?",
+      "context": "Un estudiante en Lima repasa los conceptos fundamentales de la estadística descriptiva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Media aritmética",
+          "is_correct": false,
+          "feedback": "Incorrecto. La media es el promedio aritmético de los datos."
+        },
+        {
+          "letter": "B",
+          "text": "Mediana",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mediana es el valor central de los datos ordenados."
+        },
+        {
+          "letter": "C",
+          "text": "Moda",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición, la moda es el valor o categoría que tiene la mayor frecuencia absoluta en la muestra."
+        },
+        {
+          "letter": "D",
+          "text": "Desviación estándar",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La moda es la medida de tendencia central que identifica el valor más frecuente en una distribución de datos. Es la única medida de tendencia central aplicable también a variables cualitativas nominales.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v2",
+      "statement": "En una serie de datos ordenada de menor a mayor, ¿qué parámetro estadístico divide a la muestra exactamente en dos partes porcentualmente iguales?",
+      "context": "Se analiza las calificaciones de un grupo de estudiantes en una academia de Trujillo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Media",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Mediana",
+          "is_correct": true,
+          "feedback": "Correcto. La mediana es el valor de la variable de posición central en un conjunto de datos ordenados."
+        },
+        {
+          "letter": "C",
+          "text": "Rango",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Varianza",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La mediana es el parámetro que deja el mismo número de datos por debajo y por encima de él. Corresponde al percentil 50 o al segundo cuartil ($Q_2$).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v3",
+      "statement": "Las ventas diarias fueron: 12, 15, 12, 18, 20, 12 y 16 sacos. Determine la media aritmética de las ventas de la semana.",
+      "context": "Un comerciante en Arequipa registra sus ventas diarias de sacos de arroz durante una semana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 sacos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la moda de los datos."
+        },
+        {
+          "letter": "B",
+          "text": "14 sacos",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "15 sacos",
+          "is_correct": true,
+          "feedback": "Correcto. Suma = 105. Media = 105 / 7 = 15."
+        },
+        {
+          "letter": "D",
+          "text": "16 sacos",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La media aritmética se halla sumando todos los valores observados y dividiendo el resultado por la cantidad total de datos ($n=7$). Suma $= 105$. Media $= 105 / 7 = 15$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v4",
+      "statement": "Las estaturas en metros son: 1.20, 1.15, 1.30, 1.25 y 1.10. Determine la mediana de estas medidas.",
+      "context": "Medición de la estatura de 5 niños en un centro de salud de Lima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.30 m",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "1.20 m",
+          "is_correct": true,
+          "feedback": "Correcto. Ordenando: 1.10, 1.15, 1.20, 1.25, 1.30. El valor central es 1.20."
+        },
+        {
+          "letter": "C",
+          "text": "1.25 m",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "1.15 m",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar la mediana debemos ordenar los datos: {1.10, 1.15, 1.20, 1.25, 1.30}. Como el número de datos es impar (5), la mediana es el valor que ocupa la posición central (la tercera), es decir, 1.20 m.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v5",
+      "statement": "Si en una distribución de frecuencias se cumple que la media es estrictamente mayor que la mediana, ¿qué tipo de sesgo presenta la distribución?",
+      "context": "Análisis de asimetría en datos de exportación en Ica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Asimetría positiva",
+          "is_correct": true,
+          "feedback": "Correcto. La presencia de valores extremos altos desplaza la media a la derecha de la mediana, generando un sesgo positivo."
+        },
+        {
+          "letter": "B",
+          "text": "Asimetría negativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. En este caso la media sería menor que la mediana."
+        },
+        {
+          "letter": "C",
+          "text": "Distribución simétrica",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Distribución bimodal",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En una distribución asimétrica positiva (o sesgada a la derecha), los valores altos son más inusuales y \"tiran\" del promedio hacia arriba, haciendo que $\\bar{x} > Me > Mo$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v6",
+      "statement": "Si el ingreso mensual más bajo es de S/ 1200 y el más alto es de S/ 8500, ¿cuál es el rango de los ingresos?",
+      "context": "Cálculo del rango de ingresos en una microempresa familiar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S/ 4850",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "S/ 7300",
+          "is_correct": true,
+          "feedback": "Correcto. Rango = Máximo - Mínimo = 8500 - 1200 = 7300."
+        },
+        {
+          "letter": "C",
+          "text": "S/ 9700",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "S/ 1200",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El rango estadístico es la diferencia entre el valor máximo y el valor mínimo de un conjunto de datos. Representa la amplitud de la dispersión total de la variable.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v7",
+      "statement": "Si todos los estudiantes de un aula obtienen exactamente la misma calificación de 16, ¿cuál es el valor de la varianza de las notas?",
+      "context": "Un docente en Piura analiza la dispersión de las notas de sus alumnos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": true,
+          "feedback": "Correcto. Si no hay diferencia entre los datos y la media, no hay dispersión y la varianza es nula."
+        },
+        {
+          "letter": "B",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La varianza cuantifica la dispersión de los datos respecto a su media. Si todos los valores de la muestra son idénticos al promedio, la desviación de cada dato es cero, por lo tanto, la varianza es cero.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v8",
+      "statement": "Si la varianza de un conjunto de medidas es 144 cm², ¿cuál es el valor de la desviación estándar?",
+      "context": "Relación entre varianza y desviación estándar en un estudio de ingeniería.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "144 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "72 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "12 cm",
+          "is_correct": true,
+          "feedback": "Correcto. La desviación estándar es la raíz cuadrada de la varianza: \\sqrt{144} = 12."
+        },
+        {
+          "letter": "D",
+          "text": "12 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las unidades de la desviación estándar coinciden con las de los datos originales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La desviación estándar se define como la raíz cuadrada positiva de la varianza. Permite expresar la dispersión en las mismas unidades que la variable original. $\\sigma = \\sqrt{144} = 12$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v9",
+      "statement": "El Grupo A tiene una media de 15 y desviación estándar de 2. El Grupo B tiene una media de 15 y desviación estándar de 5. ¿Cuál de los grupos presenta resultados más homogéneos?",
+      "context": "Comparación de homogeneidad entre dos grupos de estudio en Lima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Grupo A",
+          "is_correct": true,
+          "feedback": "Correcto. Una menor desviación estándar implica que los datos están más concentrados alrededor de la media, es decir, son más homogéneos."
+        },
+        {
+          "letter": "B",
+          "text": "El Grupo B",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el grupo más heterogéneo o disperso."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos son iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Falta el tamaño de muestra",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En estadística, la homogeneidad se asocia inversamente con la dispersión. Dado que el Grupo A tiene una desviación estándar menor que el Grupo B ($2 < 5$), sus datos son más parecidos entre sí y respecto al promedio.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v10",
+      "statement": "Si el promedio de los sueldos de 10 trabajadores es S/ 2500 y a cada uno se le aumenta S/ 300, ¿cuál será el nuevo promedio de sueldos?",
+      "context": "Propiedades de la media ante cambios constantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S/ 2500",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "S/ 2800",
+          "is_correct": true,
+          "feedback": "Correcto. Si a todos los datos se les suma una constante k, la media aumenta en esa misma cantidad."
+        },
+        {
+          "letter": "C",
+          "text": "S/ 2530",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "S/ 5500",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una propiedad lineal de la media aritmética establece que si sumamos una cantidad constante $C$ a cada elemento de un conjunto de datos, la nueva media será igual a la media anterior más la constante $C$. $2500 + 300 = 2800$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v11",
+      "statement": "Dada la siguiente tabla de frecuencias:\nIntervalo [0, 10): frecuencia 4\nIntervalo [10, 20): frecuencia 6\nCalcule la media aritmética de estos datos.",
+      "context": "Cálculo de la media para datos agrupados en intervalos en una academia de Lima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "14",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "13",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "11",
+          "is_correct": true,
+          "feedback": "Correcto. Marcas de clase: 5 y 15. Suma = 5(4) + 15(6) = 110. Media = 110 / 10 = 11."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para datos agrupados, la media se obtiene sumando los productos de cada marca de clase ($x_i$) por su frecuencia absoluta ($f_i$), y dividiendo por el total de datos ($n$). Marcas: 5 y 15. Suma $= 5(4) + 15(6) = 20 + 90 = 110$. Media $= 110 / 10 = 11$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v12",
+      "statement": "Un conjunto de datos tiene una media de 80 y una desviación estándar de 10. Calcule el coeficiente de variación expresado en porcentaje.",
+      "context": "Uso del coeficiente de variación (C.V.) en control de calidad en Trujillo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8%",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "12.5%",
+          "is_correct": true,
+          "feedback": "Correcto. C.V. = (S / media) * 100% = (10 / 80) * 100% = 12.5%."
+        },
+        {
+          "letter": "C",
+          "text": "10%",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "20%",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El coeficiente de variación ($C.V.$) es una medida de dispersión relativa. Se calcula dividiendo la desviación estándar entre la media aritmética y multiplicando por 100 para obtener el porcentaje. $10 / 80 = 0.125$, lo que equivale al 12.5%.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.4,
+      "bundle_id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v13",
+      "statement": "¿Qué porcentaje de los datos se ubica por debajo del tercer cuartil ($Q_3$)?",
+      "context": "Definición de cuartiles en el análisis de una población en Huancayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25%",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "50%",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "75%",
+          "is_correct": true,
+          "feedback": "Correcto. Los cuartiles dividen la muestra en 4 partes iguales del 25% cada una. Q3 acumula el 75%."
+        },
+        {
+          "letter": "D",
+          "text": "90%",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los cuartiles dividen un conjunto de datos ordenados en cuatro partes iguales. El primer cuartil ($Q_1$) deja el 25% por debajo, el segundo ($Q_2$ o mediana) el 50%, y el tercer cuartil ($Q_3$) acumula el 75% de los datos menores o iguales a él.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v14",
+      "statement": "Calcule la varianza poblacional del conjunto de datos {2, 4, 6}.",
+      "context": "Cálculo de la varianza poblacional en Cusco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "2.67 aprox",
+          "is_correct": true,
+          "feedback": "Correcto. Media = 4. Variaciones: (2-4)^2=4, (4-4)^2=0, (6-4)^2=4. Varianza = (4+0+4)/3 = 2.66..."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "1.5",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero hallamos el promedio: $(2+4+6)/3 = 4$. Luego calculamos la media de los cuadrados de las diferencias: $\\sigma^2 = \\frac{(2-4)^2 + (4-4)^2 + (6-4)^2}{3} = \\frac{4 + 0 + 4}{3} = \\frac{8}{3} \\approx 2.67$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v15",
+      "statement": "Si la desviación estándar de una muestra es 5, ¿cuál será la nueva desviación estándar si cada valor de la muestra se triplica?",
+      "context": "Efecto de la multiplicación por una constante en la dispersión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "45",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "15",
+          "is_correct": true,
+          "feedback": "Correcto. Al multiplicar los datos por k, la desviación estándar se multiplica por |k|. 5 * 3 = 15."
+        },
+        {
+          "letter": "D",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A diferencia de la suma, la multiplicación de todos los datos por una constante $k$ escala la medida de dispersión. La desviación estándar se ve multiplicada por el valor absoluto de la constante: $S_{nueva} = |k| \\cdot S_{original} = 3 \\times 5 = 15$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v16",
+      "statement": "¿Qué se puede afirmar de una distribución de datos si su coeficiente de asimetría de Fisher es igual a 0?",
+      "context": "Interpretación del coeficiente de asimetría.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los datos son muy heterogéneos.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Que la distribución es simétrica.",
+          "is_correct": true,
+          "feedback": "Correcto. Un valor de cero indica que no hay sesgo hacia ninguno de los lados respecto a la media."
+        },
+        {
+          "letter": "C",
+          "text": "Que la media es mayor que la moda.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Que todos los datos son iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El coeficiente de asimetría mide qué tanto se aleja una distribución de la simetría perfecta (como en la curva normal). Si el coeficiente es cero, la distribución es simétrica, lo que implica que los datos se reparten equilibradamente a ambos lados del promedio.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.35,
+      "bundle_id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v17",
+      "statement": "La sección A tiene 20 alumnos con un promedio de 14. La sección B tiene 30 alumnos con un promedio de 16. ¿Cuál es el promedio de todos los alumnos?",
+      "context": "Cálculo de la media combinada de dos secciones en un colegio de Piura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15.0",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "15.2",
+          "is_correct": true,
+          "feedback": "Correcto. Promedio ponderado: (20*14 + 30*16) / 50 = (280 + 480) / 50 = 760 / 50 = 15.2."
+        },
+        {
+          "letter": "C",
+          "text": "15.5",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "14.8",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Debemos usar la media ponderada para considerar el peso de cada grupo. Primero sumamos todas las notas de ambos grupos: $20 \\times 14 + 30 \\times 16 = 280 + 480 = 760$. Luego dividimos por el total de alumnos ($20+30=50$): $760 / 50 = 15.2$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v18",
+      "statement": "Si a cada valor de una distribución se le resta su media y el resultado se divide entre su desviación estándar, ¿cuáles son los nuevos valores de la media y la varianza?",
+      "context": "Propiedades de la tipificación de variables (Z-score).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Media 1, Varianza 0",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Media 0, Varianza 1",
+          "is_correct": true,
+          "feedback": "Correcto. Este proceso se llama estandarización. Los datos tipificados siempre tienen media 0 y desviación 1."
+        },
+        {
+          "letter": "C",
+          "text": "Media 0, Varianza 0",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Media 1, Varianza 1",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El proceso de estandarización ($z = (x - \\bar{x})/S$) centra la distribución en el origen y ajusta la escala de dispersión a la unidad. Es una transformación fundamental para comparar datos de diferentes escalas o usar la distribución normal estándar.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.2,
+      "bundle_id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v19",
+      "statement": "En una distribución de 40 datos agrupados, el intervalo de la mediana es [20, 30), con frecuencia 10 y frecuencia acumulada anterior 15. Determine el valor de la mediana.",
+      "context": "Cálculo de la mediana en datos agrupados con intervalos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "22.5",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "25",
+          "is_correct": true,
+          "feedback": "Correcto. Me = Li + [(n/2 - Fi-1)/fi] * A = 20 + [(20-15)/10] * 10 = 25."
+        },
+        {
+          "letter": "C",
+          "text": "27.5",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la fórmula de interpolación: $Me = L_i + \\frac{\\frac{n}{2} - F_{i-1}}{f_i} \\cdot A$. Reemplazamos: $L_i = 20$, $n/2 = 20$, $F_{i-1} = 15$, $f_i = 10$ y $A = 10$. $Me = 20 + (5/10) \\times 10 = 25$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.15,
+      "bundle_id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle-v20",
+      "statement": "Según la desigualdad de Chebyshev, ¿qué porcentaje mínimo de los datos debe caer dentro de 2 desviaciones estándar de la media para cualquier tipo de distribución?",
+      "context": "Aplicación de la desigualdad de Chebyshev.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50%",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "68%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es solo para la distribución normal."
+        },
+        {
+          "letter": "C",
+          "text": "75%",
+          "is_correct": true,
+          "feedback": "Correcto. La proporción mínima es 1 - 1/k^2. Para k=2, es 1 - 1/4 = 0.75, es decir, el 75%."
+        },
+        {
+          "letter": "D",
+          "text": "95%",
+          "is_correct": false,
+          "feedback": "Incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La desigualdad de Chebyshev establece que al menos el $1 - (1/k^2)$ de los datos de cualquier distribución se encuentra a menos de $k$ desviaciones estándar de la media. Para $k = 2$, el porcentaje mínimo garantizado es $1 - 1/4 = 0.75$, es decir, el 75%.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.1,
+      "bundle_id": "PE-MAT-11-2026-W29-estadistica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    }
+  ]
+}

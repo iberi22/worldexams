@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "sv",
+    "pack_id": "sv-week-1-grade-11-subject-lengua",
+    "generated_at": "2026-07-28T22:41:05.500Z"
+  },
+  "questions": [
+    {
+      "id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v1",
+      "statement": "¿Qué elemento del proceso comunicativo se define como el sistema de signos y reglas que el emisor y el receptor deben compartir para codificar y decodificar el mensaje de manera exitosa?",
+      "context": "En una clase de lenguaje del Instituto Nacional Francisco Menéndez (INFRAMEN) en San Salvador, se discute el modelo de comunicación de Roman Jakobson.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El canal físico por donde fluyen las señales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El canal es el soporte material, no el sistema de signos."
+        },
+        {
+          "letter": "B",
+          "text": "El código lingüístico o no lingüístico compartido.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El código es el conjunto estructurado de signos y reglas comunes."
+        },
+        {
+          "letter": "C",
+          "text": "El referente de la realidad objetiva externa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El referente es el tema evocado, no el sistema normativo."
+        },
+        {
+          "letter": "D",
+          "text": "El contexto físico de la sala de clases.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El contexto es el entorno material, no las reglas gramaticales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El código es el conjunto de signos y reglas que permite formular y comprender el mensaje.\n\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v2",
+      "statement": "En esta situación comunicativa concreta, ¿quién asume el rol de receptor dentro del circuito?",
+      "context": "Gabriela lee un editorial de La Prensa Gráfica sobre las exportaciones de café salvadoreño en su casa de Santa Tecla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El periodista que redactó y firmó la nota.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El periodista es el emisor del editorial."
+        },
+        {
+          "letter": "B",
+          "text": "La estudiante Gabriela al leer e interpretar el texto.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Gabriela realiza la decodificación activa, siendo la receptora."
+        },
+        {
+          "letter": "C",
+          "text": "La imprenta del periódico en San Salvador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La imprenta es parte de la producción del soporte material."
+        },
+        {
+          "letter": "D",
+          "text": "El café como producto agrícola del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El café es el referente del mensaje, no el receptor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El receptor es el sujeto destinatario que recibe y decodifica el mensaje lingüístico.\n\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v3",
+      "statement": "¿Qué tipo de código se está empleando en esta interacción de tráfico urbano?",
+      "context": "Un oficial de tránsito levanta una bandera roja en una calle transitada del centro de San Salvador, obligando a Carlos a detener su vehículo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un código no lingüístico visual.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El color de la bandera transmite una prohibición sin usar palabras."
+        },
+        {
+          "letter": "B",
+          "text": "Un código lingüístico escrito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay texto escrito, es un signo visual cromático."
+        },
+        {
+          "letter": "C",
+          "text": "Un canal auditivo paraverbal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ondas sonoras ni variaciones de voz, es visual."
+        },
+        {
+          "letter": "D",
+          "text": "Un referente táctil de seguridad vial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No requiere contacto físico directo para decodificarse."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La bandera roja actúa como un código no lingüístico visual estandarizado para regular el tránsito.\n\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v4",
+      "statement": "¿Qué beneficio aporta el uso de esta variante dialectal común en la comunicación familiar?",
+      "context": "En una conversación informal en San Miguel, José utiliza modismos y caliche salvadoreño con su abuelo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta la distancia social entre los interlocutores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje compartido reduce la distancia social."
+        },
+        {
+          "letter": "B",
+          "text": "Facilita la decodificación fluida del mensaje emotivo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al compartir la misma variedad lingüística, la comprensión es inmediata."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituye la necesidad del canal acústico de la voz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El canal acústico sigue siendo indispensable."
+        },
+        {
+          "letter": "D",
+          "text": "Convierte el diálogo en un monólogo formal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Promueve un intercambio cercano y dinámico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso de una variante compartida optimiza la comprensión y el flujo comunicativo en el entorno familiar.\n\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v5",
+      "statement": "¿Qué tipo de barrera de comunicación se está manifestando en este escenario escolar?",
+      "context": "Durante una asamblea estudiantil en Ahuachapán, un alumno con discapacidad auditiva no logra comprender la exposición de su compañero debido a la falta de un intérprete de señas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Barrera semántica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se debe al vocabulario, sino a un factor del órgano sensorial."
+        },
+        {
+          "letter": "B",
+          "text": "Barrera fisiológica.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las limitaciones orgánicas o sensoriales del receptor constituyen barreras fisiológicas."
+        },
+        {
+          "letter": "C",
+          "text": "Barrera física.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un ruido del ambiente exterior, sino una condición fisiológica."
+        },
+        {
+          "letter": "D",
+          "text": "Barrera psicológica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No depende de prejuicios o emociones, sino de una limitación física."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las barreras fisiológicas se originan en limitaciones de los órganos sensoriales de emisión o recepción.\n\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.65,
+      "bundle_id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v6",
+      "statement": "¿Qué tipo de barrera comunicativa se ha desencadenado en esta situación?",
+      "context": "Un ciudadano muy irritado le grita al recepcionista de la alcaldía de Soyapango. El recepcionista, asustado por el tono agresivo, se bloquea y no procesa la solicitud.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Barrera semántica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un problema de idioma, sino emocional."
+        },
+        {
+          "letter": "B",
+          "text": "Barrera psicológica.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las emociones intensas como el miedo o el enojo interfieren en el proceso de comunicación."
+        },
+        {
+          "letter": "C",
+          "text": "Barrera de canal material.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El canal auditivo funciona, el bloqueo es emocional."
+        },
+        {
+          "letter": "D",
+          "text": "Barrera fisiológica orgánica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos presenta impedimentos biológicos auditivos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las barreras psicológicas provienen de actitudes, prejuicios o estados emocionales extremos de los participantes.\n\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.62,
+      "bundle_id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v7",
+      "statement": "En la teoría de la comunicación, esta interferencia atmosférica en el soporte de transmisión se clasifica como:",
+      "context": "En una llamada de telefonía celular entre Chalatenango y San Salvador, la señal se corta constantemente debido a una fuerte tormenta eléctrica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ruido semántico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ruido semántico es por malentendido de palabras."
+        },
+        {
+          "letter": "B",
+          "text": "Ruido psicológico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No depende de estados emocionales de los hablantes."
+        },
+        {
+          "letter": "C",
+          "text": "Ruido físico o de canal.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Cualquier alteración de la señal material en el canal físico es ruido."
+        },
+        {
+          "letter": "D",
+          "text": "Retroalimentación negativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El corte de señal no es una respuesta intencionada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El ruido de canal es toda perturbación material que afecta la transmisión de la señal por el medio físico.\n\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v8",
+      "statement": "¿Cuál es el referente de este mensaje publicitario?",
+      "context": "Un anuncio espectacular en la carretera a Surf City muestra la imagen de una pupusa humeante con la frase: 'El sabor de nuestra patria'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La valla publicitaria de metal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La valla metálica es el canal físico, no el referente."
+        },
+        {
+          "letter": "B",
+          "text": "Los automovilistas que viajan por la carretera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los conductores son los receptores colectivos."
+        },
+        {
+          "letter": "C",
+          "text": "La tradición culinaria y la identidad gastronómica de las pupusas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El referente es el objeto del mundo real o concepto evocado por el mensaje."
+        },
+        {
+          "letter": "D",
+          "text": "La agencia de publicidad que diseñó el letrero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La agencia es la emisora técnica, no el tema evocado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El referente es la realidad, objeto o concepto del mundo real al que alude el mensaje.\n\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v9",
+      "statement": "Este comportamiento corporal pertenece a la disciplina de la comunicación no verbal denominada:",
+      "context": "Durante un debate en el Instituto Nacional de Santa Ana (INSA), un expositor realiza gestos firmes con sus manos abiertas y mantiene contacto visual directo con el público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kinésica.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La kinésica estudia los gestos, ademanes, posturas y movimientos corporales como signos."
+        },
+        {
+          "letter": "B",
+          "text": "Proxémica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La proxémica estudia el uso y distancia del espacio físico personal."
+        },
+        {
+          "letter": "C",
+          "text": "Paralenguaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El paralenguaje se ocupa del sonido de la voz, no de los gestos."
+        },
+        {
+          "letter": "D",
+          "text": "Morfosintaxis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La morfosintaxis es el estudio estructural de las oraciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La kinésica se enfoca en el lenguaje corporal, incluyendo gestos, miradas y expresiones faciales.\n\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v10",
+      "statement": "¿Qué proceso del circuito de la comunicación se ha completado de manera efectiva con este correo de confirmación?",
+      "context": "Ana le confirma a su profesor por correo electrónico que ha recibido las indicaciones para su proyecto escolar en Cojutepeque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La codificación del emisor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La codificación ya se realizó cuando el profesor redactó el correo original."
+        },
+        {
+          "letter": "B",
+          "text": "La retroalimentación o feedback.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La retroalimentación es la respuesta que valida la recepción y comprensión del mensaje original."
+        },
+        {
+          "letter": "C",
+          "text": "El ruido semántico del canal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hubo interferencias o malentendidos."
+        },
+        {
+          "letter": "D",
+          "text": "La adecuación del código visual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un texto escrito formal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La retroalimentación permite cerrar el circuito de la comunicación asegurando la bidireccionalidad.\n\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.54,
+      "bundle_id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v11",
+      "statement": "La distancia física que establece un emisor en su interacción cara a cara con sus receptores es estudiada por la:",
+      "context": "Un analista político en San Salvador señala que un orador mantiene una distancia física excesiva con los ciudadanos en un evento público en San Vicente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kinésica corporal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La kinésica estudia los movimientos y gestos, no las distancias espaciales."
+        },
+        {
+          "letter": "B",
+          "text": "Proxémica.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La proxémica analiza el uso del espacio físico y las distancias interpersonales en la comunicación."
+        },
+        {
+          "letter": "C",
+          "text": "Semántica textual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La semántica se ocupa del significado de las palabras."
+        },
+        {
+          "letter": "D",
+          "text": "Fonología acústica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fonología estudia la realización sonora de los fonemas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La proxémica aborda la estructuración del espacio interpersonal y cómo las distancias comunican poder, afecto o formalidad.\n\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.52,
+      "bundle_id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v12",
+      "statement": "¿Qué aspecto de la comunicación pragmática está alterando intencionalmente el autor en este diálogo?",
+      "context": "En una obra literaria salvadoreña, dos hermanos se hablan con formalidad extrema, utilizando 'usted' en lugar del 'vos' de San Salvador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El canal de soporte del texto escrito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El soporte del diálogo sigue siendo el mismo libro impreso."
+        },
+        {
+          "letter": "B",
+          "text": "El código lingüístico general del español.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El español es el mismo."
+        },
+        {
+          "letter": "C",
+          "text": "La adecuación del registro según la relación interpersonal.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La relación familiar íntima exige un registro coloquial (voseo); cambiarlo a formalidad altera la adecuación de los interlocutores."
+        },
+        {
+          "letter": "D",
+          "text": "El referente geográfico de la obra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tema no depende de la formalidad de los diálogos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La adecuación requiere ajustar el registro lingüístico (formal, informal) de acuerdo con el contexto y los interlocutores.\n\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.5,
+      "bundle_id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v13",
+      "statement": "Este proceso mental de estructuración del mensaje realizado por el emisor se denomina:",
+      "context": "Un diseñador de San Salvador planea lanzar una campaña digital y realiza el proceso mental de seleccionar y combinar signos lingüísticos y visuales para actuar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Codificación.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La codificación consiste en traducir ideas en un sistema de signos comunicables."
+        },
+        {
+          "letter": "B",
+          "text": "Decodificación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La decodificación es el proceso inverso que realiza el receptor."
+        },
+        {
+          "letter": "C",
+          "text": "Retroalimentación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la respuesta del receptor."
+        },
+        {
+          "letter": "D",
+          "text": "Ruido de canal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ruido es un factor externo de interferencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La codificación es la actividad del emisor consistente en dar forma física a sus pensamientos usando las reglas de un código.\n\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.48,
+      "bundle_id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v14",
+      "statement": "¿Qué dos componentes inseparables e interdependientes constituyen el signo lingüístico según esta teoría clásica?",
+      "context": "Un profesor explica el concepto del signo lingüístico de Ferdinand de Saussure en el Instituto Nacional de Sonsonate.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El emisor y el receptor del circuito comunicativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos son participantes externos del acto de comunicación."
+        },
+        {
+          "letter": "B",
+          "text": "El canal físico y el código gramatical normado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos son factores del modelo general de comunicación."
+        },
+        {
+          "letter": "C",
+          "text": "El significante (imagen acústica) y el significado (concepto mental).",
+          "is_correct": true,
+          "feedback": "¡Correcto! El signo lingüístico es la asociación psíquica de un concepto (significado) y una representación sonora/visual (significante)."
+        },
+        {
+          "letter": "D",
+          "text": "El referente objetivo y el emisor que codifica el texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El referente es externo al signo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El signo lingüístico une de forma indisoluble un plano de expresión formal (significante) y uno de contenido mental (significado).\n\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.46,
+      "bundle_id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v15",
+      "statement": "¿Qué factor determina la interpretación correcta de este signo de significado múltiple (polisémico)?",
+      "context": "En la oración: 'Carlos depositó el cheque en el banco de la plaza de Santa Ana', se comprende que 'banco' es una entidad financiera debido a las palabras vecinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El contexto histórico de la fundación de Santa Ana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La historia del municipio no aclara el sentido de la palabra en la frase."
+        },
+        {
+          "letter": "B",
+          "text": "El cotexto o contexto lingüístico inmediato de la oración.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las palabras circundantes del mismo enunciado definen el sentido de los de significados múltiples."
+        },
+        {
+          "letter": "C",
+          "text": "El canal escrito en que se plasmó el texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El canal físico es idéntico para cualquier significado de banco."
+        },
+        {
+          "letter": "D",
+          "text": "El ruido psicológico que afectaba a Carlos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estado de ánimo de Carlos no es el elemento lingüístico aclarador."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cotexto o contexto lingüístico provee las pistas necesarias para desambiguar palabras polisémicas dentro de una oración.\n\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v16",
+      "statement": "¿Qué componente del proceso de comunicación se está optimizando prioritariamente con esta solución técnica digital?",
+      "context": "Una empresa en San Salvador introduce un sistema de chat en vivo con un bot conversacional interactivo para atender consultas sobre servicios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La codificación inicial del mensaje publicitario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se optimiza la creación del anuncio, sino el flujo de respuestas."
+        },
+        {
+          "letter": "B",
+          "text": "La eliminación de todo ruido físico en el canal de internet.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El bot no elimina cortes de internet."
+        },
+        {
+          "letter": "C",
+          "text": "El canal de retroalimentación inmediata para el receptor.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El bot permite que las respuestas o feedback fluyan de forma instantánea al cliente."
+        },
+        {
+          "letter": "D",
+          "text": "El referente semántico de la marca corporativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cambia el tema de la marca."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los sistemas automatizados de chat buscan agilizar la retroalimentación, convirtiendo la comunicación en un diálogo continuo.\n\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v17",
+      "statement": "Las noticias falsas que imitan el diseño gráfico de diarios formales salvadoreños logran engañar a muchos ciudadanos. ¿Cuál es la causa pragmática de este fenómeno?",
+      "context": "Durante un análisis de medios de comunicación en San Salvador, se discute el impacto de la desinformación en plataformas digitales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La saturación del canal físico que interrumpe la red.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No saturan la red técnicamente."
+        },
+        {
+          "letter": "B",
+          "text": "La traducción inadecuada del código a un idioma extranjero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Están redactadas en un perfecto español."
+        },
+        {
+          "letter": "C",
+          "text": "La usurpación del código estético de un emisor de prestigio.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al imitar la tipografía y el estilo gráfico de un medio creíble, confunden al receptor sobre la legitimidad de la fuente."
+        },
+        {
+          "letter": "D",
+          "text": "La anulación del referente real por falta de interés cívico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El referente interesa al público."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El éxito de la desinformación reside en su capacidad de copiar los códigos visuales y contextuales de emisores institucionales confiables.\n\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.4,
+      "bundle_id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v18",
+      "statement": "La creación de variantes lingüísticas locales demuestra la evolución del código. ¿Qué característica fundamental del signo lingüístico se evidencia aquí?",
+      "context": "Un lingüista salvadoreño estudia el caliche popular en el mercado de San Salvador y registra el uso del vocablo 'chero'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mutabilidad e historicidad de la lengua en su dimensión social.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La lengua cambia a lo largo del tiempo debido al uso y acuerdos implícitos de la comunidad de habla."
+        },
+        {
+          "letter": "B",
+          "text": "La inmutabilidad absoluta de la gramática académica clásica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si fuera inmutable, no surgirían regionalismos."
+        },
+        {
+          "letter": "C",
+          "text": "La relación natural entre el significante y el objeto físico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es de carácter convencional."
+        },
+        {
+          "letter": "D",
+          "text": "La preeminencia de la escritura formal sobre la oralidad coloquial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El término nace en la oralidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mutabilidad permite que los signos lingüísticos evolucionen y se adapten a las necesidades culturales de los hablantes.\n\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.38,
+      "bundle_id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v19",
+      "statement": "¿Qué característica define la dinámica emisor-receptor al leer un de terminada obra de la lírica salvadoreña?",
+      "context": "En una prueba de aptitud en la Universidad de El Salvador (UES), se propone interpretar un poema de Alfredo Espino desde el punto de vista de la comunicación estética.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La necesidad de una retroalimentación física e inmediata en tiempo real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor ya falleció; la interacción cara a cara es imposible."
+        },
+        {
+          "letter": "B",
+          "text": "El predominio de una comunicación bidireccional inmediata en el aula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es asíncrona, no hay intercambio directo con el autor de la obra."
+        },
+        {
+          "letter": "C",
+          "text": "La comunicación diferida y unidireccional, donde el receptor recrea el sentido.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La lectura literaria es asíncrona, delegando en el lector activo la interpretación y goce estético del texto."
+        },
+        {
+          "letter": "D",
+          "text": "El uso de un código de tipo denotativo e informativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La poesía utiliza la connotación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La comunicación estética literaria se produce de manera diferida, requiriendo que el receptor asuma un rol interpretativo activo.\n\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-v20",
+      "statement": "Cuando se asocia un producto culinario con un símbolo patrio en un anuncio, ¿qué relación se establece prioritariamente?",
+      "context": "Un ensayo analiza el uso de símbolos nacionales (como el ave Torogoz) en la publicidad comercial de empresas alimenticias de San Salvador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una denotación técnica basada en la clasificación biológica del ave.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se busca informar sobre la biología del Torogoz, sino evocar patriotismo."
+        },
+        {
+          "letter": "B",
+          "text": "Una connotación afectiva que asocia la identidad nacional con la marca.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La marca aprovecha el valor emocional e identitario del símbolo patrio para persuadir al consumidor."
+        },
+        {
+          "letter": "C",
+          "text": "La simplificación material del canal visual de transmisión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un proceso de significación conceptual."
+        },
+        {
+          "letter": "D",
+          "text": "Una barrera física entre el cliente y el mercado nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No establece barreras físicas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La connotación publicitaria transfiere valores culturales y afectivos preexistentes en la sociedad hacia las marcas comerciales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.32,
+      "bundle_id": "SV-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "sv"
+    }
+  ]
+}

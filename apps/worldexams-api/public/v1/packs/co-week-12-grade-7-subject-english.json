@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-12-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.894Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W12-past-simple-regular-001-v1",
+      "statement": "What is the standard suffix added to the end of a regular verb to form the Past Simple?",
+      "context": "Identifying the suffix for regular past verbs.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-ing",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for continuous tenses."
+        },
+        {
+          "letter": "B",
+          "text": "-s",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for Present Simple third person."
+        },
+        {
+          "letter": "C",
+          "text": "-ed",
+          "is_correct": true,
+          "feedback": "Correct! Most regular verbs add -ed to form the past."
+        },
+        {
+          "letter": "D",
+          "text": "-es",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a present tense ending."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student identifies the basic morphological rule for regular past tense verbs.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W12-past-simple-regular-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W12-past-simple-regular-002-v1",
+      "statement": "What is the Past Simple form of the verb \"dance\"?",
+      "context": "Applying the rule to a verb ending in 'e'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "danceed",
+          "is_correct": false,
+          "feedback": "Incorrect. If the verb already ends in 'e', you only add 'd'."
+        },
+        {
+          "letter": "B",
+          "text": "danced",
+          "is_correct": true,
+          "feedback": "Correct! We just add 'd' to verbs ending in 'e'."
+        },
+        {
+          "letter": "C",
+          "text": "dancied",
+          "is_correct": false,
+          "feedback": "Incorrect. This spelling change is for verbs ending in consonant + y."
+        },
+        {
+          "letter": "D",
+          "text": "dancen",
+          "is_correct": false,
+          "feedback": "Incorrect. This is not a past tense form for this verb."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student remembers the specific spelling rule for regular verbs ending in 'e'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W12-past-simple-regular-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W12-past-simple-regular-003-v1",
+      "statement": "Complete the sentence: \"Last Saturday, I ________ soccer with my cousins.\" (Verb: play)",
+      "context": "Describing a weekend activity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "play",
+          "is_correct": false,
+          "feedback": "Incorrect. This is present tense."
+        },
+        {
+          "letter": "B",
+          "text": "played",
+          "is_correct": true,
+          "feedback": "Correct! \"Played\" is the past simple of the regular verb \"play\"."
+        },
+        {
+          "letter": "C",
+          "text": "plaied",
+          "is_correct": false,
+          "feedback": "Incorrect. Since \"play\" ends in vowel + y, we don't change 'y' to 'i'."
+        },
+        {
+          "letter": "D",
+          "text": "playing",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the continuous form."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the use of the past tense suffix with a regular verb in a sentence with a past time marker (Last Saturday).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W12-past-simple-regular-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W12-past-simple-regular-004-v1",
+      "statement": "Which of these expressions is NOT used to refer to the past?",
+      "context": "Identifying common past time expressions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yesterday",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to the previous day."
+        },
+        {
+          "letter": "B",
+          "text": "Last week",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to the previous week."
+        },
+        {
+          "letter": "C",
+          "text": "Two days ago",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Ago\" is a common past marker."
+        },
+        {
+          "letter": "D",
+          "text": "Tomorrow",
+          "is_correct": true,
+          "feedback": "Correct! \"Tomorrow\" refers to the future."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The student understands and distinguishes between temporal markers for past and future.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W12-past-simple-regular-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W12-past-simple-regular-005-v1",
+      "statement": "\"We ________ the film at the cinema yesterday. It was great!\"",
+      "context": "Describing an action completed in the past.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "watch",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "B",
+          "text": "watched",
+          "is_correct": true,
+          "feedback": "Correct! Past simple of the regular verb \"watch\"."
+        },
+        {
+          "letter": "C",
+          "text": "watches",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense for third person singular."
+        },
+        {
+          "letter": "D",
+          "text": "watching",
+          "is_correct": false,
+          "feedback": "Incorrect. Present continuous."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies the past simple rule to a regular verb within a coherent sentence.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W12-past-simple-regular-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W12-past-simple-regular-006-v1",
+      "statement": "What did Elena do in the garden?",
+      "context": "A description of a student's afternoon.\n\"Yesterday afternoon, Elena visited her grandparents. She helped her grandmother in the garden and talked with her grandfather for two hours.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She visited her friends.",
+          "is_correct": false,
+          "feedback": "Incorrect. She visited her grandparents."
+        },
+        {
+          "letter": "B",
+          "text": "She helped her grandmother.",
+          "is_correct": true,
+          "feedback": "Correct! The text says \"She helped her grandmother in the garden\"."
+        },
+        {
+          "letter": "C",
+          "text": "She studied for a test.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is not mentioned."
+        },
+        {
+          "letter": "D",
+          "text": "She played with her grandfather.",
+          "is_correct": false,
+          "feedback": "Incorrect. She talked with him."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies reading skills to identify specific actions expressed in the regular past tense.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W12-past-simple-regular-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W12-past-simple-regular-007-v1",
+      "statement": "Complete: \"I ________ for the exam all night.\" (Verb: study)",
+      "context": "Spelling rules for verbs ending in 'y'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "studyed",
+          "is_correct": false,
+          "feedback": "Incorrect. Spelling error."
+        },
+        {
+          "letter": "B",
+          "text": "studied",
+          "is_correct": true,
+          "feedback": "Correct! Change 'y' to 'i' and add 'ed' for verbs ending in consonant + y."
+        },
+        {
+          "letter": "C",
+          "text": "studyied",
+          "is_correct": false,
+          "feedback": "Incorrect. Incorrect spelling."
+        },
+        {
+          "letter": "D",
+          "text": "studed",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing the 'i'."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies the specific spelling rule for regular verbs ending in consonant + \"y\" in the past tense.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W12-past-simple-regular-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W12-past-simple-regular-008-v1",
+      "statement": "Which sentence is grammatically correct and makes sense?",
+      "context": "Analyzing the structure of a short past narrative.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Last night I wash my car and cleaned my house.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Wash\" should be in the past: \"washed\"."
+        },
+        {
+          "letter": "B",
+          "text": "Last night I washed my car and cleaned my house.",
+          "is_correct": true,
+          "feedback": "Correct! Both verbs are correctly conjugated in the past."
+        },
+        {
+          "letter": "C",
+          "text": "Last night I washed my car and clean my house.",
+          "is_correct": false,
+          "feedback": "Incorrect. Both verbs must be in the past tense to maintain consistency."
+        },
+        {
+          "letter": "D",
+          "text": "Last night I washing my car and cleaning my house.",
+          "is_correct": false,
+          "feedback": "Incorrect. Continuous forms without \"was/were\" are incomplete and don't fit a finished action."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes the consistency of verb tenses within a compound sentence describing past events.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W12-past-simple-regular-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W12-past-simple-regular-009-v1",
+      "statement": "\"The bus ________ at the red light.\" (Verb: stop)\nWhich is the correct spelling?",
+      "context": "Analyzing the CVC spelling rule (consonant-vowel-consonant).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "stoped",
+          "is_correct": false,
+          "feedback": "Incorrect. For CVC verbs, the last consonant must be doubled."
+        },
+        {
+          "letter": "B",
+          "text": "stopped",
+          "is_correct": true,
+          "feedback": "Correct! Double the 'p' before adding -ed."
+        },
+        {
+          "letter": "C",
+          "text": "stopied",
+          "is_correct": false,
+          "feedback": "Incorrect. This is only for 'y' endings."
+        },
+        {
+          "letter": "D",
+          "text": "stopping",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the present continuous."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes the spelling rule for doubling consonants in regular past tense verbs with a CVC pattern.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W12-past-simple-regular-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W12-past-simple-regular-010-v1",
+      "statement": "Which of the following summaries accurately reflects the events of the story?",
+      "context": "Evaluating a short story about a vacation.\n\"We arrived at the hotel at 10:00 PM. We stayed for three days. We visited many museums and walked around the city center. It was the best trip ever!\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They went to a hotel and stayed for a week.",
+          "is_correct": false,
+          "feedback": "Incorrect. They stayed for three days."
+        },
+        {
+          "letter": "B",
+          "text": "They only visited one museum.",
+          "is_correct": false,
+          "feedback": "Incorrect. They visited \"many museums\"."
+        },
+        {
+          "letter": "C",
+          "text": "They arrived late, stayed for a few days, and explored the city.",
+          "is_correct": true,
+          "feedback": "Correct! 10:00 PM is late, three days is a few days, and museums/walking are exploring."
+        },
+        {
+          "letter": "D",
+          "text": "They hated the trip.",
+          "is_correct": false,
+          "feedback": "Incorrect. It says \"the best trip ever\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student evaluates the information in a past tense narrative to determine the most accurate summary of events.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W12-past-simple-regular-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

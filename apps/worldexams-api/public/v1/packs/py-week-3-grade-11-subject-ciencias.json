@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "py",
+    "pack_id": "py-week-3-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-05T19:40:28.844Z"
+  },
+  "questions": [
+    {
+      "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v1",
+      "statement": "¿Qué organelo se compone de una serie de sacos aplanados llamados dictiosomas encargados del empaquetamiento proteico?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Sofía y su grupo investigan sobre Organelos celulares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aparato de Golgi",
+          "is_correct": true,
+          "feedback": "¡Correcto! El aparato de Golgi responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La mitocondria",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mitocondria no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La subunidad menor 40S",
+          "is_correct": false,
+          "feedback": "Incorrecto. La subunidad menor 40S es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La vacuola central",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vacuola central describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de El aparato de Golgi constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v2",
+      "statement": "¿Qué estructura membranosa de doble membrana plegada en crestas sintetiza la mayor parte del ATP celular?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Mateo y su grupo investigan sobre Organelos celulares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mitocondria",
+          "is_correct": true,
+          "feedback": "¡Correcto! La mitocondria responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La membrana plasmática y proteínas de anclaje",
+          "is_correct": false,
+          "feedback": "Incorrecto. La membrana plasmática y proteínas de anclaje no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "El retículo endoplasmático liso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El retículo endoplasmático liso es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Los filamentos intermedios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los filamentos intermedios describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La mitocondria constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v3",
+      "statement": "¿Qué organelo vesicular contiene hidrolasas ácidas activas a pH de 5.0 para la digestión celular?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Santiago y su grupo investigan sobre Organelos celulares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El lisosoma",
+          "is_correct": true,
+          "feedback": "¡Correcto! El lisosoma responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Los pseudópodos de actina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los pseudópodos de actina no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La subunidad menor 40S",
+          "is_correct": false,
+          "feedback": "Incorrecto. La subunidad menor 40S es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "El retículo endoplasmático liso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El retículo endoplasmático liso describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de El lisosoma constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.79,
+      "bundle_id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v4",
+      "statement": "¿Qué organelo citoplasmático contiene catalasa para descomponer el peróxido de hidrógeno en agua y oxígeno?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Gladys y su grupo investigan sobre Organelos celulares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El peroxisoma",
+          "is_correct": true,
+          "feedback": "¡Correcto! El peroxisoma responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Los pseudópodos de actina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los pseudópodos de actina no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "El complejo TIM/TOM",
+          "is_correct": false,
+          "feedback": "Incorrecto. El complejo TIM/TOM es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "El cloroplasto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cloroplasto describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de El peroxisoma constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v5",
+      "statement": "¿Qué organelo celular membranoso carece de ribosomas y se encarga de la síntesis de lípidos y detoxificación?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Ramón y su grupo investigan sobre Organelos celulares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El retículo endoplasmático liso",
+          "is_correct": true,
+          "feedback": "¡Correcto! El retículo endoplasmático liso responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Los microfilamentos de actina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los microfilamentos de actina no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "El complejo TIM/TOM",
+          "is_correct": false,
+          "feedback": "Incorrecto. El complejo TIM/TOM es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La membrana plasmática y proteínas de anclaje",
+          "is_correct": false,
+          "feedback": "Incorrecto. La membrana plasmática y proteínas de anclaje describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de El retículo endoplasmático liso constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v6",
+      "statement": "¿Qué organelo eucariota almacena agua, sales y aminoácidos, regulando la presión de turgencia en plantas?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Sofía y su grupo investigan sobre Organelos celulares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La vacuola central",
+          "is_correct": true,
+          "feedback": "¡Correcto! La vacuola central responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "El oxígeno molecular",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oxígeno molecular no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Los filamentos intermedios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los filamentos intermedios es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Los centriolos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los centriolos describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La vacuola central constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v7",
+      "statement": "¿Qué filamentos del citoesqueleto compuestos por dímeros de tubulina guían el transporte de vesículas celulares?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Martina y su grupo investigan sobre Organelos celulares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los microtúbulos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los microtúbulos responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "El cloroplasto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cloroplasto no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "El aparato de Golgi",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aparato de Golgi es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La mitocondria",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mitocondria describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Los microtúbulos constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v8",
+      "statement": "¿Qué estructura compuesta de microtúbulos en arreglo triple se asocia con el centrosoma animal?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Gladys y su grupo investigan sobre Organelos celulares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los centriolos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los centriolos responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "El retículo endoplasmático rugoso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El retículo endoplasmático rugoso no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La membrana plasmática y proteínas de anclaje",
+          "is_correct": false,
+          "feedback": "Incorrecto. La membrana plasmática y proteínas de anclaje es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Los pseudópodos de actina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los pseudópodos de actina describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Los centriolos constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.64,
+      "bundle_id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v9",
+      "statement": "¿Qué subunidad del ribosoma eucariota de 80S se encarga de leer el ARN mensajero?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Benjamín y su grupo investigan sobre Organelos celulares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La subunidad menor 40S",
+          "is_correct": true,
+          "feedback": "¡Correcto! La subunidad menor 40S responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Los microtúbulos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los microtúbulos no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "El cloroplasto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cloroplasto es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Los pseudópodos de actina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los pseudópodos de actina describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La subunidad menor 40S constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.61,
+      "bundle_id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v10",
+      "statement": "¿Qué organelo de doble membrana posee un sistema de tilacoides apilados en grana para realizar la fotosíntesis?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Jorge y su grupo investigan sobre Organelos celulares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cloroplasto",
+          "is_correct": true,
+          "feedback": "¡Correcto! El cloroplasto responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Los pseudópodos de actina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los pseudópodos de actina no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Los filamentos intermedios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los filamentos intermedios es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La mitocondria",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mitocondria describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de El cloroplasto constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.58,
+      "bundle_id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v11",
+      "statement": "¿Qué filamento contráctil de actina participa en la formación del anillo de división celular?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Camila y su grupo investigan sobre Organelos celulares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los microfilamentos de actina",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los microfilamentos de actina responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "El retículo endoplasmático rugoso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El retículo endoplasmático rugoso no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "El peroxisoma",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peroxisoma es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La desoxirribonucleasa ácida",
+          "is_correct": false,
+          "feedback": "Incorrecto. La desoxirribonucleasa ácida describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Los microfilamentos de actina constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v12",
+      "statement": "¿Qué orgánulo almacena calcio intracelular y está altamente desarrollado en el tejido muscular estriado?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Joaquín y su grupo investigan sobre Organelos celulares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El retículo sarcoplásmico",
+          "is_correct": true,
+          "feedback": "¡Correcto! El retículo sarcoplásmico responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "El retículo endoplasmático rugoso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El retículo endoplasmático rugoso no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La vacuola central",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vacuola central es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Los filamentos intermedios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los filamentos intermedios describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de El retículo sarcoplásmico constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v13",
+      "statement": "¿Qué región del cloroplasto contiene las enzimas solubles encargadas del ciclo de Calvin?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Valentina y su grupo investigan sobre Organelos celulares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El estroma",
+          "is_correct": true,
+          "feedback": "¡Correcto! El estroma responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La subunidad menor 40S",
+          "is_correct": false,
+          "feedback": "Incorrecto. La subunidad menor 40S no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Los pseudópodos de actina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los pseudópodos de actina es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "El retículo sarcoplásmico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El retículo sarcoplásmico describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de El estroma constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.49,
+      "bundle_id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v14",
+      "statement": "¿Qué compuesto de la matriz mitocondrial acepta electrones al final de la cadena respiratoria?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Florencia y su grupo investigan sobre Organelos celulares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El oxígeno molecular",
+          "is_correct": true,
+          "feedback": "¡Correcto! El oxígeno molecular responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Los filamentos intermedios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los filamentos intermedios no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "El retículo endoplasmático liso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El retículo endoplasmático liso es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "El retículo endoplasmático rugoso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El retículo endoplasmático rugoso describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de El oxígeno molecular constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.46,
+      "bundle_id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v15",
+      "statement": "¿Qué tipo de filamentos del citoesqueleto compuesto por queratina da resistencia contra esfuerzos mecánicos?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Valentina y su grupo investigan sobre Organelos celulares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los filamentos intermedios",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los filamentos intermedios responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "El aparato de Golgi",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aparato de Golgi no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "El retículo endoplasmático rugoso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El retículo endoplasmático rugoso es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "El lisosoma",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lisosoma describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Los filamentos intermedios constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v16",
+      "statement": "¿Qué organelo se encarga de la síntesis de proteínas de exportación y tiene ribosomas adheridos en su membrana?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Sofía y su grupo investigan sobre Organelos celulares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El retículo endoplasmático rugoso",
+          "is_correct": true,
+          "feedback": "¡Correcto! El retículo endoplasmático rugoso responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Los microtúbulos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los microtúbulos no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Los centriolos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los centriolos es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "El peroxisoma",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peroxisoma describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de El retículo endoplasmático rugoso constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.4,
+      "bundle_id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v17",
+      "statement": "¿Qué estructura microscópica del citoesqueleto se proyecta al exterior de la célula facilitando el movimiento ameboide?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Sebastián y su grupo investigan sobre Organelos celulares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los pseudópodos de actina",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los pseudópodos de actina responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "El complejo TIM/TOM",
+          "is_correct": false,
+          "feedback": "Incorrecto. El complejo TIM/TOM no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La subunidad menor 40S",
+          "is_correct": false,
+          "feedback": "Incorrecto. La subunidad menor 40S es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "El retículo sarcoplásmico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El retículo sarcoplásmico describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Los pseudópodos de actina constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.37,
+      "bundle_id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v18",
+      "statement": "¿Qué componente celular eucariota interactúa directamente con el citoesqueleto para mantener la forma geométrica celular?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Sebastián y su grupo investigan sobre Organelos celulares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La membrana plasmática y proteínas de anclaje",
+          "is_correct": true,
+          "feedback": "¡Correcto! La membrana plasmática y proteínas de anclaje responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Los microfilamentos de actina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los microfilamentos de actina no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "El retículo endoplasmático rugoso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El retículo endoplasmático rugoso es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "El retículo endoplasmático liso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El retículo endoplasmático liso describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La membrana plasmática y proteínas de anclaje constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.34,
+      "bundle_id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v19",
+      "statement": "¿Qué complejo macromolecular transfiere proteínas plegadas desde el citoplasma al interior de la mitocondria?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Florencia y su grupo investigan sobre Organelos celulares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El complejo TIM/TOM",
+          "is_correct": true,
+          "feedback": "¡Correcto! El complejo TIM/TOM responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "El retículo endoplasmático rugoso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El retículo endoplasmático rugoso no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "El retículo endoplasmático liso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El retículo endoplasmático liso es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Los pseudópodos de actina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los pseudópodos de actina describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de El complejo TIM/TOM constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.31,
+      "bundle_id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-v20",
+      "statement": "¿Qué enzima de los lisosomas cataliza la ruptura hidrolítica de los enlaces fosfodiéster del ADN?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Valentina y su grupo investigan sobre Organelos celulares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La desoxirribonucleasa ácida",
+          "is_correct": true,
+          "feedback": "¡Correcto! La desoxirribonucleasa ácida responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "El oxígeno molecular",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oxígeno molecular no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La vacuola central",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vacuola central es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "El retículo endoplasmático liso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El retículo endoplasmático liso describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La desoxirribonucleasa ácida constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.28,
+      "bundle_id": "PY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}

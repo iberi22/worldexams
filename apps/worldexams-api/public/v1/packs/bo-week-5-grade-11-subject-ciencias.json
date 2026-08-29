@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "bo",
+    "pack_id": "bo-week-5-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-07-29T02:17:36.149Z"
+  },
+  "questions": [
+    {
+      "id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v1",
+      "statement": "Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar estructura interna rígida de soporte que protege los órganos vitales y almacena minerales como calcio, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho analiza un problema sobre anatomía y fisiología humana - soporte y movimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El esqueleto",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a estructura interna rígida de soporte que protege los órganos vitales y almacena minerales como calcio."
+        },
+        {
+          "letter": "B",
+          "text": "Los tendones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Las articulaciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Las neuronas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es El esqueleto. Científicamente, esto se explica por el reservorio metabólico de iones de calcio y fosfato del cuerpo humano. Lo cual es fundamental para comprender anatomía y fisiología humana - soporte y movimiento.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v2",
+      "statement": "Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar células óseas especializadas multinucleadas encargadas de la resorción y degradación de matriz ósea, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Cochabamba, el estudiante Roxana del Unidad Educativa Don Bosco analiza un problema sobre anatomía y fisiología humana - soporte y movimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Osteoclastos",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a células óseas especializadas multinucleadas encargadas de la resorción y degradación de matriz ósea."
+        },
+        {
+          "letter": "B",
+          "text": "Osteoblastos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Osteocitos",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Condrocitos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Osteoclastos. Científicamente, esto se explica por la disolución de sales minerales de fosfato de calcio mediante secreción ácida dirigida. Lo cual es fundamental para comprender anatomía y fisiología humana - soporte y movimiento.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v3",
+      "statement": "Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar células óseas que sintetizan la matriz orgánica y dirigen la mineralización de hueso nuevo, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar analiza un problema sobre anatomía y fisiología humana - soporte y movimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Osteoblastos",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a células óseas que sintetizan la matriz orgánica y dirigen la mineralización de hueso nuevo."
+        },
+        {
+          "letter": "B",
+          "text": "Osteoclastos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Osteocitos",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Fibroblastos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Osteoblastos. Científicamente, esto se explica por la calcificación activa del colágeno durante la regeneración ósea. Lo cual es fundamental para comprender anatomía y fisiología humana - soporte y movimiento.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v4",
+      "statement": "Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar unidad anatómica y funcional de la contracción muscular ubicada entre dos líneas Z de la miofibrilla, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En El Alto, el estudiante Marisol del Colegio San Simón analiza un problema sobre anatomía y fisiología humana - soporte y movimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sarcómero",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a unidad anatómica y funcional de la contracción muscular ubicada entre dos líneas Z de la miofibrilla."
+        },
+        {
+          "letter": "B",
+          "text": "La miofibrilla",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "El túbulo t",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "La unidad motora",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es El sarcómero. Científicamente, esto se explica por la disposición ordenada de filamentos finos de actina y gruesos de miosina. Lo cual es fundamental para comprender anatomía y fisiología humana - soporte y movimiento.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v5",
+      "statement": "Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar proteína contráctil que forma los filamentos gruesos y posee cabezas con actividad ATPasa activa, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín analiza un problema sobre anatomía y fisiología humana - soporte y movimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La miosina",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a proteína contráctil que forma los filamentos gruesos y posee cabezas con actividad ATPasa activa."
+        },
+        {
+          "letter": "B",
+          "text": "La actina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "La troponina",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "La tropomiosina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es La miosina. Científicamente, esto se explica por la tracción de los filamentos finos mediante el ciclo de puentes cruzados. Lo cual es fundamental para comprender anatomía y fisiología humana - soporte y movimiento.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v6",
+      "statement": "Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar proteína que forma los filamentos delgados del sarcómero y posee sitios de unión para miosina, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Potosí, el estudiante Ronald del Unidad Educativa Juan Pablo II analiza un problema sobre anatomía y fisiología humana - soporte y movimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La actina",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a proteína que forma los filamentos delgados del sarcómero y posee sitios de unión para miosina."
+        },
+        {
+          "letter": "B",
+          "text": "La miosina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "La titina",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "La colágena",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es La actina. Científicamente, esto se explica por el deslizamiento de filamentos que acorta la longitud total del sarcómero muscular. Lo cual es fundamental para comprender anatomía y fisiología humana - soporte y movimiento.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v7",
+      "statement": "Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar articulaciones móviles que poseen cavidad articular llena de líquido lubricante para amortiguar impactos, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Oruro, el estudiante Limbert del Colegio San Calixto analiza un problema sobre anatomía y fisiología humana - soporte y movimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Articulaciones sinoviales",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a articulaciones móviles que poseen cavidad articular llena de líquido lubricante para amortiguar impactos."
+        },
+        {
+          "letter": "B",
+          "text": "Articulaciones fibrosas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Articulaciones cartilaginosas",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Sinartrosis rígidas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Articulaciones sinoviales. Científicamente, esto se explica por la presencia de cartílago articular y cápsula sinovial para permitir amplios movimientos. Lo cual es fundamental para comprender anatomía y fisiología humana - soporte y movimiento.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v8",
+      "statement": "Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar estructuras de tejido conectivo denso regular que unen directamente los músculos estriados con los huesos, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Tarija, el estudiante Shirley del Colegio Nacional Pichincha analiza un problema sobre anatomía y fisiología humana - soporte y movimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los tendones",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a estructuras de tejido conectivo denso regular que unen directamente los músculos estriados con los huesos."
+        },
+        {
+          "letter": "B",
+          "text": "Los ligamentos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Los cartílagos",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Los sarcómeros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Los tendones. Científicamente, esto se explica por la transmisión eficiente de la fuerza mecánica generada por la contracción muscular. Lo cual es fundamental para comprender anatomía y fisiología humana - soporte y movimiento.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v9",
+      "statement": "Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar tejidos fibrosos resistentes que conectan hueso con hueso estabilizando la articulación, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez analiza un problema sobre anatomía y fisiología humana - soporte y movimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los ligamentos",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a tejidos fibrosos resistentes que conectan hueso con hueso estabilizando la articulación."
+        },
+        {
+          "letter": "B",
+          "text": "Los tendones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Las fascias",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Las miofibrillas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Los ligamentos. Científicamente, esto se explica por la prevención de movimientos articulares anormales o excesivos que provoquen luxaciones. Lo cual es fundamental para comprender anatomía y fisiología humana - soporte y movimiento.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v10",
+      "statement": "Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar ion intracelular liberado del retículo sarcoplásmico indispensable para unir la troponina, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Cobija, el estudiante Franz del Colegio Nacional Florida analiza un problema sobre anatomía y fisiología humana - soporte y movimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ion de calcio (ca2+)",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a ion intracelular liberado del retículo sarcoplásmico indispensable para unir la troponina."
+        },
+        {
+          "letter": "B",
+          "text": "El ion de sodio (na+)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "El ion de potasio (k+)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "El ion de cloro (cl-)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es El ion de calcio (ca2+). Científicamente, esto se explica por la inducción de un cambio conformacional en la tropomiosina que libera los sitios de unión. Lo cual es fundamental para comprender anatomía y fisiología humana - soporte y movimiento.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v11",
+      "statement": "Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar proceso metabólico muscular alternativo que produce fatiga debido a la acumulación de lactato, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Tupiza, el estudiante Nancy del Colegio Nacional Ayacucho analiza un problema sobre anatomía y fisiología humana - soporte y movimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fermentación láctica anaerobia",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a proceso metabólico muscular alternativo que produce fatiga debido a la acumulación de lactato."
+        },
+        {
+          "letter": "B",
+          "text": "Respiración aerobia estricta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Ciclo del ácido cítrico",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Vía de fosfato pentosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Fermentación láctica anaerobia. Científicamente, esto se explica por la regeneración de NAD+ en el citosol en ausencia temporal de oxígeno celular molecular. Lo cual es fundamental para comprender anatomía y fisiología humana - soporte y movimiento.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v12",
+      "statement": "Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar enfermedad ósea metabólica caracterizada por la disminución progresiva de la densidad de masa ósea, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Uyuni, el estudiante Edwin del Unidad Educativa Don Bosco analiza un problema sobre anatomía y fisiología humana - soporte y movimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La osteoporosis",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a enfermedad ósea metabólica caracterizada por la disminución progresiva de la densidad de masa ósea."
+        },
+        {
+          "letter": "B",
+          "text": "El raquitismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "La osteogénesis imperfecta",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "La artrosis degenerativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es La osteoporosis. Científicamente, esto se explica por el desequilibrio homeostático donde la resorción ósea supera la síntesis por osteoblastos. Lo cual es fundamental para comprender anatomía y fisiología humana - soporte y movimiento.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v13",
+      "statement": "Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar patología infantil por déficit de vitamina D que impide la correcta mineralización del hueso, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Viacha, el estudiante Marcelo del Colegio Bolívar analiza un problema sobre anatomía y fisiología humana - soporte y movimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El raquitismo",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a patología infantil por déficit de vitamina D que impide la correcta mineralización del hueso."
+        },
+        {
+          "letter": "B",
+          "text": "La osteoporosis",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "La escoliosis",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "La gota articular",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es El raquitismo. Científicamente, esto se explica por la deformación del esqueleto en crecimiento por falta de absorción intestinal de calcio. Lo cual es fundamental para comprender anatomía y fisiología humana - soporte y movimiento.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v14",
+      "statement": "Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar sinapsis química especializada establecida entre la terminal de una neurona motora y el sarcolema, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Quillacollo, el estudiante Freddy del Colegio San Simón analiza un problema sobre anatomía y fisiología humana - soporte y movimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La unión neuromuscular",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a sinapsis química especializada establecida entre la terminal de una neurona motora y el sarcolema."
+        },
+        {
+          "letter": "B",
+          "text": "La sinapsis dendrítica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "El potencial de receptor",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "El marcapasos miocárdico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es La unión neuromuscular. Científicamente, esto se explica por la transmisión química mediada por la liberación cuántica de neurotransmisores. Lo cual es fundamental para comprender anatomía y fisiología humana - soporte y movimiento.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v15",
+      "statement": "Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar neurotransmisor excitatorio liberado en la hendidura sináptica neuromuscular que despolariza la fibra, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Sacaba, el estudiante René del Colegio Nacional Junín analiza un problema sobre anatomía y fisiología humana - soporte y movimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acetilcolina",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a neurotransmisor excitatorio liberado en la hendidura sináptica neuromuscular que despolariza la fibra."
+        },
+        {
+          "letter": "B",
+          "text": "Noradrenalina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Glutamato",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Dopamina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Acetilcolina. Científicamente, esto se explica por la activación de receptores ionotrópicos nicotínicos que abren canales de sodio. Lo cual es fundamental para comprender anatomía y fisiología humana - soporte y movimiento.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v16",
+      "statement": "Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar hormona endocrina que estimula a los osteoclastos para disolver hueso y elevar el calcio en sangre, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Montero, el estudiante Lidia del Unidad Educativa Juan Pablo II analiza un problema sobre anatomía y fisiología humana - soporte y movimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La hormona paratiroidea (pth)",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a hormona endocrina que estimula a los osteoclastos para disolver hueso y elevar el calcio en sangre."
+        },
+        {
+          "letter": "B",
+          "text": "La calcitonina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "La tiroxina",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "La aldosterona",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es La hormona paratiroidea (pth). Científicamente, esto se explica por la respuesta reguladora hipercalcemiante ante niveles bajos de calcio circulante. Lo cual es fundamental para comprender anatomía y fisiología humana - soporte y movimiento.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v17",
+      "statement": "Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar hormona secretada por la tiroides que promueve el depósito de calcio en los huesos reduciendo el calcio libre, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Riberalta, el estudiante Edwin del Colegio San Calixto analiza un problema sobre anatomía y fisiología humana - soporte y movimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La calcitonina",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a hormona secretada por la tiroides que promueve el depósito de calcio en los huesos reduciendo el calcio libre."
+        },
+        {
+          "letter": "B",
+          "text": "La hormona paratiroidea",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "La melatonina",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "La insulina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es La calcitonina. Científicamente, esto se explica por la respuesta reguladora hipocalcemiante ante niveles elevados de calcio plasmático. Lo cual es fundamental para comprender anatomía y fisiología humana - soporte y movimiento.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v18",
+      "statement": "Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar tipo de tejido muscular que presenta estrías longitudinales y contracción involuntaria autónoma, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Warnes, el estudiante Marcelo del Colegio Nacional Pichincha analiza un problema sobre anatomía y fisiología humana - soporte y movimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Músculo cardíaco",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a tipo de tejido muscular que presenta estrías longitudinales y contracción involuntaria autónoma."
+        },
+        {
+          "letter": "B",
+          "text": "Músculo esquelético",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Músculo liso",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Músculo tendinoso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Músculo cardíaco. Científicamente, esto se explica por la presencia de discos intercalares con uniones gap para la propagación sincrónica del potencial. Lo cual es fundamental para comprender anatomía y fisiología humana - soporte y movimiento.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v19",
+      "statement": "Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar tejido muscular que carece de estrías, posee contracción lenta e involuntaria y recubre vísceras huecas, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Colcapirhua, el estudiante Lidia del Colegio Antonio Vaca Díez analiza un problema sobre anatomía y fisiología humana - soporte y movimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Músculo liso",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a tejido muscular que carece de estrías, posee contracción lenta e involuntaria y recubre vísceras huecas."
+        },
+        {
+          "letter": "B",
+          "text": "Músculo estriado esquelético",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Músculo cardíaco",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Músculo esquelético voluntario",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Músculo liso. Científicamente, esto se explica por la regulación de la contracción mediada por calmodulina en lugar de troponina. Lo cual es fundamental para comprender anatomía y fisiología humana - soporte y movimiento.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v20",
+      "statement": "Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar tipo de palanca biomecánica predominante en el cuerpo humano, como la flexión del codo, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Yacuiba, el estudiante Nancy del Colegio Nacional Florida analiza un problema sobre anatomía y fisiología humana - soporte y movimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Palanca de tercer grado",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a tipo de palanca biomecánica predominante en el cuerpo humano, como la flexión del codo."
+        },
+        {
+          "letter": "B",
+          "text": "Palanca de primer grado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Palanca de segundo grado",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Palanca de cuarto grado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Palanca de tercer grado. Científicamente, esto se explica por la aplicación de la fuerza o potencia muscular entre el punto de apoyo y la resistencia. Lo cual es fundamental para comprender anatomía y fisiología humana - soporte y movimiento.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}

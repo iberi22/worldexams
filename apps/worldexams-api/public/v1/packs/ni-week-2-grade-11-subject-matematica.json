@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "ni",
+    "pack_id": "ni-week-2-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:39.049Z"
+  },
+  "questions": [
+    {
+      "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la característica principal que define a una sucesión geométrica?",
+      "context": "Un estudiante en la Universidad Nacional Autónoma de Nicaragua (UNAN) estudia el crecimiento de poblaciones celulares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La diferencia entre dos términos consecutivos es constante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la definición de una sucesión aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "Cada término se obtiene multiplicando el anterior por una constante llamada razón común.",
+          "is_correct": true,
+          "feedback": "Correcto. En una sucesión geométrica, el cociente entre términos sucesivos es constante (r)."
+        },
+        {
+          "letter": "C",
+          "text": "Los términos siempre son números enteros positivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los términos pueden ser fraccionarios, negativos o incluso cero en ciertos contextos."
+        },
+        {
+          "letter": "D",
+          "text": "La suma de dos términos consecutivos es siempre igual a la razón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es multiplicativa, no aditiva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una sucesión geométrica se define por la relación recurrente $a_n = a_{n-1} \\cdot r$, donde $r$ es la razón común.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la fórmula del término enésimo ($a_n$) de una sucesión geométrica con primer término $a_1$ y razón común $r$?",
+      "context": "Un laboratorio en Managua analiza la duplicación de bacterias en un cultivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_n = a_1 + (n - 1)r$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta fórmula corresponde a una progresión aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "$a_n = a_1 \\cdot r^{n-1}$",
+          "is_correct": true,
+          "feedback": "Correcto. Esta expresión permite calcular cualquier término basándose en el crecimiento exponencial de la razón."
+        },
+        {
+          "letter": "C",
+          "text": "$a_n = a_1 \\cdot r^n$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta fórmula daría $a_1 \\cdot r$ para el primer término ($n=1$), lo cual es incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$a_n = \\frac{a_1}{r^{n-1}}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta fórmula representaría un decrecimiento inverso, no la forma estándar de la sucesión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El término enésimo se obtiene multiplicando el primer término por la razón elevada a la potencia $(n-1)$, lo que representa el número de saltos realizados.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v3",
+      "statement": "Si la razón común ($r$) de una sucesión geométrica está entre 0 y 1 ($0 < r < 1$), ¿cómo se comportan los términos de la sucesión (asumiendo $a_1 > 0$)?",
+      "context": "Un plan de inversión en un banco nicaragüense que ofrece interés compuesto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los términos crecen indefinidamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sucedería si $r > 1$."
+        },
+        {
+          "letter": "B",
+          "text": "Los términos decrecen hacia cero.",
+          "is_correct": true,
+          "feedback": "Correcto. Al multiplicar repetidamente por un valor menor a la unidad, el producto se hace cada vez más pequeño."
+        },
+        {
+          "letter": "C",
+          "text": "Los términos permanecen constantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo serían constantes si $r = 1$."
+        },
+        {
+          "letter": "D",
+          "text": "Los términos alternan entre positivos y negativos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sucedería si la razón fuera negativa ($r < 0$)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La magnitud de la razón determina el crecimiento o decrecimiento: $|r| > 1$ implica crecimiento, mientras que $|r| < 1$ implica decrecimiento (convergencia hacia cero).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v4",
+      "statement": "Dada la sucesión geométrica: 3, 6, 12, 24, ..., ¿cuál es el valor de la razón común ($r$)?",
+      "context": "Una progresión de valores en una escala logarítmica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3 es el primer término, no la razón."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. Dividiendo cualquier término entre el anterior ($6/3=2, 12/6=2$) obtenemos la razón constante 2."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. El salto entre 3 y 6 no es por factor 4."
+        },
+        {
+          "letter": "D",
+          "text": "1.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al multiplicar 3 por 1.5 no obtenemos 6."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La razón común se halla dividiendo un término entre su antecesor: $r = a_n / a_{n-1}$. Aquí, $6 / 3 = 2$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v5",
+      "statement": "Si el primer término de una sucesión geométrica es 5 y la razón es 3, ¿cuál es el valor del cuarto término ($a_4$)?",
+      "context": "Un rumor que se extiende en una red social en Nicaragua, triplicando su alcance cada hora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "45",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el tercer término ($5 \\times 3^2$)."
+        },
+        {
+          "letter": "B",
+          "text": "135",
+          "is_correct": true,
+          "feedback": "Correcto. $a_4 = 5 \\times 3^{4-1} = 5 \\times 3^3 = 5 \\times 27 = 135$."
+        },
+        {
+          "letter": "C",
+          "text": "405",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el quinto término ($5 \\times 3^4$)."
+        },
+        {
+          "letter": "D",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó $5 + 3 \\times 5$, error de concepto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicando $a_n = a_1 \\cdot r^{n-1}$ con $a_1=5, r=3, n=4$, resulta en 135.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v6",
+      "statement": "Si el valor inicial de una máquina es C$ 10,000 y cada año vale el 80% del año anterior, ¿cuál es el término general que representa su valor en el año $n$?",
+      "context": "El valor de un equipo agrícola en Chinandega que se deprecia un 20% anual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_n = 10,000 \\cdot (0.2)^{n-1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. 0.2 es la pérdida, no el valor remanente."
+        },
+        {
+          "letter": "B",
+          "text": "$a_n = 10,000 \\cdot (0.8)^{n-1}$",
+          "is_correct": true,
+          "feedback": "Correcto. La razón es 0.8, representando el valor que se conserva cada periodo."
+        },
+        {
+          "letter": "C",
+          "text": "$a_n = 10,000 - 800(n-1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría una depreciación lineal (aritmética)."
+        },
+        {
+          "letter": "D",
+          "text": "$a_n = 10,000 \\cdot (1.8)^{n-1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría un crecimiento del 80%, no una depreciación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La depreciación porcentual constante se modela como una sucesión geométrica donde $r = 1 - \\text{tasa de depreciación}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.72,
+      "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v7",
+      "statement": "Una pelota rebota hasta las 3/4 partes de la altura desde la que se suelta. Si se suelta desde 16 metros, ¿qué altura alcanza en el tercer rebote?",
+      "context": "Un experimento de física en un colegio de Granada sobre el rebote de una pelota.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la altura del primer rebote."
+        },
+        {
+          "letter": "B",
+          "text": "9 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la altura del segundo rebote."
+        },
+        {
+          "letter": "C",
+          "text": "6.75 metros",
+          "is_correct": true,
+          "feedback": "Correcto. $a_1=16 \\times 0.75 = 12$. Luego $a_3 = 12 \\times (0.75)^{3-1} = 12 \\times 0.5625 = 6.75$. (O $16 \\times (0.75)^3 = 6.75$)."
+        },
+        {
+          "letter": "D",
+          "text": "5.06 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería la altura del cuarto rebote."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cada rebote es un término de una sucesión geométrica. La altura después del rebote $n$ es $H \\cdot r^n$. Aquí $16 \\cdot (3/4)^3 = 16 \\cdot (27/64) = 27/4 = 6.75$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v8",
+      "statement": "En una sucesión geométrica, el segundo término es 10 y el quinto término es 80. ¿Cuál es el valor de la razón común?",
+      "context": "El ahorro acumulado en una cooperativa de Estelí.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si r=4, $a_5$ sería mucho mayor."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. $a_5 = a_2 \\cdot r^3 \\Rightarrow 80 = 10 \\cdot r^3 \\Rightarrow 8 = r^3 \\Rightarrow r = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. $3^3 = 27$, no coincide con el factor de crecimiento 8."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el factor total entre $a_5$ y $a_2$, no la razón individual por paso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la relación $a_j = a_i \\cdot r^{j-i}$. Despejando: $r = \\sqrt[j-i]{a_j/a_i} = \\sqrt[3]{80/10} = 2$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v9",
+      "statement": "Si una sucesión geométrica tiene razón $r = -1$, ¿cómo se comportan sus términos partiendo de $a_1 = 5$?",
+      "context": "Un cambio de signo en los términos de una progresión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los términos son 5.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería si r fuera 1."
+        },
+        {
+          "letter": "B",
+          "text": "Los términos alternan entre 5 y -5.",
+          "is_correct": true,
+          "feedback": "Correcto. Multiplicar por -1 cambia el signo de cada término sucesivo."
+        },
+        {
+          "letter": "C",
+          "text": "Los términos decrecen hacia el infinito negativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La magnitud se mantiene constante en 5."
+        },
+        {
+          "letter": "D",
+          "text": "Los términos se vuelven cero eventualmente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cero solo se alcanza si r=0 o si partimos de cero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una razón negativa produce una sucesión alternante. Si $r = -1$, la sucesión oscila entre el valor inicial y su opuesto aditivo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.62,
+      "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v10",
+      "statement": "¿Cuántos términos tiene la sucesión geométrica 2, 4, 8, ..., 128?",
+      "context": "Identificación del número de términos en una sucesión finita.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2^6 = 64$."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Correcto. $128 = 2 \\cdot 2^{n-1} \\Rightarrow 64 = 2^{n-1} \\Rightarrow 2^6 = 2^{n-1} \\Rightarrow 6 = n-1 \\Rightarrow n = 7$."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2^8 = 256$."
+        },
+        {
+          "letter": "D",
+          "text": "64",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió el último término entre el primero sin usar logaritmos o potencias."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar n, resolvemos la ecuación exponencial $a_n = a_1 \\cdot r^{n-1}$. Aquí, $128 = 2^7$, por lo tanto $n = 7$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la fórmula para calcular la suma de los primeros $n$ términos ($S_n$) de una sucesión geométrica con razón $r \\neq 1$?",
+      "context": "Un sistema de ahorro donde se deposita el doble del día anterior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$S_n = \\frac{a_1(r^n - 1)}{r - 1}$",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la expresión cerrada para la sumatoria de una progresión geométrica."
+        },
+        {
+          "letter": "B",
+          "text": "$S_n = \\frac{n(a_1 + a_n)}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta fórmula es exclusiva para sucesiones aritméticas."
+        },
+        {
+          "letter": "C",
+          "text": "$S_n = a_1 \\cdot r^n$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta expresión solo calcula el término siguiente, no la suma acumulada."
+        },
+        {
+          "letter": "D",
+          "text": "$S_n = \\frac{a_1}{1 - r}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la fórmula para la suma infinita de una serie convergente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La suma de una sucesión geométrica finita depende del primer término, la razón y el número de términos. Se deriva de la diferencia entre $S_n$ y $r \\cdot S_n$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v12",
+      "statement": "¿Cuánto dinero se habrá acumulado en total después de 6 meses si el primer depósito fue de C$ 100 y cada mes se depositó el doble del anterior?",
+      "context": "Un fondo de emergencia que comienza con C$ 100 y se duplica cada mes durante un semestre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C$ 3,200",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es solo el valor del sexto depósito ($a_6$)."
+        },
+        {
+          "letter": "B",
+          "text": "C$ 6,300",
+          "is_correct": true,
+          "feedback": "Correcto. $a_1=100, r=2, n=6$. $S_6 = \\frac{100(2^6 - 1)}{2 - 1} = 100(64 - 1) = 6,300$."
+        },
+        {
+          "letter": "C",
+          "text": "C$ 6,400",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó restar 1 en el numerador de la fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "C$ 12,700",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó para 7 meses en lugar de 6."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicando la fórmula de la suma finita con $n=6$: $100 \\cdot (63) = 6,300$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v13",
+      "statement": "Un artículo que cuesta C$ 1,000 recibe tres descuentos sucesivos del 10% cada uno. ¿Cuál es el precio final del artículo?",
+      "context": "Un descuento sucesivo en una tienda de ropa en Managua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C$ 700",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sería si el descuento fuera del 30% una sola vez (aritmético)."
+        },
+        {
+          "letter": "B",
+          "text": "C$ 729",
+          "is_correct": true,
+          "feedback": "Correcto. Se modela como una sucesión geométrica: $1,000 \\times (0.9)^3 = 1,000 \\times 0.729 = 729$."
+        },
+        {
+          "letter": "C",
+          "text": "C$ 810",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el precio después de dos descuentos."
+        },
+        {
+          "letter": "D",
+          "text": "C$ 750",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo en la aplicación de los porcentajes sucesivos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los descuentos porcentuales sucesivos son multiplicativos, no aditivos. El factor es $(1 - 0.10) = 0.9$ aplicado 3 veces.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la suma infinita de la serie geométrica $100 + 50 + 25 + 12.5 + \\dots$?",
+      "context": "La suma de una serie de donaciones que disminuyen a la mitad cada año.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "150",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de los dos primeros términos ya es 150."
+        },
+        {
+          "letter": "B",
+          "text": "200",
+          "is_correct": true,
+          "feedback": "Correcto. Para una serie infinita con $|r| < 1$, $S = \\frac{a_1}{1 - r}$. Aquí $S = \\frac{100}{1 - 0.5} = \\frac{100}{0.5} = 200$."
+        },
+        {
+          "letter": "C",
+          "text": "Es infinita (diverge).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como $|r| = 0.5 < 1$, la serie converge a un valor finito."
+        },
+        {
+          "letter": "D",
+          "text": "250",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la resta o división del denominador."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una serie geométrica infinita converge si y solo si la razón está entre -1 y 1. La suma se aproxima al límite $a_1 / (1-r)$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v15",
+      "statement": "Si se interpolan dos medios geométricos entre 2 y 54, ¿cuáles son los términos que faltan para completar la sucesión?",
+      "context": "Un problema de interpolación de medios geométricos entre dos valores de presión atmosférica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 y 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. La razón no se mantiene constante para llegar a 54."
+        },
+        {
+          "letter": "B",
+          "text": "6 y 18",
+          "is_correct": true,
+          "feedback": "Correcto. Al insertar 2 términos, 54 es el cuarto término. $54 = 2 \\cdot r^3 \\Rightarrow 27 = r^3 \\Rightarrow r = 3$. Los términos son $2, 6, 18, 54$."
+        },
+        {
+          "letter": "C",
+          "text": "10 y 30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicar por 5 y luego por 3 no es una sucesión geométrica válida."
+        },
+        {
+          "letter": "D",
+          "text": "8 y 32",
+          "is_correct": false,
+          "feedback": "Incorrecto. La razón 4 no lleva de 32 a 54."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Interpolar $k$ medios geométricos requiere hallar la razón $r = \\sqrt[k+1]{b/a}$. Aquí $r = \\sqrt[3]{54/2} = 3$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v16",
+      "statement": "En una sucesión geométrica de términos positivos $a, b, c$, ¿cuál es la relación correcta que debe cumplirse?",
+      "context": "Identificación de la naturaleza de una sucesión a partir de una propiedad algebraica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$b = \\frac{a + c}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la media aritmética para sucesiones aritméticas."
+        },
+        {
+          "letter": "B",
+          "text": "$b = \\sqrt{a \\cdot c}$",
+          "is_correct": true,
+          "feedback": "Correcto. En una sucesión geométrica, cada término es la media geométrica de sus términos adyacentes ($b/a = c/b \\Rightarrow b^2 = ac$)."
+        },
+        {
+          "letter": "C",
+          "text": "$b = c - a$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta relación no define un crecimiento proporcional."
+        },
+        {
+          "letter": "D",
+          "text": "$b = a^2 \\cdot c^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Relación inconsistente con el factor de razón común."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El término central de tres términos consecutivos en una progresión geométrica es igual a la raíz cuadrada del producto de los extremos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v17",
+      "statement": "Si en el primer cuadro de un tablero se coloca 1 grano de café, en el segundo 2, en el tercero 4, y así sucesivamente, ¿cuál es la expresión para la suma total de granos en los primeros $n$ cuadros?",
+      "context": "El problema del tablero de ajedrez y los granos de trigo (versión nicaragüense con granos de café).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2^n$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la cantidad de granos solo en el cuadro $n+1$, no la suma."
+        },
+        {
+          "letter": "B",
+          "text": "$2^n - 1$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la fórmula de la suma: $S_n = \\frac{1(2^n - 1)}{2 - 1} = 2^n - 1$."
+        },
+        {
+          "letter": "C",
+          "text": "$2^{n-1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la cantidad de granos en el cuadro $n$."
+        },
+        {
+          "letter": "D",
+          "text": "$n^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El crecimiento es exponencial, no cuadrático."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este es el ejemplo clásico de crecimiento exponencial acelerado. La suma de las potencias de 2 desde $2^0$ hasta $2^{n-1}$ es siempre $2^n - 1$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v18",
+      "statement": "Calcula la suma de la serie infinita: $\\frac{2}{3} + \\frac{2}{9} + \\frac{2}{27} + \\dots$",
+      "context": "Un análisis de convergencia de una serie geométrica con razón fraccionaria compleja.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma no alcanza el valor de 2 unidades."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. $a_1 = 2/3, r = 1/3$. $S = \\frac{2/3}{1 - 1/3} = \\frac{2/3}{2/3} = 1$."
+        },
+        {
+          "letter": "C",
+          "text": "1.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la resta de fracciones del denominador."
+        },
+        {
+          "letter": "D",
+          "text": "0.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resultado insuficiente basado en la suma de los primeros términos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La serie converge a 1, demostrando cómo una suma infinita de partes cada vez más pequeñas puede resultar en una unidad entera.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v19",
+      "statement": "Si los números $x, x+3, x+9$ forman una sucesión geométrica en ese orden, ¿cuál es el valor de $x$?",
+      "context": "Un reto de lógica sobre la relación entre sucesiones aritméticas y geométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Daría 6, 9, 15, cuya razón no es constante (1.5 vs 1.66)."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{x+3}{x} = \\frac{x+9}{x+3} \\Rightarrow (x+3)^2 = x(x+9) \\Rightarrow x^2 + 6x + 9 = x^2 + 9x \\Rightarrow 9 = 3x \\Rightarrow x = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Daría 9, 12, 18, razón no constante."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La división por cero no está definida para la razón."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Igualamos las razones entre términos consecutivos para formar una ecuación cuadrática que se simplifica a lineal.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el producto de los primeros 3 términos de una sucesión geométrica donde $a_2 = 5$?",
+      "context": "Determinación del producto de los primeros términos de una sucesión geométrica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería el producto si la razón fuera 1 y todos los términos fueran 5, pero sumados."
+        },
+        {
+          "letter": "B",
+          "text": "75",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo en la multiplicación de los términos extremos."
+        },
+        {
+          "letter": "C",
+          "text": "125",
+          "is_correct": true,
+          "feedback": "Correcto. Los términos son $a_1, a_2, a_3$. El producto es $a_1 \\cdot a_2 \\cdot a_3$. Como $a_1 \\cdot a_3 = a_2^2$ (propiedad de la media geométrica), el producto es $a_2^2 \\cdot a_2 = a_2^3 = 5^3 = 125$."
+        },
+        {
+          "letter": "D",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es solo el producto de los extremos, falta multiplicar por el término central."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una propiedad útil es que el producto de los primeros $n$ términos es $\\sqrt{(a_1 \\cdot a_n)^n}$. Para 3 términos, es simplemente el cubo del término central.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "NI-MAT-11-2026-W02-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    }
+  ]
+}

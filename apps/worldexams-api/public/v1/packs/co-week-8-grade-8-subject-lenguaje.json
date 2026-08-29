@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-8-grade-8-subject-lengua",
+    "generated_at": "2026-06-18T23:58:37.583Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el autor más representativo y brillante de la corriente conceptista en España?",
+      "context": "El Conceptismo es una de las dos grandes corrientes de la lírica barroca española del siglo XVII, centrada en la agudeza del pensamiento.\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Luis de Góngora",
+          "is_correct": false,
+          "feedback": "Góngora es el líder del Culteranismo, la corriente opuesta."
+        },
+        {
+          "letter": "B",
+          "text": "Francisco de Quevedo",
+          "is_correct": true,
+          "feedback": "Su ingenio, dominio del lenguaje y capacidad de síntesis lo convierten en el maestro del conceptismo."
+        },
+        {
+          "letter": "C",
+          "text": "Garcilaso de la Vega",
+          "is_correct": false,
+          "feedback": "Garcilaso pertenece al Renacimiento (siglo XVI)."
+        },
+        {
+          "letter": "D",
+          "text": "Lope de Vega",
+          "is_correct": false,
+          "feedback": "Aunque usó recursos conceptistas, su estilo suele ser más equilibrado y popular."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Francisco de Quevedo es la figura central del Conceptismo, destacando por su manejo magistral del doble sentido, la paradoja y la sátira punzante.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la prioridad fundamental del estilo conceptista en la literatura barroca?",
+      "context": "Baltasar Gracián definió el \"concepto\" como un acto del entendimiento que expresa la correspondencia que se halla entre los objetos.\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La belleza sonora y musical de los versos por encima de todo.",
+          "is_correct": false,
+          "feedback": "Esto es más propio del Culteranismo."
+        },
+        {
+          "letter": "B",
+          "text": "La densidad del pensamiento y el juego ingenioso de ideas y palabras.",
+          "is_correct": true,
+          "feedback": "Se busca decir mucho en pocas palabras (economía verbal) mediante la agudeza mental."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción realista y sencilla de la vida en el campo.",
+          "is_correct": false,
+          "feedback": "El conceptismo es intelectual y complejo, no busca la sencillez pastoril."
+        },
+        {
+          "letter": "D",
+          "text": "El uso exclusivo de palabras latinas para que nadie entienda el poema.",
+          "is_correct": false,
+          "feedback": "Aunque usa cultismos, su foco es el juego lógico más que el léxico exótico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Conceptismo valora la inteligencia y el ingenio del lector, desafiándolo a encontrar relaciones inesperadas entre palabras y conceptos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo se denomina el recurso literario que consiste en usar palabras que suenan igual o parecido pero tienen significados distintos, muy común en Quevedo?",
+      "context": "Los escritores conceptistas utilizaban juegos de palabras basados en el significado para sorprender al lector.\n**Expected_Success:** 0.82",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hipérbaton",
+          "is_correct": false,
+          "feedback": "Es la alteración del orden de la frase, más común en Góngora."
+        },
+        {
+          "letter": "B",
+          "text": "Metáfora",
+          "is_correct": false,
+          "feedback": "Es una comparación implícita basada en la analogía."
+        },
+        {
+          "letter": "C",
+          "text": "Calambur o equívoco",
+          "is_correct": true,
+          "feedback": "El juego con el doble sentido de las palabras es una herramienta esencial del ingenio conceptista."
+        },
+        {
+          "letter": "D",
+          "text": "Epíteto",
+          "is_correct": false,
+          "feedback": "Es un adjetivo calificativo que resalta una cualidad inherente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El juego de palabras permite al autor conceptista crear múltiples capas de significado en un mismo verso, demostrando su agudeza verbal.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle-v4",
+      "statement": "¿Qué efecto busca el autor conceptista al utilizar frases cortas cargadas de significados complejos?",
+      "context": "El Conceptismo se asocia a menudo con la brevedad y la concisión. Se dice que \"lo bueno, si breve, dos veces bueno\".\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Terminar el libro más rápido porque no tenía tiempo para escribir.",
+          "is_correct": false,
+          "feedback": "La brevedad conceptista exige mucho esfuerzo de condensación."
+        },
+        {
+          "letter": "B",
+          "text": "Facilitar que los niños pequeños puedan leer sus obras sin cansarse.",
+          "is_correct": false,
+          "feedback": "Sus obras están dirigidas a un público adulto e intelectualmente preparado."
+        },
+        {
+          "letter": "C",
+          "text": "Concentrar la máxima cantidad de inteligencia e ingenio en el mínimo espacio posible.",
+          "is_correct": true,
+          "feedback": "Es la estética de la densidad: intensidad frente a extensión."
+        },
+        {
+          "letter": "D",
+          "text": "Evitar que la Inquisición encuentre errores en sus textos largos.",
+          "is_correct": false,
+          "feedback": "La brevedad busca el impacto estético e intelectual, no el ocultamiento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La economía de lenguaje en el Conceptismo obliga al lector a participar activamente, \"desempaquetando\" los múltiples sentidos de cada frase.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle-v5",
+      "statement": "Si Quevedo dice de un hombre muy pobre que \"no tiene ni cama ni cara\", jugando con que \"cara\" significa rostro y también alto precio, ¿qué está logrando con este recurso?",
+      "context": "La dilogía es un recurso que consiste en usar una palabra con dos significados distintos al mismo tiempo.\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar sobre la falta de higiene de los pobres en el siglo XVII.",
+          "is_correct": false,
+          "feedback": "Es una interpretación literal que ignora el juego literario."
+        },
+        {
+          "letter": "B",
+          "text": "Demostrar que el idioma español tiene muchas palabras confusas.",
+          "is_correct": false,
+          "feedback": "No busca la confusión, sino la brillantez del ingenio."
+        },
+        {
+          "letter": "C",
+          "text": "Realizar una crítica social ácida mediante un juego de palabras inteligente.",
+          "is_correct": true,
+          "feedback": "La dilogía permite denunciar la miseria de forma ingeniosa y punzante."
+        },
+        {
+          "letter": "D",
+          "text": "Explicar cómo se fabricaban las camas en la época de Felipe IV.",
+          "is_correct": false,
+          "feedback": "El texto es una sátira social, no un tratado técnico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La dilogía es uno de los mecanismos favoritos del conceptismo para la sátira, permitiendo decir una verdad dolorosa a través de una pirueta verbal.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle-v6",
+      "statement": "¿Qué elemento común une la poesía donde Quevedo reflexiona sobre la muerte y sus poemas donde se burla de un enemigo?",
+      "context": "Quevedo escribió tanto poesía metafísica profunda como sátiras burlonas muy crueles.\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso constante de la mitología griega para adornar los versos.",
+          "is_correct": false,
+          "feedback": "Esto es más característico de Góngora."
+        },
+        {
+          "letter": "B",
+          "text": "El uso magistral del lenguaje para expresar una visión desengañada de la realidad.",
+          "is_correct": true,
+          "feedback": "Ya sea con seriedad o con humor, Quevedo muestra la decadencia y la falsedad del mundo."
+        },
+        {
+          "letter": "C",
+          "text": "La esperanza de que el mundo mejorará gracias a la política del Rey.",
+          "is_correct": false,
+          "feedback": "El Barroco de Quevedo es profundamente pesimista y crítico."
+        },
+        {
+          "letter": "D",
+          "text": "El rechazo a usar cualquier tipo de figura retórica para ser más claro.",
+          "is_correct": false,
+          "feedback": "Su estilo está lleno de recursos retóricos, especialmente basados en el pensamiento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ingenio conceptista sirve tanto para la elevación filosófica como para la degradación satírica, reflejando las contradicciones del ser humano barroco.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle-v7",
+      "statement": "En el famoso verso \"Ayer se fue; mañana no ha llegado; hoy se está yendo sin parar un punto\", ¿qué concepto filosófico está expresando Quevedo?",
+      "context": "En el conceptismo se utiliza mucho la antítesis y la paradoja para mostrar los conflictos internos del alma.\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La importancia de planificar bien el calendario de actividades.",
+          "is_correct": false,
+          "feedback": "La reflexión es existencial, no organizativa."
+        },
+        {
+          "letter": "B",
+          "text": "Que los relojes del siglo XVII no funcionaban correctamente.",
+          "is_correct": false,
+          "feedback": "Los relojes (reloj de arena, de sol) eran símbolos de la fugacidad, no críticas técnicas."
+        },
+        {
+          "letter": "C",
+          "text": "La fugacidad extrema del tiempo y la inexistencia del presente absoluto.",
+          "is_correct": true,
+          "feedback": "Es la angustia por el paso inevitable del tiempo que conduce a la muerte (Tempus fugit)."
+        },
+        {
+          "letter": "D",
+          "text": "Que el pasado fue mucho mejor que el presente que vivimos.",
+          "is_correct": false,
+          "feedback": "El poema enfatiza la desaparición constante del tiempo, no la nostalgia de una época."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La reflexión sobre el tiempo es uno de los temas cumbres del conceptismo, expresando la conciencia barroca de la muerte como algo que ocurre en cada instante de la vida.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la diferencia fundamental entre la \"oscuridad\" de Góngora y la \"oscuridad\" de Quevedo?",
+      "context": "Los conceptistas criticaban a los culteranos por su \"oscuridad\", mientras que los culteranos criticaban a los conceptistas por su lenguaje \"seco\".\n**Expected_Success:** 0.58",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Góngora era oscuro porque no sabía escribir y Quevedo porque era ciego.",
+          "is_correct": false,
+          "feedback": "Es un comentario falso e irrespetuoso hacia dos maestros del lenguaje."
+        },
+        {
+          "letter": "B",
+          "text": "Góngora es difícil por la forma y el vocabulario; Quevedo es difícil por la profundidad y los saltos lógicos de las ideas.",
+          "is_correct": true,
+          "feedback": "Son dos caminos distintos hacia la complejidad barroca: el léxico y el conceptual."
+        },
+        {
+          "letter": "C",
+          "text": "Góngora escribía para los niños y Quevedo para los ancianos.",
+          "is_correct": false,
+          "feedback": "Ambos escribían para la élite intelectual del Siglo de Oro."
+        },
+        {
+          "letter": "D",
+          "text": "No hay ninguna diferencia, ambos escribían exactamente de la misma manera.",
+          "is_correct": false,
+          "feedback": "Aunque ambos son barrocos, sus estilos son marcadamente distintos y enfrentados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La dificultad culterana es externa y sensorial (necesitas diccionario y mitología); la dificultad conceptista es interna y lógica (necesitas agudeza mental).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle-v9",
+      "statement": "¿Qué objetivo perseguía Gracián al escribir sus tratados de prudencia y sabiduría de forma tan densa y llena de aforismos?",
+      "context": "Baltasar Gracián llevó el conceptismo a la prosa en obras como \"El Criticón\" y \"El Oráculo Manual\".\n**Expected_Success:** 0.52",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el libro fuera más barato al tener menos páginas.",
+          "is_correct": false,
+          "feedback": "La densidad no busca el ahorro material, sino la riqueza intelectual."
+        },
+        {
+          "letter": "B",
+          "text": "Ocultar secretos militares que solo los generales podían entender.",
+          "is_correct": false,
+          "feedback": "Son consejos éticos y sociales para triunfar en la vida pública."
+        },
+        {
+          "letter": "C",
+          "text": "Seleccionar a sus lectores, premiando a quienes tenían la capacidad de descifrar sus enseñanzas.",
+          "is_correct": true,
+          "feedback": "El estilo difícil es un filtro para que solo los \"sabios\" accedan al conocimiento profundo."
+        },
+        {
+          "letter": "D",
+          "text": "Demostrar que se puede escribir sin usar verbos en ninguna oración.",
+          "is_correct": false,
+          "feedback": "Usa verbos, pero de forma muy precisa y económica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Gracián representa el culmen del conceptismo en prosa, donde la sabiduría se entrega en pequeñas dosis concentradas que exigen meditación.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.52,
+      "bundle_id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle-v10",
+      "statement": "¿Qué efecto degradante busca Quevedo al describir a una mujer vieja comparándola con un mueble o un animal seco en lugar de usar términos humanos?",
+      "context": "Quevedo utiliza a menudo la cosificación de las personas en sus sátiras (convertir a personas en objetos).\n**Expected_Success:** 0.45",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mostrar su admiración por la resistencia de los muebles antiguos.",
+          "is_correct": false,
+          "feedback": "Es una sátira, el objetivo es la burla, no la admiración."
+        },
+        {
+          "letter": "B",
+          "text": "Ayudar a que la gente entienda mejor cómo envejecen las personas.",
+          "is_correct": false,
+          "feedback": "No tiene un fin médico o educativo, sino de ataque personal o social."
+        },
+        {
+          "letter": "C",
+          "text": "Despojar al personaje de su dignidad humana para resaltar lo ridículo o repulsivo de la vejez y la decadencia.",
+          "is_correct": true,
+          "feedback": "La cosificación es una técnica de agresión verbal típica del ingenio satírico barroco."
+        },
+        {
+          "letter": "D",
+          "text": "Demostrar que los objetos son más importantes que las personas en el Barroco.",
+          "is_correct": false,
+          "feedback": "Es un recurso de degradación estilística, no una jerarquía de valores real."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La técnica de la cosificación o animalización en la sátira conceptista sirve para subrayar el desengaño barroco ante la fealdad y el paso del tiempo.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle-v11",
+      "statement": "¿Cómo logra Quevedo superar el pesimismo del \"Memento mori\" en su famoso verso final \"polvo serán, mas polvo enamorado\"?",
+      "context": "El soneto \"Cerrar podrá mis ojos la postrera...\" es considerado uno de los mejores poemas de amor de la lengua española.\n**Expected_Success:** 0.40",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diciendo que los enamorados nunca mueren realmente.",
+          "is_correct": false,
+          "feedback": "Reconoce que morirán y se convertirán en polvo (realismo)."
+        },
+        {
+          "letter": "B",
+          "text": "Prometiendo que el amor les dará riquezas en la otra vida.",
+          "is_correct": false,
+          "feedback": "No habla de riquezas, sino de la persistencia del sentimiento."
+        },
+        {
+          "letter": "C",
+          "text": "Afirmando que el amor tiene la fuerza suficiente para trascender la muerte física, aunque el cuerpo se destruya.",
+          "is_correct": true,
+          "feedback": "Es la victoria metafísica del sentimiento sobre la materia corruptible."
+        },
+        {
+          "letter": "D",
+          "text": "Sugiriendo que el polvo de los amantes se puede usar para hacer medicinas.",
+          "is_correct": false,
+          "feedback": "Es una interpretación literal y absurda de una metáfora sublime."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este poema representa la síntesis conceptista entre la crudeza de la muerte y la altura del sentimiento humano, logrando una imagen de gran poder emocional.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.4,
+      "bundle_id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle-v12",
+      "statement": "¿Por qué se considera que el Conceptismo de Quevedo es un precursor del humor negro y de la ironía moderna?",
+      "context": "El Conceptismo es fundamental para entender el origen de la modernidad literaria en España por su uso irónico y autorreferencial del lenguaje.\n**Expected_Success:** 0.38",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque Quevedo fue el primer autor en escribir chistes para la televisión.",
+          "is_correct": false,
+          "feedback": "Es un anacronismo absurdo; la televisión no existía."
+        },
+        {
+          "letter": "B",
+          "text": "Porque utilizaba colores oscuros en todas las portadas de sus libros.",
+          "is_correct": false,
+          "feedback": "El \"humor negro\" es un concepto literario y vital, no de diseño gráfico."
+        },
+        {
+          "letter": "C",
+          "text": "Por su capacidad de reírse de la desgracia propia y ajena y de cuestionar todas las verdades aparentes.",
+          "is_correct": true,
+          "feedback": "La risa amarga y el cuestionamiento de la realidad son rasgos profundamente modernos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo escribía sobre fantasmas y cementerios en sus poemas.",
+          "is_correct": false,
+          "feedback": "Sus temas son variados: amor, política, filosofía, religión y vida cotidiana."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La ironía conceptista rompe la relación directa entre palabra y cosa, abriendo un espacio de duda y juego que es característico del pensamiento moderno.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.38,
+      "bundle_id": "CO-LEN-8-2026-W08-conceptismo-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "do",
+    "pack_id": "do-week-10-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:38.424Z"
+  },
+  "questions": [
+    {
+      "id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una \"inecuación\"?",
+      "context": "Un estudiante en Santo Domingo distingue igualdades de desigualdades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Igualdad algebraica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "Desigualdad con incógnitas.",
+          "is_correct": true,
+          "feedback": "Correcto. Usa símbolos <, >, ≤ o ≥."
+        },
+        {
+          "letter": "C",
+          "text": "Operación siempre entera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solución es intervalo."
+        },
+        {
+          "letter": "D",
+          "text": "Expresión sin solución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Suelen tener infinitas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Definición de relaciones de orden entre expresiones algebraicas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v2",
+      "statement": "¿Qué significa \"$\\leq$\"?",
+      "context": "Símbolos en Santiago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mayor que.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es >."
+        },
+        {
+          "letter": "B",
+          "text": "Menor estricto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es <."
+        },
+        {
+          "letter": "C",
+          "text": "Menor o igual.",
+          "is_correct": true,
+          "feedback": "Correcto. Incluye el valor límite."
+        },
+        {
+          "letter": "D",
+          "text": "Diferente de.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es ≠."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificación de operadores de comparación no estricta.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v3",
+      "statement": "¿Qué pasa al multiplicar por negativo?",
+      "context": "Regla de oro de inecuaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Propiedad clave."
+        },
+        {
+          "letter": "B",
+          "text": "Se invierte el sentido.",
+          "is_correct": true,
+          "feedback": "Correcto. Mayor se vuelve menor."
+        },
+        {
+          "letter": "C",
+          "text": "Se vuelve igualdad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sigue inecuación."
+        },
+        {
+          "letter": "D",
+          "text": "Solo cambia el número.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambia operador."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Propiedad fundamental de las desigualdades en el campo real.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v4",
+      "statement": "¿Intervalo para mayores que 5?",
+      "context": "Notación de $x > 5$ en La Romana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "[5, inf)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incluye al 5."
+        },
+        {
+          "letter": "B",
+          "text": "(5, inf)",
+          "is_correct": true,
+          "feedback": "Correcto. Paréntesis para no incluido."
+        },
+        {
+          "letter": "C",
+          "text": "(-inf, 5)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son los menores."
+        },
+        {
+          "letter": "D",
+          "text": "[5, 10]",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es acotado superiormente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Traducción de desigualdades a notación de intervalos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v5",
+      "statement": "Halla la solución.",
+      "context": "Resolver $x + 8 < 15$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x < 23",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste el 8."
+        },
+        {
+          "letter": "B",
+          "text": "x < 7",
+          "is_correct": true,
+          "feedback": "Correcto. $15 - 8 = 7$."
+        },
+        {
+          "letter": "C",
+          "text": "x > 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. No invierte signo."
+        },
+        {
+          "letter": "D",
+          "text": "x = 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es punto único."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de inecuaciones de primer grado elementales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v6",
+      "statement": "Conjunto solución.",
+      "context": "Resolver $2x - 4 \\geq 10$ en Puerto Plata.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x >= 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. No sumó 4."
+        },
+        {
+          "letter": "B",
+          "text": "x >= 7",
+          "is_correct": true,
+          "feedback": "Correcto. $2x \\geq 14 \\implies x \\geq 7$."
+        },
+        {
+          "letter": "C",
+          "text": "x <= 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signo errado."
+        },
+        {
+          "letter": "D",
+          "text": "x > 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Debe incluir al 7."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pasos secuenciales para despejar la incógnita en una desigualdad.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v7",
+      "statement": "¿Máximo de libras?",
+      "context": "Queso a RD\\$ 120/lb; presupuesto RD\\$ 500; reserva RD\\$ 50.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. $480+50 > 500$."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. $360+50 \\leq 500$."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excede."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es el máximo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Modelación de restricciones de presupuesto mediante inecuaciones.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v8",
+      "statement": "Solución de x.",
+      "context": "Resolver $-3x + 9 > 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x > 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó invertir."
+        },
+        {
+          "letter": "B",
+          "text": "x < 3",
+          "is_correct": true,
+          "feedback": "Correcto. $-3x > -9$ invierte a $x < 3$."
+        },
+        {
+          "letter": "C",
+          "text": "x < -3",
+          "is_correct": false,
+          "feedback": "Incorrecto. División de signos."
+        },
+        {
+          "letter": "D",
+          "text": "x > -3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Errores múltiples."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación práctica de la inversión de sentido al dividir por negativo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v9",
+      "statement": "Intervalo solución.",
+      "context": "Estudiante en Baní con $2 < x + 5 \\leq 10$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(7, 15]",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó en vez de restar."
+        },
+        {
+          "letter": "B",
+          "text": "(-3, 5]",
+          "is_correct": true,
+          "feedback": "Correcto. Restó 5 a todo."
+        },
+        {
+          "letter": "C",
+          "text": "[-3, 5)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Símbolos de inclusión al revés."
+        },
+        {
+          "letter": "D",
+          "text": "(-3, 10]",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falló extremo superior."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Manejo de inecuaciones de doble frontera.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v10",
+      "statement": "¿Nota mínima x?",
+      "context": "Notas 85 y 92; meta promedio 90.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "90",
+          "is_correct": false,
+          "feedback": "Incorrecto. Promedio 89."
+        },
+        {
+          "letter": "B",
+          "text": "93",
+          "is_correct": true,
+          "feedback": "Correcto. Suma 177+93=270; 270/3=90."
+        },
+        {
+          "letter": "C",
+          "text": "95",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es la mínima."
+        },
+        {
+          "letter": "D",
+          "text": "88",
+          "is_correct": false,
+          "feedback": "Incorrecto. Insuficiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cálculo de valores mínimos requeridos para cumplir una condición promedio.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v11",
+      "statement": "¿Solución?",
+      "context": "Resolver $5x - 2 \\leq 2x + 7$ en Moca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x >= 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sentido errado."
+        },
+        {
+          "letter": "B",
+          "text": "x <= 3",
+          "is_correct": true,
+          "feedback": "Correcto. $3x \\leq 9 \\implies x \\leq 3$."
+        },
+        {
+          "letter": "C",
+          "text": "x <= 1.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. División errada."
+        },
+        {
+          "letter": "D",
+          "text": "x >= 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. No agrupó bien."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Agrupación de incógnitas y constantes en desigualdades.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v12",
+      "statement": "Conjunto solución.",
+      "context": "Cuadrática $x^2 \\leq 9$ en Barahona.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x <= 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó negativos."
+        },
+        {
+          "letter": "B",
+          "text": "[-3, 3]",
+          "is_correct": true,
+          "feedback": "Correcto. Valores cuyo cuadrado no pasa de 9."
+        },
+        {
+          "letter": "C",
+          "text": "(-inf, 3]",
+          "is_correct": false,
+          "feedback": "Incorrecto. No limitado inferiormente."
+        },
+        {
+          "letter": "D",
+          "text": "Solo 3 y -3.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son infinitos reales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de inecuaciones cuadráticas por acotamiento de raíz.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v13",
+      "statement": "¿Qué afirmación es correcta?",
+      "context": "Intervalo $(2, 8]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2 \\leq a \\leq 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Paréntesis excluye."
+        },
+        {
+          "letter": "B",
+          "text": "$2 < a \\leq 8$",
+          "is_correct": true,
+          "feedback": "Correcto. Excluye 2, incluye 8."
+        },
+        {
+          "letter": "C",
+          "text": "$2 \\leq a < 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Inclusión invertida."
+        },
+        {
+          "letter": "D",
+          "text": "Solo enteros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incluye todos los reales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Interpretación de símbolos de intervalo en lenguaje algebraico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v14",
+      "statement": "¿Para qué x?",
+      "context": "Racional $1/x > 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Negativos fallan."
+        },
+        {
+          "letter": "B",
+          "text": "x > 0",
+          "is_correct": true,
+          "feedback": "Correcto. Positivo / positivo = positivo."
+        },
+        {
+          "letter": "C",
+          "text": "Excepto 0.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Negativos fallan."
+        },
+        {
+          "letter": "D",
+          "text": "x > 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. 0.5 sirve."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis de signos en cocientes algebraicos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v15",
+      "statement": "Solución final.",
+      "context": "Resolver $3(x - 2) \\geq 5x + 4$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x >= -5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No invirtió."
+        },
+        {
+          "letter": "B",
+          "text": "x <= -5",
+          "is_correct": true,
+          "feedback": "Correcto. $-2x \\geq 10$ invierte a $x \\leq -5$."
+        },
+        {
+          "letter": "C",
+          "text": "x <= 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signo de suma."
+        },
+        {
+          "letter": "D",
+          "text": "x >= -1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falló pasos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Combinación de distribución, transposición e inversión de sentido.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v16",
+      "statement": "¿Horas seguras?",
+      "context": "Temperatura industrial en Haina (20 a 35 °C; sube 5 por hora).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0-15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Subiría demasiado."
+        },
+        {
+          "letter": "B",
+          "text": "0-3",
+          "is_correct": true,
+          "feedback": "Correcto. $5 \\cdot 3 = 15$; $20+15=35$."
+        },
+        {
+          "letter": "C",
+          "text": "4-7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ya fuera de rango."
+        },
+        {
+          "letter": "D",
+          "text": "Siempre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sigue subiendo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación de inecuaciones a procesos técnicos de control.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.4,
+      "bundle_id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v17",
+      "statement": "Solución del intervalo.",
+      "context": "Valor absoluto $|x - 4| < 2$ en la UASD.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x < 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incompleto."
+        },
+        {
+          "letter": "B",
+          "text": "(2, 6)",
+          "is_correct": true,
+          "feedback": "Correcto. Distancia a 4 menor a 2."
+        },
+        {
+          "letter": "C",
+          "text": "(-inf, 2) U (6, inf)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería para mayor que."
+        },
+        {
+          "letter": "D",
+          "text": "[2, 6]",
+          "is_correct": false,
+          "feedback": "Incorrecto. Desigualdad estricta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de desigualdades modulares.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v18",
+      "statement": "¿Solución?",
+      "context": "Producto $(x - 1)(x + 3) > 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(-3, 1)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Da negativo."
+        },
+        {
+          "letter": "B",
+          "text": "(-inf, -3) U (1, inf)",
+          "is_correct": true,
+          "feedback": "Correcto. Signos iguales para producto positivo."
+        },
+        {
+          "letter": "C",
+          "text": "[1, inf)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta tramo negativo."
+        },
+        {
+          "letter": "D",
+          "text": "Sin solución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí hay."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso de puntos críticos para determinar regiones de solución en productos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v19",
+      "statement": "¿Solución real?",
+      "context": "Análisis de $x^2 + 1 < 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x < -1",
+          "is_correct": false,
+          "feedback": "Incorrecto. (-2)^2+1=5."
+        },
+        {
+          "letter": "B",
+          "text": "x > 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2^2+1=5."
+        },
+        {
+          "letter": "C",
+          "text": "Vacío",
+          "is_correct": true,
+          "feedback": "Correcto. Suma de positivos nunca menor a cero."
+        },
+        {
+          "letter": "D",
+          "text": "Todos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno cumple."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconocimiento de inecuaciones sin solución en el campo real.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle-v20",
+      "statement": "¿Punto NO factible?",
+      "context": "Optimización: $2A + B \\leq 40$ y $A \\geq 10$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(10, 20)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cumple ambas."
+        },
+        {
+          "letter": "B",
+          "text": "(15, 5)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cumple ambas."
+        },
+        {
+          "letter": "C",
+          "text": "(5, 20)",
+          "is_correct": true,
+          "feedback": "Correcto. Viola A >= 10."
+        },
+        {
+          "letter": "D",
+          "text": "(12, 10)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cumple ambas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluación de restricciones en sistemas de inecuaciones aplicados.\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Context | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "DO-MAT-11-2026-W10-inecuaciones-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    }
+  ]
+}

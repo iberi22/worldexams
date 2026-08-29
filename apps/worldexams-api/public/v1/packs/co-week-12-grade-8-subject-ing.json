@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-12-grade-8-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.737Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-v1",
+      "statement": "**Direct Speech:** \"I like coffee,\" said Maria.\r\n**Reported Speech:** Maria said that she ________ coffee.",
+      "context": "Reporting a present simple statement.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "like",
+          "is_correct": false,
+          "feedback": "Incorrect. We usually shift the tense back in reported speech."
+        },
+        {
+          "letter": "B",
+          "text": "liked",
+          "is_correct": true,
+          "feedback": "Correct! Present simple shifts to past simple in reported speech."
+        },
+        {
+          "letter": "C",
+          "text": "likes",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "is liking",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el estilo indirecto (Reported Speech), cuando el verbo introductorio está en pasado (said), los tiempos verbales dentro de la oración suelen \"retroceder\" un paso en el tiempo. El presente simple cambia a pasado simple.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-v2",
+      "statement": "**Direct Speech:** \"I am happy,\" said Juan.\r\n**Reported Speech:** Juan said that ________ was happy.",
+      "context": "Changing pronouns in reported speech.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I",
+          "is_correct": false,
+          "feedback": "Incorrect. We need to change the pronoun to match the speaker."
+        },
+        {
+          "letter": "B",
+          "text": "he",
+          "is_correct": true,
+          "feedback": "Correct! \"I\" refers to Juan, so it becomes \"he\"."
+        },
+        {
+          "letter": "C",
+          "text": "she",
+          "is_correct": false,
+          "feedback": "Incorrect. Juan is male."
+        },
+        {
+          "letter": "D",
+          "text": "they",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al reportar lo que alguien dijo, debemos ajustar los pronombres personales para que tengan sentido desde la perspectiva de quien está contando la historia.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-v3",
+      "statement": "**Direct Speech:** \"I will help you,\" promised the teacher.\r\n**Reported Speech:** The teacher promised that she ________ help me.",
+      "context": "Reporting \"will\" as \"would\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Will\" shifts to \"would\"."
+        },
+        {
+          "letter": "B",
+          "text": "would",
+          "is_correct": true,
+          "feedback": "Correct! In reported speech, \"will\" becomes \"would\"."
+        },
+        {
+          "letter": "C",
+          "text": "shall",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los verbos modales también cambian en el estilo indirecto. \"Will\" se convierte en \"would\" cuando reportamos una promesa o intención futura.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-v4",
+      "statement": "**Direct Speech:** \"We are playing soccer,\" they said.\r\n**Reported Speech:** They said that they ________ soccer.",
+      "context": "Reporting present continuous.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are playing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "were playing",
+          "is_correct": true,
+          "feedback": "Correct! Present continuous shifts to past continuous."
+        },
+        {
+          "letter": "C",
+          "text": "played",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "have played",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El presente continuo (am/is/are + -ing) cambia a pasado continuo (was/were + -ing) en el estilo indirecto.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-v5",
+      "statement": "She ________ me that she was tired.",
+      "context": "Using \"tell\" vs \"say\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "said",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Say\" is not followed by a personal object without \"to\"."
+        },
+        {
+          "letter": "B",
+          "text": "told",
+          "is_correct": true,
+          "feedback": "Correct! \"Tell\" is followed by a personal object (me, him, her)."
+        },
+        {
+          "letter": "C",
+          "text": "says",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "tells",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En inglés, \"tell\" requiere un objeto personal (contarle a alguien), mientras que \"say\" no lo requiere o usa la preposición \"to\" (decir algo a alguien).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-v6",
+      "statement": "Your friend Carlos says: \"I can't go to the party tonight.\"\r\nYou tell your mom: \"Carlos said that he ________ go to the party.\"",
+      "context": "Reporting a message from a friend.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can't",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "couldn't",
+          "is_correct": true,
+          "feedback": "Correct! \"Can\" shifts to \"could\" in reported speech."
+        },
+        {
+          "letter": "C",
+          "text": "won't",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "shouldn't",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El verbo modal \"can\" cambia a \"could\" cuando reportamos lo que alguien dijo en el pasado.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-v7",
+      "statement": "**Direct Speech:** \"I am busy **now**,\" said the principal.\r\n**Reported Speech:** The principal said that he was busy ________.",
+      "context": "Time expressions in reported speech.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "now",
+          "is_correct": false,
+          "feedback": "Incorrect. Time expressions often change in reported speech."
+        },
+        {
+          "letter": "B",
+          "text": "then",
+          "is_correct": true,
+          "feedback": "Correct! \"Now\" typically changes to \"then\" or \"at that moment\"."
+        },
+        {
+          "letter": "C",
+          "text": "today",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "tomorrow",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las expresiones de tiempo también se ajustan en el estilo indirecto para reflejar que el momento del habla original ya pasó. \"Now\" se convierte en \"then\".\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-v8",
+      "statement": "If someone says \"I will do it **tomorrow**\" on Tuesday, and you report it on Wednesday, you should say:\r\n\"He said he would do it ________.\"",
+      "context": "Reporting \"today\" and \"tomorrow\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "tomorrow",
+          "is_correct": false,
+          "feedback": "Incorrect. This would mean Thursday."
+        },
+        {
+          "letter": "B",
+          "text": "today",
+          "is_correct": true,
+          "feedback": "Correct! Since it is now Wednesday, \"tomorrow\" (from Tuesday) is today."
+        },
+        {
+          "letter": "C",
+          "text": "yesterday",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "the day before",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reportar requiere lógica temporal. \"Tomorrow\" se convierte en \"the next day\" o, si el tiempo ha avanzado, en el día real que corresponde (en este caso, \"today\").\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-v9",
+      "statement": "**Direct Speech:** \"Put the books **here**,\" the librarian said.\r\n**Reported Speech:** The librarian told us to put the books ________.",
+      "context": "Reporting \"here\" as \"there\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "here",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "there",
+          "is_correct": true,
+          "feedback": "Correct! \"Here\" usually changes to \"there\" in indirect speech."
+        },
+        {
+          "letter": "C",
+          "text": "where",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "everywhere",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al igual que el tiempo, el lugar también cambia en el estilo indirecto. \"Here\" (aquí) se convierte en \"there\" (allá) porque el hablante ya no está en el mismo sitio exacto.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-v10",
+      "statement": "Identify the error in this report:\r\n\"Last night, Luis **told (A)** that he **was (B)** going to visit us **the following (C)** week, but he **doesn't (D)** know the exact day.\"",
+      "context": "Identifying errors in complex reporting.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "told",
+          "is_correct": true,
+          "feedback": "Correct! Error found. \"Told\" must have a personal object. It should be \"Luis said\" or \"Luis told us\"."
+        },
+        {
+          "letter": "B",
+          "text": "was",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct tense shift."
+        },
+        {
+          "letter": "C",
+          "text": "the following",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct change for \"next\"."
+        },
+        {
+          "letter": "D",
+          "text": "doesn't",
+          "is_correct": false,
+          "feedback": "Incorrect. This could stay in present if it's still true, though \"didn't\" is safer."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El uso de \"say\" vs \"tell\" es un error común. \"Tell\" siempre necesita a quién se le dice la información (un objeto indirecto).\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-v11",
+      "statement": "Which report is most accurate for a formal meeting summary?\r\n**Speaker:** \"We have to reduce our expenses immediately.\"",
+      "context": "Determining the correct tone in reporting.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He said we gotta spend less cash now.",
+          "is_correct": false,
+          "feedback": "Incorrect. Too informal."
+        },
+        {
+          "letter": "B",
+          "text": "The manager stated that the company had to reduce its expenses immediately.",
+          "is_correct": true,
+          "feedback": "Correct! Formal, uses \"stated\", and correct tense shift."
+        },
+        {
+          "letter": "C",
+          "text": "He says they had to reduce expenses then.",
+          "is_correct": false,
+          "feedback": "Incorrect. Tense mismatch between \"says\" and \"had\"."
+        },
+        {
+          "letter": "D",
+          "text": "He told to reduce expenses.",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically incomplete."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el nivel B1, se debe saber elegir verbos introductorios más precisos que \"say\" (como \"state\", \"claim\", \"explain\") para contextos formales.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-v12",
+      "statement": "**Contexto:** During a news broadcast, the scientist said: \"We have discovered a new species of frog in the Chocó region. This is a significant find for biodiversity.\"\r\nWhich is the best summary of her words?",
+      "context": "Summarizing reported information.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The scientist announced that they had discovered a new frog species and explained that it was important for biodiversity.",
+          "is_correct": true,
+          "feedback": "Correct! Good use of \"announced\" and \"explained\" with correct reporting."
+        },
+        {
+          "letter": "B",
+          "text": "She says they discover a frog in Chocó and it is important.",
+          "is_correct": false,
+          "feedback": "Incorrect. No tense shifts."
+        },
+        {
+          "letter": "C",
+          "text": "She told that frogs are important in Chocó now.",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing object for \"told\" and poor summary."
+        },
+        {
+          "letter": "D",
+          "text": "The news said that frogs were found by scientists in a region.",
+          "is_correct": false,
+          "feedback": "Incorrect. Too vague."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Resumir lo que alguien dijo requiere no solo aplicar reglas gramaticales de estilo indirecto, sino también capturar la esencia y el propósito del mensaje original.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-8-2026-W12-reported-speech-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

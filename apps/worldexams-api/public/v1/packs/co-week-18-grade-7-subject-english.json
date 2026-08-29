@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-18-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.897Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W18-connectors-sequence-001-v1",
+      "statement": "Which word is used to introduce the very first action in a list of events?",
+      "context": "Identifying the connector for the start of a sequence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Then",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for something that happens after."
+        },
+        {
+          "letter": "B",
+          "text": "First",
+          "is_correct": true,
+          "feedback": "Correct! \"First\" introduces the beginning of a sequence."
+        },
+        {
+          "letter": "C",
+          "text": "Finally",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for the last event."
+        },
+        {
+          "letter": "D",
+          "text": "After that",
+          "is_correct": false,
+          "feedback": "Incorrect. This indicates a subsequent action."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies the basic function of the connector \"first\".\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W18-connectors-sequence-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W18-connectors-sequence-002-v1",
+      "statement": "What connector do we use for the last step in a process?",
+      "context": "Identifying the connector for the end of a sequence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Next",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for middle steps."
+        },
+        {
+          "letter": "B",
+          "text": "First",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for the first step."
+        },
+        {
+          "letter": "C",
+          "text": "Second",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for the second step."
+        },
+        {
+          "letter": "D",
+          "text": "Finally",
+          "is_correct": true,
+          "feedback": "Correct! \"Finally\" signals the conclusion of a sequence."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The student identifies the connector used to signal the end of a list or process.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W18-connectors-sequence-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W18-connectors-sequence-003-v1",
+      "statement": "\"I take two slices of bread. ________, I put some cheese between them.\"",
+      "context": "Ordering steps for making a sandwich.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Finally",
+          "is_correct": false,
+          "feedback": "Incorrect. You usually do more steps after putting cheese (like eating it)."
+        },
+        {
+          "letter": "B",
+          "text": "Then",
+          "is_correct": true,
+          "feedback": "Correct! \"Then\" connects the first step to the next one."
+        },
+        {
+          "letter": "C",
+          "text": "First",
+          "is_correct": false,
+          "feedback": "Incorrect. Taking the bread was the first step."
+        },
+        {
+          "letter": "D",
+          "text": "Before",
+          "is_correct": false,
+          "feedback": "Incorrect. This would reverse the logical order."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the logical progression of steps in a simple procedure.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmatic Matching",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W18-connectors-sequence-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W18-connectors-sequence-004-v1",
+      "statement": "Choose the most logical sequence of connectors.\n\"________ I wake up. ________ I take a shower. ________ I have breakfast.\"",
+      "context": "Describing a morning routine.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Finally / First / Then",
+          "is_correct": false,
+          "feedback": "Incorrect order."
+        },
+        {
+          "letter": "B",
+          "text": "First / Then / Finally",
+          "is_correct": true,
+          "feedback": "Correct! This follows the logical start, middle, and end."
+        },
+        {
+          "letter": "C",
+          "text": "Next / Finally / First",
+          "is_correct": false,
+          "feedback": "Incorrect order."
+        },
+        {
+          "letter": "D",
+          "text": "First / Finally / Then",
+          "is_correct": false,
+          "feedback": "Incorrect order."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the standard structure of a three-step sequence.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W18-connectors-sequence-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W18-connectors-sequence-005-v1",
+      "statement": "\"Wash the fruit. ________, cut it into pieces. ________, put it in the blender with water and sugar.\"",
+      "context": "A recipe for a typical Colombian fruit juice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "First / Next",
+          "is_correct": false,
+          "feedback": "Incorrect. Washing was the first step, so the second cannot be \"First\"."
+        },
+        {
+          "letter": "B",
+          "text": "Next / After that",
+          "is_correct": true,
+          "feedback": "Correct! These two connectors work perfectly for middle steps in a sequence."
+        },
+        {
+          "letter": "C",
+          "text": "Finally / Then",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Finally\" cannot come before \"Then\" in a logical list."
+        },
+        {
+          "letter": "D",
+          "text": "First / Finally",
+          "is_correct": false,
+          "feedback": "Incorrect. The blender is not the second step if there are more things coming."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies multiple connectors to maintain the flow of a multi-step process.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W18-connectors-sequence-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W18-connectors-sequence-006-v1",
+      "statement": "What did the student do immediately after meeting friends?",
+      "context": "A student describing their Saturday.\n\"First, I went to the park. Next, I met my friends at the mall. After that, we watched a movie. Finally, I returned home at 9:00 PM.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Went to the park.",
+          "is_correct": false,
+          "feedback": "Incorrect. This was before meeting them."
+        },
+        {
+          "letter": "B",
+          "text": "Watched a movie.",
+          "is_correct": true,
+          "feedback": "Correct! The text says \"After that (meeting friends), we watched a movie\"."
+        },
+        {
+          "letter": "C",
+          "text": "Returned home.",
+          "is_correct": false,
+          "feedback": "Incorrect. This was the last step."
+        },
+        {
+          "letter": "D",
+          "text": "Had breakfast.",
+          "is_correct": false,
+          "feedback": "Incorrect. Not mentioned."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies reading strategies to extract chronological information using connectors.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W18-connectors-sequence-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W18-connectors-sequence-007-v1",
+      "statement": "\"I prepared the slides last night. ________, I practiced the speech three times.\"",
+      "context": "Organizing a school presentation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "First",
+          "is_correct": false,
+          "feedback": "Incorrect. Preparing slides was the first action mentioned."
+        },
+        {
+          "letter": "B",
+          "text": "Afterward",
+          "is_correct": true,
+          "feedback": "Correct! \"Afterward\" is a synonym for \"After that\" or \"Next\"."
+        },
+        {
+          "letter": "C",
+          "text": "Finally",
+          "is_correct": false,
+          "feedback": "Incorrect. This would imply it was the very last thing in the whole project, but \"Then\" or \"Afterward\" fits a two-step list better."
+        },
+        {
+          "letter": "D",
+          "text": "Since",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a connector of reason or time, not sequence here."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies synonymous or alternative sequence connectors in a specific context.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W18-connectors-sequence-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W18-connectors-sequence-008-v1",
+      "statement": "What is the correct logical order for these sentences?",
+      "context": "Reconstructing a scrambled sequence.\n1. Finally, we ate the cake.\n2. First, my mom bought the ingredients.\n3. Then, she mixed everything and baked it.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 - 2 - 3",
+          "is_correct": false,
+          "feedback": "Incorrect. You can't eat the cake before buying ingredients."
+        },
+        {
+          "letter": "B",
+          "text": "3 - 2 - 1",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Then\" cannot start the sequence."
+        },
+        {
+          "letter": "C",
+          "text": "2 - 3 - 1",
+          "is_correct": true,
+          "feedback": "Correct! First (Buy) -> Then (Mix/Bake) -> Finally (Eat)."
+        },
+        {
+          "letter": "D",
+          "text": "2 - 1 - 3",
+          "is_correct": false,
+          "feedback": "Incorrect. You can't eat it before baking it."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student analyzes the meaning and the connectors to reconstruct a logical sequence of events.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W18-connectors-sequence-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W18-connectors-sequence-009-v1",
+      "statement": "\"We walked for three hours. ________, we reached the top of the mountain.\"",
+      "context": "Choosing the best connector to show a result after a sequence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "First",
+          "is_correct": false,
+          "feedback": "Incorrect. Reaching the top is the result, not the start."
+        },
+        {
+          "letter": "B",
+          "text": "Next",
+          "is_correct": false,
+          "feedback": "Incorrect. While possible, reaching the goal is usually signaled by something stronger."
+        },
+        {
+          "letter": "C",
+          "text": "Eventually",
+          "is_correct": true,
+          "feedback": "Correct! \"Eventually\" suggests a result after a long time or sequence of effort."
+        },
+        {
+          "letter": "D",
+          "text": "While",
+          "is_correct": false,
+          "feedback": "Incorrect. Not a sequence connector."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student analyzes the nuances of sequence connectors and chooses one that implies the culmination of an effort.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W18-connectors-sequence-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W18-connectors-sequence-010-v1",
+      "statement": "If we add the connector \"Finally\" to these instructions, which step should it belong to?",
+      "context": "Evaluating a set of instructions.\n\"To use the computer: 1. Plug it in. 2. Press the power button. 3. Enter your password. 4. Start your work.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Step 1",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the start."
+        },
+        {
+          "letter": "B",
+          "text": "Step 2",
+          "is_correct": false,
+          "feedback": "Incorrect. This is in the middle."
+        },
+        {
+          "letter": "C",
+          "text": "Step 3",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the penultimate step."
+        },
+        {
+          "letter": "D",
+          "text": "Step 4",
+          "is_correct": true,
+          "feedback": "Correct! \"Finally\" always introduces the last step in a list."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The student evaluates the structure of a list of instructions to correctly place a conclusion connector.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W18-connectors-sequence-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

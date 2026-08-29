@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-9-grade-8-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.735Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-8-2026-W09-relative-clauses-001-MASTERY-v1",
+      "statement": "A teacher is a person ________ helps students to learn.",
+      "context": "Identifying people.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": true,
+          "feedback": "Correct! We use \"who\" to refer to people."
+        },
+        {
+          "letter": "B",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Which\" is for things or animals."
+        },
+        {
+          "letter": "C",
+          "text": "where",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Where\" is for places."
+        },
+        {
+          "letter": "D",
+          "text": "when",
+          "is_correct": false,
+          "feedback": "Incorrect. \"When\" is for time."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las oraciones de relativo (relative clauses) nos permiten dar información extra sobre alguien o algo. Usamos \"who\" específicamente para personas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W09-relative-clauses-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W09-relative-clauses-001-MASTERY-v2",
+      "statement": "This is the book ________ I told you about.",
+      "context": "Identifying things.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "Incorrect. A book is not a person."
+        },
+        {
+          "letter": "B",
+          "text": "that",
+          "is_correct": true,
+          "feedback": "Correct! \"That\" can be used for both people and things in defining relative clauses."
+        },
+        {
+          "letter": "C",
+          "text": "where",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "whom",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"That\" es un pronombre relativo muy versátil que puede usarse tanto para objetos (cosas) como para personas en oraciones especificativas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W09-relative-clauses-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W09-relative-clauses-001-MASTERY-v3",
+      "statement": "The library is a place ________ you can find many books and study in silence.",
+      "context": "Identifying places.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "Incorrect. While a library is a thing, here we refer to it as a location where an action happens."
+        },
+        {
+          "letter": "B",
+          "text": "where",
+          "is_correct": true,
+          "feedback": "Correct! \"Where\" is the relative pronoun for places."
+        },
+        {
+          "letter": "C",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando nos referimos a un lugar como el sitio donde ocurre una acción, el pronombre relativo adecuado es \"where\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W09-relative-clauses-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W09-relative-clauses-001-MASTERY-v4",
+      "statement": "The condor is a bird ________ lives in the highest parts of the Andes.",
+      "context": "Using \"which\" for animals and objects.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Who\" is strictly for humans."
+        },
+        {
+          "letter": "B",
+          "text": "which",
+          "is_correct": true,
+          "feedback": "Correct! \"Which\" is used for animals and inanimate objects."
+        },
+        {
+          "letter": "C",
+          "text": "where",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "whose",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Whose\" is for possession."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para animales u objetos, el pronombre relativo estándar es \"which\", aunque también se podría usar \"that\" en este contexto.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W09-relative-clauses-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W09-relative-clauses-001-MASTERY-v5",
+      "statement": "That is the student ________ father is a famous scientist.",
+      "context": "Possession with \"whose\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Who\" doesn't show possession."
+        },
+        {
+          "letter": "B",
+          "text": "whose",
+          "is_correct": true,
+          "feedback": "Correct! \"Whose\" is used to show possession (whose father = el padre del cual)."
+        },
+        {
+          "letter": "C",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "whom",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Whose\" se traduce como \"cuyo/a\" o \"de quien\". Se usa para indicar que algo pertenece a la persona o cosa mencionada anteriormente.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-8-2026-W09-relative-clauses-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W09-relative-clauses-001-MASTERY-v6",
+      "statement": "Arepa is a traditional food ________ is made from corn.",
+      "context": "Describing Colombian culture.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "where",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "that",
+          "is_correct": true,
+          "feedback": "Correct! Referring to an object (food)."
+        },
+        {
+          "letter": "D",
+          "text": "when",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En definiciones de objetos culturales, usamos \"that\" o \"which\" para conectar el nombre del objeto con su descripción o proceso de fabricación.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-8-2026-W09-relative-clauses-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W09-relative-clauses-001-MASTERY-v7",
+      "statement": "In which sentence can the relative pronoun be **omitted** (deleted)?",
+      "context": "Omitting the relative pronoun.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The man who lives next door is a musician.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Who\" is the subject of \"lives\"."
+        },
+        {
+          "letter": "B",
+          "text": "The movie (that) we watched yesterday was boring.",
+          "is_correct": true,
+          "feedback": "Correct! \"That\" is the object (we watched it), so it can be omitted."
+        },
+        {
+          "letter": "C",
+          "text": "The girl who won the prize is my sister.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Who\" is the subject."
+        },
+        {
+          "letter": "D",
+          "text": "A hospital is a building where people go when they are sick.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Where\" is rarely omitted this way."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En inglés, podemos omitir \"who\", \"which\" o \"that\" solo cuando funcionan como el **objeto** de la oración de relativo (cuando hay otro sujeto después del pronombre).\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-8-2026-W09-relative-clauses-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W09-relative-clauses-001-MASTERY-v8",
+      "statement": "\"An orphan is a child whose parents are dead.\"\r\nWhat information does the relative clause provide?",
+      "context": "Understanding definitions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It describes where the child lives.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "It gives essential information to define what an orphan is.",
+          "is_correct": true,
+          "feedback": "Correct! Without this clause, we don't know which child we mean."
+        },
+        {
+          "letter": "C",
+          "text": "It is extra information that we can delete without changing the meaning.",
+          "is_correct": false,
+          "feedback": "Incorrect. It's a defining clause."
+        },
+        {
+          "letter": "D",
+          "text": "It tells us the name of the child.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las \"defining relative clauses\" (oraciones de relativo especificativas) son esenciales para el significado de la oración; sin ellas, el sustantivo principal no queda bien definido.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-8-2026-W09-relative-clauses-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W09-relative-clauses-001-MASTERY-v9",
+      "statement": "Combine these two sentences:\r\n\"I lost the watch. My grandmother gave it to me.\"",
+      "context": "Combining sentences.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I lost the watch who my grandmother gave to me.",
+          "is_correct": false,
+          "feedback": "Incorrect. Watch is not a person."
+        },
+        {
+          "letter": "B",
+          "text": "I lost the watch that my grandmother gave to me.",
+          "is_correct": true,
+          "feedback": "Correct! \"That\" connects the object to its origin."
+        },
+        {
+          "letter": "C",
+          "text": "I lost the watch where my grandmother gave to me.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "I lost the watch whose my grandmother gave to me.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para combinar oraciones, reemplazamos el objeto repetido (\"it\") por un pronombre relativo (\"that\" o \"which\") que conecte ambas ideas.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-8-2026-W09-relative-clauses-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W09-relative-clauses-001-MASTERY-v10",
+      "statement": "Identify the grammatically **incorrect** sentence:",
+      "context": "Identifying errors in formal relative clauses.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The woman with whom I was speaking is my aunt.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is formal but correct."
+        },
+        {
+          "letter": "B",
+          "text": "That's the house in which I grew up.",
+          "is_correct": false,
+          "feedback": "Incorrect. Formal but correct."
+        },
+        {
+          "letter": "C",
+          "text": "This is the park who I used to play in.",
+          "is_correct": true,
+          "feedback": "Correct! Error found. \"Park\" is a place or thing, so \"who\" is wrong."
+        },
+        {
+          "letter": "D",
+          "text": "The people whose car was stolen are very sad.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is correct."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El nivel B1 requiere distinguir claramente entre referentes humanos (\"who\") y no humanos (\"which/that\") en cualquier estructura, por compleja que sea.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-8-2026-W09-relative-clauses-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W09-relative-clauses-001-MASTERY-v11",
+      "statement": "Which description is more precise for a dictionary entry?",
+      "context": "Evaluating clarity in descriptions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A pen is a thing for writing.",
+          "is_correct": false,
+          "feedback": "Incorrect. Too simple."
+        },
+        {
+          "letter": "B",
+          "text": "A pen is an instrument that uses ink to write on paper.",
+          "is_correct": true,
+          "feedback": "Correct! Precise use of a relative clause to define purpose."
+        },
+        {
+          "letter": "C",
+          "text": "A pen is who you use to write.",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically wrong."
+        },
+        {
+          "letter": "D",
+          "text": "Pen is a place where words are.",
+          "is_correct": false,
+          "feedback": "Incorrect. Illogical."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso de oraciones de relativo es fundamental para crear definiciones precisas y académicas (habilidad evaluada en B1).\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-8-2026-W09-relative-clauses-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W09-relative-clauses-001-MASTERY-v12",
+      "statement": "Choose the best way to describe \"The Gold Museum\" (El Museo del Oro) in Bogotá:",
+      "context": "Writing a descriptive sentence about a Colombian landmark.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is a world-famous museum which houses the largest collection of pre-Hispanic gold work.",
+          "is_correct": true,
+          "feedback": "Correct! Uses a relative clause to provide essential and impressive information."
+        },
+        {
+          "letter": "B",
+          "text": "It is a place who has many golden things for people.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Who\" is for people, not places."
+        },
+        {
+          "letter": "C",
+          "text": "It is the building where gold was invented long ago.",
+          "is_correct": false,
+          "feedback": "Incorrect. Gold is a natural element, not \"invented\" in a museum."
+        },
+        {
+          "letter": "D",
+          "text": "It is a museum that it is near the city center.",
+          "is_correct": false,
+          "feedback": "Incorrect. Doubling the subject (that it is) is a common error."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La creación de descripciones complejas requiere el uso de pronombres relativos adecuados y evitar errores comunes como la redundancia del sujeto (\"that it is\").",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-8-2026-W09-relative-clauses-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,1811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "mx",
+    "pack_id": "mx-week-11-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:38.956Z"
+  },
+  "questions": [
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la fórmula para calcular la suma de los ángulos internos de un polígono convexo de $n$ lados?",
+      "context": "Un estudiante de preparatoria en la Ciudad de México está revisando las propiedades básicas de los polígonos regulares para un proyecto de diseño gráfico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$S = 180(n + 2)$",
+          "is_correct": false,
+          "feedback": "Esta fórmula aumentaría la suma en lugar de disminuirla proporcionalmente a los triángulos formados."
+        },
+        {
+          "letter": "B",
+          "text": "$S = 180(n - 2)$",
+          "is_correct": true,
+          "feedback": "Correcto. La suma de los ángulos internos se basa en que un polígono de n lados se puede dividir en (n-2) triángulos."
+        },
+        {
+          "letter": "C",
+          "text": "$S = 360(n - 2)$",
+          "is_correct": false,
+          "feedback": "El factor multiplicativo es 180 grados, que es la suma de los ángulos de un triángulo, no 360."
+        },
+        {
+          "letter": "D",
+          "text": "$S = 180n$",
+          "is_correct": false,
+          "feedback": "Esta fórmula no resta los dos triángulos que no se forman desde un solo vértice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para cualquier polígono convexo de $n$ lados, el número de triángulos que se pueden trazar desde un solo vértice es $n-2$. Dado que la suma de los ángulos internos de cada triángulo es $180^{\\circ}$, la suma total es $180(n-2)$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se denomina al cuadrilátero que tiene exactamente un par de lados paralelos?",
+      "context": "En un taller de carpintería en Guadalajara, se necesita identificar las características de un cuadrilátero específico para fabricar una mesa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Paralelogramo",
+          "is_correct": false,
+          "feedback": "Un paralelogramo tiene dos pares de lados paralelos, no solo uno."
+        },
+        {
+          "letter": "B",
+          "text": "Rombo",
+          "is_correct": false,
+          "feedback": "El rombo es un tipo de paralelogramo con cuatro lados iguales; tiene dos pares de lados paralelos."
+        },
+        {
+          "letter": "C",
+          "text": "Trapecio",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición, un trapecio es un cuadrilátero con un solo par de lados paralelos (llamados bases)."
+        },
+        {
+          "letter": "D",
+          "text": "Rectángulo",
+          "is_correct": false,
+          "feedback": "Un rectángulo tiene dos pares de lados paralelos y ángulos de 90 grados."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La clasificación de los cuadriláteros se basa en el paralelismo de sus lados. El trapecio se distingue por tener únicamente un par de lados opuestos paralelos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v3",
+      "statement": "Si el diámetro de un círculo se duplica, ¿qué sucede con su circunferencia?",
+      "context": "Un arquitecto en Monterrey está diseñando una ventana circular y necesita calcular la relación entre su perímetro y su diámetro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se cuadruplica",
+          "is_correct": false,
+          "feedback": "La circunferencia es lineal respecto al diámetro (C = πd), no cuadrática."
+        },
+        {
+          "letter": "B",
+          "text": "Se duplica",
+          "is_correct": true,
+          "feedback": "Correcto. Como C = πd, si d se convierte en 2d, la nueva circunferencia es π(2d) = 2(πd), es decir, el doble."
+        },
+        {
+          "letter": "C",
+          "text": "Permanece igual",
+          "is_correct": false,
+          "feedback": "La circunferencia depende directamente de la medida del diámetro."
+        },
+        {
+          "letter": "D",
+          "text": "Aumenta en un factor de π",
+          "is_correct": false,
+          "feedback": "π es la constante de proporcionalidad, pero el factor de cambio es el mismo que el del diámetro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La circunferencia de un círculo es directamente proporcional a su diámetro ($C = \\pi d$). Al ser una relación lineal, cualquier factor de escala aplicado al diámetro se aplicará de la misma forma a la circunferencia.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v4",
+      "statement": "En un triángulo equilátero, ¿cuál es la medida de cada uno de sus ángulos exteriores?",
+      "context": "Un topógrafo está midiendo un terreno en Puebla que tiene forma de triángulo equilátero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$60^{\\circ}$",
+          "is_correct": false,
+          "feedback": "Este es el valor de los ángulos interiores, no los exteriores."
+        },
+        {
+          "letter": "B",
+          "text": "$90^{\\circ}$",
+          "is_correct": false,
+          "feedback": "Un triángulo equilátero no tiene ángulos rectos."
+        },
+        {
+          "letter": "C",
+          "text": "$120^{\\circ}$",
+          "is_correct": true,
+          "feedback": "Correcto. El ángulo exterior es suplementario al interior (180 - 60 = 120)."
+        },
+        {
+          "letter": "D",
+          "text": "$180^{\\circ}$",
+          "is_correct": false,
+          "feedback": "Un ángulo exterior no puede ser llano en un polígono convexo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En un triángulo equilátero, todos los ángulos internos miden $60^{\\circ}$. El ángulo exterior es el suplemento del ángulo interior adyacente, por lo tanto: $180^{\\circ} - 60^{\\circ} = 120^{\\circ}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v5",
+      "statement": "Si cada lado del hexágono mide 4 metros y su apotema es de aproximadamente 3.46 metros, ¿cuál es el área del jardín?",
+      "context": "Se desea colocar pasto sintético en un jardín central de una escuela en Querétaro que tiene forma de hexágono regular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$13.84\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Este valor es solo el producto del lado por la apotema, no el área total."
+        },
+        {
+          "letter": "B",
+          "text": "$20.76\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Revisa el cálculo del perímetro en la fórmula del área."
+        },
+        {
+          "letter": "C",
+          "text": "$41.52\\text{ m}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Área = (Perímetro × apotema) / 2. Perímetro = 6 × 4 = 24. Área = (24 × 3.46) / 2 = 41.52."
+        },
+        {
+          "letter": "D",
+          "text": "$83.04\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Olvidaste dividir entre 2 en la fórmula del área de un polígono regular."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El área de un polígono regular se calcula con la fórmula $A = \\frac{P \\cdot a}{2}$. El perímetro $P$ de un hexágono de lado 4 m es $24\\text{ m}$. Entonces, $A = \\frac{24 \\cdot 3.46}{2} = 12 \\cdot 3.46 = 41.52\\text{ m}^2$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v6",
+      "statement": "El trapecio tiene bases de 10 cm y 18 cm, y una altura de 6 cm. ¿Cuál es su área?",
+      "context": "Un diseñador industrial en el Estado de México está calculando el área de una pieza metálica en forma de trapecio isósceles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$168\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Multiplicaste la suma de las bases por la altura sin dividir entre dos."
+        },
+        {
+          "letter": "B",
+          "text": "$84\\text{ cm}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Área = [(B + b) × h] / 2 = [(18 + 10) × 6] / 2 = (28 × 6) / 2 = 84."
+        },
+        {
+          "letter": "C",
+          "text": "$60\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Solo consideraste una de las bases para el cálculo."
+        },
+        {
+          "letter": "D",
+          "text": "$42\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Dividiste el resultado correcto entre dos nuevamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El área de un trapecio se obtiene con la fórmula $A = \\frac{(B + b)h}{2}$. Sustituyendo los valores: $A = \\frac{(18 + 10) \\cdot 6}{2} = \\frac{28 \\cdot 6}{2} = 14 \\cdot 6 = 84\\text{ cm}^2$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v7",
+      "statement": "Si el diámetro de la glorieta es de 12 metros, ¿cuál es su área aproximada? (Considera $\\pi \\approx 3.14$)",
+      "context": "Se está construyendo una glorieta circular en una nueva sección de Cancún. El ingeniero necesita conocer el área que será pavimentada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$37.68\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Este valor corresponde a la circunferencia, no al área."
+        },
+        {
+          "letter": "B",
+          "text": "$452.16\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Usaste el diámetro en lugar del radio en la fórmula del área (πd²)."
+        },
+        {
+          "letter": "C",
+          "text": "$113.04\\text{ m}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. El radio es 6 m. Área = πr² = 3.14 × (6)² = 3.14 × 36 = 113.04."
+        },
+        {
+          "letter": "D",
+          "text": "$18.84\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Este es el valor del radio multiplicado por π, lo cual es incorrecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para calcular el área de un círculo ($A = \\pi r^2$), primero identificamos el radio, que es la mitad del diámetro ($12 / 2 = 6\\text{ m}$). Aplicamos la fórmula: $A = 3.14 \\cdot (6)^2 = 3.14 \\cdot 36 = 113.04\\text{ m}^2$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v8",
+      "statement": "Si las diagonales del rombo miden 16 cm y 12 cm, ¿cuál es el área de la superficie delimitada por el marco?",
+      "context": "Un artesano en Oaxaca está decorando un marco de madera que tiene forma de rombo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$192\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Multiplicaste las diagonales pero olvidaste dividir entre dos."
+        },
+        {
+          "letter": "B",
+          "text": "$96\\text{ cm}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Área = (D × d) / 2 = (16 × 12) / 2 = 192 / 2 = 96."
+        },
+        {
+          "letter": "C",
+          "text": "$28\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Sumaste las diagonales en lugar de multiplicarlas."
+        },
+        {
+          "letter": "D",
+          "text": "$56\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Sumaste las diagonales y multiplicaste por dos, lo cual no corresponde al área."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El área de un rombo se calcula multiplicando su diagonal mayor ($D$) por su diagonal menor ($d$) y dividiendo el resultado entre dos: $A = \\frac{D \\cdot d}{2}$. Así, $A = \\frac{16 \\cdot 12}{2} = 96\\text{ cm}^2$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la medida de cada ángulo interno de un hexágono regular?",
+      "context": "Un estudiante observa un panal de abejas y nota que las celdas son hexágonos regulares perfectos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$90^{\\circ}$",
+          "is_correct": false,
+          "feedback": "Este es el ángulo de un cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "$108^{\\circ}$",
+          "is_correct": false,
+          "feedback": "Este es el ángulo interno de un pentágono regular."
+        },
+        {
+          "letter": "C",
+          "text": "$120^{\\circ}$",
+          "is_correct": true,
+          "feedback": "Correcto. Suma = 180(6-2) = 720. Cada ángulo = 720 / 6 = 120."
+        },
+        {
+          "letter": "D",
+          "text": "$140^{\\circ}$",
+          "is_correct": false,
+          "feedback": "Este valor no corresponde a un hexágono regular."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La suma de los ángulos internos de un hexágono ($n=6$) es $180(6-2) = 720^{\\circ}$. Al ser un polígono regular, todos sus ángulos son iguales, por lo que cada uno mide $720^{\\circ} / 6 = 120^{\\circ}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v10",
+      "statement": "Calcula el área de un sector circular cuyo radio mide 10 cm y cuyo ángulo central es de $60^{\\circ}$. (Considera $\\pi \\approx 3.14$)",
+      "context": "En una clase de dibujo técnico en Veracruz, se pide hallar el área de un sector circular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$31.4\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Este valor se obtiene al no elevar el radio al cuadrado en la fórmula."
+        },
+        {
+          "letter": "B",
+          "text": "$52.33\\text{ cm}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Área = (πr² × θ) / 360 = (3.14 × 100 × 60) / 360 = 314 / 6 ≈ 52.33."
+        },
+        {
+          "letter": "C",
+          "text": "$104.66\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Este valor es el doble del área del sector solicitado."
+        },
+        {
+          "letter": "D",
+          "text": "$314\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Este es el área del círculo completo, no solo del sector de 60 grados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El área de un sector circular es una fracción del área total del círculo, proporcional al ángulo central: $A = \\frac{\\pi r^2 \\theta}{360}$. Para $r=10$ y $\\theta=60$: $A = \\frac{3.14 \\cdot 100 \\cdot 60}{360} = \\frac{314}{6} \\approx 52.33\\text{ cm}^2$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v11",
+      "statement": "El rectángulo central mide 80 m de largo y 40 m de ancho. Si los semicírculos tienen un diámetro igual al ancho del rectángulo (40 m), ¿cuál es el área total de la pista? (Usa $\\pi \\approx 3.14$)",
+      "context": "Se desea construir una pista de atletismo que consiste en un rectángulo con dos semicírculos en los extremos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3,200\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Solo calculaste el área del rectángulo central."
+        },
+        {
+          "letter": "B",
+          "text": "$3,828\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Calculaste el área de un solo semicírculo en lugar de dos."
+        },
+        {
+          "letter": "C",
+          "text": "$4,456\\text{ m}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Área rect = 80×40 = 3200. Área 2 semicirc (1 círculo) = π(20)² = 1256. Total = 3200 + 1256 = 4456."
+        },
+        {
+          "letter": "D",
+          "text": "$8,224\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Usaste el diámetro en lugar del radio para el área de los semicírculos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La pista se compone de un rectángulo ($80 \\cdot 40 = 3,200\\text{ m}^2$) y dos semicírculos que forman un círculo completo de radio $20\\text{ m}$ ($A = 3.14 \\cdot 20^2 = 1,256\\text{ m}^2$). Sumando ambas áreas: $3,200 + 1,256 = 4,456\\text{ m}^2$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el área de la región del círculo que queda fuera del cuadrado? (Considera $\\pi \\approx 3.14$)",
+      "context": "Un diseñador gráfico en Mérida está trabajando con un cuadrado inscrito en un círculo de radio 5 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$25.0\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Este es el valor del área de un triángulo formado por el radio y el lado del cuadrado, no la región buscada."
+        },
+        {
+          "letter": "B",
+          "text": "$28.5\\text{ cm}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Área círculo = 78.5. El lado del cuadrado es s = 5√2, s² = 50. Diferencia = 78.5 - 50 = 28.5."
+        },
+        {
+          "letter": "C",
+          "text": "$53.5\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Restaste incorrectamente el área del cuadrado o calculaste mal su lado."
+        },
+        {
+          "letter": "D",
+          "text": "$18.5\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Valor incorrecto producto de un error en el cálculo del área del cuadrado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El círculo tiene área $A_c = \\pi(5)^2 = 78.5\\text{ cm}^2$. Para el cuadrado inscrito, su diagonal es el diámetro del círculo ($10\\text{ cm}$). El área del cuadrado es $A_q = \\frac{d^2}{2} = \\frac{10^2}{2} = 50\\text{ cm}^2$. El área sombreada es $78.5 - 50 = 28.5\\text{ cm}^2$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la altura de dicho triángulo equilátero si su base pasa por un punto que está a una distancia igual al radio desde el vértice superior (es decir, el centro del círculo)?",
+      "context": "Se analiza el diseño de un vitral que consiste en un triángulo equilátero inscrito en una circunferencia de radio 4 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Esta es solo la distancia del centro al vértice, falta la distancia del centro a la base."
+        },
+        {
+          "letter": "B",
+          "text": "$6\\text{ cm}$",
+          "is_correct": true,
+          "feedback": "Correcto. En un triángulo equilátero inscrito, el centro divide a la altura en relación 2:1. Altura = R + R/2 = 4 + 2 = 6."
+        },
+        {
+          "letter": "C",
+          "text": "$8\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Esta medida corresponde al diámetro del círculo, no a la altura del triángulo."
+        },
+        {
+          "letter": "D",
+          "text": "$4\\sqrt{3}\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Este es el valor de un lado del triángulo, no su altura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un triángulo equilátero inscrito, el centro del círculo es el baricentro. El baricentro divide a la altura en dos segmentos de razón $2:1$. El segmento superior es el radio $R=4$, por lo que el segmento inferior es $R/2 = 2$. La altura total es $4 + 2 = 6\\text{ cm}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v14",
+      "statement": "Si para formar el octágono se cortan los cuatro rincones del cuadrado (triángulos rectángulos isósceles), ¿cuál es el perímetro del octágono resultante si el lado del octágono mide aproximadamente 4.14 cm?",
+      "context": "Un joyero en Taxco está diseñando un dije que tiene la forma de un octágono regular inscrito en un cuadrado de lado 10 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$40\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Este es el perímetro del cuadrado original."
+        },
+        {
+          "letter": "B",
+          "text": "$33.12\\text{ cm}$",
+          "is_correct": true,
+          "feedback": "Correcto. Un octágono regular tiene 8 lados iguales. Perímetro = 8 × 4.14 = 33.12."
+        },
+        {
+          "letter": "C",
+          "text": "$16.56\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Dividiste el perímetro correcto entre dos."
+        },
+        {
+          "letter": "D",
+          "text": "$41.4\\text{ cm}$",
+          "is_correct": false,
+          "feedback": "Multiplicaste por 10 en lugar de por 8."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un octágono regular posee ocho lados de igual longitud. Dado que se especifica que el lado mide $4.14\\text{ cm}$, el perímetro se calcula simplemente multiplicando esta medida por ocho: $4.14 \\cdot 8 = 33.12\\text{ cm}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.35,
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es el área que ocupa la vereda?",
+      "context": "Se tiene un terreno rectangular en Sonora cuyas dimensiones son 50 m por 30 m. Se construye una vereda de 2 m de ancho alrededor del terreno (por dentro).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1,500\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Este es el área total del terreno original."
+        },
+        {
+          "letter": "B",
+          "text": "$1,196\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Este es el área del rectángulo interior resultante, no la de la vereda."
+        },
+        {
+          "letter": "C",
+          "text": "$304\\text{ m}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Área total = 1500. Rectángulo interior = (50-4)×(30-4) = 46×26 = 1196. Vereda = 1500 - 1196 = 304."
+        },
+        {
+          "letter": "D",
+          "text": "$320\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Error en el cálculo de las nuevas dimensiones del rectángulo interior."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El área original es $50 \\cdot 30 = 1,500\\text{ m}^2$. Al restar la vereda de $2\\text{ m}$ por cada lado, las nuevas dimensiones son $50-4=46\\text{ m}$ y $30-4=26\\text{ m}$. El área interior es $46 \\cdot 26 = 1,196\\text{ m}^2$. El área de la vereda es la diferencia: $1,500 - 1,196 = 304\\text{ m}^2$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v16",
+      "statement": "Tres círculos de radio 10 cm son tangentes entre sí dos a dos. ¿Cuál es el área del triángulo que se forma al unir sus centros?",
+      "context": "Un artista en San Miguel de Allende está creando un patrón con círculos tangentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$100\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Este valor no corresponde al área de un triángulo equilátero de lado 20."
+        },
+        {
+          "letter": "B",
+          "text": "$100\\sqrt{3}\\text{ cm}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Los lados del triángulo miden R+R = 20. Área = (s²√3)/4 = (400√3)/4 = 100√3."
+        },
+        {
+          "letter": "C",
+          "text": "$200\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Error en la aplicación de la fórmula del área del triángulo equilátero."
+        },
+        {
+          "letter": "D",
+          "text": "$50\\sqrt{3}\\text{ cm}^2$",
+          "is_correct": false,
+          "feedback": "Dividiste incorrectamente o usaste un lado de 10 en lugar de 20."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al unir los centros de tres círculos tangentes de radio $R$, se forma un triángulo equilátero cuyos lados miden $2R$. Con $R=10$, el lado $s=20$. El área de un triángulo equilátero es $\\frac{s^2\\sqrt{3}}{4} = \\frac{20^2\\sqrt{3}}{4} = \\frac{400\\sqrt{3}}{4} = 100\\sqrt{3}\\text{ cm}^2$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.3,
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la expresión general para el área de un hexágono regular en términos únicamente de la longitud de su lado $L$?",
+      "context": "Un ingeniero civil evalúa la resistencia de una viga cuya sección transversal es un hexágono regular de lado $L$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3L^2$",
+          "is_correct": false,
+          "feedback": "Esta expresión subestima el área total del hexágono."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{3L^2}{2}$",
+          "is_correct": false,
+          "feedback": "Falta el factor de raíz de 3 característico de los triángulos equiláteros que componen el hexágono."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{3\\sqrt{3}L^2}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Un hexágono regular se compone de 6 triángulos equiláteros de área (L²√3)/4. Total = 6 × (L²√3)/4 = (3√3L²)/2."
+        },
+        {
+          "letter": "D",
+          "text": "$6\\sqrt{3}L^2$",
+          "is_correct": false,
+          "feedback": "Esta expresión sobreestima el área por un factor de 4."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un hexágono regular se divide en 6 triángulos equiláteros. El área de uno de estos triángulos con lado $L$ es $A_t = \\frac{L^2\\sqrt{3}}{4}$. Multiplicando por 6 obtenemos el área total: $A = 6 \\cdot \\frac{L^2\\sqrt{3}}{4} = \\frac{3\\sqrt{3}L^2}{2}$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v18",
+      "statement": "¿Qué sucede con el área de un polígono regular de $n$ lados, inscrito en un círculo de radio fijo $R$, a medida que el número de lados $n$ tiende al infinito?",
+      "context": "Un matemático en la UNAM está analizando propiedades de polígonos regulares y su relación con el círculo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El área tiende a infinito",
+          "is_correct": false,
+          "feedback": "El área está acotada por el círculo en el que el polígono está inscrito."
+        },
+        {
+          "letter": "B",
+          "text": "El área tiende a cero",
+          "is_correct": false,
+          "feedback": "Al aumentar los lados, el polígono ocupa más espacio dentro del círculo, no menos."
+        },
+        {
+          "letter": "C",
+          "text": "El área tiende a $\\pi R^2$",
+          "is_correct": true,
+          "feedback": "Correcto. A medida que n aumenta, el polígono se aproxima cada vez más a la forma del círculo que lo contiene."
+        },
+        {
+          "letter": "D",
+          "text": "El área tiende a $2\\pi R$",
+          "is_correct": false,
+          "feedback": "Este es el valor de la circunferencia (longitud), no del área."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este es el concepto fundamental del cálculo integral desarrollado por Arquímedes. Al aumentar indefinidamente el número de lados de un polígono inscrito, el polígono \"agota\" el área del círculo, convergiendo a $\\pi R^2$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el área de la región donde se traslapan los cuatro semicírculos (el \"pétalo\" central formado)?",
+      "context": "Se presenta un desafío geométrico: un cuadrado de lado $a$ tiene inscritos cuatro semicírculos cuyos diámetros son los lados del cuadrado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a^2(\\pi - 1)$",
+          "is_correct": false,
+          "feedback": "Esta expresión resultaría en un área mayor que la del cuadrado mismo."
+        },
+        {
+          "letter": "B",
+          "text": "$a^2(\\frac{\\pi}{2} - 1)$",
+          "is_correct": true,
+          "feedback": "Correcto. El área de la región de traslape de dos semicírculos opuestos menos el cuadrado permite deducir esta forma característica."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{\\pi a^2}{4}$",
+          "is_correct": false,
+          "feedback": "Este es solo el área de un cuarto de círculo."
+        },
+        {
+          "letter": "D",
+          "text": "$a^2(1 - \\frac{\\pi}{4})$",
+          "is_correct": false,
+          "feedback": "Esta es el área de las esquinas del cuadrado no cubiertas por un cuarto de círculo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este problema se resuelve mediante la suma de áreas de sectores circulares y la resta de áreas de triángulos o del cuadrado mismo. La intersección de los semicírculos genera una figura cuya área es $a^2(\\frac{\\pi}{2} - 1)$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle-v20",
+      "statement": "Si la distancia entre los centros de los dos círculos es igual al radio $R$, ¿cuál es el área de la región común (intersección)?",
+      "context": "Un astrónomo calcula la visibilidad de un eclipse utilizando el área de intersección de dos círculos iguales de radio $R$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$R^2(\\frac{\\pi}{2})$",
+          "is_correct": false,
+          "feedback": "Esta es el área de medio círculo, no corresponde a la intersección dada."
+        },
+        {
+          "letter": "B",
+          "text": "$R^2(\\frac{2\\pi}{3} - \\frac{\\sqrt{3}}{2})$",
+          "is_correct": true,
+          "feedback": "Correcto. Se calcula restando segmentos circulares o mediante la integración de las áreas de los sectores de 120 grados."
+        },
+        {
+          "letter": "C",
+          "text": "$R^2(\\frac{\\pi}{3} - \\frac{\\sqrt{3}}{4})$",
+          "is_correct": false,
+          "feedback": "Este valor es solo la mitad del área de la intersección."
+        },
+        {
+          "letter": "D",
+          "text": "$\\pi R^2$",
+          "is_correct": false,
+          "feedback": "Este es el área de un círculo completo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La intersección de dos círculos con centros separados por una distancia $R$ forma dos sectores circulares de $120^{\\circ}$ superpuestos. El área se obtiene sumando las áreas de estos sectores y restando el área del rombo formado por los radios. El resultado es $R^2(\\frac{2\\pi}{3} - \\frac{\\sqrt{3}}{2})$.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntaje |\n|-----------|---------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.15,
+      "bundle_id": "MX-MAT-11-2026-W11-geometria-figuras-planas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v1",
+      "statement": "Si dos de los ángulos agudos formados en la base de un plano de construcción son complementarios y uno mide 35°, ¿cuánto mide el otro ángulo?",
+      "context": "Un arquitecto en Puebla diseña la estructura de un techo inclinado y necesita identificar las propiedades de los ángulos complementarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "55°",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los ángulos complementarios suman exactamente 90°. Por lo tanto, 90° - 35° = 55°."
+        },
+        {
+          "letter": "B",
+          "text": "145°",
+          "is_correct": false,
+          "feedback": "Incorrecto. 145° es el ángulo suplementario (suman 180°), no el complementario."
+        },
+        {
+          "letter": "C",
+          "text": "65°",
+          "is_correct": false,
+          "feedback": "Incorrecto. 65° y 35° suman 100°, no 90°."
+        },
+        {
+          "letter": "D",
+          "text": "45°",
+          "is_correct": false,
+          "feedback": "Incorrecto. 45° y 35° suman 80°, no 90°."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición, dos ángulos son complementarios si la suma de sus medidas es igual a 90°. Si un ángulo mide 35°, el otro se calcula restando 35° a 90°, lo que resulta en: 90° - 35° = 55°.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de las siguientes afirmaciones describe una propiedad fundamental de un triángulo isósceles?",
+      "context": "Durante un taller de carpintería en Guadalajara, Luis corta vigas de madera para formar un triángulo isósceles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiene exactamente dos lados de igual longitud y dos ángulos opuestos iguales.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Por definición, un triángulo isósceles posee dos lados congruentes (de igual longitud) y los ángulos opuestos a estos lados también son congruentes."
+        },
+        {
+          "letter": "B",
+          "text": "Tiene tres lados de diferentes longitudes y ángulos agudos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un triángulo con tres lados diferentes es un triángulo escaleno."
+        },
+        {
+          "letter": "C",
+          "text": "Tiene un ángulo recto de 90° y dos lados iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una subclase específica (triángulo rectángulo isósceles), pero no es la definición general de un isósceles."
+        },
+        {
+          "letter": "D",
+          "text": "Todos sus lados y ángulos internos son de igual medida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un triángulo con todos sus lados y ángulos iguales es equilátero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un triángulo isósceles es aquel que tiene dos lados de igual longitud (congruentes). Una consecuencia geométrica directa de esto es que los ángulos opuestos a dichos lados también son de igual medida.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v3",
+      "statement": "Si uno de los ángulos alternos internos formados mide 110°, ¿cuánto mide el ángulo colateral interno correspondiente en el mismo lado de la ciclovía?",
+      "context": "Ximena observa un plano de construcción de un parque en Querétaro, donde dos avenidas paralelas son cortadas oblicuamente por una ciclovía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "70°",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los ángulos colaterales internos entre paralelas son suplementarios, por lo que suman 180°. Así, 180° - 110° = 70°."
+        },
+        {
+          "letter": "B",
+          "text": "110°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ángulos colaterales internos en rectas paralelas son suplementarios, no congruentes."
+        },
+        {
+          "letter": "C",
+          "text": "80°",
+          "is_correct": false,
+          "feedback": "Incorrecto. 80° y 110° suman 190°, no 180°."
+        },
+        {
+          "letter": "D",
+          "text": "180°",
+          "is_correct": false,
+          "feedback": "Incorrecto. 180° es la suma de ambos ángulos, no la medida del ángulo colateral interno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando una recta transversal corta a dos paralelas, los ángulos colaterales internos (aquellos que se encuentran del mismo lado de la transversal y entre las paralelas) son suplementarios, es decir, suman 180°. Si uno mide 110°, el otro es: 180° - 110° = 70°.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v4",
+      "statement": "Si dos de los ángulos internos del triángulo miden 48° y 72° respectivamente, ¿cuál es la medida del tercer ángulo interno?",
+      "context": "Diego calcula los ángulos internos de una estructura metálica triangular para un espectacular publicitario en Monterrey.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60°",
+          "is_correct": true,
+          "feedback": "¡Correcto! La suma de los de cualquier triángulo es 180°. Sumamos 48° + 72° = 120°. El tercero es 180° - 120° = 60°."
+        },
+        {
+          "letter": "B",
+          "text": "70°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con 70° la suma total de los ángulos internos sería de 190°, lo cual contradice el teorema geométrico."
+        },
+        {
+          "letter": "C",
+          "text": "50°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con 50° la suma total de los de 170°."
+        },
+        {
+          "letter": "D",
+          "text": "80°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con 80° la suma total sería de 200°."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "De acuerdo con el teorema de la suma de los de un triángulo, estos siempre suman 180°. Planteamos la ecuación: 48° + 72° + x = 180°. Simplificando: 120° + x = 180°, de donde obtenemos x = 60°.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v5",
+      "statement": "Si la vela tiene forma de triángulo y sus ángulos internos están en la relación 2:3:4, ¿cuál es la medida del ángulo más grande?",
+      "context": "Sofía estudia la geometría de las velas de los barcos de pesca en las costas de Veracruz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "80°",
+          "is_correct": true,
+          "feedback": "¡Correcto! La suma de las partes de la relación es 2 + 3 + 4 = 9. Cada parte equivale a 180° / 9 = 20°. El ángulo mayor mide 4 * 20° = 80°."
+        },
+        {
+          "letter": "B",
+          "text": "60°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este corresponde al ángulo intermedio de la relación (3 * 20° = 60°)."
+        },
+        {
+          "letter": "C",
+          "text": "40°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este corresponde al ángulo menor de la relación (2 * 20° = 40°)."
+        },
+        {
+          "letter": "D",
+          "text": "100°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si el mayor fuera 100°, la suma de los tres ángulos excedería los 180° proporcionales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Representamos las medidas de los ángulos como 2x, 3x y 4x. Dado que la suma de los de un triángulo es 180°, planteamos: 2x + 3x + 4x = 180° -> 9x = 180° -> x = 20°. El ángulo mayor es 4x = 4 * 20° = 80°.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v6",
+      "statement": "Si uno de los ángulos interiores no adyacentes a este ángulo exterior mide 60°, ¿cuánto mide el otro ángulo interior no adyacente?",
+      "context": "En Ciudad de México, un topógrafo mide los ángulos de un terreno triangular. Encuentra que el ángulo exterior de uno de los vértices mide 135°.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "75°",
+          "is_correct": true,
+          "feedback": "¡Correcto! Por el teorema del ángulo exterior, la medida de un ángulo exterior de un triángulo es igual a la suma de las medidas de los dos ángulos interiores no adyacentes. Así, 135° - 60° = 75°."
+        },
+        {
+          "letter": "B",
+          "text": "45°",
+          "is_correct": false,
+          "feedback": "Incorrecto. 45° es el ángulo adyacente suplementario al ángulo exterior (180° - 135° = 45°), no el no adyacente."
+        },
+        {
+          "letter": "C",
+          "text": "115°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con 115° se superaría la suma establecida por el teorema del ángulo exterior."
+        },
+        {
+          "letter": "D",
+          "text": "60°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto implicaría un triángulo isósceles que no cumple con el ángulo exterior de 135°."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El teorema del ángulo exterior establece que cualquier ángulo exterior de un triángulo es igual a la suma de los dos ángulos interiores opuestos. Si el exterior es 135° y uno de los opuestos es 60°, el otro es: 135° - 60° = 75°.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v7",
+      "statement": "Si cada arete es un triángulo equilátero, ¿cuánto mide la suma de sus tres ángulos exteriores (uno en cada vértice)?",
+      "context": "Un artesano en Taxco fabrica aretes de plata con forma de triángulos equiláteros concéntricos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "360°",
+          "is_correct": true,
+          "feedback": "¡Correcto! En cualquier polígono convexo (incluyendo cualquier triángulo), la suma de los de es siempre igual a 360°."
+        },
+        {
+          "letter": "B",
+          "text": "180°",
+          "is_correct": false,
+          "feedback": "Incorrecto. 180° es la suma de los ángulos interiores del triángulo, no de los exteriores."
+        },
+        {
+          "letter": "C",
+          "text": "270°",
+          "is_correct": false,
+          "feedback": "Incorrecto. 270° no corresponde a la suma de los ángulos exteriores de un triángulo convexos."
+        },
+        {
+          "letter": "D",
+          "text": "540°",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de los de siempre está fija en 360°."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cada ángulo interno de un triángulo equilátero mide 60°. El ángulo exterior adyacente a cada uno es suplementario, es decir, mide 180° - 60° = 120°. Como el triángulo tiene tres vértices, la suma de los ángulos exteriores es 3 * 120° = 360°.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v8",
+      "statement": "Si dos lados de un soporte triangular miden 8 cm y 15 cm, ¿entre qué valores debe encontrarse la longitud del tercer lado (x) para que se pueda construir el triángulo?",
+      "context": "Diego está armando una estantería triangular en Toluca y necesita calcular la longitud de las maderas de soporte.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7 cm < x < 23 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! Por la desigualdad triangular, el tercer lado debe ser mayor que la diferencia de los otros dos (15 - 8 = 7) y menor que su suma (15 + 8 = 23)."
+        },
+        {
+          "letter": "B",
+          "text": "8 cm < x < 15 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este rango restringe innecesariamente los valores posibles del tercer lado."
+        },
+        {
+          "letter": "C",
+          "text": "0 cm < x < 23 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lado no puede medir menos de 7 cm, de lo contrario los lados de 8 cm y x no alcanzarían a unirse con el de 15 cm."
+        },
+        {
+          "letter": "D",
+          "text": "7 cm < x < 15 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud máxima permitida es menor que 23 cm."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La desigualdad triangular establece que en todo triángulo la longitud de cada lado debe ser menor que la suma de los otros dos lados y mayor que su diferencia absoluta. Así: 15 - 8 < x < 15 + 8, lo que equivale a 7 < x < 23.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v9",
+      "statement": "Si uno de los ángulos agudos del triángulo mide el doble que el otro ángulo agudo, ¿cuál es la medida del ángulo agudo menor?",
+      "context": "Un diseñador de jardines en Cuernavaca dibuja un jardín con forma de triángulo rectángulo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30°",
+          "is_correct": true,
+          "feedback": "¡Correcto! En un triángulo rectángulo, los dos ángulos agudos suman 90°. Si uno es x y el otro 2x, planteamos x + 2x = 90° -> 3x = 90° -> x = 30°."
+        },
+        {
+          "letter": "B",
+          "text": "45°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si el menor fuera 45°, el mayor sería 90°, lo cual no daría un triángulo rectángulo válido."
+        },
+        {
+          "letter": "C",
+          "text": "60°",
+          "is_correct": false,
+          "feedback": "Incorrecto. 60° es el ángulo agudo mayor, no el menor."
+        },
+        {
+          "letter": "D",
+          "text": "20°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si el menor fuera 20°, el mayor sería 40°, y sumarían 60° en lugar de los 90° requeridos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En cualquier triángulo rectángulo, la suma de los tres es 180°. Dado que un ángulo mide 90°, los otros dos ángulos agudos deben sumar 90°. Representamos los ángulos como x y 2x: x + 2x = 90° -> 3x = 90° -> x = 30°. El ángulo agudo menor es 30°.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v10",
+      "statement": "Si dos paralelas son cortadas por una transversal y un ángulo alterno externo mide (3x - 15)° mientras que su correspondiente alterno externo opuesto mide (2x + 20)°, ¿cuál es el valor de x?",
+      "context": "Carlos analiza un croquis escolar de una cancha deportiva en Mérida donde se representan ángulos alternos externos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "35",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los ángulos alternos externos formados entre paralelas cortadas por una transversal son iguales. Planteamos 3x - 15 = 2x + 20, de donde x = 35."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sustituyendo 5 obtendríamos ángulos de 0° y 30°, lo cual no es equivalente."
+        },
+        {
+          "letter": "C",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si x fuera 25, los de serían 60° y 70°, que no son iguales."
+        },
+        {
+          "letter": "D",
+          "text": "45",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si x fuera 45, los de serían 120° y 110°, que no coinciden."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los ángulos alternos externos entre líneas paralelas son congruentes. Por lo tanto, igualamos sus expresiones: 3x - 15 = 2x + 20. Restamos 2x de ambos lados: x - 15 = 20. Sumamos 15 a ambos lados: x = 35.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v11",
+      "statement": "En un triángulo ABC, el ángulo en el vértice B mide 80° y el ángulo en el vértice C mide 40°. Si se traza la bisectriz del ángulo A que intersecta al lado BC en el punto D, ¿cuál es la medida del ángulo ADC?",
+      "context": "Alejandro calcula las pendientes de soporte de una rampa metálica en una bodega de Cancún utilizando la bisectriz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "110°",
+          "is_correct": true,
+          "feedback": "¡Correcto! El ángulo A mide 180° - 80° - 40° = 60°. La bisectriz divide el ángulo A en dos de 30°. En el triángulo ADC, el ángulo ADC es 180° - 30° - 40° = 110°."
+        },
+        {
+          "letter": "B",
+          "text": "70°",
+          "is_correct": false,
+          "feedback": "Incorrecto. 70° es el ángulo ADB (180° - 30° - 80° = 70°), no el ADC."
+        },
+        {
+          "letter": "C",
+          "text": "90°",
+          "is_correct": false,
+          "feedback": "Incorrecto. El triángulo ADC no es un triángulo rectángulo."
+        },
+        {
+          "letter": "D",
+          "text": "120°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se obtuvo mediante una distribución incorrecta del ángulo bisecado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Primero, determinamos la medida del ángulo A: A = 180° - B - C = 180° - 80° - 40° = 60°. La bisectriz del ángulo A lo divide en dos partes iguales de 30° cada una (ángulo CAD = 30°). En el triángulo ADC, la suma de los es 180°: CAD + C + ADC = 180° -> 30° + 40° + ADC = 180° -> ADC = 180° - 70° = 110°.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v12",
+      "statement": "Los ángulos internos de un triángulo miden (x + 10)°, (2x - 20)° y (3x - 50)°. ¿De qué tipo de triángulo se trata de acuerdo con la medida de sus ángulos?",
+      "context": "Una ingeniera civil en Monterrey examina un marco rígido triangular cuyos ángulos están expresados en términos algebraicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Triángulo acutángulo",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al resolver la ecuación se obtiene x = 40, lo que da de 50°, 60° y 70°. Como todos los ángulos son menores de 90°, el triángulo es acutángulo."
+        },
+        {
+          "letter": "B",
+          "text": "Triángulo obtusángulo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los de resultantes mide más de 90°."
+        },
+        {
+          "letter": "C",
+          "text": "Triángulo rectángulo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los de resultantes mide exactamente 90°."
+        },
+        {
+          "letter": "D",
+          "text": "Triángulo equilátero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los tres ángulos internos son diferentes (50°, 60° y 70°), por lo que es escaleno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La suma de los es 180°: (x + 10) + (2x - 20) + (3x - 50) = 180. Agrupamos los términos con x: 6x - 60 = 180. Sumamos 60: 6x = 240, de donde x = 40. Sustituyendo x: primer ángulo = 40 + 10 = 50°; segundo ángulo = 2(40) - 20 = 60°; tercer ángulo = 3(40) - 50 = 70°. Al ser los tres ángulos menores de 90°, es un triángulo acutángulo.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la medida del ángulo interno en cada una de las puntas de una estrella regular de 5 puntas?",
+      "context": "Un diseñador gráfico en Guadalajara dibuja una estrella de cinco puntas regular (pentagrama) y quiere conocer el ángulo interno de cada una de las puntas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "36°",
+          "is_correct": true,
+          "feedback": "¡Correcto! En una estrella de 5 puntas regular inscrita en un pentágono regular, el ángulo de cada punta mide exactamente 36°."
+        },
+        {
+          "letter": "B",
+          "text": "72°",
+          "is_correct": false,
+          "feedback": "Incorrecto. 72° es el ángulo exterior del pentágono regular base, no el de la punta de la estrella."
+        },
+        {
+          "letter": "C",
+          "text": "108°",
+          "is_correct": false,
+          "feedback": "Incorrecto. 108° es el ángulo interior del pentágono regular base."
+        },
+        {
+          "letter": "D",
+          "text": "54°",
+          "is_correct": false,
+          "feedback": "Incorrecto. 54° es la mitad del ángulo interior del pentágono base."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un pentágono regular, la suma de los es (5-2)*180 = 540°, por lo que cada ángulo interno mide 108°. El ángulo de la punta de una estrella de 5 puntas se calcula de esta forma: cada punta es el ángulo de un triángulo isósceles que tiene ángulos de base de 72°, por lo que la punta mide 180° - 2 * 72° = 36°.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v14",
+      "statement": "En un triángulo rectángulo, si la altura correspondiente a la hipotenusa divide a esta en dos segmentos de 4 m y 9 m, ¿cuál es la longitud de dicha altura?",
+      "context": "Para estabilizar una antena de telecomunicaciones en Toluca, se colocan tensores metálicos formando un triángulo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 m",
+          "is_correct": true,
+          "feedback": "¡Correcto! Por el teorema de la altura en un triángulo rectángulo, la altura es la media geométrica de los segmentos en que divide a la hipotenusa: h² = m * n = 4 * 9 = 36. Por lo tanto, h = 6 m."
+        },
+        {
+          "letter": "B",
+          "text": "6.5 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó la media aritmética ((4 + 9) / 2 = 6.5) en lugar de la media geométrica."
+        },
+        {
+          "letter": "C",
+          "text": "5 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor que no satisface la proporcionalidad geométrica de la altura."
+        },
+        {
+          "letter": "D",
+          "text": "7.2 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la relación métrica del triángulo rectángulo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El teorema de la altura establece que en cualquier triángulo rectángulo, la altura trazada desde el ángulo recto a la hipotenusa es igual a la media geométrica de los dos segmentos determinados sobre ella. La fórmula es h² = m * n. Sustituyendo los de dados: h² = 4 * 9 = 36. Extrayendo la raíz cuadrada: h = 6 metros.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v15",
+      "statement": "¿Cómo se denominan las tres rectas que unen los vértices de un triángulo con los puntos medios de sus lados opuestos y cómo se llama su punto de intersección?",
+      "context": "En un curso de geometría avanzada en la Ciudad de México, se analiza el Teorema de Ceva sobre líneas concurrentes en un triángulo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Medianas y Baricentro (o Centroide)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las rectas que conectan los vértices con los puntos medios opuestos se llaman medianas, y su punto de intersección común es el baricentro o centroide."
+        },
+        {
+          "letter": "B",
+          "text": "Mediatrices y Circuncentro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mediatrices son perpendiculares a los lados en sus puntos medios, no pasan necesariamente por los vértices opuestos."
+        },
+        {
+          "letter": "C",
+          "text": "Alturas y Ortocentro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las alturas parten de los vértices y son perpendiculares a los lados opuestos."
+        },
+        {
+          "letter": "D",
+          "text": "Bisectrices y Incentro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las bisectrices dividen los ángulos internos a la mitad, su intersección es el incentro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las medianas de un triángulo son los segmentos de recta que unen cada vértice con el punto medio del lado opuesto. El punto donde se intersectan las tres medianas se llama baricentro (también conocido como centroide o centro de gravedad del triángulo).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v16",
+      "statement": "Si AB = 12 m, AD = 4 m y AC = 15 m, ¿cuál es la longitud del segmento AE de acuerdo con el Teorema de Tales?",
+      "context": "Un topógrafo en Oaxaca estudia un terreno triangular ABC y traza una paralela al lado BC que corta a AB en D y a AC en E.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 m",
+          "is_correct": true,
+          "feedback": "¡Correcto! Por el Teorema de Tales, la proporción es AD / AB = AE / AC. Sustituyendo: 4 / 12 = AE / 15 -> 1 / 3 = AE / 15 -> AE = 5 m."
+        },
+        {
+          "letter": "B",
+          "text": "6 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. La proporción matemática correcta daría 5 m, no 6 m."
+        },
+        {
+          "letter": "C",
+          "text": "4.5 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor no respeta la proporción lineal de los segmentos paralelos."
+        },
+        {
+          "letter": "D",
+          "text": "7.5 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. 7.5 m correspondería a la mitad, pero el segmento es un tercio del total."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Teorema de Tales establece que si en un triángulo se traza una línea paralela a cualquiera de sus lados, los otros dos lados quedan divididos en partes proporcionales. Así, la relación es AD / AB = AE / AC. Sustituyendo los de conocidos: 4 / 12 = AE / 15. Simplificando la primera fracción: 1 / 3 = AE / 15. Despejando AE: AE = 15 / 3 = 5 m.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v17",
+      "statement": "En un triángulo cuyos lados miden a = 7 cm, b = 8 cm y c = 13 cm, ¿cuál es el tipo de triángulo según la clasificación de sus ángulos internos?",
+      "context": "Un estudiante de ingeniería en San Luis Potosí evalúa la rigidez torsional de un soporte triangular mediante relaciones trigonométricas y teorema de cosenos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Triángulo obtusángulo",
+          "is_correct": true,
+          "feedback": "¡Correcto! Por la ley de cosenos, c² = a² + b² - 2ab cos(C). Sustituyendo: 169 = 49 + 64 - 112 cos(C) -> 169 = 113 - 112 cos(C) -> cos(C) = -56 / 112 = -0.5. Como el coseno es negativo, el ángulo C es obtuso (120°)."
+        },
+        {
+          "letter": "B",
+          "text": "Triángulo acutángulo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ángulo mayor mide exactamente 120°, por lo tanto el triángulo posee un ángulo obtuso."
+        },
+        {
+          "letter": "C",
+          "text": "Triángulo rectángulo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se cumple el teorema de Pitágoras puesto que 13² = 169 y 7² + 8² = 113 (169 != 113)."
+        },
+        {
+          "letter": "D",
+          "text": "Triángulo equilátero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los tres lados tienen longitudes muy distintas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para determinar el tipo de triángulo comparamos el cuadrado del lado mayor con la suma de los cuadrados de los otros dos lados. Lado mayor al cuadrado: 13² = 169. Suma de cuadrados de los otros lados: 7² + 8² = 49 + 64 = 113. Como 169 > 113 (c² > a² + b²), el ángulo opuesto al lado mayor es obtuso, por lo que el triángulo es obtusángulo.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v18",
+      "statement": "Si en un triángulo cualquiera trazamos la recta de Euler, ¿cuáles son los tres puntos notables que obligatoriamente pertenecen a esta recta?",
+      "context": "Durante un examen de admisión en la UNAM, se plantea una demostración geométrica sobre los puntos notables del triángulo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Baricentro, Ortocentro y Circuncentro",
+          "is_correct": true,
+          "feedback": "¡Correcto! La recta de Euler pasa siempre por el baricentro, el ortocentro y el circuncentro de cualquier triángulo no equilátero."
+        },
+        {
+          "letter": "B",
+          "text": "Incentro, Ortocentro y Circuncentro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El incentro solo pertenece a la recta de Euler en triángulos isósceles, no en general."
+        },
+        {
+          "letter": "C",
+          "text": "Baricentro, Incentro y Ortocentro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El incentro no está colineal con el baricentro y el ortocentro de forma general."
+        },
+        {
+          "letter": "D",
+          "text": "Circuncentro, Incentro y Baricentro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El circuncentro y baricentro están en la recta, pero el incentro no."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la geometría del triángulo, la recta de Euler es una línea recta que pasa por tres puntos notables fundamentales: el ortocentro (punto de intersección de las alturas), el baricentro (intersección de las medianas) y el circuncentro (intersección de las mediatrices).",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v19",
+      "statement": "Si en un triángulo cualquiera se traza una de sus medianas, ¿cuál de las siguientes afirmaciones sobre las áreas de los dos triángulos resultantes es correcta?",
+      "context": "Un diseñador de domos geodésicos en Querétaro analiza la subdivisión de caras triangulares mediante la mediana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las dos áreas son exactamente iguales.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La mediana divide al triángulo original en dos triángulos que tienen bases de igual longitud (la mitad del lado original) y comparten la misma altura. Por ende, sus áreas son idénticas (equiactivas)."
+        },
+        {
+          "letter": "B",
+          "text": "El área del triángulo izquierdo es siempre mayor que la del derecho.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta afirmación es falsa, las áreas son siempre iguales independientemente de la forma del triángulo."
+        },
+        {
+          "letter": "C",
+          "text": "La relación de sus áreas depende del tipo de triángulo analizado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La propiedad de igual área de los triángulos subdivididos por la mediana es un teorema universal aplicable a todo triángulo."
+        },
+        {
+          "letter": "D",
+          "text": "La suma de las áreas de los dos triángulos resultantes es menor que el área del triángulo original.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por conservación del área, la suma debe ser exactamente igual al área original."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una mediana de un triángulo va desde un vértice hasta el punto medio del lado opuesto. Esto divide al lado opuesto en dos segmentos de igual base, b/2. Ambos triángulos más pequeños comparten el mismo vértice opuesto, por lo que su altura h es la misma. Como el área de un triángulo se calcula como (base * altura) / 2, el área de cada uno es ((b/2) * h) / 2, que es exactamente igual a la mitad del área del triángulo original.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v20",
+      "statement": "En un triángulo ABC con lados a = 5 cm, b = 6 cm y c = 7 cm, se traza la bisectriz del ángulo A que corta al lado opuesto BC en el punto D. ¿Cuál es la longitud exacta del segmento BD?",
+      "context": "Se presenta un reto geométrico en las olimpiadas de matemáticas de Nuevo León sobre el teorema del incentro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.69 cm",
+          "is_correct": true,
+          "feedback": "¡Correcto! Por el teorema de la bisectriz interna, BD / DC = c / b = 7 / 6. Como BD + DC = a = 5, entonces BD = 5 * (7 / (7 + 6)) = 35 / 13 ≈ 2.69 cm."
+        },
+        {
+          "letter": "B",
+          "text": "2.50 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto asumiría que la bisectriz corta el lado exactamente a la mitad, lo cual ocurre únicamente si el triángulo es isósceles con b = c."
+        },
+        {
+          "letter": "C",
+          "text": "2.31 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al segmento DC (5 * 6 / 13 ≈ 2.31 cm), no al BD."
+        },
+        {
+          "letter": "D",
+          "text": "3.00 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resultado de una distribución proporcional incorrecta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El teorema de la bisectriz interna establece que la bisectriz de un ángulo de un triángulo divide al lado opuesto en dos segmentos proporcionales a los otros dos lados. Así: BD / DC = c / b. En este problema, c = 7 y b = 6, por lo que BD / DC = 7/6. Como BD + DC = a = 5 cm, podemos expresar DC como 5 - BD. Sustituyendo: BD / (5 - BD) = 7/6 -> 6 * BD = 7 * (5 - BD) -> 6 * BD = 35 - 7 * BD -> 13 * BD = 35 -> BD = 35 / 13 ≈ 2.69 cm.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ingles",
+    "country": "cl",
+    "pack_id": "cl-week-34-grade-11-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.114Z"
+  },
+  "questions": [
+    {
+      "id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-v1",
+      "statement": "Objectivity is the practice of reporting news without being influenced by personal feelings or opinions.",
+      "context": "Introduction to journalistic principles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bias",
+          "is_correct": false,
+          "feedback": "Incorrect. Bias is the opposite of objectivity."
+        },
+        {
+          "letter": "B",
+          "text": "Objectivity",
+          "is_correct": true,
+          "feedback": "Correct. The core ethical principle of impartial reporting."
+        },
+        {
+          "letter": "C",
+          "text": "Sensationalism",
+          "is_correct": false,
+          "feedback": "Incorrect. Focuses on shocking/exciting news."
+        },
+        {
+          "letter": "D",
+          "text": "Clickbait",
+          "is_correct": false,
+          "feedback": "Incorrect. Focuses on attracting clicks."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Objectivity' is the formal term for the journalistic goal of impartial and factual reporting.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-v2",
+      "statement": "Journalists must ensure that their sources are verified before publishing any sensitive information.",
+      "context": "Discussing media accountability.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "verify",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "are verified",
+          "is_correct": true,
+          "feedback": "Correct. Present simple passive for an ethical requirement."
+        },
+        {
+          "letter": "C",
+          "text": "verified",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "D",
+          "text": "being verified",
+          "is_correct": false,
+          "feedback": "Incorrect. Gerund."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The passive voice 'are verified' focuses on the status of the sources being authenticated.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-v3",
+      "statement": "If the reporter had checked the facts, the newspaper wouldn't have been sued for defamation.",
+      "context": "Speculating about a media scandal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "checked",
+          "is_correct": false,
+          "feedback": "Incorrect. Second conditional."
+        },
+        {
+          "letter": "B",
+          "text": "had checked",
+          "is_correct": true,
+          "feedback": "Correct. Third conditional for hypothetical past."
+        },
+        {
+          "letter": "C",
+          "text": "has checked",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "would check",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' not in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The third conditional is used to speculate about how a past ethical failure led to a negative consequence.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-v4",
+      "statement": "The text suggests that public figures also have a right to privacy, although it is often balanced against the public's right to know.",
+      "context": "Article about \"privacy rights\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "balanced against",
+          "is_correct": true,
+          "feedback": "Correct. To balance against means to compare or contrast to show the relative importance."
+        },
+        {
+          "letter": "B",
+          "text": "ignored by",
+          "is_correct": false,
+          "feedback": "Incorrect. While sometimes true, 'balanced against' describes the ethical framework."
+        },
+        {
+          "letter": "C",
+          "text": "identical to",
+          "is_correct": false,
+          "feedback": "Incorrect. They are two different rights."
+        },
+        {
+          "letter": "D",
+          "text": "replaced by",
+          "is_correct": false,
+          "feedback": "Incorrect. One doesn't necessarily eliminate the other."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Balanced against' is the standard legal and ethical term for weighing two competing rights or interests.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-v5",
+      "statement": "\"Fake news\" is a type of yellow journalism or propaganda that consists of deliberate misinformation or hoaxes spread via traditional media or social media.",
+      "context": "Discussion on \"fake news\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "accidental",
+          "is_correct": false,
+          "feedback": "Incorrect. Fake news is 'deliberate'."
+        },
+        {
+          "letter": "B",
+          "text": "deliberate",
+          "is_correct": true,
+          "feedback": "Correct. Deliberate means done consciously and intentionally."
+        },
+        {
+          "letter": "C",
+          "text": "factual",
+          "is_correct": false,
+          "feedback": "Incorrect. Fake news is false."
+        },
+        {
+          "letter": "D",
+          "text": "objective",
+          "is_correct": false,
+          "feedback": "Incorrect. Fake news is biased."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Deliberate' correctly identifies the intentional nature of the misinformation in fake news.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-v6",
+      "statement": "Libel is a published false statement that is damaging to a person's reputation; a written defamation.",
+      "context": "Legal media terms.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Review",
+          "is_correct": false,
+          "feedback": "Incorrect. An evaluation."
+        },
+        {
+          "letter": "B",
+          "text": "Libel",
+          "is_correct": true,
+          "feedback": "Correct. Specific term for written defamation."
+        },
+        {
+          "letter": "C",
+          "text": "Slander",
+          "is_correct": false,
+          "feedback": "Incorrect. Slander is spoken defamation."
+        },
+        {
+          "letter": "D",
+          "text": "Column",
+          "is_correct": false,
+          "feedback": "Incorrect. A regular feature."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Libel' is the formal legal term for permanent (usually written) defamation in the media.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-v7",
+      "statement": "The news outlet's editorial practices are being scrutinized following the recent allegations of plagiarism.",
+      "context": "Describing an ongoing ethical investigation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are scrutinizing",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "are being scrutinized",
+          "is_correct": true,
+          "feedback": "Correct. Present continuous passive for an ongoing investigation."
+        },
+        {
+          "letter": "C",
+          "text": "scrutinized",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "D",
+          "text": "have scrutinized",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present continuous passive describes the current, active examination of the organization's ethics.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-v8",
+      "statement": "Whistleblowers play a crucial role in exposing corporate misconduct that would otherwise remain hidden from the public.",
+      "context": "Text on \"whistleblowing\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "achievement",
+          "is_correct": false,
+          "feedback": "Incorrect. Misconduct is negative."
+        },
+        {
+          "letter": "B",
+          "text": "misconduct",
+          "is_correct": true,
+          "feedback": "Correct. Misconduct is unacceptable or improper behavior."
+        },
+        {
+          "letter": "C",
+          "text": "transparency",
+          "is_correct": false,
+          "feedback": "Incorrect. Misconduct is the thing being exposed."
+        },
+        {
+          "letter": "D",
+          "text": "efficiency",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Misconduct' is the formal term for the unethical or illegal actions that a whistleblower reveals.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-v9",
+      "statement": "The code of ethics stated that journalists shouldn't accept gifts from the people they cover.",
+      "context": "Reporting a professional guideline.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "don't",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted in reported speech."
+        },
+        {
+          "letter": "B",
+          "text": "shouldn't",
+          "is_correct": true,
+          "feedback": "Correct. Backshifted from 'should not' or expressing advice within the past statement."
+        },
+        {
+          "letter": "C",
+          "text": "won't",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "can't",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported guidelines, 'shouldn't' is used to express the negative advice or requirement contained in the original code.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-v10",
+      "statement": "Native advertising is deceptive if it is not clearly labeled, as it blurs the line between editorial content and paid promotion.",
+      "context": "Critique of \"native advertising\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "clarifies",
+          "is_correct": false,
+          "feedback": "Incorrect. It makes it harder to see."
+        },
+        {
+          "letter": "B",
+          "text": "blurs",
+          "is_correct": true,
+          "feedback": "Correct. To blur means to make less distinct or clear."
+        },
+        {
+          "letter": "C",
+          "text": "emphasizes",
+          "is_correct": false,
+          "feedback": "Incorrect. Opposite of blurring."
+        },
+        {
+          "letter": "D",
+          "text": "eliminates",
+          "is_correct": false,
+          "feedback": "Incorrect. The line still exists but is hard to see."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Blurs' correctly describes how deceptive advertising makes it difficult to distinguish between news and marketing.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-v11",
+      "statement": "Plagiarism is the practice of taking someone else's work or ideas and passing them off as one's own.",
+      "context": "Definition of \"plagiarism\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Research",
+          "is_correct": false,
+          "feedback": "Incorrect. Research is ethical study."
+        },
+        {
+          "letter": "B",
+          "text": "Plagiarism",
+          "is_correct": true,
+          "feedback": "Correct. Specific term for academic/creative theft."
+        },
+        {
+          "letter": "C",
+          "text": "Paraphrasing",
+          "is_correct": false,
+          "feedback": "Incorrect. Restating in your own words (which still needs citation)."
+        },
+        {
+          "letter": "D",
+          "text": "Editing",
+          "is_correct": false,
+          "feedback": "Incorrect. Improving existing text."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Plagiarism' is the core ethical violation involving the theft of intellectual property.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-v12",
+      "statement": "By next year, stricter regulations will have been implemented to combat online harassment.",
+      "context": "Describing a future regulatory goal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will implement",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "will have been implemented",
+          "is_correct": true,
+          "feedback": "Correct. Future perfect passive for a completed state in the future."
+        },
+        {
+          "letter": "C",
+          "text": "are implemented",
+          "is_correct": false,
+          "feedback": "Incorrect. Present."
+        },
+        {
+          "letter": "D",
+          "text": "implementing",
+          "is_correct": false,
+          "feedback": "Incorrect. Gerund."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The future perfect passive indicates that the new rules will be a finished achievement by the stated deadline.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-v13",
+      "statement": "Transparency involves being open and honest about how information is gathered and used by media organizations.",
+      "context": "Discussing \"transparency\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transparency",
+          "is_correct": true,
+          "feedback": "Correct. Openness and honesty."
+        },
+        {
+          "letter": "B",
+          "text": "Secrecy",
+          "is_correct": false,
+          "feedback": "Incorrect. Opposite of transparency."
+        },
+        {
+          "letter": "C",
+          "text": "Bias",
+          "is_correct": false,
+          "feedback": "Incorrect. Lack of neutrality."
+        },
+        {
+          "letter": "D",
+          "text": "Profit",
+          "is_correct": false,
+          "feedback": "Incorrect. Financial gain."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Transparency' is the key ethical term for openness regarding an organization's internal processes.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-v14",
+      "statement": "You shouldn't reveal your sources unless it is absolutely necessary for the safety of others.",
+      "context": "Advice on protecting sources.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "if",
+          "is_correct": false,
+          "feedback": "Incorrect. 'If it is necessary' would mean don't reveal if it *is* necessary."
+        },
+        {
+          "letter": "B",
+          "text": "unless",
+          "is_correct": true,
+          "feedback": "Correct. 'Unless' means 'if not'."
+        },
+        {
+          "letter": "C",
+          "text": "although",
+          "is_correct": false,
+          "feedback": "Incorrect. Contrast."
+        },
+        {
+          "letter": "D",
+          "text": "whether",
+          "is_correct": false,
+          "feedback": "Incorrect. Choice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Unless' sets the rare and extreme condition (safety) under which a journalist might break the rule of protecting sources.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-v15",
+      "statement": "The author concludes that rigorous fact-checking is the best defense against the spread of misinformation.",
+      "context": "Conclusion of an essay on the importance of \"fact-checking\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "fact-checking",
+          "is_correct": true,
+          "feedback": "Correct. The process of verifying the accuracy of information."
+        },
+        {
+          "letter": "B",
+          "text": "storytelling",
+          "is_correct": false,
+          "feedback": "Incorrect. Stories can be true or false."
+        },
+        {
+          "letter": "C",
+          "text": "marketing",
+          "is_correct": false,
+          "feedback": "Incorrect. Marketing often uses bias."
+        },
+        {
+          "letter": "D",
+          "text": "rumors",
+          "is_correct": false,
+          "feedback": "Incorrect. Rumors are a source of misinformation."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Fact-checking' is the specific verification process evaluated as the 'best defense' against false news.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-v16",
+      "statement": "A conflict of interest occurs when a journalist's personal involvement in a story might compromise their objectivity.",
+      "context": "Describing a \"conflict of interest\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "resolution",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "conflict",
+          "is_correct": true,
+          "feedback": "Correct. Specific term for personal interest interfering with duty."
+        },
+        {
+          "letter": "C",
+          "text": "success",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "agreement",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Conflict of interest' is the standard term for when professional duty is at risk due to personal ties or benefits.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-v17",
+      "statement": "I wish that news organization hadn't sensationalized that tragedy for the sake of higher ratings.",
+      "context": "Expressing a past regret about media behavior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "didn't sensationalize",
+          "is_correct": false,
+          "feedback": "Incorrect. Present hypothetical."
+        },
+        {
+          "letter": "B",
+          "text": "hadn't sensationalized",
+          "is_correct": true,
+          "feedback": "Correct. 'Wish + past perfect' for past regret."
+        },
+        {
+          "letter": "C",
+          "text": "doesn't sensationalize",
+          "is_correct": false,
+          "feedback": "Incorrect. Present."
+        },
+        {
+          "letter": "D",
+          "text": "wouldn't sensationalize",
+          "is_correct": false,
+          "feedback": "Incorrect. Future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The 'wish + past perfect' structure allows for the expression of ethical regret about a past action.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-v18",
+      "statement": "Journalistic integrity involves a commitment to accuracy, fairness, and ethical behavior in reporting.",
+      "context": "Text about \"journalistic integrity\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Greed",
+          "is_correct": false,
+          "feedback": "Incorrect. Negative."
+        },
+        {
+          "letter": "B",
+          "text": "integrity",
+          "is_correct": true,
+          "feedback": "Correct. The quality of being honest and having strong moral principles."
+        },
+        {
+          "letter": "C",
+          "text": "Popularity",
+          "is_correct": false,
+          "feedback": "Incorrect. Ratings-focused."
+        },
+        {
+          "letter": "D",
+          "text": "Speed",
+          "is_correct": false,
+          "feedback": "Incorrect. Often sacrifices accuracy."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Integrity' is the comprehensive term for the moral and professional soundness required in journalism.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-v19",
+      "statement": "The ombudsman argued that the media needed to do a better job of correcting its mistakes.",
+      "context": "Reporting a call for media reform.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "needs",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted in reported speech."
+        },
+        {
+          "letter": "B",
+          "text": "needed",
+          "is_correct": true,
+          "feedback": "Correct. Backshifted from 'needs' to 'needed' in reported speech."
+        },
+        {
+          "letter": "C",
+          "text": "has needed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "will need",
+          "is_correct": false,
+          "feedback": "Incorrect. Future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, we backshift the tense of the original statement to show it was said in the past.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-v20",
+      "statement": "Ultimately, media ethics is the cornerstone of a healthy and functioning democracy.",
+      "context": "Final thought on the role of ethics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "cornerstone",
+          "is_correct": true,
+          "feedback": "Correct. Metaphor for an essential foundation."
+        },
+        {
+          "letter": "B",
+          "text": "byproduct",
+          "is_correct": false,
+          "feedback": "Incorrect. Secondary result."
+        },
+        {
+          "letter": "C",
+          "text": "obstacle",
+          "is_correct": false,
+          "feedback": "Incorrect. It helps, not hinders."
+        },
+        {
+          "letter": "D",
+          "text": "secret",
+          "is_correct": false,
+          "feedback": "Incorrect. Ethics should be public."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Cornerstone' correctly identifies the essential, foundational role of ethical media in a democratic society.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W34-media-ethics-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

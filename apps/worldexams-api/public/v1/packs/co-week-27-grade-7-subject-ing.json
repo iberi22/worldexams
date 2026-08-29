@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-27-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.901Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W27-superlatives-001-v1",
+      "statement": "What suffix is added to short adjectives to form a superlative?",
+      "context": "Identifying the superlative suffix for short adjectives.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-er",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for comparatives."
+        },
+        {
+          "letter": "B",
+          "text": "-est",
+          "is_correct": true,
+          "feedback": "Correct! We add -est to short adjectives for superlatives."
+        },
+        {
+          "letter": "C",
+          "text": "-ing",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for continuous tenses."
+        },
+        {
+          "letter": "D",
+          "text": "-ed",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for past tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies the basic morphological rule for short superlative adjectives.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W27-superlatives-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W27-superlatives-002-v1",
+      "statement": "Which word is used before long adjectives to form the superlative?",
+      "context": "Using \"most\" with long adjectives.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "More",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for comparatives."
+        },
+        {
+          "letter": "B",
+          "text": "Many",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a quantifier."
+        },
+        {
+          "letter": "C",
+          "text": "Most",
+          "is_correct": true,
+          "feedback": "Correct! We use \"the most\" for superlatives of long adjectives."
+        },
+        {
+          "letter": "D",
+          "text": "Much",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a quantifier."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student remembers the rule for superlatives of long adjectives.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W27-superlatives-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W27-superlatives-003-v1",
+      "statement": "\"Lucas is 1.85m, Mateo is 1.70m, and Julian is 1.60m. Lucas is the ________ student.\"",
+      "context": "Identifying the tallest student in a class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "taller",
+          "is_correct": false,
+          "feedback": "Incorrect. Use superlative for a group of three."
+        },
+        {
+          "letter": "B",
+          "text": "tallest",
+          "is_correct": true,
+          "feedback": "Correct! Standard superlative of the short adjective \"tall\"."
+        },
+        {
+          "letter": "C",
+          "text": "most tall",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Tall\" is a short adjective."
+        },
+        {
+          "letter": "D",
+          "text": "tall",
+          "is_correct": false,
+          "feedback": "Incorrect. A comparison degree is needed."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands and applies the superlative form in a group comparison context.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W27-superlatives-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W27-superlatives-004-v1",
+      "statement": "Which word ALWAYS precedes a superlative adjective?",
+      "context": "Identifying the correct article for superlatives.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "is_correct": false,
+          "feedback": "Incorrect. Superlatives refer to a specific \"one and only\"."
+        },
+        {
+          "letter": "B",
+          "text": "An",
+          "is_correct": false,
+          "feedback": "Incorrect. Same as \"A\"."
+        },
+        {
+          "letter": "C",
+          "text": "The",
+          "is_correct": true,
+          "feedback": "Correct! Superlatives always use the definite article \"the\"."
+        },
+        {
+          "letter": "D",
+          "text": "Some",
+          "is_correct": false,
+          "feedback": "Incorrect. Not used with superlatives."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student understands the syntactic requirement of the definite article \"the\" in superlative constructions.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W27-superlatives-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W27-superlatives-005-v1",
+      "statement": "\"I think Cartagena is the ________ city in Colombia.\" (Adjective: beautiful)",
+      "context": "Comparing popular cities in Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "beautifulest",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Beautiful\" is a long adjective."
+        },
+        {
+          "letter": "B",
+          "text": "more beautiful",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the comparative form."
+        },
+        {
+          "letter": "C",
+          "text": "most beautiful",
+          "is_correct": true,
+          "feedback": "Correct! Superlative form for a long adjective."
+        },
+        {
+          "letter": "D",
+          "text": "as beautiful",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for equality."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student applies the superlative rule for long adjectives to a common descriptive scenario.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W27-superlatives-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W27-superlatives-006-v1",
+      "statement": "According to the text, which animal has the record for speed?",
+      "context": "A text about animal records.\n\"The cheetah is the fastest animal on land. The blue whale is the largest animal in the ocean. The elephant is the heaviest land mammal.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The cheetah",
+          "is_correct": true,
+          "feedback": "Correct! The text says it is \"the fastest\"."
+        },
+        {
+          "letter": "B",
+          "text": "The blue whale",
+          "is_correct": false,
+          "feedback": "Incorrect. It is \"the largest\"."
+        },
+        {
+          "letter": "C",
+          "text": "The elephant",
+          "is_correct": false,
+          "feedback": "Incorrect. It is \"the heaviest\"."
+        },
+        {
+          "letter": "D",
+          "text": "The lion",
+          "is_correct": false,
+          "feedback": "Incorrect. Not mentioned in the text."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student applies reading skills to match superlative descriptors to specific subjects.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W27-superlatives-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W27-superlatives-007-v1",
+      "statement": "\"She is very smart! She got the ________ grade in the whole school.\" (Adjective: good)",
+      "context": "Irregular superlatives.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "goodest",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Good\" is irregular."
+        },
+        {
+          "letter": "B",
+          "text": "better",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the comparative."
+        },
+        {
+          "letter": "C",
+          "text": "best",
+          "is_correct": true,
+          "feedback": "Correct! \"Best\" is the irregular superlative of \"good\"."
+        },
+        {
+          "letter": "D",
+          "text": "most good",
+          "is_correct": false,
+          "feedback": "Incorrect. Irregular form error."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student applies the irregular superlative form for the adjective \"good\".\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W27-superlatives-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W27-superlatives-008-v1",
+      "statement": "Choose the sentence with the correct spelling.",
+      "context": "Analyzing spelling rules for short superlatives.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It was the hotest day of the year.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Hot\" is CVC, so double the 't'."
+        },
+        {
+          "letter": "B",
+          "text": "It was the hottest day of the year.",
+          "is_correct": true,
+          "feedback": "Correct! CVC adjectives double the consonant before -est."
+        },
+        {
+          "letter": "C",
+          "text": "It was the most hot day of the year.",
+          "is_correct": false,
+          "feedback": "Incorrect. Short adjectives use -est."
+        },
+        {
+          "letter": "D",
+          "text": "It was the hottest day of the year. (Typo for distractor)",
+          "is_correct": false,
+          "feedback": "Incorrect. Distractor for spelling awareness."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes spelling rules (doubling consonants) for short superlative adjectives.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W27-superlatives-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W27-superlatives-009-v1",
+      "statement": "What can we analyze about Laptop C?",
+      "context": "Comparing three products.\n\"Laptop A is $500. Laptop B is $800. Laptop C is $400. Laptop C is also the smallest and the lightest.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is the most expensive.",
+          "is_correct": false,
+          "feedback": "Incorrect. It is $400, which is the cheapest."
+        },
+        {
+          "letter": "B",
+          "text": "It is the cheapest and most portable.",
+          "is_correct": true,
+          "feedback": "Correct! $400 is the lowest price, and \"smallest/lightest\" means most portable."
+        },
+        {
+          "letter": "C",
+          "text": "Laptop B is better than Laptop C.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Better\" is not objectively determined here, only price and size."
+        },
+        {
+          "letter": "D",
+          "text": "Laptop A is the heaviest.",
+          "is_correct": false,
+          "feedback": "Incorrect. We only know C is the lightest."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes numeric and descriptive data using superlative logic to identify a true statement.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W27-superlatives-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W27-superlatives-010-v1",
+      "statement": "Which word best summarizes the status of the Amazon according to the text?",
+      "context": "Evaluating a travel guide summary.\n\"The Amazon Rainforest is the most diverse ecosystem on Earth. It has the largest variety of plants and the most unique animal species. Protecting it is our most important mission.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exceptional",
+          "is_correct": true,
+          "feedback": "Correct! The repeated use of superlatives (most diverse, largest, most unique) highlights its exceptional nature."
+        },
+        {
+          "letter": "B",
+          "text": "Average",
+          "is_correct": false,
+          "feedback": "Incorrect. Superlatives show it is NOT average."
+        },
+        {
+          "letter": "C",
+          "text": "Small",
+          "is_correct": false,
+          "feedback": "Incorrect. It is the \"largest\"."
+        },
+        {
+          "letter": "D",
+          "text": "Common",
+          "is_correct": false,
+          "feedback": "Incorrect. It is \"most unique\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student evaluates the tone and content of a text filled with superlatives to identify a summarizing descriptor.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W27-superlatives-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

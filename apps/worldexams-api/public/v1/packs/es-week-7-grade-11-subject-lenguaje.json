@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "es",
+    "pack_id": "es-week-7-grade-11-subject-lengua",
+    "generated_at": "2026-08-09T11:31:06.064Z"
+  },
+  "questions": [
+    {
+      "id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v1",
+      "statement": "¿Qué partes componen la macroestructura estándar de un texto de base argumentativa?",
+      "context": "Un profesor de Lengua en un instituto de Madrid analiza las tres secciones constitutivas que estructuran los textos persuasivos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tesis (idea que se defiende), el cuerpo argumentativo (conjunto de razones y pruebas) y la conclusión (síntesis y cierre).",
+          "is_correct": true,
+          "feedback": "Correcto. La estructura clásica de la argumentación consta de tesis inicial o final, el cuerpo argumentativo de pruebas, y la conclusión o síntesis de cierre."
+        },
+        {
+          "letter": "B",
+          "text": "El planteamiento amoroso, el nudo descriptivo del paisaje de Doñana y la rima asonante final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde a la tipología narrativa y lírica, no al discurso argumentativo lógico."
+        },
+        {
+          "letter": "C",
+          "text": "El glosario de términos botánicos, la definición del latín clásico de la RAE y la elipsis temporal de Valencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No forma parte de la estructura de la argumentación racional culta."
+        },
+        {
+          "letter": "D",
+          "text": "Se limita exclusivamente a un título exclamativo y un punto y final obligatorio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Requiere un desarrollo lógico e intelectual de argumentos para ser considerada argumentación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La argumentación formal se organiza en torno a tres pilares: la tesis (opinión o postura que se desea demostrar), el cuerpo argumentativo (razonamientos, datos, analogías, etc.) y la conclusión (recapitulación de ideas y cierre).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v2",
+      "statement": "¿Qué tipo de argumento se está aplicando en este segmento para persuadir al lector?",
+      "context": "En una columna de opinión de Soria se lee la siguiente frase: 'La OMS declara que el sedentarismo es la causa directa del aumento de las enfermedades cardiovasculares en los jóvenes de España'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento de autoridad, al fundamentar la validez de la tesis en la opinión o dictamen de un organismo de prestigio científico reconocido.",
+          "is_correct": true,
+          "feedback": "Correcto. El argumento de autoridad se sirve de citas o declaraciones de expertos, instituciones o personalidades de renombre para respaldar la postura defendida."
+        },
+        {
+          "letter": "B",
+          "text": "Argumento analógico, porque traza comparaciones con la fauna de Doñana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No establece comparaciones de semejanza entre dos sistemas; cita directamente una declaración experta de salud."
+        },
+        {
+          "letter": "C",
+          "text": "Falacia ad hominem, que busca descalificar moralmente al director de la OMS en Madrid.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un argumento legítimo y prestigioso de autoridad, libre de descalificaciones personales ofensivas."
+        },
+        {
+          "letter": "D",
+          "text": "Argumento ad populum, que se limita a apelar al miedo irracional de los jóvenes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cita un dato institucional científico, desvinculado del mero sentir general irracional colectivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El argumento de autoridad es de uso frecuente en el periodismo y los ensayos de selectividad. Utiliza el prestigio intelectual o científico de un tercero (OMS, RAE, un pensador célebre) para blindar la solidez de la tesis.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v3",
+      "statement": "¿Qué tipo de argumento sustenta la analogía expuesta por el editorialista?",
+      "context": "Un artículo editorial en Sevilla sostiene: 'Tratar de regular los contenidos de internet mediante censura previa es como ponerle puertas al campo: una tarea inútil y abocada al fracaso'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento analógico o de comparación, que defiende la tesis estableciendo una relación de semejanza con otra situación bien conocida por el lector.",
+          "is_correct": true,
+          "feedback": "Correcto. El argumento analógico establece un paralelismo ('como ponerle puertas al campo') para sugerir que la censura en internet comparte idéntica imposibilidad física."
+        },
+        {
+          "letter": "B",
+          "text": "Argumento de autoridad, al fundamentar el texto en el parecer del Ministerio de Agricultura de España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se cita a ninguna institución agrícola; es una metáfora popular analógica."
+        },
+        {
+          "letter": "C",
+          "text": "Falacia de generalización apresurada de tipo agrario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una analogía ilustrativa válida dirigida a persuadir, no un error de inducción apresurada."
+        },
+        {
+          "letter": "D",
+          "text": "Una nominalización sintáctica que suprime los adjetivos de Sevilla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un recurso retórico-argumentativo lógico de base semántica, ajeno a nominalizaciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El argumento analógico o por comparación traslada la lógica de un hecho conocido (poner puertas al campo es imposible) a la tesis defendida (la censura en internet es imposible), buscando la persuasión por correspondencia conceptual.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.83,
+      "bundle_id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v4",
+      "statement": "¿Qué tipo de quiebra lógica o falacia argumentativa comete el diputado con su declaración?",
+      "context": "Durante un debate parlamentario transmitido por televisión en Madrid, un diputado afirma: 'El proyecto de ley propuesto por el señor Martínez carece de valor porque el señor Martínez nunca ha pagado una hipoteca en su vida'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Falacia ad hominem, que descalifica personalmente al proponente (el señor Martínez) para restar validez a su propuesta en lugar de rebatir el contenido de la ley.",
+          "is_correct": true,
+          "feedback": "Correcto. La falacia ad hominem ataca directamente a la persona que emite la idea, buscando desacreditarla, en vez de rebatir racionalmente los argumentos lógicos de su propuesta."
+        },
+        {
+          "letter": "B",
+          "text": "Falacia ad verecundiam, al apelar a la opinión venerable de un clérigo de Toledo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falacia ad verecundiam apela de forma errónea a una falsa autoridad; atacar a la persona es ad hominem."
+        },
+        {
+          "letter": "C",
+          "text": "Argumento analógico de confianza de Doñana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No establece analogías legítimas; incurre en un vicio argumentativo ofensivo."
+        },
+        {
+          "letter": "D",
+          "text": "Falacia ad ignorantiam, por afirmar que las hipotecas no existen en la lengua española.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ad ignorantiam sostiene que algo es verdadero solo porque no se ha demostrado su falsedad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La falacia ad hominem es un error lógico e intelectual severo que atenta contra el debate racional. Consiste en desviar la atención desde el argumento lógico hacia las circunstancias, vida o moralidad del emisor que lo defiende.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v5",
+      "statement": "¿Qué clase de argumento se está aportando al incorporar este porcentaje exacto?",
+      "context": "Un ensayo periodístico publicado en Barcelona sobre educación aporta los siguientes datos: 'Según el último censo de 2024, el 85% de los hogares de España con hijos en edad escolar dispone de conexión a internet de alta velocidad'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento basado en datos y estadísticas, que dota de solidez, objetividad y rigor empírico a la tesis mediante cifras numéricas contrastables.",
+          "is_correct": true,
+          "feedback": "Correcto. Los argumentos basados en datos reales e indicadores estadísticos cuantificables aportan un gran poder persuasivo y objetividad fáctica de cara a la EBAU."
+        },
+        {
+          "letter": "B",
+          "text": "Argumento afectivo-emotivo, que busca derramar lágrimas de compasión en el lector por los cables de fibra óptica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No busca la conmoción emocional sentimental del lector; es una cifra matemática descriptiva fría y objetiva."
+        },
+        {
+          "letter": "C",
+          "text": "Falacia ad baculum, que intimida físicamente al lector bajo amenaza de corte de internet.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falacia ad baculum se sirve del miedo o la fuerza física para imponer la tesis; aquí es un porcentaje real de mercado."
+        },
+        {
+          "letter": "D",
+          "text": "Un arcaísmo léxico propio de los exámenes de la Edad Media en Soria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son datos sociológicos y tecnológicos modernos contemporáneos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los argumentos basados en datos objetivos y estadísticas apelan a la racionalidad lógica del receptor. Las cifras contrastables dotan de veracidad objetiva e indiscutible a la argumentación del ensayo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.79,
+      "bundle_id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v6",
+      "statement": "¿Qué tipo de argumento se aplica al referirse a la ola de calor de Sevilla y Zaragoza?",
+      "context": "En una mesa redonda en Valencia sobre el cambio climático se sostiene: 'Los veranos de España son cada vez más extremos. Pensemos, por ejemplo, en la ola de calor histórica que asfixió a Sevilla y Zaragoza el pasado mes de julio, superando los 44 grados durante cinco días seguidos'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento por ejemplificación, al ilustrar y concretar la tesis general mediante un caso real y específico que el lector puede verificar de forma cercana.",
+          "is_correct": true,
+          "feedback": "Correcto. El argumento de ejemplificación sirve para dar un ejemplo concreto de la vida real que demuestra visual y fácticamente la veracidad de la tesis general."
+        },
+        {
+          "letter": "B",
+          "text": "Argumento de autoridad del Ayuntamiento de Valencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cita el bando oficial del alcalde de Valencia, describe una ola de calor real de forma ilustrativa."
+        },
+        {
+          "letter": "C",
+          "text": "Falacia ad hominem, que ataca la moralidad del sol de verano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No descalifica a ninguna persona; ilustra la tesis meteorológica con un suceso verídico del clima."
+        },
+        {
+          "letter": "D",
+          "text": "Una nominalización sintáctica medieval que anula los verbos transitivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un recurso lógico de nivel de tipología discursiva, ajeno a nominalizaciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El argumento de ejemplificación es fundamental en la tipología argumentativa. Al descender desde la abstracción general (cambio climático) hacia el hecho particular tangible (la ola de calor real del verano pasado), facilita la persuasión racional del lector.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.77,
+      "bundle_id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v7",
+      "statement": "¿Qué función sintáctica y discursiva cumple la locución destacada 'no obstante' en el cuerpo argumentativo?",
+      "context": "Un artículo de opinión en Zaragoza presenta la siguiente construcción sintáctica: 'La digitalización simplifica los trámites administrativos; no obstante, aumenta la exclusión de los colectivos de mayor edad'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conector contraargumentativo u adversativo, que introduce una objeción o restricción para matizar la validez de la idea precedente.",
+          "is_correct": true,
+          "feedback": "Correcto. 'No obstante' es un conector discursivo adversativo o contraargumentativo que introduce objeciones de peso para matizar y encauzar el razonamiento."
+        },
+        {
+          "letter": "B",
+          "text": "Conector explicativo o de reformulación de uso obligatorio en las recetas médicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No introduce aclaraciones equivalentes ('es decir'); opone una objeción restrictiva clara."
+        },
+        {
+          "letter": "C",
+          "text": "Un queísmo pronominal que suprime el pronombre 'de' antes del nexo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un nexo adverbial perfectamente engarzado, libre de queísmo."
+        },
+        {
+          "letter": "D",
+          "text": "Un adjetivo epíteto antepuesto que califica de hermosa la exclusión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una locución fija de carácter conector oracional y no un adjetivo calificativo nominal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los conectores contraargumentativos ('no obstante', 'sin embargo', 'por el contrario') son cruciales en la argumentación de selectividad para contrastar puntos de vista, refutar objeciones opuestas o matizar conclusiones.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.81,
+      "bundle_id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v8",
+      "statement": "Analiza críticamente el razonamiento del cliente a la luz de los vicios argumentativos.",
+      "context": "Un cliente descontento de un hotel de Bilbao escribe en internet: 'La comida de este hotel es malísima y peligrosa para la salud; comí un trozo de pescado ayer y me dolió el estómago toda la noche'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incurre en una falacia de generalización apresurada, al extraer una ley general y absoluta (toda la comida del hotel es peligrosa) a partir de una única e individual experiencia particular.",
+          "is_correct": true,
+          "feedback": "Correcto. Derivar una conclusión universal general ('toda la comida es mala') a partir de una única premisa aislada e individual ('ayer me dolió el estómago') constituye la falacia de generalización apresurada."
+        },
+        {
+          "letter": "B",
+          "text": "Comete una falacia ad verecundiam al apelar a la alta autoridad del cocinero de Bilbao.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ad verecundiam se fundamenta en citas de falsos expertos; aquí se basa en su propia experiencia dolorosa individual."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra un excelente uso de la estructura encuadrada de la RAE.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una falacia lógica e informal y no un logro de arquitectura o macroestructura textual ordenada de la academia."
+        },
+        {
+          "letter": "D",
+          "text": "Se justifica porque comer pescado exige de forma indispensable el uso de oraciones exclamativas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cliente es libre de redactar como guste, pero su deducción lógica sigue siendo falaz por apresurada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La generalización apresurada (inducción defectuosa) es un error de razonamiento que consiste en establecer una tesis o regla universal a partir de una muestra excesivamente pequeña, insuficiente o sesgada de casos particulares.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v9",
+      "statement": "¿Qué tipo de tesis organiza el editorial periodístico de acuerdo con su manifestación formal?",
+      "context": "Un editorial sin firma en 'El País' analiza la crisis de los museos históricos en Madrid, pero en ningún momento del texto escribe explícitamente una frase que resuma su tesis; sin embargo, al acabar de leer, el receptor deduce claramente que el diario defiende aumentar el presupuesto estatal de cultura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tesis implícita, la cual no aparece redactada de forma literal en el texto, sino que se infiere de manera lógica a partir del cuerpo argumentativo.",
+          "is_correct": true,
+          "feedback": "Correcto. La tesis implícita exige un esfuerzo interpretativo del receptor, deduciéndose a partir de la orientación ideológica y los argumentos del escrito."
+        },
+        {
+          "letter": "B",
+          "text": "Tesis explícita literal, que se halla subrayada en color rojo en la cabecera por mandato de la RAE.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si fuera explícita estaría formulada literalmente con palabras claras en el texto, lo cual no ocurre aquí."
+        },
+        {
+          "letter": "C",
+          "text": "Una falacia ad populum de bajo nivel de éxito de Doñana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un recurso estructural de formulación de la tesis del editorial, exento de falacias de masas."
+        },
+        {
+          "letter": "D",
+          "text": "Tesis nula que carece de intencionalidad persuasiva en el periodismo de España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un editorial periodístico persigue siempre un fin persuasivo deliberado de opinión de línea editorial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En los textos de opinión cultos, la tesis puede formularse de manera explícita (clara y literal) o implícita (sugerida o diluida, de modo que el lector deba interpretarla mediante deducciones lógicas de los argumentos).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v10",
+      "statement": "¿Qué clase de argumento basado en el sentido común de la mayoría comete el vecino?",
+      "context": "En un debate vecinal en un barrio de Sevilla, un vecino argumenta: 'Debemos peatonalizar la plaza porque todo el mundo sabe que es lo mejor para los niños del barrio'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento de sentir general o ad populum, al defender la tesis apelando a la opinión de la mayoría desprovista de demostración científica.",
+          "is_correct": true,
+          "feedback": "Correcto. Los argumentos de sentido común o 'ad populum' se apoyan en la opinión supuestamente general o mayoritaria ('todo el mundo sabe que') para persuadir de forma grupal."
+        },
+        {
+          "letter": "B",
+          "text": "Argumento de autoridad del Ministerio de Fomento de España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cita ningún informe técnico ni dictamen del ministerio; apela al parecer popular indeterminado ('todo el mundo sabe')."
+        },
+        {
+          "letter": "C",
+          "text": "Una falacia ad hominem que insulta al vecino de la acera de enfrente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No descalifica u ofende de forma directa a ningún interlocutor individual del barrio; apela al colectivo indiferenciado."
+        },
+        {
+          "letter": "D",
+          "text": "Un queísmo morfológico involuntario de Sevilla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un recurso argumentativo lógico e informal de nivel discursivo, ajeno a desviaciones gramaticales de preposiciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El argumento de sentir general (o falacia ad populum en el plano lógico) se basa en la asunción falaz de que la verdad o corrección de una tesis depende de que la mayoría de las personas la apoye o la asuma como sentido común.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.73,
+      "bundle_id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v11",
+      "statement": "Analiza sintáctica y estilísticamente la función que cumplen los nexos destacados (1, 2) en el armazón de la argumentación.",
+      "context": "Un artículo de opinión en Salamanca expone: 'Si bien (1) las redes sociales conectan a las personas de forma inmediata, a pesar de que (2) fomenten la inmediatez, su uso desmedido aísla a la juventud del contacto cara a cara'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nexos de carácter concesivo o restrictivo, que introducen objeciones menores para matizar la argumentación sin anular la tesis de aislamiento final.",
+          "is_correct": true,
+          "feedback": "Correcto. Nexos como 'si bien' y 'a pesar de que' son concesivos; conceden parte de razón al bando opuesto antes de imponer la tesis restrictiva final con mayor fuerza lógica."
+        },
+        {
+          "letter": "B",
+          "text": "Nexos subordinantes condicionales que anulan la tilde diacrítica de 'solo'.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son nexos de valor concesivo, no condicionales de hipótesis o conjetura."
+        },
+        {
+          "letter": "C",
+          "text": "Pronombres de complemento directo loístas comunes en Salamanca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son conjunciones o locuciones subordinantes de valor adverbial, sin relación con confusiones pronominales átonas."
+        },
+        {
+          "letter": "D",
+          "text": "Organizadores textuales de ordenación alfabética de la RAE.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Organizan el régimen de subordinación semántica oracional de concesión, no el inventario de palabras del diccionario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La concesividad es un mecanismo argumentativo de primer orden. Permite al emisor admitir un hecho verdadero del rival ('las redes conectan') para desactivarlo inmediatamente mediante la tesis de peso principal ('pero aíslan').\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v12",
+      "statement": "Analiza críticamente el valor argumentativo del consejo del actor según las falacias lógicas.",
+      "context": "En un folleto de una marca de cosméticos en Barcelona, un conocido actor de cine que carece de formación médica aconseja: 'Usa esta crema con colágeno molecular porque mis células la absorben y rejuvenecen de forma asombrosa'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Falacia ad verecundiam o de falsa autoridad, al apelar a la opinión de un personaje famoso pero carente de autoridad y formación científica específica en dermatología o biología molecular.",
+          "is_correct": true,
+          "feedback": "Correcto. La falacia ad verecundiam (o apelación a la vergüenza) se comete cuando se asume como verdad científica la opinión de un famoso o autoridad que no es experto en el área concreta."
+        },
+        {
+          "letter": "B",
+          "text": "Falacia ad hominem, que ofende la fisonomía del actor de cine de Barcelona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No descalifica ni ataca al actor; utiliza su popularidad comercial de forma falaz como escudo científico ficticio de colágeno."
+        },
+        {
+          "letter": "C",
+          "text": "Un argumento de ejemplificación botánica de la LOMLOE.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una recomendación comercial falaz de cosmética, desvinculada de la enseñanza botánica escolar obligatoria."
+        },
+        {
+          "letter": "D",
+          "text": "Estilo directo libre que suprime los signos de puntuación del guion del diálogo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se reproduce el consejo entre comillas, libre de fusiones o elisiones sintácticas drásticas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La apelación a la autoridad es falaz (ad verecundiam) cuando el prestigio o la fama de un emisor (actor, deportista) en un campo de la sociedad se extrapola indebidamente para respaldar verdades científicas o técnicas ajenas a su competencia profesional.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.62,
+      "bundle_id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v13",
+      "statement": "Analiza estilística y semánticamente el papel que cumplen estos sintagmas en la persuasión de los lectores.",
+      "context": "En un examen de selectividad en Salamanca, se analiza una columna de opinión que incluye las expresiones: 'decisión desastrosa', 'medida nefasta', 'actitud heroica' y 'comportamiento ejemplar'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uso de léxico valorativo o cargado de valoraciones axiológicas (adjetivos apreciativos), que orienta de forma sutil la opinión del receptor hacia el juicio ético del emisor.",
+          "is_correct": true,
+          "feedback": "Correcto. El léxico valorativo (nefasta, desastrosa, heroica, ejemplar) es subjetivo e indispensable en los textos de opinión para calificar hechos y contagiar sutilmente el juicio del autor."
+        },
+        {
+          "letter": "B",
+          "text": "Tecnicismos neutros y denotativos propios de la química molecular pura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son adjetivos connotativos cargados de opinión axiológica subjetiva, opuestos a la monosemia denotativa neutra de las ciencias."
+        },
+        {
+          "letter": "C",
+          "text": "Arcaísmos medievales de uso exclusivo en la provincia de Toledo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son palabras del vocabulario culto y coloquial estándar actual de España, de vigencia contemporánea plena."
+        },
+        {
+          "letter": "D",
+          "text": "Marcadores discursivos que exigen de forma obligatoria un dequeísmo sintáctico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No guardan relación con la preposición 'de' ni con nexos subordinados; son adjetivos calificativos de valor semántico nominal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La neutralidad léxica se destierra de los textos argumentativos subjetivos (columnas de opinión, editoriales). El uso de adjetivos valorativos y sustantivos ponderativos (léxico axiológico) es un recurso retórico idóneo para guiar ideológicamente al lector.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.61,
+      "bundle_id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v14",
+      "statement": "Analiza el papel retórico que cumplen las dos oraciones interrogativas formuladas por el orador.",
+      "context": "Un orador que defiende la conservación de los bosques en un mitin en Zaragoza clama: '¿Acaso queremos legar a nuestros hijos un desierto estéril en lugar del verde de nuestras montañas? ¿Nos quedaremos de brazos cruzados mientras arden nuestros robles?'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Interrogaciones retóricas, que no buscan una respuesta fáctica del público sino implicar emocionalmente al receptor, forzando una respuesta mental lógica afín a la tesis del emisor.",
+          "is_correct": true,
+          "feedback": "Correcto. Las preguntas retóricas no esperan contestación de datos; son recursos retóricos de apelación emotiva que involucran y arrastran al receptor hacia la postura defendida."
+        },
+        {
+          "letter": "B",
+          "text": "Fórmulas fáticas para verificar si los micrófonos de Zaragoza tienen buena señal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su objetivo no es comprobar el estado del canal acústico físico; es conmover y convencer moralmente a las masas."
+        },
+        {
+          "letter": "C",
+          "text": "Oraciones subordinadas sustantivas dequeístas que atentan contra la RAE.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay preposiciones inadecuadas en las oraciones; se hallan correctamente construidas en indicativo y subjuntivo estándar."
+        },
+        {
+          "letter": "D",
+          "text": "Definiciones de botánica forestal de la LOMLOE para identificar la mitosis de los pinos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son proclamas retóricas de carácter de persuasión medioambiental, ajenas a explicaciones biológicas de mitosis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La interrogación retórica es un recurso de fuerte impacto persuasivo en el discurso oratorio y ensayístico. Formuladas con apariencia de pregunta, contienen implícitamente su propia respuesta obvia, forzando la adhesión intelectual del receptor.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.66,
+      "bundle_id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v15",
+      "statement": "Analiza el tipo de argumento lógico que vertebra la argumentación del editorialista.",
+      "context": "Un editorial de 'El País' sostiene: 'El cierre prolongado del tráfico en el centro de Madrid reduce drásticamente las partículas de nitrógeno en el aire; consecuentemente, mejora la salud respiratoria de los vecinos y disminuye los ingresos de urgencias en los hospitales metropolitanos'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento racional de causa-efecto, al asociar de manera demostrable un hecho precedente (cierre de tráfico) con las consecuencias positivas resultantes (reducción de contaminación e ingresos médicos).",
+          "is_correct": true,
+          "feedback": "Correcto. El argumento de causa-efecto establece nexos causales demostrables y racionales entre hechos precedentes e implicaciones lógicas resultantes."
+        },
+        {
+          "letter": "B",
+          "text": "Falacia ad populum de bajo nivel de éxito de Doñana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un razonamiento lógico causa-efecto verosímil, distante de la apelación falaz al sentir de masas o al miedo."
+        },
+        {
+          "letter": "C",
+          "text": "Argumento por el absurdo, que busca convencer al lector mediante la risa carnavalesca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay burla ni reducción al absurdo; es un análisis lógico-clínico serio del aire metropolitano."
+        },
+        {
+          "letter": "D",
+          "text": "Un leísmo de persona directo que suspende la concordancia del pronombre 'lo'.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Carece de relación con los pronombres de acusativo masculinos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los argumentos racionales basados en relaciones de causa y efecto demuestran que una determinada acción (causa) produce de forma previsible e inevitable un cierto resultado (consecuencia), dotando de rigor intelectual a la tesis.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.63,
+      "bundle_id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v16",
+      "statement": "¿Qué funciones del lenguaje organizan de forma combinada la comunicación en este discurso argumentativo subjetivo?",
+      "context": "Un orador pronuncia un discurso de opinión argumentado en un instituto de Soria sobre el acoso escolar: '¡Basta ya de mirar hacia otro lado! Debemos actuar con valentía y unidad. Siento dolor al ver la pasividad de algunos responsables'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las funciones apelativa (persuadir e implicar al receptor en la acción mediante mandatos) y expresiva (exteriorizar el dolor y la indignación subjetiva del orador).",
+          "is_correct": true,
+          "feedback": "Correcto. En la argumentación subjetiva o mitin predominan de forma coordinada la función apelativa (mover al receptor) y la expresiva (mostrar el compromiso e indignación subjetiva del emisor)."
+        },
+        {
+          "letter": "B",
+          "text": "La función metalingüística de la RAE combinada con la fática de telefonía móvil de Toledo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se explica gramática del castellano ni se comprueba la cobertura física de los teléfonos de los alumnos."
+        },
+        {
+          "letter": "C",
+          "text": "Predominio exclusivo de la función poética orientada a la descripción botánica forestal de Soria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fin es ético, cívico y de persuasión social contra el acoso escolar, desvinculado de la descripción estética de bosques."
+        },
+        {
+          "letter": "D",
+          "text": "Se anula la función apelativa porque los adolescentes de Soria exigen de forma obligatoria el modo indicativo pasivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las oraciones exhortativas ('¡Basta ya de mirar hacia otro lado!', 'Debemos actuar') prueban la vigorosa presencia de la función apelativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La argumentación de carácter ensayístico u oratorio subjetivo se despliega entrelazando la función expresiva (subjetividad axiológica del autor que dota de compromiso moral a su causa) con la apelativa o conativa (que busca sacudir la inercia del público e inclinar su voluntad).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v17",
+      "statement": "Evalúa críticamente la falacia argumentativa y el sesgo manipulador empleado en la redacción de esta campaña comercial.",
+      "context": "Un anuncio publicitario de un curso de inglés en internet clama: 'O te matriculas en nuestro curso avanzado hoy mismo o dejas escapar para siempre la única oportunidad de prosperar y triunfar en tu vida laboral'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Falacia del falso dilema (o falsa dicotomía), al reducir de manera tramposa las opciones de la vida del lector a dos extremos absolutos y opuestos, ignorando deliberadamente que existen múltiples alternativas intermedias para prosperar.",
+          "is_correct": true,
+          "feedback": "Correcto. El falso dilema limita las opciones a dos polos opuestos y radicales ('o te matriculas o fracasas para siempre') para acorralar psicológicamente al comprador, constituyendo una burda falacia manipuladora."
+        },
+        {
+          "letter": "B",
+          "text": "Falacia ad hominem, que descalifica de forma grosera la fisonomía moral de los hablantes de inglés.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No insulta ni descalifica de forma directa al lector; reduce tramposamente sus opciones de futuro a dos caminos."
+        },
+        {
+          "letter": "C",
+          "text": "Un argumento de ejemplificación botánica de la LOMLOE para la venta de cursos de inglés.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una estrategia de persuasión y coacción comercial falaz, ajena a la didáctica de la botánica escolar."
+        },
+        {
+          "letter": "D",
+          "text": "Es un uso de la estructura analizante del español canario avalada por la RAE.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un logro estructural ni de variedad diatópica canaria legítima; es un error y sesgo de lógica informal persuasiva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La falacia del falso dilema es un recurso manipulador de corte propagandístico y comercial de gran impacto psicológico. Obliga de forma artificial al receptor a elegir entre dos opciones extremas, una de las cuales es sumamente indeseable, forzándolo a tomar la decisión comercial propuesta.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.53,
+      "bundle_id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v18",
+      "statement": "Evalúa la solidez y consistencia del texto de opinión de acuerdo con las conclusiones del crítico literario.",
+      "context": "Un crítico lee una columna de opinión firmada en Barcelona y escribe: 'El artículo carece de valor argumentativo real; se limita a repetir injurias y descalificaciones subjetivas grotescas contra los opositores, sin aportar un solo dato científico ni una premisa racional contrastable que avale su tesis'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El crítico evalúa correctamente que una argumentación modélica exige solidez lógica, premisas veraces y datos contrastables; la mera acumulación de descalificaciones subjetivas e injurias constituye un vicio argumentativo (falacia ad hominem) que invalida la consistencia intelectual del ensayo.",
+          "is_correct": true,
+          "feedback": "Correcto. Un texto de opinión consistente requiere de argumentos racionales, pruebas o datos válidos. Devaluar la columna a insultos (ad hominem) anula su valor intelectual, justificando la crítica del reseñador."
+        },
+        {
+          "letter": "B",
+          "text": "El crítico se equivoca porque las columnas de opinión de Barcelona exigen de forma obligatoria el uso de injurias para poder publicarse en el periódico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La prensa culta de España promueve el debate de ideas con rigor, educación y respeto, desaconsejando el insulto vulgar."
+        },
+        {
+          "letter": "C",
+          "text": "El ensayo es consistente porque cuantas más falacias ad hominem contenga un escrito, mayor será su perfección sintáctica según la RAE.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las falacias lógicas son errores de razonamiento intelectual y no devalúan o aumentan la sintaxis gramatical formal de forma directa, pero destruyen la solidez de la idea defendida."
+        },
+        {
+          "letter": "D",
+          "text": "Se justifica porque la ley de la LOMLOE prohíbe de forma terminante debatir sobre presupuestos públicos en clase de Lengua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La LOMLOE promueve el espíritu crítico, el debate argumentado de ideas y el análisis de la prensa de opinión en los programas escolares de bachillerato."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La solidez de un texto argumentativo se mide por la validez y consistencia lógica de sus premisas. La sustitución de argumentos lógicos contrastables por descalificaciones de carácter subjetivo u ofensivo (falacia ad hominem) degrada la calidad democrática e intelectual del discurso persuasivo.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.51,
+      "bundle_id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v19",
+      "statement": "Evalúa el papel persuasivo y estilístico de la ironía aplicada en este fragmento del editorial.",
+      "context": "Un editorial sobre el ocio digital en Soria afirma de forma irónica: 'Sí, claro, pasarse doce horas diarias encerrado en la habitación mirando una pantalla de móvil es, sin duda, la mejor manera de socializar y respirar el aire puro de nuestros pinares'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consiste en dar a entender lo contrario de lo que se dice literalmente, usando la ironía como un recurso indirecto e ingenioso para ridiculizar y refutar la tesis opuesta del rival.",
+          "is_correct": true,
+          "feedback": "Correcto. La ironía afirma literalmente lo opuesto de lo que se desea sugerir, sirviendo en el periodismo de opinión para ridiculizar con agudeza estilística y refutar las posturas contrarias sin caer en el insulto soez."
+        },
+        {
+          "letter": "B",
+          "text": "Es un error ortográfico severo del periodista que confunde de forma sistemática la ironía con las preposiciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ironía es una figura retórica de pensamiento de nivel pragmático, libre de vicios o incorrecciones ortográficas."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que el periodismo de Soria exige de forma obligatoria el cambio de código bilingüe en euskera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El editorial se halla íntegramente escrito en correcto castellano peninsular estándar, desvinculado de euskera."
+        },
+        {
+          "letter": "D",
+          "text": "Anula la función de comunicación del editorial, convirtiendo la ironía en un ruido físico de canal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No obstaculiza la señal física; enriquece la descodificación mental apelando a la complicidad intelectual del lector avezado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ironía es un recurso retórico y pragmático de gran sutileza y eficacia argumentativa. Al exigir que el receptor descodifique el sentido oculto opuesto al literal, crea una complicidad intelectual (cohesión pragmática) que potencia el efecto persuasivo del razonamiento.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.53,
+      "bundle_id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v20",
+      "statement": "Evalúa el logro y la consistencia estilística del ensayo del estudiante atendiendo al principio de claridad y cohesión pragmática del discurso argumentativo.",
+      "context": "Un estudiante de bachillerato de la LOMLOE en Zaragoza redacta un ensayo de opinión empleando oraciones subordinadas condicionales y concesivas sumamente complejas que se extienden a lo largo de diez líneas sin usar puntos intermedios, dificultando que el profesor localice de forma clara cuál es la tesis que defiende.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es deficiente, ya que la excesiva complejidad sintáctica y el abuso de la subordinación ilimitada sin pausas ortográficas oscurece la claridad de la tesis y satura la capacidad cognitiva del lector, atentando contra la eficacia de la argumentación.",
+          "is_correct": true,
+          "feedback": "Correcto. Para que un texto argumentativo convenza, debe respetar los principios de claridad, coherencia y concisión en la formulación de la tesis. Una sintaxis asfixiante y confusa sabotea el fin persuasivo."
+        },
+        {
+          "letter": "B",
+          "text": "Es excelente, ya que cuanto más oscuras e indescifrables resulten las oraciones de Zaragoza, mayor será el mérito intelectual del alumno ante el tribunal de selectividad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tribunal de selectividad exige claridad sintáctica, orden lógico y rigor formal, penalizando severamente la confusión y la prosa incomprensible."
+        },
+        {
+          "letter": "C",
+          "text": "Se justifica porque las normas ortográficas de la RAE prohíben de forma terminante usar puntos seguidos en los ensayos escolares de bachillerato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El punto seguido es un signo ortográfico indispensable para segmentar ideas, obligatorio para estructurar textos legibles y cohesionados."
+        },
+        {
+          "letter": "D",
+          "text": "Es un loísmo estructural de tipo condicional canario aceptado en el parlamento de Aragón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No guarda relación con anomalías de pronombres de acusativo ni es una estructura parlamentaria lícita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La persuasión descansa sobre la base del orden y la claridad. En un ensayo argumentativo de bachillerato (EBAU), estructurar la sintaxis con periodos oracionales breves, segmentados por signos de puntuación e hilvanados por conectores transparentes, es una regla de adecuación y cohesión indispensable para que la tesis convenza con éxito al examinador.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "ES-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "es"
+    }
+  ]
+}

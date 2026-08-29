@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-21-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.898Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W21-healthy-eating-food-001-v1",
+      "statement": "Which of these is a vegetable?",
+      "context": "Identifying food groups.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apple",
+          "is_correct": false,
+          "feedback": "Incorrect. Apple is a fruit."
+        },
+        {
+          "letter": "B",
+          "text": "Carrot",
+          "is_correct": true,
+          "feedback": "Correct! Carrot is a common vegetable."
+        },
+        {
+          "letter": "C",
+          "text": "Chicken",
+          "is_correct": false,
+          "feedback": "Incorrect. Chicken is meat/protein."
+        },
+        {
+          "letter": "D",
+          "text": "Bread",
+          "is_correct": false,
+          "feedback": "Incorrect. Bread is a carbohydrate/grain."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies basic food vocabulary and categories.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W21-healthy-eating-food-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W21-healthy-eating-food-002-v1",
+      "statement": "Which food is a good source of protein?",
+      "context": "Identifying sources of protein.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rice",
+          "is_correct": false,
+          "feedback": "Incorrect. Rice is a carbohydrate."
+        },
+        {
+          "letter": "B",
+          "text": "Lettuce",
+          "is_correct": false,
+          "feedback": "Incorrect. Lettuce is a vegetable."
+        },
+        {
+          "letter": "C",
+          "text": "Eggs",
+          "is_correct": true,
+          "feedback": "Correct! Eggs are a well-known source of protein."
+        },
+        {
+          "letter": "D",
+          "text": "Candy",
+          "is_correct": false,
+          "feedback": "Incorrect. Candy is mostly sugar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student identifies specific food items associated with nutritional groups.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W21-healthy-eating-food-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W21-healthy-eating-food-003-v1",
+      "statement": "\"Drinking ________ is better for your health than drinking soda.\"",
+      "context": "Talking about healthy drinking habits.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "coffee",
+          "is_correct": false,
+          "feedback": "Incorrect. While possible, water is the standard \"healthy\" alternative to soda."
+        },
+        {
+          "letter": "B",
+          "text": "water",
+          "is_correct": true,
+          "feedback": "Correct! Water is the healthiest option for hydration."
+        },
+        {
+          "letter": "C",
+          "text": "milkshakes",
+          "is_correct": false,
+          "feedback": "Incorrect. Milkshakes often have a lot of sugar, like soda."
+        },
+        {
+          "letter": "D",
+          "text": "energy drinks",
+          "is_correct": false,
+          "feedback": "Incorrect. Energy drinks are often less healthy than soda."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the health implications associated with different beverage choices.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W21-healthy-eating-food-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W21-healthy-eating-food-004-v1",
+      "statement": "\"I am hungry between classes. I want a healthy snack. I should eat ________.\"",
+      "context": "Choosing a healthy snack.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a bag of chips",
+          "is_correct": false,
+          "feedback": "Incorrect. Chips are processed and often high in salt."
+        },
+        {
+          "letter": "B",
+          "text": "an orange",
+          "is_correct": true,
+          "feedback": "Correct! Fruit is a natural and healthy snack."
+        },
+        {
+          "letter": "C",
+          "text": "a chocolate bar",
+          "is_correct": false,
+          "feedback": "Incorrect. This is high in sugar."
+        },
+        {
+          "letter": "D",
+          "text": "a piece of cake",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a dessert, usually high in calories and sugar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands and applies the concept of \"healthy\" to food choices in a daily scenario.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmatic Matching",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W21-healthy-eating-food-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W21-healthy-eating-food-005-v1",
+      "statement": "\"You should ________ eat fruits and vegetables to stay strong.\"",
+      "context": "Expressing frequency of eating habits.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "never",
+          "is_correct": false,
+          "feedback": "Incorrect. This would be unhealthy."
+        },
+        {
+          "letter": "B",
+          "text": "sometimes",
+          "is_correct": false,
+          "feedback": "Incorrect. For good health, \"always\" or \"every day\" is better."
+        },
+        {
+          "letter": "C",
+          "text": "always",
+          "is_correct": true,
+          "feedback": "Correct! Regular consumption of fruits and vegetables is recommended for health."
+        },
+        {
+          "letter": "D",
+          "text": "rarely",
+          "is_correct": false,
+          "feedback": "Incorrect. This means almost never."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student applies frequency adverbs to common health recommendations.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W21-healthy-eating-food-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W21-healthy-eating-food-006-v1",
+      "statement": "What is the main ingredient of 'Arepa'?",
+      "context": "A description of a Colombian breakfast.\n\"In Colombia, many people eat 'Arepa' for breakfast. It is made of corn. They often have it with cheese and a cup of hot chocolate or coffee.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bread",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says it's made of corn."
+        },
+        {
+          "letter": "B",
+          "text": "Cheese",
+          "is_correct": false,
+          "feedback": "Incorrect. Cheese is an accompaniment."
+        },
+        {
+          "letter": "C",
+          "text": "Corn",
+          "is_correct": true,
+          "feedback": "Correct! The text says \"It is made of corn\"."
+        },
+        {
+          "letter": "D",
+          "text": "Chocolate",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a drink mentioned."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student applies reading strategies to identify a specific factual detail in a cultural context.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W21-healthy-eating-food-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W21-healthy-eating-food-007-v1",
+      "statement": "\"A balanced plate should have a ________ of protein, carbohydrates, and vegetables.\"",
+      "context": "Describing a balanced plate.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "lot",
+          "is_correct": false,
+          "feedback": "Incorrect. Having \"a lot\" of everything might lead to overeating."
+        },
+        {
+          "letter": "B",
+          "text": "balance",
+          "is_correct": true,
+          "feedback": "Correct! A \"balance\" or \"mixture\" is the key to healthy eating."
+        },
+        {
+          "letter": "C",
+          "text": "little",
+          "is_correct": false,
+          "feedback": "Incorrect. You need enough of each to be healthy."
+        },
+        {
+          "letter": "D",
+          "text": "none",
+          "is_correct": false,
+          "feedback": "Incorrect. You need all three."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies nutritional concepts to select the most appropriate word to describe a healthy diet.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W21-healthy-eating-food-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W21-healthy-eating-food-008-v1",
+      "statement": "What is the most likely cause of Lucas's low energy?",
+      "context": "Analyzing a person's diet.\n\"Lucas loves fast food. He eats hamburgers three times a week and never eats salad. He feels tired and has low energy.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He eats too many vegetables.",
+          "is_correct": false,
+          "feedback": "Incorrect. He never eats salad."
+        },
+        {
+          "letter": "B",
+          "text": "He sleeps too much.",
+          "is_correct": false,
+          "feedback": "Incorrect. Not mentioned in the text."
+        },
+        {
+          "letter": "C",
+          "text": "His diet lacks essential nutrients from healthy foods.",
+          "is_correct": true,
+          "feedback": "Correct! Fast food is often low in nutrients, and he doesn't eat vegetables."
+        },
+        {
+          "letter": "D",
+          "text": "He exercises too much.",
+          "is_correct": false,
+          "feedback": "Incorrect. Not mentioned."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student analyzes the relationship between dietary habits and physical consequences described in the text.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W21-healthy-eating-food-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W21-healthy-eating-food-009-v1",
+      "statement": "Which sentence uses the words correctly?",
+      "context": "Distinguishing between healthy and unhealthy descriptors.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Junk food is very nutritious and good for your heart.",
+          "is_correct": false,
+          "feedback": "Incorrect. Junk food is the opposite of nutritious."
+        },
+        {
+          "letter": "B",
+          "text": "Fresh fruits are very nutritious and provide vitamins.",
+          "is_correct": true,
+          "feedback": "Correct! \"Nutritious\" and \"vitamins\" correctly describe fresh fruits."
+        },
+        {
+          "letter": "C",
+          "text": "Fried chicken is the most healthy way to eat protein.",
+          "is_correct": false,
+          "feedback": "Incorrect. Frying is generally less healthy than other methods."
+        },
+        {
+          "letter": "D",
+          "text": "Sugar gives you long-lasting energy for the whole day.",
+          "is_correct": false,
+          "feedback": "Incorrect. Sugar usually gives a short burst of energy followed by a crash."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes the accuracy of statements combining food items and health descriptors.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W21-healthy-eating-food-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W21-healthy-eating-food-010-v1",
+      "statement": "Should a student who wants to be healthy buy this drink?",
+      "context": "Evaluating a food advertisement.\n\"Try our new 'Mega-Choco-Shake'! It has 50 grams of sugar and only 2 grams of protein. It tastes like heaven!\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, because it tastes like heaven.",
+          "is_correct": false,
+          "feedback": "Incorrect. Taste doesn't make it healthy."
+        },
+        {
+          "letter": "B",
+          "text": "Yes, because it has some protein.",
+          "is_correct": false,
+          "feedback": "Incorrect. 2 grams is very little compared to 50 grams of sugar."
+        },
+        {
+          "letter": "C",
+          "text": "No, because it contains an excessive amount of sugar.",
+          "is_correct": true,
+          "feedback": "Correct! 50 grams of sugar is very high and unhealthy."
+        },
+        {
+          "letter": "D",
+          "text": "No, because it is new.",
+          "is_correct": false,
+          "feedback": "Incorrect. Being \"new\" is not a health-related reason."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student evaluates the nutritional information provided in a simulated advertisement to make a healthy decision.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W21-healthy-eating-food-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

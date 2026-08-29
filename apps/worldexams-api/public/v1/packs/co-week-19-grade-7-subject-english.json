@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-19-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.897Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W19-biographies-stories-001-v1",
+      "statement": "Which verb is commonly used to describe the start of someone's life in a biography?",
+      "context": "Identifying biographical vocabulary.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Died",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to the end of life."
+        },
+        {
+          "letter": "B",
+          "text": "Was born",
+          "is_correct": true,
+          "feedback": "Correct! \"Was born\" indicates the beginning of a life story."
+        },
+        {
+          "letter": "C",
+          "text": "Studied",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to education."
+        },
+        {
+          "letter": "D",
+          "text": "Worked",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to a professional life."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies basic vocabulary used in biographical texts.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W19-biographies-stories-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W19-biographies-stories-002-v1",
+      "statement": "\"Shakira ________ to school in Barranquilla when she was a child.\"",
+      "context": "Describing a past educational achievement.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "went",
+          "is_correct": true,
+          "feedback": "Correct! Past tense of \"go\" to describe a past fact."
+        },
+        {
+          "letter": "B",
+          "text": "goes",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "C",
+          "text": "goed",
+          "is_correct": false,
+          "feedback": "Incorrect. Irregular verb error."
+        },
+        {
+          "letter": "D",
+          "text": "going",
+          "is_correct": false,
+          "feedback": "Incorrect. Continuous form without auxiliary."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student remembers and applies the correct irregular past form in a biographical context.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W19-biographies-stories-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W19-biographies-stories-003-v1",
+      "statement": "\"Mariana Pajón won her first Olympic gold medal ________.\"",
+      "context": "Matching a life event with its likely date.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "every day",
+          "is_correct": false,
+          "feedback": "Incorrect. Winning a medal is a specific past event, not a habit."
+        },
+        {
+          "letter": "B",
+          "text": "in 2012",
+          "is_correct": true,
+          "feedback": "Correct! \"In + year\" is the standard way to date a past achievement in a biography."
+        },
+        {
+          "letter": "C",
+          "text": "next week",
+          "is_correct": false,
+          "feedback": "Incorrect. Future tense marker."
+        },
+        {
+          "letter": "D",
+          "text": "now",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense marker."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands how to use time markers to locate biographical events in history.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmatic Matching",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W19-biographies-stories-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W19-biographies-stories-004-v1",
+      "statement": "\"After many years of writing, the author ________ in 1995.\"",
+      "context": "Expressing the end of a career or life.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "lives",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "B",
+          "text": "die",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "C",
+          "text": "died",
+          "is_correct": true,
+          "feedback": "Correct! Past simple of the regular verb \"die\"."
+        },
+        {
+          "letter": "D",
+          "text": "dead",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Dead\" is an adjective, not a verb."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student understands the correct verb form to describe a past biographical event.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W19-biographies-stories-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W19-biographies-stories-005-v1",
+      "statement": "\"While she ________ (live) in Paris, she ________ (write) her most famous book.\"",
+      "context": "Describing a simultaneous action in a person's life.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "lives / writes",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "B",
+          "text": "was living / wrote",
+          "is_correct": true,
+          "feedback": "Correct! Background state (living) and specific action (wrote)."
+        },
+        {
+          "letter": "C",
+          "text": "lived / was writing",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Lived\" is possible, but \"was living\" is more natural for a background state in a biography."
+        },
+        {
+          "letter": "D",
+          "text": "is living / wrote",
+          "is_correct": false,
+          "feedback": "Incorrect. Tense inconsistency."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies the contrast between Past Continuous and Past Simple in a biographical narrative.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W19-biographies-stories-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W19-biographies-stories-006-v1",
+      "statement": "When did Dr. Smith move to Bogotá?",
+      "context": "A short biography of a fictional scientist.\n\"Dr. Smith was born in London. He moved to Bogotá in 2005. He worked at a university for ten years. Finally, he started his own laboratory in 2016.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "In 2016.",
+          "is_correct": false,
+          "feedback": "Incorrect. That's when he started the lab."
+        },
+        {
+          "letter": "B",
+          "text": "In 2005.",
+          "is_correct": true,
+          "feedback": "Correct! The text explicitly states this date for the move."
+        },
+        {
+          "letter": "C",
+          "text": "When he was born.",
+          "is_correct": false,
+          "feedback": "Incorrect. He was born in London."
+        },
+        {
+          "letter": "D",
+          "text": "Ten years ago.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text doesn't use \"ago\", it provides the specific year."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies reading strategies to extract specific chronological data from a biography.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W19-biographies-stories-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W19-biographies-stories-007-v1",
+      "statement": "\"My father ________ from the University of Antioquia in 1990.\"",
+      "context": "Describing education in the past.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "study",
+          "is_correct": false,
+          "feedback": "Incorrect. He completed the study."
+        },
+        {
+          "letter": "B",
+          "text": "graduated",
+          "is_correct": true,
+          "feedback": "Correct! \"Graduated\" is the standard verb for finishing university."
+        },
+        {
+          "letter": "C",
+          "text": "finish",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "D",
+          "text": "is graduate",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies specific biographical vocabulary for educational milestones.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W19-biographies-stories-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W19-biographies-stories-008-v1",
+      "statement": "What is the most remarkable thing about this artist's story?",
+      "context": "Analyzing the impact of a life event.\n\"The artist lost his sight when he was 20. However, he didn't stop painting. He used his other senses to create unique masterpieces.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He was born blind.",
+          "is_correct": false,
+          "feedback": "Incorrect. He lost his sight at 20."
+        },
+        {
+          "letter": "B",
+          "text": "He stopped painting at 20.",
+          "is_correct": false,
+          "feedback": "Incorrect. He \"didn't stop\"."
+        },
+        {
+          "letter": "C",
+          "text": "He continued his creative career despite a physical challenge.",
+          "is_correct": true,
+          "feedback": "Correct! His persistence after losing his sight is the main point."
+        },
+        {
+          "letter": "D",
+          "text": "He only painted when he was young.",
+          "is_correct": false,
+          "feedback": "Incorrect. He created masterpieces after his accident."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student analyzes the narrative to identify the core message or most significant fact of the biography.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W19-biographies-stories-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W19-biographies-stories-009-v1",
+      "statement": "Choose the sentence that is grammatically correct and appropriate for a life story.",
+      "context": "Choosing the correct structure for a past narrative.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "In 2010, he start his first business and he was only 18.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Start\" should be \"started\"."
+        },
+        {
+          "letter": "B",
+          "text": "In 2010, he started his first business; he was only 18 years old.",
+          "is_correct": true,
+          "feedback": "Correct! Proper use of past simple and age expression."
+        },
+        {
+          "letter": "C",
+          "text": "In 2010, he starting his first business and he has 18 years.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Starting\" needs \"was\", and age uses \"be\", not \"have\"."
+        },
+        {
+          "letter": "D",
+          "text": "He started his first business in 2010 when he has 18.",
+          "is_correct": false,
+          "feedback": "Incorrect. Age must be in the past: \"was\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes complex sentence structures common in biographies to ensure correct tense and age usage.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W19-biographies-stories-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W19-biographies-stories-010-v1",
+      "statement": "Which sentence summarizes the general importance of the person rather than a specific life event?",
+      "context": "Evaluating the structure of a biography.\n\"1. Fernando Botero was born in Medellín in 1932. 2. He studied at the Academy of San Fernando in Madrid. 3. His style, 'Boterismo', became famous for its large figures. 4. He is one of the most recognized Colombian artists in history.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sentence 1",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a birth fact."
+        },
+        {
+          "letter": "B",
+          "text": "Sentence 2",
+          "is_correct": false,
+          "feedback": "Incorrect. This is an education fact."
+        },
+        {
+          "letter": "C",
+          "text": "Sentence 3",
+          "is_correct": false,
+          "feedback": "Incorrect. This is about his style."
+        },
+        {
+          "letter": "D",
+          "text": "Sentence 4",
+          "is_correct": true,
+          "feedback": "Correct! This evaluates his overall legacy and recognition."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The student evaluates the function of different sentences within a biographical text to distinguish between facts and overall significance.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W19-biographies-stories-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

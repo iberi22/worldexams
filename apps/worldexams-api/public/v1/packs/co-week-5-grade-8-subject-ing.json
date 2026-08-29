@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-5-grade-8-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.733Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-8-2026-W05-review-p1-001-MASTERY-v1",
+      "statement": "My father ________ a uniform to work every day, but today he ________ a casual shirt.",
+      "context": "Reviewing daily habits vs. current actions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wears / is wearing",
+          "is_correct": true,
+          "feedback": "Correct! Simple Present for habit, Present Continuous for today's exception."
+        },
+        {
+          "letter": "B",
+          "text": "is wearing / wears",
+          "is_correct": false,
+          "feedback": "Incorrect. The order of habit and exception is swapped."
+        },
+        {
+          "letter": "C",
+          "text": "wear / wearing",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing third person 's' and auxiliary 'is'."
+        },
+        {
+          "letter": "D",
+          "text": "wore / wears",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Every day\" implies present habit, not past."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recordamos que las rutinas diarias usan el Presente Simple, mientras que las excepciones o acciones ocurriendo en el momento usan el Presente Continuo.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W05-review-p1-001-MASTERY-v2",
+      "statement": "Two days ago, I ________ an interesting documentary about biodiversity in the Amazon.",
+      "context": "Reviewing past simple.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "see",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs past tense for \"two days ago\"."
+        },
+        {
+          "letter": "B",
+          "text": "saw",
+          "is_correct": true,
+          "feedback": "Correct! \"Saw\" is the past tense of \"see\"."
+        },
+        {
+          "letter": "C",
+          "text": "seen",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the past participle, needs an auxiliary verb."
+        },
+        {
+          "letter": "D",
+          "text": "was seeing",
+          "is_correct": false,
+          "feedback": "Incorrect. For a completed action in the past, Simple Past is better."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Pasado Simple se utiliza para acciones terminadas en un tiempo específico del pasado.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W05-review-p1-001-MASTERY-v3",
+      "statement": "My friends and I ________ study together for the final exam next Friday. We already agreed.",
+      "context": "Reviewing future intentions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a previously made plan, not a spontaneous decision."
+        },
+        {
+          "letter": "B",
+          "text": "are going to",
+          "is_correct": true,
+          "feedback": "Correct! Use \"be going to\" for planned intentions."
+        },
+        {
+          "letter": "C",
+          "text": "go to",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing the auxiliary \"are\"."
+        },
+        {
+          "letter": "D",
+          "text": "studied",
+          "is_correct": false,
+          "feedback": "Incorrect. This is past tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Recordamos usar \"be going to\" para planes o intenciones decididas antes del momento de hablar.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W05-review-p1-001-MASTERY-v4",
+      "statement": "A flight from Bogotá to Medellín is ________ than a bus trip, but it's also ________ expensive.",
+      "context": "Reviewing comparisons of superiority.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "faster / more",
+          "is_correct": true,
+          "feedback": "Correct! Fast is short (-er), expensive is long (more)."
+        },
+        {
+          "letter": "B",
+          "text": "more fast / more",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Fast\" is a short adjective, so it uses \"-er\"."
+        },
+        {
+          "letter": "C",
+          "text": "faster / expensiver",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Expensive\" is a long adjective and doesn't take \"-er\"."
+        },
+        {
+          "letter": "D",
+          "text": "fastest / most",
+          "is_correct": false,
+          "feedback": "Incorrect. These are superlatives, not comparatives."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En comparaciones, los adjetivos cortos usan el sufijo \"-er\" y los largos usan la palabra \"more\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W05-review-p1-001-MASTERY-v5",
+      "statement": "I ________ a shower when the electricity ________ off.",
+      "context": "Reviewing interrupted actions in the past.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "took / went",
+          "is_correct": false,
+          "feedback": "Incorrect. One action was in progress when the other happened."
+        },
+        {
+          "letter": "B",
+          "text": "was taking / went",
+          "is_correct": true,
+          "feedback": "Correct! Past continuous for the background action and past simple for the interruption."
+        },
+        {
+          "letter": "C",
+          "text": "were taking / go",
+          "is_correct": false,
+          "feedback": "Incorrect. Subject-verb agreement and tense errors."
+        },
+        {
+          "letter": "D",
+          "text": "am taking / is going",
+          "is_correct": false,
+          "feedback": "Incorrect. These are present tenses."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando una acción continua en el pasado es interrumpida, usamos el Pasado Continuo para la acción larga y el Pasado Simple para la corta.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-8-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W05-review-p1-001-MASTERY-v6",
+      "statement": "**Waiter:** \"Would you like something to drink?\"\r\n**Customer:** \"Yes, I ________ have a fresh lemonade, please.\"",
+      "context": "Reviewing spontaneous decisions vs. plans.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will",
+          "is_correct": true,
+          "feedback": "Correct! Spontaneous decision made at the moment of ordering."
+        },
+        {
+          "letter": "B",
+          "text": "am going to",
+          "is_correct": false,
+          "feedback": "Incorrect. Not a pre-planned intention in this context."
+        },
+        {
+          "letter": "C",
+          "text": "am having",
+          "is_correct": false,
+          "feedback": "Incorrect. Present continuous is for arrangements, not ordering at a table."
+        },
+        {
+          "letter": "D",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Incorrect. Future meaning is required here."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para decisiones rápidas tomadas en el momento del habla, como pedir en un restaurante, usamos \"will\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-8-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W05-review-p1-001-MASTERY-v7",
+      "statement": "The secondary school building is ________ tall ________ the primary school building. They both have three floors.",
+      "context": "Reviewing equality in comparisons.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "more / than",
+          "is_correct": false,
+          "feedback": "Incorrect. This would mean one is taller."
+        },
+        {
+          "letter": "B",
+          "text": "as / as",
+          "is_correct": true,
+          "feedback": "Correct! Used for comparing things that are equal."
+        },
+        {
+          "letter": "C",
+          "text": "the / most",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a superlative structure."
+        },
+        {
+          "letter": "D",
+          "text": "so / as",
+          "is_correct": false,
+          "feedback": "Incorrect. \"So...as\" is usually used in negative comparisons."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La estructura \"as + adjetivo + as\" indica que dos cosas tienen la misma intensidad en una cualidad.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-8-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W05-review-p1-001-MASTERY-v8",
+      "statement": "I ________ what you mean, but I don't agree with your opinion.",
+      "context": "Reviewing stative verbs in present tenses.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am understanding",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Understand\" is a stative verb."
+        },
+        {
+          "letter": "B",
+          "text": "understand",
+          "is_correct": true,
+          "feedback": "Correct! Stative verbs stay in Simple Present."
+        },
+        {
+          "letter": "C",
+          "text": "understanding",
+          "is_correct": false,
+          "feedback": "Incorrect. Lacks an auxiliary verb."
+        },
+        {
+          "letter": "D",
+          "text": "understood",
+          "is_correct": false,
+          "feedback": "Incorrect. Context is current conversation."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los verbos de estado (como understand, know, like) no se usan generalmente en tiempos continuos.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-8-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W05-review-p1-001-MASTERY-v9",
+      "statement": "Be careful! You ________ trip over that wire on the floor!",
+      "context": "Reviewing future predictions with evidence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Going to\" is better for immediate predictions based on evidence."
+        },
+        {
+          "letter": "B",
+          "text": "are going to",
+          "is_correct": true,
+          "feedback": "Correct! You can see the danger right now."
+        },
+        {
+          "letter": "C",
+          "text": "trip",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple is for habits or schedules."
+        },
+        {
+          "letter": "D",
+          "text": "were going to",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for a past plan that didn't happen."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando la evidencia de lo que va a pasar es visible en el presente, preferimos usar \"be going to\".\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-8-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W05-review-p1-001-MASTERY-v10",
+      "statement": "Which sentence is grammatically **correct** and makes sense?",
+      "context": "Evaluating grammatically complex sentences.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "While I was studying, I was suddenly hearing a loud noise.",
+          "is_correct": false,
+          "feedback": "Incorrect. Hearing a sudden noise should be in Past Simple."
+        },
+        {
+          "letter": "B",
+          "text": "I think it is going to be colder than yesterday tomorrow.",
+          "is_correct": false,
+          "feedback": "Incorrect. Word order is very confusing."
+        },
+        {
+          "letter": "C",
+          "text": "I am meeting my cousin at the airport tomorrow morning at 10:00.",
+          "is_correct": true,
+          "feedback": "Correct! Present continuous for a fixed arrangement."
+        },
+        {
+          "letter": "D",
+          "text": "She is the more intelligent girl in my whole school.",
+          "is_correct": false,
+          "feedback": "Incorrect. Comparison in a group requires the superlative \"most\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se evalúa la capacidad de distinguir entre planes (Present Continuous), comparativos/superlativos y la lógica de interrupción en el pasado.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-8-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W05-review-p1-001-MASTERY-v11",
+      "statement": "A teacher asks about your missing project. Which response is B1-appropriate?",
+      "context": "Identifying the most appropriate response in a formal setting.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I didn't did it. I'm sorry.",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically incorrect (\"didn't did\")."
+        },
+        {
+          "letter": "B",
+          "text": "I apologize, teacher. I was working on it last night when my computer crashed.",
+          "is_correct": true,
+          "feedback": "Correct! Professional tone and correct use of past tenses."
+        },
+        {
+          "letter": "C",
+          "text": "I'm going to bring it never.",
+          "is_correct": false,
+          "feedback": "Incorrect. Rude and illogical."
+        },
+        {
+          "letter": "D",
+          "text": "Why are you asking me that now?",
+          "is_correct": false,
+          "feedback": "Incorrect. Inappropriate and rude."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El nivel B1 implica no solo gramática correcta sino también el uso de registros adecuados para situaciones académicas.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-8-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W05-review-p1-001-MASTERY-v12",
+      "statement": "Read and choose the best summary:\r\n\"Last week, I planned to go hiking. While I was packing, it started to rain. I decided to stay home. Now, I am reading a book about mountains. Next month, I'll try again.\"",
+      "context": "Summarizing a story with multiple tenses.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A past plan was cancelled due to weather, leading to a present activity and a future intention.",
+          "is_correct": true,
+          "feedback": "Correct! It covers past, present, and future mentioned in the text."
+        },
+        {
+          "letter": "B",
+          "text": "The person always goes hiking when it rains and is reading now.",
+          "is_correct": false,
+          "feedback": "Incorrect. The hike was cancelled."
+        },
+        {
+          "letter": "C",
+          "text": "Hiking is better than reading books about mountains in the future.",
+          "is_correct": false,
+          "feedback": "Incorrect. Misinterprets the tenses and facts."
+        },
+        {
+          "letter": "D",
+          "text": "He is going to hike next month because he doesn't like books.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text doesn't say he doesn't like books."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sintetizar un texto que utiliza múltiples tiempos verbales requiere una comprensión clara de la cronología de los eventos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-8-2026-W05-review-p1-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

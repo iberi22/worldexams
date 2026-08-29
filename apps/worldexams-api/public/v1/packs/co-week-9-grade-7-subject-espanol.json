@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-9-grade-7-subject-lengua",
+    "generated_at": "2026-06-18T23:58:37.534Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se denomina a las palabras o expresiones que han caído en desuso o que pertenecen a una época pasada, muy comunes en la literatura del siglo XIX?",
+      "context": "Al leer textos literarios del siglo XIX, es común encontrar palabras que ya no se usan frecuentemente en el habla cotidiana.\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Neologismos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los neologismos son palabras nuevas que se incorporan al idioma."
+        },
+        {
+          "letter": "B",
+          "text": "Arcaísmos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Son términos antiguos que nos ayudan a entender el contexto histórico de la obra."
+        },
+        {
+          "letter": "C",
+          "text": "Regionalismos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son palabras propias de una región, aunque pueden ser antiguas, no todas lo son."
+        },
+        {
+          "letter": "D",
+          "text": "Tecnicismos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son palabras propias de una ciencia u oficio específico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis de textos del siglo XIX requiere un manejo de vocabulario histórico. Los arcaísmos (como \"ansina\", \"mesmo\" o \"vuestra merced\") le dan sabor de época al texto y nos permiten viajar en el tiempo a través de la lectura.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle-v2",
+      "statement": "En la literatura del siglo XIX, ¿qué función cumple predominantemente la descripción detallada del paisaje?",
+      "context": "Un estudiante lee un fragmento descriptivo de una hacienda vallecaucana donde el narrador detalla la luz, los olores y el sonido del río.\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Servir de relleno para que el capítulo sea más largo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descripción es una técnica artística con un propósito estético y emocional."
+        },
+        {
+          "letter": "B",
+          "text": "Crear una atmósfera que refleje los sentimientos de los personajes y resalte la belleza del territorio nacional.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es un recurso clave para la ambientación y el patriotismo literario."
+        },
+        {
+          "letter": "C",
+          "text": "Ocultar que el autor no sabe cómo continuar la historia de amor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, las descripciones preparan el terreno para los eventos emocionales."
+        },
+        {
+          "letter": "D",
+          "text": "Darle consejos al lector sobre cómo cuidar el medio ambiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque valoran la naturaleza, su fin es literario y no un manual de ecología moderno."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar el paisaje en el siglo XIX no es solo mirar árboles. Es entender cómo ese entorno condiciona la vida de los personajes y cómo el autor expresa su amor por la geografía de Colombia a través de la palabra.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle-v3",
+      "statement": "¿Qué información fundamental sobre el narrador y el tiempo de la historia nos da este inicio?",
+      "context": "Valentina analiza el inicio de \"María\": \"Era yo niño cuando me alejaron de mi casa para que fuera a estudiar a Bogotá...\".\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el narrador es un adulto que cuenta lo que le está pasando en este preciso momento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uso del pasado (\"Era yo niño\", \"me alejaron\") indica un recuerdo."
+        },
+        {
+          "letter": "B",
+          "text": "Que es un narrador protagonista que recuerda su infancia desde el pasado (narración en retrospectiva).",
+          "is_correct": true,
+          "feedback": "¡Correcto! El personaje cuenta su propia vida mirando hacia atrás."
+        },
+        {
+          "letter": "C",
+          "text": "Que el narrador es el padre de María y está contando la vida de su hijo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera persona (\"Era YO\") indica que habla de sí mismo."
+        },
+        {
+          "letter": "D",
+          "text": "Que la historia sucede en el futuro y el niño es un astronauta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El contexto histórico y geográfico (Bogotá, el siglo XIX) es evidente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La perspectiva del narrador es vital para el análisis. Un narrador que recuerda (evocación) suele impregnar la historia de nostalgia y melancolía, sentimientos centrales en el romanticismo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle-v4",
+      "statement": "Lee la frase: \"Don Prudencio se vestía con sedas de Francia en medio del calor de la plaza, creyendo que así su linaje brillaba más\". ¿Qué actitud del autor se percibe aquí?",
+      "context": "En los cuadros de costumbres, los autores suelen usar la ironía para criticar a los personajes que se comportan de manera ridícula.\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Admiración total por el buen gusto de Don Prudencio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El contraste entre la seda y el calor de la plaza sugiere una crítica."
+        },
+        {
+          "letter": "B",
+          "text": "Indiferencia ante lo que el personaje decida vestir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor elige detalles específicos para provocar una reacción en el lector."
+        },
+        {
+          "letter": "C",
+          "text": "Una actitud irónica y crítica hacia la vanidad y la falta de sentido común del personaje.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se burla de quien intenta aparentar lo que no es o lo que no encaja con su realidad."
+        },
+        {
+          "letter": "D",
+          "text": "Miedo de que Don Prudencio se enferme por el calor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una preocupación médica, sino un juicio social."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El análisis de la ironía permite descubrir la intención crítica del autor. En el costumbrismo, esto servía para educar al público sobre la importancia de la sencillez y la autenticidad frente a las apariencias vacías.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la diferencia en la \"función del lenguaje\" que predomina en cada uno?",
+      "context": "Santiago compara dos textos: un poema de amor de Julio Flórez y una arenga política de un prócer de la independencia.\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El poema busca informar y la arenga busca entretener.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés: la arenga busca persuadir."
+        },
+        {
+          "letter": "B",
+          "text": "El poema tiene una función expresiva/poética (sentimientos); la arenga tiene una función apelativa (mover a la acción).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Cada texto tiene un propósito distinto según el uso del lenguaje."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos tienen la misma función porque fueron escritos en el siglo XIX.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tiempo no define la función lingüística; el propósito del autor sí."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno tiene función porque la literatura no sirve para nada práctico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La literatura cumple funciones estéticas, sociales y comunicativas vitales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el análisis de textos es crucial identificar para qué fueron escritos. El siglo XIX colombiano fue rico en ambos: textos para conmover el alma (poesía) y textos para transformar la sociedad (discursos políticos).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle-v6",
+      "statement": "\"Las montañas de los Andes son los gigantes dormidos que custodian nuestra libertad\". ¿Qué figura literaria y qué significado patriótico se encuentran en esta frase?",
+      "context": "En el análisis literario, se estudia cómo el autor utiliza figuras retóricas para enriquecer el texto.\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Personificación; significa que las montañas tienen mucho sueño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Gigantes dormidos\" es una metáfora, no una descripción literal de sueño."
+        },
+        {
+          "letter": "B",
+          "text": "Metáfora; exalta la geografía colombiana como un símbolo de protección y fuerza nacional.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Identifica las montañas con gigantes para darles una dimensión heroica."
+        },
+        {
+          "letter": "C",
+          "text": "Símil; compara las montañas con gigantes usando la palabra \"como\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. No usa nexos comparativos como \"como\" o \"parece\"."
+        },
+        {
+          "letter": "D",
+          "text": "Hipérbole; exagera el tamaño de las montañas para que parezcan más grandes de lo que son.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hay magnitud, la figura dominante es la identificación metafórica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis de imágenes espaciales en el siglo XIX revela mucho sobre el nacionalismo de la época. Convertir la naturaleza en símbolos heroicos era una forma de dar \"personalidad\" y orgullo a la nueva nación colombiana.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle-v7",
+      "statement": "¿Qué visión de la vida se desprende del análisis de estas tragedias románticas del siglo XIX?",
+      "context": "Camila analiza el final trágico de una obra romántica. Nota que el destino parece estar en contra de los amantes y que la fatalidad es inevitable.\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que todo se puede solucionar con dinero y buenos contactos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dinero no puede salvar a los protagonistas románticos de su destino."
+        },
+        {
+          "letter": "B",
+          "text": "Una visión pesimista donde el amor ideal choca contra la realidad, la enfermedad o las barreras sociales.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El romanticismo valora la belleza del sufrimiento y la imposibilidad del ideal."
+        },
+        {
+          "letter": "C",
+          "text": "Que los autores no sabían escribir finales felices y por eso mataban a los personajes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una elección estética deliberada para conmover profundamente al lector."
+        },
+        {
+          "letter": "D",
+          "text": "Que la vida es una comedia divertida donde siempre hay una segunda oportunidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta visión es contraria al temple de ánimo romántico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Entender la cosmovisión del autor es parte del análisis crítico. En el siglo XIX, la muerte joven y el sacrificio por amor se veían como actos de suprema nobleza espiritual, reflejando una sensibilidad muy distinta a la actual.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la mejor estrategia de análisis para superar la barrera del lenguaje regional antiguo en estos textos?",
+      "context": "Al leer un texto costumbrista de Carrasquilla, un estudiante moderno dice: \"No entiendo nada porque hablan muy raro\".\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dejar de leer el libro porque ya no sirve para la época actual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Perderíamos gran parte de nuestra historia y riqueza cultural."
+        },
+        {
+          "letter": "B",
+          "text": "Investigar el contexto regional y usar un glosario de términos antiguos para entender el significado y la intención del autor.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El análisis requiere un esfuerzo de investigación y empatía cultural."
+        },
+        {
+          "letter": "C",
+          "text": "Reescribir el libro usando solo el lenguaje de los mensajes de texto modernos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al hacerlo, se perdería toda la belleza y el valor histórico de la obra original."
+        },
+        {
+          "letter": "D",
+          "text": "Quejarse con el profesor para que ponga libros más fáciles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reto de la lectura compleja es lo que desarrolla la capacidad crítica del estudiante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La literatura nos obliga a salir de nuestra zona de confort. Analizar el habla popular del siglo XIX es una forma de arqueología lingüística que nos conecta con nuestros abuelos y con la formación de nuestra identidad como colombianos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle-v9",
+      "statement": "¿Qué diferencia de profundidad se señala en esta afirmación entre el costumbrismo \"superficial\" y el realismo \"profundo\"?",
+      "context": "Un análisis literario afirma que \"el realismo de Carrasquilla es superior al costumbrismo anterior porque no se queda en la superficie de la ropa, sino que entra en el alma del personaje\".\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el realismo usa más páginas para describir la ropa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere precisamente a que el realismo va más allá de la ropa."
+        },
+        {
+          "letter": "B",
+          "text": "Que mientras el costumbrismo solo describe lo externo, el realismo analiza los motivos psicológicos y las contradicciones humanas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El realismo busca la verdad interna de los personajes."
+        },
+        {
+          "letter": "C",
+          "text": "Que el costumbrismo es para niños y el realismo para adultos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una división por edades, sino por profundidad artística."
+        },
+        {
+          "letter": "D",
+          "text": "Que no hay ninguna diferencia y el crítico está inventando cosas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La evolución literaria hacia la profundidad psicológica es un hecho estudiado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar la evolución de los géneros es fundamental. Pasar del \"cuadro de costumbres\" (descripción externa) a la \"novela realista\" (estudio del carácter) marca la madurez de la literatura colombiana a finales del siglo XIX.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el valor de seguir analizando textos del siglo XIX en el siglo XXI?",
+      "context": "Al comparar un texto del siglo XIX con uno actual sobre el mismo tema (por ejemplo, el amor), se notan grandes diferencias de estilo.\n**Expected_Success:** 0.50",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno, son textos viejos que no tienen nada que decirnos hoy.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los grandes temas humanos (amor, libertad, patria) son universales."
+        },
+        {
+          "letter": "B",
+          "text": "Aprender a escribir con muchas palabras difíciles para parecer más inteligentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El objetivo no es la apariencia, sino la comprensión del pensamiento humano."
+        },
+        {
+          "letter": "C",
+          "text": "Comprender las raíces de nuestra cultura, la evolución de nuestro idioma y los cimientos de nuestra identidad nacional.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Conocer el pasado es esencial para entender el presente."
+        },
+        {
+          "letter": "D",
+          "text": "Ganar concursos de ortografía antigua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un fin demasiado pequeño para la importancia de la literatura."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El análisis literario es una forma de diálogo entre épocas. Al leer a los autores del siglo XIX, los estudiantes de 7° grado descubren que sus preocupaciones por la justicia, el amor y la patria no son tan distintas a las actuales, fortaleciendo su pensamiento crítico y su sensibilidad estética.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LEN-7-2026-W09-analisis-textos-siglo-xix-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

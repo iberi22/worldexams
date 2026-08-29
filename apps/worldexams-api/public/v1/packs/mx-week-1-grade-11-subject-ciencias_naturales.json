@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "mx",
+    "pack_id": "mx-week-1-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-28T20:59:25.417Z"
+  },
+  "questions": [
+    {
+      "id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle-v1",
+      "statement": "¿Qué organelo exclusivo de células vegetativas realiza la fotosíntesis mediante clorofila?",
+      "context": "Un estudiante en la CDMX observa muestras de elodea vegetal al microscopio óptico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cloroplasto",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los cloroplastos convierten la energía solar en glucosa mediante la fotosíntesis."
+        },
+        {
+          "letter": "B",
+          "text": "La mitocondria",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mitocondria realiza la respiración aeróbica."
+        },
+        {
+          "letter": "C",
+          "text": "El aparato de Golgi",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Golgi empaqueta y distribuye proteínas."
+        },
+        {
+          "letter": "D",
+          "text": "El lisosoma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los lisosomas degradan material celular en células animales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los cloroplastos contienen clorofila y son los encargados de transformar la energía lumínica en energía química mediante la fotosíntesis.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle-v2",
+      "statement": "¿Qué estructura rígida de celulosa rodea a la célula vegetal otorgándole soporte?",
+      "context": "En un laboratorio de biología en Guadalajara, se analizan cubiertas celulares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La membrana plasmática",
+          "is_correct": false,
+          "feedback": "Incorrecto. La membrana es la bicapa lipídica interna flexible."
+        },
+        {
+          "letter": "B",
+          "text": "La pared celular",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pared celular vegetal está compuesta de celulosa y le otorga soporte estructural."
+        },
+        {
+          "letter": "C",
+          "text": "La cápsula bacteriana",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cápsula es propia de procariontes."
+        },
+        {
+          "letter": "D",
+          "text": "El glucocálix",
+          "is_correct": false,
+          "feedback": "Incorrecto. El glucocálix es propio de la superficie de células animales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pared celular vegetal es una matriz rígida compuesta por celulosa que protege a la célula y sostiene la presión de turgencia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle-v3",
+      "statement": "¿En qué organelo con ribosomas adheridos se sintetizan las proteínas de secreción?",
+      "context": "Se estudia la producción proteica en cultivos celulares hepáticos en Monterrey.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Retículo endoplasmático liso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El REL sintetiza lípidos y detoxifica fármacos."
+        },
+        {
+          "letter": "B",
+          "text": "Peroxisoma",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peroxisoma metaboliza peróxidos de hidrógeno."
+        },
+        {
+          "letter": "C",
+          "text": "Retículo endoplasmático rugoso",
+          "is_correct": true,
+          "feedback": "¡Correcto! El RER posee ribosomas adosados para la traducción de proteínas de exportación."
+        },
+        {
+          "letter": "D",
+          "text": "Vacuola central",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vacuola almacena agua y solutos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El RER contiene ribosomas adheridos en su cara citoplásmica donde se sintetizan y pliegan proteínas destinadas al sistema membranoso o secreción.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle-v4",
+      "statement": "¿Qué organelo genera la mayor cantidad de ATP metabólico mediante la fosforilación oxidativa?",
+      "context": "En una práctica escolar en Puebla se analiza el consumo de oxígeno celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Núcleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El núcleo almacena el material genético."
+        },
+        {
+          "letter": "B",
+          "text": "Centrosoma",
+          "is_correct": false,
+          "feedback": "Incorrecto. El centrosoma organiza los microtúbulos del huso mitótico."
+        },
+        {
+          "letter": "C",
+          "text": "Citosol",
+          "is_correct": false,
+          "feedback": "Incorrecto. El citosol realiza glucólisis con baja producción neta de ATP."
+        },
+        {
+          "letter": "D",
+          "text": "Mitocondria",
+          "is_correct": true,
+          "feedback": "¡Correcto! La mitocondria genera la mayoría del ATP celular mediante la respiración aeróbica."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La mitocondria realiza la respiración celular aeróbica en sus crestas e interior matrizal para sintetizar ATP a partir de nutrientes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle-v5",
+      "statement": "¿Qué proteína globular actúa como núcleo de empaquetamiento para formar los nucleosomas?",
+      "context": "Un estudiante en Toluca examina el empaquetamiento del ADN nuclear.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Histona",
+          "is_correct": true,
+          "feedback": "¡Correcto! El ADN se enrolla alrededor de octámeros de histonas formando nucleosomas."
+        },
+        {
+          "letter": "B",
+          "text": "Actina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La actina forma microfilamentos del citoesqueleto."
+        },
+        {
+          "letter": "C",
+          "text": "Tubulina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tubulina forma microtúbulos."
+        },
+        {
+          "letter": "D",
+          "text": "Queratina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La queratina es una proteína de filamentos intermedios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las histonas son proteínas ricas en aminoácidos básicos alrededor de las cuales se enrolla la hebra de ADN para condensar la cromatina.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle-v6",
+      "statement": "¿Qué pH intradigestivo aproximado requieren las hidrolasas lisosomales para actuar?",
+      "context": "En Querétaro se aíslan lisosomas celulares para determinar su rango operativo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "pH neutro (~7.2)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH neutro inactiva la función digestiva del lisosoma."
+        },
+        {
+          "letter": "B",
+          "text": "pH ácido (~4.5 - 5.0)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las enzimas lisosomales son hidrolasas ácidas activas a pH cercano a 5.0."
+        },
+        {
+          "letter": "C",
+          "text": "pH alcalino (~9.0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH alcalino desnaturaliza las enzimas hidrolíticas."
+        },
+        {
+          "letter": "D",
+          "text": "pH fuertemente básico (~12.0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un pH extremo destruye la estructura proteica enzimática."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los lisosomas requieren un entorno intraluminal ácido (pH 4.5-5.0) mantenido por bombas H+-ATPasa para degradar polímeros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle-v7",
+      "statement": "¿Qué filamentos tubulares de tubulina forman las vías de transporte para kinesinas y dineínas?",
+      "context": "Investigadores en Veracruz analizan las vías de transporte intracelular sobre rieles moleculares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Microfilamentos de actina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La actina participa en la motilidad celular y citocinesis."
+        },
+        {
+          "letter": "B",
+          "text": "Filamentos intermedios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los filamentos intermedios proveen resistencia mecánica estática."
+        },
+        {
+          "letter": "C",
+          "text": "Microtúbulos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los microtúbulos son tubos huecos de tubulina que sirven de rieles para motores moleculares."
+        },
+        {
+          "letter": "D",
+          "text": "Fibras de colágeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. El colágeno es una proteína de la matriz extracelular."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los microtúbulos están constituidos por heterodímeros de α y β tubulina organizados en tubos que guían el tráfico vesicular.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle-v8",
+      "statement": "¿Qué organelo membranoso sin ribosomas sintetiza lípidos y metaboliza toxinas?",
+      "context": "Células hepáticas sometidas a metabolización intensa de fármacos muestran hipertrofia organelar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aparato de Golgi",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Golgi modifica y empaqueta productos moleculares."
+        },
+        {
+          "letter": "B",
+          "text": "Ribosoma libre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ribosomas libres sintetizan proteínas citosólicas."
+        },
+        {
+          "letter": "C",
+          "text": "Nucléolo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nucléolo sintetiza subunidades ribosómicas."
+        },
+        {
+          "letter": "D",
+          "text": "Retículo endoplasmático liso",
+          "is_correct": true,
+          "feedback": "¡Correcto! El REL carece de ribosomas y se encarga de la síntesis lipídica y detoxificación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El REL metaboliza compuestos lipofílicos y medicamentos mediante citocromos y sintetiza fosfolípidos y colesterol.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle-v9",
+      "statement": "¿Qué molécula anfipática forma la matriz bicapa fundamental de la membrana?",
+      "context": "En León se estudia la estructura fluida de la membrana celular de mamíferos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fosfolípido",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los fosfolípidos se organizan espontáneamente en bicapas por su cabeza polar y colas apolares."
+        },
+        {
+          "letter": "B",
+          "text": "Glucoproteína",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las glucoproteínas actúan como receptores celulares."
+        },
+        {
+          "letter": "C",
+          "text": "Triglicérido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los triglicéridos son grasas de reserva energética neutras."
+        },
+        {
+          "letter": "D",
+          "text": "Almidón",
+          "is_correct": false,
+          "feedback": "Incorrecto. El almidón es un carbohidrato de reserva en plantas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La naturaleza anfipática de los fosfolípidos impulsa su autoensamblaje en bicapas impermeables a moléculas cargadas o grandes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la función primordial del nucléolo?",
+      "context": "Un estudiante en Mérida analiza la zona más densa dentro del núcleo celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Replicación del ADN genómico",
+          "is_correct": false,
+          "feedback": "Incorrecto. La duplicación del ADN ocurre en todo el nucleoplasma."
+        },
+        {
+          "letter": "B",
+          "text": "Síntesis de ARNr y ensamblaje de subunidades ribosómicas",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nucléolo es el sitio de transcripción del ARNr y maduración ribosómica."
+        },
+        {
+          "letter": "C",
+          "text": "Traducción de proteínas metabólicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La traducción ocurre en el citosol o RER."
+        },
+        {
+          "letter": "D",
+          "text": "Degradación de toxinas liposolubles",
+          "is_correct": false,
+          "feedback": "Incorrecto. La detoxificación ocurre en el REL o peroxisomas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el nucléolo se transcriben los cistrones de ARNr y se acoplan con proteínas ribosómicas para formar las subunidades 40S y 60S.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.71,
+      "bundle_id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle-v11",
+      "statement": "¿Qué complejo en forma de barril cataliza la proteólisis selectiva de proteínas ubiquitinadas?",
+      "context": "En la UNAM se evalúa la degradación proteica regulada mediada por la vía ubiquitina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Peroxisoma",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peroxisoma degrada ácidos grasos y agua oxigenada."
+        },
+        {
+          "letter": "B",
+          "text": "Espliceosoma",
+          "is_correct": false,
+          "feedback": "Incorrecto. El espliceosoma procesa intrones en el ARN precursor."
+        },
+        {
+          "letter": "C",
+          "text": "Proteasoma",
+          "is_correct": true,
+          "feedback": "¡Correcto! El proteasoma 26S degrada proteínas marcadas covalentemente con ubiquitina."
+        },
+        {
+          "letter": "D",
+          "text": "Ribosoma",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ribosoma sintetiza cadenas polipeptídicas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El proteasoma reconoce la marca de poliubiquitina y desdobla las proteínas para destruirlas en pequeños péptidos reutilizables.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle-v12",
+      "statement": "¿Qué tipo de unión ancla células contiguas uniendo cadherinas con filamentos de queratina?",
+      "context": "Se estudian las uniones intercelulares que resisten tensión mecánica en la epidermis en San Luis Potosí.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Unión estrecha",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las uniones estrechas sellan el espacio paracelular."
+        },
+        {
+          "letter": "B",
+          "text": "Unión comunicante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las uniones gap permiten el flujo directo de pequeños solutos."
+        },
+        {
+          "letter": "C",
+          "text": "Hemidesmosoma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los hemidesmosomas anclan la célula a la matriz extracelular basal."
+        },
+        {
+          "letter": "D",
+          "text": "Desmosoma",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los desmosomas anclan membranas celulares adyacentes conectándose a filamentos intermedios."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los desmosomas otorgan cohesión mecánica a tejidos expuestos a estrés estirativo al ligar cadherinas a queratina citoplásmica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.62,
+      "bundle_id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle-v13",
+      "statement": "¿Qué efecto inmediato provoca la detención de este bombeo de protones H+?",
+      "context": "En un ensayo en Aguascalientes, se aplica bafilomicina para inhibir la bomba V-ATPasa del lisosoma.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elevación del pH intralisosomal e inactivación enzimática",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al no ingresar H+, el pH se vuelve neutro e inactiva las hidrolasas ácidas."
+        },
+        {
+          "letter": "B",
+          "text": "Acidificación extrema a pH 1.0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin bombeo activo no es posible acidificar el lumen."
+        },
+        {
+          "letter": "C",
+          "text": "Disolución inmediata de la membrana lipídica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inhibición de una bomba no destruye físicamente la bicapa."
+        },
+        {
+          "letter": "D",
+          "text": "División mitótica inmediata del lisosoma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los lisosomas no se replican por mitosis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La bomba V-ATPasa mantiene el gradiente de H+ lisosomal; su inhibición eleva el pH e inactiva la digestión intracelular.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle-v14",
+      "statement": "¿Qué característica de las mitocondrias prueba su origen procariota ancestral?",
+      "context": "En un simposio en Pachuca se debate la teoría del origen endosimbiótico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tener una sola membrana compuesta de colesterol",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen doble membrana y carecen de colesterol interno."
+        },
+        {
+          "letter": "B",
+          "text": "Poseer ADN circular propio sin histonas y ribosomas 70S",
+          "is_correct": true,
+          "feedback": "¡Correcto! El ADN circular desnudo y ribosomas 70S son idénticos a los de bacterias procariontes."
+        },
+        {
+          "letter": "C",
+          "text": "Poseer un núcleo propio delimitado por membrana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las bacterias y mitocondrias no poseen núcleo."
+        },
+        {
+          "letter": "D",
+          "text": "Sintetizar carbohidratos sin enzimas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna estructura metabólica produce azúcares sin enzimas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ADN circular cerrado y los ribosomas 70S sustentan que mitocondrias y cloroplastos derivan de bacterias endosimbiontes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle-v15",
+      "statement": "¿Qué proceso bioenergético se verá afectado por la pérdida de la estructura de las crestas?",
+      "context": "Un patólogo examina tejido muscular cardíaco con crestas mitocondriales desorganizadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La vía de las pentosas fosfato citosólica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre en el citosol soluble independientemente de las crestas."
+        },
+        {
+          "letter": "B",
+          "text": "La síntesis de celulosa de la pared",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las células animales no tienen pared celular ni celulosa."
+        },
+        {
+          "letter": "C",
+          "text": "La cadena de transporte de electrones y fosforilación oxidativa",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las crestas albergan la cadena respiratoria y la ATP sintasa necesarias para sintetizar ATP."
+        },
+        {
+          "letter": "D",
+          "text": "La glucólisis anaeróbica citoplasmática",
+          "is_correct": false,
+          "feedback": "Incorrecto. La glucólisis ocurre en el citosol y no en las crestas mitocondriales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las crestas mitocondriales retienen los complejos multiproteicos de la respiración aeróbica para acoplar el flujo protónico a la síntesis de ATP.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle-v16",
+      "statement": "¿Qué péptido señal inicial es reconocido por la partícula SRP para llevar el ribosoma al RER?",
+      "context": "Se investiga la síntesis de una hormona proteica de secreción en el RER.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Secuencia NLS de localización nuclear",
+          "is_correct": false,
+          "feedback": "Incorrecto. La secuencia NLS dirige proteínas al núcleo."
+        },
+        {
+          "letter": "B",
+          "text": "Señal PTS1 de importación peroxisomal",
+          "is_correct": false,
+          "feedback": "Incorrecto. PTS1 dirige proteínas al peroxisoma."
+        },
+        {
+          "letter": "C",
+          "text": "Etiqueta de Manosa-6-Fosfato",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Manosa-6-Fosfato clasifica proteínas en el Golgi hacia el lisosoma."
+        },
+        {
+          "letter": "D",
+          "text": "Secuencia señal N-terminal hidrofóbica",
+          "is_correct": true,
+          "feedback": "¡Correcto! La secuencia señal en el extremo N-terminal dirige al ribosoma hacia el receptor SRP en el RER."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El péptido señal en el extremo N-terminal frena temporalmente la traducción al unirse a SRP hasta acoplarse al canal translocón del RER.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle-v17",
+      "statement": "¿Qué anomalía metabólica grave se acumula por la falta de oxidación peroxisomal?",
+      "context": "Se estudia el Síndrome de Zellweger en un hospital de la CDMX, caracterizado por ausencia de peroxisomas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acumulación patológica de ácidos grasos de cadena muy larga (VLCFA)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los peroxisomas inician la β-oxidación de VLCFA; su falta causa acumulación neurotóxica."
+        },
+        {
+          "letter": "B",
+          "text": "Falla en la degradación de glucógeno citosólico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El glucógeno se metaboliza por enzimas citosólicas y del RER."
+        },
+        {
+          "letter": "C",
+          "text": "Acumulación de hemoglobina dentro del núcleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hemoglobina no ingresa ni se acumula en el núcleo."
+        },
+        {
+          "letter": "D",
+          "text": "Hiperproducción de ATP de alta energía",
+          "is_correct": false,
+          "feedback": "Incorrecto. La disfunción organelar reduce la capacidad energética global."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los peroxisomas son los encargados de acortar ácidos grasos de cadena muy larga (>22C); sin ellos se acumulan destruyendo vainas de mielina.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle-v18",
+      "statement": "¿Qué enzima GTPasa pequeña mantiene la unidireccionalidad del transporte nucleocitoplásmico?",
+      "context": "Un equipo en Querétaro analiza la dinámica de importación y exportación a través del poro nuclear.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rho GTPasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Rho regula la reorganización del citoesqueleto de actina."
+        },
+        {
+          "letter": "B",
+          "text": "Ran GTPasa",
+          "is_correct": true,
+          "feedback": "¡Correcto! El gradiente de RanGTP nuclear versus RanGDP citoplásmico dirige la carga y descarga de importinas y exportinas."
+        },
+        {
+          "letter": "C",
+          "text": "Rab GTPasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Rab regula el acoplamiento y fusión de vesículas membranosas."
+        },
+        {
+          "letter": "D",
+          "text": "Ras GTPasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ras transmite señales de proliferación celular desde receptores de membrana."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "RanGTP se concentra en el núcleo gracias a RanGEF y promueve la liberación de cargas importadas o la unión de exportinas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle-v19",
+      "statement": "¿Cómo actúa el colesterol frente a variaciones extremas de temperatura?",
+      "context": "Se evalúa cómo varía la fluidez de las membranas celulares animales según el contenido de colesterol.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta la fluidez ilimitadamente desintegrando los fosfolípidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El colesterol mantiene la integridad estructural sin desintegrar la bicapa."
+        },
+        {
+          "letter": "B",
+          "text": "Solidifica la membrana de forma irreversible",
+          "is_correct": false,
+          "feedback": "Incorrecto. El colesterol previene la cristalización sólida a bajas temperaturas."
+        },
+        {
+          "letter": "C",
+          "text": "Funciona como amortiguador térmico: reduce la movilidad a alta temperatura e impide la cristalización a baja temperatura",
+          "is_correct": true,
+          "feedback": "¡Correcto! El colesterol estabiliza la membrana impidiendo fluctuaciones drásticas en su fluidez."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituye a todas las proteínas de transporte transmembrana",
+          "is_correct": false,
+          "feedback": "Incorrecto. El colesterol es un lípido y no reemplaza a los canales proteicos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El colesterol intercala su anillo rígido entre los fosfolípidos, restringiendo la fluidez excesiva a calor y evitando el empaquetamiento a frío.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle-v20",
+      "statement": "¿Qué consecuencia celular directa ocurrirá en la secreción y renovación de la membrana plasmática?",
+      "context": "Se aplica Brefeldina A a células en cultivo, bloqueando el tráfico vesicular desde el RER hacia el Golgi.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incremento de la respiración celular mitocondrial",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Brefeldina A no estimula los complejos de la cadena respiratoria."
+        },
+        {
+          "letter": "B",
+          "text": "Replicación descontrolada del ADN nuclear",
+          "is_correct": false,
+          "feedback": "Incorrecto. El bloqueo de la ruta secretora no induce la síntesis de ADN."
+        },
+        {
+          "letter": "C",
+          "text": "Transformación de eucarionte a procarionte",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los fármacos metabólicos no revierten la condición filogenética de la célula."
+        },
+        {
+          "letter": "D",
+          "text": "Detención del transporte de glucoproteínas y lípidos a la superficie celular",
+          "is_correct": true,
+          "feedback": "¡Correcto! La interrupción del flujo anterógrado RER-Golgi bloquea la llegada de componentes a la membrana plasmática."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La Brefeldina A inhibe factores de intercambio en ARF1, desintegrando el aparato de Golgi y bloqueando la ruta secretora anterógrada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    }
+  ]
+}

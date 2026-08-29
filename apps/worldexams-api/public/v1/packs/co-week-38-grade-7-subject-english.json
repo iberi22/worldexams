@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-38-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.907Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W38-present-perfect-intro-001-v1",
+      "statement": "Which auxiliary verb is used to form the Present Perfect?",
+      "context": "Identifying the structure of the Present Perfect.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Do / Does",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for Present Simple."
+        },
+        {
+          "letter": "B",
+          "text": "Was / Were",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for Past Continuous or Past of be."
+        },
+        {
+          "letter": "C",
+          "text": "Have / Has",
+          "is_correct": true,
+          "feedback": "Correct! Present Perfect uses have or has as an auxiliary."
+        },
+        {
+          "letter": "D",
+          "text": "Will",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for future."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student identifies the basic auxiliary verb for the Present Perfect tense.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W38-present-perfect-intro-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W38-present-perfect-intro-002-v1",
+      "statement": "What form of the main verb is required in the Present Perfect tense?",
+      "context": "Identifying the verb form for Present Perfect.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Base form (e.g., eat)",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Past form (e.g., ate)",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Past Participle (e.g., eaten)",
+          "is_correct": true,
+          "feedback": "Correct! We use the third column of verbs (past participle)."
+        },
+        {
+          "letter": "D",
+          "text": "Continuous form (e.g., eating)",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student identifies the specific morphological form of the verb used in this tense.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W38-present-perfect-intro-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W38-present-perfect-intro-003-v1",
+      "statement": "Complete: \"I ________ (see) the movie 'Encanto' three times.\"",
+      "context": "Describing a life experience.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have saw",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Saw\" is the past form; \"seen\" is the participle."
+        },
+        {
+          "letter": "B",
+          "text": "have seen",
+          "is_correct": true,
+          "feedback": "Correct! Auxiliary \"have\" + past participle \"seen\"."
+        },
+        {
+          "letter": "C",
+          "text": "has seen",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Has\" is for third person singular."
+        },
+        {
+          "letter": "D",
+          "text": "am seen",
+          "is_correct": false,
+          "feedback": "Incorrect structure."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the combination of auxiliary and participle for the first person singular.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W38-present-perfect-intro-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W38-present-perfect-intro-004-v1",
+      "statement": "\"My sister ________ (travel) to Cartagena before.\"",
+      "context": "Using the third person singular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have traveled",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Sister\" (she) needs \"has\"."
+        },
+        {
+          "letter": "B",
+          "text": "has traveled",
+          "is_correct": true,
+          "feedback": "Correct! \"Has\" for third person singular and the participle \"traveled\"."
+        },
+        {
+          "letter": "C",
+          "text": "has travel",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs the participle form."
+        },
+        {
+          "letter": "D",
+          "text": "have travel",
+          "is_correct": false,
+          "feedback": "Incorrect auxiliary and verb form."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the subject-verb agreement rule within the Present Perfect structure.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W38-present-perfect-intro-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W38-present-perfect-intro-005-v1",
+      "statement": "\"They ________ (be) to the new museum in Medellín.\"",
+      "context": "Describing a general experience without a specific time.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "were",
+          "is_correct": false,
+          "feedback": "Incorrect. This would be a specific past event."
+        },
+        {
+          "letter": "B",
+          "text": "have been",
+          "is_correct": true,
+          "feedback": "Correct! Used to talk about visiting a place at some point in life."
+        },
+        {
+          "letter": "C",
+          "text": "has been",
+          "is_correct": false,
+          "feedback": "Incorrect auxiliary for \"they\"."
+        },
+        {
+          "letter": "D",
+          "text": "have be",
+          "is_correct": false,
+          "feedback": "Incorrect verb form."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies the Present Perfect to express a life experience (being in a place).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W38-present-perfect-intro-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W38-present-perfect-intro-006-v1",
+      "statement": "What instrument(s) has Valentina played in her life?",
+      "context": "A conversation between two students about hobbies.\nAndrés: \"Have you ever played a musical instrument?\"\nValentina: \"Yes, I have played the guitar since I was 10. I have also tried the piano, but I didn't like it.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only the guitar.",
+          "is_correct": false,
+          "feedback": "Incorrect. She also tried the piano."
+        },
+        {
+          "letter": "B",
+          "text": "Both the guitar and the piano.",
+          "is_correct": true,
+          "feedback": "Correct! She mentions playing/trying both."
+        },
+        {
+          "letter": "C",
+          "text": "Only the piano.",
+          "is_correct": false,
+          "feedback": "Incorrect. She plays the guitar."
+        },
+        {
+          "letter": "D",
+          "text": "None of them.",
+          "is_correct": false,
+          "feedback": "Incorrect. She mentions two."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies reading strategies to identify experiences expressed in the Present Perfect.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W38-present-perfect-intro-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W38-present-perfect-intro-007-v1",
+      "statement": "Choose the correct negative sentence in the Present Perfect.",
+      "context": "Identifying a negative experience.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I haven't saw that movie.",
+          "is_correct": false,
+          "feedback": "Incorrect participle."
+        },
+        {
+          "letter": "B",
+          "text": "I haven't seen that movie.",
+          "is_correct": true,
+          "feedback": "Correct! Negative auxiliary + correct participle."
+        },
+        {
+          "letter": "C",
+          "text": "I didn't seen that movie.",
+          "is_correct": false,
+          "feedback": "Incorrect auxiliary for participle."
+        },
+        {
+          "letter": "D",
+          "text": "I not have seen that movie.",
+          "is_correct": false,
+          "feedback": "Incorrect word order."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies knowledge of negative constructions in the Present Perfect.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W38-present-perfect-intro-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W38-present-perfect-intro-008-v1",
+      "statement": "Which sentence describes an experience at an UNSPECIFIED time?",
+      "context": "Distinguishing between Present Perfect and Past Simple.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I went to Cali last year.",
+          "is_correct": false,
+          "feedback": "Incorrect. Time is specified (last year)."
+        },
+        {
+          "letter": "B",
+          "text": "I saw my friend two hours ago.",
+          "is_correct": false,
+          "feedback": "Incorrect. Time is specified (two hours ago)."
+        },
+        {
+          "letter": "C",
+          "text": "I have visited Cali several times.",
+          "is_correct": true,
+          "feedback": "Correct! The specific times are not mentioned, only the fact of the experience."
+        },
+        {
+          "letter": "D",
+          "text": "I am visiting Cali now.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is happening now."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student analyzes the difference between specific past time (Simple) and general life experience (Perfect).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W38-present-perfect-intro-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W38-present-perfect-intro-009-v1",
+      "statement": "What can we analyze about Mateo's life from this list?",
+      "context": "Analyzing a list of achievements.\n\"Mateo's achievements: 1. He has won a soccer tournament. 2. He has learned to speak French. 3. He has traveled to three different continents.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He is a very lazy person.",
+          "is_correct": false,
+          "feedback": "Incorrect. His achievements show activity."
+        },
+        {
+          "letter": "B",
+          "text": "He is an active person with diverse interests and international experiences.",
+          "is_correct": true,
+          "feedback": "Correct! Sport, language, and travel are diverse and active."
+        },
+        {
+          "letter": "C",
+          "text": "He only cares about sports.",
+          "is_correct": false,
+          "feedback": "Incorrect. He also learned a language and traveled."
+        },
+        {
+          "letter": "D",
+          "text": "He has never left his city.",
+          "is_correct": false,
+          "feedback": "Incorrect. He has traveled to three continents."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes a set of perfect tense statements to infer general characteristics about a person's life.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W38-present-perfect-intro-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W38-present-perfect-intro-010-v1",
+      "statement": "Does the candidate have experience working with others?",
+      "context": "Evaluating an interview response.\nInterviewer: \"Have you ever worked in a team?\"\nCandidate: \"Yes, I have worked in many school teams. We have completed many projects together. I have always been the leader.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, they have experience in collaborative tasks and leadership roles.",
+          "is_correct": true,
+          "feedback": "Correct! \"Worked in many school teams\" and \"been the leader\" support this."
+        },
+        {
+          "letter": "B",
+          "text": "No, they only worked by themselves.",
+          "is_correct": false,
+          "feedback": "Incorrect. They mention teams."
+        },
+        {
+          "letter": "C",
+          "text": "Yes, but they only worked on one project.",
+          "is_correct": false,
+          "feedback": "Incorrect. They mention \"many projects\"."
+        },
+        {
+          "letter": "D",
+          "text": "No, because school teams are not real experience.",
+          "is_correct": false,
+          "feedback": "Incorrect. In a school context, it is valid experience."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student evaluates the evidence provided in a perfect tense response to confirm a candidate's background and skills.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W38-present-perfect-intro-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

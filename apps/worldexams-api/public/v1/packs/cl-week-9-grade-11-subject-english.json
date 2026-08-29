@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ingles",
+    "country": "cl",
+    "pack_id": "cl-week-9-grade-11-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.097Z"
+  },
+  "questions": [
+    {
+      "id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-v1",
+      "statement": "A masterpiece is a work of outstanding artistry, skill, or workmanship.",
+      "context": "Describing a masterpiece.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sketch",
+          "is_correct": false,
+          "feedback": "Incorrect. A sketch is a rough drawing."
+        },
+        {
+          "letter": "B",
+          "text": "masterpiece",
+          "is_correct": true,
+          "feedback": "Correct. A masterpiece is an artist's best or most famous work."
+        },
+        {
+          "letter": "C",
+          "text": "forgery",
+          "is_correct": false,
+          "feedback": "Incorrect. A forgery is a fake copy."
+        },
+        {
+          "letter": "D",
+          "text": "draft",
+          "is_correct": false,
+          "feedback": "Incorrect. A draft is a preliminary version."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Masterpiece' is the term for a work of art that is considered to be of the highest quality.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-v2",
+      "statement": "The painter has been influencing generations of artists since the mid-20th century.",
+      "context": "Discussing an artist's influence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "influences",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple."
+        },
+        {
+          "letter": "B",
+          "text": "has been influencing",
+          "is_correct": true,
+          "feedback": "Correct. Present perfect continuous for an influence starting in the past and continuing."
+        },
+        {
+          "letter": "C",
+          "text": "influenced",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "D",
+          "text": "will influence",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present perfect continuous describes an action or state that has persisted over time.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-v3",
+      "statement": "If she had practiced more in her youth, she might have become a professional musician.",
+      "context": "Conditional about artistic talent.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "practiced",
+          "is_correct": false,
+          "feedback": "Incorrect. Second conditional."
+        },
+        {
+          "letter": "B",
+          "text": "had practiced",
+          "is_correct": true,
+          "feedback": "Correct. Third conditional for hypothetical past."
+        },
+        {
+          "letter": "C",
+          "text": "has practiced",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "would practice",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' not used in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The third conditional (if + past perfect) describes a past possibility that did not occur.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-v4",
+      "statement": "Cultural heritage includes tangible assets like monuments and intangible ones like traditions and folklore.",
+      "context": "Article about cultural heritage.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "intangible",
+          "is_correct": true,
+          "feedback": "Correct. Intangible means unable to be touched; not having physical presence."
+        },
+        {
+          "letter": "B",
+          "text": "solid",
+          "is_correct": false,
+          "feedback": "Incorrect. Monuments are solid."
+        },
+        {
+          "letter": "C",
+          "text": "visible",
+          "is_correct": false,
+          "feedback": "Incorrect. Traditions are often experienced rather than just seen."
+        },
+        {
+          "letter": "D",
+          "text": "expensive",
+          "is_correct": false,
+          "feedback": "Incorrect. Heritage has value beyond money."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Intangible' is the standard term used to describe cultural elements like songs, stories, and customs.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-v5",
+      "statement": "Some believe that art should be purely aesthetic, while others argue it should serve a social or political purpose.",
+      "context": "Discussion on the purpose of art.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "expensive",
+          "is_correct": false,
+          "feedback": "Incorrect. Focuses on price."
+        },
+        {
+          "letter": "B",
+          "text": "aesthetic",
+          "is_correct": true,
+          "feedback": "Correct. Aesthetic means concerned with beauty or the appreciation of beauty."
+        },
+        {
+          "letter": "C",
+          "text": "functional",
+          "is_correct": false,
+          "feedback": "Incorrect. Functional means having a practical use."
+        },
+        {
+          "letter": "D",
+          "text": "scientific",
+          "is_correct": false,
+          "feedback": "Incorrect. Focuses on science."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Aesthetic' refers to the philosophical study of beauty and taste, often contrasted with practical or social utility.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-v6",
+      "statement": "The sculptor used a single block of marble to create this exquisite statue.",
+      "context": "Describing a sculpture.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "composer",
+          "is_correct": false,
+          "feedback": "Incorrect. A composer writes music."
+        },
+        {
+          "letter": "B",
+          "text": "sculptor",
+          "is_correct": true,
+          "feedback": "Correct. A sculptor makes sculptures."
+        },
+        {
+          "letter": "C",
+          "text": "novelist",
+          "is_correct": false,
+          "feedback": "Incorrect. A novelist writes books."
+        },
+        {
+          "letter": "D",
+          "text": "choreographer",
+          "is_correct": false,
+          "feedback": "Incorrect. A choreographer designs dances."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Sculptor' is the specific name for an artist who creates three-dimensional works.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-v7",
+      "statement": "The exhibition is being held in the city's most prestigious art gallery.",
+      "context": "Describing a gallery opening.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is holding",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "is being held",
+          "is_correct": true,
+          "feedback": "Correct. Present continuous passive for an ongoing event."
+        },
+        {
+          "letter": "C",
+          "text": "was held",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "D",
+          "text": "holds",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present continuous passive 'is being held' describes an event that is currently happening or scheduled.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-v8",
+      "statement": "Cultural appropriation occurs when elements of a marginalized culture are adopted by a dominant culture without permission.",
+      "context": "Text on cultural appropriation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "appreciation",
+          "is_correct": false,
+          "feedback": "Incorrect. Appreciation involves respect and understanding."
+        },
+        {
+          "letter": "B",
+          "text": "appropriation",
+          "is_correct": true,
+          "feedback": "Correct. Appropriation is taking something for one's own use, typically without permission."
+        },
+        {
+          "letter": "C",
+          "text": "integration",
+          "is_correct": false,
+          "feedback": "Incorrect. Integration is the blending of cultures."
+        },
+        {
+          "letter": "D",
+          "text": "preservation",
+          "is_correct": false,
+          "feedback": "Incorrect. Preservation is keeping something alive."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Cultural appropriation' is the specific term for the often controversial adoption of cultural elements.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-v9",
+      "statement": "The Surrealist movement had gained popularity long before the artist began his career.",
+      "context": "Describing a past artistic movement.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "gains",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "B",
+          "text": "has gained",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "C",
+          "text": "had gained",
+          "is_correct": true,
+          "feedback": "Correct. Past perfect for an action before another past point."
+        },
+        {
+          "letter": "D",
+          "text": "will gain",
+          "is_correct": false,
+          "feedback": "Incorrect. Future tense."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The past perfect establishes that the movement was already popular before the artist started.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-v10",
+      "statement": "Critics often argue that popular culture can be ephemeral, lacking the lasting value of classical art.",
+      "context": "Critique of \"pop culture\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "eternal",
+          "is_correct": false,
+          "feedback": "Incorrect. Eternal means lasting forever."
+        },
+        {
+          "letter": "B",
+          "text": "ephemeral",
+          "is_correct": true,
+          "feedback": "Correct. Ephemeral means lasting for a very short time."
+        },
+        {
+          "letter": "C",
+          "text": "profound",
+          "is_correct": false,
+          "feedback": "Incorrect. Profound means deep."
+        },
+        {
+          "letter": "D",
+          "text": "objective",
+          "is_correct": false,
+          "feedback": "Incorrect. Objective refers to lack of bias."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Ephemeral' describes something that is short-lived, a common criticism of trend-based popular culture.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-v11",
+      "statement": "A biography is an account of someone's life written by another person.",
+      "context": "Literature types.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "autobiography",
+          "is_correct": false,
+          "feedback": "Incorrect. Written by the person themselves."
+        },
+        {
+          "letter": "B",
+          "text": "biography",
+          "is_correct": true,
+          "feedback": "Correct. Written by someone else."
+        },
+        {
+          "letter": "C",
+          "text": "fiction",
+          "is_correct": false,
+          "feedback": "Incorrect. Refers to imaginary stories."
+        },
+        {
+          "letter": "D",
+          "text": "anthology",
+          "is_correct": false,
+          "feedback": "Incorrect. A collection of works."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Biography' is the standard term for a life story written by a third party.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-v12",
+      "statement": "Visitors are forbidden from taking photographs inside the museum.",
+      "context": "Describing a gallery rule.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "to take",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Forbidden from' is followed by -ing."
+        },
+        {
+          "letter": "B",
+          "text": "from taking",
+          "is_correct": true,
+          "feedback": "Correct. 'Forbidden from + gerund' is a standard structure."
+        },
+        {
+          "letter": "C",
+          "text": "take",
+          "is_correct": false,
+          "feedback": "Incorrect. Base form."
+        },
+        {
+          "letter": "D",
+          "text": "of taking",
+          "is_correct": false,
+          "feedback": "Incorrect. Wrong preposition."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The verb 'forbid' followed by 'from' requires the gerund form of the following verb.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-v13",
+      "statement": "A diverse society is one that embraces and celebrates a multitude of different cultures and perspectives.",
+      "context": "Discussing cultural diversity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "diverse",
+          "is_correct": true,
+          "feedback": "Correct. Diverse means showing a great deal of variety."
+        },
+        {
+          "letter": "B",
+          "text": "uniform",
+          "is_correct": false,
+          "feedback": "Incorrect. Uniform means all the same."
+        },
+        {
+          "letter": "C",
+          "text": "isolated",
+          "is_correct": false,
+          "feedback": "Incorrect. Isolated means separate."
+        },
+        {
+          "letter": "D",
+          "text": "traditional",
+          "is_correct": false,
+          "feedback": "Incorrect. Traditional focuses on the past, not necessarily variety."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Diverse' is the appropriate adjective for a society with many different cultural backgrounds.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-v14",
+      "statement": "If artists were not allowed to express themselves freely, society would suffer from a lack of creativity.",
+      "context": "Conditional about artistic freedom.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrect. First conditional."
+        },
+        {
+          "letter": "B",
+          "text": "were",
+          "is_correct": true,
+          "feedback": "Correct. Second conditional for a hypothetical state."
+        },
+        {
+          "letter": "C",
+          "text": "have been",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "had been",
+          "is_correct": false,
+          "feedback": "Incorrect. Third conditional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The second conditional 'if + were' is used to discuss the hypothetical result of restricted expression.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-v15",
+      "statement": "The author concludes that digital technology has democratized art by making it more accessible to the general public.",
+      "context": "Conclusion of an essay on the digital arts.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "complicated",
+          "is_correct": false,
+          "feedback": "Incorrect. It may be complex, but 'accessible' suggests a different positive result."
+        },
+        {
+          "letter": "B",
+          "text": "democratized",
+          "is_correct": true,
+          "feedback": "Correct. To democratize means to make something accessible to everyone."
+        },
+        {
+          "letter": "C",
+          "text": "restricted",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says it's 'more accessible'."
+        },
+        {
+          "letter": "D",
+          "text": "ignored",
+          "is_correct": false,
+          "feedback": "Incorrect. Technology is the subject."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Democratized' describes the process of making art available to a broader range of people through technology.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-v16",
+      "statement": "The performance received a standing ovation from the appreciative audience.",
+      "context": "Describing a play.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "rehearsal",
+          "is_correct": false,
+          "feedback": "Incorrect. A rehearsal is a practice."
+        },
+        {
+          "letter": "B",
+          "text": "performance",
+          "is_correct": true,
+          "feedback": "Correct. A performance is the act of presenting a play, concert, etc."
+        },
+        {
+          "letter": "C",
+          "text": "audition",
+          "is_correct": false,
+          "feedback": "Incorrect. An audition is an interview for a role."
+        },
+        {
+          "letter": "D",
+          "text": "interval",
+          "is_correct": false,
+          "feedback": "Incorrect. A break between parts of a play."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Performance' is the general term for the presentation of an artistic work to an audience.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-v17",
+      "statement": "She is interested in learning more about contemporary dance.",
+      "context": "Expressing interest in an art form.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "of",
+          "is_correct": false,
+          "feedback": "Incorrect preposition."
+        },
+        {
+          "letter": "B",
+          "text": "in",
+          "is_correct": true,
+          "feedback": "Correct. We use 'interested in'."
+        },
+        {
+          "letter": "C",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "Incorrect preposition."
+        },
+        {
+          "letter": "D",
+          "text": "with",
+          "is_correct": false,
+          "feedback": "Incorrect preposition."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Interested in' is the standard adjective-preposition combination.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-v18",
+      "statement": "Handmade crafts are often passed down from one generation to the next, preserving cultural identity.",
+      "context": "Text about traditional crafts.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sold",
+          "is_correct": false,
+          "feedback": "Incorrect. While they are sold, the focus is on 'generation to generation'."
+        },
+        {
+          "letter": "B",
+          "text": "passed down",
+          "is_correct": true,
+          "feedback": "Correct. To pass down means to transmit to descendants."
+        },
+        {
+          "letter": "C",
+          "text": "discarded",
+          "is_correct": false,
+          "feedback": "Incorrect. Discarded means thrown away."
+        },
+        {
+          "letter": "D",
+          "text": "manufactured",
+          "is_correct": false,
+          "feedback": "Incorrect. Refers to factory production."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Passed down' is the phrasal verb used for transmitting traditions or skills through family or community.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-v19",
+      "statement": "The critic remarked that the film was visually stunning but lacked depth.",
+      "context": "Reporting a critic's opinion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. Doesn't match 'remarked'."
+        },
+        {
+          "letter": "B",
+          "text": "was",
+          "is_correct": true,
+          "feedback": "Correct. Backshifting from 'is' to 'was' in reported speech."
+        },
+        {
+          "letter": "C",
+          "text": "has been",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "will be",
+          "is_correct": false,
+          "feedback": "Incorrect. Future tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, we backshift tenses: the original statement 'The film is...' becomes '...remarked that the film was...'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-v20",
+      "statement": "Cultural exchange fosters empathy and challenges stereotypes by allowing us to see the world through someone else's eyes.",
+      "context": "Final thought on cultural exchange.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "stereotypes",
+          "is_correct": true,
+          "feedback": "Correct. Stereotypes are oversimplified images or ideas of a type of person or thing."
+        },
+        {
+          "letter": "B",
+          "text": "facts",
+          "is_correct": false,
+          "feedback": "Incorrect. It doesn't challenge facts."
+        },
+        {
+          "letter": "C",
+          "text": "languages",
+          "is_correct": false,
+          "feedback": "Incorrect. It might use languages but doesn't necessarily 'challenge' them."
+        },
+        {
+          "letter": "D",
+          "text": "similarities",
+          "is_correct": false,
+          "feedback": "Incorrect. It highlights similarities but challenges differences/prejudices."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Stereotypes' are the biased preconceptions that cultural exchange helps to break down.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W09-art-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

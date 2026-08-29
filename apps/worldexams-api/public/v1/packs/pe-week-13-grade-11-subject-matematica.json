@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pe",
+    "pack_id": "pe-week-13-grade-11-subject-matematicas",
+    "generated_at": "2026-07-03T19:49:46.419Z"
+  },
+  "questions": [
+    {
+      "id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v1",
+      "statement": "Dada la función real $f(x) = mx + b$, ¿qué representa el término $b$ en su representación gráfica?",
+      "context": "Un estudiante de 5to de secundaria en un colegio de San Juan de Lurigancho identifica las características de una función afín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La pendiente de la recta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente está representada por el coeficiente $m$."
+        },
+        {
+          "letter": "B",
+          "text": "La ordenada al origen (intersección con el eje $Y$).",
+          "is_correct": true,
+          "feedback": "Correcto. El valor de $b$ indica el punto $(0, b)$ donde la recta cruza el eje vertical."
+        },
+        {
+          "letter": "C",
+          "text": "La raíz de la función.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La raíz se halla igualando la función a cero."
+        },
+        {
+          "letter": "D",
+          "text": "El factor de crecimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El crecimiento depende del valor de la pendiente $m$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la ecuación de la recta $y = mx + b$, el término independiente $b$ es la ordenada al origen, pues corresponde al valor de $y$ cuando $x = 0$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la función afín que representa el costo total $C$ en función de la distancia $d$ en kilómetros?",
+      "context": "Un mensajero en el centro de Lima cobra una tarifa fija de S/ 5 por el servicio y S/ 2 por cada kilómetro recorrido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$C(d) = 5d + 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Intercambió la tarifa fija por el costo variable por kilómetro."
+        },
+        {
+          "letter": "B",
+          "text": "$C(d) = 2d + 5$",
+          "is_correct": true,
+          "feedback": "Correcto. El costo variable es 2 por cada $d$, más la tarifa fija de 5."
+        },
+        {
+          "letter": "C",
+          "text": "$C(d) = 7d$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó los valores sin distinguir entre fijo y variable."
+        },
+        {
+          "letter": "D",
+          "text": "$C(d) = 2d - 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tarifa fija debe sumarse al costo del recorrido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se modela la situación como una función lineal afín donde la pendiente es el costo por unidad (2) y la ordenada al origen es el costo base o cargo fijo (5).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v3",
+      "statement": "Dada la función $f(x) = \\frac{3}{2}x - 4$, determine el valor de $f(6)$.",
+      "context": "Evaluación de funciones en un simulacro de examen de admisión a la Universidad Nacional Mayor de San Marcos (UNMSM).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique el orden de las operaciones."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. $f(6) = (3/2) \\times 6 - 4 = 9 - 4 = 5$."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó restar el término independiente (-4)."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Realizó mal la multiplicación de la fracción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sustituimos el valor dado de $x$ en la regla de correspondencia: $\\frac{3}{2}(6) - 4$. Operando resulta $9 - 4 = 5$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el valor de la pendiente de dicha recta?",
+      "context": "Un estudiante observa la gráfica de una recta que pasa por los puntos $(0, 2)$ y $(3, 8)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la resta de las coordenadas."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. $m = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{8 - 2}{3 - 0} = \\frac{6}{3} = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó dividir por la diferencia en $x$."
+        },
+        {
+          "letter": "D",
+          "text": "1/2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió la fórmula de la pendiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pendiente $m$ se define como la razón entre el cambio vertical y el cambio horizontal entre dos puntos cualesquiera de la recta.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v5",
+      "statement": "Si un cliente pagó S/ 190 por el servicio, ¿cuántas horas trabajó el técnico?",
+      "context": "Un técnico electricista en Huancayo cobra por hora de trabajo según la función $f(x) = 35x + 50$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 horas",
+          "is_correct": false,
+          "feedback": "Incorrecto. $35(3) + 50 = 155$. No llega al monto total."
+        },
+        {
+          "letter": "B",
+          "text": "4 horas",
+          "is_correct": true,
+          "feedback": "Correcto. $35x + 50 = 190 \\Rightarrow 35x = 140 \\Rightarrow x = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "5 horas",
+          "is_correct": false,
+          "feedback": "Incorrecto. $35(5) + 50 = 225$. Excede el monto pagado."
+        },
+        {
+          "letter": "D",
+          "text": "2 horas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Monto insuficiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Planteamos una ecuación de primer grado igualando la función al costo total: $35x + 50 = 190$. Despejamos $x$ para hallar el número de horas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de las siguientes funciones representa una recta paralela a $y = -4x + 10$?",
+      "context": "Determinación de paralelismo entre rectas en un plano cartesiano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 4x + 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las pendientes deben ser iguales, incluyendo el signo."
+        },
+        {
+          "letter": "B",
+          "text": "$y = \\frac{1}{4}x - 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la pendiente de una recta perpendicular."
+        },
+        {
+          "letter": "C",
+          "text": "$y = -4x - 1$",
+          "is_correct": true,
+          "feedback": "Correcto. Dos rectas son paralelas si tienen la misma pendiente; en este caso, -4."
+        },
+        {
+          "letter": "D",
+          "text": "$y = -2x + 10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es diferente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dos rectas no verticales son paralelas si y solo si sus pendientes son iguales. Como la recta original tiene $m = -4$, cualquier paralela debe tener la misma pendiente.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v7",
+      "statement": "¿En cuántas horas el depósito quedará con exactamente la cuarta parte de su volumen inicial?",
+      "context": "Un depósito de agua en una zona rural de Ica se está vaciando de forma constante. Inicialmente tiene 1200 litros y pierde 30 litros por hora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 horas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quedarían $1200 - 600 = 600$ litros, que es la mitad."
+        },
+        {
+          "letter": "B",
+          "text": "30 horas",
+          "is_correct": true,
+          "feedback": "Correcto. Cuarta parte = 300 L. Función: $V(t) = 1200 - 30t$. Planteamos $300 = 1200 - 30t \\Rightarrow 30t = 900 \\Rightarrow t = 30$."
+        },
+        {
+          "letter": "C",
+          "text": "40 horas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El depósito estaría vacío a las 40 horas."
+        },
+        {
+          "letter": "D",
+          "text": "15 horas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiempo insuficiente para alcanzar la meta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Definimos la función $V(t) = 1200 - 30t$. La cuarta parte de 1200 es 300. Resolvemos la ecuación $1200 - 30t = 300$ para hallar el tiempo $t$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v8",
+      "statement": "Si una función afín tiene pendiente positiva y su ordenada al origen es negativa, ¿por qué cuadrantes pasa necesariamente su gráfica?",
+      "context": "Representación de funciones en un plano cartesiano para un proyecto escolar en Puno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I, II y III",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $b < 0$ y $m > 0$, la recta no puede pasar por el cuadrante II."
+        },
+        {
+          "letter": "B",
+          "text": "I, III y IV",
+          "is_correct": true,
+          "feedback": "Correcto. Empieza en el eje $Y$ negativo (IV), cruza el eje $X$ positivo (hacia III) y sube infinitamente (hacia I). Un momento, revisemos los signos de los cuadrantes. $(+,-)$ es IV. Si sube hacia la derecha, pasa de IV a I cruzando el eje $X$. Pero también ocupa el cuadrante III? No, si cruza el eje $Y$ en $(0, -b)$ y sube, viene del cuadrante III para $x$ negativos muy grandes."
+        },
+        {
+          "letter": "C",
+          "text": "II, III y IV",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al tener pendiente positiva, eventualmente entrará al cuadrante I."
+        },
+        {
+          "letter": "D",
+          "text": "Solo I y III",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al tener ordenada al origen no nula, debe pasar por un tercer cuadrante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Con $m > 0$, la función es creciente. Con $b < 0$, corta al eje $Y$ abajo del origen (cuadrante IV o entre III/IV). Para valores de $x$ negativos suficientemente grandes, $y$ será negativo (III). Para $x = 0$, $y$ es negativo (eje entre III y IV). Para $x$ positivos grandes, $y$ será positivo (I).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.55,
+      "bundle_id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v9",
+      "statement": "Halle la ecuación de la función afín que pasa por el punto $(2, 5)$ y es perpendicular a la recta $y = 2x - 1$.",
+      "context": "Hallar la ecuación de la recta a partir de información fragmentada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = -2x + 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usó la pendiente opuesta pero no recíproca."
+        },
+        {
+          "letter": "B",
+          "text": "$y = -0.5x + 6$",
+          "is_correct": true,
+          "feedback": "Correcto. Pendiente perpendicular $m = -1/2 = -0.5$. Luego: $5 = -0.5(2) + b \\Rightarrow 5 = -1 + b \\Rightarrow b = 6$."
+        },
+        {
+          "letter": "C",
+          "text": "$y = 0.5x + 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No invirtió el signo de la pendiente."
+        },
+        {
+          "letter": "D",
+          "text": "$y = -0.5x + 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo de la ordenada al origen."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pendiente de una recta perpendicular es la opuesta y recíproca de la original. Si $m_1 = 2$, entonces $m_2 = -1/2$. Usamos el punto $(2, 5)$ para hallar la constante $b$ en la forma $y = mx + b$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v10",
+      "statement": "Se estima que la temperatura desciende de forma lineal 6.5 °C por cada 1000 metros de ascenso. Si en la base de una montaña (a 0 msnm) la temperatura es de 25 °C, ¿cuál es la función $T(h)$ que representa la temperatura en función de la altura $h$ en metros?",
+      "context": "Un científico en el SENAMHI analiza la relación entre la altitud y la temperatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$T(h) = 25 - 6.5h$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto indicaría un descenso de 6.5 grados por cada metro, no por cada mil."
+        },
+        {
+          "letter": "B",
+          "text": "$T(h) = 25 - 0.0065h$",
+          "is_correct": true,
+          "feedback": "Correcto. La tasa es $6.5/1000 = 0.0065$ grados por metro. Al ser descenso, la pendiente es negativa."
+        },
+        {
+          "letter": "C",
+          "text": "$T(h) = 0.0065h - 25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura inicial debe ser positiva y la pendiente negativa."
+        },
+        {
+          "letter": "D",
+          "text": "$T(h) = 25 + 0.0065h$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura debe disminuir al subir la altura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pendiente representa la variación de la temperatura por unidad de altura (1 metro). Como baja 6.5 grados en 1000 metros, baja $0.0065$ por metro. La función afín es $T(h) = 25 - 0.0065h$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v11",
+      "statement": "Dos empresas de transporte de carga en el Callao ofrecen los siguientes costos:\nEmpresa A: $C_A(x) = 15x + 400$\nEmpresa B: $C_B(x) = 20x + 250$\n¿Para qué peso $x$ (en kg) el costo en ambas empresas es el mismo?",
+      "context": "Análisis de intersección de dos funciones lineales en un contexto comercial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los costos serían 700 y 650 respectivamente."
+        },
+        {
+          "letter": "B",
+          "text": "30 kg",
+          "is_correct": true,
+          "feedback": "Correcto. $15x + 400 = 20x + 250 \\Rightarrow 150 = 5x \\Rightarrow x = 30$."
+        },
+        {
+          "letter": "C",
+          "text": "50 kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excede el punto de equilibrio."
+        },
+        {
+          "letter": "D",
+          "text": "15 kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. No iguala las funciones de costo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Igualamos las dos funciones de costo $C_A(x) = C_B(x)$ para encontrar el valor de la variable independiente que produce el mismo valor en la variable dependiente.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v12",
+      "statement": "Una vela de 30 cm de largo se enciende y se consume a razón de 2.5 cm por hora. ¿Cuál es el dominio de la función que representa la longitud de la vela en función del tiempo?",
+      "context": "Estudio del dominio y rango restringido en aplicaciones reales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\langle-\\infty, 12]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tiempo no puede ser negativo."
+        },
+        {
+          "letter": "B",
+          "text": "$[0, 12]$",
+          "is_correct": true,
+          "feedback": "Correcto. La vela se consume totalmente cuando $30 - 2.5t = 0 \\Rightarrow t = 12$. Por tanto, el tiempo válido va desde que se enciende (0) hasta que se acaba (12)."
+        },
+        {
+          "letter": "C",
+          "text": "$[0, 30]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la longitud inicial con el tiempo máximo."
+        },
+        {
+          "letter": "D",
+          "text": "$\\mathbb{R}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En contextos reales el dominio suele estar acotado por condiciones físicas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El dominio es el conjunto de valores que puede tomar el tiempo $t$. Comienza en $t = 0$ y termina cuando la longitud de la vela llega a cero, lo cual ocurre a las 12 horas.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.4,
+      "bundle_id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v13",
+      "statement": "Si la gráfica de la función $f(x) = 2x - 3$ se desplaza 4 unidades hacia la izquierda en el eje $X$, ¿cuál es la ecuación de la nueva función $g(x)$?",
+      "context": "Transformaciones de funciones en un examen pre-universitario de la UNI.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$g(x) = 2x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar el desplazamiento dentro de la función."
+        },
+        {
+          "letter": "B",
+          "text": "$g(x) = 2x + 5$",
+          "is_correct": true,
+          "feedback": "Correcto. Desplazar hacia la izquierda significa reemplazar $x$ por $(x+4)$. $g(x) = 2(x+4) - 3 = 2x + 8 - 3 = 2x + 5$."
+        },
+        {
+          "letter": "C",
+          "text": "$g(x) = 2x - 7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este desplazamiento sería hacia la derecha o vertical hacia abajo."
+        },
+        {
+          "letter": "D",
+          "text": "$g(x) = 2x + 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó restar el término independiente original."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un desplazamiento horizontal de $h$ unidades se representa como $f(x - h)$. Para un desplazamiento a la izquierda de 4 unidades, $h = -4$, por lo que evaluamos $f(x + 4)$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v14",
+      "statement": "Halle el área del triángulo formado por la recta $3x + 4y - 24 = 0$ y los ejes de coordenadas.",
+      "context": "Un problema de geometría analítica vinculado a funciones lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 u²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó dividir por 2 la base por la altura o calculó mal las intersecciones."
+        },
+        {
+          "letter": "B",
+          "text": "24 u²",
+          "is_correct": true,
+          "feedback": "Correcto. Intersección eje $X$ ($y=0$): $3x = 24 \\Rightarrow x=8$. Intersección eje $Y$ ($x=0$): $4y = 24 \\Rightarrow y=6$. Área = $(8 \\times 6) / 2 = 24$."
+        },
+        {
+          "letter": "C",
+          "text": "48 u²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculó el área del rectángulo delimitado por los interceptos, no del triángulo."
+        },
+        {
+          "letter": "D",
+          "text": "36 u²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise el cálculo de las intersecciones con los ejes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los interceptos con los ejes determinan la base y la altura del triángulo rectángulo que se forma con el origen $(0,0)$. El área es el semiproducto de las longitudes de los catetos (los valores absolutos de los interceptos).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es la función del costo total $C(x)$ para un consumo de $x$ metros cúbicos, donde $x > 10$?",
+      "context": "Una empresa de gas en Cusco cobra según la siguiente tarifa: S/ 12 por cargo fijo que incluye los primeros 10 m³, y S/ 1.50 por cada m³ adicional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$C(x) = 1.5x + 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta función cobraría el variable desde el primer metro cúbico."
+        },
+        {
+          "letter": "B",
+          "text": "$C(x) = 1.5x - 3$",
+          "is_correct": true,
+          "feedback": "Correcto. $C(x) = 12 + 1.5(x - 10) = 12 + 1.5x - 15 = 1.5x - 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$C(x) = 1.5(x + 10) + 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estructura de cobro errónea."
+        },
+        {
+          "letter": "D",
+          "text": "$C(x) = 12x + 1.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El variable y el fijo están invertidos y aplicados incorrectamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Modelamos una función por partes simplificada. Para el tramo superior a 10, el costo es el fijo más 1.5 veces el exceso $(x - 10)$. Al simplificar la expresión $12 + 1.5(x - 10)$ obtenemos $1.5x - 3$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.35,
+      "bundle_id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v16",
+      "statement": "Determine la ecuación de la función lineal cuya gráfica pasa por el origen y tiene un ángulo de inclinación de 135° con respecto al eje $X$ positivo.",
+      "context": "Análisis de la relación entre la pendiente y el ángulo de inclinación de la recta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ángulo de inclinación para esta recta es 45°."
+        },
+        {
+          "letter": "B",
+          "text": "$y = -x$",
+          "is_correct": true,
+          "feedback": "Correcto. La pendiente $m = \\tan(135°) = -1$. Al pasar por el origen, $b = 0$."
+        },
+        {
+          "letter": "C",
+          "text": "$y = -0.5x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente no corresponde a la tangente del ángulo dado."
+        },
+        {
+          "letter": "D",
+          "text": "$y = -x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La recta no pasa por el origen."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pendiente $m$ de una recta es igual a la tangente de su ángulo de inclinación $\\alpha$. Como $\\tan(135°) = -1$ y la recta pasa por el origen $(0,0)$, la ecuación es $y = -x$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v17",
+      "statement": "Determine el valor de $k$ para que la recta $kx + (k-1)y - 18 = 0$ sea paralela a la recta que pasa por los puntos $(2, 3)$ y $(4, 7)$.",
+      "context": "Un problema de parámetros en familias de rectas, nivel examen de la UNI.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$k = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No iguala correctamente las pendientes."
+        },
+        {
+          "letter": "B",
+          "text": "$k = 2/3$",
+          "is_correct": true,
+          "feedback": "Correcto. Pendiente de los puntos $m = (7-3)/(4-2) = 2$. Pendiente de la familia de rectas: $m = -k/(k-1)$. Planteamos $2 = -k/(k-1) \\Rightarrow 2k - 2 = -k \\Rightarrow 3k = 2 \\Rightarrow k = 2/3$."
+        },
+        {
+          "letter": "C",
+          "text": "$k = -2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos en la resolución de la ecuación."
+        },
+        {
+          "letter": "D",
+          "text": "$k = 3/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió la relación final."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero calculamos la pendiente de la recta dada por los puntos ($m = 2$). Luego expresamos la pendiente de la recta paramétrica en función de $k$ ($m = -A/B$). Igualamos ambas pendientes y resolvemos para $k$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.25,
+      "bundle_id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v18",
+      "statement": "Halle la mínima distancia entre el origen de coordenadas y la recta definida por la función $f(x) = -\\frac{4}{3}x + 10$.",
+      "context": "Cálculo de la distancia de un punto a una recta, interpretado mediante funciones lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la distancia vertical, no la mínima (perpendicular)."
+        },
+        {
+          "letter": "B",
+          "text": "8 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise el uso de la fórmula de distancia."
+        },
+        {
+          "letter": "C",
+          "text": "6 unidades",
+          "is_correct": true,
+          "feedback": "Correcto. La ecuación general es $4x + 3y - 30 = 0$. Distancia $d = |4(0) + 3(0) - 30| / \\sqrt{4^2 + 3^2} = |-30| / 5 = 6$."
+        },
+        {
+          "letter": "D",
+          "text": "7.5 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo en el denominador de la fórmula."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Expresamos la función en su forma general $Ax + By + C = 0$. Luego aplicamos la fórmula de distancia de un punto $(x_0, y_0)$ a una recta: $d = \\frac{|Ax_0 + By_0 + C|}{\\sqrt{A^2 + B^2}}$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v19",
+      "statement": "La producción diaria de una mina sigue una función lineal respecto al número de trabajadores $n$. Con 50 trabajadores se extraen 200 toneladas y con 80 trabajadores se extraen 320 toneladas. Sin embargo, existe un costo operativo fijo equivalente a la extracción de 40 toneladas. Si se desea una extracción neta (producción menos costo fijo) de al menos 400 toneladas, ¿cuántos trabajadores como mínimo se necesitan?",
+      "context": "Un problema complejo de optimización y modelamiento lineal sobre la producción de plata en una mina de Cerro de Pasco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 trabajadores",
+          "is_correct": false,
+          "feedback": "Incorrecto. La producción neta sería $4(100) - 40 = 360$."
+        },
+        {
+          "letter": "B",
+          "text": "110 trabajadores",
+          "is_correct": true,
+          "feedback": "Correcto. Producción $P(n) = 4n$ (ya que $200/50 = 4$). Producción neta $P_n(n) = 4n - 40$. Planteamos $4n - 40 \\ge 400 \\Rightarrow 4n \\ge 440 \\Rightarrow n \\ge 110$."
+        },
+        {
+          "letter": "C",
+          "text": "120 trabajadores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Supera el mínimo necesario."
+        },
+        {
+          "letter": "D",
+          "text": "105 trabajadores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Producción neta insuficiente ($4 \\times 105 - 40 = 380$)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero determinamos la tasa de producción por trabajador (pendiente $m = 4$). La función de producción total es $P(n) = 4n$. La función de producción neta es $P_n(n) = 4n - 40$. Resolvemos la inecuación para una meta de 400 toneladas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.15,
+      "bundle_id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle-v20",
+      "statement": "Dada la función afín $f(x) = ax + b$ con $a \\ne 0$. Si se cumple que $f(f(x)) = 9x + 8$, determine el mayor valor posible para la suma $a + b$.",
+      "context": "Análisis de funciones lineales inversas y composición, nivel Olimpiada de Matemática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó que existen dos casos para el valor de $a$."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. $f(f(x)) = a(ax+b)+b = a^2x + ab+b$. Entonces $a^2=9 \\Rightarrow a=\\pm 3$. Si $a=3$: $3b+b=8 \\Rightarrow 4b=8 \\Rightarrow b=2$. Suma $3+2=5$. Si $a=-3$: $-3b+b=8 \\Rightarrow -2b=8 \\Rightarrow b=-4$. Suma $-3-4=-7$. El mayor es 5."
+        },
+        {
+          "letter": "C",
+          "text": "11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la resolución del sistema de coeficientes."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró el valor de $b$ correctamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Realizamos la composición de la función consigo misma e igualamos los coeficientes resultantes con los de la función dada $9x + 8$. Esto genera un sistema de ecuaciones para $a$ y $b$. Evaluamos los dos casos posibles para $a$ y elegimos el que maximiza la suma solicitada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.1,
+      "bundle_id": "PE-MAT-11-2026-W13-funciones-lineales-afines-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pe"
+    }
+  ]
+}

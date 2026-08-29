@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-11-grade-9-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.939Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-9-2026-W11-travel-and-tourism-001-MASTERY-bundle-v1",
+      "statement": "The tour guide ________ led us through the Amazon rainforest was extremely knowledgeable.",
+      "context": "Identifying a person in a travel scenario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": true,
+          "feedback": "Correct! \"Who\" is used for people in defining relative clauses."
+        },
+        {
+          "letter": "B",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Which\" is used for objects or animals."
+        },
+        {
+          "letter": "C",
+          "text": "where",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Where\" is used for places."
+        },
+        {
+          "letter": "D",
+          "text": "whose",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Whose\" is used for possession."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En las oraciones de relativo, utilizamos el pronombre *who* para referirnos a personas. En este caso, identifica específicamente a qué guía nos referimos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W11-travel-and-tourism-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W11-travel-and-tourism-001-MASTERY-bundle-v2",
+      "statement": "Cartagena is a city ________ history can be felt in every corner of its walled center.",
+      "context": "Describing a destination.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "Incorrect. We are talking about the city's history, not a person."
+        },
+        {
+          "letter": "B",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "Incorrect. While common, \"whose\" is specifically for possession."
+        },
+        {
+          "letter": "C",
+          "text": "whose",
+          "is_correct": true,
+          "feedback": "Correct! \"Whose\" is used to show possession for both people and things."
+        },
+        {
+          "letter": "D",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "Incorrect. Doesn't show the relationship with \"history\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "*Whose* es el pronombre relativo que indica posesión. Aquí se usa para decir que la historia pertenece a la ciudad de Cartagena (\"cuya historia\").\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W11-travel-and-tourism-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W11-travel-and-tourism-001-MASTERY-bundle-v3",
+      "statement": "The hotel ________ we stayed had an amazing view of the Sierra Nevada.",
+      "context": "Using \"where\" for travel destinations.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "Incorrect. If we use \"which\", we usually need a preposition like \"in which\"."
+        },
+        {
+          "letter": "B",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "Incorrect. Similar to \"which\", it requires a preposition for this context."
+        },
+        {
+          "letter": "C",
+          "text": "where",
+          "is_correct": true,
+          "feedback": "Correct! \"Where\" is used to refer to a place."
+        },
+        {
+          "letter": "D",
+          "text": "when",
+          "is_correct": false,
+          "feedback": "Incorrect. \"When\" is used for time."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Usamos *where* para referirnos a un lugar donde ocurre una acción, evitando la necesidad de preposiciones adicionales como *in* o *at*.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W11-travel-and-tourism-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W11-travel-and-tourism-001-MASTERY-bundle-v4",
+      "statement": "Choose the correct sentence with a non-defining relative clause:",
+      "context": "Distinguishing between defining and non-defining clauses.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The passport which I lost was new.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a defining clause; it lacks commas."
+        },
+        {
+          "letter": "B",
+          "text": "My father, who is 60 years old, still loves backpacking.",
+          "is_correct": true,
+          "feedback": "Correct! Non-defining clauses provide extra information and use commas."
+        },
+        {
+          "letter": "C",
+          "text": "I like hotels who have a swimming pool.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Who\" is for people."
+        },
+        {
+          "letter": "D",
+          "text": "The beach where we went was crowded.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a defining clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las oraciones de relativo no especificativas (*non-defining*) añaden información extra no esencial y siempre van entre comas. El sujeto ya está identificado (*My father*).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W11-travel-and-tourism-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W11-travel-and-tourism-001-MASTERY-bundle-v5",
+      "statement": "The suitcase, ________ was surprisingly light, survived the long journey.",
+      "context": "Describing an object used during a trip.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "which",
+          "is_correct": true,
+          "feedback": "Correct! We use \"which\" (not \"that\") in non-defining clauses for objects."
+        },
+        {
+          "letter": "B",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "Incorrect. \"That\" cannot be used in non-defining relative clauses (after commas)."
+        },
+        {
+          "letter": "C",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "Incorrect. For objects."
+        },
+        {
+          "letter": "D",
+          "text": "where",
+          "is_correct": false,
+          "feedback": "Incorrect. For places."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una regla crucial del nivel B2 es que el pronombre *that* nunca se utiliza en oraciones de relativo no especificativas (las que van entre comas). En su lugar, usamos *which* para objetos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W11-travel-and-tourism-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W11-travel-and-tourism-001-MASTERY-bundle-v6",
+      "statement": "I remember the day ________ I first saw the sea in Santa Marta.",
+      "context": "Referring to a time in travel history.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "where",
+          "is_correct": false,
+          "feedback": "Incorrect. For places."
+        },
+        {
+          "letter": "B",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "Incorrect. Usually requires a preposition like \"on which\"."
+        },
+        {
+          "letter": "C",
+          "text": "when",
+          "is_correct": true,
+          "feedback": "Correct! \"When\" is used for periods of time."
+        },
+        {
+          "letter": "D",
+          "text": "whose",
+          "is_correct": false,
+          "feedback": "Incorrect. For possession."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Utilizamos *when* como pronombre relativo para referirnos a un momento o fecha específica en el tiempo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W11-travel-and-tourism-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W11-travel-and-tourism-001-MASTERY-bundle-v7",
+      "statement": "In which of the following sentences can the relative pronoun be **omitted**?",
+      "context": "Omitting the relative pronoun.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The man who is talking to the pilot is my uncle.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Who\" is the subject of \"is talking\"."
+        },
+        {
+          "letter": "B",
+          "text": "The flight that I booked was cancelled.",
+          "is_correct": true,
+          "feedback": "Correct! \"That\" is the object of \"booked\", so it can be omitted."
+        },
+        {
+          "letter": "C",
+          "text": "The woman, who was wearing a red hat, lost her bag.",
+          "is_correct": false,
+          "feedback": "Incorrect. Pronouns cannot be omitted in non-defining clauses."
+        },
+        {
+          "letter": "D",
+          "text": "This is the beach where I learned to surf.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Where\" is not usually omitted in this way."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En las oraciones de relativo especificativas, podemos omitir el pronombre (*who, which, that*) únicamente cuando este funciona como el objeto de la oración subordinada.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W11-travel-and-tourism-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W11-travel-and-tourism-001-MASTERY-bundle-v8",
+      "statement": "The diplomat, to ________ the invitation was sent, has confirmed his attendance.",
+      "context": "Using \"whom\" in formal travel contexts.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "Incorrect. After a preposition, we must use \"whom\" for people."
+        },
+        {
+          "letter": "B",
+          "text": "whom",
+          "is_correct": true,
+          "feedback": "Correct! \"Whom\" is the formal object form of \"who\", required after prepositions."
+        },
+        {
+          "letter": "C",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "Incorrect. For objects."
+        },
+        {
+          "letter": "D",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "Incorrect. \"That\" cannot follow a preposition directly."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En inglés formal (nivel B2), cuando un pronombre relativo referido a una persona sigue a una preposición (*to, for, with*), debemos usar la forma *whom*.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W11-travel-and-tourism-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W11-travel-and-tourism-001-MASTERY-bundle-v9",
+      "statement": "The flight was delayed for six hours, ________ meant we missed our connection.",
+      "context": "Using \"which\" to refer to a whole previous clause.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "Incorrect. \"That\" cannot refer back to a whole clause after a comma."
+        },
+        {
+          "letter": "B",
+          "text": "which",
+          "is_correct": true,
+          "feedback": "Correct! \"Which\" can be used to comment on a whole situation or preceding clause."
+        },
+        {
+          "letter": "C",
+          "text": "what",
+          "is_correct": false,
+          "feedback": "Incorrect. \"What\" is not used as a relative pronoun in this way."
+        },
+        {
+          "letter": "D",
+          "text": "it",
+          "is_correct": false,
+          "feedback": "Incorrect. This would require a new sentence or a conjunction."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un uso avanzado de *which* es su capacidad para referirse no a una sola palabra, sino a toda la idea expresada en la oración anterior. Siempre va precedido de una coma.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W11-travel-and-tourism-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W11-travel-and-tourism-001-MASTERY-bundle-v10",
+      "statement": "Identify the error in this paragraph:\n\"Last summer I visited San Andrés, **that** (A) is a beautiful island. The people **who** (B) live there are very friendly. I met a traveler **whose** (C) goal was to visit every island in the Caribbean, **which** (D) I found very inspiring.\"",
+      "context": "Finding an error in a travel blog entry.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "that",
+          "is_correct": true,
+          "feedback": "Correct! You cannot use \"that\" in a non-defining relative clause (after a comma). It should be \"which\"."
+        },
+        {
+          "letter": "B",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use for people."
+        },
+        {
+          "letter": "C",
+          "text": "whose",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use for possession."
+        },
+        {
+          "letter": "D",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use to refer back to the whole situation."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El error reside en usar *that* tras una coma en una oración no especificativa. En esos casos, para objetos o lugares, el pronombre correcto es *which*.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-9-2026-W11-travel-and-tourism-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W11-travel-and-tourism-001-MASTERY-bundle-v11",
+      "statement": "\"I have two sisters. The sister who lives in London is a pilot.\"\nWhat does this imply?",
+      "context": "Choosing the most accurate description.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The speaker only has one sister.",
+          "is_correct": false,
+          "feedback": "Incorrect. The sentence says \"I have two sisters\"."
+        },
+        {
+          "letter": "B",
+          "text": "The other sister does not live in London.",
+          "is_correct": true,
+          "feedback": "Correct! The defining clause identifies which of the two sisters is being discussed."
+        },
+        {
+          "letter": "C",
+          "text": "Both sisters live in London.",
+          "is_correct": false,
+          "feedback": "Incorrect. Only one is specified."
+        },
+        {
+          "letter": "D",
+          "text": "The pilot is the only sister the speaker has.",
+          "is_correct": false,
+          "feedback": "Incorrect. Contradicts the first sentence."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las oraciones de relativo especificativas son esenciales para distinguir entre varios elementos del mismo tipo. Si el hablante tiene dos hermanas, la cláusula especifica de cuál está hablando.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-9-2026-W11-travel-and-tourism-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W11-travel-and-tourism-001-MASTERY-bundle-v12",
+      "statement": "Choose the best way to combine these three facts:\n1. Machu Picchu is in Peru.\n2. It was built by the Incas.\n3. It attracts thousands of tourists.",
+      "context": "Combining information about a historic site.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Machu Picchu, that was built by the Incas, is in Peru and attracts tourists.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"That\" after a comma."
+        },
+        {
+          "letter": "B",
+          "text": "Machu Picchu, which was built by the Incas, is located in Peru, where it attracts thousands of tourists.",
+          "is_correct": true,
+          "feedback": "Correct! Uses non-defining \"which\" and \"where\" correctly and fluently."
+        },
+        {
+          "letter": "C",
+          "text": "Machu Picchu who was built by the Incas is in Peru where attracts tourists.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Who\" for a place and missing subject for \"attracts\"."
+        },
+        {
+          "letter": "D",
+          "text": "Machu Picchu is in Peru which Incas built it and attracts tourists.",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically clumsy."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fluidez en el nivel B2 se demuestra combinando múltiples ideas mediante el uso correcto de diversos pronombres relativos (*which*, *where*) y puntuación adecuada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-9-2026-W11-travel-and-tourism-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

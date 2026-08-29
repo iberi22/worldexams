@@ -1,0 +1,461 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "ar",
+    "pack_id": "ar-week-3-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-06-18T23:58:36.239Z"
+  },
+  "questions": [
+    {
+      "id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se define a todo aquello que tiene masa y ocupa un lugar en el espacio (volumen), como la leche, la cuchara o el aire dentro de un globo?",
+      "context": "En la cocina de una casa en San Luis, Facundo está preparando la merienda y observa distintos materiales a su alrededor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía",
+          "is_correct": false,
+          "feedback": "No, la energía no tiene masa ni ocupa un volumen de la misma forma que la materia."
+        },
+        {
+          "letter": "B",
+          "text": "Materia",
+          "is_correct": true,
+          "feedback": "¡Correcto! Esa es la definición fundamental de materia en ciencias naturales."
+        },
+        {
+          "letter": "C",
+          "text": "Vacío",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vacío es precisamente la ausencia de materia."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerza",
+          "is_correct": false,
+          "feedback": "No, una fuerza es una interacción que puede cambiar el estado de movimiento, no es una sustancia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La materia es el componente físico del universo. Todo lo que podemos tocar, ver o pesar está hecho de materia, la cual se presenta en diferentes estados y con diversas propiedades.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v2",
+      "statement": "¿Qué propiedad intensiva de la materia relaciona la cantidad de masa contenida en un volumen determinado?",
+      "context": "Lucía tiene dos pelotas del mismo tamaño: una de telgopor y otra de acero. Nota que la de acero es mucho más \"pesada\" a pesar de ocupar el mismo espacio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El peso",
+          "is_correct": false,
+          "feedback": "El peso depende de la gravedad; la masa es la cantidad de materia."
+        },
+        {
+          "letter": "B",
+          "text": "La densidad",
+          "is_correct": true,
+          "feedback": "¡Exacto! La densidad es la relación masa/volumen y es característica de cada material."
+        },
+        {
+          "letter": "C",
+          "text": "La temperatura",
+          "is_correct": false,
+          "feedback": "No, la temperatura mide el grado de agitación de las partículas."
+        },
+        {
+          "letter": "D",
+          "text": "La fragilidad",
+          "is_correct": false,
+          "feedback": "No, la fragilidad es la tendencia de un material a romperse sin deformarse."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La densidad nos permite distinguir materiales. El acero es más denso que el telgopor porque tiene más masa concentrada en el mismo volumen. Es una propiedad intensiva porque no depende de la cantidad de material.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo clasificarías científicamente a esta mezcla donde no podés distinguir sus componentes a simple vista?",
+      "context": "Estás preparando un café con leche y le agregás una cucharada de azúcar. Revolvés bien hasta que el azúcar \"desaparece\" a la vista.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mezcla homogénea o solución",
+          "is_correct": true,
+          "feedback": "¡Muy bien! En las soluciones, los componentes se mezclan de forma uniforme a nivel microscópico."
+        },
+        {
+          "letter": "B",
+          "text": "Mezcla heterogénea",
+          "is_correct": false,
+          "feedback": "No, en una mezcla heterogénea verías fases distintas (ej. agua con arena)."
+        },
+        {
+          "letter": "C",
+          "text": "Sustancia pura",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una sustancia pura es un solo tipo de materia (solo agua o solo azúcar)."
+        },
+        {
+          "letter": "D",
+          "text": "Compuesto químico simple",
+          "is_correct": false,
+          "feedback": "No, un café con leche dulce es una mezcla física de varias sustancias, no un solo compuesto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las mezclas homogéneas presentan una sola fase. El azúcar (soluto) se disuelve en el café con leche (solvente), formando una solución donde las propiedades son iguales en todos sus puntos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v4",
+      "statement": "¿Qué método físico de separación sería el más eficiente para sacar los clips de hierro de la mezcla sin mojarse las manos?",
+      "context": "En un laboratorio en La Plata, un grupo de alumnos tiene un frasco con agua, arena y clips de hierro. Necesitan separar los clips rápidamente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Filtración",
+          "is_correct": false,
+          "feedback": "La filtración separaría la arena y los clips del agua, pero no los clips de la arena."
+        },
+        {
+          "letter": "B",
+          "text": "Decantación",
+          "is_correct": false,
+          "feedback": "No, la decantación sirve para separar líquidos de distinta densidad o sólidos que sedimentan."
+        },
+        {
+          "letter": "C",
+          "text": "Imantación",
+          "is_correct": true,
+          "feedback": "¡Correcto! El uso de un imán permite atraer los objetos metálicos ferrosos como los clips."
+        },
+        {
+          "letter": "D",
+          "text": "Evaporación",
+          "is_correct": false,
+          "feedback": "No sería eficiente, ya que tendrías que esperar a que todo el agua se evapore."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La imantación aprovecha la propiedad magnética de ciertos materiales (como el hierro). Es un método ideal para separar sólidos con propiedades magnéticas de otros que no las tienen.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v5",
+      "statement": "¿Qué tipo de mezcla es la ensalada de frutas de Martín y qué método podrías usar para separar los trozos de manzana de los de naranja?",
+      "context": "Martín quiere preparar una ensalada de frutas con trozos de manzana, naranja y banana. Mezcla todo en un bol.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una solución y se separa por destilación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una solución y la destilación es para líquidos con distinto punto de ebullición."
+        },
+        {
+          "letter": "B",
+          "text": "Es una mezcla heterogénea y se separa por tría (usando las manos o una pinza).",
+          "is_correct": true,
+          "feedback": "¡Exacto! Podés distinguir las fases y separarlas mecánicamente por su tamaño o color."
+        },
+        {
+          "letter": "C",
+          "text": "Es un coloide y se separa por centrifugación.",
+          "is_correct": false,
+          "feedback": "No, los trozos de fruta son mucho más grandes que las partículas de un coloide."
+        },
+        {
+          "letter": "D",
+          "text": "Es una sustancia pura y no se puede separar.",
+          "is_correct": false,
+          "feedback": "Falso. Es claramente una mezcla de diferentes frutos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En las mezclas heterogéneas se pueden distinguir los componentes a simple vista. La tría es el método más sencillo para separar sólidos de tamaño considerable basándose en la observación.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia fundamental hay entre la evaporación del charco y la fusión del hielo en términos de cambios de estado?",
+      "context": "Unos alumnos en Neuquén observan cómo el agua de un charco desaparece después de un día de sol, mientras que el hielo de un glaciar se derrite lentamente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la evaporación la materia desaparece y en la fusión no.",
+          "is_correct": false,
+          "feedback": "No, la materia nunca desaparece, solo cambia de forma o estado."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos son cambios químicos donde se forman nuevas sustancias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son cambios físicos; el agua sigue siendo agua (H2O)."
+        },
+        {
+          "letter": "C",
+          "text": "La evaporación es el paso de líquido a gas, y la fusión es de sólido a líquido.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Son cambios de estado producidos por la ganancia de calor."
+        },
+        {
+          "letter": "D",
+          "text": "La fusión requiere enfriar el material y la evaporación requiere calentarlo.",
+          "is_correct": false,
+          "feedback": "Falso. Tanto la fusión como la evaporación requieren aporte de energía (calor)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los cambios de estado son procesos físicos. El agua cambia su organización molecular según la energía térmica recibida, pero su composición química permanece idéntica.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v7",
+      "statement": "¿Qué dos características del aceite explican por qué no se mezcla con el agua y por qué flota sobre ella?",
+      "context": "Al mezclar aceite y agua en un vaso, notás que por más que revuelvas, el aceite siempre termina flotando arriba del agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es más denso que el agua y es soluble en ella.",
+          "is_correct": false,
+          "feedback": "No, si fuera más denso se hundiría, y si fuera soluble se mezclaría."
+        },
+        {
+          "letter": "B",
+          "text": "Es insoluble en agua (no se mezcla) y es menos denso que ella.",
+          "is_correct": true,
+          "feedback": "¡Excelente! La inmiscibilidad impide la mezcla y la baja densidad lo hace flotar."
+        },
+        {
+          "letter": "C",
+          "text": "Es un sólido a temperatura ambiente y el agua es líquida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aceite de cocina común es líquido a temperatura ambiente."
+        },
+        {
+          "letter": "D",
+          "text": "Tiene un sabor diferente y es de color amarillo.",
+          "is_correct": false,
+          "feedback": "Aunque es cierto, no son las propiedades físicas que explican el fenómeno de flotación y mezcla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El agua y el aceite son líquidos inmiscibles (no se mezclan). Al tener el aceite una densidad menor a la del agua (aprox. 0,9 g/cm³ vs 1 g/cm³), el empuje del agua lo mantiene en la superficie.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v8",
+      "statement": "¿Cómo se llaman las propiedades que permiten a los metales ser estirados en hilos y aplastados en láminas, respectivamente?",
+      "context": "Valentina está estudiando las propiedades de los metales en su escuela de Córdoba. Nota que puede convertir un alambre de cobre en láminas finas o en hilos delgados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dureza y Tenacidad",
+          "is_correct": false,
+          "feedback": "No, la dureza es la resistencia a ser rayado y la tenacidad es la resistencia a romperse."
+        },
+        {
+          "letter": "B",
+          "text": "Conductividad y Magnetismo",
+          "is_correct": false,
+          "feedback": "No, estas son propiedades eléctricas y magnéticas, no de deformación."
+        },
+        {
+          "letter": "C",
+          "text": "Ductilidad y Maleabilidad",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ductilidad es para hilos y maleabilidad para láminas."
+        },
+        {
+          "letter": "D",
+          "text": "Elasticidad y Plasticidad",
+          "is_correct": false,
+          "feedback": "No exactamente. Aunque están relacionadas con la deformación, los términos técnicos para metales son ductilidad y maleabilidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los metales son materiales muy versátiles en la industria debido a su ductilidad (capacidad de formar cables/hilos) y su maleabilidad (capacidad de formar placas/láminas), además de ser excelentes conductores.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v9",
+      "statement": "¿Por qué el proceso de \"filtración\" por sí solo no es suficiente para que el agua del río sea potable (segura para beber)?",
+      "context": "En una planta potabilizadora de agua en Buenos Aires, el agua del río viene con mucha arcilla y lodo. Los ingenieros deben decidir cómo limpiarla para el consumo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la filtración le saca el sabor rico al agua natural.",
+          "is_correct": false,
+          "feedback": "No, la filtración no afecta significativamente el sabor de las sales disueltas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la filtración es un método muy caro y lento para una ciudad grande.",
+          "is_correct": false,
+          "feedback": "No es la razón principal de seguridad biológica."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la filtración retiene partículas sólidas pero no elimina microorganismos invisibles ni sustancias tóxicas disueltas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se requiere desinfección (cloro) y otros procesos químicos para que sea potable."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el filtro de arena convierte el agua en una mezcla heterogénea peligrosa.",
+          "is_correct": false,
+          "feedback": "Al revés, el filtro ayuda a que la mezcla sea más homogénea (solo agua líquida)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La filtración es un método de separación físico que retiene sólidos en suspensión. Sin embargo, para que el agua sea potable, debe pasar por procesos de desinfección que eliminen bacterias y virus que atraviesan los poros de cualquier filtro común.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de las siguientes combinaciones de propiedades físicas y químicas sería la ideal para este nuevo material ecológico?",
+      "context": "Un grupo de investigadores argentinos está diseñando un nuevo material para envases de comida que se degrade rápido y no contamine.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que sea muy denso, de color rojo y que no se queme nunca.",
+          "is_correct": false,
+          "feedback": "Estas propiedades no tienen relación directa con la ecología o degradación."
+        },
+        {
+          "letter": "B",
+          "text": "Que sea biodegradable (química), impermeable a líquidos (física) y resistente a la tracción (física).",
+          "is_correct": true,
+          "feedback": "¡Excelente! Estas propiedades aseguran que cumpla su función y que se reintegre a la naturaleza."
+        },
+        {
+          "letter": "C",
+          "text": "Que sea muy frágil, transparente y que flote siempre en el agua.",
+          "is_correct": false,
+          "feedback": "No, la fragilidad lo haría poco útil y que flote puede facilitar la contaminación de ríos y mares."
+        },
+        {
+          "letter": "D",
+          "text": "Que sea pesado, brillante y que conduzca muy bien la electricidad.",
+          "is_correct": false,
+          "feedback": "Estas son propiedades de metales, que no suelen ser los mejores materiales para envases degradables."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El diseño de materiales implica elegir propiedades específicas. La biodegradabilidad es una propiedad química clave para el medio ambiente, mientras que la impermeabilidad y resistencia son necesarias para proteger los alimentos.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación |\n| :--- | :--- |\n| Técnico | 30 |\n| Curricular | 40 |\n| Contexto | 20 |\n| Redacción | 10 |\n| **Total** | **100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "AR-CIE-6-2026-W03-materia-propiedades-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "ar"
+    }
+  ]
+}

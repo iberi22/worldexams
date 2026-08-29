@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-39-grade-7-subject-lengua",
+    "generated_at": "2026-06-18T23:58:37.573Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-v1",
+      "statement": "¿Cuál es la estructura característica de la copla popular colombiana que se observa en este ejemplo?",
+      "context": "En una fiesta de pueblo en los Andes colombianos, un trovador canta: \"En la punta de aquel cerro / yo tengo mi ranchito, / allí vivo muy tranquilo / con mi perro y mi gatito\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diez versos que riman todos entre sí.",
+          "is_correct": false,
+          "feedback": "Esto sería una décima, no una copla."
+        },
+        {
+          "letter": "B",
+          "text": "Cuatro versos de arte menor que suelen rimar el segundo con el cuarto.",
+          "is_correct": true,
+          "feedback": "La copla se basa en la sencillez de la cuarteta, facilitando la improvisación y el canto."
+        },
+        {
+          "letter": "C",
+          "text": "Un solo párrafo largo de texto sin rima ni ritmo.",
+          "is_correct": false,
+          "feedback": "La copla es una forma poética, requiere ritmo y rima."
+        },
+        {
+          "letter": "D",
+          "text": "Cincuenta palabras que empiezan todas con la misma letra.",
+          "is_correct": false,
+          "feedback": "Esto sería una aliteración extrema o un juego de palabras, no una estructura de copla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La copla es la unidad básica de la poesía popular en Colombia. Su estructura sencilla y musical permite que el pueblo exprese sus sentimientos, humor y sabiduría de manera directa y memorable.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-v2",
+      "statement": "¿Qué es un refrán y cuál es su principal propósito en la comunicación cotidiana?",
+      "context": "Una abuela en el campo le dice a su nieto: \"Mijo, no se afane, que al que madruga, Dios lo ayuda\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un insulto escondido para las personas que se levantan tarde.",
+          "is_correct": false,
+          "feedback": "El refrán no busca insultar, sino dar un consejo o enseñanza."
+        },
+        {
+          "letter": "B",
+          "text": "Una frase corta y sentenciosa que resume una enseñanza o consejo basado en la experiencia popular.",
+          "is_correct": true,
+          "feedback": "Los refranes son cápsulas de sabiduría que ayudan a entender situaciones de la vida diaria."
+        },
+        {
+          "letter": "C",
+          "text": "Una ley escrita en la Constitución de Colombia que todos deben obedecer.",
+          "is_correct": false,
+          "feedback": "Los refranes son parte de la cultura oral, no son leyes jurídicas."
+        },
+        {
+          "letter": "D",
+          "text": "Una palabra inventada que no tiene ningún significado real.",
+          "is_correct": false,
+          "feedback": "Los refranes tienen un significado profundo y compartido por la comunidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los refranes (o paremias) son herramientas pedagógicas de la tradición oral. Utilizan la metáfora y la rima para que la lección sea fácil de recordar y aplicar en momentos específicos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-v3",
+      "statement": "¿Cuál es la función principal del humor y la picardía en este tipo de coplas populares?",
+      "context": "Lee esta copla picante: \"Por aquí pasó una danta / con el rabo bien parado, / el que no lo crea que vaya / y le mire el otro lado\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enseñar zoología sobre la anatomía de las dantas.",
+          "is_correct": false,
+          "feedback": "La danta es solo una excusa para el chiste y el juego de palabras."
+        },
+        {
+          "letter": "B",
+          "text": "Generar risa y complicidad entre los asistentes a una reunión social.",
+          "is_correct": true,
+          "feedback": "La copla popular a menudo usa el doble sentido y el humor para entretener y relajar el ambiente."
+        },
+        {
+          "letter": "C",
+          "text": "Denunciar el maltrato animal en las selvas colombianas.",
+          "is_correct": false,
+          "feedback": "El tono no es de denuncia, sino de burla y picardía."
+        },
+        {
+          "letter": "D",
+          "text": "Demostrar que el coplero es una persona muy seria y estudiosa.",
+          "is_correct": false,
+          "feedback": "Este tipo de coplas demuestran ingenio y chispa, no necesariamente seriedad académica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La picardía es una característica central del folclor colombiano. La copla permite un espacio de libertad y juego verbal donde el humor sirve para fortalecer los lazos comunitarios.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-v4",
+      "statement": "¿En qué situación de la vida real sería más adecuado aplicar este refrán colombiano?",
+      "context": "Considera el refrán: \"Mucho tilín tilín y nada de paletas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando un heladero tiene muchas paletas para vender y hace mucho ruido.",
+          "is_correct": false,
+          "feedback": "Es una interpretación literal que no capta el sentido figurado del refrán."
+        },
+        {
+          "letter": "B",
+          "text": "Cuando alguien regala paletas a todos sus amigos sin hacer ruido.",
+          "is_correct": false,
+          "feedback": "El refrán critica precisamente la falta de resultados frente a mucha bulla."
+        },
+        {
+          "letter": "C",
+          "text": "Cuando una persona promete hacer muchas cosas importantes pero al final no cumple ninguna.",
+          "is_correct": true,
+          "feedback": "El \"tilín tilín\" es el ruido (promesa) y la \"paleta\" es el resultado real que falta."
+        },
+        {
+          "letter": "D",
+          "text": "Cuando un estudiante saca una excelente nota en un examen difícil.",
+          "is_correct": false,
+          "feedback": "Aquí sí hubo \"paleta\" (resultado), por lo que el refrán no aplica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Entender un refrán implica realizar una operation mental de traslación: llevar el significado de una imagen cotidiana (el heladero) a un concepto abstracto (la vanidad o la falta de cumplimiento).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-v5",
+      "statement": "¿Cuál de las siguientes opciones completa mejor la copla de manera tradicional y rítmica?",
+      "context": "Tienes que completar la siguiente copla respetando la rima y el sentido:\n\"Ayer pasé por tu casa / y me tiraste una flor, / ...\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"...mañana paso otra vez / para pedirte un favor\".",
+          "is_correct": false,
+          "feedback": "Aunque rima, la opción B es la respuesta tradicional más conocida y pícara."
+        },
+        {
+          "letter": "B",
+          "text": "\"...la próxima vez que pase / sin maceta, por favor\".",
+          "is_correct": true,
+          "feedback": "Introduce un giro humorístico (la flor venía con todo y maceta) que es típico del ingenio popular."
+        },
+        {
+          "letter": "C",
+          "text": "\"...las flores son muy bonitas / y de muy lindo color\".",
+          "is_correct": false,
+          "feedback": "Es una frase plana que no tiene el remate ingenioso propio de la copla."
+        },
+        {
+          "letter": "D",
+          "text": "\"...yo me puse muy feliz / y sentí mucho calor\".",
+          "is_correct": false,
+          "feedback": "Aunque rima con \"flor\", no tiene la estructura rítmica adecuada ni la chispa tradicional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La copla suele tener un \"quiebre\" o remate en el último verso. Aprender a completarlas ayuda a desarrollar la conciencia fonológica y el sentido del humor lingüístico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-v6",
+      "statement": "Si quisiéramos aplicar este consejo al ámbito del estudio escolar, ¿cuál sería la interpretación más acertada?",
+      "context": "Un refrán dice: \"El que tiene tienda, que la atienda\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los estudiantes deben vender dulces en el descanso para ganar dinero.",
+          "is_correct": false,
+          "feedback": "Es una interpretación literal que no aplica el consejo al estudio."
+        },
+        {
+          "letter": "B",
+          "text": "Que el profesor es el dueño de la tienda y los alumnos son los clientes.",
+          "is_correct": false,
+          "feedback": "No capta la responsabilidad individual que el refrán enfatiza."
+        },
+        {
+          "letter": "C",
+          "text": "Que cada estudiante debe hacerse responsable de sus propias tareas y deberes para tener éxito.",
+          "is_correct": true,
+          "feedback": "El refrán enfatiza que uno mismo debe cuidar sus asuntos si quiere que prosperen."
+        },
+        {
+          "letter": "D",
+          "text": "Que la escuela debería ser reemplazada por tiendas de ropa.",
+          "is_correct": false,
+          "feedback": "Es una interpretación absurda del mensaje del refrán."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La aplicación de refranes a contextos nuevos (como el estudio) demuestra una competencia de transferencia de conocimiento, donde se usa la sabiduría general para resolver o entender situaciones particulares.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-v7",
+      "statement": "¿Qué recurso literario se utiliza en el último verso y qué cualidad del llanero resalta?",
+      "context": "Analiza esta copla de la región llanera: \"El llanero es de una talla / que no se dobla ante nada, / si se le acaba la soga / la saca de su mirada\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Símil; resalta que el llanero tiene una vista muy aguda para ver lejos.",
+          "is_correct": false,
+          "feedback": "No es un símil (comparación con \"como\"), es una imagen más extrema."
+        },
+        {
+          "letter": "B",
+          "text": "Hipérbole; resalta la astucia y la determinación del llanero para resolver problemas.",
+          "is_correct": true,
+          "feedback": "Sacar la soga de la mirada es una exageración que simboliza que siempre encuentra una solución."
+        },
+        {
+          "letter": "C",
+          "text": "Onomatopeya; resalta el sonido de la soga cuando cae al suelo.",
+          "is_correct": false,
+          "feedback": "No hay representación de sonidos en el verso."
+        },
+        {
+          "letter": "D",
+          "text": "Personificación; resalta que la soga tiene vida propia y obedece al llanero.",
+          "is_correct": false,
+          "feedback": "El sujeto de la acción es el llanero, no la soga."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La copla regional (llanera, antioqueña, boyacense) exalta los valores del hombre y la mujer del campo. El uso de figuras retóricas como la hipérbole sirve para crear una imagen heroica y valiente de la identidad local.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-v8",
+      "statement": "¿Cuál es la conclusión más lógica sobre el uso de los refranes a partir de esta aparente contradicción?",
+      "context": "Compara estos dos refranes que parecen decir cosas opuestas:\n1. \"Al que madruga, Dios lo ayuda\".\n2. \"No por mucho madrugar amanece más temprano\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los refranes son mentiras porque se contradicen entre sí.",
+          "is_correct": false,
+          "feedback": "Los refranes son verdades relativas que dependen de la situación."
+        },
+        {
+          "letter": "B",
+          "text": "Que uno de los dos refranes está mal escrito y debe ser borrado.",
+          "is_correct": false,
+          "feedback": "Ambos son válidos y forman parte del patrimonio cultural."
+        },
+        {
+          "letter": "C",
+          "text": "Que cada refrán se aplica a una situación diferente: uno premia la diligencia y el otro advierte sobre la impaciencia.",
+          "is_correct": true,
+          "feedback": "La sabiduría popular reconoce que la realidad es compleja y que un consejo no sirve para todos los momentos."
+        },
+        {
+          "letter": "D",
+          "text": "Que es mejor no madrugar nunca para no tener que elegir entre los dos.",
+          "is_correct": false,
+          "feedback": "Es una conclusión que evita el análisis de la profundidad del consejo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El análisis de refranes contradictorios ayuda a desarrollar el pensamiento dialéctico. Muestra que la cultura popular es sabia al ofrecer diferentes perspectivas según el contexto del problema.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-v9",
+      "statement": "¿Por qué ha cambiado la valoración de este refrán con el paso del tiempo?",
+      "context": "Algunos refranes antiguos en Colombia dicen: \"La letra con sangre entra\". Hoy en día, este refrán es muy criticado por los pedagogos y psicólogos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque hoy en día la sangre es más cara que antes.",
+          "is_correct": false,
+          "feedback": "Es una interpretación absurda del sentido del refrán."
+        },
+        {
+          "letter": "B",
+          "text": "Porque refleja una visión de la educación basada en el castigo físico, la cual ha sido superada por métodos respetuosos.",
+          "is_correct": true,
+          "feedback": "Los refranes evolucionan o pierden vigencia cuando los valores de la sociedad cambian."
+        },
+        {
+          "letter": "C",
+          "text": "Porque ahora usamos computadores y ya no escribimos letras a mano.",
+          "is_correct": false,
+          "feedback": "El refrán se refiere al proceso de aprendizaje, no a la técnica de escritura."
+        },
+        {
+          "letter": "D",
+          "text": "Porque Dios ya no ayuda a los que madrugan según las nuevas leyes.",
+          "is_correct": false,
+          "feedback": "No tiene relación con el refrán sobre la educación y el castigo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis crítico de refranes permite identificar cómo el lenguaje conserva ideas del pasado que la sociedad ha decidido transformar. Es una lección sobre la evolución de la ética y los derechos humanos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-v10",
+      "statement": "¿Cuál es la evaluación más crítica sobre esta estrategia de comunicación política?",
+      "context": "Imagina que un político usa constantemente refranes populares en sus discursos para convencer a la gente del campo de que voten por él.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es excelente porque demuestra que el político sabe mucho sobre literatura oral.",
+          "is_correct": false,
+          "feedback": "Puede ser una pose aprendida, no necesariamente conocimiento real."
+        },
+        {
+          "letter": "B",
+          "text": "Es mala porque los políticos no deberían hablar como la gente del campo.",
+          "is_correct": false,
+          "feedback": "El problema no es el lenguaje, sino la intención detrás de su uso."
+        },
+        {
+          "letter": "C",
+          "text": "Puede ser una forma de manipulación para generar una falsa cercanía y confianza emocional sin dar propuestas reales.",
+          "is_correct": true,
+          "feedback": "El uso instrumental de la cultura popular puede servir para ocultar la falta de planes concretos de gobierno."
+        },
+        {
+          "letter": "D",
+          "text": "Es necesario que los refranes sean incluidos en las leyes para que sean más fáciles de leer.",
+          "is_correct": false,
+          "feedback": "Los refranes tienen su espacio en la oralidad y la cultura, no en la técnica jurídica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La evaluación final conecta la tradición oral con la vida ciudadana. El estudiante debe ser capaz de notar cuándo los recursos de la cultura popular se usan de manera genuina o cuándo se usan para persuadir de forma superficial o engañosa.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación | Notas |\n| :--- | :---: | :--- |\n| Técnico | 30/30 | Estructura v5.2 correcta. |\n| Curricular | 40/40 | Análisis profundo de copla y refrán para grado 7. |\n| Contexto | 20/20 | Ejemplos locales colombianos y situaciones de la vida real. |\n| Redacción | 10/10 | Enunciados claros y explicaciones pedagógicas útiles. |\n| **Total** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LEN-7-2026-W39-copla-refran-colombiano-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

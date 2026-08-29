@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ingles",
+    "country": "cl",
+    "pack_id": "cl-week-23-grade-11-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.107Z"
+  },
+  "questions": [
+    {
+      "id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v1",
+      "statement": "Logic is the study of correct reasoning and the principles of valid argument.",
+      "context": "Introduction to reasoning.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Emotion",
+          "is_correct": false,
+          "feedback": "Incorrect. Logic is based on reason, not emotion."
+        },
+        {
+          "letter": "B",
+          "text": "Logic",
+          "is_correct": true,
+          "feedback": "Correct. The branch of philosophy concerned with reasoning."
+        },
+        {
+          "letter": "C",
+          "text": "Fiction",
+          "is_correct": false,
+          "feedback": "Incorrect. Fiction is imaginary."
+        },
+        {
+          "letter": "D",
+          "text": "Rhetoric",
+          "is_correct": false,
+          "feedback": "Incorrect. Rhetoric is the art of persuasion, which may or may not use logic."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Logic' is the formal term for the systematic study of valid inference and argument.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v2",
+      "statement": "Existentialism is a philosophy that emphasizes the individual's freedom and responsibility in a seemingly meaningless world.",
+      "context": "Discussing existentialism.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "emphasize",
+          "is_correct": false,
+          "feedback": "Incorrect. Subject-verb agreement ('philosophy' is singular)."
+        },
+        {
+          "letter": "B",
+          "text": "emphasizes",
+          "is_correct": true,
+          "feedback": "Correct. Present simple for a definition."
+        },
+        {
+          "letter": "C",
+          "text": "emphasizing",
+          "is_correct": false,
+          "feedback": "Incorrect. Gerund."
+        },
+        {
+          "letter": "D",
+          "text": "emphasized",
+          "is_correct": false,
+          "feedback": "Incorrect. Past tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present simple 'emphasizes' is used to state a central characteristic of a philosophical movement.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v3",
+      "statement": "If only we had questioned our assumptions earlier, we would have avoided many logical fallacies.",
+      "context": "Using \"if only\" for philosophical regret.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "questioned",
+          "is_correct": false,
+          "feedback": "Incorrect. 'If only' for past regret needs past perfect."
+        },
+        {
+          "letter": "B",
+          "text": "had questioned",
+          "is_correct": true,
+          "feedback": "Correct. 'If only + past perfect' for past regret."
+        },
+        {
+          "letter": "C",
+          "text": "have questioned",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "would question",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'If only' followed by the past perfect expresses a strong desire for the past to have been different.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v4",
+      "statement": "Socrates is famous for his method of inquiry, which involved asking a series of questions to stimulate critical thinking.",
+      "context": "Article about Socrates.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "inquiry",
+          "is_correct": true,
+          "feedback": "Correct. Inquiry is the act of asking for information."
+        },
+        {
+          "letter": "B",
+          "text": "silence",
+          "is_correct": false,
+          "feedback": "Incorrect. Socrates was famous for talking/asking."
+        },
+        {
+          "letter": "C",
+          "text": "agreement",
+          "is_correct": false,
+          "feedback": "Incorrect. He often challenged people's ideas."
+        },
+        {
+          "letter": "D",
+          "text": "isolation",
+          "is_correct": false,
+          "feedback": "Incorrect. He taught in public spaces."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Inquiry' (or 'Socratic inquiry') is the term for the investigative questioning style used by Socrates.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v5",
+      "statement": "A fallacy is a mistaken belief, especially one based on unsound argument or invalid reasoning.",
+      "context": "Discussion on \"logical fallacies\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "fact",
+          "is_correct": false,
+          "feedback": "Incorrect. A fallacy is the opposite of a fact."
+        },
+        {
+          "letter": "B",
+          "text": "fallacy",
+          "is_correct": true,
+          "feedback": "Correct. The term for an error in reasoning."
+        },
+        {
+          "letter": "C",
+          "text": "proof",
+          "is_correct": false,
+          "feedback": "Incorrect. A proof is a valid argument."
+        },
+        {
+          "letter": "D",
+          "text": "certainty",
+          "is_correct": false,
+          "feedback": "Incorrect. Fallacies lead to false certainty."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Fallacy' is the technical term in logic for a flaw in reasoning that makes an argument invalid.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v6",
+      "statement": "Deontology is an ethical theory that judges the morality of an action based on rules or duties.",
+      "context": "Ethical frameworks.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hedonism",
+          "is_correct": false,
+          "feedback": "Incorrect. Focuses on pleasure."
+        },
+        {
+          "letter": "B",
+          "text": "Deontology",
+          "is_correct": true,
+          "feedback": "Correct. Focuses on duty and rules."
+        },
+        {
+          "letter": "C",
+          "text": "Nihilism",
+          "is_correct": false,
+          "feedback": "Incorrect. The belief that life is meaningless."
+        },
+        {
+          "letter": "D",
+          "text": "Skepticism",
+          "is_correct": false,
+          "feedback": "Incorrect. Doubting the truth."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Deontology' (from the Greek 'deon' meaning duty) is the rule-based branch of ethics.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v7",
+      "statement": "The nature of consciousness is still being explored by philosophers and neuroscientists.",
+      "context": "Describing a philosophical debate.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is exploring",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "is being explored",
+          "is_correct": true,
+          "feedback": "Correct. Present continuous passive for an ongoing area of study."
+        },
+        {
+          "letter": "C",
+          "text": "explored",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "D",
+          "text": "has explored",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present continuous passive describes a topic that remains a focus of current, active investigation.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v8",
+      "statement": "Empiricism is the theory that all knowledge is derived from sense-experience.",
+      "context": "Text on \"Empiricism\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rationalism",
+          "is_correct": false,
+          "feedback": "Incorrect. Focuses on reason as the source of knowledge."
+        },
+        {
+          "letter": "B",
+          "text": "Empiricism",
+          "is_correct": true,
+          "feedback": "Correct. Focuses on experience/observation."
+        },
+        {
+          "letter": "C",
+          "text": "Idealism",
+          "is_correct": false,
+          "feedback": "Incorrect. Focuses on ideas or the mind as the primary reality."
+        },
+        {
+          "letter": "D",
+          "text": "Relativism",
+          "is_correct": false,
+          "feedback": "Incorrect. The idea that truth is not absolute."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Empiricism' is the philosophical tradition that prioritizes observation and experience in the formation of knowledge.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v9",
+      "statement": "Kant's work had been widely read long before it was translated into English.",
+      "context": "Reflecting on a philosopher's influence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was reading",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice and past continuous."
+        },
+        {
+          "letter": "B",
+          "text": "had been widely read",
+          "is_correct": true,
+          "feedback": "Correct. Past perfect passive for duration/state before a past point."
+        },
+        {
+          "letter": "C",
+          "text": "has been read",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "is read",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The past perfect passive describes the state of the philosopher's work prior to its translation.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v10",
+      "statement": "Postmodernism often challenges the idea of objective truth, suggesting that all knowledge is filtered through social and cultural contexts.",
+      "context": "Critique of \"Postmodernism\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "absolute",
+          "is_correct": false,
+          "feedback": "Incorrect. Postmodernism usually denies absolute truth."
+        },
+        {
+          "letter": "B",
+          "text": "objective",
+          "is_correct": true,
+          "feedback": "Correct. Objective means not influenced by personal feelings or opinions."
+        },
+        {
+          "letter": "C",
+          "text": "simple",
+          "is_correct": false,
+          "feedback": "Incorrect. Context makes knowledge more complex, not simple."
+        },
+        {
+          "letter": "D",
+          "text": "irrelevant",
+          "is_correct": false,
+          "feedback": "Incorrect. Truth is still a central topic of discussion."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Objective' refers to truth that is independent of individual or cultural perspective, a concept postmodernism famously questions.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v11",
+      "statement": "An axiom is a statement or proposition which is regarded as being self-evidently true.",
+      "context": "Definition of an axiom.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Theory",
+          "is_correct": false,
+          "feedback": "Incorrect. A theory needs testing."
+        },
+        {
+          "letter": "B",
+          "text": "Axiom",
+          "is_correct": true,
+          "feedback": "Correct. A starting point assumed to be true."
+        },
+        {
+          "letter": "C",
+          "text": "Conclusion",
+          "is_correct": false,
+          "feedback": "Incorrect. An end point."
+        },
+        {
+          "letter": "D",
+          "text": "Question",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Axiom' is the term for a foundational principle that is accepted without proof as the basis for further reasoning.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v12",
+      "statement": "A valid argument is one in which the conclusion follows necessarily from the premises.",
+      "context": "Describing a logical requirement.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "follow",
+          "is_correct": false,
+          "feedback": "Incorrect. Subject-verb agreement ('conclusion' is singular)."
+        },
+        {
+          "letter": "B",
+          "text": "follows",
+          "is_correct": true,
+          "feedback": "Correct. Present simple for a logical definition."
+        },
+        {
+          "letter": "C",
+          "text": "followed",
+          "is_correct": false,
+          "feedback": "Incorrect. Past tense."
+        },
+        {
+          "letter": "D",
+          "text": "following",
+          "is_correct": false,
+          "feedback": "Incorrect. Gerund."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In logic, 'following from' refers to the necessary relationship between the starting points (premises) and the end result (conclusion).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v13",
+      "statement": "Epistemology is the branch of philosophy that investigates the nature, origin, and limits of human knowledge.",
+      "context": "Discussing \"Epistemology\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aesthetics",
+          "is_correct": false,
+          "feedback": "Incorrect. Study of beauty."
+        },
+        {
+          "letter": "B",
+          "text": "Ethics",
+          "is_correct": false,
+          "feedback": "Incorrect. Study of morality."
+        },
+        {
+          "letter": "C",
+          "text": "Epistemology",
+          "is_correct": true,
+          "feedback": "Correct. Study of knowledge."
+        },
+        {
+          "letter": "D",
+          "text": "Metaphysics",
+          "is_correct": false,
+          "feedback": "Incorrect. Study of the nature of reality."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Epistemology' is the specific philosophical name for the theory of knowledge.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v14",
+      "statement": "If I were a nihilist, I would believe that nothing has any inherent meaning.",
+      "context": "Conditional about a philosophical stance.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "B",
+          "text": "were",
+          "is_correct": true,
+          "feedback": "Correct. Second conditional for a hypothetical identity."
+        },
+        {
+          "letter": "C",
+          "text": "have been",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "will be",
+          "is_correct": false,
+          "feedback": "Incorrect. Future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The second conditional 'if + were' is used to explore the hypothetical consequences of adopting a specific worldview.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v15",
+      "statement": "The author concludes that Stoicism provides a practical framework for achieving tranquility in a turbulent world.",
+      "context": "Conclusion of an article on Stoicism.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "tranquility",
+          "is_correct": true,
+          "feedback": "Correct. Tranquility is the quality or state of being calm."
+        },
+        {
+          "letter": "B",
+          "text": "chaos",
+          "is_correct": false,
+          "feedback": "Incorrect. Stoicism aims to avoid chaos."
+        },
+        {
+          "letter": "C",
+          "text": "wealth",
+          "is_correct": false,
+          "feedback": "Incorrect. Stoicism focuses on internal state, not money."
+        },
+        {
+          "letter": "D",
+          "text": "confusion",
+          "is_correct": false,
+          "feedback": "Incorrect. Stoicism provides clarity."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Tranquility' (or ataraxia) is the primary goal of Stoic philosophy.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v16",
+      "statement": "A paradox is a seemingly absurd or self-contradictory statement that when investigated or explained may prove to be well-founded or true.",
+      "context": "Definition of a paradox.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fact",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Paradox",
+          "is_correct": true,
+          "feedback": "Correct. Standard term for a self-contradictory idea."
+        },
+        {
+          "letter": "C",
+          "text": "Slogan",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Myth",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Paradox' describes the specific type of contradictory statement that challenges normal logic.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v17",
+      "statement": "The argument is based on a circular reasoning, which means it assumes what it is trying to prove.",
+      "context": "Describing a logical mistake.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "logic",
+          "is_correct": false,
+          "feedback": "Incorrect. Circular reasoning is a failure of logic."
+        },
+        {
+          "letter": "B",
+          "text": "reasoning",
+          "is_correct": true,
+          "feedback": "Correct. Circular reasoning is a common logical fallacy."
+        },
+        {
+          "letter": "C",
+          "text": "fact",
+          "is_correct": false,
+          "feedback": "Incorrect. It's a mistake, not a fact."
+        },
+        {
+          "letter": "D",
+          "text": "proof",
+          "is_correct": false,
+          "feedback": "Incorrect. It's not a valid proof."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Reasoning' is the noun modified by 'circular' to describe this specific type of logical error.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v18",
+      "statement": "Humanism is an outlook or system of thought attaching prime importance to human rather than divine or supernatural matters.",
+      "context": "Text about \"Humanism\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Religion",
+          "is_correct": false,
+          "feedback": "Incorrect. Focuses on the divine."
+        },
+        {
+          "letter": "B",
+          "text": "Humanism",
+          "is_correct": true,
+          "feedback": "Correct. Focuses on human value and agency."
+        },
+        {
+          "letter": "C",
+          "text": "Mysticism",
+          "is_correct": false,
+          "feedback": "Incorrect. Focuses on spiritual mystery."
+        },
+        {
+          "letter": "D",
+          "text": "Fatalism",
+          "is_correct": false,
+          "feedback": "Incorrect. The belief that events are predetermined."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Humanism' is the philosophical perspective that emphasizes the dignity and potential of human beings.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v19",
+      "statement": "Descartes argued that the very act of thinking proved his own existence.",
+      "context": "Reporting a philosophical argument.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "proves",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted in reported speech."
+        },
+        {
+          "letter": "B",
+          "text": "proved",
+          "is_correct": true,
+          "feedback": "Correct. Backshifted from 'proves' to 'proved'."
+        },
+        {
+          "letter": "C",
+          "text": "will prove",
+          "is_correct": false,
+          "feedback": "Incorrect. Future."
+        },
+        {
+          "letter": "D",
+          "text": "have proved",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, we backshift the tense of the philosopher's original conclusion.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-v20",
+      "statement": "Ultimately, philosophy encourages us to live an \"examined life,\" constantly questioning the world around us.",
+      "context": "Final thought on critical thinking.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "examined",
+          "is_correct": true,
+          "feedback": "Correct. Based on Socrates' famous quote: \"The unexamined life is not worth living.\""
+        },
+        {
+          "letter": "B",
+          "text": "simple",
+          "is_correct": false,
+          "feedback": "Incorrect. It adds complexity."
+        },
+        {
+          "letter": "C",
+          "text": "ignored",
+          "is_correct": false,
+          "feedback": "Incorrect. Philosophy is about paying attention."
+        },
+        {
+          "letter": "D",
+          "text": "wealthy",
+          "is_correct": false,
+          "feedback": "Incorrect. Unrelated to the intellectual goal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Examined life' is the classical term for a life lived with self-reflection and critical inquiry.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W23-philosophy-logic-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

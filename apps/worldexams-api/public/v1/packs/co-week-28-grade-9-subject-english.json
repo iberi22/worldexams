@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-28-grade-9-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.947Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-9-2026-W28-future-of-work-001-MASTERY-bundle-v1",
+      "statement": "Fewer people will have ________ jobs.",
+      "context": "Job duration.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "full-time",
+          "is_correct": true,
+          "feedback": "Correct! Compound adjective with hyphen."
+        },
+        {
+          "letter": "B",
+          "text": "part-time",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "time-full",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "whole-time",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los adjetivos compuestos suelen llevar un guion cuando preceden al sustantivo.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W28-future-of-work-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W28-future-of-work-001-MASTERY-bundle-v2",
+      "statement": "This is a ________ strategy for the company.",
+      "context": "Popular strategy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "long term",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "long-term",
+          "is_correct": true,
+          "feedback": "Correct! Hyphenated compound adjective."
+        },
+        {
+          "letter": "C",
+          "text": "term-long",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "future-plan",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "*Long-term* requiere guion cuando funciona como modificador.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W28-future-of-work-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W28-future-of-work-001-MASTERY-bundle-v3",
+      "statement": "Learning AI is a ________ process.",
+      "context": "Difficult process.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "time-consuming",
+          "is_correct": true,
+          "feedback": "Correct! Adjective for something that takes a lot of time."
+        },
+        {
+          "letter": "B",
+          "text": "consuming-time",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "slow-process",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "fast-time",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "*Time-consuming* describe actividades con inversión de tiempo considerable.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W28-future-of-work-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W28-future-of-work-001-MASTERY-bundle-v4",
+      "statement": "The new offices are very ________.",
+      "context": "Workplace.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "high-tech",
+          "is_correct": true,
+          "feedback": "Correct! Standard term for advanced technology."
+        },
+        {
+          "letter": "B",
+          "text": "tech-high",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "top-tech",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "modern-high",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "*High-tech* describe entornos con tecnología avanzada.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W28-future-of-work-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W28-future-of-work-001-MASTERY-bundle-v5",
+      "statement": "We value ________ employees.",
+      "context": "Dedicated employee.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "hard-working",
+          "is_correct": true,
+          "feedback": "Correct! Common compound adjective for dedication."
+        },
+        {
+          "letter": "B",
+          "text": "work-hard",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "working-hard",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "hardly-working",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Diferenciamos *hard-working* (trabajador) de *hardly working* (apenas trabajando).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W28-future-of-work-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W28-future-of-work-001-MASTERY-bundle-v6",
+      "statement": "Working for a ________ corporation is great.",
+      "context": "Global recognition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "world-famous",
+          "is_correct": true,
+          "feedback": "Correct! Recognised globally."
+        },
+        {
+          "letter": "B",
+          "text": "famous-world",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "all-world",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "globe-known",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "*World-famous* se usa para reconocimiento internacional.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W28-future-of-work-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W28-future-of-work-001-MASTERY-bundle-v7",
+      "statement": "In which sentence is the hyphen used **correctly**?",
+      "context": "Hyphenation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He has a part-time job.",
+          "is_correct": true,
+          "feedback": "Correct! Hyphen before the noun."
+        },
+        {
+          "letter": "B",
+          "text": "The job is part-time.",
+          "is_correct": false,
+          "feedback": "Incorrect. (Hyphen usually omitted after verb)."
+        },
+        {
+          "letter": "C",
+          "text": "A long term plan.",
+          "is_correct": false,
+          "feedback": "Incorrect. (Needs hyphen)."
+        },
+        {
+          "letter": "D",
+          "text": "A highly-skilled worker.",
+          "is_correct": false,
+          "feedback": "Incorrect. (No hyphen after -ly)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los adjetivos compuestos llevan guion delante del sustantivo.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W28-future-of-work-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W28-future-of-work-001-MASTERY-bundle-v8",
+      "statement": "The survey results were ________.",
+      "context": "Surprising results.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "eye-opening",
+          "is_correct": true,
+          "feedback": "Correct! Something surprising and revealing."
+        },
+        {
+          "letter": "B",
+          "text": "opening-eye",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "open-eye",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "eye-opened",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "*Eye-opening* describe una experiencia reveladora.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W28-future-of-work-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W28-future-of-work-001-MASTERY-bundle-v9",
+      "statement": "The building is ________.",
+      "context": "Sustainable building.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "energy-efficient",
+          "is_correct": true,
+          "feedback": "Correct! Technical term for low consumption."
+        },
+        {
+          "letter": "B",
+          "text": "efficient-energy",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "power-good",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "energy-save",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "*Energy-efficient* es clave en arquitectura moderna.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W28-future-of-work-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W28-future-of-work-001-MASTERY-bundle-v10",
+      "statement": "Identify the error:\n\"A **highly-skilled** (A) manager.\"",
+      "context": "Ad advertisement.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "highly-skilled",
+          "is_correct": true,
+          "feedback": "Correct! Adverbs in -ly don't take a hyphen."
+        },
+        {
+          "letter": "B",
+          "text": "skilled",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "manager",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "highly",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Nunca se usa guion después de un adverbio terminado en *-ly*.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-9-2026-W28-future-of-work-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W28-future-of-work-001-MASTERY-bundle-v11",
+      "statement": "A career that remains relevant is:",
+      "context": "Relevance.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a future-proof career.",
+          "is_correct": true,
+          "feedback": "Correct! Designed to resist changes."
+        },
+        {
+          "letter": "B",
+          "text": "a forever job.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "a tech-good work.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "a long-lasting task.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "*Future-proof* indica resistencia a la obsolescencia.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-9-2026-W28-future-of-work-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W28-future-of-work-001-MASTERY-bundle-v12",
+      "statement": "\"We will see ________ spaces.\"",
+      "context": "Future office.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "open-plan",
+          "is_correct": true,
+          "feedback": "Correct! Common term for modern offices."
+        },
+        {
+          "letter": "B",
+          "text": "plan-open",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "opened-plan",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "plan-opening",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evalúa términos específicos del entorno laboral moderno.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-9-2026-W28-future-of-work-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

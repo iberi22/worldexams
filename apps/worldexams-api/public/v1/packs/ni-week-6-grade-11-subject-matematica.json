@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "ni",
+    "pack_id": "ni-week-6-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:39.052Z"
+  },
+  "questions": [
+    {
+      "id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v1",
+      "statement": "En un triángulo rectángulo, ¿cuál es la definición de la razón trigonométrica seno ($\\sin$) para un ángulo agudo $\\theta$?",
+      "context": "Un carpintero en Masaya está diseñando una estructura triangular para un techo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cateto opuesto dividido por la hipotenusa.",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición, $\\sin(\\theta) = \\frac{O}{H}$."
+        },
+        {
+          "letter": "B",
+          "text": "Cateto adyacente dividido por la hipotenusa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la definición del coseno."
+        },
+        {
+          "letter": "C",
+          "text": "Cateto opuesto dividido por el cateto adyacente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la definición de la tangente."
+        },
+        {
+          "letter": "D",
+          "text": "Hipotenusa dividida por el cateto opuesto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la definición de la cosecante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las razones trigonométricas son cocientes entre los lados de un triángulo rectángulo. El seno relaciona específicamente el lado enfrentado al ángulo (opuesto) con el lado más largo (hipotenusa).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la razón recíproca de la función coseno ($\\cos$)?",
+      "context": "Un estudiante en León estudia las relaciones recíprocas en trigonometría.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cosecante ($\\csc$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cosecante es el recíproco del seno."
+        },
+        {
+          "letter": "B",
+          "text": "Secante ($\\sec$)",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sec(\\theta) = 1/\\cos(\\theta)$."
+        },
+        {
+          "letter": "C",
+          "text": "Cotangente ($\\cot$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cotangente es el recíproco de la tangente."
+        },
+        {
+          "letter": "D",
+          "text": "Seno ($\\sin$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El seno y el coseno son funciones complementarias, no recíprocas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las funciones recíprocas se obtienen invirtiendo la fracción de la razón original. Para el coseno ($A/H$), su recíproca es la secante ($H/A$).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el valor exacto de $\\sin(30^\\circ)$?",
+      "context": "Un dibujo técnico de una rampa de acceso en un hospital de Managua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/2",
+          "is_correct": true,
+          "feedback": "Correcto. En un triángulo notable 30-60, el cateto opuesto a 30° es la mitad de la hipotenusa."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{3}/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor de $\\cos(30^\\circ)$ o $\\sin(60^\\circ)$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{2}/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor del seno y coseno de 45°."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. El seno solo vale 1 a los 90°."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El valor de $\\sin(30^\\circ)$ es una constante fundamental derivada del triángulo equilátero dividido por su altura. Su valor decimal es 0.5.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v4",
+      "statement": "Si en un triángulo rectángulo el cateto opuesto mide 3 cm y el cateto adyacente mide 4 cm, ¿cuál es el valor de la tangente ($\\tan$) del ángulo?",
+      "context": "Un agrimensor mide la inclinación de un terreno cerca del Volcán Momotombo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sería cateto adyacente sobre opuesto (cotangente)."
+        },
+        {
+          "letter": "B",
+          "text": "3/4",
+          "is_correct": true,
+          "feedback": "Correcto. $\\tan(\\theta) = \\text{Opuesto} / \\text{Adyacente} = 3/4$."
+        },
+        {
+          "letter": "C",
+          "text": "3/5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sería el seno (opuesto sobre hipotenusa)."
+        },
+        {
+          "letter": "D",
+          "text": "4/5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sería el coseno (adyacente sobre hipotenusa)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tangente es la razón entre los dos catetos del triángulo rectángulo. En este caso clásico (triángulo 3-4-5), la tangente es 0.75.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el valor de $\\cos(45^\\circ)$ en forma racionalizada?",
+      "context": "Un navegante en el Lago Cocibolca utiliza coordenadas y ángulos para su ruta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor de $\\cos(60^\\circ)$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{2}/2$",
+          "is_correct": true,
+          "feedback": "Correcto. Derivado del triángulo isósceles rectángulo $1, 1, \\sqrt{2}$. Al racionalizar $1/\\sqrt{2}$ se obtiene $\\sqrt{2}/2$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{3}/3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor de $\\tan(30^\\circ)$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{3}/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor de $\\cos(30^\\circ)$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para un ángulo de 45°, los catetos son iguales. El valor de la razón es $1/\\sqrt{2}$, que se expresa comúnmente como $\\sqrt{2}/2$ ($\\approx 0.7071$).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v6",
+      "statement": "Si un poste de 5 metros de altura proyecta una sombra cuando el ángulo de elevación del sol es de 45°, ¿cuánto mide la sombra?",
+      "context": "La sombra de un poste de luz en una calle de Granada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto duplicaría la altura sin base trigonométrica."
+        },
+        {
+          "letter": "B",
+          "text": "5 metros",
+          "is_correct": true,
+          "feedback": "Correcto. Como $\\tan(45^\\circ) = 1$, el cateto opuesto (altura) y el adyacente (sombra) deben ser iguales."
+        },
+        {
+          "letter": "C",
+          "text": "$5\\sqrt{2}$ metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería la longitud de la hipotenusa (distancia del sol a la punta de la sombra)."
+        },
+        {
+          "letter": "D",
+          "text": "2.5 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay razón para que la sombra sea la mitad de la altura a 45°."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A un ángulo de 45°, el triángulo rectángulo formado es isósceles. Por lo tanto, la altura del objeto y la longitud de su sombra son idénticas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.72,
+      "bundle_id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v7",
+      "statement": "Se desea construir una rampa con un ángulo de inclinación de 30°. Si la rampa debe alcanzar una altura de 2 metros, ¿cuántos metros de largo debe tener la superficie de la rampa (hipotenusa)?",
+      "context": "Un ingeniero civil calcula la longitud de una rampa en un centro comercial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hipotenusa debe ser mayor que el cateto."
+        },
+        {
+          "letter": "B",
+          "text": "4 metros",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sin(30^\\circ) = \\text{Altura} / \\text{Largo} \\Rightarrow 0.5 = 2 / L \\Rightarrow L = 2 / 0.5 = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$2\\sqrt{3}$ metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería la longitud de la base horizontal de la rampa."
+        },
+        {
+          "letter": "D",
+          "text": "6 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el despeje de la razón del seno."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usando la definición de seno ($\\sin 30^\\circ = 1/2$), sabemos que la hipotenusa es siempre el doble del cateto opuesto a 30°.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v8",
+      "statement": "En un triángulo rectángulo cuyos catetos miden 6 y 8 unidades, ¿cuál es el valor del coseno del ángulo opuesto al lado de 6 unidades?",
+      "context": "Identificación de razones a partir de un triángulo dado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor del seno del ángulo ($\\sin \\theta = 6/10$)."
+        },
+        {
+          "letter": "B",
+          "text": "0.8",
+          "is_correct": true,
+          "feedback": "Correcto. La hipotenusa es 10 ($\\sqrt{6^2+8^2}$). El cateto adyacente al ángulo es 8. $\\cos \\theta = 8/10 = 0.8$."
+        },
+        {
+          "letter": "C",
+          "text": "0.75",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la tangente del ángulo."
+        },
+        {
+          "letter": "D",
+          "text": "1.0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coseno de un ángulo agudo no puede ser 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero calculamos la hipotenusa mediante Pitágoras (10). Luego aplicamos la definición de coseno: cateto adyacente (8) entre hipotenusa (10).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v9",
+      "statement": "Si el punto $P(-3, 4)$ está en el lado terminal de un ángulo $\\theta$ en posición normal, ¿cuál es el valor de $\\sin \\theta$?",
+      "context": "Identificación de valores trigonométricos en el plano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-3/5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor de $\\cos \\theta$."
+        },
+        {
+          "letter": "B",
+          "text": "4/5",
+          "is_correct": true,
+          "feedback": "Correcto. $r = \\sqrt{(-3)^2 + 4^2} = 5$. $\\sin \\theta = y/r = 4/5$."
+        },
+        {
+          "letter": "C",
+          "text": "4/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor absoluto de $\\tan \\theta$."
+        },
+        {
+          "letter": "D",
+          "text": "-4/5",
+          "is_correct": false,
+          "feedback": "Incorrecto. El seno es positivo en el segundo cuadrante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para un punto $(x, y)$, el radio es $r = \\sqrt{x^2+y^2}$. El seno se define como $y/r$. En el segundo cuadrante, el seno es positivo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.62,
+      "bundle_id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v10",
+      "statement": "Si $\\sin \\theta = \\sqrt{3}/2$ y $\\cos \\theta = 1/2$, ¿cuál es el valor de $\\cot \\theta$?",
+      "context": "Un cálculo de la cotangente a partir de seno y coseno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la tangente del ángulo."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{3}/3$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\cot \\theta = \\cos \\theta / \\sin \\theta = (1/2) / (\\sqrt{3}/2) = 1/\\sqrt{3} = \\sqrt{3}/3$."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto solo ocurre a los 45°."
+        },
+        {
+          "letter": "D",
+          "text": "$1/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor correspondiente solo al coseno."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La cotangente es la razón entre el coseno y el seno. Al dividir, racionalizamos el resultado para obtener la forma estándar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v11",
+      "statement": "¿A qué es igual la suma de los cuadrados del seno y el coseno de un mismo ángulo ($\\sin^2 \\theta + \\cos^2 \\theta$)?",
+      "context": "Una identidad fundamental que relaciona seno y coseno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\tan^2 \\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La identidad para la tangente involucra la secante."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la Identidad Pitagórica fundamental de la trigonometría."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de cuadrados de valores reales no nulos no puede ser cero."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sin(2\\theta)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la fórmula del ángulo doble, no una identidad de suma de cuadrados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Identidad Pitagórica deriva directamente del Teorema de Pitágoras aplicado al círculo unitario ($x^2 + y^2 = r^2$, donde $r=1$, $x=\\cos \\theta$ y $y=\\sin \\theta$).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el valor simplificado de la expresión $\\tan \\theta \\cdot \\cos \\theta$?",
+      "context": "Un ejercicio de simplificación de expresiones trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\cos \\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tangente contiene al seno en el numerador."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sin \\theta$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\tan \\theta = \\sin \\theta / \\cos \\theta$. Al multiplicar por $\\cos \\theta$, los cosenos se cancelan."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sucedería si se multiplicaran funciones recíprocas como $\\sin \\cdot \\csc$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\cot \\theta$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cotangente es la inversa de la tangente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Expresar todas las funciones en términos de seno y coseno es la estrategia estándar para simplificar productos trigonométricos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es el valor de $\\sin(150^\\circ)$?",
+      "context": "El uso de ángulos de referencia en el círculo unitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-1/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el segundo cuadrante, el seno es positivo."
+        },
+        {
+          "letter": "B",
+          "text": "1/2",
+          "is_correct": true,
+          "feedback": "Correcto. El ángulo de referencia es $180^\\circ - 150^\\circ = 30^\\circ$. $\\sin(150^\\circ) = \\sin(30^\\circ) = 1/2$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{3}/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor de $\\cos(150^\\circ)$ en valor absoluto."
+        },
+        {
+          "letter": "D",
+          "text": "$-\\sqrt{3}/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor de $\\cos(150^\\circ)$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para ángulos mayores de 90°, usamos el ángulo de referencia y el signo correspondiente al cuadrante. El seno es positivo en los cuadrantes I y II.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v14",
+      "statement": "¿En qué cuadrante tanto el seno como el coseno son negativos?",
+      "context": "Determinación del signo de las razones según el cuadrante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Segundo cuadrante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aquí el seno es positivo."
+        },
+        {
+          "letter": "B",
+          "text": "Tercer cuadrante",
+          "is_correct": true,
+          "feedback": "Correcto. En el cuadrante III, tanto las coordenadas x como y son negativas."
+        },
+        {
+          "letter": "C",
+          "text": "Cuarto cuadrante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aquí el coseno es positivo."
+        },
+        {
+          "letter": "D",
+          "text": "En ningún cuadrante ocurre eso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El círculo unitario define claramente las regiones de signos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los signos de las razones trigonométricas dependen de los signos de las coordenadas $(x, y)$ en el plano cartesiano. En el cuadrante III, $(- , -)$, por lo que $\\sin$ y $\\cos$ son negativos, pero $\\tan$ es positiva.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v15",
+      "statement": "Si $\\sin \\theta = 3/5$ y el ángulo $\\theta$ está en el segundo cuadrante, ¿cuál es el valor de $\\cos \\theta$?",
+      "context": "Un cálculo de un valor trigonométrico dado otro en un cuadrante específico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4/5",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el segundo cuadrante el coseno debe ser negativo."
+        },
+        {
+          "letter": "B",
+          "text": "-4/5",
+          "is_correct": true,
+          "feedback": "Correcto. $\\cos^2 \\theta = 1 - (3/5)^2 = 1 - 9/25 = 16/25$. Como está en el II cuadrante, $\\cos \\theta = -\\sqrt{16/25} = -4/5$."
+        },
+        {
+          "letter": "C",
+          "text": "-3/5",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor absoluto del coseno no es igual al del seno en este triángulo."
+        },
+        {
+          "letter": "D",
+          "text": "4/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor es mayor que 1, imposible para un coseno real."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la identidad pitagórica y seleccionamos el signo adecuado según la ubicación del ángulo en el plano.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v16",
+      "statement": "¿A cuántos grados equivalen $\\pi/4$ radianes?",
+      "context": "Conversión de unidades angulares para cálculos astronómicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30°",
+          "is_correct": false,
+          "feedback": "Incorrecto. 30° equivale a $\\pi/6$."
+        },
+        {
+          "letter": "B",
+          "text": "45°",
+          "is_correct": true,
+          "feedback": "Correcto. Como $\\pi = 180^\\circ$, entonces $180/4 = 45^\\circ$."
+        },
+        {
+          "letter": "C",
+          "text": "60°",
+          "is_correct": false,
+          "feedback": "Incorrecto. 60° equivale a $\\pi/3$."
+        },
+        {
+          "letter": "D",
+          "text": "90°",
+          "is_correct": false,
+          "feedback": "Incorrecto. 90° equivale a $\\pi/2$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La relación fundamental de conversión es $180^\\circ = \\pi$ radianes. Dividir el círculo en octavos ($\\pi/4$) resulta en sectores de 45 grados.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v17",
+      "statement": "Desde la cima de un faro de 40 metros de altura, el ángulo de depresión hacia un barco en el mar es de 30°. ¿A qué distancia horizontal se encuentra el barco de la base del faro?",
+      "context": "Cálculo de la distancia entre dos puntos inaccesibles usando trigonometría.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sería si el ángulo fuera de 45°."
+        },
+        {
+          "letter": "B",
+          "text": "80 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la distancia en línea recta visual (hipotenusa)."
+        },
+        {
+          "letter": "C",
+          "text": "$40\\sqrt{3}$ metros",
+          "is_correct": true,
+          "feedback": "Correcto. $\\tan(30^\\circ) = 40 / d \\Rightarrow \\sqrt{3}/3 = 40 / d \\Rightarrow d = 120 / \\sqrt{3} = 40\\sqrt{3}$ ($\\approx 69.3$ m)."
+        },
+        {
+          "letter": "D",
+          "text": "20 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al invertir la razón de la tangente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El ángulo de depresión es igual al ángulo de elevación desde el barco. Aplicamos la tangente del ángulo de 30° para hallar la distancia horizontal.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es el área de un triángulo equilátero cuyos lados miden 10 cm? (Usa $\\sin(60^\\circ) = \\sqrt{3}/2$).",
+      "context": "Un problema de áreas que involucra razones trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó multiplicar por el seno del ángulo."
+        },
+        {
+          "letter": "B",
+          "text": "$25\\sqrt{3}$ cm²",
+          "is_correct": true,
+          "feedback": "Correcto. Área = $(1/2) \\cdot a \\cdot b \\cdot \\sin C = (1/2) \\cdot 10 \\cdot 10 \\cdot \\sin(60^\\circ) = 50 \\cdot \\sqrt{3}/2 = 25\\sqrt{3}$."
+        },
+        {
+          "letter": "C",
+          "text": "$100\\sqrt{3}$ cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó el factor de un medio en la fórmula del área."
+        },
+        {
+          "letter": "D",
+          "text": "25 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor muy bajo que ignora la altura del triángulo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El área de cualquier triángulo puede hallarse conociendo dos lados y el ángulo entre ellos. Para un triángulo equilátero, todos los ángulos son de 60°.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v19",
+      "statement": "¿A qué es igual el valor de $\\cos(-60^\\circ)$?",
+      "context": "Un reto sobre funciones trigonométricas de ángulos negativos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/2",
+          "is_correct": true,
+          "feedback": "Correcto. El coseno es una función par, por lo que $\\cos(-\\theta) = \\cos \\theta$. $\\cos(60^\\circ) = 1/2$."
+        },
+        {
+          "letter": "B",
+          "text": "$-1/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coseno es positivo en el cuarto cuadrante (donde está -60°)."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{3}/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor del seno de 60°."
+        },
+        {
+          "letter": "D",
+          "text": "$-\\sqrt{3}/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor inconsistente con la paridad de la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La paridad de las funciones trigonométricas es una propiedad clave. El coseno y la secante son pares (simétricos al eje $y$), mientras que las demás son impares.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle-v20",
+      "statement": "Si $\\tan \\theta = 2$, ¿cuál es el valor de $\\sec^2 \\theta$?",
+      "context": "Determinación de un valor complejo a partir de identidades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar la identidad pitagórica."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. Usando la identidad $1 + \\tan^2 \\theta = \\sec^2 \\theta$. Entonces $1 + (2)^2 = 1 + 4 = 5$."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó sumar el 1 de la identidad."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se extrajo raíz cuadrada innecesariamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Existen tres identidades pitagóricas principales. La que relaciona la tangente con la secante permite hallar valores rápidamente sin necesidad de calcular el ángulo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "NI-MAT-11-2026-W06-trigonometria-razones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    }
+  ]
+}

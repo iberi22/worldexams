@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ingles",
+    "country": "cl",
+    "pack_id": "cl-week-8-grade-11-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.094Z"
+  },
+  "questions": [
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v1",
+      "statement": "An itinerary is a detailed plan or route of a journey.",
+      "context": "Planning a trip.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "accommodation",
+          "is_correct": false,
+          "feedback": "Incorrect. Accommodation refers to where you stay."
+        },
+        {
+          "letter": "B",
+          "text": "itinerary",
+          "is_correct": true,
+          "feedback": "Correct. An itinerary outlines the schedule and locations of a trip."
+        },
+        {
+          "letter": "C",
+          "text": "souvenir",
+          "is_correct": false,
+          "feedback": "Incorrect. A souvenir is a memento."
+        },
+        {
+          "letter": "D",
+          "text": "customs",
+          "is_correct": false,
+          "feedback": "Incorrect. Customs refers to border control."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Itinerary' is the standard travel term for a planned route or schedule.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v2",
+      "statement": "The landscape was so breathtaking that I couldn't stop taking pictures.",
+      "context": "Describing a beautiful destination.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "breathless",
+          "is_correct": false,
+          "feedback": "Incorrect. Breathless means unable to breathe easily."
+        },
+        {
+          "letter": "B",
+          "text": "breathtaking",
+          "is_correct": true,
+          "feedback": "Correct. Breathtaking means astonishing or magnificent."
+        },
+        {
+          "letter": "C",
+          "text": "breathed",
+          "is_correct": false,
+          "feedback": "Incorrect. Past tense of breathe."
+        },
+        {
+          "letter": "D",
+          "text": "breathing",
+          "is_correct": false,
+          "feedback": "Incorrect. The act of inhaling/exhaling."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Breathtaking' is a common adjective used to describe impressive scenery.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v3",
+      "statement": "Never before had I seen such a stunning sunset as the one in the Atacama Desert.",
+      "context": "Using advanced emphasis (Inversion).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I had seen",
+          "is_correct": false,
+          "feedback": "Incorrect. After 'Never before', we use inversion (had I seen)."
+        },
+        {
+          "letter": "B",
+          "text": "had I seen",
+          "is_correct": true,
+          "feedback": "Correct. Negative adverbials at the start of a sentence trigger inversion."
+        },
+        {
+          "letter": "C",
+          "text": "I saw",
+          "is_correct": false,
+          "feedback": "Incorrect. Doesn't follow the inversion rule."
+        },
+        {
+          "letter": "D",
+          "text": "did I see",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple inversion is less common with 'before'."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Negative adverbials like 'Never' or 'Seldom' require inversion (verb before subject) when placed at the beginning of a sentence.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v4",
+      "statement": "Ecotourism aims to minimize the impact of visitors on the environment and support local communities.",
+      "context": "Article about sustainable travel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ecotourism",
+          "is_correct": true,
+          "feedback": "Correct. Ecotourism focuses on ecological preservation."
+        },
+        {
+          "letter": "B",
+          "text": "Mass tourism",
+          "is_correct": false,
+          "feedback": "Incorrect. Mass tourism often has a high environmental impact."
+        },
+        {
+          "letter": "C",
+          "text": "Business travel",
+          "is_correct": false,
+          "feedback": "Incorrect. Focuses on work, not environment."
+        },
+        {
+          "letter": "D",
+          "text": "Luxury travel",
+          "is_correct": false,
+          "feedback": "Incorrect. Focuses on comfort and high cost."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Ecotourism' is the specific term for travel that prioritizes environmental and cultural conservation.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v5",
+      "statement": "Travelers often seek \"off-the-beaten-path\" destinations to avoid crowded tourist areas and find genuine local culture.",
+      "context": "Discussion on the \"authentic\" travel experience.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "mainstream",
+          "is_correct": false,
+          "feedback": "Incorrect. Mainstream refers to popular, common choices."
+        },
+        {
+          "letter": "B",
+          "text": "off-the-beaten-path",
+          "is_correct": true,
+          "feedback": "Correct. This idiom refers to places that are not frequently visited."
+        },
+        {
+          "letter": "C",
+          "text": "metropolitan",
+          "is_correct": false,
+          "feedback": "Incorrect. Metropolitan refers to large cities."
+        },
+        {
+          "letter": "D",
+          "text": "commercialized",
+          "is_correct": false,
+          "feedback": "Incorrect. Commercialized places are often the most crowded."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Off-the-beaten-path' is an idiomatic expression for remote or less popular locations.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v6",
+      "statement": "You must check in your luggage at least two hours before your flight departs.",
+      "context": "Airport procedures.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "check out",
+          "is_correct": false,
+          "feedback": "Incorrect. Check out is for leaving a hotel."
+        },
+        {
+          "letter": "B",
+          "text": "check in",
+          "is_correct": true,
+          "feedback": "Correct. To register and hand over luggage at an airport."
+        },
+        {
+          "letter": "C",
+          "text": "check up",
+          "is_correct": false,
+          "feedback": "Incorrect. A medical examination."
+        },
+        {
+          "letter": "D",
+          "text": "check through",
+          "is_correct": false,
+          "feedback": "Incorrect. Less common in this specific context."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Check in' is the standard phrasal verb for registering for a flight or hotel.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v7",
+      "statement": "If I had brought my camera, I would have taken a picture of the penguin colony.",
+      "context": "Talking about a missed opportunity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "brought",
+          "is_correct": false,
+          "feedback": "Incorrect. Second conditional."
+        },
+        {
+          "letter": "B",
+          "text": "had brought",
+          "is_correct": true,
+          "feedback": "Correct. Third conditional for hypothetical past."
+        },
+        {
+          "letter": "C",
+          "text": "bring",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "D",
+          "text": "would bring",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' not used in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The third conditional (if + past perfect) is used for hypothetical situations in the past.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v8",
+      "statement": "The hotel offers a wide range of amenities, such as a swimming pool, a gym, and free Wi-Fi.",
+      "context": "Describing a hotel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "necessities",
+          "is_correct": false,
+          "feedback": "Incorrect. Amenities are extra comforts, not just basics."
+        },
+        {
+          "letter": "B",
+          "text": "amenities",
+          "is_correct": true,
+          "feedback": "Correct. Amenities are useful or desirable features of a place."
+        },
+        {
+          "letter": "C",
+          "text": "obstacles",
+          "is_correct": false,
+          "feedback": "Incorrect. Obstacles are things that block your way."
+        },
+        {
+          "letter": "D",
+          "text": "chores",
+          "is_correct": false,
+          "feedback": "Incorrect. Chores are routine tasks."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Amenities' is the professional term for features that increase the comfort of a hotel or apartment.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v9",
+      "statement": "More and more people are choosing to travel solo to gain independence and self-confidence.",
+      "context": "Describing an ongoing travel trend.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "lonely",
+          "is_correct": false,
+          "feedback": "Incorrect. Lonely is a feeling."
+        },
+        {
+          "letter": "B",
+          "text": "solo",
+          "is_correct": true,
+          "feedback": "Correct. Solo means alone or unaccompanied."
+        },
+        {
+          "letter": "C",
+          "text": "unique",
+          "is_correct": false,
+          "feedback": "Incorrect. Unique means one of a kind."
+        },
+        {
+          "letter": "D",
+          "text": "isolated",
+          "is_correct": false,
+          "feedback": "Incorrect. Isolated implies being cut off, often negatively."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Solo travel' is the accepted term for traveling alone.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v10",
+      "statement": "The text suggests that overtourism can erode the very qualities that made a destination attractive in the first place.",
+      "context": "Critique of \"overtourism\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "enhance",
+          "is_correct": false,
+          "feedback": "Incorrect. Overtourism usually damages qualities."
+        },
+        {
+          "letter": "B",
+          "text": "erode",
+          "is_correct": true,
+          "feedback": "Correct. Erode means to gradually wear away or destroy."
+        },
+        {
+          "letter": "C",
+          "text": "preserve",
+          "is_correct": false,
+          "feedback": "Incorrect. Preservation is the opposite of erosion."
+        },
+        {
+          "letter": "D",
+          "text": "simplify",
+          "is_correct": false,
+          "feedback": "Incorrect. It makes management more complex."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Erode' metaphorically describes the gradual destruction of a location's appeal due to too many visitors.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v11",
+      "statement": "A hostel is an inexpensive lodging place for travelers, often with dormitory-style rooms.",
+      "context": "Lodging types.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "resort",
+          "is_correct": false,
+          "feedback": "Incorrect. A resort is usually expensive and luxury."
+        },
+        {
+          "letter": "B",
+          "text": "hostel",
+          "is_correct": true,
+          "feedback": "Correct. Hostels are budget-friendly and often communal."
+        },
+        {
+          "letter": "C",
+          "text": "villa",
+          "is_correct": false,
+          "feedback": "Incorrect. A villa is a large, private house."
+        },
+        {
+          "letter": "D",
+          "text": "penthouse",
+          "is_correct": false,
+          "feedback": "Incorrect. A penthouse is a luxury apartment."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Hostel' is the specific term for budget, communal traveler accommodation.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v12",
+      "statement": "Passengers whose flights are cancelled are entitled to a full refund or rebooking.",
+      "context": "Passenger rights.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Who' refers to the subject, but we need possession (their flights)."
+        },
+        {
+          "letter": "B",
+          "text": "whose",
+          "is_correct": true,
+          "feedback": "Correct. 'Whose' is the possessive relative pronoun."
+        },
+        {
+          "letter": "C",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "Incorrect. Refers to things."
+        },
+        {
+          "letter": "D",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "Incorrect. Relative pronoun, but doesn't show possession."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Whose' is used to show that the flights belong to the passengers.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v13",
+      "statement": "The mountain village was so secluded that it felt like a different world.",
+      "context": "Describing a remote place.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "secluded",
+          "is_correct": true,
+          "feedback": "Correct. Secluded means hidden from view or not frequented by many people."
+        },
+        {
+          "letter": "B",
+          "text": "public",
+          "is_correct": false,
+          "feedback": "Incorrect. Public means open to everyone."
+        },
+        {
+          "letter": "C",
+          "text": "urban",
+          "is_correct": false,
+          "feedback": "Incorrect. Urban refers to cities."
+        },
+        {
+          "letter": "D",
+          "text": "accessible",
+          "is_correct": false,
+          "feedback": "Incorrect. Accessible means easy to reach."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Secluded' is the perfect adjective for a place that is quiet, private, and far from others.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v14",
+      "statement": "You should always take out travel insurance in case of medical emergencies or lost luggage.",
+      "context": "Advice on travel insurance.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "get on",
+          "is_correct": false,
+          "feedback": "Incorrect. To board a vehicle."
+        },
+        {
+          "letter": "B",
+          "text": "take out",
+          "is_correct": true,
+          "feedback": "Correct. To 'take out' insurance means to obtain it."
+        },
+        {
+          "letter": "C",
+          "text": "set off",
+          "is_correct": false,
+          "feedback": "Incorrect. To begin a journey."
+        },
+        {
+          "letter": "D",
+          "text": "put up",
+          "is_correct": false,
+          "feedback": "Incorrect. To stay somewhere."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Take out' is the standard phrasal verb for obtaining an insurance policy.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v15",
+      "statement": "While tourism can bring economic benefits, it can also lead to the commodification of local traditions.",
+      "context": "Impact of tourism on culture.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "preservation",
+          "is_correct": false,
+          "feedback": "Incorrect. Preservation keeps things as they are."
+        },
+        {
+          "letter": "B",
+          "text": "commodification",
+          "is_correct": true,
+          "feedback": "Correct. Making something into an object for trade or profit."
+        },
+        {
+          "letter": "C",
+          "text": "appreciation",
+          "is_correct": false,
+          "feedback": "Incorrect. Appreciation is positive."
+        },
+        {
+          "letter": "D",
+          "text": "elimination",
+          "is_correct": false,
+          "feedback": "Incorrect. The traditions usually remain but change their meaning for profit."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Commodification' refers to turning cultural elements into products for sale, often losing their original meaning.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v11",
+      "statement": "We spent the whole afternoon sightseeing around the historic center of the city.",
+      "context": "Exploring a new city.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "commuting",
+          "is_correct": false,
+          "feedback": "Incorrect. Commuting is traveling to work."
+        },
+        {
+          "letter": "B",
+          "text": "sightseeing",
+          "is_correct": true,
+          "feedback": "Correct. Visiting interesting places."
+        },
+        {
+          "letter": "C",
+          "text": "migrating",
+          "is_correct": false,
+          "feedback": "Incorrect. Moving to a new place to live."
+        },
+        {
+          "letter": "D",
+          "text": "navigating",
+          "is_correct": false,
+          "feedback": "Incorrect. Finding the way."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Sightseeing' is the standard term for visiting tourist attractions.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v17",
+      "statement": "By the time we reached the summit, it had been snowing for three hours.",
+      "context": "Describing a past trip.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was snowing",
+          "is_correct": false,
+          "feedback": "Incorrect. Past continuous."
+        },
+        {
+          "letter": "B",
+          "text": "had been snowing",
+          "is_correct": true,
+          "feedback": "Correct. Past perfect continuous for a duration before a past point."
+        },
+        {
+          "letter": "C",
+          "text": "has been snowing",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect continuous."
+        },
+        {
+          "letter": "D",
+          "text": "snowed",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The past perfect continuous describes an action that was ongoing up to a certain point in the past.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v18",
+      "statement": "Our guide was incredibly knowledgeable and shared many fascinating stories about the ruins.",
+      "context": "Describing a local guide.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ignorant",
+          "is_correct": false,
+          "feedback": "Incorrect. Ignorant means not knowing."
+        },
+        {
+          "letter": "B",
+          "text": "knowledgeable",
+          "is_correct": true,
+          "feedback": "Correct. Knowledgeable means intelligent and well-informed."
+        },
+        {
+          "letter": "C",
+          "text": "suspicious",
+          "is_correct": false,
+          "feedback": "Incorrect. Suspicious means showing distrust."
+        },
+        {
+          "letter": "D",
+          "text": "terminal",
+          "is_correct": false,
+          "feedback": "Incorrect. Terminal refers to an end point."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Knowledgeable' is a positive adjective for someone who has a lot of information.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v19",
+      "statement": "The travel agent recommended that we book our flights well in advance.",
+      "context": "Reporting travel advice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "booked",
+          "is_correct": false,
+          "feedback": "Incorrect. Doesn't fit the 'that' clause."
+        },
+        {
+          "letter": "B",
+          "text": "book",
+          "is_correct": true,
+          "feedback": "Correct. Subjunctive form after 'recommended'."
+        },
+        {
+          "letter": "C",
+          "text": "to book",
+          "is_correct": false,
+          "feedback": "Incorrect. Infinitive doesn't fit the 'that' clause."
+        },
+        {
+          "letter": "D",
+          "text": "booking",
+          "is_correct": false,
+          "feedback": "Incorrect. Gerund doesn't fit here."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Verbs of recommendation like 'recommend' take the subjunctive (base form) in a 'that' clause.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v20",
+      "statement": "Ultimately, travel should be a means of broadening one's horizons and fostering mutual understanding.",
+      "context": "Conclusion on the impact of travel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "broadening",
+          "is_correct": true,
+          "feedback": "Correct. To broaden one's horizons means to expand one's experience or knowledge."
+        },
+        {
+          "letter": "B",
+          "text": "narrowing",
+          "is_correct": false,
+          "feedback": "Incorrect. Narrowing means making smaller."
+        },
+        {
+          "letter": "C",
+          "text": "ignoring",
+          "is_correct": false,
+          "feedback": "Incorrect. Travel involves paying attention to new things."
+        },
+        {
+          "letter": "D",
+          "text": "restricting",
+          "is_correct": false,
+          "feedback": "Incorrect. Restricting means limiting."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Broadening one's horizons' is a common idiom for expanding one's worldview through travel or learning.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

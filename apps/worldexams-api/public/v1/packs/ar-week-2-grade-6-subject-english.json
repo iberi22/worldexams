@@ -1,0 +1,461 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ingles",
+    "country": "ar",
+    "pack_id": "ar-week-2-grade-6-subject-ingles",
+    "generated_at": "2026-06-22T23:30:13.784Z"
+  },
+  "questions": [
+    {
+      "id": "AR-ING-06-2026-W02-to-be-have-001",
+      "statement": "Complete the sentence: \"I ___ from Argentina.\"",
+      "context": "Expressing origin in a classroom introduction.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am",
+          "is_correct": true,
+          "feedback": "Correct. \"Am\" is the form of \"to be\" used with \"I\"."
+        },
+        {
+          "letter": "B",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Is\" is used with he, she, or it."
+        },
+        {
+          "letter": "C",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Are\" is used with you, we, or they."
+        },
+        {
+          "letter": "D",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Have\" expresses possession, not origin."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El verbo \"to be\" se utiliza para expresar origen. Con el pronombre \"I\", la forma correcta es \"am\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "AR-ING-06-2026-W02-to-be-have-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "ar"
+    },
+    {
+      "id": "AR-ING-06-2026-W02-to-be-have-002",
+      "statement": "What is the negative form of \"She is a teacher\"?",
+      "context": "Changing a sentence to negative form.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She not is a teacher.",
+          "is_correct": false,
+          "feedback": "Incorrect. The word \"not\" goes after the verb \"is\"."
+        },
+        {
+          "letter": "B",
+          "text": "She is not a teacher.",
+          "is_correct": true,
+          "feedback": "Correct. Adding \"not\" after \"is\" forms the negative."
+        },
+        {
+          "letter": "C",
+          "text": "She aren't a teacher.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Aren't\" is used with plural subjects."
+        },
+        {
+          "letter": "D",
+          "text": "She don't is a teacher.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Don't\" is not used with the verb \"to be\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para formar el negativo del verbo \"to be\", se añade \"not\" inmediatamente después del verbo (is not / isn't).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "AR-ING-06-2026-W02-to-be-have-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "ar"
+    },
+    {
+      "id": "AR-ING-06-2026-W02-to-be-have-003",
+      "statement": "Choose the correct option to describe Messi: \"He ___ a great football player.\"",
+      "context": "Describing a famous person from Argentina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Am\" is only for \"I\"."
+        },
+        {
+          "letter": "B",
+          "text": "is",
+          "is_correct": true,
+          "feedback": "Correct. \"Is\" is used for third-person singular (he)."
+        },
+        {
+          "letter": "C",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Are\" is plural."
+        },
+        {
+          "letter": "D",
+          "text": "has got",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Has got\" indicates possession."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se utiliza \"is\" para describir profesiones o características de una tercera persona del singular (he/she/it).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "AR-ING-06-2026-W02-to-be-have-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "ar"
+    },
+    {
+      "id": "AR-ING-06-2026-W02-to-be-have-004",
+      "statement": "Julieta says: \"I ___ a new blue backpack.\" (Choose the option for possession).",
+      "context": "Julieta is talking about her new school supplies.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Am\" means \"soy\" or \"estoy\"."
+        },
+        {
+          "letter": "B",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Is\" is not for \"I\"."
+        },
+        {
+          "letter": "C",
+          "text": "have got",
+          "is_correct": true,
+          "feedback": "Correct. \"Have got\" is used with \"I\" to show possession."
+        },
+        {
+          "letter": "D",
+          "text": "has got",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Has got\" is for he, she, or it."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para expresar posesión en inglés británico (común en el currículo argentino), se utiliza \"have got\" con el pronombre \"I\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "AR-ING-06-2026-W02-to-be-have-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "ar"
+    },
+    {
+      "id": "AR-ING-06-2026-W02-to-be-have-005",
+      "statement": "What is the contraction of \"They are\"?",
+      "context": "Using contractions in informal conversation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They's",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "They'm",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "They're",
+          "is_correct": true,
+          "feedback": "Correct. \"They're\" is the short form of \"They are\"."
+        },
+        {
+          "letter": "D",
+          "text": "They are not",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las contracciones son comunes en el habla cotidiana. \"They're\" une el sujeto \"they\" con el verbo \"are\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.75,
+      "bundle_id": "AR-ING-06-2026-W02-to-be-have-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "ar"
+    },
+    {
+      "id": "AR-ING-06-2026-W02-to-be-have-006",
+      "statement": "Choose the correct question: \"___ you got a pet?\"",
+      "context": "Asking a friend about their pets.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Has",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Has\" is for he/she/it."
+        },
+        {
+          "letter": "B",
+          "text": "Have",
+          "is_correct": true,
+          "feedback": "Correct. \"Have\" is used with \"you\" for questions with \"got\"."
+        },
+        {
+          "letter": "C",
+          "text": "Are",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Is",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hacer preguntas de posesión con \"got\", el verbo auxiliar \"have\" debe concordar con el sujeto \"you\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "AR-ING-06-2026-W02-to-be-have-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "ar"
+    },
+    {
+      "id": "AR-ING-06-2026-W02-to-be-have-007",
+      "statement": "In a family photo from Córdoba, Lucas says: \"My sister ___ long black hair.\"",
+      "context": "Describing physical traits in a family photo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. She is not the hair."
+        },
+        {
+          "letter": "B",
+          "text": "has got",
+          "is_correct": true,
+          "feedback": "Correct. Use \"has got\" for third-person singular possession."
+        },
+        {
+          "letter": "C",
+          "text": "have got",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Have got\" is for I/you/we/they."
+        },
+        {
+          "letter": "D",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para describir rasgos físicos (como el cabello) de una tercera persona, se utiliza \"has got\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "AR-ING-06-2026-W02-to-be-have-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "ar"
+    },
+    {
+      "id": "AR-ING-06-2026-W02-to-be-have-008",
+      "statement": "Read and choose the correct verbs: \"We ___ at the park. It ___ a sunny day.\"",
+      "context": "A day at the park in Mar del Plata.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are / is",
+          "is_correct": true,
+          "feedback": "Correct. \"We are\" and \"It is\" are the correct forms."
+        },
+        {
+          "letter": "B",
+          "text": "is / are",
+          "is_correct": false,
+          "feedback": "Incorrect. Reversed forms."
+        },
+        {
+          "letter": "C",
+          "text": "am / is",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Am\" is only for \"I\"."
+        },
+        {
+          "letter": "D",
+          "text": "are / are",
+          "is_correct": false,
+          "feedback": "Incorrect. \"It\" is singular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Esta pregunta requiere analizar la concordancia de número entre los sujetos (\"we\" plural, \"it\" singular) y el verbo \"to be\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "AR-ING-06-2026-W02-to-be-have-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "ar"
+    },
+    {
+      "id": "AR-ING-06-2026-W02-to-be-have-009",
+      "statement": "Which sentence is correct for asking someone's age in English?",
+      "context": "Social interaction and age.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "How many years have you got?",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a literal translation from Spanish."
+        },
+        {
+          "letter": "B",
+          "text": "How old have you?",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "How old are you?",
+          "is_correct": true,
+          "feedback": "Correct. The verb \"to be\" is used for age in English."
+        },
+        {
+          "letter": "D",
+          "text": "What age you are?",
+          "is_correct": false,
+          "feedback": "Incorrect word order."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En inglés, la edad no se \"tiene\" sino que se \"es\". Por eso se utiliza el verbo \"to be\" (How old are you? / I am 11).\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "AR-ING-06-2026-W02-to-be-have-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "ar"
+    },
+    {
+      "id": "AR-ING-06-2026-W02-to-be-have-010",
+      "statement": "Complete: \"Our school in Salta ___ a big playground.\"",
+      "context": "Describing a school in Salta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. The school is not the playground."
+        },
+        {
+          "letter": "B",
+          "text": "has got",
+          "is_correct": true,
+          "feedback": "Correct. The school (it) possesses a playground."
+        },
+        {
+          "letter": "C",
+          "text": "have got",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Have got\" is for plural subjects."
+        },
+        {
+          "letter": "D",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Our school\" es un sujeto singular (it), por lo tanto requiere \"has got\" para expresar posesión.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "AR-ING-06-2026-W02-to-be-have-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "ar"
+    }
+  ]
+}

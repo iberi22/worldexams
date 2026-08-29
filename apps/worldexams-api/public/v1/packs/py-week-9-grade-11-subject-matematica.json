@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "py",
+    "pack_id": "py-week-9-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:41:05.774Z"
+  },
+  "questions": [
+    {
+      "id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v1",
+      "statement": "¿Cuál es la expresión algebraica estándar que define a una función afín con pendiente $m$ e intersección con el eje y dada por $n$?",
+      "context": "En Asunción, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = mx + n$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Esta expresión representa la ecuación explícita de la recta."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = mx^2 + n$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta ecuación es cuadrática, no afín lineal."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = m(x - n)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un modelo polinomial cuadrático trasladado."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = \\frac{m}{x} + n$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una función racional, no afín."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una función afín se expresa como $f(x) = mx + n$, donde $m$ representa la pendiente de la recta y $n$ la ordenada en el origen.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v2",
+      "statement": "¿Cuál es la fórmula para calcular la pendiente $m$ de una recta que pasa por dos puntos dados $P_1(x_1, y_1)$ y $P_2(x_2, y_2)$?",
+      "context": "En San Lorenzo, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m = \\frac{y_2 - y_1}{x_2 - x_1}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pendiente es la razón de cambio entre la ordenada y la abscisa de ambos puntos."
+        },
+        {
+          "letter": "B",
+          "text": "$m = \\frac{x_2 - x_1}{y_2 - y_1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colocó el cambio de la abscisa en el numerador de la razón de cambio."
+        },
+        {
+          "letter": "C",
+          "text": "$m = (y_2 - y_1)(x_2 - x_1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente se define como cociente, no como producto."
+        },
+        {
+          "letter": "D",
+          "text": "$m = y_2 - x_2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revise la definición clásica de la pendiente de una recta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente de una recta es la relación entre el cambio vertical y el cambio horizontal, definida por la razón $m = \\frac{y_2 - y_1}{x_2 - x_1}$ para $x_2 \\neq x_1$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v3",
+      "statement": "En Luque. un servicio de taxis cobra una tarifa fija de ₲ 13.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?",
+      "context": "En Luque, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = 3.000x + 13.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 13.000x + 3.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = 3.000(x + 13.000)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = 16.000x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El costo de un viaje consta de una parte fija (₲ 13000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 13000$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.77,
+      "bundle_id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v4",
+      "statement": "En Encarnación. un servicio de taxis cobra una tarifa fija de ₲ 14.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?",
+      "context": "En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = 3.000x + 14.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 14.000x + 3.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = 3.000(x + 14.000)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = 17.000x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El costo de un viaje consta de una parte fija (₲ 14000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 14000$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v5",
+      "statement": "En Ciudad del Este. un servicio de taxis cobra una tarifa fija de ₲ 15.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?",
+      "context": "En Ciudad del Este, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = 3.000x + 15.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 15.000x + 3.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = 3.000(x + 15.000)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = 18.000x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El costo de un viaje consta de una parte fija (₲ 15000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 15000$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v6",
+      "statement": "En Caacupé. un servicio de taxis cobra una tarifa fija de ₲ 16.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?",
+      "context": "En Caacupé, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = 3.000x + 16.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 16.000x + 3.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = 3.000(x + 16.000)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = 19.000x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El costo de un viaje consta de una parte fija (₲ 16000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 16000$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v7",
+      "statement": "En Pilar. un servicio de taxis cobra una tarifa fija de ₲ 17.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?",
+      "context": "En Pilar, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = 3.000x + 17.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 17.000x + 3.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = 3.000(x + 17.000)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = 20.000x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El costo de un viaje consta de una parte fija (₲ 17000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 17000$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.67,
+      "bundle_id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v8",
+      "statement": "En Coronel Oviedo. un servicio de taxis cobra una tarifa fija de ₲ 18.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?",
+      "context": "En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = 3.000x + 18.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 18.000x + 3.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = 3.000(x + 18.000)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = 21.000x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El costo de un viaje consta de una parte fija (₲ 18000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 18000$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
+      "bundle_id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v9",
+      "statement": "En Concepción. un servicio de taxis cobra una tarifa fija de ₲ 19.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?",
+      "context": "En Concepción, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = 3.000x + 19.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 19.000x + 3.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = 3.000(x + 19.000)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = 22.000x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El costo de un viaje consta de una parte fija (₲ 19000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 19000$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.62,
+      "bundle_id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v10",
+      "statement": "En Villarrica. un servicio de taxis cobra una tarifa fija de ₲ 20.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?",
+      "context": "En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = 3.000x + 20.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 20.000x + 3.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = 3.000(x + 20.000)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = 23.000x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El costo de un viaje consta de una parte fija (₲ 20000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 20000$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.6,
+      "bundle_id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v11",
+      "statement": "En Asunción. un servicio de taxis cobra una tarifa fija de ₲ 21.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?",
+      "context": "En Asunción, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = 3.000x + 21.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 21.000x + 3.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = 3.000(x + 21.000)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = 24.000x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El costo de un viaje consta de una parte fija (₲ 21000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 21000$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.57,
+      "bundle_id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v12",
+      "statement": "En San Lorenzo. un servicio de taxis cobra una tarifa fija de ₲ 22.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?",
+      "context": "En San Lorenzo, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = 3.000x + 22.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 22.000x + 3.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = 3.000(x + 22.000)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = 25.000x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El costo de un viaje consta de una parte fija (₲ 22000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 22000$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.55,
+      "bundle_id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v13",
+      "statement": "En Luque. un servicio de taxis cobra una tarifa fija de ₲ 23.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?",
+      "context": "En Luque, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = 3.000x + 23.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 23.000x + 3.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = 3.000(x + 23.000)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = 26.000x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El costo de un viaje consta de una parte fija (₲ 23000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 23000$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.52,
+      "bundle_id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v14",
+      "statement": "En Encarnación. un servicio de taxis cobra una tarifa fija de ₲ 24.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?",
+      "context": "En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = 3.000x + 24.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 24.000x + 3.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = 3.000(x + 24.000)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = 27.000x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El costo de un viaje consta de una parte fija (₲ 24000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 24000$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.5,
+      "bundle_id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v15",
+      "statement": "En Ciudad del Este. un servicio de taxis cobra una tarifa fija de ₲ 25.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?",
+      "context": "En Ciudad del Este, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = 3.000x + 25.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 25.000x + 3.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = 3.000(x + 25.000)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = 28.000x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El costo de un viaje consta de una parte fija (₲ 25000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 25000$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.47,
+      "bundle_id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v16",
+      "statement": "En Caacupé. un servicio de taxis cobra una tarifa fija de ₲ 26.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?",
+      "context": "En Caacupé, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = 3.000x + 26.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 26.000x + 3.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = 3.000(x + 26.000)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = 29.000x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El costo de un viaje consta de una parte fija (₲ 26000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 26000$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v17",
+      "statement": "En Pilar. un servicio de taxis cobra una tarifa fija de ₲ 27.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?",
+      "context": "En Pilar, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = 3.000x + 27.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 27.000x + 3.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = 3.000(x + 27.000)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = 30.000x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El costo de un viaje consta de una parte fija (₲ 27000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 27000$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v18",
+      "statement": "En Coronel Oviedo. un servicio de taxis cobra una tarifa fija de ₲ 28.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?",
+      "context": "En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = 3.000x + 28.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 28.000x + 3.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = 3.000(x + 28.000)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = 31.000x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El costo de un viaje consta de una parte fija (₲ 28000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 28000$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.4,
+      "bundle_id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v19",
+      "statement": "En Concepción. un servicio de taxis cobra una tarifa fija de ₲ 29.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?",
+      "context": "En Concepción, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = 3.000x + 29.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 29.000x + 3.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = 3.000(x + 29.000)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = 32.000x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El costo de un viaje consta de una parte fija (₲ 29000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 29000$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.37,
+      "bundle_id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-v20",
+      "statement": "En Villarrica. un servicio de taxis cobra una tarifa fija de ₲ 30.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?",
+      "context": "En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = 3.000x + 30.000$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 30.000x + 3.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = 3.000(x + 30.000)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = 33.000x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El costo de un viaje consta de una parte fija (₲ 30000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 30000$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PY-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}

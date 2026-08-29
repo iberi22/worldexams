@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-16-grade-9-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.941Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle-v1",
+      "statement": "If I ________ the instructions more carefully, I wouldn't have made that mistake.",
+      "context": "Analyzing a past puzzle-solving experience.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "read",
+          "is_correct": false,
+          "feedback": "Incorrect. Past Simple is for Second Conditional."
+        },
+        {
+          "letter": "B",
+          "text": "had read",
+          "is_correct": true,
+          "feedback": "Correct! Third Conditional (If + Past Perfect) for regrets or hypotheses about the past."
+        },
+        {
+          "letter": "C",
+          "text": "have read",
+          "is_correct": false,
+          "feedback": "Incorrect. Present Perfect doesn't fit the \"if\" clause."
+        },
+        {
+          "letter": "D",
+          "text": "would have read",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Would\" never goes in the \"if\" clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos el Tercer Condicional para hablar de situaciones hipotéticas en el pasado. La estructura es *If + Past Perfect*.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle-v2",
+      "statement": "We would have won the competition if we ________ the final riddle on time.",
+      "context": "Describing the result of a past missed opportunity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "solved",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "had solved",
+          "is_correct": true,
+          "feedback": "Correct! Part of the Third Conditional structure."
+        },
+        {
+          "letter": "C",
+          "text": "would solve",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "have solved",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la cláusula de condición del Tercer Condicional, el tiempo gramatical requerido es el Pasado Perfecto.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle-v3",
+      "statement": "If I ________ that logic game last year, I ________ a better problem-solver today.",
+      "context": "Using Mixed Conditional (Past condition -> Present result).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "had played / would have been",
+          "is_correct": false,
+          "feedback": "Incorrect. This would be a past result."
+        },
+        {
+          "letter": "B",
+          "text": "had played / would be",
+          "is_correct": true,
+          "feedback": "Correct! Mixed Conditional: past action influencing present state."
+        },
+        {
+          "letter": "C",
+          "text": "played / would be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "would play / was",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un \"Mixed Conditional\" conecta un hecho del pasado con sus consecuencias en el presente.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle-v4",
+      "statement": "\"The detective missed the clue. If he ________ more observant, he ________ the thief yesterday.\"",
+      "context": "Analyzing a missed clue in a detective story.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was / would catch",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "had been / would have caught",
+          "is_correct": true,
+          "feedback": "Correct! Third Conditional: past hypothesis and past result."
+        },
+        {
+          "letter": "C",
+          "text": "were / would catch",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "is / catches",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para situaciones completamente en el pasado, usamos el Tercer Condicional.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle-v5",
+      "statement": "If Sofia ________ so smart, she ________ the puzzle so quickly yesterday.",
+      "context": "Mixed Conditional (Permanent state -> Past result).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "hadn't been / wouldn't have solved",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "weren't / wouldn't have solved",
+          "is_correct": true,
+          "feedback": "Correct! Mixed Conditional: present state affecting a past event."
+        },
+        {
+          "letter": "C",
+          "text": "wasn't / wouldn't solve",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "hasn't been / hasn't solved",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando la condición es un estado permanente, usamos el pasado simple en la cláusula del *if*.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle-v6",
+      "statement": "We ________ lost in the forest if we ________ to our guide's advice.",
+      "context": "Expressing regret about a group decision.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wouldn't get / listened",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "wouldn't have got / would have listened",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "wouldn't have got / had listened",
+          "is_correct": true,
+          "feedback": "Correct! Standard Third Conditional for past regret."
+        },
+        {
+          "letter": "D",
+          "text": "didn't get / had listened",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Esta estructura es común para expresar remordimiento sobre algo que pasó en el pasado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle-v7",
+      "statement": "Which sentence implies that the person **failed** the exam in the past?",
+      "context": "Distinguishing between Second and Third Conditional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "If I studied more, I would pass the exam.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "If I had studied more, I would have passed the exam.",
+          "is_correct": true,
+          "feedback": "Correct! Third conditional implies the opposite happened in the past."
+        },
+        {
+          "letter": "C",
+          "text": "If I study more, I will pass the exam.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "If I had studied more, I would pass the exam today.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Tercer Condicional se usa exclusivamente para situaciones que ya pasaron y no se pueden cambiar.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle-v8",
+      "statement": "\"If I weren't afraid of spiders, I would have picked it up.\"\nWhat is the current reality?",
+      "context": "Understanding the nuance of Mixed Conditionals.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The speaker picked up the spider.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "The speaker is afraid of spiders and didn't pick it up.",
+          "is_correct": true,
+          "feedback": "Correct! \"Weren't\" shows a present state."
+        },
+        {
+          "letter": "C",
+          "text": "The speaker was afraid but picked it up.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "The speaker is not afraid.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los condicionales mixtos requieren un análisis de la realidad del hablante.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle-v9",
+      "statement": "\"If you ________ the keys on the table, I ________ them.\"",
+      "context": "Past mutual blame.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "left / saw",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "had left / would have seen",
+          "is_correct": true,
+          "feedback": "Correct! Third conditional for past events."
+        },
+        {
+          "letter": "C",
+          "text": "leave / will see",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "would have left / had seen",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Tercer Condicional se usa frecuentemente para debatir responsabilidades pasadas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle-v10",
+      "statement": "Identify the error in this paragraph:\n\"If the team **would have prepared** (A) better, they **would have won** (B) the match. If they **were** (C) more professional, they **would be** (D) at the top now.\"",
+      "context": "Finding an error in a logic argument.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "would have prepared",
+          "is_correct": true,
+          "feedback": "Correct! In the \"if\" clause, we must use Past Perfect (had prepared)."
+        },
+        {
+          "letter": "B",
+          "text": "would have won",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct result clause."
+        },
+        {
+          "letter": "C",
+          "text": "were",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct state."
+        },
+        {
+          "letter": "D",
+          "text": "would be",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct present result."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Nunca se coloca *would have* en la cláusula que contiene el *if*.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle-v11",
+      "statement": "Which sentence best analyzes a historical mistake and its current consequence?",
+      "context": "Choosing the best analytical statement.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "If they didn't invest, they wouldn't be rich now.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "If the company hadn't invested in that tech, they wouldn't be market leaders today.",
+          "is_correct": true,
+          "feedback": "Correct! Perfect Mixed Conditional analysis."
+        },
+        {
+          "letter": "C",
+          "text": "If they don't invest, they won't be rich.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "If they hadn't invested, they wouldn't have been rich.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso del Condicional Mixto es la herramienta lingüística más precisa para este análisis.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle-v12",
+      "statement": "\"If I ________ to study philosophy, I ________ all these puzzles so interesting now.\"",
+      "context": "Completing a philosophical reflection.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "didn't choose / wouldn't find",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "hadn't chosen / wouldn't find",
+          "is_correct": true,
+          "feedback": "Correct! Mixed Conditional: past choice affecting present interest."
+        },
+        {
+          "letter": "C",
+          "text": "wouldn't choose / won't find",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "hadn't chosen / wouldn't have found",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este ejercicio evalúa la capacidad de integrar la estructura de los condicionales mixtos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-9-2026-W16-logic-and-puzzles-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

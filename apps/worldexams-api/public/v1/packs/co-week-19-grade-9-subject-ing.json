@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-19-grade-9-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.943Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-9-2026-W19-ethics-and-values-001-MASTERY-bundle-v1",
+      "statement": "I ________ I ________ more time to volunteer for this social project, but I am very busy.",
+      "context": "Expressing a desire to change a current situation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wish / have",
+          "is_correct": false,
+          "feedback": "Incorrect. We need past simple for present wishes."
+        },
+        {
+          "letter": "B",
+          "text": "wish / had",
+          "is_correct": true,
+          "feedback": "Correct! \"Wish + Past Simple\" expresses a desire for a different present reality."
+        },
+        {
+          "letter": "C",
+          "text": "wish / would have",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Would\" is for habits or future changes."
+        },
+        {
+          "letter": "D",
+          "text": "hope / had",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Hope\" is for possible future events."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Utilizamos *wish* seguido del pasado simple para expresar que nos gustaría que la realidad presente fuera diferente a como es.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W19-ethics-and-values-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W19-ethics-and-values-001-MASTERY-bundle-v2",
+      "statement": "If only I ________ that lie. Now my friend doesn't trust me anymore.",
+      "context": "Expressing regret about a past action.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "didn't tell",
+          "is_correct": false,
+          "feedback": "Incorrect. This would refer to the present."
+        },
+        {
+          "letter": "B",
+          "text": "hadn't told",
+          "is_correct": true,
+          "feedback": "Correct! \"If only + Past Perfect\" expresses regret about the past."
+        },
+        {
+          "letter": "C",
+          "text": "wouldn't tell",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for future complaints."
+        },
+        {
+          "letter": "D",
+          "text": "haven't told",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "*If only* seguido del pasado perfecto (*hadn't told*) se utiliza para expresar un arrepentimiento profundo sobre algo que sucedió en el pasado y que no podemos cambiar.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W19-ethics-and-values-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W19-ethics-and-values-001-MASTERY-bundle-v3",
+      "statement": "I wish people ________ their trash on the street. It's very disrespectful.",
+      "context": "Complaining about a repetitive behavior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "didn't leave",
+          "is_correct": false,
+          "feedback": "Incorrect. This describes a state."
+        },
+        {
+          "letter": "B",
+          "text": "wouldn't leave",
+          "is_correct": true,
+          "feedback": "Correct! \"Wish + would\" is used to complain about annoying habits or to request a change."
+        },
+        {
+          "letter": "C",
+          "text": "hadn't left",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for a past regret."
+        },
+        {
+          "letter": "D",
+          "text": "won't leave",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando queremos expresar molestia o queja sobre un comportamiento repetitivo de otras personas, utilizamos *wish + would* seguido del infinitivo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W19-ethics-and-values-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W19-ethics-and-values-001-MASTERY-bundle-v4",
+      "statement": "\"I can't help the refugees because I don't speak their language.\"\n\"If only you ________ at least a bit of it!\"",
+      "context": "Wishing for an impossible current state.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "speak",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "spoke",
+          "is_correct": true,
+          "feedback": "Correct! \"If only + Past Simple\" for a present desire."
+        },
+        {
+          "letter": "C",
+          "text": "would speak",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "had spoken",
+          "is_correct": false,
+          "feedback": "Incorrect. This would refer to the past."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "*If only* funciona de manera similar a *I wish*, pero a menudo tiene un matiz de mayor intensidad o deseo. Con el pasado simple, se refiere a una situación actual.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W19-ethics-and-values-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W19-ethics-and-values-001-MASTERY-bundle-v5",
+      "statement": "I wish I ________ in a world where everyone had equal opportunities.",
+      "context": "Wishing to be in a different place (formal).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was",
+          "is_correct": false,
+          "feedback": "Incorrect. (In B2 level, \"were\" is preferred for all persons)."
+        },
+        {
+          "letter": "B",
+          "text": "were",
+          "is_correct": true,
+          "feedback": "Correct! Using \"were\" after \"wish\" for all persons is formal and grammatically standard in B2."
+        },
+        {
+          "letter": "C",
+          "text": "am",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "would be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al igual que en el segundo condicional, después de *wish* se prefiere el uso de *were* para todas las personas gramaticales en contextos formales.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W19-ethics-and-values-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W19-ethics-and-values-001-MASTERY-bundle-v6",
+      "statement": "The leaders ________ they ________ more to prevent the crisis when it first started.",
+      "context": "Regretting a lack of action during a historical event.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wish / did",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to the present."
+        },
+        {
+          "letter": "B",
+          "text": "hope / had done",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Hope\" is for the future."
+        },
+        {
+          "letter": "C",
+          "text": "wish / had done",
+          "is_correct": true,
+          "feedback": "Correct! Past Perfect for a past regret."
+        },
+        {
+          "letter": "D",
+          "text": "wish / would do",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para expresar que alguien se arrepiente de una decisión o falta de acción en el pasado, usamos la estructura *wish + past perfect*.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W19-ethics-and-values-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W19-ethics-and-values-001-MASTERY-bundle-v7",
+      "statement": "Which sentence expresses an **annoyance** about someone else's behavior?",
+      "context": "Distinguishing between types of wishes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I wish I had a car to go to work.",
+          "is_correct": false,
+          "feedback": "Incorrect. Personal desire for a different state."
+        },
+        {
+          "letter": "B",
+          "text": "I wish I had studied harder for the ethics test.",
+          "is_correct": false,
+          "feedback": "Incorrect. Personal regret about the past."
+        },
+        {
+          "letter": "C",
+          "text": "I wish you would stop talking during the presentation.",
+          "is_correct": true,
+          "feedback": "Correct! \"Wish + would\" expresses a complaint or desire for someone else to change their behavior."
+        },
+        {
+          "letter": "D",
+          "text": "If only I were taller.",
+          "is_correct": false,
+          "feedback": "Incorrect. Personal desire for a different state."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Es un matiz importante del nivel B2: *wish + would* solo se usa para quejas sobre otros o para cosas fuera de nuestro control, nunca para deseos sobre nosotros mismos (como *I wish I would be...*).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W19-ethics-and-values-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W19-ethics-and-values-001-MASTERY-bundle-v8",
+      "statement": "\"I ________ you ________ a great time at the charity gala next Saturday.\"",
+      "context": "Choosing between \"wish\" and \"hope\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wish / have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "wish / would have",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Wish\" is not for positive future desires that are possible."
+        },
+        {
+          "letter": "C",
+          "text": "hope / have",
+          "is_correct": true,
+          "feedback": "Correct! \"Hope\" is used for positive, possible future outcomes."
+        },
+        {
+          "letter": "D",
+          "text": "wish / had",
+          "is_correct": false,
+          "feedback": "Incorrect. This would mean you are not having a good time now."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Diferenciamos entre *wish* (deseos imposibles o improbables) y *hope* (deseos posibles para el futuro). Para desear algo bueno a alguien en el futuro, usamos *hope*.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W19-ethics-and-values-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W19-ethics-and-values-001-MASTERY-bundle-v9",
+      "statement": "If only the powerful nations ________ to collaborate more on climate change issues!",
+      "context": "Wishing for a change in a global situation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "agree",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "would agree",
+          "is_correct": true,
+          "feedback": "Correct! Expresses a desire for a change in behavior or situation that is currently frustrating."
+        },
+        {
+          "letter": "C",
+          "text": "had agreed",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to a specific past moment."
+        },
+        {
+          "letter": "D",
+          "text": "were agreeing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "*If only + would* es una forma común de expresar frustración ante la inacción de otros y desear fervientemente un cambio de actitud.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W19-ethics-and-values-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W19-ethics-and-values-001-MASTERY-bundle-v10",
+      "statement": "Identify the error in this paragraph:\n\"I often feel overwhelmed. **I wish I would be** (A) more patient. **If only I had known** (B) how difficult this project was before starting. I really **hope the situation improves** (C) soon. I **wish I had** (D) more support from my peers.\"",
+      "context": "Identifying an error in a philosophical reflection.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I wish I would be",
+          "is_correct": true,
+          "feedback": "Correct! You cannot use \"would\" for a wish about yourself. It should be \"I wish I were\" or \"I wish I was\"."
+        },
+        {
+          "letter": "B",
+          "text": "If only I had known",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use for past regret."
+        },
+        {
+          "letter": "C",
+          "text": "hope the situation improves",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use of \"hope\" for the future."
+        },
+        {
+          "letter": "D",
+          "text": "wish I had",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use for present desire."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una de las reglas de oro es que no se usa *wish + would* con el sujeto *I* o *we* cuando el deseo es sobre un estado propio. En esos casos usamos el pasado simple.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-9-2026-W19-ethics-and-values-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W19-ethics-and-values-001-MASTERY-bundle-v11",
+      "statement": "A person cheated on an exam and now feels terrible. Which sentence best expresses their state of mind?",
+      "context": "Choosing the best way to express regret.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I wish I didn't cheat.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Cheat\" is a past action."
+        },
+        {
+          "letter": "B",
+          "text": "I wish I wouldn't cheat.",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to future behavior."
+        },
+        {
+          "letter": "C",
+          "text": "I wish I hadn't cheated; it goes against my values.",
+          "is_correct": true,
+          "feedback": "Correct! Past perfect for a completed past regret."
+        },
+        {
+          "letter": "D",
+          "text": "I hope I didn't cheat.",
+          "is_correct": false,
+          "feedback": "Incorrect. You know you did."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El arrepentimiento por una acción moral específica del pasado se comunica de manera más efectiva y gramaticalmente correcta con *wish + past perfect*.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-9-2026-W19-ethics-and-values-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W19-ethics-and-values-001-MASTERY-bundle-v12",
+      "statement": "Choose the best completion for this speech:\n\"The world is full of inequality. I ________ that things were different. If only people ________ each other more, we ________ so many problems today.\"",
+      "context": "Completing a dialogue about social justice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "hope / loved / wouldn't have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "wish / loved / wouldn't have",
+          "is_correct": true,
+          "feedback": "Correct! Correct use of wish, past for present desire, and conditional result."
+        },
+        {
+          "letter": "C",
+          "text": "wish / would love / didn't have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "hope / would love / wouldn't have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este ejercicio final evalúa la integración de *wish* para estados presentes (*wish things were*) y el uso de condicionales para proyectar los resultados de esos deseos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-9-2026-W19-ethics-and-values-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "es",
+    "pack_id": "es-week-19-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:39.435Z"
+  },
+  "questions": [
+    {
+      "id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v1",
+      "statement": "¿Cuáles son las tres curvas principales que se obtienen al cortar un cono con un plano (sin que este pase por el vértice)?",
+      "context": "Un estudiante de 1º de Bachillerato en Madrid comienza el estudio de las secciones cónicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Círculo, esfera y cilindro.",
+          "is_correct": false,
+          "feedback": "Estas son figuras tridimensionales, no curvas planas."
+        },
+        {
+          "letter": "B",
+          "text": "Elipse, parábola e hipérbola.",
+          "is_correct": true,
+          "feedback": "Correcto. Son las tres secciones cónicas fundamentales dependiendo del ángulo de inclinación del plano."
+        },
+        {
+          "letter": "C",
+          "text": "Recta, punto y plano.",
+          "is_correct": false,
+          "feedback": "Estos son elementos geométricos básicos, no secciones cónicas."
+        },
+        {
+          "letter": "D",
+          "text": "Triángulo, cuadrado y pentágono.",
+          "is_correct": false,
+          "feedback": "Son polígonos, no curvas cónicas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las cónicas se definen históricamente como las intersecciones de un plano con un cono circular recto. La circunferencia es un caso especial de la elipse.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v2",
+      "statement": "¿Qué propiedad cumplen todos los puntos $P$ que pertenecen a una elipse respecto a sus dos focos $F_1$ y $F_2$?",
+      "context": "En una clase de Matemáticas en Valencia, se define la elipse como lugar geométrico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La diferencia de sus distancias a los focos es constante.",
+          "is_correct": false,
+          "feedback": "Esta es la definición de una hipérbola."
+        },
+        {
+          "letter": "B",
+          "text": "La suma de sus distancias a los focos es constante.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta suma es igual a la longitud del eje mayor ($2a$)."
+        },
+        {
+          "letter": "C",
+          "text": "La distancia a un foco es igual a la distancia al otro.",
+          "is_correct": false,
+          "feedback": "Esto solo se cumpliría para los puntos del eje menor (mediatriz del segmento focal)."
+        },
+        {
+          "letter": "D",
+          "text": "El producto de sus distancias a los focos es constante.",
+          "is_correct": false,
+          "feedback": "Esta definición corresponde a otras curvas (óvalos de Cassini), no a la elipse."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La definición de elipse como suma de distancias constante es la que permite dibujarla usando el \"método del jardinero\" (dos estacas y una cuerda).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v3",
+      "statement": "Si $a > b$, ¿en qué eje se encuentran los focos de la elipse?",
+      "context": "Un estudiante analiza la ecuación reducida de una elipse centrada en el origen: $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el eje X (eje de abscisas).",
+          "is_correct": true,
+          "feedback": "Correcto. El semieje mayor $a$ está bajo la variable $x$, indicando una elipse \"horizontal\"."
+        },
+        {
+          "letter": "B",
+          "text": "En el eje Y (eje de ordenadas).",
+          "is_correct": false,
+          "feedback": "Los focos estarían en el eje Y si $b > a$."
+        },
+        {
+          "letter": "C",
+          "text": "En la bisectriz del primer cuadrante.",
+          "is_correct": false,
+          "feedback": "Los focos siempre están en uno de los ejes de simetría principales."
+        },
+        {
+          "letter": "D",
+          "text": "En el origen de coordenadas.",
+          "is_correct": false,
+          "feedback": "El origen es el centro de la elipse, no la ubicación de los focos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la ecuación reducida, el denominador mayor nos indica cuál es el eje principal o focal. Si está bajo la $x$, la elipse es alargada horizontalmente.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v4",
+      "statement": "¿Respecto a qué dos elementos se define la parábola como el conjunto de puntos que equidistan de ellos?",
+      "context": "Se define la parábola como lugar geométrico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De dos focos fijos.",
+          "is_correct": false,
+          "feedback": "Esta es la elipse o hipérbola."
+        },
+        {
+          "letter": "B",
+          "text": "De dos rectas paralelas.",
+          "is_correct": false,
+          "feedback": "La equidistancia a dos rectas paralelas es otra recta paralela a ambas."
+        },
+        {
+          "letter": "C",
+          "text": "De un punto fijo (foco) y una recta fija (directriz).",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la definición clásica de la parábola."
+        },
+        {
+          "letter": "D",
+          "text": "Del origen y de un radio constante.",
+          "is_correct": false,
+          "feedback": "Esta es la circunferencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La parábola es la única cónica que tiene una \"excentricidad\" exactamente igual a 1, lo que significa que la distancia al foco y a la directriz es siempre la misma.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.78,
+      "bundle_id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v5",
+      "statement": "Calcula la semidistancia focal $c$ (distancia del centro a cada foco).",
+      "context": "Un estudiante en Barcelona tiene una elipse con semieje mayor $a = 5$ y semieje menor $b = 3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Se han restado los semiejes directamente, lo cual es incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correcto. En la elipse se cumple la relación pitagórica $a^2 = b^2 + c^2$. Por tanto, $c = \\sqrt{25 - 9} = \\sqrt{16} = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{34}$",
+          "is_correct": false,
+          "feedback": "Se han sumado los cuadrados, relación propia de la hipérbola."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Resultado incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la elipse, el semieje mayor $a$ es la hipotenusa de un triángulo rectángulo formado con el semieje menor $b$ y la semidistancia focal $c$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la fórmula de la excentricidad $e$ de una elipse y qué valores puede tomar?",
+      "context": "Un ingeniero en Zaragoza analiza la excentricidad de una órbita elíptica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$e = a/c$; valores entre 0 y 1.",
+          "is_correct": false,
+          "feedback": "La fórmula es $c/a$, el foco está más cerca del centro que el vértice."
+        },
+        {
+          "letter": "B",
+          "text": "$e = c/a$; valores entre 0 y 1.",
+          "is_correct": true,
+          "feedback": "Correcto. Mide el grado de \"achatamiento\" de la elipse. Si tiende a 0, la elipse se parece a un círculo."
+        },
+        {
+          "letter": "C",
+          "text": "$e = c/a$; valores mayores que 1.",
+          "is_correct": false,
+          "feedback": "Esto correspondería a una hipérbola."
+        },
+        {
+          "letter": "D",
+          "text": "$e = a \\cdot c$; cualquier valor real.",
+          "is_correct": false,
+          "feedback": "Definición incorrecta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La excentricidad es un número adimensional que nos dice cuánto se aleja la cónica de ser una circunferencia. En la elipse, como $c < a$, la excentricidad siempre es menor que 1.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v7",
+      "statement": "¿Hacia qué eje se abre esta parábola y cuál es la coordenada de su foco?",
+      "context": "Se presenta la ecuación de una parábola: $y^2 = 8x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacia el eje Y; Foco $(0, 2)$.",
+          "is_correct": false,
+          "feedback": "Al estar la Y al cuadrado, la parábola se abre hacia el eje X."
+        },
+        {
+          "letter": "B",
+          "text": "Hacia el eje X; Foco $(2, 0)$.",
+          "is_correct": true,
+          "feedback": "Correcto. Forma $y^2 = 2px \\Rightarrow 2p = 8 \\Rightarrow p = 4$. El foco está en $(p/2, 0) = (2, 0)$."
+        },
+        {
+          "letter": "C",
+          "text": "Hacia el eje X; Foco $(4, 0)$.",
+          "is_correct": false,
+          "feedback": "El foco está a una distancia p/2 del vértice, no p."
+        },
+        {
+          "letter": "D",
+          "text": "Hacia el eje Y; Foco $(2, 0)$.",
+          "is_correct": false,
+          "feedback": "Incoherencia entre la apertura y la posición del foco."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la parábola, la variable que NO está elevada al cuadrado indica el eje de simetría y la dirección de apertura. El parámetro $p$ mide la distancia entre foco y directriz.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v8",
+      "statement": "Si colocamos una fuente de luz en el foco de un espejo parabólico, ¿cómo salen reflejados los rayos de luz?",
+      "context": "Un estudiante estudia la propiedad reflectora de la parábola.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convergen en un punto del eje.",
+          "is_correct": false,
+          "feedback": "Esto ocurriría si fuera un espejo circular para rayos no paraxiales."
+        },
+        {
+          "letter": "B",
+          "text": "Salen paralelos al eje de simetría de la parábola.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta propiedad se usa en focos de coches y antenas parabólicas."
+        },
+        {
+          "letter": "C",
+          "text": "Se dispersan en todas direcciones.",
+          "is_correct": false,
+          "feedback": "La forma parabólica los colima en una dirección específica."
+        },
+        {
+          "letter": "D",
+          "text": "Vuelven exactamente hacia la fuente.",
+          "is_correct": false,
+          "feedback": "Solo ocurriría en el centro de un espejo esférico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La propiedad óptica de la parábola es fundamental en ingeniería: cualquier rayo que pase por el foco sale paralelo al eje tras reflejarse, y viceversa (las señales paralelas convergen en el foco).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.68,
+      "bundle_id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v9",
+      "statement": "Halla las longitudes de los semiejes $a$ y $b$.",
+      "context": "Una elipse tiene por ecuación $9x^2 + 25y^2 = 225$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = 9, b = 25$",
+          "is_correct": false,
+          "feedback": "Estos son los coeficientes, no los semiejes."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 5, b = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Dividiendo entre 225: $x^2/25 + y^2/9 = 1$. Entonces $a^2=25 \\Rightarrow a=5$ y $b^2=9 \\Rightarrow b=3$."
+        },
+        {
+          "letter": "C",
+          "text": "$a = 15, b = 15$",
+          "is_correct": false,
+          "feedback": "Esto representaría una circunferencia."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 25, b = 9$",
+          "is_correct": false,
+          "feedback": "Falta realizar la raíz cuadrada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar los semiejes a partir de la forma implícita, debemos igualar el término independiente a 1 dividiendo toda la ecuación por él.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la ecuación de la recta directriz?",
+      "context": "Un estudiante halla la ecuación de la directriz de la parábola $x^2 = 12y$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = -3$",
+          "is_correct": false,
+          "feedback": "La directriz debe ser una recta horizontal en este caso."
+        },
+        {
+          "letter": "B",
+          "text": "$y = -3$",
+          "is_correct": true,
+          "feedback": "Correcto. $2p = 12 \\Rightarrow p = 6$. La directriz está en $y = -p/2 = -3$."
+        },
+        {
+          "letter": "C",
+          "text": "$y = 3$",
+          "is_correct": false,
+          "feedback": "Esta recta pasaría por encima del vértice, cortando a la parábola."
+        },
+        {
+          "letter": "D",
+          "text": "$y = -6$",
+          "is_correct": false,
+          "feedback": "Distancia incorrecta al vértice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La directriz es una recta perpendicular al eje de simetría de la parábola, situada a la misma distancia del vértice que el foco, pero en sentido opuesto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v11",
+      "statement": "En la ecuación reducida de la hipérbola $\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$, ¿qué representan las rectas $y = \\pm \\frac{b}{a}x$?",
+      "context": "Un matemático en Salamanca estudia la hipérbola como la tercera sección cónica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los ejes de simetría.",
+          "is_correct": false,
+          "feedback": "Los ejes son los ejes coordenados X e Y."
+        },
+        {
+          "letter": "B",
+          "text": "Las directrices.",
+          "is_correct": false,
+          "feedback": "Las directrices de la hipérbola son rectas verticales u horizontales."
+        },
+        {
+          "letter": "C",
+          "text": "Las asíntotas.",
+          "is_correct": true,
+          "feedback": "Correcto. Son las rectas hacia las que tiende la curva en el infinito pero que nunca llega a tocar."
+        },
+        {
+          "letter": "D",
+          "text": "Las tangentes en los vértices.",
+          "is_correct": false,
+          "feedback": "Esas serían rectas verticales $x = \\pm a$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A diferencia de la elipse, la hipérbola es una curva abierta que posee asíntotas. Estas rectas determinan la \"apertura\" de las ramas de la hipérbola.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es su ecuación reducida?",
+      "context": "Se busca la ecuación de la elipse con focos en $(\\pm 3, 0)$ y que pasa por el punto $(5, 0)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{x^2}{25} + \\frac{y^2}{9} = 1$",
+          "is_correct": false,
+          "feedback": "El denominador bajo y debe ser b^2, no c^2."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{x^2}{25} + \\frac{y^2}{16} = 1$",
+          "is_correct": true,
+          "feedback": "Correcto. $a = 5$, $c = 3$. Entonces $b^2 = a^2 - c^2 = 25 - 9 = 16$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{x^2}{16} + \\frac{y^2}{25} = 1$",
+          "is_correct": false,
+          "feedback": "Los focos estarían en el eje Y."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{x^2}{25} + \\frac{y^2}{34} = 1$",
+          "is_correct": false,
+          "feedback": "El semieje b debe ser menor que a en una elipse."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A partir de los focos obtenemos $c$. El punto $(5,0)$ es un vértice, por lo que nos da el valor de $a$. Con ambos, hallamos $b$ mediante la relación fundamental de la elipse.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v13",
+      "statement": "Si situamos el vértice en el punto $(0, 5)$, ¿cuál es la ecuación de la parábola que pasa por los puntos de apoyo $(-5, 0)$ y $(5, 0)$?",
+      "context": "Un arquitecto en Asturias diseña un arco parabólico cuya base mide 10 m y cuya altura máxima es de 5 m.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = x^2 + 5$",
+          "is_correct": false,
+          "feedback": "Esta parábola se abriría hacia arriba y no pasaría por los apoyos."
+        },
+        {
+          "letter": "B",
+          "text": "$y = -0,2x^2 + 5$",
+          "is_correct": true,
+          "feedback": "Correcto. Sustituyendo $(5,0): 0 = k(5^2) + 5 \\Rightarrow -5 = 25k \\Rightarrow k = -0,2$."
+        },
+        {
+          "letter": "C",
+          "text": "$y = -x^2 + 5$",
+          "is_correct": false,
+          "feedback": "Pasaría por $(\\sqrt{5}, 0)$, no por $(5,0)$."
+        },
+        {
+          "letter": "D",
+          "text": "$y = -5x^2 + 5$",
+          "is_correct": false,
+          "feedback": "Arco demasiado estrecho."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los arcos parabólicos se modelan mediante funciones cuadráticas. El coeficiente principal negativo indica que la parábola se abre hacia abajo (forma de puente o arco).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la coordenada del vértice de esta parábola?",
+      "context": "Se desea hallar la ecuación de la parábola con foco en $(3, 2)$ y directriz la recta $y = 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(3, 0)$",
+          "is_correct": false,
+          "feedback": "Este es el punto de la directriz bajo el foco."
+        },
+        {
+          "letter": "B",
+          "text": "$(3, 2)$",
+          "is_correct": false,
+          "feedback": "Este es el foco."
+        },
+        {
+          "letter": "C",
+          "text": "$(3, 1)$",
+          "is_correct": true,
+          "feedback": "Correcto. El vértice es el punto medio entre el foco y la directriz sobre el eje de simetría."
+        },
+        {
+          "letter": "D",
+          "text": "$(0, 2)$",
+          "is_correct": false,
+          "feedback": "Coordenada incorrecta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El vértice de una parábola siempre está a mitad de camino entre el foco y la recta directriz. Esta propiedad es clave para construir la ecuación de parábolas desplazadas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.53,
+      "bundle_id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v15",
+      "statement": "¿Qué condición deben cumplir los semiejes $a$ y $b$ para que una hipérbola sea equilátera?",
+      "context": "Se estudia el concepto de hipérbola equilátera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = 2b$",
+          "is_correct": false,
+          "feedback": "No define una hipérbola equilátera."
+        },
+        {
+          "letter": "B",
+          "text": "$a = b$",
+          "is_correct": true,
+          "feedback": "Correcto. En este caso las asíntotas son las bisectrices de los cuadrantes ($y = \\pm x$) y son perpendiculares entre sí."
+        },
+        {
+          "letter": "C",
+          "text": "$a^2 + b^2 = 1$",
+          "is_correct": false,
+          "feedback": "Esta es una relación de normalización."
+        },
+        {
+          "letter": "D",
+          "text": "$b = 0$",
+          "is_correct": false,
+          "feedback": "La hipérbola degeneraría en un par de rectas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las hipérbolas equiláteras son análogas a las circunferencias (donde los dos semiejes son iguales). Tienen propiedades de simetría adicionales muy interesantes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v16",
+      "statement": "¿Qué representa geométricamente la ecuación $x^2 - y^2 = 0$?",
+      "context": "Un estudiante analiza la ecuación $x^2 - y^2 = 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una hipérbola equilátera.",
+          "is_correct": false,
+          "feedback": "Una hipérbola no puede estar igualada a cero en su forma canónica (salvo el caso degenerado)."
+        },
+        {
+          "letter": "B",
+          "text": "Dos rectas secantes que se cortan en el origen ($y = x$ e $y = -x$).",
+          "is_correct": true,
+          "feedback": "Correcto. Al factorizar como diferencia de cuadrados $(x-y)(x+y)=0$, se obtienen las dos rectas."
+        },
+        {
+          "letter": "C",
+          "text": "Una circunferencia de radio nulo.",
+          "is_correct": false,
+          "feedback": "Eso sería $x^2 + y^2 = 0$."
+        },
+        {
+          "letter": "D",
+          "text": "Una parábola degenerada.",
+          "is_correct": false,
+          "feedback": "Las parábolas solo tienen una variable cuadrática."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las cónicas pueden ser \"degeneradas\" cuando el plano de corte pasa por el vértice del cono. En este caso, la hipérbola se convierte en un par de rectas que se cruzan.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.48,
+      "bundle_id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v17",
+      "statement": "¿Cuáles son los puntos de corte?",
+      "context": "Un ingeniero en Málaga quiere hallar los puntos de intersección de la elipse $x^2/16 + y^2/9 = 1$ y la recta $x = 4$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(4, 3)$ y $(4, -3)$",
+          "is_correct": false,
+          "feedback": "Estos puntos no cumplen la ecuación de la elipse ($1 + 1 = 2$, no 1)."
+        },
+        {
+          "letter": "B",
+          "text": "Solo el punto $(4, 0)$.",
+          "is_correct": true,
+          "feedback": "Correcto. Sustituyendo $x=4$: $16/16 + y^2/9 = 1 \\Rightarrow 1 + y^2/9 = 1 \\Rightarrow y = 0$. La recta es tangente en el vértice."
+        },
+        {
+          "letter": "C",
+          "text": "$(4, 1)$ y $(4, -1)$",
+          "is_correct": false,
+          "feedback": "No cumplen la ecuación."
+        },
+        {
+          "letter": "D",
+          "text": "No hay puntos de corte.",
+          "is_correct": false,
+          "feedback": "La recta toca a la elipse en su extremo derecho."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis de intersecciones permite verificar si una recta es tangente a una cónica. En este caso, al coincidir con el valor del semieje mayor, la recta vertical toca solo en el vértice.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v18",
+      "statement": "Si una cónica se define como el lugar geométrico donde la razón de distancias al foco y a la directriz es constante e igual a $e$, ¿cuál es la condición para que sea una hipérbola?",
+      "context": "Se plantea la definición de cónica mediante el foco, la directriz y la excentricidad $e$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$e = 0$",
+          "is_correct": false,
+          "feedback": "Esto sería una circunferencia (en el límite)."
+        },
+        {
+          "letter": "B",
+          "text": "$0 < e < 1$",
+          "is_correct": false,
+          "feedback": "Esta es la elipse."
+        },
+        {
+          "letter": "C",
+          "text": "$e = 1$",
+          "is_correct": false,
+          "feedback": "Esta es la parábola."
+        },
+        {
+          "letter": "D",
+          "text": "$e > 1$",
+          "is_correct": true,
+          "feedback": "Correcto. En la hipérbola, el punto está siempre más lejos de la directriz que del foco."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Esta definición unificada de las cónicas es la más potente desde el punto de vista del análisis matemático, permitiendo clasificar todas las curvas con un solo parámetro: la excentricidad.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v19",
+      "statement": "Si el Sol se encuentra en uno de los focos de la elipse, ¿qué nombre recibe el punto de la órbita más cercano al Sol?",
+      "context": "La Tierra gira alrededor del Sol en una órbita elíptica con una excentricidad muy baja ($e \\approx 0,017$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Afelio.",
+          "is_correct": false,
+          "feedback": "Este es el punto más alejado del Sol."
+        },
+        {
+          "letter": "B",
+          "text": "Perihelio.",
+          "is_correct": true,
+          "feedback": "Correcto. Corresponde al vértice de la elipse situado en el mismo lado que el foco ocupado por el Sol."
+        },
+        {
+          "letter": "C",
+          "text": "Equinoccio.",
+          "is_correct": false,
+          "feedback": "Concepto relacionado con la inclinación del eje, no con la distancia orbital."
+        },
+        {
+          "letter": "D",
+          "text": "Cenit.",
+          "is_correct": false,
+          "feedback": "Punto de la esfera celeste situado directamente sobre el observador."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las leyes de Kepler establecen que los planetas describen órbitas elípticas. Es una aplicación histórica y fundamental de la geometría de las cónicas en la astronomía.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.38,
+      "bundle_id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle-v20",
+      "statement": "Si el término mixto $B = 0$, ¿qué curva representa la ecuación si $A$ y $C$ tienen signos opuestos?",
+      "context": "Un estudiante reflexiona sobre la clasificación de cónicas mediante el discriminante $B^2 - 4AC$ de la ecuación general $Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una elipse.",
+          "is_correct": false,
+          "feedback": "Para la elipse deben tener el mismo signo."
+        },
+        {
+          "letter": "B",
+          "text": "Una hipérbola.",
+          "is_correct": true,
+          "feedback": "Correcto. Signos opuestos en los coeficientes cuadráticos generan una diferencia de cuadrados característica de la hipérbola."
+        },
+        {
+          "letter": "C",
+          "text": "Una parábola.",
+          "is_correct": false,
+          "feedback": "Para la parábola, uno de los dos (A o C) debe ser cero."
+        },
+        {
+          "letter": "D",
+          "text": "Una circunferencia.",
+          "is_correct": false,
+          "feedback": "Deben tener el mismo signo y además ser iguales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis de los coeficientes de segundo grado permite identificar el tipo de cónica incluso si está rotada o desplazada. Es el punto final del estudio de curvas de segundo grado en el bachillerato.\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "ES-MAT-11-2026-W19-conicas-elipse-parabola-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    }
+  ]
+}

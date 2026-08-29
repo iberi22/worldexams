@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-16-grade-8-subject-lengua",
+    "generated_at": "2026-06-18T23:58:37.589Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v1",
+      "statement": "¿Quién es el poeta nicaragüense considerado el máximo exponente y \"padre\" del Modernismo con la publicación de su obra \"Azul...\" en 1888?",
+      "context": "El Modernismo es el primer movimiento literario nacido en América Latina que influyó profundamente en España a finales del siglo XIX.\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "José Martí",
+          "is_correct": false,
+          "feedback": "Martí es un precursor fundamental, pero el liderazgo del movimiento consolidado fue de Darío."
+        },
+        {
+          "letter": "B",
+          "text": "Rubén Darío",
+          "is_correct": true,
+          "feedback": "Su obra renovó el lenguaje poético hispanoamericano con una musicalidad y elegancia únicas."
+        },
+        {
+          "letter": "C",
+          "text": "Gabriel García Márquez",
+          "is_correct": false,
+          "feedback": "Gabo pertenece al Realismo Mágico del siglo XX."
+        },
+        {
+          "letter": "D",
+          "text": "Pablo Neruda",
+          "is_correct": false,
+          "feedback": "Neruda es un gran poeta chileno posterior, vinculado a las vanguardias y la poesía social."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Rubén Darío sintetizó las influencias francesas (Parnasianismo y Simbolismo) para crear una estética propia que unificó a los escritores de lengua española.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el símbolo animal por excelencia del Modernismo, que representa la elegancia, la pureza y la aristocracia del arte?",
+      "context": "El Modernismo busca la belleza absoluta, alejándose de la realidad cotidiana y vulgar mediante el uso de mundos exóticos y elegantes.\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El águila",
+          "is_correct": false,
+          "feedback": "El águila suele simbolizar el poder y el imperio, no necesariamente la estética modernista."
+        },
+        {
+          "letter": "B",
+          "text": "El cóndor",
+          "is_correct": false,
+          "feedback": "El cóndor es un símbolo nacional andino, usado más en literatura patriótica."
+        },
+        {
+          "letter": "C",
+          "text": "El cisne",
+          "is_correct": true,
+          "feedback": "Por su cuello en forma de interrogación y su blancura, se convirtió en el emblema de la búsqueda estética."
+        },
+        {
+          "letter": "D",
+          "text": "El león",
+          "is_correct": false,
+          "feedback": "El león representa la fuerza y el valor, ajenos a la delicadeza modernista."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El cisne encarna el ideal de belleza pura y melancólica que perseguían los poetas modernistas frente a un mundo materialista.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v3",
+      "statement": "¿Qué tipo de verso de 14 sílabas, que había caído en desuso desde la Edad Media, fue rescatado y perfeccionado por los poetas modernistas?",
+      "context": "Los poetas modernistas estaban obsesionados con la musicalidad del verso y renovaron por completo la métrica castellana.\n**Expected_Success:** 0.82",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Endecasílabo",
+          "is_correct": false,
+          "feedback": "El endecasílabo (11 sílabas) nunca dejó de usarse desde el Renacimiento."
+        },
+        {
+          "letter": "B",
+          "text": "Octosílabo",
+          "is_correct": false,
+          "feedback": "El octosílabo (8 sílabas) es el verso más común del romance y la poesía popular."
+        },
+        {
+          "letter": "C",
+          "text": "Alejandrino",
+          "is_correct": true,
+          "feedback": "El verso alejandrino fue revitalizado con nuevos ritmos y acentuaciones por Rubén Darío y sus seguidores."
+        },
+        {
+          "letter": "D",
+          "text": "Heptasílabo",
+          "is_correct": false,
+          "feedback": "El heptasílabo (7 sílabas) suele usarse en combinación con el endecasílabo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La recuperación del alejandrino permitió a los modernistas lograr una mayor sonoridad y amplitud en sus composiciones poéticas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v4",
+      "statement": "¿Qué objetivo perseguía el poeta modernista al describir princesas orientales, jardines franceses y palacios de mármol?",
+      "context": "El Modernismo se caracteriza por el \"exotismo\", que consiste en ambientar las obras en lugares lejanos o tiempos remotos.\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enseñar historia y geografía de Asia y Europa a los lectores americanos.",
+          "is_correct": false,
+          "feedback": "No busca la educación geográfica, sino la evasión estética."
+        },
+        {
+          "letter": "B",
+          "text": "Criticar la falta de monumentos antiguos en los países de América Latina.",
+          "is_correct": false,
+          "feedback": "No es una crítica arquitectónica, sino una búsqueda de refinamiento."
+        },
+        {
+          "letter": "C",
+          "text": "Evadirse de una realidad social que consideraban mediocre, gris y materialista.",
+          "is_correct": true,
+          "feedback": "El arte es un refugio de belleza frente a la fealdad del mundo industrial."
+        },
+        {
+          "letter": "D",
+          "text": "Promover los viajes en barco hacia el Lejano Oriente.",
+          "is_correct": false,
+          "feedback": "Es un recurso literario de imaginación, no una propuesta de turismo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El exotismo es una forma de rebeldía espiritual del artista contra la burguesía y el progreso utilitario del siglo XIX.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v5",
+      "statement": "Si en un poema modernista leemos frases como \"el sonido azul de la trompeta\" o \"un perfume amargo\", ¿qué recurso se está utilizando?",
+      "context": "La sinestesia es una figura retórica muy común en el Modernismo que consiste en mezclar sensaciones de sentidos distintos.\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metáfora pura",
+          "is_correct": false,
+          "feedback": "Aunque es una figura de sustitución, la mezcla de sentidos tiene un nombre específico."
+        },
+        {
+          "letter": "B",
+          "text": "Sinestesia",
+          "is_correct": true,
+          "feedback": "Busca crear una experiencia sensorial total, asociando colores con sonidos o sabores con olores."
+        },
+        {
+          "letter": "C",
+          "text": "Hipérbole",
+          "is_correct": false,
+          "feedback": "No hay una exageración de la cantidad, sino una mezcla de la calidad sensorial."
+        },
+        {
+          "letter": "D",
+          "text": "Personificación",
+          "is_correct": false,
+          "feedback": "No se atribuyen cualidades humanas a objetos inanimados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La sinestesia refleja la búsqueda modernista de la correspondencia entre todas las artes (música, pintura, literatura) y las sensaciones.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v6",
+      "statement": "¿Qué innovación rítmica introdujo Silva en su \"Nocturno III\" para expresar el dolor y el misterio de la muerte y el recuerdo?",
+      "context": "José Asunción Silva es el gran representante del Modernismo en Colombia, conocido por su famoso \"Nocturno III\".\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso de rimas muy alegres y ritmos de baile popular.",
+          "is_correct": false,
+          "feedback": "El poema es profundamente melancólico y fúnebre."
+        },
+        {
+          "letter": "B",
+          "text": "El uso de versos de extensión variable que imitan el ritmo de la respiración o de los latidos.",
+          "is_correct": true,
+          "feedback": "Rompió con la métrica rígida para lograr una musicalidad sugerente y sombría."
+        },
+        {
+          "letter": "C",
+          "text": "Escribir todo el poema en letras mayúsculas para gritar su dolor.",
+          "is_correct": false,
+          "feedback": "La fuerza reside en el ritmo y las imágenes, no en recursos tipográficos básicos."
+        },
+        {
+          "letter": "D",
+          "text": "El uso exclusivo de palabras en inglés para que pareciera más moderno.",
+          "is_correct": false,
+          "feedback": "Silva renovó el castellano desde dentro, sin necesidad de extranjerismos innecesarios."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Silva es un precursor del Modernismo que exploró la capacidad del lenguaje para sugerir estados de ánimo oscuros y misteriosos mediante el ritmo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v7",
+      "statement": "En el poema \"A Roosevelt\", Rubén Darío critica al presidente de Estados Unidos. ¿Qué valores defiende Darío frente al poder material del norte?",
+      "context": "El Modernismo también tuvo una etapa de compromiso político y defensa de la identidad hispana frente al imperialismo anglosajón.\n**Expected_Success:** 0.62",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La superioridad militar de los ejércitos latinoamericanos.",
+          "is_correct": false,
+          "feedback": "Darío sabe que el norte es más fuerte militarmente; su defensa es cultural."
+        },
+        {
+          "letter": "B",
+          "text": "La riqueza espiritual, la lengua castellana y la herencia cultural hispana y católica.",
+          "is_correct": true,
+          "feedback": "Opone la \"fuerza\" del norte a la \"cultura\" y el \"alma\" del sur."
+        },
+        {
+          "letter": "C",
+          "text": "El deseo de que América Latina sea una colonia de Francia.",
+          "is_correct": false,
+          "feedback": "Aunque admira la cultura francesa, defiende la soberanía de la América hispana."
+        },
+        {
+          "letter": "D",
+          "text": "Que la poesía es más importante que tener electricidad o ferrocarriles.",
+          "is_correct": false,
+          "feedback": "Su crítica es hacia la falta de alma en el progreso, no hacia el progreso mismo necesariamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esta etapa del Modernismo (Mundonovismo) muestra que el movimiento no solo era evasión, sino también conciencia de la identidad continental.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v8",
+      "statement": "¿Qué consecuencia tuvo para la figura del escritor esta defensa de la autonomía absoluta del arte frente a la utilidad social?",
+      "context": "El Modernismo se vincula con el concepto de \"el arte por el arte\", defendiendo que la belleza es la única función de la literatura.\n**Expected_Success:** 0.58",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El escritor se volvió una persona muy rica que trabajaba para el gobierno.",
+          "is_correct": false,
+          "feedback": "Al contrario, muchos vivieron en la pobreza o en la marginalidad diplomática."
+        },
+        {
+          "letter": "B",
+          "text": "El escritor dejó de preocuparse por la calidad de sus textos.",
+          "is_correct": false,
+          "feedback": "La exigencia de perfección formal fue máxima en este periodo."
+        },
+        {
+          "letter": "C",
+          "text": "El escritor se sintió como un ser especial y diferente (un \"aristócrata del espíritu\"), a menudo incomprendido por la sociedad.",
+          "is_correct": true,
+          "feedback": "Surge la imagen del poeta en su \"torre de marfil\", alejado de la vulgaridad del mundo."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los escritores decidieron ser pintores o músicos en lugar de literatos.",
+          "is_correct": false,
+          "feedback": "Hubo hermandad entre las artes, pero la literatura siguió siendo su medio principal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El aislamiento del poeta es una respuesta a la falta de sensibilidad de una sociedad que solo valora lo que tiene un precio económico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v9",
+      "statement": "Si en una estrofa modernista predominan los colores blanco, marfil, plata y oro, ¿qué atmósfera está intentando crear el autor?",
+      "context": "El cromatismo (uso del color) es fundamental en la estética modernista.\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una atmósfera de suciedad y desorden doméstico.",
+          "is_correct": false,
+          "feedback": "Esos colores representan la limpieza y la luz brillante."
+        },
+        {
+          "letter": "B",
+          "text": "Una atmósfera de terror y miedo absoluto.",
+          "is_correct": false,
+          "feedback": "El terror suele asociarse a colores oscuros (negro, violeta profundo)."
+        },
+        {
+          "letter": "C",
+          "text": "Una atmósfera de lujo, refinamiento, frialdad estética y pureza.",
+          "is_correct": true,
+          "feedback": "Son los colores de los materiales nobles y la luz idealizada del arte."
+        },
+        {
+          "letter": "D",
+          "text": "Un escenario realista de una cocina campesina colombiana.",
+          "is_correct": false,
+          "feedback": "Estos colores y materiales son ajenos al realismo rural."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El color en el Modernismo no es solo descriptivo, sino que tiene un valor simbólico y emocional para construir mundos ideales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál fue la diferencia principal entre el Modernismo hispanoamericano (Darío) y la adaptación que hicieron autores españoles como Antonio Machado?",
+      "context": "El Modernismo influyó en España a través de la Generación del 98, aunque estos autores buscaron una sobriedad mayor.\n**Expected_Success:** 0.52",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Machado escribía en francés y Darío en nicaragüense.",
+          "is_correct": false,
+          "feedback": "Ambos escribían en un español riquísimo y renovado."
+        },
+        {
+          "letter": "B",
+          "text": "Darío era muy triste y Machado era un poeta muy alegre y cómico.",
+          "is_correct": false,
+          "feedback": "Ambos tienen una vena melancólica, pero Machado es más austero."
+        },
+        {
+          "letter": "C",
+          "text": "Darío prefería el lujo y el exotismo; Machado prefería la sencillez, la austeridad y el paisaje de Castilla.",
+          "is_correct": true,
+          "feedback": "Machado eliminó los \"adornos\" modernistas para buscar la esencia del alma española."
+        },
+        {
+          "letter": "D",
+          "text": "No hubo ninguna diferencia, Machado copió exactamente todos los poemas de Darío.",
+          "is_correct": false,
+          "feedback": "Machado admiraba a Darío pero creó una estética propia, más sobria y filosófica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Modernismo fue la base técnica para muchos autores españoles que luego derivaron hacia una poesía más desnuda y centrada en los problemas nacionales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.52,
+      "bundle_id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v11",
+      "statement": "¿De qué manera el Modernismo logró ser un movimiento original a pesar de tener tantas influencias de la literatura francesa?",
+      "context": "Algunos críticos contemporáneos del Modernismo lo acusaron de ser un \"arte de imitación\" de lo francés.\n**Expected_Success:** 0.45",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambiando solo los nombres de los personajes por nombres americanos.",
+          "is_correct": false,
+          "feedback": "La renovación fue mucho más profunda que un simple cambio de nombres."
+        },
+        {
+          "letter": "B",
+          "text": "Traduciendo mal los poemas franceses para que parecieran nuevos.",
+          "is_correct": false,
+          "feedback": "Eran traductores excelentes que conocían bien el original."
+        },
+        {
+          "letter": "C",
+          "text": "Al integrar esas influencias con la tradición clásica española y la sensibilidad propia de América Latina.",
+          "is_correct": true,
+          "feedback": "Crearon una síntesis nueva que no existía ni en Francia ni en España hasta ese momento."
+        },
+        {
+          "letter": "D",
+          "text": "Prohibiendo que se leyera cualquier libro que no fuera escrito en Nicaragua.",
+          "is_correct": false,
+          "feedback": "El Modernismo fue un movimiento cosmopolita abierto a todas las culturas del mundo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La originalidad del Modernismo reside en su capacidad de hibridación, tomando lo mejor de Europa para fundar una voz literaria americana independiente y poderosa.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál fue el legado más importante que dejó el Modernismo a la literatura hispanoamericana del siglo XX?",
+      "context": "El Modernismo terminó alrededor de la Primera Guerra Mundial, dando paso a las Vanguardias.\n**Expected_Success:** 0.38",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La obligación de que todos los poemas hablen de cisnes y princesas.",
+          "is_correct": false,
+          "feedback": "Estos temas se abandonaron pronto por las nuevas generaciones."
+        },
+        {
+          "letter": "B",
+          "text": "El uso de un lenguaje muy antiguo que ya nadie utiliza hoy.",
+          "is_correct": false,
+          "feedback": "El Modernismo modernizó el lenguaje, no lo hizo antiguo."
+        },
+        {
+          "letter": "C",
+          "text": "La conquista de la libertad creativa, la modernización del lenguaje y el prestigio mundial de las letras hispanas.",
+          "is_correct": true,
+          "feedback": "Sin el Modernismo no habría sido posible el posterior \"boom\" latinoamericano."
+        },
+        {
+          "letter": "D",
+          "text": "La invención de la ortografía moderna que usamos en los mensajes de texto.",
+          "is_correct": false,
+          "feedback": "La ortografía se mantuvo estándar; lo que cambió fue la estética y el ritmo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Modernismo dio a los escritores americanos la confianza de que podían liderar la lengua española y crear arte de validez universal, rompiendo la dependencia colonial.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.38,
+      "bundle_id": "CO-LEN-8-2026-W16-literatura-modernismo-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

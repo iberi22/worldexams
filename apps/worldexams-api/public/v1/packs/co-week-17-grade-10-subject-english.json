@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-17-grade-10-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.578Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-10-2026-W17-scientific-predictions-001-MASTERY-v1",
+      "statement": "\"By the year 2050, scientists ____ a cure for several types of cancer.\"",
+      "context": "Predictng life in 2050.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "find",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will be finding",
+          "is_correct": false,
+          "feedback": "Future Continuous (action in progress)."
+        },
+        {
+          "letter": "C",
+          "text": "will have found",
+          "is_correct": true,
+          "feedback": "Correct. Future Perfect (action completed by a certain time)."
+        },
+        {
+          "letter": "D",
+          "text": "found",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The Future Perfect (will have + past participle) is used for an action that will be finished by a specific time in the future.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-10-2026-W17-scientific-predictions-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W17-scientific-predictions-001-MASTERY-v2",
+      "statement": "\"At this time tomorrow, the new solar plant ____ clean energy to the entire neighborhood.\"",
+      "context": "Discussing future energy use.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "provides",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will be providing",
+          "is_correct": true,
+          "feedback": "Correct. Future Continuous (action in progress at a specific time)."
+        },
+        {
+          "letter": "C",
+          "text": "will have provided",
+          "is_correct": false,
+          "feedback": "Future Perfect."
+        },
+        {
+          "letter": "D",
+          "text": "has provided",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The Future Continuous (will be + -ing) is used for an action that will be in progress at a certain time in the future.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.84,
+      "bundle_id": "CO-ING-10-2026-W17-scientific-predictions-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W17-scientific-predictions-001-MASTERY-v3",
+      "statement": "\"By the end of the decade, humans ____ a permanent base on the Moon.\"",
+      "context": "Space missions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "build",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will have built",
+          "is_correct": true,
+          "feedback": "Correct. Future Perfect for completion by a deadline."
+        },
+        {
+          "letter": "C",
+          "text": "will be building",
+          "is_correct": false,
+          "feedback": "Also possible, but Future Perfect is standard for 'by' deadlines."
+        },
+        {
+          "letter": "D",
+          "text": "are building",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'By' + future time is a strong indicator for the Future Perfect.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Part 2 - Lexical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-10-2026-W17-scientific-predictions-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W17-scientific-predictions-001-MASTERY-v4",
+      "statement": "\"In twenty years, AI ____ most of the routine tasks in our daily lives.\"",
+      "context": "An article about AI.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "performs",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will be performing",
+          "is_correct": true,
+          "feedback": "Correct. Future Continuous for an ongoing state/action in the future."
+        },
+        {
+          "letter": "C",
+          "text": "has performed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "will have performed",
+          "is_correct": false,
+          "feedback": "Correct if referring to a completed achievement, but B is more likely for 'performing'."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using Future Continuous to describe the \"new normal\" or ongoing situations in the future.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-10-2026-W17-scientific-predictions-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W17-scientific-predictions-001-MASTERY-v5",
+      "statement": "\"If the current trend continues, the polar ice ____ significantly by 2030.\"",
+      "context": "Climate change predictions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "melts",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will have melted",
+          "is_correct": true,
+          "feedback": "Correct. Future Perfect for a predicted completion."
+        },
+        {
+          "letter": "C",
+          "text": "will be melting",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "has melted",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using Future Perfect to warn about the consequences of current trends by a certain date.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-10-2026-W17-scientific-predictions-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W17-scientific-predictions-001-MASTERY-v6",
+      "statement": "\"Next month, I ____ on this project for exactly ten years.\"",
+      "context": "A scientist discussing their work.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will work",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will have been working",
+          "is_correct": true,
+          "feedback": "Correct. Future Perfect Continuous for duration up to a future point."
+        },
+        {
+          "letter": "C",
+          "text": "am working",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "will be working",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Future Perfect Continuous (will have been + -ing) emphasizes the duration of an action up to a certain point in the future.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.68,
+      "bundle_id": "CO-ING-10-2026-W17-scientific-predictions-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W17-scientific-predictions-001-MASTERY-v7",
+      "statement": "\"Do you think people ____ in vertical cities by the turn of the century?\"",
+      "context": "Predicting urban development.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "live",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will be living",
+          "is_correct": true,
+          "feedback": "Correct. Future Continuous for a future state."
+        },
+        {
+          "letter": "C",
+          "text": "will have lived",
+          "is_correct": false,
+          "feedback": "Incorrect meaning."
+        },
+        {
+          "letter": "D",
+          "text": "are living",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using the Future Continuous to ask about or predict future lifestyles.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.64,
+      "bundle_id": "CO-ING-10-2026-W17-scientific-predictions-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W17-scientific-predictions-001-MASTERY-v8",
+      "statement": "\"By the time the new regulations are passed, thousands of patients ____ the benefits of the treatment.\"",
+      "context": "A text about medical technology.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "experience",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will have experienced",
+          "is_correct": true,
+          "feedback": "Correct. Future Perfect for action completed by a future event."
+        },
+        {
+          "letter": "C",
+          "text": "will be experiencing",
+          "is_correct": false,
+          "feedback": "Also possible, but Future Perfect focuses on the number of people."
+        },
+        {
+          "letter": "D",
+          "text": "experienced",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using the Future Perfect in combination with a 'By the time + present simple' clause.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-10-2026-W17-scientific-predictions-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W17-scientific-predictions-001-MASTERY-v9",
+      "statement": "\"We ____ the transition to electric vehicles by 2040 if the infrastructure is ready.\"",
+      "context": "Discussing the impact of electric cars.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "complete",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will have completed",
+          "is_correct": true,
+          "feedback": "Correct. Future Perfect for a milestone."
+        },
+        {
+          "letter": "C",
+          "text": "will be completing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "have completed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Applying the Future Perfect to institutional and economic transitions.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-10-2026-W17-scientific-predictions-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W17-scientific-predictions-001-MASTERY-v10",
+      "statement": "\"It is unlikely that humans ____ significantly in their biological traits by the next millennium.\"",
+      "context": "Speculating on human evolution.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "change",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will have changed",
+          "is_correct": true,
+          "feedback": "Correct. Future Perfect for a long-term prediction."
+        },
+        {
+          "letter": "C",
+          "text": "will be changing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "have changed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "B2 complexity: Evaluating the probability of long-term biological changes using the Future Perfect.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-10-2026-W17-scientific-predictions-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W17-scientific-predictions-001-MASTERY-v11",
+      "statement": "\"By the time the keynote speaker finishes her talk, she ____ our questions for over an hour.\"",
+      "context": "Scientific conference schedule.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will answer",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will be answering",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "will have been answering",
+          "is_correct": true,
+          "feedback": "Correct. Future Perfect Continuous for duration."
+        },
+        {
+          "letter": "D",
+          "text": "has answered",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Using the Future Perfect Continuous to describe the duration of a professional activity.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-10-2026-W17-scientific-predictions-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W17-scientific-predictions-001-MASTERY-v12",
+      "statement": "\"The probe ____ through space for five years before it ____ its final destination in 2029.\"",
+      "context": "A complex future scenario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will have been traveling / reaches",
+          "is_correct": true,
+          "feedback": "Correct. Future Perfect Continuous for duration + Present Simple for future event."
+        },
+        {
+          "letter": "B",
+          "text": "will travel / will reach",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "is traveling / reaches",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "will be traveling / will reach",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mastery level: Combining the Future Perfect Continuous with time clauses to describe long-term scientific missions.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-10-2026-W17-scientific-predictions-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

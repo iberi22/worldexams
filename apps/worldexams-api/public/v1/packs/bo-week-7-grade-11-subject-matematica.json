@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "bo",
+    "pack_id": "bo-week-7-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:41:04.629Z"
+  },
+  "questions": [
+    {
+      "id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v1",
+      "statement": "Si la ecuación cuadrática ax^2 + bx + c = 0 tiene un discriminante D = b^2 - 4ac igual a cero, ¿cuál es la naturaleza de sus soluciones reales?",
+      "context": "En Santa Cruz, el estudiante Roxana del Colegio Nacional Santa Cruz analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiene una única solución real (o dos raíces reales iguales).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Cuando el discriminante es cero, la parte de la raíz cuadrada en la fórmula cuadrática desaparece, dando una sola solución real x = -b / (2a)."
+        },
+        {
+          "letter": "B",
+          "text": "Tiene dos soluciones reales e irracionales distintas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurre cuando el discriminante es estrictamente mayor que cero."
+        },
+        {
+          "letter": "C",
+          "text": "Tiene dos soluciones complejas conjugadas (no reales).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las soluciones son complejas no reales cuando el discriminante es estrictamente menor que cero."
+        },
+        {
+          "letter": "D",
+          "text": "La ecuación no tiene solución alguna ni real ni compleja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda ecuación cuadrática tiene siempre raíces en el campo de los complejos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El discriminante D determina la naturaleza de las raíces de una ecuación de segundo grado. Si D = 0, las raíces reales de la ecuación cuadrática son reales e iguales (solución real única).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.87,
+      "bundle_id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el valor del discriminante de la ecuación cuadrática x^2 - 4x + 4 = 0?",
+      "context": "En Cochabamba, el estudiante Jhonny del Colegio Nacional Sucre analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": true,
+          "feedback": "¡Correcto! D = (-4)^2 - 4(1)(4) = 16 - 16 = 0."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Realizaste un cálculo aritmético erróneo con los signos de los coeficientes."
+        },
+        {
+          "letter": "C",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste restar el término de 4ac en la fórmula del discriminante."
+        },
+        {
+          "letter": "D",
+          "text": "-8",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resultado del discriminante para esta ecuación es exactamente cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicando la fórmula del discriminante D = b^2 - 4ac para a = 1, b = -4, c = 4: D = (-4)^2 - 4(1)(4) = 16 - 16 = 0.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v3",
+      "statement": "¿Cuáles son las soluciones reales de la ecuación de segundo grado incompleta x^2 - 9 = 0?",
+      "context": "En El Alto, el estudiante Marisol del Colegio Nacional El Alto analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 3 y x = -3",
+          "is_correct": true,
+          "feedback": "¡Correcto! Despejando x^2 = 9, de donde aplicando raíz cuadrada obtenemos x = 3 y x = -3."
+        },
+        {
+          "letter": "B",
+          "text": "x = 9 y x = -9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al término independiente 9."
+        },
+        {
+          "letter": "C",
+          "text": "x = 0 y x = 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cero no satisface la igualdad de la ecuación original."
+        },
+        {
+          "letter": "D",
+          "text": "La ecuación no tiene solución en los números reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al ser 9 positivo, sí existen soluciones reales perfectas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación incompleta x^2 - 9 = 0 se resuelve factorizando como diferencia de cuadrados (x - 3)(x + 3) = 0, obteniendo las raíces reales x = 3 y x = -3.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.81,
+      "bundle_id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v4",
+      "statement": "Resuelva la ecuación cuadrática: x^2 - 8x + 15 = 0. ¿Cuáles son las dos raíces reales?",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 3 y x = 5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0 y x = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
+        },
+        {
+          "letter": "C",
+          "text": "x = 4 y x = -4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al factorizar o despejar los coeficientes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene raíces reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación se puede resolver factorizando como (x - (3))(x - (5)) = 0, lo que da las dos raíces correspondientes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v5",
+      "statement": "Resuelva la ecuación cuadrática: x^2 - 10x + 24 = 0. ¿Cuáles son las dos raíces reales?",
+      "context": "En Tarija, el estudiante Sonia del Colegio Nacional Bolivar analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 4 y x = 6",
+          "is_correct": true,
+          "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0 y x = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
+        },
+        {
+          "letter": "C",
+          "text": "x = 5 y x = -5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al factorizar o despejar los coeficientes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene raíces reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación se puede resolver factorizando como (x - (4))(x - (6)) = 0, lo que da las dos raíces correspondientes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v6",
+      "statement": "Resuelva la ecuación cuadrática: x^2 - 12x + 35 = 0. ¿Cuáles son las dos raíces reales?",
+      "context": "En Oruro, el estudiante Ramiro del Colegio Nacional Potosí analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 5 y x = 7",
+          "is_correct": true,
+          "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0 y x = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
+        },
+        {
+          "letter": "C",
+          "text": "x = 6 y x = -6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al factorizar o despejar los coeficientes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene raíces reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación se puede resolver factorizando como (x - (5))(x - (7)) = 0, lo que da las dos raíces correspondientes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v7",
+      "statement": "Resuelva la ecuación cuadrática: x^2 - 14x + 48 = 0. ¿Cuáles son las dos raíces reales?",
+      "context": "En Potosí, el estudiante Yolanda del Colegio Nacional San Luis analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 6 y x = 8",
+          "is_correct": true,
+          "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0 y x = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
+        },
+        {
+          "letter": "C",
+          "text": "x = 7 y x = -7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al factorizar o despejar los coeficientes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene raíces reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación se puede resolver factorizando como (x - (6))(x - (8)) = 0, lo que da las dos raíces correspondientes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.69,
+      "bundle_id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v8",
+      "statement": "Resuelva la ecuación cuadrática: x^2 - 16x + 63 = 0. ¿Cuáles son las dos raíces reales?",
+      "context": "En Cobija, el estudiante Jaime del Colegio Nacional Trinidad analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 7 y x = 9",
+          "is_correct": true,
+          "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0 y x = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
+        },
+        {
+          "letter": "C",
+          "text": "x = 8 y x = -8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al factorizar o despejar los coeficientes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene raíces reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación se puede resolver factorizando como (x - (7))(x - (9)) = 0, lo que da las dos raíces correspondientes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.66,
+      "bundle_id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v9",
+      "statement": "Resuelva la ecuación cuadrática: x^2 - 18x + 80 = 0. ¿Cuáles son las dos raíces reales?",
+      "context": "En Trinidad, el estudiante Marcela del Colegio Nacional Cobija analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 8 y x = 10",
+          "is_correct": true,
+          "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0 y x = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
+        },
+        {
+          "letter": "C",
+          "text": "x = 9 y x = -9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al factorizar o despejar los coeficientes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene raíces reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación se puede resolver factorizando como (x - (8))(x - (10)) = 0, lo que da las dos raíces correspondientes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.63,
+      "bundle_id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v10",
+      "statement": "Resuelva la ecuación cuadrática: x^2 - 20x + 99 = 0. ¿Cuáles son las dos raíces reales?",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 9 y x = 11",
+          "is_correct": true,
+          "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0 y x = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
+        },
+        {
+          "letter": "C",
+          "text": "x = 10 y x = -10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al factorizar o despejar los coeficientes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene raíces reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación se puede resolver factorizando como (x - (9))(x - (11)) = 0, lo que da las dos raíces correspondientes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v11",
+      "statement": "Resuelva la ecuación cuadrática: x^2 - 22x + 120 = 0. ¿Cuáles son las dos raíces reales?",
+      "context": "En Santa Cruz, el estudiante Roxana del Colegio Nacional Santa Cruz analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 10 y x = 12",
+          "is_correct": true,
+          "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0 y x = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
+        },
+        {
+          "letter": "C",
+          "text": "x = 11 y x = -11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al factorizar o despejar los coeficientes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene raíces reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación se puede resolver factorizando como (x - (10))(x - (12)) = 0, lo que da las dos raíces correspondientes.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v12",
+      "statement": "Resuelva la ecuación cuadrática: x^2 - 24x + 143 = 0. ¿Cuáles son las dos raíces reales?",
+      "context": "En Cochabamba, el estudiante Jhonny del Colegio Nacional Sucre analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 11 y x = 13",
+          "is_correct": true,
+          "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0 y x = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
+        },
+        {
+          "letter": "C",
+          "text": "x = 12 y x = -12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al factorizar o despejar los coeficientes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene raíces reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación se puede resolver factorizando como (x - (11))(x - (13)) = 0, lo que da las dos raíces correspondientes.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.54,
+      "bundle_id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v13",
+      "statement": "Resuelva la ecuación cuadrática: x^2 - 26x + 168 = 0. ¿Cuáles son las dos raíces reales?",
+      "context": "En El Alto, el estudiante Marisol del Colegio Nacional El Alto analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 12 y x = 14",
+          "is_correct": true,
+          "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0 y x = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
+        },
+        {
+          "letter": "C",
+          "text": "x = 13 y x = -13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al factorizar o despejar los coeficientes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene raíces reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación se puede resolver factorizando como (x - (12))(x - (14)) = 0, lo que da las dos raíces correspondientes.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.51,
+      "bundle_id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v14",
+      "statement": "Resuelva la ecuación cuadrática: x^2 - 28x + 195 = 0. ¿Cuáles son las dos raíces reales?",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 13 y x = 15",
+          "is_correct": true,
+          "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0 y x = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
+        },
+        {
+          "letter": "C",
+          "text": "x = 14 y x = -14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al factorizar o despejar los coeficientes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene raíces reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación se puede resolver factorizando como (x - (13))(x - (15)) = 0, lo que da las dos raíces correspondientes.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.48,
+      "bundle_id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v15",
+      "statement": "Resuelva la ecuación cuadrática: x^2 - 30x + 224 = 0. ¿Cuáles son las dos raíces reales?",
+      "context": "En Tarija, el estudiante Sonia del Colegio Nacional Bolivar analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 14 y x = 16",
+          "is_correct": true,
+          "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0 y x = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
+        },
+        {
+          "letter": "C",
+          "text": "x = 15 y x = -15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al factorizar o despejar los coeficientes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene raíces reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación se puede resolver factorizando como (x - (14))(x - (16)) = 0, lo que da las dos raíces correspondientes.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v16",
+      "statement": "Resuelva la ecuación cuadrática: x^2 - 32x + 255 = 0. ¿Cuáles son las dos raíces reales?",
+      "context": "En Oruro, el estudiante Ramiro del Colegio Nacional Potosí analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 15 y x = 17",
+          "is_correct": true,
+          "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0 y x = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
+        },
+        {
+          "letter": "C",
+          "text": "x = 16 y x = -16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al factorizar o despejar los coeficientes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene raíces reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación se puede resolver factorizando como (x - (15))(x - (17)) = 0, lo que da las dos raíces correspondientes.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.42,
+      "bundle_id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v17",
+      "statement": "Resuelva la ecuación cuadrática: x^2 - 34x + 288 = 0. ¿Cuáles son las dos raíces reales?",
+      "context": "En Potosí, el estudiante Yolanda del Colegio Nacional San Luis analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 16 y x = 18",
+          "is_correct": true,
+          "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0 y x = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
+        },
+        {
+          "letter": "C",
+          "text": "x = 17 y x = -17",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al factorizar o despejar los coeficientes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene raíces reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación se puede resolver factorizando como (x - (16))(x - (18)) = 0, lo que da las dos raíces correspondientes.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.39,
+      "bundle_id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v18",
+      "statement": "Resuelva la ecuación cuadrática: x^2 - 36x + 323 = 0. ¿Cuáles son las dos raíces reales?",
+      "context": "En Cobija, el estudiante Jaime del Colegio Nacional Trinidad analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 17 y x = 19",
+          "is_correct": true,
+          "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0 y x = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
+        },
+        {
+          "letter": "C",
+          "text": "x = 18 y x = -18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al factorizar o despejar los coeficientes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene raíces reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación se puede resolver factorizando como (x - (17))(x - (19)) = 0, lo que da las dos raíces correspondientes.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.36,
+      "bundle_id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v19",
+      "statement": "Resuelva la ecuación cuadrática: x^2 - 38x + 360 = 0. ¿Cuáles son las dos raíces reales?",
+      "context": "En Trinidad, el estudiante Marcela del Colegio Nacional Cobija analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 18 y x = 20",
+          "is_correct": true,
+          "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0 y x = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
+        },
+        {
+          "letter": "C",
+          "text": "x = 19 y x = -19",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al factorizar o despejar los coeficientes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene raíces reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación se puede resolver factorizando como (x - (18))(x - (20)) = 0, lo que da las dos raíces correspondientes.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.33,
+      "bundle_id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v20",
+      "statement": "Resuelva la ecuación cuadrática: x^2 - 40x + 399 = 0. ¿Cuáles son las dos raíces reales?",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 19 y x = 21",
+          "is_correct": true,
+          "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0 y x = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
+        },
+        {
+          "letter": "C",
+          "text": "x = 20 y x = -20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al factorizar o despejar los coeficientes."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene raíces reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación se puede resolver factorizando como (x - (19))(x - (21)) = 0, lo que da las dos raíces correspondientes.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.3,
+      "bundle_id": "BO-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}

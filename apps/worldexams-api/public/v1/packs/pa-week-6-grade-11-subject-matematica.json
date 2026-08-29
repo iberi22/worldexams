@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pa",
+    "pack_id": "pa-week-6-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:39.061Z"
+  },
+  "questions": [
+    {
+      "id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el primer paso recomendado para resolver la ecuación $2x - 5 = 11$?",
+      "context": "Un estudiante en Ciudad de Panamá repasa las propiedades de la igualdad para resolver ecuaciones de primer grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dividir toda la ecuación entre 2",
+          "is_correct": false,
+          "feedback": "Aunque es matemáticamente posible, suele generar fracciones innecesarias desde el inicio del proceso."
+        },
+        {
+          "letter": "B",
+          "text": "Sumar 5 a ambos lados de la ecuación",
+          "is_correct": true,
+          "feedback": "Correcto. Para aislar el término con la variable se aplica la operación inversa a la resta dada."
+        },
+        {
+          "letter": "C",
+          "text": "Restar 11 a ambos lados de la ecuación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto agrupa las constantes en un lado pero no ayuda a despejar la variable x del otro."
+        },
+        {
+          "letter": "D",
+          "text": "Multiplicar toda la ecuación por -1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiaría los signos de todos los términos pero no facilitaría el aislamiento de la incógnita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de los pasos lógicos y propiedades de la igualdad para la resolución de ecuaciones lineales.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v2",
+      "statement": "Resuelve para el valor de $x$ en la ecuación: $3x + 4 = 19$.",
+      "context": "Un mensajero en Colón necesita calcular el tiempo de entrega basado en una tarifa fija más un costo variable.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 7.6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Probablemente se sumó la constante 4 al valor 19 en lugar de restarla durante el despeje."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 5$",
+          "is_correct": true,
+          "feedback": "Correcto. Restando 4 queda 3x = 15; dividiendo luego entre 3 resulta en x = 5."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error en la división final tras haber restado la constante correctamente."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 23/3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al trasponer el término independiente (+4) al otro miembro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de ecuaciones lineales de dos pasos mediante el uso de operaciones inversas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el exponente de la variable en una ecuación de primer grado?",
+      "context": "Durante una clase en la Universidad de Panamá, se discuten las características técnicas de las ecuaciones lineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un exponente nulo haría que la variable desapareciera de la expresión matemática."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. Las ecuaciones de primer grado se definen por tener la incógnita elevada a la potencia uno."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este exponente es el que caracteriza a las ecuaciones cuadráticas o de segundo grado."
+        },
+        {
+          "letter": "D",
+          "text": "Cualquier número",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nombre de la ecuación restringe específicamente el valor del exponente a la unidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Definición técnica y clasificación de las ecuaciones polinómicas (lineales o de primer grado).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v4",
+      "statement": "Encuentra el valor real de $x$ en la ecuación: $10 - 2x = 4$.",
+      "context": "Un comerciante en Santiago modela sus gastos semanales mediante una igualdad lineal simple.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = -3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos al realizar el despeje; se debe considerar el coeficiente negativo de la variable."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. -2x = 4 - 10, lo que da -2x = -6. Al dividir por -2, el resultado es positivo 3."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al sumar el valor de 10 a la constante 4 en lugar de restarlo como corresponde."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicación errónea de todas las reglas de trasposición de términos en la ecuación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Manejo de coeficientes negativos y términos constantes en la resolución de ecuaciones lineales.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v5",
+      "statement": "¿Qué ecuación representa el enunciado: \"El doble de un número aumentado en 8 es igual a 20\"?",
+      "context": "Un artesano en Coclé traduce un problema verbal a lenguaje matemático para calcular su producción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x + 8 = 20$",
+          "is_correct": true,
+          "feedback": "Correcto. Doble de un número es 2x, aumentado en 8 es +8, e igual a 20 completa la expresión."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + 8 = 20$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El término \"cuadrado\" y \"doble\" representan operaciones matemáticas distintas."
+        },
+        {
+          "letter": "C",
+          "text": "$2(x + 8) = 20$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta igualdad representaría el doble de la suma de un número y ocho."
+        },
+        {
+          "letter": "D",
+          "text": "$x/2 + 8 = 20$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta expresión describe la mitad de un número en lugar de su duplicado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Traducción de enunciados en lenguaje natural a ecuaciones lineales de primer grado.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v6",
+      "statement": "Halla el valor de la incógnita en la ecuación: $5x - 3 = 2x + 9$.",
+      "context": "Un ingeniero en David resuelve una ecuación con variables en ambos lados para equilibrar cargas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al agrupar los términos semejantes que contienen a la variable x."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4$",
+          "is_correct": true,
+          "feedback": "Correcto. 5x - 2x = 9 + 3, por lo que 3x = 12. Dividiendo entre 3 se obtiene x = 4."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 12/7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó el término 2x en lugar de restarlo al trasponerlo al primer miembro."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la suma de los valores constantes o en la sustracción de los coeficientes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de ecuaciones lineales con la incógnita presente en ambos miembros de la igualdad.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v7",
+      "statement": "Halla la solución de la ecuación: $3(x - 2) = 12$.",
+      "context": "Un contador en Panamá simplifica una expresión con paréntesis antes de determinar una utilidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor se obtiene si no se distribuye el factor 3 sobre la constante negativa -2."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 6$",
+          "is_correct": true,
+          "feedback": "Correcto. 3x - 6 = 12, entonces 3x = 18. Al realizar la división se obtiene el valor de 6."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 14/3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error de signo al trasponer el término constante resultante del paréntesis."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error aritmético básico durante alguna de las etapas del despeje."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación de la propiedad distributiva en la resolución de ecuaciones lineales.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v8",
+      "statement": "Encuentra el valor de $x$ en la ecuación: $\\frac{x}{2} + 5 = 11$.",
+      "context": "Un técnico en refrigeración en Chitré utiliza una fórmula para conversión de temperaturas fraccionarias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se realizó una división en lugar de una multiplicación durante el paso final del despeje."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 12$",
+          "is_correct": true,
+          "feedback": "Correcto. x/2 = 11 - 5, entonces x/2 = 6. Multiplicando por 2 se obtiene el valor 12."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al realizar la resta de las constantes o al despejar el denominador de la fracción."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 32$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error de cálculo significativo en la operación de multiplicación final."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de ecuaciones lineales que involucran coeficientes fraccionarios.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la solución de la ecuación: $4x + 7 = 4x - 2$?",
+      "context": "Un analista en la Ciudad del Saber determina si una ecuación de configuración posee solución real.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al sustituir este valor se obtiene una contradicción numérica (7 no es igual a -2)."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la igualdad de los términos planteados en la expresión original."
+        },
+        {
+          "letter": "C",
+          "text": "No tiene solución",
+          "is_correct": true,
+          "feedback": "Correcto. Al restar 4x de ambos lados se llega a 7 = -2, lo cual es una contradicción lógica."
+        },
+        {
+          "letter": "D",
+          "text": "Infinitas soluciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurriría si los términos constantes de ambos lados también fueran idénticos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificación de ecuaciones lineales sin solución (sistemas inconsistentes).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v10",
+      "statement": "Resuelve la ecuación: $2(x + 3) - 5 = x + 4$.",
+      "context": "Un topógrafo en Chiriquí resuelve una ecuación con varios términos para el perímetro de un lote.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. 2x+6-5 = x+4, lo que da 2x+1 = x+4. Trasponiendo términos se obtiene x = 3."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al simplificar los términos constantes presentes en el primer miembro de la igualdad."
+        },
+        {
+          "letter": "C",
+          "text": "$x = -3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el manejo de los signos al trasponer los términos hacia los lados opuestos."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar la propiedad distributiva o al reducir los términos de la variable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Resolución de ecuaciones lineales que requieren distribución y reducción de términos semejantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v11",
+      "statement": "Halla el valor de $x$ que satisface: $\\frac{x}{3} + \\frac{x}{2} = 5$.",
+      "context": "Un economista en Panamá analiza una ecuación de demanda con diferentes denominadores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al sustituir este valor no se cumple la igualdad de las fracciones con la constante."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 6$",
+          "is_correct": true,
+          "feedback": "Correcto. Multiplicando todo por 6: 2x + 3x = 30, entonces 5x = 30 y el resultado final es x = 6."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al procesar la suma de las fracciones o al despejar el valor de la incógnita."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 5/6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resultado proveniente de una manipulación errónea de las leyes de los denominadores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de ecuaciones lineales con denominadores numéricos mediante el método del MCM.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v12",
+      "statement": "Resuelve la ecuación con decimales: $0.4x - 1.2 = 0.1x + 0.6$.",
+      "context": "Un arquitecto resuelve una ecuación para hallar el punto de intersección de dos vigas rectas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al realizar las operaciones de resta o suma con los coeficientes decimales."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 6$",
+          "is_correct": true,
+          "feedback": "Correcto. 0.3x = 1.8. Al dividir 1.8 entre 0.3 se obtiene exactamente el valor de 6."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error en la etapa final de división de los números decimales obtenidos."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 0.6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de posición en el punto decimal durante la escritura del resultado final."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de ecuaciones lineales que contienen coeficientes en forma decimal.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v13",
+      "statement": "La suma de las edades de Ricardo e Itzel es 45 años. Si Ricardo tiene 5 años más que Itzel, ¿qué ecuación permite hallar la edad de Itzel?",
+      "context": "Un estudiante plantea una ecuación para resolver un problema de edades inspirado en nombres locales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x + 5 = 45$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta igualdad ignora la edad del segundo personaje mencionado en el problema."
+        },
+        {
+          "letter": "B",
+          "text": "$x + (x + 5) = 45$",
+          "is_correct": true,
+          "feedback": "Correcto. Representa la suma de la edad de Itzel (x) y la edad de Ricardo (x+5)."
+        },
+        {
+          "letter": "C",
+          "text": "$x + 5x = 45$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto indicaría una relación multiplicativa entre las edades, no una diferencia simple."
+        },
+        {
+          "letter": "D",
+          "text": "$x - 5 = 45$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No refleja la condición de suma total de las dos edades dadas inicialmente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Modelado de problemas de la vida real mediante el planteamiento de ecuaciones lineales.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v14",
+      "statement": "Halla la solución de la proporción: $\\frac{x - 3}{4} = \\frac{x + 1}{6}$.",
+      "context": "Un farmacéutico en Aguadulce prepara una mezcla y resuelve una proporción lineal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al sustituir este valor en ambos miembros no se mantiene la igualdad numérica."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 11$",
+          "is_correct": true,
+          "feedback": "Correcto. 6(x-3) = 4(x+1), lo que da 6x-18 = 4x+4. Resolviendo se obtiene 2x = 22."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error cometido en el paso de distribución o en la trasposición de los términos con x."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resultado obtenido tras una simplificación algebraica errónea de los numeradores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de ecuaciones lineales mediante el producto cruzado en estructuras proporcionales.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v15",
+      "statement": "¿Qué se puede afirmar sobre la ecuación $3(x - 4) + 2 = 3x - 10$?",
+      "context": "Un analista financiero determina si una política resulta en una identidad matemática con infinitos puntos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiene una solución única",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al simplificar los términos de la variable x, esta desaparece de la igualdad."
+        },
+        {
+          "letter": "B",
+          "text": "No tiene solución",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se obtiene una igualdad numérica verdadera (identidad) tras la simplificación."
+        },
+        {
+          "letter": "C",
+          "text": "Tiene infinitas soluciones",
+          "is_correct": true,
+          "feedback": "Correcto. La expresión se reduce a -10 = -10, lo cual es válido para cualquier número real x."
+        },
+        {
+          "letter": "D",
+          "text": "La única solución es cero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el cero satisface la igualdad, no es el único valor que lo hace."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Distinción entre ecuaciones con solución única, inconsistentes e identidades.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v16",
+      "statement": "Despeja la variable $x$ en la ecuación: $ax + b = c$.",
+      "context": "Un experto en logística en el Canal resuelve una ecuación literal para despejar una variable.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = c - b - a$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La operación inversa de la multiplicación que afecta a la x es la división."
+        },
+        {
+          "letter": "B",
+          "text": "$x = (c - b) / a$",
+          "is_correct": true,
+          "feedback": "Correcto. Primero se resta la constante b y luego se divide todo por el coeficiente a."
+        },
+        {
+          "letter": "C",
+          "text": "$x = (c + b) / a$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error de signo al trasponer el término independiente al otro miembro."
+        },
+        {
+          "letter": "D",
+          "text": "$x = c - b/a$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La división por el coeficiente a debe afectar a toda la diferencia resultante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de ecuaciones literales mediante el despeje algorítmico de variables.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v17",
+      "statement": "Resuelve la ecuación con fracciones combinadas: $\\frac{2x - 1}{3} - \\frac{x + 2}{4} = 1$.",
+      "context": "Un científico en el Smithsonian analiza tasas de evaporación mediante una ecuación compleja.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al evaluar el residuo con este valor no se alcanza la igualdad con la unidad."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4.4$",
+          "is_correct": true,
+          "feedback": "Correcto. Tras multiplicar por 12 se obtiene 4(2x-1) - 3(x+2) = 12, lo que lleva a x = 22/5."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al reducir los términos semejantes tras eliminar los denominadores numéricos."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 3.2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo aritmético en los pasos finales del proceso de resolución."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de ecuaciones lineales complejas con múltiples fracciones y signos negativos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v18",
+      "statement": "¿Para qué valor de $k$ la ecuación $kx - 3 = 5x + 2$ no posee ninguna solución real?",
+      "context": "Un consultor financiero evalúa una inversión que depende de parámetros variables k.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$k = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con este valor la ecuación se convierte en lineal con una solución única definida."
+        },
+        {
+          "letter": "B",
+          "text": "$k = 5$",
+          "is_correct": true,
+          "feedback": "Correcto. Si k=5, los términos con la variable se anulan dejando una contradicción numérica."
+        },
+        {
+          "letter": "C",
+          "text": "$k = -5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resultaría en una ecuación lineal estándar con una única solución posible."
+        },
+        {
+          "letter": "D",
+          "text": "$k = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor no anula los términos de la variable necesarios para la inconsistencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis de condiciones paramétricas para la existencia de soluciones en igualdades lineales.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v19",
+      "statement": "Halla la solución de la ecuación: $(x + 2)^2 - x^2 = 12$.",
+      "context": "Reto sobre ecuaciones que parecen de grado superior pero se reducen a lineales por cancelación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor del primer miembro sería 8, el cual no iguala a la constante 12 dada."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. Al expandir el binomio queda 4x+4=12, lo cual resulta en la solución x=2."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al evaluar x=4 en la expresión original se obtiene un valor de 20."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor resultante del lado izquierdo sería 4 en lugar del valor de 12."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de ecuaciones que involucran productos notables y simplificaciones lineales.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    },
+    {
+      "id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle-v20",
+      "statement": "Determina el valor exacto de $x$ que satisface la igualdad: $\\frac{1}{x} + \\frac{1}{2x} = 3$.",
+      "context": "Un experto en criptografía analiza la reversibilidad de una función usada en un código.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de las fracciones daría 1.5 en lugar del valor constante de 3."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 0.5$",
+          "is_correct": true,
+          "feedback": "Correcto. Multiplicando por 2x queda 2+1=6x, por lo tanto 3=6x y x es igual a un medio."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de las fracciones daría un valor menor a la unidad (0.75)."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 1.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se cumple la condición de igualdad para esta entrada numérica específica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de ecuaciones racionales que se transforman en modelos lineales de primer grado.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación |\n| --- | --- |\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "PA-MAT-11-2026-W06-ecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pa"
+    }
+  ]
+}

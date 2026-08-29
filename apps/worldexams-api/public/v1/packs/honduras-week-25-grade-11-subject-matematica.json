@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "honduras",
+    "pack_id": "honduras-week-25-grade-11-subject-matematicas",
+    "generated_at": "2026-06-22T05:46:18.260Z"
+  },
+  "questions": [
+    {
+      "id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v1",
+      "statement": "Si un saco de café pesa 45.5 kg y el comerciante tiene 12 sacos, ¿cuál es el peso total del café en kilogramos?",
+      "context": "En un mercado de Tegucigalpa, un comerciante vende sacos de café.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "540.0 kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por el decimal 0.5."
+        },
+        {
+          "letter": "B",
+          "text": "545.5 kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simplemente sumaste 12 al peso de un saco."
+        },
+        {
+          "letter": "C",
+          "text": "546.0 kg",
+          "is_correct": true,
+          "feedback": "¡Correcto! 45.5 x 12 = 546."
+        },
+        {
+          "letter": "D",
+          "text": "556.0 kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el acarreo de la multiplicación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para encontrar el peso total, multiplicamos el peso de un solo saco (45.5) por la cantidad total de sacos (12). 45.5 * 10 = 455; 45.5 * 2 = 91; 455 + 91 = 546.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.9,
+      "bundle_id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "honduras"
+    },
+    {
+      "id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v2",
+      "statement": "La tarifa eléctrica es de L. 4.50 por kWh. Si la familia consumió 280 kWh en el mes, ¿cuánto debe pagar?",
+      "context": "Una familia en San Pedro Sula está calculando el presupuesto para el consumo de energía eléctrica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L. 1,120",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por 4 en lugar de 4.5."
+        },
+        {
+          "letter": "B",
+          "text": "L. 1,260",
+          "is_correct": true,
+          "feedback": "¡Correcto! 280 x 4.5 = 1,260."
+        },
+        {
+          "letter": "C",
+          "text": "L. 1,350",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la operación aritmética."
+        },
+        {
+          "letter": "D",
+          "text": "L. 1,400",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por 5 en lugar de 4.5."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El costo total se obtiene multiplicando el consumo (280 kWh) por el precio unitario (L. 4.50). 280 * 4 = 1120; 280 * 0.5 = 140; 1120 + 140 = 1260.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Solución de Problemas",
+      "expected_success": 0.85,
+      "bundle_id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "honduras"
+    },
+    {
+      "id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v3",
+      "statement": "En un mapa a escala 1:500,000, la distancia entre dos ciudades es de 6 cm. ¿Cuál es la distancia real en kilómetros?",
+      "context": "Un estudiante de Comayagua analiza la escala de un mapa de Honduras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 km",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la conversión de unidades de cm a km."
+        },
+        {
+          "letter": "B",
+          "text": "30 km",
+          "is_correct": true,
+          "feedback": "¡Correcto! 6 * 500,000 cm = 3,000,000 cm = 30 km."
+        },
+        {
+          "letter": "C",
+          "text": "300 km",
+          "is_correct": false,
+          "feedback": "Incorrecto. Agregaste un cero de más en la conversión."
+        },
+        {
+          "letter": "D",
+          "text": "3,000 km",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error grave de escala."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La escala 1:500,000 significa que 1 cm en el mapa son 500,000 cm en la realidad. 6 cm * 500,000 = 3,000,000 cm. Convertimos a km dividiendo por 100,000: 3,000,000 / 100,000 = 30 km.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.82,
+      "bundle_id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "honduras"
+    },
+    {
+      "id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v4",
+      "statement": "El terreno tiene un largo de 150 metros y un ancho de 80 metros. ¿Cuántos metros de alambre necesita para darle una vuelta completa (perímetro)?",
+      "context": "Un agricultor en El Paraíso quiere cercar un terreno rectangular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "230 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo sumaste el largo y el ancho una vez."
+        },
+        {
+          "letter": "B",
+          "text": "460 m",
+          "is_correct": true,
+          "feedback": "¡Correcto! P = 2(150) + 2(80) = 300 + 160 = 460."
+        },
+        {
+          "letter": "C",
+          "text": "12,000 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste el área, no el perímetro."
+        },
+        {
+          "letter": "D",
+          "text": "400 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la suma de los lados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El perímetro de un rectángulo se calcula sumando dos veces el largo y dos veces el ancho: P = 2L + 2W. En este caso, P = 2(150) + 2(80) = 460 metros.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.8,
+      "bundle_id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "honduras"
+    },
+    {
+      "id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v5",
+      "statement": "Un televisor cuesta L. 8,400 pero tiene un descuento del 15%. ¿Cuál es el precio final del televisor?",
+      "context": "En una tienda de La Ceiba, se ofrece un descuento por temporada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L. 7,410",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la resta o en el cálculo del descuento."
+        },
+        {
+          "letter": "B",
+          "text": "L. 7,140",
+          "is_correct": true,
+          "feedback": "¡Correcto! El 15% de 8,400 es 1,260. 8,400 - 1,260 = 7,140."
+        },
+        {
+          "letter": "C",
+          "text": "L. 1,260",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor del descuento, no el precio final."
+        },
+        {
+          "letter": "D",
+          "text": "L. 7,240",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la resta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero calculamos el valor del descuento: 8,400 * 0.15 = 1,260. Luego restamos el descuento al precio original: 8,400 - 1,260 = 7,140.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Solución de Problemas",
+      "expected_success": 0.77,
+      "bundle_id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "honduras"
+    },
+    {
+      "id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v6",
+      "statement": "La población inicial es de 500 bacterias y se duplica cada 3 horas. ¿Cuántas bacterias habrá después de 9 horas?",
+      "context": "Un laboratorio en Choluteca analiza el crecimiento de una población de bacterias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1,500",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por 3 en lugar de usar potencia de 2."
+        },
+        {
+          "letter": "B",
+          "text": "2,000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo duplicaste dos veces."
+        },
+        {
+          "letter": "C",
+          "text": "4,000",
+          "is_correct": true,
+          "feedback": "¡Correcto! En 9 horas hay 3 periodos de duplicación. 500 * 2^3 = 500 * 8 = 4,000."
+        },
+        {
+          "letter": "D",
+          "text": "4,500",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo exponencial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Determinamos cuántas veces se duplica la población: 9 horas / 3 horas = 3 veces. Usamos la fórmula de crecimiento exponencial: N = N0 * 2^n. N = 500 * 2^3 = 500 * 8 = 4,000.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.75,
+      "bundle_id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "honduras"
+    },
+    {
+      "id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v7",
+      "statement": "Se invierten L. 10,000 a una tasa de interés simple anual del 8%. ¿Cuánto interés se habrá ganado después de 2 años?",
+      "context": "Un inversionista analiza el interés simple en una cooperativa de ahorro en Juticalpa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L. 800",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo calculaste el interés de un año."
+        },
+        {
+          "letter": "B",
+          "text": "L. 1,600",
+          "is_correct": true,
+          "feedback": "¡Correcto! I = C * r * t = 10,000 * 0.08 * 2 = 1,600."
+        },
+        {
+          "letter": "C",
+          "text": "L. 11,600",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el monto total, no solo el interés ganado."
+        },
+        {
+          "letter": "D",
+          "text": "L. 2,000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la aplicación de la tasa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fórmula del interés simple es I = P * r * t, donde P es el capital, r la tasa decimal y t el tiempo en años. I = 10,000 * 0.08 * 2 = 1,600.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.72,
+      "bundle_id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "honduras"
+    },
+    {
+      "id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v8",
+      "statement": "Resuelve la siguiente ecuación para x: 4(x - 3) = 2x + 10.",
+      "context": "Resolución de ecuaciones lineales en un examen de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa los signos al trasponer términos."
+        },
+        {
+          "letter": "B",
+          "text": "x = 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la simplificación."
+        },
+        {
+          "letter": "C",
+          "text": "x = 11",
+          "is_correct": true,
+          "feedback": "¡Correcto! 4x - 12 = 2x + 10 => 2x = 22 => x = 11."
+        },
+        {
+          "letter": "D",
+          "text": "x = 22",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste dividir por 2 al final."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Primero distribuimos: 4x - 12 = 2x + 10. Luego agrupamos las x: 4x - 2x = 10 + 12, lo que resulta en 2x = 22. Finalmente despejamos x dividiendo por 2: x = 11.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Solución de Problemas",
+      "expected_success": 0.7,
+      "bundle_id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "honduras"
+    },
+    {
+      "id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v9",
+      "statement": "En una urna hay 5 bolas rojas, 3 verdes y 2 amarillas. Si se extrae una bola al azar, ¿cuál es la probabilidad de que NO sea roja?",
+      "context": "Probabilidad en un juego de feria en Trujillo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo de la fracción."
+        },
+        {
+          "letter": "B",
+          "text": "0.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la probabilidad de que sea verde."
+        },
+        {
+          "letter": "C",
+          "text": "0.5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Hay 5 bolas que no son rojas (3 verdes + 2 amarillas) de un total de 10. 5/10 = 0.5."
+        },
+        {
+          "letter": "D",
+          "text": "0.2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la probabilidad de que sea amarilla."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La probabilidad de un evento es (casos favorables / casos totales). El total es 5+3+2 = 10. Las bolas que no son rojas son las verdes y amarillas (3+2 = 5). P = 5/10 = 0.5.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.68,
+      "bundle_id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "honduras"
+    },
+    {
+      "id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v10",
+      "statement": "Un estudiante tiene las siguientes notas: 85, 90, 78 y 92. ¿Qué nota debe sacar en el quinto examen para que su promedio sea exactamente 88?",
+      "context": "Cálculo de promedio de notas en una escuela de Santa Rosa de Copán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "88",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sacar la misma nota que el promedio deseado no compensará las notas anteriores."
+        },
+        {
+          "letter": "B",
+          "text": "90",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es suficiente para elevar el promedio a 88."
+        },
+        {
+          "letter": "C",
+          "text": "95",
+          "is_correct": true,
+          "feedback": "¡Correcto! La suma total debe ser 88 * 5 = 440. 440 - (85+90+78+92) = 440 - 345 = 95."
+        },
+        {
+          "letter": "D",
+          "text": "100",
+          "is_correct": false,
+          "feedback": "Incorrecto. Superas el promedio deseado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para un promedio de 88 en 5 exámenes, la suma de las notas debe ser 88 * 5 = 440. Sumamos las notas actuales: 85 + 90 + 78 + 92 = 345. La nota necesaria es 440 - 345 = 95.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.65,
+      "bundle_id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "honduras"
+    },
+    {
+      "id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v11",
+      "statement": "Si el diámetro del parque es de 40 metros, ¿cuál es su área aproximada? (Use π ≈ 3.14)",
+      "context": "Un arquitecto diseña un parque circular en Danlí.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "125.6 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste la circunferencia, no el área."
+        },
+        {
+          "letter": "B",
+          "text": "5,024 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste el diámetro en lugar del radio en la fórmula r²."
+        },
+        {
+          "letter": "C",
+          "text": "1,256 m²",
+          "is_correct": true,
+          "feedback": "¡Correcto! El radio es 20m. A = 3.14 * 20^2 = 3.14 * 400 = 1,256."
+        },
+        {
+          "letter": "D",
+          "text": "12,560 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la posición del punto decimal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El radio es la mitad del diámetro (40 / 2 = 20 m). La fórmula del área es A = π * r². A ≈ 3.14 * (20 m)² = 3.14 * 400 m² = 1,256 m².\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Solución de Problemas",
+      "expected_success": 0.62,
+      "bundle_id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "honduras"
+    },
+    {
+      "id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v12",
+      "statement": "Dada la función f(x) = x² - 6x + 9, ¿en qué punto corta al eje X (raíz)?",
+      "context": "Estudio de funciones cuadráticas en el movimiento de un proyectil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, 3)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este punto no está sobre el eje X."
+        },
+        {
+          "letter": "B",
+          "text": "(3, 0)",
+          "is_correct": true,
+          "feedback": "¡Correcto! x^2 - 6x + 9 = (x - 3)^2. La raíz es x = 3."
+        },
+        {
+          "letter": "C",
+          "text": "(-3, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el signo en la factorización del trinomio."
+        },
+        {
+          "letter": "D",
+          "text": "(9, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de f(0), no la raíz."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar las raíces, igualamos la función a cero: x² - 6x + 9 = 0. Notamos que es un trinomio cuadrado perfecto: (x - 3)² = 0. Por lo tanto, x = 3 es la única raíz.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.6,
+      "bundle_id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "honduras"
+    },
+    {
+      "id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v13",
+      "statement": "Si dos ruedas están conectadas por una banda y la primera tiene un radio de 10 cm y gira a 60 RPM, ¿a qué velocidad gira la segunda si su radio es de 15 cm?",
+      "context": "Un sistema de poleas en una fábrica de arneses en Choloma.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "90 RPM",
+          "is_correct": false,
+          "feedback": "Incorrecto. A mayor radio, menor velocidad de rotación."
+        },
+        {
+          "letter": "B",
+          "text": "40 RPM",
+          "is_correct": true,
+          "feedback": "¡Correcto! r1 * v1 = r2 * v2 => 10 * 60 = 15 * v2 => 600 / 15 = 40."
+        },
+        {
+          "letter": "C",
+          "text": "45 RPM",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la división."
+        },
+        {
+          "letter": "D",
+          "text": "30 RPM",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la proporción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La relación entre radios y velocidades en poleas conectadas es inversamente proporcional: r1 * ω1 = r2 * ω2. Sustituyendo: 10 * 60 = 15 * ω2. ω2 = 600 / 15 = 40 RPM.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.58,
+      "bundle_id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "honduras"
+    },
+    {
+      "id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v14",
+      "statement": "Desde un faro de 50 metros de altura, el ángulo de depresión hacia un barco es de 30°. ¿A qué distancia horizontal se encuentra el barco del faro?",
+      "context": "Trigonometría aplicada a la navegación cerca de las Islas de la Bahía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sería si el ángulo fuera de 45°."
+        },
+        {
+          "letter": "B",
+          "text": "100 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la hipotenusa con el cateto adyacente."
+        },
+        {
+          "letter": "C",
+          "text": "86.6 m",
+          "is_correct": true,
+          "feedback": "¡Correcto! tan(30°) = 50 / d. d = 50 / tan(30°) ≈ 50 / 0.577 ≈ 86.6."
+        },
+        {
+          "letter": "D",
+          "text": "25 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la función trigonométrica usada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Usamos la función tangente: tan(θ) = opuesto / adyacente. tan(30°) = 50 / d. Despejando d: d = 50 / tan(30°). Como tan(30°) ≈ 0.577, d ≈ 86.6 metros.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Solución de Problemas",
+      "expected_success": 0.55,
+      "bundle_id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "honduras"
+    },
+    {
+      "id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v15",
+      "statement": "Si 2x + y = 10 y x - y = 2, ¿cuáles son los valores de x e y?",
+      "context": "Resolución de sistemas de ecuaciones en economía local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x=2, y=6",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cumple la segunda ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "x=4, y=2",
+          "is_correct": true,
+          "feedback": "¡Correcto! 2(4)+2=10 y 4-2=2."
+        },
+        {
+          "letter": "C",
+          "text": "x=3, y=4",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cumple la segunda ecuación."
+        },
+        {
+          "letter": "D",
+          "text": "x=5, y=0",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cumple la segunda ecuación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Podemos usar el método de eliminación sumando ambas ecuaciones: (2x + y) + (x - y) = 10 + 2 => 3x = 12 => x = 4. Sustituyendo x en la segunda: 4 - y = 2 => y = 2.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.52,
+      "bundle_id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "honduras"
+    },
+    {
+      "id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es el valor de x en la ecuación log_2(x) = 5?",
+      "context": "Logaritmos y su aplicación en la escala Richter.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 2 * 5 en lugar de elevar a la potencia."
+        },
+        {
+          "letter": "B",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevarste 5 al cuadrado en lugar de 2 a la quinta."
+        },
+        {
+          "letter": "C",
+          "text": "32",
+          "is_correct": true,
+          "feedback": "¡Correcto! Por definición de logaritmo: 2^5 = x. x = 32."
+        },
+        {
+          "letter": "D",
+          "text": "64",
+          "is_correct": false,
+          "feedback": "Incorrecto. Te excediste en una potencia de 2."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La definición de logaritmo establece que si log_b(x) = y, entonces b^y = x. En este caso, 2^5 = x, por lo tanto x = 2 * 2 * 2 * 2 * 2 = 32.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.5,
+      "bundle_id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "honduras"
+    },
+    {
+      "id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v17",
+      "statement": "Un estanque rectangular tiene 10 m de largo, 5 m de ancho y 2 m de profundidad. ¿Cuál es su capacidad máxima en litros? (Recuerde: 1 m³ = 1,000 litros)",
+      "context": "Un estanque de peces en el Lago de Yojoa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10,000 L",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo del volumen base."
+        },
+        {
+          "letter": "B",
+          "text": "50,000 L",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por la profundidad."
+        },
+        {
+          "letter": "C",
+          "text": "100,000 L",
+          "is_correct": true,
+          "feedback": "¡Correcto! V = 10 * 5 * 2 = 100 m³. 100 * 1,000 = 100,000 litros."
+        },
+        {
+          "letter": "D",
+          "text": "1,000,000 L",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la escala de conversión de m³ a litros."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Primero calculamos el volumen en metros cúbicos: V = largo * ancho * profundidad = 10 * 5 * 2 = 100 m³. Luego convertimos a litros multiplicando por 1,000: 100 * 1,000 = 100,000 litros.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Solución de Problemas",
+      "expected_success": 0.48,
+      "bundle_id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "honduras"
+    },
+    {
+      "id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v18",
+      "statement": "Un empleado ahorra L. 500 el primer mes, L. 550 el segundo, L. 600 el tercero, y así sucesivamente. ¿Cuánto ahorrará en el mes número 12?",
+      "context": "Sucesiones aritméticas en el ahorro programado de un empleado en Puerto Cortés.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L. 1,000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Subestimaste el crecimiento constante."
+        },
+        {
+          "letter": "B",
+          "text": "L. 1,050",
+          "is_correct": true,
+          "feedback": "¡Correcto! a12 = 500 + (12 - 1) * 50 = 500 + 550 = 1,050."
+        },
+        {
+          "letter": "C",
+          "text": "L. 1,100",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste n en lugar de (n-1)."
+        },
+        {
+          "letter": "D",
+          "text": "L. 1,200",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo de la diferencia común."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Es una progresión aritmética donde a1 = 500 y d = 50. La fórmula para el término n es an = a1 + (n - 1)d. Para n=12: a12 = 500 + (11 * 50) = 500 + 550 = 1,050.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.45,
+      "bundle_id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "honduras"
+    },
+    {
+      "id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es la distancia entre los puntos A(2, 3) y B(5, 7) en el plano cartesiano?",
+      "context": "Geometría analítica en el diseño de una antena en Santa Bárbara.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo restaste las coordenadas X."
+        },
+        {
+          "letter": "B",
+          "text": "4 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo restaste las coordenadas Y."
+        },
+        {
+          "letter": "C",
+          "text": "5 unidades",
+          "is_correct": true,
+          "feedback": "¡Correcto! d = √((5-2)^2 + (7-3)^2) = √(3^2 + 4^2) = √(9 + 16) = 5."
+        },
+        {
+          "letter": "D",
+          "text": "7 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la aplicación del teorema de Pitágoras."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Usamos la fórmula de distancia entre dos puntos: d = √((x2 - x1)² + (y2 - y1)²). d = √((5 - 2)² + (7 - 3)²) = √(3² + 4²) = √(9 + 16) = √25 = 5.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Solución de Problemas",
+      "expected_success": 0.42,
+      "bundle_id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "honduras"
+    },
+    {
+      "id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle-v20",
+      "statement": "Si f(x) = (3x - 5) / 2, ¿cuál es su función inversa f⁻¹(x)?",
+      "context": "Análisis de funciones inversas en procesos de manufactura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f⁻¹(x) = (2x - 3) / 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al despejar la variable."
+        },
+        {
+          "letter": "B",
+          "text": "f⁻¹(x) = 2x - 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste el término constante al trasponer."
+        },
+        {
+          "letter": "C",
+          "text": "f⁻¹(x) = (2x + 5) / 3",
+          "is_correct": true,
+          "feedback": "¡Correcto! y = (3x-5)/2 => 2y = 3x-5 => 2y+5 = 3x => x = (2y+5)/3."
+        },
+        {
+          "letter": "D",
+          "text": "f⁻¹(x) = (3x + 5) / 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simplemente cambiaste el signo de la constante original."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para hallar la inversa, igualamos a 'y' y despejamos 'x': y = (3x - 5) / 2. Multiplicamos por 2: 2y = 3x - 5. Sumamos 5: 2y + 5 = 3x. Dividimos por 3: (2y + 5) / 3 = x. Intercambiamos variables: f⁻¹(x) = (2x + 5) / 3.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación",
+      "expected_success": 0.38,
+      "bundle_id": "HN-MAT-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "honduras"
+    }
+  ]
+}

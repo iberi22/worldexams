@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ingles",
+    "country": "cl",
+    "pack_id": "cl-week-1-grade-11-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.089Z"
+  },
+  "questions": [
+    {
+      "id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-v1",
+      "statement": "According to recent reports, global temperatures have risen by 1.1 degrees Celsius since the late 19th century.",
+      "context": "A news headline about climate change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have risen",
+          "is_correct": true,
+          "feedback": "Correct. The present perfect is used for actions starting in the past and continuing to the present."
+        },
+        {
+          "letter": "B",
+          "text": "rose",
+          "is_correct": false,
+          "feedback": "Incorrect. This would imply the rising finished at a specific point in the past."
+        },
+        {
+          "letter": "C",
+          "text": "are rising",
+          "is_correct": false,
+          "feedback": "Incorrect. While they are rising, the sentence specifies \"since the late 19th century.\""
+        },
+        {
+          "letter": "D",
+          "text": "had risen",
+          "is_correct": false,
+          "feedback": "Incorrect. The past perfect is used for an action completed before another past action."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The present perfect 'have risen' is used with 'since' to describe a situation that began in the past and persists in the present.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-v2",
+      "statement": "Transitioning to renewable energy sources is crucial to mitigate the effects of greenhouse gas emissions.",
+      "context": "Discussion about sustainable energy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "finite",
+          "is_correct": false,
+          "feedback": "Incorrect. Finite means limited, which refers to fossil fuels."
+        },
+        {
+          "letter": "B",
+          "text": "renewable",
+          "is_correct": true,
+          "feedback": "Correct. Renewable sources like solar and wind are key to sustainability."
+        },
+        {
+          "letter": "C",
+          "text": "fossil",
+          "is_correct": false,
+          "feedback": "Incorrect. Fossil fuels are the primary cause of the emissions being discussed."
+        },
+        {
+          "letter": "D",
+          "text": "depleted",
+          "is_correct": false,
+          "feedback": "Incorrect. Depleted means used up."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Renewable' is the appropriate term for energy sources that are not exhausted when used, such as solar or wind power.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-v3",
+      "statement": "By the year 2050, many countries will have aimed to achieve net-zero carbon emissions.",
+      "context": "Talking about future environmental goals.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will hope",
+          "is_correct": false,
+          "feedback": "Incorrect. This expresses a simple future hope rather than a projected completion."
+        },
+        {
+          "letter": "B",
+          "text": "will have aimed",
+          "is_correct": true,
+          "feedback": "Correct. The future perfect is used to describe an action that will be completed by a certain point in the future."
+        },
+        {
+          "letter": "C",
+          "text": "are aiming",
+          "is_correct": false,
+          "feedback": "Incorrect. This describes a current action, not one relative to 2050."
+        },
+        {
+          "letter": "D",
+          "text": "aimed",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the past tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The future perfect 'will have aimed' is used to project the state of an action at a specific future deadline.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-v4",
+      "statement": "The extinction of certain species often leads to a domino effect, disrupting entire ecosystems and threatening human food security.",
+      "context": "An article about biodiversity loss.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "static",
+          "is_correct": false,
+          "feedback": "Incorrect. Static means unchanging."
+        },
+        {
+          "letter": "B",
+          "text": "domino",
+          "is_correct": true,
+          "feedback": "Correct. A domino effect occurs when one event sets off a chain of similar events."
+        },
+        {
+          "letter": "C",
+          "text": "isolated",
+          "is_correct": false,
+          "feedback": "Incorrect. The text describes disruption across \"entire ecosystems,\" not in isolation."
+        },
+        {
+          "letter": "D",
+          "text": "reversible",
+          "is_correct": false,
+          "feedback": "Incorrect. Extinction is usually permanent and the resulting disruptions are difficult to reverse."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The term 'domino effect' metaphorically describes how the loss of one species triggers a sequence of negative impacts throughout an ecosystem.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-v5",
+      "statement": "Critics argue that the global response to the pandemic was fragmented. Which of the following best summarizes this perspective?",
+      "context": "Debate on international cooperation for global health.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "All nations worked in perfect harmony from the beginning.",
+          "is_correct": false,
+          "feedback": "Incorrect. This contradicts the term 'fragmented'."
+        },
+        {
+          "letter": "B",
+          "text": "The response was led by a single, powerful global entity.",
+          "is_correct": false,
+          "feedback": "Incorrect. Fragmented implies lack of central leadership or unity."
+        },
+        {
+          "letter": "C",
+          "text": "Nations prioritized individual interests over a unified global strategy.",
+          "is_correct": true,
+          "feedback": "Correct. A fragmented response implies lack of coordination and division."
+        },
+        {
+          "letter": "D",
+          "text": "Technology was the only barrier to a successful outcome.",
+          "is_correct": false,
+          "feedback": "Incorrect. The focus of the criticism is on the 'response', not just technology."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Fragmented' in this context means disjointed or lacking unity, indicating that countries did not cooperate effectively.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-v6",
+      "statement": "The rapid growth of cities, known as urbanization, presents challenges for infrastructure and waste management.",
+      "context": "Urbanization and its impact.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ruralization",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the opposite of city growth."
+        },
+        {
+          "letter": "B",
+          "text": "urbanization",
+          "is_correct": true,
+          "feedback": "Correct. Urbanization refers to the process of making an area more urban."
+        },
+        {
+          "letter": "C",
+          "text": "migration",
+          "is_correct": false,
+          "feedback": "Incorrect. While migration causes urbanization, the term for city growth itself is urbanization."
+        },
+        {
+          "letter": "D",
+          "text": "congestion",
+          "is_correct": false,
+          "feedback": "Incorrect. Congestion is a symptom of urbanization, not the name of the process."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Urbanization is the standard sociological and geographical term for the expansion and development of cities.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-v7",
+      "statement": "If more developed countries increased their foreign aid, many developing nations could improve their healthcare systems faster.",
+      "context": "Discussion on poverty reduction.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "increase",
+          "is_correct": false,
+          "feedback": "Incorrect. This would be used in a first conditional for a real possibility."
+        },
+        {
+          "letter": "B",
+          "text": "increased",
+          "is_correct": true,
+          "feedback": "Correct. The second conditional (if + past simple, could + verb) is used for hypothetical situations."
+        },
+        {
+          "letter": "C",
+          "text": "would increase",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' is not used in the 'if' clause of a conditional."
+        },
+        {
+          "letter": "D",
+          "text": "have increased",
+          "is_correct": false,
+          "feedback": "Incorrect. This does not fit the conditional structure."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The second conditional describes a hypothetical situation in the present or future, using the past simple in the 'if' clause.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-v8",
+      "statement": "The \"digital divide\" refers to the gap between those who have access to information and communication technology and those who do not.",
+      "context": "Text about digital divide.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "modern transportation",
+          "is_correct": false,
+          "feedback": "Incorrect. The digital divide is about information technology."
+        },
+        {
+          "letter": "B",
+          "text": "information and communication technology",
+          "is_correct": true,
+          "feedback": "Correct. This is the definition of the digital divide."
+        },
+        {
+          "letter": "C",
+          "text": "free healthcare services",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a different type of social inequality."
+        },
+        {
+          "letter": "D",
+          "text": "quality higher education",
+          "is_correct": false,
+          "feedback": "Incorrect. While related, the primary focus is on digital access."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The digital divide specifically concerns the inequality in access to computers, the internet, and related technologies.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-v9",
+      "statement": "Reducing our carbon footprint is one of the most effective ways individuals can contribute to fighting climate change.",
+      "context": "Environmental advocacy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "footprint",
+          "is_correct": true,
+          "feedback": "Correct. A carbon footprint is the total amount of greenhouse gases produced by an individual or entity."
+        },
+        {
+          "letter": "B",
+          "text": "track",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Track' is not the standard term used with 'carbon' in this context."
+        },
+        {
+          "letter": "C",
+          "text": "impact",
+          "is_correct": false,
+          "feedback": "Incorrect. While we reduce our 'impact', the specific idiomatic term is 'footprint'."
+        },
+        {
+          "letter": "D",
+          "text": "shadow",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Shadow' is not used in this scientific context."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Carbon footprint' is a common environmental term for the measure of impact on the climate.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-v10",
+      "statement": "The text suggests that consumer choices potentially have the power to influence corporate behavior regarding labor rights.",
+      "context": "Excerpt on ethical consumerism.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "rarely",
+          "is_correct": false,
+          "feedback": "Incorrect. Ethical consumerism is based on the idea that choices *do* have power."
+        },
+        {
+          "letter": "B",
+          "text": "never",
+          "is_correct": false,
+          "feedback": "Incorrect. This contradicts the premise of the text."
+        },
+        {
+          "letter": "C",
+          "text": "potentially",
+          "is_correct": true,
+          "feedback": "Correct. The text implies a possibility of influence through collective consumer action."
+        },
+        {
+          "letter": "D",
+          "text": "accidentally",
+          "is_correct": false,
+          "feedback": "Incorrect. Consumer choices in this context are deliberate and intended to influence."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Potentially' captures the idea that while one choice might not change a company, the aggregate of many choices can.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-v11",
+      "statement": "The United Nations was established in 1945 to promote international cooperation.",
+      "context": "General fact about the UN.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. The UN was established in the past."
+        },
+        {
+          "letter": "B",
+          "text": "was",
+          "is_correct": true,
+          "feedback": "Correct. Use the past simple passive for a completed action in the past."
+        },
+        {
+          "letter": "C",
+          "text": "has been",
+          "is_correct": false,
+          "feedback": "Incorrect. This would imply it is still in the process of being established."
+        },
+        {
+          "letter": "D",
+          "text": "were",
+          "is_correct": false,
+          "feedback": "Incorrect. 'The United Nations' is treated as a singular organization."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A specific past date (1945) requires the past simple.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-v12",
+      "statement": "Food insecurity occurs when people lack regular access to enough safe and nutritious food for an active and healthy life.",
+      "context": "Discussion on food security.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Malnutrition",
+          "is_correct": false,
+          "feedback": "Incorrect. Malnutrition is the result, but the state of lacking access is food insecurity."
+        },
+        {
+          "letter": "B",
+          "text": "Famine",
+          "is_correct": false,
+          "feedback": "Incorrect. Famine is an extreme and widespread scarcity of food."
+        },
+        {
+          "letter": "C",
+          "text": "Food insecurity",
+          "is_correct": true,
+          "feedback": "Correct. This is the formal term for lacking consistent access to food."
+        },
+        {
+          "letter": "D",
+          "text": "Poverty",
+          "is_correct": false,
+          "feedback": "Incorrect. Poverty is a cause, but not the specific definition of the food situation."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Food insecurity is the technical term for the condition described.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-v13",
+      "statement": "Many refugees had left their homes due to conflict before the international community provided aid.",
+      "context": "Talking about a past event with current relevance.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "leave",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "B",
+          "text": "have left",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect is for past to present."
+        },
+        {
+          "letter": "C",
+          "text": "had left",
+          "is_correct": true,
+          "feedback": "Correct. The past perfect is used for an action that happened before another past action."
+        },
+        {
+          "letter": "D",
+          "text": "were leaving",
+          "is_correct": false,
+          "feedback": "Incorrect. This describes an action in progress."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The past perfect 'had left' establishes the sequence of two past events.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-v14",
+      "statement": "The primary driver of deforestation in the Amazon is the expansion of agricultural land for cattle ranching and soy production.",
+      "context": "Text about deforestation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "consequence",
+          "is_correct": false,
+          "feedback": "Incorrect. The text lists ranching as the cause."
+        },
+        {
+          "letter": "B",
+          "text": "driver",
+          "is_correct": true,
+          "feedback": "Correct. In this context, 'driver' means the main cause or force behind a process."
+        },
+        {
+          "letter": "C",
+          "text": "solution",
+          "is_correct": false,
+          "feedback": "Incorrect. Agriculture is the problem."
+        },
+        {
+          "letter": "D",
+          "text": "obstacle",
+          "is_correct": false,
+          "feedback": "Incorrect. Deforestation is the process."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Driver' is a common term in social and environmental sciences to describe a primary cause.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-v15",
+      "statement": "The author implies that while globalization has increased wealth globally, it has also exacerbated economic inequality within many countries.",
+      "context": "Argument about the benefits and drawbacks of globalization.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "eliminated",
+          "is_correct": false,
+          "feedback": "Incorrect. Inequality may have worsened."
+        },
+        {
+          "letter": "B",
+          "text": "exacerbated",
+          "is_correct": true,
+          "feedback": "Correct. To exacerbate means to make a problem or bad situation worse."
+        },
+        {
+          "letter": "C",
+          "text": "stabilized",
+          "is_correct": false,
+          "feedback": "Incorrect. Stabilization would mean it stopped changing."
+        },
+        {
+          "letter": "D",
+          "text": "ignored",
+          "is_correct": false,
+          "feedback": "Incorrect. Globalization isn't a sentient being."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Exacerbated' correctly identifies the negative impact of globalization mentioned in the text.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-v16",
+      "statement": "The Universal Declaration of Human Rights states that everyone is entitled to life, liberty, and security of person.",
+      "context": "Human rights discussion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "allowed",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Entitled' is stronger."
+        },
+        {
+          "letter": "B",
+          "text": "entitled",
+          "is_correct": true,
+          "feedback": "Correct. To be entitled to something means to have a right to it."
+        },
+        {
+          "letter": "C",
+          "text": "requested",
+          "is_correct": false,
+          "feedback": "Incorrect. These are fundamental rights."
+        },
+        {
+          "letter": "D",
+          "text": "supposed",
+          "is_correct": false,
+          "feedback": "Incorrect. This implies a weak expectation."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Entitled' is the formal term used in legal and rights-based contexts.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-v17",
+      "statement": "We must use less plastic if we want to protect our oceans from further pollution.",
+      "context": "Talking about sustainable habits.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "might",
+          "is_correct": false,
+          "feedback": "Incorrect. This expresses a weak possibility."
+        },
+        {
+          "letter": "B",
+          "text": "would",
+          "is_correct": false,
+          "feedback": "Incorrect. This is conditional."
+        },
+        {
+          "letter": "C",
+          "text": "must",
+          "is_correct": true,
+          "feedback": "Correct. 'Must' expresses strong obligation or necessity."
+        },
+        {
+          "letter": "D",
+          "text": "could",
+          "is_correct": false,
+          "feedback": "Incorrect. This expresses ability or possibility."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Must' is used to express a strong necessity, which is appropriate for the urgent tone of environmental protection.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-v18",
+      "statement": "A circular economy aims to eliminate waste by keeping products and materials in use for as long as possible.",
+      "context": "Text about the circular economy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "generate",
+          "is_correct": false,
+          "feedback": "Incorrect. The goal is the opposite."
+        },
+        {
+          "letter": "B",
+          "text": "eliminate",
+          "is_correct": true,
+          "feedback": "Correct. The goal of a circular economy is to design out waste."
+        },
+        {
+          "letter": "C",
+          "text": "ignore",
+          "is_correct": false,
+          "feedback": "Incorrect. The circular economy is a strategy to manage materials."
+        },
+        {
+          "letter": "D",
+          "text": "export",
+          "is_correct": false,
+          "feedback": "Incorrect. Exporting waste is not the same."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The core principle of a circular economy is to minimize or eliminate waste through better design and reuse.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-v19",
+      "statement": "Many regions are facing severe water shortages, leading to conflicts over access to clean drinking water.",
+      "context": "News report on water scarcity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "abundance",
+          "is_correct": false,
+          "feedback": "Incorrect. Abundance means plenty."
+        },
+        {
+          "letter": "B",
+          "text": "surplus",
+          "is_correct": false,
+          "feedback": "Incorrect. Surplus means an extra amount."
+        },
+        {
+          "letter": "C",
+          "text": "shortages",
+          "is_correct": true,
+          "feedback": "Correct. A shortage is a state where something needed cannot be obtained in sufficient amounts."
+        },
+        {
+          "letter": "D",
+          "text": "flows",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Flows' refers to the movement of water."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Shortages' correctly describes the lack of water that causes the mentioned conflicts.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-v20",
+      "statement": "The author concludes that systemic change is required to address the root causes of global poverty.",
+      "context": "Conclusion of an essay on social justice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "hide",
+          "is_correct": false,
+          "feedback": "Incorrect. The author wants to solve the problem."
+        },
+        {
+          "letter": "B",
+          "text": "maintain",
+          "is_correct": false,
+          "feedback": "Incorrect. The author wants to change the system."
+        },
+        {
+          "letter": "C",
+          "text": "address",
+          "is_correct": true,
+          "feedback": "Correct. In this context, to 'address' means to think about and begin to deal with an issue."
+        },
+        {
+          "letter": "D",
+          "text": "witness",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Witnessing' is passive."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Address' is the appropriate verb for dealing with complex social issues.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W01-global-issues-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

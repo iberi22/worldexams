@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-7-grade-8-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.734Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-8-2026-W07-experiences-001-MASTERY-v1",
+      "statement": "I ________ to Cartagena three times. It's a beautiful city!",
+      "context": "Talking about having visited a place.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was",
+          "is_correct": false,
+          "feedback": "Incorrect. We use Present Perfect for experiences."
+        },
+        {
+          "letter": "B",
+          "text": "have been",
+          "is_correct": true,
+          "feedback": "Correct! Present Perfect (have + past participle) for life experiences."
+        },
+        {
+          "letter": "C",
+          "text": "am",
+          "is_correct": false,
+          "feedback": "Incorrect. This is present tense."
+        },
+        {
+          "letter": "D",
+          "text": "has been",
+          "is_correct": false,
+          "feedback": "Incorrect. \"I\" takes \"have\", not \"has\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Presente Perfecto se utiliza para hablar de experiencias que han ocurrido en algún momento de la vida, sin especificar exactamente cuándo.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W07-experiences-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W07-experiences-001-MASTERY-v2",
+      "statement": "________ you ever ________ an exotic fruit like a pitahaya?",
+      "context": "Asking about a life experience.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Do / eat",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for habits."
+        },
+        {
+          "letter": "B",
+          "text": "Did / eat",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for a specific time in the past."
+        },
+        {
+          "letter": "C",
+          "text": "Have / eaten",
+          "is_correct": true,
+          "feedback": "Correct! \"Have + past participle\" for questions about experiences."
+        },
+        {
+          "letter": "D",
+          "text": "Has / eaten",
+          "is_correct": false,
+          "feedback": "Incorrect. \"You\" takes \"have\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para preguntar sobre experiencias de vida usamos \"Have you ever + participio pasado\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W07-experiences-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W07-experiences-001-MASTERY-v3",
+      "statement": "My sister ________ already ________ her homework, so she can go out.",
+      "context": "Third person singular in Present Perfect.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have / finished",
+          "is_correct": false,
+          "feedback": "Incorrect. My sister (she) takes \"has\"."
+        },
+        {
+          "letter": "B",
+          "text": "has / finished",
+          "is_correct": true,
+          "feedback": "Correct! Third person singular (he/she/it) uses \"has\"."
+        },
+        {
+          "letter": "C",
+          "text": "is / finished",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically incorrect for present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "did / finished",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Did\" is for Past Simple questions/negatives."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el Presente Perfecto, recordamos cambiar el auxiliar a \"has\" cuando el sujeto es he, she o it.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W07-experiences-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W07-experiences-001-MASTERY-v4",
+      "statement": "Juan has lived in Medellín ________ he was a little boy.",
+      "context": "Using \"since\" for duration.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "for",
+          "is_correct": false,
+          "feedback": "Incorrect. \"For\" is used for periods of time (e.g., 5 years)."
+        },
+        {
+          "letter": "B",
+          "text": "since",
+          "is_correct": true,
+          "feedback": "Correct! \"Since\" is used for a specific starting point in time."
+        },
+        {
+          "letter": "C",
+          "text": "during",
+          "is_correct": false,
+          "feedback": "Incorrect. Not the standard preposition for present perfect duration."
+        },
+        {
+          "letter": "D",
+          "text": "until",
+          "is_correct": false,
+          "feedback": "Incorrect. This means he stopped living there."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos \"since\" para indicar el punto de inicio de una acción que continúa hasta el presente.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W07-experiences-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W07-experiences-001-MASTERY-v5",
+      "statement": "We have studied English ________ five years.",
+      "context": "Using \"for\" for duration.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "for",
+          "is_correct": true,
+          "feedback": "Correct! \"For\" is used to show a duration or period of time."
+        },
+        {
+          "letter": "B",
+          "text": "since",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Since\" needs a specific point in time, not a number of years."
+        },
+        {
+          "letter": "C",
+          "text": "ago",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Ago\" is only used with Past Simple."
+        },
+        {
+          "letter": "D",
+          "text": "yet",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Yet\" is used for expectations in negatives/questions."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"For\" se utiliza para indicar la duración de una acción (cuánto tiempo ha pasado).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-8-2026-W07-experiences-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W07-experiences-001-MASTERY-v6",
+      "statement": "Shakira ________ many awards throughout her career.",
+      "context": "Talking about Colombian world-famous personalities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "won",
+          "is_correct": false,
+          "feedback": "Incorrect. Her career is ongoing, so Present Perfect is better."
+        },
+        {
+          "letter": "B",
+          "text": "has won",
+          "is_correct": true,
+          "feedback": "Correct! Present perfect connects the past with the current status of her career."
+        },
+        {
+          "letter": "C",
+          "text": "have won",
+          "is_correct": false,
+          "feedback": "Incorrect. Shakira (she) takes \"has\"."
+        },
+        {
+          "letter": "D",
+          "text": "wins",
+          "is_correct": false,
+          "feedback": "Incorrect. This is present simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando hablamos de los logros de alguien que sigue activo en su carrera, el Presente Perfecto es el tiempo más apropiado porque los eventos pueden repetirse.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-8-2026-W07-experiences-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W07-experiences-001-MASTERY-v7",
+      "statement": "I ________ a lot of coffee today, but yesterday I ________ any.",
+      "context": "Contrasting Present Perfect and Past Simple.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "drank / haven't drunk",
+          "is_correct": false,
+          "feedback": "Incorrect. Tenses are in the wrong places."
+        },
+        {
+          "letter": "B",
+          "text": "have drunk / didn't drink",
+          "is_correct": true,
+          "feedback": "Correct! \"Today\" is an unfinished time (Present Perfect); \"yesterday\" is finished (Past Simple)."
+        },
+        {
+          "letter": "C",
+          "text": "have drunk / haven't drunk",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Yesterday\" requires Past Simple."
+        },
+        {
+          "letter": "D",
+          "text": "drunk / didn't drunk",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically incorrect forms."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este es un punto clave de B1: usar Presente Perfecto para tiempos no terminados (today, this week) y Pasado Simple para tiempos terminados (yesterday, last year).\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-8-2026-W07-experiences-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W07-experiences-001-MASTERY-v8",
+      "statement": "**A:** \"Are you hungry?\"\r\n**B:** \"No, thanks. I've ________ had a big lunch.\"",
+      "context": "Using \"just\" for recent actions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "just",
+          "is_correct": true,
+          "feedback": "Correct! \"Just\" indicates that the action happened a very short time ago."
+        },
+        {
+          "letter": "B",
+          "text": "yet",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Yet\" goes at the end of negative sentences or questions."
+        },
+        {
+          "letter": "C",
+          "text": "ever",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Ever\" is for questions about experiences in general."
+        },
+        {
+          "letter": "D",
+          "text": "never",
+          "is_correct": false,
+          "feedback": "Incorrect. Would mean you haven't eaten, but the response says \"no thanks\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La palabra \"just\" se coloca entre el auxiliar y el participio para indicar que una acción acaba de ocurrir.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-8-2026-W07-experiences-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W07-experiences-001-MASTERY-v9",
+      "statement": "Where is Maria? She's ________ to the supermarket. She'll be back in ten minutes.",
+      "context": "Been vs. Gone.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "been",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Been\" means she went and came back."
+        },
+        {
+          "letter": "B",
+          "text": "gone",
+          "is_correct": true,
+          "feedback": "Correct! \"Gone\" means she is still at the destination or on her way there."
+        },
+        {
+          "letter": "C",
+          "text": "went",
+          "is_correct": false,
+          "feedback": "Incorrect. We need a participle after \"has\" ('s)."
+        },
+        {
+          "letter": "D",
+          "text": "go",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En Presente Perfecto, \"been\" indica que el viaje se completó (fue y volvió), mientras que \"gone\" indica que la persona aún está allá.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-8-2026-W07-experiences-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W07-experiences-001-MASTERY-v10",
+      "statement": "Which part of this text contains a grammatical error?\r\n\"I have **known (A)** my best friend **for (B)** ten years. We **have met (C)** in primary school and we **have been (D)** inseparable since then.\"",
+      "context": "Identifying errors in a complex paragraph.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "known",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct participle for \"know\"."
+        },
+        {
+          "letter": "B",
+          "text": "for",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct preposition for a period of time."
+        },
+        {
+          "letter": "C",
+          "text": "have met",
+          "is_correct": true,
+          "feedback": "Correct! This is an error. Meeting someone is a specific event in the past; it should be \"We met\" (Past Simple)."
+        },
+        {
+          "letter": "D",
+          "text": "have been",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use to show a state that continues to the present."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En B1 se debe saber que eventos únicos de inicio (como conocer a alguien o nacer) se expresan en Pasado Simple, aunque la relación resultante use Presente Perfecto.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-8-2026-W07-experiences-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W07-experiences-001-MASTERY-v11",
+      "statement": "Choose the most natural dialogue for a mother checking her son's chores:",
+      "context": "Evaluating the use of \"yet\" and \"already\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Have you finished yet?\" - \"Yes, I already did.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple is possible in American English but Present Perfect is preferred in B1 tests."
+        },
+        {
+          "letter": "B",
+          "text": "\"Have you finished your chores yet?\" - \"Yes, I have already finished them.\"",
+          "is_correct": true,
+          "feedback": "Correct! Uses both \"yet\" and \"already\" perfectly in Present Perfect."
+        },
+        {
+          "letter": "C",
+          "text": "\"Did you finish already?\" - \"No, I haven't finished already.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Already\" is not used in negative responses of this type; \"yet\" is needed."
+        },
+        {
+          "letter": "D",
+          "text": "\"You finish yet?\" - \"I have finish now.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically broken."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Yet\" se usa en preguntas y negativas (al final), mientras que \"already\" se usa en afirmaciones para indicar que algo ocurrió antes de lo esperado.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-8-2026-W07-experiences-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W07-experiences-001-MASTERY-v12",
+      "statement": "\"Gabriel García Márquez won the Nobel Prize in 1982. He wrote many books that have changed world literature. Even though he died in 2014, his work has remained a symbol of Latin America.\"\r\nWhat is the best way to describe his impact?",
+      "context": "Summarizing a person's life achievement.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "His historical achievements in the past continue to influence the present world.",
+          "is_correct": true,
+          "feedback": "Correct! It summarizes the mix of Past Simple (achievements) and Present Perfect (influence)."
+        },
+        {
+          "letter": "B",
+          "text": "He is going to write more books about Macondo in the future.",
+          "is_correct": false,
+          "feedback": "Incorrect. He is deceased."
+        },
+        {
+          "letter": "C",
+          "text": "He has never won an important award during his life.",
+          "is_correct": false,
+          "feedback": "Incorrect. Contradicts the text."
+        },
+        {
+          "letter": "D",
+          "text": "He only wrote books for people in Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrect. Text says he changed \"world literature\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Crear una síntesis requiere entender cómo las acciones terminadas (Past Simple) de figuras históricas tienen efectos duraderos (Present Perfect) en la cultura actual.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-8-2026-W07-experiences-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

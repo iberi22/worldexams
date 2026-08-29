@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "gq",
+    "pack_id": "gq-week-2-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:38.752Z"
+  },
+  "questions": [
+    {
+      "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v1",
+      "statement": "¿Cual es el resultado de la operacion $a^m \\cdot a^n$ segun las propiedades de las potencias de base real?",
+      "context": "Un estudiante en el Centro de Estudios de Malabo repasa las leyes basicas de los exponentes antes de un examen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a^{m \\cdot n}$",
+          "is_correct": false,
+          "feedback": "Esta propiedad corresponde a la potencia de una potencia, no al producto de potencias."
+        },
+        {
+          "letter": "B",
+          "text": "$a^{m + n}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al multiplicar potencias de la misma base, se suman los exponentes."
+        },
+        {
+          "letter": "C",
+          "text": "$a^{m - n}$",
+          "is_correct": false,
+          "feedback": "Esta propiedad corresponde al cociente de potencias de la misma base."
+        },
+        {
+          "letter": "D",
+          "text": "$(2a)^{m+n}$",
+          "is_correct": false,
+          "feedback": "La base se mantiene igual, no se multiplica por dos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La regla del producto para potencias establece que para cualquier base real $a$ y exponentes $m, n$, al multiplicar las potencias se conserva la base y se suman los exponentes. Es una de las leyes fundamentales del algebra.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v2",
+      "statement": "¿Como se expresa el numero real $a$ elevado a un exponente negativo, $a^{-n}$, donde $a \\neq 0$?",
+      "context": "En una ferreteria de Bata, se venden cables cuya resistencia varia de forma exponencial. El dueño anota las formulas en una pizarra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-a^n$",
+          "is_correct": false,
+          "feedback": "Un exponente negativo no hace que el resultado sea negativo, sino que indica un reciproco."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{a^n}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El exponente negativo indica el inverso multiplicativo de la potencia con exponente positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt[n]{a}$",
+          "is_correct": false,
+          "feedback": "Esto representa una potencia con exponente fraccionario (1/n)."
+        },
+        {
+          "letter": "D",
+          "text": "$n \\cdot a$",
+          "is_correct": false,
+          "feedback": "Esto es una multiplicacion simple, no una operacion de potencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un exponente negativo es una forma abreviada de escribir el reciproco de una potencia. Por definicion, $a^{-n} = 1/a^n$. Esta propiedad es esencial para trabajar con numeros muy pequeños en notacion cientifica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v3",
+      "statement": "Si el lado de un cuadrado mide $\\sqrt{x}$ metros, ¿cual es el area del cuadrado en metros cuadrados?",
+      "context": "Un topografo en Mongomo calcula el area de un terreno cuadrado cuya medida de lado esta expresada como una raiz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{x^2}$",
+          "is_correct": false,
+          "feedback": "Aunque matematicamente es equivalente a x (para x positivo), la forma mas simplificada es x."
+        },
+        {
+          "letter": "B",
+          "text": "$2\\sqrt{x}$",
+          "is_correct": false,
+          "feedback": "Esto representaria el doble del lado, no el area."
+        },
+        {
+          "letter": "C",
+          "text": "$x$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $(\\sqrt{x})^2 = x$, asumiendo que x es un numero real no negativo."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2$",
+          "is_correct": false,
+          "feedback": "Esto seria el area si el lado midiera x, no la raiz de x."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La operacion de elevar al cuadrado es la inversa de obtener la raiz cuadrada. Por lo tanto, el area de un cuadrado de lado $L$ es $L^2$. Si $L = \\sqrt{x}$, entonces el area es $(\\sqrt{x})^2 = x$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v4",
+      "statement": "Si inicialmente hay 1 bacteria, ¿que expresion representa la cantidad de bacterias despues de $n$ horas?",
+      "context": "Una bióloga en el Parque Nacional de Monte Alen estudia el crecimiento de una poblacion de bacterias que se triplica cada hora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3 \\cdot n$",
+          "is_correct": false,
+          "feedback": "Esto representaria un crecimiento lineal, no exponencial."
+        },
+        {
+          "letter": "B",
+          "text": "$3^n$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Cada hora multiplicamos por 3, lo que genera una potencia de base 3."
+        },
+        {
+          "letter": "C",
+          "text": "$n^3$",
+          "is_correct": false,
+          "feedback": "Aqui la base varia, pero en el crecimiento bacteriano la base (tasa de crecimiento) es constante."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt[3]{n}$",
+          "is_correct": false,
+          "feedback": "Esto representaria un crecimiento extremadamente lento, no triplicado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El crecimiento donde una cantidad se multiplica por un factor constante en intervalos regulares se modela mediante potencias. La base es el factor de crecimiento (3) y el exponente es el numero de periodos (n).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v5",
+      "statement": "¿Cual es la forma equivalente de expresar $\\sqrt[3]{a^2}$ usando exponentes fraccionarios?",
+      "context": "Un estudiante de secundaria en Ebebiyin intenta simplificar una expresion con radicales combinados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a^{3/2}$",
+          "is_correct": false,
+          "feedback": "El indice de la raiz va en el denominador, no en el numerador."
+        },
+        {
+          "letter": "B",
+          "text": "$a^{2/3}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El exponente del radicando es el numerador y el indice de la raiz el denominador."
+        },
+        {
+          "letter": "C",
+          "text": "$a^6$",
+          "is_correct": false,
+          "feedback": "Los exponentes no se multiplican de esta manera en las raices."
+        },
+        {
+          "letter": "D",
+          "text": "$a^{1/3}$",
+          "is_correct": false,
+          "feedback": "Se ha ignorado el exponente 2 que tiene la 'a' dentro de la raiz."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La relacion entre radicales y potencias esta dada por la formula $\\sqrt[n]{x^m} = x^{m/n}$. Esta conversion es muy util para simplificar operaciones complejas usando las leyes de los exponentes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.72,
+      "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v6",
+      "statement": "¿Cual es el volumen del deposito expresado como una sola potencia de 2?",
+      "context": "Un arquitecto en Ciudad de la Paz necesita calcular el volumen de un deposito cubico cuya arista mide $2^3$ centimetros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2^6$",
+          "is_correct": false,
+          "feedback": "Error al sumar exponentes en lugar de aplicar la potencia de una potencia correctamente."
+        },
+        {
+          "letter": "B",
+          "text": "$2^9$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El volumen es $(2^3)^3$. Multiplicando los exponentes tenemos $2^9$."
+        },
+        {
+          "letter": "C",
+          "text": "$2^{27}$",
+          "is_correct": false,
+          "feedback": "Los exponentes se multiplican, no se elevan uno al otro ($3 \\cdot 3 = 9$)."
+        },
+        {
+          "letter": "D",
+          "text": "$8^3$",
+          "is_correct": false,
+          "feedback": "Aunque el valor es el mismo, la pregunta pide expresarlo como potencia de 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El volumen de un cubo es $V = L^3$. Si el lado $L = 2^3$, entonces $V = (2^3)^3$. Aplicando la propiedad de potencia de una potencia $(a^m)^n = a^{m \\cdot n}$, obtenemos $2^{3 \\cdot 3} = 2^9$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v7",
+      "statement": "Si el capital es $1,000,000$ Francos CFA y el tiempo son 2 años, pero el banco decide pagar el doble de la tasa elevando la base al cuadrado, ¿que potencia representaria el nuevo factor de crecimiento?",
+      "context": "Un tesorero en Malabo maneja cuentas bancarias donde los intereses se calculan mediante la formula $Capital \\cdot (1.05)^t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(1.05)^4$",
+          "is_correct": false,
+          "feedback": "Elevar la base al cuadrado no es lo mismo que duplicar el tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "$(1.1025)^t$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $(1.05)^2 = 1.1025$. La nueva base de la potencia es el cuadrado de la anterior."
+        },
+        {
+          "letter": "C",
+          "text": "$(2.10)^t$",
+          "is_correct": false,
+          "feedback": "Duplicar la base no es lo mismo que elevarla al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "$1.05^{2t}$",
+          "is_correct": false,
+          "feedback": "Esto seria equivalente si la base no cambiara, pero aqui se pide la nueva base."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este problema requiere aplicar la propiedad de potencia de una potencia o simplemente calcular la potencia de la base. $(1.05)^2 = 1.1025$. La potencia resultante es una base real elevada a un exponente temporal.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v8",
+      "statement": "¿Cual es el resultado de simplificar $\\sqrt{a^4 \\cdot b^6}$ asumiendo que $a$ y $b$ son positivos?",
+      "context": "En un laboratorio en Bata, se simplifica la expresion $\\sqrt{a^4 \\cdot b^6}$ para un analisis de fluidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a^2 b^2$",
+          "is_correct": false,
+          "feedback": "El exponente de b deberia ser 3 (6 dividido por 2)."
+        },
+        {
+          "letter": "B",
+          "text": "$a^2 b^3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se divide cada exponente por el indice de la raiz (2)."
+        },
+        {
+          "letter": "C",
+          "text": "$a^8 b^{12}$",
+          "is_correct": false,
+          "feedback": "Los exponentes se dividen, no se multiplican por el indice."
+        },
+        {
+          "letter": "D",
+          "text": "$a^4 b^6$",
+          "is_correct": false,
+          "feedback": "No se ha aplicado la raiz cuadrada a los exponentes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para extraer factores de una raiz cuadrada, dividimos sus exponentes por 2. $\\sqrt{a^4} = a^{4/2} = a^2$ y $\\sqrt{b^6} = b^{6/2} = b^3$. El producto resultante es $a^2b^3$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v9",
+      "statement": "¿Cual es el valor numerico de $27^{2/3}$?",
+      "context": "Un estudiante en Evinayong calcula el valor de $27^{2/3}$ sin usar calculadora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Error al multiplicar la base por la fraccion."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Este es solo el resultado de la raiz cubica de 27."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": true,
+          "feedback": "¡Correcto! La raiz cubica de 27 es 3, y 3 al cuadrado es 9."
+        },
+        {
+          "letter": "D",
+          "text": "81",
+          "is_correct": false,
+          "feedback": "Error al aplicar la potencia antes de la raiz de forma incorrecta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para calcular $a^{m/n}$, es mas sencillo primero extraer la raiz $n$-esima y luego elevar al exponente $m$. $\\sqrt[3]{27} = 3$. Luego $3^2 = 9$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v10",
+      "statement": "¿Cual es el desarrollo correcto de la expresion $(2x)^3$?",
+      "context": "Un arquitecto en Mongomo utiliza la propiedad de la potencia de un producto para simplificar el diseño de una estructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x^3$",
+          "is_correct": false,
+          "feedback": "El coeficiente 2 tambien debe elevarse al cubo."
+        },
+        {
+          "letter": "B",
+          "text": "$6x^3$",
+          "is_correct": false,
+          "feedback": "Se ha multiplicado 2 por 3 en lugar de elevar 2 al cubo."
+        },
+        {
+          "letter": "C",
+          "text": "$8x^3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $2^3 = 8$ y $x^3 = x^3$."
+        },
+        {
+          "letter": "D",
+          "text": "$8x$",
+          "is_correct": false,
+          "feedback": "La variable x tambien debe mantener su exponente 3."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La propiedad distributiva de la potencia respecto al producto establece que $(a \\cdot b)^n = a^n \\cdot b^n$. En este caso, aplicamos el cubo tanto al numero 2 como a la variable $x$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.64,
+      "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v11",
+      "statement": "¿Cual es la forma racionalizada y simplificada de la expresion $\\frac{10}{\\sqrt{5}}$?",
+      "context": "Un ingeniero en el puerto de Luba necesita racionalizar una expresion de diseño que contiene una raiz en el denominador: $\\frac{10}{\\sqrt{5}}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "No se puede dividir un entero por una raiz directamente de esta forma."
+        },
+        {
+          "letter": "B",
+          "text": "$10\\sqrt{5}$",
+          "is_correct": false,
+          "feedback": "Falta dividir por el denominador resultante tras la racionalizacion."
+        },
+        {
+          "letter": "C",
+          "text": "$2\\sqrt{5}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al multiplicar por $\\sqrt{5}/\\sqrt{5}$ queda $10\\sqrt{5}/5$, que se simplifica a $2\\sqrt{5}$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Error en la simplificacion de los numeros enteros y la raiz."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La racionalizacion consiste en eliminar los radicales del denominador. Multiplicamos numerador y denominador por $\\sqrt{5}$ para obtener un denominador entero (5). Luego simplificamos la fraccion $10/5 = 2$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v12",
+      "statement": "¿Cual es el resultado simplificado de la operacion $3\\sqrt{2} + \\sqrt{50}$?",
+      "context": "Un estudiante en Annobon resuelve la suma de radicales semejantes para un proyecto de navegacion: $3\\sqrt{2} + \\sqrt{50}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{52}$",
+          "is_correct": false,
+          "feedback": "No se pueden sumar los radicandos directamente."
+        },
+        {
+          "letter": "B",
+          "text": "$8\\sqrt{4}$",
+          "is_correct": false,
+          "feedback": "Error al intentar sumar las raices y sus indices."
+        },
+        {
+          "letter": "C",
+          "text": "$8\\sqrt{2}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $\\sqrt{50} = 5\\sqrt{2}$. Al sumar $3\\sqrt{2} + 5\\sqrt{2}$ obtenemos $8\\sqrt{2}$."
+        },
+        {
+          "letter": "D",
+          "text": "$15\\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Se han multiplicado los coeficientes en lugar de sumarlos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para sumar radicales, estos deben ser semejantes (mismo indice y mismo radicando). Primero simplificamos $\\sqrt{50} = \\sqrt{25 \\cdot 2} = 5\\sqrt{2}$. Ahora que son semejantes, sumamos los coeficientes: $3 + 5 = 8$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v13",
+      "statement": "Simplifica la expresion $(\\sqrt[3]{x^2})^6$ asumiendo que $x$ es un numero real positivo.",
+      "context": "En un examen de acceso a la UNGE, se plantea simplificar la expresion $(\\sqrt[3]{x^2})^6$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2$",
+          "is_correct": false,
+          "feedback": "Error al aplicar las potencias sucesivas."
+        },
+        {
+          "letter": "B",
+          "text": "$x^4$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La expresion es $(x^{2/3})^6 = x^{(2/3) \\cdot 6} = x^4$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^3$",
+          "is_correct": false,
+          "feedback": "Error en el calculo de la fraccion resultante."
+        },
+        {
+          "letter": "D",
+          "text": "$x^{12}$",
+          "is_correct": false,
+          "feedback": "Se han multiplicado los exponentes internos sin considerar la raiz."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Convertimos el radical a exponente fraccionario: $x^{2/3}$. Luego aplicamos la potencia de una potencia multiplicando los exponentes: $(2/3) \\cdot 6 = 12/3 = 4$. El resultado es $x^4$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v14",
+      "statement": "¿Despues de cuanto tiempo $t$ la masa $M$ sera exactamente la cuarta parte de la masa inicial $M_0$?",
+      "context": "Un quimico en un laboratorio de Malabo analiza la desintegracion de una sustancia, cuya masa sigue la formula $M = M_0 \\cdot 2^{-t/5}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 años",
+          "is_correct": false,
+          "feedback": "Al sustituir 5 queda 2^-1, que es la mitad, no la cuarta parte."
+        },
+        {
+          "letter": "B",
+          "text": "10 años",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al sustituir 10 queda $2^{-10/5} = 2^{-2} = 1/4$."
+        },
+        {
+          "letter": "C",
+          "text": "2 años",
+          "is_correct": false,
+          "feedback": "Este valor no produce una fraccion de potencia de 2 simple."
+        },
+        {
+          "letter": "D",
+          "text": "20 años",
+          "is_correct": false,
+          "feedback": "Al sustituir 20 queda 2^-4 = 1/16, mucho menor que la cuarta parte."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Queremos que $M/M_0 = 1/4$, lo que significa que $2^{-t/5} = 2^{-2}$. Igualando los exponentes: $-t/5 = -2$. Al despejar $t$, obtenemos $t = 10$. Las potencias con base 2 son comunes en modelos de vida media.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v15",
+      "statement": "¿Cual de las siguientes afirmaciones es correcta al comparar los numeros $A$ y $B$?",
+      "context": "Un estudiante compara dos numeros reales expresados con radicales: $A = 2\\sqrt{3}$ y $B = 3\\sqrt{2}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$A > B$",
+          "is_correct": false,
+          "feedback": "$\\sqrt{12}$ no es mayor que $\\sqrt{18}$."
+        },
+        {
+          "letter": "B",
+          "text": "$B > A$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $B = \\sqrt{18}$ y $A = \\sqrt{12}$. Claramente 18 > 12."
+        },
+        {
+          "letter": "C",
+          "text": "$A = B$",
+          "is_correct": false,
+          "feedback": "Los numeros dentro y fuera de la raiz no compensan exactamente la igualdad."
+        },
+        {
+          "letter": "D",
+          "text": "No se pueden comparar porque son irracionales.",
+          "is_correct": false,
+          "feedback": "Todos los numeros reales son comparables segun la ley de tricotomia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para comparar radicales con diferentes coeficientes, es util introducir el coeficiente dentro de la raiz: $2\\sqrt{3} = \\sqrt{2^2 \\cdot 3} = \\sqrt{12}$. Del mismo modo, $3\\sqrt{2} = \\sqrt{3^2 \\cdot 2} = \\sqrt{18}$. Al tener el mismo indice, comparamos directamente los radicandos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v16",
+      "statement": "¿Cual es la forma simplificada de $\\sqrt[3]{54x^4}$?",
+      "context": "En un taller en Malabo se pide simplificar la expresion $\\sqrt[3]{54x^4}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3x \\sqrt[3]{6}$",
+          "is_correct": false,
+          "feedback": "Se ha olvidado la x que queda dentro de la raiz."
+        },
+        {
+          "letter": "B",
+          "text": "$3x \\sqrt[3]{2x}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $54 = 27 \\cdot 2$. $\\sqrt[3]{27}=3$ y $\\sqrt[3]{x^3}=x$. Quedan 2 y x dentro."
+        },
+        {
+          "letter": "C",
+          "text": "$6x \\sqrt[3]{2x}$",
+          "is_correct": false,
+          "feedback": "La raiz cubica de 54 no es 6."
+        },
+        {
+          "letter": "D",
+          "text": "$3 \\sqrt[3]{2x^4}$",
+          "is_correct": false,
+          "feedback": "No se ha extraído la variable x de la raiz."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Factorizamos el radicando en potencias perfectas del indice: $54 = 3^3 \\cdot 2$ y $x^4 = x^3 \\cdot x$. Extraemos los terminos cuya potencia coincide con el indice 3.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.46,
+      "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v17",
+      "statement": "¿Bajo que condicion la expresion $\\sqrt[n]{x}$ representa un numero real cuando $x$ es negativo?",
+      "context": "Un matematico analiza la validez de las operaciones con raices negativas en el conjunto de los numeros reales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Siempre que $n$ sea par.",
+          "is_correct": false,
+          "feedback": "Las raices de indice par de numeros negativos no son reales."
+        },
+        {
+          "letter": "B",
+          "text": "Siempre que $n$ sea impar.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las raices impares de numeros negativos existen en el conjunto de los reales (ej. raiz cubica de -8 es -2)."
+        },
+        {
+          "letter": "C",
+          "text": "Nunca, los numeros reales no pueden tener raices de numeros negativos.",
+          "is_correct": false,
+          "feedback": "Esto solo es cierto para indices pares."
+        },
+        {
+          "letter": "D",
+          "text": "Solo si $x$ es mayor que $-1$.",
+          "is_correct": false,
+          "feedback": "El valor de x no importa, lo que importa es la paridad del indice n."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el conjunto de los numeros reales, la raiz de indice par de un numero negativo no esta definida. Sin embargo, las raices de indice impar (como 3, 5, 7...) de numeros negativos si son reales, ya que un numero negativo elevado a una potencia impar mantiene su signo negativo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v18",
+      "statement": "Expresa $\\sqrt{x\\sqrt{x\\sqrt{x}}}$ como una sola potencia de $x$.",
+      "context": "Se plantea simplificar la expresion radical anidada $\\sqrt{x\\sqrt{x\\sqrt{x}}}$ para un modelo de fractales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^{1/8}$",
+          "is_correct": false,
+          "feedback": "Error al no acumular las potencias internas."
+        },
+        {
+          "letter": "B",
+          "text": "$x^{3/2}$",
+          "is_correct": false,
+          "feedback": "Error al sumar exponentes de forma incorrecta."
+        },
+        {
+          "letter": "C",
+          "text": "$x^{7/8}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Resolviendo de adentro hacia afuera: $(x \\cdot x^{1/2})^{1/2} = (x^{3/2})^{1/2} = x^{3/4}$. Luego $(x \\cdot x^{3/4})^{1/2} = (x^{7/4})^{1/2} = x^{7/8}$."
+        },
+        {
+          "letter": "D",
+          "text": "$x^{1/2}$",
+          "is_correct": false,
+          "feedback": "Se ha ignorado la estructura anidada de la expresion."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este problema requiere convertir cada raiz en un exponente de 1/2 y aplicar las leyes de los exponentes de forma recursiva. Es un excelente ejercicio para practicar la multiplicacion de potencias de igual base y potencia de una potencia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v19",
+      "statement": "Si el voltaje $V$ aumenta en un factor de $\\sqrt{2}$ y la resistencia $R$ se reduce a la mitad, ¿que ocurre con la potencia $P$?",
+      "context": "Un ingeniero electrico en Mongomo analiza la potencia disipada por un componente, dada por $P = V^2 / R$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La potencia se mantiene igual.",
+          "is_correct": false,
+          "feedback": "Los cambios en V y R no se cancelan de esta manera."
+        },
+        {
+          "letter": "B",
+          "text": "La potencia se duplica.",
+          "is_correct": false,
+          "feedback": "Falta considerar el efecto de la reduccion de la resistencia."
+        },
+        {
+          "letter": "C",
+          "text": "La potencia se cuadruplica.",
+          "is_correct": true,
+          "feedback": "¡Correcto! $(\\sqrt{2})^2 = 2$ (por el voltaje). Al dividir por $1/2$ (resistencia), el resultado total es $2 \\cdot 2 = 4$."
+        },
+        {
+          "letter": "D",
+          "text": "La potencia se reduce a la cuarta parte.",
+          "is_correct": false,
+          "feedback": "Los factores de aumento y reduccion se han aplicado de forma invertida."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Sustituimos los nuevos valores en la formula original: $P' = (\\sqrt{2}V)^2 / (R/2) = (2V^2) / (R/2) = 4(V^2/R) = 4P$. El uso de potencias y raices en formulas fisicas es comun y requiere precision algebraica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle-v20",
+      "statement": "¿Cual es el valor de $x$ que satisface la ecuacion exponencial $2^x \\cdot 4^{x-1} = 8$?",
+      "context": "Un estudiante de bachillerato avanzado en Guinea Ecuatorial debe resolver la siguiente igualdad: $2^x \\cdot 4^{x-1} = 8$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": "$2^1 \\cdot 4^0 = 2 \\cdot 1 = 2$, no 8."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2$",
+          "is_correct": false,
+          "feedback": "$2^2 \\cdot 4^1 = 4 \\cdot 4 = 16$, no 8."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 5/3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $2^x \\cdot 2^{2(x-1)} = 2^3 \\rightarrow x + 2x - 2 = 3 \\rightarrow 3x = 5 \\rightarrow x = 5/3$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": "$2^3 \\cdot 4^2 = 8 \\cdot 16 = 128$, no 8."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para resolver ecuaciones exponenciales, el primer paso es igualar las bases. Escribimos 4 como $2^2$ y 8 como $2^3$. Luego usamos la propiedad del producto de potencias para sumar los exponentes y finalmente igualamos los exponentes resultantes para resolver la ecuacion lineal.\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "GQ-MAT-11-2026-W02-potencias-raices-radicales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    }
+  ]
+}

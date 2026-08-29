@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "br",
+    "pack_id": "br-week-15-grade-11-subject-matematica",
+    "generated_at": "2026-07-29T05:03:55.254Z"
+  },
+  "questions": [
+    {
+      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v1",
+      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 5 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
+      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25 metros",
+          "is_correct": true,
+          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+        },
+        {
+          "letter": "B",
+          "text": "5 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+        },
+        {
+          "letter": "C",
+          "text": "30 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+        },
+        {
+          "letter": "D",
+          "text": "7 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Em problemas de variação linear com valor inicial S0 = 5 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 5 + 2 * 10 = 25 metros.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.81,
+      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v2",
+      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 10 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
+      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 metros",
+          "is_correct": true,
+          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+        },
+        {
+          "letter": "B",
+          "text": "10 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+        },
+        {
+          "letter": "C",
+          "text": "35 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+        },
+        {
+          "letter": "D",
+          "text": "12 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Em problemas de variação linear com valor inicial S0 = 10 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 10 + 2 * 10 = 30 metros.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.77,
+      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v3",
+      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 15 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
+      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "35 metros",
+          "is_correct": true,
+          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+        },
+        {
+          "letter": "B",
+          "text": "15 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+        },
+        {
+          "letter": "C",
+          "text": "40 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+        },
+        {
+          "letter": "D",
+          "text": "17 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Em problemas de variação linear com valor inicial S0 = 15 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 15 + 2 * 10 = 35 metros.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.73,
+      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v4",
+      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 20 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
+      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40 metros",
+          "is_correct": true,
+          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+        },
+        {
+          "letter": "B",
+          "text": "20 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+        },
+        {
+          "letter": "C",
+          "text": "45 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+        },
+        {
+          "letter": "D",
+          "text": "22 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Em problemas de variação linear com valor inicial S0 = 20 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 20 + 2 * 10 = 40 metros.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.69,
+      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v5",
+      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 25 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
+      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "45 metros",
+          "is_correct": true,
+          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+        },
+        {
+          "letter": "B",
+          "text": "25 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+        },
+        {
+          "letter": "C",
+          "text": "50 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+        },
+        {
+          "letter": "D",
+          "text": "27 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Em problemas de variação linear com valor inicial S0 = 25 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 25 + 2 * 10 = 45 metros.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.67,
+      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v6",
+      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 30 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
+      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50 metros",
+          "is_correct": true,
+          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+        },
+        {
+          "letter": "B",
+          "text": "30 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+        },
+        {
+          "letter": "C",
+          "text": "55 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+        },
+        {
+          "letter": "D",
+          "text": "32 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Em problemas de variação linear com valor inicial S0 = 30 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 30 + 2 * 10 = 50 metros.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.64,
+      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v7",
+      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 35 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
+      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "55 metros",
+          "is_correct": true,
+          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+        },
+        {
+          "letter": "B",
+          "text": "35 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+        },
+        {
+          "letter": "C",
+          "text": "60 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+        },
+        {
+          "letter": "D",
+          "text": "37 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Em problemas de variação linear com valor inicial S0 = 35 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 35 + 2 * 10 = 55 metros.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.61,
+      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v8",
+      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 40 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
+      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60 metros",
+          "is_correct": true,
+          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+        },
+        {
+          "letter": "B",
+          "text": "40 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+        },
+        {
+          "letter": "C",
+          "text": "65 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+        },
+        {
+          "letter": "D",
+          "text": "42 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Em problemas de variação linear com valor inicial S0 = 40 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 40 + 2 * 10 = 60 metros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v9",
+      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 45 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
+      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "65 metros",
+          "is_correct": true,
+          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+        },
+        {
+          "letter": "B",
+          "text": "45 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+        },
+        {
+          "letter": "C",
+          "text": "70 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+        },
+        {
+          "letter": "D",
+          "text": "47 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Em problemas de variação linear com valor inicial S0 = 45 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 45 + 2 * 10 = 65 metros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v10",
+      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 50 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
+      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "70 metros",
+          "is_correct": true,
+          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+        },
+        {
+          "letter": "B",
+          "text": "50 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+        },
+        {
+          "letter": "C",
+          "text": "75 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+        },
+        {
+          "letter": "D",
+          "text": "52 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Em problemas de variação linear com valor inicial S0 = 50 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 50 + 2 * 10 = 70 metros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v11",
+      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 55 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
+      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "75 metros",
+          "is_correct": true,
+          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+        },
+        {
+          "letter": "B",
+          "text": "55 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+        },
+        {
+          "letter": "C",
+          "text": "80 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+        },
+        {
+          "letter": "D",
+          "text": "57 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Em problemas de variação linear com valor inicial S0 = 55 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 55 + 2 * 10 = 75 metros.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.49,
+      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v12",
+      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 60 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
+      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "80 metros",
+          "is_correct": true,
+          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+        },
+        {
+          "letter": "B",
+          "text": "60 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+        },
+        {
+          "letter": "C",
+          "text": "85 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+        },
+        {
+          "letter": "D",
+          "text": "62 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Em problemas de variação linear com valor inicial S0 = 60 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 60 + 2 * 10 = 80 metros.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.46,
+      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v13",
+      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 65 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
+      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "85 metros",
+          "is_correct": true,
+          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+        },
+        {
+          "letter": "B",
+          "text": "65 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+        },
+        {
+          "letter": "C",
+          "text": "90 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+        },
+        {
+          "letter": "D",
+          "text": "67 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Em problemas de variação linear com valor inicial S0 = 65 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 65 + 2 * 10 = 85 metros.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.43,
+      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v14",
+      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 70 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
+      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "90 metros",
+          "is_correct": true,
+          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+        },
+        {
+          "letter": "B",
+          "text": "70 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+        },
+        {
+          "letter": "C",
+          "text": "95 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+        },
+        {
+          "letter": "D",
+          "text": "72 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Em problemas de variação linear com valor inicial S0 = 70 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 70 + 2 * 10 = 90 metros.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v15",
+      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 75 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
+      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "95 metros",
+          "is_correct": true,
+          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+        },
+        {
+          "letter": "B",
+          "text": "75 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+        },
+        {
+          "letter": "C",
+          "text": "100 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+        },
+        {
+          "letter": "D",
+          "text": "77 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Em problemas de variação linear com valor inicial S0 = 75 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 75 + 2 * 10 = 95 metros.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.37,
+      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v16",
+      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 80 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
+      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 metros",
+          "is_correct": true,
+          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+        },
+        {
+          "letter": "B",
+          "text": "80 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+        },
+        {
+          "letter": "C",
+          "text": "105 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+        },
+        {
+          "letter": "D",
+          "text": "82 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Em problemas de variação linear com valor inicial S0 = 80 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 80 + 2 * 10 = 100 metros.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.34,
+      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v17",
+      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 85 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
+      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "105 metros",
+          "is_correct": true,
+          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+        },
+        {
+          "letter": "B",
+          "text": "85 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+        },
+        {
+          "letter": "C",
+          "text": "110 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+        },
+        {
+          "letter": "D",
+          "text": "87 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Em problemas de variação linear com valor inicial S0 = 85 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 85 + 2 * 10 = 105 metros.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.28,
+      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v18",
+      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 90 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
+      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "110 metros",
+          "is_correct": true,
+          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+        },
+        {
+          "letter": "B",
+          "text": "90 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+        },
+        {
+          "letter": "C",
+          "text": "115 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+        },
+        {
+          "letter": "D",
+          "text": "92 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Em problemas de variação linear com valor inicial S0 = 90 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 90 + 2 * 10 = 110 metros.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.24,
+      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v19",
+      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 95 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
+      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "115 metros",
+          "is_correct": true,
+          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+        },
+        {
+          "letter": "B",
+          "text": "95 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+        },
+        {
+          "letter": "C",
+          "text": "120 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+        },
+        {
+          "letter": "D",
+          "text": "97 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Em problemas de variação linear com valor inicial S0 = 95 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 95 + 2 * 10 = 115 metros.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v20",
+      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 100 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
+      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a geometria espacial: pirâmides e cones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "120 metros",
+          "is_correct": true,
+          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+        },
+        {
+          "letter": "B",
+          "text": "100 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+        },
+        {
+          "letter": "C",
+          "text": "125 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+        },
+        {
+          "letter": "D",
+          "text": "102 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Em problemas de variação linear com valor inicial S0 = 100 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 100 + 2 * 10 = 120 metros.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.16,
+      "bundle_id": "BR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    }
+  ]
+}

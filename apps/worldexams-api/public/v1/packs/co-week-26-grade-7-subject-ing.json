@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-26-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.901Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W26-comparatives-001-v1",
+      "statement": "What suffix is added to short adjectives (like \"tall\" or \"small\") to form a comparative?",
+      "context": "Identifying the comparative suffix for short adjectives.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-est",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for superlatives."
+        },
+        {
+          "letter": "B",
+          "text": "-er",
+          "is_correct": true,
+          "feedback": "Correct! We add -er to short adjectives for comparisons."
+        },
+        {
+          "letter": "C",
+          "text": "-ing",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for continuous tenses."
+        },
+        {
+          "letter": "D",
+          "text": "-ed",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for past tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies the basic morphological rule for short comparative adjectives.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W26-comparatives-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W26-comparatives-002-v1",
+      "statement": "What word is used before long adjectives (like \"beautiful\" or \"intelligent\") in a comparative sentence?",
+      "context": "Using \"more\" with long adjectives.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Very",
+          "is_correct": false,
+          "feedback": "Incorrect. This just intensifies the adjective."
+        },
+        {
+          "letter": "B",
+          "text": "More",
+          "is_correct": true,
+          "feedback": "Correct! We use \"more\" for adjectives with two or more syllables."
+        },
+        {
+          "letter": "C",
+          "text": "Most",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for superlatives."
+        },
+        {
+          "letter": "D",
+          "text": "Better",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the comparative of \"good\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student remembers the rule for comparing using long adjectives.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W26-comparatives-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W26-comparatives-003-v1",
+      "statement": "\"Bogotá is ________ than Girardot.\" (Adjective: cold)",
+      "context": "Comparing two cities in Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "more cold",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Cold\" is a short adjective, so it needs -er."
+        },
+        {
+          "letter": "B",
+          "text": "colder",
+          "is_correct": true,
+          "feedback": "Correct! Comparative form of a short adjective."
+        },
+        {
+          "letter": "C",
+          "text": "coldest",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the superlative."
+        },
+        {
+          "letter": "D",
+          "text": "as cold",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing the second \"as\" and \"than\" is already present."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the application of the comparative rule to a specific short adjective in a geographical context.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W26-comparatives-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W26-comparatives-004-v1",
+      "statement": "Which structure is used to say that two things are the same?",
+      "context": "Expressing equality between two subjects.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "more...than",
+          "is_correct": false,
+          "feedback": "Incorrect. This shows superiority."
+        },
+        {
+          "letter": "B",
+          "text": "as...as",
+          "is_correct": true,
+          "feedback": "Correct! This structure expresses equality (e.g., as tall as)."
+        },
+        {
+          "letter": "C",
+          "text": "er...than",
+          "is_correct": false,
+          "feedback": "Incorrect. This shows superiority."
+        },
+        {
+          "letter": "D",
+          "text": "most...of",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for superlatives."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the structural difference between comparisons of superiority and equality.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W26-comparatives-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W26-comparatives-005-v1",
+      "statement": "\"I think soccer is ________ than baseball.\" (Adjective: good)",
+      "context": "Comparing irregular adjectives.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "more good",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Good\" is an irregular adjective."
+        },
+        {
+          "letter": "B",
+          "text": "gooder",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Good\" is irregular."
+        },
+        {
+          "letter": "C",
+          "text": "better",
+          "is_correct": true,
+          "feedback": "Correct! \"Better\" is the irregular comparative of \"good\"."
+        },
+        {
+          "letter": "D",
+          "text": "best",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the superlative."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student applies the irregular comparative form for the adjective \"good\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W26-comparatives-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W26-comparatives-006-v1",
+      "statement": "Based on the numbers, which statement is true?",
+      "context": "A comparison between two mountains.\n\"Mount Everest is 8,848 meters high. Mount Aconcagua is 6,961 meters high. So, Everest is taller than Aconcagua.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aconcagua is taller than Everest.",
+          "is_correct": false,
+          "feedback": "Incorrect. The numbers show Everest is higher."
+        },
+        {
+          "letter": "B",
+          "text": "Aconcagua is shorter than Everest.",
+          "is_correct": true,
+          "feedback": "Correct! If Everest is taller, Aconcagua must be shorter."
+        },
+        {
+          "letter": "C",
+          "text": "They are as tall as each other.",
+          "is_correct": false,
+          "feedback": "Incorrect. The heights are different."
+        },
+        {
+          "letter": "D",
+          "text": "Everest is more small than Aconcagua.",
+          "is_correct": false,
+          "feedback": "Incorrect. Everest is bigger/taller."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies reading strategies to verify a comparative statement based on numeric data.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W26-comparatives-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W26-comparatives-007-v1",
+      "statement": "\"This math problem is ________ than the one yesterday.\" (Adjective: difficult)",
+      "context": "Using a long adjective in a classroom context.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "difficulter",
+          "is_correct": false,
+          "feedback": "Incorrect. Adjectives with 3 syllables don't take -er."
+        },
+        {
+          "letter": "B",
+          "text": "more difficult",
+          "is_correct": true,
+          "feedback": "Correct! \"Difficult\" is a long adjective, so it needs \"more\"."
+        },
+        {
+          "letter": "C",
+          "text": "as difficult",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing the second \"as\"."
+        },
+        {
+          "letter": "D",
+          "text": "the most difficult",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the superlative form."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "(Manual fix for option letter out of order)\nThe student applies the comparative rule for long adjectives in a school-related context.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W26-comparatives-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W26-comparatives-008-v1",
+      "statement": "Choose the sentence with the correct spelling.",
+      "context": "Analyzing spelling rules for short adjectives.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "My dog is biger than your cat.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Big\" is CVC, so double the 'g'."
+        },
+        {
+          "letter": "B",
+          "text": "My dog is bigger than your cat.",
+          "is_correct": true,
+          "feedback": "Correct! CVC adjectives double the last consonant before -er."
+        },
+        {
+          "letter": "C",
+          "text": "My dog is more big than your cat.",
+          "is_correct": false,
+          "feedback": "Incorrect. Short adjectives use -er."
+        },
+        {
+          "letter": "D",
+          "text": "My dog is bigest than your cat.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the superlative suffix."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes the spelling rules (doubling consonants) for short comparative adjectives with a CVC pattern.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W26-comparatives-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W26-comparatives-009-v1",
+      "statement": "What can we conclude about Mateo and Luis?",
+      "context": "Comparing two people based on a description.\n\"Mateo is 14 years old and loves reading. Luis is 14 years old and loves sports. Mateo is as old as Luis, but Luis is more active.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Luis is older than Mateo.",
+          "is_correct": false,
+          "feedback": "Incorrect. They are both 14."
+        },
+        {
+          "letter": "B",
+          "text": "Mateo and Luis have the same age.",
+          "is_correct": true,
+          "feedback": "Correct! The text says \"Mateo is as old as Luis\"."
+        },
+        {
+          "letter": "C",
+          "text": "Mateo is more active than Luis.",
+          "is_correct": false,
+          "feedback": "Incorrect. Luis is more active."
+        },
+        {
+          "letter": "D",
+          "text": "Luis is as quiet as Mateo.",
+          "is_correct": false,
+          "feedback": "Incorrect. Luis loves sports, Mateo loves reading (usually quieter)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes a text using both equality and superiority comparisons to identify a factual conclusion.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W26-comparatives-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W26-comparatives-010-v1",
+      "statement": "Which product should a person buy if they want a long-lasting item that is easy to use, even if it costs more?",
+      "context": "Evaluating a marketing claim.\n\"Product X is cheaper than Product Y, but Product Y is more durable and as easy to use as Product X.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Product X",
+          "is_correct": false,
+          "feedback": "Incorrect. It is cheaper, but not as durable."
+        },
+        {
+          "letter": "B",
+          "text": "Product Y",
+          "is_correct": true,
+          "feedback": "Correct! It is \"more durable\" (long-lasting) and \"as easy to use\"."
+        },
+        {
+          "letter": "C",
+          "text": "Both are the same in every way.",
+          "is_correct": false,
+          "feedback": "Incorrect. There are clear differences in price and durability."
+        },
+        {
+          "letter": "D",
+          "text": "Neither product is easy to use.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says they are both easy to use."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student evaluates a set of comparative and equality claims to make a decision based on specific priorities.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W26-comparatives-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

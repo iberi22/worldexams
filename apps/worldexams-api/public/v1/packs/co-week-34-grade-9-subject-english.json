@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-34-grade-9-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.951Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-9-2026-W34-travel-and-exploration-001-MASTERY-bundle-v1",
+      "statement": "It's 10:00 PM. It's time we ________ to the airport.",
+      "context": "Airport arrival.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "go",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "went",
+          "is_correct": true,
+          "feedback": "Correct! \"It's time + subject\" requires the past simple."
+        },
+        {
+          "letter": "C",
+          "text": "have gone",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "will go",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La estructura *It's time* con sujeto exige el uso del pasado simple.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W34-travel-and-exploration-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W34-travel-and-exploration-001-MASTERY-bundle-v2",
+      "statement": "I ________ we ________ by train than by plane.",
+      "context": "Travel preference.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "would rather / travel",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "would rather / traveled",
+          "is_correct": true,
+          "feedback": "Correct! \"Would rather + subject + past simple\" for preferences."
+        },
+        {
+          "letter": "C",
+          "text": "rather / travel",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "sooner / traveling",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando hay cambio de sujeto, *would rather* requiere el pasado simple.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W34-travel-and-exploration-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W34-travel-and-exploration-001-MASTERY-bundle-v3",
+      "statement": "________ you ________ lost in the jungle, what would you do?",
+      "context": "Hypothetical jungle.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Suppose / get",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Suppose / got",
+          "is_correct": true,
+          "feedback": "Correct! \"Suppose\" introduces a hypothetical situation in past simple."
+        },
+        {
+          "letter": "C",
+          "text": "If / have got",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Supposing / will get",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "*Suppose* plantea situaciones imaginarias usando la estructura del segundo condicional.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W34-travel-and-exploration-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W34-travel-and-exploration-001-MASTERY-bundle-v4",
+      "statement": "I ________ you ________ me about the storm before I started.",
+      "context": "Past regret.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "would rather / told",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "would rather / had told",
+          "is_correct": true,
+          "feedback": "Correct! Past perfect for regrets about the past with \"would rather\"."
+        },
+        {
+          "letter": "C",
+          "text": "sooner / have told",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "wish / told",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para preferencias sobre hechos ya ocurridos, usamos el pasado perfecto.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W34-travel-and-exploration-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W34-travel-and-exploration-001-MASTERY-bundle-v5",
+      "statement": "It's high time the city ________ more to protect monuments.",
+      "context": "Monument protection.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "does",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "did",
+          "is_correct": true,
+          "feedback": "Correct! Emphatic past simple for present urgency."
+        },
+        {
+          "letter": "C",
+          "text": "has done",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "had done",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "*It's high time* indica una urgencia crítica por una acción no realizada.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W34-travel-and-exploration-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W34-travel-and-exploration-001-MASTERY-bundle-v6",
+      "statement": "\"________ we ________ all the plastic from the beach tomorrow?\"",
+      "context": "Brainstorming.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "What if / collect",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "What if / collected",
+          "is_correct": true,
+          "feedback": "Correct! \"What if\" for suggestions in past simple."
+        },
+        {
+          "letter": "C",
+          "text": "What if / will collect",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "If / we collect",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "*What if* es una herramienta para proponer ideas de manera diplomática.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W34-travel-and-exploration-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W34-travel-and-exploration-001-MASTERY-bundle-v7",
+      "statement": "Which sentence refers to a **past** regret?",
+      "context": "Past regret identification.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I'd rather go now.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "I'd rather you didn't smoke.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "I'd rather we hadn't visited that museum yesterday.",
+          "is_correct": true,
+          "feedback": "Correct! Past perfect indicates a past event."
+        },
+        {
+          "letter": "D",
+          "text": "It's time we went.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El tiempo verbal tras el sujeto determina si el deseo es presente o pasado.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W34-travel-and-exploration-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W34-travel-and-exploration-001-MASTERY-bundle-v8",
+      "statement": "\"I ________ you ________ spend so much money.\"",
+      "context": "Souvenirs spending.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "'d sooner / wouldn't",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "'d sooner / didn't",
+          "is_correct": true,
+          "feedback": "Correct! \"Would sooner\" synonym for \"would rather\"."
+        },
+        {
+          "letter": "C",
+          "text": "'d sooner / hadn't",
+          "is_correct": false,
+          "feedback": "Incorrect. (Possible for past, but B fits present advice)."
+        },
+        {
+          "letter": "D",
+          "text": "soon / don't",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "*Would sooner* sigue las mismas reglas que *would rather*.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W34-travel-and-exploration-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W34-travel-and-exploration-001-MASTERY-bundle-v9",
+      "statement": "\"I prefer you not to take photos.\"",
+      "context": "Photo limit.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I wish you don't.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "I'd rather you didn't take photos.",
+          "is_correct": true,
+          "feedback": "Correct! Expresses a preference or limit."
+        },
+        {
+          "letter": "C",
+          "text": "It's time you take.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Suppose you didn't.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "*Would rather* es una forma educada de establecer límites sociales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W34-travel-and-exploration-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W34-travel-and-exploration-001-MASTERY-bundle-v10",
+      "statement": "Identify the error:\n\"**It's time we check** (B) the map.\"",
+      "context": "Diary error.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Suppose we ran",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "It's time we check",
+          "is_correct": true,
+          "feedback": "Correct! Should be \"It's time we checked\"."
+        },
+        {
+          "letter": "C",
+          "text": "had brought",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "What if we stayed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usar presente tras *It's time we* es un error gramatical común.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-9-2026-W34-travel-and-exploration-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W34-travel-and-exploration-001-MASTERY-bundle-v11",
+      "statement": "Which response sets the **safest** boundary?",
+      "context": "Safety boundary.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I'd rather we go.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "I'd rather we didn't go without a guide; it's too risky.",
+          "is_correct": true,
+          "feedback": "Correct! Precise use of preference for safety."
+        },
+        {
+          "letter": "C",
+          "text": "Suppose we don't.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "It's time we didn't.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Diferencia entre sugerencia y establecimiento de límites de seguridad.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-9-2026-W34-travel-and-exploration-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W34-travel-and-exploration-001-MASTERY-bundle-v12",
+      "statement": "Choose the best completion:\n\"What if we ________? I'd rather we ________ more respect.\"",
+      "context": "History summary.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "didn't destroy / showed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "hadn't destroyed / had shown",
+          "is_correct": true,
+          "feedback": "Correct! Past hypothetical and past regret."
+        },
+        {
+          "letter": "C",
+          "text": "destroyed / showed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "not destroy / show",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evalúa la aplicación de estructuras de pasado irreal en la reflexión histórica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-9-2026-W34-travel-and-exploration-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

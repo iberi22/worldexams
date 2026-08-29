@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "ni",
+    "pack_id": "ni-week-1-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:39.049Z"
+  },
+  "questions": [
+    {
+      "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la definición correcta de una sucesión aritmética?",
+      "context": "En un taller de artesanías en Masaya, los artesanos organizan sus piezas en filas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una secuencia de números donde cada término se obtiene multiplicando el anterior por una constante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la definición de una sucesión geométrica, no aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "Es una secuencia de números tal que la diferencia entre dos términos sucesivos es constante.",
+          "is_correct": true,
+          "feedback": "Correcto. En una sucesión aritmética, la diferencia común 'd' se mantiene constante entre términos consecutivos."
+        },
+        {
+          "letter": "C",
+          "text": "Es una lista de números primos ordenados de menor a mayor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque los números primos forman una secuencia, no necesariamente tienen una diferencia constante."
+        },
+        {
+          "letter": "D",
+          "text": "Es un conjunto de números donde la suma de los términos anteriores da el siguiente término.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta descripción se asemeja más a la serie de Fibonacci, no a una sucesión aritmética general."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una sucesión aritmética se caracteriza por tener una diferencia común (d) constante entre sus términos. Se define formalmente como $a_{n} = a_{n-1} + d$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la fórmula general para encontrar el término enésimo ($a_n$) de una sucesión aritmética, dado el primer término $a_1$ y la diferencia común $d$?",
+      "context": "Un estudiante de secundaria en León estudia las fórmulas generales de sucesiones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_n = a_1 + (n - 1)d$",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la expresión estándar para calcular cualquier término en una sucesión aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "$a_n = a_1 \\cdot d^{n-1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta fórmula corresponde a una sucesión geométrica."
+        },
+        {
+          "letter": "C",
+          "text": "$a_n = a_1 + nd$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta fórmula omitiría el primer término al calcular $a_1$ (daría $a_1 + d$)."
+        },
+        {
+          "letter": "D",
+          "text": "$a_n = (a_1 + d)n$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta expresión no representa la estructura de una progresión aritmética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fórmula del término general de una sucesión aritmética es $a_n = a_1 + (n-1)d$. El término $(n-1)$ asegura que para el primer término ($n=1$), el resultado sea simplemente $a_1$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v3",
+      "statement": "Si la diferencia común ($d$) de una sucesión aritmética es negativa, ¿qué se puede afirmar sobre el comportamiento de la sucesión?",
+      "context": "Un agricultor en Matagalpa siembra surcos de café de manera progresiva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La sucesión es creciente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para que sea creciente, la diferencia común debe ser positiva."
+        },
+        {
+          "letter": "B",
+          "text": "La sucesión es decreciente.",
+          "is_correct": true,
+          "feedback": "Correcto. Al restar una cantidad constante en cada paso, los términos sucesivos son cada vez menores."
+        },
+        {
+          "letter": "C",
+          "text": "La sucesión es constante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una sucesión es constante solo si la diferencia común es cero."
+        },
+        {
+          "letter": "D",
+          "text": "La sucesión oscila entre valores positivos y negativos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo de los términos depende del valor inicial, pero la tendencia será estrictamente decreciente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El signo de la diferencia común determina la monotonía de la sucesión: si $d > 0$ es creciente, y si $d < 0$ es decreciente.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v4",
+      "statement": "Dada la sucesión aritmética: 15, 22, 29, 36, ..., ¿cuál es el valor de la diferencia común ($d$)?",
+      "context": "Un ahorro semanal en córdobas (NIO) en una alcancía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia entre 22 y 15 no es 5."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Correcto. Al restar términos consecutivos (22-15, 29-22), obtenemos una diferencia constante de 7."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia entre los términos no es constante en 8."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor del primer término ($a_1$), no la diferencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La diferencia común se encuentra restando un término cualquiera menos el anterior: $d = a_n - a_{n-1}$. En este caso, $22 - 15 = 7$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v5",
+      "statement": "Si el primer término de una sucesión aritmética es 10 y la diferencia común es 4, ¿cuál es el valor del quinto término ($a_5$)?",
+      "context": "Un plan de entrenamiento físico en el Malecón de Managua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó sumando 4 cinco veces al 10, pero se debe sumar (n-1) veces."
+        },
+        {
+          "letter": "B",
+          "text": "26",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $a_5 = 10 + (5-1)4 = 10 + 16 = 26$."
+        },
+        {
+          "letter": "C",
+          "text": "22",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor del cuarto término ($a_4$)."
+        },
+        {
+          "letter": "D",
+          "text": "14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el valor del segundo término ($a_2$)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar un término específico, usamos $a_n = a_1 + (n-1)d$. Aquí, $a_5 = 10 + 4(4) = 26$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.72,
+      "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el término general de la sucesión 5, 8, 11, 14, ...?",
+      "context": "La construcción de gradas en un estadio de béisbol en Estelí.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_n = 5n + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si n=1, daría 8, no 5."
+        },
+        {
+          "letter": "B",
+          "text": "$a_n = 3n + 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si n=1, daría 8, no 5."
+        },
+        {
+          "letter": "C",
+          "text": "$a_n = 3n + 2$",
+          "is_correct": true,
+          "feedback": "Correcto. $a_n = 5 + (n-1)3 = 5 + 3n - 3 = 3n + 2$. Al probar con n=1, $3(1)+2=5$."
+        },
+        {
+          "letter": "D",
+          "text": "$a_n = 3n - 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si n=1, daría 1, no 5."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El término general se construye con $a_1 + (n-1)d$. Con $a_1=5$ y $d=3$, resulta $3n + 2$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v7",
+      "statement": "En una sucesión aritmética, el tercer término es 13 y el séptimo término es 25. ¿Cuál es la diferencia común de la sucesión?",
+      "context": "Un sistema de riego que aumenta su alcance cada día.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. Usando la fórmula $a_7 = a_3 + 4d$, tenemos $25 = 13 + 4d$, entonces $12 = 4d$ y $d = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si d fuera 4, la diferencia entre $a_7$ y $a_3$ sería 16, no 12."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si d fuera 2, la diferencia entre $a_7$ y $a_3$ sería 8, no 12."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió 12 entre 2 en lugar de entre la diferencia de posiciones (7-3=4)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia común se puede calcular como $d = (a_j - a_i) / (j - i)$. Aquí, $d = (25 - 13) / (7 - 3) = 12 / 4 = 3$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v8",
+      "statement": "Si una persona ahorra C$ 200 en la primera semana y cada semana aumenta su ahorro en C$ 50 respecto a la anterior, ¿cuánto ahorrará exactamente en la semana número 12?",
+      "context": "Un ahorro progresivo para comprar una computadora en Nicaragua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C$ 800",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó 50 por 12 y se sumó a 200, pero debe ser por (n-1)=11."
+        },
+        {
+          "letter": "B",
+          "text": "C$ 750",
+          "is_correct": true,
+          "feedback": "Correcto. $a_{12} = 200 + (12-1)50 = 200 + 550 = 750$."
+        },
+        {
+          "letter": "C",
+          "text": "C$ 600",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo de la multiplicación o la suma."
+        },
+        {
+          "letter": "D",
+          "text": "C$ 700",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería el ahorro en la semana 11."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicando la fórmula del término enésimo $a_n = a_1 + (n-1)d$ con $a_1=200$, $d=50$ y $n=12$, obtenemos 750 córdobas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v9",
+      "statement": "A las 6:00 p.m. la temperatura es de 24°C. Si cada hora baja 1.5°C, ¿cuál será la temperatura a las 11:00 p.m.?",
+      "context": "La temperatura en una zona alta de Jinotega que desciende de forma constante durante la noche.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18.0°C",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó la baja para 4 horas, pero de 6 a 11 hay 5 horas."
+        },
+        {
+          "letter": "B",
+          "text": "16.5°C",
+          "is_correct": true,
+          "feedback": "Correcto. $a_1=24$ (a las 6). A las 11 han pasado 5 intervalos. $T = 24 - (5 \\times 1.5) = 24 - 7.5 = 16.5$."
+        },
+        {
+          "letter": "C",
+          "text": "15.0°C",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó una hora extra de descenso."
+        },
+        {
+          "letter": "D",
+          "text": "19.5°C",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo se restaron 3 horas de descenso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este problema se modela con una sucesión aritmética donde $d = -1.5$. De las 6 p.m. a las 11 p.m. transcurren 5 horas (5 términos después del inicial).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.63,
+      "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la posición ($n$) del número 101 en la sucesión aritmética 5, 13, 21, ...?",
+      "context": "Un patrón de diseño en alfombras de aserrín tradicionales de Nicaragua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al despejar n de $101 = 5 + (n-1)8$, el resultado no es 12."
+        },
+        {
+          "letter": "B",
+          "text": "13",
+          "is_correct": true,
+          "feedback": "Correcto. $101 = 5 + (n-1)8 \\Rightarrow 96 = (n-1)8 \\Rightarrow 12 = n-1 \\Rightarrow n = 13$."
+        },
+        {
+          "letter": "C",
+          "text": "14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error en la división de 96 entre 8 o en el despeje final."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo en la resolución de la ecuación lineal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar la posición, despejamos $n$ de la fórmula $a_n = a_1 + (n-1)d$. Aquí: $101 = 5 + (n-1)8$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la fórmula para calcular la suma de los primeros $n$ términos ($S_n$) de una sucesión aritmética?",
+      "context": "La suma de las cuotas de un préstamo bancario en Nicaragua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$S_n = \\frac{n(a_1 + a_n)}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. La suma es el número de términos multiplicado por el promedio del primero y el último."
+        },
+        {
+          "letter": "B",
+          "text": "$S_n = \\frac{n(a_1 - a_n)}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se debe sumar el primer y el último término, no restarlos."
+        },
+        {
+          "letter": "C",
+          "text": "$S_n = n(a_1 + d)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta fórmula no representa la suma acumulada de una progresión."
+        },
+        {
+          "letter": "D",
+          "text": "$S_n = \\frac{a_1(r^n - 1)}{r - 1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la fórmula para la suma de una sucesión geométrica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La suma de una progresión aritmética fue popularizada por la anécdota de Gauss niño. Se define como $S_n = \\frac{n}{2}(a_1 + a_n)$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v12",
+      "statement": "Si en el primer día se recolectan 10 quintales y cada día se recolectan 2 quintales más que el anterior, ¿cuántos quintales en total se habrán recolectado al finalizar el día 10?",
+      "context": "La recolección de quintales de frijoles durante una temporada de cosecha.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "110 quintales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó $10 \\times 11$, pero no sigue la fórmula de la suma."
+        },
+        {
+          "letter": "B",
+          "text": "200 quintales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó el término final por 10, sin promediar."
+        },
+        {
+          "letter": "C",
+          "text": "190 quintales",
+          "is_correct": true,
+          "feedback": "Correcto. $a_1=10$, $a_{10}=10+9(2)=28$. $S_{10} = \\frac{10(10+28)}{2} = 5 \\times 38 = 190$."
+        },
+        {
+          "letter": "D",
+          "text": "145 quintales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la aplicación de la fórmula de la suma de términos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Primero se halla el último término ($a_{10}=28$) y luego se aplica la fórmula de la suma $S_{10} = 190$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v13",
+      "statement": "En una sucesión aritmética, la suma de los primeros 5 términos es 50. Si el primer término es 2, ¿cuál es la diferencia común ($d$)?",
+      "context": "Un análisis de crecimiento de una microempresa en Granada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si d=2, la suma sería 2+4+6+8+10 = 30, no 50."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correcto. $S_5 = \\frac{5(2 + a_5)}{2} = 50 \\Rightarrow 2 + a_5 = 20 \\Rightarrow a_5 = 18$. Luego $18 = 2 + 4d \\Rightarrow 16 = 4d \\Rightarrow d = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el despeje de la ecuación de la suma."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor obtenido por una interpretación errónea de los datos proporcionados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se debe usar la fórmula de la suma para hallar $a_5$ y luego usar la fórmula del término general para encontrar $d$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál de las siguientes expresiones representa la suma de los primeros $n$ números impares positivos?",
+      "context": "Comparación de modelos lineales en economía local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2n - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el término general del enésimo número impar, no la suma."
+        },
+        {
+          "letter": "B",
+          "text": "$n^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Los números impares forman una sucesión aritmética con $a_1=1$ y $d=2$. $S_n = \\frac{n(1 + (2n-1))}{2} = \\frac{n(2n)}{2} = n^2$."
+        },
+        {
+          "letter": "C",
+          "text": "$n(n+1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la suma de los primeros $n$ números pares."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{n(n+1)}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la suma de los primeros $n$ números naturales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La suma de los primeros $n$ números impares es siempre un cuadrado perfecto ($1=1^2, 1+3=2^2, 1+3+5=3^2$, etc.).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v15",
+      "statement": "Un teatro tiene 20 filas de asientos. La primera fila tiene 30 asientos, y cada fila sucesiva tiene 2 asientos más que la anterior. ¿Cuántos asientos tiene el teatro en total?",
+      "context": "Distribución de asientos en un teatro circular en Managua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "900 asientos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó $20 \\times 45$ (promedio de 30 y 60), pero la última fila no tiene 60."
+        },
+        {
+          "letter": "B",
+          "text": "1,000 asientos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo de la última fila o la suma final."
+        },
+        {
+          "letter": "C",
+          "text": "980 asientos",
+          "is_correct": true,
+          "feedback": "Correcto. $a_{20} = 30 + 19(2) = 68$. $S_{20} = \\frac{20(30 + 68)}{2} = 10 \\times 98 = 980$."
+        },
+        {
+          "letter": "D",
+          "text": "1,020 asientos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó un término extra o se usó un valor de $d$ mayor."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Modelamos el problema como la suma de una sucesión aritmética con $n=20, a_1=30, d=2$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v16",
+      "statement": "Dada la sucesión definida por $a_n = 4 - 5n$, ¿cuál es el valor de la suma de los primeros 10 términos?",
+      "context": "Identificación de patrones en sucesiones complejas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-235",
+          "is_correct": true,
+          "feedback": "Correcto. $a_1 = 4-5(1)=-1$. $a_{10} = 4-5(10)=-46$. $S_{10} = \\frac{10(-1 - 46)}{2} = 5(-47) = -235$."
+        },
+        {
+          "letter": "B",
+          "text": "-275",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo de $a_{10}$ o en la multiplicación por 5."
+        },
+        {
+          "letter": "C",
+          "text": "-210",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor obtenido por errores aritméticos en la suma de términos negativos."
+        },
+        {
+          "letter": "D",
+          "text": "235",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resultado debe ser negativo ya que la mayoría de los términos lo son."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Incluso si los términos son negativos, la fórmula de la suma se aplica de la misma manera.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v17",
+      "statement": "Se planea plantar árboles en un área triangular. En la primera fila se planta 1 árbol, en la segunda 3, en la tercera 5, y así sucesivamente. Si se dispone de un total de 625 árboles, ¿cuántas filas se podrán completar exactamente?",
+      "context": "Un proyecto de reforestación en la Reserva Bosawás.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 filas",
+          "is_correct": false,
+          "feedback": "Incorrecto. $20^2 = 400$, sobran muchos árboles."
+        },
+        {
+          "letter": "B",
+          "text": "25 filas",
+          "is_correct": true,
+          "feedback": "Correcto. La suma de los primeros $n$ impares es $n^2$. Así, $n^2 = 625$, por lo tanto $n = \\sqrt{625} = 25$."
+        },
+        {
+          "letter": "C",
+          "text": "30 filas",
+          "is_correct": false,
+          "feedback": "Incorrecto. $30^2 = 900$, faltarían árboles."
+        },
+        {
+          "letter": "D",
+          "text": "15 filas",
+          "is_correct": false,
+          "feedback": "Incorrecto. $15^2 = 225$, sobran más de la mitad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El problema requiere reconocer que la suma de la sucesión de números impares es $n^2$, y resolver la ecuación para $n$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v18",
+      "statement": "Si se desea interpolar 3 medios aritméticos entre los números 4 y 20, ¿cuál debe ser la diferencia común ($d$) de la nueva sucesión?",
+      "context": "Un problema de interpolación de medios aritméticos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5.33",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió la diferencia (16) entre 3, pero al insertar 3 términos resultan 4 intervalos."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correcto. Al insertar 3 términos entre 4 y 20, el 20 pasa a ser el quinto término ($a_5$). $20 = 4 + 4d \\Rightarrow 16 = 4d \\Rightarrow d = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al contar el número de intervalos creados."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor que no satisface la condición de llegar a 20 en la posición indicada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Interpolar $k$ medios aritméticos entre dos números $a$ y $b$ significa crear una sucesión de $k+2$ términos. La diferencia es $d = (b - a) / (k + 1)$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v19",
+      "statement": "En cualquier sucesión aritmética $a_1, a_2, \\dots, a_n$, si tomamos tres términos consecutivos $a_{k-1}, a_k, a_{k+1}$, ¿cuál es la relación correcta entre ellos?",
+      "context": "Análisis de una propiedad de las sucesiones aritméticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_k = \\frac{a_{k-1} + a_{k+1}}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Cada término (excepto los extremos) es la media aritmética de sus términos adyacentes."
+        },
+        {
+          "letter": "B",
+          "text": "$a_k = \\sqrt{a_{k-1} \\cdot a_{k+1}}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la propiedad de la media geométrica para sucesiones geométricas."
+        },
+        {
+          "letter": "C",
+          "text": "$a_k = a_{k+1} - a_{k-1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia entre términos alternos es $2d$, no el valor del término central."
+        },
+        {
+          "letter": "D",
+          "text": "$a_k = a_{k-1} + a_{k+1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe tal relación aditiva simple en una sucesión aritmética general."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Esta es la propiedad fundamental que da nombre a las sucesiones \"aritméticas\": cualquier término intermedio es la media aritmética de sus vecinos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    },
+    {
+      "id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle-v20",
+      "statement": "Determina el valor de la suma de todos los múltiplos de 3 comprendidos entre 1 y 100.",
+      "context": "Un reto matemático sobre sumatorias en una olimpiada escolar nicaragüense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1,515",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el resultado de sumar los múltiplos de 3 si hubiera 33 términos y el último fuera 90."
+        },
+        {
+          "letter": "B",
+          "text": "1,683",
+          "is_correct": true,
+          "feedback": "Correcto. El primer múltiplo es 3 y el último 99. Número de términos $n = (99-3)/3 + 1 = 33$. Suma $S_{33} = \\frac{33(3 + 99)}{2} = \\frac{33 \\times 102}{2} = 33 \\times 51 = 1,683$."
+        },
+        {
+          "letter": "C",
+          "text": "1,650",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el conteo de términos o en la aplicación de la fórmula de la suma."
+        },
+        {
+          "letter": "D",
+          "text": "1,732",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor excedido por errores de cálculo manual."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para resolver este problema, primero se identifica la sucesión (3, 6, 9, ..., 99), se cuenta cuántos términos tiene y luego se aplica la fórmula de la suma.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "NI-MAT-11-2026-W01-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ni"
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-39-grade-8-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.754Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-8-2026-W39-prepositions-place-movement-001-MASTERY-v1",
+      "statement": "I will meet you ________ the bus stop at 7:00 AM.",
+      "context": "Basic preposition of place (at).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "Incorrect. \"In\" is for enclosed spaces."
+        },
+        {
+          "letter": "B",
+          "text": "on",
+          "is_correct": false,
+          "feedback": "Incorrect. \"On\" is for surfaces."
+        },
+        {
+          "letter": "C",
+          "text": "at",
+          "is_correct": true,
+          "feedback": "Correct! \"At\" is used for specific points or locations."
+        },
+        {
+          "letter": "D",
+          "text": "over",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Usamos \"at\" para referirnos a un punto específico en el espacio, como una parada de bus, una esquina o la entrada de un edificio.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W39-prepositions-place-movement-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W39-prepositions-place-movement-001-MASTERY-v2",
+      "statement": "The path goes ________ the forest and ends at a beautiful waterfall.",
+      "context": "Movement through a space.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "across",
+          "is_correct": false,
+          "feedback": "Incorrect. This means from one side to the other."
+        },
+        {
+          "letter": "B",
+          "text": "through",
+          "is_correct": true,
+          "feedback": "Correct! \"Through\" means moving inside a 3D space (like a forest or tunnel)."
+        },
+        {
+          "letter": "C",
+          "text": "into",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "along",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Through\" (a través de) se utiliza cuando el movimiento ocurre rodeado de algo (árboles, edificios, una multitud).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W39-prepositions-place-movement-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W39-prepositions-place-movement-001-MASTERY-v3",
+      "statement": "To get to the supermarket, you need to walk ________ the bridge.",
+      "context": "Movement across a surface.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "through",
+          "is_correct": false,
+          "feedback": "Incorrect. You don't walk inside the bridge material."
+        },
+        {
+          "letter": "B",
+          "text": "across",
+          "is_correct": true,
+          "feedback": "Correct! \"Across\" means moving from one side to the other of a flat area or bridge."
+        },
+        {
+          "letter": "C",
+          "text": "into",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Across\" se usa para movimientos sobre superficies planas o estructuras que cruzan obstáculos (puentes, calles, ríos).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W39-prepositions-place-movement-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W39-prepositions-place-movement-001-MASTERY-v4",
+      "statement": "The cat jumped ________ the box to hide from the dog.",
+      "context": "Into vs. In.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "Incorrect. \"In\" describes the state, not the movement."
+        },
+        {
+          "letter": "B",
+          "text": "into",
+          "is_correct": true,
+          "feedback": "Correct! \"Into\" describes movement from outside to inside."
+        },
+        {
+          "letter": "C",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "onto",
+          "is_correct": false,
+          "feedback": "Incorrect. This would be on top of the box."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Es importante distinguir entre la posición estática (in) y el movimiento que causa el cambio de posición (into).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W39-prepositions-place-movement-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W39-prepositions-place-movement-001-MASTERY-v5",
+      "statement": "We walked ________ the beach at sunset, enjoying the sound of the waves.",
+      "context": "Movement along a line.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "through",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "along",
+          "is_correct": true,
+          "feedback": "Correct! \"Along\" means following a line or the edge of something."
+        },
+        {
+          "letter": "C",
+          "text": "across",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "towards",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Along\" (a lo largo de) se utiliza para seguir una línea física o geográfica, como una playa, un río o una calle.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-8-2026-W39-prepositions-place-movement-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W39-prepositions-place-movement-001-MASTERY-v6",
+      "statement": "Go ________ the main street and then turn left at the traffic light.",
+      "context": "Giving directions in a city.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "into",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "through",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "down",
+          "is_correct": true,
+          "feedback": "Correct! \"Down\" or \"Up\" are commonly used to mean walking along a street."
+        },
+        {
+          "letter": "D",
+          "text": "onto",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En inglés coloquial, se usa \"go down the street\" para indicar que se debe seguir recto por una vía, independientemente de la inclinación real.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-8-2026-W39-prepositions-place-movement-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W39-prepositions-place-movement-001-MASTERY-v7",
+      "statement": "Our school is located ________ the corner of 10th and 15th street.",
+      "context": "Specific location with \"on\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "Correct, but wait. Both \"at\" and \"on\" are possible. Let's find the best one for US vs UK."
+        },
+        {
+          "letter": "B",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "on",
+          "is_correct": true,
+          "feedback": "Correct! Especially in American English, we say \"on the corner\"."
+        },
+        {
+          "letter": "D",
+          "text": "through",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En el nivel B1 se reconocen variantes. \"On the corner\" es estándar en EE.UU., mientras que \"At the corner\" es común en el Reino Unido. \"In\" nunca se usa aquí.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-8-2026-W39-prepositions-place-movement-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W39-prepositions-place-movement-001-MASTERY-v8",
+      "statement": "\"I am walking **towards** the station.\"\r\nWhat does this sentence emphasize?",
+      "context": "Towards vs. To.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "That I have already arrived.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "The direction of the movement, not necessarily the destination.",
+          "is_correct": true,
+          "feedback": "Correct! \"Towards\" focuses on direction."
+        },
+        {
+          "letter": "C",
+          "text": "That I am inside the station.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "That I am taking a train.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"To\" indica el destino final. \"Towards\" indica simplemente la dirección en la que alguien se está moviendo.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-8-2026-W39-prepositions-place-movement-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W39-prepositions-place-movement-001-MASTERY-v9",
+      "statement": "The plane flew ________ the mountains to avoid the storm.",
+      "context": "Complex movement (over/under).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "through",
+          "is_correct": false,
+          "feedback": "Incorrect. Dangerous for a plane."
+        },
+        {
+          "letter": "B",
+          "text": "over",
+          "is_correct": true,
+          "feedback": "Correct! \"Over\" means at a higher level than something."
+        },
+        {
+          "letter": "C",
+          "text": "under",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "along",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Diferenciar entre niveles de altura (over/under) vs contacto físico (on/in) es una habilidad de precisión necesaria en B1.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-8-2026-W39-prepositions-place-movement-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W39-prepositions-place-movement-001-MASTERY-v10",
+      "statement": "Identify the error:\r\n\"He **walked (A)** **into (B)** the room, **sat (C)** **at (D)** the chair, and started to read.\"",
+      "context": "Identifying prepositional errors in a story.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "walked",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "into",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct movement into a space."
+        },
+        {
+          "letter": "C",
+          "text": "sat",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "at",
+          "is_correct": true,
+          "feedback": "Correct! Error found. We say \"sat on the chair\" (surface) or \"in the armchair\" (enclosed), but not \"at the chair\"."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El uso de preposiciones con mobiliario es muy específico. \"Sit at the table\" es correcto, pero con sillas usamos \"on\" o \"in\".\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-8-2026-W39-prepositions-place-movement-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W39-prepositions-place-movement-001-MASTERY-v11",
+      "statement": "Which set of directions is the clearest and uses prepositions correctly?",
+      "context": "Evaluating the clarity of directions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Go through the street and then into the building.",
+          "is_correct": false,
+          "feedback": "Incorrect. You go \"down\" or \"along\" a street."
+        },
+        {
+          "letter": "B",
+          "text": "Walk across the bridge, go past the church, and you will find the museum on your left.",
+          "is_correct": true,
+          "feedback": "Correct! Precise use of movement (across, past) and position (on your left)."
+        },
+        {
+          "letter": "C",
+          "text": "Go towards the street and turn in the light.",
+          "is_correct": false,
+          "feedback": "Incorrect grammar."
+        },
+        {
+          "letter": "D",
+          "text": "Be at the city and go on the park.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dar direcciones requiere una combinación fluida de preposiciones de movimiento (across, past) y posición (on) para evitar confusiones.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-8-2026-W39-prepositions-place-movement-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W39-prepositions-place-movement-001-MASTERY-v12",
+      "statement": "\"We started at the valley, walked through the dense jungle for hours, and then climbed over the ridge to see the ocean. We finally arrived into the small village at dusk.\"\r\nWhat was the journey like?",
+      "context": "Selecting the best summary of a journey.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It was a challenging trek through varied terrain and obstacles to reach a coastal destination.",
+          "is_correct": true,
+          "feedback": "Correct! It summarizes the different prepositions of movement into a coherent experience."
+        },
+        {
+          "letter": "B",
+          "text": "They were always at the valley and saw nothing.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "They walked along the ocean for hours.",
+          "is_correct": false,
+          "feedback": "Incorrect. They only saw it after climbing over the ridge."
+        },
+        {
+          "letter": "D",
+          "text": "The jungle was over the plane.",
+          "is_correct": false,
+          "feedback": "Incorrect and illogical."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sintetizar una travesía requiere decodificar las preposiciones de movimiento para entender el relieve y los obstáculos superados por los protagonistas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-8-2026-W39-prepositions-place-movement-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

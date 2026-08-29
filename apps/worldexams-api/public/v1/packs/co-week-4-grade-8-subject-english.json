@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-4-grade-8-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.732Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-8-2026-W04-comparisons-001-MASTERY-v1",
+      "statement": "Bogotá is usually ________ than Cartagena, especially in the early morning.",
+      "context": "Comparing two cities in Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "cold",
+          "is_correct": false,
+          "feedback": "Incorrect. We need the comparative form."
+        },
+        {
+          "letter": "B",
+          "text": "colder",
+          "is_correct": true,
+          "feedback": "Correct! For short adjectives, we add \"-er\" for comparison."
+        },
+        {
+          "letter": "C",
+          "text": "more cold",
+          "is_correct": false,
+          "feedback": "Incorrect. Short adjectives don't use \"more\"."
+        },
+        {
+          "letter": "D",
+          "text": "the coldest",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the superlative form, used for more than two things."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para adjetivos cortos (una sílaba), formamos el comparativo agregando el sufijo \"-er\" seguido de \"than\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W04-comparisons-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W04-comparisons-001-MASTERY-v2",
+      "statement": "Mount Everest is ________ mountain in the world.",
+      "context": "Expressing the highest quality in a group.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the high",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs the superlative suffix."
+        },
+        {
+          "letter": "B",
+          "text": "higher than",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for comparing two things."
+        },
+        {
+          "letter": "C",
+          "text": "the highest",
+          "is_correct": true,
+          "feedback": "Correct! Use \"the\" + \"-est\" for the superlative of short adjectives."
+        },
+        {
+          "letter": "D",
+          "text": "most high",
+          "is_correct": false,
+          "feedback": "Incorrect. Short adjectives don't use \"most\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El superlativo se usa para indicar que algo posee una cualidad en el grado máximo dentro de un grupo. Para adjetivos cortos, usamos \"the\" y el sufijo \"-est\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W04-comparisons-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W04-comparisons-001-MASTERY-v3",
+      "statement": "In my opinion, playing the piano is ________ than playing the drums.",
+      "context": "Comparing with long adjectives.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "difficultier",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Difficult\" is a long adjective."
+        },
+        {
+          "letter": "B",
+          "text": "more difficult",
+          "is_correct": true,
+          "feedback": "Correct! Long adjectives use \"more\" for comparison."
+        },
+        {
+          "letter": "C",
+          "text": "as difficult",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs \"as\" after the adjective to complete the structure."
+        },
+        {
+          "letter": "D",
+          "text": "the most difficult",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a superlative, not a comparison between two."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para adjetivos largos (de tres o más sílabas), el comparativo se forma anteponiendo la palabra \"more\" al adjetivo.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W04-comparisons-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W04-comparisons-001-MASTERY-v4",
+      "statement": "My English grades are ________ this term than they were last year. I am studying harder!",
+      "context": "Using irregular adjectives.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "gooder",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Good\" is an irregular adjective."
+        },
+        {
+          "letter": "B",
+          "text": "better",
+          "is_correct": true,
+          "feedback": "Correct! \"Better\" is the comparative form of \"good\"."
+        },
+        {
+          "letter": "C",
+          "text": "the best",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the superlative form."
+        },
+        {
+          "letter": "D",
+          "text": "more good",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Good\" does not use \"more\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Algunos adjetivos son irregulares y cambian su forma completamente. El comparativo de \"good\" es \"better\" y el de \"bad\" es \"worse\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W04-comparisons-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W04-comparisons-001-MASTERY-v5",
+      "statement": "This new smartphone is ________ expensive ________ the previous model. They cost exactly the same.",
+      "context": "Using \"as...as\" for equality.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "as / as",
+          "is_correct": true,
+          "feedback": "Correct! We use \"as + adjective + as\" to show equality."
+        },
+        {
+          "letter": "B",
+          "text": "more / than",
+          "is_correct": false,
+          "feedback": "Incorrect. This would mean they don't cost the same."
+        },
+        {
+          "letter": "C",
+          "text": "so / that",
+          "is_correct": false,
+          "feedback": "Incorrect. This structure is for consequence, not comparison."
+        },
+        {
+          "letter": "D",
+          "text": "less / than",
+          "is_correct": false,
+          "feedback": "Incorrect. This means it is cheaper, but they cost the same."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para comparar dos cosas que son iguales en una cualidad, utilizamos la estructura \"as + adjetivo + as\" (tan... como).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-8-2026-W04-comparisons-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W04-comparisons-001-MASTERY-v6",
+      "statement": "Traveling by \"Chiva\" is definitely ________ than traveling by a modern intercity bus.",
+      "context": "Comparing traditional and modern transport in Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "slow",
+          "is_correct": false,
+          "feedback": "Incorrect. Comparative needed."
+        },
+        {
+          "letter": "B",
+          "text": "slower",
+          "is_correct": true,
+          "feedback": "Correct! Comparison of two modes of transport."
+        },
+        {
+          "letter": "C",
+          "text": "the slowest",
+          "is_correct": false,
+          "feedback": "Incorrect. Superlative doesn't fit a comparison between two items."
+        },
+        {
+          "letter": "D",
+          "text": "more slow",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Slow\" is a short adjective."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al comparar dos elementos específicos (Chiva vs. Bus moderno), debemos usar el grado comparativo. \"Slow\" es corto, por lo que usamos \"-er\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-8-2026-W04-comparisons-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W04-comparisons-001-MASTERY-v7",
+      "statement": "There are ________ students in the classroom today than yesterday because of the strike.",
+      "context": "Comparing quantities with \"less\" and \"fewer\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "less",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Students\" is countable."
+        },
+        {
+          "letter": "B",
+          "text": "fewer",
+          "is_correct": true,
+          "feedback": "Correct! Use \"fewer\" for countable nouns in comparison."
+        },
+        {
+          "letter": "C",
+          "text": "more few",
+          "is_correct": false,
+          "feedback": "Incorrect. Not a correct structure."
+        },
+        {
+          "letter": "D",
+          "text": "the fewest",
+          "is_correct": false,
+          "feedback": "Incorrect. Superlative form."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aunque en lenguaje informal se usa \"less\" para todo, gramaticalmente en nivel B1 se distingue entre \"less\" (para incontables) y \"fewer\" (para contables como \"students\").\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-8-2026-W04-comparisons-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W04-comparisons-001-MASTERY-v8",
+      "statement": "\"Cali is **by far** the warmest city I have visited in Colombia.\"\r\nWhat does \"by far\" emphasize?",
+      "context": "Understanding the emphasis of \"by far\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cali is a little bit warmer than other cities.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"By far\" shows a large difference."
+        },
+        {
+          "letter": "B",
+          "text": "Cali is much warmer than all the other cities.",
+          "is_correct": true,
+          "feedback": "Correct! \"By far\" emphasizes a significant difference in a superlative."
+        },
+        {
+          "letter": "C",
+          "text": "Cali is not actually warm.",
+          "is_correct": false,
+          "feedback": "Incorrect. It says the opposite."
+        },
+        {
+          "letter": "D",
+          "text": "The speaker doesn't like warm cities.",
+          "is_correct": false,
+          "feedback": "Incorrect. It's a statement of fact, not preference."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La expresión \"by far\" se utiliza con superlativos para enfatizar que la diferencia entre el primer lugar y los demás es muy grande.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-8-2026-W04-comparisons-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W04-comparisons-001-MASTERY-v9",
+      "statement": "The ________ you study, the ________ your results will be.",
+      "context": "Double comparatives.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "more / good",
+          "is_correct": false,
+          "feedback": "Incorrect. Second part must be a comparative too."
+        },
+        {
+          "letter": "B",
+          "text": "harder / better",
+          "is_correct": true,
+          "feedback": "Correct! Double comparative structure \"The + comparative, the + comparative\"."
+        },
+        {
+          "letter": "C",
+          "text": "hard / best",
+          "is_correct": false,
+          "feedback": "Incorrect. Doesn't follow the correlative structure."
+        },
+        {
+          "letter": "D",
+          "text": "most / best",
+          "is_correct": false,
+          "feedback": "Incorrect. Uses superlatives instead of comparatives."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La estructura \"The + comparativo..., the + comparativo...\" se usa para mostrar cómo una situación depende de otra (Cuanto más..., mejor...).\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-8-2026-W04-comparisons-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W04-comparisons-001-MASTERY-v10",
+      "statement": "Which of the following sentences is grammatically **incorrect**?",
+      "context": "Identifying errors in complex comparisons.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "This exam was far more difficult than I expected.",
+          "is_correct": false,
+          "feedback": "Incorrect. This sentence is correct; \"far\" modifies the comparative."
+        },
+        {
+          "letter": "B",
+          "text": "She is the least ambitious person in the whole team.",
+          "is_correct": false,
+          "feedback": "Incorrect. This sentence is correct; \"the least\" is a negative superlative."
+        },
+        {
+          "letter": "C",
+          "text": "My house is more bigger than yours.",
+          "is_correct": true,
+          "feedback": "Correct! This is an error. We should never use \"more\" with an \"-er\" comparative."
+        },
+        {
+          "letter": "D",
+          "text": "Gold is much heavier than aluminum.",
+          "is_correct": false,
+          "feedback": "Incorrect. This sentence is correct."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un error común que se debe evitar en nivel B1 es la \"doble comparación\" (usar *more* y el sufijo *-er* al mismo tiempo).\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-8-2026-W04-comparisons-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W04-comparisons-001-MASTERY-v11",
+      "statement": "Compare these two sentences:\r\n1. \"The movie was not as good as the book.\"\r\n2. \"The book was better than the movie.\"\r\n\r\nAre they expressing the same idea?",
+      "context": "Evaluating subtle differences in meaning.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, both sentences mean the book is superior to the movie.",
+          "is_correct": true,
+          "feedback": "Correct! \"Not as... as\" is often a softer way to say \"less than\"."
+        },
+        {
+          "letter": "B",
+          "text": "No, sentence 1 means they are equal.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Not as...as\" shows inequality."
+        },
+        {
+          "letter": "C",
+          "text": "No, sentence 2 means the movie is better.",
+          "is_correct": false,
+          "feedback": "Incorrect. It says the book is better."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, both sentences mean the movie is the best.",
+          "is_correct": false,
+          "feedback": "Incorrect. Both favor the book."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El estudiante debe reconocer que \"not as + adjetivo + as\" es una estructura alternativa para expresar inferioridad, equivalente a \"less than\" o al comparativo opuesto.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-8-2026-W04-comparisons-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W04-comparisons-001-MASTERY-v12",
+      "statement": "\"After visiting many places in Colombia, I can say that Medellín has a great climate, but Manizales offers the most breathtaking views of the coffee region.\"\r\nChoose the best follow-up sentence:",
+      "context": "Writing a concluding sentence for a travel blog.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ultimately, choosing between them depends on whether you prefer warmth or scenery.",
+          "is_correct": true,
+          "feedback": "Correct! It summarizes the comparison fairly."
+        },
+        {
+          "letter": "B",
+          "text": "Therefore, Medellín is worse than Manizales in every aspect.",
+          "is_correct": false,
+          "feedback": "Incorrect. Too extreme and doesn't reflect the original text."
+        },
+        {
+          "letter": "C",
+          "text": "However, both cities are the most expensive in the world.",
+          "is_correct": false,
+          "feedback": "Incorrect. Irrelevant to the previous comparison of climate/views."
+        },
+        {
+          "letter": "D",
+          "text": "I will never go to those places because they are far.",
+          "is_correct": false,
+          "feedback": "Incorrect. Contradicts the context of having already visited them."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La creación de una conclusión requiere integrar la información comparativa previa y ofrecer una síntesis equilibrada que respete los matices de la opinión expresada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-8-2026-W04-comparisons-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

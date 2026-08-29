@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "ar",
+    "pack_id": "ar-week-24-grade-11-subject-matematica",
+    "generated_at": "2026-06-18T23:58:36.286Z"
+  },
+  "questions": [
+    {
+      "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se clasifica la variable \"cantidad de hermanos\"?",
+      "context": "En una encuesta realizada en una escuela de Mendoza, se registró la cantidad de hermanos que tiene cada alumno de un curso de 5to año.\n\n**ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v1\n**Bloom:** Remember\n**EJE:** Probabilidad y Estadística\n**Contexto:** Datos sobre composición familiar escolar.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cualitativa nominal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores son números, no categorías sin orden."
+        },
+        {
+          "letter": "B",
+          "text": "Cualitativa ordinal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hay orden, la variable es numérica."
+        },
+        {
+          "letter": "C",
+          "text": "Cuantitativa discreta",
+          "is_correct": true,
+          "feedback": "Correcto. Los valores son números enteros (0, 1, 2...) y surgen de un conteo."
+        },
+        {
+          "letter": "D",
+          "text": "Cuantitativa continua",
+          "is_correct": false,
+          "feedback": "Incorrecto. No puede haber 1,5 hermanos; los valores no son un continuo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las variables cuantitativas discretas son aquellas que solo pueden tomar valores enteros aislados, generalmente resultantes de un proceso de conteo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v2",
+      "statement": "¿A qué tipo de variable estadística corresponden los valores de temperatura registrados?",
+      "context": "Se mide la temperatura al mediodía en la ciudad de Salta durante los 31 días de enero.\n\n**ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v2\n**Bloom:** Remember\n**EJE:** Probabilidad y Estadística\n**Contexto:** Registro climático diario.\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuantitativa discreta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura puede tomar cualquier valor dentro de un rango (ej. 25,4 °C)."
+        },
+        {
+          "letter": "B",
+          "text": "Cuantitativa continua",
+          "is_correct": true,
+          "feedback": "Correcto. Puede tomar infinitos valores dentro de un intervalo real."
+        },
+        {
+          "letter": "C",
+          "text": "Cualitativa ordinal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una variable numérica, no una categoría con jerarquía."
+        },
+        {
+          "letter": "D",
+          "text": "Cualitativa nominal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los números no son etiquetas, tienen significado aritmético."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las variables cuantitativas continuas pueden tomar cualquier valor real dentro de un intervalo determinado, siendo producto de una medición.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v3",
+      "statement": "¿Qué tipo de variable es el nivel de satisfacción?",
+      "context": "Un sociólogo de la UBA está analizando el \"Nivel de Satisfacción\" de los usuarios del Subte (Muy Insatisfecho, Insatisfecho, Neutro, Satisfecho, Muy Satisfecho).\n\n**ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v3\n**Bloom:** Understand\n**EJE:** Probabilidad y Estadística\n**Contexto:** Encuesta de opinión sobre transporte público.\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cualitativa nominal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las categorías tienen un orden lógico de menor a mayor satisfacción."
+        },
+        {
+          "letter": "B",
+          "text": "Cualitativa ordinal",
+          "is_correct": true,
+          "feedback": "Correcto. Son categorías no numéricas que guardan un orden jerárquico."
+        },
+        {
+          "letter": "C",
+          "text": "Cuantitativa discreta",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son valores numéricos por naturaleza (aunque se puedan codificar)."
+        },
+        {
+          "letter": "D",
+          "text": "Cuantitativa continua",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son medidas en una escala real continua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las variables cualitativas ordinales expresan categorías no numéricas pero que presentan un orden o jerarquía natural entre ellas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v4",
+      "statement": "¿Cuántos alumnos pertenecen a ese intervalo de peso?",
+      "context": "En una tabla de frecuencias sobre el peso de 50 alumnos de una escuela técnica, la frecuencia relativa de un intervalo es 0,12.\n\n**ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v4\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Interpretación de tablas de frecuencia.\n**Expected_Success:** 0.82",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": true,
+          "feedback": "Correcto. Frecuencia absoluta = Frecuencia relativa * Total = 0,12 * 50 = 6."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. 12 es el porcentaje (12%), no la cantidad de alumnos."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo de la proporción."
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. No surge de la operación correcta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La frecuencia relativa (hi) es el cociente entre la frecuencia absoluta (fi) y el número total de datos (n). Por lo tanto, fi = hi * n. En este caso: 0,12 * 50 = 6.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.82,
+      "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v5",
+      "statement": "¿Cómo se denomina al punto medio de cada intervalo de clase en una tabla de frecuencias?",
+      "context": "Se analizan los ingresos mensuales de 200 familias en un barrio de Córdoba, agrupados en intervalos de clase.\n\n**ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v5\n**Bloom:** Remember\n**EJE:** Probabilidad y Estadística\n**Contexto:** Distribución de ingresos familiares.\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Amplitud de clase",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la diferencia entre el límite superior e inferior."
+        },
+        {
+          "letter": "B",
+          "text": "Marca de clase",
+          "is_correct": true,
+          "feedback": "Correcto. Es el valor representativo del intervalo, calculado como (Ls + Li) / 2."
+        },
+        {
+          "letter": "C",
+          "text": "Frecuencia acumulada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la suma de frecuencias hasta ese intervalo."
+        },
+        {
+          "letter": "D",
+          "text": "Desviación típica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una medida de dispersión, no un punto del intervalo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La marca de clase (xi) es el punto medio del intervalo y se utiliza como el valor representativo del grupo para realizar cálculos de promedios y otras medidas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.78,
+      "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la principal diferencia entre un histograma y un gráfico de barras?",
+      "context": "Un histograma muestra la distribución de las edades de los socios de un club de barrio en Avellaneda.\n\n**ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v6\n**Bloom:** Understand\n**EJE:** Probabilidad y Estadística\n**Contexto:** Representación gráfica de datos.\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El histograma usa colores y el gráfico de barras no.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los colores son estéticos, no técnicos."
+        },
+        {
+          "letter": "B",
+          "text": "En el histograma las barras están unidas porque la variable es continua o agrupada.",
+          "is_correct": true,
+          "feedback": "Correcto. Las barras pegadas indican continuidad entre los intervalos de clase."
+        },
+        {
+          "letter": "C",
+          "text": "El gráfico de barras se usa para variables cuantitativas continuas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés, se usa para cualitativas o discretas."
+        },
+        {
+          "letter": "D",
+          "text": "No hay ninguna diferencia, son nombres distintos para el mismo gráfico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen usos y significados técnicos diferentes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El histograma se utiliza para representar distribuciones de variables continuas o agrupadas en intervalos. Las barras están juntas para reflejar que el final de un intervalo es el comienzo del siguiente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la frecuencia acumulada para la nota 7?",
+      "context": "En una tabla de frecuencias, se tiene la siguiente información sobre la variable \"Calificación en Matemática\" (de 1 a 10):\n- Frecuencia acumulada de la nota 6: 25 alumnos.\n- Frecuencia absoluta de la nota 7: 8 alumnos.\n\n**ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v7\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Rendimiento académico escolar.\n**Expected_Success:** 0.74",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la frecuencia absoluta de la nota 7."
+        },
+        {
+          "letter": "B",
+          "text": "17",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se restan los valores."
+        },
+        {
+          "letter": "C",
+          "text": "33",
+          "is_correct": true,
+          "feedback": "Correcto. Frecuencia acumulada (Fi) = F_anterior + f_actual = 25 + 8 = 33."
+        },
+        {
+          "letter": "D",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la acumulada hasta la nota anterior."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La frecuencia acumulada de un valor es la suma de su propia frecuencia absoluta más las frecuencias absolutas de todos los valores anteriores. Fi = Fi-1 + fi.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la frecuencia relativa acumulada de los jóvenes que leen MENOS de 2 libros?",
+      "context": "Se realiza un estudio sobre la cantidad de libros leídos por año por 40 jóvenes de Rosario.\n- 0 libros: 10 jóvenes\n- 1 libro: 15 jóvenes\n- 2 libros: 10 jóvenes\n- 3 o más libros: 5 jóvenes\n\n**ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v8\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Hábitos de lectura en jóvenes.\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la frecuencia relativa de 0 libros únicamente."
+        },
+        {
+          "letter": "B",
+          "text": "0,375",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la frecuencia relativa de 1 libro únicamente."
+        },
+        {
+          "letter": "C",
+          "text": "0,625",
+          "is_correct": true,
+          "feedback": "Correcto. Menos de 2 libros = 0 o 1 libro. Cantidad = 10 + 15 = 25. Frecuencia relativa = 25 / 40 = 0,625."
+        },
+        {
+          "letter": "D",
+          "text": "0,875",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto incluiría también a los que leen exactamente 2 libros."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Menos de 2\" incluye las categorías 0 y 1. Sumamos sus frecuencias absolutas (10 + 15 = 25) y dividimos por el total (40). 25/40 = 0,625 (o 62,5%).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v9",
+      "statement": "¿Cuántos grados debe tener el sector circular que representa a la yerba \"Con Hierbas\"?",
+      "context": "Un gráfico circular representa el porcentaje de ventas de tres tipos de yerba mate: Tradicional (50%), Con Hierbas (30%) y Orgánica (20%).\n\n**ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v9\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Consumo de yerba mate en Argentina.\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30°",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es el porcentaje en grados, debe escalarse a 360°."
+        },
+        {
+          "letter": "B",
+          "text": "108°",
+          "is_correct": true,
+          "feedback": "Correcto. Ángulo = Porcentaje * 360° / 100 = 30 * 3,6 = 108°."
+        },
+        {
+          "letter": "C",
+          "text": "90°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto correspondería al 25% de las ventas."
+        },
+        {
+          "letter": "D",
+          "text": "120°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto correspondería a un tercio (33,3%) de las ventas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un gráfico circular, el ángulo central de cada sector es proporcional a su frecuencia relativa. Ángulo = hi * 360°. Aquí: 0,30 * 360° = 108°.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v10",
+      "statement": "Si el primer intervalo es [0, 20) y el segundo es [20, 40), ¿qué ocurre con un paciente que esperó exactamente 20 minutos?",
+      "context": "Se analiza el tiempo de espera en la guardia de un hospital público en el Gran Buenos Aires. Los datos se agrupan en intervalos de 20 minutos.\n\n**ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v10\n**Bloom:** Understand\n**EJE:** Probabilidad y Estadística\n**Contexto:** Gestión de salud pública.\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se cuenta en ambos intervalos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un dato no puede pertenecer a dos categorías disjuntas."
+        },
+        {
+          "letter": "B",
+          "text": "No se cuenta en ninguno de los dos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se perdería información."
+        },
+        {
+          "letter": "C",
+          "text": "Se cuenta en el segundo intervalo [20, 40).",
+          "is_correct": true,
+          "feedback": "Correcto. Por convención, el corchete indica inclusión y el paréntesis exclusión."
+        },
+        {
+          "letter": "D",
+          "text": "Se cuenta en el primer intervalo [0, 20).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El paréntesis indica que no llega a incluir el valor 20."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la notación de intervalos de clase, el extremo izquierdo suele ser cerrado (incluye el valor) y el derecho abierto (no lo incluye), garantizando que cada dato pertenezca a una única clase.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v11",
+      "statement": "¿Qué porcentaje de jugadores mide 190 cm o más?",
+      "context": "Una tabla de frecuencias muestra la distribución de alturas de jugadores de básquet en un club de Santa Fe.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "35%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta incluir el último intervalo que también cumple la condición."
+        },
+        {
+          "letter": "B",
+          "text": "40%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el porcentaje de los que miden menos de 190."
+        },
+        {
+          "letter": "C",
+          "text": "60%",
+          "is_correct": true,
+          "feedback": "Correcto. 190 o más incluye los intervalos 2 y 3. 0,35 + 0,25 = 0,60 = 60%."
+        },
+        {
+          "letter": "D",
+          "text": "25%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es solo el porcentaje de los más altos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Sumamos las frecuencias relativas de todos los intervalos que cumplen la condición de ser iguales o mayores al límite inferior de 190 cm. 0,35 + 0,25 = 0,60.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v12",
+      "statement": "Si el polígono de invierno está desplazado hacia la derecha respecto al de verano, ¿qué interpretación es correcta?",
+      "context": "Se comparan dos polígonos de frecuencia que representan el consumo eléctrico en invierno y verano en una ciudad patagónica.\n\n**ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v12\n**Bloom:** Analyze\n**EJE:** Probabilidad y Estadística\n**Contexto:** Consumo energético regional.\n**Expected_Success:** 0.62",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hubo menos consumo en invierno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El eje horizontal (X) suele representar la cantidad consumida; desplazamiento a la derecha es mayor consumo."
+        },
+        {
+          "letter": "B",
+          "text": "Los valores de consumo típicos en invierno fueron más elevados que en verano.",
+          "is_correct": true,
+          "feedback": "Correcto. Un desplazamiento a la derecha en el eje X indica mayores valores de la variable medida."
+        },
+        {
+          "letter": "C",
+          "text": "La variabilidad del consumo fue menor en invierno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desplazamiento no indica dispersión, sino ubicación."
+        },
+        {
+          "letter": "D",
+          "text": "El consumo se mantuvo igual en ambas estaciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si estuviera igual, los polígonos estarían superpuestos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un gráfico de frecuencias, el eje X representa los valores de la variable. Si la curva se desplaza a la derecha, significa que los datos tienden a valores numéricamente mayores.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.62,
+      "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la principal característica visual de una ojiva?",
+      "context": "Un analista de datos está construyendo una Ojiva (gráfico de frecuencias acumuladas) para los tiempos de llegada de camiones a un centro logístico en Zárate.\n\n**ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v13\n**Bloom:** Understand\n**EJE:** Probabilidad y Estadística\n**Contexto:** Logística y transporte.\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una curva que sube y baja constantemente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las frecuencias acumuladas nunca disminuyen."
+        },
+        {
+          "letter": "B",
+          "text": "Es una curva siempre creciente o constante.",
+          "is_correct": true,
+          "feedback": "Correcto. Al acumular frecuencias, el valor siempre suma o se mantiene igual, nunca resta."
+        },
+        {
+          "letter": "C",
+          "text": "Empieza en el valor máximo de la frecuencia absoluta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Empieza en 0 (o la primera frecuencia)."
+        },
+        {
+          "letter": "D",
+          "text": "Sus barras tienen áreas proporcionales a la frecuencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ojiva es una línea quebrada, no un gráfico de barras."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dado que las frecuencias acumuladas se obtienen sumando cantidades siempre no negativas, la ojiva es una función monótona no decreciente que permite visualizar cuántos datos están por debajo de cierto valor.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.68,
+      "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la amplitud de cada intervalo?",
+      "context": "En una tabla de frecuencias con 5 intervalos de igual amplitud para datos entre 100 y 250...\n\n**ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v14\n**Bloom:** Apply\n**EJE:** Probabilidad y Estadística\n**Contexto:** Construcción de intervalos de clase.\n**Expected_Success:** 0.64",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50",
+          "is_correct": false,
+          "feedback": "Incorrecto. 50 * 5 = 250, pero el rango empieza en 100."
+        },
+        {
+          "letter": "B",
+          "text": "30",
+          "is_correct": true,
+          "feedback": "Correcto. Rango = 250 - 100 = 150. Amplitud = Rango / Intervalos = 150 / 5 = 30."
+        },
+        {
+          "letter": "C",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. No divide el rango total correctamente."
+        },
+        {
+          "letter": "D",
+          "text": "150",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el rango total, no la amplitud de cada clase."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La amplitud se calcula dividiendo el rango (Valor Máximo - Valor Mínimo) por la cantidad de intervalos deseada. (250-100)/5 = 150/5 = 30.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.64,
+      "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v15",
+      "statement": "¿Qué información nos proporciona ese valor de 120?",
+      "context": "Se observa una tabla de frecuencias donde la frecuencia acumulada del último intervalo es 120.\n\n**ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v15\n**Bloom:** Understand\n**EJE:** Probabilidad y Estadística\n**Contexto:** Propiedades de las frecuencias.\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es el valor máximo que tomó la variable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 120 es la cantidad de datos, no el valor de la variable."
+        },
+        {
+          "letter": "B",
+          "text": "Es el tamaño total de la muestra (n).",
+          "is_correct": true,
+          "feedback": "Correcto. La suma de todas las frecuencias absolutas (que es la acumulada final) es el número total de observaciones."
+        },
+        {
+          "letter": "C",
+          "text": "Es el promedio de los datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El promedio requiere otro tipo de cálculo."
+        },
+        {
+          "letter": "D",
+          "text": "Es la frecuencia del intervalo más común.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería la moda o frecuencia absoluta máxima."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Por definición, la frecuencia absoluta acumulada del último intervalo de una distribución debe ser igual a la suma de todas las frecuencias absolutas, es decir, al número total de datos analizados.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v16",
+      "statement": "¿Qué significa esto respecto a la distribución de los pesos?",
+      "context": "Un estudio sobre el peso al nacer en un hospital de San Luis muestra una distribución con asimetría positiva (cola hacia la derecha).\n\n**ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v16\n**Bloom:** Analyze\n**EJE:** Probabilidad y Estadística\n**Contexto:** Análisis de forma de distribuciones.\n**Expected_Success:** 0.58",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mayoría de los bebés pesaron mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asimetría positiva significa que la mayoría está en valores bajos y hay pocos valores muy altos."
+        },
+        {
+          "letter": "B",
+          "text": "Existe un grupo pequeño de bebés con pesos significativamente más altos que el promedio.",
+          "is_correct": true,
+          "feedback": "Correcto. La \"cola\" a la derecha indica la presencia de valores extremos altos."
+        },
+        {
+          "letter": "C",
+          "text": "El peso más frecuente es mayor que el promedio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En asimetría positiva, la moda suele ser menor que la media."
+        },
+        {
+          "letter": "D",
+          "text": "La distribución es perfectamente equilibrada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería una distribución simétrica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La asimetría positiva ocurre cuando los datos se concentran en valores bajos, pero existen algunos valores extremadamente altos que \"estiran\" la gráfica hacia la derecha.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v17",
+      "statement": "Si el siguiente intervalo [5%, 10%) tiene una frecuencia absoluta de 30, ¿cuál es la frecuencia relativa acumulada hasta el 10%?",
+      "context": "Un analista financiero en Buenos Aires observa que la frecuencia relativa del intervalo de \"Rendimiento Mensual\" [0%, 5%) es del 0,25. Se sabe que hay 80 activos en total.\n\n**ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v17\n**Bloom:** Evaluate\n**EJE:** Probabilidad y Estadística\n**Contexto:** Finanzas y mercados de capitales.\n**Expected_Success:** 0.52",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,55",
+          "is_correct": false,
+          "feedback": "Incorrecto. No sumó correctamente las proporciones."
+        },
+        {
+          "letter": "B",
+          "text": "0,625",
+          "is_correct": true,
+          "feedback": "Correcto. hi1 = 0,25. hi2 = 30 / 80 = 0,375. Hi2 = 0,25 + 0,375 = 0,625."
+        },
+        {
+          "letter": "C",
+          "text": "0,50",
+          "is_correct": false,
+          "feedback": "Incorrecto. 0,25 + 0,25 = 0,50, pero la segunda relativa es 0,375."
+        },
+        {
+          "letter": "D",
+          "text": "0,75",
+          "is_correct": false,
+          "feedback": "Incorrecto. No surge de los datos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero calculamos la frecuencia relativa del segundo intervalo: 30 / 80 = 0,375. Luego sumamos la frecuencia relativa del primero (0,25) para obtener la acumulada: 0,25 + 0,375 = 0,625.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.52,
+      "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es la frecuencia absoluta del intervalo faltante?",
+      "context": "Se reconstruye una tabla de frecuencias donde se perdió un dato. Se sabe que n = 100, y las frecuencias relativas de 4 de los 5 intervalos son: 0,15; 0,20; 0,35; 0,10.\n\n**ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v18\n**Bloom:** Evaluate\n**EJE:** Probabilidad y Estadística\n**Contexto:** Reconstrucción de distribuciones incompletas.\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se pide frecuencia absoluta, no relativa."
+        },
+        {
+          "letter": "B",
+          "text": "20",
+          "is_correct": true,
+          "feedback": "Correcto. La suma de relativas debe ser 1. 1 - (0,15+0,2+0,35+0,1) = 1 - 0,80 = 0,20. Absoluta = 0,20 * 100 = 20."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de las dadas da 0,8, falta 0,2."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No surge de la resta de relativas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La propiedad fundamental es que Σ hi = 1. El valor faltante es 1 - 0,80 = 0,20. Para pasarlo a frecuencia absoluta multiplicamos por el total: 0,20 * 100 = 20.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v19",
+      "statement": "¿A qué concepto corresponde la altura de 0,02 si el área del rectángulo debe representar la frecuencia relativa del intervalo?",
+      "context": "En un histograma de frecuencias relativas, la base de un rectángulo mide 10 unidades (amplitud) y su altura es 0,02.\n\n**ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v19\n**Bloom:** Evaluate\n**EJE:** Probabilidad y Estadística\n**Contexto:** Densidad de frecuencia en histogramas.\n**Expected_Success:** 0.45",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Frecuencia absoluta",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una cantidad entera."
+        },
+        {
+          "letter": "B",
+          "text": "Densidad de frecuencia",
+          "is_correct": true,
+          "feedback": "Correcto. Densidad = Frecuencia / Amplitud. Si Área = Frecuencia, entonces Altura = Frecuencia / Base."
+        },
+        {
+          "letter": "C",
+          "text": "Marca de clase",
+          "is_correct": false,
+          "feedback": "Incorrecto. La marca de clase está en el eje X, no en la altura."
+        },
+        {
+          "letter": "D",
+          "text": "Frecuencia acumulada",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se grafica en la altura del histograma de esta forma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En histogramas avanzados, la altura representa la densidad de frecuencia (fi/ai). De este modo, el área del rectángulo (Base * Altura = Amplitud * Densidad) es igual a la frecuencia del intervalo.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la interpretación correcta de estas formas?",
+      "context": "Se comparan dos muestras de igual tamaño: una tiene una ojiva con mucha pendiente al inicio y otra una ojiva con mucha pendiente al final.\n\n**ID:** AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle-v20\n**Bloom:** Evaluate\n**EJE:** Probabilidad y Estadística\n**Contexto:** Interpretación avanzada de curvas acumulativas.\n**Expected_Success:** 0.40",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera muestra tiene los datos concentrados en valores bajos, la segunda en valores altos.",
+          "is_correct": true,
+          "feedback": "Correcto. Mucha pendiente en la ojiva indica acumulación rápida de datos en ese rango."
+        },
+        {
+          "letter": "B",
+          "text": "La primera muestra tiene mayor promedio que la segunda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al revés, la segunda tiene valores más altos acumulados al final."
+        },
+        {
+          "letter": "C",
+          "text": "La segunda muestra tiene más datos que la primera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado dice que son de igual tamaño."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede inferir nada sobre la posición de los datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente de la ojiva es un indicador directo de la densidad de datos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente de la ojiva representa la rapidez con la que se acumulan los datos. Una pendiente fuerte al principio significa que una gran proporción de los datos cae en los primeros intervalos (valores bajos).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "AR-MAT-11-2026-W24-estadistica-distribuciones-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    }
+  ]
+}

@@ -1,0 +1,1811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "mx",
+    "pack_id": "mx-week-7-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:38.954Z"
+  },
+  "questions": [
+    {
+      "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la forma general (forma pendiente-intersección) de una función lineal que relaciona la variable dependiente $y$ con la independiente $x$?",
+      "context": "En una clase de álgebra en una preparatoria de Veracruz, el profesor explica la forma general de las funciones de primer grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = ax^2 + bx + c$",
+          "is_correct": false,
+          "feedback": "Esta es la forma general de una función cuadrática (segundo grado)."
+        },
+        {
+          "letter": "B",
+          "text": "$y = mx + b$",
+          "is_correct": true,
+          "feedback": "¡Correcto! m representa la pendiente y b la intersección con el eje de las ordenadas (eje Y)."
+        },
+        {
+          "letter": "C",
+          "text": "$y = \\frac{a}{x}$",
+          "is_correct": false,
+          "feedback": "Esta es una función racional simple o de proporcionalidad inversa."
+        },
+        {
+          "letter": "D",
+          "text": "$y = \\sqrt{x}$",
+          "is_correct": false,
+          "feedback": "Esta es una función raíz cuadrada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función lineal se caracteriza por tener una variable de primer grado. La expresión $y = mx + b$ permite identificar directamente la inclinación de la recta ($m$) y su punto de corte con el eje vertical ($b$).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v2",
+      "statement": "Si en una función lineal $y = mx + b$, el valor de la pendiente $m$ es negativo ($m < 0$), ¿cómo es el comportamiento de la función al aumentar los valores de $x$?",
+      "context": "Un estudiante observa la gráfica de la temperatura a lo largo del día en Chihuahua, la cual desciende de manera constante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La función es creciente.",
+          "is_correct": false,
+          "feedback": "Una función creciente requiere que la pendiente sea positiva (m > 0)."
+        },
+        {
+          "letter": "B",
+          "text": "La función es decreciente.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Una pendiente negativa indica que a medida que x aumenta, los valores de y disminuyen."
+        },
+        {
+          "letter": "C",
+          "text": "La función es constante.",
+          "is_correct": false,
+          "feedback": "Para que sea constante, la pendiente debe ser exactamente cero (m = 0)."
+        },
+        {
+          "letter": "D",
+          "text": "La función describe una parábola.",
+          "is_correct": false,
+          "feedback": "El signo de la pendiente en una función lineal define crecimiento o decrecimiento, no cambia la forma de la recta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pendiente ($m$) indica la razón de cambio. Si $m$ es negativo, la recta se inclina hacia abajo (de izquierda a derecha), lo que significa que la función decrece.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v3",
+      "statement": "En la función lineal $y = 3x - 5$, ¿cuáles son las coordenadas del punto donde la recta corta al eje de las ordenadas ($y$)?",
+      "context": "Un analista financiero en la Ciudad de México revisa un modelo de costos fijos representados por la ordenada al origen de una recta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(3, 0)$",
+          "is_correct": false,
+          "feedback": "Este punto está sobre el eje x, pero el 3 es la pendiente, no una coordenada de intersección."
+        },
+        {
+          "letter": "B",
+          "text": "$(0, 3)$",
+          "is_correct": false,
+          "feedback": "El 3 acompaña a la x, por lo que es la razón de cambio, no el punto de corte con y."
+        },
+        {
+          "letter": "C",
+          "text": "$(0, -5)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ordenada al origen b = -5 indica que cuando x = 0, y = -5."
+        },
+        {
+          "letter": "D",
+          "text": "$(-5, 0)$",
+          "is_correct": false,
+          "feedback": "Este punto sería la intersección con el eje x si se resolviera 3x - 5 = 0, lo cual da x = 5/3."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El valor de $b$ en $y = mx + b$ es la ordenada al origen. Representa el valor de la función cuando $x=0$, es decir, el punto $(0, b)$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el valor de la pendiente ($m$) de una recta que es paralela al eje de las abscisas (eje $x$)?",
+      "context": "En un laboratorio de física en Puebla, se mide la velocidad de un objeto que se mueve a ritmo constante sin aceleración. La gráfica de velocidad vs tiempo es una línea horizontal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m = 0$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Una recta horizontal no tiene inclinación respecto al eje x, por lo que su razón de cambio es cero."
+        },
+        {
+          "letter": "B",
+          "text": "$m = 1$",
+          "is_correct": false,
+          "feedback": "Una pendiente de 1 corresponde a una recta con una inclinación de 45 grados."
+        },
+        {
+          "letter": "C",
+          "text": "La pendiente es infinita o no está definida.",
+          "is_correct": false,
+          "feedback": "Esto ocurre con las rectas verticales, que son perpendiculares al eje x."
+        },
+        {
+          "letter": "D",
+          "text": "$m = -1$",
+          "is_correct": false,
+          "feedback": "Esta pendiente indicaría un decrecimiento constante a 45 grados hacia abajo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una recta horizontal tiene una ecuación de la forma $y = b$. Como el valor de $y$ no cambia al variar $x$, el cambio en $y$ es 0, resultando en una pendiente $m = 0$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el valor de la pendiente de la recta que pasa por los puntos $(2, 3)$ y $(5, 12)$?",
+      "context": "Un topógrafo en el Estado de México necesita calcular la pendiente de un terreno. Para ello, ubica dos puntos: $A(2, 3)$ y $B(5, 12)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m = 2$",
+          "is_correct": false,
+          "feedback": "Revisa el cálculo: (12 - 3) / (5 - 2) = 9 / 3 = 3."
+        },
+        {
+          "letter": "B",
+          "text": "$m = 3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aplicando la fórmula m = (y2 - y1) / (x2 - x1) obtenemos (12 - 3) / (5 - 2) = 9 / 3 = 3."
+        },
+        {
+          "letter": "C",
+          "text": "$m = 4.5$",
+          "is_correct": false,
+          "feedback": "Posiblemente dividiste entre 2 en lugar de la diferencia de las x (5 - 2 = 3)."
+        },
+        {
+          "letter": "D",
+          "text": "$m = 9$",
+          "is_correct": false,
+          "feedback": "Este es el valor de la diferencia de las y, pero falta dividirlo entre la diferencia de las x."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pendiente se calcula como la razón entre el cambio vertical y el cambio horizontal: $m = \\frac{y_2 - y_1}{x_2 - x_1}$. En este caso, $m = \\frac{12 - 3}{5 - 2} = \\frac{9}{3} = 3$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la función lineal que representa el costo total $C$ de un viaje en función de los kilómetros $k$ recorridos?",
+      "context": "Un taxista en Guadalajara cobra una tarifa base (banderazo) de \\$15.00 y adicionalmente \\$8.00 por cada kilómetro recorrido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$C(k) = 15k + 8$",
+          "is_correct": false,
+          "feedback": "Estás multiplicando la tarifa fija por los kilómetros, cuando debería ser el costo por km."
+        },
+        {
+          "letter": "B",
+          "text": "$C(k) = 8k + 15$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El costo por kilómetro (8) es la pendiente y el banderazo (15) es la ordenada al origen."
+        },
+        {
+          "letter": "C",
+          "text": "$C(k) = 23k$",
+          "is_correct": false,
+          "feedback": "Esto asume que no hay cuota fija y que el costo total por km es la suma de ambos valores, lo cual es incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$C(k) = 8k - 15$",
+          "is_correct": false,
+          "feedback": "La tarifa base es un costo inicial positivo que se suma, no se resta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En problemas de costos, el valor variable (por unidad) es la pendiente ($m$) y el valor fijo (inicial) es la ordenada al origen ($b$). La estructura es $y = mx + b$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el valor de $x$ donde la gráfica de la función $f(x) = -4x + 12$ interseca al eje de las abscisas?",
+      "context": "En un ejercicio de geometría analítica, se desea encontrar el punto donde la recta $f(x) = -4x + 12$ cruza el eje horizontal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 12$",
+          "is_correct": false,
+          "feedback": "Este es el punto de corte con el eje y, no con el eje x."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para hallar la intersección con x igualamos y a cero: 0 = -4x + 12 => 4x = 12 => x = 3."
+        },
+        {
+          "letter": "C",
+          "text": "$x = -3$",
+          "is_correct": false,
+          "feedback": "Al trasponer los términos, el signo de x resulta positivo: 4x = 12 implica x = 3."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Cuando x = 0 obtenemos la intersección con el eje y, que es 12."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La intersección con el eje $x$ ocurre cuando el valor de la función es cero ($y = 0$). Se debe resolver la ecuación lineal resultante para despejar $x$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las dos plantas tiene una mayor velocidad de crecimiento y cuál empezó con una mayor altura inicial?",
+      "context": "Un estudiante de preparatoria técnica compara el crecimiento de dos plantas. La planta A crece según $y = 2x + 5$ y la planta B según $y = 3x + 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La planta A crece más rápido y empezó con más altura.",
+          "is_correct": false,
+          "feedback": "La planta B tiene una pendiente mayor (3 > 2), por lo que crece más rápido."
+        },
+        {
+          "letter": "B",
+          "text": "La planta B crece más rápido y empezó con más altura.",
+          "is_correct": false,
+          "feedback": "La planta A tiene una ordenada al origen mayor (5 > 2), por lo que empezó con más altura."
+        },
+        {
+          "letter": "C",
+          "text": "La planta B crece más rápido, pero la planta A empezó con más altura.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pendiente de B (3) es mayor que la de A (2), y la altura inicial de A (5) es mayor que la de B (2)."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas crecen a la misma velocidad.",
+          "is_correct": false,
+          "feedback": "Para crecer a la misma velocidad sus pendientes deberían ser iguales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La pendiente ($m$) representa la velocidad o tasa de crecimiento. La ordenada al origen ($b$) representa el valor inicial (cuando el tiempo $x=0$).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v9",
+      "statement": "¿Cuántos litros de agua quedarán en el tanque después de media hora de vaciado?",
+      "context": "Un tanque de agua en una zona rural de Oaxaca se está vaciando de manera uniforme. El volumen $V$ en litros después de $t$ minutos es $V(t) = 1200 - 40t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1,180 litros",
+          "is_correct": false,
+          "feedback": "Media hora son 30 minutos, no 0.5 minutos. 1200 - 40(0.5) = 1180."
+        },
+        {
+          "letter": "B",
+          "text": "0 litros",
+          "is_correct": true,
+          "feedback": "¡Correcto! 30 minutos * 40 l/min = 1200 litros vaciados. 1200 - 1200 = 0."
+        },
+        {
+          "letter": "C",
+          "text": "600 litros",
+          "is_correct": false,
+          "feedback": "Revisa el cálculo: 40 * 30 = 1200. No 600."
+        },
+        {
+          "letter": "D",
+          "text": "400 litros",
+          "is_correct": false,
+          "feedback": "1200 - (40 * 30) = 0."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero se convierten las unidades de tiempo a las del modelo (minutos). Media hora = 30 min. Luego se evalúa la función: $V(30) = 1200 - 40(30) = 1200 - 1200 = 0$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de las siguientes ecuaciones podría representar al segundo muro si se sabe que es paralelo al primero y pasa por el origen?",
+      "context": "Un arquitecto en Monterrey está diseñando dos muros paralelos. La ecuación del primer muro es $y = 0.5x + 10$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = -2x$",
+          "is_correct": false,
+          "feedback": "Esta pendiente es la recíproca negativa, lo que indicaría una recta perpendicular, no paralela."
+        },
+        {
+          "letter": "B",
+          "text": "$y = 2x$",
+          "is_correct": false,
+          "feedback": "Rectas paralelas deben tener la misma pendiente exacta."
+        },
+        {
+          "letter": "C",
+          "text": "$y = 0.5x$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Tiene la misma pendiente (0.5) que la primera recta y al no tener término b sumado, pasa por (0,0)."
+        },
+        {
+          "letter": "D",
+          "text": "$y = 10x + 0.5$",
+          "is_correct": false,
+          "feedback": "Se intercambiaron los valores de pendiente y ordenada al origen."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dos rectas son paralelas si y solo si sus pendientes son iguales ($m_1 = m_2$). Pasar por el origen significa que su ordenada al origen es cero ($b = 0$).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál debe ser la pendiente ($m$) de cualquier recta que sea perpendicular a la recta $y = \\frac{3}{4}x - 2$?",
+      "context": "En un plano de diseño industrial en San Luis Potosí, se requiere trazar una línea perpendicular a la trayectoria $y = \\frac{3}{4}x - 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m = \\frac{3}{4}$",
+          "is_correct": false,
+          "feedback": "Esta es la misma pendiente, lo que resultaría en una recta paralela."
+        },
+        {
+          "letter": "B",
+          "text": "$m = -\\frac{3}{4}$",
+          "is_correct": false,
+          "feedback": "Solo cambiaste el signo, pero para perpendicularidad se requiere el recíproco negativo."
+        },
+        {
+          "letter": "C",
+          "text": "$m = -\\frac{4}{3}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Dos rectas son perpendiculares si m1 * m2 = -1. El recíproco negativo de 3/4 es -4/3."
+        },
+        {
+          "letter": "D",
+          "text": "$m = \\frac{4}{3}$",
+          "is_correct": false,
+          "feedback": "Este es el recíproco, pero falta el cambio de signo para que el producto sea -1."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La condición de perpendicularidad entre dos rectas con pendientes $m_1$ y $m_2$ es que su producto sea $-1$. Esto implica que $m_2 = -\\frac{1}{m_1}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.62,
+      "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la ecuación de la recta que tiene pendiente $m = -2$ y pasa por el punto $(-1, 5)$?",
+      "context": "Se conoce que una recta tiene una pendiente $m = -2$ y pasa por el punto $P(-1, 5)$. Un estudiante busca expresar la ecuación en su forma pendiente-intersección.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = -2x + 5$",
+          "is_correct": false,
+          "feedback": "El 5 es la coordenada y, pero no es necesariamente la ordenada al origen b."
+        },
+        {
+          "letter": "B",
+          "text": "$y = -2x + 3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usando y - y1 = m(x - x1): y - 5 = -2(x + 1) => y - 5 = -2x - 2 => y = -2x + 3."
+        },
+        {
+          "letter": "C",
+          "text": "$y = -2x + 7$",
+          "is_correct": false,
+          "feedback": "Probablemente sumaste 2 al 5 en lugar de restarlo al trasponer."
+        },
+        {
+          "letter": "D",
+          "text": "$y = 2x + 3$",
+          "is_correct": false,
+          "feedback": "La pendiente debe ser negativa según el enunciado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se utiliza la forma punto-pendiente: $y - y_1 = m(x - x_1)$. Sustituyendo: $y - 5 = -2(x - (-1))$, que simplifica a $y = -2x + 3$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la razón de cambio (litros por hora) de este sistema de riego?",
+      "context": "Un sistema de riego por goteo en Sonora entrega agua de forma constante. Se observa que después de 2 horas se han entregado 15 litros, y después de 5 horas se han entregado 37.5 litros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 l/h",
+          "is_correct": false,
+          "feedback": "15 litros es el total a las 2 horas, no la tasa por hora."
+        },
+        {
+          "letter": "B",
+          "text": "7.5 l/h",
+          "is_correct": true,
+          "feedback": "¡Correcto! m = (37.5 - 15) / (5 - 2) = 22.5 / 3 = 7.5."
+        },
+        {
+          "letter": "C",
+          "text": "5 l/h",
+          "is_correct": false,
+          "feedback": "Revisa la división: 22.5 entre 3 es 7.5."
+        },
+        {
+          "letter": "D",
+          "text": "22.5 l/h",
+          "is_correct": false,
+          "feedback": "Esta es la diferencia total de litros entre los dos tiempos, no la tasa horaria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La razón de cambio es la pendiente entre los puntos $(2, 15)$ y $(5, 37.5)$. Se calcula mediante la fórmula de la pendiente: $\\frac{\\Delta y}{\\Delta x}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la pendiente ($m$) y la ordenada al origen ($b$) de la recta cuya ecuación es \\$3x - 2y + 8 = 0$?",
+      "context": "En un examen tipo EXANI-II, se presenta la ecuación de una recta en su forma general: \\$3x - 2y + 8 = 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m = 3, b = 8$",
+          "is_correct": false,
+          "feedback": "No has despejado la variable y para llevar la ecuación a la forma y = mx + b."
+        },
+        {
+          "letter": "B",
+          "text": "$m = 1.5, b = 4$",
+          "is_correct": true,
+          "feedback": "¡Correcto! -2y = -3x - 8 => y = (-3/-2)x + (-8/-2) => y = 1.5x + 4."
+        },
+        {
+          "letter": "C",
+          "text": "$m = -1.5, b = -4$",
+          "is_correct": false,
+          "feedback": "Cuidado con los signos al dividir entre -2."
+        },
+        {
+          "letter": "D",
+          "text": "$m = 0.66, b = 2.66$",
+          "is_correct": false,
+          "feedback": "Despejaste x en lugar de y o dividiste los coeficientes al revés."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para identificar $m$ y $b$ en la forma general $Ax + By + C = 0$, se despeja $y$: $y = -\\frac{A}{B}x - \\frac{C}{B}$. Aquí, $y = -\\frac{3}{-2}x - \\frac{8}{-2} = 1.5x + 4$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v15",
+      "statement": "Si el viento cambia y la velocidad de ascenso se duplica mientras la altura inicial permanece igual, ¿cuál es la nueva función de altura?",
+      "context": "Un globo aerostático en Teotihuacán asciende. Su altura $H$ (en metros) respecto al tiempo $t$ (en segundos) está dada por $H(t) = 1.2t + 20$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$H(t) = 1.2t + 40$",
+          "is_correct": false,
+          "feedback": "Aquí duplicaste la altura inicial (b), no la velocidad (m)."
+        },
+        {
+          "letter": "B",
+          "text": "$H(t) = 2.4t + 20$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La velocidad de ascenso es la pendiente (1.2). Al duplicarla obtenemos 2.4."
+        },
+        {
+          "letter": "C",
+          "text": "$H(t) = 2.4t + 40$",
+          "is_correct": false,
+          "feedback": "Duplicaste ambos valores, pero el enunciado dice que la altura inicial permanece igual."
+        },
+        {
+          "letter": "D",
+          "text": "$H(t) = 0.6t + 20$",
+          "is_correct": false,
+          "feedback": "Esto sería reducir la velocidad a la mitad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Modificar la velocidad de cambio implica cambiar el valor de la pendiente ($m$). Los cambios en el valor inicial afectan a la ordenada al origen ($b$).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.56,
+      "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v16",
+      "statement": "¿En qué punto $(x, y)$ se cruzan las trayectorias de ambos proyectiles?",
+      "context": "Dos proyectiles siguen trayectorias lineales en un simulador: $y = x + 2$ y $y = -2x + 11$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(2, 4)$",
+          "is_correct": false,
+          "feedback": "Si x = 2, la primera da y = 4 pero la segunda da y = 7. No es el punto de cruce."
+        },
+        {
+          "letter": "B",
+          "text": "$(3, 5)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Igualando x + 2 = -2x + 11 => 3x = 9 => x = 3. Sustituyendo, y = 3 + 2 = 5."
+        },
+        {
+          "letter": "C",
+          "text": "$(5, 3)$",
+          "is_correct": false,
+          "feedback": "Revisa el despeje de x: x + 2x = 11 - 2, por lo tanto 3x = 9."
+        },
+        {
+          "letter": "D",
+          "text": "$(3, 1)$",
+          "is_correct": false,
+          "feedback": "x=3 es correcto, pero y debe ser 5."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El punto de intersección se halla igualando las dos funciones ($f(x) = g(x)$) para encontrar el valor de $x$ común, y luego sustituyendo ese valor en cualquiera de las funciones para obtener $y$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v17",
+      "statement": "¿Cuántos pares de zapatos debe vender como mínimo para que sus ingresos igualen a sus costos (punto de equilibrio)?",
+      "context": "Un fabricante de zapatos en León tiene costos mensuales de producción $C(x) = 250x + 15000$, donde $x$ es el número de pares. Vende cada par en \\$400.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60 pares",
+          "is_correct": false,
+          "feedback": "400 * 60 = 24,000. C(60) = 250(60) + 15,000 = 15,000 + 15,000 = 30,000. Los costos superan ingresos."
+        },
+        {
+          "letter": "B",
+          "text": "100 pares",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ingreso I(x) = 400x. Igualando: 400x = 250x + 15000 => 150x = 15000 => x = 100."
+        },
+        {
+          "letter": "C",
+          "text": "150 pares",
+          "is_correct": false,
+          "feedback": "Este número de pares generaría una ganancia, no es el punto mínimo de equilibrio."
+        },
+        {
+          "letter": "D",
+          "text": "38 pares",
+          "is_correct": false,
+          "feedback": "Este cálculo es erróneo; se requiere igualar las funciones de costo e ingreso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El punto de equilibrio se alcanza cuando la función de ingresos $I(x) = P \\cdot x$ es igual a la función de costos $C(x) = m \\cdot x + b$. La solución indica la cantidad necesaria para no tener pérdidas ni ganancias.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es la tasa de depreciación anual y cuál es la función que representa el valor $V$ de la máquina en el tiempo $t$?",
+      "context": "Una maquinaria comprada por una constructora en Hermosillo costó \\$800,000 y se deprecia linealmente hasta valer \\$200,000 al cabo de 10 años.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Depreciación: \\$80,000/año; $V(t) = 800000 - 80000t$",
+          "is_correct": false,
+          "feedback": "Si m = 80,000, a los 10 años valdría 0. El valor final debe ser 200,000."
+        },
+        {
+          "letter": "B",
+          "text": "Depreciación: \\$60,000/año; $V(t) = 800000 - 60000t$",
+          "is_correct": true,
+          "feedback": "¡Correcto! m = (200,000 - 800,000) / 10 = -60,000. El valor baja 60 mil por año."
+        },
+        {
+          "letter": "C",
+          "text": "Depreciación: \\$20,000/año; $V(t) = 800000 - 20000t$",
+          "is_correct": false,
+          "feedback": "Esta depreciación es muy baja para llegar a 200,000 en 10 años."
+        },
+        {
+          "letter": "D",
+          "text": "Depreciación: \\$60,000/año; $V(t) = 60000t + 200000$",
+          "is_correct": false,
+          "feedback": "Esta función describe un aumento de valor, no una depreciación (pérdida de valor)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La depreciación lineal se modela con una pendiente negativa. La pendiente es la pérdida de valor por unidad de tiempo: $m = \\frac{V_{final} - V_{inicial}}{t_{final} - t_{inicial}}$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v19",
+      "statement": "Según este modelo, ¿cuál es la interpretación correcta del valor \"1200\" y qué salario esperaría alguien con 0 años de estudio?",
+      "context": "Un científico social estudia la relación entre años de estudio ($x$) y salario mensual ($y$) en Campeche. Encuentra que los datos se ajustan a la recta $y = 1200x + 5000$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1200 es el salario total y el base es 0.",
+          "is_correct": false,
+          "feedback": "1200 es el incremento por cada año de estudio."
+        },
+        {
+          "letter": "B",
+          "text": "1200 es el salario base y 5000 es el aumento por año.",
+          "is_correct": false,
+          "feedback": "El valor constante b (5000) es el base, y el coeficiente m (1200) es el aumento por año."
+        },
+        {
+          "letter": "C",
+          "text": "Por cada año adicional de estudio, el salario aumenta \\$1,200; el salario base es \\$5,000.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pendiente m=1200 indica el cambio en y por cada unidad de x, y b=5000 es el valor inicial."
+        },
+        {
+          "letter": "D",
+          "text": "El salario máximo es 5000 y disminuye 1200 por año.",
+          "is_correct": false,
+          "feedback": "La pendiente es positiva, lo que indica un aumento, no una disminución."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En modelos lineales aplicados, la pendiente $m$ representa la tasa de variación unitaria (cuánto cambia $y$ por cada unidad de $x$), mientras que la ordenada al origen $b$ representa el valor de la variable dependiente cuando la independiente es cero.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál de los siguientes puntos $(x, y)$ satisface simultáneamente las condiciones: \\$2x + y \\geq 10$ y $x + y \\leq 8$?",
+      "context": "Para un proyecto escolar en Colima, un grupo de estudiantes debe cumplir dos condiciones: el doble de un número $x$ más un número $y$ debe ser al menos 10, y la suma de ambos no debe exceder 8.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(2, 5)$",
+          "is_correct": false,
+          "feedback": "2(2)+5 = 9 (no es >= 10). Falla la primera condición."
+        },
+        {
+          "letter": "B",
+          "text": "$(5, 4)$",
+          "is_correct": false,
+          "feedback": "5+4 = 9 (no es <= 8). Falla la segunda condición."
+        },
+        {
+          "letter": "C",
+          "text": "$(4, 3)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! 2(4)+3 = 11 (>= 10) y 4+3 = 7 (<= 8). Satisface ambas."
+        },
+        {
+          "letter": "D",
+          "text": "$(1, 9)$",
+          "is_correct": false,
+          "feedback": "1+9 = 10 (no es <= 8). Falla la segunda condición."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Resolver un sistema de desigualdades implica encontrar la región del plano (o puntos específicos) que cumplan todas las restricciones al mismo tiempo. Se verifica sustituyendo los valores de $x$ e $y$ en cada inecuación.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.38,
+      "bundle_id": "MX-MAT-11-2026-W07-funciones-funcion-lineal-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v1",
+      "statement": "Si la tarifa inicial fija (banderazo) es de $15 pesos y se cobran $8 pesos por cada kilómetro recorrido, ¿cuál es la ecuación que representa la tarifa total T(x) en función de los kilómetros x?",
+      "context": "Un conductor de taxi en la CDMX cobra una tarifa con base en una función lineal del kilometraje recorrido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "T(x) = 8x + 15",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tarifa fija representa la ordenada al origen (15) y la tarifa por kilómetro representa la pendiente (8). Por lo tanto, T(x) = 8x + 15."
+        },
+        {
+          "letter": "B",
+          "text": "T(x) = 15x + 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto significaría cobrar $15 pesos por kilómetro con un banderazo de $8 pesos."
+        },
+        {
+          "letter": "C",
+          "text": "T(x) = 23x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sumaría de forma directa ambos costos cobrando una tarifa proporcional errónea."
+        },
+        {
+          "letter": "D",
+          "text": "T(x) = 8x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta ecuación omitiría cobrar el banderazo o cuota de inicio del viaje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una función afín tiene la forma f(x) = mx + b, donde m es la pendiente (tasa de cambio unitaria) y b es la ordenada al origen (valor inicial). Aquí, el costo fijo es b = 15 y el costo variable es m = 8 por km. La función resultante es T(x) = 8x + 15.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v2",
+      "statement": "Si una línea recta pasa por los puntos (2, 120) y (5, 270), ¿cuál es el valor numérico de la pendiente m de dicha recta?",
+      "context": "En un estudio de viabilidad económica en una fábrica de calzado en León se determina la pendiente de una recta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pendiente se calcula con la fórmula m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (270 - 120) / (5 - 2) = 150 / 3 = 50."
+        },
+        {
+          "letter": "B",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al calcular la diferencia del kilometraje o de los costos."
+        },
+        {
+          "letter": "C",
+          "text": "150",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es la diferencia de y, pero falta dividir entre la diferencia de x."
+        },
+        {
+          "letter": "D",
+          "text": "100",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó una relación de cálculo incorrecta para la pendiente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Utilizamos la fórmula de la pendiente m = (y₂ - y₁) / (x₂ - x₁). Dados los puntos P₁(2, 120) y P₂(5, 270), sustituimos los valores correspondientes: m = (270 - 120) / (5 - 2) = 150 / 3 = 50.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v3",
+      "statement": "Determina la intersección con el eje y de la función lineal f(x) = 3x - 25.",
+      "context": "Análisis de funciones lineales afines en México, caso 3.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, -25)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 25)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
+        },
+        {
+          "letter": "C",
+          "text": "(8.3, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función)."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 3x - 25: f(0) = 3(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v4",
+      "statement": "Determina la intersección con el eje y de la función lineal f(x) = 4x - 25.",
+      "context": "Análisis de funciones lineales afines en México, caso 4.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, -25)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 25)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
+        },
+        {
+          "letter": "C",
+          "text": "(6.2, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función)."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 4x - 25: f(0) = 4(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v5",
+      "statement": "Determina la intersección con el eje y de la función lineal f(x) = 5x - 25.",
+      "context": "Análisis de funciones lineales afines en México, caso 5.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, -25)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 25)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
+        },
+        {
+          "letter": "C",
+          "text": "(5.0, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función)."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 5x - 25: f(0) = 5(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v6",
+      "statement": "Determina la intersección con el eje y de la función lineal f(x) = 6x - 25.",
+      "context": "Análisis de funciones lineales afines en México, caso 6.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, -25)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 25)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
+        },
+        {
+          "letter": "C",
+          "text": "(4.2, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función)."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 6x - 25: f(0) = 6(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v7",
+      "statement": "Determina la intersección con el eje y de la función lineal f(x) = 7x - 25.",
+      "context": "Análisis de funciones lineales afines en México, caso 7.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, -25)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 25)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
+        },
+        {
+          "letter": "C",
+          "text": "(3.6, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función)."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 7x - 25: f(0) = 7(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v8",
+      "statement": "Determina la intersección con el eje y de la función lineal f(x) = 8x - 25.",
+      "context": "Análisis de funciones lineales afines en México, caso 8.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, -25)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 25)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
+        },
+        {
+          "letter": "C",
+          "text": "(3.1, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función)."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 8x - 25: f(0) = 8(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v9",
+      "statement": "Determina la intersección con el eje y de la función lineal f(x) = 9x - 25.",
+      "context": "Análisis de funciones lineales afines en México, caso 9.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, -25)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 25)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
+        },
+        {
+          "letter": "C",
+          "text": "(2.8, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función)."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 9x - 25: f(0) = 9(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v10",
+      "statement": "Determina la intersección con el eje y de la función lineal f(x) = 10x - 25.",
+      "context": "Análisis de funciones lineales afines en México, caso 10.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, -25)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 25)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
+        },
+        {
+          "letter": "C",
+          "text": "(2.5, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función)."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 10x - 25: f(0) = 10(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v11",
+      "statement": "Determina la intersección con el eje y de la función lineal f(x) = 11x - 25.",
+      "context": "Análisis de funciones lineales afines en México, caso 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, -25)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 25)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
+        },
+        {
+          "letter": "C",
+          "text": "(2.3, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función)."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 11x - 25: f(0) = 11(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v12",
+      "statement": "Determina la intersección con el eje y de la función lineal f(x) = 12x - 25.",
+      "context": "Análisis de funciones lineales afines en México, caso 12.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, -25)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 25)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
+        },
+        {
+          "letter": "C",
+          "text": "(2.1, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función)."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 12x - 25: f(0) = 12(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v13",
+      "statement": "Determina la intersección con el eje y de la función lineal f(x) = 13x - 25.",
+      "context": "Análisis de funciones lineales afines en México, caso 13.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, -25)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 25)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
+        },
+        {
+          "letter": "C",
+          "text": "(1.9, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función)."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 13x - 25: f(0) = 13(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v14",
+      "statement": "Determina la intersección con el eje y de la función lineal f(x) = 14x - 25.",
+      "context": "Análisis de funciones lineales afines en México, caso 14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, -25)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 25)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
+        },
+        {
+          "letter": "C",
+          "text": "(1.8, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función)."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 14x - 25: f(0) = 14(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v15",
+      "statement": "Determina la intersección con el eje y de la función lineal f(x) = 15x - 25.",
+      "context": "Análisis de funciones lineales afines en México, caso 15.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, -25)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 25)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
+        },
+        {
+          "letter": "C",
+          "text": "(1.7, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función)."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 15x - 25: f(0) = 15(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v16",
+      "statement": "Determina la intersección con el eje y de la función lineal f(x) = 16x - 25.",
+      "context": "Análisis de funciones lineales afines en México, caso 16.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, -25)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 25)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
+        },
+        {
+          "letter": "C",
+          "text": "(1.6, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función)."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 16x - 25: f(0) = 16(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v17",
+      "statement": "Determina la intersección con el eje y de la función lineal f(x) = 17x - 25.",
+      "context": "Análisis de funciones lineales afines en México, caso 17.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, -25)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 25)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
+        },
+        {
+          "letter": "C",
+          "text": "(1.5, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función)."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 17x - 25: f(0) = 17(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v18",
+      "statement": "Determina la intersección con el eje y de la función lineal f(x) = 18x - 25.",
+      "context": "Análisis de funciones lineales afines en México, caso 18.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, -25)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 25)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
+        },
+        {
+          "letter": "C",
+          "text": "(1.4, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función)."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 18x - 25: f(0) = 18(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v19",
+      "statement": "Determina la intersección con el eje y de la función lineal f(x) = 19x - 25.",
+      "context": "Análisis de funciones lineales afines en México, caso 19.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, -25)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 25)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
+        },
+        {
+          "letter": "C",
+          "text": "(1.3, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función)."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 19x - 25: f(0) = 19(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle-v20",
+      "statement": "Determina la intersección con el eje y de la función lineal f(x) = 20x - 25.",
+      "context": "Análisis de funciones lineales afines en México, caso 20.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, -25)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
+        },
+        {
+          "letter": "B",
+          "text": "(0, 25)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
+        },
+        {
+          "letter": "C",
+          "text": "(1.2, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función)."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 20x - 25: f(0) = 20(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-MAT-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "mx"
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-27-grade-8-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.747Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-8-2026-W27-connectors-contrast-001-MASTERY-v1",
+      "statement": "I was very tired, ________ I finished my homework anyway.",
+      "context": "Basic contrast in a sentence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "because",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "but",
+          "is_correct": true,
+          "feedback": "Correct! \"But\" is the most common connector for basic contrast."
+        },
+        {
+          "letter": "C",
+          "text": "so",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "although",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Although\" usually starts a clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"But\" se utiliza para unir dos ideas opuestas o contrastantes dentro de la misma oración.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W27-connectors-contrast-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W27-connectors-contrast-001-MASTERY-v2",
+      "statement": "________ it was raining, the children went out to play in the park.",
+      "context": "Starting a sentence with a contrast connector.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Although",
+          "is_correct": true,
+          "feedback": "Correct! \"Aunque\" introduces a contrastive clause."
+        },
+        {
+          "letter": "B",
+          "text": "However",
+          "is_correct": false,
+          "feedback": "Incorrect. \"However\" is usually followed by a comma and starts a new sentence."
+        },
+        {
+          "letter": "C",
+          "text": "Despite",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Despite\" must be followed by a noun or -ing."
+        },
+        {
+          "letter": "D",
+          "text": "But",
+          "is_correct": false,
+          "feedback": "Incorrect. We don't usually start sentences with \"But\" in formal English."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Although\" (aunque) se utiliza para introducir una concesión o un hecho que hace que la otra parte de la oración parezca sorprendente.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W27-connectors-contrast-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W27-connectors-contrast-001-MASTERY-v3",
+      "statement": "The exam was very difficult. ________, most of the students passed.",
+      "context": "Using \"however\" correctly.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Although",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "But",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "However",
+          "is_correct": true,
+          "feedback": "Correct! \"However\" is used at the beginning of a sentence to contrast with the previous one."
+        },
+        {
+          "letter": "D",
+          "text": "Despite",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"However\" (sin embargo) se usa para contrastar dos oraciones completas. Suele ir al principio de la segunda oración y seguido de una coma.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W27-connectors-contrast-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W27-connectors-contrast-001-MASTERY-v4",
+      "statement": "________ the bad weather, we enjoyed our trip to the coffee region.",
+      "context": "Contrast with a noun.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Although",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs a subject and verb (Although the weather was bad)."
+        },
+        {
+          "letter": "B",
+          "text": "Despite",
+          "is_correct": true,
+          "feedback": "Correct! \"Despite\" is followed by a noun or noun phrase."
+        },
+        {
+          "letter": "C",
+          "text": "However",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Even though",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs a full clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Despite\" e \"In spite of\" significan \"a pesar de\" y deben ir seguidos de un sustantivo, un pronombre o un verbo en forma -ing, no de una oración completa con sujeto y verbo.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W27-connectors-contrast-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W27-connectors-contrast-001-MASTERY-v5",
+      "statement": "________ I studied all night, I didn't get a very good grade.",
+      "context": "Even though vs. Although.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Even though",
+          "is_correct": true,
+          "feedback": "Correct! This is a stronger version of \"although\"."
+        },
+        {
+          "letter": "B",
+          "text": "However",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Despite",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "In spite",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing \"of\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Even though\" es una forma más enfática de decir \"although\". Ambas se usan antes de una cláusula completa (sujeto + verbo).\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-8-2026-W27-connectors-contrast-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W27-connectors-contrast-001-MASTERY-v6",
+      "statement": "Traditional Colombian music is very popular. ________, many young people also listen to international pop.",
+      "context": "Contrasting traditional and modern aspects.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Although",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Nevertheless",
+          "is_correct": true,
+          "feedback": "Correct! \"Nevertheless\" is a formal synonym of \"however\"."
+        },
+        {
+          "letter": "C",
+          "text": "Because",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Despite",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Nevertheless\" es un conector de contraste formal que funciona igual que \"however\", introduciendo una idea que contrasta con la anterior.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-8-2026-W27-connectors-contrast-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W27-connectors-contrast-001-MASTERY-v7",
+      "statement": "Which sentence is grammatically correct?",
+      "context": "Changing structures.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Despite it was cold, we went swimming.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Despite\" cannot be followed by a clause."
+        },
+        {
+          "letter": "B",
+          "text": "Despite the cold, we went swimming.",
+          "is_correct": true,
+          "feedback": "Correct! \"Despite\" + noun."
+        },
+        {
+          "letter": "C",
+          "text": "Although the cold, we went swimming.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Although\" needs a verb."
+        },
+        {
+          "letter": "D",
+          "text": "However the cold, we went swimming.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El estudiante debe saber distinguir cuándo usar un conector que requiere una oración completa (although/even though) y cuándo uno que requiere un sustantivo (despite/in spite of).\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-8-2026-W27-connectors-contrast-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W27-connectors-contrast-001-MASTERY-v8",
+      "statement": "\"I like the ocean. **However**, I am afraid of sharks.\"\r\nWhat does the connector \"However\" indicate here?",
+      "context": "Understanding the logical relationship.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It adds more information about why the ocean is good.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "It introduces a fact that limits or contradicts the first statement.",
+          "is_correct": true,
+          "feedback": "Correct! Contrast connectors show a limitation or opposition."
+        },
+        {
+          "letter": "C",
+          "text": "It shows the result of liking the ocean.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "It explains the cause of sharks.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender la función lógica de los conectores es esencial para la comprensión de lectura en nivel B1.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-8-2026-W27-connectors-contrast-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W27-connectors-contrast-001-MASTERY-v9",
+      "statement": "________ some people prefer the city, others enjoy the peace of the countryside.",
+      "context": "While for contrast.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Despite",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "However",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "While",
+          "is_correct": true,
+          "feedback": "Correct! \"While\" can be used to contrast two different groups or situations."
+        },
+        {
+          "letter": "D",
+          "text": "Because",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"While\" (mientras que) no solo sirve para el tiempo, sino también para contrastar dos realidades paralelas.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-8-2026-W27-connectors-contrast-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W27-connectors-contrast-001-MASTERY-v10",
+      "statement": "Identify the error:\r\n\"**In spite of (A)** I was **extremely (B)** tired, I decided **to go (C)** to the party **with (D)** my friends.\"",
+      "context": "Identifying errors in connector usage.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "In spite of",
+          "is_correct": true,
+          "feedback": "Correct! Error found. \"In spite of\" must be followed by a noun or -ing. Here we have a clause (I was), so we should use \"Although\"."
+        },
+        {
+          "letter": "B",
+          "text": "extremely",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "to go",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "with",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Uno de los errores más comunes en B1 es confundir \"Although\" con \"Despite/In spite of\". El primero va con sujeto+verbo, el segundo con sustantivo.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-8-2026-W27-connectors-contrast-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W27-connectors-contrast-001-MASTERY-v11",
+      "statement": "Which sentence sounds more professional in a debate about technology?",
+      "context": "Evaluating the effectiveness of a persuasive argument.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Technology is good but it is also bad.",
+          "is_correct": false,
+          "feedback": "Incorrect. Too simple."
+        },
+        {
+          "letter": "B",
+          "text": "While technology has improved our lives significantly, we must also consider its impact on privacy.",
+          "is_correct": true,
+          "feedback": "Correct! Uses \"while\" for a balanced and formal contrast."
+        },
+        {
+          "letter": "C",
+          "text": "Technology is great. However bad for privacy.",
+          "is_correct": false,
+          "feedback": "Incorrect grammar."
+        },
+        {
+          "letter": "D",
+          "text": "Although technology, privacy is important too.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Although\" needs a verb."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el nivel B1 avanzado, se espera que el estudiante use conectores de contraste para presentar argumentos equilibrados y matizados.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-8-2026-W27-connectors-contrast-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W27-connectors-contrast-001-MASTERY-v12",
+      "statement": "\"Tourism brings a lot of money to the region and creates jobs for many local people. ________, it can also lead to environmental damage if not managed correctly.\"",
+      "context": "Selecting the best concluding sentence with contrast.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On the other hand",
+          "is_correct": true,
+          "feedback": "Correct! This connector is perfect for presenting the \"other side\" of an argument."
+        },
+        {
+          "letter": "B",
+          "text": "For example",
+          "is_correct": false,
+          "feedback": "Incorrect. This would introduce an example of money/jobs."
+        },
+        {
+          "letter": "C",
+          "text": "Consequently",
+          "is_correct": false,
+          "feedback": "Incorrect. This would show a result of the money/jobs."
+        },
+        {
+          "letter": "D",
+          "text": "Because",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"On the other hand\" es una expresión de transición crucial para organizar ensayos y discursos, permitiendo al estudiante contrastar ventajas y desventajas de manera clara.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-8-2026-W27-connectors-contrast-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

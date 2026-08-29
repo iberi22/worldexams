@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ingles",
+    "country": "cl",
+    "pack_id": "cl-week-10-grade-11-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.098Z"
+  },
+  "questions": [
+    {
+      "id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-v1",
+      "statement": "A trend is a general direction in which something is developing or changing.",
+      "context": "Describing modern behaviors.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ritual",
+          "is_correct": false,
+          "feedback": "Incorrect. A ritual is a ceremony."
+        },
+        {
+          "letter": "B",
+          "text": "trend",
+          "is_correct": true,
+          "feedback": "Correct. A trend is a current style or popular direction."
+        },
+        {
+          "letter": "C",
+          "text": "tradition",
+          "is_correct": false,
+          "feedback": "Incorrect. A tradition is long-standing."
+        },
+        {
+          "letter": "D",
+          "text": "law",
+          "is_correct": false,
+          "feedback": "Incorrect. A law is a formal rule."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Trend' is the specific term for a prevailing tendency or popular movement in society.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-v2",
+      "statement": "The average age of the population has been increasing in many developed countries.",
+      "context": "Discussing demographic changes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "increases",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple."
+        },
+        {
+          "letter": "B",
+          "text": "has been increasing",
+          "is_correct": true,
+          "feedback": "Correct. Present perfect continuous for an ongoing demographic trend."
+        },
+        {
+          "letter": "C",
+          "text": "increased",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "D",
+          "text": "will increase",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present perfect continuous highlights that the increase is a process that is currently continuing.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-v3",
+      "statement": "If remote work had been possible twenty years ago, urbanization might have slowed down.",
+      "context": "Speculating about a social change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was",
+          "is_correct": false,
+          "feedback": "Incorrect. Second conditional."
+        },
+        {
+          "letter": "B",
+          "text": "had been",
+          "is_correct": true,
+          "feedback": "Correct. Third conditional for hypothetical past situation."
+        },
+        {
+          "letter": "C",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "D",
+          "text": "has been",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The third conditional (if + past perfect) is used to imagine how the past might have been different.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-v4",
+      "statement": "Digital nomads are individuals who use technology to work remotely and lead a lifestyle that allows them to travel frequently.",
+      "context": "Article about digital nomads.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "nomads",
+          "is_correct": true,
+          "feedback": "Correct. A nomad is a person with no permanent home who moves from place to place."
+        },
+        {
+          "letter": "B",
+          "text": "settlers",
+          "is_correct": false,
+          "feedback": "Incorrect. Settlers stay in one place."
+        },
+        {
+          "letter": "C",
+          "text": "natives",
+          "is_correct": false,
+          "feedback": "Incorrect. Refers to where someone was born."
+        },
+        {
+          "letter": "D",
+          "text": "recluses",
+          "is_correct": false,
+          "feedback": "Incorrect. Recluses avoid society."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Digital nomad' is the standard term for professionals who work while traveling.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-v5",
+      "statement": "The sharing economy emphasizes access over ownership, allowing people to rent or borrow goods rather than buying them.",
+      "context": "Discussion on the \"sharing economy\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "profit",
+          "is_correct": false,
+          "feedback": "Incorrect. While companies profit, the concept is about access."
+        },
+        {
+          "letter": "B",
+          "text": "access",
+          "is_correct": true,
+          "feedback": "Correct. Sharing economy platforms focus on providing temporary access to resources."
+        },
+        {
+          "letter": "C",
+          "text": "scarcity",
+          "is_correct": false,
+          "feedback": "Incorrect. It aims to reduce the impact of scarcity."
+        },
+        {
+          "letter": "D",
+          "text": "status",
+          "is_correct": false,
+          "feedback": "Incorrect. It often challenges traditional status symbols of ownership."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The fundamental shift in the sharing economy is prioritizing the ability to use something ('access') rather than owning it.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-v6",
+      "statement": "An influencer is a person with the ability to influence potential buyers of a product or service by promoting or recommending it on social media.",
+      "context": "Social media influence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "observer",
+          "is_correct": false,
+          "feedback": "Incorrect. Observers are passive."
+        },
+        {
+          "letter": "B",
+          "text": "influencer",
+          "is_correct": true,
+          "feedback": "Correct. This is the specific term for this social role."
+        },
+        {
+          "letter": "C",
+          "text": "critic",
+          "is_correct": false,
+          "feedback": "Incorrect. Critics analyze, but don't necessarily have the same commercial influence."
+        },
+        {
+          "letter": "D",
+          "text": "apprentice",
+          "is_correct": false,
+          "feedback": "Incorrect. An apprentice is learning."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Influencer' is the modern marketing term for individuals with significant social media followings.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-v7",
+      "statement": "Social media platforms are being used by billions of people to stay connected with friends and family.",
+      "context": "Describing a widespread social phenomenon.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are using",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "are being used",
+          "is_correct": true,
+          "feedback": "Correct. Present continuous passive for an ongoing state."
+        },
+        {
+          "letter": "C",
+          "text": "were used",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "D",
+          "text": "use",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present continuous passive 'are being used' describes the current and ongoing utility of these platforms.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-v8",
+      "statement": "Minimalism is a lifestyle choice that focuses on living with fewer material possessions to prioritize experiences and relationships.",
+      "context": "Text on \"minimalism\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "materialism",
+          "is_correct": false,
+          "feedback": "Incorrect. Materialism is the opposite."
+        },
+        {
+          "letter": "B",
+          "text": "minimalism",
+          "is_correct": true,
+          "feedback": "Correct. Minimalism is the practice of living with only the essentials."
+        },
+        {
+          "letter": "C",
+          "text": "consumerism",
+          "is_correct": false,
+          "feedback": "Incorrect. Consumerism focuses on buying more."
+        },
+        {
+          "letter": "D",
+          "text": "narcissism",
+          "is_correct": false,
+          "feedback": "Incorrect. Narcissism is excessive self-interest."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Minimalism' correctly describes the social trend of reducing clutter and possessions.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-v9",
+      "statement": "Many people used to commute to an office every day, but now they work from home.",
+      "context": "Describing a change in behavior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are used to",
+          "is_correct": false,
+          "feedback": "Incorrect. This means 'accustomed to'."
+        },
+        {
+          "letter": "B",
+          "text": "used to",
+          "is_correct": true,
+          "feedback": "Correct. Describes a past habit that has changed."
+        },
+        {
+          "letter": "C",
+          "text": "use to",
+          "is_correct": false,
+          "feedback": "Incorrect grammar."
+        },
+        {
+          "letter": "D",
+          "text": "would",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Used to' is better for contrasting the past and present."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Used to' is the standard structure for comparing past habits with present reality.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-v10",
+      "statement": "The article argues that cancel culture can sometimes lead to a \"mob mentality\" where individuals are condemned without due process.",
+      "context": "Critique of \"cancel culture\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "harmony",
+          "is_correct": false,
+          "feedback": "Incorrect. Condemnation is not harmony."
+        },
+        {
+          "letter": "B",
+          "text": "mob mentality",
+          "is_correct": true,
+          "feedback": "Correct. Mob mentality refers to people being influenced by their peers to adopt certain behaviors."
+        },
+        {
+          "letter": "C",
+          "text": "logic",
+          "is_correct": false,
+          "feedback": "Incorrect. Mob mentality is often described as lacking logic."
+        },
+        {
+          "letter": "D",
+          "text": "empathy",
+          "is_correct": false,
+          "feedback": "Incorrect. Mob mentality often lacks empathy."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Mob mentality' (or herd mentality) describes the collective behavior of a group that can be irrational or aggressive.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-v11",
+      "statement": "The term \"Millennials\" refers to the generation of people born between the early 1980s and the mid-1990s.",
+      "context": "Demographic groups.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Boomers",
+          "is_correct": false,
+          "feedback": "Incorrect. Born earlier (post-WWII)."
+        },
+        {
+          "letter": "B",
+          "text": "Gen Z",
+          "is_correct": false,
+          "feedback": "Incorrect. Born later (late 90s to early 2010s)."
+        },
+        {
+          "letter": "C",
+          "text": "Millennials",
+          "is_correct": true,
+          "feedback": "Correct. This is the specific name for that generation."
+        },
+        {
+          "letter": "D",
+          "text": "Builders",
+          "is_correct": false,
+          "feedback": "Incorrect. Refers to an even older generation."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Millennials' (or Gen Y) is the standard sociological label for the group described.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-v12",
+      "statement": "Young people often feel pressured into conforming to the standards of their peer group.",
+      "context": "Describing social pressure.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "conforming to",
+          "is_correct": true,
+          "feedback": "Correct. 'Conform to' means to comply with rules or standards."
+        },
+        {
+          "letter": "B",
+          "text": "resisting",
+          "is_correct": false,
+          "feedback": "Incorrect. Resistance is the opposite of yielding to pressure."
+        },
+        {
+          "letter": "C",
+          "text": "ignoring",
+          "is_correct": false,
+          "feedback": "Incorrect. Ignoring means not paying attention."
+        },
+        {
+          "letter": "D",
+          "text": "leading",
+          "is_correct": false,
+          "feedback": "Incorrect. Leading is the opposite of conforming."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Conforming to' is the appropriate phrasal verb for yielding to group expectations.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-v13",
+      "statement": "Burnout is a state of emotional, physical, and mental exhaustion caused by excessive and prolonged stress.",
+      "context": "Discussing work-life balance.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Burnout",
+          "is_correct": true,
+          "feedback": "Correct. This is the specific term for work-related exhaustion."
+        },
+        {
+          "letter": "B",
+          "text": "Ambition",
+          "is_correct": false,
+          "feedback": "Incorrect. Ambition is the desire to achieve."
+        },
+        {
+          "letter": "C",
+          "text": "Resilience",
+          "is_correct": false,
+          "feedback": "Incorrect. Resilience is the ability to recover."
+        },
+        {
+          "letter": "D",
+          "text": "Enthusiasm",
+          "is_correct": false,
+          "feedback": "Incorrect. Enthusiasm is positive energy."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Burnout' is the recognized psychological and professional term for the condition described.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-v14",
+      "statement": "If people spent less time on their screens, they would probably feel more connected to the real world.",
+      "context": "Conditional about social media use.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "spend",
+          "is_correct": false,
+          "feedback": "Incorrect. First conditional."
+        },
+        {
+          "letter": "B",
+          "text": "spent",
+          "is_correct": true,
+          "feedback": "Correct. Second conditional for a hypothetical change."
+        },
+        {
+          "letter": "C",
+          "text": "have spent",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "would spend",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' not used in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The second conditional 'if + past simple' describes the likely result of a hypothetical change in behavior.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-v15",
+      "statement": "The author concludes that the \"urban exodus\" is driven by a desire for more space and a lower cost of living.",
+      "context": "Conclusion on urban migration.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "growth",
+          "is_correct": false,
+          "feedback": "Incorrect. Exodus means leaving."
+        },
+        {
+          "letter": "B",
+          "text": "exodus",
+          "is_correct": true,
+          "feedback": "Correct. An exodus is a mass departure of people."
+        },
+        {
+          "letter": "C",
+          "text": "isolation",
+          "is_correct": false,
+          "feedback": "Incorrect. Focuses on the state rather than the movement."
+        },
+        {
+          "letter": "D",
+          "text": "congestion",
+          "is_correct": false,
+          "feedback": "Incorrect. This is usually why people leave cities, not the name of the movement itself."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Urban exodus' is the specific term for the trend of people moving from cities to suburban or rural areas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-v16",
+      "statement": "A \"viral\" post is one that is shared rapidly and widely from one internet user to another.",
+      "context": "Describing viral content.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "private",
+          "is_correct": false,
+          "feedback": "Incorrect. Private posts are not shared widely."
+        },
+        {
+          "letter": "B",
+          "text": "viral",
+          "is_correct": true,
+          "feedback": "Correct. Viral means spreading very quickly."
+        },
+        {
+          "letter": "C",
+          "text": "boring",
+          "is_correct": false,
+          "feedback": "Incorrect. Boring posts usually don't spread."
+        },
+        {
+          "letter": "D",
+          "text": "expensive",
+          "is_correct": false,
+          "feedback": "Incorrect. Sharing online is usually free."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Viral' is the standard adjective for content that spreads quickly across the internet.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-v17",
+      "statement": "A new movement for social justice is gaining momentum across the country.",
+      "context": "Describing a current social movement.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "lose",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple present."
+        },
+        {
+          "letter": "B",
+          "text": "is gaining",
+          "is_correct": true,
+          "feedback": "Correct. Present continuous for an ongoing process."
+        },
+        {
+          "letter": "C",
+          "text": "has gained",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect; focus is on the current growth."
+        },
+        {
+          "letter": "D",
+          "text": "will gain",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Is gaining momentum' is a common idiom meaning to become more popular or successful.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-v18",
+      "statement": "\"Fast fashion\" refers to inexpensive clothing produced rapidly by mass-market retailers in response to the latest trends.",
+      "context": "Text about sustainable fashion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Slow",
+          "is_correct": false,
+          "feedback": "Incorrect. Slow fashion is the sustainable alternative."
+        },
+        {
+          "letter": "B",
+          "text": "Fast",
+          "is_correct": true,
+          "feedback": "Correct. Fast fashion is the industry term for rapid, cheap production."
+        },
+        {
+          "letter": "C",
+          "text": "Luxury",
+          "is_correct": false,
+          "feedback": "Incorrect. Luxury fashion is expensive and produced slowly."
+        },
+        {
+          "letter": "D",
+          "text": "Classic",
+          "is_correct": false,
+          "feedback": "Incorrect. Traditional, unchanging styles."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Fast fashion' is the specific term for the business model described.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-v19",
+      "statement": "Experts said that the trend toward automation would continue to accelerate.",
+      "context": "Reporting a social prediction.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted from 'will' to 'would' in reported speech."
+        },
+        {
+          "letter": "B",
+          "text": "would",
+          "is_correct": true,
+          "feedback": "Correct. 'Would' is the past form of 'will' used in reported speech."
+        },
+        {
+          "letter": "C",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "Incorrect. Expresses advice or expectation."
+        },
+        {
+          "letter": "D",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted to 'could'."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, we change 'will' to 'would' when the reporting verb ('said') is in the past.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-v20",
+      "statement": "The paradox of our time is that while we are more \"connected\" than ever digitally, many report feeling more isolated.",
+      "context": "Final thought on modern connection.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "paradox",
+          "is_correct": true,
+          "feedback": "Correct. A paradox is a seemingly absurd or self-contradictory statement that may prove to be true."
+        },
+        {
+          "letter": "B",
+          "text": "solution",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a problem, not a solution."
+        },
+        {
+          "letter": "C",
+          "text": "agreement",
+          "is_correct": false,
+          "feedback": "Incorrect. The two facts contradict each other."
+        },
+        {
+          "letter": "D",
+          "text": "benefit",
+          "is_correct": false,
+          "feedback": "Incorrect. Feeling isolated is not a benefit."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Paradox' correctly identifies the contradiction between digital connectivity and personal isolation.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W10-social-trends-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

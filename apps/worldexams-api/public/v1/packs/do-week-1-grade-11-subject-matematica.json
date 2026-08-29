@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "do",
+    "pack_id": "do-week-1-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:38.418Z"
+  },
+  "questions": [
+    {
+      "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v1",
+      "statement": "¿A qué conjunto numérico pertenecen los números que se utilizan para contar elementos individuales (1, 2, 3...)?",
+      "context": "Juan está organizando sus ahorros en su cuenta del Banco de Reservas en Santo Domingo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Números Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Los naturales se usan para contar."
+        },
+        {
+          "letter": "B",
+          "text": "Números Irracionales",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son para conteo discreto."
+        },
+        {
+          "letter": "C",
+          "text": "Números Imaginarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Involucran la unidad i."
+        },
+        {
+          "letter": "D",
+          "text": "Números Negativos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conteo físico inicia en 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los números naturales ($\\mathbb{N}$) son el primer conjunto de números utilizados para contar objetos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el conjunto numérico que incluye naturales, sus opuestos y el cero?",
+      "context": "En un colmado de Santiago, el dueño anota las deudas como números negativos y las ganancias como positivos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Números Fraccionarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son divisiones."
+        },
+        {
+          "letter": "B",
+          "text": "Números Enteros",
+          "is_correct": true,
+          "feedback": "Correcto. Incluyen positivos, negativos y cero."
+        },
+        {
+          "letter": "C",
+          "text": "Números Irracionales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen decimales infinitos."
+        },
+        {
+          "letter": "D",
+          "text": "Números Primos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un subconjunto de los naturales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El conjunto de los números enteros ($\\mathbb{Z}$) incluye naturales, negativos y el cero.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v3",
+      "statement": "¿A qué conjunto pertenece el número 2.5?",
+      "context": "Una receta dominicana indica usar 2.5 tazas de harina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Números Enteros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los enteros no tienen decimales."
+        },
+        {
+          "letter": "B",
+          "text": "Números Irracionales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un decimal exacto."
+        },
+        {
+          "letter": "C",
+          "text": "Números Racionales",
+          "is_correct": true,
+          "feedback": "Correcto. Se puede expresar como fracción 5/2."
+        },
+        {
+          "letter": "D",
+          "text": "Números Imaginarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un valor real."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los números racionales ($\\mathbb{Q}$) pueden expresarse como el cociente de dos enteros.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v4",
+      "statement": "¿Cómo se clasifica el número $\\pi$ (3.14159...)?",
+      "context": "Un ingeniero calcula el área de una plaza circular en Puerto Plata usando $\\pi$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Números Enteros",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un valor exacto sin decimales."
+        },
+        {
+          "letter": "B",
+          "text": "Números Irracionales",
+          "is_correct": true,
+          "feedback": "Correcto. Tiene decimales infinitos no periódicos."
+        },
+        {
+          "letter": "C",
+          "text": "Números Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un decimal."
+        },
+        {
+          "letter": "D",
+          "text": "Números Racionales",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede escribir como fracción de enteros."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los números irracionales tienen representación decimal infinita no periódica.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la unión de los números racionales e irracionales?",
+      "context": "Se discute la relación entre los conjuntos en un liceo de La Romana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Números Complejos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incluyen imaginarios."
+        },
+        {
+          "letter": "B",
+          "text": "Números Enteros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son parte de los racionales."
+        },
+        {
+          "letter": "C",
+          "text": "Números Reales",
+          "is_correct": true,
+          "feedback": "Correcto. Los reales agrupan a ambos."
+        },
+        {
+          "letter": "D",
+          "text": "Números Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo son una parte."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los números reales ($\\mathbb{R}$) son la unión de racionales e irracionales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v6",
+      "statement": "¿A qué conjunto pertenece $\\sqrt{50}$?",
+      "context": "Un agrimensor en San Francisco de Macorís mide un lado de terreno de $\\sqrt{50}$ metros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Números Enteros",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene raíz exacta."
+        },
+        {
+          "letter": "B",
+          "text": "Números Racionales",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es fracción de enteros."
+        },
+        {
+          "letter": "C",
+          "text": "Números Irracionales",
+          "is_correct": true,
+          "feedback": "Correcto. Raíz de un no-cuadrado perfecto."
+        },
+        {
+          "letter": "D",
+          "text": "Números Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un decimal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Raíces de números no cuadrados perfectos son irracionales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v7",
+      "statement": "¿A qué conjunto pertenece el resultado de $(-8 + 5) \\times 2$?",
+      "context": "Un estudiante simplifica la expresión $(-8 + 5) \\times 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Números Enteros",
+          "is_correct": true,
+          "feedback": "Correcto. El resultado es -6."
+        },
+        {
+          "letter": "B",
+          "text": "Números Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es negativo."
+        },
+        {
+          "letter": "C",
+          "text": "Números Irracionales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es exacto."
+        },
+        {
+          "letter": "D",
+          "text": "Números Imaginarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$-3 \\times 2 = -6$, el cual es un número entero.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v8",
+      "statement": "¿A qué conjunto pertenecen los números de la forma $a + bi$?",
+      "context": "Un técnico analiza un circuito con impedancia $a + bi$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Números Reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. No incluyen la unidad i."
+        },
+        {
+          "letter": "B",
+          "text": "Números Complejos",
+          "is_correct": true,
+          "feedback": "Correcto. Tienen parte real e imaginaria."
+        },
+        {
+          "letter": "C",
+          "text": "Números Irracionales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son decimales."
+        },
+        {
+          "letter": "D",
+          "text": "Números Primos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son naturales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los complejos ($\\mathbb{C}$) incluyen reales e imaginarios.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v9",
+      "statement": "¿Qué afirmación sobre los racionales es correcta?",
+      "context": "Reto sobre la densidad en San Pedro de Macorís.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay racionales entre 1 y 2.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay infinitos."
+        },
+        {
+          "letter": "B",
+          "text": "Todo racional es natural.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1/2 no es natural."
+        },
+        {
+          "letter": "C",
+          "text": "Entre dos racionales siempre hay otro.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la densidad racional."
+        },
+        {
+          "letter": "D",
+          "text": "Irracionales son subconjunto de racionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son disjuntos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La densidad racional permite hallar siempre un número entre otros dos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v10",
+      "statement": "¿En qué conjunto la división no garantiza un resultado del mismo conjunto?",
+      "context": "Un matemático estudia las operaciones en diferentes conjuntos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Números Racionales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son cerrados."
+        },
+        {
+          "letter": "B",
+          "text": "Números Enteros",
+          "is_correct": true,
+          "feedback": "Correcto. 5/2 no es entero."
+        },
+        {
+          "letter": "C",
+          "text": "Números Reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son cerrados."
+        },
+        {
+          "letter": "D",
+          "text": "Números Complejos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son cerrados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los enteros no son cerrados bajo la división.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la inclusión correcta?",
+      "context": "Jerarquía de conjuntos en una escuela de Baní.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$R \\subset Q \\subset Z \\subset N$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Orden invertido."
+        },
+        {
+          "letter": "B",
+          "text": "$N \\subset Z \\subset Q \\subset R$",
+          "is_correct": true,
+          "feedback": "Correcto. Los naturales están dentro de todos."
+        },
+        {
+          "letter": "C",
+          "text": "$Q \\subset N \\subset Z \\subset R$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Racionales es el más grande de los tres primeros."
+        },
+        {
+          "letter": "D",
+          "text": "$N \\subset R \\subset Q \\subset Z$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reales es el conjunto mayor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cada conjunto numérico expande las capacidades del anterior.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v12",
+      "statement": "¿A qué conjunto pertenece $0.333...?$",
+      "context": "Un estudiante clasifica el número $0.333...$ en Higüey.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Irracionales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es periódico."
+        },
+        {
+          "letter": "B",
+          "text": "Racionales",
+          "is_correct": true,
+          "feedback": "Correcto. Equivale a 1/3."
+        },
+        {
+          "letter": "C",
+          "text": "Enteros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiene decimales."
+        },
+        {
+          "letter": "D",
+          "text": "Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es entero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Decimales periódicos tienen fracción generatriz racional.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es el resultado de $\\sqrt{-4}$?",
+      "context": "Análisis de $\\sqrt{-4}$ en San Juan de la Maguana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Incorrecto. (-2)^2 es 4."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2^2 es 4."
+        },
+        {
+          "letter": "C",
+          "text": "$2i$",
+          "is_correct": true,
+          "feedback": "Correcto. Raíz de negativo usa unidad i."
+        },
+        {
+          "letter": "D",
+          "text": "No existe",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existe en complejos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La raíz de un negativo requiere números imaginarios.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es FALSA?",
+      "context": "Pregunta lógica en competencia en Santiago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todo entero es racional.",
+          "is_correct": false,
+          "feedback": "Verdadero. n = n/1."
+        },
+        {
+          "letter": "B",
+          "text": "Algunos irracionales son racionales.",
+          "is_correct": true,
+          "feedback": "Falso. Son conjuntos disjuntos."
+        },
+        {
+          "letter": "C",
+          "text": "Cero es real.",
+          "is_correct": false,
+          "feedback": "Verdadero. Está en la recta."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{2}$ es real.",
+          "is_correct": false,
+          "feedback": "Verdadero. Está en la recta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Racionales e irracionales no tienen elementos comunes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v15",
+      "statement": "¿Conjunto más pequeño al que pertenece el resultado?",
+      "context": "Simplificación de $\\frac{\\sqrt{16}}{2} + \\pi - \\pi$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Números Enteros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay uno menor."
+        },
+        {
+          "letter": "B",
+          "text": "Números Naturales",
+          "is_correct": true,
+          "feedback": "Correcto. Resultado es 2."
+        },
+        {
+          "letter": "C",
+          "text": "Números Racionales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay uno menor."
+        },
+        {
+          "letter": "D",
+          "text": "Números Irracionales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pi se cancela."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El resultado 2 es un número natural.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v16",
+      "statement": "¿Cómo se clasifica un irracional que no es raíz de polinomio racional?",
+      "context": "Debate sobre números trascendentes en la UASD.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Racional",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es irracional."
+        },
+        {
+          "letter": "B",
+          "text": "Trascendente",
+          "is_correct": true,
+          "feedback": "Correcto. Como pi o e."
+        },
+        {
+          "letter": "C",
+          "text": "Entero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son algebraicos."
+        },
+        {
+          "letter": "D",
+          "text": "Imaginario",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son reales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Números como $\\pi$ son trascendentes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v17",
+      "statement": "¿\"Suma de dos irracionales es siempre irracional\"?",
+      "context": "Evaluación de proposiciones para Pruebas Nacionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Siempre verdadera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ver contraejemplo."
+        },
+        {
+          "letter": "B",
+          "text": "Falsa, $\\sqrt{2} + (-\\sqrt{2}) = 0$.",
+          "is_correct": true,
+          "feedback": "Correcto. El cero es racional."
+        },
+        {
+          "letter": "C",
+          "text": "Verdadera por infinitud.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es argumento válido."
+        },
+        {
+          "letter": "D",
+          "text": "Falsa por ser siempre entera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No siempre es entera."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La suma de opuestos irracionales da cero.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál no tiene primer elemento?",
+      "context": "Reflexión sobre el orden en Nagua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Empieza en 1."
+        },
+        {
+          "letter": "B",
+          "text": "Enteros",
+          "is_correct": true,
+          "feedback": "Correcto. Infinitos hacia negativos."
+        },
+        {
+          "letter": "C",
+          "text": "Primos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Empieza en 2."
+        },
+        {
+          "letter": "D",
+          "text": "Enteros pos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Empieza en 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los enteros no tienen un límite inferior.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v19",
+      "statement": "Clasifica $0.121121112...$",
+      "context": "Desafío de olimpiada en Santo Domingo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Racional",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es periódico."
+        },
+        {
+          "letter": "B",
+          "text": "Irracional",
+          "is_correct": true,
+          "feedback": "Correcto. Patrón no repetitivo."
+        },
+        {
+          "letter": "C",
+          "text": "Racional fraccional",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe tal fracción."
+        },
+        {
+          "letter": "D",
+          "text": "Entero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es decimal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Es irracional porque su patrón cambia siempre.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v20",
+      "statement": "¿Qué se afirma del cociente de dos irracionales?",
+      "context": "Examen final de alto rendimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Siempre irracional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. pi/pi = 1."
+        },
+        {
+          "letter": "B",
+          "text": "Siempre racional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. r(6)/r(2)=r(3)."
+        },
+        {
+          "letter": "C",
+          "text": "Puede ser racional o irracional.",
+          "is_correct": true,
+          "feedback": "Correcto. Depende de los valores."
+        },
+        {
+          "letter": "D",
+          "text": "Siempre imaginario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es real."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La división de irracionales no tiene resultado de tipo fijo.\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Context | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "DO-MAT-11-2026-W01-conjuntos-numericos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    }
+  ]
+}

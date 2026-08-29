@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-11-grade-10-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.574Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-10-2026-W11-dream-jobs-001-MASTERY-v1",
+      "statement": "\"If I ____ the job interview tomorrow, I ____ celebrating with my family in the evening.\"",
+      "context": "Talking about future job interviews.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "pass / was",
+          "is_correct": false,
+          "feedback": "Incorrect tenses."
+        },
+        {
+          "letter": "B",
+          "text": "pass / will be",
+          "is_correct": true,
+          "feedback": "Correct. First Conditional (present simple + will)."
+        },
+        {
+          "letter": "C",
+          "text": "passed / would be",
+          "is_correct": false,
+          "feedback": "This is Second Conditional."
+        },
+        {
+          "letter": "D",
+          "text": "will pass / am",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Will' is not used in the 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The First Conditional is used for real or possible situations in the future. Structure: If + Present Simple, Will + Verb.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-10-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W11-dream-jobs-001-MASTERY-v2",
+      "statement": "\"You won't get that position in the international firm ____ you ____ your English level.\"",
+      "context": "Discussing the importance of English for a career.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "if / don't improve",
+          "is_correct": false,
+          "feedback": "Correct, but 'unless' is also being tested."
+        },
+        {
+          "letter": "B",
+          "text": "unless / improve",
+          "is_correct": true,
+          "feedback": "Correct. 'Unless' means 'if not'."
+        },
+        {
+          "letter": "C",
+          "text": "unless / don't improve",
+          "is_correct": false,
+          "feedback": "Incorrect. Double negative."
+        },
+        {
+          "letter": "D",
+          "text": "when / improve",
+          "is_correct": false,
+          "feedback": "Incorrect meaning."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Unless' is used to introduce a condition that must be met to avoid a certain result. It is followed by an affirmative verb.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.84,
+      "bundle_id": "CO-ING-10-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W11-dream-jobs-001-MASTERY-v3",
+      "statement": "\"____ I graduate, I ____ for a master's degree in sustainable engineering.\"",
+      "context": "Career planning.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Unless / apply",
+          "is_correct": false,
+          "feedback": "Incorrect meaning."
+        },
+        {
+          "letter": "B",
+          "text": "When / will apply",
+          "is_correct": true,
+          "feedback": "Correct. 'When' for certain future events + 'will'."
+        },
+        {
+          "letter": "C",
+          "text": "If / applied",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "When / apply",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs future tense in the main clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'When' is used instead of 'if' when we are certain that something will happen.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Part 2 - Lexical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-10-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W11-dream-jobs-001-MASTERY-v4",
+      "statement": "\"Many workers ____ their jobs to automation unless they ____ new technical skills.\"",
+      "context": "An article about the future of the labor market.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "lost / learned",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will lose / learn",
+          "is_correct": true,
+          "feedback": "Correct. Standard First Conditional."
+        },
+        {
+          "letter": "C",
+          "text": "lose / will learn",
+          "is_correct": false,
+          "feedback": "Incorrect placement of 'will'."
+        },
+        {
+          "letter": "D",
+          "text": "would lose / learn",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Describing future trends using the First Conditional with 'unless'.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-10-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W11-dream-jobs-001-MASTERY-v5",
+      "statement": "\"I ____ you with your portfolio ____ you send me the drafts by Friday.\"",
+      "context": "A conversation between a mentor and a student.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "helped / when",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "will help / provided",
+          "is_correct": true,
+          "feedback": "Correct. 'Provided' is a B2 synonym for 'if'."
+        },
+        {
+          "letter": "C",
+          "text": "help / unless",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "would help / if",
+          "is_correct": false,
+          "feedback": "Incorrect tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using 'provided' or 'as long as' as formal alternatives to 'if' in First Conditional structures.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.71,
+      "bundle_id": "CO-ING-10-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W11-dream-jobs-001-MASTERY-v6",
+      "statement": "\"If you ____ to reach the top of your profession, you ____ to be prepared for long hours and high pressure.\"",
+      "context": "Career advice for young professionals.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will want / need",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "want / will need",
+          "is_correct": true,
+          "feedback": "Correct. First Conditional."
+        },
+        {
+          "letter": "C",
+          "text": "wanted / would need",
+          "is_correct": false,
+          "feedback": "Correct Second Conditional, but B is more likely for direct advice."
+        },
+        {
+          "letter": "D",
+          "text": "want / need",
+          "is_correct": false,
+          "feedback": "Correct for Zero Conditional, but B is more specific to the future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "First Conditional for direct professional advice and future requirements.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.67,
+      "bundle_id": "CO-ING-10-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W11-dream-jobs-001-MASTERY-v7",
+      "statement": "\"The company ____ the contract ____ the candidate fails the background check.\"",
+      "context": "Discussing employment contracts.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "signs / unless",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "won't sign / if",
+          "is_correct": true,
+          "feedback": "Correct. Negative future based on a condition."
+        },
+        {
+          "letter": "C",
+          "text": "will sign / unless",
+          "is_correct": false,
+          "feedback": "Correct if the check is passed, but B is a more direct focus for 'if'."
+        },
+        {
+          "letter": "D",
+          "text": "won't sign / unless",
+          "is_correct": false,
+          "feedback": "Incorrect. Double negative logic."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "B2 complexity: Evaluating the logical relationship between a negative result and its condition.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.63,
+      "bundle_id": "CO-ING-10-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W11-dream-jobs-001-MASTERY-v8",
+      "statement": "\"Even if he ____ a higher salary, he ____ the offer because he values his free time more.\"",
+      "context": "An essay on work-life balance.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "offers / refuses",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "is offered / will refuse",
+          "is_correct": true,
+          "feedback": "Correct. Passive voice in First Conditional."
+        },
+        {
+          "letter": "C",
+          "text": "was offered / would refuse",
+          "is_correct": false,
+          "feedback": "Second Conditional."
+        },
+        {
+          "letter": "D",
+          "text": "has offered / refuses",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using the Passive Voice within a First Conditional structure to discuss professional offers.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.59,
+      "bundle_id": "CO-ING-10-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W11-dream-jobs-001-MASTERY-v9",
+      "statement": "\"If the startup ____ enough capital by August, it ____ to expand to other cities by the end of the year.\"",
+      "context": "Evaluating a business plan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "secures / is going",
+          "is_correct": false,
+          "feedback": "Possible, but 'will be able' is more standard."
+        },
+        {
+          "letter": "B",
+          "text": "secures / will be able",
+          "is_correct": true,
+          "feedback": "Correct. First Conditional for business milestones."
+        },
+        {
+          "letter": "C",
+          "text": "secured / would be able",
+          "is_correct": false,
+          "feedback": "Second Conditional."
+        },
+        {
+          "letter": "D",
+          "text": "had secured / would have been able",
+          "is_correct": false,
+          "feedback": "Third Conditional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Applying the First Conditional to professional and business contexts.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-10-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W11-dream-jobs-001-MASTERY-v10",
+      "statement": "\"Should you ____ to accept our proposal, we ____ the final draft of the agreement immediately.\"",
+      "context": "A complex negotiation scenario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "decide / will prepare",
+          "is_correct": true,
+          "feedback": "Correct. 'Should' used as a formal replacement for 'if'."
+        },
+        {
+          "letter": "B",
+          "text": "decided / would prepare",
+          "is_correct": false,
+          "feedback": "Incorrect syntax for this inversion."
+        },
+        {
+          "letter": "C",
+          "text": "will decide / prepare",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "decides / will prepare",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Advanced B2 structure: Using 'Should' + subject + base verb as a formal alternative to 'if' in First Conditional (Should inversion).\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-10-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W11-dream-jobs-001-MASTERY-v11",
+      "statement": "\"Unless one ____ a strong professional network, it ____ difficult to find high-level opportunities in this industry.\"",
+      "context": "Career strategy and networking.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "builds / is",
+          "is_correct": false,
+          "feedback": "Correct for Zero Conditional."
+        },
+        {
+          "letter": "B",
+          "text": "built / was",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "builds / will be",
+          "is_correct": true,
+          "feedback": "Correct. First Conditional with 'unless' for a general career principle."
+        },
+        {
+          "letter": "D",
+          "text": "has built / is",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Using 'unless' to describe general professional barriers and their future impact.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-10-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W11-dream-jobs-001-MASTERY-v12",
+      "statement": "\"Only if she ____ her current pace of work ____ she succeed in meeting the deadline.\"",
+      "context": "Speculating about future success.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "maintains / will",
+          "is_correct": true,
+          "feedback": "Correct. Inversion with 'Only if' requires 'will' before the subject."
+        },
+        {
+          "letter": "B",
+          "text": "maintains / she will",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing inversion."
+        },
+        {
+          "letter": "C",
+          "text": "maintained / would",
+          "is_correct": false,
+          "feedback": "Second Conditional inversion."
+        },
+        {
+          "letter": "D",
+          "text": "will maintain / she",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mastery level: Negative/restrictive inversion with 'Only if' in a First Conditional structure.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-10-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

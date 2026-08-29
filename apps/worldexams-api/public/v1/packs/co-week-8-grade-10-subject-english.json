@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-8-grade-10-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.572Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-v1",
+      "statement": "\"The scientist said that global temperatures ____ rising at an alarming rate.\"",
+      "context": "Reporting a scientist's claim.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrect backshifting."
+        },
+        {
+          "letter": "B",
+          "text": "were",
+          "is_correct": true,
+          "feedback": "Correct. Backshift from present continuous to past continuous."
+        },
+        {
+          "letter": "C",
+          "text": "have been",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "will be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In Reported Speech, verbs in the statement usually shift one tense back (backshifting).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-v2",
+      "statement": "\"The mayor announced that the city ____ a recycling program the following year.\"",
+      "context": "Reporting a promise from a politician.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will start",
+          "is_correct": false,
+          "feedback": "Incorrect backshifting."
+        },
+        {
+          "letter": "B",
+          "text": "would start",
+          "is_correct": true,
+          "feedback": "Correct. Backshift from 'will' to 'would'."
+        },
+        {
+          "letter": "C",
+          "text": "starts",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "has started",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Will' shifts to 'would' in reported speech when the reporting verb is in the past.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.84,
+      "bundle_id": "CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-v3",
+      "statement": "\"Maria mentioned that she ____ never ____ to a protest before that day.\"",
+      "context": "Reporting a comment about habits.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has / been",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "had / been",
+          "is_correct": true,
+          "feedback": "Correct. Backshift from present perfect to past perfect."
+        },
+        {
+          "letter": "C",
+          "text": "was / being",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "did / go",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Present Perfect shifts to Past Perfect in reported speech.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Part 2 - Lexical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-v4",
+      "statement": "\"The delegates stated that they ____ to reach an agreement on carbon emissions.\"",
+      "context": "A news summary of a summit.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "fail",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "had failed",
+          "is_correct": true,
+          "feedback": "Correct. Backshift from 'failed' or 'have failed' to past perfect."
+        },
+        {
+          "letter": "C",
+          "text": "are failing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "will fail",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Past Simple and Present Perfect both often shift to Past Perfect in reported speech.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.74,
+      "bundle_id": "CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-v5",
+      "statement": "\"The activist told us that the planet ____ our help right then.\"",
+      "context": "An activist speaking to a crowd.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "needs",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "needed",
+          "is_correct": true,
+          "feedback": "Correct. Backshift from 'needs' to 'needed'."
+        },
+        {
+          "letter": "C",
+          "text": "will need",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "has needed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Present simple shifts to past simple. Time markers also change (now becomes then).\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-v6",
+      "statement": "\"The documentary claimed that the forest ____ for decades before notice.\"",
+      "context": "A summary of a documentary.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is shrinking",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "had been shrinking",
+          "is_correct": true,
+          "feedback": "Correct. Backshift from 'has been shrinking' to 'had been shrinking'."
+        },
+        {
+          "letter": "C",
+          "text": "shrinks",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "will shrink",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Present Perfect Continuous shifts to Past Perfect Continuous in reported speech.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-v7",
+      "statement": "\"Our teacher explained that we ____ use more sustainable energy sources.\"",
+      "context": "Reporting a teacher's advice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must",
+          "is_correct": false,
+          "feedback": "Possible, but B is common."
+        },
+        {
+          "letter": "B",
+          "text": "should",
+          "is_correct": true,
+          "feedback": "Correct. 'Should' does not change in reported speech."
+        },
+        {
+          "letter": "C",
+          "text": "shall",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Some modal verbs like 'should' and 'might' do not change in reported speech.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-v8",
+      "statement": "\"They confirmed that the community ____ planting trees the previous month.\"",
+      "context": "A text about local initiatives.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "starts",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "had started",
+          "is_correct": true,
+          "feedback": "Correct. Backshift from 'started' to 'had started'."
+        },
+        {
+          "letter": "C",
+          "text": "has started",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "is starting",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Specific time markers change: 'last month' becomes 'the previous month'.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-v9",
+      "statement": "\"The CEO admitted that the company ____ several regulations in the past.\"",
+      "context": "A report on corporate responsibility.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "violates",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "had violated",
+          "is_correct": true,
+          "feedback": "Correct. Backshift to past perfect for past actions."
+        },
+        {
+          "letter": "C",
+          "text": "is violating",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "will violate",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using the Past Perfect in reported speech to distance the reported action from the present.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-v10",
+      "statement": "\"The researcher argued that unless we ____ our habits, the situation ____ worse.\"",
+      "context": "A complex report on biodiversity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "changed / would get",
+          "is_correct": true,
+          "feedback": "Correct. Backshift of first conditional structure."
+        },
+        {
+          "letter": "B",
+          "text": "change / will get",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "had changed / got",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "changed / will get",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Backshifting in conditional sentences within reported speech.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-v11",
+      "statement": "\"He suggested that the budget ____ to better support solar energy projects.\"",
+      "context": "Critique of an environmental policy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is increased",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "increases",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "be increased",
+          "is_correct": true,
+          "feedback": "Correct. Use of the subjunctive after 'suggest'."
+        },
+        {
+          "letter": "D",
+          "text": "was increased",
+          "is_correct": false,
+          "feedback": "Less formal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "B2 complexity: The use of the subjunctive in reported speech after verbs like 'suggest'.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-v12",
+      "statement": "\"It ____ that by 2050, more than half of the population ____ in water-stressed areas.\"",
+      "context": "Speculating about future reports.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "says / will live",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "is predicted / will be living",
+          "is_correct": true,
+          "feedback": "Correct. Passive reporting + future continuous."
+        },
+        {
+          "letter": "C",
+          "text": "predicts / lives",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "has said / lived",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Mastery level: Passive reporting structures and their integration with future predictions.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-10-2026-W08-environmental-awareness-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

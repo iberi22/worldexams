@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "es",
+    "pack_id": "es-week-13-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:39.430Z"
+  },
+  "questions": [
+    {
+      "id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la definición formal de la derivada de una función $f(x)$ en el punto $x = a$?",
+      "context": "Un estudiante de Bachillerato en Valencia introduce el concepto de derivada como la tasa de variación instantánea.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f'(a) = \\frac{f(a+h) - f(a)}{h}$",
+          "is_correct": false,
+          "feedback": "Falta el límite cuando h tiende a cero."
+        },
+        {
+          "letter": "B",
+          "text": "$f'(a) = \\lim_{h \\to 0} \\frac{f(a+h) - f(a)}{h}$",
+          "is_correct": true,
+          "feedback": "Correcto. Es la definición de la derivada como el límite del cociente incremental."
+        },
+        {
+          "letter": "C",
+          "text": "$f'(a) = \\lim_{x \\to a} (f(x) - f(a))$",
+          "is_correct": false,
+          "feedback": "Esto es solo la diferencia de valores, no la tasa de cambio."
+        },
+        {
+          "letter": "D",
+          "text": "$f'(a) = f(a) + h$",
+          "is_correct": false,
+          "feedback": "Definición incorrecta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La derivada representa la pendiente de la recta tangente a la curva en un punto. Se obtiene calculando el límite de la pendiente de las rectas secantes cuando la distancia entre los puntos tiende a cero.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la derivada de la función potencia $f(x) = x^n$?",
+      "context": "En un instituto de Madrid, se aprenden las reglas básicas de derivación de funciones elementales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f'(x) = x^{n-1}$",
+          "is_correct": false,
+          "feedback": "Falta el coeficiente n."
+        },
+        {
+          "letter": "B",
+          "text": "$f'(x) = n \\cdot x^n$",
+          "is_correct": false,
+          "feedback": "No se restó 1 al exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$f'(x) = n \\cdot x^{n-1}$",
+          "is_correct": true,
+          "feedback": "Correcto. El exponente pasa multiplicando y el nuevo exponente disminuye en una unidad."
+        },
+        {
+          "letter": "D",
+          "text": "$f'(x) = \\frac{x^{n+1}}{n+1}$",
+          "is_correct": false,
+          "feedback": "Esta es la regla para la integral indefinida, no para la derivada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La regla de la potencia es la base para derivar polinomios. Es válida para cualquier número real $n$, no solo para enteros positivos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v3",
+      "statement": "Si $f(x) = 7$ para todo $x$, ¿cuál es el valor de su derivada $f'(x)$?",
+      "context": "Se analiza la derivada de una función constante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": true,
+          "feedback": "Correcto. Una función constante no cambia, por lo que su tasa de variación es nula en todos los puntos."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Esta sería la derivada de f(x) = x."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "La derivada no es igual al valor de la constante."
+        },
+        {
+          "letter": "D",
+          "text": "$x$",
+          "is_correct": false,
+          "feedback": "Resultado incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Geométricamente, una función constante es una línea horizontal cuya pendiente es siempre cero. Analíticamente, el incremento $f(x+h) - f(x)$ es siempre $7 - 7 = 0$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v4",
+      "statement": "Si una función $f(x)$ es derivable en el punto $x = a$, ¿qué podemos asegurar con certeza sobre su comportamiento en dicho punto?",
+      "context": "Un estudiante estudia la relación entre la derivabilidad y la continuidad de una función.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que su derivada es positiva.",
+          "is_correct": false,
+          "feedback": "Puede ser negativa o cero."
+        },
+        {
+          "letter": "B",
+          "text": "Que la función es continua en $x = a$.",
+          "is_correct": true,
+          "feedback": "Correcto. La derivabilidad es una condición más fuerte que implica necesariamente la continuidad."
+        },
+        {
+          "letter": "C",
+          "text": "Que la función tiene un máximo relativo en $a$.",
+          "is_correct": false,
+          "feedback": "No todos los puntos derivables son extremos."
+        },
+        {
+          "letter": "D",
+          "text": "Que la función es creciente.",
+          "is_correct": false,
+          "feedback": "Depende del signo de la derivada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El teorema fundamental establece que la derivabilidad implica continuidad. Sin embargo, el recíproco no es cierto (existen funciones continuas que no son derivables, como el valor absoluto en $x=0$).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v5",
+      "statement": "Dada la función $h(x) = x^2 \\cdot \\text{sen}(x)$, ¿cuál es su derivada $h'(x)$?",
+      "context": "En una clase de Matemáticas I en Bilbao, se practica la regla del producto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x \\cdot \\cos(x)$",
+          "is_correct": false,
+          "feedback": "Error al derivar; se derivaron ambos términos a la vez (regla incorrecta)."
+        },
+        {
+          "letter": "B",
+          "text": "$2x \\cdot \\text{sen}(x) + x^2 \\cdot \\cos(x)$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $(u \\cdot v)' = u'v + uv'$."
+        },
+        {
+          "letter": "C",
+          "text": "$2x + \\cos(x)$",
+          "is_correct": false,
+          "feedback": "Se sumaron las derivadas en lugar de aplicar la regla del producto."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 \\cdot \\text{sen}(x) + 2x \\cdot \\cos(x)$",
+          "is_correct": false,
+          "feedback": "Error en el orden de los factores de la regla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La regla del producto establece que la derivada de un producto es la derivada del primero por el segundo sin derivar, más el primero sin derivar por la derivada del segundo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v6",
+      "statement": "Calcula la derivada de $f(x) = \\frac{x+1}{x-1}$.",
+      "context": "Un estudiante en Zaragoza debe hallar la derivada de una función racional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Error al derivar numerador y denominador por separado."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{-2}{(x-1)^2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $\\frac{u'v - uv'}{v^2} = \\frac{1(x-1) - (x+1)1}{(x-1)^2} = \\frac{-2}{(x-1)^2}$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{2}{(x-1)^2}$",
+          "is_correct": false,
+          "feedback": "Error de signo al operar en el numerador."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "La función no es constante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La regla del cociente es fundamental para derivar funciones racionales. El signo menos en el numerador es una fuente común de errores.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v7",
+      "statement": "Halla la derivada de la función $f(x) = (3x^2 + 1)^5$.",
+      "context": "Se introduce la Regla de la Cadena para derivar funciones compuestas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5(3x^2 + 1)^4$",
+          "is_correct": false,
+          "feedback": "Falta multiplicar por la derivada de la función interna."
+        },
+        {
+          "letter": "B",
+          "text": "$30x \\cdot (3x^2 + 1)^4$",
+          "is_correct": true,
+          "feedback": "Correcto. $5(3x^2 + 1)^4 \\cdot (6x) = 30x(3x^2 + 1)^4$."
+        },
+        {
+          "letter": "C",
+          "text": "$15(3x^2 + 1)^4$",
+          "is_correct": false,
+          "feedback": "Error en el cálculo de la derivada interna."
+        },
+        {
+          "letter": "D",
+          "text": "$(6x)^5$",
+          "is_correct": false,
+          "feedback": "Aplicación incorrecta de la regla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La regla de la cadena establece que la derivada de $f(g(x))$ es $f'(g(x)) \\cdot g'(x)$. Se conoce coloquialmente como \"derivada de fuera por derivada de dentro\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la característica única de la función $f(x) = e^x$ respecto a su derivada?",
+      "context": "Un estudiante analiza la función exponencial $f(x) = e^x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su derivada es siempre negativa.",
+          "is_correct": false,
+          "feedback": "$e^x$ es siempre positiva."
+        },
+        {
+          "letter": "B",
+          "text": "Su derivada es idéntica a la función original.",
+          "is_correct": true,
+          "feedback": "Correcto. $(e^x)' = e^x$."
+        },
+        {
+          "letter": "C",
+          "text": "Su derivada es una función constante.",
+          "is_correct": false,
+          "feedback": "$e^x$ no es lineal."
+        },
+        {
+          "letter": "D",
+          "text": "Su derivada es $x \\cdot e^{x-1}$.",
+          "is_correct": false,
+          "feedback": "Esta sería la regla de la potencia aplicada erróneamente a una base variable."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función exponencial de base $e$ es la única función (salvo el cero) que es su propia derivada. Esta propiedad la hace fundamental en la resolución de ecuaciones diferenciales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.68,
+      "bundle_id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la derivada de $f(x) = \\ln(x^2 + 5)$?",
+      "context": "Un ingeniero en Sevilla calcula la tasa de cambio de un ángulo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{x^2 + 5}$",
+          "is_correct": false,
+          "feedback": "Falta la derivada interna de la regla de la cadena."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{2x}{x^2 + 5}$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $(\\ln u)' = u'/u$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{2x}$",
+          "is_correct": false,
+          "feedback": "Simplificación incorrecta."
+        },
+        {
+          "letter": "D",
+          "text": "$2x \\cdot \\ln(x^2 + 5)$",
+          "is_correct": false,
+          "feedback": "Aplicación incorrecta de las reglas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La derivada del logaritmo neperiano de una función es la derivada de la función dividida por la función misma.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la pendiente de la recta tangente a la curva $f(x) = x^3 - 2x$ en el punto $x = 1$?",
+      "context": "Un estudiante en Barcelona halla la recta tangente a una curva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-1",
+          "is_correct": false,
+          "feedback": "Este es el valor de f(1), no de la derivada."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. $f'(x) = 3x^2 - 2$. En $x = 1$, $f'(1) = 3(1)^2 - 2 = 1$."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Solo se consideró el primer término de la derivada."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Error de cálculo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pendiente de la recta tangente en un punto coincide exactamente con el valor de la derivada en dicho punto. Es una de las aplicaciones más directas del cálculo diferencial.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la derivada de la función arco tangente, $f(x) = \\arctan(x)$?",
+      "context": "Se estudia la derivada de funciones trigonométricas inversas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{\\sqrt{1-x^2}}$",
+          "is_correct": false,
+          "feedback": "Esta es la derivada del arco seno."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{1+x^2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Es una regla de derivación fundamental en Bachillerato."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{\\cos^2(x)}$",
+          "is_correct": false,
+          "feedback": "Esta es la derivada de la tangente, no del arco tangente."
+        },
+        {
+          "letter": "D",
+          "text": "$-\\frac{1}{1+x^2}$",
+          "is_correct": false,
+          "feedback": "Esta es la derivada de la arco cotangente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las derivadas de las funciones trigonométricas inversas son fundamentales para resolver integrales que resultan en estas funciones.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v12",
+      "statement": "¿Por qué la función $f(x) = |x-2|$ NO es derivable en $x = 2$?",
+      "context": "Un estudiante analiza la derivabilidad de la función $f(x) = |x-2|$ en el punto $x = 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la función no es continua en ese punto.",
+          "is_correct": false,
+          "feedback": "El valor absoluto es una función continua."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las derivadas laterales son distintas (+1 y -1).",
+          "is_correct": true,
+          "feedback": "Correcto. Gráficamente hay un \"pico\" o punto anguloso donde la pendiente no está definida de forma única."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la función tiende a infinito.",
+          "is_correct": false,
+          "feedback": "La función vale 0 en x=2."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el valor absoluto nunca se puede derivar.",
+          "is_correct": false,
+          "feedback": "Se puede derivar en todos los puntos salvo donde su interior se anula."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para que una función sea derivable, el límite del cociente incremental debe existir. En los puntos angulosos, este límite difiere según el lado por el que nos acerquemos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v13",
+      "statement": "Si $f(x) = \\text{sen}(x)$, ¿cuál es el valor de su derivada segunda $f''(x)$?",
+      "context": "Un matemático en Asturias halla la segunda derivada de una función.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\text{sen}(x)$",
+          "is_correct": false,
+          "feedback": "Esta es la cuarta derivada."
+        },
+        {
+          "letter": "B",
+          "text": "$\\cos(x)$",
+          "is_correct": false,
+          "feedback": "Esta es la primera derivada."
+        },
+        {
+          "letter": "C",
+          "text": "$-\\text{sen}(x)$",
+          "is_correct": true,
+          "feedback": "Correcto. Primera: $\\cos(x)$. Segunda: $-\\text{sen}(x)$."
+        },
+        {
+          "letter": "D",
+          "text": "$-\\cos(x)$",
+          "is_correct": false,
+          "feedback": "Esta es la tercera derivada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las derivadas de las funciones seno y coseno son cíclicas cada cuatro órdenes. La segunda derivada es de gran utilidad para estudiar la concavidad de una función.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v14",
+      "statement": "¿En qué instantes de tiempo $t$ la velocidad de la partícula es cero?",
+      "context": "Un físico en Valencia estudia el movimiento de una partícula cuya posición viene dada por $s(t) = t^3 - 6t^2 + 9t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$t = 0$ y $t = 3$",
+          "is_correct": false,
+          "feedback": "Error al resolver la ecuación de la derivada."
+        },
+        {
+          "letter": "B",
+          "text": "$t = 1$ y $t = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Velocidad $v(t) = s'(t) = 3t^2 - 12t + 9$. Igualando a 0: $t^2 - 4t + 3 = 0 \\Rightarrow (t-1)(t-3)=0$."
+        },
+        {
+          "letter": "C",
+          "text": "$t = 2$",
+          "is_correct": false,
+          "feedback": "Este es el punto de aceleración nula."
+        },
+        {
+          "letter": "D",
+          "text": "$t = 1$ y $t = 2$",
+          "is_correct": false,
+          "feedback": "Error de cálculo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La velocidad es la derivada de la posición respecto al tiempo. Hallar cuándo es cero permite identificar los puntos de retorno o reposo instantáneo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.53,
+      "bundle_id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es la derivada de la función $f(x) = x^x$? (Sugerencia: usa $x^x = e^{x \\ln x}$).",
+      "context": "Se utiliza la derivación logarítmica para funciones complejas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\cdot x^{x-1}$",
+          "is_correct": false,
+          "feedback": "Esta regla solo vale para base variable y exponente constante."
+        },
+        {
+          "letter": "B",
+          "text": "$x^x \\cdot \\ln(x)$",
+          "is_correct": false,
+          "feedback": "Esta regla solo vale para base constante y exponente variable."
+        },
+        {
+          "letter": "C",
+          "text": "$x^x \\cdot (1 + \\ln x)$",
+          "is_correct": true,
+          "feedback": "Correcto. Derivada de $e^{x \\ln x} = e^{x \\ln x} \\cdot (1 \\cdot \\ln x + x \\cdot 1/x) = x^x(1 + \\ln x)$."
+        },
+        {
+          "letter": "D",
+          "text": "$1 + \\ln x$",
+          "is_correct": false,
+          "feedback": "Falta el factor de la función original."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando tanto la base como el exponente dependen de $x$, se debe transformar la función a base $e$ o usar derivación logarítmica para aplicar correctamente las reglas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v16",
+      "statement": "Usa la derivada para estimar el valor aproximado de $\\sqrt{4,1}$ sabiendo que $\\sqrt{4} = 2$.",
+      "context": "Un estudiante estudia la aproximación lineal de una función.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2,1",
+          "is_correct": false,
+          "feedback": "Aproximación muy grosera."
+        },
+        {
+          "letter": "B",
+          "text": "2,025",
+          "is_correct": true,
+          "feedback": "Correcto. $f(x+h) \\approx f(x) + f'(x)h$. $f'(x) = 1/(2\\sqrt{x})$. $f'(4) = 1/4 = 0,25$. Entonces $2 + 0,25 \\cdot 0,1 = 2,025$."
+        },
+        {
+          "letter": "C",
+          "text": "2,05",
+          "is_correct": false,
+          "feedback": "Error al aplicar el incremento $h$."
+        },
+        {
+          "letter": "D",
+          "text": "2,005",
+          "is_correct": false,
+          "feedback": "Error de cálculo decimal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La diferencial de una función permite realizar estimaciones de valores cercanos a uno conocido mediante la recta tangente (linealización).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.48,
+      "bundle_id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v17",
+      "statement": "Halla la derivada de $f(x) = \\sqrt{\\frac{1+x}{1-x}}$.",
+      "context": "Un ingeniero en Málaga optimiza una función que incluye raíces y potencias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{(1-x)^2}$",
+          "is_correct": false,
+          "feedback": "Falta considerar la raíz cuadrada."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{(1-x)\\sqrt{1-x^2}}$",
+          "is_correct": true,
+          "feedback": "Correcto. Tras aplicar regla de cadena y simplificar el cociente interno."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{1-x^2}$",
+          "is_correct": false,
+          "feedback": "Simplificación incorrecta."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{-1}{(1-x)^2}$",
+          "is_correct": false,
+          "feedback": "Error de signo y de reglas aplicadas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este tipo de derivadas requiere un manejo algebraico preciso de los exponentes fraccionarios y la simplificación de radicales en el denominador.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v18",
+      "statement": "¿En qué situación se puede aplicar directamente la regla de L'Hôpital para calcular un límite?",
+      "context": "Un estudiante de 2º de Bachillerato estudia la regla de L'Hôpital para límites.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Siempre que tengamos un producto de funciones.",
+          "is_correct": false,
+          "feedback": "Debe ser un cociente."
+        },
+        {
+          "letter": "B",
+          "text": "Cuando el límite presenta indeterminaciones del tipo $0/0$ o $\\infty/\\infty$.",
+          "is_correct": true,
+          "feedback": "Correcto. Son las condiciones necesarias para aplicar la derivada al numerador y denominador."
+        },
+        {
+          "letter": "C",
+          "text": "Solo si la función es un polinomio.",
+          "is_correct": false,
+          "feedback": "Se aplica a cualquier función derivable."
+        },
+        {
+          "letter": "D",
+          "text": "Cuando la función es discontinua en el punto.",
+          "is_correct": false,
+          "feedback": "Las funciones deben ser derivables en un entorno del punto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La regla de L'Hôpital conecta el cálculo de límites con el cálculo diferencial, permitiendo resolver indeterminaciones complejas de forma sistemática.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v19",
+      "statement": "Si la posición es $x(t) = A \\cdot e^{kt}$, ¿cuál es la relación entre la velocidad $v(t)$ y la posición $x(t)$?",
+      "context": "Un programador de videojuegos analiza la trayectoria de un proyectil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$v(t) = x(t)$",
+          "is_correct": false,
+          "feedback": "Solo si k=1."
+        },
+        {
+          "letter": "B",
+          "text": "$v(t) = k \\cdot x(t)$",
+          "is_correct": true,
+          "feedback": "Correcto. $x'(t) = A \\cdot e^{kt} \\cdot k = k \\cdot x(t)$."
+        },
+        {
+          "letter": "C",
+          "text": "$v(t) = k^2 \\cdot x(t)$",
+          "is_correct": false,
+          "feedback": "Esta sería la aceleración."
+        },
+        {
+          "letter": "D",
+          "text": "$v(t) = A \\cdot x(t)$",
+          "is_correct": false,
+          "feedback": "Relación incorrecta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las funciones cuya derivada es proporcional a la función misma son las exponenciales. Este modelo describe crecimientos de poblaciones o desintegraciones radiactivas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.38,
+      "bundle_id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle-v20",
+      "statement": "¿Qué información nos proporciona el signo de la derivada segunda $f''(x)$ sobre la gráfica de la función?",
+      "context": "Un estudiante reflexiona sobre la interpretación geométrica de la derivada segunda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Si es positiva, la función es creciente.",
+          "is_correct": false,
+          "feedback": "Esto lo indica la primera derivada."
+        },
+        {
+          "letter": "B",
+          "text": "Si es positiva, la función es convexa (curvatura hacia arriba).",
+          "is_correct": true,
+          "feedback": "Correcto. Indica que la pendiente de la tangente está aumentando."
+        },
+        {
+          "letter": "C",
+          "text": "Si es positiva, la función tiene un máximo.",
+          "is_correct": false,
+          "feedback": "Tendría un mínimo si f'(x)=0 y f''(x)>0."
+        },
+        {
+          "letter": "D",
+          "text": "Si es positiva, la función es constante.",
+          "is_correct": false,
+          "feedback": "La derivada segunda sería cero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La derivada segunda mide la rapidez con la que cambia la pendiente. Una derivada segunda positiva significa que la curva \"se dobla\" hacia arriba, definiendo la convexidad.\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "ES-MAT-11-2026-W13-derivadas-reglas-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    }
+  ]
+}

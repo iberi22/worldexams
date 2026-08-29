@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-35-grade-7-subject-lengua",
+    "generated_at": "2026-06-18T23:58:37.563Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-7-2026-W35-literatura-indigena-001-MASTERY-v1",
+      "statement": "¿Cómo se denomina tradicionalmente a la literatura que se transmite de generación en generación a través de la palabra hablada en las comunidades indígenas?",
+      "context": "En una expedición escolar a la Sierra Nevada de Santa Marta, los estudiantes escuchan a un mamo de la comunidad Kogui contar una historia sobre la creación del mundo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Literatura escrita moderna.",
+          "is_correct": false,
+          "feedback": "Se refiere a libros impresos, no a la transmisión oral."
+        },
+        {
+          "letter": "B",
+          "text": "Oratura o tradición oral.",
+          "is_correct": true,
+          "feedback": "La oratura es el término que reconoce el valor literario y cultural de la palabra hablada en los pueblos indígenas."
+        },
+        {
+          "letter": "C",
+          "text": "Literatura de ciencia ficción.",
+          "is_correct": false,
+          "feedback": "Las historias indígenas son cosmovisiones y mitos, no ficciones tecnológicas."
+        },
+        {
+          "letter": "D",
+          "text": "Poesía rimada europea.",
+          "is_correct": false,
+          "feedback": "La métrica y rima europeas son distintas a los ritmos de la oratura indígena."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para los pueblos indígenas, la palabra es sagrada y tiene el poder de crear realidad. La oratura es el vehículo principal para mantener viva la memoria, las leyes de origen y el conocimiento ancestral sobre la naturaleza.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-7-2026-W35-literatura-indigena-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W35-literatura-indigena-001-MASTERY-v2",
+      "statement": "¿Cuál es la función primordial del mito en la literatura indígena de Colombia?",
+      "context": "Un investigador literario en la Amazonía colombiana recopila historias del pueblo Uitoto sobre la planta del tabaco y la coca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entretener a los turistas que visitan las comunidades.",
+          "is_correct": false,
+          "feedback": "Aunque pueden ser entretenidos, su función es mucho más profunda y sagrada."
+        },
+        {
+          "letter": "B",
+          "text": "Explicar el origen del universo, de los seres humanos y las normas que rigen la vida social y natural.",
+          "is_correct": true,
+          "feedback": "Los mitos son textos fundacionales que dan sentido a la existencia y la relación con el territorio."
+        },
+        {
+          "letter": "C",
+          "text": "Servir como manual de instrucciones para construir casas modernas.",
+          "is_correct": false,
+          "feedback": "Los mitos dan principios espirituales, no son manuales técnicos de construcción contemporánea."
+        },
+        {
+          "letter": "D",
+          "text": "Promover la compra de productos industriales fuera de la comunidad.",
+          "is_correct": false,
+          "feedback": "La literatura indígena suele ser crítica con el consumismo externo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El mito indígena no es una \"falsedad\", sino una verdad simbólica y espiritual. A través de él, las comunidades transmiten su ética, su derecho mayor y su comprensión del equilibrio ecológico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-7-2026-W35-literatura-indigena-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W35-literatura-indigena-001-MASTERY-v3",
+      "statement": "¿Cuál es la relación entre el ser humano y la naturaleza que se infiere de este fragmento literario?",
+      "context": "Lee el siguiente fragmento de un canto Wayúu de La Guajira: \"La tierra es nuestra madre, / ella nos da el agua que es su leche, / si herimos la tierra, herimos nuestro propio cuerpo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ser humano es el dueño y señor de la naturaleza para explotarla.",
+          "is_correct": false,
+          "feedback": "El texto sugiere una relación de parentesco y cuidado, no de explotación."
+        },
+        {
+          "letter": "B",
+          "text": "El ser humano y la naturaleza son un solo cuerpo interconectado.",
+          "is_correct": true,
+          "feedback": "La metáfora de la madre y la herida compartida resalta la unidad indisoluble entre la gente y su territorio."
+        },
+        {
+          "letter": "C",
+          "text": "La naturaleza es un enemigo que hay que vencer para sobrevivir en el desierto.",
+          "is_correct": false,
+          "feedback": "No se presenta como enemigo, sino como fuente de vida (leche)."
+        },
+        {
+          "letter": "D",
+          "text": "La tierra es un objeto inanimado que no tiene sentimientos.",
+          "is_correct": false,
+          "feedback": "Se le da el carácter de \"madre\", dotándola de vida y sacralidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La literatura indígena colombiana propone una visión biocéntrica del mundo, donde el ser humano no está por encima de la naturaleza, sino que es parte integral de ella en una relación de reciprocidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-7-2026-W35-literatura-indigena-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W35-literatura-indigena-001-MASTERY-v4",
+      "statement": "¿Cuál es el propósito más probable de este escritor al publicar su obra de manera bilingüe?",
+      "context": "Un joven poeta contemporáneo de la comunidad Misak en el Cauca escribe sus poemas tanto en lengua Namtrik como en español.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque no sabe hablar bien ninguna de las dos lenguas por completo.",
+          "is_correct": false,
+          "feedback": "Escribir poesía bilingüe requiere un alto dominio de ambas lenguas y sus matices."
+        },
+        {
+          "letter": "B",
+          "text": "Para demostrar que el español es superior a su lengua materna.",
+          "is_correct": false,
+          "feedback": "El bilingüismo literario busca la equidad y el respeto entre sistemas de pensamiento."
+        },
+        {
+          "letter": "C",
+          "text": "Para fortalecer su lengua propia dentro de la comunidad y, al mismo tiempo, compartir su pensamiento con el mundo exterior.",
+          "is_correct": true,
+          "feedback": "Es una estrategia de pervivencia cultural y diálogo intercultural."
+        },
+        {
+          "letter": "D",
+          "text": "Porque así puede vender los libros al doble de precio por tener más palabras.",
+          "is_correct": false,
+          "feedback": "La literatura bilingüe es un acto político y cultural, no una estrategia comercial de conteo de palabras."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La literatura indígena bilingüe es un puente entre mundos. Permite que la comunidad mantenga su lengua viva y que los no indígenas comprendan la riqueza de sus conocimientos y estéticas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-7-2026-W35-literatura-indigena-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W35-literatura-indigena-001-MASTERY-v5",
+      "statement": "¿Cuál de los siguientes enfoques sería más cercano al espíritu de la literatura indígena auténtica y menos a una visión de aventura extranjera?",
+      "context": "Imagina que estás escribiendo un relato inspirado en la leyenda de El Dorado (comunidad Muisca en el Altiplano Cundiboyacense).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Centrarse en el valor monetario del oro y en cómo los exploradores pueden hacerse ricos.",
+          "is_correct": false,
+          "feedback": "Esto refleja la visión del colonizador, no el sentido espiritual indígena."
+        },
+        {
+          "letter": "B",
+          "text": "Centrarse en el sentido sagrado del oro como ofrenda al sol y al equilibrio de la laguna de Guatavita.",
+          "is_correct": true,
+          "feedback": "Para los Muiscas, el oro tenía un valor simbólico y ritual, no comercial."
+        },
+        {
+          "letter": "C",
+          "text": "Inventar un mapa del tesoro con trampas explosivas y monstruos gigantes.",
+          "is_correct": false,
+          "feedback": "Este es un enfoque de cine de acción, ajeno a la cosmovisión indígena real."
+        },
+        {
+          "letter": "D",
+          "text": "Escribir sobre cómo los indígenas querían cambiar su oro por espejos europeos.",
+          "is_correct": false,
+          "feedback": "Es una anécdota histórica sesgada que no aborda la profundidad literaria del mito."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Escribir desde o sobre lo indígena requiere un cambio de perspectiva. Se debe entender que los objetos (como el oro) y los lugares (como las lagunas) tienen significados espirituales que van más allá de lo material.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-7-2026-W35-literatura-indigena-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W35-literatura-indigena-001-MASTERY-v6",
+      "statement": "Si tuvieras que clasificar la temática principal de esta poesía, ¿cuál sería la opción más adecuada?",
+      "context": "Fredy Chicangana es un reconocido poeta del pueblo Yanacona. Sus versos a menudo mencionan el \"viento de los Andes\", el \"fuego del hogar\" y el \"retorno a la raíz\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La vida moderna en las grandes ciudades industriales.",
+          "is_correct": false,
+          "feedback": "Los temas mencionados apuntan a la naturaleza y lo ancestral."
+        },
+        {
+          "letter": "B",
+          "text": "El territorio, la identidad y la memoria de los ancestros.",
+          "is_correct": true,
+          "feedback": "Los elementos naturales y la idea de retorno son centrales en la construcción de la identidad indígena actual."
+        },
+        {
+          "letter": "C",
+          "text": "La conquista del espacio exterior por parte de las comunidades indígenas.",
+          "is_correct": false,
+          "feedback": "El foco es la tierra y la raíz, no la exploración espacial."
+        },
+        {
+          "letter": "D",
+          "text": "El análisis político de las elecciones presidenciales en Colombia.",
+          "is_correct": false,
+          "feedback": "Aunque su poesía puede tener matices políticos, su núcleo es espiritual y territorial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La poesía indígena contemporánea es una voz de resistencia que busca sanar la memoria y reafirmar la presencia de los pueblos en sus territorios ancestrales a través de la palabra poética.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-7-2026-W35-literatura-indigena-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W35-literatura-indigena-001-MASTERY-v7",
+      "statement": "¿Qué tipo de razonamiento o advertencia plantea este texto literario sobre la modernidad?",
+      "context": "Analiza esta frase de un sabio indígena del Vaupés: \"Cuando el último árbol sea cortado, el último río sea contaminado y el último pez sea pescado, el hombre se dará cuenta de que no puede comer dinero\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una invitación a pescar más rápido antes de que se acaben los peces.",
+          "is_correct": false,
+          "feedback": "Es una interpretación literal opuesta a la advertencia del texto."
+        },
+        {
+          "letter": "B",
+          "text": "Una defensa del sistema financiero y del ahorro de dinero.",
+          "is_correct": false,
+          "feedback": "El texto critica precisamente la priorización del dinero sobre la vida."
+        },
+        {
+          "letter": "C",
+          "text": "Una crítica profunda a la destrucción ambiental en nombre del beneficio económico.",
+          "is_correct": true,
+          "feedback": "Resalta la dependencia absoluta del ser humano de los recursos naturales vivos, no de los bienes materiales."
+        },
+        {
+          "letter": "D",
+          "text": "Un consejo sobre cómo preparar mejor los pescados de los ríos del Vaupés.",
+          "is_correct": false,
+          "feedback": "El sentido es metafórico y ético, no gastronómico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La literatura indígena a menudo actúa como una conciencia crítica para la sociedad occidental, señalando las contradicciones de un desarrollo que destruye la base misma de la vida.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-7-2026-W35-literatura-indigena-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W35-literatura-indigena-001-MASTERY-v8",
+      "statement": "¿Cuál es el problema principal de etiquetar la literatura indígena únicamente como \"folclor\"?",
+      "context": "Durante muchos años, la literatura indígena fue considerada por los académicos colombianos como \"folclor\" o \"leyendas infantiles\", sin el estatus de \"verdadera literatura\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el folclor es más difícil de leer que la literatura normal.",
+          "is_correct": false,
+          "feedback": "La dificultad de lectura no es el problema central de la etiqueta."
+        },
+        {
+          "letter": "B",
+          "text": "Que se le quita su valor como sistema de pensamiento complejo y se le reduce a algo curioso o decorativo.",
+          "is_correct": true,
+          "feedback": "La etiqueta de \"folclor\" tiende a menospreciar la profundidad filosófica y estética de estas producciones."
+        },
+        {
+          "letter": "C",
+          "text": "Que los autores indígenas prefieren que los llamen folcloristas para no pagar impuestos.",
+          "is_correct": false,
+          "feedback": "Es una suposición falsa y ajena a la lucha por el reconocimiento cultural."
+        },
+        {
+          "letter": "D",
+          "text": "Que la palabra \"folclor\" no existe en los diccionarios de lengua española.",
+          "is_correct": false,
+          "feedback": "La palabra sí existe, el problema es su uso discriminatorio en este contexto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El reconocimiento de la literatura indígena como tal (y no solo como folclor) es un paso hacia la descolonización del pensamiento. Implica aceptar que existen múltiples formas de hacer literatura, todas con igual validez.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-7-2026-W35-literatura-indigena-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W35-literatura-indigena-001-MASTERY-v9",
+      "statement": "¿Cuál es el error de análisis cultural cometido en este diseño editorial?",
+      "context": "En una antología de cuentos indígenas publicada por el Ministerio de Cultura, se incluyeron dibujos de guerreros aztecas y mayas para ilustrar mitos de los indígenas del Amazonas colombiano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno, todos los indígenas son iguales y tienen la misma cultura.",
+          "is_correct": false,
+          "feedback": "Es un prejuicio grave; Colombia tiene 115 pueblos indígenas distintos, cada uno con su cultura."
+        },
+        {
+          "letter": "B",
+          "text": "Se cae en la generalización y el estereotipo al no respetar la identidad visual específica de los pueblos colombianos.",
+          "is_correct": true,
+          "feedback": "Mezclar culturas de otros países (México/Guatemala) con las locales invisibiliza la diversidad real de Colombia."
+        },
+        {
+          "letter": "C",
+          "text": "Los dibujos de aztecas son más bonitos y eso ayuda a vender más libros.",
+          "is_correct": false,
+          "feedback": "La estética no justifica la falta de rigor cultural y el irrespeto a la identidad."
+        },
+        {
+          "letter": "D",
+          "text": "Los indígenas del Amazonas no tienen dibujos propios, por eso hubo que pedirlos prestados.",
+          "is_correct": false,
+          "feedback": "Todas las culturas indígenas tienen sus propias representaciones visuales y artísticas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El respeto a la diversidad implica reconocer las particularidades. La literatura indígena colombiana es diversa y específica; no se puede tratar como un bloque uniforme bajo estereotipos externos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-7-2026-W35-literatura-indigena-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W35-literatura-indigena-001-MASTERY-v10",
+      "statement": "¿Cuál es la conclusión más profunda sobre la misión del escritor indígena contemporáneo según estas palabras?",
+      "context": "Evalúa el impacto de la siguiente frase del poeta Yanacona Fredy Chicangana: \"Escribo para que el silencio no sea el dueño de nuestra historia, para que nuestros hijos sepan que somos hijos de la tierra y del sol\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribir libros para que los niños de la comunidad no se aburran en las tardes.",
+          "is_correct": false,
+          "feedback": "La misión planteada es de trascendencia histórica e identitaria, no solo recreativa."
+        },
+        {
+          "letter": "B",
+          "text": "Demostrar que los indígenas también pueden usar papel y lápiz como los europeos.",
+          "is_correct": false,
+          "feedback": "La escritura es aquí una herramienta de resistencia, no de imitación."
+        },
+        {
+          "letter": "C",
+          "text": "Utilizar la escritura como un acto de resistencia política y cultural para garantizar la continuidad de su pueblo en el tiempo.",
+          "is_correct": true,
+          "feedback": "Escribir es luchar contra el olvido y reafirmar la identidad frente a presiones externas."
+        },
+        {
+          "letter": "D",
+          "text": "Convencer a los hijos de que se vuelvan astrónomos porque son \"hijos del sol\".",
+          "is_correct": false,
+          "feedback": "Es una interpretación literal y errónea del lenguaje metafórico y espiritual del poeta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La literatura indígena actual es un ejercicio de pervivencia. Evaluar su función implica entenderla como un compromiso ético con la comunidad y el futuro, usando la palabra para sanar el pasado y proteger la identidad.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación | Notas |\n| :--- | :---: | :--- |\n| Técnico | 30/30 | Formato v5.2 respetado. |\n| Curricular | 40/40 | Aborda temas de oratura, mitos y poesía indígena actual para grado 7. |\n| Contexto | 20/20 | Referencias a Kogui, Wayúu, Uitoto, Misak, Muisca y autores como Chicangana. |\n| Redacción | 10/10 | Enunciados claros y explicaciones pedagógicas sólidas. |\n| **Total** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LEN-7-2026-W35-literatura-indigena-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

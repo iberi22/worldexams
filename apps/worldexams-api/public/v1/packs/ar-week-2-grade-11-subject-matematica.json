@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "ar",
+    "pack_id": "ar-week-2-grade-11-subject-matematicas",
+    "generated_at": "2026-06-22T05:46:15.476Z"
+  },
+  "questions": [
+    {
+      "id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v1",
+      "statement": "Para que una relación entre un conjunto de partida $A$ y uno de llegada $B$ sea considerada una función, ¿qué condición se debe cumplir para todo elemento $x \\in A$?",
+      "context": "Martina analiza la definición matemática de las funciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe tener al menos una imagen en $B$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si tiene más de una imagen, no cumple con el principio de unicidad."
+        },
+        {
+          "letter": "B",
+          "text": "Debe tener una única imagen en $B$.",
+          "is_correct": true,
+          "feedback": "Correcto. Toda función debe cumplir los principios de existencia (cada elemento tiene imagen) y unicidad (la imagen es única)."
+        },
+        {
+          "letter": "C",
+          "text": "Debe tener más de una imagen en $B$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto contradice directamente el principio de unicidad."
+        },
+        {
+          "letter": "D",
+          "text": "No es obligatorio que tenga imagen en $B$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si un elemento de $A$ no tiene imagen, la relación no es una función."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una función es una relación que asocia a cada elemento del conjunto de partida $A$ un único elemento del conjunto de llegada $B$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v2",
+      "statement": "En la función de costo de producción mensual $C(x) = 50x + 1000$, ¿qué representa la variable independiente $x$?",
+      "context": "Matías analiza los costos de un emprendimiento en Córdoba.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El costo de producir una unidad de producto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El costo marginal por unidad es 50, que es constante."
+        },
+        {
+          "letter": "B",
+          "text": "La cantidad de unidades producidas en el mes.",
+          "is_correct": true,
+          "feedback": "Correcto. La variable independiente es la cantidad producida, ya que de ella depende el costo total."
+        },
+        {
+          "letter": "C",
+          "text": "El costo fijo total del emprendimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El costo fijo es la constante 1000."
+        },
+        {
+          "letter": "D",
+          "text": "La ganancia neta obtenida por el negocio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No estamos considerando ingresos, solo costos de producción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La variable independiente es la que se puede cambiar libremente (en este caso, la cantidad producida $x$), y la variable dependiente es la que resulta (el costo total $C(x)$).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v3",
+      "statement": "Calculá el dominio de definición de la función racional $f(x) = \\frac{x}{x - 5}$ en los números reales.",
+      "context": "Valentina calcula el dominio de definición de una función de distribución de ingresos en Rosario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\mathbb{R} - \\{0\\}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El numerador puede ser 0 sin problemas, por lo que $x=0$ pertenece al dominio."
+        },
+        {
+          "letter": "B",
+          "text": "$\\mathbb{R} - \\{5\\}$",
+          "is_correct": true,
+          "feedback": "Correcto. El denominador no puede ser 0, por lo que $x - 5 \\neq 0 \\Rightarrow x \\neq 5$."
+        },
+        {
+          "letter": "C",
+          "text": "$[5, +\\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida para números menores que 5."
+        },
+        {
+          "letter": "D",
+          "text": "$\\mathbb{R}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor $x=5$ causa división por cero, por lo que debe excluirse."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En una función racional, el dominio está formado por todos los números reales excepto aquellos que anulan el denominador, ya que la división por cero no está definida.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v4",
+      "statement": "Determiná el dominio de la función real $f(x) = \\sqrt{x - 7}$.",
+      "context": "Agustín diseña un sensor de humedad en Mendoza y analiza su función de calibración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\mathbb{R} - \\{7\\}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si $x < 7$ la expresión no está definida en los reales."
+        },
+        {
+          "letter": "B",
+          "text": "$[7, +\\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. Para que la raíz esté definida, el radicando debe ser no negativo: $x - 7 \\ge 0 \\Rightarrow x \\ge 7$."
+        },
+        {
+          "letter": "C",
+          "text": "$(7, +\\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número 7 sí está incluido porque $\\sqrt{0} = 0$."
+        },
+        {
+          "letter": "D",
+          "text": "$(-\\infty, 7]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si tomamos un número menor que 7, el radicando se hace negativo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las raíces de índice par requieren que el radicando sea mayor o igual a cero para existir en el campo de los números reales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de las siguientes funciones presenta simetría par, es decir, cumple que $f(-x) = f(x)$?",
+      "context": "Lucía repasa el concepto de simetría de funciones para preparar un examen en La Plata.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = x^3 - x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta función es impar, ya que $f(-x) = -f(x)$."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = x^2 - 4$",
+          "is_correct": true,
+          "feedback": "Correcto. $f(-x) = (-x)^2 - 4 = x^2 - 4 = f(x)$."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = 2x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No presenta simetría par ni impar."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = \\sin(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El seno es una función impar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una función es par si al evaluar en $-x$ se obtiene la misma expresión que en $x$. Geométricamente, su gráfica es simétrica respecto al eje $y$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de las siguientes funciones reales presenta simetría impar, de modo que $f(-x) = -f(x)$?",
+      "context": "Franco analiza las oscilaciones de una onda sonora en un laboratorio de Mar del Plata.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = x^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x^2$ es una función par."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = x^3 - 3x$",
+          "is_correct": true,
+          "feedback": "Correcto. $f(-x) = (-x)^3 - 3(-x) = -x^3 + 3x = -(x^3 - 3x) = -f(x)$."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = \\cos(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coseno es una función par."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = e^x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La exponencial no presenta simetría par ni impar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una función es impar si al cambiar $x$ por $-x$ obtenemos el opuesto de la función original. Su gráfica es simétrica respecto al origen de coordenadas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v7",
+      "statement": "Un servicio de transporte de carga cobra un costo fijo de $\\$1200$ más $\\$80$ por kilómetro recorrido $k$. ¿Cuál de las siguientes es la función de costo total $C(k)$?",
+      "context": "Sofía analiza el costo mensual de un servicio de transporte de carga en San Miguel de Tucumán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$C(k) = 1200k + 80$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto cobraría 1200 por kilómetro, no como costo fijo."
+        },
+        {
+          "letter": "B",
+          "text": "$C(k) = 80k + 1200$",
+          "is_correct": true,
+          "feedback": "Correcto. El costo total es la tarifa por kilómetro multiplicada por $k$ más el costo fijo: $C(k) = 80k + 1200$."
+        },
+        {
+          "letter": "C",
+          "text": "$C(k) = (1200 + 80)k$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sumaría ambos valores antes de multiplicar por los kilómetros."
+        },
+        {
+          "letter": "D",
+          "text": "$C(k) = 80k$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no tiene en cuenta el costo fijo mensual."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un modelo lineal tiene la forma $y = mx + b$, donde $m$ representa la tasa de variación (costo por kilómetro) y $b$ es el valor inicial o constante (costo fijo).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v8",
+      "statement": "Determiná el rango (conjunto imagen) de la función real $f(x) = x^2 + 3$.",
+      "context": "Mateo analiza la trayectoria parabólica de una pelota de fútbol en Salta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\mathbb{R}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gráfica es una parábola y no cubre los valores menores a 3."
+        },
+        {
+          "letter": "B",
+          "text": "$[3, +\\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. Como $x^2 \\ge 0$, al sumar 3 resulta $x^2 + 3 \\ge 3$. Por lo tanto, el rango es $[3, +\\infty)$."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 3]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto correspondería a una parábola cóncava hacia abajo."
+        },
+        {
+          "letter": "D",
+          "text": "$[0, +\\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor mínimo de la función es 3, no 0."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El rango es el conjunto de valores reales que toma la variable dependiente $y$. Para $f(x) = x^2 + 3$, el vértice de la parábola está en $(0,3)$ y abre hacia arriba, por lo que el rango es $[3, +\\infty)$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v9",
+      "statement": "Encontrá la expresión de la función inversa de $f(x) = 3x - 6$.",
+      "context": "Camila calcula el proceso inverso para convertir temperaturas entre dos escalas en Santa Fe.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f^{-1}(x) = \\frac{x - 6}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se erró en el signo al despejar."
+        },
+        {
+          "letter": "B",
+          "text": "$f^{-1}(x) = \\frac{x + 6}{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. Planteamos $y = 3x - 6$. Despejamos $x$: $y + 6 = 3x \\Rightarrow x = \\frac{y + 6}{3}$. Intercambiando variables, queda $f^{-1}(x) = \\frac{x + 6}{3}$."
+        },
+        {
+          "letter": "C",
+          "text": "$f^{-1}(x) = 6x - 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto invierte los coeficientes de manera incorrecta."
+        },
+        {
+          "letter": "D",
+          "text": "$f^{-1}(x) = \\frac{x}{3} + 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 6 debe ser dividido por 3 también."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar la función inversa, despejamos la variable independiente $x$ en términos de la variable dependiente $y$, y luego intercambiamos los nombres de las variables.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v10",
+      "statement": "Si desplázas la gráfica de $f(x) = x^2$ dos unidades a la derecha y tres unidades hacia arriba, ¿cuál es la nueva ecuación $g(x)$?",
+      "context": "Joaquín desplaza la ubicación de unas antenas de transmisión en Bahía Blanca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$g(x) = (x+2)^2 + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El término $(x+2)$ desplaza la gráfica hacia la izquierda."
+        },
+        {
+          "letter": "B",
+          "text": "$g(x) = (x-2)^2 + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Un desplazamiento de $h$ unidades a la derecha y $k$ hacia arriba se representa como $g(x) = (x - h)^2 + k$. Con $h=2$ y $k=3$, obtenemos $g(x) = (x - 2)^2 + 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$g(x) = (x-2)^2 - 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El $-3$ final indica un desplazamiento hacia abajo."
+        },
+        {
+          "letter": "D",
+          "text": "$g(x) = (x+2)^2 - 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Desplaza hacia la izquierda y hacia abajo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las traslaciones horizontales se aplican restando el valor del desplazamiento dentro del argumento de la función, mientras que las traslaciones verticales se aplican sumando el valor directamente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v11",
+      "statement": "Calculá el dominio de definición de la función $f(x) = \\ln(x - 4)$ en los números reales.",
+      "context": "Julieta estudia el crecimiento biológico de una plantación en Neuquén.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\mathbb{R} - \\{4\\}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No solo el 4 está excluido, sino todos los números menores que él."
+        },
+        {
+          "letter": "B",
+          "text": "$(4, +\\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. El argumento de un logaritmo debe ser estrictamente positivo: $x - 4 > 0 \\Rightarrow x > 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$[4, +\\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor $4$ no está incluido porque el logaritmo de cero no está definido."
+        },
+        {
+          "letter": "D",
+          "text": "$(-\\infty, 4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si $x < 4$, el argumento es negativo y el logaritmo real no existe."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función logaritmo natural solo está definida para argumentos que sean estrictamente mayores que cero, de donde resulta la inecuación $x - 4 > 0$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v12",
+      "statement": "Encontrá la función inversa de $f(x) = \\frac{x+2}{x-1}$ para $x \\neq 1$.",
+      "context": "Lautaro analiza una transformación en un sistema de engranajes en San Juan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f^{-1}(x) = \\frac{x-1}{x+2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es la recíproca, no la inversa."
+        },
+        {
+          "letter": "B",
+          "text": "$f^{-1}(x) = \\frac{x+2}{x-1}$",
+          "is_correct": true,
+          "feedback": "Correcto. Si planteamos $y = \\frac{x+2}{x-1}$, despejamos: $y(x-1) = x+2 \\Rightarrow yx - y = x + 2 \\Rightarrow yx - x = y + 2 \\Rightarrow x = \\frac{y+2}{y-1}$. Al cambiar variables coincide con la original."
+        },
+        {
+          "letter": "C",
+          "text": "$f^{-1}(x) = \\frac{x-2}{x+1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometieron errores de signos al transponer términos."
+        },
+        {
+          "letter": "D",
+          "text": "$f^{-1}(x) = \\frac{2x+1}{x-1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se transpusieron mal las variables en el despeje algebraico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al despejar la variable independiente de una función homográfica de la forma $y = \\frac{ax+b}{cx+d}$, la inversa resulta del mismo tipo. En este caso particular la función coincide con su propia inversa.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v13",
+      "statement": "Determiná el dominio de la función real $f(x) = \\sqrt{4 - x^2}$.",
+      "context": "Delfina calcula las dimensiones de una zona de seguridad en San Luis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\mathbb{R}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si $x = 3$, el radicando es $-5$, lo cual no está definido en los reales."
+        },
+        {
+          "letter": "B",
+          "text": "$[-2, 2]$",
+          "is_correct": true,
+          "feedback": "Correcto. El radicando debe ser no negativo: $4 - x^2 \\ge 0 \\Rightarrow x^2 \\le 4 \\Rightarrow |x| \\le 2 \\Rightarrow -2 \\le x \\le 2$."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, -2] \\cup [2, +\\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En este rango el radicando es negativo."
+        },
+        {
+          "letter": "D",
+          "text": "$[0, 2]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los números negativos entre $-2$ y $0$ también son válidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El dominio de la función requiere resolver la inecuación cuadrática $4 - x^2 \\ge 0$, cuyas soluciones reales se encuentran en el intervalo cerrado $[-2, 2]$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v14",
+      "statement": "Dadas las funciones $f(x) = 2x + 3$ y $g(x) = x^2$, determiná la expresión de la función compuesta $(f \\circ g)(x)$.",
+      "context": "Isabella analiza un proceso de producción en cadena en Ushuaia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(2x + 3)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representa la composición inversa $(g \\circ f)(x)$."
+        },
+        {
+          "letter": "B",
+          "text": "$2x^2 + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición de composición, $(f \\circ g)(x) = f(g(x)) = f(x^2) = 2x^2 + 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$2x^2 + 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó de manera errónea el término constante."
+        },
+        {
+          "letter": "D",
+          "text": "$4x^2 + 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto resulta de elevar la expresión al cuadrado de forma incorrecta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la composición de funciones, la función interna $g(x)$ se introduce como el argumento de la función externa $f(x)$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v15",
+      "statement": "¿Para qué valor del parámetro real $k$ la función partida $f(x) = \\begin{cases} 3x - 1 & \\text{si } x < 2 \\\\ kx + 1 & \\text{si } x \\ge 2 \\end{cases}$ es continua en $x = 2$?",
+      "context": "Tomas analiza el flujo de tráfico vehicular en Bariloche utilizando modelos continuos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$k = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si $k=1$, los límites laterales no coinciden ($5 \\neq 3$)."
+        },
+        {
+          "letter": "B",
+          "text": "$k = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. Los límites laterales deben ser iguales: $\\lim_{x \\to 2^-} f(x) = 3(2) - 1 = 5$ y $\\lim_{x \\to 2^+} f(x) = 2k + 1$. Igualando ambos queda $2k + 1 = 5 \\Rightarrow k = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "$k = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $k=3$, el límite por derecha daría 7."
+        },
+        {
+          "letter": "D",
+          "text": "$k = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $k=5$, el límite por derecha daría 11."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para que una función sea continua en un punto, deben existir los límites laterales, ser iguales entre sí, y coincidir con el valor de la función en dicho punto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v16",
+      "statement": "Si tenés la función exponencial $f(x) = 2^x$, ¿cómo se obtiene geométricamente la gráfica de $g(x) = -2^x$?",
+      "context": "Milagros estudia las reflexiones ópticas de los lentes de una cámara en Paraná.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desplazando la gráfica una unidad hacia abajo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso daría la función $2^x - 1$."
+        },
+        {
+          "letter": "B",
+          "text": "Reflejando la gráfica respecto del eje $x$.",
+          "is_correct": true,
+          "feedback": "Correcto. Multiplicar toda la función por $-1$ produce una simetría vertical respecto del eje de las abscisas (eje $x$)."
+        },
+        {
+          "letter": "C",
+          "text": "Reflejando la gráfica respecto del eje $y$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso daría la función $2^{-x}$."
+        },
+        {
+          "letter": "D",
+          "text": "Desplazando la gráfica una unidad a la izquierda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso daría la función $2^{x+1}$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una transformación de la forma $g(x) = -f(x)$ invierte el signo de todas las coordenadas de salida, produciendo una simetría o reflexión respecto del eje horizontal.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v17",
+      "statement": "Calculá el dominio de la función compuesta $f(g(x))$ sabiendo que $f(u) = \\frac{1}{u - 3}$ y $g(x) = x^2$.",
+      "context": "Nicolas calcula la estabilidad de un sistema de telecomunicaciones en Corrientes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\mathbb{R} - \\{3\\}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sería el dominio de $f(x)$ sola, pero el argumento es $g(x) = x^2$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\mathbb{R} - \\{-\\sqrt{3}, \\sqrt{3}\\}$",
+          "is_correct": true,
+          "feedback": "Correcto. El dominio de la composición requiere que $g(x)$ esté definido (todo $\\mathbb{R}$) y que $g(x) \\neq 3 \\Rightarrow x^2 \\neq 3 \\Rightarrow x \\neq \\pm\\sqrt{3}$."
+        },
+        {
+          "letter": "C",
+          "text": "$[3, +\\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está definida en la mayoría de los números menores a 3."
+        },
+        {
+          "letter": "D",
+          "text": "$\\mathbb{R}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los puntos donde el denominador se anula deben ser estrictamente excluidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El dominio de una composición $f(g(x))$ está formado por los elementos $x$ del dominio de $g$ tales que su imagen $g(x)$ pertenece al dominio de la función externa $f$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v18",
+      "statement": "Si se sabe que $f(x)$ es una función par y $g(x)$ es una función impar en todos los reales, ¿qué tipo de simetría presenta la función compuesta $h(x) = f(g(x))$?",
+      "context": "Catalina investiga las simetrías en señales de radiofrecuencia en Resistencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una función impar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo negativo se absorbe debido a la paridad de la función externa $f$."
+        },
+        {
+          "letter": "B",
+          "text": "Es una función par.",
+          "is_correct": true,
+          "feedback": "Correcto. $h(-x) = f(g(-x)) = f(-g(x))$ porque $g$ es impar. Como $f$ es par, $f(-g(x)) = f(g(x)) = h(x)$. Por ende, $h$ es par."
+        },
+        {
+          "letter": "C",
+          "text": "No presenta simetría.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La simetría par está totalmente garantizada."
+        },
+        {
+          "letter": "D",
+          "text": "Depende de la paridad de los dominios individuales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas funciones están definidas en todos los reales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La composición de una función par con una función impar resulta en una función par, ya que el signo que extrae la función impar interna es absorbido por la función par externa.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v19",
+      "statement": "Un estudiante afirma que la función inversa de $f(x) = x^2$ es $f^{-1}(x) = \\sqrt{x}$ para todo su dominio. Evaluá la veracidad de esta afirmación.",
+      "context": "Facundo evalúa una demostración matemática presentada por un compañero en Posadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta para todo el conjunto de los números reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En los reales la función $x^2$ no es inyectiva, por lo que no admite inversa global."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta únicamente si se restringe el dominio original de $f(x)$ a $[0, +\\infty)$ para asegurar la inyectividad.",
+          "is_correct": true,
+          "feedback": "Correcto. Al restringir el dominio a los reales no negativos la función se vuelve inyectiva y admite inversa unívoca."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta porque la operación inversa de la potencia es la función exponencial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inversa de la potencia es la raíz, la exponencial es la inversa del logaritmo."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta para cualquier intervalo de longitud menor a dos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un intervalo como $[-0.5, 0.5]$ sigue fallando en la inyectividad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para que una función admita una función inversa, debe ser inyectiva (y biyectiva en su imagen). La función cuadrática general no es inyectiva en todo $\\mathbb{R}$, por lo que se requiere una restricción de dominio.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v20",
+      "statement": "Se quiere construir una caja sin tapa a partir de una lámina cuadrada de cartón de $12\\text{ cm}$ de lado, recortando cuadrados de lado $x$ en cada una de sus esquinas y doblando hacia arriba. ¿Cuál es el dominio físico (realista) de la función de volumen $V(x)$?",
+      "context": "Martina calcula las restricciones de un modelo físico en Jujuy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[0, 12]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden recortar esquinas de más de 6 cm de lado."
+        },
+        {
+          "letter": "B",
+          "text": "$(0, 6)$",
+          "is_correct": true,
+          "feedback": "Correcto. El lado recortado $x$ debe ser positivo, y dado que se recortan dos esquinas por cada lado de la lámina, debe cumplirse que $2x < 12 \\Rightarrow x < 6$."
+        },
+        {
+          "letter": "C",
+          "text": "$(0, 12)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No considera que se recortan esquinas de ambos lados de la lámina."
+        },
+        {
+          "letter": "D",
+          "text": "$[0, 6]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En los extremos 0 y 6 el volumen físico de la caja es exactamente cero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El dominio físico de un modelo matemático está limitado por restricciones geométricas y físicas del problema real, independientes de que la fórmula matemática admita otros valores abstractos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "AR-MAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ar"
+    }
+  ]
+}

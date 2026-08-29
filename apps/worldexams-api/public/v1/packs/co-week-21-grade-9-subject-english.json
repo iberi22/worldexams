@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-21-grade-9-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.944Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-9-2026-W21-living-abroad-001-MASTERY-bundle-v1",
+      "statement": "When I lived in London, I ________ walk to the park every morning.",
+      "context": "Describing a past habit.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "used to",
+          "is_correct": true,
+          "feedback": "Correct! \"Used to\" describes a past habit or state that is no longer true."
+        },
+        {
+          "letter": "B",
+          "text": "am used to",
+          "is_correct": false,
+          "feedback": "Incorrect. This means current familiarity."
+        },
+        {
+          "letter": "C",
+          "text": "got used to",
+          "is_correct": false,
+          "feedback": "Incorrect. This describes the process."
+        },
+        {
+          "letter": "D",
+          "text": "use to",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs the \"d\" in the affirmative."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Usamos *used to* seguido del infinitivo para hablar de acciones habituales en el pasado.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W21-living-abroad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W21-living-abroad-001-MASTERY-bundle-v2",
+      "statement": "I have been in NYC for years, so I ________ the noise.",
+      "context": "Describing current familiarity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "used to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "am used to",
+          "is_correct": true,
+          "feedback": "Correct! \"Be used to + noun\" means to be familiar with something."
+        },
+        {
+          "letter": "C",
+          "text": "get used to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "used to be",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "*Be used to* expresa que algo ya no nos resulta extraño.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W21-living-abroad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W21-living-abroad-001-MASTERY-bundle-v3",
+      "statement": "I am slowly ________ to the different eating schedules here.",
+      "context": "Adaptation process.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "used to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "being used to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "getting used to",
+          "is_correct": true,
+          "feedback": "Correct! \"Get used to\" refers to the process of becoming familiar."
+        },
+        {
+          "letter": "D",
+          "text": "use to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Utilizamos *get used to* para describir el proceso de adaptarse a una situación nueva.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W21-living-abroad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W21-living-abroad-001-MASTERY-bundle-v4",
+      "statement": "I found it hard to ________ on the left in Australia.",
+      "context": "Difficulty driving.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "used to drive",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "be used to driving",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "get used to driving",
+          "is_correct": true,
+          "feedback": "Correct! \"Get used to\" is followed by the -ing form."
+        },
+        {
+          "letter": "D",
+          "text": "get used to drive",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Después de *get used to*, el verbo debe ir en gerundio (*-ing*).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W21-living-abroad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W21-living-abroad-001-MASTERY-bundle-v5",
+      "statement": "I ________ like spicy food, but now I love it!",
+      "context": "Negative past habit.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wasn't used to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "didn't use to",
+          "is_correct": true,
+          "feedback": "Correct! Negative form of \"used to\" for past habits."
+        },
+        {
+          "letter": "C",
+          "text": "hadn't used to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "am not used to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La forma negativa de *used to* es *didn't use to*.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W21-living-abroad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W21-living-abroad-001-MASTERY-bundle-v6",
+      "statement": "Don't worry, you ________ to the cold weather eventually.",
+      "context": "Future adaptation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are used to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "used to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "will get used",
+          "is_correct": true,
+          "feedback": "Correct! Future adaptation."
+        },
+        {
+          "letter": "D",
+          "text": "get used",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Podemos usar *get used to* en futuro con *will*.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W21-living-abroad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W21-living-abroad-001-MASTERY-bundle-v7",
+      "statement": "Which sentence implies that the person is **already** comfortable?",
+      "context": "Meaning distinction.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I used to wake up early.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "I am used to waking up early.",
+          "is_correct": true,
+          "feedback": "Correct! Indicates current familiarity."
+        },
+        {
+          "letter": "C",
+          "text": "I am getting used to it.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "I will get used to it.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Diferenciar entre el estado pasado, el proceso y la familiaridad actual es clave.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W21-living-abroad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W21-living-abroad-001-MASTERY-bundle-v8",
+      "statement": "I'm not looking forward to ________ in a small flat.",
+      "context": "Looking forward to.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "used to live",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "live",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "getting used to living",
+          "is_correct": true,
+          "feedback": "Correct! Both structures require a gerund."
+        },
+        {
+          "letter": "D",
+          "text": "get used to live",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Tanto *look forward to* como *get used to* exigen el uso del gerundio.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W21-living-abroad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W21-living-abroad-001-MASTERY-bundle-v9",
+      "statement": "I never thought I ________ so much coffee.",
+      "context": "Surprising change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "would get used to drinking",
+          "is_correct": true,
+          "feedback": "Correct! Future in the past for adaptation."
+        },
+        {
+          "letter": "B",
+          "text": "am used to drink",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "used to drink",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "get used to drinking",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "*Would get used to* describe una adaptación que se preveía en el pasado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W21-living-abroad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W21-living-abroad-001-MASTERY-bundle-v10",
+      "statement": "Identify the error:\n\"I still **didn't use to** (D) the cold weather.\"",
+      "context": "Finding an error.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "used to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "getting used",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "speaking",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "didn't use to",
+          "is_correct": true,
+          "feedback": "Correct! Should be \"am not used to\" for current lack of familiarity."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "*Didn't use to* se refiere a hábitos pasados, no a la falta de familiaridad actual.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-9-2026-W21-living-abroad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W21-living-abroad-001-MASTERY-bundle-v11",
+      "statement": "Which response shows a person is **completely integrated**?",
+      "context": "Integration level.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I used to find it strange.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "I am getting used to it.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "I am fully used to the traditions here.",
+          "is_correct": true,
+          "feedback": "Correct! Shows complete familiarity."
+        },
+        {
+          "letter": "D",
+          "text": "I will get used to it.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La elección de la forma verbal comunica el nivel de adaptación social.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-9-2026-W21-living-abroad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W21-living-abroad-001-MASTERY-bundle-v12",
+      "statement": "Choose the best completion:\n\"While you ________ certain things, ________ a new culture takes time.\"",
+      "context": "Final summary.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "used to / get used",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "may have been used to / getting used to",
+          "is_correct": true,
+          "feedback": "Correct! Integration of structures."
+        },
+        {
+          "letter": "C",
+          "text": "used / get",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "get used / be used",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evalúa la integración de las tres estructuras en un texto coherente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-9-2026-W21-living-abroad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

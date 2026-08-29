@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-4-grade-8-subject-lengua",
+    "generated_at": "2026-06-18T23:58:37.579Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el nombre de la corriente cultural y filosófica que puso al ser humano como centro del universo durante el Renacimiento?",
+      "context": "El Renacimiento surge en Italia en el siglo XIV y se extiende por Europa en los siglos XV y XVI, marcando el paso de la Edad Media a la Edad Moderna.\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Teocentrismo",
+          "is_correct": false,
+          "feedback": "El teocentrismo situaba a Dios como centro, lo cual es propio de la Edad Media."
+        },
+        {
+          "letter": "B",
+          "text": "Escolástica",
+          "is_correct": false,
+          "feedback": "La escolástica era la corriente filosófica predominante en los monasterios medievales."
+        },
+        {
+          "letter": "C",
+          "text": "Humanismo",
+          "is_correct": true,
+          "feedback": "El humanismo rescató los valores clásicos y puso énfasis en la dignidad, razón y libertad del hombre."
+        },
+        {
+          "letter": "D",
+          "text": "Ilustración",
+          "is_correct": false,
+          "feedback": "La Ilustración es un movimiento muy posterior, del siglo XVIII."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Humanismo es el motor intelectual del Renacimiento, promoviendo el estudio de las humanidades y el retorno a las fuentes de la cultura griega y romana.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v2",
+      "statement": "¿Qué tipo de estrofa de origen italiano, compuesta por 14 versos endecasílabos divididos en dos cuartetos y dos tercetos, se convirtió en la forma predilecta del Renacimiento?",
+      "context": "La lírica renacentista española fue profundamente renovada por Garcilaso de la Vega, quien introdujo formas métricas italianas.\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lira",
+          "is_correct": false,
+          "feedback": "La lira es una estrofa de cinco versos que combina heptasílabos y endecasílabos."
+        },
+        {
+          "letter": "B",
+          "text": "Soneto",
+          "is_correct": true,
+          "feedback": "El soneto es la estructura poética más característica del Renacimiento europeo."
+        },
+        {
+          "letter": "C",
+          "text": "Octava real",
+          "is_correct": false,
+          "feedback": "La octava real tiene ocho versos y se usaba principalmente en poemas épicos."
+        },
+        {
+          "letter": "D",
+          "text": "Copla de pie quebrado",
+          "is_correct": false,
+          "feedback": "Esta estrofa es medieval, famosa por su uso en las Coplas de Jorge Manrique."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La adopción del soneto permitió a los poetas renacentistas expresar sentimientos amorosos y reflexiones filosóficas con una estructura armónica y equilibrada.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v3",
+      "statement": "¿A qué se refiere el concepto de \"antropocentrismo\" en la literatura y el arte renacentista?",
+      "context": "Los autores renacentistas no buscaban la originalidad absoluta, sino que seguían el principio de la imitación de los modelos clásicos.\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A la descripción detallada de animales exóticos en los relatos.",
+          "is_correct": false,
+          "feedback": "No se relaciona con la fauna, sino con la jerarquía de valores."
+        },
+        {
+          "letter": "B",
+          "text": "A la valoración del ser humano, su capacidad racional y sus sentimientos terrenales.",
+          "is_correct": true,
+          "feedback": "El hombre se convierte en la medida de todas las cosas y el foco principal del arte."
+        },
+        {
+          "letter": "C",
+          "text": "Al estudio exclusivo de los astros y los planetas.",
+          "is_correct": false,
+          "feedback": "Aunque hubo avances científicos, el antropocentrismo es una visión cultural y moral."
+        },
+        {
+          "letter": "D",
+          "text": "Al rechazo de cualquier forma de arte que no fuera religiosa.",
+          "is_correct": false,
+          "feedback": "Al contrario, el Renacimiento abrió el arte a temas profanos y mitológicos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El antropocentrismo marca un cambio de mentalidad respecto a la Edad Media, permitiendo una exploración más libre de la naturaleza y las emociones humanas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la idea principal que transmite el poema de Garcilaso de la Vega cuando invita a una joven a disfrutar de su juventud antes de que llegue la \"nieve\" de la vejez?",
+      "context": "El tópico literario del \"Carpe diem\" (\"Aprovecha el día\") fue uno de los más recurrentes en la poesía renacentista.\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la nieve es muy peligrosa para la salud de las mujeres jóvenes.",
+          "is_correct": false,
+          "feedback": "La \"nieve\" es una metáfora de las canas y el paso del tiempo, no un fenómeno meteorológico."
+        },
+        {
+          "letter": "B",
+          "text": "Que la belleza física es eterna si se tiene una buena educación humanista.",
+          "is_correct": false,
+          "feedback": "El poema enfatiza precisamente la fugacidad de la belleza física."
+        },
+        {
+          "letter": "C",
+          "text": "Que se debe disfrutar del presente y de la juventud, ya que el tiempo pasa de forma inevitable.",
+          "is_correct": true,
+          "feedback": "Es la esencia del tópico latino \"Carpe diem\", invitando al goce antes del marchitamiento."
+        },
+        {
+          "letter": "D",
+          "text": "Que solo los nobles pueden disfrutar de la vida porque tienen dinero.",
+          "is_correct": false,
+          "feedback": "El tópico es universal y se centra en la naturaleza humana, no en la clase social."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El tópico del \"Carpe diem\" refleja la valoración del mundo terrenal propia del Renacimiento, frente al desprecio de la vida material común en la Edad Media.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v5",
+      "statement": "Si en un poema renacentista se describe un prado perfecto donde los pastores hablan de sus penas de amor, ¿qué función cumple la naturaleza en ese relato?",
+      "context": "El \"Locus amoenus\" es un tópico que describe una naturaleza idealizada: prados verdes, aguas cristalinas, brisa suave y cantos de pájaros.\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mostrar los problemas de la agricultura en la España del siglo XVI.",
+          "is_correct": false,
+          "feedback": "La naturaleza en la literatura no busca ser un registro económico."
+        },
+        {
+          "letter": "B",
+          "text": "Advertir sobre los peligros de los animales salvajes en el campo.",
+          "is_correct": false,
+          "feedback": "En el locus amoenus, la naturaleza es pacífica y segura."
+        },
+        {
+          "letter": "C",
+          "text": "Servir como un escenario armonioso que refleja o contrasta con los sentimientos del poeta.",
+          "is_correct": true,
+          "feedback": "La naturaleza idealizada es el marco perfecto para la introspección amorosa."
+        },
+        {
+          "letter": "D",
+          "text": "Promover el turismo rural entre los habitantes de la ciudad.",
+          "is_correct": false,
+          "feedback": "Es un recurso estético literario, no una promoción publicitaria."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La naturaleza renacentista es una construcción mental (naturaleza artificiosa) que representa el orden y la armonía divina y humana.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué los poetas místicos utilizaban a menudo el lenguaje del amor terrenal y erótico para hablar de su relación con Dios?",
+      "context": "La literatura mística, con autores como San Juan de la Cruz y Santa Teresa de Jesús, busca expresar la unión del alma con Dios.\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque no conocían palabras religiosas para expresarse.",
+          "is_correct": false,
+          "feedback": "Eran personas profundamente cultas en teología."
+        },
+        {
+          "letter": "B",
+          "text": "Porque querían ocultar que sus poemas eran religiosos para evitar la censura.",
+          "is_correct": false,
+          "feedback": "Al contrario, su objetivo era compartir su experiencia de fe suprema."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el amor humano era la experiencia más intensa y comprensible para explicar la unión espiritual.",
+          "is_correct": true,
+          "feedback": "Utilizan la metáfora de la unión entre amantes para simbolizar la unión del alma con la divinidad."
+        },
+        {
+          "letter": "D",
+          "text": "Porque en el Renacimiento estaba prohibido escribir sobre temas puramente sagrados.",
+          "is_correct": false,
+          "feedback": "Los temas sagrados seguían siendo fundamentales, pero se renovaron estilísticamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La poesía mística utiliza la \"vía unitiva\" para describir un estado inefable (que no se puede explicar con palabras corrientes), recurriendo a los símbolos del Cantar de los Cantares.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v7",
+      "statement": "¿En qué sentido el \"Lazarillo de Tormes\" es una respuesta crítica a la idealización propia del Renacimiento (como los libros de caballería o pastores)?",
+      "context": "El \"Lazarillo de Tormes\" (1554) inauguró la novela picaresca, presentando un antihéroe que lucha por sobrevivir en un mundo hostil.\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al incluir personajes mágicos que ayudan al pícaro a ser rico.",
+          "is_correct": false,
+          "feedback": "La picaresca es realista y carece de elementos mágicos."
+        },
+        {
+          "letter": "B",
+          "text": "Al mostrar de forma cruda la pobreza, el hambre y la hipocresía social de la época.",
+          "is_correct": true,
+          "feedback": "Frente a los pastores ideales, Lázaro muestra la realidad marginal de España."
+        },
+        {
+          "letter": "C",
+          "text": "Al utilizar un lenguaje tan culto que nadie podía entender la historia.",
+          "is_correct": false,
+          "feedback": "El estilo es sencillo y llano, adecuado a la condición del protagonista."
+        },
+        {
+          "letter": "D",
+          "text": "Al defender que todos los mendigos son personas malvadas por naturaleza.",
+          "is_correct": false,
+          "feedback": "La obra critica más al sistema y a los amos que al propio Lázaro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La novela picaresca es el \"reverso\" del idealismo renacentista, aportando una visión realista y satírica de la sociedad que influirá profundamente en la literatura posterior.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v8",
+      "statement": "¿Cómo se refleja el ideal del \"Cortesano\" en la vida y obra de poetas como Garcilaso de la Vega?",
+      "context": "El concepto de \"Cortesano\" definido por Castiglione establecía que el hombre renacentista debía ser hábil tanto en las armas como en las letras.\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribiendo solo sobre guerras y rechazando la poesía amorosa.",
+          "is_correct": false,
+          "feedback": "El ideal es el equilibrio entre ambas facetas."
+        },
+        {
+          "letter": "B",
+          "text": "Viviendo encerrado en una biblioteca sin tener contacto con el mundo exterior.",
+          "is_correct": false,
+          "feedback": "Garcilaso fue un soldado activo que murió en combate."
+        },
+        {
+          "letter": "C",
+          "text": "Combinando su carrera militar con una profunda formación cultural y poética.",
+          "is_correct": true,
+          "feedback": "Encarna el equilibrio entre la acción (marte) y el pensamiento (minerva)."
+        },
+        {
+          "letter": "D",
+          "text": "Trabajando como campesino para entender la vida de los pastores de sus poemas.",
+          "is_correct": false,
+          "feedback": "Era un noble que seguía los códigos de la corte, no un campesino real."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El equilibrio renacentista busca el desarrollo integral del ser humano, donde la fuerza física y la sensibilidad artística no son excluyentes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v9",
+      "statement": "¿Qué tópico literario de origen clásico (Horacio) utiliza Fray Luis de León para defender la sencillez de la vida en la naturaleza?",
+      "context": "Fray Luis de León, en su oda \"A la vida retirada\", celebra la paz del campo frente al ruido y las ambiciones de la corte.\n**Expected_Success:** 0.52",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Memento mori",
+          "is_correct": false,
+          "feedback": "\"Recuerda que vas a morir\", más común en el Barroco."
+        },
+        {
+          "letter": "B",
+          "text": "Beatus ille",
+          "is_correct": true,
+          "feedback": "\"Dichoso aquel...\", que exalta la vida sencilla alejada de las preocupaciones urbanas."
+        },
+        {
+          "letter": "C",
+          "text": "Ubi sunt",
+          "is_correct": false,
+          "feedback": "\"¿Dónde están?\", pregunta sobre el destino de los que ya murieron."
+        },
+        {
+          "letter": "D",
+          "text": "Amor post mortem",
+          "is_correct": false,
+          "feedback": "\"Amor después de la muerte\", propio de la lírica amorosa extrema."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El \"Beatus ille\" conecta con la búsqueda humanista de la paz interior y la armonía espiritual a través del contacto con la creación.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.52,
+      "bundle_id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál fue el argumento principal de Nebrija para proponer la fijación de las reglas de la lengua castellana en ese momento histórico?",
+      "context": "Durante el Renacimiento, el español se consolidó como lengua literaria con la publicación de la primera \"Gramática de la lengua castellana\" de Nebrija (1492).\n**Expected_Success:** 0.45",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el latín había desaparecido por completo y ya nadie lo entendía.",
+          "is_correct": false,
+          "feedback": "El latín seguía siendo muy importante en la academia y la Iglesia."
+        },
+        {
+          "letter": "B",
+          "text": "Que el español era una lengua muy difícil y necesitaba simplificarse.",
+          "is_correct": false,
+          "feedback": "Su objetivo era la regularidad, no la simplificación por dificultad."
+        },
+        {
+          "letter": "C",
+          "text": "Que \"la lengua siempre fue compañera del Imperio\" y necesitaba ser unificada para la expansión.",
+          "is_correct": true,
+          "feedback": "La unificación lingüística era una herramienta de poder político y cultural."
+        },
+        {
+          "letter": "D",
+          "text": "Que quería prohibir el uso de cualquier otro dialecto en la Península.",
+          "is_correct": false,
+          "feedback": "Buscaba establecer una norma culta, no necesariamente la aniquilación violenta de otros."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La gramática de Nebrija es el primer tratado sobre una lengua romance, reflejando la autoconciencia y el prestigio que el castellano estaba adquiriendo frente al latín.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v11",
+      "statement": "¿Cómo cambió el espíritu del Renacimiento español desde el reinado de Carlos I (apertura) al de Felipe II (cerrazón y defensa de la fe)?",
+      "context": "La Reforma Protestante y la Contrarreforma Católica marcaron la segunda mitad del siglo XVI en España, influyendo en la literatura religiosa.\n**Expected_Success:** 0.40",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se volvió más alegre y centrado en la mitología griega.",
+          "is_correct": false,
+          "feedback": "Esto ocurrió más bien en la primera mitad del siglo."
+        },
+        {
+          "letter": "B",
+          "text": "Se volvió más introspectivo, religioso y austero, centrándose en temas espirituales y morales.",
+          "is_correct": true,
+          "feedback": "La influencia de la Contrarreforma hizo que la literatura se alejara de lo puramente pagano."
+        },
+        {
+          "letter": "C",
+          "text": "Dejó de escribirse poesía y solo se permitieron los tratados científicos.",
+          "is_correct": false,
+          "feedback": "La poesía siguió floreciendo, pero con un enfoque más espiritual (mística y ascética)."
+        },
+        {
+          "letter": "D",
+          "text": "Se permitió la libertad total de culto y de expresión en todas las artes.",
+          "is_correct": false,
+          "feedback": "Al contrario, la censura de la Inquisición se volvió más estricta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Renacimiento español tuvo una fase inicial vitalista e italianizante y una segunda fase (Prerrenacimiento o Manierismo) más grave y preocupada por la ortodoxia católica.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.4,
+      "bundle_id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v12",
+      "statement": "¿Qué objetivo estético buscaba la \"naturalidad\" renacentista frente al estilo recargado de la literatura medieval o del posterior Barroco?",
+      "context": "La \"naturalidad\" en el estilo era el ideal renacentista. Juan de Valdés decía: \"Escribo como hablo, solamente tengo cuidado de usar palabras que signifiquen bien lo que quiero decir\".\n**Expected_Success:** 0.38",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Demostrar que escribir es muy fácil y que cualquiera puede ser autor.",
+          "is_correct": false,
+          "feedback": "Se buscaba la elegancia, no la falta de esfuerzo."
+        },
+        {
+          "letter": "B",
+          "text": "Evitar el uso de cualquier metáfora o comparación para ser directos.",
+          "is_correct": false,
+          "feedback": "Se usaban metáforas, pero buscaban ser claras y armoniosas."
+        },
+        {
+          "letter": "C",
+          "text": "Lograr la elegancia mediante la sencillez, la claridad y el equilibrio, evitando la afectación exagerada.",
+          "is_correct": true,
+          "feedback": "La belleza renacentista reside en la armonía y la proporción, sin artificios innecesarios."
+        },
+        {
+          "letter": "D",
+          "text": "Escribir de forma descuidada para que el pueblo analfabeto pudiera entender.",
+          "is_correct": false,
+          "feedback": "Era un ideal para la literatura culta, buscando la perfección sin que se notara el artificio (Sprezzatura)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El ideal de claridad y sencillez del Renacimiento responde a la búsqueda de la verdad y la belleza eterna, sin las complicaciones retóricas de otras épocas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.38,
+      "bundle_id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

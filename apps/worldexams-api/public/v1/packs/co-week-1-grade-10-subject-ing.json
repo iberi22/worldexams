@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-1-grade-10-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.568Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-10-2026-W01-travel-experiences-001-MASTERY-v1",
+      "statement": "\"I ____ to Cartagena three times so far, but I ____ there last year for the first time.\"",
+      "context": "A conversation about visiting different cities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "went / have been",
+          "is_correct": false,
+          "feedback": "Incorrect. The first part refers to unspecified time (Present Perfect), the second to a specific past time (Past Simple)."
+        },
+        {
+          "letter": "B",
+          "text": "have been / went",
+          "is_correct": true,
+          "feedback": "Correct. 'Have been' covers the experience up to now, and 'went' specifies a finished time (last year)."
+        },
+        {
+          "letter": "C",
+          "text": "was / have gone",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Was' is Past Simple and 'have gone' implies they haven't returned yet."
+        },
+        {
+          "letter": "D",
+          "text": "have gone / was going",
+          "is_correct": false,
+          "feedback": "Incorrect. The second part requires Past Simple, not Past Continuous."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Present Perfect is used for experiences at an unspecified time in the past. Past Simple is used for actions completed at a specific time (e.g., last year).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-10-2026-W01-travel-experiences-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W01-travel-experiences-001-MASTERY-v2",
+      "statement": "\"My brother ____ from London. He ____ at El Dorado airport two hours ago.\"",
+      "context": "Discussing a recent flight.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has just arrived / landed",
+          "is_correct": true,
+          "feedback": "Correct. 'Has just arrived' shows recent completion; 'landed' is used with a specific time expression (two hours ago)."
+        },
+        {
+          "letter": "B",
+          "text": "just arrived / has landed",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Has landed' cannot be used with 'two hours ago'."
+        },
+        {
+          "letter": "C",
+          "text": "arrived / lands",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Lands' is Present Simple and doesn't fit the past context."
+        },
+        {
+          "letter": "D",
+          "text": "is arriving / landed",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Is arriving' implies current action, but the brother is already there."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Contrast between 'just' with Present Perfect and specific time markers with Past Simple.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.82,
+      "bundle_id": "CO-ING-10-2026-W01-travel-experiences-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W01-travel-experiences-001-MASTERY-v3",
+      "statement": "\"Since I started traveling, I ____ light. I ____ a heavy suitcase since 2015.\"",
+      "context": "Travel planning and luggage.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "always packed / didn't carry",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs Present Perfect for the duration since the start."
+        },
+        {
+          "letter": "B",
+          "text": "have always packed / haven't carried",
+          "is_correct": true,
+          "feedback": "Correct. Both parts describe a state/habit that started in the past and continues to the present."
+        },
+        {
+          "letter": "C",
+          "text": "pack / am not carrying",
+          "is_correct": false,
+          "feedback": "Incorrect. Does not show the connection between past and present."
+        },
+        {
+          "letter": "D",
+          "text": "have packed / didn't carry",
+          "is_correct": false,
+          "feedback": "Incorrect. The second part also needs Present Perfect because of 'since 2015'."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Use of Present Perfect with 'since' to describe states or habits that began in the past and continue now.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Part 2 - Lexical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-10-2026-W01-travel-experiences-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W01-travel-experiences-001-MASTERY-v4",
+      "statement": "\"We ____ through the jungle for three days when we finally ____ the local community.\"",
+      "context": "A blog post about a trip to the Amazon.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have trekked / reached",
+          "is_correct": false,
+          "feedback": "Incorrect. Present Perfect doesn't fit a sequence of completed past events well here."
+        },
+        {
+          "letter": "B",
+          "text": "had been trekking / reached",
+          "is_correct": true,
+          "feedback": "Correct. Past Perfect Continuous describes the ongoing action before a specific point in the past."
+        },
+        {
+          "letter": "C",
+          "text": "were trekking / have reached",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Have reached' is Present Perfect and doesn't fit the past narrative."
+        },
+        {
+          "letter": "D",
+          "text": "trekked / were reaching",
+          "is_correct": false,
+          "feedback": "Incorrect. The sequence of events is better described by B."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Grammatical complexity: Past Perfect Continuous vs Past Simple in a travel narrative.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-10-2026-W01-travel-experiences-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W01-travel-experiences-001-MASTERY-v5",
+      "statement": "\"I ____ this hotel many times before they ____ the prices last month.\"",
+      "context": "Booking a hotel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "visited / have increased",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Last month' requires Past Simple."
+        },
+        {
+          "letter": "B",
+          "text": "had visited / increased",
+          "is_correct": true,
+          "feedback": "Correct. Past Perfect shows the action happened before another action in the past (increased)."
+        },
+        {
+          "letter": "C",
+          "text": "have visited / increased",
+          "is_correct": false,
+          "feedback": "Incorrect. Using Present Perfect with a sequence of past events is less precise here."
+        },
+        {
+          "letter": "D",
+          "text": "visit / increased",
+          "is_correct": false,
+          "feedback": "Incorrect. Tense mismatch."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Past Perfect to show the order of two past events.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.72,
+      "bundle_id": "CO-ING-10-2026-W01-travel-experiences-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W01-travel-experiences-001-MASTERY-v6",
+      "statement": "\"The tour guide ____ that he ____ to the ruins several times before the incident.\"",
+      "context": "A review of a guided tour.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "says / has been",
+          "is_correct": false,
+          "feedback": "Incorrect. The reporting verb should be in the past for this context."
+        },
+        {
+          "letter": "B",
+          "text": "mentioned / had been",
+          "is_correct": true,
+          "feedback": "Correct. Reported speech/past narrative requiring Past Perfect for the earlier event."
+        },
+        {
+          "letter": "C",
+          "text": "mentioning / was",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically incomplete."
+        },
+        {
+          "letter": "D",
+          "text": "had mentioned / went",
+          "is_correct": false,
+          "feedback": "Incorrect. The order of events is reversed."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "B2 complexity: Reporting verbs and the use of the Past Perfect for backshifting or sequencing.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.68,
+      "bundle_id": "CO-ING-10-2026-W01-travel-experiences-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W01-travel-experiences-001-MASTERY-v7",
+      "statement": "\"Up until that moment, she ____ never ____ a passport, let alone ____ a plane.\"",
+      "context": "An interview with a world traveler.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has / seen / boarded",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Up until that moment' implies a past timeframe."
+        },
+        {
+          "letter": "B",
+          "text": "had / seen / boarded",
+          "is_correct": true,
+          "feedback": "Correct. Past Perfect is used to describe experiences (or lack thereof) up to a point in the past."
+        },
+        {
+          "letter": "C",
+          "text": "was / seeing / boarding",
+          "is_correct": false,
+          "feedback": "Incorrect. Past Continuous doesn't fit the 'never' experience context."
+        },
+        {
+          "letter": "D",
+          "text": "did / see / board",
+          "is_correct": false,
+          "feedback": "Incorrect. Past Simple is less precise for experiences before a past point."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Past Perfect for life experiences relative to a specific time in the past.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-10-2026-W01-travel-experiences-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W01-travel-experiences-001-MASTERY-v8",
+      "statement": "\"Since the 1990s, the government ____ to promote eco-tourism, though they ____ many hurdles early on.\"",
+      "context": "A text about the evolution of sustainable tourism in Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has worked / encountered",
+          "is_correct": true,
+          "feedback": "Correct. 'Since the 1990s' requires Present Perfect; 'early on' refers to a specific past period."
+        },
+        {
+          "letter": "B",
+          "text": "worked / have encountered",
+          "is_correct": false,
+          "feedback": "Incorrect. Tenses are swapped incorrectly."
+        },
+        {
+          "letter": "C",
+          "text": "is working / encountered",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Since' requires a perfect tense."
+        },
+        {
+          "letter": "D",
+          "text": "had worked / encountered",
+          "is_correct": false,
+          "feedback": "Incorrect. Past Perfect would imply they stopped working on it."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Contrast between long-term ongoing action (Present Perfect) and specific past challenges (Past Simple).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.62,
+      "bundle_id": "CO-ING-10-2026-W01-travel-experiences-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W01-travel-experiences-001-MASTERY-v9",
+      "statement": "\"By the time the new regulation was passed, the company ____ thousands of passengers ____ cheaper flights for over a decade.\"",
+      "context": "An essay on the impact of low-cost airlines.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "helped / offer",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs perfect tenses for the duration."
+        },
+        {
+          "letter": "B",
+          "text": "had helped / to access",
+          "is_correct": true,
+          "feedback": "Correct. 'Had helped' for the past-before-past and 'to access' as the infinitive complement."
+        },
+        {
+          "letter": "C",
+          "text": "has helped / accessing",
+          "is_correct": false,
+          "feedback": "Incorrect. Cannot use Present Perfect with 'was passed'."
+        },
+        {
+          "letter": "D",
+          "text": "was helping / access",
+          "is_correct": false,
+          "feedback": "Incorrect. Does not emphasize the duration and completion before the regulation."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Complexity: Past Perfect and infinitive complements in a formal context.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.58,
+      "bundle_id": "CO-ING-10-2026-W01-travel-experiences-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W01-travel-experiences-001-MASTERY-v10",
+      "statement": "\"Scarcely ____ we ____ our destination when we realized that our expectations ____ entirely based on old brochures.\"",
+      "context": "Discussion on the psychology of travel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "had / reached / were",
+          "is_correct": true,
+          "feedback": "Correct. Inversion with 'Scarcely' requires Past Perfect."
+        },
+        {
+          "letter": "B",
+          "text": "did / reach / had been",
+          "is_correct": false,
+          "feedback": "Incorrect. Inversion with 'Scarcely' usually takes Past Perfect."
+        },
+        {
+          "letter": "C",
+          "text": "have / reached / are",
+          "is_correct": false,
+          "feedback": "Incorrect. Tense mismatch for a past narrative."
+        },
+        {
+          "letter": "D",
+          "text": "were / reaching / been",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Advanced B2 structure: Inversion with negative/restrictive adverbials (Scarcely/Hardly... when).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.52,
+      "bundle_id": "CO-ING-10-2026-W01-travel-experiences-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W01-travel-experiences-001-MASTERY-v11",
+      "statement": "\"The director ____ his previous failures ____ him more cautious when filming in remote areas last year.\"",
+      "context": "A critique of a travel documentary.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "admits / had made",
+          "is_correct": false,
+          "feedback": "Incorrect. The first verb should be in the past for the context."
+        },
+        {
+          "letter": "B",
+          "text": "admitted / have made",
+          "is_correct": false,
+          "feedback": "Incorrect. Tense backshifting required."
+        },
+        {
+          "letter": "C",
+          "text": "admitted / had made",
+          "is_correct": true,
+          "feedback": "Correct. Both actions are in the past, but the failures happened before the caution."
+        },
+        {
+          "letter": "D",
+          "text": "has admitted / made",
+          "is_correct": false,
+          "feedback": "Incorrect. Less precise for the narrative of last year."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Use of Past Perfect to show causality and sequence in a formal report.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.48,
+      "bundle_id": "CO-ING-10-2026-W01-travel-experiences-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W01-travel-experiences-001-MASTERY-v12",
+      "statement": "\"It is highly probable that he ____ the project earlier had he ____ the necessary funding from the NGO.\"",
+      "context": "Speculating about a traveler's past motivations.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "would start / receive",
+          "is_correct": false,
+          "feedback": "Incorrect. Third conditional structure missing."
+        },
+        {
+          "letter": "B",
+          "text": "would have started / received",
+          "is_correct": true,
+          "feedback": "Correct. Standard Third Conditional with 'had he received' (inversion)."
+        },
+        {
+          "letter": "C",
+          "text": "will start / had received",
+          "is_correct": false,
+          "feedback": "Incorrect. Mixed conditional that doesn't fit the past speculation."
+        },
+        {
+          "letter": "D",
+          "text": "started / would receive",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically incorrect for this context."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Mastery level: Third Conditional with inversion (had he received), representing advanced hypothetical thinking about past experiences.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-10-2026-W01-travel-experiences-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

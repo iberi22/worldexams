@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-7-grade-9-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.937Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle-v1",
+      "statement": "The new superhero movie ________ in several locations across Colombia last year.",
+      "context": "Describing a movie production.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "filmed",
+          "is_correct": false,
+          "feedback": "Incorrect. This would mean the movie did the filming. We need the passive form."
+        },
+        {
+          "letter": "B",
+          "text": "was filmed",
+          "is_correct": true,
+          "feedback": "Correct! Past Simple Passive (was/were + past participle) for a finished action."
+        },
+        {
+          "letter": "C",
+          "text": "is filmed",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to a current or regular action."
+        },
+        {
+          "letter": "D",
+          "text": "has been filmed",
+          "is_correct": false,
+          "feedback": "Incorrect. This would be used if the specific time wasn't mentioned."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la voz pasiva en el pasado (*was filmed*) cuando queremos resaltar qué se filmó en lugar de quién lo filmó, especialmente si mencionamos un tiempo específico como *last year*.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle-v2",
+      "statement": "Millions of songs ________ every day on streaming platforms around the world.",
+      "context": "Talking about a famous artist's impact.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "played",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice in the past."
+        },
+        {
+          "letter": "B",
+          "text": "are playing",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice in the continuous."
+        },
+        {
+          "letter": "C",
+          "text": "are played",
+          "is_correct": true,
+          "feedback": "Correct! Present Simple Passive (am/is/are + past participle) for regular actions."
+        },
+        {
+          "letter": "D",
+          "text": "were played",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to the past."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para hablar de acciones habituales o hechos generales en voz pasiva, utilizamos el Presente Simple del verbo *to be* más el participio pasado del verbo principal.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle-v3",
+      "statement": "The way we see content on social media ________ by complex algorithms recently.",
+      "context": "Discussing recent changes in social media algorithms.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has changed",
+          "is_correct": false,
+          "feedback": "Incorrect. This is active voice; we need the passive."
+        },
+        {
+          "letter": "B",
+          "text": "has been changed",
+          "is_correct": true,
+          "feedback": "Correct! Present Perfect Passive for an action that has happened recently."
+        },
+        {
+          "letter": "C",
+          "text": "was changed",
+          "is_correct": false,
+          "feedback": "Incorrect. Less suitable for \"recently\" than the Present Perfect."
+        },
+        {
+          "letter": "D",
+          "text": "is being changed",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to an action in progress right now."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La voz pasiva en el Presente Perfecto (*has been changed*) se utiliza para acciones que han ocurrido en un tiempo no determinado pero reciente, afectando el estado presente.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle-v4",
+      "statement": "The concert ________ because of the heavy rain in Bogotá last night.",
+      "context": "Explaining why a concert was delayed.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "cancelled",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "was cancelled",
+          "is_correct": true,
+          "feedback": "Correct! Past Simple Passive."
+        },
+        {
+          "letter": "C",
+          "text": "is cancelled",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "D",
+          "text": "has been cancelled",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Last night\" specifies a finished past time."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando el agente de la acción (quien canceló el concierto) no es lo más importante, usamos la voz pasiva para enfocarnos en el evento afectado.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle-v5",
+      "statement": "The winners of the music awards ________ next Sunday during a live broadcast.",
+      "context": "Describing a future media event.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will announce",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "will be announced",
+          "is_correct": true,
+          "feedback": "Correct! Future Simple Passive (will be + past participle)."
+        },
+        {
+          "letter": "C",
+          "text": "are going to announce",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "D",
+          "text": "will being announced",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically incorrect form."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para eventos futuros donde el foco es lo que sucederá, usamos la pasiva con *will be* seguida del participio pasado.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle-v6",
+      "statement": "Before the rise of the internet, news ________ primarily through printed newspapers.",
+      "context": "Discussing the history of newspapers.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was delivered",
+          "is_correct": true,
+          "feedback": "Correct! Past Simple Passive for a past regular situation."
+        },
+        {
+          "letter": "B",
+          "text": "has been delivered",
+          "is_correct": false,
+          "feedback": "Incorrect. Present Perfect doesn't fit the \"before the internet\" context."
+        },
+        {
+          "letter": "C",
+          "text": "were delivered",
+          "is_correct": false,
+          "feedback": "Incorrect. \"News\" is an uncountable noun in English and takes a singular verb."
+        },
+        {
+          "letter": "D",
+          "text": "is delivered",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Es fundamental recordar que la palabra *news* es incontable y siempre va con el verbo en singular (*was*), incluso en voz pasiva.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle-v7",
+      "statement": "Shhh! A new episode of your favorite series ________ in the next room right now.",
+      "context": "Identifying an ongoing passive action.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is recorded",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to a habit."
+        },
+        {
+          "letter": "B",
+          "text": "is being recorded",
+          "is_correct": true,
+          "feedback": "Correct! Present Continuous Passive (is/are being + past participle) for actions in progress."
+        },
+        {
+          "letter": "C",
+          "text": "was being recorded",
+          "is_correct": false,
+          "feedback": "Incorrect. Past continuous."
+        },
+        {
+          "letter": "D",
+          "text": "has been recorded",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para acciones que están ocurriendo en este preciso momento en voz pasiva, añadimos la palabra *being* entre el verbo *to be* y el participio pasado.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle-v8",
+      "statement": "Which sentence is the most natural to use in a formal movie review?",
+      "context": "Understanding the use of \"by\" to indicate the agent.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "People directed the movie in 1994.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"People\" is too vague as a subject."
+        },
+        {
+          "letter": "B",
+          "text": "The movie was directed by Steven Spielberg in 1994.",
+          "is_correct": true,
+          "feedback": "Correct! Formal style often uses passive with \"by\" for the creator."
+        },
+        {
+          "letter": "C",
+          "text": "Steven Spielberg directed the movie in 1994.",
+          "is_correct": false,
+          "feedback": "Incorrect. While correct, B is often preferred in reviews to highlight the movie first."
+        },
+        {
+          "letter": "D",
+          "text": "The movie directed Steven Spielberg in 1994.",
+          "is_correct": false,
+          "feedback": "Incorrect. Logically impossible."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En críticas formales de arte o cine, es común usar la voz pasiva para poner la obra como sujeto, mencionando al autor con la preposición *by*.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle-v9",
+      "statement": "Sensitive personal data ________ on social media to avoid identity theft.",
+      "context": "Passive with modal verbs.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "shouldn't share",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "shouldn't be shared",
+          "is_correct": true,
+          "feedback": "Correct! Passive with modal verbs (modal + be + past participle)."
+        },
+        {
+          "letter": "C",
+          "text": "shouldn't being shared",
+          "is_correct": false,
+          "feedback": "Incorrect. Grammatically incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "shouldn't shared",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing \"be\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al usar verbos modales en pasiva, la estructura es: *modal + be + participio pasado*. Esto es muy útil para dar consejos o reglas generales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle-v10",
+      "statement": "Identify the error in this paragraph:\n\"The script **was written** (A) by a young author. Later, it **was being sent** (B) to the producers, who loved it. Now, the film **is being produced** (C) in Hollywood and it **will be released** (D) next year.\"",
+      "context": "Finding an error in a technical text about media.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was written",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use of Past Simple Passive."
+        },
+        {
+          "letter": "B",
+          "text": "was being sent",
+          "is_correct": true,
+          "feedback": "Incorrect. This implies a continuous action in the past; it should be Past Simple Passive (*was sent*) for a single completed action."
+        },
+        {
+          "letter": "C",
+          "text": "is being produced",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use of Present Continuous Passive."
+        },
+        {
+          "letter": "D",
+          "text": "will be released",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use of Future Simple Passive."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A nivel B2, el estudiante debe distinguir entre un proceso continuo en el pasado (*was being sent*) y un evento puntual (*was sent*). Enviar un guion es habitualmente una acción puntual.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle-v11",
+      "statement": "Which headline is more appropriate for a serious news report about a cybersecurity breach?",
+      "context": "Choosing between active and passive for impact.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Someone stole the passwords of 5,000 users!",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Someone\" is too informal and vague for news."
+        },
+        {
+          "letter": "B",
+          "text": "Passwords of 5,000 users have been stolen in a cyberattack.",
+          "is_correct": true,
+          "feedback": "Correct! Passive voice focuses on the victims and the serious event."
+        },
+        {
+          "letter": "C",
+          "text": "A hacker was stealing passwords yesterday.",
+          "is_correct": false,
+          "feedback": "Incorrect. Focuses on the hacker, which might be unknown."
+        },
+        {
+          "letter": "D",
+          "text": "5,000 users lost their passwords.",
+          "is_correct": false,
+          "feedback": "Incorrect. This makes the users the actors, which is not the case."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el periodismo, la voz pasiva es fundamental para reportar hechos donde el perpetrador es desconocido o donde el impacto en las víctimas es lo más relevante.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle-v12",
+      "statement": "Complete the sentence:\n\"In the past, information ________ by a few, but today, content ________ by everyone.\"",
+      "context": "Summarizing the evolution of media.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was controlled / created",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice in the second part."
+        },
+        {
+          "letter": "B",
+          "text": "was controlled / is being created",
+          "is_correct": true,
+          "feedback": "Correct! Passive voice in both parts, reflecting the shift in power."
+        },
+        {
+          "letter": "C",
+          "text": "is controlled / was created",
+          "is_correct": false,
+          "feedback": "Incorrect. Tenses are inverted."
+        },
+        {
+          "letter": "D",
+          "text": "has been controlled / is created",
+          "is_correct": false,
+          "feedback": "Incorrect. First part refers to a finished past era."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este ejercicio requiere evaluar el cambio histórico en los medios: de un control centralizado en el pasado (*was controlled*) a una creación masiva y actual (*is being created*).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-9-2026-W07-entertainment-and-media-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

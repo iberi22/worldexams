@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-22-grade-7-subject-lengua",
+    "generated_at": "2026-06-18T23:58:37.548Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la **refutación** en el ámbito de la argumentación?",
+      "context": "En un debate o texto argumentativo, no solo es importante defender la propia idea, sino también saber responder a las ideas contrarias.\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es el proceso de darle la razón al oponente para terminar rápido el debate.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Darle la razón es conceder, no refutar."
+        },
+        {
+          "letter": "B",
+          "text": "Es el acto de contradecir o demostrar la invalidez de los argumentos de la otra parte mediante razones y pruebas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Refutar consiste en \"desarmar\" el argumento contrario mostrando sus fallas."
+        },
+        {
+          "letter": "C",
+          "text": "Es insultar a la persona que tiene una opinión diferente a la nuestra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Atacar a la persona es una falacia (ad hominem), no es una refutación válida."
+        },
+        {
+          "letter": "D",
+          "text": "Es repetir la propia tesis muchas veces hasta que el otro se canse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La repetición no invalida los argumentos ajenos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Refutar requiere escuchar atentamente al otro, identificar los puntos débiles de su razonamiento y presentar evidencias que demuestren por qué su conclusión es errónea o incompleta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el orden lógico más común para refutar una idea en un texto escrito?",
+      "context": "Un contraargumento es la idea que se opone a nuestra tesis. La refutación es la respuesta que damos a ese contraargumento.\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar el argumento contrario, señalar su error y proponer la idea correcta con pruebas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Esta estructura permite que el lector entienda qué se está rebatiendo y por qué."
+        },
+        {
+          "letter": "B",
+          "text": "Empezar directamente con las pruebas sin mencionar qué es lo que se quiere negar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si no mencionas qué refutas, el lector puede confundirse y no entender el propósito de tus pruebas."
+        },
+        {
+          "letter": "C",
+          "text": "Decir que el otro está equivocado y luego cambiar de tema rápidamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto no es una refutación, es una evasión."
+        },
+        {
+          "letter": "D",
+          "text": "Escribir un párrafo insultando al autor de la idea contraria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los insultos anulan la calidad académica y lógica de cualquier texto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La claridad es fundamental. Reconocer honestamente lo que dice el otro antes de atacarlo demuestra seguridad y dominio del tema por parte del autor.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle-v3",
+      "statement": "Si alguien afirma: \"En Colombia casi no se lee porque no hay bibliotecas públicas\", ¿cuál de las siguientes sería una **refutación basada en datos**?",
+      "context": "Refutar con datos consiste en usar cifras objetivas para desmentir una afirmación falsa o imprecisa.\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eso es mentira, yo conozco a mucha gente que lee libros en su casa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es un argumento de experiencia personal, no son datos globales."
+        },
+        {
+          "letter": "B",
+          "text": "Es un error, según el Ministerio de Cultura existen más de 1.500 bibliotecas en la Red Nacional de Bibliotecas Públicas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Utiliza una cifra oficial de una institución de autoridad para desmentir la premisa del oponente."
+        },
+        {
+          "letter": "C",
+          "text": "Yo creo que se lee poco por culpa de la televisión y el internet.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una opinión sobre las causas, pero no refuta directamente la existencia de bibliotecas."
+        },
+        {
+          "letter": "D",
+          "text": "Las bibliotecas son lugares muy bonitos y silenciosos que todos deberíamos visitar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una valoración positiva, pero no responde al argumento inicial sobre la escasez de las mismas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los datos son el \"arma\" más contundente en una refutación porque desplazan la discusión del terreno de las opiniones al terreno de los hechos comprobables.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de los siguientes conectores es el más adecuado para iniciar un párrafo de refutación después de haber expuesto la idea del oponente?",
+      "context": "Los conectores de oposición (sin embargo, no obstante, por el contrario) son esenciales para introducir la refutación.\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Además.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usa para sumar ideas, no para oponerse."
+        },
+        {
+          "letter": "B",
+          "text": "En consecuencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usa para mostrar resultados, no contradicciones."
+        },
+        {
+          "letter": "C",
+          "text": "Pese a lo anterior.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Indica que, aunque se reconoce lo dicho antes, se va a presentar una idea que lo contradice o limita."
+        },
+        {
+          "letter": "D",
+          "text": "Por ejemplo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usa para ilustrar una idea, no para negarla."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los conectores lógicos actúan como señales de tránsito para el lector. \"Pese a lo anterior\" o \"Por el contrario\" preparan el terreno para la contraargumentación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle-v5",
+      "statement": "Si un compañero dice: \"Deberían prohibir todos los exámenes porque los estudiantes se ponen nerviosos\", ¿qué respuesta aplica la técnica de **reducción al absurdo**?",
+      "context": "La refutación por \"reducción al absurdo\" consiste en llevar el argumento del otro a sus consecuencias extremas para mostrar que no tiene sentido.\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No estoy de acuerdo porque los exámenes son necesarios para calificar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una opinión directa, pero no usa la técnica solicitada."
+        },
+        {
+          "letter": "B",
+          "text": "Siguiendo esa lógica, deberíamos prohibir también los deportes, las exposiciones y hasta hablar en clase, pues todo eso también causa nervios.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Lleva la premisa de \"prohibir lo que causa nervios\" a un extremo ridículo para demostrar que la idea inicial es exagerada."
+        },
+        {
+          "letter": "C",
+          "text": "A mí los exámenes no me dan nervios porque yo estudio mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una experiencia personal que no invalida la regla general propuesta por el otro."
+        },
+        {
+          "letter": "D",
+          "text": "El profesor de psicología dice que un poco de nervios es bueno para la memoria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un argumento de autoridad, no una reducción al absurdo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La reducción al absurdo es una herramienta lógica muy potente en los debates porque muestra que el razonamiento del oponente carece de límites coherentes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle-v6",
+      "statement": "Un turista dice: \"En este pueblo de Boyacá todas las personas son artesanas\". ¿Cuál es la refutación más lógica basada en un **contraejemplo**?",
+      "context": "Refutar una generalización apresurada consiste en encontrar un \"contraejemplo\" que rompa la regla propuesta.\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, es cierto que aquí se hacen unas artesanías muy hermosas de barro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto confirma la generalización, no la refuta."
+        },
+        {
+          "letter": "B",
+          "text": "No es así; por ejemplo, mi primo vive allí y es médico, y mi vecina es profesora de matemáticas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Mostrar casos que no cumplen la regla (\"todos son...\") destruye la validez de la afirmación universal."
+        },
+        {
+          "letter": "C",
+          "text": "A mí me parece que la mayoría de la gente trabaja en el campo sembrando cebolla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Me parece\" es una impresión subjetiva que no es tan contundente como un contraejemplo específico."
+        },
+        {
+          "letter": "D",
+          "text": "Es imposible que todos sean artesanos porque entonces quién compraría la comida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es un razonamiento teórico, pero no presenta un contraejemplo real y directo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Basta con encontrar un solo caso que no cumpla la regla de \"todos\" o \"ninguno\" para que la generalización del oponente sea considerada falsa o errónea.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle-v7",
+      "statement": "Lee este intercambio:\nPersona A: \"Este libro de historia es muy malo porque tiene la portada de un color feo\".\nPersona B: \"El color de la portada no afecta la calidad de la información histórica que contiene el texto\".\n\n¿Qué está refutando la Persona B?",
+      "context": "A veces la refutación no niega el hecho, sino la interpretación o importancia que el otro le da a ese hecho.\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Está refutando que el color de la portada sea feo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No discute sobre estética o gustos de colores."
+        },
+        {
+          "letter": "B",
+          "text": "Está refutando la relevancia del argumento (dice que la razón dada no tiene que ver con el tema central: la calidad del libro).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Señala que el oponente está usando un criterio que no es válido para juzgar el contenido."
+        },
+        {
+          "letter": "C",
+          "text": "Está refutando que el libro sea de historia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos aceptan que es un libro de historia."
+        },
+        {
+          "letter": "D",
+          "text": "Está refutando la autoridad de la Persona A para hablar de libros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No ataca a la persona, sino a la falta de lógica en su argumento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Refutar la relevancia es fundamental en los debates académicos para evitar que la discusión se desvíe hacia detalles insignificantes o superficiales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle-v8",
+      "statement": "Refuta la siguiente falacia ad hominem (ataque a la persona): \"No debemos escuchar las propuestas del alcalde sobre el medio ambiente porque él no terminó su carrera universitaria\".",
+      "context": "Las falacias son argumentos falsos que deben ser identificados y refutados con cuidado.\n**Expected_Success:** 0.50",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tienes razón, alguien sin título no puede saber nada de naturaleza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es aceptar la falacia, no refutarla."
+        },
+        {
+          "letter": "B",
+          "text": "El alcalde es una persona muy buena y siempre ayuda a los pobres del pueblo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es un argumento afectivo que no responde al punto sobre la validez de las propuestas."
+        },
+        {
+          "letter": "C",
+          "text": "El nivel de estudios de una persona no invalida la calidad técnica de las propuestas, las cuales deben evaluarse por su contenido y no por quién las dice.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Separa la persona de la idea, que es la forma correcta de destruir un ataque ad hominem."
+        },
+        {
+          "letter": "D",
+          "text": "El alcalde sí terminó su carrera, yo vi cuando le entregaron el diploma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque puede ser cierto, esta respuesta cae en el juego de discutir sobre la persona y no sobre la validez de la falacia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La refutación de una falacia debe señalar el error en el razonamiento. En este caso, el error es creer que el origen de una idea determina su verdad o utilidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál de las siguientes refutaciones es la más ética y efectiva para un texto académico?",
+      "context": "En ensayos argumentativos de alto nivel, la refutación debe ser elegante y respetar el principio de caridad (no deformar la idea del otro).\n**Expected_Success:** 0.45",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los que dicen que la tecnología aleja a las personas son unos ignorantes que no saben usar internet.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usa el insulto y el ataque personal."
+        },
+        {
+          "letter": "B",
+          "text": "Es ridículo pensar que el deporte es malo; quien diga eso no tiene sentido común.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Descalifica al oponente sin dar razones de peso."
+        },
+        {
+          "letter": "C",
+          "text": "Aunque es cierto que el uso excesivo de pantallas puede limitar el contacto físico, diversos estudios demuestran que las redes sociales permiten mantener vínculos con familiares que viven lejos.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Reconoce la parte de verdad del oponente (concesión) pero presenta un beneficio superior o diferente con evidencia."
+        },
+        {
+          "letter": "D",
+          "text": "No voy a responder a ese argumento porque es tan tonto que no merece mi tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El silencio o la soberbia no son formas de refutación en un ensayo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una refutación fuerte no necesita ser agresiva. La cortesía intelectual y la presentación de pruebas objetivas son mucho más convincentes que el tono autoritario.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle-v10",
+      "statement": "Analiza este argumento a favor de la comida chatarra: \"Debemos comer hamburguesas todos los días porque son baratas y nos ahorran tiempo de cocina\". ¿Cuál es el punto más débil que debe ser atacado en una refutación de salud?",
+      "context": "Identificar la debilidad de un argumento es el primer paso para una refutación exitosa.\n**Expected_Success:** 0.40",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que no siempre son baratas, a veces son muy caras en centros comerciales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es un punto económico secundario, no el más grave."
+        },
+        {
+          "letter": "B",
+          "text": "Que cocinar en casa también puede ser rápido si uno se organiza bien.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Responde al punto del tiempo, pero no al impacto vital del argumento."
+        },
+        {
+          "letter": "C",
+          "text": "Que el ahorro de dinero y tiempo a corto plazo no compensa los graves daños a la salud y los costos médicos futuros por enfermedades como la obesidad.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ataca la jerarquía de valores del oponente, poniendo la vida y la salud por encima de la comodidad temporal."
+        },
+        {
+          "letter": "D",
+          "text": "Que a mucha gente no le gustan las hamburguesas y prefiere la pizza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los gustos personales no sirven para refutar la lógica interna de un argumento general."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una refutación profunda no solo busca errores en los datos, sino que cuestiona los valores en los que se apoya el argumento contrario, proponiendo una visión más integral del problema.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.4,
+      "bundle_id": "CO-LEN-7-2026-W22-refutacion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

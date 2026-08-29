@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "ec",
+    "pack_id": "ec-week-8-grade-11-subject-lengua",
+    "generated_at": "2026-08-04T00:45:03.462Z"
+  },
+  "questions": [
+    {
+      "id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle-v1",
+      "statement": "En Ibarra, Elena lee un cuento folclórico ecuatoriano sobre la 'Viuda del Tamarindo'. En el relato, un hombre camina por las calles empedradas de noche, se encuentra con una misteriosa y bella mujer y al intentar abrazarla bajo el tamarindo, ella se convierte en un esqueleto. ¿Qué parte de la estructura narrativa representa el encuentro y la transformación?",
+      "context": "Elena, estudiante de 11° de Bachillerato en el Colegio Nacional Vicente Rocafuerte de Ibarra, explora la estructura del cuento popular ecuatoriano y las variaciones temporales del relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El nudo de la narración, porque plantea el quiebre de la normalidad y el clímax del conflicto místico en Ibarra.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "B",
+          "text": "El inicio o planteamiento, donde se describen la geografía y los hábitos de Ibarra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "El desenlace definitivo, donde el hombre regresa a su caleta de Ibarra a descansar en paz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Un recurso de retroalimentación metalingüística del Colegio Nacional Vicente Rocafuerte que define el tamarindo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El nudo o desarrollo es el momento central de la narración donde se presenta el conflicto o la transformación sobrenatural que rompe la calma inicial del personaje.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle-v2",
+      "statement": "Considere el inicio de una historia ambientada en Portoviejo: 'Yo no sabía lo que me esperaba aquella fría mañana en el Colegio Benigno Malo, pero mi abuelo me lo había advertido con su habitual voz ronca'. ¿Qué tipo de narrador se presenta en este relato?",
+      "context": "Diana, estudiante de 11° de Bachillerato en el Colegio Benigno Malo de Portoviejo, explora la estructura del cuento popular ecuatoriano y las variaciones temporales del relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrador en segunda persona, enfocado en ordenar los actos del lector en Portoviejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Narrador protagonista o en primera persona, ya que participa de forma directa en Portoviejo y relata desde su subjetividad.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Narrador omnisciente, puesto que conoce el destino de todos los habitantes de Portoviejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Narrador testigo de Colegio Benigno Malo, que observa los acontecimientos sin formar parte de la trama.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al utilizar la primera persona gramatical ('Yo no sabía', 'mi abuelo'), el narrador revela que es el protagonista directo de los hechos relatados.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle-v3",
+      "statement": "En Machala, Carlos analiza la estructura temporal de un cuento que comienza por el desenlace del crimen y luego retrocede en el tiempo para explicar los motivos del sospechoso. ¿Cómo se denomina técnicamente este quiebre temporal?",
+      "context": "Carlos, estudiante de 11° de Bachillerato en el Colegio Nacional Bolívar de Machala, explora la estructura del cuento popular ecuatoriano y las variaciones temporales del relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anacronía o analepsis (retrospección), que rompe la secuencia cronológica lineal de la trama en Machala.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "B",
+          "text": "Sintaxis lineal y progresiva de carácter renacentista en Colegio Nacional Bolívar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Un pleonasmo temporal que repite la misma fecha exacta en Machala.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Un canal de transmisión de caracteres históricos verbales en Machala.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La analepsis (flashback en cine) es una alteración temporal de la narrativa que consiste en trasladar la acción al pasado.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.86,
+      "bundle_id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle-v4",
+      "statement": "Durante el análisis de la novela ecuatoriana 'Las Cruces sobre el Agua' de Joaquín Gallegos Lara en Esmeraldas, se discute el espacio físico de Guayaquil en el año 1922. ¿Qué función cumple este escenario de época en la obra?",
+      "context": "Rafael, estudiante de 11° de Bachillerato en el Unidad Educativa Santo Domingo de Esmeraldas, explora la estructura del cuento popular ecuatoriano y las variaciones temporales del relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sustituye a los personajes ficticios por un plano urbanístico de Esmeraldas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Sirve de pretexto para enseñar ingeniería civil en el Unidad Educativa Santo Domingo de Esmeraldas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Carece de valor en Esmeraldas, ya que los acontecimientos pudieron ocurrir en cualquier planeta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Establece el marco de verosimilitud social e histórica donde se desenvuelve la tragedia de la clase obrera en Guayaquil y Esmeraldas.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El espacio geográfico y social dota de realismo y verosimilitud a la trama, permitiendo al autor de la obra denunciar los abusos reales de la época.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle-v5",
+      "statement": "En un cuento escrito por un alumno de Colegio Nacional Manta de Santo Domingo, el personaje principal debe tomar una decisión crucial: traicionar a su mejor amigo de la infancia o perder su empleo en el banco local de la provincia.",
+      "context": "Andrés, estudiante de 11° de Bachillerato en el Colegio Nacional Manta de Santo Domingo, explora la estructura del cuento popular ecuatoriano y las variaciones temporales del relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La biografía del autor de carácter comercial cerca de Colegio Nacional Manta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "El código dialectal empleado para describir la fauna en Santo Domingo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "El conflicto interno del personaje, que impulsa la acción dramática y el desarrollo moral de la historia en Santo Domingo.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "El inicio descriptivo del clima frío en la provincia de Santo Domingo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El conflicto (en este caso, moral e interno) es el motor que genera tensión dramática y moviliza la conducta de los personajes de una narración.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle-v6",
+      "statement": "En Quito, Estefanía lee un cuento folclórico ecuatoriano sobre la 'Viuda del Tamarindo'. En el relato, un hombre camina por las calles empedradas de noche, se encuentra con una misteriosa y bella mujer y al intentar abrazarla bajo el tamarindo, ella se convierte en un esqueleto. ¿Qué parte de la estructura narrativa representa el encuentro y la transformación?",
+      "context": "Estefanía, estudiante de 11° de Bachillerato en el Colegio Nacional Bernardo Valdivieso de Quito, explora la estructura del cuento popular ecuatoriano y las variaciones temporales del relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un recurso de retroalimentación metalingüística del Colegio Nacional Bernardo Valdivieso que define el tamarindo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "El nudo de la narración, porque plantea el quiebre de la normalidad y el clímax del conflicto místico en Quito.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "El inicio o planteamiento, donde se describen la geografía y los hábitos de Quito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "El desenlace definitivo, donde el hombre regresa a su caleta de Quito a descansar en paz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El nudo o desarrollo es el momento central de la narración donde se presenta el conflicto o la transformación sobrenatural que rompe la calma inicial del personaje.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle-v7",
+      "statement": "Considere el inicio de una historia ambientada en Guayaquil: 'Yo no sabía lo que me esperaba aquella fría mañana en el Colegio Nacional Nueve de Octubre, pero mi abuelo me lo había advertido con su habitual voz ronca'. ¿Qué tipo de narrador se presenta en este relato?",
+      "context": "Ana, estudiante de 11° de Bachillerato en el Colegio Nacional Nueve de Octubre de Guayaquil, explora la estructura del cuento popular ecuatoriano y las variaciones temporales del relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrador testigo de Colegio Nacional Nueve de Octubre, que observa los acontecimientos sin formar parte de la trama.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Narrador en segunda persona, enfocado en ordenar los actos del lector en Guayaquil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Narrador protagonista o en primera persona, ya que participa de forma directa en Guayaquil y relata desde su subjetividad.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "Narrador omnisciente, puesto que conoce el destino de todos los habitantes de Guayaquil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Al utilizar la primera persona gramatical ('Yo no sabía', 'mi abuelo'), el narrador revela que es el protagonista directo de los hechos relatados.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle-v8",
+      "statement": "En Cuenca, Luis analiza la estructura temporal de un cuento que comienza por el desenlace del crimen y luego retrocede en el tiempo para explicar los motivos del sospechoso. ¿Cómo se denomina técnicamente este quiebre temporal?",
+      "context": "Luis, estudiante de 11° de Bachillerato en el Colegio Nacional Maldonado de Cuenca, explora la estructura del cuento popular ecuatoriano y las variaciones temporales del relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un canal de transmisión de caracteres históricos verbales en Cuenca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Anacronía o analepsis (retrospección), que rompe la secuencia cronológica lineal de la trama en Cuenca.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Sintaxis lineal y progresiva de carácter renacentista en Colegio Nacional Maldonado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Un pleonasmo temporal que repite la misma fecha exacta en Cuenca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La analepsis (flashback en cine) es una alteración temporal de la narrativa que consiste en trasladar la acción al pasado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.76,
+      "bundle_id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle-v9",
+      "statement": "Durante el análisis de la novela ecuatoriana 'Las Cruces sobre el Agua' de Joaquín Gallegos Lara en Ambato, se discute el espacio físico de Guayaquil en el año 1922. ¿Qué función cumple este escenario de época en la obra?",
+      "context": "Patricia, estudiante de 11° de Bachillerato en el Colegio Nacional Olmedo de Ambato, explora la estructura del cuento popular ecuatoriano y las variaciones temporales del relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sustituye a los personajes ficticios por un plano urbanístico de Ambato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Sirve de pretexto para enseñar ingeniería civil en el Colegio Nacional Olmedo de Ambato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Carece de valor en Ambato, ya que los acontecimientos pudieron ocurrir en cualquier planeta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Establece el marco de verosimilitud social e histórica donde se desenvuelve la tragedia de la clase obrera en Guayaquil y Ambato.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El espacio geográfico y social dota de realismo y verosimilitud a la trama, permitiendo al autor de la obra denunciar los abusos reales de la época.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle-v10",
+      "statement": "En un cuento escrito por un alumno de Colegio Nacional Mejía de Manta, el personaje principal debe tomar una decisión crucial: traicionar a su mejor amigo de la infancia o perder su empleo en el banco local de la provincia.",
+      "context": "Fernando, estudiante de 11° de Bachillerato en el Colegio Nacional Mejía de Manta, explora la estructura del cuento popular ecuatoriano y las variaciones temporales del relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La biografía del autor de carácter comercial cerca de Colegio Nacional Mejía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "El código dialectal empleado para describir la fauna en Manta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "El conflicto interno del personaje, que impulsa la acción dramática y el desarrollo moral de la historia en Manta.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "El inicio descriptivo del clima frío en la provincia de Manta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El conflicto (en este caso, moral e interno) es el motor que genera tensión dramática y moviliza la conducta de los personajes de una narración.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle-v11",
+      "statement": "En Loja, María lee un cuento folclórico ecuatoriano sobre la 'Viuda del Tamarindo'. En el relato, un hombre camina por las calles empedradas de noche, se encuentra con una misteriosa y bella mujer y al intentar abrazarla bajo el tamarindo, ella se convierte en un esqueleto. ¿Qué parte de la estructura narrativa representa el encuentro y la transformación?",
+      "context": "María, estudiante de 11° de Bachillerato en el Colegio Nacional Vicente Rocafuerte de Loja, explora la estructura del cuento popular ecuatoriano y las variaciones temporales del relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El desenlace definitivo, donde el hombre regresa a su caleta de Loja a descansar en paz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Un recurso de retroalimentación metalingüística del Colegio Nacional Vicente Rocafuerte que define el tamarindo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "El nudo de la narración, porque plantea el quiebre de la normalidad y el clímax del conflicto místico en Loja.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "El inicio o planteamiento, donde se describen la geografía y los hábitos de Loja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El nudo o desarrollo es el momento central de la narración donde se presenta el conflicto o la transformación sobrenatural que rompe la calma inicial del personaje.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle-v12",
+      "statement": "Considere el inicio de una historia ambientada en Riobamba: 'Yo no sabía lo que me esperaba aquella fría mañana en el Colegio Benigno Malo, pero mi abuelo me lo había advertido con su habitual voz ronca'. ¿Qué tipo de narrador se presenta en este relato?",
+      "context": "José, estudiante de 11° de Bachillerato en el Colegio Benigno Malo de Riobamba, explora la estructura del cuento popular ecuatoriano y las variaciones temporales del relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrador omnisciente, puesto que conoce el destino de todos los habitantes de Riobamba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Narrador testigo de Colegio Benigno Malo, que observa los acontecimientos sin formar parte de la trama.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Narrador en segunda persona, enfocado en ordenar los actos del lector en Riobamba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Narrador protagonista o en primera persona, ya que participa de forma directa en Riobamba y relata desde su subjetividad.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Al utilizar la primera persona gramatical ('Yo no sabía', 'mi abuelo'), el narrador revela que es el protagonista directo de los hechos relatados.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle-v13",
+      "statement": "En Ibarra, Mateo analiza la estructura temporal de un cuento que comienza por el desenlace del crimen y luego retrocede en el tiempo para explicar los motivos del sospechoso. ¿Cómo se denomina técnicamente este quiebre temporal?",
+      "context": "Mateo, estudiante de 11° de Bachillerato en el Colegio Nacional Bolívar de Ibarra, explora la estructura del cuento popular ecuatoriano y las variaciones temporales del relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un canal de transmisión de caracteres históricos verbales en Ibarra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Anacronía o analepsis (retrospección), que rompe la secuencia cronológica lineal de la trama en Ibarra.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "Sintaxis lineal y progresiva de carácter renacentista en Colegio Nacional Bolívar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Un pleonasmo temporal que repite la misma fecha exacta en Ibarra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La analepsis (flashback en cine) es una alteración temporal de la narrativa que consiste en trasladar la acción al pasado.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.66,
+      "bundle_id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle-v14",
+      "statement": "Durante el análisis de la novela ecuatoriana 'Las Cruces sobre el Agua' de Joaquín Gallegos Lara en Portoviejo, se discute el espacio físico de Guayaquil en el año 1922. ¿Qué función cumple este escenario de época en la obra?",
+      "context": "Sebastián, estudiante de 11° de Bachillerato en el Unidad Educativa Santo Domingo de Portoviejo, explora la estructura del cuento popular ecuatoriano y las variaciones temporales del relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sustituye a los personajes ficticios por un plano urbanístico de Portoviejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Sirve de pretexto para enseñar ingeniería civil en el Unidad Educativa Santo Domingo de Portoviejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Carece de valor en Portoviejo, ya que los acontecimientos pudieron ocurrir en cualquier planeta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Establece el marco de verosimilitud social e histórica donde se desenvuelve la tragedia de la clase obrera en Guayaquil y Portoviejo.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El espacio geográfico y social dota de realismo y verosimilitud a la trama, permitiendo al autor de la obra denunciar los abusos reales de la época.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.64,
+      "bundle_id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle-v15",
+      "statement": "En un cuento escrito por un alumno de Colegio Nacional Manta de Machala, el personaje principal debe tomar una decisión crucial: traicionar a su mejor amigo de la infancia o perder su empleo en el banco local de la provincia.",
+      "context": "Valentina, estudiante de 11° de Bachillerato en el Colegio Nacional Manta de Machala, explora la estructura del cuento popular ecuatoriano y las variaciones temporales del relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El conflicto interno del personaje, que impulsa la acción dramática y el desarrollo moral de la historia en Machala.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "B",
+          "text": "El inicio descriptivo del clima frío en la provincia de Machala.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "La biografía del autor de carácter comercial cerca de Colegio Nacional Manta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "El código dialectal empleado para describir la fauna en Machala.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El conflicto (en este caso, moral e interno) es el motor que genera tensión dramática y moviliza la conducta de los personajes de una narración.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.62,
+      "bundle_id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle-v16",
+      "statement": "En Esmeraldas, Camila lee un cuento folclórico ecuatoriano sobre la 'Viuda del Tamarindo'. En el relato, un hombre camina por las calles empedradas de noche, se encuentra con una misteriosa y bella mujer y al intentar abrazarla bajo el tamarindo, ella se convierte en un esqueleto. ¿Qué parte de la estructura narrativa representa el encuentro y la transformación?",
+      "context": "Camila, estudiante de 11° de Bachillerato en el Colegio Nacional Bernardo Valdivieso de Esmeraldas, explora la estructura del cuento popular ecuatoriano y las variaciones temporales del relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El nudo de la narración, porque plantea el quiebre de la normalidad y el clímax del conflicto místico en Esmeraldas.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "B",
+          "text": "El inicio o planteamiento, donde se describen la geografía y los hábitos de Esmeraldas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "El desenlace definitivo, donde el hombre regresa a su caleta de Esmeraldas a descansar en paz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Un recurso de retroalimentación metalingüística del Colegio Nacional Bernardo Valdivieso que define el tamarindo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El nudo o desarrollo es el momento central de la narración donde se presenta el conflicto o la transformación sobrenatural que rompe la calma inicial del personaje.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle-v17",
+      "statement": "Considere el inicio de una historia ambientada en Santo Domingo: 'Yo no sabía lo que me esperaba aquella fría mañana en el Colegio Nacional Nueve de Octubre, pero mi abuelo me lo había advertido con su habitual voz ronca'. ¿Qué tipo de narrador se presenta en este relato?",
+      "context": "Santiago, estudiante de 11° de Bachillerato en el Colegio Nacional Nueve de Octubre de Santo Domingo, explora la estructura del cuento popular ecuatoriano y las variaciones temporales del relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrador testigo de Colegio Nacional Nueve de Octubre, que observa los acontecimientos sin formar parte de la trama.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Narrador en segunda persona, enfocado en ordenar los actos del lector en Santo Domingo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Narrador protagonista o en primera persona, ya que participa de forma directa en Santo Domingo y relata desde su subjetividad.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "Narrador omnisciente, puesto que conoce el destino de todos los habitantes de Santo Domingo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Al utilizar la primera persona gramatical ('Yo no sabía', 'mi abuelo'), el narrador revela que es el protagonista directo de los hechos relatados.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.58,
+      "bundle_id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle-v18",
+      "statement": "En Quito, Alejandro analiza la estructura temporal de un cuento que comienza por el desenlace del crimen y luego retrocede en el tiempo para explicar los motivos del sospechoso. ¿Cómo se denomina técnicamente este quiebre temporal?",
+      "context": "Alejandro, estudiante de 11° de Bachillerato en el Colegio Nacional Maldonado de Quito, explora la estructura del cuento popular ecuatoriano y las variaciones temporales del relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un pleonasmo temporal que repite la misma fecha exacta en Quito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "Un canal de transmisión de caracteres históricos verbales en Quito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Anacronía o analepsis (retrospección), que rompe la secuencia cronológica lineal de la trama en Quito.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "D",
+          "text": "Sintaxis lineal y progresiva de carácter renacentista en Colegio Nacional Maldonado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La analepsis (flashback en cine) es una alteración temporal de la narrativa que consiste en trasladar la acción al pasado.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.56,
+      "bundle_id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle-v19",
+      "statement": "Durante el análisis de la novela ecuatoriana 'Las Cruces sobre el Agua' de Joaquín Gallegos Lara en Guayaquil, se discute el espacio físico de Guayaquil en el año 1922. ¿Qué función cumple este escenario de época en la obra?",
+      "context": "Gabriela, estudiante de 11° de Bachillerato en el Colegio Nacional Olmedo de Guayaquil, explora la estructura del cuento popular ecuatoriano y las variaciones temporales del relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Establece el marco de verosimilitud social e histórica donde se desenvuelve la tragedia de la clase obrera en Guayaquil y Guayaquil.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "B",
+          "text": "Sustituye a los personajes ficticios por un plano urbanístico de Guayaquil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "C",
+          "text": "Sirve de pretexto para enseñar ingeniería civil en el Colegio Nacional Olmedo de Guayaquil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Carece de valor en Guayaquil, ya que los acontecimientos pudieron ocurrir en cualquier planeta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El espacio geográfico y social dota de realismo y verosimilitud a la trama, permitiendo al autor de la obra denunciar los abusos reales de la época.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.54,
+      "bundle_id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle-v20",
+      "statement": "En un cuento escrito por un alumno de Colegio Nacional Mejía de Cuenca, el personaje principal debe tomar una decisión crucial: traicionar a su mejor amigo de la infancia o perder su empleo en el banco local de la provincia.",
+      "context": "David, estudiante de 11° de Bachillerato en el Colegio Nacional Mejía de Cuenca, explora la estructura del cuento popular ecuatoriano y las variaciones temporales del relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El código dialectal empleado para describir la fauna en Cuenca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "B",
+          "text": "El conflicto interno del personaje, que impulsa la acción dramática y el desarrollo moral de la historia en Cuenca.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+        },
+        {
+          "letter": "C",
+          "text": "El inicio descriptivo del clima frío en la provincia de Cuenca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        },
+        {
+          "letter": "D",
+          "text": "La biografía del autor de carácter comercial cerca de Colegio Nacional Mejía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El conflicto (en este caso, moral e interno) es el motor que genera tensión dramática y moviliza la conducta de los personajes de una narración.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.52,
+      "bundle_id": "EC-LEN-11-2026-W08-textos-narrativos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    }
+  ]
+}

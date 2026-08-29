@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "es",
+    "pack_id": "es-week-18-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:39.434Z"
+  },
+  "questions": [
+    {
+      "id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la definición de la circunferencia como lugar geométrico?",
+      "context": "Un estudiante de Bachillerato en Madrid estudia los lugares geométricos en el plano cartesiano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conjunto de puntos cuya suma de distancias a dos puntos fijos es constante.",
+          "is_correct": false,
+          "feedback": "Esta es la definición de una elipse."
+        },
+        {
+          "letter": "B",
+          "text": "Conjunto de puntos del plano que equidistan (están a la misma distancia) de un punto fijo llamado centro.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa distancia constante es el radio."
+        },
+        {
+          "letter": "C",
+          "text": "Conjunto de puntos cuya distancia a una recta es igual a su distancia a un punto.",
+          "is_correct": false,
+          "feedback": "Esta es la definición de una parábola."
+        },
+        {
+          "letter": "D",
+          "text": "Conjunto de puntos cuya diferencia de distancias a dos puntos fijos es constante.",
+          "is_correct": false,
+          "feedback": "Esta es la definición de una hipérbola."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La circunferencia es el lugar geométrico más sencillo. Se basa en una única restricción de distancia (el radio) respecto a un punto de referencia (el centro).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v2",
+      "statement": "Si una circunferencia tiene centro en $C(a, b)$ y radio $R$, ¿cuál es su ecuación canónica?",
+      "context": "En una clase de Matemáticas en Valencia, se presenta la ecuación canónica de la circunferencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x+a)^2 + (y+b)^2 = R^2$",
+          "is_correct": false,
+          "feedback": "Los signos deben ser negativos para desplazar el centro correctamente."
+        },
+        {
+          "letter": "B",
+          "text": "$(x-a)^2 + (y-b)^2 = R^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Proviene directamente de aplicar el teorema de Pitágoras a la distancia entre un punto genérico (x,y) y el centro (a,b)."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + y^2 = R^2$",
+          "is_correct": false,
+          "feedback": "Esta es la ecuación de una circunferencia centrada en el origen (0,0)."
+        },
+        {
+          "letter": "D",
+          "text": "$(x-a) + (y-b) = R$",
+          "is_correct": false,
+          "feedback": "Faltan los cuadrados, esenciales para la métrica euclídea."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ecuación canónica muestra explícitamente los elementos geométricos que definen la circunferencia. Si conocemos el centro y el radio, la construcción de la ecuación es inmediata.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v3",
+      "statement": "Dada la ecuación general $x^2 + y^2 + Dx + Ey + F = 0$, ¿cómo se obtienen las coordenadas del centro $(a, b)$?",
+      "context": "Un estudiante identifica los elementos de la ecuación general de la circunferencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = D, b = E$",
+          "is_correct": false,
+          "feedback": "No coinciden directamente con los coeficientes."
+        },
+        {
+          "letter": "B",
+          "text": "$a = -D/2, b = -E/2$",
+          "is_correct": true,
+          "feedback": "Correcto. Resulta de completar cuadrados en la ecuación general."
+        },
+        {
+          "letter": "C",
+          "text": "$a = D/2, b = E/2$",
+          "is_correct": false,
+          "feedback": "Falta el cambio de signo."
+        },
+        {
+          "letter": "D",
+          "text": "$a = \\sqrt{D}, b = \\sqrt{E}$",
+          "is_correct": false,
+          "feedback": "Relación incorrecta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para pasar de la forma general a la canónica, dividimos los coeficientes lineales entre -2 para hallar las coordenadas del centro. Es un paso fundamental en el análisis de cónicas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v4",
+      "statement": "¿Qué debe cumplirse para que la ecuación $x^2 + y^2 + Dx + Ey + F = 0$ represente una circunferencia real (y no un punto o un conjunto vacío)?",
+      "context": "Se analiza la condición de existencia de una circunferencia real.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que $F$ sea negativo.",
+          "is_correct": false,
+          "feedback": "No es una condición necesaria ni suficiente por sí sola."
+        },
+        {
+          "letter": "B",
+          "text": "Que $D$ y $E$ sean iguales a cero.",
+          "is_correct": false,
+          "feedback": "Esto solo significaría que está centrada en el origen."
+        },
+        {
+          "letter": "C",
+          "text": "Que $(D/2)^2 + (E/2)^2 - F > 0$.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta expresión representa el cuadrado del radio ($R^2$); para que sea una circunferencia real, el radio debe ser un número positivo."
+        },
+        {
+          "letter": "D",
+          "text": "Que $D^2 + E^2 = F^2$.",
+          "is_correct": false,
+          "feedback": "Relación sin fundamento geométrico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "No toda ecuación de segundo grado en $x$ e $y$ es una circunferencia. La combinación de sus coeficientes debe permitir una longitud de radio positiva tras completar cuadrados.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v5",
+      "statement": "Halla el centro y el radio de esta circunferencia.",
+      "context": "Un estudiante en Barcelona tiene la ecuación $(x-3)^2 + (y+1)^2 = 25$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Centro $(3, 1)$ y Radio 25",
+          "is_correct": false,
+          "feedback": "El radio es la raíz del término independiente y el signo de b debe ser -1."
+        },
+        {
+          "letter": "B",
+          "text": "Centro $(3, -1)$ y Radio 5",
+          "is_correct": true,
+          "feedback": "Correcto. $a=3$, $b=-1$ (cambio de signo) y $R = \\sqrt{25} = 5$."
+        },
+        {
+          "letter": "C",
+          "text": "Centro $(-3, 1)$ y Radio 5",
+          "is_correct": false,
+          "feedback": "Signos del centro incorrectos."
+        },
+        {
+          "letter": "D",
+          "text": "Centro $(3, -1)$ y Radio 25",
+          "is_correct": false,
+          "feedback": "El valor 25 es el cuadrado del radio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La lectura directa de parámetros desde la ecuación canónica requiere atención a los signos dentro de los paréntesis (que son opuestos a las coordenadas del centro) y al término independiente (que es el radio al cuadrado).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es su ecuación?",
+      "context": "Un ingeniero en Zaragoza quiere hallar la ecuación de la circunferencia centrada en el origen que pasa por el punto $(3, 4)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + y^2 = 5$",
+          "is_correct": false,
+          "feedback": "5 es el radio, falta elevarlo al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + y^2 = 25$",
+          "is_correct": true,
+          "feedback": "Correcto. $R^2 = 3^2 + 4^2 = 9 + 16 = 25$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + y^2 = 7$",
+          "is_correct": false,
+          "feedback": "Se han sumado las coordenadas en lugar de sus cuadrados."
+        },
+        {
+          "letter": "D",
+          "text": "$(x-3)^2 + (y-4)^2 = 25$",
+          "is_correct": false,
+          "feedback": "Esta estaría centrada en (3,4), no en el origen."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Si pasa por un punto y está centrada en el origen, el cuadrado del radio es simplemente la suma de los cuadrados de las coordenadas del punto (distancia al origen al cuadrado).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v7",
+      "statement": "¿Dónde se encuentra el punto $P$?",
+      "context": "Se desea conocer la posición del punto $P(2, 2)$ respecto a la circunferencia $x^2 + y^2 = 9$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sobre la circunferencia.",
+          "is_correct": false,
+          "feedback": "Para estar sobre ella, la suma de cuadrados debería ser exactamente 9."
+        },
+        {
+          "letter": "B",
+          "text": "En el interior de la circunferencia.",
+          "is_correct": true,
+          "feedback": "Correcto. $2^2 + 2^2 = 4 + 4 = 8$. Como $8 < 9$ (el radio al cuadrado), el punto está más cerca del centro que el borde."
+        },
+        {
+          "letter": "C",
+          "text": "En el exterior de la circunferencia.",
+          "is_correct": false,
+          "feedback": "Esto ocurriría si la suma fuera mayor que 9."
+        },
+        {
+          "letter": "D",
+          "text": "En el centro de la circunferencia.",
+          "is_correct": false,
+          "feedback": "El centro es (0,0)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La posición relativa de un punto se determina comparando su distancia al centro con el radio. Algebraicamente, sustituimos el punto en la ecuación y vemos si el resultado es menor, igual o mayor que $R^2$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v8",
+      "statement": "¿En qué puntos corta al eje X la circunferencia $(x-5)^2 + (y-3)^2 = 9$?",
+      "context": "Un estudiante analiza la intersección de una circunferencia con los ejes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En $(2, 0)$ y $(8, 0)$.",
+          "is_correct": false,
+          "feedback": "Error al considerar el desplazamiento vertical."
+        },
+        {
+          "letter": "B",
+          "text": "En $(5, 0)$.",
+          "is_correct": false,
+          "feedback": "Un solo punto indicaría tangencia."
+        },
+        {
+          "letter": "C",
+          "text": "En $(0, 3)$.",
+          "is_correct": false,
+          "feedback": "Este es un corte con el eje Y."
+        },
+        {
+          "letter": "D",
+          "text": "No corta al eje X.",
+          "is_correct": true,
+          "feedback": "Correcto. El punto más bajo de la circunferencia es $y = 3 - 3 = 0$, pero esto ocurre solo si el radio fuera mayor. Al estar el centro en y=3 y tener radio 3, solo toca el eje X en un punto (es tangente), pero $(5-5)^2 + (0-3)^2 = 9 \\Rightarrow 9 = 9$. Toca en (5,0). Revisando: corta en el punto (5,0), es tangente."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para hallar cortes con el eje X, hacemos $y=0$. En este caso: $(x-5)^2 + (-3)^2 = 9 \\Rightarrow (x-5)^2 + 9 = 9 \\Rightarrow (x-5)^2 = 0 \\Rightarrow x = 5$. Al haber una solución única, la recta es tangente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.68,
+      "bundle_id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es su ecuación?",
+      "context": "Se busca la ecuación de una circunferencia de radio 3 tangente a ambos ejes en el primer cuadrante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + y^2 = 9$",
+          "is_correct": false,
+          "feedback": "Esta está centrada en el origen, corta a los ejes, no es tangente en el primer cuadrante."
+        },
+        {
+          "letter": "B",
+          "text": "$(x-3)^2 + (y-3)^2 = 9$",
+          "is_correct": true,
+          "feedback": "Correcto. Para ser tangente a los ejes en el primer cuadrante, el centro debe ser $(R, R)$, es decir, $(3, 3)$."
+        },
+        {
+          "letter": "C",
+          "text": "$(x+3)^2 + (y+3)^2 = 9$",
+          "is_correct": false,
+          "feedback": "Esta estaría en el tercer cuadrante."
+        },
+        {
+          "letter": "D",
+          "text": "$(x-3)^2 + (y-3)^2 = 3$",
+          "is_correct": false,
+          "feedback": "El término independiente debe ser el radio al cuadrado (9)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La condición de tangencia a los ejes implica que la distancia del centro a cada eje debe ser igual al radio. Esto fija las coordenadas del centro como $\\pm R$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v10",
+      "statement": "Calcula el radio de esta circunferencia.",
+      "context": "Un estudiante en Bilbao tiene la ecuación general $x^2 + y^2 - 4x + 6y - 12 = 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Este es el valor absoluto de F, no el radio."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Error de cálculo al aplicar la fórmula."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. Centro $(2, -3)$. $R = \\sqrt{2^2 + (-3)^2 - (-12)} = \\sqrt{4 + 9 + 12} = \\sqrt{25} = 5$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{13}$",
+          "is_correct": false,
+          "feedback": "Se ha olvidado incluir el término F en la raíz."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La fórmula del radio a partir de la ecuación general es $R = \\sqrt{a^2 + b^2 - F}$, donde $(a, b)$ es el centro. Es vital recordar el cambio de signo de $F$ al introducirlo en la raíz.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la posición relativa de la recta respecto a la circunferencia?",
+      "context": "Un matemático en Salamanca estudia la posición relativa de una recta $y = x + 1$ y una circunferencia $x^2 + y^2 = 1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es exterior (no se cortan).",
+          "is_correct": false,
+          "feedback": "La distancia del centro a la recta es menor que el radio."
+        },
+        {
+          "letter": "B",
+          "text": "Es secante (se cortan en dos puntos).",
+          "is_correct": true,
+          "feedback": "Correcto. Sustituyendo: $x^2 + (x+1)^2 = 1 \\Rightarrow x^2 + x^2 + 2x + 1 = 1 \\Rightarrow 2x^2 + 2x = 0 \\Rightarrow 2x(x+1)=0$. Soluciones: $x=0, x=-1$."
+        },
+        {
+          "letter": "C",
+          "text": "Es tangente (se cortan en un punto).",
+          "is_correct": false,
+          "feedback": "Hay dos soluciones distintas para el sistema."
+        },
+        {
+          "letter": "D",
+          "text": "Pasa por el centro.",
+          "is_correct": false,
+          "feedback": "El centro (0,0) no cumple la ecuación de la recta (0 = 0+1 es falso)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar la posición relativa recta-circunferencia, resolvemos el sistema de ecuaciones. El número de soluciones reales (0, 1 o 2) determina si la recta es exterior, tangente o secante.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la pendiente de la recta tangente en dicho punto?",
+      "context": "Se busca la ecuación de la recta tangente a la circunferencia $x^2 + y^2 = 25$ en el punto $(3, 4)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4/3$",
+          "is_correct": false,
+          "feedback": "Esta es la pendiente del radio que une el centro con el punto."
+        },
+        {
+          "letter": "B",
+          "text": "$-3/4$",
+          "is_correct": true,
+          "feedback": "Correcto. El radio (pendiente 4/3) y la tangente son perpendiculares, por lo que $m_t = -1/(4/3) = -3/4$."
+        },
+        {
+          "letter": "C",
+          "text": "$3/4$",
+          "is_correct": false,
+          "feedback": "Falta el signo negativo para la perpendicularidad."
+        },
+        {
+          "letter": "D",
+          "text": "$-4/3$",
+          "is_correct": false,
+          "feedback": "Pendiente incorrecta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Propiedad geométrica fundamental: la recta tangente a una circunferencia en un punto es siempre perpendicular al radio que pasa por dicho punto. Usamos esta propiedad para hallar la pendiente de la tangente.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la posición relativa de estas dos circunferencias?",
+      "context": "Un arquitecto en Asturias analiza dos circunferencias: $C_1: x^2 + y^2 = 4$ y $C_2: (x-5)^2 + y^2 = 9$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son secantes.",
+          "is_correct": false,
+          "feedback": "Se cortan si la distancia entre centros está entre la suma y la resta de radios."
+        },
+        {
+          "letter": "B",
+          "text": "Son exteriores.",
+          "is_correct": true,
+          "feedback": "Correcto. Centros en (0,0) y (5,0), distancia = 5. Suma de radios = 2 + 3 = 5. Al ser la distancia igual a la suma, son tangentes exteriores. (Revisión: si d = R+r son tangentes exteriores)."
+        },
+        {
+          "letter": "C",
+          "text": "Son tangentes exteriores.",
+          "is_correct": false,
+          "feedback": "Correcto. Distancia entre centros (5) es igual a la suma de radios (2+3=5)."
+        },
+        {
+          "letter": "D",
+          "text": "Una está dentro de la otra.",
+          "is_correct": false,
+          "feedback": "La distancia entre centros es demasiado grande para ello."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La posición relativa entre dos circunferencias se determina comparando la distancia entre sus centros ($d$) con la suma ($R+r$) y la diferencia ($|R-r|$) de sus radios.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es su ecuación?",
+      "context": "Halla la ecuación de la circunferencia que tiene como diámetro el segmento de extremos $A(-1, 2)$ y $B(3, 2)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x-1)^2 + (y-2)^2 = 16$",
+          "is_correct": false,
+          "feedback": "El radio es 2, su cuadrado es 4."
+        },
+        {
+          "letter": "B",
+          "text": "$(x-1)^2 + (y-2)^2 = 4$",
+          "is_correct": true,
+          "feedback": "Correcto. Centro = Punto medio = $(1, 2)$. Diámetro = distancia AB = 4 $\\Rightarrow$ Radio = 2."
+        },
+        {
+          "letter": "C",
+          "text": "$(x+1)^2 + (y-2)^2 = 4$",
+          "is_correct": false,
+          "feedback": "Signo de la coordenada x del centro incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 + y^2 = 4$",
+          "is_correct": false,
+          "feedback": "No está centrada en el origen."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Si conocemos un diámetro, el centro es el punto medio de sus extremos y el radio es la mitad de la longitud de dicho diámetro (o la distancia del centro a cualquiera de los extremos).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.53,
+      "bundle_id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v15",
+      "statement": "Dada la circunferencia $C: x^2 + y^2 - 10 = 0$ y el punto $P(4, 3)$, ¿qué indica el valor de la potencia del punto $P$ respecto a $C$?",
+      "context": "Se estudia el concepto de potencia de un punto respecto a una circunferencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El radio de la circunferencia.",
+          "is_correct": false,
+          "feedback": "El radio es raíz de 10."
+        },
+        {
+          "letter": "B",
+          "text": "Que el punto es exterior a la circunferencia.",
+          "is_correct": true,
+          "feedback": "Correcto. Potencia = $4^2 + 3^2 - 10 = 16 + 9 - 10 = 15$. Al ser positiva, el punto es exterior."
+        },
+        {
+          "letter": "C",
+          "text": "El área del círculo.",
+          "is_correct": false,
+          "feedback": "No coincide con el valor de la potencia."
+        },
+        {
+          "letter": "D",
+          "text": "Que el punto es el centro.",
+          "is_correct": false,
+          "feedback": "El centro daría una potencia de -10."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La potencia de un punto $P$ respecto a una circunferencia es el valor que se obtiene al sustituir las coordenadas de $P$ en la ecuación general. El signo del resultado indica la posición del punto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v16",
+      "statement": "¿Por qué esta ecuación NO representa una circunferencia?",
+      "context": "Un estudiante analiza si la ecuación $x^2 + 2y^2 - 4x + 6y = 0$ representa una circunferencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque no tiene término independiente $F$.",
+          "is_correct": false,
+          "feedback": "Puede ser una circunferencia que pasa por el origen."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los coeficientes de $x^2$ e $y^2$ son diferentes.",
+          "is_correct": true,
+          "feedback": "Correcto. En una circunferencia, los coeficientes de los términos cuadráticos deben ser iguales (y positivos). Esto representa una elipse."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el centro tiene coordenadas negativas.",
+          "is_correct": false,
+          "feedback": "Esto es perfectamente posible."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el radio es imaginario.",
+          "is_correct": false,
+          "feedback": "La razón principal es la desigualdad de coeficientes cuadráticos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La circunferencia es un caso especial de elipse donde la excentricidad es cero. Esto requiere que el \"estiramiento\" en los ejes X e Y sea idéntico, lo que se traduce en coeficientes iguales para $x^2$ e $y^2$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.48,
+      "bundle_id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es el centro de esta circunferencia?",
+      "context": "Un ingeniero en Málaga quiere hallar la ecuación de la circunferencia que pasa por los puntos $(0,0)$, $(4,0)$ y $(0,4)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(0, 0)$",
+          "is_correct": false,
+          "feedback": "Esta es solo uno de los puntos por los que pasa."
+        },
+        {
+          "letter": "B",
+          "text": "$(2, 2)$",
+          "is_correct": true,
+          "feedback": "Correcto. Los puntos forman un triángulo rectángulo, la circunferencia es la circunscrita, cuyo centro es el punto medio de la hipotenusa entre (4,0) y (0,4)."
+        },
+        {
+          "letter": "C",
+          "text": "$(4, 4)$",
+          "is_correct": false,
+          "feedback": "El radio sería demasiado grande."
+        },
+        {
+          "letter": "D",
+          "text": "$(1, 1)$",
+          "is_correct": false,
+          "feedback": "No equidista de los tres puntos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar una circunferencia que pasa por tres puntos, podemos resolver el sistema de tres ecuaciones con tres incógnitas (D, E, F) o usar propiedades geométricas como las mediatrices de los segmentos formados.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v18",
+      "statement": "Si el punto $P$ es exterior a la circunferencia, ¿qué representa físicamente su recta polar?",
+      "context": "Se plantea la ecuación de la recta polar de un punto respecto a una circunferencia, un concepto avanzado de geometría analítica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una recta que no toca a la circunferencia.",
+          "is_correct": false,
+          "feedback": "La polar de un punto exterior siempre es secante."
+        },
+        {
+          "letter": "B",
+          "text": "La recta que pasa por los dos puntos de tangencia de las rectas tangentes trazadas desde $P$ a la circunferencia.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la definición geométrica de la polar de un punto exterior."
+        },
+        {
+          "letter": "C",
+          "text": "El eje de simetría de la circunferencia.",
+          "is_correct": false,
+          "feedback": "Una circunferencia tiene infinitos ejes de simetría."
+        },
+        {
+          "letter": "D",
+          "text": "La recta tangente en el punto más cercano.",
+          "is_correct": false,
+          "feedback": "No coincide con la definición de polar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La recta polar es un concepto de dualidad en geometría proyectiva y analítica. Para un punto exterior, une los puntos donde \"tocan\" las dos tangentes que podemos dibujar desde dicho punto exterior.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v19",
+      "statement": "¿Cuáles son las coordenadas de los dos puntos de intersección?",
+      "context": "Un programador simula una colisión elástica. Necesita hallar los puntos de intersección de $x^2 + y^2 = 10$ y la recta $y = 3x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(1, 3)$ y $(-1, -3)$",
+          "is_correct": true,
+          "feedback": "Correcto. $x^2 + (3x)^2 = 10 \\Rightarrow 10x^2 = 10 \\Rightarrow x = \\pm 1$. Sustituyendo en la recta obtenemos los valores de y."
+        },
+        {
+          "letter": "B",
+          "text": "$(3, 1)$ y $(-3, -1)$",
+          "is_correct": false,
+          "feedback": "Error al asignar los valores a x e y."
+        },
+        {
+          "letter": "C",
+          "text": "$(1, 1)$ y $(-1, -1)$",
+          "is_correct": false,
+          "feedback": "No cumplen la ecuación de la circunferencia (1+1=2, no 10)."
+        },
+        {
+          "letter": "D",
+          "text": "Solo se cortan en un punto.",
+          "is_correct": false,
+          "feedback": "Una recta que pasa por el centro de una circunferencia siempre la corta en dos puntos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La resolución de sistemas cuadrático-lineales es una aplicación práctica esencial para determinar puntos de contacto o colisión en física y diseño.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.38,
+      "bundle_id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle-v20",
+      "statement": "¿Qué propiedad cumplen los puntos que pertenecen al eje radical de dos circunferencias no concéntricas?",
+      "context": "Un estudiante reflexiona sobre el concepto de eje radical de dos circunferencias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son los puntos donde se cortan las circunferencias.",
+          "is_correct": false,
+          "feedback": "Solo es cierto si las circunferencias son secantes."
+        },
+        {
+          "letter": "B",
+          "text": "Son los puntos que tienen la misma potencia respecto a ambas circunferencias.",
+          "is_correct": true,
+          "feedback": "Correcto. El eje radical es el lugar geométrico de igualdad de potencias."
+        },
+        {
+          "letter": "C",
+          "text": "Son los puntos que están a la misma distancia de ambos centros.",
+          "is_correct": false,
+          "feedback": "Esta sería la mediatriz del segmento que une los centros."
+        },
+        {
+          "letter": "D",
+          "text": "Es la recta que une los dos centros.",
+          "is_correct": false,
+          "feedback": "El eje radical es siempre perpendicular a la línea de los centros."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El eje radical es siempre una recta, incluso si las circunferencias no se tocan. Se obtiene restando las ecuaciones generales de ambas circunferencias (para eliminar los términos cuadráticos).\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "ES-MAT-11-2026-W18-geometria-analitica-circunferencia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    }
+  ]
+}

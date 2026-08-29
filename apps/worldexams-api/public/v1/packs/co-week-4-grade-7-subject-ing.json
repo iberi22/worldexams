@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-4-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.889Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W04-adverbs-frequency-001-v1",
+      "statement": "Which adverb of frequency means \"0% of the time\"?",
+      "context": "Discussing general habits.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Always",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Always\" means 100% of the time."
+        },
+        {
+          "letter": "B",
+          "text": "Sometimes",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Sometimes\" means about 50% of the time."
+        },
+        {
+          "letter": "C",
+          "text": "Never",
+          "is_correct": true,
+          "feedback": "Correct! \"Never\" indicates that an action does not happen at all."
+        },
+        {
+          "letter": "D",
+          "text": "Often",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Often\" means frequently."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student identifies the basic meaning of the adverb \"never\".\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W04-adverbs-frequency-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W04-adverbs-frequency-002-v1",
+      "statement": "What is the correct position for the adverb \"usually\" in this sentence?\n\"I ________ eat breakfast at 6:30 AM.\"",
+      "context": "Describing a simple routine.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "usually",
+          "is_correct": true,
+          "feedback": "Correct! Adverbs of frequency normally go before the main verb."
+        },
+        {
+          "letter": "B",
+          "text": "eat usually",
+          "is_correct": false,
+          "feedback": "Incorrect. The adverb should come before the verb \"eat\"."
+        },
+        {
+          "letter": "C",
+          "text": "usually I eat",
+          "is_correct": false,
+          "feedback": "Incorrect. While possible in some contexts, the standard position is between subject and verb."
+        },
+        {
+          "letter": "D",
+          "text": "eat breakfast usually",
+          "is_correct": false,
+          "feedback": "Incorrect. This is not the standard position for this adverb."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student remembers the standard placement of frequency adverbs in relation to the main verb.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W04-adverbs-frequency-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W04-adverbs-frequency-003-v1",
+      "statement": "Valentina: \"How often do you go to the park on Sundays?\"\nMateo: \"________________________\"",
+      "context": "A conversation about weekend activities in Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I go with my dog.",
+          "is_correct": false,
+          "feedback": "Incorrect. This answers \"With whom?\" not \"How often?\"."
+        },
+        {
+          "letter": "B",
+          "text": "I always go in the afternoon.",
+          "is_correct": true,
+          "feedback": "Correct! This answers the frequency question using \"always\"."
+        },
+        {
+          "letter": "C",
+          "text": "Yes, I do.",
+          "is_correct": false,
+          "feedback": "Incorrect. This answers a \"Do you...?\" question, not a \"How often...?\" question."
+        },
+        {
+          "letter": "D",
+          "text": "The park is beautiful.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a description, not a frequency response."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands how to respond to a \"How often\" question using frequency adverbs.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmatic Matching",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W04-adverbs-frequency-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W04-adverbs-frequency-004-v1",
+      "statement": "Which sentence is grammatically correct?",
+      "context": "Using the verb \"to be\" with frequency adverbs.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She always is happy.",
+          "is_correct": false,
+          "feedback": "Incorrect. Adverbs of frequency go AFTER the verb \"to be\"."
+        },
+        {
+          "letter": "B",
+          "text": "She is always happy.",
+          "is_correct": true,
+          "feedback": "Correct! With the verb \"to be\", the adverb follows the verb."
+        },
+        {
+          "letter": "C",
+          "text": "Always she is happy.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is not the natural word order."
+        },
+        {
+          "letter": "D",
+          "text": "She is happy always.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is less common and less natural than placing the adverb after the verb."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the specific rule for frequency adverbs used with the verb \"to be\".\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W04-adverbs-frequency-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W04-adverbs-frequency-005-v1",
+      "statement": "\"My brother is very responsible. He ________ late for school.\"",
+      "context": "Talking about school attendance.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is never",
+          "is_correct": true,
+          "feedback": "Correct! Being responsible implies he is not late, and \"is\" comes before \"never\"."
+        },
+        {
+          "letter": "B",
+          "text": "never is",
+          "is_correct": false,
+          "feedback": "Incorrect. Word order error: with \"to be\", the adverb comes after."
+        },
+        {
+          "letter": "C",
+          "text": "is always",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Always late\" contradicts \"very responsible\"."
+        },
+        {
+          "letter": "D",
+          "text": "always is",
+          "is_correct": false,
+          "feedback": "Incorrect. Wrong word order and wrong meaning for the context."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student applies grammatical rules and contextual logic to choose the correct adverb and position.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W04-adverbs-frequency-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W04-adverbs-frequency-006-v1",
+      "statement": "How often does the family cook on Sundays?",
+      "context": "A short description of a family's habits.\n\"On weekdays, we usually have dinner at home. However, on Saturdays, we often go to a restaurant. We never cook on Sundays.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usually",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says they usually eat at home on weekdays."
+        },
+        {
+          "letter": "B",
+          "text": "Often",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Often\" refers to their Saturday restaurant visits."
+        },
+        {
+          "letter": "C",
+          "text": "Sometimes",
+          "is_correct": false,
+          "feedback": "Incorrect. The text uses a stronger negative adverb."
+        },
+        {
+          "letter": "D",
+          "text": "Never",
+          "is_correct": true,
+          "feedback": "Correct! The text explicitly states \"We never cook on Sundays.\""
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The student applies reading strategies to identify specific frequency information in a text.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W04-adverbs-frequency-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W04-adverbs-frequency-007-v1",
+      "statement": "\"I play basketball on Mondays and Wednesdays. I play ________.\"",
+      "context": "Using time expressions like \"twice a week\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "once a week",
+          "is_correct": false,
+          "feedback": "Incorrect. This would mean only one day."
+        },
+        {
+          "letter": "B",
+          "text": "twice a week",
+          "is_correct": true,
+          "feedback": "Correct! Monday and Wednesday make two times per week."
+        },
+        {
+          "letter": "C",
+          "text": "three times a week",
+          "is_correct": false,
+          "feedback": "Incorrect. There are only two days mentioned."
+        },
+        {
+          "letter": "D",
+          "text": "every day",
+          "is_correct": false,
+          "feedback": "Incorrect. Monday and Wednesday are not every day."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies numeric logic to select the correct time expression for a frequency.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W04-adverbs-frequency-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W04-adverbs-frequency-008-v1",
+      "statement": "Which statement about Sara is true?",
+      "context": "Analyzing a schedule.\n\"Sara: Gym (Mon, Tue, Wed, Thu, Fri) / English (Sat) / Cinema (Once a month)\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She always goes to the gym.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Always\" would mean every day, including weekends. She goes on weekdays."
+        },
+        {
+          "letter": "B",
+          "text": "She often goes to the gym.",
+          "is_correct": true,
+          "feedback": "Correct! Five times a week is a high frequency, described well by \"often\" or \"usually\"."
+        },
+        {
+          "letter": "C",
+          "text": "She never goes to the cinema.",
+          "is_correct": false,
+          "feedback": "Incorrect. She goes once a month."
+        },
+        {
+          "letter": "D",
+          "text": "She goes to English class every day.",
+          "is_correct": false,
+          "feedback": "Incorrect. She only goes on Saturdays."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes a schedule to determine which frequency adverb or expression accurately describes the behavior.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W04-adverbs-frequency-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W04-adverbs-frequency-009-v1",
+      "statement": "Choose the most logical sentence.",
+      "context": "Comparing frequency adverbs in a sentence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I never brush my teeth, so they are very clean.",
+          "is_correct": false,
+          "feedback": "Incorrect. If you never brush them, they won't be clean."
+        },
+        {
+          "letter": "B",
+          "text": "I always study for tests, so I usually fail them.",
+          "is_correct": false,
+          "feedback": "Incorrect. Studying usually leads to passing, not failing."
+        },
+        {
+          "letter": "C",
+          "text": "I sometimes forget my umbrella, so I get wet when it rains.",
+          "is_correct": true,
+          "feedback": "Correct! This is a logical cause-and-effect relationship using \"sometimes\"."
+        },
+        {
+          "letter": "D",
+          "text": "I usually wake up at 5:00 AM, so I am often late for my 7:00 AM class.",
+          "is_correct": false,
+          "feedback": "Incorrect. Waking up at 5:00 for a 7:00 class is plenty of time; you wouldn't be late."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student analyzes the logical consistency of sentences containing frequency adverbs.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W04-adverbs-frequency-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W04-adverbs-frequency-010-v1",
+      "statement": "Based on the text, what is the main reason Lucas is the best student?",
+      "context": "A paragraph about a student's dedication.\n\"Lucas is the best student in class. He always finishes his homework, he is never late, and he often asks interesting questions. He usually studies at the library after school.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because he goes to the library every day.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says he \"usually\" goes, not every day."
+        },
+        {
+          "letter": "B",
+          "text": "Because he is never late to class.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is just one of his good habits, not the only reason."
+        },
+        {
+          "letter": "C",
+          "text": "Because he consistently maintains several good academic habits.",
+          "is_correct": true,
+          "feedback": "Correct! The text lists multiple positive behaviors (always finishing homework, being on time, asking questions, studying)."
+        },
+        {
+          "letter": "D",
+          "text": "Because he asks questions once in a while.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says \"often\", which is more frequent than \"once in a while\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student evaluates the cumulative information in the text to identify the most comprehensive conclusion.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W04-adverbs-frequency-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

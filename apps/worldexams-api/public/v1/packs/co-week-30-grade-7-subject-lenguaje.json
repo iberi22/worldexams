@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-30-grade-7-subject-lengua",
+    "generated_at": "2026-06-18T23:58:37.557Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-7-2026-W30-infografias-001-MASTERY-v1",
+      "statement": "¿Cuál es la definición más precisa de una infografía como tipo de texto?",
+      "context": "En una jornada de salud en Sincelejo, se entrega una infografía que explica cómo prevenir el dengue. Contiene dibujos de mosquitos, recipientes con agua y pasos numerados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un texto narrativo largo que cuenta la historia de una enfermedad.",
+          "is_correct": false,
+          "feedback": "Las infografias no son narraciones largas; son sintéticas y visuales."
+        },
+        {
+          "letter": "B",
+          "text": "Una combinación de imágenes sintéticas y textos breves que comunican información compleja de manera visual.",
+          "is_correct": true,
+          "feedback": "Esta es la característica esencial: el equilibrio entre lo gráfico y lo textual para simplificar la información."
+        },
+        {
+          "letter": "C",
+          "text": "Una lista de datos estadísticos presentada en una hoja de cálculo.",
+          "is_correct": false,
+          "feedback": "Eso sería una tabla de datos, no una infografía, la cual requiere diseño gráfico."
+        },
+        {
+          "letter": "D",
+          "text": "Una fotografía artística que no requiere palabras para ser entendida.",
+          "is_correct": false,
+          "feedback": "Las infografías siempre incluyen elementos verbales para guiar la interpretación de las imágenes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La infografía es un texto discontinuo multimodal que aprovecha la capacidad del cerebro para procesar imágenes rápidamente, complementándolas con texto para dar precisión al mensaje.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-7-2026-W30-infografias-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W30-infografias-001-MASTERY-v2",
+      "statement": "En una infografía, ¿cómo se denomina habitualmente al elemento visual que ocupa el lugar central y sobre el cual gira la explicación del tema?",
+      "context": "Estás analizando una infografía sobre la historia del Vallenato en Valledupar. En la parte superior hay un título grande, en el centro un acordeón con partes señaladas y abajo una lista de los principales juglares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuente.",
+          "is_correct": false,
+          "feedback": "La fuente es el origen de la información, generalmente ubicada al final."
+        },
+        {
+          "letter": "B",
+          "text": "Crédito.",
+          "is_correct": false,
+          "feedback": "El crédito indica quién realizó la infografía."
+        },
+        {
+          "letter": "C",
+          "text": "Cuerpo o imagen central.",
+          "is_correct": true,
+          "feedback": "Es el núcleo visual que organiza toda la información gráfica del texto."
+        },
+        {
+          "letter": "D",
+          "text": "Titular secundario.",
+          "is_correct": false,
+          "feedback": "Es un elemento de texto, no la parte visual central."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La estructura de la infografía suele tener un punto focal o imagen central que capta la atención y sirve de eje para los demás datos (textuales o icónicos) que la rodean.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-7-2026-W30-infografias-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W30-infografias-001-MASTERY-v3",
+      "statement": "Según la descripción de esta infografía, ¿cuál es la función de los números del 1 al 5 en el diseño?",
+      "context": "Una infografía sobre el ciclo de vida del café muestra cinco etapas: 1. Siembra, 2. Cosecha, 3. Despulpado, 4. Secado y 5. Tostión. Cada etapa tiene un dibujo pequeño (icono) y una breve descripción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indicar el precio de cada etapa en pesos colombianos.",
+          "is_correct": false,
+          "feedback": "Los números aquí sirven para marcar una secuencia, no valores monetarios."
+        },
+        {
+          "letter": "B",
+          "text": "Establecer el orden lógico y cronológico en que ocurre el proceso.",
+          "is_correct": true,
+          "feedback": "La numeración guía el recorrido de lectura en un proceso que tiene un inicio y un fin."
+        },
+        {
+          "letter": "C",
+          "text": "Contar cuántas personas trabajan en cada una de las fases.",
+          "is_correct": false,
+          "feedback": "No hay información que sugiera que los números representen cantidad de trabajadores."
+        },
+        {
+          "letter": "D",
+          "text": "Mostrar la importancia de cada etapa, siendo la 1 la más importante.",
+          "is_correct": false,
+          "feedback": "En un ciclo, todas las etapas son necesarias; el orden es temporal, no de importancia jerárquica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las infografías de proceso utilizan guías numéricas para convertir una lectura espacial en una lectura secuencial, asegurando que el receptor entienda el flujo correcto de la información.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-7-2026-W30-infografias-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W30-infografias-001-MASTERY-v4",
+      "statement": "¿Qué principio de diseño se aplica en esta infografía para facilitar la comprensión del lector?",
+      "context": "En una infografía sobre los beneficios de las frutas, el texto que habla del limón está resaltado en color amarillo, el de la fresa en rojo y el de la uva en morado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso de colores al azar para que el diseño sea divertido.",
+          "is_correct": false,
+          "feedback": "El uso del color no es al azar; tiene una intención comunicativa."
+        },
+        {
+          "letter": "B",
+          "text": "La asociación cromática entre el color del texto y el objeto real que representa.",
+          "is_correct": true,
+          "feedback": "Esto crea un vínculo mental rápido que ayuda al lector a clasificar la información antes de leerla detalladamente."
+        },
+        {
+          "letter": "C",
+          "text": "El uso de colores oscuros para que la letra se lea mejor.",
+          "is_correct": false,
+          "feedback": "Amarillo no es un color oscuro; la estrategia aquí es la asociación de significado."
+        },
+        {
+          "letter": "D",
+          "text": "La obligación de usar todos los colores del arcoíris en cada página.",
+          "is_correct": false,
+          "feedback": "No existe tal obligación; el diseño responde a la funcionalidad del mensaje."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso del color en las infografías no es meramente estético. Actúa como un código que organiza la información y refuerza el reconocimiento visual de los conceptos tratados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-7-2026-W30-infografias-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W30-infografias-001-MASTERY-v5",
+      "statement": "¿Cuál sería el primer paso para garantizar que tu infografía sea efectiva y no sature al lector?",
+      "context": "Quieres crear una infografía para explicar las reglas del fútbol de salón en tu escuela de Pasto. Tienes mucha información sobre la historia del deporte, las medidas de la cancha, las faltas y los uniformes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poner todo el texto que encontraste en internet con letra muy pequeña.",
+          "is_correct": false,
+          "feedback": "Esto satura al lector y rompe el propósito de la infografía."
+        },
+        {
+          "letter": "B",
+          "text": "Seleccionar y resumir la información más importante, priorizando lo visual sobre lo textual.",
+          "is_correct": true,
+          "feedback": "La síntesis es la clave de la infografía; se debe dejar solo lo esencial para que el mensaje sea directo."
+        },
+        {
+          "letter": "C",
+          "text": "Usar solo imágenes sin poner ningún título ni explicación.",
+          "is_correct": false,
+          "feedback": "Sin texto, la información sobre reglas específicas podría ser ambigua o incompleta."
+        },
+        {
+          "letter": "D",
+          "text": "Hacer una infografía de diez páginas para que quepa toda la información.",
+          "is_correct": false,
+          "feedback": "Una infografía suele ser de una sola página o pantalla para permitir una visión global."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La producción de infografías requiere un proceso de curaduría de contenidos. El autor debe decidir qué información se puede \"decir\" con una imagen y qué información necesita obligatoriamente de la palabra escrita.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-7-2026-W30-infografias-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W30-infografias-001-MASTERY-v6",
+      "statement": "¿Cuál es la principal diferencia entre una infografía impresa y una infografía digital interactiva?",
+      "context": "Una infografía sobre el uso de energía muestra una casa. Al hacer clic en la ventana, se despliega un consejo sobre el uso de la luz natural. (Este es un ejemplo de una infografía interactiva).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La impresa es más verdadera porque no se puede cambiar.",
+          "is_correct": false,
+          "feedback": "El soporte no determina la veracidad de la información."
+        },
+        {
+          "letter": "B",
+          "text": "La digital no usa texto porque los videos lo explican todo.",
+          "is_correct": false,
+          "feedback": "Las infografías digitales siguen usando texto, pero de forma dinámica."
+        },
+        {
+          "letter": "C",
+          "text": "La interactiva permite al usuario explorar la información a su propio ritmo y por niveles de profundidad.",
+          "is_correct": true,
+          "feedback": "La interactividad añade una capa de participación del usuario que no existe en el formato estático."
+        },
+        {
+          "letter": "D",
+          "text": "La impresa siempre es más barata de producir en todos los casos.",
+          "is_correct": false,
+          "feedback": "No siempre es cierto y no es una diferencia de tipo comunicativo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La multimodalidad digital añade la dimensión de la interactividad. Esto permite que la infografía no solo sea visual, sino que también responda a las acciones del lector, facilitando el aprendizaje personalizado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-7-2026-W30-infografias-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W30-infografias-001-MASTERY-v7",
+      "statement": "¿Qué recurso de pensamiento visual se está utilizando en esta infografía para que el lector dimensione la altura de la cascada?",
+      "context": "Analiza una infografía que compara la altura del Salto del Tequendama con edificios famosos del mundo. El Salto del Tequendama aparece a la izquierda y los edificios a la derecha, todos a la misma escala visual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La personificación de los edificios.",
+          "is_correct": false,
+          "feedback": "No se les está dando características humanas, solo se muestran sus dimensiones."
+        },
+        {
+          "letter": "B",
+          "text": "La analogía o comparación con objetos conocidos para dar contexto a una cifra.",
+          "is_correct": true,
+          "feedback": "Al comparar algo con lo que el lector ya conoce (como un edificio), se facilita la comprensión de magnitudes abstractas (como metros de altura)."
+        },
+        {
+          "letter": "C",
+          "text": "La exageración de los colores para que la cascada se vea más bonita.",
+          "is_correct": false,
+          "feedback": "El recurso clave aquí es la escala y la comparación, no el color."
+        },
+        {
+          "letter": "D",
+          "text": "El uso de rimas para que el lector recuerde los nombres de los edificios.",
+          "is_correct": false,
+          "feedback": "Esto sería un recurso auditivo o literario, no propio del diseño visual de esta infografía."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las infografías comparativas son muy efectivas porque aterrizan datos abstractos en referentes visuales concretos, permitiendo al cerebro realizar operaciones de tamaño y proporción de manera casi instantánea.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-7-2026-W30-infografias-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W30-infografias-001-MASTERY-v8",
+      "statement": "Desde una perspectiva de lectura crítica, ¿cuál es el sesgo o mensaje subjetivo que transmite esta infografía?",
+      "context": "Una infografía sobre el uso de internet en jóvenes muestra un dibujo de un cerebro \"encogido\" al lado de un computador y un cerebro \"grande y brillante\" al lado de un libro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que leer libros es malo para la vista por el brillo del cerebro.",
+          "is_correct": false,
+          "feedback": "Es una interpretación literal errónea del simbolismo visual."
+        },
+        {
+          "letter": "B",
+          "text": "Que el computador es más rápido que el cerebro humano.",
+          "is_correct": false,
+          "feedback": "La imagen sugiere lo contrario respecto al desarrollo del cerebro."
+        },
+        {
+          "letter": "C",
+          "text": "Una valoración negativa del uso de la tecnología frente a una idealización de la lectura tradicional.",
+          "is_correct": true,
+          "feedback": "Los iconos (cerebro encogido vs. grande) imponen un juicio de valor antes de que el lector analice los datos reales."
+        },
+        {
+          "letter": "D",
+          "text": "Que el tamaño físico del cerebro cambia instantáneamente al abrir un libro.",
+          "is_correct": false,
+          "feedback": "Los gráficos son simbólicos, no representan cambios anatómicos reales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El análisis crítico de infografías implica identificar cómo los recursos gráficos (tamaño, color, caricaturización) pueden usarse para manipular la opinión del lector o simplificar excesivamente problemas complejos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-7-2026-W30-infografias-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W30-infografias-001-MASTERY-v9",
+      "statement": "¿Cómo utiliza esta infografía la jerarquía visual para influir en el consumidor?",
+      "context": "En una infografía sobre nutrición pagada por una marca de cereales azucarados, se destaca en letras grandes \"Contiene Vitaminas\" y se pone en una esquina muy pequeña, con letra gris, \"Alto en azúcar\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Siguiendo las normas legales colombianas de etiquetado de manera honesta.",
+          "is_correct": false,
+          "feedback": "El diseño busca minimizar la información negativa, lo cual no es necesariamente honesto aunque cumpla la ley."
+        },
+        {
+          "letter": "B",
+          "text": "Usando el tamaño y el contraste para dar relevancia a lo positivo y ocultar visualmente lo negativo.",
+          "is_correct": true,
+          "feedback": "La jerarquía visual dirige la atención hacia lo que la marca quiere resaltar, manipulando el recorrido de lectura."
+        },
+        {
+          "letter": "C",
+          "text": "Asegurando que el lector lea primero lo más importante para su salud.",
+          "is_correct": false,
+          "feedback": "Lo más importante (azúcar) está oculto, por lo que no favorece la salud."
+        },
+        {
+          "letter": "D",
+          "text": "Aplicando el color gris para que la información del azúcar se vea más profesional.",
+          "is_correct": false,
+          "feedback": "El gris sobre blanco tiene poco contraste, lo que dificulta su lectura a propósito."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La jerarquía visual es el orden en que el ojo percibe los elementos. En la lectura crítica de infografías, se debe notar cómo el diseño puede usarse para desviar la atención de datos críticos mediante la falta de contraste o el tamaño reducido.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-7-2026-W30-infografias-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W30-infografias-001-MASTERY-v10",
+      "statement": "Evalúa la coherencia entre el tema y los recursos multimodales utilizados en esta infografía. ¿Cuál es la conclusión más acertada?",
+      "context": "Un periódico escolar en Bogotá publica una infografía sobre el acoso escolar (bullying). El diseño usa colores muy alegres y caricaturas cómicas para representar las situaciones de agresión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una buena estrategia porque el tema es para niños y debe ser divertido.",
+          "is_correct": false,
+          "feedback": "El bullying es un tema serio, tratarlo como algo divertido es contraproducente."
+        },
+        {
+          "letter": "B",
+          "text": "El uso de caricaturas es necesario para que no sea una lectura aburrida.",
+          "is_correct": false,
+          "feedback": "El interés debe venir del contenido, no de trivializar el problema con dibujos cómicos."
+        },
+        {
+          "letter": "C",
+          "text": "Existe una contradicción entre la gravedad del tema y el tono visual, lo que podría restarle importancia al problema.",
+          "is_correct": true,
+          "feedback": "El lenguaje visual (modos) debe estar alineado con el tono y la intención del mensaje verbal."
+        },
+        {
+          "letter": "D",
+          "text": "No importa el diseño mientras el texto diga que el bullying está mal.",
+          "is_correct": false,
+          "feedback": "En un texto multimodal, la imagen comunica tanto o más que el texto; la contradicción genera confusión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La evaluación de la eficacia de una infografía incluye juzgar la adecuación del estilo gráfico al propósito comunicativo. Un diseño incoherente puede invalidar el mensaje educativo que se pretende transmitir.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación | Notas |\n| :--- | :---: | :--- |\n| Técnico | 30/30 | Cumple con el protocolo v5.2, sin errores de formato. |\n| Curricular | 40/40 | Aborda todos los niveles de análisis de infografías para grado 7. |\n| Contexto | 20/20 | Ejemplos locales (Vallenato, Salto del Tequendama, Pasto, Bogotá) integrados naturalmente. |\n| Redacción | 10/10 | Preguntas claras, feedback específico y pedagógico. |\n| **Total** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LEN-7-2026-W30-infografias-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

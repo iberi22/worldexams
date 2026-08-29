@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-30-grade-9-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.948Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-9-2026-W30-review-p6-001-MASTERY-bundle-v1",
+      "statement": "By the time the journalist arrived, the protest ________ already.",
+      "context": "Reviewing narrative tenses.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "finished",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "was finishing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "had finished",
+          "is_correct": true,
+          "feedback": "Correct! Past Perfect for an action completed before another past event."
+        },
+        {
+          "letter": "D",
+          "text": "has finished",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Usamos el Pasado Perfecto (*had finished*) para secuenciar eventos en el pasado, indicando qué acción ocurrió primero.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W30-review-p6-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W30-review-p6-001-MASTERY-bundle-v2",
+      "statement": "________ the internet connects everyone, it also creates filter bubbles.",
+      "context": "Reviewing adverbial clauses of contrast.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Although",
+          "is_correct": true,
+          "feedback": "Correct! \"Although\" introduces a contrast clause."
+        },
+        {
+          "letter": "C",
+          "text": "Due to",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "So that",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "*Although* es el conector estándar para introducir una concesión o contraste entre dos ideas en una oración compleja.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W30-review-p6-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W30-review-p6-001-MASTERY-bundle-v3",
+      "statement": "Remote work is a ________ trend that will likely continue for decades.",
+      "context": "Reviewing compound adjectives.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "long term",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs hyphen before the noun."
+        },
+        {
+          "letter": "B",
+          "text": "long-term",
+          "is_correct": true,
+          "feedback": "Correct! Compound adjective modifying \"trend\"."
+        },
+        {
+          "letter": "C",
+          "text": "term-long",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "longly-term",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los adjetivos compuestos como *long-term* requieren un guion cuando preceden al sustantivo que describen.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W30-review-p6-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W30-review-p6-001-MASTERY-bundle-v4",
+      "statement": "________ seen such a powerful documentary about media influence.",
+      "context": "Reviewing inversion for emphasis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Never I had",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Never had I",
+          "is_correct": true,
+          "feedback": "Correct! Inversion after the negative adverb \"Never\"."
+        },
+        {
+          "letter": "C",
+          "text": "I never had",
+          "is_correct": false,
+          "feedback": "Incorrect. (Normal order, not emphatic)."
+        },
+        {
+          "letter": "D",
+          "text": "Never I have",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La inversión del sujeto y el auxiliar después de adverbios negativos iniciales es una técnica clave para dar énfasis a nivel B2.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W30-review-p6-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W30-review-p6-001-MASTERY-bundle-v5",
+      "statement": "The protagonist ________ for a job for months when he finally got an interview.",
+      "context": "Reviewing narrative background.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "searched",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "was searching",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "had been searching",
+          "is_correct": true,
+          "feedback": "Correct! Past Perfect Continuous for a long activity leading up to a point in the past."
+        },
+        {
+          "letter": "D",
+          "text": "has been searching",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Pasado Perfecto Continuo resalta la duración del esfuerzo previo a un evento específico en el pasado.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W30-review-p6-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W30-review-p6-001-MASTERY-bundle-v6",
+      "statement": "Media literacy is becoming more important ________ the rise of deepfakes.",
+      "context": "Reviewing connectors of reason.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "because",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs a full clause."
+        },
+        {
+          "letter": "B",
+          "text": "due to",
+          "is_correct": true,
+          "feedback": "Correct! \"Due to\" is followed by a noun phrase to show cause."
+        },
+        {
+          "letter": "C",
+          "text": "so that",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "although",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Diferenciamos entre *because* (para oraciones completas) y *due to* (para sustantivos) al expresar razones.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W30-review-p6-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W30-review-p6-001-MASTERY-bundle-v7",
+      "statement": "Which sentence is grammatically correct?",
+      "context": "Identifying correct inversion after \"Not only\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Not only the algorithm is complex, but it's also biased.",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing inversion."
+        },
+        {
+          "letter": "B",
+          "text": "Not only is the algorithm complex, but it's also biased.",
+          "is_correct": true,
+          "feedback": "Correct! Standard inversion after \"Not only\"."
+        },
+        {
+          "letter": "C",
+          "text": "The algorithm is not only complex, but is also biased.",
+          "is_correct": false,
+          "feedback": "Incorrect. (Possible but less emphatic than B)."
+        },
+        {
+          "letter": "D",
+          "text": "Not only does the algorithm complex, but it's also biased.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Complex\" is an adjective, not a verb."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al usar *Not only* al principio de una frase, debemos tratar la cláusula siguiente como si fuera una pregunta, invirtiendo el verbo *to be* o usando un auxiliar.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W30-review-p6-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W30-review-p6-001-MASTERY-bundle-v8",
+      "statement": "\"________ the intense pressure from the media, the activist did not give up.\"",
+      "context": "Distinguishing between contrast connectors.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Although",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs a subject and verb."
+        },
+        {
+          "letter": "B",
+          "text": "Despite",
+          "is_correct": true,
+          "feedback": "Correct! \"Despite\" is a preposition followed by a noun."
+        },
+        {
+          "letter": "C",
+          "text": "Even though",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs a full clause."
+        },
+        {
+          "letter": "D",
+          "text": "In spite that",
+          "is_correct": false,
+          "feedback": "Incorrect. Should be \"In spite of\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A nivel B2, el estudiante debe elegir el conector de contraste basándose en la estructura gramatical que le sigue (sustantivo vs. oración completa).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W30-review-p6-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W30-review-p6-001-MASTERY-bundle-v9",
+      "statement": "________ that the viral video would lead to a national debate on rights.",
+      "context": "Using \"Little did they know\" correctly.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Little they knew",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Little did they realize",
+          "is_correct": true,
+          "feedback": "Correct! Inversion after \"Little\" with a reporting verb."
+        },
+        {
+          "letter": "C",
+          "text": "They little realized",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Little have they realized",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La expresión *Little did they [verb]* es un modismo avanzado para indicar sorpresa ante las consecuencias inesperadas de un acto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W30-review-p6-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W30-review-p6-001-MASTERY-bundle-v10",
+      "statement": "Identify the error in this paragraph:\n\"In the modern world, **well-educated** (A) workers are essential. **Because of** (B) technology is changing so fast, we need to adapt. **Not only do we need** (C) technical skills, but also soft skills. **Seldom have we** (D) seen such a rapid transformation.\"",
+      "context": "Identifying an error in a text about future skills.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "well-educated",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct compound adjective."
+        },
+        {
+          "letter": "B",
+          "text": "Because of",
+          "is_correct": true,
+          "feedback": "Correct! \"Because of\" should be followed by a noun. Since there is a full clause (\"technology is changing\"), it should be just \"Because\"."
+        },
+        {
+          "letter": "C",
+          "text": "Not only do we need",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct inversion."
+        },
+        {
+          "letter": "D",
+          "text": "Seldom have we",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct inversion."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Confundir *because* con *because of* es un error común que afecta la coherencia gramatical de los argumentos complejos.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-9-2026-W30-review-p6-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W30-review-p6-001-MASTERY-bundle-v11",
+      "statement": "Which sentence best sets a **dramatic background** for a story about a career change?",
+      "context": "Choosing the best storytelling opening.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He worked in a high-tech office and then he quit.",
+          "is_correct": false,
+          "feedback": "Incorrect. Too simple."
+        },
+        {
+          "letter": "B",
+          "text": "Having worked in a high-pressure, world-famous corporation for a decade, Julian realized that he needed a more meaningful life.",
+          "is_correct": true,
+          "feedback": "Correct! Uses perfect participle, compound adjectives and advanced vocabulary fluently."
+        },
+        {
+          "letter": "C",
+          "text": "Although he had a good job, he was unhappy because it was time-consuming.",
+          "is_correct": false,
+          "feedback": "Incorrect. Good but less sophisticated than B."
+        },
+        {
+          "letter": "D",
+          "text": "Not only he was tired, but also he was bored of his full-time job.",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing inversion."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La integración de múltiples estructuras (participios, adjetivos compuestos) permite crear oraciones densas en información y de alto impacto literario.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-9-2026-W30-review-p6-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W30-review-p6-001-MASTERY-bundle-v12",
+      "statement": "Choose the best completion:\n\"________ has the influence of media been so pervasive. ________ the benefits of connectivity, we must remain vigilant ________ the risks of misinformation in a ________ world.\"",
+      "context": "Completing a complex academic summary.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Never / Although / due to / high-tech",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Seldom / Despite / because of / fast-changing",
+          "is_correct": true,
+          "feedback": "Correct! Proper use of inversion, contrast preposition, reason preposition, and compound adjective."
+        },
+        {
+          "letter": "C",
+          "text": "Rarely / Even though / because / world-famous",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Not only / In spite of / so that / digital",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este ejercicio final evalúa la capacidad de integrar todas las herramientas gramaticales del bloque para producir un resumen analítico de alta calidad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-9-2026-W30-review-p6-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

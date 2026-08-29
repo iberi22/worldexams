@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-14-grade-9-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.940Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-9-2026-W14-modern-history-001-MASTERY-bundle-v1",
+      "statement": "________ the flag, the soldiers advanced toward the city gates.",
+      "context": "Describing two simultaneous actions in a historical battle.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carrying",
+          "is_correct": true,
+          "feedback": "Correct! Present participle clause (-ing) shows two actions happening at the same time by the same subject."
+        },
+        {
+          "letter": "B",
+          "text": "Carried",
+          "is_correct": false,
+          "feedback": "Incorrect. Past participle has a passive meaning."
+        },
+        {
+          "letter": "C",
+          "text": "Having carried",
+          "is_correct": false,
+          "feedback": "Incorrect. This would mean they carried it before they advanced."
+        },
+        {
+          "letter": "D",
+          "text": "To carry",
+          "is_correct": false,
+          "feedback": "Incorrect. Infinitives don't function as participle clauses here."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las oraciones de participio de presente (*-ing*) se usan para describir dos acciones que el mismo sujeto realiza de manera simultánea.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W14-modern-history-001-MASTERY-bundle-v2",
+      "statement": "The treaty, ________ by both leaders, finally brought peace to the region.",
+      "context": "Describing a result of a past event.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "signing",
+          "is_correct": false,
+          "feedback": "Incorrect. This would mean the treaty was doing the signing."
+        },
+        {
+          "letter": "B",
+          "text": "signed",
+          "is_correct": true,
+          "feedback": "Correct! Past participle clause has a passive meaning, like a reduced relative clause."
+        },
+        {
+          "letter": "C",
+          "text": "having signed",
+          "is_correct": false,
+          "feedback": "Incorrect. Active meaning."
+        },
+        {
+          "letter": "D",
+          "text": "being signed",
+          "is_correct": false,
+          "feedback": "Incorrect. Refers to an action in progress."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El participio pasado (*signed*) funciona aquí como una oración de relativo reducida (\"which was signed\").\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W14-modern-history-001-MASTERY-bundle-v3",
+      "statement": "________ the election, the new president began his social reforms immediately.",
+      "context": "Sequencing two historical events.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Winning",
+          "is_correct": false,
+          "feedback": "Incorrect. This implies he was winning at the same time he started the reforms."
+        },
+        {
+          "letter": "B",
+          "text": "Having won",
+          "is_correct": true,
+          "feedback": "Correct! Perfect participle clause (having + past participle) shows one action finished before another."
+        },
+        {
+          "letter": "C",
+          "text": "Won",
+          "is_correct": false,
+          "feedback": "Incorrect. Passive meaning."
+        },
+        {
+          "letter": "D",
+          "text": "To win",
+          "is_correct": false,
+          "feedback": "Incorrect. Infinitives don't show this sequence."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos el participio de perfecto (*Having won*) para dejar claro que una acción terminó completamente antes de que comenzara la siguiente acción en el pasado.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W14-modern-history-001-MASTERY-bundle-v4",
+      "statement": "________ that the situation was dangerous, the explorers decided to return to the coast.",
+      "context": "Explaining a reason for a past event.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Realizing",
+          "is_correct": true,
+          "feedback": "Correct! Present participle can show a cause or reason."
+        },
+        {
+          "letter": "B",
+          "text": "Realized",
+          "is_correct": false,
+          "feedback": "Incorrect. Passive meaning."
+        },
+        {
+          "letter": "C",
+          "text": "Having realized",
+          "is_correct": false,
+          "feedback": "Incorrect. While possible, \"Realizing\" fits the immediate cause better."
+        },
+        {
+          "letter": "D",
+          "text": "To realize",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una oración de participio de presente puede usarse para explicar la razón de la acción principal. Equivale a decir \"Because they realized...\".\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W14-modern-history-001-MASTERY-bundle-v5",
+      "statement": "There are several documents in the archive ________ the history of the independence.",
+      "context": "Describing the content of a document.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "described",
+          "is_correct": false,
+          "feedback": "Incorrect. This would mean the documents were described by something else."
+        },
+        {
+          "letter": "B",
+          "text": "describing",
+          "is_correct": true,
+          "feedback": "Correct! Present participle functions like an active relative clause (\"which describe\")."
+        },
+        {
+          "letter": "C",
+          "text": "having described",
+          "is_correct": false,
+          "feedback": "Incorrect. Too complex for this context."
+        },
+        {
+          "letter": "D",
+          "text": "to describe",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El participio de presente se usa frecuentemente para sustituir oraciones de relativo activas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W14-modern-history-001-MASTERY-bundle-v6",
+      "statement": "________ at the foot of the mountains, the town was isolated from most trade routes.",
+      "context": "Describing a city's location.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Locating",
+          "is_correct": false,
+          "feedback": "Incorrect. Active meaning."
+        },
+        {
+          "letter": "B",
+          "text": "Located",
+          "is_correct": true,
+          "feedback": "Correct! Past participle shows the passive state or situation."
+        },
+        {
+          "letter": "C",
+          "text": "Having located",
+          "is_correct": false,
+          "feedback": "Incorrect. Active meaning."
+        },
+        {
+          "letter": "D",
+          "text": "Being located",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos el participio pasado al inicio de la oración para describir una circunstancia o estado pasivo del sujeto principal.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W14-modern-history-001-MASTERY-bundle-v7",
+      "statement": "Which sentence is grammatically correct?",
+      "context": "Identifying the correct subject of a participle clause.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Walking through the museum, the paintings were beautiful.",
+          "is_correct": false,
+          "feedback": "Incorrect. This implies the paintings were walking."
+        },
+        {
+          "letter": "B",
+          "text": "Walking through the museum, I saw many beautiful paintings.",
+          "is_correct": true,
+          "feedback": "Correct! The subject \"I\" is the one who was walking."
+        },
+        {
+          "letter": "C",
+          "text": "Walked through the museum, I saw many paintings.",
+          "is_correct": false,
+          "feedback": "Incorrect. Passive meaning for \"walked\"."
+        },
+        {
+          "letter": "D",
+          "text": "Having walking through the museum, I saw many paintings.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sujeto de la oración principal debe ser el mismo que realiza la acción expresada por el participio.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W14-modern-history-001-MASTERY-bundle-v8",
+      "statement": "\"Having finished the report, the researcher submitted it to the academy.\"\nWhat does this imply?",
+      "context": "Understanding the nuance of the perfect participle.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He submitted it while he was finishing it.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "He submitted it only after he had completely finished it.",
+          "is_correct": true,
+          "feedback": "Correct! \"Having + past participle\" emphasizes completion of the first action."
+        },
+        {
+          "letter": "C",
+          "text": "He finished it because he submitted it.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "He submitted it to help him finish it.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El participio de perfecto (*Having finished*) indica prioridad temporal entre dos acciones pasadas.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W14-modern-history-001-MASTERY-bundle-v9",
+      "statement": "________ enough evidence to prove his theory, the scientist continued his research for years.",
+      "context": "Negative participle clauses.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Having not",
+          "is_correct": false,
+          "feedback": "Incorrect word order."
+        },
+        {
+          "letter": "B",
+          "text": "Not having",
+          "is_correct": true,
+          "feedback": "Correct! Negative participle clauses start with \"Not\" followed by the participle."
+        },
+        {
+          "letter": "C",
+          "text": "Don't having",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Not had",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para formar la versión negativa de una oración de participio, colocamos *not* delante del participio.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W14-modern-history-001-MASTERY-bundle-v10",
+      "statement": "Identify the error in this paragraph:\n\"Growing up during the industrial revolution, the city changed rapidly. Built near the coal mines, the factories polluted the air. Having been successful in business, the owners **becoming** very wealthy.\"",
+      "context": "Finding an error in a historical summary.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Growing up",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use."
+        },
+        {
+          "letter": "B",
+          "text": "Built",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use."
+        },
+        {
+          "letter": "C",
+          "text": "Having been",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use."
+        },
+        {
+          "letter": "D",
+          "text": "becoming",
+          "is_correct": true,
+          "feedback": "Correct! This should be a finite verb (became) because it is the main verb of the sentence."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una oración de participio no puede funcionar como el verbo principal de una oración independiente.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-9-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W14-modern-history-001-MASTERY-bundle-v11",
+      "statement": "Which sentence is the most formal way to report a historical event?",
+      "context": "Choosing the best way to report an event.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The king was defeated and then he went into exile.",
+          "is_correct": false,
+          "feedback": "Incorrect. Too simple."
+        },
+        {
+          "letter": "B",
+          "text": "When the king was defeated, he went into exile.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Defeated in battle, the king went into exile.",
+          "is_correct": true,
+          "feedback": "Correct! Uses a past participle clause for conciseness."
+        },
+        {
+          "letter": "D",
+          "text": "The king, who was defeated, went into exile.",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El uso de oraciones de participio es una característica del lenguaje académico e histórico formal.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-9-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W14-modern-history-001-MASTERY-bundle-v12",
+      "statement": "\"Understanding the discovery, the explorers sent a messenger, ________ for more supplies.\"",
+      "context": "Completing a complex historical analysis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "asked",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "asking",
+          "is_correct": true,
+          "feedback": "Correct! Present participle for simultaneous action."
+        },
+        {
+          "letter": "C",
+          "text": "to have asked",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "having asked",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso de participios permite crear una narrativa histórica fluida y de nivel avanzado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-9-2026-W14-modern-history-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-11-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.893Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W11-past-simple-tobe-001-v1",
+      "statement": "Which form of the verb \"to be\" is used for the plural subjects \"We\", \"You\", and \"They\" in the past?",
+      "context": "Identifying the correct past form of \"to be\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Was",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Was\" is for singular subjects like I, He, She, and It."
+        },
+        {
+          "letter": "B",
+          "text": "Were",
+          "is_correct": true,
+          "feedback": "Correct! \"Were\" is the past plural form of \"to be\"."
+        },
+        {
+          "letter": "C",
+          "text": "Am",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Am\" is a present form."
+        },
+        {
+          "letter": "D",
+          "text": "Is",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Is\" is a present form."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student identifies the correct past conjugation of the verb \"to be\" for plural pronouns.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W11-past-simple-tobe-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W11-past-simple-tobe-002-v1",
+      "statement": "What is the negative contraction of \"was not\"?",
+      "context": "Talking about a negative past state.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Weren't",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Weren't\" is the contraction of \"were not\"."
+        },
+        {
+          "letter": "B",
+          "text": "Wasn't",
+          "is_correct": true,
+          "feedback": "Correct! \"Wasn't\" is the short form of \"was not\"."
+        },
+        {
+          "letter": "C",
+          "text": "Don't",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Don't\" is used for the Present Simple."
+        },
+        {
+          "letter": "D",
+          "text": "Isn't",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Isn't\" is used for the Present Simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student remembers the correct negative contraction for the third person singular in the past.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W11-past-simple-tobe-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W11-past-simple-tobe-003-v1",
+      "statement": "Complete the sentence: \"Yesterday, Sofia ________ at the school library in the afternoon.\"",
+      "context": "Describing where someone was yesterday in Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was",
+          "is_correct": true,
+          "feedback": "Correct! \"Was\" is used for the singular subject Sofia (she)."
+        },
+        {
+          "letter": "B",
+          "text": "were",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Were\" is for plural subjects."
+        },
+        {
+          "letter": "C",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Is\" is present tense, and the sentence mentions \"Yesterday\"."
+        },
+        {
+          "letter": "D",
+          "text": "be",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the base form, not the conjugated past form."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student understands that a past time marker (Yesterday) requires a past form of \"to be\" corresponding to a singular subject.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W11-past-simple-tobe-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W11-past-simple-tobe-004-v1",
+      "statement": "Choose the correct question to ask about your friends' presence at a party.",
+      "context": "Asking a question about a past party.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Was your friends at the party?",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Friends\" is plural, so it needs \"Were\"."
+        },
+        {
+          "letter": "B",
+          "text": "Were your friends at the party?",
+          "is_correct": true,
+          "feedback": "Correct! \"Were\" is the auxiliary for plural subjects in past questions."
+        },
+        {
+          "letter": "C",
+          "text": "Your friends were at the party?",
+          "is_correct": false,
+          "feedback": "Incorrect. The auxiliary must come before the subject in a formal question."
+        },
+        {
+          "letter": "D",
+          "text": "Do your friends were at the party?",
+          "is_correct": false,
+          "feedback": "Incorrect. We don't use \"do\" with the verb \"to be\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the inversion of subject and verb \"to be\" required for past tense questions.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W11-past-simple-tobe-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W11-past-simple-tobe-005-v1",
+      "statement": "\"We won the match! We ________ so happy and excited last night.\"",
+      "context": "Describing past emotions after a soccer match in Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was",
+          "is_correct": false,
+          "feedback": "Incorrect. \"We\" is plural and requires \"were\"."
+        },
+        {
+          "letter": "B",
+          "text": "were",
+          "is_correct": true,
+          "feedback": "Correct! \"Were\" is the past plural form for \"We\"."
+        },
+        {
+          "letter": "C",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Are\" is present, but the context is \"last night\"."
+        },
+        {
+          "letter": "D",
+          "text": "was'nt",
+          "is_correct": false,
+          "feedback": "Incorrect. The context (winning) implies they WERE happy, not that they weren't."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies the correct past conjugation of \"to be\" based on a plural subject and a positive context.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W11-past-simple-tobe-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W11-past-simple-tobe-006-v1",
+      "statement": "According to the text, how was the weather?",
+      "context": "A text about a past trip to Cartagena.\n\"My family and I were in Cartagena last week. The weather was very hot, but the beaches were beautiful. It was a great vacation.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It were beautiful.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Weather\" is singular and requires \"was\"."
+        },
+        {
+          "letter": "B",
+          "text": "It was very hot.",
+          "is_correct": true,
+          "feedback": "Correct! The text explicitly says \"The weather was very hot\"."
+        },
+        {
+          "letter": "C",
+          "text": "It wasn't hot.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says it was hot."
+        },
+        {
+          "letter": "D",
+          "text": "They were hot.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"They\" is for plural; weather is singular."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies reading strategies to identify a specific past description in a text.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W11-past-simple-tobe-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W11-past-simple-tobe-007-v1",
+      "statement": "\"I ________ born in Cali in 2012.\"",
+      "context": "Stating one's birthplace.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was",
+          "is_correct": true,
+          "feedback": "Correct! In English, we use \"was born\" with the subject \"I\"."
+        },
+        {
+          "letter": "B",
+          "text": "am",
+          "is_correct": false,
+          "feedback": "Incorrect. Birth is a past event, so we use the past tense."
+        },
+        {
+          "letter": "C",
+          "text": "were",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Were\" is not used with \"I\"."
+        },
+        {
+          "letter": "D",
+          "text": "did",
+          "is_correct": false,
+          "feedback": "Incorrect. We don't use \"did\" with the expression \"born\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student applies the specific past structure \"was born\" to describe their own birth.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W11-past-simple-tobe-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W11-past-simple-tobe-008-v1",
+      "statement": "Choose the correct sentence that compares the past and the present.",
+      "context": "Comparing present and past states.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Last year I was 11, now I were 12.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Now\" requires the present \"am\"."
+        },
+        {
+          "letter": "B",
+          "text": "Last year I am 11, now I was 12.",
+          "is_correct": false,
+          "feedback": "Incorrect. The tenses are reversed."
+        },
+        {
+          "letter": "C",
+          "text": "Last year I was 11, now I am 12.",
+          "is_correct": true,
+          "feedback": "Correct! \"Was\" for the past and \"am\" for the present."
+        },
+        {
+          "letter": "D",
+          "text": "Last year I were 11, now I am 12.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Were\" is not used with \"I\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student analyzes the temporal markers (last year, now) to select the correct verb tenses.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W11-past-simple-tobe-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W11-past-simple-tobe-009-v1",
+      "statement": "What can we analyze about the grandfather's childhood?",
+      "context": "Analyzing a person's childhood description.\n\"When my grandfather was a child, there were no cell phones. He was very active and his favorite place was the park near his house.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He was lazy.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says he was \"very active\"."
+        },
+        {
+          "letter": "B",
+          "text": "Technology was different in his time.",
+          "is_correct": true,
+          "feedback": "Correct! The text says there were no cell phones."
+        },
+        {
+          "letter": "C",
+          "text": "There were many cell phones in the past.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says there were NONE."
+        },
+        {
+          "letter": "D",
+          "text": "He were always at home.",
+          "is_correct": false,
+          "feedback": "Incorrect. His favorite place was the park."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student analyzes a text about the past to identify a logical deduction or fact.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W11-past-simple-tobe-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W11-past-simple-tobe-010-v1",
+      "statement": "Which of the following evaluations best describes the text?",
+      "context": "A summary of a historical figure.\n\"Gabriel García Márquez was a famous Colombian writer. He was born in Aracataca. His books were very popular all over the world. He was a Nobel Prize winner.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is a text about a person who is currently writing popular books.",
+          "is_correct": false,
+          "feedback": "Incorrect. The use of \"was\" indicates he is a historical figure."
+        },
+        {
+          "letter": "B",
+          "text": "It is a text about a writer who was only famous in Aracataca.",
+          "is_correct": false,
+          "feedback": "Incorrect. It says his books were popular \"all over the world\"."
+        },
+        {
+          "letter": "C",
+          "text": "It is a biographical summary of a successful and globally recognized historical figure.",
+          "is_correct": true,
+          "feedback": "Correct! The past tense and the mention of the Nobel Prize and world popularity support this."
+        },
+        {
+          "letter": "D",
+          "text": "It is a text about why García Márquez was not a good writer.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text lists his successes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student evaluates the use of the past tense and the provided facts to identify the most accurate summary of the text.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W11-past-simple-tobe-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
