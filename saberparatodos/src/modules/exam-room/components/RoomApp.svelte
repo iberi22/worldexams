@@ -150,8 +150,8 @@
       <div class="text-center mb-12">
         <h1 class="text-5xl font-bold mb-4">👥 Sala de Exámenes</h1>
         <p class="text-xl text-gray-400 mb-2">Aula Virtual Multiplayer</p>
-        <div class="inline-block px-4 py-2 rounded-lg {backendMode === 'rust' ? 'bg-green-900 text-green-300' : 'bg-blue-900 text-blue-300'}">
-          {backendMode === 'rust' ? '🦀 Modo Local (Rust)' : '☁️ Modo Cloud (Supabase)'}
+        <div class="inline-block px-4 py-2 rounded-lg {backendMode === 'rust' ? 'bg-green-900 text-green-300' : 'bg-purple-900 text-purple-300'}">
+          {backendMode === 'rust' ? '🦀 Modo Local (Rust)' : '🌐 Red P2P Mesh (Experimental)'}
         </div>
       </div>
 
@@ -213,9 +213,9 @@
             <p>💡 Puedes tener hasta 1000+ participantes simultáneos</p>
             <p>🚀 Latencia ultra-baja (&lt;5ms en LAN)</p>
           {:else}
-            <p>☁️ Usando Supabase Realtime</p>
-            <p>📊 Límite: 200 conexiones concurrentes (Free Tier)</p>
-            <p>🌐 Funciona desde cualquier lugar con internet</p>
+            <p>🌐 Modo Primario: <strong>Red P2P Mesh (WebRTC / Trystero)</strong> descentralizada</p>
+            <p>🔄 Fallback Automático: <strong>Supabase Realtime</strong> si la red P2P presenta demoras o desconexión</p>
+            <p>📊 Sincronización descentralizada de exámenes en tiempo real</p>
           {/if}
         </div>
       </div>
