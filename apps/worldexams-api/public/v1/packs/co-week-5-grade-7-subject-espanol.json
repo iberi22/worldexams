@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-5-grade-7-subject-lengua",
+    "generated_at": "2026-06-18T23:58:37.525Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-7-2026-W05-romanticismo-colombiano-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál fue el movimiento literario que dominó la escena cultural colombiana en el siglo XIX, caracterizado por el predominio del sentimiento sobre la razón?",
+      "context": "En el siglo XIX, Colombia vivió un movimiento literario que exaltaba el sentimiento, la naturaleza y la libertad individual.\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Modernismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Modernismo surgió a finales del XIX e inicios del XX con un enfoque más estético y refinado."
+        },
+        {
+          "letter": "B",
+          "text": "El Romanticismo",
+          "is_correct": true,
+          "feedback": "¡Correcto! El Romanticismo exaltaba la subjetividad, el amor idealizado y el nacionalismo."
+        },
+        {
+          "letter": "C",
+          "text": "El Realismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Realismo buscaba la objetividad y el retrato social, oponiéndose al idealismo romántico."
+        },
+        {
+          "letter": "D",
+          "text": "El Barroco",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Barroco es de la época colonial (siglos XVII-XVIII)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Romanticismo llegó a Colombia como reflejo del movimiento europeo, pero adquirió matices propios relacionados con la búsqueda de una identidad nacional tras la Independencia. Sus autores valoraban la libertad, la emoción y el paisaje local.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-7-2026-W05-romanticismo-colombiano-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W05-romanticismo-colombiano-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la obra cumbre del romanticismo colombiano, escrita por Jorge Isaacs, que narra el amor trágico entre dos primos?",
+      "context": "Un estudiante en Cali lee sobre la novela más representativa del romanticismo en Colombia, ambientada en el Valle del Cauca.\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"La Vorágine\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es de José Eustasio Rivera y pertenece al realismo social/modernismo."
+        },
+        {
+          "letter": "B",
+          "text": "\"María\"",
+          "is_correct": true,
+          "feedback": "¡Correcto! Publicada en 1867, es considerada la novela romántica por excelencia de América Latina."
+        },
+        {
+          "letter": "C",
+          "text": "\"El Alférez Real\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es de Eustaquio Palacios y se asocia más con el costumbrismo."
+        },
+        {
+          "letter": "D",
+          "text": "\"Cien años de soledad\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es de Gabriel García Márquez y pertenece al siglo XX."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"María\" de Jorge Isaacs personifica los ideales románticos: el amor puro e imposible, la enfermedad sentimental, la exaltación del paisaje (el Valle del Cauca) y la melancolía por el pasado.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-7-2026-W05-romanticismo-colombiano-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W05-romanticismo-colombiano-001-MASTERY-bundle-v3",
+      "statement": "¿Qué característica del romanticismo se evidencia en el tono melancólico y la obsesión por la muerte en la poesía de Julio Flórez?",
+      "context": "Valentina lee un poema de Julio Flórez donde se mencionan cementerios, flores marchitas y una profunda tristeza por una amada muerta.\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El optimismo por el futuro de la nación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El romanticismo tardío era profundamente pesimista y triste."
+        },
+        {
+          "letter": "B",
+          "text": "El culto al sentimiento y la fascinación por lo trágico y lo fúnebre.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La muerte y el dolor son temas recurrentes de la sensibilidad romántica."
+        },
+        {
+          "letter": "C",
+          "text": "El interés por los avances tecnológicos del siglo XIX.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los románticos solían rechazar el frío racionalismo del progreso técnico."
+        },
+        {
+          "letter": "D",
+          "text": "La descripción objetiva de la economía colombiana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La subjetividad del autor está por encima de cualquier descripción objetiva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Julio Flórez representa el romanticismo tardío en Colombia. Su obra conecta con el alma popular precisamente por esa expresión directa y apasionada del dolor, la soledad y el destino trágico del ser humano.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-7-2026-W05-romanticismo-colombiano-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W05-romanticismo-colombiano-001-MASTERY-bundle-v4",
+      "statement": "¿Cómo se relaciona el paisaje con los personajes en la literatura romántica colombiana?",
+      "context": "En el romanticismo colombiano, la naturaleza no es solo un fondo, sino que refleja lo que siente el personaje.\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un lugar peligroso que los personajes siempre quieren evitar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, los personajes aman y se refugian en la naturaleza."
+        },
+        {
+          "letter": "B",
+          "text": "Es una fuente de recursos económicos para los protagonistas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La visión romántica es estética y emocional, no comercial."
+        },
+        {
+          "letter": "C",
+          "text": "Es un espejo de las emociones: si el personaje está triste, el paisaje suele ser sombrío o lluvioso.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El paisaje se \"humaniza\" y acompaña el sentimiento del héroe."
+        },
+        {
+          "letter": "D",
+          "text": "El paisaje no tiene ninguna importancia en las obras románticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El paisaje (especialmente el local) es fundamental para la identidad romántica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este recurso se llama \"falacia patética\" o paisaje sentimental. En \"María\", por ejemplo, el río y la vegetación de la hacienda El Paraíso cambian de tono según el estado de salud y la felicidad de María y Efraín.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-7-2026-W05-romanticismo-colombiano-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W05-romanticismo-colombiano-001-MASTERY-bundle-v5",
+      "statement": "¿Qué valor fundamental del romanticismo se resalta en la figura de este héroe solitario y rebelde?",
+      "context": "Un autor romántico escribe sobre un héroe que lucha solo contra un gobierno injusto, prefiriendo morir antes que perder su honor.\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La obediencia ciega a las leyes establecidas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El romántico suele ser un rebelde que sigue su propia ley moral."
+        },
+        {
+          "letter": "B",
+          "text": "La libertad individual y la exaltación del \"yo\".",
+          "is_correct": true,
+          "feedback": "¡Correcto! El individuo y sus convicciones están por encima de las convenciones sociales."
+        },
+        {
+          "letter": "C",
+          "text": "La importancia de trabajar en equipo para lograr el éxito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El héroe romántico suele ser profundamente solitario."
+        },
+        {
+          "letter": "D",
+          "text": "El deseo de hacerse rico y poderoso rápidamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores románticos son ideales, no materiales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El romanticismo fue el movimiento de la libertad. En Colombia, esto se unió al espíritu de los próceres de la Independencia, creando una literatura que valoraba el sacrificio heroico y la autenticidad personal frente a la opresión.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-7-2026-W05-romanticismo-colombiano-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W05-romanticismo-colombiano-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el cambio más significativo en la intención del autor al pasar del Neoclasicismo al Romanticismo?",
+      "context": "Santiago compara un texto del Neoclasicismo (donde todo debía tener una enseñanza moral y ser equilibrado) con uno del Romanticismo.\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dejar de escribir en español para escribir en latín.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos usaban el español, pero con diferentes propósitos."
+        },
+        {
+          "letter": "B",
+          "text": "Pasar de buscar la perfección y la educación del público a buscar la expresión de la emoción pura y la libertad creativa.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se rompen las reglas rígidas en favor de la pasión."
+        },
+        {
+          "letter": "C",
+          "text": "Dejar de hablar de la naturaleza para hablar solo de la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El romanticismo volvió a la naturaleza, alejándose de los salones ilustrados."
+        },
+        {
+          "letter": "D",
+          "text": "Usar solo personajes reales en lugar de inventar historias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos usaban la ficción, pero el romanticismo la hizo más subjetiva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Neoclasicismo era el siglo de las luces (razón); el Romanticismo es el siglo del sentimiento. En Colombia, esto significó que los escritores empezaron a usar un lenguaje más apasionado, con más exclamaciones y una mayor libertad en las formas métricas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-7-2026-W05-romanticismo-colombiano-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W05-romanticismo-colombiano-001-MASTERY-bundle-v7",
+      "statement": "En su poema \"La hora de tinieblas\", Pombo expresa dudas sobre la vida y la religión. ¿Qué rasgo romántico se evidencia en este tipo de poesía existencial?",
+      "context": "Rafael Pombo es muy conocido por sus fábulas, pero también fue un gran poeta romántico.\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El humor negro para burlarse de los demás.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El poema es serio y profundo, no busca la burla."
+        },
+        {
+          "letter": "B",
+          "text": "La angustia metafísica y la duda sobre el sentido del mundo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El romántico se siente perdido en un mundo que no comprende."
+        },
+        {
+          "letter": "C",
+          "text": "El interés por describir científicamente las estrellas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La visión de las tinieblas es emocional, no astronómica."
+        },
+        {
+          "letter": "D",
+          "text": "La alegría por el crecimiento de las ciudades colombianas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los románticos solían ver la ciudad como un lugar de corrupción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aunque Pombo es famoso por \"Rinrín Renacuajo\", su obra para adultos es profundamente romántica. Refleja la contradicción del ser humano, el miedo a la nada y la búsqueda constante de un ideal que parece inalcanzable.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-7-2026-W05-romanticismo-colombiano-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W05-romanticismo-colombiano-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué se dice que el romanticismo contribuyó a la identidad nacional colombiana?",
+      "context": "Un historiador afirma que \"el romanticismo en Colombia ayudó a crear la idea de nación\".\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque todos los autores románticos fueron presidentes de la república.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Algunos participaron en política, pero no todos fueron presidentes."
+        },
+        {
+          "letter": "B",
+          "text": "Porque al describir con amor nuestros paisajes, costumbres e historia, los autores hicieron que los colombianos se sintieran orgullosos de su tierra.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nacionalismo literario es una rama del romanticismo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el romanticismo prohibía leer libros que vinieran de otros países.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, se nutría mucho de las lecturas europeas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque obligó a todos los ciudadanos a escribir poemas de amor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una afirmación sin sentido histórico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al centrarse en lo local (el color local), el romanticismo permitió que los colombianos vieran sus propios ríos, montañas y tradiciones como algo digno de ser literatura, fortaleciendo el sentido de pertenencia a una nación joven que apenas se estaba formando.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-7-2026-W05-romanticismo-colombiano-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W05-romanticismo-colombiano-001-MASTERY-bundle-v9",
+      "statement": "¿Qué conflicto típico entre el individuo y la sociedad se resalta en este fragmento?",
+      "context": "Se presenta un fragmento de una carta de un autor romántico: \"Prefiero mil veces mi dolor auténtico que la felicidad fingida que me ofrece la sociedad\".\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El conflicto económico por no tener un trabajo estable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor habla de autenticidad emocional, no de dinero."
+        },
+        {
+          "letter": "B",
+          "text": "La falta de educación en los jóvenes de la época.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se menciona la educación, sino la vivencia de los sentimientos."
+        },
+        {
+          "letter": "C",
+          "text": "El choque entre la sinceridad emocional del individuo y las normas hipócritas de la sociedad.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El romántico se siente un incomprendido por un mundo materialista."
+        },
+        {
+          "letter": "D",
+          "text": "El deseo de viajar a Europa para escapar de la familia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque viajaban, el centro del fragmento es la autenticidad del \"yo\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El \"mal del siglo\" (la melancolía y el desajuste con el mundo) es la marca de agua del romanticismo. El autor prefiere sufrir siendo fiel a sí mismo que ser feliz siguiendo reglas que considera vacías. Este individualismo es revolucionario para su época.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-7-2026-W05-romanticismo-colombiano-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W05-romanticismo-colombiano-001-MASTERY-bundle-v10",
+      "statement": "Desde un punto de vista literario, ¿cómo debemos interpretar la exageración de los sentimientos en las obras románticas?",
+      "context": "Al leer \"María\", algunos lectores modernos se sorprenden de que los personajes lloren tanto por cosas que hoy parecen pequeñas.\n**Expected_Success:** 0.50",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Como una señal de que los personajes del siglo XIX eran más débiles que los actuales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es debilidad, es una estética literaria diferente."
+        },
+        {
+          "letter": "B",
+          "text": "Como errores del autor que no sabía controlar sus emociones al escribir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una técnica deliberada para impactar al lector."
+        },
+        {
+          "letter": "C",
+          "text": "Como una convención estética de la época que buscaba resaltar la nobleza y profundidad del alma humana.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La intensidad es lo que da valor a la experiencia romántica."
+        },
+        {
+          "letter": "D",
+          "text": "Como una forma de hacer que los libros fueran más largos y tristes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tristeza no busca la extensión, sino la belleza de la melancolía."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cada época tiene su propia \"sensibilidad\". Para los románticos, la capacidad de conmoverse hasta las lágrimas era un signo de superioridad espiritual y de refinamiento moral. Entender esto es clave para no juzgar las obras del pasado con los ojos del presente.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LEN-7-2026-W05-romanticismo-colombiano-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

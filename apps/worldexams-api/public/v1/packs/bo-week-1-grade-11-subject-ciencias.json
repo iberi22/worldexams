@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "bo",
+    "pack_id": "bo-week-1-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-07-29T02:17:36.146Z"
+  },
+  "questions": [
+    {
+      "id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v1",
+      "statement": "Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar organelo delimitado por doble membrana que alberga el ADN, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho analiza un problema sobre biología celular - la célula y su estructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El núcleo celular",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a organelo delimitado por doble membrana que alberga el ADN."
+        },
+        {
+          "letter": "B",
+          "text": "Nucleolo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Citoesqueleto",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
+        },
+        {
+          "letter": "D",
+          "text": "Ribosomas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es El núcleo celular. Científicamente, esto se explica por el compartimento donde se produce la transcripción de ARN en eucariotas. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v2",
+      "statement": "Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar centrales energéticas celulares encargadas de la respiración celular y síntesis de ATP, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Cochabamba, el estudiante Roxana del Unidad Educativa Don Bosco analiza un problema sobre biología celular - la célula y su estructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las mitocondrias",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a centrales energéticas celulares encargadas de la respiración celular y síntesis de ATP."
+        },
+        {
+          "letter": "B",
+          "text": "Lisosomas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Peroxisomas",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
+        },
+        {
+          "letter": "D",
+          "text": "Aparato de golgi",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Las mitocondrias. Científicamente, esto se explica por la fosforilación oxidativa a través de la cadena de transporte de electrones. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v3",
+      "statement": "Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar organelos fotosintéticos que convierten luz solar en energía química, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar analiza un problema sobre biología celular - la célula y su estructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los cloroplastos",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a organelos fotosintéticos que convierten luz solar en energía química."
+        },
+        {
+          "letter": "B",
+          "text": "Amiloplastos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Cromoplastos",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
+        },
+        {
+          "letter": "D",
+          "text": "Leucoplastos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Los cloroplastos. Científicamente, esto se explica por la conversión de energía lumínica en glucosa mediante la fotosíntesis. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v4",
+      "statement": "Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar movimiento de sustancias en contra de su gradiente con gasto de ATP, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En El Alto, el estudiante Marisol del Colegio San Simón analiza un problema sobre biología celular - la célula y su estructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transporte activo",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a movimiento de sustancias en contra de su gradiente con gasto de ATP."
+        },
+        {
+          "letter": "B",
+          "text": "Difusión simple",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Difusión facilitada",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
+        },
+        {
+          "letter": "D",
+          "text": "Ósmosis pasiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Transporte activo. Científicamente, esto se explica por el paso de solutos contra gradiente electroquímico con consumo de energía. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v5",
+      "statement": "Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar encogimiento de glóbulos rojos al ser colocados en una solución hipertónica, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín analiza un problema sobre biología celular - la célula y su estructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crenación",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a encogimiento de glóbulos rojos al ser colocados en una solución hipertónica."
+        },
+        {
+          "letter": "B",
+          "text": "Hemólisis",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Turgencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
+        },
+        {
+          "letter": "D",
+          "text": "Plasmólisis",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Crenación. Científicamente, esto se explica por la deshidratación celular por salida pasiva de agua por ósmosis. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v6",
+      "statement": "Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar organelo encargado de sintetizar y plegar proteínas destinadas a secreción, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Potosí, el estudiante Ronald del Unidad Educativa Juan Pablo II analiza un problema sobre biología celular - la célula y su estructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rer (retículo endoplasmático rugoso)",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a organelo encargado de sintetizar y plegar proteínas destinadas a secreción."
+        },
+        {
+          "letter": "B",
+          "text": "Rel (liso)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Aparato de golgi",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
+        },
+        {
+          "letter": "D",
+          "text": "Ribosomas libres",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Rer (retículo endoplasmático rugoso). Científicamente, esto se explica por el procesamiento y traducción de proteínas que ingresan a la vía secretora. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v7",
+      "statement": "Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar moléculas anfipáticas con cabeza hidrofílica y colas hidrofóbicas que forman la bicapa, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Oruro, el estudiante Limbert del Colegio San Calixto analiza un problema sobre biología celular - la célula y su estructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fosfolípidos",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a moléculas anfipáticas con cabeza hidrofílica y colas hidrofóbicas que forman la bicapa."
+        },
+        {
+          "letter": "B",
+          "text": "Colesterol",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Glicoproteínas",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
+        },
+        {
+          "letter": "D",
+          "text": "Lipoproteínas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Fosfolípidos. Científicamente, esto se explica por la organización termodinámica espontánea en medio acuoso celular. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v8",
+      "statement": "Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar organelo que procesa, glicosila y empaqueta proteínas en vesículas, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Tarija, el estudiante Shirley del Colegio Nacional Pichincha analiza un problema sobre biología celular - la célula y su estructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aparato de golgi",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a organelo que procesa, glicosila y empaqueta proteínas en vesículas."
+        },
+        {
+          "letter": "B",
+          "text": "Retículo endoplasmático",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Lisosomas",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
+        },
+        {
+          "letter": "D",
+          "text": "Mitocondrias",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Aparato de golgi. Científicamente, esto se explica por la clasificación de macromoléculas sintetizadas en el RER. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v9",
+      "statement": "Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar los procariotas poseen subunidades de sedimentación 70S y los eucariotas 80S, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez analiza un problema sobre biología celular - la célula y su estructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ribosomas 70s y 80s",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a los procariotas poseen subunidades de sedimentación 70S y los eucariotas 80S."
+        },
+        {
+          "letter": "B",
+          "text": "Ribosomas 50s y 30s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Ribosomas 60s y 40s",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
+        },
+        {
+          "letter": "D",
+          "text": "Ribosomas 100s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Ribosomas 70s y 80s. Científicamente, esto se explica por la diferencia estructural en la maquinaria de traducción de proteínas. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v10",
+      "statement": "Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar un ocular de 10x y objetivo de 40x combinados dan un aumento total de 400x, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Cobija, el estudiante Franz del Colegio Nacional Florida analiza un problema sobre biología celular - la célula y su estructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumento microscópico de 400x",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a un ocular de 10x y objetivo de 40x combinados dan un aumento total de 400x."
+        },
+        {
+          "letter": "B",
+          "text": "Aumento de 100x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Aumento de 1000x",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
+        },
+        {
+          "letter": "D",
+          "text": "Aumento de 40x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Aumento microscópico de 400x. Científicamente, esto se explica por la multiplicación matemática de los aumentos individuales de los lentes. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v11",
+      "statement": "Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar absorción de partículas sólidas grandes mediante deformación de membrana y pseudópodos, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Tupiza, el estudiante Nancy del Colegio Nacional Ayacucho analiza un problema sobre biología celular - la célula y su estructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fagocitosis",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a absorción de partículas sólidas grandes mediante deformación de membrana y pseudópodos."
+        },
+        {
+          "letter": "B",
+          "text": "Pinocitosis",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Exocitosis",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
+        },
+        {
+          "letter": "D",
+          "text": "Ósmosis",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Fagocitosis. Científicamente, esto se explica por la internalización de patógenos por reestructuración del citoesqueleto de actina. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v12",
+      "statement": "Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar estructura vegetal rígida que ejerce presión de turgencia opuesta a la entrada de agua, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Uyuni, el estudiante Edwin del Unidad Educativa Don Bosco analiza un problema sobre biología celular - la célula y su estructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pared celular rígida de celulosa",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a estructura vegetal rígida que ejerce presión de turgencia opuesta a la entrada de agua."
+        },
+        {
+          "letter": "B",
+          "text": "Membrana celular elástica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Presencia de vacuolas pequeñas",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
+        },
+        {
+          "letter": "D",
+          "text": "Ausencia de acuaporinas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Pared celular rígida de celulosa. Científicamente, esto se explica por la resistencia mecánica que evita la lisis osmótica en medios hipotónicos. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v13",
+      "statement": "Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar detiene la entrada pasiva del ion Sodio a favor de su gradiente electroquímico, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Viacha, el estudiante Marcelo del Colegio Bolívar analiza un problema sobre biología celular - la célula y su estructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bloqueo de canales de sodio",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a detiene la entrada pasiva del ion Sodio a favor de su gradiente electroquímico."
+        },
+        {
+          "letter": "B",
+          "text": "Bloqueo de canales de potasio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Inhibición de la bomba na/k",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
+        },
+        {
+          "letter": "D",
+          "text": "Activación de acuaporinas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Bloqueo de canales de sodio. Científicamente, esto se explica por la dependencia de canales iónicos transmembrana para la difusión de iones. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v14",
+      "statement": "Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar degradación controlada de organelos propios para reciclar nutrientes en el ayuno, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Quillacollo, el estudiante Freddy del Colegio San Simón analiza un problema sobre biología celular - la célula y su estructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Autofagia lisosómica",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a degradación controlada de organelos propios para reciclar nutrientes en el ayuno."
+        },
+        {
+          "letter": "B",
+          "text": "Apoptosis mitocondrial",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Necrosis celular",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
+        },
+        {
+          "letter": "D",
+          "text": "Mitofagia activa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Autofagia lisosómica. Científicamente, esto se explica por el mecanismo de supervivencia por degradación enzimática interna. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v15",
+      "statement": "Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar evidencias concluyentes de que mitocondrias y cloroplastos provienen de bacterias endosimbióticas, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Sacaba, el estudiante René del Colegio Nacional Junín analiza un problema sobre biología celular - la célula y su estructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adn circular y ribosomas 70s mitocondriales",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a evidencias concluyentes de que mitocondrias y cloroplastos provienen de bacterias endosimbióticas."
+        },
+        {
+          "letter": "B",
+          "text": "Presencia de membrana simple",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Ausencia de material genético",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
+        },
+        {
+          "letter": "D",
+          "text": "Presencia de pared de quitina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Adn circular y ribosomas 70s mitocondriales. Científicamente, esto se explica por el origen bacteriano autónomo según la teoría endosimbiótica moderna. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v16",
+      "statement": "Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar pérdida de la estructura tridimensional y función de filamentos por pH ácido citoplasmático, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Montero, el estudiante Lidia del Unidad Educativa Juan Pablo II analiza un problema sobre biología celular - la célula y su estructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desnaturalización por acidez",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a pérdida de la estructura tridimensional y función de filamentos por pH ácido citoplasmático."
+        },
+        {
+          "letter": "B",
+          "text": "Activación enzimática",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Mutación espontánea",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
+        },
+        {
+          "letter": "D",
+          "text": "Oxidación lipídica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Desnaturalización por acidez. Científicamente, esto se explica por la ruptura de enlaces no covalentes que estabilizan la conformación nativa proteica. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v17",
+      "statement": "Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar proceso pasivo que continúa funcionando en presencia de inhibidores de ATP mitocondrial, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Riberalta, el estudiante Edwin del Colegio San Calixto analiza un problema sobre biología celular - la célula y su estructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ósmosis por aquaporinas",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a proceso pasivo que continúa funcionando en presencia de inhibidores de ATP mitocondrial."
+        },
+        {
+          "letter": "B",
+          "text": "Transporte activo secundario",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Endocitosis masiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
+        },
+        {
+          "letter": "D",
+          "text": "Bombeo de protones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Ósmosis por aquaporinas. Científicamente, esto se explica por el transporte independiente de energía metabólica directa celular. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v18",
+      "statement": "Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar sustenta la fluidez de membrana bidimensional propuesta en el modelo de Singer y Nicolson, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Warnes, el estudiante Marcelo del Colegio Nacional Pichincha analiza un problema sobre biología celular - la célula y su estructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Difusión lateral de lípidos y proteínas",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a sustenta la fluidez de membrana bidimensional propuesta en el modelo de Singer y Nicolson."
+        },
+        {
+          "letter": "B",
+          "text": "Rigidez estructural lipídica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Fijación covalente de componentes",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
+        },
+        {
+          "letter": "D",
+          "text": "Asimetría total hidrofílica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Difusión lateral de lípidos y proteínas. Científicamente, esto se explica por el movimiento dinámico bidimensional de los componentes de la bicapa. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v19",
+      "statement": "Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar postulado de la teoría celular que define el origen de los seres vivos mediante división celular, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Colcapirhua, el estudiante Lidia del Colegio Antonio Vaca Díez analiza un problema sobre biología celular - la célula y su estructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Toda célula proviene de otra preexistente",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a postulado de la teoría celular que define el origen de los seres vivos mediante división celular."
+        },
+        {
+          "letter": "B",
+          "text": "Las células se forman espontáneamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Las células surgen de la cristalización de proteínas",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
+        },
+        {
+          "letter": "D",
+          "text": "Las células se crean de gases oxidados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Toda célula proviene de otra preexistente. Científicamente, esto se explica por el principio de continuidad celular formulado científicamente por Virchow. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle-v20",
+      "statement": "Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar adaptación de membrana en plantas andinas para mantener fluidez bajo frío extremo, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Yacuiba, el estudiante Nancy del Colegio Nacional Florida analiza un problema sobre biología celular - la célula y su estructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ácidos grasos insaturados con dobles enlaces",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a adaptación de membrana en plantas andinas para mantener fluidez bajo frío extremo."
+        },
+        {
+          "letter": "B",
+          "text": "Ácidos grasos saturados compactos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Acumulación de triglicéridos sólidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazo lipídico por sílice",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Ácidos grasos insaturados con dobles enlaces. Científicamente, esto se explica por los codos moleculares de dobles enlaces que impiden el empaquetamiento compacto de lípidos. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}

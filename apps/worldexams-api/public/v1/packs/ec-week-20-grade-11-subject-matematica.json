@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "ec",
+    "pack_id": "ec-week-20-grade-11-subject-matematicas",
+    "generated_at": "2026-07-03T19:49:45.159Z"
+  },
+  "questions": [
+    {
+      "id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v1",
+      "statement": "¿Qué dos elementos son suficientes y necesarios para determinar de forma única una recta en el espacio tridimensional?",
+      "context": "Un topógrafo en el Centro Histórico de Quito define la trayectoria de una visual láser.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos ángulos de dirección.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ángulos solo dan la dirección, pero no la posición en el espacio."
+        },
+        {
+          "letter": "B",
+          "text": "Un punto por el que pasa y un vector director (o dos puntos distintos).",
+          "is_correct": true,
+          "feedback": "Correcto. El punto establece la posición y el vector director establece la inclinación y orientación."
+        },
+        {
+          "letter": "C",
+          "text": "Tres puntos cualesquiera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si no son colineales, tres puntos definen un plano, no una recta."
+        },
+        {
+          "letter": "D",
+          "text": "Una ecuación de primer grado con tres variables $ax + by + cz = d$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta ecuación representa un plano, no una recta en R³."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Definición geométrica de la recta en R³ basada en la traslación de un punto a lo largo de una dirección vectorial.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la forma de la ecuación paramétrica de una recta que pasa por $P(x_0, y_0, z_0)$ con vector director $\\vec{v} = (a, b, c)$?",
+      "context": "Formas de la ecuación de la recta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$ax + by + cz = d$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la forma general de un plano."
+        },
+        {
+          "letter": "B",
+          "text": "$x = x_0 + at, y = y_0 + bt, z = z_0 + ct$",
+          "is_correct": true,
+          "feedback": "Correcto. Cada coordenada se expresa en función de un parámetro real $t$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{x-x_0}{a} = \\frac{y-y_0}{b} = \\frac{z-z_0}{c}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la forma simétrica o continua, no la paramétrica."
+        },
+        {
+          "letter": "D",
+          "text": "$y = mx + b$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta forma solo es válida para rectas en el plano bidimensional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de las diferentes representaciones analíticas de una recta en el espacio, centrándose en la forma paramétrica.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es un vector director de esta trayectoria?",
+      "context": "Una tubería de agua en una construcción en Guayaquil sigue una trayectoria recta que pasa por $(1, 2, 3)$ y $(4, 2, 5)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(5, 4, 8)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó las coordenadas en lugar de restarlas."
+        },
+        {
+          "letter": "B",
+          "text": "$(3, 0, 2)$",
+          "is_correct": true,
+          "feedback": "Correcto. Se obtiene restando las coordenadas de los puntos: $(4-1, 2-2, 5-3) = (3, 0, 2)$."
+        },
+        {
+          "letter": "C",
+          "text": "$(1, 2, 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es un punto de posición, no un vector de dirección."
+        },
+        {
+          "letter": "D",
+          "text": "$(3, 2, 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la resta de la componente y."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cálculo del vector director a partir de dos puntos conocidos, fundamental para construir la ecuación de la recta.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v4",
+      "statement": "Dada la recta $r: (x, y, z) = (1, 0, 2) + t(2, 1, -1)$, ¿pasa la recta por el punto $(5, 2, 0)$?",
+      "context": "Verificación de pertenencia de un punto a una recta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, para $t = 2$.",
+          "is_correct": true,
+          "feedback": "Correcto. $1+2(2)=5$, $0+1(2)=2$, $2-1(2)=0$. Todas las componentes coinciden para el mismo valor de $t$."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque la componente z no coincide.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al evaluar $t=2$, la componente z da exactamente 0."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, para $t = 1$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para $t=1$ el punto sería $(3, 1, 1)$."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque las rectas en el espacio no tienen puntos definidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las rectas son conjuntos de infinitos puntos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Validación de puntos en una recta mediante la resolución del sistema de ecuaciones paramétricas para el parámetro $t$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v5",
+      "statement": "¿Qué representa el vector $(a, b, c)$ en la ecuación general del plano $ax + by + cz = d$?",
+      "context": "Un ingeniero estructural analiza la superficie de una losa de concreto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un vector contenido en el plano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los vectores contenidos son perpendiculares a este vector."
+        },
+        {
+          "letter": "B",
+          "text": "Un vector normal (perpendicular) al plano.",
+          "is_correct": true,
+          "feedback": "Correcto. Los coeficientes de las variables definen la orientación del plano mediante su normal."
+        },
+        {
+          "letter": "C",
+          "text": "El punto de intersección con el origen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El origen solo pertenece al plano si $d=0$."
+        },
+        {
+          "letter": "D",
+          "text": "La pendiente del plano respecto al eje x.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los planos en el espacio no se describen con una única pendiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación del vector normal como el elemento definitorio de la orientación de un plano en el espacio tridimensional.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.7,
+      "bundle_id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v6",
+      "statement": "Halle la ecuación del plano que pasa por $P(1, 2, 3)$ y tiene como vector normal $\\vec{n} = (4, 5, 6)$.",
+      "context": "Ecuación del plano dado un punto y la normal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x + 2y + 3z = 32$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usó el punto como normal."
+        },
+        {
+          "letter": "B",
+          "text": "$4x + 5y + 6z = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este plano pasa por el origen, no por el punto P."
+        },
+        {
+          "letter": "C",
+          "text": "$4x + 5y + 6z = 32$",
+          "is_correct": true,
+          "feedback": "Correcto. $4(1) + 5(2) + 6(3) = 4 + 10 + 18 = 32$."
+        },
+        {
+          "letter": "D",
+          "text": "$4x + 5y + 6z = 15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la suma de los productos punto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Construcción de la ecuación general del plano aplicando el producto escalar entre el vector normal y un vector genérico del plano.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v7",
+      "statement": "¿En qué punto corta al eje $z$ el plano con ecuación $2x - 3y + 4z = 12$?",
+      "context": "Intersección con los ejes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(0, 0, 12)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideró el coeficiente de z."
+        },
+        {
+          "letter": "B",
+          "text": "$(6, 0, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el corte con el eje x."
+        },
+        {
+          "letter": "C",
+          "text": "$(0, 0, 3)$",
+          "is_correct": true,
+          "feedback": "Correcto. En el eje z, $x=0$ e $y=0$. Entonces $4z = 12 \\Rightarrow z = 3$."
+        },
+        {
+          "letter": "D",
+          "text": "$(0, 0, -4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la división o en el signo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Determinación de las intersecciones de un plano con los ejes coordenados mediante la anulación de las variables restantes.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el vector director de la viga de soporte?",
+      "context": "Un panel solar en una hacienda en Ambato está orientado según el plano $x + y + z = 10$. Una viga de soporte sigue la recta perpendicular al panel que pasa por el origen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(1, 1, 1)$",
+          "is_correct": true,
+          "feedback": "Correcto. Si la recta es perpendicular al plano, su vector director debe ser paralelo (o igual) al vector normal del plano."
+        },
+        {
+          "letter": "B",
+          "text": "$(10, 10, 10)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque tiene la misma dirección, no es la forma simplificada del normal."
+        },
+        {
+          "letter": "C",
+          "text": "$(-1, -1, -1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque también es perpendicular, el normal estándar se toma de los coeficientes positivos."
+        },
+        {
+          "letter": "D",
+          "text": "$(1, 0, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este vector no es normal al plano dado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprensión de la relación de perpendicularidad entre rectas y planos utilizando vectores directores y normales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v9",
+      "statement": "Determine el ángulo entre los planos $x = 5$ e $y = 2$.",
+      "context": "Ángulo entre dos planos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso indicaría que son paralelos."
+        },
+        {
+          "letter": "B",
+          "text": "$90^\\circ$",
+          "is_correct": true,
+          "feedback": "Correcto. Las normales son $(1, 0, 0)$ y $(0, 1, 0)$. Su producto punto es 0, por lo que son perpendiculares."
+        },
+        {
+          "letter": "C",
+          "text": "$45^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las orientaciones de los ejes x e y son ortogonales."
+        },
+        {
+          "letter": "D",
+          "text": "$180^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Planos paralelos pero en direcciones opuestas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cálculo de ángulos entre superficies planas mediante el análisis del producto escalar de sus vectores normales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la distancia mínima del origen $(0,0,0)$ al plano $3x + 4y = 10$? (Nota: el plano es paralelo al eje z).",
+      "context": "Distancia de un punto a un plano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó dividir por la magnitud de la normal."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. Distancia = $\\frac{|3(0) + 4(0) - 10|}{\\sqrt{3^2 + 4^2}} = \\frac{10}{5} = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "2.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo de la raíz cuadrada."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El origen no pertenece al plano ($0 \\neq 10$)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación de la fórmula de distancia punto-plano para calcular la separación mínima en el espacio.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v11",
+      "statement": "¿Cómo se denominan dos rectas en el espacio que no se cortan y que tampoco son paralelas?",
+      "context": "Posición relativa de dos rectas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rectas secantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las secantes se cortan en un punto."
+        },
+        {
+          "letter": "B",
+          "text": "Rectas coincidentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas son la misma recta."
+        },
+        {
+          "letter": "C",
+          "text": "Rectas que se cruzan (o alabeadas).",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es una situación exclusiva del espacio R³ donde las rectas están en planos diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "Rectas ortogonales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ortogonalidad no excluye que las rectas sean secantes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Diferenciación entre las posiciones relativas de rectas en el espacio, introduciendo el concepto de rectas alabeadas.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el punto de intersección?",
+      "context": "Intersección de recta y plano. Halle el punto de corte entre la recta $x=t, y=t, z=t$ y el plano $x + 2y + 3z = 12$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1, 1, 1)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma $1+2+3=6 \\neq 12$."
+        },
+        {
+          "letter": "B",
+          "text": "(2, 2, 2)",
+          "is_correct": true,
+          "feedback": "Correcto. Sustituyendo en el plano: $t + 2t + 3t = 12 \\Rightarrow 6t = 12 \\Rightarrow t = 2$. Punto $(2, 2, 2)$."
+        },
+        {
+          "letter": "C",
+          "text": "(3, 3, 3)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma $3+6+9=18 \\neq 12$."
+        },
+        {
+          "letter": "D",
+          "text": "No hay intersección.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La recta no es paralela al plano."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de sistemas mixtos (recta-plano) mediante la sustitución de las expresiones paramétricas en la ecuación general del plano.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál de los siguientes planos es paralelo al plano $2x - y + 3z = 4$?",
+      "context": "Dos planos son paralelos si sus vectores normales son proporcionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x + y + 3z = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio de signo en y cambia la dirección de la normal."
+        },
+        {
+          "letter": "B",
+          "text": "$4x - 2y + 6z = 10$",
+          "is_correct": true,
+          "feedback": "Correcto. La normal $(4, -2, 6)$ es exactamente el doble de $(2, -1, 3)$."
+        },
+        {
+          "letter": "C",
+          "text": "$x - y + z = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Normales no proporcionales."
+        },
+        {
+          "letter": "D",
+          "text": "$2x + y + 3z = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al cambiar el signo de la componente y, el vector normal deja de ser paralelo al original."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de paralelismo entre superficies mediante la comparación de sus coeficientes directores (vectores normales).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la ecuación de este plano?",
+      "context": "Ecuación del plano que contiene tres puntos. Un arquitecto en Manta define un plano que pasa por $A(1,0,0)$, $B(0,1,0)$ y $C(0,0,1)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x + y + z = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No pasa por ninguno de los puntos dados."
+        },
+        {
+          "letter": "B",
+          "text": "$x + y + z = 1$",
+          "is_correct": true,
+          "feedback": "Correcto. Al sustituir cada punto $(1,0,0), (0,1,0), (0,0,1)$ se cumple la igualdad $1=1$."
+        },
+        {
+          "letter": "C",
+          "text": "$x + y + z = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Suma de coordenadas incorrecta para los puntos dados."
+        },
+        {
+          "letter": "D",
+          "text": "$xyz = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta no es una ecuación lineal y no representa un plano."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso de la forma segmentaria del plano para determinar superficies que cortan a los ejes en unidades específicas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v15",
+      "statement": "¿Qué figura geométrica se forma generalmente por la intersección de dos planos no paralelos en R³?",
+      "context": "Recta de intersección entre dos planos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un punto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso ocurre en la intersección de tres planos o recta-plano."
+        },
+        {
+          "letter": "B",
+          "text": "Una recta.",
+          "is_correct": true,
+          "feedback": "Correcto. La solución de un sistema de dos ecuaciones con tres incógnitas suele tener un grado de libertad (parámetro)."
+        },
+        {
+          "letter": "C",
+          "text": "Otro plano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo si los planos son coincidentes."
+        },
+        {
+          "letter": "D",
+          "text": "Un segmento de curva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La intersección de superficies lineales siempre es lineal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Interpretación de los sistemas de ecuaciones lineales desde una perspectiva geométrica espacial.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v16",
+      "statement": "¿Qué operación vectorial es necesaria para calcular la distancia mínima del punto $P$ a la recta $r$?",
+      "context": "Un túnel en los Andes se modela como una recta $r$. Se desea instalar un sensor en un punto $P$ fuera del túnel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo el producto escalar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto escalar ayuda a hallar la proyección, pero la distancia requiere más pasos."
+        },
+        {
+          "letter": "B",
+          "text": "La magnitud del producto vectorial entre el vector director y el vector $P_0P$.",
+          "is_correct": true,
+          "feedback": "Correcto. La fórmula $d = \\frac{|\\vec{v} \\times \\vec{P_0P}|}{|\\vec{v}|}$ da la distancia perpendicular."
+        },
+        {
+          "letter": "C",
+          "text": "La suma de las distancias a los ejes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No considera la orientación de la recta."
+        },
+        {
+          "letter": "D",
+          "text": "El determinante de la matriz de posición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El determinante por sí solo no da una distancia lineal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso de herramientas vectoriales avanzadas para resolver problemas de métrica en el espacio tridimensional.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.4,
+      "bundle_id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v17",
+      "statement": "Si dos rectas $r_1$ y $r_2$ en el espacio tienen vectores directores no paralelos, ¿qué garantiza que se corten en un punto en lugar de cruzarse?",
+      "context": "Condición para que dos rectas sean coplanares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que sus vectores directores sean perpendiculares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pueden ser perpendiculares y estar a diferentes alturas (alabeadas)."
+        },
+        {
+          "letter": "B",
+          "text": "Que el determinante formado por sus vectores directores y el vector entre sus puntos de paso sea cero.",
+          "is_correct": true,
+          "feedback": "Correcto. Esto indica que los tres vectores son coplanares, obligando a las rectas a estar en el mismo plano y cortarse."
+        },
+        {
+          "letter": "C",
+          "text": "Que pasen por el origen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una condición suficiente pero no necesaria."
+        },
+        {
+          "letter": "D",
+          "text": "Que tengan la misma magnitud.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La magnitud de los vectores directores no afecta la intersección."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación del triple producto escalar para verificar la coplanaridad y existencia de intersecciones entre líneas en R³.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v18",
+      "statement": "Considere los planos $\\pi_1: x + y = 2$ y $\\pi_2: y + z = 4$. ¿Cuál es el vector director de la recta formada por su intersección?",
+      "context": "Ecuación del haz de planos o planos que pasan por una recta común.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(1, 1, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el normal de $\\pi_1$."
+        },
+        {
+          "letter": "B",
+          "text": "$(0, 1, 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el normal de $\\pi_2$."
+        },
+        {
+          "letter": "C",
+          "text": "$(1, -1, 1)$",
+          "is_correct": true,
+          "feedback": "Correcto. El vector director es el producto vectorial de las normales: $(1,1,0) \\times (0,1,1) = (1, -1, 1)$."
+        },
+        {
+          "letter": "D",
+          "text": "$(1, 0, 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo del producto cruz."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cálculo de la dirección de una recta de intersección utilizando la ortogonalidad respecto a las normales de los planos que la generan.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.3,
+      "bundle_id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es la fórmula para la distancia mínima entre estas dos rectas?",
+      "context": "Distancia entre dos rectas alabeadas. Sean $r_1$ con punto $P_1$ y director $\\vec{v_1}$, y $r_2$ con punto $P_2$ y director $\\vec{v_2}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$d = \\frac{|(\\vec{v_1} \\times \\vec{v_2}) \\cdot \\vec{P_1P_2}|}{|\\vec{v_1} \\times \\vec{v_2}|}$",
+          "is_correct": true,
+          "feedback": "Correcto. Es la proyección del vector entre puntos sobre la normal común a ambas rectas."
+        },
+        {
+          "letter": "B",
+          "text": "$d = |\\vec{P_1P_2}|$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la distancia entre dos puntos específicos, no el mínimo entre las rectas."
+        },
+        {
+          "letter": "C",
+          "text": "$d = \\frac{|\\vec{v_1} \\cdot \\vec{v_2}|}{|\\vec{v_1}| |\\vec{v_2}|}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se relaciona con el coseno del ángulo, no con una distancia."
+        },
+        {
+          "letter": "D",
+          "text": "$d = \\sqrt{|\\vec{v_1}|^2 + |\\vec{v_2}|^2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fórmula sin sentido físico para distancias entre rectas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Uso del triple producto escalar y el producto vectorial para determinar la separación mínima entre líneas no paralelas en un entorno tridimensional.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la ecuación de dicho plano?",
+      "context": "Un problema de diseño complejo en la Amazonía. Se desea encontrar el plano que contiene a la recta $r: (x,y,z) = (0,0,0) + t(1,1,0)$ y es perpendicular al plano $z = 0$ (plano XY).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$z = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plano debe contener la recta y no puede ser el mismo plano XY si debe ser perpendicular a él."
+        },
+        {
+          "letter": "B",
+          "text": "$x - y = 0$",
+          "is_correct": true,
+          "feedback": "Correcto. Contiene a la recta (si $x=y=t, z=0$, entonces $t-t=0$). Su normal $(1, -1, 0)$ es perpendicular a la normal de $z=0$ (que es $(0,0,1)$), ya que $(1,-1,0) \\cdot (0,0,1) = 0$."
+        },
+        {
+          "letter": "C",
+          "text": "$x + y = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No contiene a la recta para valores positivos de $t$."
+        },
+        {
+          "letter": "D",
+          "text": "$x + z = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No contiene a la componente y de la recta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de problemas de determinación de planos bajo condiciones mixtas de contención y ortogonalidad respecto a otras superficies.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.2,
+      "bundle_id": "EC-MAT-11-2026-W20-rectas-y-planos-en-el-espacio-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    }
+  ]
+}

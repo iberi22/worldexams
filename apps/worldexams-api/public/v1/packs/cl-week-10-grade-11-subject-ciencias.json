@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "cl",
+    "pack_id": "cl-week-10-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-04T05:18:13.743Z"
+  },
+  "questions": [
+    {
+      "id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v1",
+      "statement": "¿Cuáles son los coeficientes estequiométricos enteros más bajos que balancean de forma correcta la siguiente ecuación de combustión? $a\\ C_3H_8 + b\\ O_2 \\rightarrow c\\ CO_2 + d\\ H_2O$",
+      "context": "Sebastián analiza el balanceo de la ecuación química de combustión completa del gas propano ($C_3H_8$) que se usa en las estufas en Santiago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a = 1, b = 5, c = 3, d = 4",
+          "is_correct": true,
+          "feedback": "¡Correcto! Balanceando los átomos: 3 carbonos en ambos lados, 8 hidrógenos en ambos lados ($4 \\cdot 2 = 8$), y 10 oxígenos en ambos lados ($3 \\cdot 2 + 4 \\cdot 1 = 10$)."
+        },
+        {
+          "letter": "B",
+          "text": "a = 1, b = 3, c = 3, d = 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los átomos de oxígeno no quedarían balanceados en los reactivos ($3 \\cdot 2 = 6$) en relación con los productos (10)."
+        },
+        {
+          "letter": "C",
+          "text": "a = 2, b = 10, c = 6, d = 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la ecuación está balanceada, estos coeficientes no corresponden a los números enteros más bajos posibles simplificados."
+        },
+        {
+          "letter": "D",
+          "text": "a = 1, b = 5, c = 3, d = 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de átomos de hidrógeno en los productos sería de 16 ($8 \\cdot 2$), duplicando los 8 reactivos de entrada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El balanceo de ecuaciones responde a la Ley de Conservación de la Masa. Al ajustar de forma secuencial: primero el Carbono ($c = 3$ para igualar los 3 de la izquierda), luego el Hidrógeno ($d = 4$ para obtener 8 átomos como a la izquierda). Finalmente se suman los oxígenos resultantes en los productos: $3 \\cdot 2\\ (\\text{en } CO_2) + 4 \\cdot 1\\ (\\text{en } H_2O) = 10$ átomos de oxígeno. Se equilibra colocando un coeficiente de $b = 5$ en los reactivos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v2",
+      "statement": "Si la masa molar del agua ($H_2O$) es $18 \\text{ g/mol}$, ¿cuántas moléculas de agua están contenidas exactamente en una muestra de $36 \\text{ g}$ de agua pura? (Considere el número de Avogadro como $N_A = 6,02 \\times 10^{23} \\text{ moléculas/mol}$)",
+      "context": "Catalina estudia el concepto de mol y la masa molar de diferentes compuestos químicos gaseosos en un laboratorio de Santiago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6,02 \\times 10^{23}$ moléculas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta cantidad de moléculas corresponde exactamente a un solo mol ($18 \\text{ g}$) de agua, no a 36 gramos."
+        },
+        {
+          "letter": "B",
+          "text": "$3,01 \\times 10^{23}$ moléculas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la mitad de un mol ($9 \\text{ g}$) de agua de muestra."
+        },
+        {
+          "letter": "C",
+          "text": "$1,20 \\times 10^{24}$ moléculas",
+          "is_correct": true,
+          "feedback": "¡Correcto! En $36 \\text{ g}$ hay exactamente 2 moles de agua ($36/18 = 2$). Multiplicando por el número de Avogadro: $2 \\cdot 6,02 \\times 10^{23} = 1,204 \\times 10^{24}$ moléculas."
+        },
+        {
+          "letter": "D",
+          "text": "$3,60 \\times 10^{24}$ moléculas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el cálculo matemático de la proporción de moles y la multiplicación por la constante de Avogadro."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Primero determinamos la cantidad de sustancia en moles de agua en la muestra usando $n = \\text{masa} / \\text{Masa Molar} = 36 \\text{ g} / 18 \\text{ g/mol} = 2 \\text{ moles}$. Sabiendo que un mol de cualquier sustancia contiene el Número de Avogadro de entidades, multiplicamos: $2 \\text{ moles} \\cdot 6,02 \\times 10^{23} \\text{ moléculas/mol} = 1,204 \\times 10^{24}$ moléculas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la masa molar aproximada del compuesto iónico sulfato de sodio ($Na_2SO_4$)? (Masas atómicas: $Na = 23 \\text{ g/mol}$, $S = 32 \\text{ g/mol}$, $O = 16 \\text{ g/mol}$)",
+      "context": "Un analista de control de calidad en Valparaíso evalúa la masa de sulfato de sodio necesaria para una preparación industrial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$71 \\text{ g/mol}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Has olvidado considerar el subíndice 2 en el átomo de sodio y el subíndice 4 en el átomo de oxígeno."
+        },
+        {
+          "letter": "B",
+          "text": "$142 \\text{ g/mol}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Calculando la masa molar: $2 \\cdot 23\\ (\\text{de } Na) + 1 \\cdot 32\\ (\\text{de } S) + 4 \\cdot 16\\ (\\text{de } O) = 46 + 32 + 64 = 142 \\text{ g/mol}$."
+        },
+        {
+          "letter": "C",
+          "text": "$119 \\text{ g/mol}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Has realizado una estimación matemática errónea en la suma de los pesos moleculares."
+        },
+        {
+          "letter": "D",
+          "text": "$158 \\text{ g/mol}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa las multiplicaciones de los átomos constituyentes antes de sumarlos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La masa molar de un compuesto se halla sumando las masas atómicas de todos los átomos presentes en la fórmula química multiplicadas por sus respectivos subíndices. Para el $Na_2SO_4$, se tiene: $Na: 2 \\cdot 23 = 46 \\text{ g/mol}$, $S: 1 \\cdot 32 = 32 \\text{ g/mol}$ y $O: 4 \\cdot 16 = 64 \\text{ g/mol}$. Sumando estos valores resulta $142 \\text{ g/mol}$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v4",
+      "statement": "Si se hacen reaccionar de manera completa 4 moles de nitrógeno gaseoso ($N_2$) con exceso de hidrógeno, ¿cuántos moles de amoníaco se producirán teóricamente de acuerdo con la estequiometría de la reacción?",
+      "context": "Sofía estudia la síntesis industrial de amoníaco ($NH_3$) a partir de gases de entrada: $N_2 + 3\\ H_2\nightarrow 2\\ NH_3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 moles de amoníaco",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación molar nitrógeno a amoníaco es de 1 a 2, por lo que el rendimiento molar debe duplicarse."
+        },
+        {
+          "letter": "B",
+          "text": "8 moles de amoníaco",
+          "is_correct": true,
+          "feedback": "¡Correcto! Según la ecuación balanceada, 1 mol de $N_2$ rinde 2 moles de $NH_3$. Por tanto, 4 moles de $N_2$ rendirán el doble: $4 \\cdot 2 = 8$ moles."
+        },
+        {
+          "letter": "C",
+          "text": "12 moles de amoníaco",
+          "is_correct": false,
+          "feedback": "Incorrecto. Doce sería la cantidad de moles de hidrógeno gaseoso requeridos para reaccionar de forma completa, no los moles de producto obtenidos."
+        },
+        {
+          "letter": "D",
+          "text": "2 moles de amoníaco",
+          "is_correct": false,
+          "feedback": "Incorrecto. Has dividido los moles por 2 en lugar de multiplicarlos por la proporción estequiométrica del producto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La proporción estequiométrica entre el reactivo limitante $N_2$ y el producto de interés $NH_3$ se lee de los coeficientes de la ecuación química balanceada como de 1:2. Multiplicando los moles iniciales del reactivo por esta razón estequiométrica se obtiene: $4 \\text{ moles de } N_2 \\cdot \\frac{2 \\text{ moles de } NH_3}{1 \\text{ mol de } N_2} = 8 \\text{ moles de } NH_3$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v5",
+      "statement": "Si reaccionan de manera completa $16 \\text{ g}$ de metano con exceso de oxígeno según la ecuación balanceada: $CH_4 + 2\\ O_2 \\rightarrow CO_2 + 2\\ H_2O$, ¿qué masa de dióxido de carbono ($CO_2$) gaseoso se liberará al ambiente? (Masas molares: $CH_4 = 16 \\text{ g/mol}$, $CO_2 = 44 \\text{ g/mol}$)",
+      "context": "Benjamín está estudiando la combustión completa del gas metano ($CH_4$) de uso domiciliario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$16 \\text{ g}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dieciséis gramos es la masa consumida del reactivo metano, no la masa obtenida del producto gaseoso pesado."
+        },
+        {
+          "letter": "B",
+          "text": "$22 \\text{ g}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la mitad de un mol de dióxido de carbono, pero la muestra de metano consumida equivale a un mol entero."
+        },
+        {
+          "letter": "C",
+          "text": "$88 \\text{ g}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Has asumido erróneamente que la proporción estequiométrica de salida es de una relación molar de 1 a 2."
+        },
+        {
+          "letter": "D",
+          "text": "$44 \\text{ g}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $16 \\text{ g}$ de metano equivalen exactamente a 1 mol. Dado que la proporción estequiométrica metano a dióxido de carbono es de 1:1, se produce exactamente 1 mol de $CO_2$, que pesa $44 \\text{ g}$ de masa."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Primero convertimos la masa de reactivo a moles: $n = 16 \\text{ g} / 16 \\text{ g/mol} = 1 \\text{ mol de } CH_4$. La estequiometría de la reacción indica que por cada mol de $CH_4$ combustionado se genera 1 mol de $CO_2$. Finalmente, convertimos el mol de dióxido de carbono a gramos multiplicando por su masa molar: $1 \\text{ mol} \\cdot 44 \\text{ g/mol} = 44 \\text{ gramos}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v6",
+      "statement": "¿Qué enunciado define de manera correcta qué es el reactivo limitante en un proceso de reacción química?",
+      "context": "Martina analiza el concepto de reactivo limitante en reacciones químicas de síntesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El reactivo que posee la menor masa molar de todos los reactivos de entrada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa molar no determina cuál reactivo se agota primero; la estequiometría depende del número de moles y coeficientes."
+        },
+        {
+          "letter": "B",
+          "text": "El reactivo que se encuentra en mayor cantidad de gramos al inicio de la reacción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este reactivo suele estar en exceso, no limita la reacción."
+        },
+        {
+          "letter": "C",
+          "text": "El reactivo que se consume por completo primero en la reacción, limitando la cantidad máxima de producto que se puede formar de manera teórica.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Una vez agotado el reactivo limitante, la reacción se detiene de forma definitiva sin formar más producto."
+        },
+        {
+          "letter": "D",
+          "text": "El catalizador que acelera la reacción química sin consumirse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un catalizador altera la velocidad cinética, pero no actúa como reactivo limitante estequiométrico que se consume."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El reactivo limitante es aquel que se encuentra en una proporción estequiométrica inferior a la requerida por la ecuación balanceada. Al consumirse en su totalidad, impide que la reacción progrese, determinando de forma absoluta el rendimiento teórico máximo de todos los productos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v7",
+      "statement": "Si se mezclan 2 moles de magnesio ($Mg$) con 4 moles de ácido clorhídrico ($HCl$) según la ecuación balanceada: $Mg + 2\\ HCl \\rightarrow MgCl_2 + H_2$, ¿cuál de los reactivos actúa como reactivo limitante y cuántos moles de hidrógeno gaseoso ($H_2$) se desprenderán?",
+      "context": "Vicente está haciendo reaccionar tiras de magnesio metálico con ácido clorhídrico en una campana extractora de Santiago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El magnesio es el reactivo limitante y se forman 2 moles de $H_2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos reactivos están en proporciones estequiométricas perfectas; no hay un reactivo limitante sobrante de manera clásica ya que ambos se agotan a la vez."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos reactivos se consumen por completo de forma simultánea (proporción estequiométrica exacta) y se forman 2 moles de $H_2$.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se requieren 2 moles de $HCl$ por cada mol de $Mg$. Con 2 moles de $Mg$ se consumen exactamente los 4 moles de $HCl$. La proporción de $Mg$ a $H_2$ es 1:1, rindiendo 2 moles de $H_2$."
+        },
+        {
+          "letter": "C",
+          "text": "El $HCl$ es el reactivo limitante y se forma solo 1 mol de $H_2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ácido clorhídrico se consume, pero rinde 2 moles de hidrógeno gaseoso de acuerdo con la relación estequiométrica 2:1."
+        },
+        {
+          "letter": "D",
+          "text": "El magnesio es el reactivo limitante y se forma de manera teórica un mol de $H_2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el análisis cuantitativo estequiométrico molar de los reactivos de entrada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La relación requerida es de 1 mol de $Mg$ por cada 2 moles de $HCl$. Al disponer de 2 moles de $Mg$ y 4 moles de $HCl$, la proporción es idéntica a la estequiométrica ($2/1 = 4/2$). Por lo tanto, no hay reactivo en exceso y ambos se agotan al mismo tiempo, rindiendo 2 moles de $H_2$ basándose en la relación molar 1:1 con el magnesio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v8",
+      "statement": "Si el rendimiento teórico máximo de una reacción es de $50 \\text{ g}$ de producto, pero tras purificar y secar el producto en la balanza se obtienen de manera real y física $40 \\text{ g}$, ¿cuál es el rendimiento porcentual de la reacción?",
+      "context": "Catalina calcula el rendimiento porcentual de una reacción de laboratorio en Viña del Mar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "80%",
+          "is_correct": true,
+          "feedback": "¡Correcto! El rendimiento porcentual se halla mediante la relación matemática: $\\text{Rendimiento \\%} = (\\text{Rendimiento Real} / \\text{Rendimiento Teórico}) \\cdot 100 = (40 / 50) \\cdot 100 = 80\\%$."
+        },
+        {
+          "letter": "B",
+          "text": "125%",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rendimiento real no puede superar al teórico en condiciones normales; has invertido la división de la proporción."
+        },
+        {
+          "letter": "C",
+          "text": "90%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una estimación matemática errónea del cálculo del porcentaje obtenido."
+        },
+        {
+          "letter": "D",
+          "text": "40%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cuarenta gramos es la masa física real recuperada, no representa el porcentaje relativo respecto del máximo esperado de cincuenta gramos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El rendimiento de una reacción química se expresa en porcentaje para denotar la eficiencia del proceso. Se calcula dividiendo la masa real obtenida experimentalmente por la masa teórica predicha estequiométricamente, multiplicando el resultado por cien: $(40 \\text{ g} / 50 \\text{ g}) \\cdot 100 = 80\\%$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v9",
+      "statement": "¿Qué volumen constante ocupa exactamente un mol de cualquier gas ideal que se encuentre bajo condiciones normales de presión y temperatura (CNPT)?",
+      "context": "Benjamín estudia el comportamiento del gas ideal y la hipótesis de Avogadro bajo condiciones normales de presión y temperatura (CNPT: $0^\\circ\\text{C}$ y $1\\text{ atm}$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1,0 \\text{ litro}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un litro es un volumen arbitrario; un mol de gas ideal abarca un volumen mucho mayor bajo condiciones normales."
+        },
+        {
+          "letter": "B",
+          "text": "$11,2 \\text{ litros}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este volumen corresponde a la mitad de un mol de gas ideal bajo condiciones normales de presión y temperatura."
+        },
+        {
+          "letter": "C",
+          "text": "$22,4 \\text{ litros}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Por ley de gases ideales, un mol de gas bajo condiciones CNPT ($0^\\circ\\text{C}$ y $1\\text{ atm}$) ocupa un volumen molar constante de $22,4 \\text{ litros}$."
+        },
+        {
+          "letter": "D",
+          "text": "$44,8 \\text{ litros}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este volumen correspondería a la presencia de dos moles de gas ideal en condiciones normales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Al aplicar la ley de los gases ideales $P \\cdot V = n \\cdot R \\cdot T$ sustituyendo $P = 1 \\text{ atm}$, $n = 1 \\text{ mol}$, $R = 0,0821 \\text{ atm}\\cdot\\text{L}/(\\text{mol}\\cdot\\text{K})$ y $T = 273,15 \\text{ K}$ ($0^\\circ\\text{C}$), se despeja el volumen molar constante ocupado: $V \\approx 22,4 \\text{ litros}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v10",
+      "statement": "¿Qué tipo de reacción química ocurre cuando una sola sustancia compleja se descompone por acción térmica en dos sustancias más sencillas, según la ecuación: $CaCO_3 \\rightarrow CaO + CO_2$?",
+      "context": "Sofía estudia la descomposición térmica del carbonato de calcio ($CaCO_3$) mediante calor en un horno de Santiago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reacción de síntesis o combinación",
+          "is_correct": false,
+          "feedback": "Incorrecto. En una reacción de síntesis dos o más reactivos simples se unen covalentemente para formar un único producto complejo."
+        },
+        {
+          "letter": "B",
+          "text": "Reacción de simple sustitución",
+          "is_correct": false,
+          "feedback": "Incorrecto. En las reacciones de sustitución simple un elemento desplaza a otro de un compuesto, no hay ruptura térmica de un solo reactivo."
+        },
+        {
+          "letter": "C",
+          "text": "Reacción de descomposición o análisis",
+          "is_correct": true,
+          "feedback": "¡Correcto! En las reacciones de descomposición un único reactivo de entrada da origen a dos o más productos simples debido a un aporte energético."
+        },
+        {
+          "letter": "D",
+          "text": "Reacción de doble desplazamiento",
+          "is_correct": false,
+          "feedback": "Incorrecto. Involucra el intercambio de iones entre dos sales disueltas en solución para formar precipitados insolubles."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las reacciones de descomposición se caracterizan por poseer un solo reactivo que se escinde en múltiples productos debido a la energía del calor (pirólisis) o electricidad (electrólisis). En el ejemplo dado, el carbonato de calcio sólido se descompone en óxido de calcio y gas de dióxido de carbono.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.71,
+      "bundle_id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v11",
+      "statement": "Si se disuelven $4 \\text{ g}$ de hidróxido de sodio ($NaOH$) en agua destilada hasta completar un volumen de solución final de exactamente $100 \\text{ mL}$, ¿cuál es la concentración molar o molaridad (M) de la solución? (Masa molar del $NaOH = 40 \\text{ g/mol}$)",
+      "context": "Un químico de control analítico en Talca disuelve una muestra de hidróxido de sodio para preparar una solución alcalina estándar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1,0 \\text{ M}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Moles de soluto $n = 4 \\text{ g} / 40 \\text{ g/mol} = 0,1 \\text{ mol}$. Volumen de solución en litros $V = 100 \\text{ mL} = 0,1 \\text{ L}$. Molaridad $M = n/V = 0,1 / 0,1 = 1,0 \\text{ mol/L}$."
+        },
+        {
+          "letter": "B",
+          "text": "$0,1 \\text{ M}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Has olvidado dividir por el volumen expresado en litros de solución para calcular la concentración molar."
+        },
+        {
+          "letter": "C",
+          "text": "$4,0 \\text{ M}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una estimación matemática errónea de los gramos introducidos de soluto."
+        },
+        {
+          "letter": "D",
+          "text": "$0,4 \\text{ M}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa las divisiones del volumen de litros y la conversión a moles efectuada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La molaridad ($M$) se define como los moles de soluto disueltos por cada litro de solución total ($M = n / V_{litros}$). Primero calculamos los moles de $NaOH$: $4 \\text{ g} / 40 \\text{ g/mol} = 0,1 \\text{ mol}$. Luego, convertimos el volumen a litros: $100 \\text{ mL} = 0,1 \\text{ litros}$. Dividiendo resulta: $0,1 \\text{ mol} / 0,1 \\text{ L} = 1,0 \\text{ M}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v12",
+      "statement": "¿Cuáles son los productos esperados de la reacción de neutralización completa entre el ácido clorhídrico ($HCl$) y la base hidróxido de sodio ($NaOH$)?",
+      "context": "Martina analiza la reacción de neutralización ácido-base entre el ácido clorhídrico y el hidróxido de sodio en Santiago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gas cloro diatómico e hidrógeno molecular",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta reacción liberaría gases inflamables y altamente corrosivos tóxicos en vez de una sal estable y agua neutra."
+        },
+        {
+          "letter": "B",
+          "text": "Cloruro de sodio y agua líquida",
+          "is_correct": true,
+          "feedback": "¡Correcto! La neutralización clásica de un ácido fuerte con una base fuerte produce de manera característica una sal neutra soluble y agua."
+        },
+        {
+          "letter": "C",
+          "text": "Óxido de sodio y ácido hipocloroso",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se forma óxido metálico seco ni ácidos oxácidos débiles en condiciones de disolución acuosa ordinaria."
+        },
+        {
+          "letter": "D",
+          "text": "Carbonato de sodio y gas dióxido de carbono",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se requeriría la presencia de reactivos con carbono (carbonatos) para liberar dióxido de carbono en los productos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La reacción de neutralización es una reacción de doble desplazamiento: $HCl\\ (aq) + NaOH\\ (aq)\nightarrow NaCl\\ (aq) + H_2O\\ (l)$. Los protones del ácido ($H^+$) se acoplan con los hidroxilos de la base ($OH^-$) para formar moléculas neutras de agua, mientras que los iones espectadores ($Na^+$ y $Cl^-$) quedan disueltos como cloruro de sodio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v13",
+      "statement": "¿Qué proceso experimenta un átomo o ion metálico cuando pierde electrones durante una reacción química de óxido-reducción?",
+      "context": "Vicente estudia las reacciones redox (óxido-reducción) en pilas electroquímicas de cobre y zinc.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oxidación",
+          "is_correct": true,
+          "feedback": "¡Correcto! Por definición química redox, la oxidación es el proceso en el cual un átomo pierde electrones, aumentando su estado de oxidación."
+        },
+        {
+          "letter": "B",
+          "text": "Reducción",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reducción consiste en la ganancia neta de electrones, lo que disminuye el estado de oxidación del átomo."
+        },
+        {
+          "letter": "C",
+          "text": "Precipitación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La precipitación describe la formación física de un sólido insoluble a partir de iones solubles, no el traspaso de electrones atómicos."
+        },
+        {
+          "letter": "D",
+          "text": "Neutralización",
+          "is_correct": false,
+          "feedback": "Incorrecto. La neutralización es el acoplamiento de ácidos y bases para formar agua y sal neutra, no un proceso de transferencia electrónica de valencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En las reacciones de óxido-reducción (redox), la transferencia electrónica ocurre de forma acoplada. El agente reductor se oxida perdiendo electrones (como el zinc metálico que pasa a $Zn^{2+}$), mientras que el agente oxidante se reduce capturando dichos electrones libres.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v14",
+      "statement": "Sabiendo que se producen exactamente 3 moles de gas hidrógeno ($H_2$), ¿cuál es la masa en gramos del hidrógeno obtenido? (Masa atómica del $H = 1 \\text{ g/mol}$)",
+      "context": "En un laboratorio de Santiago, Catalina calcula los gramos de hidrógeno gaseoso ($H_2$) liberados al hacer reaccionar aluminio metálico con un exceso de ácido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3 \\text{ g}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tres gramos sería la masa si el hidrógeno fuera atómico monoatómico (H), pero el gas de hidrógeno es diatómico ($H_2$)."
+        },
+        {
+          "letter": "B",
+          "text": "$6 \\text{ g}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El gas de hidrógeno es diatómico ($H_2$), por lo que su masa molar es $2 \\text{ g/mol}$. Multiplicando: $3 \\text{ moles} \\cdot 2 \\text{ g/mol} = 6 \\text{ g}$."
+        },
+        {
+          "letter": "C",
+          "text": "$1 \\text{ g}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la mitad de la masa de un solo mol del gas diatómico de hidrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "$12 \\text{ g}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el peso molecular del gas diatómico de hidrógeno y los moles de muestra multiplicados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El gas de hidrógeno elemental es una molécula diatómica ($H_2$). Su masa molar es $2 \\cdot 1 \\text{ g/mol} = 2 \\text{ g/mol}$. Para hallar la masa total de la muestra obtenida, multiplicamos la cantidad de sustancia por la masa molar de la molécula: $m = n \\cdot M = 3 \\text{ moles} \\cdot 2 \\text{ g/mol} = 6 \\text{ gramos}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v15",
+      "statement": "De acuerdo con la Ley de Conservación de la Masa, si combustionan completamente $58 \\text{ g}$ de gas butano consumiendo exactamente $208 \\text{ g}$ de oxígeno molecular del aire, y se liberan $90 \\text{ g}$ de vapor de agua, ¿qué masa de dióxido de carbono ($CO_2$) gaseoso se habrá generado en los productos?",
+      "context": "Benjamín analiza la combustión completa del gas butano ($C_4H_{10}$) en cilindros de gas licuado en Concepción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$150 \\text{ g}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Has omitido sumar la masa del oxígeno reactivo de entrada antes de restar el producto de agua."
+        },
+        {
+          "letter": "B",
+          "text": "$266 \\text{ g}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la suma directa de los reactivos sin descontar la masa del agua producida."
+        },
+        {
+          "letter": "C",
+          "text": "$176 \\text{ g}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Masa total reactivos = $58 \\text{ g} + 208 \\text{ g} = 266 \\text{ g}$. Masa total productos = $\\text{masa } CO_2 + 90 \\text{ g}$. Despejando: $\\text{masa } CO_2 = 266 \\text{ g} - 90 \\text{ g} = 176 \\text{ g}$."
+        },
+        {
+          "letter": "D",
+          "text": "$116 \\text{ g}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa las sumas y restas aplicadas para cumplir la Ley de conservación de masas de Lavoisier."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Ley de Lavoisier postula que la masa de los reactivos es igual a la masa de los productos de salida. Calculando las masas de entrada: $58 \\text{ g de butano} + 208 \\text{ g de oxígeno} = 266 \\text{ gramos de reactivos totales}$. Los productos formados deben sumar la misma masa: $\\text{Masa de } CO_2 + 90 \\text{ g de agua} = 266 \\text{ g}$. Despejando la incógnita resulta en $176 \\text{ gramos}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v16",
+      "statement": "Si se mezclan de forma estequiométrica 6 moles de gas hidrógeno ($H_2$) con 3 moles de gas oxígeno ($O_2$), ¿cuántos moles de agua líquida ($H_2O$) se sintetizarán como máximo de manera teórica?",
+      "context": "Sofía estudia la síntesis de agua a partir de gases elementales de hidrógeno y oxígeno: $2\\ H_2 + O_2\nightarrow 2\\ H_2O$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 moles de agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estequiometría de la reacción produce la misma cantidad molar de agua que los moles de hidrógeno consumidos."
+        },
+        {
+          "letter": "B",
+          "text": "6 moles de agua",
+          "is_correct": true,
+          "feedback": "¡Correcto! La relación estequiométrica entre hidrógeno y agua es de 2:2 (o 1:1). Por ende, el consumo completo de 6 moles de hidrógeno rinde 6 moles de agua."
+        },
+        {
+          "letter": "C",
+          "text": "9 moles de agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar directamente los moles de los reactivos independientes para predecir los moles del compuesto final formado."
+        },
+        {
+          "letter": "D",
+          "text": "12 moles de agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el análisis cuantitativo y la proporción molar de la ecuación balanceada dada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ecuación balanceada indica que 2 moles de $H_2$ reaccionan con 1 mol de $O_2$ para generar 2 moles de $H_2O$. Disponemos de 6 moles de $H_2$ y 3 de $O_2$, que es una proporción estequiométrica exacta ($6:3 = 2:1$). Dado que la relación de $H_2$ a $H_2O$ es de 1:1, se obtienen exactamente 6 moles de agua.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.56,
+      "bundle_id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v17",
+      "statement": "¿Qué factor físico-químico contribuye de manera directa a que el rendimiento real de un proceso de síntesis en el laboratorio sea comúnmente menor al rendimiento teórico máximo calculado estequiométricamente?",
+      "context": "En un seminario científico en Santiago, se discute el concepto de rendimiento teórico y los factores que impiden alcanzar el 100% de eficiencia en la síntesis orgánica industrial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La existencia de reacciones secundarias paralelas que consumen parte de los reactivos y las pérdidas físicas de material durante los pasos de filtración, purificación y trasvasije.",
+          "is_correct": true,
+          "feedback": "¡Correcto! En la práctica, procesos reversibles, impurezas de los reactivos y mermas en los traslados mecánicos reducen la masa de producto puro recuperado."
+        },
+        {
+          "letter": "B",
+          "text": "La destrucción espontánea de átomos metálicos según la ley del diezmo ecológico molecular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diezmo ecológico rige las cadenas de flujo de energía alimentaria biológica, no destruye átomos en reacciones químicas."
+        },
+        {
+          "letter": "C",
+          "text": "El aumento cuántico de la gravedad local en la balanza analítica del laboratorio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad de la balanza permanece constante y calibrada, no altera las relaciones de masa química estequiométrica."
+        },
+        {
+          "letter": "D",
+          "text": "La evaporación instantánea de todos los núcleos atómicos pesados hacia el vacío del solvente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los núcleos atómicos permanecen estables durante reacciones químicas ordinarias; solo los electrones externos participan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El rendimiento teórico es un límite ideal. En la realidad de la química de laboratorio, las reacciones incompletas de equilibrio químico, la formación de subproductos indeseados (reacciones competitivas) y las pérdidas mecánicas inevitables durante los procesos de separación física (como el filtrado y la cristalización) disminuyen el rendimiento final real.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v18",
+      "statement": "Si se introducen 5 moles de óxido de hierro ($Fe_2O_3$) con un exceso de monóxido de carbono según la ecuación balanceada: $Fe_2O_3 + 3\\ CO \\rightarrow 2\\ Fe + 3\\ CO_2$, ¿cuántos moles de hierro metálico ($Fe$) se obtendrán teóricamente?",
+      "context": "Martina analiza la reacción de obtención de hierro metálico a partir de su óxido en un alto horno industrial en Huachipato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 moles de hierro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dos moles es el coeficiente estequiométrico obtenido a partir de un solo mol del óxido de partida, no de cinco moles."
+        },
+        {
+          "letter": "B",
+          "text": "5 moles de hierro",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación molar óxido a hierro es de 1 a 2, por lo que la cantidad de moles producida de hierro debe duplicarse."
+        },
+        {
+          "letter": "C",
+          "text": "10 moles de hierro",
+          "is_correct": true,
+          "feedback": "¡Correcto! Según la ecuación, 1 mol de $Fe_2O_3$ rinde 2 moles de $Fe$. Por tanto, 5 moles de $Fe_2O_3$ rendirán el doble: $5 \\cdot 2 = 10$ moles."
+        },
+        {
+          "letter": "D",
+          "text": "15 moles de hierro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el análisis dimensional de la proporción estequiométrica del óxido de partida al metal de hierro resultante."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La estequiometría de la reacción muestra que por cada mol de $Fe_2O_3$ que reacciona, se liberan y sintetizan 2 moles de átomos de hierro libre ($Fe$). Al procesarse 5 moles del reactivo de partida, multiplicamos por la proporción correspondiente: $5 \\text{ moles of } Fe_2O_3 \\cdot \\frac{2 \\text{ moles of } Fe}{1 \\text{ mol of } Fe_2O_3} = 10 \\text{ moles of } Fe$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v19",
+      "statement": "Si el cálculo estequiométrico indica que se deberían formar de manera teórica $10 \\text{ g}$ de precipitado sólido de sulfato de bario, pero tras completar el filtrado y secado se recuperan $9 \\text{ g}$, ¿cuál es el rendimiento porcentual obtenido en la precipitación?",
+      "context": "Vicente prepara sulfato de bario mediante una reacción de precipitación en Santiago mezclando sulfato de sodio y cloruro de bario disueltos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Diez por ciento es el porcentaje de pérdida o merma sufrida en el proceso, no el rendimiento del producto recuperado."
+        },
+        {
+          "letter": "B",
+          "text": "90%",
+          "is_correct": true,
+          "feedback": "¡Correcto! Rendimiento porcentual = $(\\text{masa real} / \\text{masa teórica}) \\cdot 100 = (9 \\text{ g} / 10 \\text{ g}) \\cdot 100 = 90\\%$."
+        },
+        {
+          "letter": "C",
+          "text": "99%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una estimación matemática errónea del porcentaje de masa recuperada."
+        },
+        {
+          "letter": "D",
+          "text": "9%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nueve gramos es el peso físico del precipitado seco, no representa la proporción porcentual respecto del límite teórico esperado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El rendimiento porcentual cuantifica la fracción de producto recuperado útil frente al ideal teórico. Se obtiene del cociente entre el rendimiento práctico experimental (9 gramos) y el estequiométrico teórico ideal (10 gramos), multiplicado por cien, resultando en un 90% de eficiencia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.28,
+      "bundle_id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle-v20",
+      "statement": "¿Qué gas es el responsable directo de la efervescencia liberada durante la reacción entre el ácido clorhídrico y el bicarbonato de sodio, según la ecuación: $HCl + NaHCO_3 \\rightarrow NaCl + H_2O + CO_2$?",
+      "context": "Un equipo de estudiantes en Valparaíso realiza la neutralización de un desecho ácido industrial compuesto por ácido clorhídrico ($HCl$) empleando bicarbonato de sodio ($NaHCO_3$) sólido, observando un burbujeo efervescente muy notorio debido al escape de un gas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gas de cloro diatómico gaseoso ($Cl_2$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cloro permanece soluble en disolución como iones espectadores de cloruro ($Cl^-$) junto al sodio, no se desprende como cloro gas elemental tóxico."
+        },
+        {
+          "letter": "B",
+          "text": "Gas hidrógeno molecular inflamable ($H_2$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los átomos de hidrógeno se acoplan de manera estable con el oxígeno para constituir agua líquida neutra, no forman gas hidrógeno."
+        },
+        {
+          "letter": "C",
+          "text": "Gas dióxido de carbono ($CO_2$)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El dióxido de carbono se genera como un producto gaseoso de la descomposición del ácido carbónico intermedio, provocando la efervescencia."
+        },
+        {
+          "letter": "D",
+          "text": "Gas de oxígeno diatómico respirable ($O_2$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se libera oxígeno diatómico elemental gaseoso como producto de esta reacción ácido-carbonato estándar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La interacción entre un ácido fuerte como el $HCl$ y una sal de carbonato o bicarbonato (como el $NaHCO_3$) produce ácido carbónico inestable ($H_2CO_3$) de forma temporal intermedia. El ácido carbónico se descompone de forma instantánea en agua líquida y gas dióxido de carbono ($CO_2$). La baja solubilidad del gas en el solvente acuoso provoca su escape rápido en forma de burbujas efervescentes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.22,
+      "bundle_id": "CL-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

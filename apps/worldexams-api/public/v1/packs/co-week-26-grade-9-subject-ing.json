@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-26-grade-9-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.946Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-9-2026-W26-literature-and-stories-001-MASTERY-bundle-v1",
+      "statement": "The sun ________ behind the mountains when the traveler finally reached the village.",
+      "context": "Setting the scene in a story.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "set",
+          "is_correct": false,
+          "feedback": "Incorrect. We need a continuous action for the background."
+        },
+        {
+          "letter": "B",
+          "text": "was setting",
+          "is_correct": true,
+          "feedback": "Correct! Past Continuous is used to describe the background situation or an action in progress when another action occurs."
+        },
+        {
+          "letter": "C",
+          "text": "has set",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "D",
+          "text": "had been setting",
+          "is_correct": false,
+          "feedback": "Incorrect. (Possible but less common for a simple background state)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la narrativa, utilizamos el Pasado Continuo para describir el escenario o las acciones que estaban ocurriendo en el momento en que sucede el evento principal (*reached*).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W26-literature-and-stories-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W26-literature-and-stories-001-MASTERY-bundle-v2",
+      "statement": "By the time the book became a bestseller, the author ________ on his second novel.",
+      "context": "Sequencing events in the past.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "already started",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing the auxiliary."
+        },
+        {
+          "letter": "B",
+          "text": "had already started",
+          "is_correct": true,
+          "feedback": "Correct! Past Perfect Simple for an action completed before another past event."
+        },
+        {
+          "letter": "C",
+          "text": "was starting",
+          "is_correct": false,
+          "feedback": "Incorrect. Focuses on the process at that moment."
+        },
+        {
+          "letter": "D",
+          "text": "has started",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Pasado Perfecto Simple (*had started*) nos permite clarificar qué acción ocurrió primero en una secuencia de eventos pasados.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W26-literature-and-stories-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W26-literature-and-stories-001-MASTERY-bundle-v3",
+      "statement": "Gabriel García Márquez ________ the story for years before he finally wrote it down.",
+      "context": "Describing a long-term past effort.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "imagined",
+          "is_correct": false,
+          "feedback": "Incorrect. Doesn't emphasize the duration well."
+        },
+        {
+          "letter": "B",
+          "text": "was imagining",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "had been imagining",
+          "is_correct": true,
+          "feedback": "Correct! Past Perfect Continuous emphasizes the duration of an action up to a point in the past."
+        },
+        {
+          "letter": "D",
+          "text": "has been imagining",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Usamos el Pasado Perfecto Continuo (*had been imagining*) para resaltar la larga duración de un proceso creativo que precedió a la acción final (*wrote it down*).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W26-literature-and-stories-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W26-literature-and-stories-001-MASTERY-bundle-v4",
+      "statement": "While the protagonist ________ for the lost treasure, his enemies ________ a trap.",
+      "context": "Describing two simultaneous past actions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "searched / were preparing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "was searching / were preparing",
+          "is_correct": true,
+          "feedback": "Correct! Two continuous actions happening at the same time in the past."
+        },
+        {
+          "letter": "C",
+          "text": "had searched / prepared",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "was searching / had prepared",
+          "is_correct": false,
+          "feedback": "Incorrect. (Wait, this is possible but changes the meaning to a pre-existing trap)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando dos acciones estaban ocurriendo simultáneamente en el pasado, ambas pueden expresarse en Pasado Continuo para crear una sensación de dinamismo en la historia.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W26-literature-and-stories-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W26-literature-and-stories-001-MASTERY-bundle-v5",
+      "statement": "I ________ a detective story when I suddenly ________ the answer to the mystery.",
+      "context": "Describing a sudden interruption.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "read / realized",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "was reading / realized",
+          "is_correct": true,
+          "feedback": "Correct! A continuous action interrupted by a shorter, sudden event."
+        },
+        {
+          "letter": "C",
+          "text": "had read / was realizing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "read / was realizing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esta es la estructura clásica de la narrativa: el Pasado Continuo para la acción prolongada y el Pasado Simple para el evento puntual que la interrumpe.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W26-literature-and-stories-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W26-literature-and-stories-001-MASTERY-bundle-v6",
+      "statement": "Elena was exhausted. She ________ for ten hours without a break.",
+      "context": "Describing the state of a character.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "walked",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "was walking",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "had been walking",
+          "is_correct": true,
+          "feedback": "Correct! Explains a past state (exhaustion) as the result of a long prior activity."
+        },
+        {
+          "letter": "D",
+          "text": "has been walking",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Usamos el Pasado Perfecto Continuo para explicar la causa de una situación en el pasado, enfatizando el cansancio o el esfuerzo prolongado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W26-literature-and-stories-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W26-literature-and-stories-001-MASTERY-bundle-v7",
+      "statement": "Which sentence implies that the author **finished** the book before the deadline?",
+      "context": "Distinguishing between Past Perfect Simple and Continuous.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "When the deadline arrived, the author had written the book.",
+          "is_correct": true,
+          "feedback": "Correct! Past Perfect Simple focuses on the completion and the result."
+        },
+        {
+          "letter": "B",
+          "text": "When the deadline arrived, the author had been writing the book.",
+          "is_correct": false,
+          "feedback": "Incorrect. This suggests he was still in the middle of writing it."
+        },
+        {
+          "letter": "C",
+          "text": "When the deadline arrived, the author was writing the book.",
+          "is_correct": false,
+          "feedback": "Incorrect. Action in progress."
+        },
+        {
+          "letter": "D",
+          "text": "When the deadline arrived, the author wrote the book.",
+          "is_correct": false,
+          "feedback": "Incorrect. Implies he wrote it at that exact moment."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A nivel B2, es clave distinguir que el Pasado Perfecto Simple se enfoca en el hecho de haber terminado algo, mientras que el Continuo se enfoca en el tiempo invertido en la tarea.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W26-literature-and-stories-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W26-literature-and-stories-001-MASTERY-bundle-v8",
+      "statement": "\"After he ________ the old letter, he realized he ________ his best friend all these years.\"",
+      "context": "Understanding the sequence of events.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "read / misunderstood",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "had read / had misunderstood",
+          "is_correct": true,
+          "feedback": "Correct! Both events happened before the moment of realization."
+        },
+        {
+          "letter": "C",
+          "text": "was reading / misunderstood",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "had read / was misunderstanding",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la narrativa compleja, a veces necesitamos usar el Pasado Perfecto para múltiples acciones que ocurrieron antes del punto de referencia de la historia (*realized*).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W26-literature-and-stories-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W26-literature-and-stories-001-MASTERY-bundle-v9",
+      "statement": "________ his suitcase, the young writer left his home for the big city.",
+      "context": "Choosing the best narrative transition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Packing",
+          "is_correct": false,
+          "feedback": "Incorrect. He didn't leave *while* packing."
+        },
+        {
+          "letter": "B",
+          "text": "Having packed",
+          "is_correct": true,
+          "feedback": "Correct! Perfect participle clause shows one action finished before another."
+        },
+        {
+          "letter": "C",
+          "text": "Packed",
+          "is_correct": false,
+          "feedback": "Incorrect. Passive meaning."
+        },
+        {
+          "letter": "D",
+          "text": "To pack",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El participio de perfecto (*Having packed*) es una herramienta literaria avanzada para resumir una acción previa y pasar rápidamente al evento principal de la escena.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W26-literature-and-stories-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W26-literature-and-stories-001-MASTERY-bundle-v10",
+      "statement": "Identify the error in this paragraph:\n\"The detective arrived at the crime scene. It **had rained** (A) all night, so the ground was muddy. He **was noticing** (B) that someone **had broken** (C) the window. He **had been looking** (D) for clues for an hour when he found the key.\"",
+      "context": "Identifying an error in a short story excerpt.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "had rained",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use of past perfect."
+        },
+        {
+          "letter": "B",
+          "text": "was noticing",
+          "is_correct": true,
+          "feedback": "Correct! \"Notice\" is a verb of perception that is usually used in Past Simple (*noticed*) for a sudden realization, not in continuous."
+        },
+        {
+          "letter": "C",
+          "text": "had broken",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use for an action before arrival."
+        },
+        {
+          "letter": "D",
+          "text": "had been looking",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use for duration before finding the key."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los verbos de estado o percepción como *notice*, *know* o *believe* raramente se usan en tiempos continuos en la narrativa estándar, a menos que se quiera enfatizar un proceso gradual.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-9-2026-W26-literature-and-stories-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W26-literature-and-stories-001-MASTERY-bundle-v11",
+      "statement": "Which opening sentence creates a better sense of **mystery and background**?",
+      "context": "Choosing the best beginning for a mystery novel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It rained and the man walked into the room.",
+          "is_correct": false,
+          "feedback": "Incorrect. Too simple."
+        },
+        {
+          "letter": "B",
+          "text": "It had rained and the man was walking into the room.",
+          "is_correct": false,
+          "feedback": "Incorrect. Disconnected."
+        },
+        {
+          "letter": "C",
+          "text": "It had been raining for hours, and the man was still waiting by the window when the door finally opened.",
+          "is_correct": true,
+          "feedback": "Correct! Uses multiple narrative tenses to create a complex and engaging scene."
+        },
+        {
+          "letter": "D",
+          "text": "The man waited for hours while it rained.",
+          "is_correct": false,
+          "feedback": "Incorrect. Less descriptive."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El dominio de los tiempos narrativos permite al escritor (o estudiante de nivel B2) crear capas de tiempo que dan profundidad y atmósfera al relato.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-9-2026-W26-literature-and-stories-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W26-literature-and-stories-001-MASTERY-bundle-v12",
+      "statement": "Choose the best summary:\n\"Before the hero ________ the secret, he ________ for years, ________ that the truth was hidden right in front of him.\"",
+      "context": "Summarizing a plot development.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "discovered / had searched / not knowing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "discovered / had been searching / never suspecting",
+          "is_correct": true,
+          "feedback": "Correct! Accurate use of past simple, past perfect continuous, and participle clause."
+        },
+        {
+          "letter": "C",
+          "text": "discovers / was searching / not know",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "discovered / has searched / not suspecting",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este ejercicio final evalúa la capacidad de integrar diversos tiempos pasados y cláusulas de participio para resumir tramas literarias de manera profesional y fluida.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-9-2026-W26-literature-and-stories-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

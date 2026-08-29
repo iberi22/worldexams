@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-12-grade-8-subject-lengua",
+    "generated_at": "2026-06-18T23:58:37.585Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-8-2026-W12-poesia-colonial-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál fue el estilo artístico predominante en la poesía colonial del siglo XVII, caracterizado por la ornamentación excesiva, el uso de metáforas complejas y el contraste entre luces y sombras?",
+      "context": "La poesía colonial en Hispanoamérica se desarrolló bajo la influencia de los modelos estéticos traídos de España, especialmente durante los siglos XVII y XVIII.\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Renacimiento",
+          "is_correct": false,
+          "feedback": "El Renacimiento buscaba la sencillez y el equilibrio, a diferencia del estilo recargado del siglo XVII."
+        },
+        {
+          "letter": "B",
+          "text": "Barroco",
+          "is_correct": true,
+          "feedback": "Correcto. El Barroco se caracteriza por la complejidad formal y el uso intensivo de figuras retóricas."
+        },
+        {
+          "letter": "C",
+          "text": "Romanticismo",
+          "is_correct": false,
+          "feedback": "El Romanticismo es un movimiento posterior del siglo XIX que exalta los sentimientos y la libertad."
+        },
+        {
+          "letter": "D",
+          "text": "Modernismo",
+          "is_correct": false,
+          "feedback": "El Modernismo surgió a finales del siglo XIX con autores como Rubén Darío."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Barroco americano adaptó las formas españolas pero incluyó elementos locales, convirtiéndose en una herramienta de expresión espiritual y estética en los virreinatos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-8-2026-W12-poesia-colonial-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W12-poesia-colonial-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se conoce comúnmente a Sor Juana Inés de la Cruz debido a su excepcional inteligencia y talento literario durante la Colonia?",
+      "context": "Sor Juana Inés de la Cruz es la figura más importante de la lírica colonial en el Virreinato de la Nueva España (México).\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Gran Mariscala",
+          "is_correct": false,
+          "feedback": "Este no es un título literario asociado a Sor Juana."
+        },
+        {
+          "letter": "B",
+          "text": "La Décima Musa",
+          "is_correct": true,
+          "feedback": "Correcto. Se le llamó así comparándola con las nueve musas de la mitología griega por su genio literario."
+        },
+        {
+          "letter": "C",
+          "text": "La Monja de Hierro",
+          "is_correct": false,
+          "feedback": "Aunque era monja, este apodo no refleja su reconocimiento literario colonial."
+        },
+        {
+          "letter": "D",
+          "text": "La Dama del Barroco",
+          "is_correct": false,
+          "feedback": "Aunque es una figura del Barroco, el término histórico exacto de su fama fue \"La Décima Musa\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sor Juana destacó no solo por su poesía, sino por su defensa del derecho de las mujeres al conocimiento y al estudio en una época de fuertes restricciones sociales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-8-2026-W12-poesia-colonial-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W12-poesia-colonial-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el tema principal de los versos anteriores de Sor Juana Inés de la Cruz?",
+      "context": "\"Hombres necios que acusáis / a la mujer sin razón, / sin ver que sois la ocasión / de lo mismo que culpáis\". (Sor Juana Inés de la Cruz).\n**Expected_Success:** 0.82",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La belleza de la naturaleza americana.",
+          "is_correct": false,
+          "feedback": "Los versos no mencionan paisajes ni elementos naturales."
+        },
+        {
+          "letter": "B",
+          "text": "La crítica a la doble moral y la contradicción de los hombres hacia las mujeres.",
+          "is_correct": true,
+          "feedback": "Correcto. Sor Juana cuestiona la injusticia de las acusaciones masculinas."
+        },
+        {
+          "letter": "C",
+          "text": "El amor platónico por un caballero de la corte.",
+          "is_correct": false,
+          "feedback": "El tono es de reproche y análisis social, no de declaración amorosa."
+        },
+        {
+          "letter": "D",
+          "text": "El arrepentimiento por haber entrado al convento.",
+          "is_correct": false,
+          "feedback": "El poema trata sobre relaciones sociales y de género, no sobre su vida religiosa interna."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este poema (Sátira Filosófica) es uno de los primeros testimonios literarios que defienden la dignidad femenina y critican las estructuras patriarcales en América.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-8-2026-W12-poesia-colonial-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W12-poesia-colonial-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la característica principal del **culteranismo** (representado por Luis de Góngora e imitado en América)?",
+      "context": "En el Barroco existieron dos corrientes principales: una centrada en la forma y el lenguaje (culteranismo) y otra en el ingenio y las ideas (conceptismo).\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso de un lenguaje muy sencillo que todo el pueblo podía entender.",
+          "is_correct": false,
+          "feedback": "El culteranismo buscaba precisamente la dificultad y el elitismo lingüístico."
+        },
+        {
+          "letter": "B",
+          "text": "El uso abundante de latinismos, hipérbatos complejos y referencias mitológicas oscuras.",
+          "is_correct": true,
+          "feedback": "Correcto. Buscaba crear una lengua poética brillante y difícil de descifrar."
+        },
+        {
+          "letter": "C",
+          "text": "La eliminación total de las rimas para escribir en verso libre.",
+          "is_correct": false,
+          "feedback": "El Barroco era estrictamente riguroso con la rima y la métrica."
+        },
+        {
+          "letter": "D",
+          "text": "Escribir solo sobre temas de cocina y vida doméstica.",
+          "is_correct": false,
+          "feedback": "Los temas solían ser elevados, mitológicos o religiosos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El culteranismo pretendía elevar la lengua española a la altura del latín clásico, utilizando una sintaxis retorcida y metáforas muy elaboradas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-8-2026-W12-poesia-colonial-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W12-poesia-colonial-001-MASTERY-bundle-v5",
+      "statement": "¿Qué valor tiene para un historiador actual el poema de Juan de Castellanos, a pesar de estar escrito en verso?",
+      "context": "Juan de Castellanos, en su obra \"Elegías de varones ilustres de Indias\", escribió el poema más largo de la lengua española sobre la conquista de América.\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno, porque la poesía nunca cuenta la verdad de los hechos.",
+          "is_correct": false,
+          "feedback": "La poesía histórica de la época era un registro muy detallado de acontecimientos."
+        },
+        {
+          "letter": "B",
+          "text": "Sirve para saber qué rimas eran las más populares en el siglo XVI.",
+          "is_correct": false,
+          "feedback": "Aunque es un dato formal, su valor principal es el contenido histórico y geográfico."
+        },
+        {
+          "letter": "C",
+          "text": "Ofrece información detallada sobre la geografía, la flora, la fauna y los nombres de los conquistadores de Colombia y Venezuela.",
+          "is_correct": true,
+          "feedback": "Correcto. Castellanos actuó como cronista y poeta simultáneamente."
+        },
+        {
+          "letter": "D",
+          "text": "Permite encontrar mapas ocultos de la mítica ciudad de El Dorado.",
+          "is_correct": false,
+          "feedback": "Menciona el mito, pero el poema es un registro testimonial, no un mapa de tesoros."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Juan de Castellanos es considerado el primer poeta de lo que hoy es Colombia, y su obra mezcla la épica clásica con el realismo de la experiencia en el nuevo mundo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-8-2026-W12-poesia-colonial-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W12-poesia-colonial-001-MASTERY-bundle-v6",
+      "statement": "Si un poema de Domínguez Camargo describe un río como un \"cristal que en rizos de plata se desata\", ¿qué efecto busca crear en el lector?",
+      "context": "Hernando Domínguez Camargo, poeta nacido en Bogotá, fue uno de los máximos representantes del culteranismo en el Nuevo Reino de Granada.\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dar una explicación científica sobre el ciclo del agua.",
+          "is_correct": false,
+          "feedback": "El lenguaje es puramente estético y metafórico, no científico."
+        },
+        {
+          "letter": "B",
+          "text": "Quejarse de la contaminación de los ríos en la Colonia.",
+          "is_correct": false,
+          "feedback": "En esa época no existía la preocupación ecológica moderna en la poesía."
+        },
+        {
+          "letter": "C",
+          "text": "Embellecer la realidad natural mediante metáforas brillantes y materiales preciosos.",
+          "is_correct": true,
+          "feedback": "Correcto. Es un rasgo típico del Barroco: transformar lo humilde en algo lujoso a través de la palabra."
+        },
+        {
+          "letter": "D",
+          "text": "Enseñar a los niños a nadar de forma segura.",
+          "is_correct": false,
+          "feedback": "El propósito es artístico y para un público culto, no pedagógico infantil."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Barroco americano se caracteriza por esta \"saturación de belleza\" donde la naturaleza es reinterpretada a través de filtros artísticos muy sofisticados.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-8-2026-W12-poesia-colonial-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W12-poesia-colonial-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la diferencia principal entre la poesía de Sor Juana Inés de la Cruz y la de la Madre Castillo?",
+      "context": "La poesía mística y religiosa también fue muy importante en la Colonia, destacando la Madre Castillo (Francisca Josefa del Castillo) en Tunja.\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sor Juana escribía en francés y la Madre Castillo en español.",
+          "is_correct": false,
+          "feedback": "Ambas escribieron en español."
+        },
+        {
+          "letter": "B",
+          "text": "Sor Juana exploró temas intelectuales y sociales, mientras que la Madre Castillo se centró en la experiencia espiritual y el diálogo con Dios.",
+          "is_correct": true,
+          "feedback": "Correcto. La Madre Castillo es la gran mística de las letras colombianas coloniales."
+        },
+        {
+          "letter": "C",
+          "text": "Sor Juana era analfabeta y dictaba sus poemas a otras monjas.",
+          "is_correct": false,
+          "feedback": "Sor Juana era una de las personas más cultas y con la biblioteca más grande de América."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencias, ambas escribieron exactamente los mismos poemas.",
+          "is_correct": false,
+          "feedback": "Cada una tiene un estilo y una temática propios dentro del contexto religioso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Mientras Sor Juana representa el Barroco de conceptos y debates, la Madre Castillo representa el Barroco del sentimiento religioso profundo y la \"afectividad mística\".\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-8-2026-W12-poesia-colonial-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W12-poesia-colonial-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué el orden retorcido de las oraciones en el Barroco puede considerarse un reflejo de la mentalidad de la época?",
+      "context": "El uso del hipérbaton (cambiar el orden lógico de las palabras) era constante en la poesía barroca colonial.\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los poetas no sabían gramática y se equivocaban al escribir.",
+          "is_correct": false,
+          "feedback": "Eran expertos en gramática y retórica; el cambio era intencional."
+        },
+        {
+          "letter": "B",
+          "text": "Porque refleja un mundo complejo, contradictorio y en constante tensión entre lo terrenal y lo divino.",
+          "is_correct": true,
+          "feedback": "Correcto. La forma difícil del poema imita la dificultad de entender un mundo en crisis."
+        },
+        {
+          "letter": "C",
+          "text": "Porque querían que los libros fueran más difíciles de leer para que duraran más tiempo.",
+          "is_correct": false,
+          "feedback": "La dificultad buscaba el prestigio estético, no la durabilidad física del libro."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el papel en la Colonia era circular y obligaba a escribir así.",
+          "is_correct": false,
+          "feedback": "El papel era rectangular como el actual; la forma es una elección estilística."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El estilo barroco huye de la línea recta y la claridad absoluta, prefiriendo el laberinto y el enigma como formas de representar la complejidad del alma humana.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-8-2026-W12-poesia-colonial-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W12-poesia-colonial-001-MASTERY-bundle-v9",
+      "statement": "¿Qué nos dice el hecho de que gran parte de la poesía colonial fuera escrita para \"agasajar\" a los poderosos?",
+      "context": "Los poetas coloniales a menudo escribían poemas de circunstancias para celebrar la llegada de un nuevo virrey o el cumpleaños de un noble.\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los poetas eran todos muy amigos de los virreyes.",
+          "is_correct": false,
+          "feedback": "Era una relación de subordinación y búsqueda de patrocinio (mecenazgo)."
+        },
+        {
+          "letter": "B",
+          "text": "Que en la Colonia no existía el dinero y se pagaba con poemas.",
+          "is_correct": false,
+          "feedback": "El dinero existía, pero el prestigio y los cargos públicos se obtenían mediante favores."
+        },
+        {
+          "letter": "C",
+          "text": "Que la literatura era una herramienta de prestigio social y poder político usada por la élite.",
+          "is_correct": true,
+          "feedback": "Correcto. El dominio del lenguaje era un signo de distinción de clase."
+        },
+        {
+          "letter": "D",
+          "text": "Que no había otros temas sobre los cuales escribir en América.",
+          "is_correct": false,
+          "feedback": "Había muchos temas, pero la poesía cortesana era la más premiada y difundida."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La poesía colonial estaba profundamente ligada a las instituciones de poder (Iglesia y Estado), sirviendo como medio para demostrar la lealtad y la cultura de los súbditos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-8-2026-W12-poesia-colonial-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W12-poesia-colonial-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la importancia de que los poetas coloniales incluyeran términos como \"cacao\", \"piragua\" o \"hamaca\" en poemas escritos con rima española tradicional?",
+      "context": "Algunos críticos hablan de un \"Barroco de Indias\" que incluyó palabras indígenas y realidades americanas en los moldes poéticos españoles.\n**Expected_Success:** 0.50",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Demuestra que no sabían las palabras correctas en español.",
+          "is_correct": false,
+          "feedback": "Esos términos no tenían equivalente en español europeo; eran precisiones necesarias."
+        },
+        {
+          "letter": "B",
+          "text": "Marca el inicio de una identidad literaria propia que empieza a diferenciar lo americano de lo europeo.",
+          "is_correct": true,
+          "feedback": "Correcto. Es el germen de la americanización de la lengua castellana."
+        },
+        {
+          "letter": "C",
+          "text": "Fue una obligación impuesta por los reyes para vender más productos americanos.",
+          "is_correct": false,
+          "feedback": "No fue una imposición comercial, sino una necesidad expresiva del poeta que vivía en América."
+        },
+        {
+          "letter": "D",
+          "text": "Los poetas querían burlarse de las reglas de la Real Academia Española.",
+          "is_correct": false,
+          "feedback": "La RAE no se fundó hasta 1713; en el siglo XVII el idioma estaba en plena expansión creativa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La inclusión de americanismos en la poesía culta es el primer paso hacia una literatura que no solo imita, sino que empieza a nombrar su propia realidad.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LEN-8-2026-W12-poesia-colonial-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W12-poesia-colonial-001-MASTERY-bundle-v11",
+      "statement": "¿Por qué \"Primero Sueño\" se considera una obra que rompe con la tradición poética femenina de su tiempo?",
+      "context": "Sor Juana Inés de la Cruz escribió \"Primero Sueño\", un poema filosófico de gran complejidad sobre el viaje del alma en busca del conocimiento absoluto.\n**Expected_Success:** 0.45",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque está escrito en forma de canción de cuna para niños.",
+          "is_correct": false,
+          "feedback": "Es un poema denso, intelectual y profundamente filosófico."
+        },
+        {
+          "letter": "B",
+          "text": "Porque no menciona a Dios en ninguna de sus estrofas.",
+          "is_correct": false,
+          "feedback": "Aunque se centra en el alma y el conocimiento, la visión sigue siendo cristiana barroca."
+        },
+        {
+          "letter": "C",
+          "text": "Porque aborda temas científicos y racionales tradicionalmente prohibidos o ajenos a las mujeres en la Colonia.",
+          "is_correct": true,
+          "feedback": "Correcto. Sor Juana reclama el derecho femenino a la ciencia y la alta filosofía."
+        },
+        {
+          "letter": "D",
+          "text": "Porque fue escrito para ser leído exclusivamente por piratas en alta mar.",
+          "is_correct": false,
+          "feedback": "Fue escrito para la élite intelectual del virreinato y de España."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Sor Juana utiliza el estilo barroco más sofisticado para demostrar que la mente femenina es capaz de alcanzar las mismas cimas de pensamiento que la masculina.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-8-2026-W12-poesia-colonial-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W12-poesia-colonial-001-MASTERY-bundle-v12",
+      "statement": "¿Qué visión de la vida se desprende de la metáfora del \"gran teatro del mundo\" presente en la poesía y teatro colonial?",
+      "context": "El Barroco colonial a menudo presentaba el mundo como un teatro (Theatrum Mundi) donde todos los seres humanos representan un papel asignado por Dios.\n**Expected_Success:** 0.40",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la vida es muy divertida y todos debemos reír siempre.",
+          "is_correct": false,
+          "feedback": "Al contrario, suele ser una visión melancólica sobre la brevedad de la vida."
+        },
+        {
+          "letter": "B",
+          "text": "Que se deben construir más edificios de teatros en las ciudades americanas.",
+          "is_correct": false,
+          "feedback": "Es una metáfora filosófica sobre la existencia, no una propuesta arquitectónica."
+        },
+        {
+          "letter": "C",
+          "text": "Que la existencia es fugaz y las jerarquías sociales son temporales, ya que al final todos \"se quitan el disfraz\" ante la muerte.",
+          "is_correct": true,
+          "feedback": "Correcto. Refleja la idea de que lo importante no es el cargo terrenal, sino la salvación eterna."
+        },
+        {
+          "letter": "D",
+          "text": "Que los actores deben ganar más dinero que los sacerdotes.",
+          "is_correct": false,
+          "feedback": "La metáfora iguala a todos los hombres bajo el juicio divino, no busca mejoras salariales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Esta visión del mundo (desengaño barroco) servía para recordar a los poderosos la humildad y a los humildes el consuelo de una justicia divina final.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.4,
+      "bundle_id": "CO-LEN-8-2026-W12-poesia-colonial-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

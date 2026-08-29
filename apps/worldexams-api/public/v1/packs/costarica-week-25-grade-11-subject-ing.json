@@ -1,0 +1,871 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ingles",
+    "country": "costarica",
+    "pack_id": "costarica-week-25-grade-11-subject-ingles",
+    "generated_at": "2026-06-22T23:30:16.557Z"
+  },
+  "questions": [
+    {
+      "id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v1",
+      "statement": "Carlos said, \"I have never seen such a beautiful quetzal before.\" What is the correct reported speech for this sentence?",
+      "context": "Carlos is describing his recent eco-tour in Monteverde Cloud Forest.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carlos said he has never seen such a beautiful quetzal before.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Carlos said he has never seen such a bea"
+        },
+        {
+          "letter": "B",
+          "text": "Carlos said he had never seen such a beautiful quetzal before.",
+          "is_correct": true,
+          "feedback": "Correcto! Carlos said he had never seen such a beautiful quetzal befor"
+        },
+        {
+          "letter": "C",
+          "text": "Carlos said he never saw such a beautiful quetzal before.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Carlos said he never saw such a beautifu"
+        },
+        {
+          "letter": "D",
+          "text": "Carlos said he would never see such a beautiful quetzal before.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Carlos said he would never see such a be"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, we shift tenses back. Present Perfect (have seen) becomes Past Perfect (had seen). This is a fundamental rule for high-level English proficiency (C1).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Linguistic Competence",
+      "expected_success": 0.88,
+      "bundle_id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v2",
+      "statement": "\"The dry forest restoration project ______ by a team of international experts since 2015.\"",
+      "context": "A scientist at a research station in Guanacaste is explaining the conservation efforts.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is led",
+          "is_correct": false,
+          "feedback": "Incorrecto. is led"
+        },
+        {
+          "letter": "B",
+          "text": "was led",
+          "is_correct": false,
+          "feedback": "Incorrecto. was led"
+        },
+        {
+          "letter": "C",
+          "text": "has been led",
+          "is_correct": true,
+          "feedback": "Correcto! has been led"
+        },
+        {
+          "letter": "D",
+          "text": "had been led",
+          "is_correct": false,
+          "feedback": "Incorrecto. had been led"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The Present Perfect Passive (has/have been + past participle) is used to describe actions that began in the past and are still relevant or ongoing, focusing on the project rather than the leaders.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Linguistic Competence",
+      "expected_success": 0.85,
+      "bundle_id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v3",
+      "statement": "\"If the government ______ more in sustainable infrastructure last decade, the city ______ fewer traffic problems today.\"",
+      "context": "A debate about the impact of tourism on the local economy in San Jose.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "invested / would have",
+          "is_correct": false,
+          "feedback": "Incorrecto. invested / would have"
+        },
+        {
+          "letter": "B",
+          "text": "had invested / would have",
+          "is_correct": true,
+          "feedback": "Correcto! had invested / would have"
+        },
+        {
+          "letter": "C",
+          "text": "had invested / would have had",
+          "is_correct": false,
+          "feedback": "Incorrecto. had invested / would have had"
+        },
+        {
+          "letter": "D",
+          "text": "invested / will have",
+          "is_correct": false,
+          "feedback": "Incorrecto. invested / will have"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Mixed conditionals are used to show how past actions or omissions (represented by the Past Perfect) affect the current situation (represented by 'would' + infinitive).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Linguistic Competence",
+      "expected_success": 0.82,
+      "bundle_id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v4",
+      "statement": "\"Not only ______ provide faster speeds, but it also enables new industrial applications.\"",
+      "context": "An article about the introduction of 5G technology in the Central Valley.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "does 5G technology",
+          "is_correct": true,
+          "feedback": "Correcto! does 5G technology"
+        },
+        {
+          "letter": "B",
+          "text": "5G technology does",
+          "is_correct": false,
+          "feedback": "Incorrecto. 5G technology does"
+        },
+        {
+          "letter": "C",
+          "text": "will 5G technology",
+          "is_correct": false,
+          "feedback": "Incorrecto. will 5G technology"
+        },
+        {
+          "letter": "D",
+          "text": "has 5G technology",
+          "is_correct": false,
+          "feedback": "Incorrecto. has 5G technology"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Negative inversion is a C1-level structure used for emphasis. When a sentence starts with 'Not only', 'Never', or 'Hardly', we must invert the subject and the auxiliary verb.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Linguistic Competence",
+      "expected_success": 0.78,
+      "bundle_id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v5",
+      "statement": "\"It is imperative that the educational system ______ to the rapid changes in digital technology.\"",
+      "context": "A university professor discussing the ethical implications of AI in education.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "adapts",
+          "is_correct": false,
+          "feedback": "Incorrecto. adapts"
+        },
+        {
+          "letter": "B",
+          "text": "adapt",
+          "is_correct": true,
+          "feedback": "Correcto! adapt"
+        },
+        {
+          "letter": "C",
+          "text": "will adapt",
+          "is_correct": false,
+          "feedback": "Incorrecto. will adapt"
+        },
+        {
+          "letter": "D",
+          "text": "adapted",
+          "is_correct": false,
+          "feedback": "Incorrecto. adapted"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The subjunctive mood is used in formal English after adjectives like 'imperative', 'essential', or 'crucial'. It uses the bare infinitive form for all persons (no 's' for third person).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Linguistic Competence",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v6",
+      "statement": "\"We were going to stay in Puntarenas, but we decided to ______ to a quieter beach in Limon.\"",
+      "context": "Two colleagues are discussing their travel plans for the upcoming 'semana santa'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "head off",
+          "is_correct": false,
+          "feedback": "Incorrecto. head off"
+        },
+        {
+          "letter": "B",
+          "text": "head over",
+          "is_correct": true,
+          "feedback": "Correcto! head over"
+        },
+        {
+          "letter": "C",
+          "text": "head up",
+          "is_correct": false,
+          "feedback": "Incorrecto. head up"
+        },
+        {
+          "letter": "D",
+          "text": "head on",
+          "is_correct": false,
+          "feedback": "Incorrecto. head on"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Phrasal verbs are essential for natural-sounding English at an advanced level. 'Head over' or 'head to' are common ways to describe moving toward a specific destination.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Linguistic Competence",
+      "expected_success": 0.72,
+      "bundle_id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v7",
+      "statement": "\"Hardly ______ her business when she faced the challenges of the global pandemic.\"",
+      "context": "A journalist interviewing a local entrepreneur who started a successful organic coffee brand.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "she had started",
+          "is_correct": false,
+          "feedback": "Incorrecto. she had started"
+        },
+        {
+          "letter": "B",
+          "text": "had she started",
+          "is_correct": true,
+          "feedback": "Correcto! had she started"
+        },
+        {
+          "letter": "C",
+          "text": "she started",
+          "is_correct": false,
+          "feedback": "Incorrecto. she started"
+        },
+        {
+          "letter": "D",
+          "text": "has she started",
+          "is_correct": false,
+          "feedback": "Incorrecto. has she started"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inversion with 'Hardly... when' or 'No sooner... than' is a sophisticated way to express sequence in the past, typical of C1-level writing.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Linguistic Competence",
+      "expected_success": 0.7,
+      "bundle_id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v8",
+      "statement": "\"The BriBri language, ______ is spoken primarily in the Talamanca region, is an essential part of our cultural heritage.\"",
+      "context": "A discussion about the preservation of indigenous languages in Costa Rica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "Incorrecto. that"
+        },
+        {
+          "letter": "B",
+          "text": "which",
+          "is_correct": true,
+          "feedback": "Correcto! which"
+        },
+        {
+          "letter": "C",
+          "text": "what",
+          "is_correct": false,
+          "feedback": "Incorrecto. what"
+        },
+        {
+          "letter": "D",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "Incorrecto. who"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Relative clauses add information about a noun. Non-defining clauses (with commas) must use 'which' for objects or concepts, never 'that'.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Linguistic Competence",
+      "expected_success": 0.67,
+      "bundle_id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v9",
+      "statement": "\"Were you ______ your trip at the last minute, you ______ be subject to a cancellation fee.\"",
+      "context": "A travel advisor explaining the cancellation policy for a tour to Arenal Volcano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "to cancel / will",
+          "is_correct": false,
+          "feedback": "Incorrecto. to cancel / will"
+        },
+        {
+          "letter": "B",
+          "text": "to cancel / would",
+          "is_correct": true,
+          "feedback": "Correcto! to cancel / would"
+        },
+        {
+          "letter": "C",
+          "text": "cancelling / would",
+          "is_correct": false,
+          "feedback": "Incorrecto. cancelling / would"
+        },
+        {
+          "letter": "D",
+          "text": "cancel / will",
+          "is_correct": false,
+          "feedback": "Incorrecto. cancel / will"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Formal conditionals using 'Were to' emphasize the hypothetical nature of a future event. This is more polite and formal than using 'If you cancelled'.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Linguistic Competence",
+      "expected_success": 0.64,
+      "bundle_id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v10",
+      "statement": "\"I would rather ______ more time helping the sea turtles, but I had to return to San Jose for my exams.\"",
+      "context": "A student reflecting on their participation in a volunteer program in Tortuguero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "spend",
+          "is_correct": false,
+          "feedback": "Incorrecto. spend"
+        },
+        {
+          "letter": "B",
+          "text": "spent",
+          "is_correct": false,
+          "feedback": "Incorrecto. spent"
+        },
+        {
+          "letter": "C",
+          "text": "have spent",
+          "is_correct": true,
+          "feedback": "Correcto! have spent"
+        },
+        {
+          "letter": "D",
+          "text": "had spent",
+          "is_correct": false,
+          "feedback": "Incorrecto. had spent"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "To express a preference or regret about the past when the subject is the same, we use 'would rather' + 'have' + past participle.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Linguistic Competence",
+      "expected_success": 0.61,
+      "bundle_id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v11",
+      "statement": "\"The historical murals ______ carefully restored by the end of the next fiscal year.\"",
+      "context": "An official announcement regarding the renovation of the National Theatre in San Jose.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are being",
+          "is_correct": false,
+          "feedback": "Incorrecto. are being"
+        },
+        {
+          "letter": "B",
+          "text": "will restore",
+          "is_correct": false,
+          "feedback": "Incorrecto. will restore"
+        },
+        {
+          "letter": "C",
+          "text": "will have been",
+          "is_correct": true,
+          "feedback": "Correcto! will have been"
+        },
+        {
+          "letter": "D",
+          "text": "have been",
+          "is_correct": false,
+          "feedback": "Incorrecto. have been"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The Future Perfect Passive (will have been + past participle) is used to indicate that something will be done or completed before a certain point in the future.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Linguistic Competence",
+      "expected_success": 0.58,
+      "bundle_id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v12",
+      "statement": "\"Under no circumstances ______ share your login credentials with anyone outside the department.\"",
+      "context": "A manager in Heredia giving instructions to their team about a new software implementation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "you should",
+          "is_correct": false,
+          "feedback": "Incorrecto. you should"
+        },
+        {
+          "letter": "B",
+          "text": "should you",
+          "is_correct": true,
+          "feedback": "Correcto! should you"
+        },
+        {
+          "letter": "C",
+          "text": "you must",
+          "is_correct": false,
+          "feedback": "Incorrecto. you must"
+        },
+        {
+          "letter": "D",
+          "text": "shall you",
+          "is_correct": false,
+          "feedback": "Incorrecto. shall you"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Negative inversion using 'Under no circumstances' is used to give very strong and formal prohibitions. The modal or auxiliary verb must come before the subject.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Linguistic Competence",
+      "expected_success": 0.55,
+      "bundle_id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v13",
+      "statement": "\"Living in the city is far more hectic than in the countryside; ______, the access to services is much better.\"",
+      "context": "A student is comparing life in a small village in Alajuela to life in the capital city.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "furthermore",
+          "is_correct": false,
+          "feedback": "Incorrecto. furthermore"
+        },
+        {
+          "letter": "B",
+          "text": "nevertheless",
+          "is_correct": true,
+          "feedback": "Correcto! nevertheless"
+        },
+        {
+          "letter": "C",
+          "text": "consequently",
+          "is_correct": false,
+          "feedback": "Incorrecto. consequently"
+        },
+        {
+          "letter": "D",
+          "text": "because",
+          "is_correct": false,
+          "feedback": "Incorrecto. because"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Connectors of contrast like 'nevertheless', 'however', or 'nonetheless' are vital for cohesive and sophisticated writing at the C1 level.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Linguistic Competence",
+      "expected_success": 0.52,
+      "bundle_id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v14",
+      "statement": "\"The success of the energy model is ______ to the significant investment in hydroelectric and wind power.\"",
+      "context": "An expert in renewable energy talking about the high percentage of green energy in the Costa Rican grid.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "due",
+          "is_correct": false,
+          "feedback": "Incorrecto. due"
+        },
+        {
+          "letter": "B",
+          "text": "attributed",
+          "is_correct": true,
+          "feedback": "Correcto! attributed"
+        },
+        {
+          "letter": "C",
+          "text": "because",
+          "is_correct": false,
+          "feedback": "Incorrecto. because"
+        },
+        {
+          "letter": "D",
+          "text": "result",
+          "is_correct": false,
+          "feedback": "Incorrecto. result"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Advanced vocabulary includes knowing which prepositions follow certain verbs or adjectives. 'Attribute something to someone/something' is a common academic structure.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Linguistic Competence",
+      "expected_success": 0.49,
+      "bundle_id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v15",
+      "statement": "\"Had the planners ______ the residents' concerns, the opposition to the project ______ so strong.\"",
+      "context": "A critique of a new urban planning project in Cartago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "consider / wouldn't be",
+          "is_correct": false,
+          "feedback": "Incorrecto. consider / wouldn't be"
+        },
+        {
+          "letter": "B",
+          "text": "considered / wouldn't be",
+          "is_correct": true,
+          "feedback": "Correcto! considered / wouldn't be"
+        },
+        {
+          "letter": "C",
+          "text": "considered / wouldn't have been",
+          "is_correct": false,
+          "feedback": "Incorrecto. considered / wouldn't have been"
+        },
+        {
+          "letter": "D",
+          "text": "consider / won't be",
+          "is_correct": false,
+          "feedback": "Incorrecto. consider / won't be"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This complex structure combines inversion (to omit 'if') with a mixed conditional. It is a hallmark of C1-level mastery.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Linguistic Competence",
+      "expected_success": 0.46,
+      "bundle_id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v16",
+      "statement": "\"The data indicates that the species population has ______ stabilized after years of decline.\"",
+      "context": "Two researchers are discussing their findings about biodiversity in the Osa Peninsula.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "last",
+          "is_correct": false,
+          "feedback": "Incorrecto. last"
+        },
+        {
+          "letter": "B",
+          "text": "lastly",
+          "is_correct": true,
+          "feedback": "Correcto! lastly"
+        },
+        {
+          "letter": "C",
+          "text": "final",
+          "is_correct": false,
+          "feedback": "Incorrecto. final"
+        },
+        {
+          "letter": "D",
+          "text": "finally",
+          "is_correct": false,
+          "feedback": "Incorrecto. finally"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using adverbs correctly to modify verbs is essential. 'Finally' indicates a long-awaited result, which fits the context of stabilizing after 'years of decline'.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Linguistic Competence",
+      "expected_success": 0.43,
+      "bundle_id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v17",
+      "statement": "\"I am writing to suggest that the local government ______ a new fleet of electric buses.\"",
+      "context": "A formal letter to a government official regarding public transport in Liberia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "purchases",
+          "is_correct": false,
+          "feedback": "Incorrecto. purchases"
+        },
+        {
+          "letter": "B",
+          "text": "purchase",
+          "is_correct": true,
+          "feedback": "Correcto! purchase"
+        },
+        {
+          "letter": "C",
+          "text": "will purchase",
+          "is_correct": false,
+          "feedback": "Incorrecto. will purchase"
+        },
+        {
+          "letter": "D",
+          "text": "purchased",
+          "is_correct": false,
+          "feedback": "Incorrecto. purchased"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Another instance of the subjunctive mood. Verbs like 'suggest', 'recommend', and 'demand' are followed by a 'that' clause with the verb in the base form.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Linguistic Competence",
+      "expected_success": 0.4,
+      "bundle_id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v18",
+      "statement": "\"Little ______ that his work would eventually be translated into more than twenty languages.\"",
+      "context": "Reflecting on the impact of a famous Costa Rican writer on world literature.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "he knew",
+          "is_correct": false,
+          "feedback": "Incorrecto. he knew"
+        },
+        {
+          "letter": "B",
+          "text": "did he know",
+          "is_correct": true,
+          "feedback": "Correcto! did he know"
+        },
+        {
+          "letter": "C",
+          "text": "had he known",
+          "is_correct": false,
+          "feedback": "Incorrecto. had he known"
+        },
+        {
+          "letter": "D",
+          "text": "he had known",
+          "is_correct": false,
+          "feedback": "Incorrecto. he had known"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Little did he know' is a fixed idiomatic inversion used frequently in storytelling or biographical accounts to add dramatic effect.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Linguistic Competence",
+      "expected_success": 0.37,
+      "bundle_id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v19",
+      "statement": "\"Should any visitor ______ to follow the safety protocols, the management ______ be held liable.\"",
+      "context": "A complex legal disclaimer regarding the use of private property for eco-tourism.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "fail / will not",
+          "is_correct": false,
+          "feedback": "Incorrecto. fail / will not"
+        },
+        {
+          "letter": "B",
+          "text": "fail / shall not",
+          "is_correct": true,
+          "feedback": "Correcto! fail / shall not"
+        },
+        {
+          "letter": "C",
+          "text": "fails / would not",
+          "is_correct": false,
+          "feedback": "Incorrecto. fails / would not"
+        },
+        {
+          "letter": "D",
+          "text": "failed / won't",
+          "is_correct": false,
+          "feedback": "Incorrecto. failed / won't"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In formal or legal English, 'Should' can replace 'if' at the beginning of a conditional sentence. It is followed by the base form of the verb.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Linguistic Competence",
+      "expected_success": 0.34,
+      "bundle_id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    },
+    {
+      "id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle-v20",
+      "statement": "\"It is ______ that all parties ______ to the terms of the agreement.\"",
+      "context": "A high-level diplomatic meeting discussing regional cooperation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "vital / adheres",
+          "is_correct": false,
+          "feedback": "Incorrecto. vital / adheres"
+        },
+        {
+          "letter": "B",
+          "text": "vital / adhere",
+          "is_correct": true,
+          "feedback": "Correcto! vital / adhere"
+        },
+        {
+          "letter": "C",
+          "text": "important / will adhere",
+          "is_correct": false,
+          "feedback": "Incorrecto. important / will adhere"
+        },
+        {
+          "letter": "D",
+          "text": "necessary / adhered",
+          "is_correct": false,
+          "feedback": "Incorrecto. necessary / adhered"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The subjunctive mood is the most formal and grammatically precise way to express necessity or importance in C1+ English. It ensures clarity in diplomatic or legal contexts.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Linguistic Competence",
+      "expected_success": 0.3,
+      "bundle_id": "CR-ING-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "C1+"
+    }
+  ]
+}

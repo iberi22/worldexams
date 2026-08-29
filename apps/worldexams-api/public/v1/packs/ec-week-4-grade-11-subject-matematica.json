@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "ec",
+    "pack_id": "ec-week-4-grade-11-subject-matematicas",
+    "generated_at": "2026-08-04T00:18:31.418Z"
+  },
+  "questions": [
+    {
+      "id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle-v1",
+      "statement": "Calcule el valor de $\\log_2(32)$ en un cálculo de almacenamiento de datos digitales en el municipio de Ibarra.",
+      "context": "En la ciudad de Ibarra, un grupo de estudiantes de la Colegio Vicente Rocafuerte analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dado que $2^5 = 32$, por definición de logaritmo, el logaritmo en base 2 de 32 es igual a 5.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.91,
+      "bundle_id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle-v2",
+      "statement": "Calcule el valor de $\\log_2(32)$ en un cálculo de almacenamiento de datos digitales en el municipio de Quito.",
+      "context": "En la ciudad de Quito, un grupo de estudiantes de la Unidad Educativa Bolívar analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dado que $2^5 = 32$, por definición de logaritmo, el logaritmo en base 2 de 32 es igual a 5.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle-v3",
+      "statement": "Calcule el valor de $\\log_2(32)$ en un cálculo de almacenamiento de datos digitales en el municipio de Guayaquil.",
+      "context": "En la ciudad de Guayaquil, un grupo de estudiantes de la Colegio Nacional Manta analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dado que $2^5 = 32$, por definición de logaritmo, el logaritmo en base 2 de 32 es igual a 5.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle-v4",
+      "statement": "Calcule el valor de $\\log_2(32)$ en un cálculo de almacenamiento de datos digitales en el municipio de Quito.",
+      "context": "En la ciudad de Quito, un grupo de estudiantes de la Unidad Educativa Bernardo Valdivieso analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "C",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dado que $2^5 = 32$, por definición de logaritmo, el logaritmo en base 2 de 32 es igual a 5.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.81,
+      "bundle_id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle-v5",
+      "statement": "Utilizando las propiedades de los logaritmos, exprese $\\log(x) + \\log(y) - \\log(z)$ como un solo logaritmo.",
+      "context": "En la ciudad de Loja, un grupo de estudiantes de la Colegio Nacional Manta analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\log\\left(\\frac{x \\cdot z}{y}\\right)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "$\\log\\left(\\frac{x \\cdot y}{z}\\right)$",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "C",
+          "text": "$\\log\\left(\\frac{x + y}{z}\\right)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "$\\log(x + y - z)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La suma de logaritmos de igual base equivale al logaritmo del producto, y la resta equivale al logaritmo del cociente.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.77,
+      "bundle_id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle-v6",
+      "statement": "Utilizando las propiedades de los logaritmos, exprese $\\log(x) + \\log(y) - \\log(z)$ como un solo logaritmo.",
+      "context": "En la ciudad de Guayaquil, un grupo de estudiantes de la Colegio Benigno Malo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\log\\left(\\frac{x \\cdot z}{y}\\right)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "$\\log\\left(\\frac{x \\cdot y}{z}\\right)$",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "C",
+          "text": "$\\log(x + y - z)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "$\\log\\left(\\frac{x + y}{z}\\right)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La suma de logaritmos de igual base equivale al logaritmo del producto, y la resta equivale al logaritmo del cociente.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle-v7",
+      "statement": "Utilizando las propiedades de los logaritmos, exprese $\\log(x) + \\log(y) - \\log(z)$ como un solo logaritmo.",
+      "context": "En la ciudad de Ibarra, un grupo de estudiantes de la Colegio Benigno Malo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\log\\left(\\frac{x \\cdot y}{z}\\right)$",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "$\\log(x + y - z)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "$\\log\\left(\\frac{x \\cdot z}{y}\\right)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "$\\log\\left(\\frac{x + y}{z}\\right)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La suma de logaritmos de igual base equivale al logaritmo del producto, y la resta equivale al logaritmo del cociente.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle-v8",
+      "statement": "Utilizando las propiedades de los logaritmos, exprese $\\log(x) + \\log(y) - \\log(z)$ como un solo logaritmo.",
+      "context": "En la ciudad de Portoviejo, un grupo de estudiantes de la Colegio Vicente Rocafuerte analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\log\\left(\\frac{x \\cdot z}{y}\\right)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "$\\log(x + y - z)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "$\\log\\left(\\frac{x + y}{z}\\right)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "$\\log\\left(\\frac{x \\cdot y}{z}\\right)$",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La suma de logaritmos de igual base equivale al logaritmo del producto, y la resta equivale al logaritmo del cociente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle-v9",
+      "statement": "Utilizando las propiedades de los logaritmos, exprese $\\log(x) + \\log(y) - \\log(z)$ como un solo logaritmo.",
+      "context": "En la ciudad de Loja, un grupo de estudiantes de la Colegio Vicente Rocafuerte analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\log\\left(\\frac{x + y}{z}\\right)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "$\\log(x + y - z)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "$\\log\\left(\\frac{x \\cdot z}{y}\\right)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "$\\log\\left(\\frac{x \\cdot y}{z}\\right)$",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La suma de logaritmos de igual base equivale al logaritmo del producto, y la resta equivale al logaritmo del cociente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.63,
+      "bundle_id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle-v10",
+      "statement": "Utilizando las propiedades de los logaritmos, exprese $\\log(x) + \\log(y) - \\log(z)$ como un solo logaritmo.",
+      "context": "En la ciudad de Riobamba, un grupo de estudiantes de la Colegio Nacional Mejía analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\log(x + y - z)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "$\\log\\left(\\frac{x \\cdot z}{y}\\right)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "$\\log\\left(\\frac{x + y}{z}\\right)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "$\\log\\left(\\frac{x \\cdot y}{z}\\right)$",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La suma de logaritmos de igual base equivale al logaritmo del producto, y la resta equivale al logaritmo del cociente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle-v11",
+      "statement": "Resuelva la ecuación logarítmica para $x$ en un modelo de escala sísmica en la provincia de Manabí: $\\log_3(x + 2) = 2$.",
+      "context": "En la ciudad de Portoviejo, un grupo de estudiantes de la Colegio Benigno Malo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicando la definición de logaritmo: $x + 2 = 3^2 \\Rightarrow x + 2 = 9 \\Rightarrow x = 7$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.56,
+      "bundle_id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle-v12",
+      "statement": "Resuelva la ecuación logarítmica para $x$ en un modelo de escala sísmica en la provincia de Manabí: $\\log_3(x + 2) = 2$.",
+      "context": "En la ciudad de Ibarra, un grupo de estudiantes de la Colegio Vicente Rocafuerte analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicando la definición de logaritmo: $x + 2 = 3^2 \\Rightarrow x + 2 = 9 \\Rightarrow x = 7$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.53,
+      "bundle_id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle-v13",
+      "statement": "Resuelva la ecuación logarítmica para $x$ en un modelo de escala sísmica en la provincia de Manabí: $\\log_3(x + 2) = 2$.",
+      "context": "En la ciudad de Guayaquil, un grupo de estudiantes de la Colegio Benigno Malo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicando la definición de logaritmo: $x + 2 = 3^2 \\Rightarrow x + 2 = 9 \\Rightarrow x = 7$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.49,
+      "bundle_id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle-v14",
+      "statement": "Resuelva la ecuación logarítmica para $x$ en un modelo de escala sísmica en la provincia de Manabí: $\\log_3(x + 2) = 2$.",
+      "context": "En la ciudad de Portoviejo, un grupo de estudiantes de la Colegio Nacional Mejía analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicando la definición de logaritmo: $x + 2 = 3^2 \\Rightarrow x + 2 = 9 \\Rightarrow x = 7$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.46,
+      "bundle_id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle-v15",
+      "statement": "Resuelva la ecuación logarítmica para $x$ en un modelo de escala sísmica en la provincia de Manabí: $\\log_3(x + 2) = 2$.",
+      "context": "En la ciudad de Ibarra, un grupo de estudiantes de la Colegio Nacional Mejía analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicando la definición de logaritmo: $x + 2 = 3^2 \\Rightarrow x + 2 = 9 \\Rightarrow x = 7$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle-v16",
+      "statement": "Resuelva la ecuación logarítmica para $x$ en un modelo de escala sísmica en la provincia de Manabí: $\\log_3(x + 2) = 2$.",
+      "context": "En la ciudad de Manta, un grupo de estudiantes de la Colegio Benigno Malo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicando la definición de logaritmo: $x + 2 = 3^2 \\Rightarrow x + 2 = 9 \\Rightarrow x = 7$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.39,
+      "bundle_id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle-v17",
+      "statement": "Si $\\log_b(2) = 0.3$ y $\\log_b(3) = 0.48$, calcule el valor de $\\log_b(12)$ para una aproximación en un laboratorio de la Colegio Benigno Malo.",
+      "context": "En la ciudad de Portoviejo, un grupo de estudiantes de la Colegio Benigno Malo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.96",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "1.20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "1.08",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "0.78",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Como $12 = 2^2 \\cdot 3$, entonces $\\log_b(12) = \\log_b(2^2 \\cdot 3) = 2\\log_b(2) + \\log_b(3) = 2(0.3) + 0.48 = 0.6 + 0.48 = 1.08$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle-v18",
+      "statement": "Si $\\log_b(2) = 0.3$ y $\\log_b(3) = 0.48$, calcule el valor de $\\log_b(12)$ para una aproximación en un laboratorio de la Unidad Educativa Santo Domingo.",
+      "context": "En la ciudad de Ambato, un grupo de estudiantes de la Unidad Educativa Santo Domingo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.78",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "0.96",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "1.08",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "D",
+          "text": "1.20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Como $12 = 2^2 \\cdot 3$, entonces $\\log_b(12) = \\log_b(2^2 \\cdot 3) = 2\\log_b(2) + \\log_b(3) = 2(0.3) + 0.48 = 0.6 + 0.48 = 1.08$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle-v19",
+      "statement": "Si $\\log_b(2) = 0.3$ y $\\log_b(3) = 0.48$, calcule el valor de $\\log_b(12)$ para una aproximación en un laboratorio de la Unidad Educativa Santo Domingo.",
+      "context": "En la ciudad de Machala, un grupo de estudiantes de la Unidad Educativa Santo Domingo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "B",
+          "text": "1.08",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "C",
+          "text": "0.78",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "0.96",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Como $12 = 2^2 \\cdot 3$, entonces $\\log_b(12) = \\log_b(2^2 \\cdot 3) = 2\\log_b(2) + \\log_b(3) = 2(0.3) + 0.48 = 0.6 + 0.48 = 1.08$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.28,
+      "bundle_id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle-v20",
+      "statement": "Si $\\log_b(2) = 0.3$ y $\\log_b(3) = 0.48$, calcule el valor de $\\log_b(12)$ para una aproximación en un laboratorio de la Colegio Benigno Malo.",
+      "context": "En la ciudad de Portoviejo, un grupo de estudiantes de la Colegio Benigno Malo analizan un problema práctico de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.08",
+          "is_correct": true,
+          "feedback": "Correcto. ¡Excelente análisis!"
+        },
+        {
+          "letter": "B",
+          "text": "1.20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "C",
+          "text": "0.96",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "0.78",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Como $12 = 2^2 \\cdot 3$, entonces $\\log_b(12) = \\log_b(2^2 \\cdot 3) = 2\\log_b(2) + \\log_b(3) = 2(0.3) + 0.48 = 0.6 + 0.48 = 1.08$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    }
+  ]
+}

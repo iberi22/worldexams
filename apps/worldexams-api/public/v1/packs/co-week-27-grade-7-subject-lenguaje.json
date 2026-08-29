@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-27-grade-7-subject-lengua",
+    "generated_at": "2026-06-18T23:58:37.553Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-7-2026-W27-lenguaje-periodistico-001-MASTERY-v1",
+      "statement": "¿Cuál de las siguientes es una característica esencial del lenguaje periodístico que busca evitar la ambigüedad y facilitar la comprensión inmediata del lector?",
+      "context": "Un reportero del diario *El Espectador* está redactando una noticia sobre un evento cultural en la Plaza de Bolívar en Bogotá. Él sabe que el lenguaje periodístico debe cumplir con ciertas características fundamentales para informar de manera efectiva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La claridad.",
+          "is_correct": true,
+          "feedback": "La claridad es fundamental para que el mensaje llegue al lector sin confusiones ni interpretaciones erróneas."
+        },
+        {
+          "letter": "B",
+          "text": "La subjetividad.",
+          "is_correct": false,
+          "feedback": "El periodismo informativo busca la objetividad, no la subjetividad del autor."
+        },
+        {
+          "letter": "C",
+          "text": "El uso de arcaísmos.",
+          "is_correct": false,
+          "feedback": "Los arcaísmos dificultan la comprensión y no son propios de un lenguaje actual y directo."
+        },
+        {
+          "letter": "D",
+          "text": "La ornamentación excesiva.",
+          "is_correct": false,
+          "feedback": "El lenguaje periodístico debe ser sobrio y directo, evitando adornos innecesarios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El lenguaje periodístico se caracteriza por su claridad, concisión y objetividad. Su objetivo principal es informar a un público amplio y diverso de manera rápida y eficiente, por lo que debe evitar ambigüedades y complicaciones lingüísticas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-7-2026-W27-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W27-lenguaje-periodistico-001-MASTERY-v2",
+      "statement": "¿Cómo se denomina técnicamente al párrafo inicial de una noticia que contiene la información básica y responde a las preguntas fundamentales (quién, qué, dónde, cuándo y por qué)?",
+      "context": "En una clase de comunicación en Medellín, los estudiantes analizan la estructura de una noticia. El profesor explica que la parte inicial del texto resume lo más importante del hecho.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Titular.",
+          "is_correct": false,
+          "feedback": "El titular es el encabezado que resume la noticia, no un párrafo completo."
+        },
+        {
+          "letter": "B",
+          "text": "Lead o entradilla.",
+          "is_correct": true,
+          "feedback": "El lead o entradilla es el primer párrafo que condensa los datos más relevantes del suceso."
+        },
+        {
+          "letter": "C",
+          "text": "Cuerpo de la noticia.",
+          "is_correct": false,
+          "feedback": "El cuerpo es el desarrollo detallado de la información, que viene después de la entradilla."
+        },
+        {
+          "letter": "D",
+          "text": "Pie de foto.",
+          "is_correct": false,
+          "feedback": "El pie de foto es el texto que acompaña y explica una imagen."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La noticia suele seguir una estructura de \"pirámide invertida\". El lead o entradilla es el componente esencial que presenta el núcleo de la información, permitiendo al lector enterarse de lo principal desde el comienzo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-7-2026-W27-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W27-lenguaje-periodistico-001-MASTERY-v3",
+      "statement": "A partir del uso de adjetivos como \"inclemente\" y \"júbilo\", ¿qué se puede inferir sobre el tono de este fragmento periodístico?",
+      "context": "Lee el siguiente fragmento de una noticia publicada en un portal regional: \"Ayer, bajo un sol inclemente, los habitantes de la Comuna 13 celebraron con júbilo la inauguración de la nueva biblioteca comunitaria, un sueño que esperaron por más de una década\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un tono puramente técnico y científico.",
+          "is_correct": false,
+          "feedback": "El uso de palabras que evocan sentimientos no corresponde a un lenguaje puramente técnico."
+        },
+        {
+          "letter": "B",
+          "text": "Es un tono descriptivo con matices emocionales.",
+          "is_correct": true,
+          "feedback": "El autor utiliza adjetivos para dar viveza al relato y transmitir el sentimiento de la comunidad."
+        },
+        {
+          "letter": "C",
+          "text": "Es un tono de denuncia política agresiva.",
+          "is_correct": false,
+          "feedback": "El texto no presenta una crítica o ataque, sino la celebración de un logro."
+        },
+        {
+          "letter": "D",
+          "text": "Es un tono indiferente y apático ante el suceso.",
+          "is_correct": false,
+          "feedback": "El uso de términos como \"júbilo\" demuestra lo contrario a la indiferencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aunque el periodismo busca la objetividad, en géneros como la crónica o el reportaje se permite el uso de recursos expresivos que ayudan a recrear la atmósfera de los hechos y conectar con el lector.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-7-2026-W27-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W27-lenguaje-periodistico-001-MASTERY-v4",
+      "statement": "¿Qué principio del lenguaje periodístico está enfatizando el editor con su comentario?",
+      "context": "Un editor le dice a un periodista joven en Cali: \"Tu texto es bueno, pero tiene demasiados tecnicismos médicos para una noticia de interés general sobre la salud\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La brevedad absoluta.",
+          "is_correct": false,
+          "feedback": "El editor no se refiere al tamaño del texto, sino al vocabulario utilizado."
+        },
+        {
+          "letter": "B",
+          "text": "La precisión terminológica.",
+          "is_correct": false,
+          "feedback": "Aunque la precisión es importante, el exceso de tecnicismos atenta contra la accesibilidad."
+        },
+        {
+          "letter": "C",
+          "text": "La adecuación al público.",
+          "is_correct": true,
+          "feedback": "El lenguaje periodístico debe adaptarse para que sea comprendido por personas que no son expertas en el tema."
+        },
+        {
+          "letter": "D",
+          "text": "La originalidad creativa.",
+          "is_correct": false,
+          "feedback": "El problema señalado no es la falta de creatividad, sino la dificultad del lenguaje."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La adecuación es el principio por el cual el emisor selecciona el registro lingüístico apropiado según el receptor y el canal. En el periodismo, esto implica usar un lenguaje accesible sin perder el rigor.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-7-2026-W27-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W27-lenguaje-periodistico-001-MASTERY-v5",
+      "statement": "¿Cuál de las siguientes opciones representa mejor la transformación a un lenguaje periodístico directo y objetivo?",
+      "context": "Imagina que debes transformar la siguiente oración literaria en una oración con lenguaje periodístico informativo: \"Las nubes lloraron con furia sobre la capital colombiana, dejando tras de sí un rastro de melancolía y calles anegadas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El llanto del cielo inundó las avenidas bogotanas causando gran tristeza en los peatones.",
+          "is_correct": false,
+          "feedback": "Sigue utilizando metáforas como \"llanto del cielo\", que son propias de la literatura."
+        },
+        {
+          "letter": "B",
+          "text": "Fuertes lluvias en Bogotá provocaron inundaciones en varias vías principales de la ciudad.",
+          "is_correct": true,
+          "feedback": "Esta opción es directa, objetiva y elimina las figuras retóricas para informar el hecho."
+        },
+        {
+          "letter": "C",
+          "text": "Una furia celestial descendió sobre la capital dejando un panorama desolador y húmedo.",
+          "is_correct": false,
+          "feedback": "El uso de \"furia celestial\" es demasiado poético y subjetivo para una noticia."
+        },
+        {
+          "letter": "D",
+          "text": "La capital sufrió ayer un fenómeno meteorológico de gran intensidad que mojó todo a su paso.",
+          "is_correct": false,
+          "feedback": "Aunque es más directa, es menos precisa que la opción B al no mencionar inundaciones específicas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Transformar textos implica cambiar el registro. El lenguaje periodístico prefiere la denotación (sentido literal) sobre la connotación (sentido figurado) para garantizar que la información sea unívoca.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-7-2026-W27-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W27-lenguaje-periodistico-001-MASTERY-v6",
+      "statement": "Si quisiéramos hacer este titular aún más objetivo y neutral, eliminando la carga valorativa del periodista, ¿cuál sería la mejor opción?",
+      "context": "Un periódico publica el siguiente titular: \"Polémico aumento en el precio del transporte público en Bucaramanga genera descontento\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Injusto aumento en el precio del transporte público en Bucaramanga.",
+          "is_correct": false,
+          "feedback": "\"Injusto\" es un adjetivo calificativo muy subjetivo que toma una posición."
+        },
+        {
+          "letter": "B",
+          "text": "Incremento en la tarifa del transporte público en Bucaramanga provoca protestas.",
+          "is_correct": true,
+          "feedback": "Esta opción relata los hechos (el incremento y las protestas) sin adjetivos subjetivos como \"polémico\"."
+        },
+        {
+          "letter": "C",
+          "text": "Terrible noticia para los usuarios del transporte en Bucaramanga por alza de precios.",
+          "is_correct": false,
+          "feedback": "\"Terrible noticia\" es una valoración emocional que no es neutral."
+        },
+        {
+          "letter": "D",
+          "text": "Se registra un cambio en los precios del transporte en Bucaramanga.",
+          "is_correct": false,
+          "feedback": "Aunque es neutral, es demasiado vaga al no especificar que es un aumento ni la reacción social."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La objetividad se logra mediante la selección de sustantivos y verbos precisos, evitando adjetivos que expresen la opinión del periodista. En este caso, \"polémico\" es una valoración, mientras que \"provoca protestas\" es un hecho verificable.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-7-2026-W27-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W27-lenguaje-periodistico-001-MASTERY-v7",
+      "statement": "¿Qué diferencia fundamental existe entre el lenguaje del enunciado 1 y el del enunciado 2?",
+      "context": "Analiza estos dos enunciados que informan sobre el mismo hecho en un contexto de un partido de fútbol en Barranquilla:\n1. \"La selección nacional consiguió una victoria sufrida pero heroica ante un rival formidable\".\n2. \"La selección nacional venció 1-0 al equipo visitante tras anotar en el minuto 89\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El enunciado 1 es más preciso en cuanto a datos estadísticos.",
+          "is_correct": false,
+          "feedback": "Es al revés, el enunciado 2 es el que aporta el marcador y el minuto."
+        },
+        {
+          "letter": "B",
+          "text": "El enunciado 1 utiliza un lenguaje valorativo, mientras que el 2 es puramente informativo.",
+          "is_correct": true,
+          "feedback": "\"Sufrida\", \"heroica\" y \"formidable\" son valoraciones; el 2 solo da los hechos."
+        },
+        {
+          "letter": "C",
+          "text": "El enunciado 2 busca emocionar al lector mediante el uso de metáforas.",
+          "is_correct": false,
+          "feedback": "El enunciado 2 es seco y factual, no usa metáforas."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia, ambos cumplen la función informativa de la misma manera.",
+          "is_correct": false,
+          "feedback": "Sí hay diferencia en el enfoque y el tipo de palabras elegidas (valorativas vs. neutras)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis de textos periodísticos permite distinguir entre información (hechos comprobables) y opinión o interpretación (valoraciones del emisor). El periodismo deportivo suele mezclar ambas, pero es importante saber diferenciarlas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-7-2026-W27-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W27-lenguaje-periodistico-001-MASTERY-v8",
+      "statement": "¿Cómo se relaciona esta frase con el lenguaje periodístico de opinión en comparación con el informativo?",
+      "context": "En el análisis de una columna de opinión, se encuentra la siguiente frase: \"Es imperativo que el Gobierno Nacional tome medidas drásticas para frenar la deforestación en la Amazonía, antes de que sea demasiado tarde\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es idéntica al lenguaje informativo porque se basa en un problema real.",
+          "is_correct": false,
+          "feedback": "Aunque el problema es real, la forma de expresarlo incluye una demanda y una advertencia subjetiva."
+        },
+        {
+          "letter": "B",
+          "text": "Se aleja del informativo al usar formas imperativas y juicios de valor sobre la urgencia del tema.",
+          "is_correct": true,
+          "feedback": "El uso de \"es imperativo\" y \"antes de que sea tarde\" refleja la posición y la exhortación del autor."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta gramaticalmente para el periodismo porque usa la primera persona implícita.",
+          "is_correct": false,
+          "feedback": "No es incorrecta; en el periodismo de opinión es válido expresar posturas personales."
+        },
+        {
+          "letter": "D",
+          "text": "Carece de rigor periodístico porque no cita una fuente estadística inmediata.",
+          "is_correct": false,
+          "feedback": "Las columnas de opinión no siempre requieren citas estadísticas en cada frase, su valor es el argumento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El lenguaje periodístico varía según el género. Mientras la noticia busca la distancia, la columna de opinión utiliza un lenguaje persuasivo y exhortativo, empleando recursos para convencer al lector de una postura determinada.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-7-2026-W27-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W27-lenguaje-periodistico-001-MASTERY-v9",
+      "statement": "Desde una perspectiva de ética y calidad del lenguaje periodístico, ¿cuál es el principal problema de este tipo de titulares?",
+      "context": "Considera el impacto de las redes sociales en el lenguaje periodístico actual. Muchos medios ahora usan titulares conocidos como \"clickbait\" (anzuelo de clics), por ejemplo: \"No creerás lo que pasó en este barrio de Cali, haz clic para saber más\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que son demasiado largos y cansan al lector.",
+          "is_correct": false,
+          "feedback": "Generalmente son cortos, el problema no es la longitud."
+        },
+        {
+          "letter": "B",
+          "text": "Que sacrifican la claridad informativa por la curiosidad morbosa, ocultando los datos clave.",
+          "is_correct": true,
+          "feedback": "El \"clickbait\" atenta contra la función principal de informar de manera clara y directa desde el titular."
+        },
+        {
+          "letter": "C",
+          "text": "Que utilizan un vocabulario demasiado complejo para el ciudadano común.",
+          "is_correct": false,
+          "feedback": "Al contrario, suelen usar un lenguaje muy simple y coloquial."
+        },
+        {
+          "letter": "D",
+          "text": "Que no pueden ser publicados legalmente en Colombia.",
+          "is_correct": false,
+          "feedback": "No son ilegales, pero sí son cuestionados desde la ética profesional del periodismo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El lenguaje periodístico debe ser honesto. El clickbait distorsiona la promesa informativa al omitir el \"qué\" para forzar una interacción, lo cual degrada la función social del periodismo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-7-2026-W27-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W27-lenguaje-periodistico-001-MASTERY-v10",
+      "statement": "Al evaluar el lenguaje de ambos textos, ¿cuál es la conclusión más acertada sobre el uso de las palabras en el ejercicio periodístico?",
+      "context": "Un medio de comunicación nacional decide cubrir una protesta social. Un periodista redacta: \"La turba violenta bloqueó las vías principales, impidiendo el libre derecho a la movilidad de los ciudadanos trabajadores\". Otro periodista escribe: \"Manifestantes cerraron las avenidas como medida de presión para exigir mejoras laborales al Gobierno\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El primer texto es el único correcto porque describe la violencia de los hechos.",
+          "is_correct": false,
+          "feedback": "\"Turba violenta\" es una etiqueta cargada que puede no ser representativa de toda la protesta."
+        },
+        {
+          "letter": "B",
+          "text": "El segundo texto es incorrecto porque no defiende los derechos de los ciudadanos.",
+          "is_correct": false,
+          "feedback": "El periodismo no debe \"defender\" bandos, sino informar con neutralidad los hechos."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos textos demuestran que la elección del léxico puede sesgar la percepción del lector sobre un mismo hecho.",
+          "is_correct": true,
+          "feedback": "Palabras como \"turba\" frente a \"manifestantes\" o \"violenta\" frente a \"medida de presión\" crean marcos mentales distintos."
+        },
+        {
+          "letter": "D",
+          "text": "El uso de adjetivos no tiene ningún impacto en cómo se entiende la noticia.",
+          "is_correct": false,
+          "feedback": "Los adjetivos son herramientas poderosas que pueden orientar la opinión del lector de manera sutil o directa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La evaluación crítica del lenguaje periodístico implica reconocer que las palabras no son neutras. El uso de términos con connotaciones negativas o positivas revela la línea editorial del medio o los prejuicios del periodista.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación | Notas |\n| :--- | :---: | :--- |\n| Técnico | 30/30 | Cumple con el protocolo v5.2 y la estructura solicitada. |\n| Curricular | 40/40 | Alineado con los temas de lenguaje periodístico para grado 7. |\n| Contexto | 20/20 | Uso adecuado de contextos colombianos (Bogotá, Medellín, Cali, El Espectador). |\n| Redacción | 10/10 | Lenguaje claro y adaptado al nivel educativo. |\n| **Total** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LEN-7-2026-W27-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

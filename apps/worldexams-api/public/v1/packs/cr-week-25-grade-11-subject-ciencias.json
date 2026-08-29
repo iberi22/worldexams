@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "cr",
+    "pack_id": "cr-week-25-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-07-28T22:52:17.049Z"
+  },
+  "questions": [
+    {
+      "id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el nivel de organización biológica que comprende a todos los individuos de la misma especie (como los monos cariblanca) que viven en un área determinada?",
+      "context": "En el Parque Nacional Manuel Antonio, los guías explican la organización de los seres vivos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comunidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comunidad incluye a todas las poblaciones de diferentes especies en un área."
+        },
+        {
+          "letter": "B",
+          "text": "Ecosistema",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ecosistema incluye tanto los factores bióticos como los abióticos."
+        },
+        {
+          "letter": "C",
+          "text": "Población",
+          "is_correct": true,
+          "feedback": "¡Correcto! Una población se define como el conjunto de individuos de la misma especie que comparten un espacio y tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "Biósfera",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biósfera es el nivel más alto de organización que engloba toda la vida en el planeta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El nivel de población se refiere específicamente a individuos de la misma especie en un lugar determinado. Es fundamental para estudios ecológicos y de conservación en áreas protegidas de Costa Rica.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál organela celular es responsable de realizar la fotosíntesis, proceso vital para la producción de energía en las plantas?",
+      "context": "Un estudiante de San Carlos analiza los componentes de una célula vegetal observada al microscopio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mitocondria",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mitocondria se encarga de la respiración celular."
+        },
+        {
+          "letter": "B",
+          "text": "Cloroplasto",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los cloroplastos contienen clorofila y son el sitio donde ocurre la fotosíntesis."
+        },
+        {
+          "letter": "C",
+          "text": "Aparato de Golgi",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se encarga del empaque y distribución de proteínas."
+        },
+        {
+          "letter": "D",
+          "text": "Ribosoma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su función principal es la síntesis de proteínas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los cloroplastos son organelas exclusivas de células vegetales y algunos protistas. Son esenciales para transformar la energía lumínica en energía química (glucosa).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo se denomina el proceso de división celular que da como resultado dos células hijas genéticamente idénticas a la célula madre?",
+      "context": "En un laboratorio en Heredia, se estudia el proceso de división celular para entender el crecimiento de los tejidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mitosis",
+          "is_correct": true,
+          "feedback": "¡Correcto! La mitosis mantiene el número cromosómico y la información genética original."
+        },
+        {
+          "letter": "B",
+          "text": "Meiosis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La meiosis produce células haploides (gametos) con variabilidad genética."
+        },
+        {
+          "letter": "C",
+          "text": "Fisión binaria",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque similar, es el término usado principalmente para organismos procariotas como bacterias."
+        },
+        {
+          "letter": "D",
+          "text": "Citocinesis",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el proceso de división del citoplasma que ocurre al final de la mitosis o meiosis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mitosis es el mecanismo por el cual los organismos pluricelulares crecen y reparan sus tejidos, asegurando que cada célula nueva tenga el mismo ADN.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.82,
+      "bundle_id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el proceso mediante el cual el carbono es retirado de la atmósfera y fijado en compuestos orgánicos por los productores?",
+      "context": "Durante una caminata por el Volcán Poás, se discuten los ciclos biogeoquímicos y su importancia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Respiración celular",
+          "is_correct": false,
+          "feedback": "Incorrecto. La respiración libera CO2 a la atmósfera."
+        },
+        {
+          "letter": "B",
+          "text": "Combustión",
+          "is_correct": false,
+          "feedback": "Incorrecto. La combustión de biomasa o combustibles fósiles libera carbono."
+        },
+        {
+          "letter": "C",
+          "text": "Fotosíntesis",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las plantas usan el CO2 atmosférico para fabricar carbohidratos."
+        },
+        {
+          "letter": "D",
+          "text": "Descomposición",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descomposición libera carbono al suelo y a la atmósfera."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La fotosíntesis es la principal vía de entrada del carbono al ciclo biótico, contrarrestando el efecto invernadero al capturar CO2.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v5",
+      "statement": "Si cruzamos dos plantas de guisante heterocigotas para el color de la semilla (Aa), ¿cuál es la probabilidad genotípica de obtener un individuo homocigoto recesivo (aa)?",
+      "context": "En una charla sobre genética en San José, se explican las leyes de Mendel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto solo ocurriría si ambos padres fueran aa."
+        },
+        {
+          "letter": "B",
+          "text": "50%",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 50% será heterocigoto (Aa)."
+        },
+        {
+          "letter": "C",
+          "text": "25%",
+          "is_correct": true,
+          "feedback": "¡Correcto! Según el cuadro de Punnett: 1/4 AA, 2/4 Aa y 1/4 aa."
+        },
+        {
+          "letter": "D",
+          "text": "75%",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 75% mostrará el fenotipo dominante."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En un cruce monohíbrido de heterocigotos, las proporciones mendelianas clásicas son 1:2:1 para el genotipo y 3:1 para el fenotipo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.77,
+      "bundle_id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v6",
+      "statement": "¿Qué nombre reciben los organismos que obtienen su energía descomponiendo materia orgánica muerta y reciclando nutrientes al suelo o agua?",
+      "context": "Un biólogo marino en Puntarenas estudia las redes tróficas en el Golfo de Nicoya.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Productores primarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos fabrican su propio alimento (autótrofos)."
+        },
+        {
+          "letter": "B",
+          "text": "Consumidores secundarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos son carnívoros que comen herbívoros."
+        },
+        {
+          "letter": "C",
+          "text": "Descomponedores",
+          "is_correct": true,
+          "feedback": "¡Correcto! Hongos y bacterias transforman la materia orgánica en inorgánica."
+        },
+        {
+          "letter": "D",
+          "text": "Omnívoros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos consumen tanto plantas como animales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los descomponedores cierran el ciclo de la materia en los ecosistemas, permitiendo que los nutrientes vuelvan a estar disponibles para los productores.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.75,
+      "bundle_id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el principal gas de efecto invernadero producido por la quema de combustibles fósiles y la deforestación?",
+      "context": "Se analiza el impacto del cambio climático en los glaciares y el nivel del mar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oxígeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oxígeno no es un gas de efecto invernadero."
+        },
+        {
+          "letter": "B",
+          "text": "Dióxido de carbono (CO2)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Su acumulación excesiva atrapa el calor en la atmósfera."
+        },
+        {
+          "letter": "C",
+          "text": "Nitrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el gas más abundante pero no contribuye al efecto invernadero."
+        },
+        {
+          "letter": "D",
+          "text": "Argón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un gas noble inerte."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El aumento del CO2 atmosférico desde la revolución industrial es la causa principal del calentamiento global antropogénico.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.72,
+      "bundle_id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál biomolécula es la principal fuente de energía inmediata para las células humanas y se encuentra en alimentos como el arroz y los frijoles?",
+      "context": "Un nutricionista en Alajuela explica la importancia de las biomoléculas en la dieta costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carbohidratos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Glúcidos como el almidón proporcionan glucosa rápidamente."
+        },
+        {
+          "letter": "B",
+          "text": "Proteínas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen principalmente funciones estructurales y enzimáticas."
+        },
+        {
+          "letter": "C",
+          "text": "Lípidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son reserva de energía a largo plazo y forman membranas."
+        },
+        {
+          "letter": "D",
+          "text": "Ácidos nucleicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Almacenan y transmiten la información genética (ADN/ARN)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los carbohidratos son esenciales para el metabolismo celular. En la dieta tica, el gallo pinto es una fuente excelente de carbohidratos complejos y fibra.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v9",
+      "statement": "¿Qué cambio se observa típicamente en las precipitaciones de la vertiente del Pacífico costarricense durante un evento de El Niño?",
+      "context": "Se estudia el fenómeno de El Niño y sus efectos en el clima de Costa Rica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumento extremo de lluvias (inundaciones).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurre usualmente durante La Niña en esa zona."
+        },
+        {
+          "letter": "B",
+          "text": "Disminución significativa de lluvias (sequía).",
+          "is_correct": true,
+          "feedback": "¡Correcto! El Niño suele traer déficit hídrico al Pacífico y Guanacaste."
+        },
+        {
+          "letter": "C",
+          "text": "No hay cambios perceptibles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El clima de Costa Rica es muy sensible a estos fenómenos."
+        },
+        {
+          "letter": "D",
+          "text": "Nevadas en las cumbres más altas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las nevadas no son características del clima costarricense bajo El Niño."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El fenómeno ENOS (El Niño-Oscilación del Sur) altera los patrones de viento y temperatura del mar, provocando sequías en el Pacífico y a menudo excesos de lluvia en el Caribe.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.68,
+      "bundle_id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la capa de la Tierra compuesta principalmente por hierro y níquel, responsable del campo magnético terrestre?",
+      "context": "Un geólogo explica la estructura interna de la Tierra a estudiantes de secundaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Corteza",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la capa más externa y delgada."
+        },
+        {
+          "letter": "B",
+          "text": "Manto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la capa intermedia compuesta por silicatos."
+        },
+        {
+          "letter": "C",
+          "text": "Núcleo",
+          "is_correct": true,
+          "feedback": "¡Correcto! Especialmente el núcleo externo líquido genera el geomagnetismo."
+        },
+        {
+          "letter": "D",
+          "text": "Litósfera",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una capa rígida que incluye la corteza y parte del manto superior."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El núcleo terrestre es una esfera metálica a temperaturas altísimas. Los movimientos en el núcleo externo generan las corrientes eléctricas que crean el campo magnético protector del planeta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.65,
+      "bundle_id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v11",
+      "statement": "Si un corredor parte del reposo y alcanza una velocidad de 10 m/s en 5 segundos, ¿cuál fue su aceleración constante?",
+      "context": "Un atleta en el Estadio Nacional entrena velocidad y necesita calcular su aceleración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 m/s²",
+          "is_correct": true,
+          "feedback": "¡Correcto! a = (Vf - Vi) / t = (10 - 0) / 5 = 2."
+        },
+        {
+          "letter": "B",
+          "text": "5 m/s²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la velocidad entre un número equivocado o invertiste los datos."
+        },
+        {
+          "letter": "C",
+          "text": "50 m/s²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste velocidad por tiempo en lugar de dividir."
+        },
+        {
+          "letter": "D",
+          "text": "0.5 m/s²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste el tiempo entre la velocidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La aceleración es el cambio de velocidad por unidad de tiempo. En este caso, el corredor aumenta su velocidad en 2 metros por segundo cada segundo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v12",
+      "statement": "¿Qué fenómeno óptico ocurre cuando la luz blanca del sol se separa en sus diferentes colores al atravesar las gotas de agua?",
+      "context": "Se observa el arcoíris después de una tarde lluviosa en Cartago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reflexión",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el rebote de la luz en una superficie."
+        },
+        {
+          "letter": "B",
+          "text": "Dispersión",
+          "is_correct": true,
+          "feedback": "¡Correcto! La descomposición de la luz en colores debido a la refracción en un medio."
+        },
+        {
+          "letter": "C",
+          "text": "Difracción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el curvado de las ondas alrededor de un obstáculo."
+        },
+        {
+          "letter": "D",
+          "text": "Polarización",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la orientación de las oscilaciones de la onda lumínica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La dispersión ocurre porque cada color (frecuencia) de la luz viaja a una velocidad ligeramente diferente en el agua, refractándose en ángulos distintos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v13",
+      "statement": "¿Qué propiedad periódica define la tendencia de un átomo a atraer electrones hacia sí mismo cuando forma un enlace químico?",
+      "context": "En un taller de química en Liberia, se analiza la tabla periódica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Radio atómico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere al tamaño del átomo."
+        },
+        {
+          "letter": "B",
+          "text": "Energía de ionización",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la energía necesaria para arrancar un electrón."
+        },
+        {
+          "letter": "C",
+          "text": "Electronegatividad",
+          "is_correct": true,
+          "feedback": "¡Correcto! El flúor es el elemento más electronegativo."
+        },
+        {
+          "letter": "D",
+          "text": "Afinidad electrónica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el cambio de energía cuando un átomo neutro gana un electrón."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La electronegatividad determina el tipo de enlace (iónico o covalente). Átomos con gran diferencia de electronegatividad suelen formar enlaces iónicos.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v14",
+      "statement": "¿Cómo actúan las vacunas en el sistema inmunológico humano para prevenir enfermedades?",
+      "context": "Se discute la importancia de las vacunas en la salud pública de Costa Rica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Matan directamente a las bacterias y virus que entran al cuerpo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es lo que hacen los antibióticos o antivirales."
+        },
+        {
+          "letter": "B",
+          "text": "Estimulan la producción de anticuerpos y células de memoria sin causar la enfermedad.",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Entrenan\" al sistema inmune para reconocer al patógeno real."
+        },
+        {
+          "letter": "C",
+          "text": "Modifican el ADN de las personas para que sean resistentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las vacunas convencionales no alteran el código genético."
+        },
+        {
+          "letter": "D",
+          "text": "Crean una barrera física en la piel que impide la entrada de gérmenes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La piel es una barrera natural, pero no depende de las vacunas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las vacunas exponen al cuerpo a versiones debilitadas o fragmentos de patógenos, permitiendo que el sistema inmune genere defensas específicas (memoria inmunológica).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es una ventaja principal de la energía geotérmica, muy utilizada en Costa Rica gracias a sus volcanes?",
+      "context": "Se analiza el uso de energías limpias frente a la crisis energética.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una fuente de energía constante y disponible las 24 horas del día.",
+          "is_correct": true,
+          "feedback": "¡Correcto! A diferencia de la solar o eólica, no depende del clima."
+        },
+        {
+          "letter": "B",
+          "text": "Puede instalarse en cualquier casa de la ciudad fácilmente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Requiere ubicaciones específicas cerca de actividad volcánica."
+        },
+        {
+          "letter": "C",
+          "text": "Produce grandes cantidades de dióxido de carbono.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una energía con bajas emisiones de gases invernadero."
+        },
+        {
+          "letter": "D",
+          "text": "No requiere ninguna inversión económica inicial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La construcción de plantas geotérmicas es muy costosa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Costa Rica es líder mundial en energía renovable. La geotermia aprovecha el calor interno de la tierra (vapor de agua) para mover turbinas y generar electricidad de forma continua.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.52,
+      "bundle_id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v16",
+      "statement": "¿Cuáles son las cuatro bases nitrogenadas que forman la secuencia del ADN?",
+      "context": "Un estudiante de bachillerato estudia la estructura del ADN.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adenina, Uracilo, Citosina, Guanina",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uracilo es exclusivo del ARN."
+        },
+        {
+          "letter": "B",
+          "text": "Adenina, Timina, Citosina, Guanina",
+          "is_correct": true,
+          "feedback": "¡Correcto! A se aparea con T, y C con G."
+        },
+        {
+          "letter": "C",
+          "text": "Adenina, Timina, Proteína, Guanina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La proteína es una biomolécula diferente, no una base del ADN."
+        },
+        {
+          "letter": "D",
+          "text": "Glucosa, Fosfato, Timina, Citosina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Glucosa y fosfato son partes del nucleótido, pero no son las cuatro bases."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ADN es una doble hélice donde la información se codifica en el orden de estas cuatro bases nitrogenadas. La timina es la base que lo diferencia del ARN.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.5,
+      "bundle_id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v17",
+      "statement": "¿Qué tipo de límite de placas ocurre cuando dos placas chocan y una se desliza por debajo de la otra (subducción), como sucede en la costa pacífica de Costa Rica?",
+      "context": "Se estudia la tectónica de placas en el Cinturón de Fuego del Pacífico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Límite Divergente",
+          "is_correct": false,
+          "feedback": "Incorrecto. En este las placas se separan."
+        },
+        {
+          "letter": "B",
+          "text": "Límite Convergente",
+          "is_correct": true,
+          "feedback": "¡Correcto! El choque de placas genera volcanes y sismos fuertes."
+        },
+        {
+          "letter": "C",
+          "text": "Límite Transformante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las placas se deslizan lateralmente (como la Falla de San Andrés)."
+        },
+        {
+          "letter": "D",
+          "text": "Punto Caliente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es actividad volcánica intraplaca (como Hawái)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La subducción de la Placa del Coco bajo la Placa del Caribe es la responsable de la formación de la cordillera volcánica y la alta sismicidad de Costa Rica.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.48,
+      "bundle_id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v18",
+      "statement": "Si un aparato eléctrico funciona con un voltaje de 120 V y consume una corriente de 2 A, ¿cuál es su resistencia eléctrica según la Ley de Ohm?",
+      "context": "Un técnico eléctrico mide la resistencia de un circuito en un taller en Cartago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "240 Ω",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste voltaje por corriente."
+        },
+        {
+          "letter": "B",
+          "text": "0.016 Ω",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste corriente entre voltaje."
+        },
+        {
+          "letter": "C",
+          "text": "60 Ω",
+          "is_correct": true,
+          "feedback": "¡Correcto! R = V / I = 120 / 2 = 60."
+        },
+        {
+          "letter": "D",
+          "text": "118 Ω",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste los valores."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Ley de Ohm establece que V = I * R. Por lo tanto, para hallar la resistencia, dividimos el voltaje entre la intensidad de corriente.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v19",
+      "statement": "¿Qué ácidos se forman principalmente en la atmósfera cuando los óxidos de nitrógeno y azufre reaccionan con el vapor de agua?",
+      "context": "Se analiza el fenómeno de la lluvia ácida en zonas industriales y volcánicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ácido clorhídrico y ácido acético.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos no son los componentes típicos de la lluvia ácida."
+        },
+        {
+          "letter": "B",
+          "text": "Ácido nítrico y ácido sulfúrico.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Son ácidos fuertes que bajan el pH de la lluvia."
+        },
+        {
+          "letter": "C",
+          "text": "Ácido cítrico y ácido carbónico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ácido carbónico es natural en la lluvia, pero no causa la \"lluvia ácida\" dañina."
+        },
+        {
+          "letter": "D",
+          "text": "Ácido láctico y ácido fórmico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son ácidos orgánicos que no provienen de estas emisiones industriales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La lluvia ácida daña bosques, suelos y monumentos, y es el resultado de la contaminación del aire por procesos industriales y erupciones volcánicas.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es un riesgo potencial para el medio ambiente asociado con el cultivo de plantas transgénicas?",
+      "context": "Debate sobre las ventajas y desventajas de los organismos genéticamente modificados (OGM).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumento de la biodiversidad local.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Generalmente tiende a disminuirla debido al monocultivo."
+        },
+        {
+          "letter": "B",
+          "text": "Transferencia de genes a parientes silvestres (flujo génico) creando \"supermalezas\".",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los genes de resistencia a herbicidas podrían pasar a malezas cercanas."
+        },
+        {
+          "letter": "C",
+          "text": "Que las plantas empiecen a producir oxígeno tóxico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay base científica para esto."
+        },
+        {
+          "letter": "D",
+          "text": "Que la tierra se vuelva estéril para siempre en una sola cosecha.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si bien el suelo se agota, el término \"estéril para siempre\" es una exageración."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La biotecnología ofrece soluciones pero también desafíos éticos y ambientales. El flujo génico es una de las principales preocupaciones de los ecólogos respecto a los cultivos OGM.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "CR-CIE-11-2026-W25-repaso-p3-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cr"
+    }
+  ]
+}

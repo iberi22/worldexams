@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "gt",
+    "pack_id": "gt-week-5-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:38.747Z"
+  },
+  "questions": [
+    {
+      "id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la forma general de una ecuación cuadrática o de segundo grado con una incógnita?",
+      "context": "Un estudiante de bachillerato en Ciudad de Guatemala identifica las características de las ecuaciones de segundo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$ax + b = 0$",
+          "is_correct": false,
+          "feedback": "Esta es la forma general de una ecuación lineal o de primer grado."
+        },
+        {
+          "letter": "B",
+          "text": "$ax^2 + bx + c = 0$",
+          "is_correct": true,
+          "feedback": "Correcto. Esta forma incluye el término cuadrático, el lineal y el independiente, con $a \\ne 0$."
+        },
+        {
+          "letter": "C",
+          "text": "$ax^3 + bx^2 + cx + d = 0$",
+          "is_correct": false,
+          "feedback": "Esta es la forma general de una ecuación cúbica o de tercer grado."
+        },
+        {
+          "letter": "D",
+          "text": "$y = mx + b$",
+          "is_correct": false,
+          "feedback": "Esta es la ecuación de una línea recta en su forma pendiente-intercepto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una ecuación cuadrática se caracteriza por tener como máximo exponente de la incógnita el número 2. El coeficiente $a$ no puede ser cero.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v2",
+      "statement": "En la fórmula cuadrática $x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$, ¿cómo se llama a la expresión $b^2 - 4ac$?",
+      "context": "Para resolver ecuaciones cuadráticas, se utilizan diferentes métodos. Uno de los más universales es el uso de la fórmula cuadrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Radicando simple",
+          "is_correct": false,
+          "feedback": "Aunque está dentro de una raíz, tiene un nombre específico en álgebra."
+        },
+        {
+          "letter": "B",
+          "text": "Coeficiente principal",
+          "is_correct": false,
+          "feedback": "El coeficiente principal es el valor de $a$."
+        },
+        {
+          "letter": "C",
+          "text": "Discriminante",
+          "is_correct": true,
+          "feedback": "Correcto. El discriminante determina la naturaleza y cantidad de las soluciones."
+        },
+        {
+          "letter": "D",
+          "text": "Binomio de Newton",
+          "is_correct": false,
+          "feedback": "El binomio de Newton se refiere a la expansión de $(a+b)^n$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El discriminante ($\\Delta$) permite saber de antemano si la ecuación tiene soluciones reales (y si son únicas o distintas) o soluciones complejas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v3",
+      "statement": "Si el área de un terreno cuadrado es de $144$ metros cuadrados, ¿cuál es la ecuación que representa la medida de su lado $x$?",
+      "context": "Un arquitecto diseña un jardín cuadrado en Antigua Guatemala y conoce su área total.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 = 144$",
+          "is_correct": true,
+          "feedback": "Correcto. El área de un cuadrado es el lado al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "$2x = 144$",
+          "is_correct": false,
+          "feedback": "Esto representaría el doble del lado, no el área."
+        },
+        {
+          "letter": "C",
+          "text": "$4x = 144$",
+          "is_correct": false,
+          "feedback": "Esto representaría el perímetro del cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "$x + x = 144$",
+          "is_correct": false,
+          "feedback": "Esto es equivalente a $2x$, lo cual es incorrecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Este es un ejemplo de una ecuación cuadrática incompleta pura ($ax^2 + c = 0$), donde solo existe el término cuadrático y el independiente.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v4",
+      "statement": "Si el discriminante $b^2 - 4ac$ es igual a cero, ¿cuántas soluciones reales distintas tiene la ecuación?",
+      "context": "Un estudiante analiza la cantidad de soluciones de una ecuación cuadrática basándose en el valor del discriminante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos soluciones reales distintas.",
+          "is_correct": false,
+          "feedback": "Esto ocurre cuando el discriminante es mayor que cero."
+        },
+        {
+          "letter": "B",
+          "text": "Una única solución real (o dos soluciones iguales).",
+          "is_correct": true,
+          "feedback": "Correcto. Si el discriminante es cero, la raíz desaparece y queda solo un valor."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna solución real.",
+          "is_correct": false,
+          "feedback": "Esto ocurre cuando el discriminante es menor que cero."
+        },
+        {
+          "letter": "D",
+          "text": "Infinitas soluciones reales.",
+          "is_correct": false,
+          "feedback": "Una ecuación cuadrática nunca puede tener infinitas soluciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando el discriminante es cero, el trinomio es un cuadrado perfecto y la parábola correspondiente solo toca el eje $x$ en un punto (vértice).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v5",
+      "statement": "Resuelve la ecuación cuadrática incompleta: $x^2 - 25 = 0$.",
+      "context": "Un carpintero en Mixco necesita encontrar las dimensiones de una pieza rectangular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 5$",
+          "is_correct": false,
+          "feedback": "Falta la solución negativa. Toda raíz cuadrada en una ecuación tiene dos valores posibles."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 5, x = -5$",
+          "is_correct": true,
+          "feedback": "Correcto. $x^2 = 25 \\Rightarrow x = \\pm \\sqrt{25} \\Rightarrow x = \\pm 5$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 12.5$",
+          "is_correct": false,
+          "feedback": "Se dividió 25 entre 2 en lugar de extraer la raíz cuadrada."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dado que 25 es positivo, tiene dos raíces reales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las ecuaciones cuadráticas puras se resuelven despejando $x^2$ y extrayendo la raíz cuadrada en ambos miembros, considerando los signos positivo y negativo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v6",
+      "statement": "Si el agricultor planta un total de $400$ árboles, ¿cuántos árboles hay en cada fila?",
+      "context": "Un agricultor en Escuintla planta árboles en una disposición rectangular donde el número de filas es igual al número de árboles por fila.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$ árboles",
+          "is_correct": false,
+          "feedback": "$10 \\times 10 = 100$, no es suficiente."
+        },
+        {
+          "letter": "B",
+          "text": "$20$ árboles",
+          "is_correct": true,
+          "feedback": "Correcto. $x^2 = 400 \\Rightarrow x = 20$."
+        },
+        {
+          "letter": "C",
+          "text": "$40$ árboles",
+          "is_correct": false,
+          "feedback": "$40 \\times 40 = 1,600$, se excede."
+        },
+        {
+          "letter": "D",
+          "text": "$200$ árboles",
+          "is_correct": false,
+          "feedback": "Error al dividir por 2 en lugar de extraer raíz cuadrada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El problema se modela con una ecuación cuadrática pura donde el área (total de árboles) es el producto del lado por sí mismo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v7",
+      "statement": "Resuelve la ecuación mediante factorización: $x^2 - 6x + 8 = 0$.",
+      "context": "Al resolver ecuaciones cuadráticas por factorización, se busca simplificar la expresión a un producto de binomios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1, x = 8$",
+          "is_correct": false,
+          "feedback": "Los factores de 8 cuya suma sea 6 son 4 y 2."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4, x = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. $(x-4)(x-2) = 0 \\Rightarrow x = 4, x = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = -4, x = -2$",
+          "is_correct": false,
+          "feedback": "Si los factores son $(x-4)$ y $(x-2)$, al igualar a cero los signos cambian a positivo."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 3, x = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $3+3=6$ pero $3 \\times 3 = 9$, no 8."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La factorización de un trinomio permite convertir la ecuación en dos ecuaciones lineales sencillas gracias a la propiedad del producto cero.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es siempre una de las soluciones de una ecuación de la forma $ax^2 + bx = 0$?",
+      "context": "Un estudiante estudia ecuaciones cuadráticas mixtas o incompletas del tipo $ax^2 + bx = 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": "No necesariamente; depende de los valores de $a$ y $b$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 0$",
+          "is_correct": true,
+          "feedback": "Correcto. Al factorizar $x(ax + b) = 0$, una solución siempre es $x = 0$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = -1$",
+          "is_correct": false,
+          "feedback": "No es una solución general para este tipo de ecuaciones."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene soluciones reales.",
+          "is_correct": false,
+          "feedback": "Este tipo de ecuaciones siempre tiene al menos una solución real."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al no tener término independiente ($c=0$), la variable $x$ es factor común, lo que garantiza que el cero sea una raíz de la ecuación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v9",
+      "statement": "Resuelve la ecuación $2x^2 - 10x = 0$.",
+      "context": "En un taller de física en Quetzaltenango, se analiza el movimiento de un objeto lanzado hacia arriba.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 0, x = 2$",
+          "is_correct": false,
+          "feedback": "El segundo factor es $2x-10$, cuya raíz es 5."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 0, x = 5$",
+          "is_correct": true,
+          "feedback": "Correcto. $2x(x - 5) = 0 \\Rightarrow 2x = 0$ o $x - 5 = 0$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 5, x = -5$",
+          "is_correct": false,
+          "feedback": "Esta sería la solución para una ecuación pura como $x^2-25=0$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 0, x = 10$",
+          "is_correct": false,
+          "feedback": "Se olvidó dividir 10 entre el coeficiente 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se aplica la factorización por factor común para descomponer la ecuación en dos factores lineales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v10",
+      "statement": "Dada la ecuación $x^2 - 4x + 1 = 0$, ¿cuál es el valor del discriminante?",
+      "context": "Un estudiante usa la fórmula cuadrática para resolver una ecuación que no es fácilmente factorizable.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$20$",
+          "is_correct": false,
+          "feedback": "Error al aplicar la fórmula $b^2 - 4ac$."
+        },
+        {
+          "letter": "B",
+          "text": "$12$",
+          "is_correct": true,
+          "feedback": "Correcto. $(-4)^2 - 4(1)(1) = 16 - 4 = 12$."
+        },
+        {
+          "letter": "C",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $b^2$ es 16, no 4."
+        },
+        {
+          "letter": "D",
+          "text": "$-12$",
+          "is_correct": false,
+          "feedback": "Error de signos en el cálculo de $b^2$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El discriminante se halla con la expresión $b^2 - 4ac$. Un valor positivo indica que existen dos soluciones reales e irracionales (en este caso).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v11",
+      "statement": "Resuelve la ecuación $x^2 - 5x + 6 = 0$ usando la fórmula cuadrática.",
+      "context": "Un ingeniero hidráulico en Guatemala utiliza ecuaciones cuadráticas para calcular el flujo en tuberías.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = -2, x = -3$",
+          "is_correct": false,
+          "feedback": "Error en el signo final de las soluciones."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2, x = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. $x = \\frac{5 \\pm \\sqrt{25 - 24}}{2} = \\frac{5 \\pm 1}{2}$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 1, x = 6$",
+          "is_correct": false,
+          "feedback": "Estos valores no satisfacen la ecuación original."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 2.5 \\pm 1$",
+          "is_correct": false,
+          "feedback": "Aunque el proceso es correcto, las soluciones finales deben ser valores discretos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fórmula cuadrática es un método infalible para hallar las raíces de cualquier ecuación de segundo grado, permitiendo verificar los resultados obtenidos por otros métodos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v12",
+      "statement": "En un triángulo rectángulo, la hipotenusa mide $10$ cm. Si un cateto es $2$ cm más largo que el otro, ¿cuál es la longitud del cateto menor?",
+      "context": "Un estudiante analiza problemas geométricos donde se involucra el teorema de Pitágoras, resultando en ecuaciones cuadráticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8$ cm",
+          "is_correct": false,
+          "feedback": "Si el menor es 8, el mayor sería 10, y $\\sqrt{8^2+10^2} \\ne 10$."
+        },
+        {
+          "letter": "B",
+          "text": "$6$ cm",
+          "is_correct": true,
+          "feedback": "Correcto. $x^2 + (x+2)^2 = 10^2 \\Rightarrow x^2 + x^2 + 4x + 4 = 100 \\Rightarrow 2x^2 + 4x - 96 = 0 \\Rightarrow x^2 + 2x - 48 = 0$. Factores: $(x+8)(x-6)=0$. El lado debe ser positivo, $x=6$."
+        },
+        {
+          "letter": "C",
+          "text": "$4$ cm",
+          "is_correct": false,
+          "feedback": "No satisface la relación del teorema de Pitágoras para este problema."
+        },
+        {
+          "letter": "D",
+          "text": "$5$ cm",
+          "is_correct": false,
+          "feedback": "No cumple con la condición de los cuadrados de los lados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se plantea una ecuación cuadrática basada en el teorema de Pitágoras. Al obtener dos soluciones, se descarta la negativa por no tener sentido físico en geometría.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v13",
+      "statement": "¿Qué número debe sumarse a la expresión $x^2 + 10x$ para completar un trinomio cuadrado perfecto?",
+      "context": "El método de completar el cuadrado es fundamental para entender la geometría de las parábolas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Se debe usar la mitad del coeficiente lineal elevada al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "$100$",
+          "is_correct": false,
+          "feedback": "Este es el cuadrado de 10, pero se necesita el cuadrado de la mitad de 10."
+        },
+        {
+          "letter": "C",
+          "text": "$25$",
+          "is_correct": true,
+          "feedback": "Correcto. $(10/2)^2 = 5^2 = 25$."
+        },
+        {
+          "letter": "D",
+          "text": "$5$",
+          "is_correct": false,
+          "feedback": "Este es el valor de la mitad, pero falta elevarlo al cuadrado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para completar el cuadrado en $x^2 + bx$, se suma $(b/2)^2$. Esto permite convertir el binomio en un cuadrado de binomio $(x + b/2)^2$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v14",
+      "statement": "Resuelve la ecuación $x^2 - 8x + 16 = 0$.",
+      "context": "Un diseñador industrial en Villa Nueva trabaja con piezas metálicas cuya resistencia está modelada por una función cuadrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 4, x = -4$",
+          "is_correct": false,
+          "feedback": "Esta sería la solución de $x^2-16=0$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4$ (solución doble)",
+          "is_correct": true,
+          "feedback": "Correcto. Es un trinomio cuadrado perfecto $(x-4)^2 = 0$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 8, x = 2$",
+          "is_correct": false,
+          "feedback": "El producto de estos valores es 16, pero su suma es 10, no 8."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discriminante es cero, por lo que tiene una solución real."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando el trinomio es un cuadrado perfecto, el discriminante es cero y la ecuación tiene una única solución real, también llamada raíz doble.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es la naturaleza de las raíces de la ecuación $x^2 + 2x + 5 = 0$?",
+      "context": "Un estudiante de ingeniería en la USAC analiza sistemas de ecuaciones donde una es lineal y otra es cuadrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos raíces reales distintas.",
+          "is_correct": false,
+          "feedback": "Esto requiere un discriminante positivo."
+        },
+        {
+          "letter": "B",
+          "text": "Una raíz real doble.",
+          "is_correct": false,
+          "feedback": "Esto requiere un discriminante igual a cero."
+        },
+        {
+          "letter": "C",
+          "text": "Dos raíces complejas (no reales).",
+          "is_correct": true,
+          "feedback": "Correcto. $b^2 - 4ac = 2^2 - 4(1)(5) = 4 - 20 = -16$. Al ser negativo, las raíces son complejas."
+        },
+        {
+          "letter": "D",
+          "text": "Una raíz racional y otra irracional.",
+          "is_correct": false,
+          "feedback": "Las raíces en una ecuación cuadrática con coeficientes racionales siempre son ambas de la misma naturaleza (racionales o ambas irracionales/complejas)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un discriminante negativo indica que la parábola asociada no corta el eje $x$, resultando en soluciones en el conjunto de los números complejos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v16",
+      "statement": "Si la altura está dada por $h = 80 - 5t^2$, ¿cuánto tiempo ($t$) tarda en llegar al suelo ($h=0$)?",
+      "context": "En un curso de física, se estudia el tiempo que tarda un proyectil en caer al suelo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$16$ s",
+          "is_correct": false,
+          "feedback": "Este es el valor de $t^2$, falta extraer la raíz cuadrada."
+        },
+        {
+          "letter": "B",
+          "text": "$4$ s",
+          "is_correct": true,
+          "feedback": "Correcto. $5t^2 = 80 \\Rightarrow t^2 = 16 \\Rightarrow t = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$8$ s",
+          "is_correct": false,
+          "feedback": "Error al realizar la división o la extracción de la raíz."
+        },
+        {
+          "letter": "D",
+          "text": "$5$ s",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la ecuación de caída libre."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tiempo en problemas de caída libre suele resolverse mediante una ecuación cuadrática incompleta pura, considerando únicamente el valor positivo del tiempo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v17",
+      "statement": "Si las raíces de una ecuación cuadrática son $x_1 = 3$ y $x_2 = -5$, ¿cuál es la ecuación original en su forma general?",
+      "context": "Un matemático analiza la relación entre las raíces y los coeficientes de una ecuación cuadrática (Teorema de Vieta).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + 2x - 15 = 0$",
+          "is_correct": true,
+          "feedback": "Correcto. $(x-3)(x+5) = x^2 + 2x - 15$. La suma de raíces es $-b/a$ y el producto es $c/a$."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 - 2x - 15 = 0$",
+          "is_correct": false,
+          "feedback": "Aquí la suma de raíces sería 2, pero $3 + (-5) = -2$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + 8x + 15 = 0$",
+          "is_correct": false,
+          "feedback": "Error en los signos de las raíces al reconstruir la ecuación."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 - 8x - 15 = 0$",
+          "is_correct": false,
+          "feedback": "Los términos no coinciden con las raíces dadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A partir de las raíces $x_1, x_2$, se puede reconstruir la ecuación usando $(x - x_1)(x - x_2) = 0$ o bien mediante las relaciones de suma ($S = -b/a$) y producto ($P = c/a$).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es la solución de la ecuación $x^2 - 2ax + a^2 = 0$ en términos de $a$?",
+      "context": "Un estudiante de ingeniería de la USAC resuelve una ecuación cuadrática con coeficientes literales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = a, x = -a$",
+          "is_correct": false,
+          "feedback": "Esto sería si la ecuación fuera $x^2 - a^2 = 0$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = a$ (solución doble)",
+          "is_correct": true,
+          "feedback": "Correcto. La expresión es el desarrollo del cuadrado de un binomio $(x - a)^2 = 0$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 2a$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la ecuación."
+        },
+        {
+          "letter": "D",
+          "text": "$x = a^2$",
+          "is_correct": false,
+          "feedback": "Error al interpretar los coeficientes de la ecuación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las ecuaciones literales se resuelven de la misma forma que las numéricas, reconociendo patrones de productos notables cuando es posible.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v19",
+      "statement": "¿Para qué valor de producción $x$ el costo es de GTQ $50.00$?",
+      "context": "Un economista analiza una función de costo total cuadrática $C(x) = x^2 - 20x + 150$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 10$",
+          "is_correct": false,
+          "feedback": "$10^2 - 20(10) + 150 = 100 - 200 + 150 = 50$. Es una solución. ¿Hay otra?"
+        },
+        {
+          "letter": "B",
+          "text": "$x = 10$ (solución única en este intervalo)",
+          "is_correct": true,
+          "feedback": "Correcto. $x^2 - 20x + 150 = 50 \\Rightarrow x^2 - 20x + 100 = 0 \\Rightarrow (x-10)^2 = 0$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 5, x = 15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no igualan el costo a 50."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real para ese costo.",
+          "is_correct": false,
+          "feedback": "Falso. El discriminante de la ecuación resultante es cero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al igualar la función a un valor dado, se forma una nueva ecuación cuadrática que debe resolverse para encontrar el nivel de producción requerido.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    },
+    {
+      "id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle-v20",
+      "statement": "Sin resolver la ecuación $x^2 - 7x + 10 = 0$, ¿cuál es el valor de la suma de los recíprocos de sus raíces ($1/x_1 + 1/x_2$)?",
+      "context": "Se plantea un reto matemático sobre la suma de los inversos de las raíces de una ecuación cuadrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10/7$",
+          "is_correct": false,
+          "feedback": "Esto es producto dividido entre suma. Se requiere suma dividida entre producto."
+        },
+        {
+          "letter": "B",
+          "text": "$7/10$",
+          "is_correct": true,
+          "feedback": "Correcto. $1/x_1 + 1/x_2 = (x_1 + x_2) / (x_1 \\cdot x_2) = S/P = 7/10$."
+        },
+        {
+          "letter": "C",
+          "text": "$7$",
+          "is_correct": false,
+          "feedback": "Esta es solo la suma de las raíces."
+        },
+        {
+          "letter": "D",
+          "text": "$1/10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo consideraste el producto de las raíces."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Utilizando las propiedades de las raíces, se puede hallar el valor de expresiones simétricas sin necesidad de conocer los valores individuales de las raíces.\nSuma de raíces $S = -b/a = 7$.\nProducto de raíces $P = c/a = 10$.\n$1/x_1 + 1/x_2 = (x_2 + x_1) / (x_1 x_2) = 7/10$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "GT-MAT-11-2026-W05-ecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gt"
+    }
+  ]
+}

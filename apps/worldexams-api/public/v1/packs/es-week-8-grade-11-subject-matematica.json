@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "es",
+    "pack_id": "es-week-8-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:39.427Z"
+  },
+  "questions": [
+    {
+      "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v1",
+      "statement": "En la expresión de una función afín $f(x) = mx + n$, ¿qué nombre recibe el parámetro $m$?",
+      "context": "Un estudiante en un instituto de Madrid estudia la expresión analítica de las funciones de primer grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ordenada en el origen",
+          "is_correct": false,
+          "feedback": "La ordenada en el origen es el parámetro n."
+        },
+        {
+          "letter": "B",
+          "text": "Pendiente",
+          "is_correct": true,
+          "feedback": "Correcto. Indica la inclinación de la recta y la tasa de variación."
+        },
+        {
+          "letter": "C",
+          "text": "Variable dependiente",
+          "is_correct": false,
+          "feedback": "La variable dependiente es f(x) o y."
+        },
+        {
+          "letter": "D",
+          "text": "Dominio",
+          "is_correct": false,
+          "feedback": "El dominio es el conjunto de valores que puede tomar x."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pendiente $m$ representa la inclinación de la recta respecto al eje de abscisas. Si $m > 0$ la función es creciente; si $m < 0$ es decreciente; y si $m = 0$ es constante (una recta horizontal).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la ordenada en el origen de la función $f(x) = -2x + 5$?",
+      "context": "Se analiza el punto de corte con el eje vertical en una clase en Barcelona.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "Esta es la pendiente de la recta."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. Es el valor de la función cuando x = 0."
+        },
+        {
+          "letter": "C",
+          "text": "2,5",
+          "is_correct": false,
+          "feedback": "Este es el punto de corte con el eje X."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "La recta corta al eje Y en y = 5."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ordenada en el origen ($n$) es el valor de la imagen para $x = 0$. Gráficamente, corresponde al punto $(0, n)$ donde la recta cruza el eje vertical (eje de ordenadas).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v3",
+      "statement": "Dada la función lineal $g(x) = 3x$, ¿cuál es el valor de $g(-4)$?",
+      "context": "Un estudiante en Valencia calcula la imagen de un valor para una función de costes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-7",
+          "is_correct": false,
+          "feedback": "Error al sumar en lugar de multiplicar."
+        },
+        {
+          "letter": "B",
+          "text": "-12",
+          "is_correct": true,
+          "feedback": "Correcto. $3 \\cdot (-4) = -12$."
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Error de signo en la multiplicación."
+        },
+        {
+          "letter": "D",
+          "text": "-1",
+          "is_correct": false,
+          "feedback": "Error de cálculo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar la imagen de un valor, sustituimos la variable $x$ por dicho valor en la expresión analítica y realizamos la operación indicada. En las funciones lineales puras ($y = mx$), la gráfica siempre pasa por el origen $(0,0)$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.82,
+      "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de las siguientes funciones representa una función afín que NO es puramente lineal (no pasa por el origen)?",
+      "context": "Un examen en Sevilla pregunta por la distinción entre función lineal y afín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = 5x$",
+          "is_correct": false,
+          "feedback": "Es una función lineal pura, pasa por (0,0)."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 5x - 2$",
+          "is_correct": true,
+          "feedback": "Correcto. Tiene pendiente 5 y ordenada en el origen -2."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = x^2$",
+          "is_correct": false,
+          "feedback": "Es una función cuadrática, no lineal ni afín."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = 7$",
+          "is_correct": false,
+          "feedback": "Es una función constante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aunque a menudo se usan indistintamente, la función lineal pura tiene la forma $y = mx$ ($n=0$), mientras que la afín es $y = mx + n$ con $n \\neq 0$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v5",
+      "statement": "Calcula la pendiente de la recta que pasa por los puntos $A(1, 2)$ y $B(3, 8)$.",
+      "context": "Un estudiante en Bilbao debe hallar la pendiente de una recta que pasa por dos puntos dados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Error en el cálculo de la diferencia de ordenadas o abscisas."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. $m = (8 - 2) / (3 - 1) = 6 / 2 = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Se ha calculado la diferencia de X entre la de Y (inversa de la pendiente)."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Se ha olvidado dividir por la diferencia de las abscisas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pendiente se define como la razón entre la variación de la $y$ ($\\Delta y$) y la variación de la $x$ ($\\Delta x$). Fórmula: $m = (y_2 - y_1) / (x_2 - x_1)$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la función que relaciona el coste total $C$ con los kilómetros $x$?",
+      "context": "Un mensajero en Zaragoza cobra una tarifa fija de 5 € más 2 € por cada kilómetro recorrido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$C(x) = 5x + 2$",
+          "is_correct": false,
+          "feedback": "Aquí 5 sería el coste por km y 2 la tarifa fija."
+        },
+        {
+          "letter": "B",
+          "text": "$C(x) = 2x + 5$",
+          "is_correct": true,
+          "feedback": "Correcto. El término variable depende de x y la constante es la tarifa fija."
+        },
+        {
+          "letter": "C",
+          "text": "$C(x) = 7x$",
+          "is_correct": false,
+          "feedback": "No distingue entre parte fija y variable."
+        },
+        {
+          "letter": "D",
+          "text": "$C(x) = 2,5x$",
+          "is_correct": false,
+          "feedback": "Mezcla de los valores numéricos sin lógica estructural."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los problemas de tarifas son aplicaciones directas de las funciones afines. La tasa variable por unidad es la pendiente y el cargo fijo inicial es la ordenada en el origen.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v7",
+      "statement": "¿Qué condición deben cumplir dos rectas para ser paralelas?",
+      "context": "Un estudiante analiza la posición relativa de dos rectas en el plano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tener la misma pendiente ($m_1 = m_2$).",
+          "is_correct": true,
+          "feedback": "Correcto. Si tienen la misma inclinación, nunca se cortarán (a menos que sean la misma)."
+        },
+        {
+          "letter": "B",
+          "text": "Tener la misma ordenada en el origen ($n_1 = n_2$).",
+          "is_correct": false,
+          "feedback": "Esto solo significa que cortan al eje Y en el mismo punto."
+        },
+        {
+          "letter": "C",
+          "text": "Que sus pendientes sean recíprocas y opuestas.",
+          "is_correct": false,
+          "feedback": "Esta es la condición de perpendicularidad."
+        },
+        {
+          "letter": "D",
+          "text": "Que el producto de sus pendientes sea 1.",
+          "is_correct": false,
+          "feedback": "Condición incorrecta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos rectas son paralelas si y solo si tienen la misma pendiente. Si además tienen distinta ordenada en el origen, son paralelas no coincidentes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el precio por hora (pendiente) de este fontanero?",
+      "context": "Un fontanero en Murcia aplica una función afín para sus facturas. Por 2 horas cobra 70 € y por 5 horas cobra 130 €.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "35 €/h",
+          "is_correct": false,
+          "feedback": "Esto sería si no hubiera un cargo fijo por desplazamiento."
+        },
+        {
+          "letter": "B",
+          "text": "20 €/h",
+          "is_correct": true,
+          "feedback": "Correcto. $m = (130 - 70) / (5 - 2) = 60 / 3 = 20$."
+        },
+        {
+          "letter": "C",
+          "text": "26 €/h",
+          "is_correct": false,
+          "feedback": "Cálculo incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "60 €/h",
+          "is_correct": false,
+          "feedback": "Esta es la diferencia total, no el precio por hora."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificamos los puntos $(2, 70)$ y $(5, 130)$. Calculamos la pendiente usando la fórmula de la tasa de variación media, que en las rectas es constante e igual a la pendiente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v9",
+      "statement": "¿En qué punto corta al eje X la función $f(x) = 4x - 12$?",
+      "context": "Un estudiante en San Sebastián halla el punto de corte con el eje de abscisas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, -12)",
+          "is_correct": false,
+          "feedback": "Este es el corte con el eje Y."
+        },
+        {
+          "letter": "B",
+          "text": "(3, 0)",
+          "is_correct": true,
+          "feedback": "Correcto. $4x - 12 = 0 \\Rightarrow 4x = 12 \\Rightarrow x = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "(-3, 0)",
+          "is_correct": false,
+          "feedback": "Error de signo al despejar."
+        },
+        {
+          "letter": "D",
+          "text": "(12, 0)",
+          "is_correct": false,
+          "feedback": "Error de cálculo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El corte con el eje X (raíz de la función) se halla igualando la función a cero ($y=0$) y resolviendo la ecuación para $x$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v10",
+      "statement": "Halla la ecuación de la recta con pendiente $m = -1$ que pasa por el punto $(2, 3)$.",
+      "context": "Se busca la ecuación de una recta conociendo su pendiente y un punto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = -x + 1$",
+          "is_correct": false,
+          "feedback": "El punto (2,3) no la cumple: -2+1 = -1 ≠ 3."
+        },
+        {
+          "letter": "B",
+          "text": "$y = -x + 5$",
+          "is_correct": true,
+          "feedback": "Correcto. $3 = -1(2) + n \\Rightarrow 3 = -2 + n \\Rightarrow n = 5$."
+        },
+        {
+          "letter": "C",
+          "text": "$y = -x + 3$",
+          "is_correct": false,
+          "feedback": "Error al hallar n."
+        },
+        {
+          "letter": "D",
+          "text": "$y = x + 5$",
+          "is_correct": false,
+          "feedback": "La pendiente debe ser negativa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la forma punto-pendiente o la forma explícita $y = mx + n$. Sustituimos el punto dado y la pendiente para despejar el valor de $n$ (ordenada en el origen).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.63,
+      "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v11",
+      "statement": "Si una recta forma un ángulo de $45^{\\circ}$ con la dirección positiva del eje X, ¿cuál es su pendiente?",
+      "context": "Un estudiante avanzado en Madrid analiza la relación entre el ángulo de inclinación y la pendiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Esto corresponde a un ángulo de 0º."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. La pendiente es la tangente del ángulo: $m = \\tan(45^{\\circ}) = 1$."
+        },
+        {
+          "letter": "C",
+          "text": "-1",
+          "is_correct": false,
+          "feedback": "Esto corresponde a un ángulo de 135º."
+        },
+        {
+          "letter": "D",
+          "text": "$\\infty$",
+          "is_correct": false,
+          "feedback": "Esto corresponde a una recta vertical (90º)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Existe una relación directa entre la trigonometría y la geometría analítica: la pendiente de una recta es igual a la tangente del ángulo de inclinación que forma con el eje positivo de las abscisas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v12",
+      "statement": "Expresa en forma general ($Ax + By + C = 0$) la función $y = \\frac{2}{3}x - 4$.",
+      "context": "Se plantea la obtención de la ecuación general a partir de la explícita.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x + 3y - 4 = 0$",
+          "is_correct": false,
+          "feedback": "Error al despejar los términos."
+        },
+        {
+          "letter": "B",
+          "text": "$2x - 3y - 12 = 0$",
+          "is_correct": true,
+          "feedback": "Correcto. Multiplicamos por 3: $3y = 2x - 12$. Pasamos al mismo miembro: $2x - 3y - 12 = 0$."
+        },
+        {
+          "letter": "C",
+          "text": "$2x - 3y + 4 = 0$",
+          "is_correct": false,
+          "feedback": "Error en el signo o en el producto del término independiente."
+        },
+        {
+          "letter": "D",
+          "text": "$3x - 2y - 12 = 0$",
+          "is_correct": false,
+          "feedback": "Coeficientes de x e y intercambiados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La forma general de la recta agrupa todos los términos en un miembro, igualando a cero. Es preferible que los coeficientes $A, B, C$ sean números enteros, por lo que eliminamos denominadores multiplicando toda la ecuación.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál de las siguientes ecuaciones representa una recta que NO es una función de $x$?",
+      "context": "Un estudiante en Asturias explica por qué una recta vertical no es una función.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 3$",
+          "is_correct": false,
+          "feedback": "Es una función constante."
+        },
+        {
+          "letter": "B",
+          "text": "$y = x$",
+          "is_correct": false,
+          "feedback": "Es la función identidad."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. Es una recta vertical; para un valor de x existen infinitos de y, violando la definición de función."
+        },
+        {
+          "letter": "D",
+          "text": "$x + y = 0$",
+          "is_correct": false,
+          "feedback": "Es la función $y = -x$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una relación es función si a cada elemento del dominio le corresponde un ÚNICO elemento del codominio. Las rectas verticales asignan infinitas imágenes al mismo valor de $x$, por lo que son curvas en el plano pero no funciones.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v14",
+      "statement": "Halla el punto de corte de las rectas $r: y = 2x - 1$ y $s: y = -x + 5$.",
+      "context": "Un arquitecto en Málaga calcula la intersección de dos trayectorias rectilíneas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(3, 2)",
+          "is_correct": false,
+          "feedback": "$2(3)-1=5 \\neq 2$."
+        },
+        {
+          "letter": "B",
+          "text": "(2, 3)",
+          "is_correct": true,
+          "feedback": "Correcto. $2x - 1 = -x + 5 \\Rightarrow 3x = 6 \\Rightarrow x = 2$. Entonces $y = 2(2)-1 = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "(1, 1)",
+          "is_correct": false,
+          "feedback": "No cumple ninguna de las dos ecuaciones."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 5)",
+          "is_correct": false,
+          "feedback": "Punto de la recta s, pero no de la r."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El punto de corte de dos funciones se halla resolviendo el sistema formado por sus expresiones analíticas. Es el único punto $(x, y)$ cuyas coordenadas satisfacen ambas ecuaciones simultáneamente.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.53,
+      "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es la pendiente de una recta perpendicular a $y = \\frac{1}{2}x + 3$?",
+      "context": "Se analiza la perpendicularidad en un diseño de cuadrícula.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/2",
+          "is_correct": false,
+          "feedback": "Esta es la pendiente de una recta paralela."
+        },
+        {
+          "letter": "B",
+          "text": "-1/2",
+          "is_correct": false,
+          "feedback": "Solo se ha cambiado el signo, no es suficiente."
+        },
+        {
+          "letter": "C",
+          "text": "-2",
+          "is_correct": true,
+          "feedback": "Correcto. La pendiente perpendicular es la opuesta e inversa: $-1 / (1/2) = -2$."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Falta el cambio de signo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dos rectas son perpendiculares si el producto de sus pendientes es $-1$ ($m_1 \\cdot m_2 = -1$). Prácticamente, invertimos la fracción de la pendiente original y le cambiamos el signo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la Tasa de Variación Media (TVM) de $f(x) = -3x + 8$ en el intervalo $[1, 5]$?",
+      "context": "Un estudiante calcula la tasa de variación media en un intervalo para una función afín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-12",
+          "is_correct": false,
+          "feedback": "Esta es la variación total de la y, no la tasa media."
+        },
+        {
+          "letter": "B",
+          "text": "-3",
+          "is_correct": true,
+          "feedback": "Correcto. En las funciones afines, la TVM es constante e igual a la pendiente en cualquier intervalo."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Error de signo."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Esta es la longitud del intervalo (5-1), no la tasa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una característica única de las funciones de primer grado es que su crecimiento/decrecimiento es uniforme. Por tanto, la tasa de variación media en cualquier intervalo coincide siempre con el valor de la pendiente $m$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.48,
+      "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v17",
+      "statement": "Halla la ecuación de la recta que pasa por $(1, 5)$ y $(-2, -1)$.",
+      "context": "Un programador en una startup en Madrid interpola una función lineal entre dos lecturas de sensores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 3x + 2$",
+          "is_correct": false,
+          "feedback": "El punto (1,5) da 3+2=5, pero (-2,-1) da -6+2=-4."
+        },
+        {
+          "letter": "B",
+          "text": "$y = 2x + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. $m = (-1 - 5) / (-2 - 1) = -6 / -3 = 2$. Luego $5 = 2(1) + n \\Rightarrow n = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$y = 2x - 3$",
+          "is_correct": false,
+          "feedback": "Error de signo en la ordenada en el origen."
+        },
+        {
+          "letter": "D",
+          "text": "$y = x + 4$",
+          "is_correct": false,
+          "feedback": "Pendiente incorrecta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar la ecuación que pasa por dos puntos, calculamos primero la pendiente $m$ y luego usamos uno de los puntos para hallar $n$. Es el proceso básico de modelización lineal.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v18",
+      "statement": "¿Están alineados los puntos $P(0, 1)$, $Q(1, 3)$ y $R(2, 5)$?",
+      "context": "Se plantea la alineación de tres puntos en el plano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque la pendiente entre P y Q es la misma que entre Q y R.",
+          "is_correct": true,
+          "feedback": "Correcto. $m_{PQ} = (3-1)/(1-0) = 2$ y $m_{QR} = (5-3)/(2-1) = 2$."
+        },
+        {
+          "letter": "B",
+          "text": "No, forman un triángulo de área pequeña.",
+          "is_correct": false,
+          "feedback": "Al tener la misma pendiente, el área del triángulo que formarían es cero."
+        },
+        {
+          "letter": "C",
+          "text": "Solo si la recta es horizontal.",
+          "is_correct": false,
+          "feedback": "Pueden estar alineados con cualquier pendiente."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque las coordenadas X son consecutivas.",
+          "is_correct": false,
+          "feedback": "Esto no garantiza la alineación si las Y no siguen la misma progresión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Tres puntos están alineados si pertenecen a la misma recta. Analíticamente, esto se comprueba verificando que la pendiente calculada con el primer y segundo punto es igual a la pendiente calculada con el segundo y el tercero.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es la distancia del punto $(0, 0)$ a la recta $3x + 4y - 10 = 0$?",
+      "context": "Un estudiante de ingeniería analiza la distancia de un punto a una recta en un diseño de piezas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 unidades",
+          "is_correct": false,
+          "feedback": "Solo se ha tomado el término C."
+        },
+        {
+          "letter": "B",
+          "text": "2 unidades",
+          "is_correct": true,
+          "feedback": "Correcto. $d = |3(0) + 4(0) - 10| / \\sqrt{3^2 + 4^2} = 10 / 5 = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "5 unidades",
+          "is_correct": false,
+          "feedback": "Error al aplicar la fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{10}$ unidades",
+          "is_correct": false,
+          "feedback": "Error de cálculo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La distancia de un punto $P(x_0, y_0)$ a una recta $Ax+By+C=0$ viene dada por la fórmula $d = |Ax_0 + By_0 + C| / \\sqrt{A^2 + B^2}$. Es una aplicación avanzada de la geometría analítica.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.38,
+      "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle-v20",
+      "statement": "¿Para qué valor de $k$ las rectas $y = kx + 2$ e $y = (2k-3)x + 5$ son paralelas?",
+      "context": "Un reto sobre una familia de rectas que dependen de un parámetro $k$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$k = 0$",
+          "is_correct": false,
+          "feedback": "Las pendientes serian 0 y -3."
+        },
+        {
+          "letter": "B",
+          "text": "$k = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Pendientes iguales: $k = 2k - 3 \\Rightarrow k = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$k = 1$",
+          "is_correct": false,
+          "feedback": "Pendientes 1 y -1 (serían perpendiculares)."
+        },
+        {
+          "letter": "D",
+          "text": "$k = 2$",
+          "is_correct": false,
+          "feedback": "Pendientes 2 y 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Igualamos las expresiones de las pendientes que dependen del parámetro $k$. Resolvemos la ecuación resultante para hallar el valor exacto que hace que ambas rectas tengan la misma inclinación.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "ES-MAT-11-2026-W08-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    }
+  ]
+}

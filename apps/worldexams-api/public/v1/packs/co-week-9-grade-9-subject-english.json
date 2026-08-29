@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-9-grade-9-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.938Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-9-2026-W09-global-culture-001-MASTERY-bundle-v1",
+      "statement": "Direct Speech: \"The carnival starts tomorrow,\" said the guide.\nReported Speech: The guide said that the carnival ________ the following day.",
+      "context": "Reporting a simple statement about a festival.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "starts",
+          "is_correct": false,
+          "feedback": "Incorrect. We need to backshift the tense."
+        },
+        {
+          "letter": "B",
+          "text": "started",
+          "is_correct": true,
+          "feedback": "Correct! Present Simple shifts to Past Simple in Reported Speech."
+        },
+        {
+          "letter": "C",
+          "text": "will start",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Will\" would shift to \"would\"."
+        },
+        {
+          "letter": "D",
+          "text": "has started",
+          "is_correct": false,
+          "feedback": "Incorrect. Inappropriate tense shift."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el discurso indirecto (*Reported Speech*), los verbos suelen dar un \"paso atrás\" en el tiempo (*backshift*). El Presente Simple se convierte en Pasado Simple.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W09-global-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W09-global-culture-001-MASTERY-bundle-v2",
+      "statement": "Direct Speech: \"I have visited Tokyo twice,\" Maria told me.\nReported Speech: Maria told me that she ________ Tokyo twice.",
+      "context": "Reporting a travel experience.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "visited",
+          "is_correct": false,
+          "feedback": "Incorrect. Past Simple is for Direct Past."
+        },
+        {
+          "letter": "B",
+          "text": "had visited",
+          "is_correct": true,
+          "feedback": "Correct! Present Perfect shifts to Past Perfect."
+        },
+        {
+          "letter": "C",
+          "text": "has visited",
+          "is_correct": false,
+          "feedback": "Incorrect. No backshift was applied."
+        },
+        {
+          "letter": "D",
+          "text": "was visiting",
+          "is_correct": false,
+          "feedback": "Incorrect. Changes the meaning."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Presente Perfecto (*have visited*) se transforma en Pasado Perfecto (*had visited*) al reportar lo que alguien dijo en un momento anterior.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W09-global-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W09-global-culture-001-MASTERY-bundle-v3",
+      "statement": "Direct Speech: \"Do you like spicy food?\" he asked me.\nReported Speech: He asked me ________ I liked spicy food.",
+      "context": "Reporting a question about cultural habits.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "Incorrect. \"That\" is for statements, not questions."
+        },
+        {
+          "letter": "B",
+          "text": "do",
+          "is_correct": false,
+          "feedback": "Incorrect. Auxiliaries are not used in reported questions."
+        },
+        {
+          "letter": "C",
+          "text": "if",
+          "is_correct": true,
+          "feedback": "Correct! We use \"if\" or \"whether\" for yes/no questions in reported speech."
+        },
+        {
+          "letter": "D",
+          "text": "what",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for specific information questions."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para reportar preguntas de sí/no, utilizamos los conectores *if* o *whether*. Además, el orden de la oración vuelve a ser el de una afirmación (sujeto + verbo).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W09-global-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W09-global-culture-001-MASTERY-bundle-v4",
+      "statement": "Direct Speech: \"Where is the nearest museum?\" the tourist asked.\nReported Speech: The tourist asked where the nearest museum ________.",
+      "context": "Reporting a specific information question.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing backshift."
+        },
+        {
+          "letter": "B",
+          "text": "was",
+          "is_correct": true,
+          "feedback": "Correct! Backshift of \"is\" and change to statement word order."
+        },
+        {
+          "letter": "C",
+          "text": "were",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Museum\" is singular."
+        },
+        {
+          "letter": "D",
+          "text": "has been",
+          "is_correct": false,
+          "feedback": "Incorrect. Inappropriate tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En las preguntas con *Wh-* (where, what, why), mantenemos la palabra interrogativa pero cambiamos el orden a sujeto + verbo y aplicamos el retroceso temporal (*is* → *was*).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W09-global-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W09-global-culture-001-MASTERY-bundle-v5",
+      "statement": "Direct Speech: \"I will host a student from Italy,\" said Julian.\nReported Speech: Julian said that he ________ a student from Italy.",
+      "context": "Reporting a future plan in a cultural exchange.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will host",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing backshift."
+        },
+        {
+          "letter": "B",
+          "text": "would host",
+          "is_correct": true,
+          "feedback": "Correct! \"Will\" shifts to \"would\" in Reported Speech."
+        },
+        {
+          "letter": "C",
+          "text": "hosts",
+          "is_correct": false,
+          "feedback": "Incorrect. Changes the future meaning."
+        },
+        {
+          "letter": "D",
+          "text": "was going to host",
+          "is_correct": false,
+          "feedback": "Incorrect. While similar in meaning, the direct shift of \"will\" is \"would\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El auxiliar de futuro *will* siempre se convierte en *would* cuando reportamos una declaración o promesa hecha en el pasado.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W09-global-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W09-global-culture-001-MASTERY-bundle-v6",
+      "statement": "Direct Speech: \"You should try the local coffee,\" the host suggested.\nReported Speech: The host suggested that I ________ the local coffee.",
+      "context": "Reporting an advice about local customs.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "should try",
+          "is_correct": true,
+          "feedback": "Correct! \"Should\" doesn't change in Reported Speech."
+        },
+        {
+          "letter": "B",
+          "text": "must try",
+          "is_correct": false,
+          "feedback": "Incorrect. Changes the nuance from advice to obligation."
+        },
+        {
+          "letter": "C",
+          "text": "would try",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Should\" doesn't shift to \"would\"."
+        },
+        {
+          "letter": "D",
+          "text": "had to try",
+          "is_correct": false,
+          "feedback": "Incorrect. This is the shift for \"must\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Algunos verbos modales como *should*, *could*, *might* y *ought to* no cambian de forma cuando se pasan al discurso indirecto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W09-global-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W09-global-culture-001-MASTERY-bundle-v7",
+      "statement": "Direct Speech: \"I am meeting my friends here tonight,\" she said.\nReported Speech: She said she was meeting her friends ________.",
+      "context": "Identifying the correct time and place reference shifts.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "here tonight",
+          "is_correct": false,
+          "feedback": "Incorrect. Time and place markers must change."
+        },
+        {
+          "letter": "B",
+          "text": "there tonight",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Tonight\" must change."
+        },
+        {
+          "letter": "C",
+          "text": "there that night",
+          "is_correct": true,
+          "feedback": "Correct! \"Here\" becomes \"there\" and \"tonight\" becomes \"that night\"."
+        },
+        {
+          "letter": "D",
+          "text": "here that night",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Here\" must change."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Además de los verbos, en el discurso indirecto debemos ajustar las referencias de lugar (*here* → *there*) y tiempo (*tonight* → *that night*) para que coincidan con el nuevo contexto del hablante.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W09-global-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W09-global-culture-001-MASTERY-bundle-v8",
+      "statement": "Which sentence is grammatically correct?",
+      "context": "Understanding the use of \"tell\" vs \"say\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She said me that she loved the festival.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Say\" cannot be followed directly by an object pronoun without \"to\"."
+        },
+        {
+          "letter": "B",
+          "text": "She told me that she loved the festival.",
+          "is_correct": true,
+          "feedback": "Correct! \"Tell\" must be followed by an object (me, him, her)."
+        },
+        {
+          "letter": "C",
+          "text": "She told that she loved the festival.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Tell\" requires an object."
+        },
+        {
+          "letter": "D",
+          "text": "She said to me that she love the festival.",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing backshift of \"love\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A nivel B2, es vital distinguir: *say* se usa para la cita en sí, mientras que *tell* requiere mencionar a quién se le está hablando (un objeto indirecto).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W09-global-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W09-global-culture-001-MASTERY-bundle-v9",
+      "statement": "Direct Speech: \"Please, show me your passport,\" the officer said to me.\nReported Speech: The officer asked me ________ him my passport.",
+      "context": "Reporting a request or order.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "that I show",
+          "is_correct": false,
+          "feedback": "Incorrect. Commands and requests use the infinitive."
+        },
+        {
+          "letter": "B",
+          "text": "to show",
+          "is_correct": true,
+          "feedback": "Correct! For requests/orders, we use \"to + infinitive\"."
+        },
+        {
+          "letter": "C",
+          "text": "showing",
+          "is_correct": false,
+          "feedback": "Incorrect. Gerund is not used here."
+        },
+        {
+          "letter": "D",
+          "text": "if I showed",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for questions, not requests."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para reportar peticiones u órdenes, utilizamos la estructura: *verbo de reporte + objeto + to + infinitivo*. Si es negativo, usamos *not to*.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W09-global-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W09-global-culture-001-MASTERY-bundle-v10",
+      "statement": "Identify the error in this paragraph:\n\"My friend from Mexico **told** (A) that she **had been** (B) very happy here. She added that she **would** (C) return the **next year** (D).\"",
+      "context": "Finding an error in a long reported sentence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "told",
+          "is_correct": true,
+          "feedback": "Correct! \"Told\" requires an object (e.g., \"told me\"). It should be \"said\"."
+        },
+        {
+          "letter": "B",
+          "text": "had been",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct backshift from \"was\" or \"have been\"."
+        },
+        {
+          "letter": "C",
+          "text": "would",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct backshift from \"will\"."
+        },
+        {
+          "letter": "D",
+          "text": "next year",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct shift from \"next year\" in the original context (though \"the following year\" is more formal)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El error más común es usar *tell* sin un destinatario. Siempre que usemos *tell*, debemos indicar a quién se dirige la información (*told me*, *told the class*).\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-9-2026-W09-global-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W09-global-culture-001-MASTERY-bundle-v11",
+      "statement": "Direct Speech: \"Why have you decided to study abroad?\"\nReported Speech: She asked me why I ________ to study abroad.",
+      "context": "Reporting a complex question.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have decided",
+          "is_correct": false,
+          "feedback": "Incorrect. No backshift."
+        },
+        {
+          "letter": "B",
+          "text": "did I decide",
+          "is_correct": false,
+          "feedback": "Incorrect. Inverted word order."
+        },
+        {
+          "letter": "C",
+          "text": "had decided",
+          "is_correct": true,
+          "feedback": "Correct! Backshift and statement word order."
+        },
+        {
+          "letter": "D",
+          "text": "I had decided",
+          "is_correct": false,
+          "feedback": "Incorrect. The \"why\" is already there, but B is a common trap. Wait, C is better."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En las preguntas reportadas, el orden de las palabras cambia de interrogativo (*have you decided*) a afirmativo (*I had decided*). No se usan auxiliares de pregunta como *did* o *do*.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-9-2026-W09-global-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W09-global-culture-001-MASTERY-bundle-v12",
+      "statement": "The interviewer asked the artist if he ________ working on his new album yet. The artist replied that he ________ it by the end of the year.",
+      "context": "Choosing the best summary of an interview.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "finished / will finish",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing backshifts."
+        },
+        {
+          "letter": "B",
+          "text": "had finished / would have finished",
+          "is_correct": true,
+          "feedback": "Correct! Backshift of Present Perfect and Future Perfect."
+        },
+        {
+          "letter": "C",
+          "text": "has finished / would finish",
+          "is_correct": false,
+          "feedback": "Incorrect. Mixed backshifts."
+        },
+        {
+          "letter": "D",
+          "text": "did finish / had finished",
+          "is_correct": false,
+          "feedback": "Incorrect. Incorrect tense logic."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este ejercicio final evalúa la capacidad de reportar estructuras complejas como el Presente Perfecto y el Futuro Perfecto en una sola situación comunicativa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-9-2026-W09-global-culture-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

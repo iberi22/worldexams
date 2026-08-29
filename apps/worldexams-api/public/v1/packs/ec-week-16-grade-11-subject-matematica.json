@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "ec",
+    "pack_id": "ec-week-16-grade-11-subject-matematicas",
+    "generated_at": "2026-07-03T19:49:45.154Z"
+  },
+  "questions": [
+    {
+      "id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v1",
+      "statement": "¿Qué representa fundamentalmente la integral indefinida de una función $f(x)$?",
+      "context": "Un estudiante de la Universidad Politécnica Salesiana en Cuenca inicia su estudio sobre el cálculo integral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tasa de cambio instantánea de la función.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es la definición de derivada."
+        },
+        {
+          "letter": "B",
+          "text": "El conjunto de todas las antiderivadas de la función.",
+          "is_correct": true,
+          "feedback": "Correcto. La integral indefinida busca la función original cuya derivada es $f(x)$."
+        },
+        {
+          "letter": "C",
+          "text": "El valor exacto del área bajo la curva en un intervalo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El área exacta se calcula con la integral definida."
+        },
+        {
+          "letter": "D",
+          "text": "El límite de la función cuando $x$ tiende a infinito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es un concepto de análisis de comportamiento final."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La integración indefinida es el proceso inverso a la derivación, permitiendo recuperar una función a partir de su tasa de cambio.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué se añade una constante $C$ al final del resultado de una integral indefinida?",
+      "context": "Importancia de la constante de integración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el resultado siempre debe ser un número entero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resultado es una familia de funciones."
+        },
+        {
+          "letter": "B",
+          "text": "Porque funciones que difieren en una constante tienen la misma derivada.",
+          "is_correct": true,
+          "feedback": "Correcto. Como la derivada de una constante es cero, no podemos saber el valor original del término independiente sin información adicional."
+        },
+        {
+          "letter": "C",
+          "text": "Para indicar que la integral no ha terminado de calcularse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La $C$ es parte integral del resultado final."
+        },
+        {
+          "letter": "D",
+          "text": "Solo se añade si la función original es un polinomio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se añade a todas las integrales indefinidas de cualquier tipo de función."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La constante $C$ representa la indeterminación del término constante original, que se pierde durante el proceso de derivación.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v3",
+      "statement": "Calcule $\\int x^4 \\, dx$.",
+      "context": "Aplicación de la regla de la potencia para integrales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4x^3 + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la derivada, no la integral."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{x^5}{5} + C$",
+          "is_correct": true,
+          "feedback": "Correcto. Según la regla $\\int x^n \\, dx = \\frac{x^{n+1}}{n+1} + C$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^5 + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó dividir por el nuevo exponente."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{x^4}{4} + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aumentó el grado del exponente antes de dividir."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La regla de la potencia para integrales requiere sumar uno al exponente y dividir el término por ese nuevo valor.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la función que representa el volumen total acumulado $V(t)$ si en $t=0$ el volumen es 0?",
+      "context": "Integral de una constante. Un flujo constante de agua en un canal de riego en la provincia de Loja es de 5 m³/s.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$V(t) = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto representaría un volumen que no cambia con el tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "$V(t) = 5t$",
+          "is_correct": true,
+          "feedback": "Correcto. La integral de una constante $k$ respecto a $t$ es $kt + C$. Como $V(0)=0$, $C=0$."
+        },
+        {
+          "letter": "C",
+          "text": "$V(t) = 2.5t^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería la integral si el flujo fuera lineal ($5t$), no constante."
+        },
+        {
+          "letter": "D",
+          "text": "$V(t) = t + 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Relación lineal con pendiente incorrecta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Modelado de la acumulación de una magnitud constante a través del tiempo mediante la integración básica.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v5",
+      "statement": "Determine $\\int (3x^2 - 2x + 1) \\, dx$.",
+      "context": "Integración de un polinomio compuesto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6x - 2 + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicó derivación en lugar de integración."
+        },
+        {
+          "letter": "B",
+          "text": "$x^3 - x^2 + x + C$",
+          "is_correct": true,
+          "feedback": "Correcto. Integrando término a término: $\\frac{3x^3}{3} - \\frac{2x^2}{2} + 1x = x^3 - x^2 + x$."
+        },
+        {
+          "letter": "C",
+          "text": "$3x^3 - 2x^2 + x + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó simplificar las fracciones resultantes."
+        },
+        {
+          "letter": "D",
+          "text": "$x^3 - x^2 + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió la integral del término constante 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso de la propiedad de linealidad de la integral para resolver antiderivadas de funciones polinómicas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la integral indefinida de $f(x) = \\frac{1}{x}$ para $x > 0$?",
+      "context": "El caso especial de la potencia -1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{x^0}{0} + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La regla de la potencia no es aplicable cuando $n = -1$ debido a la división por cero."
+        },
+        {
+          "letter": "B",
+          "text": "$\\ln(x) + C$",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la integral fundamental definida por la relación inversa del logaritmo natural."
+        },
+        {
+          "letter": "C",
+          "text": "$-\\frac{1}{x^2} + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la derivada de $1/x$."
+        },
+        {
+          "letter": "D",
+          "text": "$e^x + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función exponencial no es la antiderivada de la recíproca."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación del logaritmo natural como la antiderivada de la función racional $1/x$, un pilar del análisis matemático.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.65,
+      "bundle_id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v7",
+      "statement": "Halle $\\int \\cos(x) \\, dx$.",
+      "context": "Integrales de funciones trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sin(x) + C$",
+          "is_correct": true,
+          "feedback": "Correcto. Como la derivada del seno es el coseno, la integral del coseno es el seno."
+        },
+        {
+          "letter": "B",
+          "text": "$-\\sin(x) + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo; esta sería la integral del seno."
+        },
+        {
+          "letter": "C",
+          "text": "$\\cos(x) + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función coseno no es su propia antiderivada."
+        },
+        {
+          "letter": "D",
+          "text": "$\\tan(x) + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada de la tangente es la secante al cuadrado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocimiento de las antiderivadas de funciones trigonométricas fundamentales basándose en las reglas de derivación conocidas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v8",
+      "statement": "Calcule $\\int e^{2x} \\, dx$.",
+      "context": "Integral de la función exponencial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$e^{2x} + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó compensar el factor de la cadena del exponente."
+        },
+        {
+          "letter": "B",
+          "text": "$2e^{2x} + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la derivada de la función."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{2}e^{2x} + C$",
+          "is_correct": true,
+          "feedback": "Correcto. La integral de $e^{ax}$ es $\\frac{1}{a}e^{ax} + C$."
+        },
+        {
+          "letter": "D",
+          "text": "$e^{x^2} + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la interpretación de las propiedades de los exponentes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicación de la regla de sustitución simple para funciones exponenciales con argumentos lineales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v9",
+      "statement": "Determine $\\int \\sqrt{x} \\, dx$.",
+      "context": "Integral de potencias fraccionarias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{2\\sqrt{x}} + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la derivada de la raíz cuadrada."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{2}{3}x\\sqrt{x} + C$",
+          "is_correct": true,
+          "feedback": "Correcto. $x^{1/2}$ integrado es $\\frac{x^{3/2}}{3/2} = \\frac{2}{3}x^{3/2}$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{2}x^2 + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Trató la raíz como si fuera $x^1$."
+        },
+        {
+          "letter": "D",
+          "text": "$x^{3/2} + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó el coeficiente fraccionario resultante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Conversión de radicales a exponentes fraccionarios para aplicar la regla general de integración de potencias.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la función de su velocidad $v(t)$?",
+      "context": "Un vehículo en Guayaquil frena de tal manera que su aceleración es $a(t) = -2$ m/s². Si su velocidad inicial es $v(0) = 10$ m/s.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$v(t) = -2t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió la velocidad inicial (constante de integración)."
+        },
+        {
+          "letter": "B",
+          "text": "$v(t) = 10 - 2t$",
+          "is_correct": true,
+          "feedback": "Correcto. $v(t) = \\int -2 \\, dt = -2t + C$. Como $v(0)=10$, $C=10$."
+        },
+        {
+          "letter": "C",
+          "text": "$v(t) = 10t - t^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería la función de posición si la velocidad fuera $10-2t$."
+        },
+        {
+          "letter": "D",
+          "text": "$v(t) = -t^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la aplicación de la integral a una constante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso de la integración para reconstruir funciones de velocidad a partir de aceleraciones constantes, determinando el valor de $C$ con condiciones iniciales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v11",
+      "statement": "Calcule $\\int 2x(x^2 + 1)^3 \\, dx$.",
+      "context": "Integración por sustitución (cambio de variable).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{(x^2 + 1)^3}{3} + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó incrementar el exponente externo."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{(x^2 + 1)^4}{4} + C$",
+          "is_correct": true,
+          "feedback": "Correcto. Sea $u = x^2 + 1 \\Rightarrow du = 2x \\, dx$. La integral queda $\\int u^3 \\, du = u^4/4$."
+        },
+        {
+          "letter": "C",
+          "text": "$(x^2 + 1)^4 + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó dividir por 4."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{x^2(x^2 + 1)^4}{4} + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Trató de integrar ambos factores por separado de forma incorrecta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación del patrón $f(g(x))g'(x)$ para aplicar el método de sustitución simple en el cálculo de antiderivadas.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v12",
+      "statement": "Halle $\\int \\frac{1}{2x + 5} \\, dx$.",
+      "context": "Integral de una función lineal en el denominador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\ln(2x + 5) + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó compensar la derivada interna de $2x$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{2}\\ln(2x + 5) + C$",
+          "is_correct": true,
+          "feedback": "Correcto. Sustitución $u = 2x+5 \\Rightarrow du = 2 \\, dx$. Entonces $dx = du/2$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\ln(x) + 5x + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Trató de integrar los términos por separado, lo cual es inválido en el denominador."
+        },
+        {
+          "letter": "D",
+          "text": "$2\\ln(2x + 5) + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó por 2 en lugar de dividir."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Extensión de la regla del logaritmo para argumentos lineales mediante el ajuste de coeficientes.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la función del volumen $V(t)$ en la represa?",
+      "context": "Un sensor en una represa en la Amazonía mide la tasa de entrada de agua $R(t) = 4t + 100$ m³/h. Si inicialmente hay 5000 m³ de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$V(t) = 2t^2 + 100t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió el volumen inicial de 5000 m³."
+        },
+        {
+          "letter": "B",
+          "text": "$V(t) = 4t + 5100$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Trató la tasa de cambio como si fuera una constante."
+        },
+        {
+          "letter": "C",
+          "text": "$V(t) = 2t^2 + 100t + 5000$",
+          "is_correct": true,
+          "feedback": "Correcto. Integrando $R(t)$ obtenemos $2t^2 + 100t + C$. Para $t=0$, $V=5000 \\Rightarrow C=5000$."
+        },
+        {
+          "letter": "D",
+          "text": "$V(t) = t^2 + 100t + 5000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al integrar el término $4t$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Resolución de problemas de valor inicial en contextos de acumulación de recursos hídricos.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v14",
+      "statement": "Calcule $\\int \\frac{1}{1 + x^2} \\, dx$.",
+      "context": "Integral que resulta en una función trigonométrica inversa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\ln(1 + x^2) + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería la integral de $2x/(1+x^2)$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\arctan(x) + C$",
+          "is_correct": true,
+          "feedback": "Correcto. La derivada del arcotangente es exactamente el integrando dado."
+        },
+        {
+          "letter": "C",
+          "text": "$\\arcsin(x) + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La integral del arcoseno involucra una raíz cuadrada."
+        },
+        {
+          "letter": "D",
+          "text": "$-\\frac{1}{(1 + x^2)^2} + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Trató de usar la regla de la potencia de forma inapropiada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificación de integrales fundamentales que corresponden a las derivadas de funciones trigonométricas inversas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v15",
+      "statement": "Determine $\\int \\sin^2(x) \\cos(x) \\, dx$.",
+      "context": "Integración por sustitución con funciones trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{\\sin^2(x)}{2} + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó aumentar el exponente del seno."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{\\sin^3(x)}{3} + C$",
+          "is_correct": true,
+          "feedback": "Correcto. Sea $u = \\sin x \\Rightarrow du = \\cos x \\, dx$. La integral es $\\int u^2 \\, du = u^3/3$."
+        },
+        {
+          "letter": "C",
+          "text": "$-\\frac{\\cos^3(x)}{3} + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eligió mal la variable de sustitución o el signo."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{\\cos^2(x)}{2} + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error conceptual grave en el proceso de sustitución."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación del método de sustitución para potencias de funciones trigonométricas acompañadas de su derivada.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.4,
+      "bundle_id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v16",
+      "statement": "Halle $\\int \\frac{x^2 + 1}{x} \\, dx$.",
+      "context": "Integral de una función con potencias negativas y racionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\ln(x^2 + 1) + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un error común intentar integrar el numerador y denominador juntos."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{x^2}{2} + \\ln|x| + C$",
+          "is_correct": true,
+          "feedback": "Correcto. Dividiendo primero: $\\int (x + 1/x) \\, dx = x^2/2 + \\ln|x|$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + \\ln(x) + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó dividir por 2 al integrar $x$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{x^3 + x}{x^2} + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resultado sin sentido algebraico en integración."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uso de la división algebraica previa para simplificar integrandos racionales antes de aplicar las reglas básicas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v17",
+      "statement": "Calcule $\\int \\tan(x) \\, dx$.",
+      "context": "Integral de la función tangente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sec^2(x) + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la derivada, no la integral."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sec(x) + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la prueba de la derivada."
+        },
+        {
+          "letter": "C",
+          "text": "$-\\ln|\\cos(x)| + C$",
+          "is_correct": true,
+          "feedback": "Correcto. Escribiendo como $\\int \\frac{\\sin x}{\\cos x} \\, dx$ y usando $u = \\cos x$. También es igual a $\\ln|\\sec x| + C$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\ln|\\sin(x)| + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la integral de la cotangente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Deducción de integrales trigonométricas mediante la conversión a razones de seno y coseno y el uso de la sustitución logarítmica.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es la técnica adecuada para integrar $\\int \\sin^2(x) \\, dx$?",
+      "context": "Uso de identidades trigonométricas para integrar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sustitución simple con $u = \\sin(x)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta el factor $\\cos(x)$ para el $du$."
+        },
+        {
+          "letter": "B",
+          "text": "Regla de la potencia directa: $\\sin^3(x)/3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo es válida si la base es la variable de integración simple."
+        },
+        {
+          "letter": "C",
+          "text": "Uso de la identidad de ángulo doble: $\\sin^2(x) = \\frac{1 - \\cos(2x)}{2}$.",
+          "is_correct": true,
+          "feedback": "Correcto. Permite transformar una potencia en una suma de funciones lineales fáciles de integrar."
+        },
+        {
+          "letter": "D",
+          "text": "Integración por partes eligiendo $u = \\sin(x)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es posible pero mucho más complejo que usar identidades."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Importancia de las identidades trigonométricas para reducir el grado de las potencias de funciones periódicas y facilitar su integración.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.3,
+      "bundle_id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v19",
+      "statement": "Determine la función de posición $s(t)$ de la partícula.",
+      "context": "Una partícula se mueve con una aceleración $a(t) = \\cos(t)$. En $t=0$, la velocidad es $v=2$ y la posición es $s=0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$s(t) = -\\sin(t) + 2t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la integración del coseno."
+        },
+        {
+          "letter": "B",
+          "text": "$s(t) = \\sin(t) + 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la función de velocidad, no la de posición."
+        },
+        {
+          "letter": "C",
+          "text": "$s(t) = -\\cos(t) + 2t + 1$",
+          "is_correct": true,
+          "feedback": "Correcto. $v(t) = \\sin t + 2$. $s(t) = \\int (\\sin t + 2) \\, dt = -\\cos t + 2t + C$. Como $s(0) = -1 + 0 + C = 0$, entonces $C=1$."
+        },
+        {
+          "letter": "D",
+          "text": "$s(t) = \\cos(t) + 2t - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo al integrar la velocidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Doble integración para obtener la posición a partir de la aceleración, manejando múltiples constantes de integración y condiciones iniciales.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el resultado de esta integral?",
+      "context": "Un problema de sustitución \"ingeniosa\" o avanzada. Calcule $\\int \\frac{e^x}{e^{2x} + 1} \\, dx$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\ln(e^{2x} + 1) + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface el diferencial del numerador."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{2} \\ln(e^{2x} + 1) + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Trató de usar sustitución logarítmica sin considerar la estructura de cuadrado más uno."
+        },
+        {
+          "letter": "C",
+          "text": "$\\arctan(e^x) + C$",
+          "is_correct": true,
+          "feedback": "Correcto. Sea $u = e^x \\Rightarrow du = e^x \\, dx$. La integral queda $\\int \\frac{1}{u^2 + 1} \\, du = \\arctan(u)$."
+        },
+        {
+          "letter": "D",
+          "text": "$e^x \\arctan(e^x) + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la aplicación del método de sustitución."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Integración de funciones exponenciales que derivan en formas trigonométricas inversas mediante cambios de variable adecuados.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.2,
+      "bundle_id": "EC-MAT-11-2026-W16-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    }
+  ]
+}

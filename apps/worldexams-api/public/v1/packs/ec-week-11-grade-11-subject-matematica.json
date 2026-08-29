@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "ec",
+    "pack_id": "ec-week-11-grade-11-subject-matematicas",
+    "generated_at": "2026-07-03T19:49:45.150Z"
+  },
+  "questions": [
+    {
+      "id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v1",
+      "statement": "¿Qué representa intuitivamente el límite de una función $f(x)$ cuando $x$ tiende a un valor $a$?",
+      "context": "Un estudiante en la Universidad Central del Ecuador analiza el comportamiento de una función de costos a medida que la producción se acerca a un valor específico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El valor al que se aproxima $f(x)$ cuando $x$ está arbitrariamente cerca de $a$.",
+          "is_correct": true,
+          "feedback": "Correcto. El límite describe el comportamiento local de la función cerca de un punto, independientemente del valor de la función en ese punto exacto."
+        },
+        {
+          "letter": "B",
+          "text": "El valor exacto de la función evaluada en $f(a)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor de la función en el punto y el límite no siempre coinciden (como en las discontinuidades evitables)."
+        },
+        {
+          "letter": "C",
+          "text": "La pendiente de la recta tangente a la curva en el punto $a$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde a la definición de derivada, no al concepto general de límite."
+        },
+        {
+          "letter": "D",
+          "text": "El área bajo la curva de la función desde el origen hasta $a$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde al concepto de integral definida."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de límite es fundamental para el cálculo y describe la aproximación de los valores de una función a medida que la variable independiente se acerca a un punto dado.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v2",
+      "statement": "Calcule el valor del límite: $\\lim_{x \\to 2} (3x^2 - 5x + 4)$.",
+      "context": "Evaluación directa de límites polinómicos simples.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique los cálculos al sustituir $x=2$."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": true,
+          "feedback": "Correcto. Sustituyendo directamente: $3(2)^2 - 5(2) + 4 = 3(4) - 10 + 4 = 12 - 10 + 4 = 6$."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la multiplicación o suma."
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Realizó mal la sustitución o el manejo de signos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para funciones polinómicas, el límite se puede hallar mediante sustitución directa ya que son funciones continuas en todo su dominio.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.85,
+      "bundle_id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v3",
+      "statement": "Si $\\lim_{x \\to 3^-} f(x) = 5$ y $\\lim_{x \\to 3^+} f(x) = 5$, ¿qué se puede afirmar sobre $\\lim_{x \\to 3} f(x)$?",
+      "context": "Propiedades de los límites laterales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El límite no existe porque no conocemos $f(3)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La existencia del límite no depende del valor de la función en el punto."
+        },
+        {
+          "letter": "B",
+          "text": "El límite es 10, la suma de los límites laterales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los límites laterales no se suman."
+        },
+        {
+          "letter": "C",
+          "text": "El límite existe y es igual a 5.",
+          "is_correct": true,
+          "feedback": "Correcto. Un límite existe si y solo si ambos límites laterales existen y son iguales."
+        },
+        {
+          "letter": "D",
+          "text": "El límite es infinito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay evidencia de crecimiento sin límite."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La condición necesaria y suficiente para la existencia de un límite bilateral es que los límites laterales coincidan.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v4",
+      "statement": "Calcule $\\lim_{x \\to -1} \\frac{x^2 - 1}{x + 1}$.",
+      "context": "Un analista financiero en Quito observa que una función de interés compuesto tiene una discontinuidad en un punto crítico de tiempo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Probablemente solo evaluó el numerador."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al simplificar la expresión."
+        },
+        {
+          "letter": "C",
+          "text": "-2",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando el numerador: $\\frac{(x+1)(x-1)}{x+1} = x-1$. Sustituyendo $x=-1$: $(-1) - 1 = -2$."
+        },
+        {
+          "letter": "D",
+          "text": "El límite no existe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hay una indeterminación 0/0, esta se puede evitar simplificando."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Resolución de límites con indeterminación de la forma 0/0 mediante factorización de diferencias de cuadrados.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v5",
+      "statement": "Determine el valor de $\\lim_{x \\to \\infty} \\frac{4x^2 - 3x + 2}{2x^2 + 5}$.",
+      "context": "Un ingeniero civil analiza la deformación de una viga en un puente cerca de Guayaquil usando modelos racionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurre cuando el grado del denominador es mayor."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. Al dividir para $x^2$, el límite es la razón de los coeficientes principales: $4/2 = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo consideró el coeficiente del numerador."
+        },
+        {
+          "letter": "D",
+          "text": "$\\infty$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurre cuando el grado del numerador es mayor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cálculo de límites al infinito para funciones racionales con grados iguales en el numerador y denominador.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v6",
+      "statement": "Halle el valor de $\\lim_{x \\to 0} \\frac{\\sqrt{x+4} - 2}{x}$.",
+      "context": "Uso de la conjugada para resolver límites con raíces.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sustitución directa da 0/0, debe racionalizar."
+        },
+        {
+          "letter": "B",
+          "text": "1/4",
+          "is_correct": true,
+          "feedback": "Correcto. Multiplicando por el conjugado: $\\frac{(\\sqrt{x+4}-2)(\\sqrt{x+4}+2)}{x(\\sqrt{x+4}+2)} = \\frac{x+4-4}{x(\\sqrt{x+4}+2)} = \\frac{1}{\\sqrt{x+4}+2}$. Al evaluar en $x=0$ da $1/4$."
+        },
+        {
+          "letter": "C",
+          "text": "1/2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la evaluación final del denominador."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la simplificación algebraica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Técnica de racionalización para eliminar indeterminaciones en límites que involucran radicales.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de las siguientes condiciones NO es necesaria para que $f(x)$ sea continua en $x=c$?",
+      "context": "Definición de continuidad en un punto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(c)$ está definida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una condición obligatoria para la continuidad."
+        },
+        {
+          "letter": "B",
+          "text": "$\\lim_{x \\to c} f(x)$ existe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si el límite no existe, la función no puede ser continua."
+        },
+        {
+          "letter": "C",
+          "text": "$f'(c)$ existe.",
+          "is_correct": true,
+          "feedback": "Correcto. Una función puede ser continua pero no derivable (como $f(x)=|x|$ en $x=0$)."
+        },
+        {
+          "letter": "D",
+          "text": "$\\lim_{x \\to c} f(x) = f(c)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la condición definitiva de continuidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Distinción entre los conceptos de continuidad y derivabilidad. La continuidad requiere la existencia del límite y que este coincida con el valor de la función.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v8",
+      "statement": "Sea $f(x) = \\begin{cases} x+2 & \\text{si } x \\le 1 \\\\ 4-x & \\text{si } x > 1 \\end{cases}$. Determine $\\lim_{x \\to 1} f(x)$.",
+      "context": "Una empresa de telecomunicaciones en Ecuador cobra una tarifa base más un cargo por minuto, lo que genera una función escalonada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. Límite por izquierda: $1+2=3$. Límite por derecha: $4-1=3$. Al ser iguales, el límite es 3."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor de $x$, no de la función."
+        },
+        {
+          "letter": "C",
+          "text": "No existe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos límites laterales coinciden en este caso."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Probablemente solo evaluó una de las ramas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Análisis de límites en funciones definidas por tramos mediante el estudio de límites laterales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v9",
+      "statement": "Calcule el valor de $\\lim_{x \\to 0} \\frac{\\sin(5x)}{x}$.",
+      "context": "Límites trigonométricos fundamentales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió con el límite fundamental $\\sin(x)/x$."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite no tiende a cero."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. Usando el cambio de variable $u=5x$: $\\lim_{u \\to 0} 5 \\cdot \\frac{\\sin(u)}{u} = 5 \\cdot 1 = 5$."
+        },
+        {
+          "letter": "D",
+          "text": "No existe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un límite determinado mediante identidades fundamentales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicación del límite trigonométrico especial $\\lim_{x \\to 0} \\frac{\\sin(kx)}{x} = k$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el comportamiento de $f(x) = \\frac{1}{x-3}$ cuando $x \\to 3^+$?",
+      "context": "Asíntotas verticales en funciones racionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se acerca a 0.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El denominador se vuelve muy pequeño, por lo que el valor absoluto crece."
+        },
+        {
+          "letter": "B",
+          "text": "Tiende a $+\\infty$.",
+          "is_correct": true,
+          "feedback": "Correcto. Al acercarse por la derecha, $x-3$ es positivo y tiende a 0, haciendo que la fracción crezca sin límite positivamente."
+        },
+        {
+          "letter": "C",
+          "text": "Tiende a $-\\infty$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sucede cuando $x \\to 3^-$."
+        },
+        {
+          "letter": "D",
+          "text": "Es igual a 1.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor sin fundamento en el comportamiento asintótico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Interpretación de límites infinitos y su relación con las asíntotas verticales de una función.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v11",
+      "statement": "Determine el valor de $k$ para que $f(x) = \\begin{cases} kx^2 & \\text{si } x \\le 2 \\\\ x+k & \\text{si } x > 2 \\end{cases}$ sea continua en todo su dominio.",
+      "context": "Encontrar parámetros para asegurar la continuidad en un modelo logístico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$k = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verifique la igualdad de los límites laterales."
+        },
+        {
+          "letter": "B",
+          "text": "$k = 2/3$",
+          "is_correct": true,
+          "feedback": "Correcto. Igualando límites: $k(2)^2 = 2+k \\Rightarrow 4k = 2+k \\Rightarrow 3k = 2 \\Rightarrow k = 2/3$."
+        },
+        {
+          "letter": "C",
+          "text": "$k = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al despejar la ecuación lineal."
+        },
+        {
+          "letter": "D",
+          "text": "$k = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto haría que las funciones no coincidan en el punto de unión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación práctica de la definición de continuidad para determinar valores de parámetros desconocidos.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v12",
+      "statement": "Calcule $\\lim_{n \\to \\infty} \\left(1 + \\frac{1}{n}\\right)^{3n}$.",
+      "context": "Límites que involucran el número $e$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$e$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta considerar el exponente 3."
+        },
+        {
+          "letter": "B",
+          "text": "$3e$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La constante multiplica al exponente en la base de la potencia."
+        },
+        {
+          "letter": "C",
+          "text": "$e^3$",
+          "is_correct": true,
+          "feedback": "Correcto. Usando la definición $\\lim_{n \\to \\infty} (1+1/n)^n = e$, tenemos $((1+1/n)^n)^3 \\to e^3$."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó que es una forma indeterminada $1^\\infty$ que tiende a una potencia de $e$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconocimiento y cálculo de límites relacionados con la definición del número de Euler ($e$).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v13",
+      "statement": "Si $f(x)$ es continua en $[a, b]$ y $f(a) < 0$ mientras $f(b) > 0$, ¿qué garantiza el Teorema del Valor Intermedio?",
+      "context": "El Teorema del Valor Intermedio aplicado a la búsqueda de raíces de funciones en el mercado bursátil de Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que $f(x)$ tiene un valor máximo en el intervalo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es el Teorema de Weierstrass o del Valor Extremo."
+        },
+        {
+          "letter": "B",
+          "text": "Que existe al menos un $c \\in (a, b)$ tal que $f(c) = 0$.",
+          "is_correct": true,
+          "feedback": "Correcto. Como la función pasa de negativo a positivo y es continua, debe cruzar el eje x."
+        },
+        {
+          "letter": "C",
+          "text": "Que la función es derivable en todo el intervalo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La continuidad no implica derivabilidad."
+        },
+        {
+          "letter": "D",
+          "text": "Que la pendiente promedio es igual a la pendiente instantánea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde al Teorema del Valor Medio de la derivada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprensión de las implicaciones geométricas y algebraicas del Teorema del Valor Intermedio.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.45,
+      "bundle_id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v14",
+      "statement": "¿Qué tipo de discontinuidad presenta $f(x) = \\frac{\\sin(x)}{x}$ en $x=0$?",
+      "context": "Análisis de discontinuidades esenciales vs removibles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evitable (o removible).",
+          "is_correct": true,
+          "feedback": "Correcto. El límite existe y es 1, pero la función no está definida en 0. Se puede \"rellenar\" el punto."
+        },
+        {
+          "letter": "B",
+          "text": "De salto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los límites laterales son iguales."
+        },
+        {
+          "letter": "C",
+          "text": "Infinita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función no tiende a infinito cerca de 0."
+        },
+        {
+          "letter": "D",
+          "text": "Esencial no infinita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El comportamiento es predecible y el límite existe."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Clasificación de discontinuidades basada en la existencia y comportamiento de los límites laterales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es la población límite a largo plazo (cuando $t \\to \\infty$)?",
+      "context": "Un modelo de población de tortugas en Galápagos sigue la función $P(t) = \\frac{1000}{1 + 9e^{-0.5t}}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El término exponencial tiende a 0, no la fracción completa."
+        },
+        {
+          "letter": "B",
+          "text": "100",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la división."
+        },
+        {
+          "letter": "C",
+          "text": "1000",
+          "is_correct": true,
+          "feedback": "Correcto. Como $e^{-0.5t} \\to 0$, entonces $P(t) \\to \\frac{1000}{1+0} = 1000$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\infty$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función logística tiene un crecimiento acotado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cálculo de asíntotas horizontales en contextos biológicos modelados por funciones logísticas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.4,
+      "bundle_id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v16",
+      "statement": "Si $\\lim_{x \\to 2} f(x) = 4$, calcule $\\lim_{x \\to 2} \\sqrt{f(x)^2 + 9}$.",
+      "context": "Límites de funciones compuestas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó las operaciones adicionales dentro de la raíz."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. Por propiedades de límites: $\\sqrt{4^2 + 9} = \\sqrt{16+9} = \\sqrt{25} = 5$."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo aritmético."
+        },
+        {
+          "letter": "D",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación de las leyes de los límites para funciones compuestas y potencias.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v17",
+      "statement": "Calcule $\\lim_{x \\to 0} \\frac{1 - \\cos(x)}{x^2}$.",
+      "context": "Uso de la regla de L'Hôpital (introducción) o identidades avanzadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. La indeterminación requiere un análisis más profundo."
+        },
+        {
+          "letter": "B",
+          "text": "1/2",
+          "is_correct": true,
+          "feedback": "Correcto. Usando la identidad $1-\\cos(x) = 2\\sin^2(x/2)$, el límite se transforma en $\\lim_{x \\to 0} \\frac{2\\sin^2(x/2)}{4(x/2)^2} = 1/2$."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió con otros límites trigonométricos."
+        },
+        {
+          "letter": "D",
+          "text": "No existe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite es finito y determinado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolución de límites trigonométricos complejos que requieren el uso de identidades de ángulo medio o técnicas de derivación.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v18",
+      "statement": "Determine $\\lim_{x \\to 0} x \\sin(1/x)$ utilizando el Teorema del Sándwich (o del Encaje).",
+      "context": "Un sensor de presión en un oleoducto de la Amazonía ecuatoriana registra datos que siguen la función $f(x) = x \\sin(1/x)$ para $x \\neq 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió con $\\sin(x)/x$."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": true,
+          "feedback": "Correcto. Como $-1 \\le \\sin(1/x) \\le 1$, entonces $-|x| \\le x \\sin(1/x) \\le |x|$. Por el teorema del sándwich, el límite es 0."
+        },
+        {
+          "letter": "C",
+          "text": "No existe debido a la oscilación infinita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oscilación está \"atrapada\" por la función $x$ que tiende a 0."
+        },
+        {
+          "letter": "D",
+          "text": "$\\infty$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está acotada cerca del origen."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación del Teorema del Sándwich para resolver límites de funciones oscilatorias acotadas.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.3,
+      "bundle_id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v19",
+      "statement": "En la definición formal de $\\lim_{x \\to a} f(x) = L$, para un $\\epsilon > 0$ dado, se busca un $\\delta > 0$ tal que si $0 < |x - a| < \\delta$, entonces $|f(x) - L| < \\epsilon$. Para el límite $\\lim_{x \\to 3} (2x - 1) = 5$, ¿qué valor de $\\delta$ funciona para cualquier $\\epsilon$?",
+      "context": "Análisis de la definición formal ($\\epsilon - \\delta$) de límite.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\delta = \\epsilon$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto no satisface la pendiente de la función."
+        },
+        {
+          "letter": "B",
+          "text": "$\\delta = \\epsilon/2$",
+          "is_correct": true,
+          "feedback": "Correcto. $|(2x-1) - 5| = |2x-6| = 2|x-3|$. Queremos $2|x-3| < \\epsilon$, lo cual se cumple si $|x-3| < \\epsilon/2$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\delta = 2\\epsilon$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El error sería mayor que $\\epsilon$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\delta = \\sqrt{\\epsilon}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Relación típica de funciones cuadráticas, no lineales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Demostración de la comprensión de la definición rigurosa de límite mediante el cálculo del parámetro delta para una función lineal.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle-v20",
+      "statement": "¿En qué punto(s) es continua esta función?",
+      "context": "Un matemático en la Politécnica Nacional estudia la función de Dirichlet modificada $f(x) = \\begin{cases} x & \\text{si } x \\in \\mathbb{Q} \\\\ 0 & \\text{si } x \\notin \\mathbb{Q} \\end{cases}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En todos los números racionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cerca de cualquier racional hay infinitos irracionales donde la función vale 0."
+        },
+        {
+          "letter": "B",
+          "text": "En ningún punto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existe un punto donde los límites laterales e interiores coinciden."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente en $x = 0$.",
+          "is_correct": true,
+          "feedback": "Correcto. En $x=0$, tanto los valores racionales ($x$) como los irracionales ($0$) tienden a 0, por lo que el límite existe y es igual a $f(0)$."
+        },
+        {
+          "letter": "D",
+          "text": "En todos los números reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función es altamente discontinua."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Análisis crítico de la continuidad en funciones con dominios densos y comportamientos patológicos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.2,
+      "bundle_id": "EC-MAT-11-2026-W11-limites-y-continuidad-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "ec"
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura-critica",
+    "country": "mx",
+    "pack_id": "mx-week-8-grade-11-subject-lectura_critica",
+    "generated_at": "2026-07-28T22:40:18.335Z"
+  },
+  "questions": [
+    {
+      "id": "MX-LC-11-2026-W08-tema-w08-001-v001",
+      "statement": "¿Qué tipo de texto o documento de análisis intelectual es 'El Ecosistema Agrícola de la Milpa'?",
+      "context": "**Pasaje:** *El Ecosistema Agrícola de la Milpa*\n\nLa milpa mexicana es un agroecosistema mesoamericano milenario basado en el policultivo, cuyo núcleo es la tríada mesoamericana: maíz, frijol y calabaza. La genialidad de la milpa radica en la simbiosis biológica de sus especies. El maíz crece erguido sirviendo de soporte al frijol; el frijol fija el nitrógeno atmosférico en el suelo enriqueciendo la nutrición del suelo; y la calabaza extiende sus anchas hojas sobre la tierra reteniendo la humedad de deparación y previniendo el crecimiento de maleza. Este sistema garantiza la seguridad alimentaria de forma sostenible y mantiene la fertilidad sin necesidad de agroquímicos industriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un reglamento burocrático dictado por el gobierno colonial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto es de carácter ensayístico o informativo-analítico, no un reglamento oficial."
+        },
+        {
+          "letter": "B",
+          "text": "Un {kw[2]} que examina críticamente {kw[1]} en relación con {kw[3]}.",
+          "is_correct": true,
+          "feedback": "Correcto. El escrito tiene todas las características de un {kw[2]} de análisis conceptual y humanista."
+        },
+        {
+          "letter": "C",
+          "text": "Una novela de ficción que narra leyendas cortesanas de la época.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de una argumentación teórica y conceptual, no de un relato de ficción novelado."
+        },
+        {
+          "letter": "D",
+          "text": "Una recopilación de datos de contabilidad comercial internacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento se concentra en las ideas culturales e históricas, no en aspectos contables."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El fragmento se presenta como un ensayo agronómico analítico centrado en la revisión humanística e intelectual de el policultivo sustentable.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-LC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W08-tema-w08-001-v002",
+      "statement": "¿Cuál de las siguientes figuras o instituciones es central en la discusión planteada en 'El Ecosistema Agrícola de la Milpa'?",
+      "context": "**Pasaje:** *El Ecosistema Agrícola de la Milpa*\n\nLa milpa mexicana es un agroecosistema mesoamericano milenario basado en el policultivo, cuyo núcleo es la tríada mesoamericana: maíz, frijol y calabaza. La genialidad de la milpa radica en la simbiosis biológica de sus especies. El maíz crece erguido sirviendo de soporte al frijol; el frijol fija el nitrógeno atmosférico en el suelo enriqueciendo la nutrición del suelo; y la calabaza extiende sus anchas hojas sobre la tierra reteniendo la humedad de deparación y previniendo el crecimiento de maleza. Este sistema garantiza la seguridad alimentaria de forma sostenible y mantiene la fertilidad sin necesidad de agroquímicos industriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La corona real de España y sus secretarios de Hacienda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no aborda temas hacendarios o monárquicos coloniales."
+        },
+        {
+          "letter": "B",
+          "text": "La aportación intelectual y la visión de {kw[0]} sobre {kw[1]}.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto examina de forma directa cómo {kw[0]} influye y redefine la concepción de {kw[1]}."
+        },
+        {
+          "letter": "C",
+          "text": "Un catálogo de botánica o manual de ingeniería mecánica moderna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se mencionan descripciones precisas, pero no constituye el eje intelectual del escrito."
+        },
+        {
+          "letter": "D",
+          "text": "La abolición definitiva de la enseñanza clásica universitaria en México.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, el texto exalta el valor del humanismo clásico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El escrito se enfoca en analizar la figura y el marco de pensamiento de la milpa mexicana respecto de el policultivo sustentable.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-LC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W08-tema-w08-001-v003",
+      "statement": "De acuerdo con 'El Ecosistema Agrícola de la Milpa', ¿cuál es la postura central que se defiende frente a el policultivo sustentable?",
+      "context": "**Pasaje:** *El Ecosistema Agrícola de la Milpa*\n\nLa milpa mexicana es un agroecosistema mesoamericano milenario basado en el policultivo, cuyo núcleo es la tríada mesoamericana: maíz, frijol y calabaza. La genialidad de la milpa radica en la simbiosis biológica de sus especies. El maíz crece erguido sirviendo de soporte al frijol; el frijol fija el nitrógeno atmosférico en el suelo enriqueciendo la nutrición del suelo; y la calabaza extiende sus anchas hojas sobre la tierra reteniendo la humedad de deparación y previniendo el crecimiento de maleza. Este sistema garantiza la seguridad alimentaria de forma sostenible y mantiene la fertilidad sin necesidad de agroquímicos industriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que debe mantenerse en aislamiento absoluto para conservar su pureza de origen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto rechaza explícitamente el aislamiento o cerrazón cultural."
+        },
+        {
+          "letter": "B",
+          "text": "Que florece y se enriquece a través de la asimilación y el diálogo con corrientes universales.",
+          "is_correct": true,
+          "feedback": "Correcto. El autor destaca que la integración con corrientes mundiales fortalece el desarrollo cultural local."
+        },
+        {
+          "letter": "C",
+          "text": "Que debe imitar de forma ciega y sumisa las modas intelectuales de Europa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aboga por una asimilación activa y recreativa, no por una copia servil."
+        },
+        {
+          "letter": "D",
+          "text": "Que carece de valor frente a los desarrollos industriales o comerciales del extranjero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto resalta el inmenso valor y dignidad de la tradición y el intelecto de México."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La premisa central es que el policultivo sustentable debe integrarse activamente al concierto de ideas globales para expandirse.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-LC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W08-tema-w08-001-v004",
+      "statement": "En el contexto del fragmento, la mención de 'la tríada mesoamericana' alude principalmente a:",
+      "context": "**Pasaje:** *El Ecosistema Agrícola de la Milpa*\n\nLa milpa mexicana es un agroecosistema mesoamericano milenario basado en el policultivo, cuyo núcleo es la tríada mesoamericana: maíz, frijol y calabaza. La genialidad de la milpa radica en la simbiosis biológica de sus especies. El maíz crece erguido sirviendo de soporte al frijol; el frijol fija el nitrógeno atmosférico en el suelo enriqueciendo la nutrición del suelo; y la calabaza extiende sus anchas hojas sobre la tierra reteniendo la humedad de deparación y previniendo el crecimiento de maleza. Este sistema garantiza la seguridad alimentaria de forma sostenible y mantiene la fertilidad sin necesidad de agroquímicos industriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una corriente de pensamiento y método de análisis que concibe el saber como patrimonio común de la humanidad.",
+          "is_correct": true,
+          "feedback": "Correcto. Alude al ideal que sitúa la razón y la cultura como puentes universales."
+        },
+        {
+          "letter": "B",
+          "text": "Una técnica formal de redacción mercantil de uso obligatorio en el virreinato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un concepto intelectual y filosófico, no un formato mercantil."
+        },
+        {
+          "letter": "C",
+          "text": "Un castigo corporal destinado a corregir la desobediencia en los colegios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene ninguna relación con castigos o correctivos escolares."
+        },
+        {
+          "letter": "D",
+          "text": "Un inventario municipal de las especies forestales del norte de México.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concepto es filosófico y humanístico, no de índole estadística forestal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de 'la tríada mesoamericana' representa la deparación del saber y la cultura como patrimonios comunes e integradores del ser humano.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-LC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W08-tema-w08-001-v005",
+      "statement": "¿Cuál es el principal propósito del autor al introducir el ejemplo o la obra de la milpa mexicana?",
+      "context": "**Pasaje:** *El Ecosistema Agrícola de la Milpa*\n\nLa milpa mexicana es un agroecosistema mesoamericano milenario basado en el policultivo, cuyo núcleo es la tríada mesoamericana: maíz, frijol y calabaza. La genialidad de la milpa radica en la simbiosis biológica de sus especies. El maíz crece erguido sirviendo de soporte al frijol; el frijol fija el nitrógeno atmosférico en el suelo enriqueciendo la nutrición del suelo; y la calabaza extiende sus anchas hojas sobre la tierra reteniendo la humedad de deparación y previniendo el crecimiento de maleza. Este sistema garantiza la seguridad alimentaria de forma sostenible y mantiene la fertilidad sin necesidad de agroquímicos industriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Demostrar que los intelectuales de su época carecían de rigor en la escritura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se formula una crítica negativa al rigor de los creadores de la época."
+        },
+        {
+          "letter": "B",
+          "text": "Proveer un ejemplo práctico de cómo las ideas universales se recrean con originalidad desde una sensibilidad local.",
+          "is_correct": true,
+          "feedback": "Correcto. Muestra de forma práctica la viabilidad del diálogo entre lo propio y lo universal que propone el autor."
+        },
+        {
+          "letter": "C",
+          "text": "Convencer a los lectores de abandonar las tradiciones indígenas mexicanas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, las tradiciones locales son valoradas y puestas en diálogo fecundo."
+        },
+        {
+          "letter": "D",
+          "text": "Promover la compra de ediciones costosas importadas de España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El escrito se enfoca en el acceso al saber y de ninguna manera en transacciones comerciales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La figura de la milpa mexicana y su producción literaria evidencian de manera fáctica que es posible asimilar y recrear creativamente las corrientes mundiales.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-LC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W08-tema-w08-001-v006",
+      "statement": "Según 'El Ecosistema Agrícola de la Milpa', la vocación o inclinación intelectual de los creadores se presenta como:",
+      "context": "**Pasaje:** *El Ecosistema Agrícola de la Milpa*\n\nLa milpa mexicana es un agroecosistema mesoamericano milenario basado en el policultivo, cuyo núcleo es la tríada mesoamericana: maíz, frijol y calabaza. La genialidad de la milpa radica en la simbiosis biológica de sus especies. El maíz crece erguido sirviendo de soporte al frijol; el frijol fija el nitrógeno atmosférico en el suelo enriqueciendo la nutrición del suelo; y la calabaza extiende sus anchas hojas sobre la tierra reteniendo la humedad de deparación y previniendo el crecimiento de maleza. Este sistema garantiza la seguridad alimentaria de forma sostenible y mantiene la fertilidad sin necesidad de agroquímicos industriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una fuerza natural e innata que debe desarrollarse en libertad para enriquecer a la sociedad.",
+          "is_correct": true,
+          "feedback": "Correcto. Se describe como un impulso indomable que aporta valor y exige un ámbito de libertad educativa."
+        },
+        {
+          "letter": "B",
+          "text": "Una desobediencia voluntaria que atenta contra el bienestar de la colectividad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se valora de forma sumamente positiva, no como un atentado social."
+        },
+        {
+          "letter": "C",
+          "text": "Un capricho superficial que debe ser reprimido por las autoridades gubernamentales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, limitar el desarrollo intelectual es calificado como un despropósito."
+        },
+        {
+          "letter": "D",
+          "text": "El resultado de un adiestramiento mecánico exento de lógica o pasión personal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es descrita como una inclinación profunda imbuida de talento y dedicación natural."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto concibe la capacidad y el desarrollo racional como inclinaciones innatas de la condición humana que deben fomentarse con libertad.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-LC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W08-tema-w08-001-v007",
+      "statement": "Si un educador de la SEP actual compartiera la visión de la milpa mexicana expuesta en el fragmento, ¿cuál de los siguientes proyectos de aula consideraría prioritario?",
+      "context": "**Pasaje:** *El Ecosistema Agrícola de la Milpa*\n\nLa milpa mexicana es un agroecosistema mesoamericano milenario basado en el policultivo, cuyo núcleo es la tríada mesoamericana: maíz, frijol y calabaza. La genialidad de la milpa radica en la simbiosis biológica de sus especies. El maíz crece erguido sirviendo de soporte al frijol; el frijol fija el nitrógeno atmosférico en el suelo enriqueciendo la nutrición del suelo; y la calabaza extiende sus anchas hojas sobre la tierra reteniendo la humedad de deparación y previniendo el crecimiento de maleza. Este sistema garantiza la seguridad alimentaria de forma sostenible y mantiene la fertilidad sin necesidad de agroquímicos industriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La memorización mecánica de fechas de batallas históricas sin análisis de causas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El humanismo promueve la reflexión y comprensión crítica, no el aprendizaje memorístico."
+        },
+        {
+          "letter": "B",
+          "text": "Un taller donde los alumnos analicen textos literarios universales vinculándolos con la realidad de su comunidad.",
+          "is_correct": true,
+          "feedback": "Correcto. Este ejercicio encarna perfectamente el diálogo entre corrientes globales de pensamiento y la identidad local."
+        },
+        {
+          "letter": "C",
+          "text": "La prohibición de la lectura de autores extranjeros para proteger el idioma español.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto caería en el aislamiento cerrado que el autor critica de manera enérgica."
+        },
+        {
+          "letter": "D",
+          "text": "La reducción de las horas de clase dedicadas al arte y a la filosofía para priorizar la contabilidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor aboga por la centralidad de las humanidades en la educación nacional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Poner en diálogo la cultura local con las letras mundiales concreta el ideal de asimilación cultural sin pérdida de la propia esencia.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-LC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W08-tema-w08-001-v008",
+      "statement": "Frente a una iniciativa legal que busque limitar el acceso de las mujeres o de comunidades rurales a la educación superior en México, la filosofía de la milpa mexicana permitiría argumentar que:",
+      "context": "**Pasaje:** *El Ecosistema Agrícola de la Milpa*\n\nLa milpa mexicana es un agroecosistema mesoamericano milenario basado en el policultivo, cuyo núcleo es la tríada mesoamericana: maíz, frijol y calabaza. La genialidad de la milpa radica en la simbiosis biológica de sus especies. El maíz crece erguido sirviendo de soporte al frijol; el frijol fija el nitrógeno atmosférico en el suelo enriqueciendo la nutrición del suelo; y la calabaza extiende sus anchas hojas sobre la tierra reteniendo la humedad de deparación y previniendo el crecimiento de maleza. Este sistema garantiza la seguridad alimentaria de forma sostenible y mantiene la fertilidad sin necesidad de agroquímicos industriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Limitar la educación de un sector de la población debilita el desarrollo cultural y atenta contra el potencial racional de la nación.",
+          "is_correct": true,
+          "feedback": "Correcto. El desarrollo racional es un derecho universal y su restricción empobrece de manera integral a la cultura colectiva."
+        },
+        {
+          "letter": "B",
+          "text": "La medida es correcta porque el acceso a la cultura de vanguardia debe reservarse para una élite urbana cortesana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El humanismo y la cruzada alfabetizadora promueven un ideal de acceso abierto al saber."
+        },
+        {
+          "letter": "C",
+          "text": "El estudio científico debe restringirse para evitar que las tradiciones locales cambien con el tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cultura es concebida de forma dinámica, enriqueciéndose mediante la asimilación de nuevos saberes."
+        },
+        {
+          "letter": "D",
+          "text": "Las decisiones de política educativa deben ser dictadas de forma absoluta por las autoridades eclesiásticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se defiende la libertad intelectual de los creadores e investigadores por encima de controles dogmáticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cualquier barrera que obstaculice el desarrollo intelectual contradice el ideal de una cultura abierta, democrática y humanista.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-LC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W08-tema-w08-001-v009",
+      "statement": "Un ensayista contemporáneo que utiliza la sátira y el contraste lógico para criticar las incoherencias morales de la política mexicana sigue un método similar a:",
+      "context": "**Pasaje:** *El Ecosistema Agrícola de la Milpa*\n\nLa milpa mexicana es un agroecosistema mesoamericano milenario basado en el policultivo, cuyo núcleo es la tríada mesoamericana: maíz, frijol y calabaza. La genialidad de la milpa radica en la simbiosis biológica de sus especies. El maíz crece erguido sirviendo de soporte al frijol; el frijol fija el nitrógeno atmosférico en el suelo enriqueciendo la nutrición del suelo; y la calabaza extiende sus anchas hojas sobre la tierra reteniendo la humedad de deparación y previniendo el crecimiento de maleza. Este sistema garantiza la seguridad alimentaria de forma sostenible y mantiene la fertilidad sin necesidad de agroquímicos industriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El desmontaje lógico e irónico que se describe en la obra de defensa del intelecto y crítica de costumbres.",
+          "is_correct": true,
+          "feedback": "Correcto. Emplear la ironía y el rigor argumentativo para desnudar hipocresías es la técnica que se destaca en el fragmento."
+        },
+        {
+          "letter": "B",
+          "text": "La imitación de catálogos científicos de botánica exentos de lenguaje figurado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sátira es un recurso expresivo y valorativo de las humanidades, no una descripción científica fría."
+        },
+        {
+          "letter": "C",
+          "text": "La recopilación de datos estadísticos sobre el censo de población de la Nueva España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se enfoca en la argumentación lógica y moral, no en la contabilidad demográfica."
+        },
+        {
+          "letter": "D",
+          "text": "Una queja lastimera que se limita a lamentar el orden social sin argumentar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, se destaca que la sátira y el desmontaje operan con rigor forense y racional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El uso de la agudeza intelectual y el contraste formal para cuestionar contradicciones de la conducta social define el tono analítico del ensayo crítico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-LC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W08-tema-w08-001-v010",
+      "statement": "El concepto de un 'concierto de las letras universales' planteado en 'El Ecosistema Agrícola de la Milpa' es comparable por analogía con:",
+      "context": "**Pasaje:** *El Ecosistema Agrícola de la Milpa*\n\nLa milpa mexicana es un agroecosistema mesoamericano milenario basado en el policultivo, cuyo núcleo es la tríada mesoamericana: maíz, frijol y calabaza. La genialidad de la milpa radica en la simbiosis biológica de sus especies. El maíz crece erguido sirviendo de soporte al frijol; el frijol fija el nitrógeno atmosférico en el suelo enriqueciendo la nutrición del suelo; y la calabaza extiende sus anchas hojas sobre la tierra reteniendo la humedad de deparación y previniendo el crecimiento de maleza. Este sistema garantiza la seguridad alimentaria de forma sostenible y mantiene la fertilidad sin necesidad de agroquímicos industriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un coro de voces idénticas que cantan en una sola nota e idioma sin admitir variaciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un concierto implica pluralidad e integración armoniosa de sonidos diversos, no homogeneidad absoluta."
+        },
+        {
+          "letter": "B",
+          "text": "Una orquesta filarmónica donde instrumentos diversos aportan su timbre particular para crear una obra común.",
+          "is_correct": true,
+          "feedback": "Correcto. Ilustra la asimilación respetuosa de identidades múltiples que cooperan de forma equilibrada en un marco universal."
+        },
+        {
+          "letter": "C",
+          "text": "Una biblioteca cerrada con candado donde sólo se permite el ingreso de los bibliotecarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concierto alude a un diálogo abierto de ideas, no al ocultamiento o reclusión del saber."
+        },
+        {
+          "letter": "D",
+          "text": "Un mercado informal de copias piratas de textos de botánica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La analogía es con un espacio de creación coordinada e intelectual de alto valor estético."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La armoniosa integración de voces y culturas literarias diversas en un tronco humanista común es representada de forma idónea por la analogía de la orquesta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-LC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W08-tema-w08-001-v011",
+      "statement": "Si un científico del CONACYT analizara el tema expuesto en 'El Cacao como Moneda, Alimento y Ritual' desde un marco meramente físico-geológico, dirigiría su atención a:",
+      "context": "**Pasaje:** *El Cacao como Moneda, Alimento y Ritual*\n\nEn el México prehispánico, el cacao (Theobroma cacao) trascendía el ámbito alimentario para operar como moneda de cambio, símbolo de prestigio de la nobleza y bebida sagrada reservada para sacerdotes y gobernantes. Las crónicas españolas del siglo XVI registraron la fascinación de los conquistadores ante el hecho de que el dinero crecía en los árboles. Consumido en forma de 'xocolatl' (agua amarga batida con maíz molido y chiles), el cacao poseía propiedades estimulantes y curativas. Su uso en ceremonias rituales de matrimonio atestigua su carácter divino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La composición mineral de las rocas calizas, la orografía del relieve y el registro empírico del clima.",
+          "is_correct": true,
+          "feedback": "Correcto. El análisis geológico se ciñe a variables físicas y mensurables de manera objetiva, desprovistas de carga afectiva."
+        },
+        {
+          "letter": "B",
+          "text": "La añoranza poética que experimentan los habitantes locales en sus diarios íntimos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las emociones y recuerdos de la infancia entran en el ámbito del ensayo literario, no de la geología."
+        },
+        {
+          "letter": "C",
+          "text": "Las leyendas orales recopiladas por los cronistas coloniales de la Nueva España.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El folklore pertenece a los estudios antropológicos y culturales, apartados del registro físico-químico mineral."
+        },
+        {
+          "letter": "D",
+          "text": "La recaudación de impuestos ejidales del sector agrícola de la región.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las finanzas municipales no constituyen el objeto de estudio de las ciencias de la Tierra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un enfoque puramente científico o físico aislaría las propiedades del relieve y del clima, dejando fuera el valor identitario y de memoria colectiva.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-LC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W08-tema-w08-001-v012",
+      "statement": "Un plan de desarrollo urbano sustentable en el xocolatl ritual que incorpore la perspectiva de la milpa mexicana descrita en el fragmento B priorizaría:",
+      "context": "**Pasaje:** *El Cacao como Moneda, Alimento y Ritual*\n\nEn el México prehispánico, el cacao (Theobroma cacao) trascendía el ámbito alimentario para operar como moneda de cambio, símbolo de prestigio de la nobleza y bebida sagrada reservada para sacerdotes y gobernantes. Las crónicas españolas del siglo XVI registraron la fascinación de los conquistadores ante el hecho de que el dinero crecía en los árboles. Consumido en forma de 'xocolatl' (agua amarga batida con maíz molido y chiles), el cacao poseía propiedades estimulantes y curativas. Su uso en ceremonias rituales de matrimonio atestigua su carácter divino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La pavimentación masiva de áreas verdes para la edificación de centros comerciales extranjeros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Destruir el paisaje natural rompe la conexión con la flora y el relieve que el autor destaca."
+        },
+        {
+          "letter": "B",
+          "text": "El equilibrio ecológico de la zona, el uso de flora nativa y la visibilidad de los monumentos naturales emblemáticos.",
+          "is_correct": true,
+          "feedback": "Correcto. Respetar e integrar el entorno físico con la vida cotidiana preserva el ancla de la identidad y de la memoria colectiva."
+        },
+        {
+          "letter": "C",
+          "text": "La construcción de grandes autopistas de cuota sin andadores peatonales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Priorizar el tránsito vehicular a costa de la habitabilidad peatonal es ajeno a un enfoque humanista."
+        },
+        {
+          "letter": "D",
+          "text": "El desalojo forzado de los habitantes nativos para deparar zonas hoteleras exclusivas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto trivializa el patrimonio social y destruye el tejido comunitario de memoria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Preservar el paisaje natural y su visibilidad en equilibrio con el desarrollo urbano es coherente con concebir la geografía como pilar cultural.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "MX-LC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W08-tema-w08-001-v013",
+      "statement": "En el fragmento 'El Cacao como Moneda, Alimento y Ritual', ¿cuál es la relación que se establece entre el paisaje físico de el xocolatl ritual y el carácter de sus habitantes?",
+      "context": "**Pasaje:** *El Cacao como Moneda, Alimento y Ritual*\n\nEn el México prehispánico, el cacao (Theobroma cacao) trascendía el ámbito alimentario para operar como moneda de cambio, símbolo de prestigio de la nobleza y bebida sagrada reservada para sacerdotes y gobernantes. Las crónicas españolas del siglo XVI registraron la fascinación de los conquistadores ante el hecho de que el dinero crecía en los árboles. Consumido en forma de 'xocolatl' (agua amarga batida con maíz molido y chiles), el cacao poseía propiedades estimulantes y curativas. Su uso en ceremonias rituales de matrimonio atestigua su carácter divino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El medio físico ejerce una influencia profunda en el temperamento de la comunidad, promoviendo virtudes como la tenacidad.",
+          "is_correct": true,
+          "feedback": "Correcto. El autor argumenta que la dureza del relieve y la aridez climática modelan de forma directa el espíritu esforzado colectiva."
+        },
+        {
+          "letter": "B",
+          "text": "El relieve geográfico no tiene ningún impacto real en la mentalidad o en la cultura de las personas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento sostiene precisamente la tesis opuesta, valorando la geografía como pilar de identidad."
+        },
+        {
+          "letter": "C",
+          "text": "Los habitantes odian profundamente su entorno y buscan destruirlo mediante la urbanización masiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, la montaña es descrita como el eje del cariño y de la memoria colectiva de los ciudadanos."
+        },
+        {
+          "letter": "D",
+          "text": "El clima templado y la abundancia de recursos forestales producen un temperamento apático.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El clima es descrito como desafiante y árido, y se asocia con la tenacidad, no con la apatía."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El autor teoriza que la geografía desafiante opera como una escuela de temple, forjando un carácter laborioso y tenaz en la población local.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "MX-LC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W08-tema-w08-001-v014",
+      "statement": "Al describir la prosa del ensayo sobre el cacao prehispánico como una 'unión de precisión botánica y profunda emotividad', el autor resalta:",
+      "context": "**Pasaje:** *El Cacao como Moneda, Alimento y Ritual*\n\nEn el México prehispánico, el cacao (Theobroma cacao) trascendía el ámbito alimentario para operar como moneda de cambio, símbolo de prestigio de la nobleza y bebida sagrada reservada para sacerdotes y gobernantes. Las crónicas españolas del siglo XVI registraron la fascinación de los conquistadores ante el hecho de que el dinero crecía en los árboles. Consumido en forma de 'xocolatl' (agua amarga batida con maíz molido y chiles), el cacao poseía propiedades estimulantes y curativas. Su uso en ceremonias rituales de matrimonio atestigua su carácter divino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un error de método científico que resta validez informativa al escrito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La unión de estas dos facetas se describe como una virtud literaria de gran valor, no como una falla."
+        },
+        {
+          "letter": "B",
+          "text": "La destreza para conjugar la observación minuciosa y científica del entorno con la sensibilidad poética y afectiva.",
+          "is_correct": true,
+          "feedback": "Correcto. El autor destaca que el escrito logra ser riguroso respecto a la naturaleza y a la vez evocar de forma viva la nostalgia."
+        },
+        {
+          "letter": "C",
+          "text": "El desprecio del ensayista por las leyes de la física y de las ciencias de la Tierra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ensayista demuestra un profundo conocimiento y aprecio por las ciencias biológicas de su entorno."
+        },
+        {
+          "letter": "D",
+          "text": "Una contradicción estilística insalvable que confunde por completo a los lectores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, produce un texto de gran claridad expresiva e intelectual."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La síntesis de rigor botánico y sensibilidad afectiva dota al ensayo de un equilibrio único que humaniza el entorno observado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "MX-LC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W08-tema-w08-001-v015",
+      "statement": "¿Qué premisa lógica es indispensable para que se sostenga la tesis de que el cacao prehispánico constituye la 'columna vertebral de la identidad' de una región?",
+      "context": "**Pasaje:** *El Cacao como Moneda, Alimento y Ritual*\n\nEn el México prehispánico, el cacao (Theobroma cacao) trascendía el ámbito alimentario para operar como moneda de cambio, símbolo de prestigio de la nobleza y bebida sagrada reservada para sacerdotes y gobernantes. Las crónicas españolas del siglo XVI registraron la fascinación de los conquistadores ante el hecho de que el dinero crecía en los árboles. Consumido en forma de 'xocolatl' (agua amarga batida con maíz molido y chiles), el cacao poseía propiedades estimulantes y curativas. Su uso en ceremonias rituales de matrimonio atestigua su carácter divino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la cultura y la memoria de un pueblo se construyen en un diálogo ininterrumpido e íntimo con el entorno que habitan.",
+          "is_correct": true,
+          "feedback": "Correcto. Si no existiera esta interdependencia subjetiva con el paisaje, el entorno sería irrelevante para la construcción de la identidad."
+        },
+        {
+          "letter": "B",
+          "text": "Que la geografía determina el comportamiento de forma absoluta e inmutable, sin importar las relaciones históricas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Atribuir un poder determinista rígido borra la libertad y la evolución histórica de la sociedad que el texto reconoce."
+        },
+        {
+          "letter": "C",
+          "text": "Que las personas nacidas en llanuras carecen por completo de memoria histórica y de expresiones artísticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un absurdo lógico que no se desprende de la valoración del paisaje montañoso o ritual de una zona."
+        },
+        {
+          "letter": "D",
+          "text": "Que la recopilación de datos de archivos eclesiásticos es superior a la observación directa de la naturaleza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto resalta precisamente la valía de la observación unida al afecto de la vivencia real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La valoración identitaria de la geografía y los ritos descansa en la premisa de que el entorno físico se transfigura en patrimonio simbólico colectivo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "MX-LC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W08-tema-w08-001-v016",
+      "statement": "¿Cuál de las siguientes observaciones críticas representa un cuestionamiento pertinente al enfoque que asocia el temple de la población al clima o al relieve?",
+      "context": "**Pasaje:** *El Cacao como Moneda, Alimento y Ritual*\n\nEn el México prehispánico, el cacao (Theobroma cacao) trascendía el ámbito alimentario para operar como moneda de cambio, símbolo de prestigio de la nobleza y bebida sagrada reservada para sacerdotes y gobernantes. Las crónicas españolas del siglo XVI registraron la fascinación de los conquistadores ante el hecho de que el dinero crecía en los árboles. Consumido en forma de 'xocolatl' (agua amarga batida con maíz molido y chiles), el cacao poseía propiedades estimulantes y curativas. Su uso en ceremonias rituales de matrimonio atestigua su carácter divino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que utiliza un vocabulario excesivamente sencillo carente de figuras de paralelismo o antítesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El escrito destaca por su complejidad y refinamiento retórico, no por simpleza."
+        },
+        {
+          "letter": "B",
+          "text": "Que corre el riesgo de caer en el determinismo geográfico, soslayando la inmensa influencia de los factores históricos, sociales y económicos.",
+          "is_correct": true,
+          "feedback": "Correcto. Explicar el carácter laborioso únicamente por la dureza de la montaña simplifica los procesos económicos de la comunidad."
+        },
+        {
+          "letter": "C",
+          "text": "Que ignora por completo la herencia de los clásicos grecolatinos que Reyes defendía en sus ensayos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor integra de hecho el humanismo universal al dar valor y dignidad literaria al entorno norteño."
+        },
+        {
+          "letter": "D",
+          "text": "Que rechaza de forma arbitraria el uso de la investigación científica y la biología en las crónicas de costumbres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, se destaca el uso de la precisión de las ciencias biológicas de la zona."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Asociar rígidamente la conducta al medio físico (clima, relieve) roza el determinismo, una teoría que la sociología contemporánea matiza por simplista.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "MX-LC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W08-tema-w08-001-v017",
+      "statement": "¿En qué consiste el valor metodológico y cultural del enfoque desarrollado en 'El Cacao como Moneda, Alimento y Ritual'?",
+      "context": "**Pasaje:** *El Cacao como Moneda, Alimento y Ritual*\n\nEn el México prehispánico, el cacao (Theobroma cacao) trascendía el ámbito alimentario para operar como moneda de cambio, símbolo de prestigio de la nobleza y bebida sagrada reservada para sacerdotes y gobernantes. Las crónicas españolas del siglo XVI registraron la fascinación de los conquistadores ante el hecho de que el dinero crecía en los árboles. Consumido en forma de 'xocolatl' (agua amarga batida con maíz molido y chiles), el cacao poseía propiedades estimulantes y curativas. Su uso en ceremonias rituales de matrimonio atestigua su carácter divino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En proveer una fórmula matemática exacta para calcular el volumen de agua de los acuíferos o la altura de las montañas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No de depara mediciones de tipo industrial o ingenieril cuantitativo en el ensayo analizado."
+        },
+        {
+          "letter": "B",
+          "text": "En transfigurar el espacio físico de un dato estadístico frío a un patrimonio vivo cargado de memoria y afecto social.",
+          "is_correct": true,
+          "feedback": "Correcto. El escrito dota de dimensión humana y simbólica a la geografía, incorporándola al acervo cultural e identitario."
+        },
+        {
+          "letter": "C",
+          "text": "En justificar el cobro de cuotas arancelarias a las publicaciones literarias procedentes del extranjero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No guarda relación alguna con regulaciones comerciales o aranceles de importación de libros."
+        },
+        {
+          "letter": "D",
+          "text": "En sugerir que la literatura de opinión carece de importancia frente a la recopilación de archivos históricos coloniales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto exalta precisamente la gran valía del ensayo literario y de la apreciación estética del medio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La trascendencia de la geografía y los ritos estriba en su conversión en hitos vivos que anclan la memoria y el afecto de la comunidad.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-LC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W08-tema-w08-001-v018",
+      "statement": "A partir de la advertencia sobre la tensión entre 'el cacao prehispánico' y 'el xocolatl ritual' que se plantea en 'El Cacao como Moneda, Alimento y Ritual', ¿qué postura asume el autor?",
+      "context": "**Pasaje:** *El Cacao como Moneda, Alimento y Ritual*\n\nEn el México prehispánico, el cacao (Theobroma cacao) trascendía el ámbito alimentario para operar como moneda de cambio, símbolo de prestigio de la nobleza y bebida sagrada reservada para sacerdotes y gobernantes. Las crónicas españolas del siglo XVI registraron la fascinación de los conquistadores ante el hecho de que el dinero crecía en los árboles. Consumido en forma de 'xocolatl' (agua amarga batida con maíz molido y chiles), el cacao poseía propiedades estimulantes y curativas. Su uso en ceremonias rituales de matrimonio atestigua su carácter divino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Defiende la custodia responsable de la esencia espiritual y comunitaria del patrimonio frente a la banalización del consumo masivo.",
+          "is_correct": true,
+          "feedback": "Correcto. Advierte del riesgo de que la mercantilización turística despoje de su valor sagrado y de memoria a los rituales colectivos."
+        },
+        {
+          "letter": "B",
+          "text": "Promueve la explotación comercial irrestricta de las tradiciones para maximizar la llegada de divisas extranjeras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Considera que la comercialización descontrolada trivializa y devalúa el patrimonio identitario nacional."
+        },
+        {
+          "letter": "C",
+          "text": "Propone la prohibición de toda investigación biológica o antropológica sobre las especies y los cenotes de México.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valora positivamente las investigaciones de las ciencias y el resguardo ecológico y arqueológico de la zona."
+        },
+        {
+          "letter": "D",
+          "text": "Recomienda la adopción obligatoria de las costumbres festivas norteamericanas en detrimento de la milpa y del Día de Muertos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se busca proteger y valorar de forma digna las tradiciones prehispánicas y novohispanas locales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El autor aboga por un equilibrio ético que acoja el aprecio global sin trivializar ni erosionar el núcleo sagrado del patrimonio de México.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-LC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W08-tema-w08-001-v019",
+      "statement": "El fragmento B es valorado históricamente como una contribución relevante porque:",
+      "context": "**Pasaje:** *El Cacao como Moneda, Alimento y Ritual*\n\nEn el México prehispánico, el cacao (Theobroma cacao) trascendía el ámbito alimentario para operar como moneda de cambio, símbolo de prestigio de la nobleza y bebida sagrada reservada para sacerdotes y gobernantes. Las crónicas españolas del siglo XVI registraron la fascinación de los conquistadores ante el hecho de que el dinero crecía en los árboles. Consumido en forma de 'xocolatl' (agua amarga batida con maíz molido y chiles), el cacao poseía propiedades estimulantes y curativas. Su uso en ceremonias rituales de matrimonio atestigua su carácter divino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Logra articular con lucidez argumentativa y belleza formal la defensa de un patrimonio deparable de conservación ecológica y cultural.",
+          "is_correct": true,
+          "feedback": "Correcto. Su valor reside en unificar la argumentación lógica con la sensibilidad social frente al deterioro ambiental o la banalización comercial."
+        },
+        {
+          "letter": "B",
+          "text": "Fue el primer artículo científico sobre la secuenciación del genoma de los anfibios publicado en México en el siglo XVI.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La secuenciación del genoma es una técnica contemporánea del siglo XXI, ausente en la época colonial novohispana."
+        },
+        {
+          "letter": "C",
+          "text": "Propone un modelo de recaudación tributaria ejidal para las chinampas del sur de la Ciudad de México.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se abordan modelos fiscales de recaudación en esta sección del escrito."
+        },
+        {
+          "letter": "D",
+          "text": "Logró prohibir de forma absoluta el turismo internacional en la Península de Yucatán o en Michoacán.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se prohíbe el turismo, sino que se plantea de forma crítica la necesidad de regular su impacto para evitar el deterioro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La valía del texto estriba en erigirse en una apología rigurosa y a la vez afectiva del resguardo del patrimonio ecológico y cultural de la nación.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-LC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W08-tema-w08-001-v020",
+      "statement": "¿Cuál de las siguientes afirmaciones resume de manera sintética la conclusión lógica de la lectura integral de 'El Cacao como Moneda, Alimento y Ritual'?",
+      "context": "**Pasaje:** *El Cacao como Moneda, Alimento y Ritual*\n\nEn el México prehispánico, el cacao (Theobroma cacao) trascendía el ámbito alimentario para operar como moneda de cambio, símbolo de prestigio de la nobleza y bebida sagrada reservada para sacerdotes y gobernantes. Las crónicas españolas del siglo XVI registraron la fascinación de los conquistadores ante el hecho de que el dinero crecía en los árboles. Consumido en forma de 'xocolatl' (agua amarga batida con maíz molido y chiles), el cacao poseía propiedades estimulantes y curativas. Su uso en ceremonias rituales de matrimonio atestigua su carácter divino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El avance tecnológico e industrial hace innecesario e inútil cualquier esfuerzo por conservar la flora o la fauna nativas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto sostiene precisamente que el desarrollo nacional debe guardar equilibrio ético con el resguardo natural."
+        },
+        {
+          "letter": "B",
+          "text": "El paisaje, los rituales y los recursos naturales constituyen un tejido vivo de identidad que exige un compromiso ético de custodia.",
+          "is_correct": true,
+          "feedback": "Correcto. La geografía y las tradiciones mesoamericanas no son meros objetos utilitarios, sino pilares de la memoria y la vida nacional."
+        },
+        {
+          "letter": "C",
+          "text": "La cultura del norte y la del sur de México son enemigas históricas irreconciliables que no pueden compartir un humanismo común.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, se conciben como expresiones diversas y complementarias de la riqueza del país."
+        },
+        {
+          "letter": "D",
+          "text": "El estudio de la astronomía y la arqueología subacuática debe subordinarse a los dictados de las leyes mercantiles de importación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor valora la autonomía de las ciencias y el saber humanístico por encima de controles puramente mercantiles."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La lectura integral concluye que la conservación ecológica y el resguardo de los ritos son imperativos éticos para preservar la memoria colectiva nacional.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "MX-LC-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    }
+  ]
+}

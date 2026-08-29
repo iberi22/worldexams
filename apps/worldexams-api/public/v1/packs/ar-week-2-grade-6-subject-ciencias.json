@@ -1,0 +1,461 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "ar",
+    "pack_id": "ar-week-2-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-06-18T23:58:36.239Z"
+  },
+  "questions": [
+    {
+      "id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se denominan los componentes \"no vivos\" de un ecosistema, como la luz solar, el agua, el suelo pampeano y la temperatura?",
+      "context": "En una clase en Santa Rosa, La Pampa, los alumnos estudian los componentes de un ecosistema típico de la llanura pampeana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Factores bióticos",
+          "is_correct": false,
+          "feedback": "No, los factores bióticos son los seres vivos del ecosistema."
+        },
+        {
+          "letter": "B",
+          "text": "Factores abióticos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los factores abióticos son los elementos físicos y químicos sin vida que condicionan el ambiente."
+        },
+        {
+          "letter": "C",
+          "text": "Consumidores primarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los consumidores son organismos vivos (bióticos)."
+        },
+        {
+          "letter": "D",
+          "text": "Poblaciones",
+          "is_correct": false,
+          "feedback": "No es correcto. Una población es un conjunto de individuos de la misma especie (vivos)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un ecosistema está formado por la interacción entre los seres vivos (biocenosis o factores bióticos) y el medio físico (biotopo o factores abióticos). Elementos como el agua, el suelo y el clima son fundamentales para la supervivencia de los organismos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia entre una \"población\" y una \"comunidad\" en un ecosistema como la selva misionera?",
+      "context": "Un grupo de turistas visita las Cataratas del Iguazú en Misiones y observa una gran variedad de pájaros, insectos y plantas conviviendo en el mismo lugar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una población incluye factores abióticos y una comunidad no.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos términos se refieren únicamente a los componentes vivos."
+        },
+        {
+          "letter": "B",
+          "text": "Una comunidad es un solo individuo y una población son muchos.",
+          "is_correct": false,
+          "feedback": "No, un individuo es un solo ser vivo."
+        },
+        {
+          "letter": "C",
+          "text": "Una población es un grupo de la misma especie, y una comunidad son varias poblaciones interactuando.",
+          "is_correct": true,
+          "feedback": "¡Exacto! La comunidad (o biocenosis) suma todas las especies de un lugar determinado."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia, ambos términos significan lo mismo en biología.",
+          "is_correct": false,
+          "feedback": "Falso. En ecología, estos términos representan distintos niveles de organización."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En ecología, el nivel de \"población\" se limita a individuos de una sola especie (ej. todos los tucanes). La \"comunidad\" abarca a todas las poblaciones que comparten el hábitat (tucanes, mariposas, orquídeas, etc.).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v3",
+      "statement": "Si identificás a los peces como consumidores primarios/secundarios que comen zooplancton, ¿qué lugar ocuparían las algas microscópicas (fitoplancton) en esta cadena?",
+      "context": "Imaginate que estás analizando una red trófica en el Mar Argentino. Observás que las orcas se alimentan de lobos marinos, y estos de peces.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Productores",
+          "is_correct": true,
+          "feedback": "¡Muy bien! El fitoplancton realiza fotosíntesis y es la base de la vida en el océano."
+        },
+        {
+          "letter": "B",
+          "text": "Descomponedores",
+          "is_correct": false,
+          "feedback": "No, los descomponedores degradan materia muerta; el fitoplancton fabrica alimento."
+        },
+        {
+          "letter": "C",
+          "text": "Consumidores terciarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los consumidores terciarios suelen ser depredadores de gran tamaño."
+        },
+        {
+          "letter": "D",
+          "text": "Factores abióticos",
+          "is_correct": false,
+          "feedback": "No, el fitoplancton son seres vivos, por lo tanto son factores bióticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En casi todos los ecosistemas, los productores son el primer eslabón. En el mar, el fitoplancton capta la energía solar para producir materia orgánica, sosteniendo al resto de los organismos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v4",
+      "statement": "¿Cómo se denomina este tipo de interacción entre dos especies diferentes que utilizan el mismo recurso limitado?",
+      "context": "Un biólogo en la Puna salteña observa que las vicuñas compiten con los guanacos por el pasto escaso de la zona.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mutualismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el mutualismo ambas especies se benefician."
+        },
+        {
+          "letter": "B",
+          "text": "Depredación",
+          "is_correct": false,
+          "feedback": "No, la depredación es cuando una especie mata a otra para alimentarse."
+        },
+        {
+          "letter": "C",
+          "text": "Competencia interespecífica",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ocurre cuando individuos de distintas especies luchan por un recurso común (alimento, agua, espacio)."
+        },
+        {
+          "letter": "D",
+          "text": "Parasitismo",
+          "is_correct": false,
+          "feedback": "No, el parasitismo implica que uno vive a expensas del otro sin matarlo de inmediato."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La competencia interespecífica es una relación donde ambas especies se ven perjudicadas en alguna medida, ya que deben esforzarse más o reciben menos del recurso que necesitan (en este caso, el pasto).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v5",
+      "statement": "¿Qué nombre recibe esta relación donde ambos organismos obtienen un beneficio de su interacción?",
+      "context": "En el Chaco, se observa que ciertas aves se alimentan de los parásitos que crecen sobre la piel de los carpinchos. El ave obtiene comida y el carpincho queda limpio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comensalismo",
+          "is_correct": false,
+          "feedback": "No, en el comensalismo uno se beneficia y el otro es indiferente."
+        },
+        {
+          "letter": "B",
+          "text": "Mutualismo o Protocooperación",
+          "is_correct": true,
+          "feedback": "¡Exacto! Es una relación positiva para ambas partes."
+        },
+        {
+          "letter": "C",
+          "text": "Competencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la competencia ambos suelen salir perjudicados."
+        },
+        {
+          "letter": "D",
+          "text": "Amensalismo",
+          "is_correct": false,
+          "feedback": "No, eso es cuando uno se perjudica y al otro no le pasa nada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El mutualismo es una interacción biológica en la que ambos individuos obtienen provecho. En este caso, es una cooperación que mejora la calidad de vida de ambos animales sin que sea obligatorio para su supervivencia inmediata.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v6",
+      "statement": "¿Cómo se llama este proceso de cambios graduales en la composición de una comunidad tras una perturbación ambiental?",
+      "context": "Tras un incendio forestal en los bosques de Chubut, el ecosistema comienza a recuperarse lentamente: primero aparecen pastos, luego arbustos y finalmente árboles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evolución de especies",
+          "is_correct": false,
+          "feedback": "No, la evolución ocurre a lo largo de miles de años en los genes de las poblaciones."
+        },
+        {
+          "letter": "B",
+          "text": "Sucesión ecológica",
+          "is_correct": true,
+          "feedback": "¡Excelente! Es la serie de cambios naturales que permiten la restauración de un ecosistema."
+        },
+        {
+          "letter": "C",
+          "text": "Adaptación individual",
+          "is_correct": false,
+          "feedback": "Incorrecto. La adaptación es una característica que permite sobrevivir, no el proceso de cambio del ecosistema."
+        },
+        {
+          "letter": "D",
+          "text": "Extinción masiva",
+          "is_correct": false,
+          "feedback": "No, aquí el ecosistema se está recuperando, no desapareciendo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La sucesión ecológica es el proceso de colonización y cambio de un área por diferentes especies a lo largo del tiempo. Comienza con especies \"pioneras\" y avanza hacia una comunidad más estable o \"clímax\".\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la principal razón por la que una \"especie exótica invasora\" como el castor causa tanto daño en un ecosistema donde no evolucionó?",
+      "context": "Los científicos están preocupados por la introducción del castor en Tierra del Fuego, una especie que no es originaria de allí y destruye los bosques de lenga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es más inteligente que los animales locales.",
+          "is_correct": false,
+          "feedback": "No es una cuestión de inteligencia, sino de relaciones ecológicas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque no tiene depredadores naturales que controlen el tamaño de su población.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al no tener quien lo cace, se reproduce sin control y agota los recursos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el clima de Tierra del Fuego es demasiado cálido para él.",
+          "is_correct": false,
+          "feedback": "Falso. El castor se adaptó muy bien al clima frío de la zona."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los árboles locales (lengas) se alimentan de los castores.",
+          "is_correct": false,
+          "feedback": "No, los árboles son productores; no se alimentan de animales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las especies invasoras rompen el equilibrio del ecosistema. Al carecer de enemigos naturales (depredadores o enfermedades específicas de su lugar de origen), su población crece exponencialmente, desplazando a las especies nativas.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v8",
+      "statement": "¿Qué factor abiótico suele ser el más limitante para la vida en el ecosistema del Monte sanjuanino comparado con la laguna correntina?",
+      "context": "Compará un ecosistema terrestre (como el Monte en San Juan) con uno acuático (como una laguna en Corrientes).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad de oxígeno en el aire.",
+          "is_correct": false,
+          "feedback": "No, el oxígeno abunda en la atmósfera terrestre."
+        },
+        {
+          "letter": "B",
+          "text": "La presencia de luz solar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. San Juan es una zona con muchísima radiación solar."
+        },
+        {
+          "letter": "C",
+          "text": "La disponibilidad de agua líquida.",
+          "is_correct": true,
+          "feedback": "¡Exacto! El Monte es un ambiente árido donde la falta de agua condiciona qué seres pueden vivir allí."
+        },
+        {
+          "letter": "D",
+          "text": "La presión atmosférica.",
+          "is_correct": false,
+          "feedback": "No es el factor determinante principal para la diferencia entre estos dos biomas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En los ecosistemas áridos como el Monte, el agua es el recurso crítico. Los seres vivos allí (como los cactus o los cuises) presentan adaptaciones especiales para conservar la humedad, a diferencia de los organismos acuáticos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v9",
+      "statement": "Desde un punto de vista ecológico, ¿cuál es la consecuencia más grave de rellenar un humedal y eliminar su vegetación nativa?",
+      "context": "En el Delta del Paraná, se está discutiendo el impacto de la construcción de barrios privados sobre humedales. Algunos dicen que \"limpiar\" el terreno es bueno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los mosquitos no tendrán dónde poner sus huevos.",
+          "is_correct": false,
+          "feedback": "Aunque pueda parecer bueno, los mosquitos son parte de la red trófica local."
+        },
+        {
+          "letter": "B",
+          "text": "Que el valor de la tierra bajará porque habrá menos pasto.",
+          "is_correct": false,
+          "feedback": "Esta es una razón económica, no una consecuencia ecológica fundamental."
+        },
+        {
+          "letter": "C",
+          "text": "La pérdida de servicios ecosistémicos como la purificación del agua y el control de inundaciones.",
+          "is_correct": true,
+          "feedback": "¡Excelente! Los humedales funcionan como esponjas naturales y filtros biológicos."
+        },
+        {
+          "letter": "D",
+          "text": "Que los animales tendrán que aprender a vivir en casas de ladrillo.",
+          "is_correct": false,
+          "feedback": "No, la mayoría de la fauna silvestre simplemente morirá o será desplazada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los humedales son ecosistemas clave. Al destruirlos, perdemos su capacidad de absorber excedentes de agua durante las lluvias (evitando inundaciones) y su rol como filtros que limpian contaminantes del agua de forma natural.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el argumento más sólido para justificar que la protección de un ecosistema completo es mejor que intentar salvar solo a una especie famosa (como el yaguareté)?",
+      "context": "El gobierno argentino analiza crear un nuevo Parque Nacional en una zona de alta biodiversidad amenazada por la agricultura intensiva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque mantener un parque nacional genera más puestos de trabajo para guardaparques.",
+          "is_correct": false,
+          "feedback": "Es un beneficio social, pero no el argumento ecológico principal."
+        },
+        {
+          "letter": "B",
+          "text": "Porque al proteger el hábitat y sus interacciones se asegura la supervivencia de miles de especies y los procesos naturales.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El enfoque ecosistémico protege la red de la vida en su totalidad."
+        },
+        {
+          "letter": "C",
+          "text": "Porque es más barato poner una cerca grande que muchas cercas chiquitas para cada animal.",
+          "is_correct": false,
+          "feedback": "No es una justificación científica ni ética adecuada."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las plantas del parque nacional producen todo el oxígeno que necesita Argentina.",
+          "is_correct": false,
+          "feedback": "Es una exageración científica; el oxígeno se produce globalmente, aunque los bosques locales ayudan."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las especies no viven aisladas. El yaguareté necesita presas, las presas necesitan plantas, y las plantas necesitan polinizadores y un suelo sano. Proteger el ecosistema garantiza que todas estas relaciones vitales continúen funcionando.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación |\n| :--- | :--- |\n| Técnico | 30 |\n| Curricular | 40 |\n| Contexto | 20 |\n| Redacción | 10 |\n| **Total** | **100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "AR-CIE-6-2026-W02-ecosistemas-argentinos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "ar"
+    }
+  ]
+}

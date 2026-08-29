@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "es",
+    "pack_id": "es-week-15-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:39.432Z"
+  },
+  "questions": [
+    {
+      "id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la definición de una primitiva $F(x)$ de una función $f(x)$?",
+      "context": "Un estudiante de 1º de Bachillerato en Madrid comienza el bloque de análisis integral, aprendiendo el concepto de primitiva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es la función que resulta de elevar $f(x)$ al cuadrado.",
+          "is_correct": false,
+          "feedback": "Operación incorrecta."
+        },
+        {
+          "letter": "B",
+          "text": "Es una función cuya derivada es igual a $f(x)$, es decir, $F'(x) = f(x)$.",
+          "is_correct": true,
+          "feedback": "Correcto. La integración es el proceso inverso a la derivación."
+        },
+        {
+          "letter": "C",
+          "text": "Es la inversa de la función $f(x)$ respecto a la composición.",
+          "is_correct": false,
+          "feedback": "Esta es la función inversa $f^{-1}(x)$, no la primitiva."
+        },
+        {
+          "letter": "D",
+          "text": "Es el límite de la función $f(x)$ cuando $x$ tiende a infinito.",
+          "is_correct": false,
+          "feedback": "Definición incorrecta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Integrar es hallar una función conociendo su tasa de variación. Por ejemplo, si la derivada es $2x$, la primitiva es $x^2$ (más una constante).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la razón matemática por la cual se añade la constante de integración $C$ en una integral indefinida?",
+      "context": "En un instituto de Valencia, se explica por qué siempre añadimos una constante $C$ al final de las integrales indefinidas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la integral siempre debe dar un resultado positivo.",
+          "is_correct": false,
+          "feedback": "El resultado puede ser negativo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la integral es una función exponencial.",
+          "is_correct": false,
+          "feedback": "No necesariamente."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la derivada de cualquier constante es cero, y existen infinitas primitivas que difieren solo en una constante.",
+          "is_correct": true,
+          "feedback": "Correcto. Todas las funciones $F(x) + C$ tienen la misma derivada $f(x)$."
+        },
+        {
+          "letter": "D",
+          "text": "Es una convención sin significado real.",
+          "is_correct": false,
+          "feedback": "Tiene un significado fundamental en la solución de ecuaciones diferenciales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Al derivar, perdemos la información sobre el término constante. Al integrar, debemos representar todas las posibles funciones originales mediante la familia de curvas $F(x) + C$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la integral indefinida de la función $f(x) = x^n$, suponiendo $n \\neq -1$?",
+      "context": "Un estudiante aplica la regla de la potencia para integrales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$n \\cdot x^{n-1} + C$",
+          "is_correct": false,
+          "feedback": "Esta es la regla para la derivada."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{x^{n+1}}{n+1} + C$",
+          "is_correct": true,
+          "feedback": "Correcto. Al integrar, sumamos 1 al exponente y dividimos por el nuevo exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$x^{n+1} + C$",
+          "is_correct": false,
+          "feedback": "Falta dividir por el nuevo exponente."
+        },
+        {
+          "letter": "D",
+          "text": "$\\ln(x^n) + C$",
+          "is_correct": false,
+          "feedback": "Regla incorrecta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La regla de la potencia para integrales es el proceso inverso a la regla de la potencia para derivadas. Es fundamental para integrar polinomios.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la integral indefinida de la función $f(x) = \\frac{1}{x}$ para $x > 0$?",
+      "context": "Se analiza el caso especial de la integral de la función recíproca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{x^0}{0} + C$",
+          "is_correct": false,
+          "feedback": "La regla de la potencia falla para n = -1 porque el denominador se anula."
+        },
+        {
+          "letter": "B",
+          "text": "$\\ln(x) + C$",
+          "is_correct": true,
+          "feedback": "Correcto. La primitiva de $1/x$ es el logaritmo neperiano de x."
+        },
+        {
+          "letter": "C",
+          "text": "$e^x + C$",
+          "is_correct": false,
+          "feedback": "La primitiva de e^x es e^x."
+        },
+        {
+          "letter": "D",
+          "text": "$-1/x^2 + C$",
+          "is_correct": false,
+          "feedback": "Esta es la derivada de 1/x."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función $1/x$ es la única potencia de $x$ cuya integral no sigue la regla general de sumarle uno al exponente, resultando en una función logarítmica.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v5",
+      "statement": "Halla la integral indefinida: $\\int (3x^2 + 4x - 5) \\, dx$.",
+      "context": "En una clase de Matemáticas I en Bilbao, se practica la integración de polinomios sencillos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^3 + 2x^2 + C$",
+          "is_correct": false,
+          "feedback": "Falta el término correspondiente a la constante -5."
+        },
+        {
+          "letter": "B",
+          "text": "$x^3 + 2x^2 - 5x + C$",
+          "is_correct": true,
+          "feedback": "Correcto. Integrando término a término: $3(x^3/3) + 4(x^2/2) - 5x = x^3 + 2x^2 - 5x$."
+        },
+        {
+          "letter": "C",
+          "text": "$6x + 4 + C$",
+          "is_correct": false,
+          "feedback": "Se ha derivado en lugar de integrar."
+        },
+        {
+          "letter": "D",
+          "text": "$x^3 + 4x^2 - 5x + C$",
+          "is_correct": false,
+          "feedback": "Error al integrar el término 4x."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La integral de una suma es la suma de las integrales de cada término. Aplicamos la regla de la potencia a cada sumando de forma independiente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v6",
+      "statement": "Calcula la integral: $\\int \\sqrt{x} \\, dx$.",
+      "context": "Un estudiante en Zaragoza debe integrar una función con exponente fraccionario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{2\\sqrt{x}} + C$",
+          "is_correct": false,
+          "feedback": "Esta es la derivada de la raíz de x."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{2} x^{1/2} + C$",
+          "is_correct": false,
+          "feedback": "Error en la aplicación de la regla."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{2}{3} x^{3/2} + C$",
+          "is_correct": true,
+          "feedback": "Correcto. $x^{1/2} \\to \\frac{x^{1/2+1}}{1/2+1} = \\frac{x^{3/2}}{3/2} = \\frac{2}{3}x^{3/2}$."
+        },
+        {
+          "letter": "D",
+          "text": "$x^{3/2} + C$",
+          "is_correct": false,
+          "feedback": "Falta el coeficiente resultante de la división."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para integrar radicales, primero los escribimos como potencias de exponente fraccionario ($\\sqrt{x} = x^{1/2}$) y luego aplicamos la regla general de integración.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el valor de $\\int \\cos(x) \\, dx$?",
+      "context": "Se introducen las integrales inmediatas de funciones trigonométricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\text{sen}(x)$",
+          "is_correct": false,
+          "feedback": "Correcto, pero falta la constante de integración."
+        },
+        {
+          "letter": "B",
+          "text": "$\\text{sen}(x) + C$",
+          "is_correct": true,
+          "feedback": "Correcto. La derivada del seno es el coseno."
+        },
+        {
+          "letter": "C",
+          "text": "$-\\text{sen}(x) + C$",
+          "is_correct": false,
+          "feedback": "Esta es la derivada del coseno."
+        },
+        {
+          "letter": "D",
+          "text": "$\\cos(x) + C$",
+          "is_correct": false,
+          "feedback": "Solo la función exponencial de base e es su propia primitiva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Es fundamental no confundir los signos al integrar funciones trigonométricas. Recordamos que la derivada del seno es el coseno (positivo), por lo que la integral del coseno es el seno (positivo).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la primitiva de la función $f(x) = 2^x$?",
+      "context": "Un estudiante analiza la integral de una función exponencial de base distinta de $e$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2^x \\cdot \\ln(2) + C$",
+          "is_correct": false,
+          "feedback": "Esta es la derivada de 2^x."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{2^x}{\\ln(2)} + C$",
+          "is_correct": true,
+          "feedback": "Correcto. Al integrar una exponencial, se divide por el logaritmo neperiano de la base."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{x^2}{2} + C$",
+          "is_correct": false,
+          "feedback": "Error al confundir función exponencial con función potencia."
+        },
+        {
+          "letter": "D",
+          "text": "$2^x + C$",
+          "is_correct": false,
+          "feedback": "Solo válido si la base fuera el número e."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para funciones exponenciales $a^x$, la regla de integración requiere compensar el factor $\\ln(a)$ que aparecería al derivar, por lo que dividimos por dicho valor.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.68,
+      "bundle_id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v9",
+      "statement": "Si la velocidad inicial es $v(0) = 10 \\text{ m/s}$, halla la función de velocidad $v(t)$ integrando la aceleración.",
+      "context": "Un ingeniero en Sevilla calcula la velocidad a partir de la aceleración constante $a = 9,8 \\text{ m/s}^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$v(t) = 9,8t$",
+          "is_correct": false,
+          "feedback": "Falta la constante de integración (velocidad inicial)."
+        },
+        {
+          "letter": "B",
+          "text": "$v(t) = 9,8t + 10$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int 9,8 \\, dt = 9,8t + C$. Como $v(0)=10$, entonces $C=10$."
+        },
+        {
+          "letter": "C",
+          "text": "$v(t) = 4,9t^2 + 10$",
+          "is_correct": false,
+          "feedback": "Esta sería la función de posición si v era la aceleración."
+        },
+        {
+          "letter": "D",
+          "text": "$v(t) = 10t + 9,8$",
+          "is_correct": false,
+          "feedback": "Error en la asignación de los valores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los problemas de condiciones iniciales permiten determinar el valor exacto de la constante $C$ mediante un dato conocido del problema físico o geométrico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la ecuación de la curva que pasa por el punto $(1, 5)$?",
+      "context": "Un estudiante en Barcelona halla la familia de curvas cuyas tangentes tienen pendiente $2x + 1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = x^2 + x + C$",
+          "is_correct": false,
+          "feedback": "Esta es la familia general, falta hallar C."
+        },
+        {
+          "letter": "B",
+          "text": "$y = x^2 + x + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int (2x+1)dx = x^2+x+C$. En $(1,5): 1^2+1+C=5 \\Rightarrow 2+C=5 \\Rightarrow C=3$."
+        },
+        {
+          "letter": "C",
+          "text": "$y = 2x^2 + x + 2$",
+          "is_correct": false,
+          "feedback": "Error al integrar el primer término."
+        },
+        {
+          "letter": "D",
+          "text": "$y = x^2 + x + 5$",
+          "is_correct": false,
+          "feedback": "Error al calcular el valor de C."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Integrar la función de pendiente nos devuelve la función original de la curva. El punto por el que pasa nos sirve para fijar la constante de integración.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el resultado de $\\int \\frac{2x}{x^2 + 1} \\, dx$?",
+      "context": "Se introducen las integrales de tipo logarítmico compuestas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{x^2+1} + C$",
+          "is_correct": false,
+          "feedback": "Esta es una forma similar a la derivada del arco tangente, pero el numerador es distinto."
+        },
+        {
+          "letter": "B",
+          "text": "$\\ln(x^2 + 1) + C$",
+          "is_correct": true,
+          "feedback": "Correcto. Es del tipo $\\int \\frac{u'}{u} = \\ln|u| + C$. El numerador es exactamente la derivada del denominador."
+        },
+        {
+          "letter": "C",
+          "text": "$\\arctan(x) + C$",
+          "is_correct": false,
+          "feedback": "Esto sería si el numerador fuera 1, no 2x."
+        },
+        {
+          "letter": "D",
+          "text": "$2 \\ln(x) + C$",
+          "is_correct": false,
+          "feedback": "El argumento del logaritmo debe ser el denominador completo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una de las integrales inmediatas más comunes en EBAU es la del tipo logarítmico, donde el numerador es (o puede convertirse en) la derivada del denominador.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v12",
+      "statement": "Calcula $\\int \\text{sen}(3x) \\, dx$.",
+      "context": "Un estudiante analiza la integral de una función trigonométrica compuesta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3 \\cos(3x) + C$",
+          "is_correct": false,
+          "feedback": "Esta es la derivada de la función interna por la externa."
+        },
+        {
+          "letter": "B",
+          "text": "$-\\frac{1}{3} \\cos(3x) + C$",
+          "is_correct": true,
+          "feedback": "Correcto. Al integrar una función compuesta lineal, se divide por el coeficiente de la x."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{3} \\cos(3x) + C$",
+          "is_correct": false,
+          "feedback": "Error de signo (la integral del seno es menos coseno)."
+        },
+        {
+          "letter": "D",
+          "text": "$-\\cos(3x) + C$",
+          "is_correct": false,
+          "feedback": "Falta compensar la derivada interna (el 3)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al integrar $f(ax+b)$, el resultado es $\\frac{1}{a} F(ax+b)$. Es una aplicación directa de la regla de la cadena en sentido inverso.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v13",
+      "statement": "Halla el valor de $\\int \\frac{1}{x^2 + 9} \\, dx$.",
+      "context": "Un matemático en Asturias estudia la integral que conduce a la función arco tangente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\arctan(x/9) + C$",
+          "is_correct": false,
+          "feedback": "Error al aplicar la constante de la fórmula."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{3} \\arctan(x/3) + C$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la fórmula $\\int \\frac{1}{x^2+a^2} = \\frac{1}{a} \\arctan(x/a)$. Aquí $a=3$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\ln(x^2 + 9) + C$",
+          "is_correct": false,
+          "feedback": "Falta la x en el numerador para que sea logarítmica."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{9} \\arctan(x/9) + C$",
+          "is_correct": false,
+          "feedback": "Error al identificar el valor de a (es la raíz de 9)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La integral del tipo arco tangente es muy frecuente. Es crucial identificar el valor de $a^2$ en el denominador para aplicar correctamente los coeficientes $1/a$ tanto fuera como dentro de la función.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v14",
+      "statement": "Resuelve $\\int e^{5x} \\, dx$.",
+      "context": "Un físico en Valencia integra una función exponencial compuesta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5e^{5x} + C$",
+          "is_correct": false,
+          "feedback": "Esta es la derivada de la función."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{5} e^{5x} + C$",
+          "is_correct": true,
+          "feedback": "Correcto. Al integrar $e^{ux}$, dividimos por la derivada del exponente si esta es constante."
+        },
+        {
+          "letter": "C",
+          "text": "$e^{5x} + C$",
+          "is_correct": false,
+          "feedback": "Falta el factor de corrección."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{e^{6x}}{6} + C$",
+          "is_correct": false,
+          "feedback": "Confusión con la regla de la potencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La integración de la función exponencial con exponente lineal es una de las operaciones más básicas y repetitivas en el cálculo de primitivas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.53,
+      "bundle_id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v15",
+      "statement": "¿Qué constante falta en el numerador para que $\\int \\frac{1}{2x + 7} \\, dx$ sea una integral logarítmica inmediata?",
+      "context": "Se plantea una integral que requiere un ajuste constante para ser inmediata.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Esta es la constante del denominador, no su derivada."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. La derivada de $2x+7$ es 2. Podemos multiplicar y dividir por 2 para completar la integral."
+        },
+        {
+          "letter": "C",
+          "text": "1/2",
+          "is_correct": false,
+          "feedback": "Esta es la constante que quedará fuera de la integral tras el ajuste."
+        },
+        {
+          "letter": "D",
+          "text": "$x$",
+          "is_correct": false,
+          "feedback": "No se pueden introducir variables fuera de la integral para ajustar el numerador."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ajuste de constantes es una técnica vital: \"lo que falta multiplicando dentro, sale dividiendo fuera\". Esto permite transformar muchas integrales en formas estándar.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál de las siguientes afirmaciones sobre la integración es FALSA?",
+      "context": "Un estudiante estudia la propiedad de linealidad de la integral indefinida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La integral de una suma de funciones es la suma de sus integrales.",
+          "is_correct": false,
+          "feedback": "Propiedad verdadera de linealidad."
+        },
+        {
+          "letter": "B",
+          "text": "La integral de un producto de funciones es el producto de sus integrales.",
+          "is_correct": true,
+          "feedback": "Correcto, esta es la afirmación FALSA. El producto requiere técnicas como la integración por partes."
+        },
+        {
+          "letter": "C",
+          "text": "Las constantes multiplicativas pueden salir fuera del símbolo de la integral.",
+          "is_correct": false,
+          "feedback": "Propiedad verdadera de linealidad."
+        },
+        {
+          "letter": "D",
+          "text": "Una función puede tener infinitas primitivas distintas.",
+          "is_correct": false,
+          "feedback": "Verdadero, debido a la constante C."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Es un error común pensar que las reglas de la integral son iguales a las de los límites. La integración de productos y cocientes es significativamente más compleja que la de sumas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.48,
+      "bundle_id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es el primer paso recomendado para resolver la integral $\\int \\frac{x^2 + 1}{x - 1} \\, dx$?",
+      "context": "Un ingeniero en Málaga necesita integrar una función racional donde el grado del numerador es mayor que el del denominador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aplicar integración por partes.",
+          "is_correct": false,
+          "feedback": "No es el método más eficiente para funciones racionales simples."
+        },
+        {
+          "letter": "B",
+          "text": "Realizar la división polinómica del numerador entre el denominador.",
+          "is_correct": true,
+          "feedback": "Correcto. Al dividir, obtenemos un polinomio más una fracción propia fácil de integrar."
+        },
+        {
+          "letter": "C",
+          "text": "Usar un cambio de variable $t = e^x$.",
+          "is_correct": false,
+          "feedback": "No simplifica la estructura racional."
+        },
+        {
+          "letter": "D",
+          "text": "Factorizar el denominador.",
+          "is_correct": false,
+          "feedback": "El denominador ya es irreducible (grado 1)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando el grado de $P(x) \\geq$ grado de $Q(x)$, la división permite escribir la función como $C(x) + R(x)/Q(x)$, donde $C(x)$ es un polinomio cuya integral es inmediata.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v18",
+      "statement": "¿Cómo se resuelve la integral de la tangente escribiéndola como cociente de seno y coseno?",
+      "context": "Un estudiante de 2º de Bachillerato se enfrenta a la integral $\\int \\text{tg}(x) \\, dx$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es de tipo arco tangente, resultado $\\arctan(x) + C$.",
+          "is_correct": false,
+          "feedback": "La tangente no integra como arco tangente."
+        },
+        {
+          "letter": "B",
+          "text": "Es de tipo logarítmico, resultado $-\\ln|\\cos(x)| + C$.",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int \\frac{\\text{sen}(x)}{\\cos(x)} dx$. La derivada del denominador es $-\\text{sen}(x)$, por lo que ajustamos el signo."
+        },
+        {
+          "letter": "C",
+          "text": "Es inmediata, resultado $\\sec^2(x) + C$.",
+          "is_correct": false,
+          "feedback": "Esta es la derivada de la tangente."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene primitiva expresable mediante funciones elementales.",
+          "is_correct": false,
+          "feedback": "Sí la tiene y es logarítmica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Muchas integrales trigonométricas se resuelven transformándolas en sus componentes básicas (seno y coseno) para identificar estructuras de derivación compuesta.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v19",
+      "statement": "En la integral $\\int x^2 \\sqrt{x^3 + 1} \\, dx$, ¿cuál es el cambio de variable más adecuado?",
+      "context": "Se utiliza el método de sustitución o cambio de variable para simplificar una integral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$t = x^2$",
+          "is_correct": false,
+          "feedback": "No elimina la raíz ni simplifica el diferencial."
+        },
+        {
+          "letter": "B",
+          "text": "$t = x^3 + 1$",
+          "is_correct": true,
+          "feedback": "Correcto. Entonces $dt = 3x^2 dx$, lo que permite sustituir el término $x^2 dx$ de la integral original."
+        },
+        {
+          "letter": "C",
+          "text": "$t = \\sqrt{x}$",
+          "is_correct": false,
+          "feedback": "Complica la expresión innecesariamente."
+        },
+        {
+          "letter": "D",
+          "text": "$t = x + 1$",
+          "is_correct": false,
+          "feedback": "No simplifica el término de mayor grado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El éxito del cambio de variable reside en elegir una parte de la función cuya derivada también esté presente en la integral (salvo constantes), facilitando la sustitución completa.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.38,
+      "bundle_id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle-v20",
+      "statement": "Si interpretamos la derivada como la pendiente, ¿qué representa geométricamente la integral indefinida de una función?",
+      "context": "Un estudiante reflexiona sobre el significado geométrico de la integral indefinida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El área bajo la curva en un intervalo dado.",
+          "is_correct": false,
+          "feedback": "Esto es la integral definida, no la indefinida."
+        },
+        {
+          "letter": "B",
+          "text": "Una familia de curvas paralelas (desplazadas verticalmente) que tienen la misma pendiente en cada valor de $x$.",
+          "is_correct": true,
+          "feedback": "Correcto. La constante C representa el desplazamiento vertical de la curva original."
+        },
+        {
+          "letter": "C",
+          "text": "La recta tangente a la curva en el origen.",
+          "is_correct": false,
+          "feedback": "Esto se halla con la derivada."
+        },
+        {
+          "letter": "D",
+          "text": "La curvatura de la función en un punto.",
+          "is_correct": false,
+          "feedback": "Relacionado con la derivada segunda."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La integral indefinida no nos da un número, sino un conjunto de funciones. Gráficamente, son infinitas copias de la misma forma de curva situadas a diferentes alturas en el plano.\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "ES-MAT-11-2026-W15-integrales-basicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    }
+  ]
+}

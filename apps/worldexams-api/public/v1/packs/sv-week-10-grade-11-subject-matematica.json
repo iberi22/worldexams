@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "sv",
+    "pack_id": "sv-week-10-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:41:05.510Z"
+  },
+  "questions": [
+    {
+      "id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v1",
+      "statement": "Resuelve la inecuación lineal básica: $2x - 5 < 7$.",
+      "context": "Un analista de control de calidad de alimentos en San Salvador verifica temperaturas críticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\le 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "$x < 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "C",
+          "text": "$x > 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "D",
+          "text": "$x < 6$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Inecuaciones.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v2",
+      "statement": "Resuelve la inecuación lineal con cambio de sentido: $-3x + 4 \\le -2$.",
+      "context": "Un transportista de carga pesada en el Puerto de Acajutla evalúa límites de peso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\ge -2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "$x \\ge 2$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "C",
+          "text": "$x < 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\le 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Inecuaciones.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v3",
+      "statement": "Resuelve la inecuación lineal doble: $2 < 3x - 1 \\le 11$.",
+      "context": "Un estudiante del Instituto Nacional de San Miguel estudia el rango de rendimiento de un motor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(1, 4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "$[1, 4]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "$[1, 4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "D",
+          "text": "$(1, 4]$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Inecuaciones.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v4",
+      "statement": "Resuelve la inecuación de valor absoluto: $|x - 4| \\le 3$.",
+      "context": "Se evalúa la precisión en la velocidad de transferencia de un enlace de internet en Antiguo Cuscatlán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(1, 7)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$[1, 5]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "$[1, 7]$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "D",
+          "text": "$[-1, 7]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Inecuaciones.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v5",
+      "statement": "Resuelve la inecuación lineal: $5x - 3 > 3x + 7$.",
+      "context": "Se analiza el umbral de vibración para una estructura antisísmica en San Salvador, punto de control 5.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\ge 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "$x < 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "C",
+          "text": "$x > 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "D",
+          "text": "$x > 5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Inecuaciones.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v6",
+      "statement": "Resuelve la inecuación lineal: $6x - 3 > 4x + 7$.",
+      "context": "Se analiza el umbral de vibración para una estructura antisísmica en San Salvador, punto de control 6.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x > 5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "B",
+          "text": "$x < 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "C",
+          "text": "$x \\ge 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "$x > 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Inecuaciones.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.71,
+      "bundle_id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v7",
+      "statement": "Resuelve la inecuación lineal: $7x - 3 > 5x + 7$.",
+      "context": "Se analiza el umbral de vibración para una estructura antisísmica en San Salvador, punto de control 7.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\ge 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "$x > 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "$x > 5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "D",
+          "text": "$x < 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Inecuaciones.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.67,
+      "bundle_id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v8",
+      "statement": "Resuelve la inecuación lineal: $8x - 3 > 6x + 7$.",
+      "context": "Se analiza el umbral de vibración para una estructura antisísmica en San Salvador, punto de control 8.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\ge 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "$x > 5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "C",
+          "text": "$x < 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "D",
+          "text": "$x > 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Inecuaciones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.63,
+      "bundle_id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v9",
+      "statement": "Resuelve la inecuación lineal: $9x - 3 > 7x + 7$.",
+      "context": "Se analiza el umbral de vibración para una estructura antisísmica en San Salvador, punto de control 9.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\ge 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "$x > 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "$x < 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "D",
+          "text": "$x > 5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Inecuaciones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.59,
+      "bundle_id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v10",
+      "statement": "Resuelve la inecuación lineal: $10x - 3 > 8x + 7$.",
+      "context": "Se analiza el umbral de vibración para una estructura antisísmica en San Salvador, punto de control 10.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x > 5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "B",
+          "text": "$x \\ge 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "$x < 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "D",
+          "text": "$x > 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Inecuaciones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v11",
+      "statement": "Resuelve la inecuación lineal: $11x - 3 > 9x + 7$.",
+      "context": "Se analiza el umbral de vibración para una estructura antisísmica en San Salvador, punto de control 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x < 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$x \\ge 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "$x > 5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "D",
+          "text": "$x > 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Inecuaciones.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.51,
+      "bundle_id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v12",
+      "statement": "Resuelve la inecuación lineal: $12x - 3 > 10x + 7$.",
+      "context": "Se analiza el umbral de vibración para una estructura antisísmica en San Salvador, punto de control 12.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\ge 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "$x > 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "$x < 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "D",
+          "text": "$x > 5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Inecuaciones.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.47,
+      "bundle_id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v13",
+      "statement": "Resuelve la inecuación lineal: $13x - 3 > 11x + 7$.",
+      "context": "Se analiza el umbral de vibración para una estructura antisísmica en San Salvador, punto de control 13.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\ge 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "$x > 5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "C",
+          "text": "$x < 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "D",
+          "text": "$x > 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Inecuaciones.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v14",
+      "statement": "Resuelve la inecuación lineal: $14x - 3 > 12x + 7$.",
+      "context": "Se analiza el umbral de vibración para una estructura antisísmica en San Salvador, punto de control 14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x < 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$x > 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "$x \\ge 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "$x > 5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Inecuaciones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.39,
+      "bundle_id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v15",
+      "statement": "Resuelve la inecuación lineal: $15x - 3 > 13x + 7$.",
+      "context": "Se analiza el umbral de vibración para una estructura antisísmica en San Salvador, punto de control 15.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x < 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$x > 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "$x > 5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\ge 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Inecuaciones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v16",
+      "statement": "Resuelve la inecuación lineal: $16x - 3 > 14x + 7$.",
+      "context": "Se analiza el umbral de vibración para una estructura antisísmica en San Salvador, punto de control 16.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x < 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$x > 5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "C",
+          "text": "$x \\ge 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "$x > 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Inecuaciones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.31,
+      "bundle_id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v17",
+      "statement": "Resuelve la inecuación lineal: $17x - 3 > 15x + 7$.",
+      "context": "Se analiza el umbral de vibración para una estructura antisísmica en San Salvador, punto de control 17.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x > 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "$x \\ge 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "$x < 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "D",
+          "text": "$x > 5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Inecuaciones.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.27,
+      "bundle_id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v18",
+      "statement": "Resuelve la inecuación lineal: $18x - 3 > 16x + 7$.",
+      "context": "Se analiza el umbral de vibración para una estructura antisísmica en San Salvador, punto de control 18.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x < 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$x > 5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "C",
+          "text": "$x \\ge 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "$x > 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Inecuaciones.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.23,
+      "bundle_id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v19",
+      "statement": "Resuelve la inecuación lineal: $19x - 3 > 17x + 7$.",
+      "context": "Se analiza el umbral de vibración para una estructura antisísmica en San Salvador, punto de control 19.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x < 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$x > 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "$x \\ge 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "$x > 5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Inecuaciones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.19,
+      "bundle_id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v20",
+      "statement": "Resuelve la inecuación lineal: $20x - 3 > 18x + 7$.",
+      "context": "Se analiza el umbral de vibración para una estructura antisísmica en San Salvador, punto de control 20.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x > 5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "B",
+          "text": "$x > 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "$x \\ge 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "$x < 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Inecuaciones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.15,
+      "bundle_id": "SV-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    }
+  ]
+}

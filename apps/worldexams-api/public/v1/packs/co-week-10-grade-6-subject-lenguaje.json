@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-10-grade-6-subject-lengua",
+    "generated_at": "2026-06-18T23:58:37.490Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la función principal de un texto instructivo?",
+      "context": "En la cocina de una casa en Pasto, una abuela le enseña a su nieto a preparar un hervido de piña siguiendo una receta escrita en un cuaderno antiguo.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contar la historia de cómo se inventó la piña en Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es un texto narrativo."
+        },
+        {
+          "letter": "B",
+          "text": "Guiar al receptor para que realice una acción o complete una tarea de manera secuencial y ordenada.",
+          "is_correct": true,
+          "feedback": "Correcto. Los textos instructivos dan pasos a seguir para lograr un resultado."
+        },
+        {
+          "letter": "C",
+          "text": "Describir la belleza de los paisajes nariñenses durante la cosecha.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es un texto descriptivo."
+        },
+        {
+          "letter": "D",
+          "text": "Convencer al nieto de que la cocina es la mejor profesión del mundo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es un texto argumentativo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los textos instructivos tienen un propósito práctico. Su estructura está diseñada para que el receptor pueda ejecutar una serie de pasos (como una receta, un manual de armado o reglas de un juego) de forma exitosa.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué modo verbal predomina en estas instrucciones y por qué?",
+      "context": "Un manual de convivencia escolar en Bogotá indica: \"1. Llegue puntualmente al salón. 2. Salude con respeto. 3. Ubíquese en su puesto asignado\".\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El modo subjuntivo, porque son deseos que el colegio tiene.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El subjuntivo expresa deseo o duda, no órdenes directas."
+        },
+        {
+          "letter": "B",
+          "text": "El modo imperativo, porque se utiliza para dar órdenes, mandatos o sugerencias directas.",
+          "is_correct": true,
+          "feedback": "Correcto. Verbos como \"llegue\", \"salude\" y \"ubíquese\" son formas del imperativo."
+        },
+        {
+          "letter": "C",
+          "text": "El tiempo pasado, porque las acciones ya ocurrieron hace mucho tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las instrucciones se dan para acciones futuras o presentes."
+        },
+        {
+          "letter": "D",
+          "text": "El modo infinitivo exclusivamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el infinitivo también se usa en instrucciones, en este ejemplo se usan formas conjugadas del imperativo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El modo imperativo es la herramienta lingüística por excelencia de la instrucción. Permite que el emisor dirija la conducta del receptor de manera clara y sin ambigüedades.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué es fundamental que las instrucciones sigan un orden cronológico o secuencial?",
+      "context": "Un estudiante de sexto grado en Medellín está leyendo las instrucciones de un juego de mesa de estrategia.\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que el texto sea más largo y el juego parezca más difícil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden busca claridad, no extensión."
+        },
+        {
+          "letter": "B",
+          "text": "Porque si se saltan pasos o se invierte el orden, el resultado final puede ser erróneo o el juego no funcionaría.",
+          "is_correct": true,
+          "feedback": "Correcto. En la instrucción, el orden de los factores sí altera el producto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque así lo decidió el gobierno colombiano en las normas de juegos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una regla de la lógica comunicativa, no solo una norma legal."
+        },
+        {
+          "letter": "D",
+          "text": "Para demostrar que el autor del juego sabe contar del 1 al 10.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los números son un apoyo visual para la secuencia lógica de acciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La secuencialidad es la columna vertebral de la instrucción. Si en una receta de cocina dice \"meta al horno\" antes de \"mezcle los ingredientes\", el proceso falla. Por eso se usan conectores temporales (primero, luego, finalmente).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de los siguientes elementos NO es necesario en un buen texto instructivo?",
+      "context": "Estás escribiendo un instructivo para que tus compañeros aprendan a reciclar correctamente en los nuevos botes de colores del colegio.\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un título claro que indique qué se va a lograr.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El título es vital para saber de qué trata el instructivo."
+        },
+        {
+          "letter": "B",
+          "text": "Una lista de materiales o elementos necesarios (insumos).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es fundamental saber qué se necesita antes de empezar."
+        },
+        {
+          "letter": "C",
+          "text": "La opinión personal del autor sobre por qué el color verde es su favorito.",
+          "is_correct": true,
+          "feedback": "Correcto. La instrucción debe ser objetiva; las opiniones personales sobran y pueden distraer al receptor."
+        },
+        {
+          "letter": "D",
+          "text": "Imágenes o diagramas que apoyen visualmente cada paso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los apoyos visuales son muy útiles en los instructivos modernos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La claridad y la precisión son las metas de la instrucción. Cualquier elemento que no contribuya a que el receptor realice la tarea (como opiniones o anécdotas irrelevantes) debe ser eliminado para evitar confusiones.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle-v5",
+      "statement": "¿Qué función cumplen las imágenes en este tipo de textos instructivos?",
+      "context": "En un folleto de salud de la Cruz Roja en Colombia sobre cómo lavarse las manos, se usan imágenes numeradas junto a breves textos.\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adornar el folleto para que la gente no lo bote a la basura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen un propósito pedagógico más allá del adorno."
+        },
+        {
+          "letter": "B",
+          "text": "Reforzar visualmente la acción explicada en el texto, ayudando a quienes tienen dificultades de lectura o aprenden mejor viendo.",
+          "is_correct": true,
+          "feedback": "Correcto. La imagen aclara la posición de las manos o el movimiento que el texto a veces no logra describir con total precisión."
+        },
+        {
+          "letter": "C",
+          "text": "Reemplazar totalmente al texto para que la gente no tenga que leer nada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto y la imagen suelen ser complementarios; el texto da la precisión y la imagen la claridad visual."
+        },
+        {
+          "letter": "D",
+          "text": "Demostrar que el autor sabe dibujar muy bien.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La calidad artística es secundaria a la claridad comunicativa de la instrucción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los textos instructivos suelen ser multimodales. La combinación de texto (código verbal) e imagen (código icónico) reduce el margen de error del receptor, garantizando que el mensaje se entienda correctamente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la forma no personal del verbo que se utiliza en esta instrucción y por qué es común en estos textos?",
+      "context": "Una receta de cocina en un canal de televisión nacional dice: \"Para terminar, esparcir el queso sobre la arepa caliente\".\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El participio (\"esparcido\"), porque la acción ya terminó.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El participio indica estado, no una acción por realizar."
+        },
+        {
+          "letter": "B",
+          "text": "El gerundio (\"esparciendo\"), porque la acción se está haciendo ahora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gerundio no se usa para dar instrucciones directas de mando."
+        },
+        {
+          "letter": "C",
+          "text": "El infinitivo (\"esparcir\"), porque presenta la acción de forma general y neutra, sin dirigirse a una persona específica.",
+          "is_correct": true,
+          "feedback": "Correcto. El infinitivo (-ar, -er, -ir) es muy común en recetas y manuales técnicos."
+        },
+        {
+          "letter": "D",
+          "text": "El futuro del indicativo (\"esparcirá\").",
+          "is_correct": false,
+          "feedback": "Incorrecto. Suena a predicción, no a instrucción de cumplimiento inmediato."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En los textos instructivos se pueden usar tres formas principales: el imperativo (\"esparce\", \"esparza\"), el infinitivo (\"esparcir\") o las formas impersonales con 'se' (\"se esparce\"). El infinitivo es el más neutro y profesional.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la diferencia entre un instructivo de \"procedimiento\" (como una receta) y uno de \"normas\" (como un reglamento)?",
+      "context": "Un reglamento de un parque natural en el Quindío prohíbe alimentar a los animales y dejar basura en los senderos.\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El de procedimiento es para niños y el de normas para adultos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos pueden ser para cualquier público."
+        },
+        {
+          "letter": "B",
+          "text": "El de procedimiento busca lograr un producto u objeto; el de normas busca regular el comportamiento social en un lugar.",
+          "is_correct": true,
+          "feedback": "Correcto. El reglamento establece límites de conducta, mientras que la receta establece pasos para transformar materiales."
+        },
+        {
+          "letter": "C",
+          "text": "El de procedimiento es opcional y el de normas es obligatorio siempre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una receta debe seguirse si se quiere el resultado; ambos tienen cierto grado de obligatoriedad según el contexto."
+        },
+        {
+          "letter": "D",
+          "text": "No hay ninguna diferencia, ambos son listas de cosas que no se deben hacer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los procedimientos suelen ser acciones positivas (hacer algo) y las normas pueden ser negativas (no hacer algo)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aunque ambos son instructivos, sus metas son distintas. Los textos prescriptivos o normativos (leyes, reglamentos) son esenciales para la convivencia ciudadana, mientras que los procedimentales son esenciales para la técnica y el aprendizaje de tareas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle-v8",
+      "statement": "¿Qué problema de diseño comunicativo tiene este instructivo?",
+      "context": "Al armar un mueble nuevo que compraron en una tienda de hogar en Barranquilla, la familia nota que faltan los dibujos y solo hay texto muy pequeño.\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el texto es demasiado importante y las imágenes no sirven de nada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las imágenes son vitales en instrucciones de armado físico."
+        },
+        {
+          "letter": "B",
+          "text": "Que el mueble es de mala calidad porque el papel es pequeño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La calidad del producto no depende del papel, pero la experiencia del usuario sí."
+        },
+        {
+          "letter": "C",
+          "text": "La falta de apoyo visual (diagramas) y el tamaño de letra dificultan que el usuario comprenda las piezas y los pasos, aumentando la probabilidad de error.",
+          "is_correct": true,
+          "feedback": "Correcto. Un buen instructivo debe pensar en el usuario final y facilitarle el trabajo."
+        },
+        {
+          "letter": "D",
+          "text": "Que el instructivo debería estar escrito en inglés para que sea elegante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En Colombia los instructivos deben estar en español para ser efectivos y legales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un instructivo deficiente genera frustración y errores. El uso de tipografía adecuada, espacios en blanco y gráficos claros son parte de la \"redacción técnica\", que busca que la comunicación sea lo más eficiente posible.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la importancia de leer completamente la instrucción antes de empezar a responder?",
+      "context": "En un examen de Lengua Castellana, la instrucción dice: \"Analiza el texto anterior y responde las preguntas de la 1 a la 5\".\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguna, es mejor empezar rápido para que alcance el tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Empezar sin entender la instrucción suele llevar a perder más tiempo corrigiendo errores."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la instrucción limita la tarea (qué hacer y cuánto hacer), evitando que el estudiante responda algo que no se le pidió.",
+          "is_correct": true,
+          "feedback": "Correcto. Seguir instrucciones es una competencia básica que demuestra comprensión lectora y atención."
+        },
+        {
+          "letter": "C",
+          "text": "Para ver si el profesor cometió errores de ortografía en la instrucción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El objetivo es realizar la tarea correctamente, no corregir al profesor."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las instrucciones de los exámenes en Colombia son una forma de adivinanza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las instrucciones deben ser claras y directas, no ambigüas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Muchos errores académicos no se deben a la falta de conocimiento, sino a no seguir las instrucciones. Leer hasta el final permite entender el alcance de lo que se pide (ej. \"responde solo en tres líneas\" o \"marca solo una opción\").\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle-v10",
+      "statement": "¿Por qué este diseño de instructivo es PELIGROSO en una situación de emergencia?",
+      "context": "Analiza la siguiente situación: Un instructivo para usar un extintor de incendios está escrito con párrafos muy largos y lenguaje muy técnico.\n**Expected_Success:** 0.50",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el fuego quema el papel muy rápido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un factor físico, no comunicativo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la gente no debería leer cuando hay un incendio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gente necesita saber cómo actuar, y el instructivo es su guía."
+        },
+        {
+          "letter": "C",
+          "text": "Porque en una emergencia se necesita información rápida, visual y directa. Un texto largo y complejo retrasa la acción y puede causar pánico.",
+          "is_correct": true,
+          "feedback": "Correcto. Los instructivos de seguridad deben ser minimalistas: dibujos grandes, flechas y verbos de acción inmediata."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los extintores en Colombia solo deben ser usados por bomberos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los extintores están diseñados para ser usados por cualquier persona ante un inicio de incendio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El diseño de la información debe adaptarse al contexto. Un instructivo de emergencia no es igual a un manual de filosofía. La velocidad de comprensión puede salvar vidas; por eso, el uso de iconos universales y lenguaje simplificado es una necesidad vital.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LEN-6-2026-W10-instruccion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

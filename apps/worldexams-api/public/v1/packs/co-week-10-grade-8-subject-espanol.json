@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-10-grade-8-subject-lengua",
+    "generated_at": "2026-06-18T23:58:37.584Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se denomina al narrador que participa en la historia como personaje principal y cuenta los hechos desde su propio punto de vista utilizando la primera persona?",
+      "context": "Al leer textos antiguos, es fundamental identificar el tipo de narrador para entender desde qué perspectiva se cuenta la historia.\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrador omnisciente",
+          "is_correct": false,
+          "feedback": "El narrador omnisciente lo sabe todo pero no participa en la acción y suele usar la tercera persona."
+        },
+        {
+          "letter": "B",
+          "text": "Narrador protagonista",
+          "is_correct": true,
+          "feedback": "Correcto. El protagonista narra sus propias vivencias en primera persona."
+        },
+        {
+          "letter": "C",
+          "text": "Narrador testigo",
+          "is_correct": false,
+          "feedback": "El testigo participa o presencia la historia pero cuenta la vida de otro, no la suya como foco principal."
+        },
+        {
+          "letter": "D",
+          "text": "Narrador en segunda persona",
+          "is_correct": false,
+          "feedback": "Este narrador se dirige a un \"tú\", creando un efecto de diálogo o apelación, pero no es el más común en relatos de vivencias personales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso del narrador protagonista es común en las crónicas personales y diarios de viaje, permitiendo una conexión directa con las emociones y percepciones del autor.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la función principal de un texto que describe detalladamente las características geográficas y climáticas de una región recién descubierta?",
+      "context": "Los textos informativos y expositivos buscan transmitir datos objetivos sobre un tema específico sin incluir opiniones personales del autor.\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Función apelativa",
+          "is_correct": false,
+          "feedback": "La función apelativa busca convencer o dar órdenes al lector."
+        },
+        {
+          "letter": "B",
+          "text": "Función referencial o informativa",
+          "is_correct": true,
+          "feedback": "Correcto. Busca informar sobre la realidad de manera objetiva."
+        },
+        {
+          "letter": "C",
+          "text": "Función emotiva",
+          "is_correct": false,
+          "feedback": "La función emotiva se centra en los sentimientos del emisor."
+        },
+        {
+          "letter": "D",
+          "text": "Función poética",
+          "is_correct": false,
+          "feedback": "La función poética busca crear belleza estética a través del lenguaje."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función referencial es la base de los textos científicos, históricos y técnicos, donde la precisión de la información es más importante que el estilo decorativo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v3",
+      "statement": "En el fragmento anterior, ¿cuál es el propósito comunicativo de los personajes mencionados (los dioses)?",
+      "context": "\"Entonces los dioses dijeron: 'Hágase así. Que se llene el vacío. Que esta agua se retire y deje espacio, que surja la tierra'.\" (Fragmento adaptado del Popol Vuh).\n**Expected_Success:** 0.82",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pedir perdón por sus errores pasados.",
+          "is_correct": false,
+          "feedback": "No hay mención a errores o arrepentimiento en el fragmento."
+        },
+        {
+          "letter": "B",
+          "text": "Describir un paisaje que ya existía.",
+          "is_correct": false,
+          "feedback": "El fragmento describe la acción de crear o hacer que algo surja."
+        },
+        {
+          "letter": "C",
+          "text": "Ordenar la creación de la tierra y la organización del espacio.",
+          "is_correct": true,
+          "feedback": "Correcto. Utilizan verbos de mandato para dar forma al universo."
+        },
+        {
+          "letter": "D",
+          "text": "Quejarse del frío y la oscuridad.",
+          "is_correct": false,
+          "feedback": "El texto se centra en la acción creativa, no en quejas sensoriales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los relatos de creación suelen utilizar un lenguaje performativo, donde la palabra de la divinidad tiene el poder de transformar la realidad instantáneamente.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v4",
+      "statement": "Al leer el fragmento de Colón, ¿qué actitud se infiere en el narrador frente a lo que está observando por primera vez?",
+      "context": "\"Vimos árboles muy verdes y aguas muchas y frutas de diversas maneras. La gente andaba toda desnuda como su madre los parió\". (Cristóbal Colón, Diario de a bordo).\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indiferencia total por la naturaleza.",
+          "is_correct": false,
+          "feedback": "La mención detallada de árboles, aguas y frutas indica interés."
+        },
+        {
+          "letter": "B",
+          "text": "Asombro y curiosidad ante lo desconocido y exótico.",
+          "is_correct": true,
+          "feedback": "Correcto. Colón resalta la diferencia con lo conocido en Europa."
+        },
+        {
+          "letter": "C",
+          "text": "Miedo extremo hacia los habitantes de la isla.",
+          "is_correct": false,
+          "feedback": "La descripción es descriptiva y comparativa, no muestra signos de terror en este fragmento."
+        },
+        {
+          "letter": "D",
+          "text": "Arrepentimiento por haber realizado el viaje.",
+          "is_correct": false,
+          "feedback": "El tono es de descubrimiento y registro de lo hallado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La literatura del descubrimiento se caracteriza por el \"asombro ante la alteridad\" (lo otro), donde el narrador intenta traducir una realidad nueva a su propio lenguaje.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v5",
+      "statement": "Si un autor colonial escribe que \"es obligación de la Corona proteger a los indígenas porque son seres humanos con alma\", ¿cuál es la tesis principal de su argumento?",
+      "context": "Los textos argumentativos presentan una tesis (idea principal) que el autor defiende mediante razones o argumentos sólidos.\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Corona española no tiene dinero para la conquista.",
+          "is_correct": false,
+          "feedback": "El argumento se centra en la condición humana, no en la economía."
+        },
+        {
+          "letter": "B",
+          "text": "Los indígenas deben aprender a leer y escribir español rápidamente.",
+          "is_correct": false,
+          "feedback": "No se menciona la educación en el argumento dado."
+        },
+        {
+          "letter": "C",
+          "text": "La defensa de la dignidad humana de los indígenas como base de su protección legal.",
+          "is_correct": true,
+          "feedback": "Correcto. El autor vincula la humanidad del indígena con el deber de protección."
+        },
+        {
+          "letter": "D",
+          "text": "El rey de España es el dueño de todas las almas del mundo.",
+          "is_correct": false,
+          "feedback": "La tesis se enfoca en el derecho del indígena, no en el poder totalitario del rey."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificar la tesis permite comprender la intención política o moral del autor, especialmente en textos históricos de debate social.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v6",
+      "statement": "¿Cómo influyó el contexto de la Inquisición en el hecho de que muchos textos indígenas fueran escritos de forma simbólica u oculta?",
+      "context": "En el análisis literario, el \"contexto de producción\" se refiere a las circunstancias sociales e históricas en las que se escribió una obra.\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los indígenas querían demostrar que eran más inteligentes que los españoles.",
+          "is_correct": false,
+          "feedback": "El uso del símbolo era una necesidad de supervivencia, no una competencia de inteligencia."
+        },
+        {
+          "letter": "B",
+          "text": "Fue una estrategia para preservar sus creencias prohibidas bajo una apariencia aceptable.",
+          "is_correct": true,
+          "feedback": "Correcto. El simbolismo evitaba la censura o el castigo por idolatría."
+        },
+        {
+          "letter": "C",
+          "text": "Los españoles obligaron a los indígenas a escribir en código para practicar el espionaje.",
+          "is_correct": false,
+          "feedback": "No fue una imposición española, sino una resistencia indígena."
+        },
+        {
+          "letter": "D",
+          "text": "En esa época no existía el papel y tenían que ahorrar espacio usando símbolos cortos.",
+          "is_correct": false,
+          "feedback": "El papel y los pergaminos existían; la elección fue por seguridad ideológica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis del contexto permite entender que la forma de un texto (claro o simbólico) no es casual, sino que responde a las presiones de su tiempo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v7",
+      "statement": "¿Qué recurso retórico utiliza el autor al descalificar las versiones de otros escritores para validar la suya propia?",
+      "context": "\"La historia que aquí contamos es verdadera, no como las fábulas que otros inventan para ganar fama\". (Fray Bartolomé de las Casas).\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Personificación de la historia.",
+          "is_correct": false,
+          "feedback": "No se le dan rasgos humanos a la historia en esta frase."
+        },
+        {
+          "letter": "B",
+          "text": "Metáfora sobre el valor del dinero.",
+          "is_correct": false,
+          "feedback": "No hay una comparación implícita con el dinero."
+        },
+        {
+          "letter": "C",
+          "text": "Argumento de autoridad basado en la veracidad frente a la ficción.",
+          "is_correct": true,
+          "feedback": "Correcto. El autor se presenta como el poseedor de la verdad para ganar credibilidad."
+        },
+        {
+          "letter": "D",
+          "text": "Hipérbole sobre el tamaño de los libros.",
+          "is_correct": false,
+          "feedback": "No hay una exageración de dimensiones físicas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En las crónicas de Indias era común que los autores pelearan por la \"verdad\" de sus relatos, ya que de eso dependía su prestigio ante el Rey y la posteridad.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v8",
+      "statement": "En un mito donde el Sol y la Luna son hermanos que pelean por el dominio del cielo, ¿qué elemento de la realidad se está intentando explicar de forma literaria?",
+      "context": "Muchos relatos míticos utilizan la \"personificación\" (dar rasgos humanos a objetos o animales) para explicar fenómenos naturales.\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La invención del calendario solar por los antiguos matemáticos.",
+          "is_correct": false,
+          "feedback": "Eso es un hecho histórico/técnico, no una explicación mítica de la alternancia día/noche."
+        },
+        {
+          "letter": "B",
+          "text": "La alternancia entre el día y la noche como un conflicto de fuerzas naturales.",
+          "is_correct": true,
+          "feedback": "Correcto. El mito humaniza los astros para dar sentido al ciclo diario."
+        },
+        {
+          "letter": "C",
+          "text": "El descubrimiento de que la Luna no tiene luz propia.",
+          "is_correct": false,
+          "feedback": "El mito suele dar luz y vida a ambos, no busca la precisión astronómica moderna."
+        },
+        {
+          "letter": "D",
+          "text": "La importancia de la fraternidad en las leyes de los pueblos indígenas.",
+          "is_correct": false,
+          "feedback": "Aunque puede haber una lección moral, el objetivo primario es explicar el cosmos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La personificación en los mitos ayuda a los pueblos a relacionarse con el universo de una manera íntima y comprensible a través de historias humanas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la ventaja de los códices mayas (que combinan dibujos con glifos) frente a un texto que solo contiene letras alfabéticas?",
+      "context": "Un texto multimodal es aquel que combina diferentes sistemas de signos, como palabras, imágenes o jeroglíficos, para transmitir un mensaje.\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los códices son más fáciles de leer para personas que no saben hablar.",
+          "is_correct": false,
+          "feedback": "Leer glifos requiere un conocimiento profundo del lenguaje y la cultura."
+        },
+        {
+          "letter": "B",
+          "text": "Los dibujos sirven solo de adorno y no tienen ningún significado real.",
+          "is_correct": false,
+          "feedback": "En los códices, la imagen es parte esencial de la información narrada."
+        },
+        {
+          "letter": "C",
+          "text": "Permiten una comunicación más rica que incluye símbolos visuales, colores y conceptos complejos simultáneamente.",
+          "is_correct": true,
+          "feedback": "Correcto. La multimodalidad amplía las capas de significado del mensaje."
+        },
+        {
+          "letter": "D",
+          "text": "Que se pueden imprimir más rápido en las imprentas modernas.",
+          "is_correct": false,
+          "feedback": "Los códices eran hechos a mano; la rapidez de impresión no es una ventaja de su formato original."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La lectura crítica de textos multimodales requiere entender cómo la imagen y la palabra se complementan para crear un mensaje completo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v10",
+      "statement": "Si un cronista español describe a los indígenas como \"niños que necesitan ser guiados\", ¿qué visión ideológica está imponiendo a través de su lenguaje?",
+      "context": "El análisis crítico de un texto implica cuestionar las intenciones ocultas del autor y la ideología que hay detrás de sus palabras.\n**Expected_Success:** 0.50",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una visión de igualdad total entre todas las razas del mundo.",
+          "is_correct": false,
+          "feedback": "La comparación con niños implica una jerarquía, no igualdad."
+        },
+        {
+          "letter": "B",
+          "text": "Un profundo respeto por la autonomía y sabiduría de los jefes indígenas.",
+          "is_correct": false,
+          "feedback": "Llamarlos \"niños\" despoja a los líderes de su autoridad adulta y política."
+        },
+        {
+          "letter": "C",
+          "text": "Una visión paternalista que justifica la dominación y el control sobre el otro.",
+          "is_correct": true,
+          "feedback": "Correcto. Al infantilizar al indígena, se justifica la necesidad de un \"tutor\" o dominador."
+        },
+        {
+          "letter": "D",
+          "text": "Una crítica científica sobre la baja estatura de los habitantes de América.",
+          "is_correct": false,
+          "feedback": "El término es metafórico/social, no una observación biológica sobre el crecimiento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El lenguaje no es neutro; el uso de metáforas como la infancia para referirse a pueblos enteros es una herramienta poderosa de justificación política y social.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v11",
+      "statement": "Cuando un poeta moderno escribe un poema sobre el \"descubrimiento de sí mismo\" usando las mismas metáforas de barcos y tormentas que usaba Colón, ¿qué tipo de relación está creando?",
+      "context": "La intertextualidad ocurre cuando un texto hace referencia a otro, ya sea de forma directa (cita) o indirecta (alusión).\n**Expected_Success:** 0.45",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una copia ilegal (plagio) que debe ser denunciada.",
+          "is_correct": false,
+          "feedback": "El uso de metáforas comunes para temas distintos es intertextualidad, no necesariamente plagio."
+        },
+        {
+          "letter": "B",
+          "text": "Un error de anacronismo por usar palabras viejas en temas nuevos.",
+          "is_correct": false,
+          "feedback": "La literatura a menudo reutiliza símbolos antiguos para darles nuevos significados."
+        },
+        {
+          "letter": "C",
+          "text": "Una relación intertextual que enriquece el poema moderno con el peso histórico del viaje original.",
+          "is_correct": true,
+          "feedback": "Correcto. Conecta la experiencia personal con el gran relato del descubrimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Una demostración de que el poeta moderno no tiene imaginación propia.",
+          "is_correct": false,
+          "feedback": "La intertextualidad es un recurso literario sofisticado, no una falta de creatividad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La intertextualidad permite que los textos \"hablen\" entre sí a través del tiempo, creando una red de significados compartidos por la cultura.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el valor literario de mezclar la historia oficial con relatos de la vida privada y anécdotas populares en una crónica?",
+      "context": "Los textos del periodo colonial colombiano, como \"El Carnero\" de Juan Rodríguez Freyle, mezclan hechos históricos con chismes y anécdotas de la época.\n**Expected_Success:** 0.40",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno, ya que la historia deja de ser verdadera si se cuentan chismes.",
+          "is_correct": false,
+          "feedback": "La mezcla aporta una visión más humana y completa de la sociedad de la época."
+        },
+        {
+          "letter": "B",
+          "text": "Engañar a los futuros historiadores para que no sepan qué pasó realmente.",
+          "is_correct": false,
+          "feedback": "El autor buscaba retratar su sociedad de forma vívida, no necesariamente engañar."
+        },
+        {
+          "letter": "C",
+          "text": "Ofrecer un retrato más realista y dinámico de la sociedad, mostrando sus conflictos morales y costumbres.",
+          "is_correct": true,
+          "feedback": "Correcto. Permite conocer la \"historia desde abajo\" y la mentalidad cotidiana."
+        },
+        {
+          "letter": "D",
+          "text": "Que el libro sea más barato de producir porque no necesita datos exactos.",
+          "is_correct": false,
+          "feedback": "El costo de producción no depende del tipo de contenido narrativo en este caso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La crónica es un género híbrido que se sitúa entre la historia y la literatura, permitiendo una exploración de la condición humana que el documento oficial a menudo ignora.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.4,
+      "bundle_id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

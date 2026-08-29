@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "py",
+    "pack_id": "py-week-8-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-05T19:40:28.861Z"
+  },
+  "questions": [
+    {
+      "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v1",
+      "statement": "¿Qué proceso nuclear sintetiza una molécula de ARN mensajero complementaria utilizando como molde una hebra de ADN?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Camila y su grupo investigan sobre Síntesis de proteínas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La transcripción",
+          "is_correct": true,
+          "feedback": "¡Correcto! La transcripción responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "El espliceosoma (o complejo de empalme)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El espliceosoma (o complejo de empalme) no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Mutación de sentido erróneo (missense)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mutación de sentido erróneo (missense) es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "El splicing (o empalme)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El splicing (o empalme) describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La transcripción constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v2",
+      "statement": "¿Qué enzima eucariota cataliza la transcripción de los genes que codifican para las proteínas celulares (pre-ARNm)?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Joaquín y su grupo investigan sobre Síntesis de proteínas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ARN polimerasa II",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ARN polimerasa II responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La caja TATA",
+          "is_correct": false,
+          "feedback": "Incorrecto. La caja TATA no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Polirribosoma (o polisoma)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Polirribosoma (o polisoma) es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "El proteasoma",
+          "is_correct": false,
+          "feedback": "Incorrecto. El proteasoma describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La ARN polimerasa II constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v3",
+      "statement": "¿Qué modificación química en el extremo 5' del pre-ARNm protege al transcrito de la degradación y facilita la unión del ribosoma?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Sebastián y su grupo investigan sobre Síntesis de proteínas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El capuchón 5' (o metilguanosina Cap)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El capuchón 5' (o metilguanosina Cap) responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Mutación de sentido erróneo (missense)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mutación de sentido erróneo (missense) no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Enlace peptídico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Enlace peptídico es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "El factor de transcripción",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor de transcripción describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de El capuchón 5' (o metilguanosina Cap) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.79,
+      "bundle_id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v4",
+      "statement": "¿Qué secuencia de nucleótidos añadida al extremo 3' estabiliza al ARN mensajero y regula su vida media en el citoplasma?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Valentina y su grupo investigan sobre Síntesis de proteínas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cola de poli-A (poliadenilación)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La cola de poli-A (poliadenilación) responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Es degenerado o redundante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es degenerado o redundante no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Mutación de sentido erróneo (missense)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mutación de sentido erróneo (missense) es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Es universal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es universal describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La cola de poli-A (poliadenilación) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v5",
+      "statement": "¿Qué proceso de procesamiento del ARN elimina selectivamente los intrones y empalma los exones para producir un ARNm maduro?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Ramón y su grupo investigan sobre Síntesis de proteínas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El splicing (o empalme)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El splicing (o empalme) responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Codón de terminación o STOP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Codón de terminación o STOP no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Enlace peptídico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Enlace peptídico es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La ARN polimerasa II",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ARN polimerasa II describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de El splicing (o empalme) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v6",
+      "statement": "¿Qué estructura macromolecular catalítica compuesta de ARN y proteínas realiza el proceso de splicing o empalme del pre-ARNm?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Mateo y su grupo investigan sobre Síntesis de proteínas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El espliceosoma (o complejo de empalme)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El espliceosoma (o complejo de empalme) responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "El ARN de transferencia (ARNt)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ARN de transferencia (ARNt) no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La transcripción",
+          "is_correct": false,
+          "feedback": "Incorrecto. La transcripción es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Sitio A (aminoacil)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sitio A (aminoacil) describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de El espliceosoma (o complejo de empalme) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v7",
+      "statement": "¿Qué molécula adaptadora porta un anticodón específico en un extremo y se acopla a un aminoácido determinado en el otro extremo?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Mateo y su grupo investigan sobre Síntesis de proteínas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ARN de transferencia (ARNt)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El ARN de transferencia (ARNt) responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Sitio A (aminoacil)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sitio A (aminoacil) no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "El splicing (o empalme)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El splicing (o empalme) es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Enlace peptídico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Enlace peptídico describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de El ARN de transferencia (ARNt) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v8",
+      "statement": "¿Qué enzima carga covalentemente cada aminoácido correspondiente a su respectivo ARN de transferencia consumiendo ATP?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Gladys y su grupo investigan sobre Síntesis de proteínas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La aminoacil-ARNt sintetasa",
+          "is_correct": true,
+          "feedback": "¡Correcto! La aminoacil-ARNt sintetasa responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "El factor de transcripción",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor de transcripción no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Es degenerado o redundante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es degenerado o redundante es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Mutación de sentido erróneo (missense)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mutación de sentido erróneo (missense) describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La aminoacil-ARNt sintetasa constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.64,
+      "bundle_id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v9",
+      "statement": "¿Cuál es el codón de inicio universal de la traducción proteica y qué aminoácido codifica en los ribosomas eucariotas?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Sebastián y su grupo investigan sobre Síntesis de proteínas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "AUG, codifica para Metionina",
+          "is_correct": true,
+          "feedback": "¡Correcto! AUG, codifica para Metionina responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La ARN polimerasa II",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ARN polimerasa II no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La aminoacil-ARNt sintetasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La aminoacil-ARNt sintetasa es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La cola de poli-A (poliadenilación)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cola de poli-A (poliadenilación) describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de AUG, codifica para Metionina constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.61,
+      "bundle_id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v10",
+      "statement": "¿Qué sitio del ribosoma (A, P o E) recibe al aminoacil-ARNt entrante portando el siguiente aminoácido a incorporar?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Camila y su grupo investigan sobre Síntesis de proteínas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sitio A (aminoacil)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sitio A (aminoacil) responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La transcripción",
+          "is_correct": false,
+          "feedback": "Incorrecto. La transcripción no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "El ARN de transferencia (ARNt)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ARN de transferencia (ARNt) es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Polirribosoma (o polisoma)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Polirribosoma (o polisoma) describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Sitio A (aminoacil) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.58,
+      "bundle_id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v11",
+      "statement": "¿Qué sitio del ribosoma alberga temporalmente al peptidil-ARNt que sostiene la cadena polipeptídica en crecimiento?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Joaquín y su grupo investigan sobre Síntesis de proteínas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sitio P (peptidil)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sitio P (peptidil) responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Codón de terminación o STOP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Codón de terminación o STOP no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "El capuchón 5' (o metilguanosina Cap)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El capuchón 5' (o metilguanosina Cap) es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "El ARN de transferencia (ARNt)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ARN de transferencia (ARNt) describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Sitio P (peptidil) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v12",
+      "statement": "¿Qué enlace químico une el grupo amino de un nuevo aminoácido al grupo carboxilo de la cadena polipeptídica preexistente?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Sofía y su grupo investigan sobre Síntesis de proteínas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace peptídico",
+          "is_correct": true,
+          "feedback": "¡Correcto! Enlace peptídico responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La transcripción",
+          "is_correct": false,
+          "feedback": "Incorrecto. La transcripción no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La cola de poli-A (poliadenilación)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cola de poli-A (poliadenilación) es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "El splicing (o empalme)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El splicing (o empalme) describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Enlace peptídico constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v13",
+      "statement": "¿Qué codón de parada del ARNm (UAA, UAG, UGA) no codifica para ningún aminoácido y recluta un factor de liberación?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Florencia y su grupo investigan sobre Síntesis de proteínas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Codón de terminación o STOP",
+          "is_correct": true,
+          "feedback": "¡Correcto! Codón de terminación o STOP responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Polirribosoma (o polisoma)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Polirribosoma (o polisoma) no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "El ARN de transferencia (ARNt)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ARN de transferencia (ARNt) es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "El espliceosoma (o complejo de empalme)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El espliceosoma (o complejo de empalme) describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Codón de terminación o STOP constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.49,
+      "bundle_id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v14",
+      "statement": "¿Qué complejo multiproteico celular degrada de manera selectiva las proteínas dañadas marcadas previamente con ubiquitina?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Valentina y su grupo investigan sobre Síntesis de proteínas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El proteasoma",
+          "is_correct": true,
+          "feedback": "¡Correcto! El proteasoma responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La caja TATA",
+          "is_correct": false,
+          "feedback": "Incorrecto. La caja TATA no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "El factor de transcripción",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor de transcripción es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Es universal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es universal describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de El proteasoma constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.46,
+      "bundle_id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v15",
+      "statement": "¿Qué factor proteico regula la tasa de transcripción de un gen uniéndose a secuencias promotoras u operadores específicos?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Jorge y su grupo investigan sobre Síntesis de proteínas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El factor de transcripción",
+          "is_correct": true,
+          "feedback": "¡Correcto! El factor de transcripción responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "El splicing (o empalme)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El splicing (o empalme) no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La cola de poli-A (poliadenilación)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cola de poli-A (poliadenilación) es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La transcripción",
+          "is_correct": false,
+          "feedback": "Incorrecto. La transcripción describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de El factor de transcripción constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v16",
+      "statement": "¿Cómo se denomina al conjunto de ribosomas que traducen de manera simultánea un único filamento de ARN mensajero?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Ramón y su grupo investigan sobre Síntesis de proteínas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Polirribosoma (o polisoma)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Polirribosoma (o polisoma) responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La ARN polimerasa II",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ARN polimerasa II no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "El espliceosoma (o complejo de empalme)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El espliceosoma (o complejo de empalme) es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Es universal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es universal describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Polirribosoma (o polisoma) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.4,
+      "bundle_id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v17",
+      "statement": "¿Qué propiedad del código genético indica que varios codones diferentes pueden codificar para el mismo aminoácido específico?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Benjamín y su grupo investigan sobre Síntesis de proteínas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es degenerado o redundante",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es degenerado o redundante responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Polirribosoma (o polisoma)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Polirribosoma (o polisoma) no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Sitio P (peptidil)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sitio P (peptidil) es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Mutación de sentido erróneo (missense)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mutación de sentido erróneo (missense) describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Es degenerado o redundante constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.37,
+      "bundle_id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v18",
+      "statement": "¿Qué característica del código genético indica que se aplica de manera idéntica en casi todos los seres vivos del planeta?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Camila y su grupo investigan sobre Síntesis de proteínas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es universal",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es universal responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Polirribosoma (o polisoma)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Polirribosoma (o polisoma) no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "AUG, codifica para Metionina",
+          "is_correct": false,
+          "feedback": "Incorrecto. AUG, codifica para Metionina es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La caja TATA",
+          "is_correct": false,
+          "feedback": "Incorrecto. La caja TATA describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Es universal constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.34,
+      "bundle_id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v19",
+      "statement": "¿Qué tipo de mutación genética sustituye una sola base nitrogenada provocando el cambio de un aminoácido por otro en la proteína?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Martina y su grupo investigan sobre Síntesis de proteínas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mutación de sentido erróneo (missense)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Mutación de sentido erróneo (missense) responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "AUG, codifica para Metionina",
+          "is_correct": false,
+          "feedback": "Incorrecto. AUG, codifica para Metionina no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La ARN polimerasa II",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ARN polimerasa II es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Polirribosoma (o polisoma)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Polirribosoma (o polisoma) describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Mutación de sentido erróneo (missense) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.31,
+      "bundle_id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-v20",
+      "statement": "¿Qué región promotora clásica del ADN eucariota, localizada aguas arriba del gen, interacciona con los factores de transcripción?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Sebastián y su grupo investigan sobre Síntesis de proteínas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La caja TATA",
+          "is_correct": true,
+          "feedback": "¡Correcto! La caja TATA responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Polirribosoma (o polisoma)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Polirribosoma (o polisoma) no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Enlace peptídico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Enlace peptídico es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "AUG, codifica para Metionina",
+          "is_correct": false,
+          "feedback": "Incorrecto. AUG, codifica para Metionina describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La caja TATA constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.28,
+      "bundle_id": "PY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}

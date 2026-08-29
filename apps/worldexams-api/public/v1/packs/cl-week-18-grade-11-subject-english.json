@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ingles",
+    "country": "cl",
+    "pack_id": "cl-week-18-grade-11-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.103Z"
+  },
+  "questions": [
+    {
+      "id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v1",
+      "statement": "Digital citizenship refers to the responsible use of technology by anyone who uses computers, the internet, and digital devices to engage with society.",
+      "context": "Defining the core concept.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consumption",
+          "is_correct": false,
+          "feedback": "Incorrect. Consumption is just using; citizenship implies responsibility."
+        },
+        {
+          "letter": "B",
+          "text": "Digital citizenship",
+          "is_correct": true,
+          "feedback": "Correct. This is the definition of the term."
+        },
+        {
+          "letter": "C",
+          "text": "Hacking",
+          "is_correct": false,
+          "feedback": "Incorrect. Hacking is usually irresponsible or illegal."
+        },
+        {
+          "letter": "D",
+          "text": "Privacy",
+          "is_correct": false,
+          "feedback": "Incorrect. Privacy is a part of digital citizenship, not the whole thing."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Digital citizenship' is the overarching term for behaving responsibly and ethically online.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v2",
+      "statement": "Users should ensure that their private information is kept secure from potential cyber threats.",
+      "context": "Discussing online safety.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "keep",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "is kept",
+          "is_correct": true,
+          "feedback": "Correct. Present simple passive for a general requirement."
+        },
+        {
+          "letter": "C",
+          "text": "keeps",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "D",
+          "text": "being kept",
+          "is_correct": false,
+          "feedback": "Incorrect. Gerund."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The passive voice 'is kept' focuses on the state of the information being secure.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v3",
+      "statement": "If you had been more careful with your posts, you wouldn't have a negative digital footprint now.",
+      "context": "Conditional about digital footprints.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "were",
+          "is_correct": false,
+          "feedback": "Incorrect. This would be a present state."
+        },
+        {
+          "letter": "B",
+          "text": "had been",
+          "is_correct": true,
+          "feedback": "Correct. Mixed conditional (past action, present result)."
+        },
+        {
+          "letter": "C",
+          "text": "have been",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "would be",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' not used in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The mixed conditional (if + past perfect, would + verb) connects a past mistake with a present consequence.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v4",
+      "statement": "Cyberbullying involves using digital communication to harass, threaten, or intimidate someone.",
+      "context": "Article about cyberbullying.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "promote",
+          "is_correct": false,
+          "feedback": "Incorrect. Cyberbullying is negative."
+        },
+        {
+          "letter": "B",
+          "text": "harass",
+          "is_correct": true,
+          "feedback": "Correct. To harass means to subject to aggressive pressure or intimidation."
+        },
+        {
+          "letter": "C",
+          "text": "support",
+          "is_correct": false,
+          "feedback": "Incorrect. Opposite meaning."
+        },
+        {
+          "letter": "D",
+          "text": "ignore",
+          "is_correct": false,
+          "feedback": "Incorrect. It is an active form of harm."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Harass' is one of the key actions that defines cyberbullying behavior.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v5",
+      "statement": "The digital divide highlights the inequality in access to information and communication technology between different social groups.",
+      "context": "Discussion on the \"digital divide\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "equality",
+          "is_correct": false,
+          "feedback": "Incorrect. The divide is about *in*equality."
+        },
+        {
+          "letter": "B",
+          "text": "inequality",
+          "is_correct": true,
+          "feedback": "Correct. Inequality is the state of not being equal, especially in status, rights, and opportunities."
+        },
+        {
+          "letter": "C",
+          "text": "similarity",
+          "is_correct": false,
+          "feedback": "Incorrect. Focuses on the gap."
+        },
+        {
+          "letter": "D",
+          "text": "abundance",
+          "is_correct": false,
+          "feedback": "Incorrect. One group lacks the technology."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Inequality' correctly describes the gap in access that characterizes the digital divide.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v6",
+      "statement": "Netiquette is the set of rules for behaving properly online.",
+      "context": "Online etiquette.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Software",
+          "is_correct": false,
+          "feedback": "Incorrect. Programs."
+        },
+        {
+          "letter": "B",
+          "text": "Netiquette",
+          "is_correct": true,
+          "feedback": "Correct. Portmanteau of network and etiquette."
+        },
+        {
+          "letter": "C",
+          "text": "Hardware",
+          "is_correct": false,
+          "feedback": "Incorrect. Physical parts of a computer."
+        },
+        {
+          "letter": "D",
+          "text": "Malware",
+          "is_correct": false,
+          "feedback": "Incorrect. Harmful software."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Netiquette' is the standard term for social conventions in digital communication.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v7",
+      "statement": "It is vital that everyone use strong, unique passwords for their online accounts.",
+      "context": "Recommendation for password security.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "use",
+          "is_correct": true,
+          "feedback": "Correct. Subjunctive base form after 'It is vital that...'."
+        },
+        {
+          "letter": "B",
+          "text": "uses",
+          "is_correct": false,
+          "feedback": "Incorrect. Third person singular not used in formal subjunctive."
+        },
+        {
+          "letter": "C",
+          "text": "to use",
+          "is_correct": false,
+          "feedback": "Incorrect. Doesn't fit 'that' clause."
+        },
+        {
+          "letter": "D",
+          "text": "using",
+          "is_correct": false,
+          "feedback": "Incorrect. Gerund."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The base form 'use' is required in the subjunctive mood to express importance or necessity.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v8",
+      "statement": "Plagiarism is the practice of taking someone else's work or ideas and passing them off as one's own.",
+      "context": "Text on intellectual property.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Citation",
+          "is_correct": false,
+          "feedback": "Incorrect. Citation is giving credit."
+        },
+        {
+          "letter": "B",
+          "text": "Plagiarism",
+          "is_correct": true,
+          "feedback": "Correct. Plagiarism is academic/creative theft."
+        },
+        {
+          "letter": "C",
+          "text": "Innovation",
+          "is_correct": false,
+          "feedback": "Incorrect. Innovation is creating something new."
+        },
+        {
+          "letter": "D",
+          "text": "Collaboration",
+          "is_correct": false,
+          "feedback": "Incorrect. Collaboration is working together."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Plagiarism' is the specific term for the unethical use of another's work without attribution.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v9",
+      "statement": "Your browsing habits are being tracked by various companies to target you with advertisements.",
+      "context": "Describing an ongoing process of data collection.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are tracking",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "are being tracked",
+          "is_correct": true,
+          "feedback": "Correct. Present continuous passive for an ongoing process."
+        },
+        {
+          "letter": "C",
+          "text": "were tracked",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "D",
+          "text": "tracked",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present continuous passive describes how user data is currently and continuously being monitored.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v10",
+      "statement": "Echo chambers can polarize society by only exposing individuals to information that reinforces their existing views.",
+      "context": "Critique of \"echo chambers\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "unite",
+          "is_correct": false,
+          "feedback": "Incorrect. Polarize is the opposite of unite."
+        },
+        {
+          "letter": "B",
+          "text": "polarize",
+          "is_correct": true,
+          "feedback": "Correct. To polarize means to divide into two sharply contrasting groups or sets of opinions."
+        },
+        {
+          "letter": "C",
+          "text": "educate",
+          "is_correct": false,
+          "feedback": "Incorrect. Echo chambers often limit education."
+        },
+        {
+          "letter": "D",
+          "text": "simplify",
+          "is_correct": false,
+          "feedback": "Incorrect. They make social cohesion more complex."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Polarize' correctly identifies the divisive effect that echo chambers have on public discourse.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v11",
+      "statement": "Malware is software that is specifically designed to disrupt, damage, or gain unauthorized access to a computer system.",
+      "context": "Digital security software.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hardware",
+          "is_correct": false,
+          "feedback": "Incorrect. Physical components."
+        },
+        {
+          "letter": "B",
+          "text": "Firmware",
+          "is_correct": false,
+          "feedback": "Incorrect. Permanent software."
+        },
+        {
+          "letter": "C",
+          "text": "Malware",
+          "is_correct": true,
+          "feedback": "Correct. Contraction of 'malicious' and 'software'."
+        },
+        {
+          "letter": "D",
+          "text": "Freeware",
+          "is_correct": false,
+          "feedback": "Incorrect. Free software."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Malware' is the general term for all types of malicious software.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v12",
+      "statement": "Users whose data has been breached should be notified immediately by the service provider.",
+      "context": "Passenger rights (adapted for digital users).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "Incorrect. Subject pronoun."
+        },
+        {
+          "letter": "B",
+          "text": "whose",
+          "is_correct": true,
+          "feedback": "Correct. Possessive relative pronoun for 'users' data'."
+        },
+        {
+          "letter": "C",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "Incorrect. Refers to things."
+        },
+        {
+          "letter": "D",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "Incorrect. Relative pronoun."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Whose' is used to show possession, linking the users to their breached data.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v13",
+      "statement": "Everything you do online leaves a permanent digital footprint that can be difficult to erase.",
+      "context": "Discussing digital footprint.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "temporary",
+          "is_correct": false,
+          "feedback": "Incorrect. Digital data is notoriously persistent."
+        },
+        {
+          "letter": "B",
+          "text": "permanent",
+          "is_correct": true,
+          "feedback": "Correct. Permanent means lasting or intended to last or remain unchanged indefinitely."
+        },
+        {
+          "letter": "C",
+          "text": "invisible",
+          "is_correct": false,
+          "feedback": "Incorrect. It can be seen by those with the right access."
+        },
+        {
+          "letter": "D",
+          "text": "private",
+          "is_correct": false,
+          "feedback": "Incorrect. It's often more public than we realize."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Permanent' describes the enduring nature of digital information once it has been shared or recorded.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v14",
+      "statement": "You shouldn't share sensitive information unless you are absolutely sure of the website's security.",
+      "context": "Advice on sharing information.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "if",
+          "is_correct": false,
+          "feedback": "Incorrect. 'If you are sure' would mean don't share if you *are* sure, which is the opposite."
+        },
+        {
+          "letter": "B",
+          "text": "unless",
+          "is_correct": true,
+          "feedback": "Correct. 'Unless' means 'if not'."
+        },
+        {
+          "letter": "C",
+          "text": "although",
+          "is_correct": false,
+          "feedback": "Incorrect. Contrast."
+        },
+        {
+          "letter": "D",
+          "text": "whether",
+          "is_correct": false,
+          "feedback": "Incorrect. Choice between alternatives."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Unless' sets the necessary condition for sharing: the certainty of security.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v15",
+      "statement": "The author concludes that digital literacy is the most effective tool for navigating the complexities of the online world.",
+      "context": "Conclusion of an essay on digital ethics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "distraction",
+          "is_correct": false,
+          "feedback": "Incorrect. Literacy is a help, not a distraction."
+        },
+        {
+          "letter": "B",
+          "text": "digital literacy",
+          "is_correct": true,
+          "feedback": "Correct. Digital literacy is the ability to find, evaluate, and communicate information through various digital platforms."
+        },
+        {
+          "letter": "C",
+          "text": "isolation",
+          "is_correct": false,
+          "feedback": "Incorrect. Negative."
+        },
+        {
+          "letter": "D",
+          "text": "aggression",
+          "is_correct": false,
+          "feedback": "Incorrect. Negative."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Digital literacy' refers to the set of skills needed to use technology effectively and critically.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v16",
+      "statement": "Phishing is a fraudulent attempt to obtain sensitive information such as usernames and passwords by disguising as a trustworthy entity.",
+      "context": "Phishing scams.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fishing",
+          "is_correct": false,
+          "feedback": "Incorrect spelling for this context."
+        },
+        {
+          "letter": "B",
+          "text": "Phishing",
+          "is_correct": true,
+          "feedback": "Correct. Specific term for this type of cybercrime."
+        },
+        {
+          "letter": "C",
+          "text": "Shopping",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Blogging",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Phishing' is the technical term for deceptive attempts to steal user data.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v17",
+      "statement": "I wish I hadn't commented so impulsively on that controversial post.",
+      "context": "Expressing a past regret about online behavior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "don't comment",
+          "is_correct": false,
+          "feedback": "Incorrect. Present."
+        },
+        {
+          "letter": "B",
+          "text": "didn't comment",
+          "is_correct": false,
+          "feedback": "Incorrect. Present hypothetical."
+        },
+        {
+          "letter": "C",
+          "text": "hadn't commented",
+          "is_correct": true,
+          "feedback": "Correct. 'Wish + past perfect' for past regret."
+        },
+        {
+          "letter": "D",
+          "text": "wouldn't comment",
+          "is_correct": false,
+          "feedback": "Incorrect. Future."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The structure 'wish + past perfect' allows for the expression of regret over a past action.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v18",
+      "statement": "Open-source software allows users to access and modify the source code, promoting transparency and collaboration.",
+      "context": "Text about \"open source\" software.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Private",
+          "is_correct": false,
+          "feedback": "Incorrect. Private software hides code."
+        },
+        {
+          "letter": "B",
+          "text": "Open-source",
+          "is_correct": true,
+          "feedback": "Correct. The code is open for all to see and edit."
+        },
+        {
+          "letter": "C",
+          "text": "Expensive",
+          "is_correct": false,
+          "feedback": "Incorrect. It's often free, but the key is the code access."
+        },
+        {
+          "letter": "D",
+          "text": "Encrypted",
+          "is_correct": false,
+          "feedback": "Incorrect. Encryption hides meaning."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Open-source' is the term for software where the original source code is made freely available and may be redistributed and modified.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v19",
+      "statement": "The expert warned that hackers were becoming increasingly sophisticated.",
+      "context": "Reporting a warning about cyber security.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are becoming",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted in reported speech."
+        },
+        {
+          "letter": "B",
+          "text": "were becoming",
+          "is_correct": true,
+          "feedback": "Correct. Backshifted from 'are' to 'were' in reported speech."
+        },
+        {
+          "letter": "C",
+          "text": "have become",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "will become",
+          "is_correct": false,
+          "feedback": "Incorrect. Future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, we backshift the tense of the original statement to the past.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-v20",
+      "statement": "Ultimately, the internet should be a tool for empowerment and the advancement of human knowledge.",
+      "context": "Final thought on the future of the internet.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "empowerment",
+          "is_correct": true,
+          "feedback": "Correct. Empowerment means the process of becoming stronger and more confident."
+        },
+        {
+          "letter": "B",
+          "text": "exploitation",
+          "is_correct": false,
+          "feedback": "Incorrect. Exploitation is harmful."
+        },
+        {
+          "letter": "C",
+          "text": "restriction",
+          "is_correct": false,
+          "feedback": "Incorrect. Restriction limits knowledge."
+        },
+        {
+          "letter": "D",
+          "text": "stagnation",
+          "is_correct": false,
+          "feedback": "Incorrect. Advancement is the opposite of stagnation."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Empowerment' correctly identifies the positive potential of technology to enhance human capability.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W18-digital-citizenship-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

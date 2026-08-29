@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-7-grade-10-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.572Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-10-2026-W07-childhood-memories-001-MASTERY-v1",
+      "statement": "\"While I ____ in the garden, I suddenly ____ over a stone and fell.\"",
+      "context": "Reflecting on a childhood accident.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "played / trip",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "was playing / tripped",
+          "is_correct": true,
+          "feedback": "Correct. Past Continuous for background, Past Simple for interruption."
+        },
+        {
+          "letter": "C",
+          "text": "had played / tripped",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "played / was tripping",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Past Continuous for an action in progress, Past Simple for a shorter interrupting action.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.86,
+      "bundle_id": "CO-ING-10-2026-W07-childhood-memories-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W07-childhood-memories-001-MASTERY-v2",
+      "statement": "\"I ____ the house many times, but that summer ____ different.\"",
+      "context": "Remembering a surprise.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was visiting / was",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "had visited / was",
+          "is_correct": true,
+          "feedback": "Correct. Past Perfect for events prior to that summer."
+        },
+        {
+          "letter": "C",
+          "text": "visited / had been",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "visit / is",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Past Perfect is used for an action completed before another action in the past.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.82,
+      "bundle_id": "CO-ING-10-2026-W07-childhood-memories-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W07-childhood-memories-001-MASTERY-v3",
+      "statement": "\"Whenever we ____ to the coast, my father ____ the car packed by dawn.\"",
+      "context": "Describing a family tradition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "went / was having",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "went / had always had",
+          "is_correct": true,
+          "feedback": "Correct. Past Perfect for completion."
+        },
+        {
+          "letter": "C",
+          "text": "were going / has had",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "go / has",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Past Simple for habitual action, Past Perfect to show state of completion.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Part 2 - Lexical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-10-2026-W07-childhood-memories-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W07-childhood-memories-001-MASTERY-v4",
+      "statement": "\"By the time my parents ____ home, I ____ for my toy for two hours.\"",
+      "context": "A story about a lost toy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "arrived / searched",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "arrived / had been searching",
+          "is_correct": true,
+          "feedback": "Correct. Past Perfect Continuous for duration before a point."
+        },
+        {
+          "letter": "C",
+          "text": "were arriving / searched",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "had arrived / was searching",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Past Perfect Continuous emphasizes duration leading up to another past event.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.74,
+      "bundle_id": "CO-ING-10-2026-W07-childhood-memories-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W07-childhood-memories-001-MASTERY-v5",
+      "statement": "\"It ____ heavily that night, so we ____ to stay indoors.\"",
+      "context": "A specific childhood memory.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "rained / decided",
+          "is_correct": false,
+          "feedback": "Possible, but B is more descriptive."
+        },
+        {
+          "letter": "B",
+          "text": "was raining / decided",
+          "is_correct": true,
+          "feedback": "Correct. Past Continuous for background weather."
+        },
+        {
+          "letter": "C",
+          "text": "had rained / decided",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "rains / decide",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using Past Continuous to set the scene in a past narrative.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-10-2026-W07-childhood-memories-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W07-childhood-memories-001-MASTERY-v6",
+      "statement": "\"The audience ____ when I finally ____ my first line.\"",
+      "context": "Describing a school performance.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was cheering / had said",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "was cheering / said",
+          "is_correct": true,
+          "feedback": "Correct. Background action vs specific moment."
+        },
+        {
+          "letter": "C",
+          "text": "cheered / was saying",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "had cheered / said",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Contrast between an ongoing past activity and a completed past action.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-10-2026-W07-childhood-memories-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W07-childhood-memories-001-MASTERY-v7",
+      "statement": "\"I ____ never ____ such a large city before my family ____ to Bogotá.\"",
+      "context": "Reflecting on past experience.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was / seen / moved",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "had / seen / moved",
+          "is_correct": true,
+          "feedback": "Correct. Past Perfect for experience prior to event."
+        },
+        {
+          "letter": "C",
+          "text": "have / seen / move",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "did / see / moved",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Past Perfect to describe lack of experience prior to a specific event.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.62,
+      "bundle_id": "CO-ING-10-2026-W07-childhood-memories-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W07-childhood-memories-001-MASTERY-v8",
+      "statement": "\"While she ____ of becoming an astronaut, her brother ____ several books.\"",
+      "context": "A childhood dream.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "dreamed / read",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "was dreaming / had already read",
+          "is_correct": true,
+          "feedback": "Correct. Past Continuous dream, Past Perfect reading."
+        },
+        {
+          "letter": "C",
+          "text": "had dreamed / was reading",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "dreams / has read",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Combining Past Continuous and Past Perfect to describe simultaneous activities.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.58,
+      "bundle_id": "CO-ING-10-2026-W07-childhood-memories-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W07-childhood-memories-001-MASTERY-v9",
+      "statement": "\"I ____ to go to the park, but I remembered that I ____ my homework.\"",
+      "context": "Recounting a lost opportunity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was wanting / didn't finish",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "wanted / hadn't finished",
+          "is_correct": true,
+          "feedback": "Correct. Simple past desire, Past Perfect incomplete task."
+        },
+        {
+          "letter": "C",
+          "text": "had wanted / wasn't finishing",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "want / haven't finished",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Past Perfect in the negative to show incomplete action at a certain past time.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.54,
+      "bundle_id": "CO-ING-10-2026-W07-childhood-memories-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W07-childhood-memories-001-MASTERY-v10",
+      "statement": "\"Hardly ____ we ____ our journey when it started to pour with rain.\"",
+      "context": "A nostalgic narrative.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "had / begun",
+          "is_correct": true,
+          "feedback": "Correct. Inversion with 'Hardly' requires Past Perfect."
+        },
+        {
+          "letter": "B",
+          "text": "did / begin",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "were / beginning",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "has / begun",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Advanced B2 structure: Inversion with 'Hardly... when' using the Past Perfect.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.48,
+      "bundle_id": "CO-ING-10-2026-W07-childhood-memories-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W07-childhood-memories-001-MASTERY-v11",
+      "statement": "\"The village ____ significantly since the time my parents ____ there.\"",
+      "context": "A memoir about growing up.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "changed / lived",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "had changed / had lived",
+          "is_correct": true,
+          "feedback": "Correct in a narrative context."
+        },
+        {
+          "letter": "C",
+          "text": "was changing / were living",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "has changed / lived",
+          "is_correct": false,
+          "feedback": "Possible, but B is for past focus."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using Past Perfect to compare two points in the past.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.42,
+      "bundle_id": "CO-ING-10-2026-W07-childhood-memories-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W07-childhood-memories-001-MASTERY-v12",
+      "statement": "\"If I ____ that it would be my last summer, I ____ more time with friends.\"",
+      "context": "Speculating about a childhood choice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "knew / spent",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "had known / would have spent",
+          "is_correct": true,
+          "feedback": "Correct. Third Conditional for past speculation."
+        },
+        {
+          "letter": "C",
+          "text": "would know / had spent",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "was knowing / spent",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Mastery level: Third Conditional to express regret about childhood events.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-10-2026-W07-childhood-memories-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

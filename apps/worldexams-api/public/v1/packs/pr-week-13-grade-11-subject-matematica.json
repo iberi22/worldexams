@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pr",
+    "pack_id": "pr-week-13-grade-11-subject-matematicas",
+    "generated_at": "2026-07-29T05:17:39.280Z"
+  },
+  "questions": [
+    {
+      "id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v1",
+      "statement": "En una sucesión geométrica, el primer término es $a_1 = 3$ y la razón común es $r = 2$. ¿Cuál es el valor del quinto término ($a_5$) de esta sucesión?",
+      "context": "Un grupo de estudiantes de la Escuela Superior Monserrate León de Irizarry en Cabo Rojo realiza una investigación guiada por Diego.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó de forma aritmética simple."
+        },
+        {
+          "letter": "B",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó el cuarto término."
+        },
+        {
+          "letter": "C",
+          "text": "48",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $a_5 = 3 \\times 2^4 = 48$."
+        },
+        {
+          "letter": "D",
+          "text": "96",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por la potencia siguiente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La fórmula para el término general es $a_n = a_1 r^{n-1}$. Para $a_5$: $a_5 = 3 \\times 2^{5-1} = 3 \\times 16 = 48$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la razón común ($r$) de la sucesión geométrica cuyos primeros términos son: $81, 27, 9, 3, \\dots$?",
+      "context": "Como parte de las olimpiades científicas en Río Piedras, Alondra aplica conceptos algebraicos en la Escuela Superior Ramón Power y Giralt.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Razón de signo y magnitud incorrectos."
+        },
+        {
+          "letter": "B",
+          "text": "$-\\frac{1}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo."
+        },
+        {
+          "letter": "C",
+          "text": "$3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Razón común invertida."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. Ya que $27 / 81 = 1/3$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La razón común se obtiene dividiendo un término por el anterior: $r = \\frac{27}{81} = \\frac{1}{3}$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la fórmula del término general ($a_n$) para la sucesión geométrica: $5, 10, 20, 40, \\dots$?",
+      "context": "Un grupo de estudiantes de la Escuela Superior Margarita Janer Palacios en Guaynabo realiza una investigación guiada por Alondra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_n = 10^{n-1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en las bases de potencia."
+        },
+        {
+          "letter": "B",
+          "text": "$a_n = 2 \\times 5^{n-1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se intercambiaron el primer término y la razón."
+        },
+        {
+          "letter": "C",
+          "text": "$a_n = 5 \\times 2^n$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Da un valor erróneo para el primer término."
+        },
+        {
+          "letter": "D",
+          "text": "$a_n = 5 \\times 2^{n-1}$",
+          "is_correct": true,
+          "feedback": "Correcto. Primer término $a_1=5$ y razón $r=2$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Con $a_1 = 5$ y $r = 2$, sustituimos en $a_n = a_1 r^{n-1}$: $a_n = 5 \\times 2^{n-1}$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v4",
+      "statement": "En una progresión geométrica, se sabe que el cuarto término es $a_4 = 40$ y la razón común es $r = 2$. ¿Cuál es el valor del primer término ($a_1$)?",
+      "context": "En Cayey, Valentina estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Miguel Meléndez Muñoz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por 4 en lugar de 8."
+        },
+        {
+          "letter": "B",
+          "text": "2.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por 16 de forma errónea."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. Ya que $40 = a_1 \\times 2^3 \\implies a_1 = 5$."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restaron potencias de forma errónea."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Usamos la fórmula $a_4 = a_1 r^3$. Sustituyendo: $40 = a_1 \\times 2^3 \\implies 40 = a_1 \\times 8 \\implies a_1 = 5$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la suma de los primeros 5 términos de la sucesión geométrica: $2, 6, 18, 54, \\dots$?",
+      "context": "En Humacao, Carmen diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Patria Latorre Ramírez.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "121",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó multiplicar por el primer término."
+        },
+        {
+          "letter": "B",
+          "text": "240",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al evaluar la potencia."
+        },
+        {
+          "letter": "C",
+          "text": "242",
+          "is_correct": true,
+          "feedback": "Correcto. Usando la fórmula de suma, $S_5 = 2(3^5 - 1)/(3-1) = 242$."
+        },
+        {
+          "letter": "D",
+          "text": "484",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se duplicó el valor debido a fallos aritméticos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Usamos la fórmula $S_n = \\frac{a_1(r^n - 1)}{r - 1}$. Con $a_1 = 2$, $r = 3$ y $n = 5$: $S_5 = \\frac{2(3^5 - 1)}{3 - 1} = \\frac{2(243 - 1)}{2} = 242$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v6",
+      "statement": "Una población de insectos se duplica cada semana. Si la población inicial es de 100 insectos, ¿cuál será la población al cabo de 6 semanas?",
+      "context": "En Trujillo Alto, Mariana estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Medardo Carazo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1,200",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó linealmente $100 \\times 12$."
+        },
+        {
+          "letter": "B",
+          "text": "12,800",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó para una semana extra."
+        },
+        {
+          "letter": "C",
+          "text": "3,200",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó para 5 semanas."
+        },
+        {
+          "letter": "D",
+          "text": "6,400",
+          "is_correct": true,
+          "feedback": "Correcto. $P(6) = 100 \\times 2^6 = 6400$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El crecimiento forma una progresión geométrica donde $a_1 = 100$ (para $t=0$), y $r = 2$. Tras 6 semanas, la población es $100 \\times 2^6 = 100 \\times 64 = 6,400$ insectos.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v7",
+      "statement": "Calcula la suma infinita de la progresión geométrica convergente: $12 + 4 + \\frac{4}{3} + \\frac{4}{9} + \\dots$",
+      "context": "En Arecibo, Yaritza diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Luis Muñoz Marín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo en la división."
+        },
+        {
+          "letter": "B",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al operar la fracción del denominador."
+        },
+        {
+          "letter": "C",
+          "text": "18",
+          "is_correct": true,
+          "feedback": "Correcto. Usando $S_\\infty = a_1 / (1-r) = 12 / (1 - 1/3) = 18$."
+        },
+        {
+          "letter": "D",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se duplicó la suma por un fallo algebraico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para una serie geométrica infinita convergente, la suma es $S = \\frac{a_1}{1 - r}$. Identificamos $a_1 = 12$ y $r = \\frac{1}{3}$. Así: $S = \\frac{12}{1 - 1/3} = \\frac{12}{2/3} = 12 \\times \\frac{3}{2} = 18$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v8",
+      "statement": "Encuentra la razón común ($r$) de una sucesión geométrica sabiendo que el primer término es $a_1 = 5$ y el cuarto término es $a_4 = 135$.",
+      "context": "En Utuado, Andrey analiza un problema de modelación matemática para un proyecto de la Escuela Superior Luis Muñoz Rivera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "27",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este representa $r^3$, no $r$."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. Ya que $135 = 5 \\times r^3 \\implies r^3 = 27 \\implies r = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Razón de progresión errónea."
+        },
+        {
+          "letter": "D",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por 15 en lugar de sacar raíz cúbica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "De la relación $a_4 = a_1 r^3$, sustituimos: $135 = 5 r^3 \\implies r^3 = 27$. Tomando raíz cúbica, obtenemos $r = 3$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v9",
+      "statement": "¿Qué término de la sucesión geométrica $2, 6, 18, 54, \\dots$ es igual a 1,458?",
+      "context": "En Arecibo, Ana diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Luis Muñoz Marín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El noveno término",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor erróneo por fallo al resolver el logaritmo."
+        },
+        {
+          "letter": "B",
+          "text": "El octavo término",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó para una potencia superior."
+        },
+        {
+          "letter": "C",
+          "text": "El sexto término",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de desfase de término."
+        },
+        {
+          "letter": "D",
+          "text": "El séptimo término",
+          "is_correct": true,
+          "feedback": "Correcto. Ya que $1458 = 2 \\times 3^{n-1} \\implies 3^{n-1} = 729 = 3^6 \\implies n = 7$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Usamos la fórmula del término general $a_n = a_1 r^{n-1}$. Sustituyendo: $1458 = 2 \\times 3^{n-1} \\implies 729 = 3^{n-1}$. Como $729 = 3^6$, igualamos exponentes: $n - 1 = 6 \\implies n = 7$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v10",
+      "statement": "Encuentra la media geométrica positiva entre los números 4 y 36.",
+      "context": "En Yauco, Carmen estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Loaiza Cordero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": true,
+          "feedback": "Correcto. La media geométrica es $\\sqrt{4 \\times 36} = \\sqrt{144} = 12$."
+        },
+        {
+          "letter": "B",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se realizó una aproximación errónea."
+        },
+        {
+          "letter": "C",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el cálculo de la raíz cuadrada."
+        },
+        {
+          "letter": "D",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó la media aritmética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La media geométrica $G$ entre dos números $a$ y $b$ se calcula como $G = \\sqrt{a \\cdot b}$. Sustituyendo los números 4 y 36: $G = \\sqrt{4 \\times 36} = \\sqrt{144} = 12$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v11",
+      "statement": "Un depósito bancario rinde un 5% de interés anual. Si se depositan $1,000 USD originalmente, ¿cuál será el balance al cabo de 3 años si no se realizan retiros?",
+      "context": "En Carolina, Sofía analiza un problema de modelación matemática para un proyecto de la Escuela Superior Ana Roque de Duprey.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1,050.00 USD",
+          "is_correct": false,
+          "feedback": "Incorrecto. Balance de un solo año."
+        },
+        {
+          "letter": "B",
+          "text": "$1,150.00 USD",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó mediante interés simple."
+        },
+        {
+          "letter": "C",
+          "text": "$1,157.63 USD",
+          "is_correct": true,
+          "feedback": "Correcto. Ya que $1000 \\times (1.05)^3 = 1157.63$."
+        },
+        {
+          "letter": "D",
+          "text": "$1,200.00 USD",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estimación incorrecta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El balance anual sigue una progresión geométrica con $a_1 = 1000$ y $r = 1.05$. El balance al cabo de 3 años es $1000 \\times (1.05)^3 = 1000 \\times 1.157625 \\approx 1157.63 USD$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v12",
+      "statement": "Una pelota de goma se deja caer desde una altura de 12 metros. En cada rebote, alcanza exactamente las dos terceras partes ($\\frac{2}{3}$) de la altura anterior. ¿Cuál es la distancia total vertical recorrida por la pelota hasta que se detiene?",
+      "context": "Como parte de las olimpiades científicas en Arecibo, Isabella aplica conceptos algebraicos en la Escuela Superior Luis Muñoz Marín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la fórmula de suma infinita."
+        },
+        {
+          "letter": "B",
+          "text": "36 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo se calculó la suma de una dirección."
+        },
+        {
+          "letter": "C",
+          "text": "48 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se contempló el primer tramo de caída simple."
+        },
+        {
+          "letter": "D",
+          "text": "60 metros",
+          "is_correct": true,
+          "feedback": "Correcto. Sumando bajadas y subidas se obtiene $12 + 2 \\times (8 / (1 - 2/3)) = 60$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La caída inicial es de 12 m. Los rebotes siguientes ocurren en ambas direcciones (subir y bajar). Las alturas de rebote forman una serie infinita: $h_n = 12 \\times (2/3)^n$. Distancia total: $D = 12 + 2 \\times \\sum_{n=1}^\\infty 12(2/3)^n = 12 + 2 \\times \\left(\\frac{8}{1 - 2/3}\\right) = 12 + 2 \\times 24 = 60$ metros.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v13",
+      "statement": "¿Para qué valor real positivo de $x$ los términos $x$, $x+2$ y $2x+1$ forman una progresión geométrica en ese orden?",
+      "context": "Un grupo de estudiantes de la Escuela Superior Ponce High en Ponce realiza una investigación guiada por Andrey.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de factorización de la ecuación cuadrática."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface la proporcionalidad de los términos."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se cumple la igualdad de razones comunes."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 4$",
+          "is_correct": true,
+          "feedback": "Correcto. Igualando razones $(x+2)/x = (2x+1)/(x+2) \\implies x^2 + 4x + 4 = 2x^2 + x \\implies x^2 - 3x - 4 = 0$, que da raíz positiva $x=4$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La razón común debe ser igual: $\\frac{x+2}{x} = \\frac{2x+1}{x+2}$. Multiplicando de forma cruzada: $(x+2)^2 = x(2x+1) \\implies x^2 + 4x + 4 = 2x^2 + x \\implies x^2 - 3x - 4 = 0$. Factorizando: $(x-4)(x+1) = 0$. Como $x$ debe ser positivo, $x = 4$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v14",
+      "statement": "Calcula la suma de los primeros 6 términos de la progresión geométrica con términos fraccionarios: $16, -8, 4, -2, \\dots$",
+      "context": "En Río Piedras, Sofía diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Ramón Power y Giralt.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se ignoraron los signos alternos."
+        },
+        {
+          "letter": "B",
+          "text": "$11$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo en la fracción."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{21}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Usando la fórmula de suma con $a_1=16$ y $r=-1/2$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{31}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al operar con la razón negativa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Tenemos $a_1 = 16$ y $r = -1/2$. La suma de los primeros 6 términos es $S_6 = \\frac{16(1 - (-1/2)^6)}{1 - (-1/2)} = \\frac{16(1 - 1/64)}{3/2} = \\frac{16 \\times 63/64}{3/2} = \\frac{63/4}{3/2} = \\frac{63 \\times 2}{12} = \\frac{21}{2}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v15",
+      "statement": "Una sustancia radiactiva se desintegra reduciendo su masa a la mitad cada 4 días. Si originalmente hay 80 gramos, ¿qué masa aproximada quedará tras transcurrir 16 días?",
+      "context": "Durante un taller de preparación académica en la Escuela Superior Patria Latorre Ramírez de Humacao, Yaritza resuelve un ejercicio propuesto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 gramos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se redujo a la mitad 3 veces."
+        },
+        {
+          "letter": "B",
+          "text": "2.5 gramos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por 32 de manera incorrecta."
+        },
+        {
+          "letter": "C",
+          "text": "20 gramos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se redujo a la mitad 2 veces."
+        },
+        {
+          "letter": "D",
+          "text": "5 gramos",
+          "is_correct": true,
+          "feedback": "Correcto. Se redujo a la mitad 4 veces: $80 \\times (1/2)^4 = 5$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El número de períodos de vida media transcurridos es $16 / 4 = 4$. La masa final se calcula mediante la progresión geométrica: $M = 80 \\times (1/2)^4 = 80 \\times \\frac{1}{16} = 5$ gramos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v16",
+      "statement": "Determina el valor exacto de la siguiente suma infinita expresada en notación de sumatoria: $$\\sum_{n=1}^{\\infty} 5 \\left(\\frac{3}{4}\\right)^{n-1}$$",
+      "context": "Un grupo de estudiantes de la Escuela Superior Dr. Santiago Veve Calzada en Fajardo realiza una investigación guiada por Mateo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{20}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo en la fracción del denominador."
+        },
+        {
+          "letter": "B",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó de forma incorrecta."
+        },
+        {
+          "letter": "C",
+          "text": "20",
+          "is_correct": true,
+          "feedback": "Correcto. Ya que $S_\\infty = 5 / (1 - 3/4) = 20$."
+        },
+        {
+          "letter": "D",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó mal la fórmula de la suma infinita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La serie tiene primer término $a_1 = 5$ (para $n=1$) y razón $r = 3/4$. La suma infinita es $S = \\frac{a_1}{1 - r} = \\frac{5}{1 - 3/4} = \\frac{5}{1/4} = 20$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v17",
+      "statement": "En una sucesión geométrica, se sabe que la suma del segundo y el quinto término es $a_2 + a_5 = 30$ y la suma del tercer y el sexto término es $a_3 + a_6 = 60$. Determina la razón común ($r$) de la sucesión.",
+      "context": "Un grupo de estudiantes de la Escuela Superior Dr. Santiago Veve Calzada en Fajardo realiza una investigación guiada por Mariana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Razón de progresión decreciente incorrecta."
+        },
+        {
+          "letter": "B",
+          "text": "1.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error en el despeje algebraico."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. Al dividir las ecuaciones resulta $r = 2$."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Razón que no satisface las igualdades."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Representamos los términos en función de $a_1$ y $r$: $a_2 + a_5 = a_1 r + a_1 r^4 = a_1 r (1 + r^3) = 30$, y $a_3 + a_6 = a_1 r^2 + a_1 r^5 = a_1 r^2 (1 + r^3) = 60$. Dividiendo la segunda ecuación entre la primera: $\\frac{a_1 r^2 (1 + r^3)}{a_1 r (1 + r^3)} = \\frac{60}{30} \\implies r = 2$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v18",
+      "statement": "Analiza una anualidad donde se depositan $1,000 USD al final de cada año en una cuenta que rinde un 8% de interés compuesto anual. Evalúa la cantidad acumulada justo después del quinto depósito usando la suma de series geométricas.",
+      "context": "En Río Piedras, Andrey analiza un problema de modelación matemática para un proyecto de la Escuela Superior Ramón Power y Giralt.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5,000.00 USD",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se contemplaron los intereses devengados."
+        },
+        {
+          "letter": "B",
+          "text": "$5,400.00 USD",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estimación lineal básica."
+        },
+        {
+          "letter": "C",
+          "text": "$5,866.60 USD",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la fórmula de valor futuro de una anualidad ordinaria con $n=5$."
+        },
+        {
+          "letter": "D",
+          "text": "$6,210.00 USD",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo en los factores acumulativos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El valor futuro es la suma de los depósitos con sus intereses: $S = 1000 \\sum_{k=0}^{4} (1.08)^k = 1000 \\times \\frac{(1.08)^5 - 1}{1.08 - 1} = 1000 \\times \\frac{1.469328 - 1}{0.08} \\approx 1000 \\times 5.8666 = 5866.60 USD$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v19",
+      "statement": "Evalúa la convergencia de la serie geométrica: $$\\sum_{n=1}^{\\infty} 3 (-0.8)^{n-1}$$ ¿Cuál es su suma exacta si converge?",
+      "context": "En Caguas, Mateo diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior José Gautier Benítez.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-\\frac{5}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos en el resultado."
+        },
+        {
+          "letter": "B",
+          "text": "$15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se ignoró el signo negativo de la razón en el denominador."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{5}{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. Ya que $r = -0.8$ tiene valor absoluto menor que 1, converge a $3 / (1 - (-0.8)) = 3 / 1.8 = 5/3$."
+        },
+        {
+          "letter": "D",
+          "text": "No converge",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí converge dado que $|r| = |-0.8| = 0.8 < 1$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La serie geométrica tiene $a_1 = 3$ y $r = -0.8$. Dado que $|r| = 0.8 < 1$, la serie es convergente. La suma es $S = \\frac{a_1}{1 - r} = \\frac{3}{1 - (-0.8)} = \\frac{3}{1.8} = \\frac{30}{18} = \\frac{5}{3}$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle-v20",
+      "statement": "Encuentra la fórmula para la suma de los primeros $n$ términos de una progresión geométrica cuyo primer término es $a_1 = k$ y cuya razón común es $r = -1$, considerando que $n$ es un número entero par.",
+      "context": "En Río Piedras, Mariana estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Ramón Power y Giralt.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-k$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo."
+        },
+        {
+          "letter": "B",
+          "text": "$2k$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valor que asume sumas acumulativas sin alternancia."
+        },
+        {
+          "letter": "C",
+          "text": "$k$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta sería la suma si $n$ fuera impar."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser par, los términos alternados se cancelan en parejas, sumando exactamente 0."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La progresión tiene términos $k, -k, k, -k, \\dots$ Si sumamos un número par $n$ de términos, cada par consecutivo de la forma $k + (-k)$ suma 0. Al haber exactamente $n/2$ parejas de términos, la suma total es $0 \\times (n/2) = 0$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    }
+  ]
+}

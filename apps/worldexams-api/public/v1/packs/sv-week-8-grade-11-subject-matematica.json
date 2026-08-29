@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "sv",
+    "pack_id": "sv-week-8-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:41:05.509Z"
+  },
+  "questions": [
+    {
+      "id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v1",
+      "statement": "Resuelve la ecuación lineal para $x$: $3x - 12 = 18$.",
+      "context": "Un comerciante de San Salvador desea equilibrar sus costos de envío.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Ecuaciones Lineales.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v2",
+      "statement": "Resuelve la ecuación lineal: $5x + 3 = 2x + 15$.",
+      "context": "En Santa Tecla se calcula el precio final de venta tras agregar comisiones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "D",
+          "text": "-4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Ecuaciones Lineales.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v3",
+      "statement": "Resuelve la ecuación lineal con paréntesis: $2(3x - 1) = 4x + 10$.",
+      "context": "Un electricista en Santa Ana plantea una igualdad de corrientes eléctricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Ecuaciones Lineales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v4",
+      "statement": "Encuentra el valor de $x$ en la ecuación fraccionaria: $\\frac{x}{3} + \\frac{1}{2} = \\frac{5}{6}$.",
+      "context": "Un estudiante del Instituto de San Miguel resuelve un problema de mezclas químicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Ecuaciones Lineales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v5",
+      "statement": "Resuelve la ecuación literal para $x$ en términos de la constante $a$: $3x - a = 5x + 2a$ (asumiendo que $3 - 5 \\ne 0$).",
+      "context": "Un ingeniero civil calcula las dimensiones de un pilote estructural en Usulután para el tramo 5.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{a}{3 - 5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{-3a}{3 + 5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{2a}{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{3a}{3 - 5}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Ecuaciones Lineales.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v6",
+      "statement": "Resuelve la ecuación literal para $x$ en términos de la constante $a$: $3x - a = 6x + 2a$ (asumiendo que $3 - 6 \\ne 0$).",
+      "context": "Un ingeniero civil calcula las dimensiones de un pilote estructural en Usulután para el tramo 6.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{-3a}{3 + 6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{3a}{3 - 6}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{a}{3 - 6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{2a}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Ecuaciones Lineales.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.71,
+      "bundle_id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v7",
+      "statement": "Resuelve la ecuación literal para $x$ en términos de la constante $a$: $3x - a = 7x + 2a$ (asumiendo que $3 - 7 \\ne 0$).",
+      "context": "Un ingeniero civil calcula las dimensiones de un pilote estructural en Usulután para el tramo 7.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{2a}{7}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{3a}{3 - 7}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{-3a}{3 + 7}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{a}{3 - 7}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Ecuaciones Lineales.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.67,
+      "bundle_id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v8",
+      "statement": "Resuelve la ecuación literal para $x$ en términos de la constante $a$: $3x - a = 8x + 2a$ (asumiendo que $3 - 8 \\ne 0$).",
+      "context": "Un ingeniero civil calcula las dimensiones de un pilote estructural en Usulután para el tramo 8.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{a}{3 - 8}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{-3a}{3 + 8}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{2a}{8}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{3a}{3 - 8}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Ecuaciones Lineales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.63,
+      "bundle_id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v9",
+      "statement": "Resuelve la ecuación literal para $x$ en términos de la constante $a$: $3x - a = 9x + 2a$ (asumiendo que $3 - 9 \\ne 0$).",
+      "context": "Un ingeniero civil calcula las dimensiones de un pilote estructural en Usulután para el tramo 9.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{2a}{9}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{a}{3 - 9}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{-3a}{3 + 9}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{3a}{3 - 9}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Ecuaciones Lineales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.59,
+      "bundle_id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v10",
+      "statement": "Resuelve la ecuación literal para $x$ en términos de la constante $a$: $3x - a = 10x + 2a$ (asumiendo que $3 - 10 \\ne 0$).",
+      "context": "Un ingeniero civil calcula las dimensiones de un pilote estructural en Usulután para el tramo 10.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{a}{3 - 10}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{-3a}{3 + 10}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{2a}{10}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{3a}{3 - 10}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Ecuaciones Lineales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v11",
+      "statement": "Resuelve la ecuación literal para $x$ en términos de la constante $a$: $3x - a = 11x + 2a$ (asumiendo que $3 - 11 \\ne 0$).",
+      "context": "Un ingeniero civil calcula las dimensiones de un pilote estructural en Usulután para el tramo 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{2a}{11}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{a}{3 - 11}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{-3a}{3 + 11}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{3a}{3 - 11}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Ecuaciones Lineales.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.51,
+      "bundle_id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v12",
+      "statement": "Resuelve la ecuación literal para $x$ en términos de la constante $a$: $3x - a = 12x + 2a$ (asumiendo que $3 - 12 \\ne 0$).",
+      "context": "Un ingeniero civil calcula las dimensiones de un pilote estructural en Usulután para el tramo 12.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{2a}{12}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{3a}{3 - 12}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{-3a}{3 + 12}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{a}{3 - 12}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Ecuaciones Lineales.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.47,
+      "bundle_id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v13",
+      "statement": "Resuelve la ecuación literal para $x$ en términos de la constante $a$: $3x - a = 13x + 2a$ (asumiendo que $3 - 13 \\ne 0$).",
+      "context": "Un ingeniero civil calcula las dimensiones de un pilote estructural en Usulután para el tramo 13.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{2a}{13}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{a}{3 - 13}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{-3a}{3 + 13}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{3a}{3 - 13}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Ecuaciones Lineales.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v14",
+      "statement": "Resuelve la ecuación literal para $x$ en términos de la constante $a$: $3x - a = 14x + 2a$ (asumiendo que $3 - 14 \\ne 0$).",
+      "context": "Un ingeniero civil calcula las dimensiones de un pilote estructural en Usulután para el tramo 14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{3a}{3 - 14}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{-3a}{3 + 14}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{2a}{14}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{a}{3 - 14}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Ecuaciones Lineales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.39,
+      "bundle_id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v15",
+      "statement": "Resuelve la ecuación literal para $x$ en términos de la constante $a$: $3x - a = 15x + 2a$ (asumiendo que $3 - 15 \\ne 0$).",
+      "context": "Un ingeniero civil calcula las dimensiones de un pilote estructural en Usulután para el tramo 15.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{-3a}{3 + 15}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{2a}{15}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{a}{3 - 15}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{3a}{3 - 15}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Ecuaciones Lineales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v16",
+      "statement": "Resuelve la ecuación literal para $x$ en términos de la constante $a$: $3x - a = 16x + 2a$ (asumiendo que $3 - 16 \\ne 0$).",
+      "context": "Un ingeniero civil calcula las dimensiones de un pilote estructural en Usulután para el tramo 16.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{a}{3 - 16}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{2a}{16}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{3a}{3 - 16}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{-3a}{3 + 16}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Ecuaciones Lineales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.31,
+      "bundle_id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v17",
+      "statement": "Resuelve la ecuación literal para $x$ en términos de la constante $a$: $3x - a = 17x + 2a$ (asumiendo que $3 - 17 \\ne 0$).",
+      "context": "Un ingeniero civil calcula las dimensiones de un pilote estructural en Usulután para el tramo 17.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{-3a}{3 + 17}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{2a}{17}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{3a}{3 - 17}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{a}{3 - 17}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Ecuaciones Lineales.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.27,
+      "bundle_id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v18",
+      "statement": "Resuelve la ecuación literal para $x$ en términos de la constante $a$: $3x - a = 18x + 2a$ (asumiendo que $3 - 18 \\ne 0$).",
+      "context": "Un ingeniero civil calcula las dimensiones de un pilote estructural en Usulután para el tramo 18.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{a}{3 - 18}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{3a}{3 - 18}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{-3a}{3 + 18}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{2a}{18}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Ecuaciones Lineales.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.23,
+      "bundle_id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v19",
+      "statement": "Resuelve la ecuación literal para $x$ en términos de la constante $a$: $3x - a = 19x + 2a$ (asumiendo que $3 - 19 \\ne 0$).",
+      "context": "Un ingeniero civil calcula las dimensiones de un pilote estructural en Usulután para el tramo 19.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{2a}{19}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{-3a}{3 + 19}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{a}{3 - 19}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{3a}{3 - 19}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Ecuaciones Lineales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.19,
+      "bundle_id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle-v20",
+      "statement": "Resuelve la ecuación literal para $x$ en términos de la constante $a$: $3x - a = 20x + 2a$ (asumiendo que $3 - 20 \\ne 0$).",
+      "context": "Un ingeniero civil calcula las dimensiones de un pilote estructural en Usulután para el tramo 20.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{-3a}{3 + 20}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este error suele surgir de un fallo en la simplificación algebraica o aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{2a}{20}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un desliz conceptual al aplicar la propiedad correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{3a}{3 - 20}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El desarrollo y cálculo matemático son impecables."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{a}{3 - 20}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el procedimiento y las leyes de signos o propiedades aplicadas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Paso a paso de resolución del ejercicio aplicando definiciones y propiedades de Ecuaciones Lineales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.15,
+      "bundle_id": "SV-MAT-11-2026-W08-tema-w08-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "sv"
+    }
+  ]
+}

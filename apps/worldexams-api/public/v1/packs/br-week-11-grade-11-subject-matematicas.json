@@ -1,0 +1,1811 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematica",
+    "country": "br",
+    "pack_id": "br-week-11-grade-11-subject-matematica",
+    "generated_at": "2026-06-18T23:58:36.441Z"
+  },
+  "questions": [
+    {
+      "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q01",
+      "statement": "Seja f(x) = 3x - 5. Qual e o valor de f(4)?",
+      "context": "Preparacao ENEM: funcao afim linear.\r\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$7$",
+          "is_correct": true,
+          "feedback": "Correto! f(4)=3(4)-5=7."
+        },
+        {
+          "letter": "B",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorreto. Esqueceu de subtrair 5."
+        },
+        {
+          "letter": "C",
+          "text": "$-2$",
+          "is_correct": false,
+          "feedback": "Incorreto. Verifique o sinal."
+        },
+        {
+          "letter": "D",
+          "text": "$12$",
+          "is_correct": false,
+          "feedback": "Incorreto. Nao completou."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q02",
+      "statement": "Se f(x)=2x+3 e g(x)=x-1, f(2)+g(5)?",
+      "context": "Aula sobre funcoes afins praticas.\r\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$11$",
+          "is_correct": true,
+          "feedback": "Correto! f(2)=7, g(5)=4, 7+4=11."
+        },
+        {
+          "letter": "B",
+          "text": "$8$",
+          "is_correct": false,
+          "feedback": "Incorreto. g(5)=4."
+        },
+        {
+          "letter": "C",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorreto. f(2)=7,g(5)=4."
+        },
+        {
+          "letter": "D",
+          "text": "$12$",
+          "is_correct": false,
+          "feedback": "Incorreto. f(2)=7."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q03",
+      "statement": "Grafico de f(x) = -3x + 9 intersecta eixo x em:",
+      "context": "Simulado ENEM: graficos lineares.\r\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(3,0)$",
+          "is_correct": true,
+          "feedback": "Correto! -3x+9=0 => x=3."
+        },
+        {
+          "letter": "B",
+          "text": "$(0,9)$",
+          "is_correct": false,
+          "feedback": "Incorreto. Intercepto y."
+        },
+        {
+          "letter": "C",
+          "text": "$(-3,0)$",
+          "is_correct": false,
+          "feedback": "Incorreto. Resolva a equacao."
+        },
+        {
+          "letter": "D",
+          "text": "$(9,0)$",
+          "is_correct": false,
+          "feedback": "Incorreto. Divida 9 por 3."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q04",
+      "statement": "Raiz de f(x) = 5x - 15:",
+      "context": "Laboratorio: modelagem com funcoes.\r\n**Expected_Success:** 0.82",
+      "options": [
+        {
+          "letter": "D",
+          "text": "$3$",
+          "is_correct": true,
+          "feedback": "Correto! 5x-15=0 => x=3."
+        },
+        {
+          "letter": "A",
+          "text": "$-3$",
+          "is_correct": false,
+          "feedback": "Incorreto. x positivo."
+        },
+        {
+          "letter": "B",
+          "text": "$5$",
+          "is_correct": false,
+          "feedback": "Incorreto. 5(5)-15=10 !=0."
+        },
+        {
+          "letter": "C",
+          "text": "$15$",
+          "is_correct": false,
+          "feedback": "Incorreto. Divida 15 por 5."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.82,
+      "bundle_id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q05",
+      "statement": "Se f(x)=x/4+3, f(8)?",
+      "context": "Revisao vestibular: graficos.\r\n**Expected_Success:** 0.8",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5$",
+          "is_correct": true,
+          "feedback": "Correto! 8/4+3=2+3=5."
+        },
+        {
+          "letter": "B",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Incorreto. Esqueceu de somar 3."
+        },
+        {
+          "letter": "C",
+          "text": "$11$",
+          "is_correct": false,
+          "feedback": "Incorreto. 8/4=2."
+        },
+        {
+          "letter": "D",
+          "text": "$7$",
+          "is_correct": false,
+          "feedback": "Incorreto. 2+3=5."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q06",
+      "statement": "Para que k a funcao f(x)=(k-4)x+7 e decrescente?",
+      "context": "Aula avancada: crescimento.\r\n**Expected_Success:** 0.7",
+      "options": [
+        {
+          "letter": "C",
+          "text": "$k<4$",
+          "is_correct": true,
+          "feedback": "Correto! a=k-4<0 => k<4."
+        },
+        {
+          "letter": "A",
+          "text": "$k>4$",
+          "is_correct": false,
+          "feedback": "Incorreto. Torna crescente."
+        },
+        {
+          "letter": "B",
+          "text": "$k=4$",
+          "is_correct": false,
+          "feedback": "Incorreto. Constante."
+        },
+        {
+          "letter": "D",
+          "text": "$k<=4$",
+          "is_correct": false,
+          "feedback": "Incorreto. k=4 constante."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q07",
+      "statement": "f(x)=4x-3, g(x)=2x+1. f(3)-g(2)?",
+      "context": "Preparacao ENEM: operacoes.\r\n**Expected_Success:** 0.76",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4$",
+          "is_correct": true,
+          "feedback": "Correto! f(3)=9,g(2)=5,9-5=4."
+        },
+        {
+          "letter": "B",
+          "text": "$6$",
+          "is_correct": false,
+          "feedback": "Incorreto. f(3)=9,g(2)=5."
+        },
+        {
+          "letter": "C",
+          "text": "$8$",
+          "is_correct": false,
+          "feedback": "Incorreto. g(2)=5."
+        },
+        {
+          "letter": "D",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Incorreto. g(2)=5."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.76,
+      "bundle_id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q08",
+      "statement": "Reta por (0,-2) e (3,7). a+b?",
+      "context": "Simulado ENEM: interpretacao.\r\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1$",
+          "is_correct": true,
+          "feedback": "Correto! b=-2,a=3,a+b=1."
+        },
+        {
+          "letter": "B",
+          "text": "$5$",
+          "is_correct": false,
+          "feedback": "Incorreto. Calcule a taxa."
+        },
+        {
+          "letter": "C",
+          "text": "$-1$",
+          "is_correct": false,
+          "feedback": "Incorreto. a=3,b=-2."
+        },
+        {
+          "letter": "D",
+          "text": "$3$",
+          "is_correct": false,
+          "feedback": "Incorreto. a=3,b=-2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.68,
+      "bundle_id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q09",
+      "statement": "f(x)=6x+1. f(0)+f(1)+f(2)?",
+      "context": "Laboratorio: problemas numericos.\r\n**Expected_Success:** 0.77",
+      "options": [
+        {
+          "letter": "B",
+          "text": "$21$",
+          "is_correct": true,
+          "feedback": "Correto! f(0)=1,f(1)=7,f(2)=13,soma=21."
+        },
+        {
+          "letter": "A",
+          "text": "$22$",
+          "is_correct": false,
+          "feedback": "Incorreto. 1+7+13=21."
+        },
+        {
+          "letter": "C",
+          "text": "$19$",
+          "is_correct": false,
+          "feedback": "Incorreto. f(2)=13."
+        },
+        {
+          "letter": "D",
+          "text": "$24$",
+          "is_correct": false,
+          "feedback": "Incorreto. 1+7+13=21."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.77,
+      "bundle_id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q10",
+      "statement": "Taxi: bandeirada R$4,50 + R$3,00/km. Expressao C(x)?",
+      "context": "Problema contextualizado custos.\r\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "C",
+          "text": "$3x+4,5$",
+          "is_correct": true,
+          "feedback": "Correto! Fixa R$4,50+R$3,00/km."
+        },
+        {
+          "letter": "A",
+          "text": "$4,5x+3$",
+          "is_correct": false,
+          "feedback": "Incorreto. Fixa."
+        },
+        {
+          "letter": "B",
+          "text": "$7,5x$",
+          "is_correct": false,
+          "feedback": "Incorreto. Separe fixo variável."
+        },
+        {
+          "letter": "D",
+          "text": "$x+7,5$",
+          "is_correct": false,
+          "feedback": "Incorreto. R$3,00/km."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
+      "bundle_id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q11",
+      "statement": "Coeficiente angular de f(x)=7x-2?",
+      "context": "Revisao conceitos fundamentais.\r\n**Expected_Success:** 0.86",
+      "options": [
+        {
+          "letter": "B",
+          "text": "$7$",
+          "is_correct": true,
+          "feedback": "Correto! ax+b, a=7."
+        },
+        {
+          "letter": "A",
+          "text": "$-2$",
+          "is_correct": false,
+          "feedback": "Incorreto. Intercepto."
+        },
+        {
+          "letter": "C",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Incorreto. Coef x e 7."
+        },
+        {
+          "letter": "D",
+          "text": "$5$",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q12",
+      "statement": "f(x)=-x+5. f(3)?",
+      "context": "Avaliacao de funcoes.\r\n**Expected_Success:** 0.74",
+      "options": [
+        {
+          "letter": "D",
+          "text": "$2$",
+          "is_correct": true,
+          "feedback": "Correto! -3+5=2."
+        },
+        {
+          "letter": "A",
+          "text": "$8$",
+          "is_correct": false,
+          "feedback": "Incorreto. -x=-1.x."
+        },
+        {
+          "letter": "B",
+          "text": "$-2$",
+          "is_correct": false,
+          "feedback": "Incorreto. -3+5=2."
+        },
+        {
+          "letter": "C",
+          "text": "$-3$",
+          "is_correct": false,
+          "feedback": "Incorreto. -3+5=2."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q13",
+      "statement": "f(x)=8x-24. x para f(x)=0?",
+      "context": "Determinacao de raiz.\r\n**Expected_Success:** 0.79",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3$",
+          "is_correct": true,
+          "feedback": "Correto! 8x-24=0 => x=3."
+        },
+        {
+          "letter": "B",
+          "text": "$-3$",
+          "is_correct": false,
+          "feedback": "Incorreto. x positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$4$",
+          "is_correct": false,
+          "feedback": "Incorreto. 8(4)-24=8 !=0."
+        },
+        {
+          "letter": "D",
+          "text": "$24$",
+          "is_correct": false,
+          "feedback": "Incorreto. Divida 24 por 8."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.79,
+      "bundle_id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q14",
+      "statement": "k tal que f(x)=(3k-6)x+2 e constante?",
+      "context": "Parametros que afetam funcao.\r\n**Expected_Success:** 0.67",
+      "options": [
+        {
+          "letter": "C",
+          "text": "$k=2$",
+          "is_correct": true,
+          "feedback": "Correto! 3k-6=0 => k=2."
+        },
+        {
+          "letter": "A",
+          "text": "$k=0$",
+          "is_correct": false,
+          "feedback": "Incorreto. -6 !=0."
+        },
+        {
+          "letter": "B",
+          "text": "$k=3$",
+          "is_correct": false,
+          "feedback": "Incorreto. 9-6=3."
+        },
+        {
+          "letter": "D",
+          "text": "$k=-2$",
+          "is_correct": false,
+          "feedback": "Incorreto. -6-6=-12."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.67,
+      "bundle_id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q15",
+      "statement": "Reta f(x)=2x+4 passa por quais pontos?",
+      "context": "Pontos notaveis da reta.\r\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(0,4) e (-2,0)$",
+          "is_correct": true,
+          "feedback": "Correto! Interc y=4, raiz x=-2."
+        },
+        {
+          "letter": "B",
+          "text": "$(0,2) e (-4,0)$",
+          "is_correct": false,
+          "feedback": "Incorreto. f(0)=4."
+        },
+        {
+          "letter": "C",
+          "text": "$(0,4) e (2,0)$",
+          "is_correct": false,
+          "feedback": "Incorreto. Raiz -2."
+        },
+        {
+          "letter": "D",
+          "text": "$(4,0) e (0,2)$",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q16",
+      "statement": "f(x)=3x+1 e g(x)=-2x+6 se igualam em x=?",
+      "context": "Comparacao entre funcoes.\r\n**Expected_Success:** 0.6",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x=1$",
+          "is_correct": true,
+          "feedback": "Correto! 3x+1=-2x+6 => 5x=5 => x=1."
+        },
+        {
+          "letter": "B",
+          "text": "$x=2$",
+          "is_correct": false,
+          "feedback": "Incorreto. f(2)=7,g(2)=2."
+        },
+        {
+          "letter": "C",
+          "text": "$x=-1$",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        },
+        {
+          "letter": "D",
+          "text": "$x=5$",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q17",
+      "statement": "Intercepto y de f(x)=(2/3)x-4?",
+      "context": "Interceptos da funcao.\r\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "D",
+          "text": "$-4$",
+          "is_correct": true,
+          "feedback": "Correto! f(0)=-4."
+        },
+        {
+          "letter": "A",
+          "text": "$4$",
+          "is_correct": false,
+          "feedback": "Incorreto. Termo indep -4."
+        },
+        {
+          "letter": "B",
+          "text": "$2/3$",
+          "is_correct": false,
+          "feedback": "Incorreto. Coef angular."
+        },
+        {
+          "letter": "C",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": "Incorreto. f(0)=-4."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q18",
+      "statement": "f(x)=10x-5. f(1/2)?",
+      "context": "Fracionario.\r\n**Expected_Success:** 0.8",
+      "options": [
+        {
+          "letter": "C",
+          "text": "$0$",
+          "is_correct": true,
+          "feedback": "Correto! 10(0.5)-5=0."
+        },
+        {
+          "letter": "A",
+          "text": "$5$",
+          "is_correct": false,
+          "feedback": "Incorreto. 10*0.5=5, -5=0."
+        },
+        {
+          "letter": "B",
+          "text": "$-2,5$",
+          "is_correct": false,
+          "feedback": "Incorreto. 10*0.5=5."
+        },
+        {
+          "letter": "D",
+          "text": "$2,5$",
+          "is_correct": false,
+          "feedback": "Incorreto. 5-5=0."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q19",
+      "statement": "f(1)=5, f(3)=11. f(0)?",
+      "context": "Funcao por dois pontos.\r\n**Expected_Success:** 0.62",
+      "options": [
+        {
+          "letter": "B",
+          "text": "$2$",
+          "is_correct": true,
+          "feedback": "Correto! a=3, b=2, f(0)=2."
+        },
+        {
+          "letter": "A",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Incorreto. Taxa 3,b=2."
+        },
+        {
+          "letter": "C",
+          "text": "$3$",
+          "is_correct": false,
+          "feedback": "Incorreto. b=2."
+        },
+        {
+          "letter": "D",
+          "text": "$4$",
+          "is_correct": false,
+          "feedback": "Incorreto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.62,
+      "bundle_id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q20",
+      "statement": "Resolva 3x-7 > 2x+1.",
+      "context": "Inequacao linear.\r\n**Expected_Success:** 0.58",
+      "options": [
+        {
+          "letter": "D",
+          "text": "$x>8$",
+          "is_correct": true,
+          "feedback": "Correto! 3x-2x>1+7 => x>8."
+        },
+        {
+          "letter": "A",
+          "text": "$x>6$",
+          "is_correct": false,
+          "feedback": "Incorreto. 1+7=8."
+        },
+        {
+          "letter": "B",
+          "text": "$x<8$",
+          "is_correct": false,
+          "feedback": "Incorreto. Sinal nao inverte."
+        },
+        {
+          "letter": "C",
+          "text": "$x=8$",
+          "is_correct": false,
+          "feedback": "Incorreto. Inequacao."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.58,
+      "bundle_id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v1",
+      "statement": "Qual é a classificação de um triângulo que possui todos os três lados com medidas iguais?",
+      "context": "Um marceneiro em Curitiba precisa classificar triângulos de acordo com a medida de seus lados para montar uma estrutura de madeira estável.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Triângulo equilátero",
+          "is_correct": true,
+          "feedback": "Correto! Um triângulo com três lados congruentes é denominado equilátero."
+        },
+        {
+          "letter": "B",
+          "text": "Triângulo isósceles",
+          "is_correct": false,
+          "feedback": "Incorreto. Embora o equilátero seja um caso especial de isósceles, a classificação mais precisa para três lados iguais é equilátero."
+        },
+        {
+          "letter": "C",
+          "text": "Triângulo escaleno",
+          "is_correct": false,
+          "feedback": "Incorreto. O triângulo escaleno possui todos os três lados com medidas diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "Triângulo retângulo",
+          "is_correct": false,
+          "feedback": "Incorreto. Triângulo retângulo é a classificação quanto aos ângulos (possui um ângulo de 90 graus), não quanto aos lados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "De acordo com as definições da geometria plana, os triângulos são classificados quanto aos lados em: equilátero (três lados iguais), isósceles (pelo menos dois lados iguais) e escaleno (três lados diferentes).",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v2",
+      "statement": "Qual é o valor exato da soma dos ângulos internos de qualquer triângulo plano convexo?",
+      "context": "Durante uma aula de desenho técnico em Porto Alegre, os estudantes estão verificando as propriedades dos ângulos internos de polígonos convexos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "90°",
+          "is_correct": false,
+          "feedback": "Incorreto. 90° é a medida de um ângulo reto, não a soma dos ângulos de um triângulo."
+        },
+        {
+          "letter": "B",
+          "text": "180°",
+          "is_correct": true,
+          "feedback": "Correto! A soma dos ângulos internos de qualquer triângulo no plano euclidiano é sempre igual a 180°."
+        },
+        {
+          "letter": "C",
+          "text": "270°",
+          "is_correct": false,
+          "feedback": "Incorreto. A soma dos ângulos internos de um quadrilátero é 360°, e a de um triângulo é menor."
+        },
+        {
+          "letter": "D",
+          "text": "360°",
+          "is_correct": false,
+          "feedback": "Incorreto. 360° é a soma dos ângulos internos de um quadrilátero convexo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pelo teorema da soma dos ângulos internos de um triângulo na geometria euclidiana, a soma dos três ângulos internos de qualquer triângulo é sempre 180° (ou pi radianos).",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v3",
+      "statement": "O Teorema de Tales afirma que se três ou mais retas paralelas são cortadas por duas transversais, então os segmentos determinados nas transversais são:",
+      "context": "Um engenheiro agrimensor em Goiânia analisa um terreno cortado por três linhas paralelas que representam cercas de demarcação e duas linhas transversais representando estradas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Iguais entre si",
+          "is_correct": false,
+          "feedback": "Incorreto. Os segmentos não precisam ter a mesma medida, a relação não é de igualdade linear direta."
+        },
+        {
+          "letter": "B",
+          "text": "Proporcionais",
+          "is_correct": true,
+          "feedback": "Correto! Os segmentos correspondentes formados nas duas retas transversais são proporcionais."
+        },
+        {
+          "letter": "C",
+          "text": "Perpendiculares",
+          "is_correct": false,
+          "feedback": "Incorreto. A relação de perpendicularidade refere-se a ângulos de 90° entre retas, não à proporção entre comprimentos de segmentos."
+        },
+        {
+          "letter": "D",
+          "text": "Inversamente proporcionais",
+          "is_correct": false,
+          "feedback": "Incorreto. Os segmentos são diretamente proporcionais, ou seja, a razão entre segmentos de uma transversal é igual à razão entre os correspondentes da outra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "O Teorema de Tales estabelece que um feixe de retas paralelas determina, sobre duas retas transversais quaisquer, segmentos correspondentes cujas medidas são diretamente proporcionais.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v4",
+      "statement": "Utilizando a semelhança de triângulos formados pelos raios solares paralelos, qual é a altura do prédio?",
+      "context": "Um arquiteto em Salvador deseja determinar a altura de um prédio histórico. No mesmo instante, um poste vertical de 2 metros de altura projeta uma sombra de 3 metros no chão, e a sombra do prédio mede 15 metros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Verifique a proporção estabelecida entre altura e sombra (H/S = h/s)."
+        },
+        {
+          "letter": "B",
+          "text": "10 metros",
+          "is_correct": true,
+          "feedback": "Correto! Montando a proporção H/15 = 2/3, temos H = (2 * 15) / 3 = 10 metros."
+        },
+        {
+          "letter": "C",
+          "text": "12 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Se a altura fosse 12m, a sombra deveria ser de 18m para manter a razão 2/3."
+        },
+        {
+          "letter": "D",
+          "text": "22,5 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você provavelmente multiplicou 15 por 1,5 em vez de aplicar a proporção correta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Os raios solares determinam triângulos retângulos semelhantes. Assim, a razão entre a altura do prédio (H) e a sua sombra (15 m) é igual à razão entre a altura do poste (2 m) e a sua sombra (3 m): H/15 = 2/3 => 3H = 30 => H = 10 metros.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v5",
+      "statement": "Aplicando o Teorema de Pitágoras no triângulo retângulo formado pelo poste, pelo solo e pelo fio, qual deve ser o comprimento linear do fio?",
+      "context": "Um eletricista em São Paulo precisa instalar um fio de suporte tensionado diagonalmente entre o topo de um poste de 8 metros de altura e um gancho no solo situado a 6 metros de distância da base do poste.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "14 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você simplesmente somou os comprimentos dos catetos (8 + 6) em vez de aplicar o Teorema de Pitágoras."
+        },
+        {
+          "letter": "B",
+          "text": "12 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Calcule os quadrados dos lados: 8² + 6² = 64 + 36 = 100."
+        },
+        {
+          "letter": "C",
+          "text": "10 metros",
+          "is_correct": true,
+          "feedback": "Correto! Pelo teorema de Pitágoras, c² = 8² + 6² = 64 + 36 = 100. Logo, c = √100 = 10 metros."
+        },
+        {
+          "letter": "D",
+          "text": "9,8 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Verifique seus cálculos quadráticos; o resultado é um número inteiro exato."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "O triângulo formado é retângulo com catetos medindo 6 m e 8 m. O comprimento do fio é a hipotenusa (c). Pelo Teorema de Pitágoras: c² = a² + b² => c² = 8² + 6² = 64 + 36 = 100 => c = 10 metros.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v6",
+      "statement": "Qual é a medida aproximada da altura desse triângulo equilátero?",
+      "context": "Um engenheiro mecânico em Belo Horizonte está desenhando uma engrenagem cujo perfil principal contém um triângulo equilátero de lado igual a 10 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5,0 cm",
+          "is_correct": false,
+          "feedback": "Incorreto. 5 cm é a metade do lado do triângulo (projeção no cateto), não a altura do triângulo."
+        },
+        {
+          "letter": "B",
+          "text": "5√3 cm",
+          "is_correct": true,
+          "feedback": "Correto! A altura de um triângulo equilátero de lado L é dada pela fórmula h = (L√3)/2. Para L = 10, h = 5√3 cm."
+        },
+        {
+          "letter": "C",
+          "text": "10√3 cm",
+          "is_correct": false,
+          "feedback": "Incorreto. A fórmula da altura divide o produto L√3 por 2, não multiplique apenas."
+        },
+        {
+          "letter": "D",
+          "text": "8,0 cm",
+          "is_correct": false,
+          "feedback": "Incorreto. Embora seja perto de 8,66 cm, a expressão matemática exata é dada por 5√3 cm."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Traçando a altura de um triângulo equilátero, obtemos dois triângulos retângulos com hipotenusa L, cateto L/2 e outro cateto h (altura). Pelo Teorema de Pitágoras: h² + (L/2)² = L² => h² = L² - L²/4 = 3L²/4 => h = (L√3)/2. Para L = 10 cm, h = (10√3)/2 = 5√3 cm.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v7",
+      "statement": "Qual é a medida do outro segmento de estrada determinado pelas cercas paralelas na segunda transversal?",
+      "context": "Um topógrafo analisa a planta de uma fazenda onde duas retas transversais representam estradas retas. Três cercas paralelas cortam as estradas determinando segmentos de 4 km e 6 km na primeira estrada, e um segmento de 8 km correspondente ao de 4 km na segunda estrada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 km",
+          "is_correct": false,
+          "feedback": "Incorreto. Verifique a proporção estabelecida pelo teorema de Tales (4/6 = 8/x)."
+        },
+        {
+          "letter": "B",
+          "text": "12 km",
+          "is_correct": true,
+          "feedback": "Correto! Pelo Teorema de Tales: 4 / 6 = 8 / x. Portanto, 4x = 48 => x = 12 km."
+        },
+        {
+          "letter": "C",
+          "text": "16 km",
+          "is_correct": false,
+          "feedback": "Incorreto. 16 km seria se a proporção fosse o dobro, mas a razão correta dá 12 km."
+        },
+        {
+          "letter": "D",
+          "text": "9 km",
+          "is_correct": false,
+          "feedback": "Incorreto. Aplique a propriedade fundamental das proporções multiplicando cruzado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicando o Teorema de Tales diretamente nas transversais cortadas por paralelas, montamos a igualdade das razões entre os segmentos correspondentes: 4 / 6 = 8 / x. Multiplicando cruzado, temos 4x = 6 * 8 => 4x = 48 => x = 12 km.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v8",
+      "statement": "Qual é a medida da altura relativa à hipotenusa dessa rampa?",
+      "context": "Em uma obra viária no Rio de Janeiro, um engenheiro projeta uma rampa de acesso que forma um triângulo retângulo. Ele projeta a altura relativa à hipotenusa e percebe que ela divide a hipotenusa em duas projeções lineares medindo 4 metros e 9 metros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Você calculou a média aritmética simples das projeções (4 + 6) / 2 em vez da relação geométrica h² = m * n."
+        },
+        {
+          "letter": "B",
+          "text": "6 metros",
+          "is_correct": true,
+          "feedback": "Correto! Pela relação métrica do triângulo retângulo, a altura h relativa à hipotenusa satisfaz h² = m * n. Logo, h² = 4 * 9 = 36 => h = 6 metros."
+        },
+        {
+          "letter": "C",
+          "text": "13 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. 13 metros é o comprimento total da hipotenusa (4 + 9), não a altura relativa."
+        },
+        {
+          "letter": "D",
+          "text": "7,5 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. A altura relativa à hipotenusa é a média geométrica das projeções, não a média aritmética."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "No triângulo retângulo, uma das relações métricas fundamentais é que o quadrado da altura relativa à hipotenusa (h) é igual ao produto das projeções dos catetos sobre ela (m e n): h² = m * n. Substituindo os valores dados: h² = 4 * 9 = 36 => h = 6 metros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v9",
+      "statement": "Qual é o comprimento desse cateto cuja projeção sobre a hipotenusa foi informada?",
+      "context": "Um marceneiro está criando um molde triangular retângulo. Ele sabe que a hipotenusa mede 10 cm e a projeção de um dos catetos sobre a hipotenusa mede 3,6 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "36 cm",
+          "is_correct": false,
+          "feedback": "Incorreto. Você multiplicou 10 por 3,6 mas esqueceu de extrair a raiz quadrada da relação b² = a * m."
+        },
+        {
+          "letter": "B",
+          "text": "6,0 cm",
+          "is_correct": true,
+          "feedback": "Correto! Pela relação métrica b² = a * m, onde a é a hipotenusa e m é a projeção: b² = 10 * 3,6 = 36. Logo, b = √36 = 6,0 cm."
+        },
+        {
+          "letter": "C",
+          "text": "8,0 cm",
+          "is_correct": false,
+          "feedback": "Incorreto. 8 cm seria o outro cateto, cuja projeção sobre a hipotenusa é 6,4 cm."
+        },
+        {
+          "letter": "D",
+          "text": "4,5 cm",
+          "is_correct": false,
+          "feedback": "Incorreto. Utilize a fórmula correta do cateto ao quadrado igual ao produto da hipotenusa pela sua projeção."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "No triângulo retângulo, o quadrado de um cateto é igual ao produto da hipotenusa pela projeção desse cateto sobre ela: b² = a * m. Substituindo os dados: b² = 10 * 3,6 = 36 => b = 6 cm.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v10",
+      "statement": "Sabendo que esse triângulo é retângulo por estar inscrito em uma semicircunferência, e que um de seus catetos mede 12 cm, qual é a medida do outro cateto?",
+      "context": "Um serralheiro em Campinas desenha uma peça decorativa circular. Ele traça um diâmetro de 20 cm e inscreve um triângulo com um dos lados coincidindo com o diâmetro, garantindo que o terceiro vértice toque a circunferência.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "14 cm",
+          "is_correct": false,
+          "feedback": "Incorreto. Verifique a aplicação do Teorema de Pitágoras com hipotenusa valendo 20 cm."
+        },
+        {
+          "letter": "B",
+          "text": "15 cm",
+          "is_correct": false,
+          "feedback": "Incorreto. Se os catetos fossem 12 e 15, a hipotenusa seria maior que 19."
+        },
+        {
+          "letter": "C",
+          "text": "16 cm",
+          "is_correct": true,
+          "feedback": "Correto! A hipotenusa é o diâmetro (20 cm) e um cateto é 12 cm. Por Pitágoras: 20² = 12² + x² => 400 = 144 + x² => x² = 256 => x = 16 cm."
+        },
+        {
+          "letter": "D",
+          "text": "18 cm",
+          "is_correct": false,
+          "feedback": "Incorreto. Calcule os quadrados dos lados com atenção e resolva para x."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Qualquer triângulo inscrito em uma circunferência onde um dos lados é o diâmetro é retângulo, com a hipotenusa igual ao diâmetro. Portanto, temos a hipotenusa a = 20 cm e o cateto b = 12 cm. Pelo Teorema de Pitágoras: a² = b² + c² => 20² = 12² + c² => 400 = 144 + c² => c² = 256 => c = 16 cm.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v11",
+      "statement": "Se a razão de semelhança entre o triângulo menor e o maior é de 2/3, e a área do triângulo menor é 24 cm², qual é a área do triângulo maior?",
+      "context": "Um estudante em São Paulo estuda mapas e ampliações de terrenos. Ele sabe que se dois triângulos são semelhantes, a razão entre suas áreas é igual ao quadrado da razão de semelhança (k²).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "36 cm²",
+          "is_correct": false,
+          "feedback": "Incorreto. Você multiplicou pela razão linear inversa (3/2) em vez da razão quadrática (9/4)."
+        },
+        {
+          "letter": "B",
+          "text": "54 cm²",
+          "is_correct": true,
+          "feedback": "Correto! A razão das áreas é (2/3)² = 4/9. Logo, 24 / A_maior = 4/9 => 4 * A_maior = 216 => A_maior = 54 cm²."
+        },
+        {
+          "letter": "C",
+          "text": "48 cm²",
+          "is_correct": false,
+          "feedback": "Incorreto. Lembre-se de que a área cresce com o quadrado da escala, não de forma linear pura."
+        },
+        {
+          "letter": "D",
+          "text": "81 cm²",
+          "is_correct": false,
+          "feedback": "Incorreto. A proporção quadrática correta de aumento resulta em 54 cm²."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A razão entre as áreas de figuras semelhantes é dada pelo quadrado da razão de semelhança: A1 / A2 = k². Se k = 2/3, então k² = 4/9. Estabelecemos a proporção: 24 / A2 = 4/9. Multiplicando cruzado: 4 * A2 = 24 * 9 = 216 => A2 = 54 cm².",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v12",
+      "statement": "Qual é o comprimento do outro segmento do lado BC determinado pela bissetriz?",
+      "context": "Um projetista mecânico em Joinville aplica o Teorema da Bissetriz Interna em um triângulo ABC para dividir tensões estruturais. No triângulo, os lados AB e AC medem 12 cm e 18 cm, respectivamente. A bissetriz interna do ângulo A corta o lado BC, determinando dois segmentos, dos quais o menor (ligado a AB) mede 6 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 cm",
+          "is_correct": false,
+          "feedback": "Incorreto. Aplique a relação correta da bissetriz interna: os segmentos são proporcionais aos lados adjacentes."
+        },
+        {
+          "letter": "B",
+          "text": "9 cm",
+          "is_correct": true,
+          "feedback": "Correto! Pelo Teorema da Bissetriz Interna: AB / 6 = AC / y => 12 / 6 = 18 / y => 2 = 18 / y => y = 9 cm."
+        },
+        {
+          "letter": "C",
+          "text": "10 cm",
+          "is_correct": false,
+          "feedback": "Incorreto. Verifique a divisão direta dos valores correspondentes."
+        },
+        {
+          "letter": "D",
+          "text": "12 cm",
+          "is_correct": false,
+          "feedback": "Incorreto. O segmento correspondente ao lado de 18 cm deve ser proporcional à razão entre 12 e 18, resultando em 9 cm."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "O Teorema da Bissetriz Interna garante que a bissetriz de um ângulo interno de um triângulo divide o lado oposto em segmentos proporcionais aos lados adjacentes. Portanto: AB / segment1 = AC / segment2 => 12 / 6 = 18 / x => 2 = 18 / x => x = 9 cm.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v13",
+      "statement": "Qual é a distância em linha reta percorrida pelo drone desde o heliponto até esta posição no espaço?",
+      "context": "Um drone decolando de um heliponto em Vitória sobe em linha reta mantendo uma inclinação constante. Quando a projeção horizontal do drone no solo está a 120 metros do ponto de partida, sua altitude vertical em relação ao solo é de 90 metros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "130 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Verifique os valores do Teorema de Pitágoras com catetos 90 e 120."
+        },
+        {
+          "letter": "B",
+          "text": "150 metros",
+          "is_correct": true,
+          "feedback": "Correto! Pelo Teorema de Pitágoras, d² = 120² + 90² = 14400 + 8100 = 22500. Logo, d = √22500 = 150 metros."
+        },
+        {
+          "letter": "C",
+          "text": "160 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Este triângulo retângulo é proporcional ao triângulo clássico de lados 3, 4 e 5, multiplicado por 30."
+        },
+        {
+          "letter": "D",
+          "text": "210 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Não se deve simplesmente somar as duas projeções planares para obter a distância diagonal tridimensional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A trajetória diagonal do drone, a distância horizontal e a altitude formam um triângulo retângulo. Usando o Teorema de Pitágoras: Hipotenusa² = Cateto1² + Cateto2² => d² = 120² + 90² = 14400 + 8100 = 22500 => d = √22500 = 150 metros. Este triângulo é uma ampliação por fator 30 do triângulo retângulo pitagórico fundamental (3, 4, 5).",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v14",
+      "statement": "Qual é a distância entre o vértice A e o baricentro G da placa?",
+      "context": "Uma placa de metal triangular ABC homogênea tem seu centro de gravidade situado exatamente em seu baricentro G. Um engenheiro sabe que as medianas se intersectam nesse ponto. A mediana relativa ao vértice A mede 18 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 cm",
+          "is_correct": false,
+          "feedback": "Incorreto. 6 cm é a distância do baricentro até o ponto médio do lado oposto (1/3 da mediana)."
+        },
+        {
+          "letter": "B",
+          "text": "12 cm",
+          "is_correct": true,
+          "feedback": "Correto! O baricentro divide cada mediana na razão de 2:1 a partir do vértice. Logo, a distância AG é igual a 2/3 do comprimento total da mediana: (2/3) * 18 = 12 cm."
+        },
+        {
+          "letter": "C",
+          "text": "9 cm",
+          "is_correct": false,
+          "feedback": "Incorreto. O baricentro não divide a mediana ao meio (1:1), mas na proporção de 2 partes para 1 parte."
+        },
+        {
+          "letter": "D",
+          "text": "15 cm",
+          "is_correct": false,
+          "feedback": "Incorreto. A distância do baricentro ao vértice é exatamente o dobro da distância ao ponto médio do lado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "O baricentro (ponto de encontro das medianas) divide cada mediana em duas partes, tais que a parte que contém o vértice é o dobro da parte que contém o ponto médio do lado. Em outras palavras, a distância do vértice ao baricentro é 2/3 do comprimento total da mediana. Portanto, AG = (2/3) * 18 = 12 cm.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v15",
+      "statement": "Qual é a medida linear do lado AD dessa chapa metálica?",
+      "context": "Um serralheiro precisa cortar uma chapa metálica de formato de dois triângulos retângulos adjacentes ABC e ACD, que compartilham o lado AC. Sabe-se que AB = 3 cm, BC = 4 cm, e o ângulo B é reto. O triângulo ACD é retângulo em C, e o lado CD mede 12 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 cm",
+          "is_correct": false,
+          "feedback": "Incorreto. Calcule primeiro a hipotenusa compartilhada AC usando o primeiro triângulo (3, 4, 5)."
+        },
+        {
+          "letter": "B",
+          "text": "13 cm",
+          "is_correct": true,
+          "feedback": "Correto! No triângulo ABC, AC² = 3² + 4² = 25 => AC = 5 cm. No triângulo ACD, AD² = AC² + CD² = 5² + 12² = 25 + 144 = 169 => AD = 13 cm."
+        },
+        {
+          "letter": "C",
+          "text": "15 cm",
+          "is_correct": false,
+          "feedback": "Incorreto. Verifique a soma dos quadrados das hipotenusas em cada etapa de aplicação de Pitágoras."
+        },
+        {
+          "letter": "D",
+          "text": "17 cm",
+          "is_correct": false,
+          "feedback": "Incorreto. Os comprimentos são obtidos sequencialmente e formam triângulos pitagóricos exatos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicamos o Teorema de Pitágoras duas vezes: 1) No triângulo ABC retângulo em B: AC² = AB² + BC² = 3² + 4² = 9 + 16 = 25 => AC = 5 cm. 2) No triângulo ACD retângulo em C: AD² = AC² + CD² = 5² + 12² = 25 + 144 = 169 => AD = √169 = 13 cm.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v16",
+      "statement": "Qual é a área total desse canteiro triangular em metros quadrados?",
+      "context": "Um paisagista em Londrina projeta um canteiro de flores no formato de um triângulo isósceles cujos lados congruentes medem 13 metros cada, e a base mede 10 metros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "65 m²",
+          "is_correct": false,
+          "feedback": "Incorreto. Você multiplicou a base pela lateral diretamente (10 * 13 / 2), mas a altura do triângulo é menor que o lado congruente."
+        },
+        {
+          "letter": "B",
+          "text": "60 m²",
+          "is_correct": true,
+          "feedback": "Correto! A altura h divide a base ao meio em dois segmentos de 5 m. Por Pitágoras: 13² = 5² + h² => 169 = 25 + h² => h = 12 m. Área = (base * altura) / 2 = (10 * 12) / 2 = 60 m²."
+        },
+        {
+          "letter": "C",
+          "text": "120 m²",
+          "is_correct": false,
+          "feedback": "Incorreto. Esqueceu de dividir o produto da base pela altura por 2 na fórmula da área triangular."
+        },
+        {
+          "letter": "D",
+          "text": "50 m²",
+          "is_correct": false,
+          "feedback": "Incorreto. Encontre primeiro a altura correta do triângulo isósceles usando Pitágoras."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "No triângulo isósceles de lados 13, 13 e base 10, a altura em relação à base também é mediana, dividindo-a em dois segmentos de 5 m. Aplicando o Teorema de Pitágoras em um dos triângulos retângulos formados: 13² = 5² + h² => 169 = 25 + h² => h² = 144 => h = 12 m. A área é A = (base * altura)/2 = (10 * 12)/2 = 60 m².",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v17",
+      "statement": "Qual é o valor real da projeção de menor comprimento (x) nesse triângulo?",
+      "context": "Durante um teste de qualificação mecânica na USP, uma prensa exerce uma força sobre um braço metálico em formato triangular retângulo. No triângulo ABC, retângulo em A, sabe-se que as projeções dos catetos sobre a hipotenusa medem x e x+7, e a altura relativa à hipotenusa mede 12 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 cm",
+          "is_correct": false,
+          "feedback": "Incorreto. Se x=5, as projeções seriam 5 e 12, h² seria 60, diferente de 144."
+        },
+        {
+          "letter": "B",
+          "text": "9 cm",
+          "is_correct": true,
+          "feedback": "Correto! Pela relação h² = m * n, temos 12² = x(x+7) => 144 = x² + 7x => x² + 7x - 144 = 0. As raízes são 9 e -16. Sendo x positivo, x = 9 cm."
+        },
+        {
+          "letter": "C",
+          "text": "16 cm",
+          "is_correct": false,
+          "feedback": "Incorreto. 16 cm é o valor absoluto da raiz negativa da equação quadrática, mas o comprimento físico deve ser positivo."
+        },
+        {
+          "letter": "D",
+          "text": "12 cm",
+          "is_correct": false,
+          "feedback": "Incorreto. Desenvolva a equação quadrática com base nas projeções e na altura relativa informada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pela relação métrica clássica no triângulo retângulo: h² = m * n. Substituindo os valores dados: 12² = x * (x + 7) => 144 = x² + 7x => x² + 7x - 144 = 0. Resolvendo esta equação quadrática por Bhaskara ou fatoração: (x - 9)(x + 16) = 0. Como x representa uma grandeza física linear, descartamos a raiz negativa x = -16. Portanto, x = 9 cm.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v18",
+      "statement": "Qual é a menor distância real aproximada que a formiga deve percorrer caminhando sobre as faces externas do bloco para ir de A até G?",
+      "context": "Uma formiga está no vértice inferior A de um bloco de concreto em formato de paralelepípedo reto-retângulo com dimensões de 3 dm, 4 dm e 12 dm, e deseja caminhar pela superfície até o vértice oposto diagonalmente mais distante G.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "13 dm",
+          "is_correct": false,
+          "feedback": "Incorreto. 13 dm é a diagonal interna tridimensional do bloco (√(3² + 4² + 12²)), mas a formiga não pode atravessar o concreto por dentro."
+        },
+        {
+          "letter": "B",
+          "text": "15 dm",
+          "is_correct": false,
+          "feedback": "Incorreto. 15 dm seria o caminho se ela seguisse caminhos ortogonais específicos de maior comprimento."
+        },
+        {
+          "letter": "C",
+          "text": "19 dm",
+          "is_correct": false,
+          "feedback": "Incorreto. 19 dm é a soma linear das três arestas (3 + 4 + 12), o que não representa o caminho mais curto na superfície."
+        },
+        {
+          "letter": "D",
+          "text": "√193 dm",
+          "is_correct": true,
+          "feedback": "Correto! Analisando as possíveis planificações das faces do bloco, os catetos do triângulo de menor caminho são (3 + 4) = 7 dm e 12 dm. A hipotenusa é dada por √(7² + 12²) = √(49 + 144) = √193 dm."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "A formiga caminha sobre a superfície (espaço bidimensional planificado), logo devemos analisar a planificação do sólido. Existem três maneiras de combinar as faces para ir de um vértice ao oposto diagonalmente: 1) Catetos (3+4)=7 e 12 => d² = 7² + 12² = 193 => d = √193 dm. 2) Catetos (3+12)=15 e 4 => d² = 15² + 4² = 241 => d = √241 dm. 3) Catetos 3 e (4+12)=16 => d² = 3² + 16² = 265 => d = √265 dm. O menor desses valores é √193 dm.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v19",
+      "statement": "Utilizando as relações de semelhança de triângulos e a altura do triângulo retângulo, qual é a medida linear exata do lado desse quadrado?",
+      "context": "Um marceneiro projeta um painel decorativo composto por um triângulo retângulo de catetos medindo 6 dm e 8 dm. Ele precisa inscrever um quadrado dentro desse triângulo de modo que um dos lados do quadrado fique apoiado totalmente sobre a hipotenusa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2,4 dm",
+          "is_correct": false,
+          "feedback": "Incorreto. 2,4 dm é a metade da altura relativa à hipotenusa, mas não corresponde ao lado do quadrado inscrito."
+        },
+        {
+          "letter": "B",
+          "text": "37,5/12 dm",
+          "is_correct": false,
+          "feedback": "Incorreto. Esse valor excede o limite físico geométrico para inscrição."
+        },
+        {
+          "letter": "C",
+          "text": "120/49 dm",
+          "is_correct": false,
+          "feedback": "Incorreto. Verifique a formulação das proporções com cuidado utilizando a semelhança de triângulos."
+        },
+        {
+          "letter": "D",
+          "text": "120/53 dm",
+          "is_correct": true,
+          "feedback": "Correto! A hipotenusa do triângulo é a = 10 dm e a altura relativa à hipotenusa é h = 4,8 dm. Pela semelhança de triângulos, o lado x do quadrado apoiado na hipotenusa satisfaz x = (a * h) / (a + h + (b*c/a)), que resulta exatamente em x = 120/53 dm (aproximadamente 2,26 dm)."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "No triângulo retângulo de catetos b = 6 dm e c = 8 dm, a hipotenusa é a = 10 dm e a altura relativa à hipotenusa é h = 4,8 dm. Quando um quadrado de lado x é inscrito com um lado sobre a hipotenusa, os triângulos retângulos menores formados no topo e nas laterais são semelhantes ao triângulo original. A análise rigorosa de semelhança leva à relação x = (a * h) / (a + h + (b*c/a)), que resulta em x = 120/53 dm.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v20",
+      "statement": "Qual é a medida linear do segmento paralelo EF situado entre as bases?",
+      "context": "Em um canteiro de obras em São José dos Campos, um engenheiro projeta uma rampa de formato trapezoidal ABCD, onde as bases paralelas AB e CD medem 10 metros e 15 metros, respectivamente. Um segmento de reta EF paralelo às bases divide os lados não paralelos AD e BC na razão AE/ED = BF/FC = 2/3.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12,5 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. 12,5 m é a média aritmética simples das bases, o que representaria apenas a base média (razão 1:1), não a razão ponderada 2:3."
+        },
+        {
+          "letter": "B",
+          "text": "12,0 metros",
+          "is_correct": true,
+          "feedback": "Correto! Pela fórmula do segmento paralelo no trapézio: EF = (AE * CD + ED * AB) / (AE + ED). Como AE/ED = 2/3, podemos usar pesos 3 e 2: EF = (2 * 15 + 3 * 10) / (2 + 3) = (30 + 30) / 5 = 12,0 metros."
+        },
+        {
+          "letter": "C",
+          "text": "11,5 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Verifique a aplicação da média ponderada para segmentos paralelos em trapézios de acordo com a razão de divisão."
+        },
+        {
+          "letter": "D",
+          "text": "13,0 metros",
+          "is_correct": false,
+          "feedback": "Incorreto. Como o segmento está mais próximo da base de 10 m do que da base de 15 m (proporção 2 para 3), o comprimento deve ser menor que a média simples."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para encontrar o comprimento do segmento EF paralelo às bases AB e CD de um trapézio dividindo os lados transversais na razão r = AE/ED = 2/3, usamos a fórmula da média ponderada das bases: EF = (AE * CD + ED * AB) / (AE + ED) = (2 * 15 + 3 * 10) / (2 + 3) = (30 + 30) / 5 = 60 / 5 = 12 metros.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    }
+  ]
+}

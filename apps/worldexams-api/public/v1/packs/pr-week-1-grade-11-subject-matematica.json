@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pr",
+    "pack_id": "pr-week-1-grade-11-subject-matematicas",
+    "generated_at": "2026-07-29T02:17:15.694Z"
+  },
+  "questions": [
+    {
+      "id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v1",
+      "statement": "¿A cuál de los siguientes conjuntos pertenece el número $-\\sqrt{49}$?",
+      "context": "Un estudiante en San Juan clasifica números en la recta numérica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enteros negativos",
+          "is_correct": true,
+          "feedback": "Correcto. $-\\sqrt{49} = -7$, que es un número entero negativo."
+        },
+        {
+          "letter": "B",
+          "text": "Irracionales",
+          "is_correct": false,
+          "feedback": "Incorrecto. $-\\sqrt{49}$ es $-7$, que es racional y entero."
+        },
+        {
+          "letter": "C",
+          "text": "Imaginarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. El radicando es positivo, por lo que es un número real."
+        },
+        {
+          "letter": "D",
+          "text": "Fraccionarios propios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un número entero, no una fracción propia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El número $-\\sqrt{49}$ se simplifica directamente como $-7$. Dado que $-7$ no posee parte decimal y se encuentra a la izquierda del cero en la recta numérica, pertenece al conjunto de los enteros negativos ($\\mathbb{Z}^-$).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el elemento neutro (identidad) de la multiplicación en el conjunto de los números reales?",
+      "context": "Un maestro de escuela superior en Ponce explica las propiedades de los números reales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cero es la identidad de la suma (aditivo)."
+        },
+        {
+          "letter": "B",
+          "text": "$1$",
+          "is_correct": true,
+          "feedback": "Correcto. Multiplicar cualquier número real por $1$ mantiene el valor original."
+        },
+        {
+          "letter": "C",
+          "text": "$-1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicar por $-1$ cambia el signo del número."
+        },
+        {
+          "letter": "D",
+          "text": "Inexistente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conjunto de los números reales es un cuerpo y tiene neutro multiplicativo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La propiedad de identidad multiplicativa establece que para cualquier número real $a$, se cumple que $a \\cdot 1 = a$. Por lo tanto, el número $1$ es el elemento neutro multiplicativo.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la representación decimal del número racional $\\frac{5}{8}$?",
+      "context": "Gabriela analiza los costos de un proyecto de ciencias en Bayamón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.58$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\frac{5}{8}$ no equivale a este decimal exacto."
+        },
+        {
+          "letter": "B",
+          "text": "$0.625$",
+          "is_correct": true,
+          "feedback": "Correcto. Dividir $5$ entre $8$ da exactamente $0.625$."
+        },
+        {
+          "letter": "C",
+          "text": "$0.666...$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este decimal periódico representa a $\\frac{2}{3}$."
+        },
+        {
+          "letter": "D",
+          "text": "$0.85$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor no corresponde a la fracción dada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para convertir la fracción racional $\\frac{5}{8}$ a su representación decimal, se divide el numerador entre el denominador: $5 \\div 8 = 0.625$. Este es un decimal exacto o finito.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v4",
+      "statement": "¿Qué tipo de número decimal es $0.121212...$ y cuál es su fracción generatriz simplificada?",
+      "context": "Luis toma una medida en metros en una construcción en Carolina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decimal exacto, representado por $\\frac{12}{100}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los puntos suspensivos indican que las cifras se repiten infinitamente."
+        },
+        {
+          "letter": "B",
+          "text": "Decimal periódico puro, representado por $\\frac{4}{33}$.",
+          "is_correct": true,
+          "feedback": "Correcto. El periodo es $12$, y la fracción es $\\frac{12}{99} = \\frac{4}{33}$."
+        },
+        {
+          "letter": "C",
+          "text": "Decimal periódico mixto, representado por $\\frac{12}{90}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay parte no periódica después del punto decimal."
+        },
+        {
+          "letter": "D",
+          "text": "Decimal irracional, representado por $\\frac{1}{12}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un número racional porque se puede expresar como fracción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El decimal $0.121212...$ es periódico puro con periodo $12$. Su fracción generatriz es $\\frac{12}{99}$. Al simplificar dividiendo entre $3$, obtenemos $\\frac{4}{33}$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v5",
+      "statement": "Si la temperatura inicial es de $-3.4^\\circ\\text{C}$ y desciende $5.8^\\circ\\text{C}$ adicionales, ¿cuál es la temperatura final?",
+      "context": "Un termómetro digital en el tope de El Yunque registra variaciones de temperatura extrema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2.4^\\circ\\text{C}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó incorrectamente sin considerar los signos negativos."
+        },
+        {
+          "letter": "B",
+          "text": "$-2.4^\\circ\\text{C}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al descender, la temperatura debe ser más fría."
+        },
+        {
+          "letter": "C",
+          "text": "$-9.2^\\circ\\text{C}$",
+          "is_correct": true,
+          "feedback": "Correcto. $-3.4 - 5.8 = -9.2$."
+        },
+        {
+          "letter": "D",
+          "text": "$-8.2^\\circ\\text{C}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo en la suma de los valores absolutos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dado que la temperatura desciende, realizamos una resta sobre un valor negativo: $-3.4 - 5.8$. Sumamos sus valores absolutos ($3.4 + 5.8 = 9.2$) y mantenemos el signo negativo, dando como resultado $-9.2^\\circ\\text{C}$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de las siguientes afirmaciones describe correctamente el valor de $|x - y|$ para dos puntos cualesquiera $x$ e $y$?",
+      "context": "Sofía estudia la recta numérica real en su clase de la Universidad de Puerto Rico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la suma de las distancias desde el origen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería $|x| + |y|$."
+        },
+        {
+          "letter": "B",
+          "text": "Representa la distancia absoluta entre los puntos $x$ e $y$ en la recta numérica.",
+          "is_correct": true,
+          "feedback": "Correcto. La distancia entre dos puntos siempre es el valor absoluto de su diferencia."
+        },
+        {
+          "letter": "C",
+          "text": "Es siempre igual a $x - y$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si $x < y$, $x - y$ es negativo, pero el valor absoluto es positivo."
+        },
+        {
+          "letter": "D",
+          "text": "Puede ser un valor negativo si $y$ es mayor que $x$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor absoluto por definición es siempre mayor o igual a cero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La expresión $|x - y|$ mide la diferencia absoluta entre las coordenadas $x$ e $y$, que corresponde a la distancia geométrica entre ambos puntos en la recta real. Al ser una distancia, siempre es no negativa.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v7",
+      "statement": "Si el costo de los materiales es de $\\$45.00$ y se le aplica un impuesto de venta del $11.5\\%$, ¿cuál es el costo total a pagar?",
+      "context": "Diego compra materiales para su escuela por internet en Mayagüez.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\$5.18$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es solo el costo del impuesto de venta."
+        },
+        {
+          "letter": "B",
+          "text": "$\\$50.18$",
+          "is_correct": true,
+          "feedback": "Correcto. El impuesto es $45 \\times 0.115 = 5.175$ (redondeado a $5.18$). Total: $45 + 5.18 = 50.18$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\$45.12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó directamente el porcentaje sin calcular su equivalente monetario."
+        },
+        {
+          "letter": "D",
+          "text": "$\\$51.50$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al calcular el porcentaje de impuesto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para calcular el total, primero hallamos el impuesto multiplicando el costo original por la tasa decimal: $45 \\times 0.115 = 5.175$. Redondeando a centavos, el impuesto es $\\$5.18$. Al sumarlo al costo inicial, obtenemos un total de $\\$50.18$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v8",
+      "statement": "Se tienen $\\frac{3}{5}$ litros de una solución ácida y se le agregan $0.45$ litros de agua destilada. ¿Cuál es el volumen total de la mezcla en forma de fracción simplificada?",
+      "context": "En un laboratorio químico en Humacao, un técnico mezcla dos soluciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{2}$ litros",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma debe ser mayor que cada componente de forma individual."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{21}{20}$ litros",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{3}{5} + 0.45 = 0.60 + 0.45 = 1.05 = \\frac{105}{100} = \\frac{21}{20}$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{39}{20}$ litros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al sumar las fracciones."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{7}{10}$ litros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este volumen es menor que la suma de los componentes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Convertimos la fracción a decimal o el decimal a fracción. $0.45 = \\frac{45}{100} = \\frac{9}{20}$. Sumando las fracciones: $\\frac{3}{5} + \\frac{9}{20} = \\frac{12}{20} + \\frac{9}{20} = \\frac{21}{20}$ litros (o $1.05$ litros).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v9",
+      "statement": "La finca tiene una extensión de $120$ cuerdas. Si destina $\\frac{1}{3}$ al café, $0.25$ al plátano y el resto a cítricos, ¿cuántas cuerdas corresponden a cítricos?",
+      "context": "Un agricultor en Ciales divide una finca para diferentes cultivos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 cuerdas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta cantidad corresponde al plátano ($0.25 \\times 120 = 30$)."
+        },
+        {
+          "letter": "B",
+          "text": "40 cuerdas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta cantidad corresponde al café ($\\frac{1}{3} \\times 120 = 40$)."
+        },
+        {
+          "letter": "C",
+          "text": "50 cuerdas",
+          "is_correct": true,
+          "feedback": "Correcto. Café: $40$, Plátano: $30$. Suma: $70$. Resto para cítricos: $120 - 70 = 50$ cuerdas."
+        },
+        {
+          "letter": "D",
+          "text": "70 cuerdas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el total destinado a café y plátano combinados."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Primero calculamos el espacio asignado: Café $= 120 \\times \\frac{1}{3} = 40$ cuerdas. Plátano $= 120 \\times 0.25 = 30$ cuerdas. El total ocupado es $40 + 30 = 70$ cuerdas. Restando del total de la finca: $120 - 70 = 50$ cuerdas destinadas a cítricos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v10",
+      "statement": "El punto $A$ se encuentra a $14.5$ metros sobre el nivel del mar y el punto $B$ a $-3.2$ metros. ¿Cuál es la distancia vertical absoluta entre ambos puntos?",
+      "context": "Un topógrafo en Rincón calcula la diferencia de altura de dos terrenos con respecto al nivel del mar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11.3 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto se obtuvo restando de forma simple sin valor absoluto de la diferencia."
+        },
+        {
+          "letter": "B",
+          "text": "17.7 metros",
+          "is_correct": true,
+          "feedback": "Correcto. $|14.5 - (-3.2)| = |14.5 + 3.2| = 17.7$ metros."
+        },
+        {
+          "letter": "C",
+          "text": "-17.7 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las distancias no pueden ser negativas."
+        },
+        {
+          "letter": "D",
+          "text": "17.3 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo en la adición decimal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La distancia vertical absoluta entre los puntos $A$ y $B$ se halla mediante el valor absoluto de su diferencia: $|y_A - y_B| = |14.5 - (-3.2)| = |14.5 + 3.2| = 17.7$ metros.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el valor simplificado de la expresión $\\left(\\frac{2}{3} - \\frac{1}{4}\\right) \\div \\left(\\frac{5}{12} + \\frac{1}{2}\\right)$?",
+      "context": "En un examen de admisión universitaria, un estudiante debe simplificar expresiones complejas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la suma o resta intermedia."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{5}{11}$",
+          "is_correct": true,
+          "feedback": "Correcto. Numerador: $\\frac{8-3}{12} = \\frac{5}{12}$. Denominador: $\\frac{5+6}{12} = \\frac{11}{12}$. División: $\\frac{5}{12} \\cdot \\frac{12}{11} = \\frac{5}{11}$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{11}{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se invirtió el orden de la división."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{5}{12}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al realizar la división de fracciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Simplificamos el numerador: $\\frac{2}{3} - \\frac{1}{4} = \\frac{8 - 3}{12} = \\frac{5}{12}$. Simplificamos el denominador: $\\frac{5}{12} + \\frac{1}{2} = \\frac{5 + 6}{12} = \\frac{11}{12}$. Al dividir numerador entre denominador: $\\frac{5}{12} \\div \\frac{11}{12} = \\frac{5}{11}$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v12",
+      "statement": "Si un abrigo cuesta originalmente $\\$80.00$, ¿cuál es su precio final de venta?",
+      "context": "Una tienda en Caguas anuncia un descuento del $20\\%$ en abrigos, y luego un descuento adicional del $10\\%$ sobre el precio ya rebajado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\$56.00$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se asumió una rebaja del $30\\%$ directa de forma incorrecta."
+        },
+        {
+          "letter": "B",
+          "text": "$\\$57.60$",
+          "is_correct": true,
+          "feedback": "Correcto. Primer descuento: $80 \\times 0.80 = 64$. Segundo descuento: $64 \\times 0.90 = 57.60$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\$64.00$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es solo el precio tras el primer descuento de $20\\%$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\$60.00$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo matemático en el descuento sucesivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El primer descuento del $20\\%$ deja el precio en el $80\\%$ del original: $80 \\times 0.80 = 64.00$ dólares. El segundo descuento del $10\\%$ se aplica sobre $64.00$, dejando el precio en el $90\\%$: $64 \\times 0.90 = 57.60$ dólares.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál de las siguientes afirmaciones sobre la propiedad de clausura (cierre) es CORRECTA?",
+      "context": "Sofía analiza las propiedades de clausura en diferentes conjuntos numéricos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El conjunto de los números enteros es cerrado bajo la operación de división.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por ejemplo, $3 \\div 2 = 1.5$, que no es entero."
+        },
+        {
+          "letter": "B",
+          "text": "El conjunto de los números naturales es cerrado bajo la resta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por ejemplo, $2 - 5 = -3$, que no es natural."
+        },
+        {
+          "letter": "C",
+          "text": "El conjunto de los números irracionales NO es cerrado bajo la multiplicación.",
+          "is_correct": true,
+          "feedback": "Correcto. Multiplicar $\\sqrt{2} \\cdot \\sqrt{2} = 2$, que es un número racional."
+        },
+        {
+          "letter": "D",
+          "text": "El conjunto de los números racionales no es cerrado bajo la suma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de dos números racionales siempre produce otro racional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El conjunto de los números irracionales no cumple la propiedad de clausura en la multiplicación, dado que el producto de dos números irracionales puede dar como resultado un número racional. Ejemplo: $\\sqrt{2} \\cdot \\sqrt{2} = 2$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v14",
+      "statement": "Si un sensor tiene una lectura de $25.42^\\circ\\text{C}$ con un error absoluto de $|x - 25.42| \\le 0.05$, ¿cuál es el intervalo que contiene los valores reales posibles de temperatura?",
+      "context": "Un ingeniero en Mayagüez mide la precisión de sensores de temperatura usando diferencias de escala.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[25.37, 25.47]$",
+          "is_correct": true,
+          "feedback": "Correcto. $25.42 - 0.05 = 25.37$ y $25.42 + 0.05 = 25.47$."
+        },
+        {
+          "letter": "B",
+          "text": "$[25.30, 25.50]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rango de error es más amplio que el permitido por la desigualdad."
+        },
+        {
+          "letter": "C",
+          "text": "$[-25.37, 25.47]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura real debe ser cercana a $25.42$, no negativa."
+        },
+        {
+          "letter": "D",
+          "text": "$[25.42, 25.47]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto excluye los valores menores al centro del intervalo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La desigualdad absoluta $|x - 25.42| \\le 0.05$ se traduce en el intervalo $-0.05 \\le x - 25.42 \\le 0.05$. Sumando $25.42$ en toda la desigualdad: $25.37 \\le x \\le 25.47$, lo que representa el intervalo $[25.37, 25.47]$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v15",
+      "statement": "Si $a < b$ y $c < 0$, ¿cuál de las siguientes desigualdades con números reales es CORRECTA?",
+      "context": "Un programador de la Universidad de Puerto Rico evalúa expresiones booleanas y de orden real.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$ac < bc$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicar por un número negativo invierte el sentido de la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "$ac > bc$",
+          "is_correct": true,
+          "feedback": "Correcto. Al multiplicar ambos lados de $a < b$ por un número negativo $c$, el signo se invierte."
+        },
+        {
+          "letter": "C",
+          "text": "$a + c > b + c$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar un número (positivo o negativo) mantiene el sentido original de la desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{a}{c} < \\frac{b}{c}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividir por un valor negativo también invierte el sentido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una propiedad fundamental de las desigualdades reales establece que al multiplicar o dividir ambos lados por un número negativo, el sentido de la desigualdad cambia. Dado que $a < b$ y $c < 0$, al multiplicar por $c$ obtenemos $ac > bc$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es el valor promedio que se encuentra exactamente en el punto medio entre los racionales $\\frac{1}{3}$ y $\\frac{4}{5}$?",
+      "context": "En un curso de cálculo en Río Piedras, se analiza la densidad de los números reales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{5}{8}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde al promedio exacto."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{17}{30}$",
+          "is_correct": true,
+          "feedback": "Correcto. Promedio: $\\frac{1}{2}\\left(\\frac{1}{3} + \\frac{4}{5}\\right) = \\frac{1}{2}\\left(\\frac{5 + 12}{15}\night) = \\frac{1}{2}\\left(\\frac{17}{15}\\right) = \\frac{17}{30}$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{5}{15}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al sumar de forma directa numeradores y denominadores."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{17}{15}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó la suma de los extremos pero se olvidó dividir por $2$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar el punto medio (promedio) de dos números, los sumamos y dividimos entre $2$. Suma: $\\frac{1}{3} + \\frac{4}{5} = \\frac{5 + 12}{15} = \\frac{17}{15}$. Dividiendo por $2$: $\\frac{17}{15} \\div 2 = \\frac{17}{30}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v17",
+      "statement": "Se determina que la humedad $h$ satisface la desigualdad real $|2h - 5| \\ge 3$. ¿Cuál es el conjunto solución para la humedad?",
+      "context": "Un investigador de suelos en El Yunque analiza el contenido de humedad relativo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[1, 4]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este intervalo corresponde a la desigualdad menor o igual que ($|2h-5| \\le 3$)."
+        },
+        {
+          "letter": "B",
+          "text": "$(-\\infty, 1] \\cup [4, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. $2h - 5 \\ge 3 \\Rightarrow 2h \\ge 8 \\Rightarrow h \\ge 4$. O bien $2h - 5 \\le -3 \\Rightarrow 2h \\le 2 \\Rightarrow h \\le 1$."
+        },
+        {
+          "letter": "C",
+          "text": "$[4, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió la parte negativa del valor absoluto."
+        },
+        {
+          "letter": "D",
+          "text": "$(-\\infty, 1]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió la parte positiva de la desigualdad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La desigualdad absoluta de tipo mayor o igual se divide en dos casos: Caso 1: $2h - 5 \\ge 3 \\Rightarrow 2h \\ge 8 \\Rightarrow h \\ge 4$, que es $[4, \\infty)$. Caso 2: $2h - 5 \\le -3 \\Rightarrow 2h \\le 2 \\Rightarrow h \\le 1$, que es $(-\\infty, 1]$. La unión es $(-\\infty, 1] \\cup [4, \\infty)$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál de los siguientes valores de $x$ demuestra que la afirmación 'Para todo número real $x$, $\\sqrt{x^2} = x$' es FALSA?",
+      "context": "Un estudiante de precálculo en Mayagüez busca contraejemplos para prposiciones algebraicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para $5$ positivo, $\\sqrt{5^2} = 5$, lo cual es verdadero."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para $0$, $\\sqrt{0^2} = 0$, que es correcto."
+        },
+        {
+          "letter": "C",
+          "text": "$x = -3$",
+          "is_correct": true,
+          "feedback": "Correcto. Si $x = -3$, $\\sqrt{(-3)^2} = \\sqrt{9} = 3$. Como $3 \\ne -3$, la afirmación falla."
+        },
+        {
+          "letter": "D",
+          "text": "$x = \\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un valor positivo, por lo que cumple la obtención de la igualdad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La definición formal de $\\sqrt{x^2}$ en los números reales es el valor absoluto de $x$, es decir, $|x|$. Si elegimos un número negativo, como $x = -3$, tenemos $\\sqrt{(-3)^2} = \\sqrt{9} = 3$, que no es igual a $-3$. Esto sirve de contraejemplo.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v19",
+      "statement": "La ganancia neta $G$ expresada en miles satisface la ecuación real $|G - 10| = 2G - 5$. ¿Cuál es el conjunto de soluciones válidas para $G$?",
+      "context": "Un analista financiero en San Juan estudia el valor neto de activos comerciales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$G = 5$ y $G = -5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al verificar los valores, se descartan las soluciones extrañas."
+        },
+        {
+          "letter": "B",
+          "text": "$G = 5$ únicamente",
+          "is_correct": true,
+          "feedback": "Correcto. Si $G-10 = 2G-5 \\Rightarrow -5 = G$. Pero si $G=-5$, el lado derecho es $2(-5)-5 = -15$, imposible para valor absoluto. Si $-(G-10) = 2G-5 \\Rightarrow -G+10 = 2G-5 \\Rightarrow 15 = 3G \\Rightarrow G = 5$. Lado derecho: $2(5)-5=5 \\ge 0$ (válido)."
+        },
+        {
+          "letter": "C",
+          "text": "$G = -5$ únicamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al sustituir, produce un valor absoluto igual a un número negativo, lo cual es imposible."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución en los reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. $G = 5$ es una solución perfectamente válida y comprobable."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolvemos la ecuación de valor absoluto $|G - 10| = 2G - 5$. Debemos requerir que el lado derecho sea no negativo: $2G - 5 \\ge 0 \\Rightarrow G \\ge 2.5$. Caso 1: $G - 10 = 2G - 5 \\Rightarrow G = -5$ (se descarta, ya que $-5 < 2.5$). Caso 2: $-(G - 10) = 2G - 5 \\Rightarrow -G + 10 = 2G - 5 \\Rightarrow 15 = 3G \\Rightarrow G = 5$ (válido, ya que $5 \\ge 2.5$).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál de las siguientes afirmaciones sobre las propiedades del sistema de números reales es CORRECTA?",
+      "context": "Un profesor de matemáticas discute la densidad y cardinalidad en el plano cartesiano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entre dos números reales siempre hay un número finito de números racionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay infinitos números racionales."
+        },
+        {
+          "letter": "B",
+          "text": "Entre cualquier pareja de números reales distintos existen infinitos números racionales e infinitos irracionales.",
+          "is_correct": true,
+          "feedback": "Correcto. El conjunto de los racionales y el de los irracionales son ambos densos en la recta real."
+        },
+        {
+          "letter": "C",
+          "text": "Todo número irracional tiene una representación fraccionaria exacta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por definición, los irracionales no se pueden escribir como fracción de enteros."
+        },
+        {
+          "letter": "D",
+          "text": "La suma de cualquier número irracional con un racional produce siempre un número racional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Produce siempre un número irracional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La recta real posee la propiedad de densidad, lo que significa que entre cualesquiera dos números reales distintos, sin importar la cercanía entre ellos, existen infinitos números racionales e infinitos números irracionales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PR-MAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    }
+  ]
+}

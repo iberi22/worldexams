@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "cr",
+    "pack_id": "cr-week-7-grade-11-subject-lengua",
+    "generated_at": "2026-07-28T22:41:05.365Z"
+  },
+  "questions": [
+    {
+      "id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes características define de manera primordial al género lírico frente a los demás géneros literarios?",
+      "context": "Durante un recital de poesía en San José, se analizan los componentes del género lírico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La expresión subjetiva de sentimientos, emociones y estados de ánimo de un yo lírico, generalmente estructurada en versos.",
+          "is_correct": true,
+          "feedback": "Correcto. El género lírico se centra en la interioridad afectiva y expresiva del poeta."
+        },
+        {
+          "letter": "B",
+          "text": "La representación física de acciones cómicas destinadas a representarse en un escenario del Teatro Nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto caracteriza al género dramático o teatral."
+        },
+        {
+          "letter": "C",
+          "text": "La narración cronológica de acontecimientos bélicos protagonizados por héroes históricos de Alajuela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto define al género narrativo épico o novela histórica."
+        },
+        {
+          "letter": "D",
+          "text": "La redacción de informes técnicos sobre el cultivo de café en Cartago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la tipología expositiva de divulgación técnica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La lírica se define por la manifestación de la intimidad afectiva del sujeto creador, sirviéndose del verso, el ritmo y figuras de construcción.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v2",
+      "statement": "¿Quién es el 'yo lírico' en un texto poético?",
+      "context": "Sofía estudia un poema del célebre escritor costarricense Jorge Debravo, el poeta de los humildes y de la justicia social.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La persona de carne y hueso que compró el libro en una librería de Cartago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es el lector real externo, no una entidad interna del poema."
+        },
+        {
+          "letter": "B",
+          "text": "La voz o sujeto de enunciación ficticio creado por el autor que expresa sus sentimientos dentro del poema.",
+          "is_correct": true,
+          "feedback": "Correcto. El yo lírico es la instancia enunciativa interna de la poesía, análoga al narrador en la narrativa."
+        },
+        {
+          "letter": "C",
+          "text": "El funcionario del MEP encargado de certificar las calificaciones de Español.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un actor administrativo externo que no interviene en la voz artística del poema."
+        },
+        {
+          "letter": "D",
+          "text": "El antagonista que busca destruir la felicidad del protagonista en la obra dramática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto pertenece al género de la narrativa o del teatro, no de la lírica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El yo lírico es la máscara o voz literaria creada por el poeta para enunciar de forma subjetiva el universo emocional del poema.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo se define formalmente la métrica en la lírica tradicional española y costarricense?",
+      "context": "Javier analiza la estructura rítmica de una estrofa poética escrita en versos de arte menor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad de páginas físicas impresas que tiene un poemario de San José.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud del libro físico es una variable comercial, no una medida métrica del verso."
+        },
+        {
+          "letter": "B",
+          "text": "La medida silábica de los versos, determinada por la acentuación y la aplicación de licencias poéticas como la sinalefa.",
+          "is_correct": true,
+          "feedback": "Correcto. La métrica estudia la estructura rítmica y la cantidad de sílabas métricas de los versos."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad de personajes que mueren al final de un capítulo dramático en Cartago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto pertenece a la estructura del argumento de la novela o tragedia teatral."
+        },
+        {
+          "letter": "D",
+          "text": "Las reglas de ortografía de acentuación dictadas oficialmente por el MEP.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque relacionadas, las reglas métricas poéticas son licencias estéticas del arte lírico clásicas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La métrica mide la duración silábica de los versos, modulando la sonoridad rítmica mediante la sinalefa, la diéresis, la sinéresis y la ley del acento final.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v4",
+      "statement": "¿Qué tipo de rima se presenta cuando únicamente coinciden los sonidos vocálicos al final de los versos?",
+      "context": "María analiza una estrofa poética costarricense y nota que las vocales de las palabras finales coinciden a partir de la última vocal acentuada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rima asonante.",
+          "is_correct": true,
+          "feedback": "Correcto. En la rima asonante coinciden solamente las vocales a partir del último acento tónico del verso."
+        },
+        {
+          "letter": "B",
+          "text": "Rima consonante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la rima consonante coinciden de forma exacta todos los sonidos (vocales y consonantes)."
+        },
+        {
+          "letter": "C",
+          "text": "Rima libre o verso blanco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los versos libres o blancos carecen de coincidencia de rima sonora al final."
+        },
+        {
+          "letter": "D",
+          "text": "Rima pareada cruzada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe la disposición u orden estructural de los versos, no la coincidencia fonética de sonidos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La rima asonante o imperfecta es aquella donde hay identidad fónica exclusivamente de carácter vocálico al final de los versos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de las siguientes opciones describe de forma exacta la distribución de la rima en un cuarteto clásico de arte mayor?",
+      "context": "Andrey desea componer un cuarteto tradicional utilizando rima consonante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El primer verso rima con el segundo, y el tercero rima con el cuarto (AABB).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta distribución describe un pareado doble o estrofa de rima gemela."
+        },
+        {
+          "letter": "B",
+          "text": "El primer verso rima con el cuarto, y el segundo rima con el tercero (ABBA).",
+          "is_correct": true,
+          "feedback": "Correcto. Es la estructura de rima abrazada clásica del cuarteto endecasílabo."
+        },
+        {
+          "letter": "C",
+          "text": "El primer verso rima con el tercero, y el segundo queda suelto (ABAC).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un esquema asimétrico ajeno al cuarteto consonante clásico de arte mayor."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los versos terminan con la misma palabra de forma tautológica (AAAA).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto constituye una repetición viciosa que carece del dinamismo musical del cuarteto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cuarteto clásico es una estrofa de cuatro versos endecasílabos con rima consonante de esquema abrazado (ABBA).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v6",
+      "statement": "¿Qué figura de construcción o sintáctica se presenta al repetir de forma deliberada una o varias palabras al inicio de versos consecutivos?",
+      "context": "Ana analiza el poema 'Nosotros los hombres' de Jorge Debravo, el cual proclama la solidaridad y la hermandad humana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hipérbaton (alteración del orden de la oración).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hipérbaton altera el orden lógico sintáctico tradicional de las oraciones."
+        },
+        {
+          "letter": "B",
+          "text": "Anáfora.",
+          "is_correct": true,
+          "feedback": "Correcto. La anáfora es la repetición de palabras al inicio de versos sucesivos para dar ritmo y énfasis al poema."
+        },
+        {
+          "letter": "C",
+          "text": "Aliteración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Consiste en la repetición constante de un mismo sonido consonántico a lo largo del verso."
+        },
+        {
+          "letter": "D",
+          "text": "Asíndeton.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la eliminación de las conjunciones copulativas coordinantes para acelerar el verso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La anáfora es un recurso de repetición estilística que genera sonoridad, paralelismo sintáctico y acentúa el mensaje emocional lírico.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v7",
+      "statement": "Si desea emplear la personificación o prosopopeya, ¿cuál de los siguientes versos representa mejor este recurso retórico?",
+      "context": "Para un proyecto en Alajuela, Javier compone un poema dedicado a la carreta típica costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La carreta de madera avanza lentamente jalada por dos bueyes robustos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una descripción literal y fáctica de una acción cotidiana del campo, sin personificación."
+        },
+        {
+          "letter": "B",
+          "text": "La carreta cansada lloraba sus penas de madera sobre el pedregoso camino de Cartago.",
+          "is_correct": true,
+          "feedback": "Correcto. Atribuye cualidades humanas ('cansada', 'lloraba sus penas') a un objeto inanimado (la carreta)."
+        },
+        {
+          "letter": "C",
+          "text": "La rueda gira y gira como un círculo perfecto pintado de alegres colores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un símil de comparación directa ('como un círculo perfecto'), no una personificación."
+        },
+        {
+          "letter": "D",
+          "text": "Qué hermosa es la carreta típica costarricense declarada símbolo nacional por el MEP.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Expresa una opinión directa y fáctica sin recurrir a tropos de personificación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La personificación atribuye rasgos, sentimientos, voces o conductas eminentemente humanas a seres inanimados o animales de forma poética.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v8",
+      "statement": "¿Qué figura de construcción de carácter fonético se manifiesta en la repetición intencionada del sonido silbante /s/ para imitar el ruido del viento?",
+      "context": "Un poema del Valle Central dice:\n'En el silencio de la tarde gris,\nsolo se escuchaba el leve susurro de las hojas al viento.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anáfora de palabras al inicio de cada estrofa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Consiste en la repetición de vocablos al comienzo del verso, no de sonidos consonánticos aislados."
+        },
+        {
+          "letter": "B",
+          "text": "Aliteración.",
+          "is_correct": true,
+          "feedback": "Correcto. La aliteración repite de forma deliberada un fonema para evocar acústicamente una sensación física o un sonido de la naturaleza."
+        },
+        {
+          "letter": "C",
+          "text": "Hipérbole de exageración dramática costarricense.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hipérbole deforma la realidad por exageración, no tiene un fin mimético sonoro fonético."
+        },
+        {
+          "letter": "D",
+          "text": "Polisíndeton por acumulación excesiva de conjunciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Consiste en repetir conjunciones como 'y' para dar lentitud, no en reiterar sonidos de consonantes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La aliteración persigue la imitación fónica de sensaciones físicas de la naturaleza (como el viento o el agua) mediante la repetición de fonemas afines.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v9",
+      "statement": "¿Qué tropo poético fundamental se utiliza al identificar de forma directa un elemento real (labios) con uno imaginario (pétalos) sin nexos comparativos?",
+      "context": "María analiza la siguiente estrofa poética de un autor costarricense contemporáneo:\n'Tus labios son pétalos de orquídea húmeda,\nque guardan el rocío fresco de la mañana de Heredia.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Símil utilizando el nexo de comparación 'como'.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El símil requiere un nexo comparativo explícito (como, tal cual, parece). Aquí la identificación es directa."
+        },
+        {
+          "letter": "B",
+          "text": "Metáfora.",
+          "is_correct": true,
+          "feedback": "Correcto. La metáfora identifica directamente un término real con uno imaginario basándose en una relación de semejanza."
+        },
+        {
+          "letter": "C",
+          "text": "Antítesis por oposición de conceptos en la asamblea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La antítesis contrapone ideas contrarias, no une dos elementos afines de forma directa."
+        },
+        {
+          "letter": "D",
+          "text": "Sinécdoque de la parte por el todo del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Consiste en designar un objeto con el nombre de otro debido a una relación de inclusión física de la parte o el todo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La metáfora pura o impura asocia el plano real con la dimensión figurada de forma directa, enriqueciendo la carga expresiva del poema.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v10",
+      "statement": "¿Qué fenómeno métrico ocurre cuando se une la vocal final de una palabra con la vocal inicial de la siguiente para formar una sola sílaba métrica?",
+      "context": "Durante un recital en Cartago, un estudiante de Español estudia el concepto de 'licencia poética'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hiato poético de separación silábica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hiato es precisamente la ruptura voluntaria de la sinalefa, separando las vocales en sílabas distintas."
+        },
+        {
+          "letter": "B",
+          "text": "Sinalefa.",
+          "is_correct": true,
+          "feedback": "Correcto. La sinalefa es la licencia métrica fundamental que fusiona acústica y silábicamente las vocales limítrofes de palabras adyacentes."
+        },
+        {
+          "letter": "C",
+          "text": "Sinéresis de vocales internas en la palabra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Consiste en unir dos vocales que forman hiato dentro de una misma palabra, no entre palabras distintas."
+        },
+        {
+          "letter": "D",
+          "text": "Diéresis por colocación de puntos sobre la vocal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Consiste en separar dos vocales que forman diptongo dentro de una palabra para sumar una sílaba métrica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La sinalefa es el recurso métrico natural del idioma español que permite fluidificar la sonoridad del verso unificando vocales fronterizas de vocablos contiguos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.62,
+      "bundle_id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v11",
+      "statement": "¿Qué actitud lírica y temple de ánimo se manifiestan de forma predominante en el fragmento anterior?",
+      "context": "Lea con atención los siguientes versos del poeta de Cartago Jorge Debravo:\n'Soy un hombre sencillo que trabaja de sol a sol,\ny que lleva en las manos la áspera caricia de la tierra.\nNo tengo más riquezas que este viento de las montañas\ny esta sed infinita de justicia que me quema la sangre.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una actitud de comunión íntima con el campesinado humilde y un temple de ánimo de ferviente compromiso ético y anhelo de justicia social.",
+          "is_correct": true,
+          "feedback": "Correcto. El fragmento resalta la humildad del peón ('hombre sencillo', 'manos ásperas') y proclama un anhelo de justicia de tono apasionado y ético."
+        },
+        {
+          "letter": "B",
+          "text": "Un desprecio altivo hacia las labores agrícolas costarricenses y la vida campestre de Cartago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Exalta su condición de hombre sencillo conectado con la tierra con un profundo sentido de dignidad, sin desprecios."
+        },
+        {
+          "letter": "C",
+          "text": "Una descripción puramente estadística de los salarios devengados en las montañas por cosechar café.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mantiene un registro expresivo lírico de carácter existencial y social, ajeno a informes económicos matemáticos."
+        },
+        {
+          "letter": "D",
+          "text": "La narración mítica de un viaje interplanetario del yo lírico por encima de las nubes del Volcán Irazú.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aborda la realidad humana de la vida agraria y la sed de justicia social del campesino real del país."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La obra de Jorge Debravo destaca por su lirismo de hondo compromiso humano, dignificando el trabajo rústico frente al sufrimiento y la injusticia social.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v12",
+      "statement": "¿Qué relación analógica y simbólica se establece en la metáfora principal de estos versos?",
+      "context": "Considere los siguientes versos de una poesía costarricense contemporánea:\n'El silencio es un pozo de agua amarga en la provincia,\ndonde caen las horas lentas de la tarde de Liberia.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Identifica el silencio de Liberia con el ciclo geológico de la lluvia de Guanacaste.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un tropo de carácter existencial íntimo y anímico, no un informe hidrológico geológico."
+        },
+        {
+          "letter": "B",
+          "text": "Asocia el silencio con un pozo hondo de agua amarga para simbolizar la pesadez existencial, la desolación y la amargura del fluir del tiempo en el pueblo.",
+          "is_correct": true,
+          "feedback": "Correcto. El pozo y el agua amarga metaforizan el encierro emocional, la soledad y la tristeza del paso lento de las horas del personaje."
+        },
+        {
+          "letter": "C",
+          "text": "Anuncia que el agua potable del pozo de Liberia está contaminada químicamente por pesticidas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de un poema con fines estéticos y expresivos subjetivos, no un reporte de contaminación sanitaria."
+        },
+        {
+          "letter": "D",
+          "text": "Propone al MEP la abolición del uso de pozos de agua en las escuelas públicas rurales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Carece de vinculación con la administración educativa o infraestructura escolar de secundaria del país."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La metáfora existencial proyecta estados de ánimo sobre los objetos físicos, traduciendo el vacío espiritual y la soledad de la tarde provincial en un pozo hondo de agua amarga.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v13",
+      "statement": "¿Qué figura de construcción sintáctica se manifiesta de forma evidente al alterar el orden lógico gramatical tradicional de la primera oración?",
+      "context": "Lea atentamente la siguiente estrofa:\n'Del monte en la ladera verde y umbría,\ncorren las aguas limpias con gran porfía.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anáfora de palabras al inicio del verso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay repetición de palabras en versos sucesivos."
+        },
+        {
+          "letter": "B",
+          "text": "Hipérbaton.",
+          "is_correct": true,
+          "feedback": "Correcto. El hipérbaton altera el orden lógico regular de la sintaxis (sujeto, verbo, complementos) con fines rítmicos o de rima poética."
+        },
+        {
+          "letter": "C",
+          "text": "Asíndeton por omisión de nexos copulativos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No omite conjunciones necesarias; altera la disposición de las palabras."
+        },
+        {
+          "letter": "D",
+          "text": "Metáfora pura del monte de adobes de la provincia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una alteración sintáctica de estructura formal de la oración, no un tropo de comparación semántica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El hipérbaton permite modificar la estructura natural de la frase en español para acomodar la métrica, la rima y acentuar la cadencia del poema.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v14",
+      "statement": "¿Qué actitud lírica adopta el yo lírico en esta composición poética costarricense?",
+      "context": "Analice la estructura formal de los siguientes versos:\n'¡Oh bosque sagrado de Guanacaste!\nTu verde follaje es techo del cansado peón,\ny tu sombra fresca es caricia de la tarde.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Actitud enunciativa de relato objetivo e impersonal de hechos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La actitud enunciativa describe la realidad de forma distante en tercera persona gramatical, ajena a la invocación directa."
+        },
+        {
+          "letter": "B",
+          "text": "Actitud apostrófica o apelativa, al dirigirse de forma directa en segunda persona gramatical a un receptor (el bosque sagrado).",
+          "is_correct": true,
+          "feedback": "Correcto. El uso de la invocación ('¡Oh bosque...!', 'Tu verde...') es típico de la actitud apostrófica poética."
+        },
+        {
+          "letter": "C",
+          "text": "Actitud carmínica o de la canción pura exenta de interlocutor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque expresa sentimientos, la presencia explícita de la interpelación en segunda persona define la actitud apostrófica."
+        },
+        {
+          "letter": "D",
+          "text": "Actitud dramática teatral destinada a la comedia municipal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una poesía lírica y no un libreto de teatro cómico para actores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La actitud apostrófica o de apelación se define por la interpelación directa del yo lírico a un 'tú' (humano, divino o de la naturaleza), imprimiendo un tono vehemente o de ruego al poema.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v15",
+      "statement": "Al evaluar la consistencia formal y el rigor estético de esta composición clásica, ¿cuál es el dictamen académico más fundamentado?",
+      "context": "Un crítico costarricense analiza un soneto escrito por un autor alajuelense de secundaria. El soneto tiene versos de catorce sílabas (alejandrinos), pero la última estrofa rompe abruptamente la métrica con dos versos de cinco sílabas que riman de forma imperfecta con palabras vulgares coloquiales del Valle Central.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una muestra magistral de vanguardismo absoluto que mejora sustancialmente la armonía tradicional del soneto clásico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En las composiciones clásicas como el soneto, romper de forma caprichosa la métrica y el registro sin justificación deforma la armonía formal de la estrofa."
+        },
+        {
+          "letter": "B",
+          "text": "Representa una grave inconsistencia formal que destruye el ritmo, la musicalidad y la estructura estricta del soneto clásico, revelando falta de dominio de la métrica y del registro poético culto.",
+          "is_correct": true,
+          "feedback": "Correcto. El soneto exige catorce versos endecasílabos de rima consonante; romper la simetría métrica con versos cortos incongruentes desbarata la estrofa."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que el estudiante utilizó oraciones impersonales con pasiva refleja de forma incorrecta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La métrica poética y la rima son ajenas a las reglas de la pasiva refleja gramatical expositiva."
+        },
+        {
+          "letter": "D",
+          "text": "Es perfectamente válido porque el MEP prohíbe el uso de versos endecasílabos en todos los colegios de secundaria del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El MEP no prohíbe ningún tipo de metro; al contrario, promueve el estudio formal de la métrica clásica española."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El soneto es la estructura lírica cerrada clásica por excelencia que exige perfección métrica, rima consonante abrazada y alternancia silábica rigurosa para conservar su sonoridad.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v16",
+      "statement": "Al evaluar la calidad expresiva de las metáforas y repeticiones de esta estrofa, ¿cuál es su principal debilidad estilística?",
+      "context": "Considere los siguientes versos de un poema escolar que describe el Volcán Poás:\n'El volcán es un dragón furioso que ruge de rabia,\nescupiendo fuego de fuego y cenizas de cenizas de azufre.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso de la personificación referida a un accidente de relieve geográfico de Alajuela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La personificación de volcanes es un recurso clásico valioso y no constituye una debilidad de estilo."
+        },
+        {
+          "letter": "B",
+          "text": "La redundancia léxica vacía e ineficaz en los versos ('fuego de fuego', 'cenizas de cenizas') que empobrece la musicalidad y la riqueza expresiva del poema.",
+          "is_correct": true,
+          "feedback": "Correcto. Repetir palabras idénticas de forma sucesiva sin un propósito estético justificado cansa la audición e indica pobreza de vocabulario poético."
+        },
+        {
+          "letter": "C",
+          "text": "La ausencia de datos matemáticos exactos sobre la temperatura de la laguna del cráter.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje poético lírico no requiere de precisiones científicas de laboratorios químicos o termómetros."
+        },
+        {
+          "letter": "D",
+          "text": "La mención del volcán de la provincia de Alajuela de forma directa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mencionar un lugar geográfico costarricense emblemático enriquece el arraigo cultural del poema."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La lírica de calidad evita repeticiones viciosas redundantes, optando por la variedad de vocabulario, la cadencia rítmica y la precisión de sus tropos y metáforas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v17",
+      "statement": "¿Qué valor expresivo aporta el uso de la personificación en el segundo verso de esta composición?",
+      "context": "Lea el siguiente fragmento de un poema dedicado al cultivo de caña de azúcar en San Carlos:\n'El machete del peón corta el viento como un rayo de plata,\ny la caña herida llora lágrimas de dulce savia en el suelo.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anuncia que las plantas de caña tienen sentimientos de dolor biológico que les impide crecer saludables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un tropo estético-literario poético; las plantas carecen de sentimientos biológicos literales."
+        },
+        {
+          "letter": "B",
+          "text": "Instruye detalladamente en la física de los cortes metálicos industriales de caña.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No provee datos técnicos de ingeniería agroindustrial; su fin es de creación artística."
+        },
+        {
+          "letter": "C",
+          "text": "Dota de sensibilidad dramática, belleza y dolor estético al trabajo de la zafra, conmoviendo al lector mediante la humanización de la naturaleza.",
+          "is_correct": true,
+          "feedback": "Correcto. Humanizar la caña herida que llora savia dulcifica y sacraliza poéticamente el esfuerzo físico del peón en el agro."
+        },
+        {
+          "letter": "D",
+          "text": "Exige la prohibición de cosechar caña manualmente en la provincia de Alajuela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene propósitos legislativos de reforma laboral o de prohibiciones agrícolas estatales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La personificación poética de la naturaleza herida dignifica y dota de dramatismo estético la cotidianidad del trabajo agrícola en la lírica nacional.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v18",
+      "statement": "¿Qué visión existencial del tiempo se proyecta con fuerza poética en la metáfora principal del fragmento anterior?",
+      "context": "Analice este fragmento de un poema contemporáneo escrito en San José:\n'El reloj de la pared devora mis segundos de juventud con su tictac de hierro,\nconvirtiéndome en una hoja seca que el viento del tiempo arrastra hacia la fosa de adobes.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La celebración gozosa de la longevidad y el envejecimiento de la población costarricense.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tono es de angustia y asfixia frente al paso destructor del tiempo, no de gozo o celebración."
+        },
+        {
+          "letter": "B",
+          "text": "La visión trágica y dolorosa del paso inexorable del tiempo (tempus fugit) que consume de forma implacable la vida humana y arrastra al sujeto hacia la muerte inevitable.",
+          "is_correct": true,
+          "feedback": "Correcto. El reloj de hierro que devora segundos y la hoja seca arrastrada metaforizan de forma exacta el dolor de la fugacidad existencial humana."
+        },
+        {
+          "letter": "C",
+          "text": "La exigencia de colocar relojes de adobes en todas las plazas públicas del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reloj es un símbolo poético de la fugacidad del tiempo, no una propuesta de decoración urbana municipal."
+        },
+        {
+          "letter": "D",
+          "text": "La descripción física objetiva de las oscilaciones pendulares de un reloj mecánico de pared de Cartago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un análisis lírico subjetivo íntimo existencial de un estado de ánimo, no un manual técnico de relojería física."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tropo de la hoja seca y el tiempo destructor (cronófago) representa el tópico clásico de la fugacidad de la vida humana, traduciendo la angustia existencial del yo lírico frente a la finitud de la carne.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el nombre de la figura de construcción lírica que consiste en suprimir deliberadamente las conjunciones copulativas ordinarias (como 'y') entre términos sucesivos para dar dinamismo, rapidez y vértigo al verso?",
+      "context": "Un grupo de estudiantes de undécimo año repasa los componentes históricos de la lírica costarricense en su colegio de San José.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Polisíndeton.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El polisíndeton es lo opuesto: repite de forma excesiva las conjunciones copulativas ('y', 'e', 'ni') para dar lentitud y pesadez al poema."
+        },
+        {
+          "letter": "B",
+          "text": "Asíndeton.",
+          "is_correct": true,
+          "feedback": "Correcto. El asíndeton elimina las conjunciones ('y', 'e', 'ni') sustituyéndolas por comas para agilizar la sonoridad rítmica del verso."
+        },
+        {
+          "letter": "C",
+          "text": "Aliteración fonética de la provincia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reitera un sonido de letra aislada, no elimina conjunciones coordinantes sintácticas."
+        },
+        {
+          "letter": "D",
+          "text": "Metáfora de adobes costumbrista.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una figura sintáctica de construcción de la frase, no un tropo de traslación de significado semántico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El asíndeton despoja al verso de ataduras sintácticas coordinantes, acelerando el fluir del poema mediante la sucesión vertiginosa de vocablos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.32,
+      "bundle_id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v20",
+      "statement": "¿En qué consiste una estrofa en la estructura formal del género lírico tradicional?",
+      "context": "Durante un foro sobre poesía clásica en el Liceo de Heredia, se define el concepto de 'estrofa'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la cantidad de capítulos narrativos que tiene un libro impreso costarricense.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la división secuencial de la narrativa (novelas o crónicas), no de la poesía lírica."
+        },
+        {
+          "letter": "B",
+          "text": "En un conjunto de versos agrupados conforme a un esquema fijo de rima, métrica y ritmo en el poema.",
+          "is_correct": true,
+          "feedback": "Correcto. Define con rigor formal a la estrofa clásica como unidad rítmica estructural del poema."
+        },
+        {
+          "letter": "C",
+          "text": "En el diario íntimo de un personaje que se siente triste en San José.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto puede ser un componente temático de un diario de ficción, no la definición formal de una estrofa poética."
+        },
+        {
+          "letter": "D",
+          "text": "En el catálogo de normas de disciplina vigentes en las aulas del colegio públicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Carece de sentido en el estudio formal de las estructuras de la teoría poética de la lírica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La estrofa organiza métrica y rítmicamente el fluir del poema, sirviendo como andamiaje armónico de la expresión lírica tradicional.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.3,
+      "bundle_id": "CR-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "cr"
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-6-grade-9-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.936Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-9-2026-W06-work-and-careers-001-MASTERY-bundle-v1",
+      "statement": "He is wearing a white coat and a stethoscope. He ________ be a doctor.",
+      "context": "Guessing someone's job based on their clothes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must",
+          "is_correct": true,
+          "feedback": "Correct! \"Must\" is used when we are almost certain that something is true based on evidence."
+        },
+        {
+          "letter": "B",
+          "text": "might",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Might\" is for possibility, but here the evidence is very strong."
+        },
+        {
+          "letter": "C",
+          "text": "can't",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Can't\" is used when we are sure something is impossible."
+        },
+        {
+          "letter": "D",
+          "text": "shouldn't",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Shouldn't\" is for advice or expectation, not deduction."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Usamos el modal *must* para hacer deducciones cuando estamos casi seguros de que algo es cierto basándonos en una evidencia clara (como el uniforme).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W06-work-and-careers-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W06-work-and-careers-001-MASTERY-bundle-v2",
+      "statement": "\"What is Sofia going to study?\"\n\"I'm not sure. She ________ choose engineering, but she also likes arts.\"",
+      "context": "Considering different career options.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must",
+          "is_correct": false,
+          "feedback": "Incorrect. There is no certainty here."
+        },
+        {
+          "letter": "B",
+          "text": "might",
+          "is_correct": true,
+          "feedback": "Correct! \"Might\" is used to express a possibility when we are not sure."
+        },
+        {
+          "letter": "C",
+          "text": "can't",
+          "is_correct": false,
+          "feedback": "Incorrect. This would mean it's impossible for her to choose engineering."
+        },
+        {
+          "letter": "D",
+          "text": "has to",
+          "is_correct": false,
+          "feedback": "Incorrect. This expresses obligation, not deduction or possibility."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El modal *might* (al igual que *may* o *could*) se utiliza para indicar que algo es posible, pero no estamos seguros de ello.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W06-work-and-careers-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W06-work-and-careers-001-MASTERY-bundle-v3",
+      "statement": "They ________ be at work already. It's only 5:00 AM and the office opens at 8:00 AM.",
+      "context": "Making a negative deduction based on facts.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "mustn't",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Mustn't\" is for prohibition, not deduction."
+        },
+        {
+          "letter": "B",
+          "text": "can't",
+          "is_correct": true,
+          "feedback": "Correct! \"Can't\" is the opposite of \"must\" for deductions; it means we are sure something is impossible."
+        },
+        {
+          "letter": "C",
+          "text": "might not",
+          "is_correct": false,
+          "feedback": "Incorrect. This means it's possible they aren't there, but the evidence makes it almost certain they aren't."
+        },
+        {
+          "letter": "D",
+          "text": "shouldn't",
+          "is_correct": false,
+          "feedback": "Incorrect. Not an expectation or advice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos *can't* para deducciones negativas cuando estamos seguros de que algo no es posible basándonos en la lógica o los hechos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W06-work-and-careers-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W06-work-and-careers-001-MASTERY-bundle-v4",
+      "statement": "\"I called Carlos ten times yesterday, but he didn't answer.\"\n\"He ________ been in a very important meeting.\"",
+      "context": "Deducing why someone didn't answer a call at work.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for present deduction."
+        },
+        {
+          "letter": "B",
+          "text": "must have",
+          "is_correct": true,
+          "feedback": "Correct! \"Must have + past participle\" is used for deductions about the past."
+        },
+        {
+          "letter": "C",
+          "text": "can't have",
+          "is_correct": false,
+          "feedback": "Incorrect. This would mean it was impossible he was in a meeting."
+        },
+        {
+          "letter": "D",
+          "text": "should have",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for past regrets or unfulfilled expectations."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hacer deducciones lógicas sobre eventos del pasado, utilizamos la estructura *modal + have + participio pasado*. *Must have* indica una fuerte probabilidad en el pasado.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W06-work-and-careers-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W06-work-and-careers-001-MASTERY-bundle-v5",
+      "statement": "The candidate spoke three languages and had a master's degree. She ________ been the most qualified person for the position.",
+      "context": "Evaluating a candidate after an interview.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must have",
+          "is_correct": true,
+          "feedback": "Correct! The evidence strongly suggests she was the best candidate."
+        },
+        {
+          "letter": "B",
+          "text": "might have",
+          "is_correct": false,
+          "feedback": "Incorrect. Stronger evidence calls for \"must have\"."
+        },
+        {
+          "letter": "C",
+          "text": "could be",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for present possibility."
+        },
+        {
+          "letter": "D",
+          "text": "can't have",
+          "is_correct": false,
+          "feedback": "Incorrect. Contradicts the evidence."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al evaluar una situación pasada con evidencias sólidas, *must have* es la forma gramatical que expresa nuestra conclusión lógica.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W06-work-and-careers-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W06-work-and-careers-001-MASTERY-bundle-v6",
+      "statement": "The local bakery closed down last month. They ________ lost too many customers to the new supermarket.",
+      "context": "Speculating about why a business failed.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must",
+          "is_correct": false,
+          "feedback": "Incorrect. Refers to the present."
+        },
+        {
+          "letter": "B",
+          "text": "can't have",
+          "is_correct": false,
+          "feedback": "Incorrect. This would mean it's impossible they lost customers."
+        },
+        {
+          "letter": "C",
+          "text": "could have",
+          "is_correct": true,
+          "feedback": "Correct! This suggests a possible reason for the past event."
+        },
+        {
+          "letter": "D",
+          "text": "would have",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for conditional sentences."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "*Could have* se utiliza para mencionar una posibilidad en el pasado, una de las varias razones por las cuales algo pudo haber sucedido.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W06-work-and-careers-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W06-work-and-careers-001-MASTERY-bundle-v7",
+      "statement": "\"Is the boss in her office?\"\n\"The lights are off and her car isn't in the parking lot. She ________ be there.\"",
+      "context": "Distinguishing between lack of certainty and impossibility.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "might not",
+          "is_correct": false,
+          "feedback": "Incorrect. The evidence is strong enough for a more certain deduction."
+        },
+        {
+          "letter": "B",
+          "text": "can't",
+          "is_correct": true,
+          "feedback": "Correct! Strong evidence suggests it's impossible she is there."
+        },
+        {
+          "letter": "C",
+          "text": "mustn't",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Mustn't\" is not for deduction."
+        },
+        {
+          "letter": "D",
+          "text": "couldn't have",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for the past."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando la evidencia física (luces apagadas, ausencia del coche) apunta claramente a una conclusión negativa, *can't* es la opción más precisa.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W06-work-and-careers-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W06-work-and-careers-001-MASTERY-bundle-v8",
+      "statement": "\"The project was a disaster. You ________ followed the instructions.\"",
+      "context": "Understanding the difference between \"must have\" and \"should have\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must have",
+          "is_correct": false,
+          "feedback": "Incorrect. This would mean you definitely followed them, which contradicts the \"disaster\" part."
+        },
+        {
+          "letter": "B",
+          "text": "can't have",
+          "is_correct": true,
+          "feedback": "Correct! Logical deduction: if it was a disaster, you clearly didn't follow them."
+        },
+        {
+          "letter": "C",
+          "text": "should have",
+          "is_correct": false,
+          "feedback": "Incorrect. While you *should* have followed them, the context asks for a deduction about what happened."
+        },
+        {
+          "letter": "D",
+          "text": "might have",
+          "is_correct": false,
+          "feedback": "Incorrect. Not certain enough."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "*Can't have* se usa para deducir que algo no ocurrió en el pasado basándonos en los resultados presentes (el desastre del proyecto).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W06-work-and-careers-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W06-work-and-careers-001-MASTERY-bundle-v9",
+      "statement": "Lina got the promotion instead of Peter. Peter ________ very disappointed when he heard the news.",
+      "context": "Speculating about a colleague's promotion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must be",
+          "is_correct": false,
+          "feedback": "Incorrect. This refers to his state right now, but the context is the moment he heard the news."
+        },
+        {
+          "letter": "B",
+          "text": "must have been",
+          "is_correct": true,
+          "feedback": "Correct! Deduction about his emotional state at a past moment."
+        },
+        {
+          "letter": "C",
+          "text": "might be",
+          "is_correct": false,
+          "feedback": "Incorrect. Present possibility."
+        },
+        {
+          "letter": "D",
+          "text": "can't have been",
+          "is_correct": false,
+          "feedback": "Incorrect. It's very likely he was disappointed."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para deducir cómo se sintió alguien en un momento específico del pasado, usamos *must have been*.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W06-work-and-careers-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W06-work-and-careers-001-MASTERY-bundle-v10",
+      "statement": "Identify the error in this dialogue:\nA: \"I saw a moving truck at the manager's house.\"\nB: \"He **must** (A) be quitting his job. Or maybe he **can't** (B) have found a better house. He **might have** (C) decided to move closer to the office. We **must to** (D) wait and see.\"",
+      "context": "Finding an error in a workplace rumor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use for a present deduction."
+        },
+        {
+          "letter": "B",
+          "text": "can't",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a possible deduction."
+        },
+        {
+          "letter": "C",
+          "text": "might have",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct use for a past possibility."
+        },
+        {
+          "letter": "D",
+          "text": "must to",
+          "is_correct": true,
+          "feedback": "Correct! Modal verbs like \"must\" are followed by the infinitive without \"to\"."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los verbos modales (*must*, *can*, *might*, etc.) nunca llevan la partícula *to* antes del verbo principal que los acompaña.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.4,
+      "bundle_id": "CO-ING-9-2026-W06-work-and-careers-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W06-work-and-careers-001-MASTERY-bundle-v11",
+      "statement": "Which of these statements expresses the **highest** level of certainty that something did **not** happen?",
+      "context": "Judging the certainty of various statements.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She might not have seen the job offer.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is just a possibility."
+        },
+        {
+          "letter": "B",
+          "text": "She shouldn't have seen the job offer.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is about what was desirable."
+        },
+        {
+          "letter": "C",
+          "text": "She can't have seen the job offer.",
+          "is_correct": true,
+          "feedback": "Correct! This means the speaker is certain she didn't see it."
+        },
+        {
+          "letter": "D",
+          "text": "She couldn't have seen the job offer.",
+          "is_correct": false,
+          "feedback": "Incorrect. Similar to C, but \"can't have\" is the standard for strong negative deduction."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En el nivel B2, se debe distinguir la fuerza de los modales. *Can't have* es la forma más fuerte para negar la posibilidad de un evento pasado basándose en la lógica.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-9-2026-W06-work-and-careers-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W06-work-and-careers-001-MASTERY-bundle-v12",
+      "statement": "\"After ten years as a successful lawyer, Julian decided to become a professional chef.\"\n\"Wow! He ________ his old job, or he ________ discovered a new passion.\"",
+      "context": "Choosing the most logical deduction for a career change.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must hate / might",
+          "is_correct": false,
+          "feedback": "Incorrect. Tenses don't match the past change."
+        },
+        {
+          "letter": "B",
+          "text": "can't have liked / should have",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Should have\" is for advice."
+        },
+        {
+          "letter": "C",
+          "text": "must have hated / must have",
+          "is_correct": true,
+          "feedback": "Correct! Both are strong deductions based on his radical career change."
+        },
+        {
+          "letter": "D",
+          "text": "might have hated / can't have",
+          "is_correct": false,
+          "feedback": "Incorrect. The second part doesn't make sense logically."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para explicar un cambio de vida tan radical ocurrido en el pasado, solemos usar deducciones fuertes (*must have*) para ambas partes de la suposición.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.3,
+      "bundle_id": "CO-ING-9-2026-W06-work-and-careers-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

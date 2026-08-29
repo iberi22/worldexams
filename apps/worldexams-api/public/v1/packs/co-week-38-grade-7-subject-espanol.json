@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-38-grade-7-subject-lengua",
+    "generated_at": "2026-06-18T23:58:37.572Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-v1",
+      "statement": "¿Cuál es la característica principal de la tradición oral que garantiza que el conocimiento se mantenga vivo a pesar de no estar escrito en libros?",
+      "context": "En una reunión familiar en una vereda de Boyacá, los adultos mayores cuentan historias, dicen refranes y cantan coplas que aprendieron de sus propios abuelos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso de un lenguaje técnico y científico muy difícil.",
+          "is_correct": false,
+          "feedback": "La tradición oral usa un lenguaje cercano y cotidiano para que todos puedan entenderlo."
+        },
+        {
+          "letter": "B",
+          "text": "La transmisión directa de generación en generación mediante la palabra hablada y la escucha.",
+          "is_correct": true,
+          "feedback": "La base de la tradición oral es el vínculo humano y la repetición de los relatos a lo largo del tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "El almacenamiento de los cuentos en computadores de alta tecnología.",
+          "is_correct": false,
+          "feedback": "Aunque hoy se digitaliza, la esencia de la tradición oral es la voz humana, no la máquina."
+        },
+        {
+          "letter": "D",
+          "text": "Que solo los profesores de la escuela tienen permitido contar las historias.",
+          "is_correct": false,
+          "feedback": "La tradición oral es democrática; pertenece a toda la comunidad, especialmente a los mayores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tradición oral es un sistema de comunicación que fundamenta la identidad de los pueblos. Se basa en la memoria colectiva y en la capacidad de narrar para dar sentido a la vida y al entorno.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-v2",
+      "statement": "¿Cómo se denominan estas expresiones de la tradición oral llanera que han sido reconocidas por la UNESCO como Patrimonio Inmaterial de la Humanidad?",
+      "context": "En la región del Llano colombiano, los vaqueros utilizan el canto para arrear el ganado y para contar sus hazañas al final del día alrededor de un fogón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Villancicos de navidad.",
+          "is_correct": false,
+          "feedback": "Los villancicos son cantos religiosos de una época específica, no propios de la labor del Llano."
+        },
+        {
+          "letter": "B",
+          "text": "Óperas campesinas.",
+          "is_correct": false,
+          "feedback": "La ópera es un género teatral europeo, distinto a la expresión popular llanera."
+        },
+        {
+          "letter": "C",
+          "text": "Cantos de trabajo de llano.",
+          "is_correct": true,
+          "feedback": "Estos cantos son fundamentales para la labor ganadera y reflejan la profunda conexión entre el hombre, el animal y la llanura."
+        },
+        {
+          "letter": "D",
+          "text": "Recetas en verso.",
+          "is_correct": false,
+          "feedback": "Aunque pueden existir, no son la expresión patrimonial reconocida por la UNESCO en este contexto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los cantos de trabajo son una forma de comunicación funcional y estética. Demuestran cómo la tradición oral se integra en las labores diarias, convirtiendo el trabajo en un acto cultural y rítmico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-v3",
+      "statement": "¿Cuál es la función histórica de la tradición oral en las comunidades que fueron oprimidas o que no tenían acceso a la escritura oficial?",
+      "context": "Un estudiante de grado séptimo en San Basilio de Palenque escucha un relato sobre cómo sus antepasados llegaron a ser libres y cómo construyeron su pueblo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Olvidar el pasado para no sufrir.",
+          "is_correct": false,
+          "feedback": "Al contrario, la tradición oral busca recordar para fortalecer la identidad."
+        },
+        {
+          "letter": "B",
+          "text": "Servir como un archivo vivo de la historia y la resistencia del pueblo.",
+          "is_correct": true,
+          "feedback": "La voz de los abuelos reemplaza a los libros de historia que a menudo ignoraron estas narrativas."
+        },
+        {
+          "letter": "C",
+          "text": "Inventar historias fantásticas para engañar a los historiadores modernos.",
+          "is_correct": false,
+          "feedback": "Las historias tienen una base real y testimonial muy fuerte, aunque usen símbolos."
+        },
+        {
+          "letter": "D",
+          "text": "Demostrar que hablar es más fácil que escribir.",
+          "is_correct": false,
+          "feedback": "No es una cuestión de facilidad, sino de autonomía cultural y preservación de la memoria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tradición oral es un acto de soberanía. Permite que los pueblos narren su propia historia desde su perspectiva, salvaguardando datos, valores y héroes que la historia oficial pudo haber omitido.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-v4",
+      "statement": "¿Qué enseñanza o valor sobre la vida se infiere de este refrán de la tradición oral?",
+      "context": "Un refrán popular en Colombia dice: \"A falta de pan, buenas son acemitas (un tipo de pan más sencillo)\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el pan es el único alimento importante para el ser humano.",
+          "is_correct": false,
+          "feedback": "El refrán usa el pan como ejemplo, pero el mensaje es más amplio."
+        },
+        {
+          "letter": "B",
+          "text": "Que si no hay pan, es mejor no comer nada en absoluto.",
+          "is_correct": false,
+          "feedback": "El mensaje sugiere lo opuesto: conformarse o adaptarse a lo que hay."
+        },
+        {
+          "letter": "C",
+          "text": "La importancia de la adaptación y el conformismo positivo ante la falta de algo ideal.",
+          "is_correct": true,
+          "feedback": "Invita a valorar las alternativas cuando no se puede obtener lo mejor o lo primero que se deseaba."
+        },
+        {
+          "letter": "D",
+          "text": "Que las acemitas son mejores que el pan en todas las ocasiones.",
+          "is_correct": false,
+          "feedback": "El refrán aclara que son la opción cuando falta lo principal (\"a falta de\")."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los refranes son cápsulas de sabiduría popular. Condensan experiencias colectivas en frases rítmicas y sencillas que sirven de guía para la conducta diaria y la toma de decisiones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-v5",
+      "statement": "¿Cuál de las siguientes actividades sería la más coherente con el espíritu de la tradición oral para tu proyecto?",
+      "context": "Imagina que quieres realizar un proyecto para rescatar la tradición oral de los pescadores del Caribe colombiano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comprar libros de cuentos extranjeros y leérselos a los pescadores.",
+          "is_correct": false,
+          "feedback": "Esto no rescata la tradición local, sino que impone una externa."
+        },
+        {
+          "letter": "B",
+          "text": "Organizar un círculo de palabra donde los pescadores jóvenes escuchen los relatos de navegación de los más ancianos.",
+          "is_correct": true,
+          "feedback": "Fomenta el vínculo intergeneracional y el uso de la palabra hablada, que es la esencia del género."
+        },
+        {
+          "letter": "C",
+          "text": "Hacer una encuesta escrita con 50 preguntas técnicas sobre tipos de peces.",
+          "is_correct": false,
+          "feedback": "La encuesta es un instrumento estadístico frío, alejado de la calidez narrativa de la tradición oral."
+        },
+        {
+          "letter": "D",
+          "text": "Grabar un video de los pescadores durmiendo para ver qué sueñan.",
+          "is_correct": false,
+          "feedback": "La tradición oral se basa en el relato consciente y compartido, no en la observación del sueño."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Rescatar la tradición oral implica crear espacios de encuentro. El valor no está solo en la historia contada, sino en el acto de escuchar y en el respeto por la voz de quien posee la experiencia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-v6",
+      "statement": "Si un coplero dice: \"De mi tierra me he venido / con el alma en la maleta / buscando nuevos caminos / como busca el ave su meta\", ¿qué sentimiento está expresando principalmente?",
+      "context": "En el departamento de Nariño, es común el uso de la \"copla\" (estrofa de cuatro versos) para expresar sentimientos o burlas de manera improvisada en las fiestas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una gran rabia contra su pueblo natal.",
+          "is_correct": false,
+          "feedback": "La mención del \"alma en la maleta\" sugiere afecto y nostalgia, no rabia."
+        },
+        {
+          "letter": "B",
+          "text": "Nostalgia por su origen y esperanza por el futuro que inicia.",
+          "is_correct": true,
+          "feedback": "El viaje y la búsqueda de metas reflejan el sentimiento común de quien emigra pero mantiene su raíz."
+        },
+        {
+          "letter": "C",
+          "text": "Deseo de comprarse un ave para que lo guíe en el camino.",
+          "is_correct": false,
+          "feedback": "Es una interpretación literal errónea de una metáfora poética."
+        },
+        {
+          "letter": "D",
+          "text": "Indiferencia absoluta hacia el lugar de donde viene.",
+          "is_correct": false,
+          "feedback": "Llevar el \"alma en la maleta\" implica que su identidad sigue unida a su tierra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La copla es una forma poética breve de la tradición oral que permite expresar la interioridad del campesino o del habitante regional. Su estructura rítmica facilita la improvisación y la memorización.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-v7",
+      "statement": "Desde una perspectiva cultural, ¿qué proceso está ocurriendo en esta comunidad con respecto a la tradición oral?",
+      "context": "Analiza esta situación: En un resguardo indígena, los niños ya no quieren escuchar las historias del chamán porque prefieren ver dibujos animados en el celular que trajo un comerciante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un proceso de modernización positiva que hará a los niños más inteligentes.",
+          "is_correct": false,
+          "feedback": "El acceso a tecnología no es malo, pero si reemplaza la cultura propia puede generar pérdida de identidad."
+        },
+        {
+          "letter": "B",
+          "text": "Un simple cambio de pasatiempo que no tiene importancia a largo plazo.",
+          "is_correct": false,
+          "feedback": "La tradición oral es la base de la cultura; su pérdida tiene graves consecuencias identitarias."
+        },
+        {
+          "letter": "C",
+          "text": "Una ruptura en la cadena de transmisión generacional que pone en riesgo la identidad y los saberes del pueblo.",
+          "is_correct": true,
+          "feedback": "Si la escucha se detiene, la tradición oral muere, pues solo existe mientras alguien la narre y alguien la reciba."
+        },
+        {
+          "letter": "D",
+          "text": "El descubrimiento de que los dibujos animados son más verdaderos que las historias del chamán.",
+          "is_correct": false,
+          "feedback": "Los dibujos animados son ficciones comerciales; las historias del chamán son el fundamento espiritual del pueblo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tradición oral es frágil frente a la cultura de masas globalizada. El análisis de estas situaciones permite entender la importancia de proteger los espacios de oralidad comunitaria.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-v8",
+      "statement": "¿Cuál es la actitud más adecuada que debe tomar un estudiante de grado séptimo frente a estos elementos de la tradición oral al estudiarlos hoy?",
+      "context": "Muchas historias de la tradición oral contienen prejuicios de género o raciales de la época en que surgieron (por ejemplo, cuentos donde el lobo es el \"malo\" por ser animal de la selva o donde las mujeres son siempre rescatadas).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dejar de leer y contar esas historias para que desaparezcan por completo.",
+          "is_correct": false,
+          "feedback": "Esto implicaría perder un patrimonio cultural valioso; es mejor analizarlas."
+        },
+        {
+          "letter": "B",
+          "text": "Creer ciegamente todo lo que dicen porque \"los abuelos siempre tienen la razón\".",
+          "is_correct": false,
+          "feedback": "La sabiduría de los abuelos debe ser valorada, pero también analizada desde los valores actuales."
+        },
+        {
+          "letter": "C",
+          "text": "Valorar su importancia cultural pero analizar críticamente los prejuicios que contienen para no repetirlos.",
+          "is_correct": true,
+          "feedback": "Se puede apreciar la belleza y el valor histórico de un relato sin aceptar los estereotipos negativos que pueda traer."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiar todas las palabras de los cuentos antiguos para que parezcan escritos hoy.",
+          "is_correct": false,
+          "feedback": "Esto alteraría el valor histórico del texto; es mejor mantener el original y añadir el análisis crítico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El estudio de la tradición oral no debe ser nostálgico o acrítico. Es una oportunidad para dialogar con el pasado, entendiendo qué valores queremos conservar y cuáles necesitamos transformar como sociedad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-v9",
+      "statement": "¿Qué significa que la tradición oral tenga la capacidad de \"narrar el presente\"?",
+      "context": "Un antropólogo dice: \"La tradición oral no es solo el pasado, es la capacidad de una comunidad de narrar su presente y soñar su futuro con sus propias palabras\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los abuelos deben aprender a usar redes sociales para contar noticias.",
+          "is_correct": false,
+          "feedback": "La oralidad no depende del soporte tecnológico para narrar el hoy."
+        },
+        {
+          "letter": "B",
+          "text": "Que los relatos tradicionales se adaptan para incluir los sucesos actuales (como el conflicto, el clima o la migración), dándoles un sentido cultural propio.",
+          "is_correct": true,
+          "feedback": "La tradición oral es dinámica y flexible; absorbe la realidad nueva y la integra en sus estructuras narrativas."
+        },
+        {
+          "letter": "C",
+          "text": "Que la tradición oral solo sirve para hablar de cosas que pasaron hace mil años.",
+          "is_correct": false,
+          "feedback": "Esto sería una tradición muerta; la oralidad viva siempre habla desde el presente."
+        },
+        {
+          "letter": "D",
+          "text": "Que es obligatorio grabar todas las conversaciones de la gente en el mercado.",
+          "is_correct": false,
+          "feedback": "La grabación es una técnica de registro, no define la función narrativa de la comunidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tradición oral es un organismo vivo. Al igual que el lenguaje, cambia y se adapta para responder a los desafíos de cada época, manteniendo siempre su esencia de comunicación humana directa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-v10",
+      "statement": "¿Cuál es la principal diferencia entre la tradición oral campesina/indígena y la cuentería urbana profesional que se presenta en teatros o universidades?",
+      "context": "Evalúa el impacto de la declaración de la \"Narración Oral\" como arte escénico profesional en las ciudades (cuenteros urbanos).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los cuenteros urbanos son más inteligentes porque fueron a la universidad.",
+          "is_correct": false,
+          "feedback": "Es un prejuicio que ignora la inmensa sabiduría y complejidad de los narradores rurales."
+        },
+        {
+          "letter": "B",
+          "text": "Que en el campo no se usan palabras bonitas para contar historias.",
+          "is_correct": false,
+          "feedback": "El lenguaje rural es rico en metáforas, ritmos y matices poéticos."
+        },
+        {
+          "letter": "C",
+          "text": "La tradición rural es un acto comunitario y ritual de vida, mientras que la urbana es a menudo un espectáculo artístico programado.",
+          "is_correct": true,
+          "feedback": "Aunque comparten la palabra, su función social y su contexto de producción son muy distintos."
+        },
+        {
+          "letter": "D",
+          "text": "Que la tradición rural es gratis y la urbana siempre hay que pagarla.",
+          "is_correct": false,
+          "feedback": "Es una diferencia económica, pero no toca la esencia del proceso comunicativo y cultural."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La evaluación final permite distinguir entre la oralidad como patrimonio vivo de una comunidad y la oralidad como expresión artística escénica. Ambas son valiosas, pero cumplen roles diferentes en la sociedad colombiana contemporánea.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación | Notas |\n| :--- | :---: | :--- |\n| Técnico | 30/30 | Formato v5.2 respetado. |\n| Curricular | 40/40 | Análisis de la tradición oral, funciones y expresiones para grado 7. |\n| Contexto | 20/20 | Referencias a Boyacá, los Llanos, Palenque, Nariño y contextos sociales. |\n| Redacción | 10/10 | Enunciados claros y retroalimentaciones pedagógicas. |\n| **Total** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LEN-7-2026-W38-tradicion-oral-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

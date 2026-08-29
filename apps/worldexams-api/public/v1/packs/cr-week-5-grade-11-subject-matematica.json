@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "cr",
+    "pack_id": "cr-week-5-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:41:05.370Z"
+  },
+  "questions": [
+    {
+      "id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v1",
+      "statement": "Dada la función exponencial $f: \\mathbb{R} \\rightarrow ]0, +\\infty[$ con $f(x) = 4^x$, ¿cuál es el criterio de su función inversa $f^{-1}(x)$?",
+      "context": "En Limón, Gabriel está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f^{-1}(x) = x^4",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un valor nulo o constante sin aplicar la propiedad de identidad de las funciones inversas."
+        },
+        {
+          "letter": "B",
+          "text": "f^{-1}(x) = \\frac{x}{4}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone una función potencia o algebraica simple en lugar de la función logarítmica correcta."
+        },
+        {
+          "letter": "C",
+          "text": "f^{-1}(x) = \\log_4(x)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Por definición, la composición de una función con su inversa es la identidad, y la inversa de una función exponencial es su respectivo logaritmo."
+        },
+        {
+          "letter": "D",
+          "text": "f^{-1}(x) = \\sqrt[4]{x}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde una propiedad suficiente pero no necesaria con la condición obligatoria de biyectividad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La función logarítmica de base $4$ es, por definición matemática, la función inversa de la función exponencial de base $4$. Si escribimos $y = 4^x$, al despejar la variable $x$ se obtiene la expresión logarítmica correspondiente: $x = \\log_4(y)$. Intercambiando las variables, el criterio de la función inversa es exactamente $f^{-1}(x) = \\log_4(x)$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de las siguientes afirmaciones describe de manera precisa una propiedad fundamental para que una función real posea una función inversa?",
+      "context": "En San Carlos, Luis está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe ser creciente en todos los números reales",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un valor nulo o constante sin aplicar la propiedad de identidad de las funciones inversas."
+        },
+        {
+          "letter": "B",
+          "text": "Su gráfica debe intersecas a ambos ejes coordenados",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone una función potencia o algebraica simple en lugar de la función logarítmica correcta."
+        },
+        {
+          "letter": "C",
+          "text": "Debe tener un dominio compuesto solo por números positivos",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde una propiedad suficiente pero no necesaria con la condición obligatoria de biyectividad."
+        },
+        {
+          "letter": "D",
+          "text": "Debe ser inyectiva y sobreyectiva (biyectiva)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Por definición, la composición de una función con su inversa es la identidad, y la inversa de una función exponencial es su respectivo logaritmo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para que una función posea inversa, cada elemento de su codominio debe estar asociado con exactamente un único elemento del dominio (condición de inyectividad) y además el codominio debe coincidir plenamente con su rango o ámbito (condición de sobreyectividad). Por lo tanto, la condición obligatoria y fundamental para la existencia de una función inversa es que sea biyectiva (tanto inyectiva como sobreyectiva).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.83,
+      "bundle_id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v3",
+      "statement": "Sea la función $f(x) = 2x + 7$. ¿Cuál es el valor resultante de simplificar la expresión $f(f^{-1}(8))$, aplicando las propiedades de funciones inversas?",
+      "context": "En Pérez Zeledón, Valentina está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Por definición, la composición de una función con su inversa es la identidad, y la inversa de una función exponencial es su respectivo logaritmo."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un valor nulo o constante sin aplicar la propiedad de identidad de las funciones inversas."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone una función potencia o algebraica simple en lugar de la función logarítmica correcta."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde una propiedad suficiente pero no necesaria con la condición obligatoria de biyectividad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una de las propiedades fundamentales de las funciones inversas es que la composición de una función $f$ con su respectiva función inversa $f^{-1}$ (o viceversa) resulta en la función identidad. Es decir, para cualquier valor $k$ del dominio se cumple que $f(f^{-1}(k)) = k$. Por lo tanto, al evaluar $f(f^{-1}(8))$ el resultado se reduce directamente al valor de la constante, que es 8.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v4",
+      "statement": "Dada la función exponencial $f: \\mathbb{R} \\rightarrow ]0, +\\infty[$ con $f(x) = 4^x$, ¿cuál es el criterio de su función inversa $f^{-1}(x)$?",
+      "context": "En Escazú, Sebastián está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f^{-1}(x) = x^4",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un valor nulo o constante sin aplicar la propiedad de identidad de las funciones inversas."
+        },
+        {
+          "letter": "B",
+          "text": "f^{-1}(x) = \\log_4(x)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Por definición, la composición de una función con su inversa es la identidad, y la inversa de una función exponencial es su respectivo logaritmo."
+        },
+        {
+          "letter": "C",
+          "text": "f^{-1}(x) = \\frac{x}{4}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone una función potencia o algebraica simple en lugar de la función logarítmica correcta."
+        },
+        {
+          "letter": "D",
+          "text": "f^{-1}(x) = \\sqrt[4]{x}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde una propiedad suficiente pero no necesaria con la condición obligatoria de biyectividad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función logarítmica de base $4$ es, por definición matemática, la función inversa de la función exponencial de base $4$. Si escribimos $y = 4^x$, al despejar la variable $x$ se obtiene la expresión logarítmica correspondiente: $x = \\log_4(y)$. Intercambiando las variables, el criterio de la función inversa es exactamente $f^{-1}(x) = \\log_4(x)$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.78,
+      "bundle_id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de las siguientes afirmaciones describe de manera precisa una propiedad fundamental para que una función real posea una función inversa?",
+      "context": "En San José, Keylor está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe ser creciente en todos los números reales",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un valor nulo o constante sin aplicar la propiedad de identidad de las funciones inversas."
+        },
+        {
+          "letter": "B",
+          "text": "Su gráfica debe intersecas a ambos ejes coordenados",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone una función potencia o algebraica simple en lugar de la función logarítmica correcta."
+        },
+        {
+          "letter": "C",
+          "text": "Debe ser inyectiva y sobreyectiva (biyectiva)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Por definición, la composición de una función con su inversa es la identidad, y la inversa de una función exponencial es su respectivo logaritmo."
+        },
+        {
+          "letter": "D",
+          "text": "Debe tener un dominio compuesto solo por números positivos",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde una propiedad suficiente pero no necesaria con la condición obligatoria de biyectividad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para que una función posea inversa, cada elemento de su codominio debe estar asociado con exactamente un único elemento del dominio (condición de inyectividad) y además el codominio debe coincidir plenamente con su rango o ámbito (condición de sobreyectividad). Por lo tanto, la condición obligatoria y fundamental para la existencia de una función inversa es que sea biyectiva (tanto inyectiva como sobreyectiva).\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v6",
+      "statement": "Sea la función $f(x) = 2x + 7$. ¿Cuál es el valor resultante de simplificar la expresión $f(f^{-1}(8))$, aplicando las propiedades de funciones inversas?",
+      "context": "En Alajuela, Andrey está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un valor nulo o constante sin aplicar la propiedad de identidad de las funciones inversas."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone una función potencia o algebraica simple en lugar de la función logarítmica correcta."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde una propiedad suficiente pero no necesaria con la condición obligatoria de biyectividad."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Por definición, la composición de una función con su inversa es la identidad, y la inversa de una función exponencial es su respectivo logaritmo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una de las propiedades fundamentales de las funciones inversas es que la composición de una función $f$ con su respectiva función inversa $f^{-1}$ (o viceversa) resulta en la función identidad. Es decir, para cualquier valor $k$ del dominio se cumple que $f(f^{-1}(k)) = k$. Por lo tanto, al evaluar $f(f^{-1}(8))$ el resultado se reduce directamente al valor de la constante, que es 8.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v7",
+      "statement": "Dada la función exponencial $f: \\mathbb{R} \\rightarrow ]0, +\\infty[$ con $f(x) = 4^x$, ¿cuál es el criterio de su función inversa $f^{-1}(x)$?",
+      "context": "En Cartago, María está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f^{-1}(x) = \\log_4(x)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Por definición, la composición de una función con su inversa es la identidad, y la inversa de una función exponencial es su respectivo logaritmo."
+        },
+        {
+          "letter": "B",
+          "text": "f^{-1}(x) = x^4",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un valor nulo o constante sin aplicar la propiedad de identidad de las funciones inversas."
+        },
+        {
+          "letter": "C",
+          "text": "f^{-1}(x) = \\frac{x}{4}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone una función potencia o algebraica simple en lugar de la función logarítmica correcta."
+        },
+        {
+          "letter": "D",
+          "text": "f^{-1}(x) = \\sqrt[4]{x}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde una propiedad suficiente pero no necesaria con la condición obligatoria de biyectividad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La función logarítmica de base $4$ es, por definición matemática, la función inversa de la función exponencial de base $4$. Si escribimos $y = 4^x$, al despejar la variable $x$ se obtiene la expresión logarítmica correspondiente: $x = \\log_4(y)$. Intercambiando las variables, el criterio de la función inversa es exactamente $f^{-1}(x) = \\log_4(x)$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las siguientes afirmaciones describe de manera precisa una propiedad fundamental para que una función real posea una función inversa?",
+      "context": "En Heredia, José está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe ser creciente en todos los números reales",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un valor nulo o constante sin aplicar la propiedad de identidad de las funciones inversas."
+        },
+        {
+          "letter": "B",
+          "text": "Debe ser inyectiva y sobreyectiva (biyectiva)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Por definición, la composición de una función con su inversa es la identidad, y la inversa de una función exponencial es su respectivo logaritmo."
+        },
+        {
+          "letter": "C",
+          "text": "Su gráfica debe intersecas a ambos ejes coordenados",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone una función potencia o algebraica simple en lugar de la función logarítmica correcta."
+        },
+        {
+          "letter": "D",
+          "text": "Debe tener un dominio compuesto solo por números positivos",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde una propiedad suficiente pero no necesaria con la condición obligatoria de biyectividad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para que una función posea inversa, cada elemento de su codominio debe estar asociado con exactamente un único elemento del dominio (condición de inyectividad) y además el codominio debe coincidir plenamente con su rango o ámbito (condición de sobreyectividad). Por lo tanto, la condición obligatoria y fundamental para la existencia de una función inversa es que sea biyectiva (tanto inyectiva como sobreyectiva).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.68,
+      "bundle_id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v9",
+      "statement": "Sea la función $f(x) = 2x + 7$. ¿Cuál es el valor resultante de simplificar la expresión $f(f^{-1}(8))$, aplicando las propiedades de funciones inversas?",
+      "context": "En Liberia, Ana está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un valor nulo o constante sin aplicar la propiedad de identidad de las funciones inversas."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone una función potencia o algebraica simple en lugar de la función logarítmica correcta."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Por definición, la composición de una función con su inversa es la identidad, y la inversa de una función exponencial es su respectivo logaritmo."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde una propiedad suficiente pero no necesaria con la condición obligatoria de biyectividad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una de las propiedades fundamentales de las funciones inversas es que la composición de una función $f$ con su respectiva función inversa $f^{-1}$ (o viceversa) resulta en la función identidad. Es decir, para cualquier valor $k$ del dominio se cumple que $f(f^{-1}(k)) = k$. Por lo tanto, al evaluar $f(f^{-1}(8))$ el resultado se reduce directamente al valor de la constante, que es 8.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v10",
+      "statement": "Dada la función exponencial $f: \\mathbb{R} \\rightarrow ]0, +\\infty[$ con $f(x) = 4^x$, ¿cuál es el criterio de su función inversa $f^{-1}(x)$?",
+      "context": "En Puntarenas, Sofía está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f^{-1}(x) = x^4",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un valor nulo o constante sin aplicar la propiedad de identidad de las funciones inversas."
+        },
+        {
+          "letter": "B",
+          "text": "f^{-1}(x) = \\frac{x}{4}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone una función potencia o algebraica simple en lugar de la función logarítmica correcta."
+        },
+        {
+          "letter": "C",
+          "text": "f^{-1}(x) = \\sqrt[4]{x}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde una propiedad suficiente pero no necesaria con la condición obligatoria de biyectividad."
+        },
+        {
+          "letter": "D",
+          "text": "f^{-1}(x) = \\log_4(x)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Por definición, la composición de una función con su inversa es la identidad, y la inversa de una función exponencial es su respectivo logaritmo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La función logarítmica de base $4$ es, por definición matemática, la función inversa de la función exponencial de base $4$. Si escribimos $y = 4^x$, al despejar la variable $x$ se obtiene la expresión logarítmica correspondiente: $x = \\log_4(y)$. Intercambiando las variables, el criterio de la función inversa es exactamente $f^{-1}(x) = \\log_4(x)$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.63,
+      "bundle_id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál de las siguientes afirmaciones describe de manera precisa una propiedad fundamental para que una función real posea una función inversa?",
+      "context": "En Limón, Carlos está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe ser inyectiva y sobreyectiva (biyectiva)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Por definición, la composición de una función con su inversa es la identidad, y la inversa de una función exponencial es su respectivo logaritmo."
+        },
+        {
+          "letter": "B",
+          "text": "Debe ser creciente en todos los números reales",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un valor nulo o constante sin aplicar la propiedad de identidad de las funciones inversas."
+        },
+        {
+          "letter": "C",
+          "text": "Su gráfica debe intersecas a ambos ejes coordenados",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone una función potencia o algebraica simple en lugar de la función logarítmica correcta."
+        },
+        {
+          "letter": "D",
+          "text": "Debe tener un dominio compuesto solo por números positivos",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde una propiedad suficiente pero no necesaria con la condición obligatoria de biyectividad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que una función posea inversa, cada elemento de su codominio debe estar asociado con exactamente un único elemento del dominio (condición de inyectividad) y además el codominio debe coincidir plenamente con su rango o ámbito (condición de sobreyectividad). Por lo tanto, la condición obligatoria y fundamental para la existencia de una función inversa es que sea biyectiva (tanto inyectiva como sobreyectiva).\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v12",
+      "statement": "Sea la función $f(x) = 2x + 7$. ¿Cuál es el valor resultante de simplificar la expresión $f(f^{-1}(8))$, aplicando las propiedades de funciones inversas?",
+      "context": "En San Carlos, Elena está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un valor nulo o constante sin aplicar la propiedad de identidad de las funciones inversas."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Por definición, la composición de una función con su inversa es la identidad, y la inversa de una función exponencial es su respectivo logaritmo."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone una función potencia o algebraica simple en lugar de la función logarítmica correcta."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde una propiedad suficiente pero no necesaria con la condición obligatoria de biyectividad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una de las propiedades fundamentales de las funciones inversas es que la composición de una función $f$ con su respectiva función inversa $f^{-1}$ (o viceversa) resulta en la función identidad. Es decir, para cualquier valor $k$ del dominio se cumple que $f(f^{-1}(k)) = k$. Por lo tanto, al evaluar $f(f^{-1}(8))$ el resultado se reduce directamente al valor de la constante, que es 8.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v13",
+      "statement": "Dada la función exponencial $f: \\mathbb{R} \\rightarrow ]0, +\\infty[$ con $f(x) = 4^x$, ¿cuál es el criterio de su función inversa $f^{-1}(x)$?",
+      "context": "En Pérez Zeledón, Javier está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f^{-1}(x) = x^4",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un valor nulo o constante sin aplicar la propiedad de identidad de las funciones inversas."
+        },
+        {
+          "letter": "B",
+          "text": "f^{-1}(x) = \\frac{x}{4}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone una función potencia o algebraica simple en lugar de la función logarítmica correcta."
+        },
+        {
+          "letter": "C",
+          "text": "f^{-1}(x) = \\log_4(x)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Por definición, la composición de una función con su inversa es la identidad, y la inversa de una función exponencial es su respectivo logaritmo."
+        },
+        {
+          "letter": "D",
+          "text": "f^{-1}(x) = \\sqrt[4]{x}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde una propiedad suficiente pero no necesaria con la condición obligatoria de biyectividad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La función logarítmica de base $4$ es, por definición matemática, la función inversa de la función exponencial de base $4$. Si escribimos $y = 4^x$, al despejar la variable $x$ se obtiene la expresión logarítmica correspondiente: $x = \\log_4(y)$. Intercambiando las variables, el criterio de la función inversa es exactamente $f^{-1}(x) = \\log_4(x)$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál de las siguientes afirmaciones describe de manera precisa una propiedad fundamental para que una función real posea una función inversa?",
+      "context": "En Escazú, Natalia está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe ser creciente en todos los números reales",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un valor nulo o constante sin aplicar la propiedad de identidad de las funciones inversas."
+        },
+        {
+          "letter": "B",
+          "text": "Su gráfica debe intersecas a ambos ejes coordenados",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone una función potencia o algebraica simple en lugar de la función logarítmica correcta."
+        },
+        {
+          "letter": "C",
+          "text": "Debe tener un dominio compuesto solo por números positivos",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde una propiedad suficiente pero no necesaria con la condición obligatoria de biyectividad."
+        },
+        {
+          "letter": "D",
+          "text": "Debe ser inyectiva y sobreyectiva (biyectiva)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Por definición, la composición de una función con su inversa es la identidad, y la inversa de una función exponencial es su respectivo logaritmo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para que una función posea inversa, cada elemento de su codominio debe estar asociado con exactamente un único elemento del dominio (condición de inyectividad) y además el codominio debe coincidir plenamente con su rango o ámbito (condición de sobreyectividad). Por lo tanto, la condición obligatoria y fundamental para la existencia de una función inversa es que sea biyectiva (tanto inyectiva como sobreyectiva).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.53,
+      "bundle_id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v15",
+      "statement": "Sea la función $f(x) = 2x + 7$. ¿Cuál es el valor resultante de simplificar la expresión $f(f^{-1}(8))$, aplicando las propiedades de funciones inversas?",
+      "context": "En San José, Esteban está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Por definición, la composición de una función con su inversa es la identidad, y la inversa de una función exponencial es su respectivo logaritmo."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un valor nulo o constante sin aplicar la propiedad de identidad de las funciones inversas."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone una función potencia o algebraica simple en lugar de la función logarítmica correcta."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde una propiedad suficiente pero no necesaria con la condición obligatoria de biyectividad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una de las propiedades fundamentales de las funciones inversas es que la composición de una función $f$ con su respectiva función inversa $f^{-1}$ (o viceversa) resulta en la función identidad. Es decir, para cualquier valor $k$ del dominio se cumple que $f(f^{-1}(k)) = k$. Por lo tanto, al evaluar $f(f^{-1}(8))$ el resultado se reduce directamente al valor de la constante, que es 8.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v16",
+      "statement": "Dada la función exponencial $f: \\mathbb{R} \\rightarrow ]0, +\\infty[$ con $f(x) = 4^x$, ¿cuál es el criterio de su función inversa $f^{-1}(x)$?",
+      "context": "En Alajuela, Gabriel está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f^{-1}(x) = x^4",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un valor nulo o constante sin aplicar la propiedad de identidad de las funciones inversas."
+        },
+        {
+          "letter": "B",
+          "text": "f^{-1}(x) = \\log_4(x)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Por definición, la composición de una función con su inversa es la identidad, y la inversa de una función exponencial es su respectivo logaritmo."
+        },
+        {
+          "letter": "C",
+          "text": "f^{-1}(x) = \\frac{x}{4}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone una función potencia o algebraica simple en lugar de la función logarítmica correcta."
+        },
+        {
+          "letter": "D",
+          "text": "f^{-1}(x) = \\sqrt[4]{x}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde una propiedad suficiente pero no necesaria con la condición obligatoria de biyectividad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función logarítmica de base $4$ es, por definición matemática, la función inversa de la función exponencial de base $4$. Si escribimos $y = 4^x$, al despejar la variable $x$ se obtiene la expresión logarítmica correspondiente: $x = \\log_4(y)$. Intercambiando las variables, el criterio de la función inversa es exactamente $f^{-1}(x) = \\log_4(x)$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál de las siguientes afirmaciones describe de manera precisa una propiedad fundamental para que una función real posea una función inversa?",
+      "context": "En Cartago, Luis está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe ser creciente en todos los números reales",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un valor nulo o constante sin aplicar la propiedad de identidad de las funciones inversas."
+        },
+        {
+          "letter": "B",
+          "text": "Su gráfica debe intersecas a ambos ejes coordenados",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone una función potencia o algebraica simple en lugar de la función logarítmica correcta."
+        },
+        {
+          "letter": "C",
+          "text": "Debe ser inyectiva y sobreyectiva (biyectiva)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Por definición, la composición de una función con su inversa es la identidad, y la inversa de una función exponencial es su respectivo logaritmo."
+        },
+        {
+          "letter": "D",
+          "text": "Debe tener un dominio compuesto solo por números positivos",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde una propiedad suficiente pero no necesaria con la condición obligatoria de biyectividad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para que una función posea inversa, cada elemento de su codominio debe estar asociado con exactamente un único elemento del dominio (condición de inyectividad) y además el codominio debe coincidir plenamente con su rango o ámbito (condición de sobreyectividad). Por lo tanto, la condición obligatoria y fundamental para la existencia de una función inversa es que sea biyectiva (tanto inyectiva como sobreyectiva).\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v18",
+      "statement": "Sea la función $f(x) = 2x + 7$. ¿Cuál es el valor resultante de simplificar la expresión $f(f^{-1}(8))$, aplicando las propiedades de funciones inversas?",
+      "context": "En Heredia, Valentina está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un valor nulo o constante sin aplicar la propiedad de identidad de las funciones inversas."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone una función potencia o algebraica simple en lugar de la función logarítmica correcta."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde una propiedad suficiente pero no necesaria con la condición obligatoria de biyectividad."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Por definición, la composición de una función con su inversa es la identidad, y la inversa de una función exponencial es su respectivo logaritmo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una de las propiedades fundamentales de las funciones inversas es que la composición de una función $f$ con su respectiva función inversa $f^{-1}$ (o viceversa) resulta en la función identidad. Es decir, para cualquier valor $k$ del dominio se cumple que $f(f^{-1}(k)) = k$. Por lo tanto, al evaluar $f(f^{-1}(8))$ el resultado se reduce directamente al valor de la constante, que es 8.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.43,
+      "bundle_id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v19",
+      "statement": "Dada la función exponencial $f: \\mathbb{R} \\rightarrow ]0, +\\infty[$ con $f(x) = 4^x$, ¿cuál es el criterio de su función inversa $f^{-1}(x)$?",
+      "context": "En Liberia, Sebastián está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f^{-1}(x) = \\log_4(x)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Por definición, la composición de una función con su inversa es la identidad, y la inversa de una función exponencial es su respectivo logaritmo."
+        },
+        {
+          "letter": "B",
+          "text": "f^{-1}(x) = x^4",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un valor nulo o constante sin aplicar la propiedad de identidad de las funciones inversas."
+        },
+        {
+          "letter": "C",
+          "text": "f^{-1}(x) = \\frac{x}{4}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone una función potencia o algebraica simple en lugar de la función logarítmica correcta."
+        },
+        {
+          "letter": "D",
+          "text": "f^{-1}(x) = \\sqrt[4]{x}",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde una propiedad suficiente pero no necesaria con la condición obligatoria de biyectividad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La función logarítmica de base $4$ es, por definición matemática, la función inversa de la función exponencial de base $4$. Si escribimos $y = 4^x$, al despejar la variable $x$ se obtiene la expresión logarítmica correspondiente: $x = \\log_4(y)$. Intercambiando las variables, el criterio de la función inversa es exactamente $f^{-1}(x) = \\log_4(x)$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál de las siguientes afirmaciones describe de manera precisa una propiedad fundamental para que una función real posea una función inversa?",
+      "context": "En Puntarenas, Keylor está investigando un problema matemático aplicado al contexto costarricense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe ser creciente en todos los números reales",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se asume erróneamente un valor nulo o constante sin aplicar la propiedad de identidad de las funciones inversas."
+        },
+        {
+          "letter": "B",
+          "text": "Debe ser inyectiva y sobreyectiva (biyectiva)",
+          "is_correct": true,
+          "feedback": "Explicación detallada: Correcto. Por definición, la composición de una función con su inversa es la identidad, y la inversa de una función exponencial es su respectivo logaritmo."
+        },
+        {
+          "letter": "C",
+          "text": "Su gráfica debe intersecas a ambos ejes coordenados",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se propone una función potencia o algebraica simple en lugar de la función logarítmica correcta."
+        },
+        {
+          "letter": "D",
+          "text": "Debe tener un dominio compuesto solo por números positivos",
+          "is_correct": false,
+          "feedback": "Explicación de distractor: Se confunde una propiedad suficiente pero no necesaria con la condición obligatoria de biyectividad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para que una función posea inversa, cada elemento de su codominio debe estar asociado con exactamente un único elemento del dominio (condición de inyectividad) y además el codominio debe coincidir plenamente con su rango o ámbito (condición de sobreyectividad). Por lo tanto, la condición obligatoria y fundamental para la existencia de una función inversa es que sea biyectiva (tanto inyectiva como sobreyectiva).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "CR-MAT-11-2026-W05-tema-w05-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "cr"
+    }
+  ]
+}

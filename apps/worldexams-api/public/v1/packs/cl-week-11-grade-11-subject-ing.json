@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ingles",
+    "country": "cl",
+    "pack_id": "cl-week-11-grade-11-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.098Z"
+  },
+  "questions": [
+    {
+      "id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v1",
+      "statement": "A calling is a strong urge toward a particular way of life or career; a vocation.",
+      "context": "Discussing high-level career goals.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "chore",
+          "is_correct": false,
+          "feedback": "Incorrect. A chore is a routine task."
+        },
+        {
+          "letter": "B",
+          "text": "calling",
+          "is_correct": true,
+          "feedback": "Correct. A calling is a profession that someone feels strongly about."
+        },
+        {
+          "letter": "C",
+          "text": "burden",
+          "is_correct": false,
+          "feedback": "Incorrect. A burden is something heavy or difficult to bear."
+        },
+        {
+          "letter": "D",
+          "text": "pastime",
+          "is_correct": false,
+          "feedback": "Incorrect. A pastime is a hobby."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Calling' is a common term for a job that a person feels destined or deeply motivated to do.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v2",
+      "statement": "If I could choose any career, I would become an astronaut and explore the moon.",
+      "context": "Hypothetical career path.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will become",
+          "is_correct": false,
+          "feedback": "Incorrect. Inconsistent with 'could'."
+        },
+        {
+          "letter": "B",
+          "text": "would become",
+          "is_correct": true,
+          "feedback": "Correct. Second conditional for a hypothetical situation."
+        },
+        {
+          "letter": "C",
+          "text": "became",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "D",
+          "text": "have become",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The second conditional 'if + past simple, would + verb' is used to talk about an imaginary present or future.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v3",
+      "statement": "I wish I had pursued my passion for music instead of choosing a more stable job.",
+      "context": "Reflecting on a past career decision.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "pursue",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "B",
+          "text": "had pursued",
+          "is_correct": true,
+          "feedback": "Correct. 'Wish + past perfect' for regrets about the past."
+        },
+        {
+          "letter": "C",
+          "text": "would pursue",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Wish + would' is for the future."
+        },
+        {
+          "letter": "D",
+          "text": "pursued",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The structure 'wish + past perfect' is used to express regret about a past action or situation.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v4",
+      "statement": "Job satisfaction is often linked to a sense of purpose and the ability to utilize one's unique talents.",
+      "context": "Article about professional fulfillment.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wealth",
+          "is_correct": false,
+          "feedback": "Incorrect. While related for some, 'purpose' is the focus here."
+        },
+        {
+          "letter": "B",
+          "text": "purpose",
+          "is_correct": true,
+          "feedback": "Correct. Purpose is the reason for which something is done or created."
+        },
+        {
+          "letter": "C",
+          "text": "leisure",
+          "is_correct": false,
+          "feedback": "Incorrect. Pastime/free time."
+        },
+        {
+          "letter": "D",
+          "text": "status",
+          "is_correct": false,
+          "feedback": "Incorrect. Social position."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Purpose' refers to the meaningful motivation behind one's professional activities.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v5",
+      "statement": "The concept of a \"dream job\" is subjective, as what one person finds fulfilling, another might find tedious.",
+      "context": "Discussion on the \"ideal\" job.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "universal",
+          "is_correct": false,
+          "feedback": "Incorrect. Universal means the same for everyone."
+        },
+        {
+          "letter": "B",
+          "text": "subjective",
+          "is_correct": true,
+          "feedback": "Correct. Subjective means based on personal feelings or tastes."
+        },
+        {
+          "letter": "C",
+          "text": "objective",
+          "is_correct": false,
+          "feedback": "Incorrect. Objective means based on facts."
+        },
+        {
+          "letter": "D",
+          "text": "mandatory",
+          "is_correct": false,
+          "feedback": "Incorrect. Mandatory means required."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Subjective' correctly identifies that the value of a job depends on the individual's personal perspective.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v6",
+      "statement": "An architect is a person who designs buildings and in many cases also supervises their construction.",
+      "context": "Describing a creative career.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "engineer",
+          "is_correct": false,
+          "feedback": "Incorrect. Engineers focus more on the technical/structural aspects."
+        },
+        {
+          "letter": "B",
+          "text": "architect",
+          "is_correct": true,
+          "feedback": "Correct. Architects design the aesthetic and functional layout of buildings."
+        },
+        {
+          "letter": "C",
+          "text": "plumber",
+          "is_correct": false,
+          "feedback": "Incorrect. Installs water systems."
+        },
+        {
+          "letter": "D",
+          "text": "carpenter",
+          "is_correct": false,
+          "feedback": "Incorrect. Builds things with wood."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Architect' is the specific title for a professional who designs buildings.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v7",
+      "statement": "By the time she is thirty, she hopes to have established her own photography studio.",
+      "context": "Expressing a future ambition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "establish",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple infinitive."
+        },
+        {
+          "letter": "B",
+          "text": "to have established",
+          "is_correct": true,
+          "feedback": "Correct. Perfect infinitive for a completed action in the future."
+        },
+        {
+          "letter": "C",
+          "text": "establishing",
+          "is_correct": false,
+          "feedback": "Incorrect. Gerund."
+        },
+        {
+          "letter": "D",
+          "text": "established",
+          "is_correct": false,
+          "feedback": "Incorrect. Past participle."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The perfect infinitive 'to have established' indicates that the goal will be a completed achievement by the specified time.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v8",
+      "statement": "Working in emergency medicine can be incredibly rewarding, although it is often very stressful.",
+      "context": "Describing a difficult but rewarding career.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "lucrative",
+          "is_correct": false,
+          "feedback": "Incorrect. Focuses on making money."
+        },
+        {
+          "letter": "B",
+          "text": "rewarding",
+          "is_correct": true,
+          "feedback": "Correct. Rewarding means providing satisfaction or giving a sense of worth."
+        },
+        {
+          "letter": "C",
+          "text": "monotonous",
+          "is_correct": false,
+          "feedback": "Incorrect. Monotonous means boring."
+        },
+        {
+          "letter": "D",
+          "text": "redundant",
+          "is_correct": false,
+          "feedback": "Incorrect. Redundant means unnecessary."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Rewarding' is the appropriate adjective for a job that provides a deep sense of personal satisfaction.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v9",
+      "statement": "He said that he was going to apply for his dream job at the tech company.",
+      "context": "Reporting someone's career plans.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted from 'is' to 'was' in reported speech."
+        },
+        {
+          "letter": "B",
+          "text": "was",
+          "is_correct": true,
+          "feedback": "Correct. Past tense of 'to be' used in reported speech."
+        },
+        {
+          "letter": "C",
+          "text": "has been",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "will be",
+          "is_correct": false,
+          "feedback": "Incorrect. Future tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, we change 'is going to' to 'was going to' when the reporting verb is in the past.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v10",
+      "statement": "The article suggests that the obsession with \"hustle culture\" can lead people to sacrifice their mental health for the sake of career advancement.",
+      "context": "Critique of \"hustle culture\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "enhance",
+          "is_correct": false,
+          "feedback": "Incorrect. Hustle culture usually harms mental health."
+        },
+        {
+          "letter": "B",
+          "text": "sacrifice",
+          "is_correct": true,
+          "feedback": "Correct. To sacrifice means to give up something valued for something else considered more important."
+        },
+        {
+          "letter": "C",
+          "text": "ignore",
+          "is_correct": false,
+          "feedback": "Incorrect. While people might ignore their health, the text uses 'sacrifice' to show the cost."
+        },
+        {
+          "letter": "D",
+          "text": "celebrate",
+          "is_correct": false,
+          "feedback": "Incorrect. Sacrifice is not celebration."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Sacrifice' accurately describes the act of giving up something important (health) to achieve something else (career).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v11",
+      "statement": "A cover letter is a document sent with your resume to provide additional information on your skills and experience.",
+      "context": "Job application process.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "script",
+          "is_correct": false,
+          "feedback": "Incorrect. A script is for a play."
+        },
+        {
+          "letter": "B",
+          "text": "cover letter",
+          "is_correct": true,
+          "feedback": "Correct. Standard job application document."
+        },
+        {
+          "letter": "C",
+          "text": "transcript",
+          "is_correct": false,
+          "feedback": "Incorrect. A transcript shows grades."
+        },
+        {
+          "letter": "D",
+          "text": "warrant",
+          "is_correct": false,
+          "feedback": "Incorrect. A legal document."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Cover letter' is the professional term for the introductory letter sent with a resume.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v12",
+      "statement": "Public speaking is a skill that takes years of practice to master.",
+      "context": "Describing a necessary skill for many dream jobs.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "mastering",
+          "is_correct": false,
+          "feedback": "Incorrect. Infinitive needed after 'to'."
+        },
+        {
+          "letter": "B",
+          "text": "to master",
+          "is_correct": true,
+          "feedback": "Correct. Infinitive 'to master' follows 'years of practice'."
+        },
+        {
+          "letter": "C",
+          "text": "master",
+          "is_correct": false,
+          "feedback": "Incorrect. Base form without 'to'."
+        },
+        {
+          "letter": "D",
+          "text": "mastered",
+          "is_correct": false,
+          "feedback": "Incorrect. Past participle."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The infinitive 'to master' is used to express the goal of the practice.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v13",
+      "statement": "Many people choose a career path that aligns with their personal values and beliefs.",
+      "context": "Discussing career paths.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "aligns with",
+          "is_correct": true,
+          "feedback": "Correct. 'Align with' means to be in agreement or accord with."
+        },
+        {
+          "letter": "B",
+          "text": "conflicts with",
+          "is_correct": false,
+          "feedback": "Incorrect. Most people prefer to avoid conflict with their values."
+        },
+        {
+          "letter": "C",
+          "text": "ignores",
+          "is_correct": false,
+          "feedback": "Incorrect. Ignoring values usually leads to dissatisfaction."
+        },
+        {
+          "letter": "D",
+          "text": "replaces",
+          "is_correct": false,
+          "feedback": "Incorrect. Values usually inform the career, not the other way around."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Aligns with' is the standard phrasal verb for showing harmony or agreement between two things.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v14",
+      "statement": "If she had taken that internship last year, she would have more opportunities now.",
+      "context": "Mixed conditional about career preparation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will have",
+          "is_correct": false,
+          "feedback": "Incorrect. Present/future."
+        },
+        {
+          "letter": "B",
+          "text": "would have",
+          "is_correct": true,
+          "feedback": "Correct. Mixed conditional (past action, present result)."
+        },
+        {
+          "letter": "C",
+          "text": "had",
+          "is_correct": false,
+          "feedback": "Incorrect. Past tense."
+        },
+        {
+          "letter": "D",
+          "text": "would had",
+          "is_correct": false,
+          "feedback": "Incorrect grammar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The mixed conditional (if + past perfect, would + verb) connects a past hypothetical with a present situation.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v15",
+      "statement": "The article concludes that it is never too late to pivot and pursue a new career that brings you joy.",
+      "context": "Conclusion of an article on career changes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "stagnate",
+          "is_correct": false,
+          "feedback": "Incorrect. Stagnate means to stop moving."
+        },
+        {
+          "letter": "B",
+          "text": "pivot",
+          "is_correct": true,
+          "feedback": "Correct. To pivot means to change direction."
+        },
+        {
+          "letter": "C",
+          "text": "quit",
+          "is_correct": false,
+          "feedback": "Incorrect. While it involves quitting the old job, 'pivot' better describes the move to a new one."
+        },
+        {
+          "letter": "D",
+          "text": "decline",
+          "is_correct": false,
+          "feedback": "Incorrect. Decline means to refuse."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Pivot' is a popular professional term for making a significant change in career direction.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v16",
+      "statement": "An entrepreneur is a person who sets up a business, taking on financial risks in the hope of profit.",
+      "context": "Definition of an entrepreneur.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "employee",
+          "is_correct": false,
+          "feedback": "Incorrect. Employees work for others."
+        },
+        {
+          "letter": "B",
+          "text": "entrepreneur",
+          "is_correct": true,
+          "feedback": "Correct. This is the definition of the term."
+        },
+        {
+          "letter": "C",
+          "text": "customer",
+          "is_correct": false,
+          "feedback": "Incorrect. Customers buy products."
+        },
+        {
+          "letter": "D",
+          "text": "intern",
+          "is_correct": false,
+          "feedback": "Incorrect. Interns are trainees."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Entrepreneur' is the specific term for someone who starts and manages their own business.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v17",
+      "statement": "It is recommended that you attend workshops to stay current in your field.",
+      "context": "Recommendation for professional development.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "attend",
+          "is_correct": true,
+          "feedback": "Correct. Subjunctive mood after 'recommended'."
+        },
+        {
+          "letter": "B",
+          "text": "attends",
+          "is_correct": false,
+          "feedback": "Incorrect. Not used in formal subjunctive."
+        },
+        {
+          "letter": "C",
+          "text": "to attend",
+          "is_correct": false,
+          "feedback": "Incorrect. Doesn't fit the 'that' clause."
+        },
+        {
+          "letter": "D",
+          "text": "attending",
+          "is_correct": false,
+          "feedback": "Incorrect. Gerund."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The base form 'attend' is used in the subjunctive mood after verbs like 'recommend'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v18",
+      "statement": "A visionary leader is someone who has clear ideas about what should happen or be done in the future.",
+      "context": "Describing a visionary professional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "cautious",
+          "is_correct": false,
+          "feedback": "Incorrect. Focuses on avoiding risk."
+        },
+        {
+          "letter": "B",
+          "text": "visionary",
+          "is_correct": true,
+          "feedback": "Correct. A visionary looks to the future with imagination."
+        },
+        {
+          "letter": "C",
+          "text": "reactionary",
+          "is_correct": false,
+          "feedback": "Incorrect. Reacts against change."
+        },
+        {
+          "letter": "D",
+          "text": "passive",
+          "is_correct": false,
+          "feedback": "Incorrect. Passive means inactive."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Visionary' is the appropriate adjective for a leader with a strong, forward-thinking plan.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v19",
+      "statement": "By next year, he will have been working as a pilot for a decade.",
+      "context": "Describing a long-term professional pursuit.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will work",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple future."
+        },
+        {
+          "letter": "B",
+          "text": "will have been working",
+          "is_correct": true,
+          "feedback": "Correct. Future perfect continuous for duration up to a future point."
+        },
+        {
+          "letter": "C",
+          "text": "works",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple."
+        },
+        {
+          "letter": "D",
+          "text": "has been working",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect continuous."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The future perfect continuous 'will have been working' describes the duration of an action at a future time.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-v20",
+      "statement": "Ultimately, true professional success is measured by the impact you have on others and the integrity you maintain.",
+      "context": "Final thought on success.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "integrity",
+          "is_correct": true,
+          "feedback": "Correct. Integrity is the quality of being honest and having strong moral principles."
+        },
+        {
+          "letter": "B",
+          "text": "wealth",
+          "is_correct": false,
+          "feedback": "Incorrect. The text contrasts external measures with internal ones."
+        },
+        {
+          "letter": "C",
+          "text": "greed",
+          "is_correct": false,
+          "feedback": "Incorrect. Greedy is negative."
+        },
+        {
+          "letter": "D",
+          "text": "laziness",
+          "is_correct": false,
+          "feedback": "Incorrect. Laziness doesn't lead to success."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Integrity' refers to the moral character that is essential for true, long-lasting success.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W11-dream-jobs-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

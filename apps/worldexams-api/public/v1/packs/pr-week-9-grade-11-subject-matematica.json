@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "pr",
+    "pack_id": "pr-week-9-grade-11-subject-matematicas",
+    "generated_at": "2026-07-29T02:17:15.699Z"
+  },
+  "questions": [
+    {
+      "id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v1",
+      "statement": "Determina la pendiente ($m$) y el intercepto en el eje $y$ de la recta representada por la ecuación: $$y = 3x + 11$$",
+      "context": "Un equipo de agrimensores en Humacao traza una línea divisoria en un mapa parcelario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pendiente $m = 3$, intercepto en $(0, 11)$",
+          "is_correct": true,
+          "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
+        },
+        {
+          "letter": "B",
+          "text": "Pendiente $m = 11$, intercepto en $(0, 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores están intercambiados."
+        },
+        {
+          "letter": "C",
+          "text": "Pendiente $m = -3$, intercepto en $(0, -11)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos."
+        },
+        {
+          "letter": "D",
+          "text": "Pendiente $m = 4$, intercepto en $(0, 10)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Parámetros alterados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 3x + 11$ identificamos directamente que la pendiente es $m = 3$ y el intercepto en el eje $y$ es $(0, 11)$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v2",
+      "statement": "Determina la pendiente ($m$) y el intercepto en el eje $y$ de la recta representada por la ecuación: $$y = 4x + 12$$",
+      "context": "Un equipo de agrimensores en Ponce traza una línea divisoria en un mapa parcelario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pendiente $m = 4$, intercepto en $(0, 12)$",
+          "is_correct": true,
+          "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
+        },
+        {
+          "letter": "B",
+          "text": "Pendiente $m = 12$, intercepto en $(0, 4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores están intercambiados."
+        },
+        {
+          "letter": "C",
+          "text": "Pendiente $m = -4$, intercepto en $(0, -12)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos."
+        },
+        {
+          "letter": "D",
+          "text": "Pendiente $m = 5$, intercepto en $(0, 11)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Parámetros alterados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 4x + 12$ identificamos directamente que la pendiente es $m = 4$ y el intercepto en el eje $y$ es $(0, 12)$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v3",
+      "statement": "Determina la pendiente ($m$) y el intercepto en el eje $y$ de la recta representada por la ecuación: $$y = 5x + 13$$",
+      "context": "Un equipo de agrimensores en Aguadilla traza una línea divisoria en un mapa parcelario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pendiente $m = 5$, intercepto en $(0, 13)$",
+          "is_correct": true,
+          "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
+        },
+        {
+          "letter": "B",
+          "text": "Pendiente $m = 13$, intercepto en $(0, 5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores están intercambiados."
+        },
+        {
+          "letter": "C",
+          "text": "Pendiente $m = -5$, intercepto en $(0, -13)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos."
+        },
+        {
+          "letter": "D",
+          "text": "Pendiente $m = 6$, intercepto en $(0, 12)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Parámetros alterados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 5x + 13$ identificamos directamente que la pendiente es $m = 5$ y el intercepto en el eje $y$ es $(0, 13)$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v4",
+      "statement": "Determina la pendiente ($m$) y el intercepto en el eje $y$ de la recta representada por la ecuación: $$y = 6x + 14$$",
+      "context": "Un equipo de agrimensores en San Juan traza una línea divisoria en un mapa parcelario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pendiente $m = 6$, intercepto en $(0, 14)$",
+          "is_correct": true,
+          "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
+        },
+        {
+          "letter": "B",
+          "text": "Pendiente $m = 14$, intercepto en $(0, 6)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores están intercambiados."
+        },
+        {
+          "letter": "C",
+          "text": "Pendiente $m = -6$, intercepto en $(0, -14)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos."
+        },
+        {
+          "letter": "D",
+          "text": "Pendiente $m = 7$, intercepto en $(0, 13)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Parámetros alterados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 6x + 14$ identificamos directamente que la pendiente es $m = 6$ y el intercepto en el eje $y$ es $(0, 14)$.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v5",
+      "statement": "Determina la pendiente ($m$) y el intercepto en el eje $y$ de la recta representada por la ecuación: $$y = 2x + 15$$",
+      "context": "Un equipo de agrimensores en Caguas traza una línea divisoria en un mapa parcelario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pendiente $m = 2$, intercepto en $(0, 15)$",
+          "is_correct": true,
+          "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
+        },
+        {
+          "letter": "B",
+          "text": "Pendiente $m = 15$, intercepto en $(0, 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores están intercambiados."
+        },
+        {
+          "letter": "C",
+          "text": "Pendiente $m = -2$, intercepto en $(0, -15)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos."
+        },
+        {
+          "letter": "D",
+          "text": "Pendiente $m = 3$, intercepto en $(0, 14)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Parámetros alterados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 2x + 15$ identificamos directamente que la pendiente es $m = 2$ y el intercepto en el eje $y$ es $(0, 15)$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v6",
+      "statement": "Determina la pendiente ($m$) y el intercepto en el eje $y$ de la recta representada por la ecuación: $$y = 3x + 16$$",
+      "context": "Un equipo de agrimensores en Carolina traza una línea divisoria en un mapa parcelario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pendiente $m = 3$, intercepto en $(0, 16)$",
+          "is_correct": true,
+          "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
+        },
+        {
+          "letter": "B",
+          "text": "Pendiente $m = 16$, intercepto en $(0, 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores están intercambiados."
+        },
+        {
+          "letter": "C",
+          "text": "Pendiente $m = -3$, intercepto en $(0, -16)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos."
+        },
+        {
+          "letter": "D",
+          "text": "Pendiente $m = 4$, intercepto en $(0, 15)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Parámetros alterados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 3x + 16$ identificamos directamente que la pendiente es $m = 3$ y el intercepto en el eje $y$ es $(0, 16)$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v7",
+      "statement": "Determina la pendiente ($m$) y el intercepto en el eje $y$ de la recta representada por la ecuación: $$y = 4x + 17$$",
+      "context": "Un equipo de agrimensores en Humacao traza una línea divisoria en un mapa parcelario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pendiente $m = 4$, intercepto en $(0, 17)$",
+          "is_correct": true,
+          "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
+        },
+        {
+          "letter": "B",
+          "text": "Pendiente $m = 17$, intercepto en $(0, 4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores están intercambiados."
+        },
+        {
+          "letter": "C",
+          "text": "Pendiente $m = -4$, intercepto en $(0, -17)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos."
+        },
+        {
+          "letter": "D",
+          "text": "Pendiente $m = 5$, intercepto en $(0, 16)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Parámetros alterados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 4x + 17$ identificamos directamente que la pendiente es $m = 4$ y el intercepto en el eje $y$ es $(0, 17)$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v8",
+      "statement": "Determina la pendiente ($m$) y el intercepto en el eje $y$ de la recta representada por la ecuación: $$y = 5x + 18$$",
+      "context": "Un equipo de agrimensores en Ponce traza una línea divisoria en un mapa parcelario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pendiente $m = 5$, intercepto en $(0, 18)$",
+          "is_correct": true,
+          "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
+        },
+        {
+          "letter": "B",
+          "text": "Pendiente $m = 18$, intercepto en $(0, 5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores están intercambiados."
+        },
+        {
+          "letter": "C",
+          "text": "Pendiente $m = -5$, intercepto en $(0, -18)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos."
+        },
+        {
+          "letter": "D",
+          "text": "Pendiente $m = 6$, intercepto en $(0, 17)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Parámetros alterados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 5x + 18$ identificamos directamente que la pendiente es $m = 5$ y el intercepto en el eje $y$ es $(0, 18)$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v9",
+      "statement": "Determina la pendiente ($m$) y el intercepto en el eje $y$ de la recta representada por la ecuación: $$y = 6x + 19$$",
+      "context": "Un equipo de agrimensores en Aguadilla traza una línea divisoria en un mapa parcelario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pendiente $m = 6$, intercepto en $(0, 19)$",
+          "is_correct": true,
+          "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
+        },
+        {
+          "letter": "B",
+          "text": "Pendiente $m = 19$, intercepto en $(0, 6)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores están intercambiados."
+        },
+        {
+          "letter": "C",
+          "text": "Pendiente $m = -6$, intercepto en $(0, -19)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos."
+        },
+        {
+          "letter": "D",
+          "text": "Pendiente $m = 7$, intercepto en $(0, 18)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Parámetros alterados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 6x + 19$ identificamos directamente que la pendiente es $m = 6$ y el intercepto en el eje $y$ es $(0, 19)$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v10",
+      "statement": "Determina la pendiente ($m$) y el intercepto en el eje $y$ de la recta representada por la ecuación: $$y = 2x + 20$$",
+      "context": "Un equipo de agrimensores en San Juan traza una línea divisoria en un mapa parcelario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pendiente $m = 2$, intercepto en $(0, 20)$",
+          "is_correct": true,
+          "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
+        },
+        {
+          "letter": "B",
+          "text": "Pendiente $m = 20$, intercepto en $(0, 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores están intercambiados."
+        },
+        {
+          "letter": "C",
+          "text": "Pendiente $m = -2$, intercepto en $(0, -20)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos."
+        },
+        {
+          "letter": "D",
+          "text": "Pendiente $m = 3$, intercepto en $(0, 19)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Parámetros alterados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 2x + 20$ identificamos directamente que la pendiente es $m = 2$ y el intercepto en el eje $y$ es $(0, 20)$.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v11",
+      "statement": "Determina la pendiente ($m$) y el intercepto en el eje $y$ de la recta representada por la ecuación: $$y = 3x + 21$$",
+      "context": "Un equipo de agrimensores en Caguas traza una línea divisoria en un mapa parcelario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pendiente $m = 3$, intercepto en $(0, 21)$",
+          "is_correct": true,
+          "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
+        },
+        {
+          "letter": "B",
+          "text": "Pendiente $m = 21$, intercepto en $(0, 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores están intercambiados."
+        },
+        {
+          "letter": "C",
+          "text": "Pendiente $m = -3$, intercepto en $(0, -21)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos."
+        },
+        {
+          "letter": "D",
+          "text": "Pendiente $m = 4$, intercepto en $(0, 20)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Parámetros alterados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 3x + 21$ identificamos directamente que la pendiente es $m = 3$ y el intercepto en el eje $y$ es $(0, 21)$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v12",
+      "statement": "Determina la pendiente ($m$) y el intercepto en el eje $y$ de la recta representada por la ecuación: $$y = 4x + 22$$",
+      "context": "Un equipo de agrimensores en Carolina traza una línea divisoria en un mapa parcelario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pendiente $m = 4$, intercepto en $(0, 22)$",
+          "is_correct": true,
+          "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
+        },
+        {
+          "letter": "B",
+          "text": "Pendiente $m = 22$, intercepto en $(0, 4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores están intercambiados."
+        },
+        {
+          "letter": "C",
+          "text": "Pendiente $m = -4$, intercepto en $(0, -22)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos."
+        },
+        {
+          "letter": "D",
+          "text": "Pendiente $m = 5$, intercepto en $(0, 21)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Parámetros alterados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 4x + 22$ identificamos directamente que la pendiente es $m = 4$ y el intercepto en el eje $y$ es $(0, 22)$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v13",
+      "statement": "Determina la pendiente ($m$) y el intercepto en el eje $y$ de la recta representada por la ecuación: $$y = 5x + 23$$",
+      "context": "Un equipo de agrimensores en Humacao traza una línea divisoria en un mapa parcelario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pendiente $m = 5$, intercepto en $(0, 23)$",
+          "is_correct": true,
+          "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
+        },
+        {
+          "letter": "B",
+          "text": "Pendiente $m = 23$, intercepto en $(0, 5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores están intercambiados."
+        },
+        {
+          "letter": "C",
+          "text": "Pendiente $m = -5$, intercepto en $(0, -23)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos."
+        },
+        {
+          "letter": "D",
+          "text": "Pendiente $m = 6$, intercepto en $(0, 22)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Parámetros alterados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 5x + 23$ identificamos directamente que la pendiente es $m = 5$ y el intercepto en el eje $y$ es $(0, 23)$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v14",
+      "statement": "Determina la pendiente ($m$) y el intercepto en el eje $y$ de la recta representada por la ecuación: $$y = 6x + 24$$",
+      "context": "Un equipo de agrimensores en Ponce traza una línea divisoria en un mapa parcelario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pendiente $m = 6$, intercepto en $(0, 24)$",
+          "is_correct": true,
+          "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
+        },
+        {
+          "letter": "B",
+          "text": "Pendiente $m = 24$, intercepto en $(0, 6)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores están intercambiados."
+        },
+        {
+          "letter": "C",
+          "text": "Pendiente $m = -6$, intercepto en $(0, -24)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos."
+        },
+        {
+          "letter": "D",
+          "text": "Pendiente $m = 7$, intercepto en $(0, 23)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Parámetros alterados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 6x + 24$ identificamos directamente que la pendiente es $m = 6$ y el intercepto en el eje $y$ es $(0, 24)$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v15",
+      "statement": "Determina la pendiente ($m$) y el intercepto en el eje $y$ de la recta representada por la ecuación: $$y = 2x + 25$$",
+      "context": "Un equipo de agrimensores en Aguadilla traza una línea divisoria en un mapa parcelario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pendiente $m = 2$, intercepto en $(0, 25)$",
+          "is_correct": true,
+          "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
+        },
+        {
+          "letter": "B",
+          "text": "Pendiente $m = 25$, intercepto en $(0, 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores están intercambiados."
+        },
+        {
+          "letter": "C",
+          "text": "Pendiente $m = -2$, intercepto en $(0, -25)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos."
+        },
+        {
+          "letter": "D",
+          "text": "Pendiente $m = 3$, intercepto en $(0, 24)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Parámetros alterados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 2x + 25$ identificamos directamente que la pendiente es $m = 2$ y el intercepto en el eje $y$ es $(0, 25)$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v16",
+      "statement": "Determina la pendiente ($m$) y el intercepto en el eje $y$ de la recta representada por la ecuación: $$y = 3x + 26$$",
+      "context": "Un equipo de agrimensores en San Juan traza una línea divisoria en un mapa parcelario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pendiente $m = 3$, intercepto en $(0, 26)$",
+          "is_correct": true,
+          "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
+        },
+        {
+          "letter": "B",
+          "text": "Pendiente $m = 26$, intercepto en $(0, 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores están intercambiados."
+        },
+        {
+          "letter": "C",
+          "text": "Pendiente $m = -3$, intercepto en $(0, -26)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos."
+        },
+        {
+          "letter": "D",
+          "text": "Pendiente $m = 4$, intercepto en $(0, 25)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Parámetros alterados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 3x + 26$ identificamos directamente que la pendiente es $m = 3$ y el intercepto en el eje $y$ es $(0, 26)$.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v17",
+      "statement": "Determina la pendiente ($m$) y el intercepto en el eje $y$ de la recta representada por la ecuación: $$y = 4x + 27$$",
+      "context": "Un equipo de agrimensores en Caguas traza una línea divisoria en un mapa parcelario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pendiente $m = 4$, intercepto en $(0, 27)$",
+          "is_correct": true,
+          "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
+        },
+        {
+          "letter": "B",
+          "text": "Pendiente $m = 27$, intercepto en $(0, 4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores están intercambiados."
+        },
+        {
+          "letter": "C",
+          "text": "Pendiente $m = -4$, intercepto en $(0, -27)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos."
+        },
+        {
+          "letter": "D",
+          "text": "Pendiente $m = 5$, intercepto en $(0, 26)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Parámetros alterados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 4x + 27$ identificamos directamente que la pendiente es $m = 4$ y el intercepto en el eje $y$ es $(0, 27)$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v18",
+      "statement": "Determina la pendiente ($m$) y el intercepto en el eje $y$ de la recta representada por la ecuación: $$y = 5x + 28$$",
+      "context": "Un equipo de agrimensores en Carolina traza una línea divisoria en un mapa parcelario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pendiente $m = 5$, intercepto en $(0, 28)$",
+          "is_correct": true,
+          "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
+        },
+        {
+          "letter": "B",
+          "text": "Pendiente $m = 28$, intercepto en $(0, 5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores están intercambiados."
+        },
+        {
+          "letter": "C",
+          "text": "Pendiente $m = -5$, intercepto en $(0, -28)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos."
+        },
+        {
+          "letter": "D",
+          "text": "Pendiente $m = 6$, intercepto en $(0, 27)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Parámetros alterados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 5x + 28$ identificamos directamente que la pendiente es $m = 5$ y el intercepto en el eje $y$ es $(0, 28)$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v19",
+      "statement": "Determina la pendiente ($m$) y el intercepto en el eje $y$ de la recta representada por la ecuación: $$y = 6x + 29$$",
+      "context": "Un equipo de agrimensores en Humacao traza una línea divisoria en un mapa parcelario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pendiente $m = 6$, intercepto en $(0, 29)$",
+          "is_correct": true,
+          "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
+        },
+        {
+          "letter": "B",
+          "text": "Pendiente $m = 29$, intercepto en $(0, 6)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores están intercambiados."
+        },
+        {
+          "letter": "C",
+          "text": "Pendiente $m = -6$, intercepto en $(0, -29)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos."
+        },
+        {
+          "letter": "D",
+          "text": "Pendiente $m = 7$, intercepto en $(0, 28)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Parámetros alterados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 6x + 29$ identificamos directamente que la pendiente es $m = 6$ y el intercepto en el eje $y$ es $(0, 29)$.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle-v20",
+      "statement": "Determina la pendiente ($m$) y el intercepto en el eje $y$ de la recta representada por la ecuación: $$y = 2x + 30$$",
+      "context": "Un equipo de agrimensores en Ponce traza una línea divisoria en un mapa parcelario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pendiente $m = 2$, intercepto en $(0, 30)$",
+          "is_correct": true,
+          "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
+        },
+        {
+          "letter": "B",
+          "text": "Pendiente $m = 30$, intercepto en $(0, 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores están intercambiados."
+        },
+        {
+          "letter": "C",
+          "text": "Pendiente $m = -2$, intercepto en $(0, -30)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signos."
+        },
+        {
+          "letter": "D",
+          "text": "Pendiente $m = 3$, intercepto en $(0, 29)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Parámetros alterados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 2x + 30$ identificamos directamente que la pendiente es $m = 2$ y el intercepto en el eje $y$ es $(0, 30)$.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "PR-MAT-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "pr"
+    }
+  ]
+}

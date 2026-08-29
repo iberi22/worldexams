@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "gq",
+    "pack_id": "gq-week-9-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:38.756Z"
+  },
+  "questions": [
+    {
+      "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v1",
+      "statement": "¿Cual es la forma general de una funcion afin?",
+      "context": "Un estudiante en el Colegio Nacional Enrique Nvó Okenve de Malabo estudia la representacion algebraica de las funciones de primer grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = ax^2 + bx + c$",
+          "is_correct": false,
+          "feedback": "Esta es la forma de una funcion cuadratica, no afin."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = mx + n$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Donde 'm' es la pendiente y 'n' es la ordenada en el origen."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = a/x$",
+          "is_correct": false,
+          "feedback": "Esta es una funcion de proporcionalidad inversa."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = \\log(x)$",
+          "is_correct": false,
+          "feedback": "Esta es una funcion logaritmica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una funcion afin es una funcion polinómica de primer grado. Su representacion grafica es siempre una linea recta que no necesariamente pasa por el origen $(0,0)$. Los parametros $m$ y $n$ definen su inclinacion y su posicion vertical.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v2",
+      "statement": "En la funcion $f(x) = mx + n$, ¿que indica el valor del parametro $m$?",
+      "context": "Un profesor en Bata explica el significado geometrico de los coeficientes de la funcion lineal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El punto donde la recta corta al eje Y.",
+          "is_correct": false,
+          "feedback": "Eso lo indica la ordenada en el origen 'n'."
+        },
+        {
+          "letter": "B",
+          "text": "La pendiente o inclinacion de la recta.",
+          "is_correct": true,
+          "feedback": "¡Correcto! 'm' representa cuanto aumenta o disminuye 'y' por cada unidad que aumenta 'x'."
+        },
+        {
+          "letter": "C",
+          "text": "El punto donde la recta corta al eje X.",
+          "is_correct": false,
+          "feedback": "El punto de corte con X se halla haciendo f(x)=0."
+        },
+        {
+          "letter": "D",
+          "text": "La curvatura de la grafica.",
+          "is_correct": false,
+          "feedback": "Las rectas no tienen curvatura; son lineas con inclinacion constante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pendiente $m$ determina si la funcion es creciente ($m > 0$), decreciente ($m < 0$) o constante ($m = 0$). Es la razon de cambio entre las variables $y$ y $x$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v3",
+      "statement": "¿Cual es el nombre especifico de una funcion como $I(x) = 2000x$ que pasa por el origen $(0,0)$?",
+      "context": "Un comerciante en Ebebiyin nota que sus ingresos siguen la funcion $I(x) = 2000x$, donde $x$ es el numero de articulos vendidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Funcion lineal (o de proporcionalidad directa)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es un caso particular de funcion afin donde n = 0."
+        },
+        {
+          "letter": "B",
+          "text": "Funcion constante",
+          "is_correct": false,
+          "feedback": "Una funcion constante tendria m = 0."
+        },
+        {
+          "letter": "C",
+          "text": "Funcion cuadratica",
+          "is_correct": false,
+          "feedback": "No hay terminos elevados al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "Funcion identidad",
+          "is_correct": false,
+          "feedback": "La identidad es f(x) = x, donde la pendiente es 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aunque a menudo se usan como sinonimos, en rigor, una funcion lineal es la que pasa por el origen ($n=0$), representando una relacion de proporcionalidad directa entre las variables.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v4",
+      "statement": "¿En que punto corta al eje Y la grafica de la funcion $f(x) = -3x + 5$?",
+      "context": "Un estudiante identifica las caracteristicas de la funcion $f(x) = -3x + 5$ a partir de su ecuacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(0, -3)$",
+          "is_correct": false,
+          "feedback": "-3 es la pendiente, no el punto de corte con Y."
+        },
+        {
+          "letter": "B",
+          "text": "$(0, 5)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ordenada en el origen 'n' es 5, por lo que el punto es (0, 5)."
+        },
+        {
+          "letter": "C",
+          "text": "$(5, 0)$",
+          "is_correct": false,
+          "feedback": "Este seria un punto sobre el eje X."
+        },
+        {
+          "letter": "D",
+          "text": "$(0, 0)$",
+          "is_correct": false,
+          "feedback": "La funcion no pasa por el origen porque n es distinto de cero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ordenada en el origen $n$ es el valor de la funcion cuando $x = 0$. Graficamente, corresponde al punto donde la recta cruza el eje vertical (Y).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v5",
+      "statement": "¿Que significado tiene el numero $2$ en el contexto del consumo de combustible?",
+      "context": "Un tecnico en Malabo analiza el consumo de combustible de un generador: $C(t) = 0.5t + 2$, donde $t$ es el tiempo en horas y $C$ los litros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El generador consume 2 litros por cada hora.",
+          "is_correct": false,
+          "feedback": "Esto lo indicaria la pendiente (0.5)."
+        },
+        {
+          "letter": "B",
+          "text": "El generador se apaga a las 2 horas.",
+          "is_correct": false,
+          "feedback": "No hay evidencia de eso en la formula lineal simple."
+        },
+        {
+          "letter": "C",
+          "text": "Es el combustible inicial (litros) que ya habia en el deposito ($t = 0$).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es el valor inicial o condicion de partida de la funcion."
+        },
+        {
+          "letter": "D",
+          "text": "Es la capacidad maxima del deposito.",
+          "is_correct": false,
+          "feedback": "La formula no indica un limite superior, solo el consumo actual."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En modelos lineales, la ordenada en el origen representa el valor de la variable dependiente al inicio del proceso (cuando el tiempo o la cantidad base es cero). Es una constante de inicio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.72,
+      "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v6",
+      "statement": "¿Cual es el valor de la pendiente $m$ para la recta que pasa por los puntos $(1, 2)$ y $(3, 8)$?",
+      "context": "Un estudiante en Mongomo quiere hallar la pendiente de una recta que pasa por los puntos $A(1, 2)$ y $B(3, 8)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m = 2$",
+          "is_correct": false,
+          "feedback": "Valor incorrecto tras aplicar la formula de la pendiente."
+        },
+        {
+          "letter": "B",
+          "text": "$m = 3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $m = (y_2 - y_1) / (x_2 - x_1) = (8 - 2) / (3 - 1) = 6 / 2 = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$m = 6$",
+          "is_correct": false,
+          "feedback": "Olvido dividir por la diferencia de las x."
+        },
+        {
+          "letter": "D",
+          "text": "$m = 5$",
+          "is_correct": false,
+          "feedback": "No corresponde a la razon de cambio entre los puntos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pendiente se calcula como el cociente entre la variacion vertical (ordenadas) y la variacion horizontal (abcisas). Es la formula: $m = \\frac{\\Delta y}{\\Delta x}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v7",
+      "statement": "¿Cual es la ecuacion de la funcion que representa la rampa?",
+      "context": "Un topografo en Annobon determina que una rampa tiene una pendiente $m = -0.5$ y pasa por el punto $(0, 4)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = -0.5x + 4$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sustituyendo m y n directamente en la forma general."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 4x - 0.5$",
+          "is_correct": false,
+          "feedback": "Se han intercambiado los valores de la pendiente y la ordenada."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = -0.5x$",
+          "is_correct": false,
+          "feedback": "Esta funcion pasaria por el origen, pero la rampa empieza en 4."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = 0.5x + 4$",
+          "is_correct": false,
+          "feedback": "La pendiente debe ser negativa segun el enunciado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Conocer la pendiente y el punto de corte con el eje Y permite escribir directamente la ecuacion de la recta. Si el punto de corte es $(0, n)$, entonces $n$ es la ordenada en el origen.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v8",
+      "statement": "¿Como se clasifica la funcion $f(x) = 2x - 3$ segun su pendiente?",
+      "context": "Un analista en Malabo observa que la funcion $f(x) = 2x - 3$ aumenta sus valores a medida que $x$ crece.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estrictamente creciente",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al ser la pendiente m = 2 (positiva), la funcion siempre crece."
+        },
+        {
+          "letter": "B",
+          "text": "Estrictamente decreciente",
+          "is_correct": false,
+          "feedback": "Esto solo ocurriria si la pendiente fuera negativa."
+        },
+        {
+          "letter": "C",
+          "text": "Funcion constante",
+          "is_correct": false,
+          "feedback": "Esto requeriria una pendiente igual a cero."
+        },
+        {
+          "letter": "D",
+          "text": "Funcion cuadratica",
+          "is_correct": false,
+          "feedback": "El exponente de la x es 1, no 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El signo de la pendiente determina la monotonia de la funcion lineal. Si $m > 0$, la funcion es creciente; si $m < 0$, es decreciente; y si $m = 0$, la funcion es constante y su grafica es una linea horizontal.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v9",
+      "statement": "¿En que valor de $x$ la funcion $f(x) = -2x + 10$ corta al eje de las abcisas?",
+      "context": "Un estudiante en Evinayong resuelve la ecuacion $f(x) = 0$ para la funcion $f(x) = -2x + 10$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 10$",
+          "is_correct": false,
+          "feedback": "$f(10) = -20 + 10 = -10$, no 0."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -5$",
+          "is_correct": false,
+          "feedback": "$f(-5) = 10 + 10 = 20$, no 0."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $-2(5) + 10 = 0$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "En x=0 el valor de la funcion es 10."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El punto donde la funcion corta al eje X se halla igualando la expresion a cero. Este valor de $x$ es la raiz de la funcion. Para funciones lineales, siempre existe una unica raiz (a menos que la funcion sea constante y no nula).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v10",
+      "statement": "¿Cual de los siguientes puntos pertenece a la recta definida por $f(x) = 3x - 1$?",
+      "context": "Un profesor en Mongomo explica como identificar si un punto pertenece a una recta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(1, 3)$",
+          "is_correct": false,
+          "feedback": "$3(1)-1 = 2$, no 3."
+        },
+        {
+          "letter": "B",
+          "text": "$(2, 5)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $3(2)-1 = 6-1 = 5$."
+        },
+        {
+          "letter": "C",
+          "text": "$(0, 1)$",
+          "is_correct": false,
+          "feedback": "$3(0)-1 = -1$, no 1."
+        },
+        {
+          "letter": "D",
+          "text": "$(3, 2)$",
+          "is_correct": false,
+          "feedback": "$3(3)-1 = 8$, no 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para verificar si un punto $(x, y)$ pertenece a la grafica de una funcion, sustituimos la coordenada $x$ en la formula y comprobamos si el resultado coincide con la coordenada $y$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.64,
+      "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v11",
+      "statement": "¿Como son las graficas de estas dos funciones entre si?",
+      "context": "Un ingeniero en el puerto de Malabo analiza dos cintas transportadoras cuyas trayectorias son $f(x) = 2x + 1$ y $g(x) = 2x + 5$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son perpendiculares.",
+          "is_correct": false,
+          "feedback": "Para ser perpendiculares, el producto de sus pendientes deberia ser -1."
+        },
+        {
+          "letter": "B",
+          "text": "Son paralelas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Tienen la misma pendiente (2) pero distinta ordenada en el origen."
+        },
+        {
+          "letter": "C",
+          "text": "Se cortan en el origen.",
+          "is_correct": false,
+          "feedback": "Ninguna de las dos pasa por el origen (n es 1 y 5)."
+        },
+        {
+          "letter": "D",
+          "text": "Son la misma recta.",
+          "is_correct": false,
+          "feedback": "Tienen diferentes ordenadas en el origen, por lo que son rectas distintas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dos rectas son paralelas si y solo si tienen la misma pendiente. Esto significa que mantienen la misma inclinacion y nunca se cruzaran, sin importar cuanto se prolonguen.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v12",
+      "statement": "¿En que valor de $x$ la funcion $f(x) = 4x - 12$ corta al eje horizontal?",
+      "context": "Un analista en Ciudad de la Paz quiere hallar el punto de corte con el eje X (la raiz) de la funcion $f(x) = 4x - 12$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 12$",
+          "is_correct": false,
+          "feedback": "$4(12) - 12 = 36$, no 0."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -3$",
+          "is_correct": false,
+          "feedback": "$4(-3) - 12 = -24$, no 0."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Haciendo $4x - 12 = 0 \\rightarrow 4x = 12 \\rightarrow x = 3$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 0$",
+          "is_correct": false,
+          "feedback": "En x=0 la funcion vale -12."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para hallar el corte con el eje X, debemos igualar la funcion a cero ($f(x) = 0$) y resolver la ecuacion lineal resultante para $x$. Este valor se denomina raiz o cero de la funcion.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v13",
+      "statement": "¿Cual debe ser la pendiente de una segunda recta para que sea perpendicular a la primera?",
+      "context": "En la UNGE se estudia la relacion entre dos rectas perpendiculares. Se tiene una recta con ecuacion $y = 3x - 1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m = 3$",
+          "is_correct": false,
+          "feedback": "Esta seria la pendiente de una recta paralela."
+        },
+        {
+          "letter": "B",
+          "text": "$m = -3$",
+          "is_correct": false,
+          "feedback": "La pendiente debe ser la opuesta e inversa."
+        },
+        {
+          "letter": "C",
+          "text": "$m = -1/3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! El producto de las pendientes de dos rectas perpendiculares debe ser -1 ($3 \\cdot -1/3 = -1$)."
+        },
+        {
+          "letter": "D",
+          "text": "$m = 1/3$",
+          "is_correct": false,
+          "feedback": "Falta el cambio de signo para cumplir la condicion de perpendicularidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dos rectas son perpendiculares (forman un angulo de 90 grados) si sus pendientes son inversas y opuestas. Algebraicamente: $m_1 \\cdot m_2 = -1$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v14",
+      "statement": "¿Cual es la expresion de la funcion $f(x)$?",
+      "context": "Un estudiante en Evinayong observa que una funcion lineal $f(x)$ cumple que $f(1) = 5$ y $f(2) = 7$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = 2x + 1$",
+          "is_correct": false,
+          "feedback": "f(1) seria 3, no 5."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 2x + 3$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La pendiente es $(7-5)/(2-1) = 2$. Luego $5 = 2(1) + n \\rightarrow n = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = 3x + 2$",
+          "is_correct": false,
+          "feedback": "f(1) seria 5, pero f(2) seria 8, no 7."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = x + 4$",
+          "is_correct": false,
+          "feedback": "f(2) seria 6, no 7."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar la ecuacion a partir de dos puntos $(x_1, y_1)$ y $(x_2, y_2)$, primero calculamos la pendiente $m$ y luego sustituimos uno de los puntos en la forma $y = mx + n$ para hallar la ordenada $n$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v15",
+      "statement": "¿Cual es la expresion de la funcion inversa $f^{-1}(x)$?",
+      "context": "Un analista en Luba estudia la funcion inversa de $f(x) = 2x - 4$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f^{-1}(x) = -2x + 4$",
+          "is_correct": false,
+          "feedback": "Esto es solo cambiar los signos, no hallar la inversa funcional."
+        },
+        {
+          "letter": "B",
+          "text": "$f^{-1}(x) = (x + 4) / 2$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Despejando x: $y+4 = 2x \\rightarrow x = (y+4)/2$. Luego se intercambian las variables."
+        },
+        {
+          "letter": "C",
+          "text": "$f^{-1}(x) = 2x + 4$",
+          "is_correct": false,
+          "feedback": "Solo se ha cambiado el signo de la ordenada."
+        },
+        {
+          "letter": "D",
+          "text": "$f^{-1}(x) = x / 2 - 4$",
+          "is_correct": false,
+          "feedback": "Falta dividir el termino independiente por 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La funcion inversa \"deshace\" la operacion de la funcion original. Para hallarla algebraicamente, escribimos $y = f(x)$, despejamos la variable $x$ en funcion de $y$, y finalmente intercambiamos los nombres de las variables.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v16",
+      "statement": "¿Cual es el coste marginal (coste de producir una unidad adicional) segun esta funcion?",
+      "context": "En un taller en Bata se determina que el coste de producir $x$ camisas es $C(x) = 500x + 1000$ Francos CFA.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "500 Francos",
+          "is_correct": true,
+          "feedback": "¡Correcto! El coste marginal en una funcion lineal es el valor de la pendiente."
+        },
+        {
+          "letter": "B",
+          "text": "1000 Francos",
+          "is_correct": false,
+          "feedback": "Este es el coste fijo, independiente de la produccion."
+        },
+        {
+          "letter": "C",
+          "text": "1500 Francos",
+          "is_correct": false,
+          "feedback": "Esto es la suma de coste marginal y coste fijo."
+        },
+        {
+          "letter": "D",
+          "text": "501 Francos",
+          "is_correct": false,
+          "feedback": "Error conceptual sobre la pendiente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En funciones de costo lineales, la pendiente representa el costo marginal, es decir, cuanto aumenta el costo total por cada unidad extra producida. La ordenada en el origen representa los costos fijos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.46,
+      "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v17",
+      "statement": "¿A partir de cuantos minutos de conversacion empieza a ser mas barato el Plan B?",
+      "context": "Un analista financiero en Bata compara dos planes de telefonia. El Plan A cuesta $10$ Francos por minuto. El Plan B tiene un costo fijo de $1000$ Francos mas $5$ Francos por minuto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 minutos",
+          "is_correct": false,
+          "feedback": "A los 100 min ambos cuestan 1000. Pero el Plan A no tiene costo fijo."
+        },
+        {
+          "letter": "B",
+          "text": "200 minutos",
+          "is_correct": true,
+          "feedback": "¡Correcto! $10x = 1000 + 5x \\rightarrow 5x = 1000 \\rightarrow x = 200$."
+        },
+        {
+          "letter": "C",
+          "text": "150 minutos",
+          "is_correct": false,
+          "feedback": "A los 150 min el Plan A es mas barato (1500 vs 1750)."
+        },
+        {
+          "letter": "D",
+          "text": "500 minutos",
+          "is_correct": false,
+          "feedback": "El ahorro comienza mucho antes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este es un problema clasico de comparacion de funciones afines. Igualamos las dos funciones ($10x$ y $5x + 1000$) para encontrar el \"punto de equilibrio\". Superado ese valor, la funcion con menor pendiente (Plan B) resulta mas economica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v18",
+      "statement": "¿Cual es el recorrido de cualquier funcion afin $f(x) = mx + n$ siempre que $m \\neq 0$?",
+      "context": "Se analiza el dominio y el recorrido (rango) de las funciones afines en el conjunto de los numeros reales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo los numeros reales positivos.",
+          "is_correct": false,
+          "feedback": "Las rectas pueden tomar valores negativos."
+        },
+        {
+          "letter": "B",
+          "text": "El conjunto de todos los numeros reales ($\\mathbb{R}$).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Una recta con pendiente no nula se extiende infinitamente en ambas direcciones del eje Y."
+        },
+        {
+          "letter": "C",
+          "text": "El intervalo $[n, \\infty)$.",
+          "is_correct": false,
+          "feedback": "Esto seria para algunas funciones cuadraticas, no para rectas."
+        },
+        {
+          "letter": "D",
+          "text": "Un solo numero real.",
+          "is_correct": false,
+          "feedback": "Esto solo ocurriria si m = 0 (funcion constante)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las funciones afines no constantes son funciones biyectivas de $\\mathbb{R}$ en $\\mathbb{R}$. Esto significa que para cualquier valor de $x$ hay un $y$, y que todos los valores de $y$ son alcanzados por algun $x$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v19",
+      "statement": "¿Cual es la expresion resultante de la funcion compuesta $(f \\circ g)(x)$?",
+      "context": "Un estudiante en Malabo estudia la composicion de funciones: $f(x) = 2x + 3$ y $g(x) = x - 1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x + 2$",
+          "is_correct": false,
+          "feedback": "Error al realizar la sustitucion o simplificacion."
+        },
+        {
+          "letter": "B",
+          "text": "$2x + 1$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $f(g(x)) = f(x - 1) = 2(x - 1) + 3 = 2x - 2 + 3 = 2x + 1$."
+        },
+        {
+          "letter": "C",
+          "text": "$2x - 1$",
+          "is_correct": false,
+          "feedback": "Error de signo en la operacion final."
+        },
+        {
+          "letter": "D",
+          "text": "$3x + 2$",
+          "is_correct": false,
+          "feedback": "Se han sumado las funciones en lugar de componerlas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La composicion de funciones $(f \\circ g)(x)$ consiste en aplicar la funcion $f$ al resultado de la funcion $g$. En el caso de funciones afines, el resultado de la composicion es siempre otra funcion afin.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle-v20",
+      "statement": "¿Que profundidad se ha alcanzado si la temperatura medida es de $40^\\circ C$?",
+      "context": "Un geólogo mide la temperatura del suelo en una mina de Guinea Ecuatorial. A nivel de superficie ($0$ m) es de $25^\\circ C$, y aumenta $3^\\circ C$ por cada $100$ metros de profundidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "300 metros",
+          "is_correct": false,
+          "feedback": "El aumento seria de 9 grados, totalizando 34."
+        },
+        {
+          "letter": "B",
+          "text": "400 metros",
+          "is_correct": false,
+          "feedback": "El aumento seria de 12 grados, totalizando 37."
+        },
+        {
+          "letter": "C",
+          "text": "500 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! $T(d) = 25 + (3/100)d$. Si $40 = 25 + 0.03d \\rightarrow 15 = 0.03d \\rightarrow d = 500$."
+        },
+        {
+          "letter": "D",
+          "text": "1000 metros",
+          "is_correct": false,
+          "feedback": "La temperatura seria de 55 grados."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este problema requiere modelar una situacion fisica mediante una funcion afin, donde la temperatura inicial es la ordenada en el origen y la tasa de aumento es la pendiente. Luego se resuelve la ecuacion para hallar el valor de la variable independiente (profundidad).\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "GQ-MAT-11-2026-W09-funcion-lineal-afin-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    }
+  ]
+}

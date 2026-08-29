@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ingles",
+    "country": "cl",
+    "pack_id": "cl-week-33-grade-11-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.114Z"
+  },
+  "questions": [
+    {
+      "id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v1",
+      "statement": "Cultural identity is the sense of belonging to a particular group, often defined by shared traditions, language, or history.",
+      "context": "Introduction to identity concepts.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "isolation",
+          "is_correct": false,
+          "feedback": "Incorrect. Identity usually involves belonging to a group."
+        },
+        {
+          "letter": "B",
+          "text": "belonging",
+          "is_correct": true,
+          "feedback": "Correct. Belonging is the feeling of being part of something."
+        },
+        {
+          "letter": "C",
+          "text": "confusion",
+          "is_correct": false,
+          "feedback": "Incorrect. While some feel identity confusion, the basic definition is about belonging."
+        },
+        {
+          "letter": "D",
+          "text": "distance",
+          "is_correct": false,
+          "feedback": "Incorrect. Identity implies closeness to a culture."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Belonging' is the core psychological feeling that defines cultural identity.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v2",
+      "statement": "Many immigrants are pressured into assimilating into the dominant culture of their new country.",
+      "context": "Discussing cultural assimilation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "assimilate",
+          "is_correct": false,
+          "feedback": "Incorrect. Passive voice needs 'assimilating' or 'assimilated'."
+        },
+        {
+          "letter": "B",
+          "text": "assimilating into",
+          "is_correct": true,
+          "feedback": "Correct. 'Pressure into + -ing' is a standard structure."
+        },
+        {
+          "letter": "C",
+          "text": "assimilate in",
+          "is_correct": false,
+          "feedback": "Incorrect preposition."
+        },
+        {
+          "letter": "D",
+          "text": "assimilated",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The structure 'pressure (someone) into + gerund' is used to describe forced or strongly encouraged behavior.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v3",
+      "statement": "If we didn't document these oral traditions, they would eventually be lost forever.",
+      "context": "Conditional about cultural preservation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "don't document",
+          "is_correct": false,
+          "feedback": "Incorrect. First conditional."
+        },
+        {
+          "letter": "B",
+          "text": "didn't document",
+          "is_correct": true,
+          "feedback": "Correct. Second conditional for a hypothetical present change."
+        },
+        {
+          "letter": "C",
+          "text": "hadn't documented",
+          "is_correct": false,
+          "feedback": "Incorrect. Third conditional."
+        },
+        {
+          "letter": "D",
+          "text": "wouldn't document",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' not in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The second conditional 'if + past simple' describes the imaginary result of failing to preserve traditions.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v4",
+      "statement": "Heritage refers to the traditions, achievements, and beliefs that are part of the history of a group or nation.",
+      "context": "Article about \"heritage\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Heritage",
+          "is_correct": true,
+          "feedback": "Correct. Heritage is what is inherited from past generations."
+        },
+        {
+          "letter": "B",
+          "text": "Future",
+          "is_correct": false,
+          "feedback": "Incorrect. Heritage focuses on the past."
+        },
+        {
+          "letter": "C",
+          "text": "Fashion",
+          "is_correct": false,
+          "feedback": "Incorrect. Fashion is short-term and often changing."
+        },
+        {
+          "letter": "D",
+          "text": "Budget",
+          "is_correct": false,
+          "feedback": "Incorrect. Financial plan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Heritage' is the specific term for the cultural and historical legacy of a group.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v5",
+      "statement": "Multiculturalism is a policy that recognizes and supports the presence of multiple distinct cultural groups within a single society.",
+      "context": "Discussion on \"multiculturalism\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "rejects",
+          "is_correct": false,
+          "feedback": "Incorrect. Multiculturalism supports diversity."
+        },
+        {
+          "letter": "B",
+          "text": "recognizes",
+          "is_correct": true,
+          "feedback": "Correct. To recognize means to acknowledge the existence or validity of."
+        },
+        {
+          "letter": "C",
+          "text": "ignores",
+          "is_correct": false,
+          "feedback": "Incorrect. Multiculturalism actively acknowledges groups."
+        },
+        {
+          "letter": "D",
+          "text": "forbids",
+          "is_correct": false,
+          "feedback": "Incorrect. Opposite of support."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Recognizes' correctly identifies the active acknowledgment of cultural diversity in multicultural policies.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v6",
+      "statement": "A person who is bilingual is able to speak two languages fluently.",
+      "context": "Defining a term.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "monolingual",
+          "is_correct": false,
+          "feedback": "Incorrect. Speaks one language."
+        },
+        {
+          "letter": "B",
+          "text": "bilingual",
+          "is_correct": true,
+          "feedback": "Correct. 'Bi-' means two."
+        },
+        {
+          "letter": "C",
+          "text": "illiterate",
+          "is_correct": false,
+          "feedback": "Incorrect. Unable to read or write."
+        },
+        {
+          "letter": "D",
+          "text": "mute",
+          "is_correct": false,
+          "feedback": "Incorrect. Unable to speak."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Bilingual' is the standard term for proficiency in two languages.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v7",
+      "statement": "Indigenous languages are being revitalized through new educational programs and community efforts.",
+      "context": "Describing a cultural revival.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are revitalizing",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "are being revitalized",
+          "is_correct": true,
+          "feedback": "Correct. Present continuous passive for an ongoing positive process."
+        },
+        {
+          "letter": "C",
+          "text": "revitalized",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "D",
+          "text": "have revitalized",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present continuous passive describes the current and active process of bringing languages back to use.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v8",
+      "statement": "A diaspora is a scattered population whose origin lies in a separate geographic locale.",
+      "context": "Text on \"diaspora\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "community",
+          "is_correct": false,
+          "feedback": "Incorrect. Too broad."
+        },
+        {
+          "letter": "B",
+          "text": "diaspora",
+          "is_correct": true,
+          "feedback": "Correct. Specific term for a group dispersed from its homeland."
+        },
+        {
+          "letter": "C",
+          "text": "colony",
+          "is_correct": false,
+          "feedback": "Incorrect. A colony is usually established by a state."
+        },
+        {
+          "letter": "D",
+          "text": "crowd",
+          "is_correct": false,
+          "feedback": "Incorrect. A casual gathering."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Diaspora' is the technical term for a community that has moved from its original homeland to various other places.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v9",
+      "statement": "She had been living in the city for years before she decided to reconnect with her rural roots.",
+      "context": "Describing a personal journey of discovery.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was living",
+          "is_correct": false,
+          "feedback": "Incorrect. Past continuous."
+        },
+        {
+          "letter": "B",
+          "text": "had been living",
+          "is_correct": true,
+          "feedback": "Correct. Past perfect continuous for duration before a past decision."
+        },
+        {
+          "letter": "C",
+          "text": "has been living",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect continuous."
+        },
+        {
+          "letter": "D",
+          "text": "lived",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The past perfect continuous highlights the long duration of her urban life preceding her change in perspective.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v10",
+      "statement": "Cultural homogenization refers to the process by which local cultures are reduced or transformed by a dominant global culture.",
+      "context": "Critique of \"homogenization\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "diversity",
+          "is_correct": false,
+          "feedback": "Incorrect. Homogenization reduces diversity."
+        },
+        {
+          "letter": "B",
+          "text": "homogenization",
+          "is_correct": true,
+          "feedback": "Correct. The process of making things uniform or similar."
+        },
+        {
+          "letter": "C",
+          "text": "appreciation",
+          "is_correct": false,
+          "feedback": "Incorrect. Homogenization is usually seen as a negative loss."
+        },
+        {
+          "letter": "D",
+          "text": "celebration",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Homogenization' (from 'homo' meaning same) is the term for the loss of cultural variety in favor of a single global style.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v11",
+      "statement": "Social norms are the unwritten rules of behavior that are considered acceptable in a group or society.",
+      "context": "Definition of \"norms\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Laws",
+          "is_correct": false,
+          "feedback": "Incorrect. Laws are written."
+        },
+        {
+          "letter": "B",
+          "text": "Norms",
+          "is_correct": true,
+          "feedback": "Correct. Unwritten social expectations."
+        },
+        {
+          "letter": "C",
+          "text": "Crimes",
+          "is_correct": false,
+          "feedback": "Incorrect. Violations of laws."
+        },
+        {
+          "letter": "D",
+          "text": "Jokes",
+          "is_correct": false,
+          "feedback": "Incorrect. Humor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Norms' is the sociological term for the informal rules that guide social interaction.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v12",
+      "statement": "By next year, the cultural festival will have been celebrated for fifty consecutive years.",
+      "context": "Describing a future cultural event.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will celebrate",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "will have been celebrated",
+          "is_correct": true,
+          "feedback": "Correct. Future perfect passive for a completed duration/milestone."
+        },
+        {
+          "letter": "C",
+          "text": "is celebrated",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple."
+        },
+        {
+          "letter": "D",
+          "text": "celebrated",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The future perfect passive indicates that the 50-year milestone will be a finished fact next year.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v13",
+      "statement": "Acculturation is the process of social, psychological, and cultural change that stems from the balancing of two cultures.",
+      "context": "Discussing \"acculturation\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Isolation",
+          "is_correct": false,
+          "feedback": "Incorrect. Acculturation requires contact."
+        },
+        {
+          "letter": "B",
+          "text": "Acculturation",
+          "is_correct": true,
+          "feedback": "Correct. Specific term for the meeting of cultures."
+        },
+        {
+          "letter": "C",
+          "text": "Ignorance",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Conflict",
+          "is_correct": false,
+          "feedback": "Incorrect. While conflict may occur, acculturation is the broader process of change."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Acculturation' describes the complex process of adapting to a new culture while maintaining some of one's own.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v14",
+      "statement": "If you had traveled more, you would have a better understanding of different cultural identities.",
+      "context": "Conditional about empathy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "traveled",
+          "is_correct": false,
+          "feedback": "Incorrect. Second conditional."
+        },
+        {
+          "letter": "B",
+          "text": "had traveled",
+          "is_correct": true,
+          "feedback": "Correct. Mixed conditional (past action, present result)."
+        },
+        {
+          "letter": "C",
+          "text": "have traveled",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "would travel",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' not in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The mixed conditional connects a past hypothetical experience (traveling) with a present state of knowledge.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v15",
+      "statement": "The author concludes that cultural hybridity is a creative force that leads to the emergence of new and vibrant cultural forms.",
+      "context": "Conclusion of an essay on \"cultural hybridity\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "destructive",
+          "is_correct": false,
+          "feedback": "Incorrect. The author sees it as creative and vibrant."
+        },
+        {
+          "letter": "B",
+          "text": "hybridity",
+          "is_correct": true,
+          "feedback": "Correct. Hybridity is the quality of being made of different parts."
+        },
+        {
+          "letter": "C",
+          "text": "isolation",
+          "is_correct": false,
+          "feedback": "Incorrect. Hybridity involves mixing."
+        },
+        {
+          "letter": "D",
+          "text": "stagnation",
+          "is_correct": false,
+          "feedback": "Incorrect. Leads to new forms."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Hybridity' refers to the mixing of cultural elements, which the author evaluates as a positive 'creative force'.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v16",
+      "statement": "Your ancestry refers to your family's history and the people you are descended from.",
+      "context": "Describing \"ancestry\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Future",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Ancestry",
+          "is_correct": true,
+          "feedback": "Correct. Family origins."
+        },
+        {
+          "letter": "C",
+          "text": "Career",
+          "is_correct": false,
+          "feedback": "Incorrect. Professional life."
+        },
+        {
+          "letter": "D",
+          "text": "Budget",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Ancestry' is the specific term for one's line of descent or family background.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v17",
+      "statement": "I am looking forward to visiting my ancestral home for the first time.",
+      "context": "Expressing interest in heritage.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "to visit",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Looking forward to' is followed by -ing."
+        },
+        {
+          "letter": "B",
+          "text": "to visiting",
+          "is_correct": true,
+          "feedback": "Correct. 'Look forward to + gerund'."
+        },
+        {
+          "letter": "C",
+          "text": "visit",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "for visiting",
+          "is_correct": false,
+          "feedback": "Incorrect preposition."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The phrasal verb 'look forward to' requires the following verb to be in the gerund form.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v18",
+      "statement": "Cultural appropriation often involves the adoption of elements of one culture by members of another culture, which can be seen as exploitative.",
+      "context": "Text about \"cultural appropriation\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "appreciation",
+          "is_correct": false,
+          "feedback": "Incorrect. Appreciation is positive."
+        },
+        {
+          "letter": "B",
+          "text": "appropriation",
+          "is_correct": true,
+          "feedback": "Correct. Specific term for the controversial adoption of elements."
+        },
+        {
+          "letter": "C",
+          "text": "documentation",
+          "is_correct": false,
+          "feedback": "Incorrect. Recording."
+        },
+        {
+          "letter": "D",
+          "text": "silence",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Appropriation' is the term for taking cultural elements, often from a marginalized group, for one's own use.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v19",
+      "statement": "The sociologist argued that identity was a dynamic and constantly evolving construct.",
+      "context": "Reporting a speaker's thoughts on identity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted in reported speech."
+        },
+        {
+          "letter": "B",
+          "text": "was",
+          "is_correct": true,
+          "feedback": "Correct. Backshifted from 'is' to 'was' to match the past tense 'argued'."
+        },
+        {
+          "letter": "C",
+          "text": "will be",
+          "is_correct": false,
+          "feedback": "Incorrect. Future."
+        },
+        {
+          "letter": "D",
+          "text": "have been",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, we backshift the tense of the original statement to show it was said in the past.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-v20",
+      "statement": "Respect for cultural differences is essential for maintaining social harmony in a diverse world.",
+      "context": "Final thought on cultural respect.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "harmony",
+          "is_correct": true,
+          "feedback": "Correct. Agreement or concord."
+        },
+        {
+          "letter": "B",
+          "text": "conflict",
+          "is_correct": false,
+          "feedback": "Incorrect. Respect reduces conflict."
+        },
+        {
+          "letter": "C",
+          "text": "isolation",
+          "is_correct": false,
+          "feedback": "Incorrect. Respect fosters connection."
+        },
+        {
+          "letter": "D",
+          "text": "ignorance",
+          "is_correct": false,
+          "feedback": "Incorrect. Respect requires awareness."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Harmony' describes the peaceful coexistence that results from mutual cultural respect.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W33-cultural-identity-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

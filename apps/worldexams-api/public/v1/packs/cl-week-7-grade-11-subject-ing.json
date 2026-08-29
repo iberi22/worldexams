@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ingles",
+    "country": "cl",
+    "pack_id": "cl-week-7-grade-11-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.093Z"
+  },
+  "questions": [
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v1",
+      "statement": "Inflation refers to the general increase in prices and the fall in the purchasing value of money.",
+      "context": "Basic economic terms.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recession",
+          "is_correct": false,
+          "feedback": "Incorrect. A recession is a period of temporary economic decline."
+        },
+        {
+          "letter": "B",
+          "text": "Inflation",
+          "is_correct": true,
+          "feedback": "Correct. Inflation is the rise in prices over time."
+        },
+        {
+          "letter": "C",
+          "text": "Deflation",
+          "is_correct": false,
+          "feedback": "Incorrect. Deflation is a decrease in prices."
+        },
+        {
+          "letter": "D",
+          "text": "Interest",
+          "is_correct": false,
+          "feedback": "Incorrect. Interest is the cost of borrowing money."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Inflation' is the standard economic term for the situation where the cost of living increases.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v2",
+      "statement": "The stock market has been fluctuating significantly due to recent political instability.",
+      "context": "Discussing market trends.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "fluctuates",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple."
+        },
+        {
+          "letter": "B",
+          "text": "has been fluctuating",
+          "is_correct": true,
+          "feedback": "Correct. Present perfect continuous for an action that started in the past and is still ongoing."
+        },
+        {
+          "letter": "C",
+          "text": "fluctuated",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "D",
+          "text": "will fluctuate",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present perfect continuous 'has been fluctuating' emphasizes the ongoing nature of the market's volatility.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v3",
+      "statement": "If the trade barriers were removed, the volume of international commerce would increase.",
+      "context": "Conditional about trade policy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will remove",
+          "is_correct": false,
+          "feedback": "Incorrect. Inconsistent with 'would'."
+        },
+        {
+          "letter": "B",
+          "text": "were removed",
+          "is_correct": true,
+          "feedback": "Correct. Second conditional passive for a hypothetical situation."
+        },
+        {
+          "letter": "C",
+          "text": "are removed",
+          "is_correct": false,
+          "feedback": "Incorrect. First conditional."
+        },
+        {
+          "letter": "D",
+          "text": "had been removed",
+          "is_correct": false,
+          "feedback": "Incorrect. Third conditional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The second conditional passive 'if + were + past participle' is used to discuss a hypothetical change in policy.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v4",
+      "statement": "Globalization has led to increased interdependence among nations, making local economies more susceptible to global shifts.",
+      "context": "Article about globalization.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "independence",
+          "is_correct": false,
+          "feedback": "Incorrect. Interdependence is the opposite of independence."
+        },
+        {
+          "letter": "B",
+          "text": "interdependence",
+          "is_correct": true,
+          "feedback": "Correct. Interdependence means mutual reliance between countries."
+        },
+        {
+          "letter": "C",
+          "text": "isolation",
+          "is_correct": false,
+          "feedback": "Incorrect. Globalization reduces isolation."
+        },
+        {
+          "letter": "D",
+          "text": "self-sufficiency",
+          "is_correct": false,
+          "feedback": "Incorrect. Self-sufficiency means not needing others."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Interdependence' correctly identifies the mutual reliance that characterizes the modern global economy.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v5",
+      "statement": "Critics of the current economic system argue that wealth is disproportionately concentrated in the hands of a small percentage of the population.",
+      "context": "Discussion on income inequality.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "equally",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says it's concentrated in a 'small percentage'."
+        },
+        {
+          "letter": "B",
+          "text": "disproportionately",
+          "is_correct": true,
+          "feedback": "Correct. Disproportionately means in a way that is out of proportion."
+        },
+        {
+          "letter": "C",
+          "text": "fairly",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Concentrated' implies it is not fair."
+        },
+        {
+          "letter": "D",
+          "text": "minimally",
+          "is_correct": false,
+          "feedback": "Incorrect. If it's concentrated, it's not minimal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Disproportionately' describes an unequal distribution that doesn't match the size of the groups.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v6",
+      "statement": "The World Bank provides financial and technical assistance to developing countries for development programs.",
+      "context": "International organizations.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "tax",
+          "is_correct": false,
+          "feedback": "Incorrect. Tax is money paid to the government."
+        },
+        {
+          "letter": "B",
+          "text": "assistance",
+          "is_correct": true,
+          "feedback": "Correct. Assistance means help or support."
+        },
+        {
+          "letter": "C",
+          "text": "competition",
+          "is_correct": false,
+          "feedback": "Incorrect. Competition is not the primary role of the World Bank."
+        },
+        {
+          "letter": "D",
+          "text": "debt",
+          "is_correct": false,
+          "feedback": "Incorrect. While it involves loans, the general term for the support is assistance."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Assistance' is the appropriate term for the support provided by international organizations.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v7",
+      "statement": "Economists predict that interest rates will have risen by the end of the fiscal year.",
+      "context": "Prediction about interest rates.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "rise",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple future needs 'will'."
+        },
+        {
+          "letter": "B",
+          "text": "will rise",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple future."
+        },
+        {
+          "letter": "C",
+          "text": "will have risen",
+          "is_correct": true,
+          "feedback": "Correct. Future perfect for an action completed by a future point."
+        },
+        {
+          "letter": "D",
+          "text": "rose",
+          "is_correct": false,
+          "feedback": "Incorrect. Past tense."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The future perfect 'will have risen' describes a state that will be a completed fact at a specific future deadline.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v8",
+      "statement": "Companies are under increasing pressure to operate sustainably and ethically.",
+      "context": "Text on corporate social responsibility.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "recklessly",
+          "is_correct": false,
+          "feedback": "Incorrect. Recklessly means without care."
+        },
+        {
+          "letter": "B",
+          "text": "ethically",
+          "is_correct": true,
+          "feedback": "Correct. Ethically means in a way that is morally right."
+        },
+        {
+          "letter": "C",
+          "text": "secretly",
+          "is_correct": false,
+          "feedback": "Incorrect. Transparency is usually required."
+        },
+        {
+          "letter": "D",
+          "text": "aggressively",
+          "is_correct": false,
+          "feedback": "Incorrect. While they might compete aggressively, the pressure is for ethical behavior."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Ethically' refers to the moral principles that companies are expected to follow.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v9",
+      "statement": "The government had implemented several austerity measures before the economy began to recover.",
+      "context": "Describing a past economic crisis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "implements",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "B",
+          "text": "has implemented",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "C",
+          "text": "had implemented",
+          "is_correct": true,
+          "feedback": "Correct. Past perfect for an action before another past action."
+        },
+        {
+          "letter": "D",
+          "text": "was implementing",
+          "is_correct": false,
+          "feedback": "Incorrect. Past continuous."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The past perfect 'had implemented' establishes the sequence of events during the crisis.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v10",
+      "statement": "The author suggests that the relentless pursuit of economic growth may be incompatible with environmental preservation.",
+      "context": "Critique of consumerism.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "conducive",
+          "is_correct": false,
+          "feedback": "Incorrect. Conducive means helping to bring about."
+        },
+        {
+          "letter": "B",
+          "text": "incompatible",
+          "is_correct": true,
+          "feedback": "Correct. Incompatible means not able to exist or work together."
+        },
+        {
+          "letter": "C",
+          "text": "essential",
+          "is_correct": false,
+          "feedback": "Incorrect. Essential means absolutely necessary."
+        },
+        {
+          "letter": "D",
+          "text": "irrelevant",
+          "is_correct": false,
+          "feedback": "Incorrect. Irrelevant means not connected."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Incompatible' correctly identifies the conflict described between growth and the environment.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v11",
+      "statement": "A budget is an estimate of income and expenditure for a set period of time.",
+      "context": "Definition of a budget.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "profit",
+          "is_correct": false,
+          "feedback": "Incorrect. Profit is income minus expenses."
+        },
+        {
+          "letter": "B",
+          "text": "budget",
+          "is_correct": true,
+          "feedback": "Correct. A budget is a plan for money."
+        },
+        {
+          "letter": "C",
+          "text": "asset",
+          "is_correct": false,
+          "feedback": "Incorrect. An asset is something valuable."
+        },
+        {
+          "letter": "D",
+          "text": "liability",
+          "is_correct": false,
+          "feedback": "Incorrect. A liability is a debt."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Budget' is the standard term for a financial plan.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v12",
+      "statement": "Thousands of jobs have been lost in the manufacturing sector over the last decade.",
+      "context": "Passive voice in an economic report.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have lost",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "have been lost",
+          "is_correct": true,
+          "feedback": "Correct. Present perfect passive for a process starting in the past."
+        },
+        {
+          "letter": "C",
+          "text": "are losing",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "D",
+          "text": "lost",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present perfect passive 'have been lost' describes the impact on employment over time.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v13",
+      "statement": "Emerging markets often offer higher potential returns but also involve greater risk for investors.",
+      "context": "Discussing emerging markets.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Emerging",
+          "is_correct": true,
+          "feedback": "Correct. Emerging markets are those of developing countries."
+        },
+        {
+          "letter": "B",
+          "text": "Saturated",
+          "is_correct": false,
+          "feedback": "Incorrect. Saturated markets are full."
+        },
+        {
+          "letter": "C",
+          "text": "Stagnant",
+          "is_correct": false,
+          "feedback": "Incorrect. Stagnant markets are not growing."
+        },
+        {
+          "letter": "D",
+          "text": "Monopolized",
+          "is_correct": false,
+          "feedback": "Incorrect. Monopolized means controlled by one."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Emerging' is the standard term for economies that are in the process of rapid growth and industrialization.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v14",
+      "statement": "If the currency were devalued, exports would become cheaper for foreign buyers.",
+      "context": "Conditional about currency devaluation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. First conditional."
+        },
+        {
+          "letter": "B",
+          "text": "were",
+          "is_correct": true,
+          "feedback": "Correct. Second conditional for a hypothetical situation."
+        },
+        {
+          "letter": "C",
+          "text": "has been",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "had been",
+          "is_correct": false,
+          "feedback": "Incorrect. Third conditional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The second conditional 'if + were' is used to discuss a hypothetical change in currency value.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v15",
+      "statement": "The author argues that fair trade initiatives help to alleviate poverty by ensuring producers receive a fair price for their goods.",
+      "context": "Conclusion of an essay on fair trade.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "aggravate",
+          "is_correct": false,
+          "feedback": "Incorrect. Aggravate means to make worse."
+        },
+        {
+          "letter": "B",
+          "text": "alleviate",
+          "is_correct": true,
+          "feedback": "Correct. To alleviate means to make a problem less severe."
+        },
+        {
+          "letter": "C",
+          "text": "ignore",
+          "is_correct": false,
+          "feedback": "Incorrect. Fair trade focuses on the problem."
+        },
+        {
+          "letter": "D",
+          "text": "maintain",
+          "is_correct": false,
+          "feedback": "Incorrect. The goal is to reduce poverty."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Alleviate' is the appropriate verb for reducing the severity of poverty.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v16",
+      "statement": "A multinational corporation is a company that operates in several countries.",
+      "context": "Business entities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "local",
+          "is_correct": false,
+          "feedback": "Incorrect. Local companies work in one area."
+        },
+        {
+          "letter": "B",
+          "text": "multinational",
+          "is_correct": true,
+          "feedback": "Correct. Multinational means in many nations."
+        },
+        {
+          "letter": "C",
+          "text": "private",
+          "is_correct": false,
+          "feedback": "Incorrect. Private refers to ownership."
+        },
+        {
+          "letter": "D",
+          "text": "nonprofit",
+          "is_correct": false,
+          "feedback": "Incorrect. Nonprofit refers to the goal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Multinational' correctly describes the international scale of the corporation's operations.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v17",
+      "statement": "The citizens wish the government would control inflation more effectively.",
+      "context": "Expressing a hope for economic stability.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "controls",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple."
+        },
+        {
+          "letter": "B",
+          "text": "to control",
+          "is_correct": false,
+          "feedback": "Incorrect. Infinitive."
+        },
+        {
+          "letter": "C",
+          "text": "would control",
+          "is_correct": true,
+          "feedback": "Correct. 'Wish + would' for a desired change in behavior or situation."
+        },
+        {
+          "letter": "D",
+          "text": "had controlled",
+          "is_correct": false,
+          "feedback": "Incorrect. Wish about the past."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Wish + would' is used to express a desire for someone or something to change or act differently in the future.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v18",
+      "statement": "The gig economy is characterized by the prevalence of short-term contracts or freelance work as opposed to permanent jobs.",
+      "context": "Text about the \"gig economy\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "stable",
+          "is_correct": false,
+          "feedback": "Incorrect. Gig work is often unstable."
+        },
+        {
+          "letter": "B",
+          "text": "gig",
+          "is_correct": true,
+          "feedback": "Correct. Gig economy is the term for this type of labor market."
+        },
+        {
+          "letter": "C",
+          "text": "traditional",
+          "is_correct": false,
+          "feedback": "Incorrect. Traditional jobs are usually permanent."
+        },
+        {
+          "letter": "D",
+          "text": "industrial",
+          "is_correct": false,
+          "feedback": "Incorrect. Industrial refers to factories."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Gig economy' is the modern term for a labor market dominated by short-term or freelance positions.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v19",
+      "statement": "The analyst reported that the company's revenue had exceeded expectations last quarter.",
+      "context": "Reporting a financial forecast.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "exceeds",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple."
+        },
+        {
+          "letter": "B",
+          "text": "has exceeded",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "C",
+          "text": "had exceeded",
+          "is_correct": true,
+          "feedback": "Correct. Past perfect for backshifting in reported speech."
+        },
+        {
+          "letter": "D",
+          "text": "will exceed",
+          "is_correct": false,
+          "feedback": "Incorrect. Future tense."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "In reported speech, we backshift tenses: 'exceeded' (past simple) or 'has exceeded' (present perfect) becomes 'had exceeded'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-v20",
+      "statement": "A truly resilient economy must be built on the foundation of social justice and environmental stewardship.",
+      "context": "Final thought on economic ethics.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "resilient",
+          "is_correct": true,
+          "feedback": "Correct. Resilient means able to withstand or recover quickly from difficult conditions."
+        },
+        {
+          "letter": "B",
+          "text": "fragile",
+          "is_correct": false,
+          "feedback": "Incorrect. Fragile is the opposite of resilient."
+        },
+        {
+          "letter": "C",
+          "text": "stagnant",
+          "is_correct": false,
+          "feedback": "Incorrect. Stagnant means not growing."
+        },
+        {
+          "letter": "D",
+          "text": "volatile",
+          "is_correct": false,
+          "feedback": "Incorrect. Volatile means liable to change rapidly and unpredictably."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Resilient' describes an economy that can endure and recover from shocks.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W07-global-economy-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "bo",
+    "pack_id": "bo-week-7-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-07-29T02:17:36.150Z"
+  },
+  "questions": [
+    {
+      "id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v1",
+      "statement": "Al realizar experimentos sobre ecología general y flujo de energía y estudiar conjunto de individuos de la misma especie que coexisten en un espacio y tiempo determinado, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho analiza un problema sobre ecología general y flujo de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Población",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a conjunto de individuos de la misma especie que coexisten en un espacio y tiempo determinado."
+        },
+        {
+          "letter": "B",
+          "text": "Comunidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Ecosistema",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía."
+        },
+        {
+          "letter": "D",
+          "text": "Bioma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Población. Científicamente, esto se explica por la unidad básica de estudio genético y demográfico en ecología de poblaciones. Lo cual es fundamental para comprender ecología general y flujo de energía.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v2",
+      "statement": "Al realizar experimentos sobre ecología general y flujo de energía y estudiar conjunto de poblaciones de diferentes especies que interactúan y coexisten en un área geográfica, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Cochabamba, el estudiante Roxana del Unidad Educativa Don Bosco analiza un problema sobre ecología general y flujo de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comunidad",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a conjunto de poblaciones de diferentes especies que interactúan y coexisten en un área geográfica."
+        },
+        {
+          "letter": "B",
+          "text": "Población",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Ecosistema",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía."
+        },
+        {
+          "letter": "D",
+          "text": "Hábitat",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Comunidad. Científicamente, esto se explica por la red de interacciones bióticas complejas en una zona determinada. Lo cual es fundamental para comprender ecología general y flujo de energía.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v3",
+      "statement": "Al realizar experimentos sobre ecología general y flujo de energía y estudiar sistema biológico constituido por una comunidad de seres vivos y el medio físico donde se relacionan, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar analiza un problema sobre ecología general y flujo de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un ecosistema",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a sistema biológico constituido por una comunidad de seres vivos y el medio físico donde se relacionan."
+        },
+        {
+          "letter": "B",
+          "text": "La biósfera",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "La comunidad biótica",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía."
+        },
+        {
+          "letter": "D",
+          "text": "El bioma terrestre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Un ecosistema. Científicamente, esto se explica por la integración funcional indivisible del biotopo y la biocenosis. Lo cual es fundamental para comprender ecología general y flujo de energía.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v4",
+      "statement": "Al realizar experimentos sobre ecología general y flujo de energía y estudiar componentes físicos y químicos no vivos de un ecosistema que condicionan la vida, como temperatura y luz, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En El Alto, el estudiante Marisol del Colegio San Simón analiza un problema sobre ecología general y flujo de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Factores abióticos",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a componentes físicos y químicos no vivos de un ecosistema que condicionan la vida, como temperatura y luz."
+        },
+        {
+          "letter": "B",
+          "text": "Factores bióticos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Factores limitantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía."
+        },
+        {
+          "letter": "D",
+          "text": "Factores tróficos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Factores abióticos. Científicamente, esto se explica por las variables físicas del biotopo que determinan la distribución de las especies. Lo cual es fundamental para comprender ecología general y flujo de energía.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v5",
+      "statement": "Al realizar experimentos sobre ecología general y flujo de energía y estudiar interacciones y relaciones establecidas entre los organismos vivos de un ecosistema determinado, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín analiza un problema sobre ecología general y flujo de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Factores bióticos",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a interacciones y relaciones establecidas entre los organismos vivos de un ecosistema determinado."
+        },
+        {
+          "letter": "B",
+          "text": "Factores abióticos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Factores químicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía."
+        },
+        {
+          "letter": "D",
+          "text": "Factores geológicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Factores bióticos. Científicamente, esto se explica por los efectos de la competencia, depredación, simbiosis y parasitismo entre poblaciones. Lo cual es fundamental para comprender ecología general y flujo de energía.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v6",
+      "statement": "Al realizar experimentos sobre ecología general y flujo de energía y estudiar organismos autótrofos que fijan la energía solar y producen materia orgánica mediante fotosíntesis, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Potosí, el estudiante Ronald del Unidad Educativa Juan Pablo II analiza un problema sobre ecología general y flujo de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los productores",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a organismos autótrofos que fijan la energía solar y producen materia orgánica mediante fotosíntesis."
+        },
+        {
+          "letter": "B",
+          "text": "Los consumidores primarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Los descomponedores",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía."
+        },
+        {
+          "letter": "D",
+          "text": "Los detritívoros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Los productores. Científicamente, esto se explica por la base biológica obligada para el ingreso de energía utilizable a las redes tróficas. Lo cual es fundamental para comprender ecología general y flujo de energía.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v7",
+      "statement": "Al realizar experimentos sobre ecología general y flujo de energía y estudiar bacterias y hongos encargados de transformar la materia orgánica muerta en compuestos inorgánicos sencillos, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Oruro, el estudiante Limbert del Colegio San Calixto analiza un problema sobre ecología general y flujo de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los descomponedores",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a bacterias y hongos encargados de transformar la materia orgánica muerta en compuestos inorgánicos sencillos."
+        },
+        {
+          "letter": "B",
+          "text": "Los herbívoros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Los carnívoros",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía."
+        },
+        {
+          "letter": "D",
+          "text": "Los omnívoros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Los descomponedores. Científicamente, esto se explica por el reciclaje cerrado de nutrientes minerales indispensables para los productores de la biocenosis. Lo cual es fundamental para comprender ecología general y flujo de energía.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v8",
+      "statement": "Al realizar experimentos sobre ecología general y flujo de energía y estudiar solo el 10% de la energía utilizable se transfiere efectivamente de un nivel trófico al siguiente, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Tarija, el estudiante Shirley del Colegio Nacional Pichincha analiza un problema sobre ecología general y flujo de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La regla del diez por ciento (10%)",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a solo el 10% de la energía utilizable se transfiere efectivamente de un nivel trófico al siguiente."
+        },
+        {
+          "letter": "B",
+          "text": "La ley de conservación de masa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "La regla de biomasa inversa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía."
+        },
+        {
+          "letter": "D",
+          "text": "La ley del mínimo de liebig",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es La regla del diez por ciento (10%). Científicamente, esto se explica por la pérdida disipativa de energía en forma de calor metabólico e ineficiencia trófica. Lo cual es fundamental para comprender ecología general y flujo de energía.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v9",
+      "statement": "Al realizar experimentos sobre ecología general y flujo de energía y estudiar representaciones ecológicas tróficas que nunca pueden ser invertidas debido a las leyes de la termodinámica, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez analiza un problema sobre ecología general y flujo de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pirámides de energía",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a representaciones ecológicas tróficas que nunca pueden ser invertidas debido a las leyes de la termodinámica."
+        },
+        {
+          "letter": "B",
+          "text": "Pirámides de biomasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Pirámides de números",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía."
+        },
+        {
+          "letter": "D",
+          "text": "Pirámides de abundancia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Pirámides de energía. Científicamente, esto se explica por la limitación estricta del flujo unidireccional de energía utilizable en el ecosistema. Lo cual es fundamental para comprender ecología general y flujo de energía.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v10",
+      "statement": "Al realizar experimentos sobre ecología general y flujo de energía y estudiar pueden presentarse en ecosistemas marinos donde los productores (fitoplancton) se reproducen a gran velocidad, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Cobija, el estudiante Franz del Colegio Nacional Florida analiza un problema sobre ecología general y flujo de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pirámides de biomasa invertidas",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a pueden presentarse en ecosistemas marinos donde los productores (fitoplancton) se reproducen a gran velocidad."
+        },
+        {
+          "letter": "B",
+          "text": "Pirámides de energía invertidas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Pirámides de números invertidas",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía."
+        },
+        {
+          "letter": "D",
+          "text": "Redes tróficas cerradas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Pirámides de biomasa invertidas. Científicamente, esto se explica por el consumo inmediato de una población de productores con alta tasa de renovación biológica. Lo cual es fundamental para comprender ecología general y flujo de energía.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v11",
+      "statement": "Al realizar experimentos sobre ecología general y flujo de energía y estudiar relación interespecífica donde ambas especies se benefician mutuamente aumentando su aptitud biológica, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Tupiza, el estudiante Nancy del Colegio Nacional Ayacucho analiza un problema sobre ecología general y flujo de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mutualismo",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a relación interespecífica donde ambas especies se benefician mutuamente aumentando su aptitud biológica."
+        },
+        {
+          "letter": "B",
+          "text": "Parasitismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Comensalismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía."
+        },
+        {
+          "letter": "D",
+          "text": "Competencia interespecífica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Mutualismo. Científicamente, esto se explica por la estrecha cooperación biológica como la relación entre micorrizas y raíces de plantas. Lo cual es fundamental para comprender ecología general y flujo de energía.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v12",
+      "statement": "Al realizar experimentos sobre ecología general y flujo de energía y estudiar interacción donde una especie se beneficia y la otra no experimenta beneficio ni perjuicio alguno, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Uyuni, el estudiante Edwin del Unidad Educativa Don Bosco analiza un problema sobre ecología general y flujo de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comensalismo",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a interacción donde una especie se beneficia y la otra no experimenta beneficio ni perjuicio alguno."
+        },
+        {
+          "letter": "B",
+          "text": "Mutualismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Parasitismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía."
+        },
+        {
+          "letter": "D",
+          "text": "Depredación activa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Comensalismo. Científicamente, esto se explica por el aprovechamiento pasivo de recursos sobrantes, como los peces rémora con los tiburones. Lo cual es fundamental para comprender ecología general y flujo de energía.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v13",
+      "statement": "Al realizar experimentos sobre ecología general y flujo de energía y estudiar relación interespecífica donde una especie se beneficia perjudicando directamente al hospedador sin matarlo de inmediato, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Viacha, el estudiante Marcelo del Colegio Bolívar analiza un problema sobre ecología general y flujo de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parasitismo",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a relación interespecífica donde una especie se beneficia perjudicando directamente al hospedador sin matarlo de inmediato."
+        },
+        {
+          "letter": "B",
+          "text": "Mutualismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Amensalismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía."
+        },
+        {
+          "letter": "D",
+          "text": "Competencia por recursos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Parasitismo. Científicamente, esto se explica por el consumo de recursos metabólicos internos del hospedador por parte del parásito. Lo cual es fundamental para comprender ecología general y flujo de energía.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v14",
+      "statement": "Al realizar experimentos sobre ecología general y flujo de energía y estudiar colonización y desarrollo de un ecosistema en un área que carecía previamente de suelo orgánico, como lava volcánica, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Quillacollo, el estudiante Freddy del Colegio San Simón analiza un problema sobre ecología general y flujo de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sucesión ecológica primaria",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a colonización y desarrollo de un ecosistema en un área que carecía previamente de suelo orgánico, como lava volcánica."
+        },
+        {
+          "letter": "B",
+          "text": "Sucesión ecológica secundaria",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Clímax ecológico",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía."
+        },
+        {
+          "letter": "D",
+          "text": "Sucesión antrópica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Sucesión ecológica primaria. Científicamente, esto se explica por el establecimiento inicial pionero de líquenes y musgos que degradan la roca madre. Lo cual es fundamental para comprender ecología general y flujo de energía.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v15",
+      "statement": "Al realizar experimentos sobre ecología general y flujo de energía y estudiar recuperación de una comunidad vegetal y animal tras una perturbación que respetó el suelo orgánico, como un incendio, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Sacaba, el estudiante René del Colegio Nacional Junín analiza un problema sobre ecología general y flujo de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sucesión ecológica secundaria",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a recuperación de una comunidad vegetal y animal tras una perturbación que respetó el suelo orgánico, como un incendio."
+        },
+        {
+          "letter": "B",
+          "text": "Sucesión ecológica primaria",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Clímax forestal",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía."
+        },
+        {
+          "letter": "D",
+          "text": "Sucesión alostérica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Sucesión ecológica secundaria. Científicamente, esto se explica por el rápido crecimiento de malezas y arbustos favorecido por la presencia de nutrientes en el suelo previo. Lo cual es fundamental para comprender ecología general y flujo de energía.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v16",
+      "statement": "Al realizar experimentos sobre ecología general y flujo de energía y estudiar número máximo de individuos de una población que un ecosistema puede sustentar de forma sostenible en el tiempo, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Montero, el estudiante Lidia del Unidad Educativa Juan Pablo II analiza un problema sobre ecología general y flujo de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Capacidad de carga (k)",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a número máximo de individuos de una población que un ecosistema puede sustentar de forma sostenible en el tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "Tasa de crecimiento intrínseco",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Resistencia ambiental",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía."
+        },
+        {
+          "letter": "D",
+          "text": "Potencial biótico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Capacidad de carga (k). Científicamente, esto se explica por el límite impuesto por la disponibilidad de recursos y factores ambientales limitantes. Lo cual es fundamental para comprender ecología general y flujo de energía.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v17",
+      "statement": "Al realizar experimentos sobre ecología general y flujo de energía y estudiar modelo de crecimiento poblacional que describe una curva en forma de S, estabilizándose al alcanzar la capacidad de carga, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Riberalta, el estudiante Edwin del Colegio San Calixto analiza un problema sobre ecología general y flujo de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crecimiento logístico",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a modelo de crecimiento poblacional que describe una curva en forma de S, estabilizándose al alcanzar la capacidad de carga."
+        },
+        {
+          "letter": "B",
+          "text": "Crecimiento exponencial",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Crecimiento asintótico",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía."
+        },
+        {
+          "letter": "D",
+          "text": "Crecimiento fluctuante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Crecimiento logístico. Científicamente, esto se explica por la desaceleración de la tasa de natalidad conforme los recursos se vuelven escasos en el hábitat. Lo cual es fundamental para comprender ecología general y flujo de energía.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v18",
+      "statement": "Al realizar experimentos sobre ecología general y flujo de energía y estudiar dos especies que compiten por el mismo recurso limitado no pueden coexistir indefinidamente si sus nichos coinciden, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Warnes, el estudiante Marcelo del Colegio Nacional Pichincha analiza un problema sobre ecología general y flujo de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El principio de exclusión competitiva",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a dos especies que compiten por el mismo recurso limitado no pueden coexistir indefinidamente si sus nichos coinciden."
+        },
+        {
+          "letter": "B",
+          "text": "La ley de tolerancia de shelford",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "La hipótesis de perturbación intermedia",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía."
+        },
+        {
+          "letter": "D",
+          "text": "El equilibrio de hardy-weinberg",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es El principio de exclusión competitiva. Científicamente, esto se explica por la extinción local o desplazamiento de nicho ecológico de la especie menos eficiente en la competencia. Lo cual es fundamental para comprender ecología general y flujo de energía.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v19",
+      "statement": "Al realizar experimentos sobre ecología general y flujo de energía y estudiar estrategia evolutiva mediante la cual especies competidoras modifican sutilmente su nicho para coexistir, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Colcapirhua, el estudiante Lidia del Colegio Antonio Vaca Díez analiza un problema sobre ecología general y flujo de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Partición de recursos",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a estrategia evolutiva mediante la cual especies competidoras modifican sutilmente su nicho para coexistir."
+        },
+        {
+          "letter": "B",
+          "text": "Exclusión competitiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Extinción en masa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía."
+        },
+        {
+          "letter": "D",
+          "text": "Hibridación selectiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Partición de recursos. Científicamente, esto se explica por la diversificación morfológica o de comportamiento que disminuye el solapamiento de nicho ecológico. Lo cual es fundamental para comprender ecología general y flujo de energía.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle-v20",
+      "statement": "Al realizar experimentos sobre ecología general y flujo de energía y estudiar concentración creciente de toxinas liposolubles no degradables en los tejidos corporales a lo largo de los niveles tróficos, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?",
+      "context": "En Yacuiba, el estudiante Nancy del Colegio Nacional Florida analiza un problema sobre ecología general y flujo de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bioacumulación (biomagnificación)",
+          "is_correct": true,
+          "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a concentración creciente de toxinas liposolubles no degradables en los tejidos corporales a lo largo de los niveles tróficos."
+        },
+        {
+          "letter": "B",
+          "text": "Eutrofización acuática",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Sucesión degradativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía."
+        },
+        {
+          "letter": "D",
+          "text": "Saturación metabólica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es Bioacumulación (biomagnificación). Científicamente, esto se explica por el almacenamiento progresivo de compuestos pesados que los descomponedores y consumidores no pueden excretar. Lo cual es fundamental para comprender ecología general y flujo de energía.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "BO-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}

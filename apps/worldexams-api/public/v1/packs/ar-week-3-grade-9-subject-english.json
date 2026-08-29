@@ -1,0 +1,551 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ingles",
+    "country": "ar",
+    "pack_id": "ar-week-3-grade-9-subject-ingles",
+    "generated_at": "2026-06-22T23:30:13.787Z"
+  },
+  "questions": [
+    {
+      "id": "AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle-v1",
+      "statement": "Choose the correct option to express a future plan already decided: \"Next January, we _______ to Bariloche. We already bought the tickets.\"",
+      "context": "Martina y su familia están planeando sus próximas vacaciones de verano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will go",
+          "is_correct": false,
+          "feedback": "'Will' se usa más para decisiones espontáneas o promesas, no para planes con reservas hechas."
+        },
+        {
+          "letter": "B",
+          "text": "are going",
+          "is_correct": true,
+          "feedback": "¡Correcto! El presente continuo se usa para planes fijos (arrangements) con fecha y lugar decididos."
+        },
+        {
+          "letter": "C",
+          "text": "go",
+          "is_correct": false,
+          "feedback": "El presente simple solo se usa para horarios oficiales, no para planes personales de vacaciones."
+        },
+        {
+          "letter": "D",
+          "text": "going",
+          "is_correct": false,
+          "feedback": "Falta el verbo auxiliar 'are' para formar el presente continuo con sentido de futuro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando ya tenés los pasajes en la mano (como Martina para ir al sur), lo más natural es usar el presente continuo con sentido de futuro: \"We are going\". Indica que el plan está súper firme y organizado.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 9,
+      "country": "ar"
+    },
+    {
+      "id": "AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle-v2",
+      "statement": "For a spontaneous decision made at the moment of speaking, which form is correct? \"Oh, we don't have any yerba mate. I _______ to the kiosk to buy some.\"",
+      "context": "Facundo está en la cocina y se da cuenta de que no hay más yerba.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will go",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Usamos 'will' para decisiones que tomamos justo en el momento en que hablamos."
+        },
+        {
+          "letter": "B",
+          "text": "am going to go",
+          "is_correct": false,
+          "feedback": "'Be going to' se usa para intenciones que ya teníamos pensadas de antes."
+        },
+        {
+          "letter": "C",
+          "text": "am going",
+          "is_correct": false,
+          "feedback": "El presente continuo sugiere un plan organizado, pero acá la decisión fue repentina."
+        },
+        {
+          "letter": "D",
+          "text": "goes",
+          "is_correct": false,
+          "feedback": "El presente simple no se usa para decisiones espontáneas sobre el futuro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si te das cuenta de algo y decidís actuar en el momento (como ir a comprar yerba), usás \"will\". Es la forma típica para las reacciones rápidas ante una situación presente.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 9,
+      "country": "ar"
+    },
+    {
+      "id": "AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle-v3",
+      "statement": "When making a prediction based on what we see (evidence), which structure is preferred? \"Look at those dark clouds! It _______ rain.\"",
+      "context": "Un pronóstico meteorológico para la zona de CABA y alrededores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will",
+          "is_correct": false,
+          "feedback": "'Will' se usa para predicciones basadas en opinión o conocimiento general, no necesariamente en evidencia visual inmediata."
+        },
+        {
+          "letter": "B",
+          "text": "is going to",
+          "is_correct": true,
+          "feedback": "¡Exacto! Usamos 'be going to' para predicciones cuando vemos señales claras de que algo va a pasar."
+        },
+        {
+          "letter": "C",
+          "text": "is raining",
+          "is_correct": false,
+          "feedback": "Esto diría que ya está lloviendo, pero las nubes indican que va a pasar en breves."
+        },
+        {
+          "letter": "D",
+          "text": "rains",
+          "is_correct": false,
+          "feedback": "El presente simple no se usa para predicciones climáticas inmediatas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Si ves las nubes negras sobre el Obelisco, tenés evidencia de que va a llover. En ese caso, la regla dice que debés usar \"is going to rain\". Guardá el \"will\" para cuando creas que va a llover pero no tengas la prueba frente a tus ojos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 9,
+      "country": "ar"
+    },
+    {
+      "id": "AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle-v4",
+      "statement": "Choose the best option for an intention (something you want to do but haven't organized yet): \"Next year, I _______ study Architecture at the University of Córdoba.\"",
+      "context": "Lucía habla sobre sus metas académicas para el próximo año en Córdoba.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will",
+          "is_correct": false,
+          "feedback": "Suena más a una promesa o decisión del momento que a una meta planeada."
+        },
+        {
+          "letter": "B",
+          "text": "am going to",
+          "is_correct": true,
+          "feedback": "¡Correcto! 'Be going to' es la forma ideal para hablar de intenciones y proyectos personales."
+        },
+        {
+          "letter": "C",
+          "text": "study",
+          "is_correct": false,
+          "feedback": "Falta la marca de futuro; esto suena a una rutina presente."
+        },
+        {
+          "letter": "D",
+          "text": "am studying",
+          "is_correct": false,
+          "feedback": "Esto sugeriría que ya tiene todo el cronograma y la inscripción cerrada como un arreglo fijo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para tus sueños o proyectos (como la carrera que querés seguir), usás \"am going to\". Indica que ya lo estuviste pensando y que es tu intención firme hacerlo.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 9,
+      "country": "ar"
+    },
+    {
+      "id": "AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle-v5",
+      "statement": "What does the waiter say when a customer decides what to eat?\r\nCustomer: \"I'll have the empanadas, please.\"\r\nWaiter: \"Excellent choice. I _______ them to you in a minute.\"",
+      "context": "Un mozo en un restaurante de Mendoza toma un pedido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am bringing",
+          "is_correct": false,
+          "feedback": "No es un plan organizado previamente, es una respuesta a un pedido."
+        },
+        {
+          "letter": "B",
+          "text": "will bring",
+          "is_correct": true,
+          "feedback": "¡Muy bien! 'Will' se usa para ofrecerse a hacer algo o para promesas inmediatas."
+        },
+        {
+          "letter": "C",
+          "text": "bring",
+          "is_correct": false,
+          "feedback": "El presente simple no suena natural para una promesa de acción futura en este contexto."
+        },
+        {
+          "letter": "D",
+          "text": "am going to bring",
+          "is_correct": false,
+          "feedback": "Aunque se entiende, 'will' es más común para este tipo de ofrecimientos de servicio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un restaurante, los ofrecimientos de los mozos y los pedidos de los clientes casi siempre van con \"will\" ('ll). Es una forma de decir \"lo voy a hacer ahora mismo por vos\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 9,
+      "country": "ar"
+    },
+    {
+      "id": "AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle-v6",
+      "statement": "Fill in the blanks with the correct future forms: \"We _______ (have) an asado on Sunday. I _______ (buy) the meat on Friday, I already talked to the butcher.\"",
+      "context": "Un grupo de amigos organiza una juntada para comer un asado el domingo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will have / will buy",
+          "is_correct": false,
+          "feedback": "Suena muy incierto para algo que ya están organizando y hasta hablaron con el carnicero."
+        },
+        {
+          "letter": "B",
+          "text": "are having / am going to buy",
+          "is_correct": true,
+          "feedback": "¡Exacto! El asado es un evento social organizado (present continuous) y comprar la carne es la intención planeada."
+        },
+        {
+          "letter": "C",
+          "text": "have / buy",
+          "is_correct": false,
+          "feedback": "Esto describe rutinas, no un evento específico para este domingo."
+        },
+        {
+          "letter": "D",
+          "text": "are going to have / will buy",
+          "is_correct": false,
+          "feedback": "Podría ser, pero la segunda parte es más una intención firme que una decisión espontánea."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para organizar una salida o reunión (como un asado), lo más común es el presente continuo (\"are having\"). Y para las tareas que ya sabés que tenés que hacer para ese evento, usás \"am going to\".\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 9,
+      "country": "ar"
+    },
+    {
+      "id": "AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle-v7",
+      "statement": "For predictions about the distant future based on opinion, which is more appropriate? \"I think that in 2050, most cars in Argentina _______ electric.\"",
+      "context": "Una discusión sobre el futuro de la tecnología en Argentina hacia el año 2050.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will be",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usamos 'will' con verbos de opinión como 'I think' para predicciones a largo plazo."
+        },
+        {
+          "letter": "B",
+          "text": "are going to be",
+          "is_correct": false,
+          "feedback": "'Going to' se prefiere para el futuro cercano o con evidencia, no para opiniones abstractas."
+        },
+        {
+          "letter": "C",
+          "text": "are being",
+          "is_correct": false,
+          "feedback": "Esto es presente continuo y no tiene sentido para una predicción de 2050."
+        },
+        {
+          "letter": "D",
+          "text": "be",
+          "is_correct": false,
+          "feedback": "Gramaticalmente incorrecto; le falta el auxiliar de futuro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando das tu opinión sobre cómo va a ser el mundo dentro de mucho tiempo (\"I think...\"), lo mejor es usar \"will\". Es el futuro de las ideas y las creencias personales.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 9,
+      "country": "ar"
+    },
+    {
+      "id": "AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle-v8",
+      "statement": "Select the sentence that correctly uses the Present Simple for a future timetable:",
+      "context": "El uso del presente simple para el futuro en horarios de transporte en Buenos Aires.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am leaving for Mendoza tomorrow morning.",
+          "is_correct": false,
+          "feedback": "Es un plan personal, por lo que usa presente continuo."
+        },
+        {
+          "letter": "B",
+          "text": "The train to Tigre leaves in ten minutes from Retiro station.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! Los horarios de transporte público (trenes, colectivos) usan presente simple."
+        },
+        {
+          "letter": "C",
+          "text": "I think it leaves later.",
+          "is_correct": false,
+          "feedback": "Aunque usa presente simple, la frase 'I think' sugiere una opinión más que un dato de horario oficial."
+        },
+        {
+          "letter": "D",
+          "text": "The train will leave soon.",
+          "is_correct": false,
+          "feedback": "Esto es una predicción general, no el uso específico de horarios fijos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Acordate siempre: para trenes, aviones, colectivos o funciones de teatro, usás el presente simple aunque hables del futuro. Es \"The train leaves\", no importa si falta una hora. Es una regla de oro para viajar por Argentina.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 9,
+      "country": "ar"
+    },
+    {
+      "id": "AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle-v10",
+      "statement": "Compare these two sentences:\r\n1. \"I will help you with your homework later.\"\r\n2. \"I am going to help you with your homework later.\"\r\nWhich one sounds like a formal promise or an offer made right now?",
+      "context": "Distinguir entre una promesa y una intención en un diálogo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sentence 1",
+          "is_correct": true,
+          "feedback": "¡Correcto! 'Will' es el tiempo verbal para las promesas y los ofrecimientos espontáneos."
+        },
+        {
+          "letter": "B",
+          "text": "Sentence 2",
+          "is_correct": false,
+          "feedback": "Esto suena más a que ya tenías planeado ayudar antes de que te lo pidieran."
+        },
+        {
+          "letter": "C",
+          "text": "Both are exactly the same.",
+          "is_correct": false,
+          "feedback": "No, el matiz de intención previa vs. compromiso del momento es diferente."
+        },
+        {
+          "letter": "D",
+          "text": "Neither is correct.",
+          "is_correct": false,
+          "feedback": "Ambas son gramaticalmente correctas, solo cambia el matiz comunicativo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si querés quedar bien y prometerle algo a alguien en el momento (\"Te prometo que te ayudo\"), usás \"will\". El \"going to\" suena más a un plan que ya tenías en la agenda. ¡Usá \"will\" para ser servicial!\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 9,
+      "country": "ar"
+    },
+    {
+      "id": "AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle-v9",
+      "statement": "Identify the correct use of future for an immediate danger: \"Careful! You _______ fall into that hole!\"",
+      "context": "Una advertencia sobre un peligro inminente en una excursión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will",
+          "is_correct": false,
+          "feedback": "No es una predicción lejana u opinión; es algo que está a punto de pasar por lo que ves."
+        },
+        {
+          "letter": "B",
+          "text": "are going to",
+          "is_correct": true,
+          "feedback": "¡Exacto! Para peligros inmediatos que estamos viendo, usamos 'be going to'."
+        },
+        {
+          "letter": "C",
+          "text": "falling",
+          "is_correct": false,
+          "feedback": "Gramaticalmente incompleto."
+        },
+        {
+          "letter": "D",
+          "text": "are falling",
+          "is_correct": false,
+          "feedback": "Esto significaría que ya estás en el aire cayendo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Si ves que alguien está por pisar mal o tropezarse, la advertencia es con \"going to\". Es porque tenés la evidencia visual de que el accidente es casi inevitable. ¡Cuidado con los pozos!\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 9,
+      "country": "ar"
+    },
+    {
+      "id": "AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle-v11",
+      "statement": "What is wrong with this question? \"When you will travel to Ushuaia?\"",
+      "context": "Analizando errores en el uso de auxiliares para el futuro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The verb should be 'traveling'.",
+          "is_correct": false,
+          "feedback": "No es necesario si se quiere usar 'will'."
+        },
+        {
+          "letter": "B",
+          "text": "The word order is wrong; it should be 'When will you travel...?'.",
+          "is_correct": true,
+          "feedback": "¡Exacto! En las preguntas con 'will', el auxiliar debe ir antes del sujeto."
+        },
+        {
+          "letter": "C",
+          "text": "You cannot use 'will' with 'travel'.",
+          "is_correct": false,
+          "feedback": "Por supuesto que se puede; es un uso muy común."
+        },
+        {
+          "letter": "D",
+          "text": "It needs the auxiliary 'do'.",
+          "is_correct": false,
+          "feedback": "'Will' ya es el auxiliar de futuro, no necesita a 'do'."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "¡Ojo con las preguntas! No es como en castellano donde solo cambiás el tono. En inglés tenés que \"saltar\" el \"will\" adelante del sujeto: \"When will you...?\". Si no hacés ese cambio, la pregunta está mal armada.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 9,
+      "country": "ar"
+    },
+    {
+      "id": "AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle-v12",
+      "statement": "Complete the complex sentence correctly: \"As soon as I _______ (arrive) in Salta, I _______ (call) you.\"",
+      "context": "Un uso avanzado del futuro en cláusulas de tiempo (time clauses).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will arrive / will call",
+          "is_correct": false,
+          "feedback": "Después de conectores de tiempo como 'as soon as' o 'when', no se usa 'will' para el futuro."
+        },
+        {
+          "letter": "B",
+          "text": "arrive / will call",
+          "is_correct": true,
+          "feedback": "¡Excelente! Usamos presente simple en la cláusula de tiempo y 'will' en la cláusula principal."
+        },
+        {
+          "letter": "C",
+          "text": "will arrive / call",
+          "is_correct": false,
+          "feedback": "La regla es al revés; el presente va con el conector de tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "am arriving / am going to call",
+          "is_correct": false,
+          "feedback": "Aunque se entiende, la estructura estándar para estas condiciones de tiempo es Presente/Futuro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esta es una regla difícil: cuando usás palabras como \"when\", \"as soon as\" o \"until\" para hablar del futuro, el verbo que viene inmediatamente después va en presente simple. Es \"As soon as I arrive\" (apenas llegue). La segunda parte de la frase sí lleva el \"will\". ¡Acordate de esto para sonar como un experto!\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Score |\r\n|-----------|-------|\r\n| Técnico | 30/30 |\r\n| Curricular | 40/40 |\r\n| Contexto | 20/20 |\r\n| Redacción | 10/10 |\r\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "AR-ING-9-2026-W03-future-tenses-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 9,
+      "country": "ar"
+    }
+  ]
+}

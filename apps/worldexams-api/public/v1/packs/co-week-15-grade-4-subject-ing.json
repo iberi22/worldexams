@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-15-grade-4-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.678Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-4-2026-W15-telling-time-001-MASTERY-v1",
+      "statement": "It is 8:00. How do you say this?",
+      "context": "Learning about telling the time in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is eight o'clock",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "It is eight minutes",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "It is eight hours",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "It is eight seconds",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates remember skills regarding telling the time at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W15-telling-time-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-4-2026-W15-telling-time-001-MASTERY-v2",
+      "statement": "The long hand on a clock shows ________.",
+      "context": "Learning about telling the time in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "months",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "minutes",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "hours",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "days",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates understand skills regarding telling the time at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W15-telling-time-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-4-2026-W15-telling-time-001-MASTERY-v3",
+      "statement": "What time is it if the short hand is on 3 and the long hand is on 12?",
+      "context": "Learning about telling the time in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3:12",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "6:00",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "3:00",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "12:03",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates apply skills regarding telling the time at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W15-telling-time-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-4-2026-W15-telling-time-001-MASTERY-v4",
+      "statement": "AM is for the ________.",
+      "context": "Learning about telling the time in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "afternoon",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "night",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "evening",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "morning",
+          "is_correct": true,
+          "feedback": "Correct!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates analyze skills regarding telling the time at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W15-telling-time-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-4-2026-W15-telling-time-001-MASTERY-v5",
+      "statement": "PM is for the ________.",
+      "context": "Learning about telling the time in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "afternoon and night",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "B",
+          "text": "morning",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "sunrise",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "breakfast time",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This question evaluates evaluate skills regarding telling the time at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W15-telling-time-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-4-2026-W15-telling-time-001-MASTERY-v6",
+      "statement": "How many minutes are in one hour?",
+      "context": "Learning about telling the time in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "60",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This question evaluates apply skills regarding telling the time at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W15-telling-time-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-4-2026-W15-telling-time-001-MASTERY-v7",
+      "statement": "Midday is at ________.",
+      "context": "Learning about telling the time in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6:00 AM",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "6:00 PM",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "12:00 PM",
+          "is_correct": true,
+          "feedback": "Correct!"
+        },
+        {
+          "letter": "D",
+          "text": "12:00 AM",
+          "is_correct": false,
+          "feedback": "No."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This question evaluates understand skills regarding telling the time at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W15-telling-time-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-4-2026-W15-telling-time-001-MASTERY-v8",
+      "statement": "Midnight is at ________.",
+      "context": "Learning about telling the time in English class.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12:00 PM",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "B",
+          "text": "1:00 AM",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "C",
+          "text": "11:00 PM",
+          "is_correct": false,
+          "feedback": "No."
+        },
+        {
+          "letter": "D",
+          "text": "12:00 AM",
+          "is_correct": true,
+          "feedback": "Correct!"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This question evaluates remember skills regarding telling the time at the CEFR A1 level.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W15-telling-time-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

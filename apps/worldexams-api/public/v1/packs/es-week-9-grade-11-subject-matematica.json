@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "es",
+    "pack_id": "es-week-9-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:39.428Z"
+  },
+  "questions": [
+    {
+      "id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v1",
+      "statement": "¿Qué nombre recibe la curva característica que representa gráficamente a una función cuadrática?",
+      "context": "Un estudiante en un instituto de Madrid estudia la forma de las funciones de segundo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hipérbola",
+          "is_correct": false,
+          "feedback": "La hipérbola corresponde a funciones racionales de tipo y=k/x."
+        },
+        {
+          "letter": "B",
+          "text": "Parábola",
+          "is_correct": true,
+          "feedback": "Correcto. Es la curva simétrica en forma de U (o U invertida) característica de los polinomios de grado 2."
+        },
+        {
+          "letter": "C",
+          "text": "Elipse",
+          "is_correct": false,
+          "feedback": "La elipse no es la gráfica de una función simple de tipo y=f(x)."
+        },
+        {
+          "letter": "D",
+          "text": "Recta",
+          "is_correct": false,
+          "feedback": "La recta corresponde a funciones lineales o afines."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función cuadrática $f(x) = ax^2 + bx + c$ genera siempre una parábola. Su orientación (hacia arriba o hacia abajo) depende del signo del coeficiente principal $a$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v2",
+      "statement": "En una parábola que abre hacia arriba ($a > 0$), ¿cómo se denomina al punto donde la función alcanza su valor mínimo?",
+      "context": "Se analiza el punto más bajo de una trayectoria en una clase en Barcelona.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Foco",
+          "is_correct": false,
+          "feedback": "El foco es un punto interno de la parábola pero no pertenece a la curva."
+        },
+        {
+          "letter": "B",
+          "text": "Vértice",
+          "is_correct": true,
+          "feedback": "Correcto. El vértice es el punto de inflexión donde la función cambia de decreciente a creciente (o viceversa)."
+        },
+        {
+          "letter": "C",
+          "text": "Directriz",
+          "is_correct": false,
+          "feedback": "La directriz es una recta, no un punto."
+        },
+        {
+          "letter": "D",
+          "text": "Eje de simetría",
+          "is_correct": false,
+          "feedback": "Es la recta vertical que pasa por el vértice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El vértice $(x_v, y_v)$ es el punto crítico de la parábola. Representa el valor máximo o mínimo absoluto de la función cuadrática en todo su dominio.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la abscisa del vértice ($x_v$) de la función $f(x) = x^2 - 6x + 5$?",
+      "context": "Un estudiante en Valencia calcula la coordenada $x$ del vértice de una parábola.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Se ha olvidado dividir por 2a."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. Usando la fórmula $x_v = -b / 2a$: $x_v = -(-6) / (2 \\cdot 1) = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "-3",
+          "is_correct": false,
+          "feedback": "Error de signo en la fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Este sería el valor si b fuera cero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La abscisa del vértice de una parábola $y = ax^2 + bx + c$ se encuentra siempre en $x = -b / 2a$. Este punto también define la posición del eje de simetría vertical de la curva.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.82,
+      "bundle_id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v4",
+      "statement": "Si en la función $f(x) = ax^2 + bx + c$, el coeficiente $a$ es negativo, ¿hacia dónde se dirigen las ramas de la parábola?",
+      "context": "Un examen en Sevilla pregunta por el efecto del coeficiente $a$ en la gráfica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacia arriba (convexa).",
+          "is_correct": false,
+          "feedback": "Esto ocurre si a > 0."
+        },
+        {
+          "letter": "B",
+          "text": "Hacia abajo (cóncava).",
+          "is_correct": true,
+          "feedback": "Correcto. Un coeficiente principal negativo invierte la parábola, situando el vértice en el máximo."
+        },
+        {
+          "letter": "C",
+          "text": "Hacia la derecha.",
+          "is_correct": false,
+          "feedback": "Las funciones de tipo y=f(x) no abren lateralmente."
+        },
+        {
+          "letter": "D",
+          "text": "Hacia la izquierda.",
+          "is_correct": false,
+          "feedback": "Las funciones de tipo y=f(x) no abren lateralmente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El signo de $a$ determina la curvatura. Si $a < 0$, la función tiende a $-\\infty$ cuando $x$ crece o decrece mucho, lo que resulta en una parábola con las ramas hacia abajo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v5",
+      "statement": "¿En qué puntos corta al eje X la función $f(x) = x^2 - 4$?",
+      "context": "Un estudiante en Bilbao halla los puntos donde la parábola corta al eje horizontal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo en (4, 0).",
+          "is_correct": false,
+          "feedback": "Olvida que hay dos raíces y que debe extraer la raíz cuadrada."
+        },
+        {
+          "letter": "B",
+          "text": "En (2, 0) y (-2, 0).",
+          "is_correct": true,
+          "feedback": "Correcto. $x^2 - 4 = 0 \\Rightarrow x^2 = 4 \\Rightarrow x = \\pm 2$."
+        },
+        {
+          "letter": "C",
+          "text": "En (0, 2) y (0, -2).",
+          "is_correct": false,
+          "feedback": "Estos son puntos del eje Y, no del eje X."
+        },
+        {
+          "letter": "D",
+          "text": "No corta al eje X.",
+          "is_correct": false,
+          "feedback": "El discriminante es positivo ($16$), por lo que sí corta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los puntos de corte con el eje X (ceros o raíces) se obtienen resolviendo la ecuación de segundo grado $ax^2 + bx + c = 0$. Gráficamente, son las intersecciones de la parábola con la recta horizontal $y = 0$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el punto de corte con el eje Y de la función $f(x) = 2x^2 - 3x + 7$?",
+      "context": "Se analiza el punto de corte con el eje vertical para un lanzamiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, 0)",
+          "is_correct": false,
+          "feedback": "Solo pasaría por el origen si c = 0."
+        },
+        {
+          "letter": "B",
+          "text": "(7, 0)",
+          "is_correct": false,
+          "feedback": "Confusión entre coordenadas x e y."
+        },
+        {
+          "letter": "C",
+          "text": "(0, 7)",
+          "is_correct": true,
+          "feedback": "Correcto. Sustituyendo x = 0, el resultado es 7."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 2)",
+          "is_correct": false,
+          "feedback": "El coeficiente principal no define el corte con el eje Y."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El corte con el eje Y siempre ocurre en el punto $(0, c)$. Es el valor numérico de la función cuando la variable independiente es nula.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v7",
+      "statement": "Si el discriminante de la función cuadrática es cero ($\\Delta = 0$), ¿qué podemos afirmar sobre su gráfica?",
+      "context": "Un estudiante analiza la relación entre el discriminante y el número de cortes con el eje X.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Corta al eje X en dos puntos distintos.",
+          "is_correct": false,
+          "feedback": "Esto requiere discriminante positivo."
+        },
+        {
+          "letter": "B",
+          "text": "El vértice de la parábola está sobre el eje X (un único punto de corte).",
+          "is_correct": true,
+          "feedback": "Correcto. La parábola es tangente al eje."
+        },
+        {
+          "letter": "C",
+          "text": "No corta nunca al eje X.",
+          "is_correct": false,
+          "feedback": "Esto requiere discriminante negativo."
+        },
+        {
+          "letter": "D",
+          "text": "La gráfica es una recta horizontal.",
+          "is_correct": false,
+          "feedback": "Sigue siendo una parábola, pero con una sola raíz real."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El discriminante $\\Delta = b^2 - 4ac$ determina cuántas veces toca la parábola al eje X. Si es cero, la ecuación tiene una solución doble, lo que geométricamente significa tangencia en el vértice.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v8",
+      "statement": "¿En qué instante $t$ alcanza el proyectil su altura máxima?",
+      "context": "Un proyectil lanzado en un campo de prácticas en Murcia sigue la trayectoria $h(t) = -5t^2 + 20t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "t = 4 s",
+          "is_correct": false,
+          "feedback": "Este es el tiempo total de vuelo hasta volver al suelo."
+        },
+        {
+          "letter": "B",
+          "text": "t = 2 s",
+          "is_correct": true,
+          "feedback": "Correcto. $t_v = -20 / (2 \\cdot -5) = -20 / -10 = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "t = 1 s",
+          "is_correct": false,
+          "feedback": "Valor incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "t = 20 s",
+          "is_correct": false,
+          "feedback": "Confusión con el coeficiente lineal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los problemas de proyectiles usan funciones cuadráticas donde el vértice representa el punto de máxima altura. Hallar el tiempo del vértice nos da el momento exacto del máximo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v9",
+      "statement": "Halla el valor mínimo de la función $f(x) = x^2 - 4x + 10$.",
+      "context": "Un estudiante en San Sebastián halla el valor mínimo de una función de coste.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 2",
+          "is_correct": false,
+          "feedback": "Esta es la posición del mínimo, no el valor mínimo de la función."
+        },
+        {
+          "letter": "B",
+          "text": "y = 6",
+          "is_correct": true,
+          "feedback": "Correcto. El vértice está en $x=2$. Evaluando: $f(2) = 2^2 - 4(2) + 10 = 4 - 8 + 10 = 6$."
+        },
+        {
+          "letter": "C",
+          "text": "y = 10",
+          "is_correct": false,
+          "feedback": "Este es el corte con el eje Y, no el mínimo del vértice."
+        },
+        {
+          "letter": "D",
+          "text": "y = 4",
+          "is_correct": false,
+          "feedback": "Error de cálculo al evaluar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar el valor extremo de una función cuadrática, primero calculamos la coordenada $x$ del vértice y luego evaluamos la función en ese punto para obtener la coordenada $y$ (el valor máximo o mínimo real).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de estas parábolas es más \"cerrada\" o \"estrecha\" respecto a su eje de simetría?",
+      "context": "Se compara la \"anchura\" de dos parábolas en función de sus coeficientes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = x^2$",
+          "is_correct": false,
+          "feedback": "Es la parábola estándar."
+        },
+        {
+          "letter": "B",
+          "text": "$y = 5x^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Cuanto mayor es el valor absoluto de a, más rápido crece la función y más estrecha es la curva."
+        },
+        {
+          "letter": "C",
+          "text": "$y = 0,1x^2$",
+          "is_correct": false,
+          "feedback": "Es una parábola muy abierta o \"ancha\"."
+        },
+        {
+          "letter": "D",
+          "text": "$y = 2x^2$",
+          "is_correct": false,
+          "feedback": "Es más estrecha que x², pero menos que 5x²."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El valor absoluto del coeficiente $a$ controla la apertura de la parábola. Valores grandes de $|a|$ producen un crecimiento muy rápido (estrecha), mientras que valores cercanos a cero producen un crecimiento lento (ancha).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.63,
+      "bundle_id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v11",
+      "statement": "Si $f(x) = x^2 + 2x + 5$, ¿cuál es el signo de la función para cualquier valor real de $x$?",
+      "context": "Un estudiante avanzado en Madrid analiza el signo de una función cuadrática sin raíces reales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Siempre negativo.",
+          "is_correct": false,
+          "feedback": "El coeficiente principal es positivo."
+        },
+        {
+          "letter": "B",
+          "text": "Siempre positivo.",
+          "is_correct": true,
+          "feedback": "Correcto. El discriminante es negativo ($4-20=-16$), por lo que no corta al eje X. Como abre hacia arriba, siempre está por encima del eje."
+        },
+        {
+          "letter": "C",
+          "text": "Positivo para x > 0 y negativo para x < 0.",
+          "is_correct": false,
+          "feedback": "Esto sería una función impar o lineal."
+        },
+        {
+          "letter": "D",
+          "text": "Depende del valor de x.",
+          "is_correct": false,
+          "feedback": "Al no tener raíces, la función nunca cambia de signo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una parábola que no corta al eje X mantiene el mismo signo en todo su dominio. Dicho signo coincide con el signo del coeficiente principal $a$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la ecuación de la parábola cuyo vértice es (0, 0) y pasa por el punto (2, 8)?",
+      "context": "Se busca la expresión de una parábola a partir de su gráfica en un examen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 4x$",
+          "is_correct": false,
+          "feedback": "Es una recta, no una parábola."
+        },
+        {
+          "letter": "B",
+          "text": "$y = 2x^2$",
+          "is_correct": true,
+          "feedback": "Correcto. $y = ax^2$. Sustituyendo (2,8): $8 = a(2^2) \\Rightarrow 8 = 4a \\Rightarrow a = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "$y = x^2 + 4$",
+          "is_correct": false,
+          "feedback": "No pasa por (0,0)."
+        },
+        {
+          "letter": "D",
+          "text": "$y = 8x^2$",
+          "is_correct": false,
+          "feedback": "No cumple el punto (2,8): 8(4) = 32 ≠ 8."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Si el vértice está en el origen, la ecuación es $y = ax^2$. Usamos cualquier otro punto conocido de la curva para sustituir las coordenadas y despejar el valor del parámetro $a$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la ecuación del eje de simetría de la función $f(x) = 2(x-3)^2 + 4$?",
+      "context": "Un estudiante en Asturias explica el eje de simetría de una parábola.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "y = 4",
+          "is_correct": false,
+          "feedback": "Esta es una recta horizontal."
+        },
+        {
+          "letter": "B",
+          "text": "x = 3",
+          "is_correct": true,
+          "feedback": "Correcto. La forma canónica $y = a(x-h)^2 + k$ sitúa el vértice en (h, k), por lo que el eje es x = h."
+        },
+        {
+          "letter": "C",
+          "text": "x = -3",
+          "is_correct": false,
+          "feedback": "Error de signo al identificar h."
+        },
+        {
+          "letter": "D",
+          "text": "x = 0",
+          "is_correct": false,
+          "feedback": "Solo si el vértice estuviera sobre el eje Y."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La forma canónica o de vértice de la función cuadrática facilita la identificación directa de sus elementos geométricos. El valor que resta a la $x$ dentro del cuadrado nos indica la posición horizontal del eje de simetría.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v14",
+      "statement": "Si la altura máxima es de 5 metros, ¿cuál es la ecuación del arco?",
+      "context": "Un arquitecto en Málaga diseña un puente con un arco parabólico que corta al suelo en los puntos $x = 0$ y $x = 10$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = x(x-10)$",
+          "is_correct": false,
+          "feedback": "La altura máxima sería negativa (hacia abajo)."
+        },
+        {
+          "letter": "B",
+          "text": "$y = -0,2x(x-10)$",
+          "is_correct": true,
+          "feedback": "Correcto. Vértice en x=5. $5 = a(5)(5-10) \\Rightarrow 5 = -25a \\Rightarrow a = -0,2$."
+        },
+        {
+          "letter": "C",
+          "text": "$y = -5x(x-10)$",
+          "is_correct": false,
+          "feedback": "La altura máxima sería de 125 metros, no 5."
+        },
+        {
+          "letter": "D",
+          "text": "$y = x^2 - 10x + 5$",
+          "is_correct": false,
+          "feedback": "No tiene las raíces en 0 y 10."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos la forma factorizada $y = a(x-r_1)(x-r_2)$ con las raíces 0 y 10. Luego, usamos el punto del máximo (el vértice, que por simetría está en $x=5$) para hallar el valor de $a$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.53,
+      "bundle_id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v15",
+      "statement": "¿En qué intervalo es decreciente la función $f(x) = x^2 - 4x + 5$?",
+      "context": "Se analiza el crecimiento de una función cuadrática en un intervalo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(-\\infty, \\infty)$",
+          "is_correct": false,
+          "feedback": "Las parábolas cambian de monotonía en el vértice."
+        },
+        {
+          "letter": "B",
+          "text": "$(-\\infty, 2)$",
+          "is_correct": true,
+          "feedback": "Correcto. El vértice está en $x=2$ y abre hacia arriba. Antes de llegar al vértice, la función baja."
+        },
+        {
+          "letter": "C",
+          "text": "$(2, \\infty)$",
+          "is_correct": false,
+          "feedback": "En este intervalo la función es creciente."
+        },
+        {
+          "letter": "D",
+          "text": "$(-\\infty, 4)$",
+          "is_correct": false,
+          "feedback": "Error al identificar la abscisa del vértice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una parábola que abre hacia arriba es decreciente desde $-\\infty$ hasta la abscisa del vértice, y creciente a partir de ahí. Para $a < 0$, el comportamiento es el opuesto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v16",
+      "statement": "Halla los puntos de corte de $y = x^2$ e $y = 2x + 3$.",
+      "context": "Un estudiante resuelve una intersección entre una recta y una parábola.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1, 1) y (3, 9)",
+          "is_correct": false,
+          "feedback": "(1, 1) no está en la recta."
+        },
+        {
+          "letter": "B",
+          "text": "(-1, 1) y (3, 9)",
+          "is_correct": true,
+          "feedback": "Correcto. $x^2 - 2x - 3 = 0 \\Rightarrow (x+1)(x-3)=0 \\Rightarrow x=-1, x=3$."
+        },
+        {
+          "letter": "C",
+          "text": "(0, 0) y (2, 4)",
+          "is_correct": false,
+          "feedback": "No satisfacen la ecuación de la recta."
+        },
+        {
+          "letter": "D",
+          "text": "No se cortan.",
+          "is_correct": false,
+          "feedback": "El discriminante de la ecuación igualada es positivo ($4+12=16$)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Igualamos ambas expresiones para formar una ecuación de segundo grado. Las soluciones nos dan las coordenadas $x$ de los puntos comunes. Sustituimos en cualquiera de las funciones para hallar las $y$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.48,
+      "bundle_id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la distancia mínima entre el origen (0, 0) y la parábola $y = x^2 + 1$?",
+      "context": "Un programador en una startup en Madrid calcula el área bajo una parábola simple para un sensor de luz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0 unidades",
+          "is_correct": false,
+          "feedback": "La parábola no pasa por el origen."
+        },
+        {
+          "letter": "B",
+          "text": "1 unidad",
+          "is_correct": true,
+          "feedback": "Correcto. El punto más cercano es el vértice (0, 1), cuya distancia al origen es exactamente 1."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{2}$ unidades",
+          "is_correct": false,
+          "feedback": "Distancia mayor que la del vértice."
+        },
+        {
+          "letter": "D",
+          "text": "2 unidades",
+          "is_correct": false,
+          "feedback": "Valor incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En parábolas verticales cuyo eje de simetría es el eje Y, el punto más cercano al origen suele ser el vértice si este se encuentra sobre el eje Y. La distancia es simplemente el valor absoluto de la ordenada en el origen.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v18",
+      "statement": "¿Para qué valores de $k$ la parábola $y = x^2 - kx + 4$ es siempre mayor que cero?",
+      "context": "Se plantea una familia de parábolas que dependen de un parámetro $k$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$k > 4$",
+          "is_correct": false,
+          "feedback": "Tendría raíces reales, por lo que tocaría o cruzaría el eje X."
+        },
+        {
+          "letter": "B",
+          "text": "$-4 < k < 4$",
+          "is_correct": true,
+          "feedback": "Correcto. Requiere discriminante negativo: $k^2 - 16 < 0 \\Rightarrow k^2 < 16 \\Rightarrow |k| < 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$k = 0$ solamente.",
+          "is_correct": false,
+          "feedback": "Hay un rango completo de valores que cumplen la condición."
+        },
+        {
+          "letter": "D",
+          "text": "Ningún valor de k.",
+          "is_correct": false,
+          "feedback": "Sí existen valores que cumplen la condición."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para que una parábola sea siempre positiva, no debe tener raíces reales ($\\Delta < 0$) y su coeficiente $a$ debe ser positivo. Resolvemos la inecuación del discriminante para el parámetro.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v19",
+      "statement": "Si la suma de las raíces de una función cuadrática es 6 y su producto es 8, ¿cuál es la ecuación de la parábola si $a = 1$?",
+      "context": "Un estudiante de ingeniería analiza la suma de las áreas de cuadrados cuyos lados dependen de una variable $x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = x^2 + 6x + 8$",
+          "is_correct": false,
+          "feedback": "La suma sería -6."
+        },
+        {
+          "letter": "B",
+          "text": "$y = x^2 - 6x + 8$",
+          "is_correct": true,
+          "feedback": "Correcto. Por relaciones de Vieta: $x^2 - (suma)x + producto = 0$."
+        },
+        {
+          "letter": "C",
+          "text": "$y = x^2 - 8x + 6$",
+          "is_correct": false,
+          "feedback": "Suma y producto intercambiados."
+        },
+        {
+          "letter": "D",
+          "text": "$y = x^2 + 6x - 8$",
+          "is_correct": false,
+          "feedback": "Producto incorrecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Conociendo la suma ($S$) y el producto ($P$) de las raíces, cualquier función cuadrática con esas raíces se puede escribir como $y = a(x^2 - Sx + P)$. Es una aplicación directa de la descomposición de polinomios.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.38,
+      "bundle_id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle-v20",
+      "statement": "Si desplazamos la parábola $y = x^2$ tres unidades a la derecha y dos hacia arriba, ¿cuál es su nueva ecuación?",
+      "context": "Un reto sobre el desplazamiento de parábolas en el plano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = (x+3)^2 + 2$",
+          "is_correct": false,
+          "feedback": "El signo +3 desplaza a la izquierda."
+        },
+        {
+          "letter": "B",
+          "text": "$y = (x-3)^2 + 2$",
+          "is_correct": true,
+          "feedback": "Correcto. Desplazamiento horizontal h=+3 (resta en la x) y vertical k=+2 (suma fuera)."
+        },
+        {
+          "letter": "C",
+          "text": "$y = (x-3)^2 - 2$",
+          "is_correct": false,
+          "feedback": "El -2 desplaza hacia abajo."
+        },
+        {
+          "letter": "D",
+          "text": "$y = x^2 - 3x + 2$",
+          "is_correct": false,
+          "feedback": "No corresponde a los desplazamientos indicados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las traslaciones de funciones se reflejan en su expresión analítica. Un desplazamiento de $h$ unidades en el eje X se escribe como $(x - h)$ y un desplazamiento de $k$ unidades en el eje Y como $+ k$.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "ES-MAT-11-2026-W09-funcion-cuadratica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "es"
+    }
+  ]
+}

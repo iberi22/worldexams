@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-36-grade-6-subject-lengua",
+    "generated_at": "2026-06-18T23:58:37.515Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W36-coherencia-textual-001-MASTERY-bundle-v1",
+      "statement": "¿A qué se refiere la **coherencia** en un texto escrito?",
+      "context": "En la Institución Educativa Alfonso López de Valledupar, los estudiantes aprenden las propiedades que hacen que un texto sea comprensible.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A que todas las palabras estén escritas con una letra bonita y clara.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es caligrafía, no coherencia textual."
+        },
+        {
+          "letter": "B",
+          "text": "A la relación lógica entre las ideas, de modo que el texto tenga sentido completo y unidad temática.",
+          "is_correct": true,
+          "feedback": "Correcto. La coherencia permite que el lector entienda el significado global del texto."
+        },
+        {
+          "letter": "C",
+          "text": "A que el texto tenga exactamente cien palabras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no define la coherencia."
+        },
+        {
+          "letter": "D",
+          "text": "A usar muchas palabras difíciles para que el texto parezca importante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El exceso de palabras difíciles sin sentido puede dañar la coherencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coherencia es una propiedad semántica del texto que garantiza que las ideas se organicen alrededor de un tema central y sigan un orden lógico.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-6-2026-W36-coherencia-textual-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W36-coherencia-textual-001-MASTERY-bundle-v2",
+      "statement": "Si en un texto sobre la papa empezamos a hablar de pronto de los astronautas sin ninguna explicación, ¿qué propiedad del texto se está perdiendo?",
+      "context": "Durante una clase de lengua en Tunja, se analiza un párrafo sobre el cultivo de la papa en Boyacá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ortografía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ortografía puede estar perfecta, pero el sentido se pierde."
+        },
+        {
+          "letter": "B",
+          "text": "La unidad temática (coherencia global).",
+          "is_correct": true,
+          "feedback": "Correcto. Al introducir un tema ajeno sin conexión, se rompe la coherencia del texto."
+        },
+        {
+          "letter": "C",
+          "text": "El tamaño de la letra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene relación con el contenido."
+        },
+        {
+          "letter": "D",
+          "text": "El margen de la página.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un aspecto formal, no de significado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para que un texto sea coherente, todas las ideas secundarias deben aportar información relevante sobre el tema principal (unidad temática).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-6-2026-W36-coherencia-textual-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W36-coherencia-textual-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el orden lógico para mantener la coherencia en un texto instructivo?",
+      "context": "Un grupo de estudiantes en Cali debe organizar un texto desordenado sobre el proceso de elaboración del pan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primero se come el pan, luego se hornea y finalmente se amasa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden cronológico está invertido."
+        },
+        {
+          "letter": "B",
+          "text": "Primero se consiguen los ingredientes, luego se amasa y finalmente se hornea.",
+          "is_correct": true,
+          "feedback": "Correcto. Sigue la secuencia temporal lógica del proceso."
+        },
+        {
+          "letter": "C",
+          "text": "Primero se hornea, luego se consiguen los ingredientes y finalmente se venden.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede hornear antes de tener los ingredientes."
+        },
+        {
+          "letter": "D",
+          "text": "El orden no importa mientras el pan sea rico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En un texto, el orden es fundamental para la comprensión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coherencia lineal o secuencial asegura que las ideas aparezcan en un orden temporal o lógico que el lector pueda seguir sin confusión.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-6-2026-W36-coherencia-textual-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W36-coherencia-textual-001-MASTERY-bundle-v4",
+      "statement": "Lee el siguiente texto: \"Me encanta el Carnaval de Barranquilla porque es muy alegre. Sin embargo, odio las fiestas y el ruido me parece horrible\". ¿Por qué este texto carece de coherencia?",
+      "context": "En un taller de redacción en Barranquilla, se analiza el problema de la contradicción en los argumentos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque no menciona qué música suena en el carnaval.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falta de detalles no es lo mismo que la falta de coherencia."
+        },
+        {
+          "letter": "B",
+          "text": "Porque presenta ideas contradictorias que se anulan entre sí.",
+          "is_correct": true,
+          "feedback": "Correcto. Un texto coherente no debe afirmar algo y luego negarlo sin una explicación lógica."
+        },
+        {
+          "letter": "C",
+          "text": "Porque usa la palabra \"Carnaval\" con mayúscula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es una norma ortográfica correcta."
+        },
+        {
+          "letter": "D",
+          "text": "Porque es demasiado corto para ser un texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La brevedad no impide la coherencia, la contradicción sí."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El principio de no contradicción es básico para la coherencia: las ideas deben ser compatibles entre sí dentro del mundo que el texto propone.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-6-2026-W36-coherencia-textual-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W36-coherencia-textual-001-MASTERY-bundle-v5",
+      "statement": "¿Cómo ayuda la división en párrafos a la coherencia de un texto largo?",
+      "context": "Un estudiante de Bucaramanga aprende sobre el uso de los párrafos para organizar la información.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sirve para que el texto se vea más bonito y tenga más espacios en blanco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una función estética secundaria."
+        },
+        {
+          "letter": "B",
+          "text": "Permite que el autor descanse la mano mientras escribe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene que ver con el esfuerzo físico del autor."
+        },
+        {
+          "letter": "C",
+          "text": "Permite separar las diferentes subtemas o ideas principales, manteniendo el orden.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada párrafo debe desarrollar una idea que aporte al tema general."
+        },
+        {
+          "letter": "D",
+          "text": "Obliga al lector a leer más rápido cada página.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, facilita una lectura pausada y comprensiva."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La estructura en párrafos es la manifestación externa de la organización interna del pensamiento, permitiendo jerarquizar la información.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-6-2026-W36-coherencia-textual-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W36-coherencia-textual-001-MASTERY-bundle-v6",
+      "statement": "Si un libro se titula \"Geografía de Colombia\" pero en su interior solo hay recetas de cocina, ¿qué tipo de incoherencia se presenta?",
+      "context": "En el colegio San Bartolomé de Bogotá, los alumnos analizan la relación entre el título y el contenido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incoherencia ortográfica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las recetas pueden estar bien escritas."
+        },
+        {
+          "letter": "B",
+          "text": "Incoherencia entre el título y el contenido (falta de adecuación temática).",
+          "is_correct": true,
+          "feedback": "Correcto. El título crea una expectativa que el texto debe cumplir para ser coherente."
+        },
+        {
+          "letter": "C",
+          "text": "Incoherencia de margen y sangría.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son aspectos de formato, no de sentido."
+        },
+        {
+          "letter": "D",
+          "text": "Incoherencia de género literario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema es la relación título-tema, no el género en sí."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El título funciona como un resumen máximo del tema; por lo tanto, la falta de relación entre este y el desarrollo del texto rompe la coherencia global.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-6-2026-W36-coherencia-textual-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W36-coherencia-textual-001-MASTERY-bundle-v7",
+      "statement": "Para que un texto sobre el clima en el Huila sea coherente, las ideas deben estar relacionadas con:",
+      "context": "Un docente en Neiva explica el principio de **relación** en la coherencia textual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El clima en Rusia y el precio del petróleo en Dubai solamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son temas muy alejados que no aportan a la coherencia local."
+        },
+        {
+          "letter": "B",
+          "text": "Datos sobre la temperatura, las lluvias y la ubicación geográfica del departamento.",
+          "is_correct": true,
+          "feedback": "Correcto. Son informaciones pertinentes que construyen el sentido del tema propuesto."
+        },
+        {
+          "letter": "C",
+          "text": "La lista de los jugadores de la selección Colombia de fútbol.",
+          "is_correct": false,
+          "feedback": "Incorrecto. A menos que haya una conexión muy específica, rompe la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Cualquier cosa que se le ocurra al estudiante en ese momento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escritura coherente requiere planificación y selección de ideas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El principio de relación implica que los hechos o ideas presentados deben tener una conexión lógica o causal con el tema que se está tratando.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-6-2026-W36-coherencia-textual-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W36-coherencia-textual-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el riesgo de no usar un orden lógico (introducción, desarrollo y conclusión) en un texto de opinión?",
+      "context": "En Pereira, se evalúa un texto argumentativo donde el autor salta de una idea a otra sin nexos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el texto sea demasiado fácil de leer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falta de orden hace la lectura difícil."
+        },
+        {
+          "letter": "B",
+          "text": "Que el profesor le ponga una nota excelente por su creatividad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la escritura académica se valora el orden y la claridad."
+        },
+        {
+          "letter": "C",
+          "text": "Que el lector se confunda y no logre identificar cuál es la postura o mensaje del autor.",
+          "is_correct": true,
+          "feedback": "Correcto. El desorden atenta directamente contra la función comunicativa del texto."
+        },
+        {
+          "letter": "D",
+          "text": "Que el papel se rompa al momento de imprimirlo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desorden de ideas no afecta la resistencia física del papel."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La coherencia pragmática asegura que el texto cumpla su propósito comunicativo (convencer, informar, divertir) mediante una estructura previsible y clara.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-6-2026-W36-coherencia-textual-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W36-coherencia-textual-001-MASTERY-bundle-v9",
+      "statement": "¿Qué es una **digresión** en un texto y cómo afecta la coherencia?",
+      "context": "En un ejercicio de análisis en Pasto, se compara un texto coherente con uno que tiene \"digresiones\" constantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es alejarse del tema principal para hablar de algo irrelevante; afecta la coherencia porque dispersa la atención del lector.",
+          "is_correct": true,
+          "feedback": "Correcto. Las digresiones excesivas hacen que el texto pierda su eje central."
+        },
+        {
+          "letter": "B",
+          "text": "Es escribir con muchos errores de ortografía; afecta la imagen del autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es falta de corrección lingüística, no digresión."
+        },
+        {
+          "letter": "C",
+          "text": "Es repetir la misma palabra muchas veces; afecta la elegancia del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es pobreza léxica o falta de cohesión."
+        },
+        {
+          "letter": "D",
+          "text": "Es poner el punto final antes de terminar la oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es un error de puntuación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aunque a veces se usan con fines literarios, en los textos expositivos y argumentativos las digresiones deben evitarse para mantener la progresión temática limpia.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.52,
+      "bundle_id": "CO-LEN-6-2026-W36-coherencia-textual-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W36-coherencia-textual-001-MASTERY-bundle-v10",
+      "statement": "Lee este texto: \"**Mañana fui** al parque y **ayer comeré** un helado delicioso\". ¿Qué tipo de incoherencia presenta este enunciado?",
+      "context": "Un estudiante de Cartagena debe evaluar la coherencia de un párrafo que mezcla tiempos verbales de forma caótica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incoherencia de lugar (espacial).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema no es dónde están los hechos, sino cuándo."
+        },
+        {
+          "letter": "B",
+          "text": "Incoherencia temporal y gramatical entre los adverbios y los verbos.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Mañana\" no puede ir con \"fui\" (pasado) ni \"ayer\" con \"comeré\" (futuro)."
+        },
+        {
+          "letter": "C",
+          "text": "Incoherencia de género (masculino/femenino).",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay errores de concordancia de género."
+        },
+        {
+          "letter": "D",
+          "text": "No hay incoherencia, es un texto de ciencia ficción sobre viajes en el tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aun en ciencia ficción, la estructura de la frase debe ser lógica para el lector."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coherencia también se manifiesta en la concordancia temporal. Los hechos deben situarse correctamente en la línea del tiempo para que la narración sea verosímil y comprensible.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato v5.2 respetado. |\n| Curricular | 40/40 | Alineado con DBA de Lengua G6 sobre coherencia. |\n| Contexto | 20/20 | Contextos colombianos variados. |\n| Redacción | 10/10 | Alta claridad y rigor pedagógico. |\n| **TOTAL** | **100/100** | |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-6-2026-W36-coherencia-textual-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

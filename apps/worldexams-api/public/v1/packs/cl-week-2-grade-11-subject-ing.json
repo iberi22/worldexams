@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ingles",
+    "country": "cl",
+    "pack_id": "cl-week-2-grade-11-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.090Z"
+  },
+  "questions": [
+    {
+      "id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v1",
+      "statement": "The latest breakthrough in smartphone technology includes foldable screens and improved battery life.",
+      "context": "Introduction to a tech seminar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "obsolete",
+          "is_correct": false,
+          "feedback": "Incorrect. Obsolete means no longer used."
+        },
+        {
+          "letter": "B",
+          "text": "breakthrough",
+          "is_correct": true,
+          "feedback": "Correct. A breakthrough is a significant development or discovery."
+        },
+        {
+          "letter": "C",
+          "text": "drawback",
+          "is_correct": false,
+          "feedback": "Incorrect. A drawback is a disadvantage."
+        },
+        {
+          "letter": "D",
+          "text": "legacy",
+          "is_correct": false,
+          "feedback": "Incorrect. Legacy refers to something from the past."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Breakthrough' is used to describe a major advance in technology.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v2",
+      "statement": "This time next year, many companies will be using artificial intelligence to automate their customer service.",
+      "context": "Future predictions about AI.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will use",
+          "is_correct": false,
+          "feedback": "Incorrect. This is simple future."
+        },
+        {
+          "letter": "B",
+          "text": "will be using",
+          "is_correct": true,
+          "feedback": "Correct. Future continuous describes an action in progress at a specific time in the future."
+        },
+        {
+          "letter": "C",
+          "text": "use",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "D",
+          "text": "have used",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The future continuous 'will be using' is appropriate for an action that will be ongoing at a specific future point.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v3",
+      "statement": "If the internet hadn't been invented, the way we communicate today would be completely different.",
+      "context": "Reflecting on the impact of the internet.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wasn't",
+          "is_correct": false,
+          "feedback": "Incorrect. This would be used in a second conditional for a present hypothetical."
+        },
+        {
+          "letter": "B",
+          "text": "hadn't been",
+          "is_correct": true,
+          "feedback": "Correct. The third conditional is used for hypothetical past situations."
+        },
+        {
+          "letter": "C",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "D",
+          "text": "hasn't been",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This is a third conditional sentence about a past event (the invention of the internet) that didn't happen as described.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v4",
+      "statement": "Self-driving cars must be programmed to make split-second decisions that involve ethical dilemmas.",
+      "context": "Article about the ethics of self-driving cars.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ethical",
+          "is_correct": true,
+          "feedback": "Correct. Ethical dilemmas involve choices between moral imperatives."
+        },
+        {
+          "letter": "B",
+          "text": "technical",
+          "is_correct": false,
+          "feedback": "Incorrect. While they are technical, the context of 'decisions' usually refers to morality/ethics in this debate."
+        },
+        {
+          "letter": "C",
+          "text": "financial",
+          "is_correct": false,
+          "feedback": "Incorrect. Financial refers to money."
+        },
+        {
+          "letter": "D",
+          "text": "aesthetic",
+          "is_correct": false,
+          "feedback": "Incorrect. Aesthetic refers to beauty or appearance."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The debate around autonomous vehicles frequently centers on the moral or ethical choices they must be programmed to make.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v5",
+      "statement": "The primary concern regarding the widespread adoption of IoT devices is the vulnerability of personal data.",
+      "context": "Discussion on the \"Internet of Things\" (IoT).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "accessibility",
+          "is_correct": false,
+          "feedback": "Incorrect. Accessibility usually means how easy it is to use."
+        },
+        {
+          "letter": "B",
+          "text": "transparency",
+          "is_correct": false,
+          "feedback": "Incorrect. Transparency is usually seen as a positive."
+        },
+        {
+          "letter": "C",
+          "text": "vulnerability",
+          "is_correct": true,
+          "feedback": "Correct. Vulnerability refers to being open to attack or harm."
+        },
+        {
+          "letter": "D",
+          "text": "encryption",
+          "is_correct": false,
+          "feedback": "Incorrect. Encryption is a solution to data concerns."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "In cybersecurity, 'vulnerability' is the state of being susceptible to data breaches.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v6",
+      "statement": "This new application is designed to streamline the process of booking flights and hotels.",
+      "context": "Description of a new app.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "streamline",
+          "is_correct": true,
+          "feedback": "Correct. To streamline means to make a system or process more efficient and effective."
+        },
+        {
+          "letter": "B",
+          "text": "complicate",
+          "is_correct": false,
+          "feedback": "Incorrect. Complicate means to make things harder."
+        },
+        {
+          "letter": "C",
+          "text": "ignore",
+          "is_correct": false,
+          "feedback": "Incorrect. Apps are designed to perform a task."
+        },
+        {
+          "letter": "D",
+          "text": "delay",
+          "is_correct": false,
+          "feedback": "Incorrect. Delay means to make something late."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Streamline' is a common verb in business and technology contexts for improving efficiency.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v7",
+      "statement": "If scientists found a way to produce clean energy at no cost, poverty would significantly decrease.",
+      "context": "Hypothetical scenario about tech development.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "find",
+          "is_correct": false,
+          "feedback": "Incorrect. First conditional."
+        },
+        {
+          "letter": "B",
+          "text": "found",
+          "is_correct": true,
+          "feedback": "Correct. Second conditional for a present/future hypothetical situation."
+        },
+        {
+          "letter": "C",
+          "text": "had found",
+          "is_correct": false,
+          "feedback": "Incorrect. Third conditional."
+        },
+        {
+          "letter": "D",
+          "text": "would find",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' is not used in the 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The second conditional uses 'if + past simple' to discuss a hypothetical situation.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v8",
+      "statement": "Computers have become significantly smaller and faster over the last few decades.",
+      "context": "Discussing the history of computing.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "became",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple refers to a finished time."
+        },
+        {
+          "letter": "B",
+          "text": "are becoming",
+          "is_correct": false,
+          "feedback": "Incorrect. Present continuous."
+        },
+        {
+          "letter": "C",
+          "text": "have become",
+          "is_correct": true,
+          "feedback": "Correct. Present perfect for an action that started in the past and continues to have relevance in the present."
+        },
+        {
+          "letter": "D",
+          "text": "had become",
+          "is_correct": false,
+          "feedback": "Incorrect. Past perfect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Have become' is used because the process of computers getting smaller and faster has been occurring up until now.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v9",
+      "statement": "Algorithms are used to curate content based on users' previous interactions and preferences.",
+      "context": "Discussion about social media algorithms.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "curate",
+          "is_correct": true,
+          "feedback": "Correct. To curate means to select, organize, and look after the items in a collection."
+        },
+        {
+          "letter": "B",
+          "text": "delete",
+          "is_correct": false,
+          "feedback": "Incorrect. Algorithms don't just delete content; they organize it."
+        },
+        {
+          "letter": "C",
+          "text": "broadcast",
+          "is_correct": false,
+          "feedback": "Incorrect. Broadcasting is sending out to everyone, while algorithms personalize."
+        },
+        {
+          "letter": "D",
+          "text": "encrypt",
+          "is_correct": false,
+          "feedback": "Incorrect. Encryption is about security."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Curate' describes the process of selecting and presenting content tailored to a specific audience or individual.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v10",
+      "statement": "The author suggests that the dominance of a few large companies in the tech sector may stifle innovation by making it difficult for smaller startups to compete.",
+      "context": "Critique of \"Big Tech\" influence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "foster",
+          "is_correct": false,
+          "feedback": "Incorrect. Foster means to encourage."
+        },
+        {
+          "letter": "B",
+          "text": "stifle",
+          "is_correct": true,
+          "feedback": "Correct. To stifle means to restrain or stop something from happening or developing."
+        },
+        {
+          "letter": "C",
+          "text": "accelerate",
+          "is_correct": false,
+          "feedback": "Incorrect. Accelerate means to speed up."
+        },
+        {
+          "letter": "D",
+          "text": "inspire",
+          "is_correct": false,
+          "feedback": "Incorrect. The author is describing a negative effect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Stifle' is the correct term for suppressing or preventing the growth of innovation.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v11",
+      "statement": "Please update your password regularly to ensure the security of your account.",
+      "context": "Tech support conversation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "reveal",
+          "is_correct": false,
+          "feedback": "Incorrect. You should never reveal your password."
+        },
+        {
+          "letter": "B",
+          "text": "update",
+          "is_correct": true,
+          "feedback": "Correct. Updating means to make something more modern or current."
+        },
+        {
+          "letter": "C",
+          "text": "forget",
+          "is_correct": false,
+          "feedback": "Incorrect. Forgetting your password is a problem."
+        },
+        {
+          "letter": "D",
+          "text": "share",
+          "is_correct": false,
+          "feedback": "Incorrect. Sharing passwords is a security risk."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Update' is the standard term for changing a password to a new one.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v12",
+      "statement": "By 2030, many jobs currently performed by humans will have been taken over by robots.",
+      "context": "Discussing future automation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will take over",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice; the jobs aren't taking over."
+        },
+        {
+          "letter": "B",
+          "text": "will have been taken over",
+          "is_correct": true,
+          "feedback": "Correct. Future perfect passive for an action completed by a future point."
+        },
+        {
+          "letter": "C",
+          "text": "are taking over",
+          "is_correct": false,
+          "feedback": "Incorrect. Present continuous."
+        },
+        {
+          "letter": "D",
+          "text": "were taken over",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The future perfect passive 'will have been taken over' indicates a completed state at a specific future time.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v13",
+      "statement": "Virtual Reality provides an immersive experience that allows users to feel as if they are actually inside a digital world.",
+      "context": "Article on Virtual Reality (VR).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "immersive",
+          "is_correct": true,
+          "feedback": "Correct. Immersive means providing information in a way that makes the user feel involved."
+        },
+        {
+          "letter": "B",
+          "text": "superficial",
+          "is_correct": false,
+          "feedback": "Incorrect. Superficial means on the surface."
+        },
+        {
+          "letter": "C",
+          "text": "distant",
+          "is_correct": false,
+          "feedback": "Incorrect. VR aims for closeness."
+        },
+        {
+          "letter": "D",
+          "text": "manual",
+          "is_correct": false,
+          "feedback": "Incorrect. Manual means done by hand."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Immersive' is the key adjective used to describe high-quality VR experiences.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v14",
+      "statement": "If I had studied computer science in college, I would be working for a tech company now.",
+      "context": "Mixed conditional about tech education.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "studied / will be",
+          "is_correct": false,
+          "feedback": "Incorrect. Inconsistent tenses."
+        },
+        {
+          "letter": "B",
+          "text": "had studied / would be",
+          "is_correct": true,
+          "feedback": "Correct. Mixed conditional (past condition, present result)."
+        },
+        {
+          "letter": "C",
+          "text": "study / would be",
+          "is_correct": false,
+          "feedback": "Incorrect. Inconsistent tenses."
+        },
+        {
+          "letter": "D",
+          "text": "have studied / am",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect / present."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The mixed conditional (if + past perfect, would + verb) connects a past hypothetical action with a present result.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v15",
+      "statement": "The report concludes that without significant investment in infrastructure, the transition to green energy will be delayed.",
+      "context": "Conclusion of a report on renewable energy tech.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "investment",
+          "is_correct": true,
+          "feedback": "Correct. Investment refers to putting money or effort into something for a future return."
+        },
+        {
+          "letter": "B",
+          "text": "consumption",
+          "is_correct": false,
+          "feedback": "Incorrect. Consumption means using something up."
+        },
+        {
+          "letter": "C",
+          "text": "neglect",
+          "is_correct": false,
+          "feedback": "Incorrect. Neglect would delay it even more."
+        },
+        {
+          "letter": "D",
+          "text": "curiosity",
+          "is_correct": false,
+          "feedback": "Incorrect. Curiosity is not enough to build infrastructure."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Investment' is the necessary action to build or upgrade infrastructure.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v16",
+      "statement": "Beware of phishing emails that try to trick you into revealing your personal information.",
+      "context": "Online safety tips.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "friendly",
+          "is_correct": false,
+          "feedback": "Incorrect. They might seem friendly, but the specific term is 'phishing'."
+        },
+        {
+          "letter": "B",
+          "text": "phishing",
+          "is_correct": true,
+          "feedback": "Correct. Phishing is a fraudulent attempt to obtain sensitive information."
+        },
+        {
+          "letter": "C",
+          "text": "encrypted",
+          "is_correct": false,
+          "feedback": "Incorrect. Encrypted emails are secure."
+        },
+        {
+          "letter": "D",
+          "text": "archived",
+          "is_correct": false,
+          "feedback": "Incorrect. Archived means stored."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Phishing' is the specific term for this type of cybercrime.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v17",
+      "statement": "Electric vehicles are significantly more efficient than internal combustion engines.",
+      "context": "Comparing two technologies.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "much",
+          "is_correct": false,
+          "feedback": "Incorrect. While common, 'significantly' is better here."
+        },
+        {
+          "letter": "B",
+          "text": "significantly",
+          "is_correct": true,
+          "feedback": "Correct. An adverb used to indicate a large or important amount."
+        },
+        {
+          "letter": "C",
+          "text": "significant",
+          "is_correct": false,
+          "feedback": "Incorrect. Adjective where an adverb is needed."
+        },
+        {
+          "letter": "D",
+          "text": "significance",
+          "is_correct": false,
+          "feedback": "Incorrect. Noun."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The adverb 'significantly' modifies the adjective 'efficient'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v18",
+      "statement": "Smartwatches can monitor your heart rate and sleep patterns to provide health insights.",
+      "context": "Text about wearable technology.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "monitor",
+          "is_correct": true,
+          "feedback": "Correct. To monitor means to observe and check the progress of something."
+        },
+        {
+          "letter": "B",
+          "text": "ignore",
+          "is_correct": false,
+          "feedback": "Incorrect. They are designed to watch."
+        },
+        {
+          "letter": "C",
+          "text": "fabricate",
+          "is_correct": false,
+          "feedback": "Incorrect. Fabricate means to invent to deceive."
+        },
+        {
+          "letter": "D",
+          "text": "increase",
+          "is_correct": false,
+          "feedback": "Incorrect. They track the heart rate."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Monitor' is the precise verb for tracking data over time.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v19",
+      "statement": "The project would have been successful if the team had better communication from the start.",
+      "context": "Speculating about a past failure.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will be",
+          "is_correct": false,
+          "feedback": "Incorrect. Present/future."
+        },
+        {
+          "letter": "B",
+          "text": "would be",
+          "is_correct": false,
+          "feedback": "Incorrect. Second conditional."
+        },
+        {
+          "letter": "C",
+          "text": "would have been",
+          "is_correct": true,
+          "feedback": "Correct. Third conditional for a hypothetical past result."
+        },
+        {
+          "letter": "D",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The third conditional 'would have been' describes a past outcome that didn't happen because a condition wasn't met.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-v20",
+      "statement": "Ultimately, technology should be seen as a tool to augment human capabilities, rather than a replacement for them.",
+      "context": "Final thought on the future of work.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "diminish",
+          "is_correct": false,
+          "feedback": "Incorrect. Diminish means to make less."
+        },
+        {
+          "letter": "B",
+          "text": "augment",
+          "is_correct": true,
+          "feedback": "Correct. To augment means to make something greater by adding to it."
+        },
+        {
+          "letter": "C",
+          "text": "replace",
+          "is_correct": false,
+          "feedback": "Incorrect. The text contrasts the tool with 'replacement'."
+        },
+        {
+          "letter": "D",
+          "text": "restrict",
+          "is_correct": false,
+          "feedback": "Incorrect. Restrict means to limit."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Augment' correctly conveys the idea of enhancing or adding to existing human skills.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W02-technology-innovation-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

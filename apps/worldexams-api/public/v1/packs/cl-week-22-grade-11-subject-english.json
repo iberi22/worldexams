@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ingles",
+    "country": "cl",
+    "pack_id": "cl-week-22-grade-11-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.106Z"
+  },
+  "questions": [
+    {
+      "id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-v1",
+      "statement": "An orbit is the curved path of a celestial object or spacecraft around a star, planet, or moon.",
+      "context": "Introduction to astronomical terms.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tunnel",
+          "is_correct": false,
+          "feedback": "Incorrect. A tunnel is through something."
+        },
+        {
+          "letter": "B",
+          "text": "Orbit",
+          "is_correct": true,
+          "feedback": "Correct. The path followed by an object in space."
+        },
+        {
+          "letter": "C",
+          "text": "Landing",
+          "is_correct": false,
+          "feedback": "Incorrect. Arriving on a surface."
+        },
+        {
+          "letter": "D",
+          "text": "Explosion",
+          "is_correct": false,
+          "feedback": "Incorrect. Sudden release of energy."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Orbit' is the specific scientific term for the elliptical path of an object around a larger body in space.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-v2",
+      "statement": "The moon landing in 1969 was watched by millions of people around the world.",
+      "context": "Describing a past space mission.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "watched",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "was watched",
+          "is_correct": true,
+          "feedback": "Correct. Past simple passive for a completed historical event."
+        },
+        {
+          "letter": "C",
+          "text": "has been watched",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "is watched",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The past simple passive 'was watched' describes how the audience experienced a specific historical event.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-v3",
+      "statement": "If life existed on other planets, it would change our understanding of the universe.",
+      "context": "Speculating about alien life.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "exists",
+          "is_correct": false,
+          "feedback": "Incorrect. First conditional."
+        },
+        {
+          "letter": "B",
+          "text": "existed",
+          "is_correct": true,
+          "feedback": "Correct. Second conditional for a hypothetical present situation."
+        },
+        {
+          "letter": "C",
+          "text": "had existed",
+          "is_correct": false,
+          "feedback": "Incorrect. Third conditional."
+        },
+        {
+          "letter": "D",
+          "text": "would exist",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' not used in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The second conditional 'if + past simple' is used to talk about an imaginary or unlikely current situation.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-v4",
+      "statement": "The \"habitable zone\" refers to the region around a star where conditions are just right for liquid water to exist on a planet's surface.",
+      "context": "Article about the \"Goldilocks Zone\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "frozen",
+          "is_correct": false,
+          "feedback": "Incorrect. Too cold."
+        },
+        {
+          "letter": "B",
+          "text": "habitable",
+          "is_correct": true,
+          "feedback": "Correct. Habitable means suitable or good enough to live in."
+        },
+        {
+          "letter": "C",
+          "text": "toxic",
+          "is_correct": false,
+          "feedback": "Incorrect. Unsafe for life."
+        },
+        {
+          "letter": "D",
+          "text": "arid",
+          "is_correct": false,
+          "feedback": "Incorrect. Too dry."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Habitable' is the standard scientific adjective for regions or planets that could potentially support life.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-v5",
+      "statement": "Critics argue that the resources spent on space exploration could be better utilized to address pressing issues on Earth.",
+      "context": "Discussion on the cost of space exploration.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "unimportant",
+          "is_correct": false,
+          "feedback": "Incorrect. Issues on Earth are important."
+        },
+        {
+          "letter": "B",
+          "text": "pressing",
+          "is_correct": true,
+          "feedback": "Correct. Pressing means requiring urgent attention."
+        },
+        {
+          "letter": "C",
+          "text": "trivial",
+          "is_correct": false,
+          "feedback": "Incorrect. Trivial means of little importance."
+        },
+        {
+          "letter": "D",
+          "text": "solved",
+          "is_correct": false,
+          "feedback": "Incorrect. If they were solved, there would be no debate."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Pressing' describes urgent and serious problems that require immediate action and resources.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-v6",
+      "statement": "A probe is an unmanned exploratory spacecraft that transmits information from outer space.",
+      "context": "Types of spacecraft.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "shuttle",
+          "is_correct": false,
+          "feedback": "Incorrect. A shuttle is usually manned and designed for multiple trips."
+        },
+        {
+          "letter": "B",
+          "text": "probe",
+          "is_correct": true,
+          "feedback": "Correct. Standard term for unmanned exploration tools."
+        },
+        {
+          "letter": "C",
+          "text": "station",
+          "is_correct": false,
+          "feedback": "Incorrect. A station is a permanent base."
+        },
+        {
+          "letter": "D",
+          "text": "rocket",
+          "is_correct": false,
+          "feedback": "Incorrect. The rocket is the vehicle used to launch the probe."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Probe' is the specific term for an unmanned craft designed for remote scientific observation.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-v7",
+      "statement": "Data from the James Webb Telescope is being analyzed by astronomers around the globe.",
+      "context": "Describing an ongoing mission.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is analyzing",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "is being analyzed",
+          "is_correct": true,
+          "feedback": "Correct. Present continuous passive for an ongoing process."
+        },
+        {
+          "letter": "C",
+          "text": "analyzed",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "D",
+          "text": "have analyzed",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present continuous passive describes the current and continuous scientific work being done.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-v8",
+      "statement": "Astrophysics is the branch of astronomy that deals with the physical properties of celestial bodies and the interaction between matter and radiation.",
+      "context": "Text on \"astrophysics\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Geology",
+          "is_correct": false,
+          "feedback": "Incorrect. Study of the Earth."
+        },
+        {
+          "letter": "B",
+          "text": "Astrophysics",
+          "is_correct": true,
+          "feedback": "Correct. Study of the physics of the universe."
+        },
+        {
+          "letter": "C",
+          "text": "Biology",
+          "is_correct": false,
+          "feedback": "Incorrect. Study of life."
+        },
+        {
+          "letter": "D",
+          "text": "Botany",
+          "is_correct": false,
+          "feedback": "Incorrect. Study of plants."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Astrophysics' is the correct scientific discipline for studying the physical nature of stars and galaxies.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-v9",
+      "statement": "Scientists had suspected the existence of black holes long before they were able to photograph one.",
+      "context": "Talking about a past astronomical discovery.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "suspect",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "B",
+          "text": "have suspected",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "C",
+          "text": "had suspected",
+          "is_correct": true,
+          "feedback": "Correct. Past perfect for an action before another past point."
+        },
+        {
+          "letter": "D",
+          "text": "suspects",
+          "is_correct": false,
+          "feedback": "Incorrect. Third person singular present."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The past perfect 'had suspected' establishes that the suspicion existed before the actual photograph was taken.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-v10",
+      "statement": "The accumulation of space debris in Earth's orbit poses a serious threat to future space missions and satellite technology.",
+      "context": "Critique of \"space debris\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "benefit",
+          "is_correct": false,
+          "feedback": "Incorrect. Debris is harmful."
+        },
+        {
+          "letter": "B",
+          "text": "threat",
+          "is_correct": true,
+          "feedback": "Correct. A threat is a person or thing likely to cause damage or danger."
+        },
+        {
+          "letter": "C",
+          "text": "solution",
+          "is_correct": false,
+          "feedback": "Incorrect. Debris is the problem."
+        },
+        {
+          "letter": "D",
+          "text": "mystery",
+          "is_correct": false,
+          "feedback": "Incorrect. We know it's there and what it is."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Threat' is the appropriate term for the danger posed by the growing amount of junk in space.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-v11",
+      "statement": "An astronaut is a person who is trained to travel in a spacecraft.",
+      "context": "Definition of an astronaut.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "pilot",
+          "is_correct": false,
+          "feedback": "Incorrect. Pilots fly planes; astronauts travel in space."
+        },
+        {
+          "letter": "B",
+          "text": "astronaut",
+          "is_correct": true,
+          "feedback": "Correct. The specific term for a space traveler."
+        },
+        {
+          "letter": "C",
+          "text": "driver",
+          "is_correct": false,
+          "feedback": "Incorrect. Refers to ground vehicles."
+        },
+        {
+          "letter": "D",
+          "text": "sailor",
+          "is_correct": false,
+          "feedback": "Incorrect. Refers to water vehicles."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Astronaut' is the professional title for individuals who travel beyond Earth's atmosphere.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-v12",
+      "statement": "By the end of this century, a permanent base will have been established on Mars.",
+      "context": "Describing a future goal in space.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will establish",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "will have been established",
+          "is_correct": true,
+          "feedback": "Correct. Future perfect passive for a completed state in the future."
+        },
+        {
+          "letter": "C",
+          "text": "established",
+          "is_correct": false,
+          "feedback": "Incorrect. Past tense."
+        },
+        {
+          "letter": "D",
+          "text": "establishing",
+          "is_correct": false,
+          "feedback": "Incorrect. Gerund."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The future perfect passive indicates that the base will be a finished achievement by the end of the century.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-v13",
+      "statement": "Microgravity is the condition in which people or objects appear to be weightless.",
+      "context": "Discussing zero gravity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pressure",
+          "is_correct": false,
+          "feedback": "Incorrect. Pressure is force."
+        },
+        {
+          "letter": "B",
+          "text": "Microgravity",
+          "is_correct": true,
+          "feedback": "Correct. The specific term for \"zero-g\" environments."
+        },
+        {
+          "letter": "C",
+          "text": "Friction",
+          "is_correct": false,
+          "feedback": "Incorrect. Resistance between surfaces."
+        },
+        {
+          "letter": "D",
+          "text": "Velocity",
+          "is_correct": false,
+          "feedback": "Incorrect. Speed in a direction."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Microgravity' is the scientific term for the state of apparent weightlessness experienced in orbit.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-v14",
+      "statement": "If the Apollo 11 mission hadn't been successful, the space race would have taken a different turn.",
+      "context": "Conditional about the Apollo missions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wasn't",
+          "is_correct": false,
+          "feedback": "Incorrect. Second conditional."
+        },
+        {
+          "letter": "B",
+          "text": "hadn't been",
+          "is_correct": true,
+          "feedback": "Correct. Third conditional for hypothetical past."
+        },
+        {
+          "letter": "C",
+          "text": "isn't",
+          "is_correct": false,
+          "feedback": "Incorrect. Present."
+        },
+        {
+          "letter": "D",
+          "text": "wouldn't be",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' not in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The third conditional is used to speculate about how historical events might have gone differently.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-v15",
+      "statement": "The author concludes that private companies are set to play a pivotal role in the future of space exploration.",
+      "context": "Conclusion of an article on private spaceflight.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "minor",
+          "is_correct": false,
+          "feedback": "Incorrect. Pivotal means the opposite."
+        },
+        {
+          "letter": "B",
+          "text": "pivotal",
+          "is_correct": true,
+          "feedback": "Correct. Pivotal means of crucial importance in relation to the development of something else."
+        },
+        {
+          "letter": "C",
+          "text": "negative",
+          "is_correct": false,
+          "feedback": "Incorrect. The author sees them as key developers."
+        },
+        {
+          "letter": "D",
+          "text": "accidental",
+          "is_correct": false,
+          "feedback": "Incorrect. Their role is intentional and planned."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Pivotal' is an excellent adjective for describing a role that is central and critically important.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-v16",
+      "statement": "A galaxy is a system of millions or billions of stars, together with gas and dust, held together by gravitational attraction.",
+      "context": "Defining a galaxy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "planet",
+          "is_correct": false,
+          "feedback": "Incorrect. Smaller part of a galaxy."
+        },
+        {
+          "letter": "B",
+          "text": "galaxy",
+          "is_correct": true,
+          "feedback": "Correct. Large system of stars."
+        },
+        {
+          "letter": "C",
+          "text": "comet",
+          "is_correct": false,
+          "feedback": "Incorrect. Small icy body."
+        },
+        {
+          "letter": "D",
+          "text": "meteor",
+          "is_correct": false,
+          "feedback": "Incorrect. Small rocky body."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Galaxy' is the standard term for a massive, gravitationally bound system of stars.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-v17",
+      "statement": "Astronomers announced that they had found evidence of liquid water on Europa.",
+      "context": "Reporting a discovery.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have found",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted in reported speech."
+        },
+        {
+          "letter": "B",
+          "text": "had found",
+          "is_correct": true,
+          "feedback": "Correct. Backshifted from present perfect to past perfect."
+        },
+        {
+          "letter": "C",
+          "text": "find",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "D",
+          "text": "will find",
+          "is_correct": false,
+          "feedback": "Incorrect. Future tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, we backshift the tense of the discovery to show it happened before the announcement.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-v18",
+      "statement": "Terraforming is the hypothetical process of deliberately modifying another planet's atmosphere to make it habitable for humans.",
+      "context": "Text about \"terraforming\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Destroying",
+          "is_correct": false,
+          "feedback": "Incorrect. Opposite goal."
+        },
+        {
+          "letter": "B",
+          "text": "Terraforming",
+          "is_correct": true,
+          "feedback": "Correct. Specific term for planet-shaping."
+        },
+        {
+          "letter": "C",
+          "text": "Mapping",
+          "is_correct": false,
+          "feedback": "Incorrect. Just making a map."
+        },
+        {
+          "letter": "D",
+          "text": "Mining",
+          "is_correct": false,
+          "feedback": "Incorrect. Extracting resources."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Terraforming' (literally 'Earth-shaping') is the term for making other planets more like Earth.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-v19",
+      "statement": "By the time the spacecraft reaches Pluto, it will have been traveling for over nine years.",
+      "context": "Describing a long journey.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will travel",
+          "is_correct": false,
+          "feedback": "Incorrect. Simple future."
+        },
+        {
+          "letter": "B",
+          "text": "will have been traveling",
+          "is_correct": true,
+          "feedback": "Correct. Future perfect continuous for duration up to a future point."
+        },
+        {
+          "letter": "C",
+          "text": "is traveling",
+          "is_correct": false,
+          "feedback": "Incorrect. Present continuous."
+        },
+        {
+          "letter": "D",
+          "text": "traveled",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The future perfect continuous describes the total length of the journey at the moment of arrival.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-v20",
+      "statement": "Space exploration embodies the human desire to push the boundaries of knowledge and explore the unknown.",
+      "context": "Final thought on the spirit of exploration.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "embodies",
+          "is_correct": true,
+          "feedback": "Correct. To embody means to be an expression of or give a tangible or visible form to an idea or quality."
+        },
+        {
+          "letter": "B",
+          "text": "ignores",
+          "is_correct": false,
+          "feedback": "Incorrect. Exploration is about paying attention."
+        },
+        {
+          "letter": "C",
+          "text": "limits",
+          "is_correct": false,
+          "feedback": "Incorrect. It expands knowledge."
+        },
+        {
+          "letter": "D",
+          "text": "delays",
+          "is_correct": false,
+          "feedback": "Incorrect. It advances knowledge."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Embodies' is a sophisticated verb used to show how an activity (exploration) represents a deeper value or desire.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W22-space-exploration-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

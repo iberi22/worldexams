@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-29-grade-7-subject-ingles",
+    "generated_at": "2026-07-03T19:49:42.902Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-7-2026-W29-future-will-001-v1",
+      "statement": "Which word is the auxiliary used for the simple future tense?",
+      "context": "Identifying the auxiliary for simple future.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Do",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for present tense."
+        },
+        {
+          "letter": "B",
+          "text": "Did",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for past tense."
+        },
+        {
+          "letter": "C",
+          "text": "Will",
+          "is_correct": true,
+          "feedback": "Correct! \"Will\" is the auxiliary for future actions."
+        },
+        {
+          "letter": "D",
+          "text": "Am",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a form of the verb \"to be\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student identifies the basic auxiliary used to express future in English.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-7-2026-W29-future-will-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W29-future-will-002-v1",
+      "statement": "What is the common contraction of \"will not\"?",
+      "context": "Identifying the negative form of \"will\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Willn't",
+          "is_correct": false,
+          "feedback": "Incorrect spelling."
+        },
+        {
+          "letter": "B",
+          "text": "Won't",
+          "is_correct": true,
+          "feedback": "Correct! \"Won't\" is the contraction of \"will not\"."
+        },
+        {
+          "letter": "C",
+          "text": "Don't",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for \"do not\"."
+        },
+        {
+          "letter": "D",
+          "text": "Wouldn't",
+          "is_correct": false,
+          "feedback": "Incorrect. This is for \"would not\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student remembers the irregular negative contraction for the future auxiliary.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-7-2026-W29-future-will-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W29-future-will-003-v1",
+      "statement": "Waiter: \"What would you like to drink?\"\nCustomer: \"I ________ have a glass of orange juice, please.\"",
+      "context": "A spontaneous decision during lunch.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will",
+          "is_correct": true,
+          "feedback": "Correct! We use \"will\" for spontaneous decisions made at the moment of speaking."
+        },
+        {
+          "letter": "B",
+          "text": "going to",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing \"am\" and usually used for pre-planned decisions."
+        },
+        {
+          "letter": "C",
+          "text": "am",
+          "is_correct": false,
+          "feedback": "Incorrect. You need an auxiliary or a different structure."
+        },
+        {
+          "letter": "D",
+          "text": "did",
+          "is_correct": false,
+          "feedback": "Incorrect. Past tense."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student understands the use of \"will\" for spontaneous decisions in a communicative context.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W29-future-will-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W29-future-will-004-v1",
+      "statement": "\"Don't worry, Mom. I ________ help you with the cleaning tomorrow.\"",
+      "context": "Making a promise.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am",
+          "is_correct": false,
+          "feedback": "Incorrect. You need \"will\" for a promise."
+        },
+        {
+          "letter": "B",
+          "text": "will",
+          "is_correct": true,
+          "feedback": "Correct! \"Will\" is used for making promises."
+        },
+        {
+          "letter": "C",
+          "text": "won't",
+          "is_correct": false,
+          "feedback": "Incorrect. This would be a promise NOT to help, which contradicts \"Don't worry\"."
+        },
+        {
+          "letter": "D",
+          "text": "do",
+          "is_correct": false,
+          "feedback": "Incorrect. This is present tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student understands the communicative function of \"will\" for making promises.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-7-2026-W29-future-will-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W29-future-will-005-v1",
+      "statement": "\"I think it ________ rain later this afternoon, so take an umbrella.\"",
+      "context": "Predicting the weather in Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will to",
+          "is_correct": false,
+          "feedback": "Incorrect. We don't use \"to\" after \"will\"."
+        },
+        {
+          "letter": "B",
+          "text": "will",
+          "is_correct": true,
+          "feedback": "Correct! \"Will\" is used for predictions, especially with \"I think\"."
+        },
+        {
+          "letter": "C",
+          "text": "won't",
+          "is_correct": false,
+          "feedback": "Incorrect. If it won't rain, you don't need an umbrella."
+        },
+        {
+          "letter": "D",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. Requires \"going to\" to form a future here."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies the use of \"will\" for general predictions followed by logical advice.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-7-2026-W29-future-will-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W29-future-will-006-v1",
+      "statement": "According to the text, what will happen in the year 2050?",
+      "context": "A prediction about technology in the year 2050.\n\"In the future, robots will do most of the housework. We won't cook or clean anymore. Life will be much easier for everyone.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "People will work harder.",
+          "is_correct": false,
+          "feedback": "Incorrect. It says life will be \"easier\"."
+        },
+        {
+          "letter": "B",
+          "text": "Robots will perform household chores.",
+          "is_correct": true,
+          "feedback": "Correct! The text says robots \"will do most of the housework\"."
+        },
+        {
+          "letter": "C",
+          "text": "Everyone will learn to cook.",
+          "is_correct": false,
+          "feedback": "Incorrect. It says \"we won't cook\"."
+        },
+        {
+          "letter": "D",
+          "text": "There won't be any robots.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says there will be robots."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student applies reading strategies to identify specific future predictions in a short text.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W29-future-will-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W29-future-will-007-v1",
+      "statement": "\"Can you hear the phone? I ________ answer it!\"",
+      "context": "A phone conversation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "'ll",
+          "is_correct": true,
+          "feedback": "Correct! Spontaneous decision to answer the phone, using the contraction of \"will\"."
+        },
+        {
+          "letter": "B",
+          "text": "am going",
+          "is_correct": false,
+          "feedback": "Incorrect. Too long for a spontaneous decision and missing \"to\"."
+        },
+        {
+          "letter": "C",
+          "text": "won't",
+          "is_correct": false,
+          "feedback": "Incorrect. Contradicts the intention to answer."
+        },
+        {
+          "letter": "D",
+          "text": "will to",
+          "is_correct": false,
+          "feedback": "Incorrect. No \"to\" after \"will\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The student applies the contracted form of \"will\" in a common daily situation involving a spontaneous action.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico-grammatical Knowledge",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-7-2026-W29-future-will-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W29-future-will-008-v1",
+      "statement": "Which sentence expresses a spontaneous decision?",
+      "context": "Distinguishing between spontaneous decisions and existing plans.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am going to travel to Cali next month.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a pre-planned intention."
+        },
+        {
+          "letter": "B",
+          "text": "We are going to have a party on Saturday.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a plan."
+        },
+        {
+          "letter": "C",
+          "text": "Oh, I forgot my wallet. I'll go back and get it.",
+          "is_correct": true,
+          "feedback": "Correct! The \"Oh\" signals a sudden realization and the \"I'll\" is the spontaneous decision."
+        },
+        {
+          "letter": "D",
+          "text": "He is going to be a doctor.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a long-term goal/intention."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student analyzes different future structures to identify the specific use case for \"will\".\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-7-2026-W29-future-will-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W29-future-will-009-v1",
+      "statement": "What is the consequence of not acting according to the scientist?",
+      "context": "Analyzing an expert's prediction.\n\"The scientist believes that global temperatures will rise by 2 degrees in the next decade. If we don't act now, we will face many environmental problems.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Temperatures will stay the same.",
+          "is_correct": false,
+          "feedback": "Incorrect. They will rise."
+        },
+        {
+          "letter": "B",
+          "text": "We will solve all problems.",
+          "is_correct": false,
+          "feedback": "Incorrect. We will \"face\" problems."
+        },
+        {
+          "letter": "C",
+          "text": "Many environmental issues will occur.",
+          "is_correct": true,
+          "feedback": "Correct! \"Face many environmental problems\" is the predicted outcome."
+        },
+        {
+          "letter": "D",
+          "text": "The decade will be colder.",
+          "is_correct": false,
+          "feedback": "Incorrect. Contradicts the rise in temperature."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The student analyzes a cause-and-effect relationship expressed with future \"will\" in a scientific/environmental context.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-7-2026-W29-future-will-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-7-2026-W29-future-will-010-v1",
+      "statement": "Which word best describes the tone of this speaker?",
+      "context": "Evaluating a personal commitment.\n\"I promise I will never lie to you again. I'll always tell the truth, and I will support you in everything you do.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Angry",
+          "is_correct": false,
+          "feedback": "Incorrect. The tone is supportive and committed."
+        },
+        {
+          "letter": "B",
+          "text": "Sincere",
+          "is_correct": true,
+          "feedback": "Correct! The use of \"promise\" and the repetition of \"will\" for commitment show sincerity."
+        },
+        {
+          "letter": "C",
+          "text": "Bored",
+          "is_correct": false,
+          "feedback": "Incorrect. These are strong commitments."
+        },
+        {
+          "letter": "D",
+          "text": "Unsure",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Will\" and \"Never\" show certainty in the commitment."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The student evaluates the communicative intent and tone of a series of promises made using the future auxiliary \"will\".",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-7-2026-W29-future-will-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

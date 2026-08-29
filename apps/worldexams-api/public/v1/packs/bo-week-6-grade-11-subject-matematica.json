@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "bo",
+    "pack_id": "bo-week-6-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:41:04.628Z"
+  },
+  "questions": [
+    {
+      "id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v1",
+      "statement": "¿Qué representa geométricamente la solución única de un sistema de dos ecuaciones lineales con dos variables en el plano real?",
+      "context": "En Santa Cruz, el estudiante Roxana del Colegio Nacional Santa Cruz resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El punto de intersección de las dos rectas representadas por las ecuaciones.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Cada ecuación lineal describe una recta en R^2. Si el sistema tiene solución única, es el punto exacto donde ambas rectas se cruzan."
+        },
+        {
+          "letter": "B",
+          "text": "Dos rectas paralelas que nunca se cruzan en el plano real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si las rectas son paralelas y no se cruzan, el sistema no tiene solución (es incompatible)."
+        },
+        {
+          "letter": "C",
+          "text": "Dos rectas coincidentes que se superponen completamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si coinciden, hay infinitas soluciones (sistema compatible indeterminado), no una solución única."
+        },
+        {
+          "letter": "D",
+          "text": "Una parábola que intercepta al eje horizontal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las ecuaciones lineales definen líneas rectas, no curvas parabólicas de segundo grado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cada ecuación lineal en dos variables representa una recta. El conjunto de soluciones de un sistema 2x2 corresponde a la intersección geométrica de estas dos rectas. Si existe solución única, las rectas son secantes y se intersectan exactamente en un punto.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.87,
+      "bundle_id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v2",
+      "statement": "Si tenemos un sistema de ecuaciones lineales 2x2 y al resolverlo por el método de eliminación obtenemos una contradicción como 0 = 5, ¿cuál es la conclusión correcta?",
+      "context": "En Cochabamba, el estudiante Jhonny del Colegio Nacional Sucre resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sistema es incompatible (no tiene solución real alguna).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Una contradicción numérica indica que las dos ecuaciones representan rectas paralelas y por tanto no se interceptan."
+        },
+        {
+          "letter": "B",
+          "text": "El sistema tiene infinitas soluciones complejas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si hay contradicción, no existe ninguna combinación de valores que satisfaga ambas ecuaciones."
+        },
+        {
+          "letter": "C",
+          "text": "La solución del sistema es el punto (0, 5) en el plano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La igualdad 0 = 5 es una falsedad matemática, no representa coordenadas."
+        },
+        {
+          "letter": "D",
+          "text": "El sistema tiene exactamente dos soluciones reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las ecuaciones lineales en un plano nunca pueden tener exactamente dos puntos de cruce."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al obtener una identidad falsa (contradicción) durante la resolución, se demuestra que el sistema carece de soluciones comunes. Se denomina sistema incompatible o inconsistente.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v3",
+      "statement": "Si un sistema de dos ecuaciones lineales en dos variables tiene infinitas soluciones, ¿cómo son las rectas que representan a estas ecuaciones en el plano cartesiano?",
+      "context": "En El Alto, el estudiante Marisol del Colegio Nacional El Alto resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Coincidentes (es la misma recta).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Si las ecuaciones representan la misma recta, cualquier punto sobre ella satisface ambas ecuaciones, lo que genera infinitas soluciones."
+        },
+        {
+          "letter": "B",
+          "text": "Perpendiculares entre sí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las rectas perpendiculares se cruzan en exactamente un punto, por lo que tienen solución única."
+        },
+        {
+          "letter": "C",
+          "text": "Paralelas y distintas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las rectas paralelas distintas no se cruzan nunca y por ende el sistema no tiene solución."
+        },
+        {
+          "letter": "D",
+          "text": "Oblicuas secantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las secantes se cruzan en un solo punto, produciendo solución única."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un sistema compatible indeterminado posee infinitas soluciones debido a que ambas ecuaciones lineales son equivalentes y describen geométricamente a la misma recta (rectas coincidentes).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.81,
+      "bundle_id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v4",
+      "statement": "Resuelva el sistema de ecuaciones lineales: x + y = 12; 4x - 4y = 4. ¿Cuál es el valor del par (x, y)?",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 6.5, y = 5.5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
+        },
+        {
+          "letter": "B",
+          "text": "x = 4, y = 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
+        },
+        {
+          "letter": "C",
+          "text": "x = 1, y = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface el valor de la primera suma del sistema."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v5",
+      "statement": "Resuelva el sistema de ecuaciones lineales: x + y = 15; 5x - 5y = 5. ¿Cuál es el valor del par (x, y)?",
+      "context": "En Tarija, el estudiante Sonia del Colegio Nacional Bolivar resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 8.0, y = 7.0",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
+        },
+        {
+          "letter": "B",
+          "text": "x = 5, y = 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
+        },
+        {
+          "letter": "C",
+          "text": "x = 1, y = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface el valor de la primera suma del sistema."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v6",
+      "statement": "Resuelva el sistema de ecuaciones lineales: x + y = 18; 6x - 6y = 6. ¿Cuál es el valor del par (x, y)?",
+      "context": "En Oruro, el estudiante Ramiro del Colegio Nacional Potosí resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 9.5, y = 8.5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
+        },
+        {
+          "letter": "B",
+          "text": "x = 6, y = 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
+        },
+        {
+          "letter": "C",
+          "text": "x = 1, y = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface el valor de la primera suma del sistema."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v7",
+      "statement": "Resuelva el sistema de ecuaciones lineales: x + y = 21; 7x - 7y = 7. ¿Cuál es el valor del par (x, y)?",
+      "context": "En Potosí, el estudiante Yolanda del Colegio Nacional San Luis resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 11.0, y = 10.0",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
+        },
+        {
+          "letter": "B",
+          "text": "x = 7, y = 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
+        },
+        {
+          "letter": "C",
+          "text": "x = 1, y = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface el valor de la primera suma del sistema."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.69,
+      "bundle_id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v8",
+      "statement": "Resuelva el sistema de ecuaciones lineales: x + y = 24; 8x - 8y = 8. ¿Cuál es el valor del par (x, y)?",
+      "context": "En Cobija, el estudiante Jaime del Colegio Nacional Trinidad resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 12.5, y = 11.5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
+        },
+        {
+          "letter": "B",
+          "text": "x = 8, y = 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
+        },
+        {
+          "letter": "C",
+          "text": "x = 1, y = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface el valor de la primera suma del sistema."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.66,
+      "bundle_id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v9",
+      "statement": "Resuelva el sistema de ecuaciones lineales: x + y = 27; 9x - 9y = 9. ¿Cuál es el valor del par (x, y)?",
+      "context": "En Trinidad, el estudiante Marcela del Colegio Nacional Cobija resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 14.0, y = 13.0",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
+        },
+        {
+          "letter": "B",
+          "text": "x = 9, y = 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
+        },
+        {
+          "letter": "C",
+          "text": "x = 1, y = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface el valor de la primera suma del sistema."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.63,
+      "bundle_id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v10",
+      "statement": "Resuelva el sistema de ecuaciones lineales: x + y = 30; 10x - 10y = 10. ¿Cuál es el valor del par (x, y)?",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 15.5, y = 14.5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
+        },
+        {
+          "letter": "B",
+          "text": "x = 10, y = 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
+        },
+        {
+          "letter": "C",
+          "text": "x = 1, y = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface el valor de la primera suma del sistema."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v11",
+      "statement": "Resuelva el sistema de ecuaciones lineales: x + y = 33; 11x - 11y = 11. ¿Cuál es el valor del par (x, y)?",
+      "context": "En Santa Cruz, el estudiante Roxana del Colegio Nacional Santa Cruz resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 17.0, y = 16.0",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
+        },
+        {
+          "letter": "B",
+          "text": "x = 11, y = 11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
+        },
+        {
+          "letter": "C",
+          "text": "x = 1, y = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface el valor de la primera suma del sistema."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v12",
+      "statement": "Resuelva el sistema de ecuaciones lineales: x + y = 36; 12x - 12y = 12. ¿Cuál es el valor del par (x, y)?",
+      "context": "En Cochabamba, el estudiante Jhonny del Colegio Nacional Sucre resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 18.5, y = 17.5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
+        },
+        {
+          "letter": "B",
+          "text": "x = 12, y = 12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
+        },
+        {
+          "letter": "C",
+          "text": "x = 1, y = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface el valor de la primera suma del sistema."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.54,
+      "bundle_id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v13",
+      "statement": "Resuelva el sistema de ecuaciones lineales: x + y = 39; 13x - 13y = 13. ¿Cuál es el valor del par (x, y)?",
+      "context": "En El Alto, el estudiante Marisol del Colegio Nacional El Alto resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 20.0, y = 19.0",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
+        },
+        {
+          "letter": "B",
+          "text": "x = 13, y = 13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
+        },
+        {
+          "letter": "C",
+          "text": "x = 1, y = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface el valor de la primera suma del sistema."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.51,
+      "bundle_id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v14",
+      "statement": "Resuelva el sistema de ecuaciones lineales: x + y = 42; 14x - 14y = 14. ¿Cuál es el valor del par (x, y)?",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 21.5, y = 20.5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
+        },
+        {
+          "letter": "B",
+          "text": "x = 14, y = 14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
+        },
+        {
+          "letter": "C",
+          "text": "x = 1, y = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface el valor de la primera suma del sistema."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.48,
+      "bundle_id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v15",
+      "statement": "Resuelva el sistema de ecuaciones lineales: x + y = 45; 15x - 15y = 15. ¿Cuál es el valor del par (x, y)?",
+      "context": "En Tarija, el estudiante Sonia del Colegio Nacional Bolivar resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 23.0, y = 22.0",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
+        },
+        {
+          "letter": "B",
+          "text": "x = 15, y = 15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
+        },
+        {
+          "letter": "C",
+          "text": "x = 1, y = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface el valor de la primera suma del sistema."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v16",
+      "statement": "Resuelva el sistema de ecuaciones lineales: x + y = 48; 16x - 16y = 16. ¿Cuál es el valor del par (x, y)?",
+      "context": "En Oruro, el estudiante Ramiro del Colegio Nacional Potosí resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 24.5, y = 23.5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
+        },
+        {
+          "letter": "B",
+          "text": "x = 16, y = 16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
+        },
+        {
+          "letter": "C",
+          "text": "x = 1, y = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface el valor de la primera suma del sistema."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.42,
+      "bundle_id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v17",
+      "statement": "Resuelva el sistema de ecuaciones lineales: x + y = 51; 17x - 17y = 17. ¿Cuál es el valor del par (x, y)?",
+      "context": "En Potosí, el estudiante Yolanda del Colegio Nacional San Luis resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 26.0, y = 25.0",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
+        },
+        {
+          "letter": "B",
+          "text": "x = 17, y = 17",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
+        },
+        {
+          "letter": "C",
+          "text": "x = 1, y = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface el valor de la primera suma del sistema."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.39,
+      "bundle_id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v18",
+      "statement": "Resuelva el sistema de ecuaciones lineales: x + y = 54; 18x - 18y = 18. ¿Cuál es el valor del par (x, y)?",
+      "context": "En Cobija, el estudiante Jaime del Colegio Nacional Trinidad resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 27.5, y = 26.5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
+        },
+        {
+          "letter": "B",
+          "text": "x = 18, y = 18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
+        },
+        {
+          "letter": "C",
+          "text": "x = 1, y = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface el valor de la primera suma del sistema."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.36,
+      "bundle_id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v19",
+      "statement": "Resuelva el sistema de ecuaciones lineales: x + y = 57; 19x - 19y = 19. ¿Cuál es el valor del par (x, y)?",
+      "context": "En Trinidad, el estudiante Marcela del Colegio Nacional Cobija resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 29.0, y = 28.0",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
+        },
+        {
+          "letter": "B",
+          "text": "x = 19, y = 19",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
+        },
+        {
+          "letter": "C",
+          "text": "x = 1, y = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface el valor de la primera suma del sistema."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.33,
+      "bundle_id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle-v20",
+      "statement": "Resuelva el sistema de ecuaciones lineales: x + y = 60; 20x - 20y = 20. ¿Cuál es el valor del par (x, y)?",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 30.5, y = 29.5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
+        },
+        {
+          "letter": "B",
+          "text": "x = 20, y = 20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
+        },
+        {
+          "letter": "C",
+          "text": "x = 1, y = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No satisface el valor de la primera suma del sistema."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución real",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.3,
+      "bundle_id": "BO-MAT-11-2026-W06-tema-w06-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}

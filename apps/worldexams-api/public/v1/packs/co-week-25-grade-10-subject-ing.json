@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-25-grade-10-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.582Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-10-2026-W25-consumerism-001-MASTERY-v1",
+      "statement": "\"____ advertising ____ makes people want to buy things they don't really need.\"",
+      "context": "Emphasizing the cause of a problem.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "What / that",
+          "is_correct": false,
+          "feedback": "Incorrect cleft structure."
+        },
+        {
+          "letter": "B",
+          "text": "It is / that",
+          "is_correct": true,
+          "feedback": "Correct 'It'-cleft for emphasis."
+        },
+        {
+          "letter": "C",
+          "text": "There is / that",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "It is / which",
+          "is_correct": false,
+          "feedback": "'That' is standard for 'it'-clefts."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'It is... that...' is a cleft sentence structure used to focus on a specific part of a sentence (in this case, 'advertising').\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-10-2026-W25-consumerism-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W25-consumerism-001-MASTERY-v2",
+      "statement": "\"____ young people ____ are leading the movement against fast fashion.\"",
+      "context": "Emphasizing a person's role in a movement.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They are / who",
+          "is_correct": false,
+          "feedback": "Not a standard cleft structure."
+        },
+        {
+          "letter": "B",
+          "text": "It is / who",
+          "is_correct": true,
+          "feedback": "Correct 'It'-cleft focusing on a person."
+        },
+        {
+          "letter": "C",
+          "text": "What / are",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "There are / who",
+          "is_correct": false,
+          "feedback": "This is an existential clause, not a cleft."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cleft sentences can focus on people using 'It is/was... who/that...'.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.84,
+      "bundle_id": "CO-ING-10-2026-W25-consumerism-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W25-consumerism-001-MASTERY-v3",
+      "statement": "\"____ I need is a new pair of shoes, not a whole new wardrobe.\"",
+      "context": "Identifying what matters in shopping.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is",
+          "is_correct": false,
+          "feedback": "Incorrect syntax."
+        },
+        {
+          "letter": "B",
+          "text": "What",
+          "is_correct": true,
+          "feedback": "Correct 'WH'-cleft (What + subject + verb + is...)."
+        },
+        {
+          "letter": "C",
+          "text": "That",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "The thing",
+          "is_correct": false,
+          "feedback": "Possible, but 'What' is the standard WH-cleft."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A WH-cleft uses a 'what' clause as the subject to focus on the information following the verb 'be'.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Part 2 - Lexical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-10-2026-W25-consumerism-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W25-consumerism-001-MASTERY-v4",
+      "statement": "\"____ the short lifespan of products ____ forces consumers to replace them frequently.\"",
+      "context": "An article about planned obsolescence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "What / is",
+          "is_correct": false,
+          "feedback": "Incorrect syntax for this structure."
+        },
+        {
+          "letter": "B",
+          "text": "It is / that",
+          "is_correct": true,
+          "feedback": "Correct cleft structure."
+        },
+        {
+          "letter": "C",
+          "text": "Because / that",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "It was / which",
+          "is_correct": false,
+          "feedback": "Incorrect tense/pronoun."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using 'It-clefts' to highlight a specific causal factor in a complex socioeconomic process.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-10-2026-W25-consumerism-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W25-consumerism-001-MASTERY-v5",
+      "statement": "\"____ in the 1950s ____ the culture of mass consumption really took off.\"",
+      "context": "Discussing the start of a trend.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It was / when",
+          "is_correct": false,
+          "feedback": "Correct but B is often used in clefts."
+        },
+        {
+          "letter": "B",
+          "text": "It was / that",
+          "is_correct": true,
+          "feedback": "Correct 'It-cleft' for a time expression."
+        },
+        {
+          "letter": "C",
+          "text": "When / was",
+          "is_correct": false,
+          "feedback": "Incorrect syntax."
+        },
+        {
+          "letter": "D",
+          "text": "What / was",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'It was... that...' can also be used to emphasize time expressions or circumstances.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.71,
+      "bundle_id": "CO-ING-10-2026-W25-consumerism-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W25-consumerism-001-MASTERY-v6",
+      "statement": "\"____ influencers do ____ create a desire for a lifestyle that is often unattainable.\"",
+      "context": "A critique of social media influencers.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is / that",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "What / is",
+          "is_correct": true,
+          "feedback": "Correct WH-cleft focusing on an action."
+        },
+        {
+          "letter": "C",
+          "text": "All / is",
+          "is_correct": false,
+          "feedback": "Possible, but 'What' is more common for general actions."
+        },
+        {
+          "letter": "D",
+          "text": "That / is",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using a WH-cleft to focus on the effect of a specific group's actions.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.67,
+      "bundle_id": "CO-ING-10-2026-W25-consumerism-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W25-consumerism-001-MASTERY-v7",
+      "statement": "\"____ in local markets ____ you can find the most authentic and sustainable products.\"",
+      "context": "Emphasizing a place.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "What is / that",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "It is / that",
+          "is_correct": true,
+          "feedback": "Correct cleft focusing on a prepositional phrase of place."
+        },
+        {
+          "letter": "C",
+          "text": "There is / where",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Where / it is",
+          "is_correct": false,
+          "feedback": "Incorrect syntax."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cleft sentences can focus on prepositional phrases (in local markets) to emphasize location.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.63,
+      "bundle_id": "CO-ING-10-2026-W25-consumerism-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W25-consumerism-001-MASTERY-v8",
+      "statement": "\"____ matters most to ethical consumers ____ the transparency of the supply chain.\"",
+      "context": "A text about ethical shopping.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It / that",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "What / is",
+          "is_correct": true,
+          "feedback": "Correct WH-cleft."
+        },
+        {
+          "letter": "C",
+          "text": "The thing / is that",
+          "is_correct": false,
+          "feedback": "Wordy."
+        },
+        {
+          "letter": "D",
+          "text": "That / is",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using WH-clefts to define the primary value or concern of a specific demographic.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.59,
+      "bundle_id": "CO-ING-10-2026-W25-consumerism-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W25-consumerism-001-MASTERY-v9",
+      "statement": "\"____ really surprised me ____ how quickly credit card debt can accumulate.\"",
+      "context": "Discussing personal finance and debt.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It was / that",
+          "is_correct": false,
+          "feedback": "Correct, but B is more common for feelings/surprises."
+        },
+        {
+          "letter": "B",
+          "text": "What / was",
+          "is_correct": true,
+          "feedback": "Correct WH-cleft focusing on a surprising fact."
+        },
+        {
+          "letter": "C",
+          "text": "That / was",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Which / was",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "B2 complexity: Using WH-clefts to express personal reactions and evaluations of economic facts.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-10-2026-W25-consumerism-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W25-consumerism-001-MASTERY-v10",
+      "statement": "\"____ only by reducing our consumption ____ we can hope to achieve a sustainable future.\"",
+      "context": "A formal argument against consumerism.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is / that",
+          "is_correct": true,
+          "feedback": "Correct 'It-cleft' used with 'only by'."
+        },
+        {
+          "letter": "B",
+          "text": "What is / that",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "There is / that",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Is / that",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Advanced B2 structure: Combining a cleft sentence with restrictive phrases ('only by...') for maximum emphasis.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-10-2026-W25-consumerism-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W25-consumerism-001-MASTERY-v11",
+      "statement": "\"____ the retailers want ____ for customers to believe they are getting a unique bargain.\"",
+      "context": "Critique of black Friday.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is / that",
+          "is_correct": false,
+          "feedback": "Incorrect syntax for 'want'."
+        },
+        {
+          "letter": "B",
+          "text": "What / is",
+          "is_correct": true,
+          "feedback": "Correct WH-cleft."
+        },
+        {
+          "letter": "C",
+          "text": "All / is",
+          "is_correct": false,
+          "feedback": "Also possible, but 'What' is the primary WH-cleft focus."
+        },
+        {
+          "letter": "D",
+          "text": "That / is",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using 'What' or 'All' clefts to reveal the underlying intentions of commercial entities.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-10-2026-W25-consumerism-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W25-consumerism-001-MASTERY-v12",
+      "statement": "\"____ it is our desire for status, rather than a lack of resources, ____ drives modern consumerism.\"",
+      "context": "A sophisticated sociological conclusion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is / that",
+          "is_correct": true,
+          "feedback": "Correct complex cleft structure with a contrast."
+        },
+        {
+          "letter": "B",
+          "text": "What / is",
+          "is_correct": false,
+          "feedback": "Incorrect syntax here."
+        },
+        {
+          "letter": "C",
+          "text": "Because / that",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "That / it is",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mastery level: Using a cleft sentence to contrast two different motivations ('desire for status' vs 'lack of resources') and emphasize the former.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-10-2026-W25-consumerism-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "do",
+    "pack_id": "do-week-2-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:38.419Z"
+  },
+  "questions": [
+    {
+      "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la propiedad que establece que el orden de los sumandos no altera la suma ($a + b = b + a$)?",
+      "context": "Un estudiante en Santo Domingo repasa las propiedades básicas de los números reales para su examen de Pruebas Nacionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Propiedad Distributiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta relaciona la suma con el producto."
+        },
+        {
+          "letter": "B",
+          "text": "Propiedad Asociativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere a cómo se agrupan tres o más términos."
+        },
+        {
+          "letter": "C",
+          "text": "Propiedad Conmutativa",
+          "is_correct": true,
+          "feedback": "Correcto. La propiedad conmutativa indica que el orden de los elementos no altera el resultado."
+        },
+        {
+          "letter": "D",
+          "text": "Propiedad del Neutro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere a la suma con el cero."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La propiedad conmutativa es fundamental en los números reales y aplica tanto para la suma como para la multiplicación.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se denomina al número 1 en la operación de multiplicación en los números reales?",
+      "context": "En una ferretería de Santiago, se manejan inventarios donde el número 1 juega un papel especial en las multiplicaciones de precios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inverso Multiplicativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el recíproco de un número."
+        },
+        {
+          "letter": "B",
+          "text": "Elemento Neutro",
+          "is_correct": true,
+          "feedback": "Correcto. El 1 es el neutro de la multiplicación porque no altera el valor del otro factor."
+        },
+        {
+          "letter": "C",
+          "text": "Elemento Simétrico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es otro término para inverso."
+        },
+        {
+          "letter": "D",
+          "text": "Identidad Aditiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. La identidad aditiva es el cero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El elemento neutro multiplicativo garantiza que para cualquier real $a$, $a \\cdot 1 = a$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v3",
+      "statement": "¿Qué propiedad de los números reales se está aplicando al multiplicar un número por su recíproco para obtener 1?",
+      "context": "Un estudiante analiza por qué al multiplicar $5 \\cdot (1/5)$ el resultado es exactamente 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elemento Neutro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El neutro es el resultado, no la propiedad del número operado."
+        },
+        {
+          "letter": "B",
+          "text": "Inverso Multiplicativo",
+          "is_correct": true,
+          "feedback": "Correcto. Todo número real distinto de cero tiene un recíproco que al multiplicarse por él da la unidad."
+        },
+        {
+          "letter": "C",
+          "text": "Propiedad Conmutativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se refiere al orden."
+        },
+        {
+          "letter": "D",
+          "text": "Propiedad Clausurativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Indica que el resultado permanece en los reales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La existencia del inverso multiplicativo (recíproco) es una propiedad de campo de los números reales para todo $a \\neq 0$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v4",
+      "statement": "Al transformar $2(x + 3)$ en $2x + 6$, ¿qué propiedad se ha utilizado?",
+      "context": "Simplificando la expresión $2(x + 3)$ en un cuaderno de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Propiedad Distributiva",
+          "is_correct": true,
+          "feedback": "Correcto. La multiplicación se distribuyó sobre cada término de la suma."
+        },
+        {
+          "letter": "B",
+          "text": "Propiedad Asociativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hubo cambios en el agrupamiento de operaciones iguales."
+        },
+        {
+          "letter": "C",
+          "text": "Propiedad Conmutativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los términos mantienen su orden relativo."
+        },
+        {
+          "letter": "D",
+          "text": "Propiedad de Identidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se operó con el elemento neutro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La propiedad distributiva vincula la multiplicación con la suma: $a(b+c) = ab + ac$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la distancia total en grados entre ambas mediciones en la recta numérica?",
+      "context": "En un laboratorio en San Cristóbal, se miden temperaturas extremas de $-15.5$ °C y $22.3$ °C.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6.8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Has restado los valores absolutos en lugar de sumarlos."
+        },
+        {
+          "letter": "B",
+          "text": "37.8",
+          "is_correct": true,
+          "feedback": "Correcto. $|22.3 - (-15.5)| = 22.3 + 15.5 = 37.8$."
+        },
+        {
+          "letter": "C",
+          "text": "-37.8",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distancia siempre es una magnitud positiva."
+        },
+        {
+          "letter": "D",
+          "text": "7.2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la suma decimal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La distancia entre dos puntos $a$ y $b$ en la recta real se calcula con el valor absoluto de su diferencia: $|a - b|$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v6",
+      "statement": "Si el radio es de 10 metros, ¿cuál es el área aproximada ($A = \\pi r^2$)?",
+      "context": "Un agrimensor en La Romana calcula el área de un terreno circular usando la aproximación racional de $\\pi \\approx 3.14$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "31.4 m2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste elevar el radio al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "314 m2",
+          "is_correct": true,
+          "feedback": "Correcto. $3.14 \\cdot 10^2 = 3.14 \\cdot 100 = 314$."
+        },
+        {
+          "letter": "C",
+          "text": "628 m2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Has multiplicado por 2 en lugar de elevar al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "3,140 m2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en el desplazamiento del punto decimal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se aplica la jerarquía de operaciones: primero la potencia ($10^2 = 100$) y luego la multiplicación por la constante real.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de los siguientes números se encuentra entre $1/2$ y $3/4$?",
+      "context": "Se discute la densidad de los números reales en un aula de Puerto Plata.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.45",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es menor que 0.5 (1/2)."
+        },
+        {
+          "letter": "B",
+          "text": "0.60",
+          "is_correct": true,
+          "feedback": "Correcto. 0.60 está entre 0.50 y 0.75."
+        },
+        {
+          "letter": "C",
+          "text": "0.80",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es mayor que 0.75 (3/4)."
+        },
+        {
+          "letter": "D",
+          "text": "0.25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es mucho menor que el rango solicitado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Convertimos las fracciones a decimales: $1/2 = 0.5$ y $3/4 = 0.75$. El número $0.6$ cae dentro de ese intervalo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v8",
+      "statement": "¿A qué descuento único real equivale aplicar dos veces el 10%?",
+      "context": "Un comerciante en el mercado de San Francisco de Macorís aplica dos descuentos sucesivos del 10%.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los porcentajes sucesivos no se suman linealmente."
+        },
+        {
+          "letter": "B",
+          "text": "19%",
+          "is_correct": true,
+          "feedback": "Correcto. Al aplicar el segundo 10% sobre el 90% restante, se descuenta un 9% adicional (10 + 9 = 19)."
+        },
+        {
+          "letter": "C",
+          "text": "21%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurriría con aumentos, no con descuentos."
+        },
+        {
+          "letter": "D",
+          "text": "10%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignora el segundo paso de la operación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usamos factores multiplicativos: $0.9 \\cdot 0.9 = 0.81$. El descuento es $1 - 0.81 = 0.19$, o sea 19%.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v9",
+      "statement": "¿Qué propiedad de los números reales garantiza que no hay \"espacios vacíos\" en la recta numérica?",
+      "context": "Análisis de la recta numérica en un liceo de Baní.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Propiedad Conmutativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere al orden de operaciones."
+        },
+        {
+          "letter": "B",
+          "text": "Propiedad de Densidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La densidad dice que hay infinitos entre dos, pero los racionales son densos y tienen \"huecos\"."
+        },
+        {
+          "letter": "C",
+          "text": "Propiedad de Completitud",
+          "is_correct": true,
+          "feedback": "Correcto. Los reales completan la recta al incluir todos los puntos posibles (racionales e irracionales)."
+        },
+        {
+          "letter": "D",
+          "text": "Propiedad Clausurativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere a la permanencia en el conjunto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La completitud es lo que diferencia a los reales de los racionales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la longitud de la diagonal ($d = \\sqrt{a^2 + b^2}$)?",
+      "context": "Un arquitecto en Higüey necesita calcular la diagonal de una habitación de 3m por 4m.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Has sumado los lados sin elevar al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "5 m",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$."
+        },
+        {
+          "letter": "C",
+          "text": "25 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste extraer la raíz cuadrada final."
+        },
+        {
+          "letter": "D",
+          "text": "4.5 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de cálculo en las potencias."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se aplica el teorema de Pitágoras sobre números reales enteros.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v11",
+      "statement": "¿Para qué valores de $x$ se cumple que $|x| = -x$?",
+      "context": "Un estudiante evalúa la validez de operaciones con valor absoluto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para todos los reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para positivos, |x| = x."
+        },
+        {
+          "letter": "B",
+          "text": "Para ningún real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para negativos sí se cumple."
+        },
+        {
+          "letter": "C",
+          "text": "Para los números reales negativos y el cero.",
+          "is_correct": true,
+          "feedback": "Correcto. Si x es negativo, -x es positivo, igualando al valor absoluto."
+        },
+        {
+          "letter": "D",
+          "text": "Solo para x = 0.",
+          "is_correct": false,
+          "feedback": "Incorrecto. También se cumple para -1, -2, etc."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Por definición, $|x| = -x$ si $x \\leq 0$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el resultado simplificado?",
+      "context": "Simplificación de la expresión $(2 + \\sqrt{2}) - (1 - \\sqrt{2})$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los radicales no se cancelan, se suman."
+        },
+        {
+          "letter": "B",
+          "text": "$1 + 2\\sqrt{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. $2 - 1 = 1$ y $\\sqrt{2} - (-\\sqrt{2}) = 2\\sqrt{2}$."
+        },
+        {
+          "letter": "C",
+          "text": "$3 + 2\\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la resta de los enteros."
+        },
+        {
+          "letter": "D",
+          "text": "$1 - 2\\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la operación con radicales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Agrupamos términos semejantes: enteros con enteros y radicales con radicales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es el valor final de la expresión?",
+      "context": "Un estudiante en Moca simplifica potencias de base negativa: $(-2)^3 + (-2)^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Has ignorado los signos negativos de las bases."
+        },
+        {
+          "letter": "B",
+          "text": "-4",
+          "is_correct": true,
+          "feedback": "Correcto. $(-8) + (4) = -4$."
+        },
+        {
+          "letter": "C",
+          "text": "-12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la potencia par."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la potencia impar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Potencia impar de base negativa es negativa; potencia par de base negativa es positiva.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál de las siguientes desigualdades es verdadera?",
+      "context": "Se analiza el orden de los números reales en San Juan de la Maguana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-5 > -2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En negativos, el de mayor valor absoluto es menor."
+        },
+        {
+          "letter": "B",
+          "text": "$-1/2 > -3/4$",
+          "is_correct": true,
+          "feedback": "Correcto. -0.5 es mayor que -0.75 por estar más a la derecha."
+        },
+        {
+          "letter": "C",
+          "text": "$0.3 < 0.29$",
+          "is_correct": false,
+          "feedback": "Incorrecto. 0.30 es mayor que 0.29."
+        },
+        {
+          "letter": "D",
+          "text": "$\\pi < 3.14$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pi es aproximadamente 3.14159..."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la recta numérica, un número es mayor que otro si se encuentra a su derecha.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es el resultado siguiendo la jerarquía?",
+      "context": "Un estudiante resuelve la operación: $10 - [2 \\cdot (-3) + 4]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en los signos dentro del corchete."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": true,
+          "feedback": "Correcto. $10 - [-6 + 4] = 10 - [-2] = 10 + 2 = 12$."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error total en el procedimiento."
+        },
+        {
+          "letter": "D",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste mal los términos finales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se resuelve primero lo interno al corchete (multiplicación antes que suma) y luego la resta exterior.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v16",
+      "statement": "¿Qué conjunto es una extensión de los reales para incluir raíces de negativos?",
+      "context": "Análisis de conjuntos infinitos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enteros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Subconjunto de reales."
+        },
+        {
+          "letter": "B",
+          "text": "Racionales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Subconjunto de reales."
+        },
+        {
+          "letter": "C",
+          "text": "Complejos",
+          "is_correct": true,
+          "feedback": "Correcto. Incluyen la unidad imaginaria."
+        },
+        {
+          "letter": "D",
+          "text": "Naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Subconjunto muy pequeño."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los complejos permiten resolver $x^2 + 1 = 0$, imposible en los reales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v17",
+      "statement": "¿Qué afirma la propiedad arquimediana de los reales?",
+      "context": "Análisis avanzado en la UASD sobre la propiedad de Arquímedes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que todo real tiene raíz cuadrada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo los no negativos."
+        },
+        {
+          "letter": "B",
+          "text": "Que dado cualquier real, existe un natural mayor.",
+          "is_correct": true,
+          "feedback": "Correcto. El conjunto de los naturales no está acotado en los reales."
+        },
+        {
+          "letter": "C",
+          "text": "Que los reales son finitos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son infinitos."
+        },
+        {
+          "letter": "D",
+          "text": "Que no existen los irracionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Afirmación falsa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Garantiza que no hay números reales \"infinitamente grandes\" comparados con los naturales.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v18",
+      "statement": "Si $a \\cdot b = 0$, ¿qué propiedad de los reales nos permite concluir algo sobre $a$ o $b$?",
+      "context": "Reflexión sobre la multiplicación por cero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Propiedad Conmutativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere al orden."
+        },
+        {
+          "letter": "B",
+          "text": "Propiedad del Producto Cero",
+          "is_correct": true,
+          "feedback": "Correcto. Indica que al menos uno de los factores debe ser cero."
+        },
+        {
+          "letter": "C",
+          "text": "Propiedad Asociativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere a grupos."
+        },
+        {
+          "letter": "D",
+          "text": "Propiedad Clausurativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere al conjunto resultado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Es fundamental para resolver ecuaciones factorizadas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v19",
+      "statement": "¿Hacia qué número real converge la sucesión $1, 0.1, 0.01, 0.001, ...$?",
+      "context": "Un problema de límites: ¿A qué valor se acerca $1/n$ cuando $n$ crece mucho?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores están disminuyendo."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": true,
+          "feedback": "Correcto. Los términos se hacen infinitamente pequeños."
+        },
+        {
+          "letter": "C",
+          "text": "Infinito",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se están acercando a un valor central."
+        },
+        {
+          "letter": "D",
+          "text": "-1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los términos son positivos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Concepto de límite fundamental en el análisis de los números reales.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    },
+    {
+      "id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle-v20",
+      "statement": "¿Por qué $\\sqrt{2}$ se considera un número real si no es una fracción exacta?",
+      "context": "¿Es $\\sqrt{2}$ un número real?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No es real, es imaginario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su cuadrado es positivo (2)."
+        },
+        {
+          "letter": "B",
+          "text": "Porque pertenece al conjunto de los irracionales, y los reales incluyen a estos.",
+          "is_correct": true,
+          "feedback": "Correcto. Los reales son la unión de racionales e irracionales."
+        },
+        {
+          "letter": "C",
+          "text": "Porque se puede redondear a 1.41.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El redondeo no define la pertenencia al conjunto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque es un número entero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiene decimales infinitos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La estructura de los reales engloba a todos los números de la recta continua.\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Context | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "DO-MAT-11-2026-W02-numeros-reales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "do"
+    }
+  ]
+}

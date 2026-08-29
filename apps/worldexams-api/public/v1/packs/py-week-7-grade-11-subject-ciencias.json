@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "py",
+    "pack_id": "py-week-7-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-05T19:40:28.848Z"
+  },
+  "questions": [
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v1",
+      "statement": "¿Qué enlace covalente une el grupo fosfato del carbono 5' de un nucleótido al grupo hidroxilo del carbono 3' del siguiente nucleótido?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Santiago y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace fosfodiéster",
+          "is_correct": true,
+          "feedback": "¡Correcto! Enlace fosfodiéster responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Puente de hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Puente de hidrógeno no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La ADN ligasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ADN ligasa es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Adenina y Guanina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Adenina y Guanina describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Enlace fosfodiéster constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v2",
+      "statement": "¿Qué bases nitrogenadas pertenecen a la familia de las purinas, caracterizadas por una estructura química de doble anillo de carbono y nitrógeno?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Gladys y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adenina y Guanina",
+          "is_correct": true,
+          "feedback": "¡Correcto! Adenina y Guanina responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Difracción de rayos X",
+          "is_correct": false,
+          "feedback": "Incorrecto. Difracción de rayos X no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Tres puentes de hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tres puentes de hidrógeno es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "El uracilo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uracilo describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Adenina y Guanina constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v3",
+      "statement": "¿Qué ley establece que en cualquier molécula de ADN bicatenario la proporción de Adenina es igual a la de Timina y la de Citosina a la de Guanina?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Santiago y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ley de Chargaff",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ley de Chargaff responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "El modelo conservativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modelo conservativo no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Enlace fosfodiéster",
+          "is_correct": false,
+          "feedback": "Incorrecto. Enlace fosfodiéster es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La primasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primasa describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La ley de Chargaff constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.79,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v4",
+      "statement": "¿En qué dirección cardinal la ADN polimerasa cataliza de forma obligatoria la adición de nucleótidos complementarios?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Jorge y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dirección 5' a 3'",
+          "is_correct": true,
+          "feedback": "¡Correcto! Dirección 5' a 3' responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Fragmentos de Okazaki",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fragmentos de Okazaki no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La primasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primasa es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Enlace fosfodiéster",
+          "is_correct": false,
+          "feedback": "Incorrecto. Enlace fosfodiéster describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Dirección 5' a 3' constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.76,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v5",
+      "statement": "¿Qué enzima se encarga de separar y desenrollar las dos cadenas de la doble hélice de ADN rompiendo los puentes de hidrógeno?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Jorge y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La helicasa",
+          "is_correct": true,
+          "feedback": "¡Correcto! La helicasa responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace fosfodiéster",
+          "is_correct": false,
+          "feedback": "Incorrecto. Enlace fosfodiéster no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "El uracilo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uracilo es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La ley de Chargaff",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ley de Chargaff describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La helicasa constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v6",
+      "statement": "¿Cómo se denominan los fragmentos de ADN que se sintetizan de forma discontinua en la cadena retrasada durante la replicación?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Joaquín y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fragmentos de Okazaki",
+          "is_correct": true,
+          "feedback": "¡Correcto! Fragmentos de Okazaki responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La ADN ligasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ADN ligasa no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "El dATP (desoxiadenosina trifosfato)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dATP (desoxiadenosina trifosfato) es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La helicasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La helicasa describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Fragmentos de Okazaki constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v7",
+      "statement": "¿Qué enzima sintetiza un corto cebador de ARN complementario indispensable para que la ADN polimerasa inicie la síntesis?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Liz y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primasa",
+          "is_correct": true,
+          "feedback": "¡Correcto! La primasa responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La topoisomerasa (o girasa)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La topoisomerasa (o girasa) no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La helicasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La helicasa es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Dirección 5' a 3'",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dirección 5' a 3' describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La primasa constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.67,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v8",
+      "statement": "¿Qué enzima une covalentemente los extremos de los fragmentos de Okazaki catalizando la formación del enlace fosfodiéster final?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, María y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ADN ligasa",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ADN ligasa responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Dirección 5' a 3'",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dirección 5' a 3' no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La ley de Chargaff",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ley de Chargaff es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Puente de hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Puente de hidrógeno describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La ADN ligasa constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.64,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v9",
+      "statement": "¿Qué enzima alivia la tensión torsional del ADN por delante de la horquilla de replicación introduciendo cortes transitorios?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Liz y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La topoisomerasa (o girasa)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La topoisomerasa (o girasa) responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "El telómero",
+          "is_correct": false,
+          "feedback": "Incorrecto. El telómero no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Dirección 5' a 3'",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dirección 5' a 3' es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "El uracilo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uracilo describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La topoisomerasa (o girasa) constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.61,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v10",
+      "statement": "¿Qué tipo de proteínas mantienen separadas las hebras de ADN de molde libre impidiendo que se vuelvan a emparejar?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Benjamín y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proteínas de unión a hebra sencilla (SSB)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Proteínas de unión a hebra sencilla (SSB) responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Difracción de rayos X",
+          "is_correct": false,
+          "feedback": "Incorrecto. Difracción de rayos X no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Dirección 5' a 3'",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dirección 5' a 3' es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "El modelo conservativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modelo conservativo describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Proteínas de unión a hebra sencilla (SSB) constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.58,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v11",
+      "statement": "¿Cómo se denomina la región del cromosoma eucariota rica en secuencias repetitivas que se acorta progresivamente con cada división celular?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Martina y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El telómero",
+          "is_correct": true,
+          "feedback": "¡Correcto! El telómero responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "El uracilo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uracilo no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Desoxirribosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Desoxirribosa es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La ADN polimerasa I",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ADN polimerasa I describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de El telómero constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v12",
+      "statement": "¿Qué enzima con actividad de transcriptasa inversa alarga de manera selectiva los extremos teloméricos en células germinales?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Valentina y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La telomerasa",
+          "is_correct": true,
+          "feedback": "¡Correcto! La telomerasa responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La ley de Chargaff",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ley de Chargaff no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Difracción de rayos X",
+          "is_correct": false,
+          "feedback": "Incorrecto. Difracción de rayos X es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Proteínas de unión a hebra sencilla (SSB)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Proteínas de unión a hebra sencilla (SSB) describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La telomerasa constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v13",
+      "statement": "¿Qué base nitrogenada exclusiva del ARN reemplaza a la timina en la complementariedad de bases con la adenina?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Sofía y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uracilo",
+          "is_correct": true,
+          "feedback": "¡Correcto! El uracilo responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La ADN ligasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ADN ligasa no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Fragmentos de Okazaki",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fragmentos de Okazaki es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "El telómero",
+          "is_correct": false,
+          "feedback": "Incorrecto. El telómero describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de El uracilo constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.49,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v14",
+      "statement": "¿Qué tipo de enlace químico mantiene unidas de forma específica las dos hebras antiparalelas del ADN en el centro de la hélice?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Jorge y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Puente de hidrógeno",
+          "is_correct": true,
+          "feedback": "¡Correcto! Puente de hidrógeno responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "El dATP (desoxiadenosina trifosfato)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dATP (desoxiadenosina trifosfato) no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "El telómero",
+          "is_correct": false,
+          "feedback": "Incorrecto. El telómero es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La ADN polimerasa I",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ADN polimerasa I describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Puente de hidrógeno constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.46,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v15",
+      "statement": "¿Cuántos puentes de hidrógeno se forman de manera complementaria entre un par de base nitrogenada de Citosina y Guanina?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Ramón y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tres puentes de hidrógeno",
+          "is_correct": true,
+          "feedback": "¡Correcto! Tres puentes de hidrógeno responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "El telómero",
+          "is_correct": false,
+          "feedback": "Incorrecto. El telómero no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Fragmentos de Okazaki",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fragmentos de Okazaki es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La primasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primasa describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Tres puentes de hidrógeno constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v16",
+      "statement": "¿Qué azúcar pentosa posee la estructura química del nucleótido de ADN en comparación con la ribosa del ARN?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Florencia y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desoxirribosa",
+          "is_correct": true,
+          "feedback": "¡Correcto! Desoxirribosa responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La telomerasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La telomerasa no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La ADN polimerasa I",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ADN polimerasa I es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Puente de hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Puente de hidrógeno describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Desoxirribosa constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.4,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v17",
+      "statement": "¿Qué técnica de difracción de rayos X realizada por Rosalind Franklin fue clave para resolver la estructura tridimensional del ADN?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Ramón y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Difracción de rayos X",
+          "is_correct": true,
+          "feedback": "¡Correcto! Difracción de rayos X responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La primasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primasa no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "La helicasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La helicasa es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "Tres puentes de hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tres puentes de hidrógeno describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de Difracción de rayos X constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.37,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v18",
+      "statement": "¿Qué modelo de replicación fue descartado experimentalmente al demostrarse que cada hebra hija contiene una hebra original?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Gladys y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El modelo conservativo",
+          "is_correct": true,
+          "feedback": "¡Correcto! El modelo conservativo responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La helicasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La helicasa no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "Puente de hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Puente de hidrógeno es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La topoisomerasa (o girasa)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La topoisomerasa (o girasa) describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de El modelo conservativo constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.34,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v19",
+      "statement": "¿Qué nucleótido trifosfato aporta tanto la base nitrogenada Adenina como la energía para la polimerización del ADN?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Martina y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El dATP (desoxiadenosina trifosfato)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El dATP (desoxiadenosina trifosfato) responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "Dirección 5' a 3'",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dirección 5' a 3' no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "El telómero",
+          "is_correct": false,
+          "feedback": "Incorrecto. El telómero es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La topoisomerasa (o girasa)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La topoisomerasa (o girasa) describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de El dATP (desoxiadenosina trifosfato) constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.31,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    },
+    {
+      "id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-v20",
+      "statement": "¿Qué enzima remueve y degrada los cebadores de ARN reemplazándolos con nucleótidos de ADN durante la replicación?",
+      "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Joaquín y su grupo investigan sobre ADN: estructura y replicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ADN polimerasa I",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ADN polimerasa I responde perfectamente a la base teórica correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "La helicasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La helicasa no se relaciona directamente con esta pregunta o describe otra función."
+        },
+        {
+          "letter": "C",
+          "text": "El modelo conservativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modelo conservativo es un concepto diferente de la unidad temática."
+        },
+        {
+          "letter": "D",
+          "text": "La topoisomerasa (o girasa)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La topoisomerasa (o girasa) describe un proceso o componente distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El concepto de La ADN polimerasa I constituye un fundamento esencial para comprender los procesos analizados en la unidad de ADN: estructura y replicación.",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.28,
+      "bundle_id": "PY-CIE-11-2026-W07-tema-w07-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "py"
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-23-grade-10-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.581Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-10-2026-W23-global-citizenship-001-MASTERY-v1",
+      "statement": "\"The teacher asked us ____ we understood the concept of global responsibility.\"",
+      "context": "Reporting a teacher's question.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "Incorrect for questions."
+        },
+        {
+          "letter": "B",
+          "text": "if",
+          "is_correct": true,
+          "feedback": "Correct. 'If' or 'whether' is used to report yes/no questions."
+        },
+        {
+          "letter": "C",
+          "text": "what",
+          "is_correct": false,
+          "feedback": "Incorrect meaning."
+        },
+        {
+          "letter": "D",
+          "text": "when",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In Reported Speech, yes/no questions are introduced with 'if' or 'whether'.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-10-2026-W23-global-citizenship-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W23-global-citizenship-001-MASTERY-v2",
+      "statement": "\"The organizer told the volunteers ____ the participants at the entrance.\"",
+      "context": "Reporting a formal request.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "meeting",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "to meet",
+          "is_correct": true,
+          "feedback": "Correct. Reported commands/requests use 'to + infinitive'."
+        },
+        {
+          "letter": "C",
+          "text": "that meet",
+          "is_correct": false,
+          "feedback": "Incorrect syntax."
+        },
+        {
+          "letter": "D",
+          "text": "meet",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reported commands, requests, and instructions use the structure: reporting verb + object + (not) to + infinitive.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.84,
+      "bundle_id": "CO-ING-10-2026-W23-global-citizenship-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W23-global-citizenship-001-MASTERY-v3",
+      "statement": "\"Juan asked me ____ I had ever participated in an international youth summit.\"",
+      "context": "Reporting a classmate's inquiry.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "whether",
+          "is_correct": true,
+          "feedback": "Correct. Introduces a yes/no reported question."
+        },
+        {
+          "letter": "B",
+          "text": "where",
+          "is_correct": false,
+          "feedback": "Incorrect meaning."
+        },
+        {
+          "letter": "C",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "did",
+          "is_correct": false,
+          "feedback": "Incorrect reported question structure."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Whether' is a more formal alternative to 'if' in reported questions.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Part 2 - Lexical Knowledge",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-10-2026-W23-global-citizenship-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W23-global-citizenship-001-MASTERY-v4",
+      "statement": "\"The journalist inquired ____ the leaders ____ to sign the treaty.\"",
+      "context": "A news report on a diplomatic meeting.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "if / are going",
+          "is_correct": false,
+          "feedback": "Incorrect backshifting."
+        },
+        {
+          "letter": "B",
+          "text": "whether / were going",
+          "is_correct": true,
+          "feedback": "Correct. Backshift from 'are going' to 'were going'."
+        },
+        {
+          "letter": "C",
+          "text": "that / will",
+          "is_correct": false,
+          "feedback": "Incorrect for questions."
+        },
+        {
+          "letter": "D",
+          "text": "when / had",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Backshifting is required in reported questions when the reporting verb is in the past (inquired).\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-10-2026-W23-global-citizenship-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W23-global-citizenship-001-MASTERY-v5",
+      "statement": "\"The project leader warned us ____ any confidential information with outsiders.\"",
+      "context": "A supervisor giving instructions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "don't share",
+          "is_correct": false,
+          "feedback": "Incorrect reported syntax."
+        },
+        {
+          "letter": "B",
+          "text": "not to share",
+          "is_correct": true,
+          "feedback": "Correct negative reported command."
+        },
+        {
+          "letter": "C",
+          "text": "that we not share",
+          "is_correct": false,
+          "feedback": "Possible but B is more standard."
+        },
+        {
+          "letter": "D",
+          "text": "to not share",
+          "is_correct": false,
+          "feedback": "'Not to' is preferred over 'to not'."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Negative commands are reported using 'not to + infinitive'.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.71,
+      "bundle_id": "CO-ING-10-2026-W23-global-citizenship-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W23-global-citizenship-001-MASTERY-v6",
+      "statement": "\"He asked me ____ my main motivation for joining the NGO ____.\"",
+      "context": "Reporting a question about motivation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "what / is",
+          "is_correct": false,
+          "feedback": "Incorrect backshifting and order."
+        },
+        {
+          "letter": "B",
+          "text": "what / was",
+          "is_correct": true,
+          "feedback": "Correct. WH-word + subject + verb (backshifted)."
+        },
+        {
+          "letter": "C",
+          "text": "what was / my motivation",
+          "is_correct": false,
+          "feedback": "Incorrect word order (question order instead of statement order)."
+        },
+        {
+          "letter": "D",
+          "text": "if / was",
+          "is_correct": false,
+          "feedback": "Incorrect WH-question reporting."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reported WH-questions use the word order of a statement (subject + verb) and require backshifting.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.67,
+      "bundle_id": "CO-ING-10-2026-W23-global-citizenship-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W23-global-citizenship-001-MASTERY-v7",
+      "statement": "\"The delegate asked ____ the committee ____ the proposal by the end of the session.\"",
+      "context": "A delegate asking for clarification.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "if / would review",
+          "is_correct": false,
+          "feedback": "Possible, but B is more precise for completion."
+        },
+        {
+          "letter": "B",
+          "text": "whether / would have reviewed",
+          "is_correct": true,
+          "feedback": "Correct. Backshift from future perfect 'will have reviewed'."
+        },
+        {
+          "letter": "C",
+          "text": "that / will review",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "when / reviewed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "B2 complexity: Reporting questions that involve future completion (Future Perfect).\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.63,
+      "bundle_id": "CO-ING-10-2026-W23-global-citizenship-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W23-global-citizenship-001-MASTERY-v8",
+      "statement": "\"They advised the students ____ more about local customs before traveling abroad.\"",
+      "context": "A text about cultural sensitivity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "learning",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "to learn",
+          "is_correct": true,
+          "feedback": "Correct. 'Advise' + object + to-infinitive."
+        },
+        {
+          "letter": "C",
+          "text": "that they learn",
+          "is_correct": false,
+          "feedback": "Also possible, but B is standard for advice-as-command."
+        },
+        {
+          "letter": "D",
+          "text": "learn",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using 'advise' as a reporting verb for a recommendation/command structure.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.59,
+      "bundle_id": "CO-ING-10-2026-W23-global-citizenship-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W23-global-citizenship-001-MASTERY-v9",
+      "statement": "\"The interviewer wanted to know ____ the leader ____ the impact of the new policy.\"",
+      "context": "Discussing an interview with a global leader.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "how / evaluated",
+          "is_correct": false,
+          "feedback": "Possible, but B is more likely for a past-to-present evaluation."
+        },
+        {
+          "letter": "B",
+          "text": "how / had evaluated",
+          "is_correct": true,
+          "feedback": "Correct. Backshift from past simple or present perfect."
+        },
+        {
+          "letter": "C",
+          "text": "what / evaluates",
+          "is_correct": false,
+          "feedback": "Incorrect backshifting."
+        },
+        {
+          "letter": "D",
+          "text": "if / evaluated",
+          "is_correct": false,
+          "feedback": "Missing the 'how' context."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Using 'wanted to know' as a reporting verb for complex informational questions.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-10-2026-W23-global-citizenship-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W23-global-citizenship-001-MASTERY-v10",
+      "statement": "\"He requested that the meeting ____ postponed until all members ____ available.\"",
+      "context": "A sophisticated reporting of a request.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "be / were",
+          "is_correct": true,
+          "feedback": "Correct. Subjunctive 'be' after 'request' + backshifted 'were'."
+        },
+        {
+          "letter": "B",
+          "text": "is / are",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "was / were",
+          "is_correct": false,
+          "feedback": "Possible but A is more formal/B2."
+        },
+        {
+          "letter": "D",
+          "text": "being / been",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Advanced B2 structure: Reporting a request using the subjunctive 'be' after 'request that'.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 4 - Grammatical Cloze",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-10-2026-W23-global-citizenship-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W23-global-citizenship-001-MASTERY-v11",
+      "statement": "\"The citizens asked ____ the government ____ any action to mitigate the environmental damage.\"",
+      "context": "Reporting a question about future possibilities.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "what / will take",
+          "is_correct": false,
+          "feedback": "Incorrect backshifting."
+        },
+        {
+          "letter": "B",
+          "text": "whether / was going to take",
+          "is_correct": true,
+          "feedback": "Correct. Backshift of 'is going to'."
+        },
+        {
+          "letter": "C",
+          "text": "if / took",
+          "is_correct": false,
+          "feedback": "Incorrect meaning."
+        },
+        {
+          "letter": "D",
+          "text": "that / takes",
+          "is_correct": false,
+          "feedback": "Incorrect for questions."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluating the reporting of intentions and future plans in a social context.\r\n\r\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 7 - Reading Comprehension",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-10-2026-W23-global-citizenship-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-10-2026-W23-global-citizenship-001-MASTERY-v12",
+      "statement": "\"The researcher asked us ____ the results ____ by the time the final report was due.\"",
+      "context": "A complex informational inquiry.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "whether / would have been analyzed",
+          "is_correct": true,
+          "feedback": "Correct. Backshifted Future Perfect Passive in a reported question."
+        },
+        {
+          "letter": "B",
+          "text": "if / were analyzed",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "what / would analyze",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "whether / had been analyzed",
+          "is_correct": false,
+          "feedback": "Incorrect tense for the 'was due' deadline."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mastery level: Reporting a complex passive future perfect question within a past narrative context.\r\n\r\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.35,
+      "bundle_id": "CO-ING-10-2026-W23-global-citizenship-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

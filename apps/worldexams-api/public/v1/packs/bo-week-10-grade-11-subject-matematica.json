@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "bo",
+    "pack_id": "bo-week-10-grade-11-subject-matematicas",
+    "generated_at": "2026-07-28T22:41:04.630Z"
+  },
+  "questions": [
+    {
+      "id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la fórmula para hallar la abscisa del vértice de una función cuadrática de la forma f(x) = ax^2 + bx + c?",
+      "context": "En Santa Cruz, el estudiante Roxana del Colegio Nacional Santa Cruz analiza la concavidad de la función cuadrática de costos de distribución de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = -b / (2a)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La coordenada horizontal del vértice de cualquier parábola está dada por x = -b / (2a)."
+        },
+        {
+          "letter": "B",
+          "text": "x = b / (2a)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste el signo menos en el coeficiente lineal de la fórmula del vértice."
+        },
+        {
+          "letter": "C",
+          "text": "x = -c / (2a)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El numerador requiere al coeficiente lineal b, no al término independiente c."
+        },
+        {
+          "letter": "D",
+          "text": "x = -b / a",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste por a en lugar de 2a, lo cual no define el vértice simétrico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El eje de simetría y la coordenada del vértice x de una función cuadrática se calcula utilizando la relación de coeficientes reales x = -b / (2a).\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.87,
+      "bundle_id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v2",
+      "statement": "Si el coeficiente a del término cuadrático ax^2 en una función cuadrática es negativo (a < 0), ¿cuál es la orientación de la parábola?",
+      "context": "En Cochabamba, el estudiante Jhonny del Colegio Nacional Sucre analiza la concavidad de la función cuadrática de costos de distribución de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es cóncava hacia abajo (las ramas se abren hacia abajo).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al ser a < 0, la parábola se abre hacia abajo y posee un punto máximo absoluto en su vértice."
+        },
+        {
+          "letter": "B",
+          "text": "Es cóncava hacia arriba (las ramas se abren hacia arriba).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las parábolas se abren hacia arriba únicamente cuando el coeficiente cuadrático es positivo (a > 0)."
+        },
+        {
+          "letter": "C",
+          "text": "Es una recta paralela al eje horizontal de abscisas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las funciones cuadráticas describen parábolas curvas de segundo grado, no rectas."
+        },
+        {
+          "letter": "D",
+          "text": "Es una curva asintótica que nunca cruza el eje vertical.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda parábola intercepta al eje y exactamente en el punto (0, c)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El coeficiente cuadrático a define la concavidad de la parábola. Si a < 0, la parábola es cóncava hacia abajo.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v3",
+      "statement": "Dada la función cuadrática f(x) = x^2 - 4x + 5, ¿cuál es la coordenada del vértice en el plano cartesiano?",
+      "context": "En El Alto, el estudiante Marisol del Colegio Nacional El Alto analiza la concavidad de la función cuadrática de costos de distribución de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(2, 1)",
+          "is_correct": true,
+          "feedback": "¡Correcto! x_v = -(-4)/(2*1) = 2. Evaluando f(2) = 2^2 - 4(2) + 5 = 1. Así, el vértice es (2, 1)."
+        },
+        {
+          "letter": "B",
+          "text": "(2, 5)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste calcular de forma correcta la coordenada y del vértice, usando el término c directamente."
+        },
+        {
+          "letter": "C",
+          "text": "(-2, 17)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de signos al calcular x_v, resultando en -2 en lugar de 2."
+        },
+        {
+          "letter": "D",
+          "text": "(4, 5)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste el coeficiente lineal b directamente sin dividir por 2a en el vértice."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coordenada x del vértice es x_v = -b / (2a) = -(-4) / (2 * 1) = 2. Para la coordenada y: y_v = f(2) = 2^2 - 4(2) + 5 = 1. El vértice es (2, 1).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.81,
+      "bundle_id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v4",
+      "statement": "Se modelan las ganancias de una cooperativa minera con la función cuadrática: G(x) = -x^2 + 8x - 7. ¿Para qué valor de x se obtiene la ganancia máxima?",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín analiza la concavidad de la función cuadrática de costos de distribución de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 4",
+          "is_correct": true,
+          "feedback": "¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática."
+        },
+        {
+          "letter": "C",
+          "text": "x = -4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar los signos de los coeficientes en el vértice."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(8) / (2 * -1) = 4.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v5",
+      "statement": "Se modelan las ganancias de una cooperativa minera con la función cuadrática: G(x) = -x^2 + 10x - 16. ¿Para qué valor de x se obtiene la ganancia máxima?",
+      "context": "En Tarija, el estudiante Sonia del Colegio Nacional Bolivar analiza la concavidad de la función cuadrática de costos de distribución de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 5",
+          "is_correct": true,
+          "feedback": "¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática."
+        },
+        {
+          "letter": "C",
+          "text": "x = -5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar los signos de los coeficientes en el vértice."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(10) / (2 * -1) = 5.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v6",
+      "statement": "Se modelan las ganancias de una cooperativa minera con la función cuadrática: G(x) = -x^2 + 12x - 27. ¿Para qué valor de x se obtiene la ganancia máxima?",
+      "context": "En Oruro, el estudiante Ramiro del Colegio Nacional Potosí analiza la concavidad de la función cuadrática de costos de distribución de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 6",
+          "is_correct": true,
+          "feedback": "¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática."
+        },
+        {
+          "letter": "C",
+          "text": "x = -6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar los signos de los coeficientes en el vértice."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(12) / (2 * -1) = 6.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v7",
+      "statement": "Se modelan las ganancias de una cooperativa minera con la función cuadrática: G(x) = -x^2 + 14x - 40. ¿Para qué valor de x se obtiene la ganancia máxima?",
+      "context": "En Potosí, el estudiante Yolanda del Colegio Nacional San Luis analiza la concavidad de la función cuadrática de costos de distribución de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 7",
+          "is_correct": true,
+          "feedback": "¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática."
+        },
+        {
+          "letter": "C",
+          "text": "x = -7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar los signos de los coeficientes en el vértice."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(14) / (2 * -1) = 7.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.69,
+      "bundle_id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v8",
+      "statement": "Se modelan las ganancias de una cooperativa minera con la función cuadrática: G(x) = -x^2 + 16x - 55. ¿Para qué valor de x se obtiene la ganancia máxima?",
+      "context": "En Cobija, el estudiante Jaime del Colegio Nacional Trinidad analiza la concavidad de la función cuadrática de costos de distribución de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 8",
+          "is_correct": true,
+          "feedback": "¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática."
+        },
+        {
+          "letter": "C",
+          "text": "x = -8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar los signos de los coeficientes en el vértice."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(16) / (2 * -1) = 8.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.66,
+      "bundle_id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v9",
+      "statement": "Se modelan las ganancias de una cooperativa minera con la función cuadrática: G(x) = -x^2 + 18x - 72. ¿Para qué valor de x se obtiene la ganancia máxima?",
+      "context": "En Trinidad, el estudiante Marcela del Colegio Nacional Cobija analiza la concavidad de la función cuadrática de costos de distribución de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 9",
+          "is_correct": true,
+          "feedback": "¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática."
+        },
+        {
+          "letter": "C",
+          "text": "x = -9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar los signos de los coeficientes en el vértice."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(18) / (2 * -1) = 9.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.63,
+      "bundle_id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v10",
+      "statement": "Se modelan las ganancias de una cooperativa minera con la función cuadrática: G(x) = -x^2 + 20x - 91. ¿Para qué valor de x se obtiene la ganancia máxima?",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho analiza la concavidad de la función cuadrática de costos de distribución de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 10",
+          "is_correct": true,
+          "feedback": "¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática."
+        },
+        {
+          "letter": "C",
+          "text": "x = -10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar los signos de los coeficientes en el vértice."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(20) / (2 * -1) = 10.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v11",
+      "statement": "Se modelan las ganancias de una cooperativa minera con la función cuadrática: G(x) = -x^2 + 22x - 112. ¿Para qué valor de x se obtiene la ganancia máxima?",
+      "context": "En Santa Cruz, el estudiante Roxana del Colegio Nacional Santa Cruz analiza la concavidad de la función cuadrática de costos de distribución de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 11",
+          "is_correct": true,
+          "feedback": "¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática."
+        },
+        {
+          "letter": "C",
+          "text": "x = -11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar los signos de los coeficientes en el vértice."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(22) / (2 * -1) = 11.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v12",
+      "statement": "Se modelan las ganancias de una cooperativa minera con la función cuadrática: G(x) = -x^2 + 24x - 135. ¿Para qué valor de x se obtiene la ganancia máxima?",
+      "context": "En Cochabamba, el estudiante Jhonny del Colegio Nacional Sucre analiza la concavidad de la función cuadrática de costos de distribución de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 12",
+          "is_correct": true,
+          "feedback": "¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática."
+        },
+        {
+          "letter": "C",
+          "text": "x = -12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar los signos de los coeficientes en el vértice."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(24) / (2 * -1) = 12.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.54,
+      "bundle_id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v13",
+      "statement": "Se modelan las ganancias de una cooperativa minera con la función cuadrática: G(x) = -x^2 + 26x - 160. ¿Para qué valor de x se obtiene la ganancia máxima?",
+      "context": "En El Alto, el estudiante Marisol del Colegio Nacional El Alto analiza la concavidad de la función cuadrática de costos de distribución de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 13",
+          "is_correct": true,
+          "feedback": "¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática."
+        },
+        {
+          "letter": "C",
+          "text": "x = -13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar los signos de los coeficientes en el vértice."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(26) / (2 * -1) = 13.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.51,
+      "bundle_id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v14",
+      "statement": "Se modelan las ganancias de una cooperativa minera con la función cuadrática: G(x) = -x^2 + 28x - 187. ¿Para qué valor de x se obtiene la ganancia máxima?",
+      "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín analiza la concavidad de la función cuadrática de costos de distribución de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 14",
+          "is_correct": true,
+          "feedback": "¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática."
+        },
+        {
+          "letter": "C",
+          "text": "x = -14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar los signos de los coeficientes en el vértice."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(28) / (2 * -1) = 14.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.48,
+      "bundle_id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v15",
+      "statement": "Se modelan las ganancias de una cooperativa minera con la función cuadrática: G(x) = -x^2 + 30x - 216. ¿Para qué valor de x se obtiene la ganancia máxima?",
+      "context": "En Tarija, el estudiante Sonia del Colegio Nacional Bolivar analiza la concavidad de la función cuadrática de costos de distribución de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 15",
+          "is_correct": true,
+          "feedback": "¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática."
+        },
+        {
+          "letter": "C",
+          "text": "x = -15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar los signos de los coeficientes en el vértice."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(30) / (2 * -1) = 15.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v16",
+      "statement": "Se modelan las ganancias de una cooperativa minera con la función cuadrática: G(x) = -x^2 + 32x - 247. ¿Para qué valor de x se obtiene la ganancia máxima?",
+      "context": "En Oruro, el estudiante Ramiro del Colegio Nacional Potosí analiza la concavidad de la función cuadrática de costos de distribución de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 16",
+          "is_correct": true,
+          "feedback": "¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática."
+        },
+        {
+          "letter": "C",
+          "text": "x = -16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar los signos de los coeficientes en el vértice."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(32) / (2 * -1) = 16.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.42,
+      "bundle_id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v17",
+      "statement": "Se modelan las ganancias de una cooperativa minera con la función cuadrática: G(x) = -x^2 + 34x - 280. ¿Para qué valor de x se obtiene la ganancia máxima?",
+      "context": "En Potosí, el estudiante Yolanda del Colegio Nacional San Luis analiza la concavidad de la función cuadrática de costos de distribución de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 17",
+          "is_correct": true,
+          "feedback": "¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática."
+        },
+        {
+          "letter": "C",
+          "text": "x = -17",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar los signos de los coeficientes en el vértice."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(34) / (2 * -1) = 17.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.39,
+      "bundle_id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v18",
+      "statement": "Se modelan las ganancias de una cooperativa minera con la función cuadrática: G(x) = -x^2 + 36x - 315. ¿Para qué valor de x se obtiene la ganancia máxima?",
+      "context": "En Cobija, el estudiante Jaime del Colegio Nacional Trinidad analiza la concavidad de la función cuadrática de costos de distribución de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 18",
+          "is_correct": true,
+          "feedback": "¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática."
+        },
+        {
+          "letter": "C",
+          "text": "x = -18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar los signos de los coeficientes en el vértice."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(36) / (2 * -1) = 18.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.36,
+      "bundle_id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v19",
+      "statement": "Se modelan las ganancias de una cooperativa minera con la función cuadrática: G(x) = -x^2 + 38x - 352. ¿Para qué valor de x se obtiene la ganancia máxima?",
+      "context": "En Trinidad, el estudiante Marcela del Colegio Nacional Cobija analiza la concavidad de la función cuadrática de costos de distribución de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 19",
+          "is_correct": true,
+          "feedback": "¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática."
+        },
+        {
+          "letter": "C",
+          "text": "x = -19",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar los signos de los coeficientes en el vértice."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(38) / (2 * -1) = 19.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.33,
+      "bundle_id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    },
+    {
+      "id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle-v20",
+      "statement": "Se modelan las ganancias de una cooperativa minera con la función cuadrática: G(x) = -x^2 + 40x - 391. ¿Para qué valor de x se obtiene la ganancia máxima?",
+      "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho analiza la concavidad de la función cuadrática de costos de distribución de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = 20",
+          "is_correct": true,
+          "feedback": "¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "x = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática."
+        },
+        {
+          "letter": "C",
+          "text": "x = -20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al aplicar los signos de los coeficientes en el vértice."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(40) / (2 * -1) = 20.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.3,
+      "bundle_id": "BO-MAT-11-2026-W10-tema-w10-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "bo"
+    }
+  ]
+}

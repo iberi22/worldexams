@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "gq",
+    "pack_id": "gq-week-1-grade-11-subject-matematicas",
+    "generated_at": "2026-06-18T23:58:38.751Z"
+  },
+  "questions": [
+    {
+      "id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v1",
+      "statement": "¿A que conjunto numerico pertenece el numero $\\sqrt{2}$, que representa la relacion entre la diagonal y el lado de una baldosa cuadrada en el Mercado Central de Malabo?",
+      "context": "En una tienda en Malabo, se venden sacos de arroz. Un comerciante quiere clasificar los precios de los productos segun el conjunto numerico al que pertenecen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Numeros Naturales ($\\mathbb{N}$)",
+          "is_correct": false,
+          "feedback": "Los naturales son enteros positivos para contar, y la raiz cuadrada de 2 no es un entero."
+        },
+        {
+          "letter": "B",
+          "text": "Numeros Enteros ($\\mathbb{Z}$)",
+          "is_correct": false,
+          "feedback": "Los enteros incluyen negativos y el cero, pero no numeros con decimales infinitos no periodicos."
+        },
+        {
+          "letter": "C",
+          "text": "Numeros Racionales ($\\mathbb{Q}$)",
+          "is_correct": false,
+          "feedback": "Los racionales se pueden expresar como fraccion, pero la raiz de 2 es irracional."
+        },
+        {
+          "letter": "D",
+          "text": "Numeros Irracionales ($\\mathbb{I}$)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La raiz cuadrada de 2 no puede expresarse como una fraccion de dos enteros."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los numeros irracionales son aquellos que no pueden ser expresados como el cociente de dos numeros enteros. Su expresion decimal es infinita y no periodica. $\\sqrt{2}$ es el ejemplo clasico de un numero irracional que surge en la geometria.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v2",
+      "statement": "¿Cual de las siguientes expresiones representa correctamente la propiedad asociativa de la suma para los numeros reales $a, b, c$?",
+      "context": "Un estudiante del Instituto Nacional Enrique Nvó Okenve de Bata repasa las propiedades de la suma en el conjunto de los numeros reales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a + b = b + a$",
+          "is_correct": false,
+          "feedback": "Esta es la propiedad conmutativa, que indica que el orden no altera el resultado."
+        },
+        {
+          "letter": "B",
+          "text": "$(a + b) + c = a + (b + c)$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La propiedad asociativa indica que la forma en que se agrupan los sumandos no cambia la suma."
+        },
+        {
+          "letter": "C",
+          "text": "$a + 0 = a$",
+          "is_correct": false,
+          "feedback": "Esta es la propiedad del elemento neutro o identidad aditiva."
+        },
+        {
+          "letter": "D",
+          "text": "$a \\cdot (b + c) = a \\cdot b + a \\cdot c$",
+          "is_correct": false,
+          "feedback": "Esta es la propiedad distributiva de la multiplicacion respecto a la suma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La propiedad asociativa permite agrupar tres o mas sumandos de diferentes maneras sin que el resultado final cambie. Es fundamental para simplificar operaciones algebraicas complejas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v3",
+      "statement": "El numero $\\pi$ es un numero real. ¿Cual de las siguientes afirmaciones sobre $\\pi$ es verdadera en el contexto de los numeros reales?",
+      "context": "Un arquitecto en Mongomo esta diseñando una plaza circular y necesita utilizar el numero $\\pi$ para los calculos del perimetro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un numero racional porque se puede aproximar como $3.14$.",
+          "is_correct": false,
+          "feedback": "$3.14$ es solo una aproximacion; el valor real de pi tiene infinitos decimales."
+        },
+        {
+          "letter": "B",
+          "text": "Es un numero irracional porque su parte decimal es infinita y no periodica.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Pi es un numero trascendente e irracional fundamental en la geometria."
+        },
+        {
+          "letter": "C",
+          "text": "Es un numero entero porque representa una constante fija.",
+          "is_correct": false,
+          "feedback": "Los enteros no tienen parte decimal, y pi es claramente decimal."
+        },
+        {
+          "letter": "D",
+          "text": "No es un numero real.",
+          "is_correct": false,
+          "feedback": "Pi pertenece al conjunto de los numeros reales, especificamente a los irracionales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los numeros irracionales, como $\\pi$, forman parte del conjunto de los numeros reales. Se caracterizan por tener una expansion decimal infinita que no presenta un patron repetitivo o periodo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v4",
+      "statement": "Si las dimensiones de la parcela son $x$ metros de largo y $y$ metros de ancho, ¿que propiedad de los numeros reales garantiza que el area calculada como $x \\cdot y$ sea igual a $y \\cdot x$?",
+      "context": "Un agricultor en Evinayong quiere calcular el area de una parcela rectangular y utiliza la propiedad conmutativa para organizar sus calculos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Propiedad Asociativa",
+          "is_correct": false,
+          "feedback": "La asociativa se refiere a la agrupacion de tres o mas terminos."
+        },
+        {
+          "letter": "B",
+          "text": "Propiedad Distributiva",
+          "is_correct": false,
+          "feedback": "La distributiva relaciona la multiplicacion con la suma."
+        },
+        {
+          "letter": "C",
+          "text": "Propiedad Conmutativa",
+          "is_correct": true,
+          "feedback": "¡Correcto! El orden de los factores no altera el producto en los numeros reales."
+        },
+        {
+          "letter": "D",
+          "text": "Propiedad del Elemento Inverso",
+          "is_correct": false,
+          "feedback": "El inverso se refiere a obtener el neutro mediante una operacion con su opuesto o reciproco."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La propiedad conmutativa de la multiplicacion establece que para cualquier par de numeros reales $a$ y $b$, el resultado de $a \\cdot b$ es siempre igual a $b \\cdot a$. Esto simplifica mucho el calculo de areas y otras magnitudes fisicas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v5",
+      "statement": "¿Que significa que el conjunto de los numeros reales sea \"denso\"?",
+      "context": "Durante una clase en el Liceo Leoncio May de Malabo, el profesor explica la densidad de los numeros reales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que entre dos numeros reales siempre hay un numero natural.",
+          "is_correct": false,
+          "feedback": "No siempre hay un natural entre dos reales (ej. entre 0.1 y 0.2)."
+        },
+        {
+          "letter": "B",
+          "text": "Que los numeros reales son muy grandes y pesados.",
+          "is_correct": false,
+          "feedback": "\"Denso\" en matematicas no se refiere al peso fisico."
+        },
+        {
+          "letter": "C",
+          "text": "Que entre cualquier par de numeros reales distintos siempre existe otro numero real.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Esta propiedad implica que no hay \"huecos\" en la recta real."
+        },
+        {
+          "letter": "D",
+          "text": "Que solo contiene numeros irracionales.",
+          "is_correct": false,
+          "feedback": "El conjunto incluye racionales e irracionales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La densidad es una propiedad topologica de los numeros reales. Significa que no importa que tan cerca esten dos numeros reales, siempre es posible encontrar un numero (de hecho, infinitos) situado entre ellos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.72,
+      "bundle_id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v6",
+      "statement": "Si el comerciante calcula el costo como $(1000 + 2000) \\cdot 1.15$ o como $1000 \\cdot 1.15 + 2000 \\cdot 1.15$, ¿que propiedad de los numeros reales esta aplicando para obtener el mismo resultado?",
+      "context": "Un comerciante en Ebebiyin debe calcular el costo total de varios articulos aplicando un impuesto del $15\\%$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Asociativa",
+          "is_correct": false,
+          "feedback": "La asociativa cambia la agrupacion, no distribuye un factor sobre una suma."
+        },
+        {
+          "letter": "B",
+          "text": "Conmutativa",
+          "is_correct": false,
+          "feedback": "La conmutativa cambia el orden, no la estructura de la operacion."
+        },
+        {
+          "letter": "C",
+          "text": "Distributiva",
+          "is_correct": true,
+          "feedback": "¡Correcto! El factor 1.15 se distribuye sobre cada sumando dentro del parentesis."
+        },
+        {
+          "letter": "D",
+          "text": "Elemento Neutro",
+          "is_correct": false,
+          "feedback": "El neutro no altera el valor del numero original."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La propiedad distributiva establece que $a \\cdot (b + c) = a \\cdot b + a \\cdot c$. Es esencial en el algebra para expandir expresiones y en la vida diaria para realizar calculos mentales rapidos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v7",
+      "statement": "¿Cual es el elemento inverso aditivo (opuesto) del numero real $-15.5$?",
+      "context": "En la construccion de una carretera entre Bata y Mbini, se requiere calcular el inverso aditivo de una variacion de altura de $-15.5$ metros para equilibrar el terreno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{15.5}$",
+          "is_correct": false,
+          "feedback": "Este seria el inverso multiplicativo o reciproco."
+        },
+        {
+          "letter": "B",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": "Cero es el elemento neutro aditivo."
+        },
+        {
+          "letter": "C",
+          "text": "$15.5$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sumar un numero con su opuesto da como resultado el neutro aditivo (cero)."
+        },
+        {
+          "letter": "D",
+          "text": "$-1$",
+          "is_correct": false,
+          "feedback": "$-1$ es el elemento neutro de la multiplicacion cambiado de signo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para cada numero real $a$, existe un unico numero $-a$ tal que $a + (-a) = 0$. Este numero se llama opuesto o inverso aditivo. En este caso, $-(-15.5) = 15.5$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v8",
+      "statement": "¿Cual es el elemento inverso multiplicativo (reciproco) del numero real $0.25$?",
+      "context": "Un oceanografo en la isla de Annobon mide la salinidad del agua y necesita encontrar el inverso multiplicativo de un factor de dilucion igual a $0.25$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-0.25$",
+          "is_correct": false,
+          "feedback": "Este es el opuesto o inverso aditivo."
+        },
+        {
+          "letter": "B",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "El 1 es el elemento neutro multiplicativo."
+        },
+        {
+          "letter": "C",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": "El cero no tiene inverso multiplicativo."
+        },
+        {
+          "letter": "D",
+          "text": "$4$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $0.25 \\cdot 4 = 1$. El reciproco de 0.25 (o 1/4) es 4."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para cada numero real $a \\neq 0$, existe un numero $1/a$ tal que $a \\cdot (1/a) = 1$. Como $0.25 = 1/4$, su reciproco es $4/1$, es decir, $4$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v9",
+      "statement": "Si un conjunto $S$ esta formado por todos los numeros reales $x$ tales que $1 < x \\le 5$, ¿como se clasifica este subconjunto de los numeros reales?",
+      "context": "Un cientifico en el Parque Nacional de Monte Alen estudia la relacion entre la temperatura y la altitud, encontrando valores que pertenecen a distintos subconjuntos de los reales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Intervalo abierto",
+          "is_correct": false,
+          "feedback": "Un intervalo abierto no incluiria el extremo 5."
+        },
+        {
+          "letter": "B",
+          "text": "Intervalo cerrado",
+          "is_correct": false,
+          "feedback": "Un intervalo cerrado incluiria el extremo 1."
+        },
+        {
+          "letter": "C",
+          "text": "Intervalo semiabierto (o semicerrado)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Esta abierto en 1 (no lo incluye) y cerrado en 5 (si lo incluye)."
+        },
+        {
+          "letter": "D",
+          "text": "Conjunto de numeros naturales",
+          "is_correct": false,
+          "feedback": "El intervalo contiene infinitos numeros reales, no solo los enteros entre 1 y 5."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los intervalos son subconjuntos de la recta real. El simbolo $<$ indica que el extremo no pertenece al conjunto (abierto), mientras que $\\le$ indica que el extremo si pertenece (cerrado). Por tanto, $(1, 5]$ es un intervalo semiabierto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v10",
+      "statement": "¿Cual de las siguientes propiedades afirma que los numeros reales pueden ser ordenados de tal manera que para cualquier par de numeros $a$ y $b$, se cumple exactamente una de las siguientes: $a < b, a = b$ o $a > b$?",
+      "context": "Un estudiante compara la velocidad de conexion a internet en Luba y Malabo, representando los datos en la recta numerica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Propiedad de Clausura",
+          "is_correct": false,
+          "feedback": "La clausura dice que la operacion entre dos reales da otro real."
+        },
+        {
+          "letter": "B",
+          "text": "Propiedad de Densidad",
+          "is_correct": false,
+          "feedback": "La densidad se refiere a la existencia de numeros entre otros dos."
+        },
+        {
+          "letter": "C",
+          "text": "Ley de Tricotomia",
+          "is_correct": true,
+          "feedback": "¡Correcto! La tricotomia permite comparar y ordenar cualquier par de numeros reales."
+        },
+        {
+          "letter": "D",
+          "text": "Propiedad Transitiva",
+          "is_correct": false,
+          "feedback": "La transitiva dice que si a < b y b < c, entonces a < c."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Ley de Tricotomia es fundamental para establecer el orden en el conjunto de los numeros reales. Gracias a ella podemos asegurar que la recta real es un conjunto totalmente ordenado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.62,
+      "bundle_id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v11",
+      "statement": "¿Cual es la naturaleza del numero resultante de la suma $\\pi + \\sqrt{3}$?",
+      "context": "En un laboratorio quimico en Bata, se requiere preparar una solucion donde el volumen debe ser exactamente $\\pi + \\sqrt{3}$ litros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un numero racional.",
+          "is_correct": false,
+          "feedback": "La suma de dos irracionales no suele ser racional, y en este caso no lo es."
+        },
+        {
+          "letter": "B",
+          "text": "Es un numero irracional.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La suma de estos dos irracionales especificos resulta en otro numero irracional."
+        },
+        {
+          "letter": "C",
+          "text": "Es un numero entero.",
+          "is_correct": false,
+          "feedback": "Ninguno de los sumandos es cercano a compensar la parte decimal del otro para dar un entero."
+        },
+        {
+          "letter": "D",
+          "text": "No es un numero real.",
+          "is_correct": false,
+          "feedback": "Ambos son reales, por lo que su suma tambien lo es (propiedad de clausura)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Por la propiedad de clausura, la suma de dos numeros reales es siempre un numero real. En el caso de sumar dos irracionales como $\\pi$ y $\\sqrt{3}$, el resultado es un numero real irracional, ya que no existe una forma de expresarlo como fraccion exacta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v12",
+      "statement": "Simplifica la expresion $a \\cdot (b - c) + a \\cdot c$ utilizando las propiedades de los numeros reales.",
+      "context": "Un ingeniero civil en Guinea Ecuatorial calcula la resistencia de una viga usando la expresion $R = a \\cdot (b - c) + a \\cdot c$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a \\cdot b - 2 \\cdot a \\cdot c$",
+          "is_correct": false,
+          "feedback": "Error al distribuir el signo o los terminos."
+        },
+        {
+          "letter": "B",
+          "text": "$a \\cdot (b + c)$",
+          "is_correct": false,
+          "feedback": "No se ha tenido en cuenta el signo negativo de la c original."
+        },
+        {
+          "letter": "C",
+          "text": "$a \\cdot b$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aplicando distributiva queda ab - ac + ac, y los terminos ac se cancelan."
+        },
+        {
+          "letter": "D",
+          "text": "$a + b$",
+          "is_correct": false,
+          "feedback": "Se han eliminado las multiplicaciones de forma incorrecta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Al aplicar la propiedad distributiva: $a(b - c) = ab - ac$. Luego, la expresion completa es $ab - ac + ac$. Por la propiedad del inverso aditivo, $-ac + ac = 0$. Finalmente, $ab + 0 = ab$ por la propiedad del elemento neutro.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v13",
+      "statement": "¿Que propiedad fundamental de los numeros reales permite realizar este cambio en el agrupamiento de los factores sin alterar el resultado final?",
+      "context": "Un analista financiero en Malabo estudia el crecimiento de una inversion y se encuentra con la operacion $x \\cdot (y \\cdot z) = (x \\cdot y) \\cdot z$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Propiedad Asociativa de la Multiplicacion",
+          "is_correct": true,
+          "feedback": "¡Correcto! Define que el orden de agrupacion de los factores no afecta el producto."
+        },
+        {
+          "letter": "B",
+          "text": "Propiedad Conmutativa de la Multiplicacion",
+          "is_correct": false,
+          "feedback": "La conmutativa cambia el orden de los factores, no su agrupacion."
+        },
+        {
+          "letter": "C",
+          "text": "Propiedad Distributiva",
+          "is_correct": false,
+          "feedback": "La distributiva mezcla multiplicacion y suma."
+        },
+        {
+          "letter": "D",
+          "text": "Propiedad de Identidad",
+          "is_correct": false,
+          "feedback": "La identidad se refiere al producto por 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La propiedad asociativa es crucial para manipular expresiones algebraicas y resolver ecuaciones. Nos permite mover los parentesis en productos (o sumas) de varios terminos segun nos convenga para simplificar el calculo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v14",
+      "statement": "¿Cual es el unico numero real que no posee un inverso multiplicativo?",
+      "context": "En una discusion sobre los fundamentos de las matematicas en la UNGE, se analiza la estructura de los numeros reales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El numero 1",
+          "is_correct": false,
+          "feedback": "El inverso de 1 es 1, ya que 1*1 = 1."
+        },
+        {
+          "letter": "B",
+          "text": "El numero -1",
+          "is_correct": false,
+          "feedback": "El inverso de -1 es -1, ya que (-1)*(-1) = 1."
+        },
+        {
+          "letter": "C",
+          "text": "El numero 0",
+          "is_correct": true,
+          "feedback": "¡Correcto! La division por cero no esta definida en los numeros reales."
+        },
+        {
+          "letter": "D",
+          "text": "El numero $\\pi$",
+          "is_correct": false,
+          "feedback": "El inverso de pi es 1/pi, que es un numero real perfectamente valido."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La definicion de inverso multiplicativo para un numero $a$ requiere que $a \\cdot x = 1$. No existe ningun numero real que multiplicado por $0$ de como resultado $1$, por lo tanto, el cero es la unica excepcion en esta propiedad del cuerpo de los reales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v15",
+      "statement": "¿Cual es el elemento neutro para esta operacion $\\oplus$ en el conjunto de los numeros reales?",
+      "context": "Se define una operacion personalizada en el conjunto de los reales para un software de gestion en Mongomo: $a \\oplus b = a + b + 1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": "Si sumamos 0: a + 0 + 1 = a + 1, que no es igual a 'a'."
+        },
+        {
+          "letter": "B",
+          "text": "$-1$",
+          "is_correct": true,
+          "feedback": "¡Correcto! a + (-1) + 1 = a. Por tanto, -1 actua como neutro."
+        },
+        {
+          "letter": "C",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "a + 1 + 1 = a + 2, que no es igual a 'a'."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene elemento neutro",
+          "is_correct": false,
+          "feedback": "Si lo tiene, y es el -1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un elemento neutro $e$ debe cumplir que $a \\oplus e = a$. Sustituyendo en la formula: $a + e + 1 = a$. Al simplificar restando $a$ en ambos lados, obtenemos $e + 1 = 0$, de donde $e = -1$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v16",
+      "statement": "¿Cual es la forma simplificada del numero real $\\sqrt{50}$?",
+      "context": "Un topografo en Annobon mide una distancia como $\\sqrt{50}$ metros y desea simplificarla usando propiedades de los radicales (reales).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10\\sqrt{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto, esto seria la raiz de 500."
+        },
+        {
+          "letter": "B",
+          "text": "$2\\sqrt{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto, esto seria la raiz de 20."
+        },
+        {
+          "letter": "C",
+          "text": "$5\\sqrt{2}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! 50 es 25*2, y la raiz de 25 es 5."
+        },
+        {
+          "letter": "D",
+          "text": "$25\\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto, esto seria la raiz de 1250."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Utilizando la propiedad de la multiplicacion de raices: $\\sqrt{a \\cdot b} = \\sqrt{a} \\cdot \\sqrt{b}$. En este caso, $\\sqrt{50} = \\sqrt{25 \\cdot 2} = \\sqrt{25} \\cdot \\sqrt{2} = 5\\sqrt{2}$. El resultado sigue siendo un numero irracional real.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v17",
+      "statement": "¿Cual de las siguientes afirmaciones es SIEMPRE verdadera sobre los numeros reales?",
+      "context": "Un estudiante de bachillerato avanzado analiza la validez de generalizaciones sobre operaciones con numeros irracionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La suma de dos numeros irracionales es siempre irracional.",
+          "is_correct": false,
+          "feedback": "Falso. Por ejemplo: $\\pi + (-\\pi) = 0$, que es racional."
+        },
+        {
+          "letter": "B",
+          "text": "El producto de dos numeros irracionales es siempre irracional.",
+          "is_correct": false,
+          "feedback": "Falso. Por ejemplo: $\\sqrt{2} \\cdot \\sqrt{2} = 2$, que es racional."
+        },
+        {
+          "letter": "C",
+          "text": "Entre cualquier numero racional y cualquier numero irracional siempre existe otro numero irracional.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Esta es una consecuencia de la densidad de los irracionales en los reales."
+        },
+        {
+          "letter": "D",
+          "text": "El conjunto de los numeros reales es finito.",
+          "is_correct": false,
+          "feedback": "Falso. El conjunto de los numeros reales es infinito no numerable."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aunque los racionales e irracionales tienen propiedades distintas, ambos son densos en los reales. Esto significa que los numeros irracionales estan \"por todas partes\" en la recta real, intercalados con los racionales de forma infinita.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.4,
+      "bundle_id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v18",
+      "statement": "Si un conjunto de numeros reales es acotado superiormente (tiene un limite arriba), ¿que axioma garantiza que existe un \"supremo\" o la menor de todas las cotas superiores en el conjunto de los reales?",
+      "context": "Se plantea un problema de logica matematica sobre la completitud de los numeros reales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Axioma de Distributividad",
+          "is_correct": false,
+          "feedback": "Se refiere a operaciones aritmeticas."
+        },
+        {
+          "letter": "B",
+          "text": "Axioma de Completitud (o del Supremo)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es lo que diferencia a los reales de los racionales (donde hay \"huecos\")."
+        },
+        {
+          "letter": "C",
+          "text": "Axioma de Clausura",
+          "is_correct": false,
+          "feedback": "Se refiere a que el resultado de la operacion se mantiene en el conjunto."
+        },
+        {
+          "letter": "D",
+          "text": "Axioma del Elemento Neutro",
+          "is_correct": false,
+          "feedback": "Se refiere a la existencia del 0 y el 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El axioma de completitud es la propiedad clave que hace que la recta real sea continua y sin huecos. Garantiza que cualquier conjunto acotado tenga un extremo preciso dentro de los propios numeros reales, algo que no ocurre con los numeros racionales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v19",
+      "statement": "La condicion para que un numero $x$ NO pertenezca al intervalo cerrado $[A, B]$ es:",
+      "context": "Un programador en Bata intenta implementar una funcion que detecte numeros reales fuera de un rango de seguridad $[A, B]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\le A$ o $x \\ge B$",
+          "is_correct": false,
+          "feedback": "Esto incluiria los extremos A y B, que si pertenecen al intervalo."
+        },
+        {
+          "letter": "B",
+          "text": "$x < A$ o $x > B$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Son todos los numeros que estan a la izquierda de A o a la derecha de B."
+        },
+        {
+          "letter": "C",
+          "text": "$A < x < B$",
+          "is_correct": false,
+          "feedback": "Esto describe el interior del intervalo, no el exterior."
+        },
+        {
+          "letter": "D",
+          "text": "$x = A$ o $x = B$",
+          "is_correct": false,
+          "feedback": "Esto describe solo los bordes del intervalo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un intervalo cerrado $[A, B]$ incluye a todos los puntos $x$ tales que $A \\le x \\le B$. Por lo tanto, su complemento (lo que esta fuera) son los puntos estrictamente menores que $A$ o estrictamente mayores que $B$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    },
+    {
+      "id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle-v20",
+      "statement": "Si $|x - 3| < 5$, ¿cual es el rango de valores posibles para el numero real $x$?",
+      "context": "Un estudiante reflexiona sobre el valor absoluto como una propiedad de los numeros reales que representa distancia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x < 8$",
+          "is_correct": false,
+          "feedback": "Falta el limite inferior."
+        },
+        {
+          "letter": "B",
+          "text": "$-2 < x < 8$",
+          "is_correct": true,
+          "feedback": "¡Correcto! La distancia entre x y 3 es menor que 5, lo que implica 3-5 < x < 3+5."
+        },
+        {
+          "letter": "C",
+          "text": "$x > -2$",
+          "is_correct": false,
+          "feedback": "Falta el limite superior."
+        },
+        {
+          "letter": "D",
+          "text": "$2 < x < 8$",
+          "is_correct": false,
+          "feedback": "Error en el calculo del limite inferior."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La desigualdad $|x - a| < d$ se traduce como $a - d < x < a + d$. En este caso, $3 - 5 < x < 3 + 5$, lo que resulta en el intervalo $(-2, 8)$. Esto muestra como el valor absoluto define vecindades o entornos en la recta real.\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "GQ-MAT-11-2026-W01-numeros-reales-propiedades-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "gq"
+    }
+  ]
+}

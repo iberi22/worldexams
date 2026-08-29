@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "uy",
+    "pack_id": "uy-week-9-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-04T05:18:14.099Z"
+  },
+  "questions": [
+    {
+      "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la función de las enzimas de restricción (endonucleasas) en la tecnología del ADN recombinante?",
+      "context": "Durante una actividad de laboratorio en el Liceo N° 5 de Mercedes, Gastón analiza enzimas de restricción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cortar el ADN en secuencias de nucleótidos específicas y palindrómicas de manera precisa.",
+          "is_correct": true,
+          "feedback": "Correcto. Las enzimas de restricción cortan el ADN reconociendo secuencias diana de 4 a 8 pares de bases."
+        },
+        {
+          "letter": "B",
+          "text": "Unir de forma covalente azúcares desoxirribosas de diferentes plásmidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La unión covalente de fragmentos de ADN es catalizada por la enzima ligasa."
+        },
+        {
+          "letter": "C",
+          "text": "Duplicar de manera exponencial cadenas de ARN dentro de un termociclador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La duplicación in vitro es realizada por la polimerasa Taq en la PCR, no por endonucleasas."
+        },
+        {
+          "letter": "D",
+          "text": "Degradar las proteínas de la envoltura celular bacteriana antes de la inserción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las membranas o paredes se disuelven mediante detergentes, lisozimas o electroporación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las enzimas de restricción, descubiertas en bacterias como mecanismo de defensa viral, generan extremos cohesivos o romos útiles para clonación. En este contexto, Gastón de Mercedes determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.87,
+      "bundle_id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v2",
+      "statement": "¿Qué propiedad física de las macromoléculas permite separar las dos hebras de la doble hélice de ADN durante el paso de desnaturalización en un ensayo de PCR?",
+      "context": "En la clase práctica del Liceo Piloto en Montevideo, Nicolás y sus compañeros debaten sobre la reacción en cadena de la polimerasa (pcr).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El calor: el incremento de temperatura a ~95 °C rompe los puentes de hidrógeno sin dañar los enlaces fosfodiéster covalentes.",
+          "is_correct": true,
+          "feedback": "Correcto. La desnaturalización térmica separa las hebras de manera reversible en cada ciclo de la PCR."
+        },
+        {
+          "letter": "B",
+          "text": "La fuerza centrífuga a altas velocidades de rotación mecánica de sobremesa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La centrifugación separa componentes por densidad o masa molecular pero no desnaturaliza la doble hélice de ADN."
+        },
+        {
+          "letter": "C",
+          "text": "La acción catalítica de enzimas helicasas termoestables sintéticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La PCR convencional prescinde de helicasas; la separación se logra mediante calor controlado."
+        },
+        {
+          "letter": "D",
+          "text": "El cambio brusco de pH alcalino por adición de hidróxido de sodio concentrado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH químico dañaría irreversiblemente las enzimas Taq polimerasa necesarias para la elongación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La PCR utiliza una ADN polimerasa termoestable (Taq) para resistir ciclos repetidos de altas temperaturas de desnaturalización. En este contexto, Nicolás de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v3",
+      "statement": "Al realizar una electroforesis en gel de agarosa para separar fragmentos de ADN de diferentes longitudes, ¿en qué dirección migran las muestras y por qué?",
+      "context": "Para el proyecto final de ciencias en el Liceo N° 1 Departamental de Mercedes, Belén investiga acerca de electroforesis en gel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacia el polo positivo (ánodo) debido a la carga eléctrica negativa neta de los grupos fosfato del ADN.",
+          "is_correct": true,
+          "feedback": "Correcto. Los fosfatos le otorgan carga negativa constante al ADN, haciendo que migre hacia el ánodo en un campo eléctrico."
+        },
+        {
+          "letter": "B",
+          "text": "Hacia el polo negativo (cátodo) atraído por las cargas positivas de las bases nitrogenadas libres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ADN es atraído por el ánodo (+), no por el cátodo (-) debido a que es un polímero de carácter ácido negativo."
+        },
+        {
+          "letter": "C",
+          "text": "Hacia el fondo del gel por sedimentación gravitatoria dependiente de los azúcares pentosas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad no tiene relevancia en la separación molecular en geles de matriz estrecha."
+        },
+        {
+          "letter": "D",
+          "text": "Se desplazan de manera lateral en círculos concéntricos inducidos por un campo magnético alterno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La electroforesis utiliza corriente continua lineal unidireccional para forzar el avance de las muestras."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la electroforesis, los fragmentos pequeños de ADN se desplazan más rápido a través de la matriz del gel que los fragmentos grandes. En este contexto, Belén de Mercedes determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.79,
+      "bundle_id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la definición correcta de un organismo transgénico en biotecnología moderna?",
+      "context": "Mientras repasa para el examen parcial en Montevideo, Felipe estudia detenidamente organismos transgénicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un organismo vivo que posee un gen exógeno de otra especie incorporado de forma estable en su genoma.",
+          "is_correct": true,
+          "feedback": "Correcto. El transgén es integrado de manera artificial para conferir una característica fenotípica de interés comercial o medicinal."
+        },
+        {
+          "letter": "B",
+          "text": "Un espécimen sometido a radiación ionizante para eliminar selectivamente genes perjudiciales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mutagénesis aleatoria por radiación no constituye transgenia, ya que no introduce genes de otras especies."
+        },
+        {
+          "letter": "C",
+          "text": "Un clon idéntico obtenido por transferencia nuclear de células germinales del mismo individuo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La clonación copia el genoma preexistente; no involucra recombinación interespecífica de genes."
+        },
+        {
+          "letter": "D",
+          "text": "Un híbrido resultante de la fecundación tradicional de dos variedades del mismo cultivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mejoramiento clásico por cruce sexual es un proceso natural que opera dentro de barreras biológicas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La biotecnología genera transgénicos mediante vectores de clonación como plásmidos o virus, planteando debates bioéticos rigurosos. En este contexto, Felipe de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la función de las enzimas de restricción (endonucleasas) en la tecnología del ADN recombinante?",
+      "context": "En el taller de Ciencias Naturales en Mercedes, Juana observa un modelo experimental de enzimas de restricción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cortar el ADN en secuencias de nucleótidos específicas y palindrómicas de manera precisa.",
+          "is_correct": true,
+          "feedback": "Correcto. Las enzimas de restricción cortan el ADN reconociendo secuencias diana de 4 a 8 pares de bases."
+        },
+        {
+          "letter": "B",
+          "text": "Unir de forma covalente azúcares desoxirribosas de diferentes plásmidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La unión covalente de fragmentos de ADN es catalizada por la enzima ligasa."
+        },
+        {
+          "letter": "C",
+          "text": "Duplicar de manera exponencial cadenas de ARN dentro de un termociclador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La duplicación in vitro es realizada por la polimerasa Taq en la PCR, no por endonucleasas."
+        },
+        {
+          "letter": "D",
+          "text": "Degradar las proteínas de la envoltura celular bacteriana antes de la inserción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las membranas o paredes se disuelven mediante detergentes, lisozimas o electroporación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las enzimas de restricción, descubiertas en bacterias como mecanismo de defensa viral, generan extremos cohesivos o romos útiles para clonación. En este contexto, Juana de Mercedes determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.69,
+      "bundle_id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v6",
+      "statement": "¿Qué propiedad física de las macromoléculas permite separar las dos hebras de la doble hélice de ADN durante el paso de desnaturalización en un ensayo de PCR?",
+      "context": "Durante una actividad de laboratorio en el Liceo N° 4 de Montevideo, Ignacio analiza la reacción en cadena de la polimerasa (pcr).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El calor: el incremento de temperatura a ~95 °C rompe los puentes de hidrógeno sin dañar los enlaces fosfodiéster covalentes.",
+          "is_correct": true,
+          "feedback": "Correcto. La desnaturalización térmica separa las hebras de manera reversible en cada ciclo de la PCR."
+        },
+        {
+          "letter": "B",
+          "text": "La fuerza centrífuga a altas velocidades de rotación mecánica de sobremesa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La centrifugación separa componentes por densidad o masa molecular pero no desnaturaliza la doble hélice de ADN."
+        },
+        {
+          "letter": "C",
+          "text": "La acción catalítica de enzimas helicasas termoestables sintéticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La PCR convencional prescinde de helicasas; la separación se logra mediante calor controlado."
+        },
+        {
+          "letter": "D",
+          "text": "El cambio brusco de pH alcalino por adición de hidróxido de sodio concentrado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH químico dañaría irreversiblemente las enzimas Taq polimerasa necesarias para la elongación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La PCR utiliza una ADN polimerasa termoestable (Taq) para resistir ciclos repetidos de altas temperaturas de desnaturalización. En este contexto, Ignacio de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.68,
+      "bundle_id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v7",
+      "statement": "Al realizar una electroforesis en gel de agarosa para separar fragmentos de ADN de diferentes longitudes, ¿en qué dirección migran las muestras y por qué?",
+      "context": "En la clase práctica del Liceo N° 5 en Mercedes, Paula y sus compañeros debaten sobre electroforesis en gel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacia el polo positivo (ánodo) debido a la carga eléctrica negativa neta de los grupos fosfato del ADN.",
+          "is_correct": true,
+          "feedback": "Correcto. Los fosfatos le otorgan carga negativa constante al ADN, haciendo que migre hacia el ánodo en un campo eléctrico."
+        },
+        {
+          "letter": "B",
+          "text": "Hacia el polo negativo (cátodo) atraído por las cargas positivas de las bases nitrogenadas libres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ADN es atraído por el ánodo (+), no por el cátodo (-) debido a que es un polímero de carácter ácido negativo."
+        },
+        {
+          "letter": "C",
+          "text": "Hacia el fondo del gel por sedimentación gravitatoria dependiente de los azúcares pentosas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad no tiene relevancia en la separación molecular en geles de matriz estrecha."
+        },
+        {
+          "letter": "D",
+          "text": "Se desplazan de manera lateral en círculos concéntricos inducidos por un campo magnético alterno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La electroforesis utiliza corriente continua lineal unidireccional para forzar el avance de las muestras."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la electroforesis, los fragmentos pequeños de ADN se desplazan más rápido a través de la matriz del gel que los fragmentos grandes. En este contexto, Paula de Mercedes determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.67,
+      "bundle_id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la definición correcta de un organismo transgénico en biotecnología moderna?",
+      "context": "Para el proyecto final de ciencias en el Liceo Piloto de Montevideo, Diego investiga acerca de organismos transgénicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un organismo vivo que posee un gen exógeno de otra especie incorporado de forma estable en su genoma.",
+          "is_correct": true,
+          "feedback": "Correcto. El transgén es integrado de manera artificial para conferir una característica fenotípica de interés comercial o medicinal."
+        },
+        {
+          "letter": "B",
+          "text": "Un espécimen sometido a radiación ionizante para eliminar selectivamente genes perjudiciales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mutagénesis aleatoria por radiación no constituye transgenia, ya que no introduce genes de otras especies."
+        },
+        {
+          "letter": "C",
+          "text": "Un clon idéntico obtenido por transferencia nuclear de células germinales del mismo individuo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La clonación copia el genoma preexistente; no involucra recombinación interespecífica de genes."
+        },
+        {
+          "letter": "D",
+          "text": "Un híbrido resultante de la fecundación tradicional de dos variedades del mismo cultivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mejoramiento clásico por cruce sexual es un proceso natural que opera dentro de barreras biológicas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La biotecnología genera transgénicos mediante vectores de clonación como plásmidos o virus, planteando debates bioéticos rigurosos. En este contexto, Diego de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la función de las enzimas de restricción (endonucleasas) en la tecnología del ADN recombinante?",
+      "context": "Mientras repasa para el examen parcial en Mercedes, Clara estudia detenidamente enzimas de restricción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cortar el ADN en secuencias de nucleótidos específicas y palindrómicas de manera precisa.",
+          "is_correct": true,
+          "feedback": "Correcto. Las enzimas de restricción cortan el ADN reconociendo secuencias diana de 4 a 8 pares de bases."
+        },
+        {
+          "letter": "B",
+          "text": "Unir de forma covalente azúcares desoxirribosas de diferentes plásmidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La unión covalente de fragmentos de ADN es catalizada por la enzima ligasa."
+        },
+        {
+          "letter": "C",
+          "text": "Duplicar de manera exponencial cadenas de ARN dentro de un termociclador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La duplicación in vitro es realizada por la polimerasa Taq en la PCR, no por endonucleasas."
+        },
+        {
+          "letter": "D",
+          "text": "Degradar las proteínas de la envoltura celular bacteriana antes de la inserción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las membranas o paredes se disuelven mediante detergentes, lisozimas o electroporación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las enzimas de restricción, descubiertas en bacterias como mecanismo de defensa viral, generan extremos cohesivos o romos útiles para clonación. En este contexto, Clara de Mercedes determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.59,
+      "bundle_id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v10",
+      "statement": "¿Qué propiedad física de las macromoléculas permite separar las dos hebras de la doble hélice de ADN durante el paso de desnaturalización en un ensayo de PCR?",
+      "context": "En el taller de Ciencias Naturales en Montevideo, Agustín observa un modelo experimental de la reacción en cadena de la polimerasa (pcr).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El calor: el incremento de temperatura a ~95 °C rompe los puentes de hidrógeno sin dañar los enlaces fosfodiéster covalentes.",
+          "is_correct": true,
+          "feedback": "Correcto. La desnaturalización térmica separa las hebras de manera reversible en cada ciclo de la PCR."
+        },
+        {
+          "letter": "B",
+          "text": "La fuerza centrífuga a altas velocidades de rotación mecánica de sobremesa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La centrifugación separa componentes por densidad o masa molecular pero no desnaturaliza la doble hélice de ADN."
+        },
+        {
+          "letter": "C",
+          "text": "La acción catalítica de enzimas helicasas termoestables sintéticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La PCR convencional prescinde de helicasas; la separación se logra mediante calor controlado."
+        },
+        {
+          "letter": "D",
+          "text": "El cambio brusco de pH alcalino por adición de hidróxido de sodio concentrado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH químico dañaría irreversiblemente las enzimas Taq polimerasa necesarias para la elongación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La PCR utiliza una ADN polimerasa termoestable (Taq) para resistir ciclos repetidos de altas temperaturas de desnaturalización. En este contexto, Agustín de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v11",
+      "statement": "Al realizar una electroforesis en gel de agarosa para separar fragmentos de ADN de diferentes longitudes, ¿en qué dirección migran las muestras y por qué?",
+      "context": "Durante una actividad de laboratorio en el Liceo N° 3 de Mercedes, Sebastián analiza electroforesis en gel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacia el polo positivo (ánodo) debido a la carga eléctrica negativa neta de los grupos fosfato del ADN.",
+          "is_correct": true,
+          "feedback": "Correcto. Los fosfatos le otorgan carga negativa constante al ADN, haciendo que migre hacia el ánodo en un campo eléctrico."
+        },
+        {
+          "letter": "B",
+          "text": "Hacia el polo negativo (cátodo) atraído por las cargas positivas de las bases nitrogenadas libres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ADN es atraído por el ánodo (+), no por el cátodo (-) debido a que es un polímero de carácter ácido negativo."
+        },
+        {
+          "letter": "C",
+          "text": "Hacia el fondo del gel por sedimentación gravitatoria dependiente de los azúcares pentosas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad no tiene relevancia en la separación molecular en geles de matriz estrecha."
+        },
+        {
+          "letter": "D",
+          "text": "Se desplazan de manera lateral en círculos concéntricos inducidos por un campo magnético alterno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La electroforesis utiliza corriente continua lineal unidireccional para forzar el avance de las muestras."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la electroforesis, los fragmentos pequeños de ADN se desplazan más rápido a través de la matriz del gel que los fragmentos grandes. En este contexto, Sebastián de Mercedes determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.47,
+      "bundle_id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la definición correcta de un organismo transgénico en biotecnología moderna?",
+      "context": "En la clase práctica del Liceo N° 4 en Montevideo, Valentina y sus compañeros debaten sobre organismos transgénicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un organismo vivo que posee un gen exógeno de otra especie incorporado de forma estable en su genoma.",
+          "is_correct": true,
+          "feedback": "Correcto. El transgén es integrado de manera artificial para conferir una característica fenotípica de interés comercial o medicinal."
+        },
+        {
+          "letter": "B",
+          "text": "Un espécimen sometido a radiación ionizante para eliminar selectivamente genes perjudiciales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mutagénesis aleatoria por radiación no constituye transgenia, ya que no introduce genes de otras especies."
+        },
+        {
+          "letter": "C",
+          "text": "Un clon idéntico obtenido por transferencia nuclear de células germinales del mismo individuo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La clonación copia el genoma preexistente; no involucra recombinación interespecífica de genes."
+        },
+        {
+          "letter": "D",
+          "text": "Un híbrido resultante de la fecundación tradicional de dos variedades del mismo cultivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mejoramiento clásico por cruce sexual es un proceso natural que opera dentro de barreras biológicas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La biotecnología genera transgénicos mediante vectores de clonación como plásmidos o virus, planteando debates bioéticos rigurosos. En este contexto, Valentina de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.46,
+      "bundle_id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la función de las enzimas de restricción (endonucleasas) en la tecnología del ADN recombinante?",
+      "context": "Para el proyecto final de ciencias en el Liceo N° 5 de Mercedes, Santiago investiga acerca de enzimas de restricción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cortar el ADN en secuencias de nucleótidos específicas y palindrómicas de manera precisa.",
+          "is_correct": true,
+          "feedback": "Correcto. Las enzimas de restricción cortan el ADN reconociendo secuencias diana de 4 a 8 pares de bases."
+        },
+        {
+          "letter": "B",
+          "text": "Unir de forma covalente azúcares desoxirribosas de diferentes plásmidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La unión covalente de fragmentos de ADN es catalizada por la enzima ligasa."
+        },
+        {
+          "letter": "C",
+          "text": "Duplicar de manera exponencial cadenas de ARN dentro de un termociclador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La duplicación in vitro es realizada por la polimerasa Taq en la PCR, no por endonucleasas."
+        },
+        {
+          "letter": "D",
+          "text": "Degradar las proteínas de la envoltura celular bacteriana antes de la inserción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las membranas o paredes se disuelven mediante detergentes, lisozimas o electroporación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las enzimas de restricción, descubiertas en bacterias como mecanismo de defensa viral, generan extremos cohesivos o romos útiles para clonación. En este contexto, Santiago de Mercedes determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v14",
+      "statement": "¿Qué propiedad física de las macromoléculas permite separar las dos hebras de la doble hélice de ADN durante el paso de desnaturalización en un ensayo de PCR?",
+      "context": "Mientras repasa para el examen parcial en Montevideo, Florencia estudia detenidamente la reacción en cadena de la polimerasa (pcr).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El calor: el incremento de temperatura a ~95 °C rompe los puentes de hidrógeno sin dañar los enlaces fosfodiéster covalentes.",
+          "is_correct": true,
+          "feedback": "Correcto. La desnaturalización térmica separa las hebras de manera reversible en cada ciclo de la PCR."
+        },
+        {
+          "letter": "B",
+          "text": "La fuerza centrífuga a altas velocidades de rotación mecánica de sobremesa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La centrifugación separa componentes por densidad o masa molecular pero no desnaturaliza la doble hélice de ADN."
+        },
+        {
+          "letter": "C",
+          "text": "La acción catalítica de enzimas helicasas termoestables sintéticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La PCR convencional prescinde de helicasas; la separación se logra mediante calor controlado."
+        },
+        {
+          "letter": "D",
+          "text": "El cambio brusco de pH alcalino por adición de hidróxido de sodio concentrado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH químico dañaría irreversiblemente las enzimas Taq polimerasa necesarias para la elongación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La PCR utiliza una ADN polimerasa termoestable (Taq) para resistir ciclos repetidos de altas temperaturas de desnaturalización. En este contexto, Florencia de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.38,
+      "bundle_id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v15",
+      "statement": "Al realizar una electroforesis en gel de agarosa para separar fragmentos de ADN de diferentes longitudes, ¿en qué dirección migran las muestras y por qué?",
+      "context": "En el taller de Ciencias Naturales en Mercedes, Joaquín observa un modelo experimental de electroforesis en gel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacia el polo positivo (ánodo) debido a la carga eléctrica negativa neta de los grupos fosfato del ADN.",
+          "is_correct": true,
+          "feedback": "Correcto. Los fosfatos le otorgan carga negativa constante al ADN, haciendo que migre hacia el ánodo en un campo eléctrico."
+        },
+        {
+          "letter": "B",
+          "text": "Hacia el polo negativo (cátodo) atraído por las cargas positivas de las bases nitrogenadas libres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ADN es atraído por el ánodo (+), no por el cátodo (-) debido a que es un polímero de carácter ácido negativo."
+        },
+        {
+          "letter": "C",
+          "text": "Hacia el fondo del gel por sedimentación gravitatoria dependiente de los azúcares pentosas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad no tiene relevancia en la separación molecular en geles de matriz estrecha."
+        },
+        {
+          "letter": "D",
+          "text": "Se desplazan de manera lateral en círculos concéntricos inducidos por un campo magnético alterno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La electroforesis utiliza corriente continua lineal unidireccional para forzar el avance de las muestras."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la electroforesis, los fragmentos pequeños de ADN se desplazan más rápido a través de la matriz del gel que los fragmentos grandes. En este contexto, Joaquín de Mercedes determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.37,
+      "bundle_id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la definición correcta de un organismo transgénico en biotecnología moderna?",
+      "context": "Durante una actividad de laboratorio en el Liceo N° 2 de Montevideo, Camila analiza organismos transgénicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un organismo vivo que posee un gen exógeno de otra especie incorporado de forma estable en su genoma.",
+          "is_correct": true,
+          "feedback": "Correcto. El transgén es integrado de manera artificial para conferir una característica fenotípica de interés comercial o medicinal."
+        },
+        {
+          "letter": "B",
+          "text": "Un espécimen sometido a radiación ionizante para eliminar selectivamente genes perjudiciales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mutagénesis aleatoria por radiación no constituye transgenia, ya que no introduce genes de otras especies."
+        },
+        {
+          "letter": "C",
+          "text": "Un clon idéntico obtenido por transferencia nuclear de células germinales del mismo individuo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La clonación copia el genoma preexistente; no involucra recombinación interespecífica de genes."
+        },
+        {
+          "letter": "D",
+          "text": "Un híbrido resultante de la fecundación tradicional de dos variedades del mismo cultivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mejoramiento clásico por cruce sexual es un proceso natural que opera dentro de barreras biológicas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La biotecnología genera transgénicos mediante vectores de clonación como plásmidos o virus, planteando debates bioéticos rigurosos. En este contexto, Camila de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.36,
+      "bundle_id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la función de las enzimas de restricción (endonucleasas) en la tecnología del ADN recombinante?",
+      "context": "En la clase práctica del Liceo N° 3 en Mercedes, Mateo y sus compañeros debaten sobre enzimas de restricción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cortar el ADN en secuencias de nucleótidos específicas y palindrómicas de manera precisa.",
+          "is_correct": true,
+          "feedback": "Correcto. Las enzimas de restricción cortan el ADN reconociendo secuencias diana de 4 a 8 pares de bases."
+        },
+        {
+          "letter": "B",
+          "text": "Unir de forma covalente azúcares desoxirribosas de diferentes plásmidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La unión covalente de fragmentos de ADN es catalizada por la enzima ligasa."
+        },
+        {
+          "letter": "C",
+          "text": "Duplicar de manera exponencial cadenas de ARN dentro de un termociclador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La duplicación in vitro es realizada por la polimerasa Taq en la PCR, no por endonucleasas."
+        },
+        {
+          "letter": "D",
+          "text": "Degradar las proteínas de la envoltura celular bacteriana antes de la inserción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las membranas o paredes se disuelven mediante detergentes, lisozimas o electroporación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las enzimas de restricción, descubiertas en bacterias como mecanismo de defensa viral, generan extremos cohesivos o romos útiles para clonación. En este contexto, Mateo de Mercedes determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.3,
+      "bundle_id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v18",
+      "statement": "¿Qué propiedad física de las macromoléculas permite separar las dos hebras de la doble hélice de ADN durante el paso de desnaturalización en un ensayo de PCR?",
+      "context": "Para el proyecto final de ciencias en el Liceo N° 4 de Montevideo, Sofía investiga acerca de la reacción en cadena de la polimerasa (pcr).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El calor: el incremento de temperatura a ~95 °C rompe los puentes de hidrógeno sin dañar los enlaces fosfodiéster covalentes.",
+          "is_correct": true,
+          "feedback": "Correcto. La desnaturalización térmica separa las hebras de manera reversible en cada ciclo de la PCR."
+        },
+        {
+          "letter": "B",
+          "text": "La fuerza centrífuga a altas velocidades de rotación mecánica de sobremesa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La centrifugación separa componentes por densidad o masa molecular pero no desnaturaliza la doble hélice de ADN."
+        },
+        {
+          "letter": "C",
+          "text": "La acción catalítica de enzimas helicasas termoestables sintéticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La PCR convencional prescinde de helicasas; la separación se logra mediante calor controlado."
+        },
+        {
+          "letter": "D",
+          "text": "El cambio brusco de pH alcalino por adición de hidróxido de sodio concentrado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH químico dañaría irreversiblemente las enzimas Taq polimerasa necesarias para la elongación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La PCR utiliza una ADN polimerasa termoestable (Taq) para resistir ciclos repetidos de altas temperaturas de desnaturalización. En este contexto, Sofía de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.3,
+      "bundle_id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v19",
+      "statement": "Al realizar una electroforesis en gel de agarosa para separar fragmentos de ADN de diferentes longitudes, ¿en qué dirección migran las muestras y por qué?",
+      "context": "Mientras repasa para el examen parcial en Mercedes, Martín estudia detenidamente electroforesis en gel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacia el polo positivo (ánodo) debido a la carga eléctrica negativa neta de los grupos fosfato del ADN.",
+          "is_correct": true,
+          "feedback": "Correcto. Los fosfatos le otorgan carga negativa constante al ADN, haciendo que migre hacia el ánodo en un campo eléctrico."
+        },
+        {
+          "letter": "B",
+          "text": "Hacia el polo negativo (cátodo) atraído por las cargas positivas de las bases nitrogenadas libres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ADN es atraído por el ánodo (+), no por el cátodo (-) debido a que es un polímero de carácter ácido negativo."
+        },
+        {
+          "letter": "C",
+          "text": "Hacia el fondo del gel por sedimentación gravitatoria dependiente de los azúcares pentosas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad no tiene relevancia en la separación molecular en geles de matriz estrecha."
+        },
+        {
+          "letter": "D",
+          "text": "Se desplazan de manera lateral en círculos concéntricos inducidos por un campo magnético alterno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La electroforesis utiliza corriente continua lineal unidireccional para forzar el avance de las muestras."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la electroforesis, los fragmentos pequeños de ADN se desplazan más rápido a través de la matriz del gel que los fragmentos grandes. En este contexto, Martín de Mercedes determinó correctamente la respuesta correcta.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    },
+    {
+      "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la definición correcta de un organismo transgénico en biotecnología moderna?",
+      "context": "En el taller de Ciencias Naturales en Montevideo, Lucía observa un modelo experimental de organismos transgénicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un organismo vivo que posee un gen exógeno de otra especie incorporado de forma estable en su genoma.",
+          "is_correct": true,
+          "feedback": "Correcto. El transgén es integrado de manera artificial para conferir una característica fenotípica de interés comercial o medicinal."
+        },
+        {
+          "letter": "B",
+          "text": "Un espécimen sometido a radiación ionizante para eliminar selectivamente genes perjudiciales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mutagénesis aleatoria por radiación no constituye transgenia, ya que no introduce genes de otras especies."
+        },
+        {
+          "letter": "C",
+          "text": "Un clon idéntico obtenido por transferencia nuclear de células germinales del mismo individuo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La clonación copia el genoma preexistente; no involucra recombinación interespecífica de genes."
+        },
+        {
+          "letter": "D",
+          "text": "Un híbrido resultante de la fecundación tradicional de dos variedades del mismo cultivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mejoramiento clásico por cruce sexual es un proceso natural que opera dentro de barreras biológicas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La biotecnología genera transgénicos mediante vectores de clonación como plásmidos o virus, planteando debates bioéticos rigurosos. En este contexto, Lucía de Montevideo determinó correctamente la respuesta correcta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "uy"
+    }
+  ]
+}

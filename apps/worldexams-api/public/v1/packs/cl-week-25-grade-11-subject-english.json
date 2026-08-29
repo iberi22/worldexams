@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "Ingles",
+    "country": "cl",
+    "pack_id": "cl-week-25-grade-11-subject-ingles",
+    "generated_at": "2026-06-22T23:30:14.108Z"
+  },
+  "questions": [
+    {
+      "id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v1",
+      "statement": "Anthropocentrism is the belief that human beings are the most important entity in the universe.",
+      "context": "Introduction to environmental philosophy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Biocentrism",
+          "is_correct": false,
+          "feedback": "Incorrect. Biocentrism values all life."
+        },
+        {
+          "letter": "B",
+          "text": "Anthropocentrism",
+          "is_correct": true,
+          "feedback": "Correct. Specific term for human-centered views."
+        },
+        {
+          "letter": "C",
+          "text": "Ecocentrism",
+          "is_correct": false,
+          "feedback": "Incorrect. Ecocentrism values the whole ecosystem."
+        },
+        {
+          "letter": "D",
+          "text": "Egocentrism",
+          "is_correct": false,
+          "feedback": "Incorrect. Egocentrism is being self-centered."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Anthropocentrism' is the philosophical term for a human-centered world view.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v2",
+      "statement": "National parks were created to preserve wilderness areas for future generations.",
+      "context": "Discussing conservation history.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "create",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "were created",
+          "is_correct": true,
+          "feedback": "Correct. Past simple passive for a completed historical action."
+        },
+        {
+          "letter": "C",
+          "text": "have created",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "D",
+          "text": "are created",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The past simple passive 'were created' describes the founding of national parks in the past.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v3",
+      "statement": "If we valued nature more for its own sake, we would protect it more effectively.",
+      "context": "Speculating about environmental protection.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "value",
+          "is_correct": false,
+          "feedback": "Incorrect. First conditional."
+        },
+        {
+          "letter": "B",
+          "text": "valued",
+          "is_correct": true,
+          "feedback": "Correct. Second conditional for a hypothetical present attitude."
+        },
+        {
+          "letter": "C",
+          "text": "had valued",
+          "is_correct": false,
+          "feedback": "Incorrect. Third conditional."
+        },
+        {
+          "letter": "D",
+          "text": "would value",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' not in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The second conditional 'if + past simple' describes how a hypothetical shift in values would lead to a different result.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v4",
+      "statement": "Intergenerational justice involves the ethical obligation to leave a healthy planet for those who will be born in the future.",
+      "context": "Article about \"intergenerational justice\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "obligation",
+          "is_correct": true,
+          "feedback": "Correct. An obligation is a duty or commitment."
+        },
+        {
+          "letter": "B",
+          "text": "choice",
+          "is_correct": false,
+          "feedback": "Incorrect. Ethics often frames this as a duty, not just a casual choice."
+        },
+        {
+          "letter": "C",
+          "text": "refusal",
+          "is_correct": false,
+          "feedback": "Incorrect. Negative."
+        },
+        {
+          "letter": "D",
+          "text": "accident",
+          "is_correct": false,
+          "feedback": "Incorrect. It should be an intentional effort."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Obligation' is the key noun for describing the moral duty we have towards future generations.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v5",
+      "statement": "Environmentalists argue that nature has intrinsic value, meaning it is valuable in itself, regardless of its usefulness to humans.",
+      "context": "Discussion on \"intrinsic value\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "instrumental",
+          "is_correct": false,
+          "feedback": "Incorrect. Instrumental value is value as a tool/resource."
+        },
+        {
+          "letter": "B",
+          "text": "intrinsic",
+          "is_correct": true,
+          "feedback": "Correct. Intrinsic value is value for its own sake."
+        },
+        {
+          "letter": "C",
+          "text": "commercial",
+          "is_correct": false,
+          "feedback": "Incorrect. Commercial value is based on profit."
+        },
+        {
+          "letter": "D",
+          "text": "temporary",
+          "is_correct": false,
+          "feedback": "Incorrect. Values are often seen as permanent."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Intrinsic' describes value that exists independently of any external use or benefit.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v6",
+      "statement": "Sustainability means meeting our own needs without compromising the ability of future generations to meet theirs.",
+      "context": "Sustainable development definition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "destroying",
+          "is_correct": false,
+          "feedback": "Incorrect. Comprises sustainability."
+        },
+        {
+          "letter": "B",
+          "text": "compromising",
+          "is_correct": true,
+          "feedback": "Correct. To compromise here means to weaken or damage."
+        },
+        {
+          "letter": "C",
+          "text": "increasing",
+          "is_correct": false,
+          "feedback": "Incorrect. Doesn't fit the standard definition."
+        },
+        {
+          "letter": "D",
+          "text": "ignoring",
+          "is_correct": false,
+          "feedback": "Incorrect. Sustainability requires attention to future needs."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Compromising' is the standard verb used in the Brundtland definition of sustainable development.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v7",
+      "statement": "The rights of animals are increasingly being debated in legal and philosophical circles.",
+      "context": "Describing an ongoing ethical shift.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are debating",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "are being debated",
+          "is_correct": true,
+          "feedback": "Correct. Present continuous passive for an ongoing trend."
+        },
+        {
+          "letter": "C",
+          "text": "debated",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "D",
+          "text": "have debated",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present continuous passive describes a discussion that is currently expanding.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v8",
+      "statement": "Environmental stewardship is the responsible use and protection of the natural environment through conservation and sustainable practices.",
+      "context": "Text on \"stewardship\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ownership",
+          "is_correct": false,
+          "feedback": "Incorrect. Stewardship is about care, not just possessing."
+        },
+        {
+          "letter": "B",
+          "text": "Stewardship",
+          "is_correct": true,
+          "feedback": "Correct. The term for responsible management of nature."
+        },
+        {
+          "letter": "C",
+          "text": "Exploitation",
+          "is_correct": false,
+          "feedback": "Incorrect. The opposite of stewardship."
+        },
+        {
+          "letter": "D",
+          "text": "Neglect",
+          "is_correct": false,
+          "feedback": "Incorrect. The opposite of stewardship."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Stewardship' is the specific term for the ethical responsibility to care for and manage the environment.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v9",
+      "statement": "By the 1970s, the modern environmental movement had gained significant momentum.",
+      "context": "Describing a past change in perspective.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "gains",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        },
+        {
+          "letter": "B",
+          "text": "has gained",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "C",
+          "text": "had gained",
+          "is_correct": true,
+          "feedback": "Correct. Past perfect for a state completed by a past point."
+        },
+        {
+          "letter": "D",
+          "text": "was gaining",
+          "is_correct": false,
+          "feedback": "Incorrect. Focus is on the completed state of having momentum."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The past perfect 'had gained' indicates that the movement's growth occurred before the start of the decade mentioned.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v10",
+      "statement": "Speciesism is the assumption of human superiority leading to the exploitation of animals.",
+      "context": "Critique of \"speciesism\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "equality",
+          "is_correct": false,
+          "feedback": "Incorrect. Speciesism is based on inequality."
+        },
+        {
+          "letter": "B",
+          "text": "superiority",
+          "is_correct": true,
+          "feedback": "Correct. Superiority is the state of being higher in rank or quality."
+        },
+        {
+          "letter": "C",
+          "text": "indifference",
+          "is_correct": false,
+          "feedback": "Incorrect. It's an active assumption of being 'better'."
+        },
+        {
+          "letter": "D",
+          "text": "kindness",
+          "is_correct": false,
+          "feedback": "Incorrect. Speciesism leads to exploitation, not kindness."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Superiority' is the core assumption that underlies the ethical critique of speciesism.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v11",
+      "statement": "Ecology is the branch of biology that deals with the relations of organisms to one another and to their physical surroundings.",
+      "context": "Definition of ecology.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Physics",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Ecology",
+          "is_correct": true,
+          "feedback": "Correct. Scientific study of ecosystems."
+        },
+        {
+          "letter": "C",
+          "text": "Anatomy",
+          "is_correct": false,
+          "feedback": "Incorrect. Study of body structure."
+        },
+        {
+          "letter": "D",
+          "text": "Chemistry",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Ecology' is the specific science focused on the interactions within the natural world.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v12",
+      "statement": "In the future, it is hoped that \"ecocide\" will have been recognized as an international crime.",
+      "context": "Describing a future ethical goal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will recognize",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
+        },
+        {
+          "letter": "B",
+          "text": "will have been recognized",
+          "is_correct": true,
+          "feedback": "Correct. Future perfect passive for a completed state in the future."
+        },
+        {
+          "letter": "C",
+          "text": "recognized",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple."
+        },
+        {
+          "letter": "D",
+          "text": "recognizing",
+          "is_correct": false,
+          "feedback": "Incorrect. Gerund."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The future perfect passive describes a legal milestone that is desired to be a finished fact in the future.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v13",
+      "statement": "Biodiversity is crucial for ecosystem resilience, as it allows systems to recover from disturbances.",
+      "context": "Discussing biodiversity.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "resilience",
+          "is_correct": true,
+          "feedback": "Correct. Resilience is the ability to recover from difficulties."
+        },
+        {
+          "letter": "B",
+          "text": "fragility",
+          "is_correct": false,
+          "feedback": "Incorrect. Biodiversity reduces fragility."
+        },
+        {
+          "letter": "C",
+          "text": "stagnation",
+          "is_correct": false,
+          "feedback": "Incorrect. Nature is dynamic."
+        },
+        {
+          "letter": "D",
+          "text": "isolation",
+          "is_correct": false,
+          "feedback": "Incorrect. Systems are interconnected."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Resilience' describes the strength and recovery capacity of a healthy, diverse ecosystem.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v14",
+      "statement": "If we didn't produce so much single-use plastic, our oceans would be much cleaner.",
+      "context": "Conditional about plastic pollution.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "don't produce",
+          "is_correct": false,
+          "feedback": "Incorrect. First conditional."
+        },
+        {
+          "letter": "B",
+          "text": "didn't produce",
+          "is_correct": true,
+          "feedback": "Correct. Second conditional for a hypothetical change."
+        },
+        {
+          "letter": "C",
+          "text": "hadn't produced",
+          "is_correct": false,
+          "feedback": "Incorrect. Third conditional."
+        },
+        {
+          "letter": "D",
+          "text": "wouldn't produce",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Would' not in 'if' clause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The second conditional 'if + past simple' describes the imaginary result of a change in current production habits.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v15",
+      "statement": "The author concludes that environmental justice requires that no group of people should bear a disproportionate share of negative environmental consequences.",
+      "context": "Conclusion of an essay on \"environmental justice\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "equal",
+          "is_correct": false,
+          "feedback": "Incorrect. If it were equal, there would be no 'disproportionate' share."
+        },
+        {
+          "letter": "B",
+          "text": "disproportionate",
+          "is_correct": true,
+          "feedback": "Correct. Disproportionate means too large or too small in comparison with something else."
+        },
+        {
+          "letter": "C",
+          "text": "minimal",
+          "is_correct": false,
+          "feedback": "Incorrect. The goal is for everyone to have minimal, not for one group to bear it all."
+        },
+        {
+          "letter": "D",
+          "text": "invisible",
+          "is_correct": false,
+          "feedback": "Incorrect. Consequences are often very visible."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Disproportionate' is the key term for describing the unfair burden placed on certain communities in environmental ethics.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v16",
+      "statement": "A carbon sink is a forest, ocean, or other natural environment viewed in terms of its ability to absorb carbon dioxide from the atmosphere.",
+      "context": "Definition of a carbon sink.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "source",
+          "is_correct": false,
+          "feedback": "Incorrect. A source releases carbon."
+        },
+        {
+          "letter": "B",
+          "text": "sink",
+          "is_correct": true,
+          "feedback": "Correct. A sink absorbs/stores carbon."
+        },
+        {
+          "letter": "C",
+          "text": "waste",
+          "is_correct": false,
+          "feedback": "Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "filter",
+          "is_correct": false,
+          "feedback": "Incorrect. While it acts like a filter, 'sink' is the technical term."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Carbon sink' is the standard environmental term for natural systems that absorb more carbon than they release.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v17",
+      "statement": "Scientists warned that the loss of biodiversity would have irreversible effects on human food security.",
+      "context": "Reporting an environmental warning.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will have",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted in reported speech."
+        },
+        {
+          "letter": "B",
+          "text": "would have",
+          "is_correct": true,
+          "feedback": "Correct. Backshifted from 'will have' to 'would have'."
+        },
+        {
+          "letter": "C",
+          "text": "has had",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In reported speech, we change 'will' to 'would' when reporting a future prediction made in the past.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v18",
+      "statement": "Sustainable consumption involves using products and services that have a minimal impact on the environment.",
+      "context": "Text about \"sustainable consumption\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "maximal",
+          "is_correct": false,
+          "feedback": "Incorrect. We want to reduce impact."
+        },
+        {
+          "letter": "B",
+          "text": "minimal",
+          "is_correct": true,
+          "feedback": "Correct. Minimal means of a minimum amount, quantity, or degree."
+        },
+        {
+          "letter": "C",
+          "text": "random",
+          "is_correct": false,
+          "feedback": "Incorrect. Should be intentional."
+        },
+        {
+          "letter": "D",
+          "text": "hidden",
+          "is_correct": false,
+          "feedback": "Incorrect. Should be transparent."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Minimal' correctly describes the goal of sustainability: to reduce environmental impact as much as possible.\n\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v19",
+      "statement": "The river had been clean for centuries before industrial pollution began to contaminate it.",
+      "context": "Describing a past environmental state.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was clean",
+          "is_correct": false,
+          "feedback": "Incorrect. Past simple doesn't show the long state before the change as well as past perfect."
+        },
+        {
+          "letter": "B",
+          "text": "had been clean",
+          "is_correct": true,
+          "feedback": "Correct. Past perfect for a state that existed before another past event."
+        },
+        {
+          "letter": "C",
+          "text": "has been clean",
+          "is_correct": false,
+          "feedback": "Incorrect. Present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "is clean",
+          "is_correct": false,
+          "feedback": "Incorrect. Present tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The past perfect 'had been' establishes the long-term cleanliness of the river prior to its contamination.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-v20",
+      "statement": "Ultimately, we must move towards a more biocentric worldview that respects the rights of all living things.",
+      "context": "Final thought on environmental responsibility.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "biocentric",
+          "is_correct": true,
+          "feedback": "Correct. Values all living things."
+        },
+        {
+          "letter": "B",
+          "text": "egoistic",
+          "is_correct": false,
+          "feedback": "Incorrect. Values only oneself."
+        },
+        {
+          "letter": "C",
+          "text": "commercial",
+          "is_correct": false,
+          "feedback": "Incorrect. Values only profit."
+        },
+        {
+          "letter": "D",
+          "text": "narrow",
+          "is_correct": false,
+          "feedback": "Incorrect. We need a broader view."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Biocentric' describes the inclusive worldview that values all life forms, contrasting with anthropocentrism.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "CL-ING-11-2026-W25-environmental-ethics-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "Ingles",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}
