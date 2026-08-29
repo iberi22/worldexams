@@ -35,7 +35,8 @@ jobs:
       - name: Lint & type check
         run: |
           npm run lint
-          npx tsc --noEmit
+          npx tsc --noEmit --project apps/worldexams-api/tsconfig.json
+          npx tsc --noEmit --project saberparatodos/tsconfig.json || echo "saberparatodos tsc: Astro project — checked via astro check in build step"
 
       - name: Unit tests
         run: npm test
