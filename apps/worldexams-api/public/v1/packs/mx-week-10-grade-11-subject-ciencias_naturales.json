@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "mx",
+    "pack_id": "mx-week-10-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T04:04:54.343Z"
+  },
+  "questions": [
+    {
+      "id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle-v1",
+      "statement": "¿Qué nivel trófico ocupan los organismos autótrofos capaces de sintetizar materia orgánica a partir de energía solar?",
+      "context": "En un estudio sobre redes tróficas en el Parque Nacional Cumbres de Monterrey, se analiza el papel de las plantas verdes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Productores primarios",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las plantas y algas son productores primarios que inician el flujo de energía en el ecosistema."
+        },
+        {
+          "letter": "B",
+          "text": "Consumidores primarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los consumidores primarios son herbívoros que se alimentan de plantas."
+        },
+        {
+          "letter": "C",
+          "text": "Consumidores secundarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los consumidores secundarios son carnívoros que comen herbívoros."
+        },
+        {
+          "letter": "D",
+          "text": "Descomponedores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los descomponedores reciclan materia orgánica muerta en inorgánica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los productores primarios son autótrofos que convierten energía inorgánica (luz o química) en biomasa orgánica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle-v2",
+      "statement": "¿Qué tipo de interacción biológica interespecífica se establece cuando ambas especies obtienen un beneficio mutuo?",
+      "context": "Se evalúa la relación entre las abejas y las plantas con flor en un ecosistema agrícola en Michoacán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parasitismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el parasitismo una especie se beneficia perjudicando a la otra (+/-)."
+        },
+        {
+          "letter": "B",
+          "text": "Mutualismo",
+          "is_correct": true,
+          "feedback": "¡Correcto! En el mutualismo ambas especies se benefician (+/+), como las abejas que obtienen néctar y las plantas que son polinizadas."
+        },
+        {
+          "letter": "C",
+          "text": "Comensalismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el comensalismo una especie se beneficia y la otra no se afecta (+/0)."
+        },
+        {
+          "letter": "D",
+          "text": "Competencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la competencia ambos individuos se ven perjudicados por el recurso (-/-)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El mutualismo es una interacción simbiótica donde ambas poblaciones derivan beneficios para su supervivencia o reproducción (+/+).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle-v3",
+      "statement": "¿Qué porcentaje aproximado de la energía almacenada en un nivel trófico se transfiere efectivamente al siguiente nivel superior?",
+      "context": "Se analiza la Regla del 10% (Diezmo Ecológico) en la transferencia de energía a través de una cadena trófica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un porcentaje excesivamente alto que violaría los límites de disipación calórica."
+        },
+        {
+          "letter": "B",
+          "text": "90%",
+          "is_correct": false,
+          "feedback": "Incorrecto. 90% es la energía que se pierde, no la que se transfiere."
+        },
+        {
+          "letter": "C",
+          "text": "10%",
+          "is_correct": true,
+          "feedback": "¡Correcto! Aproximadamente el 90% de la energía se pierde como calor o metabolismo, transfiriendo sólo ~10% al nivel siguiente."
+        },
+        {
+          "letter": "D",
+          "text": "100%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Imposible por la Segunda Ley de la Termodinámica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La eficiencia de transferencia ecológica es de ~10%. El resto de la energía se disipa en respiración celular, excreción y calor.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle-v4",
+      "statement": "¿Qué tipo de sucesión ecológica ocurre cuando la comunidad biológica se desarrolla desde cero en un sustrato desprovisto de suelo preexistente?",
+      "context": "En un bosque de pino-encino en Hidalgo, se observa la colonización de una zona de rocas expuestas tras un desprendimiento de tierra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sucesión ecológica secundaria",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre en áreas perturbadas pero que conservan suelo orgánico previo."
+        },
+        {
+          "letter": "B",
+          "text": "Sucesión clímax definitiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. El clímax es la etapa final estable, no el proceso inicial de colonización."
+        },
+        {
+          "letter": "C",
+          "text": "Sucesión regresiva por anoxia",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a un tipo de desarrollo comunitario ecológico."
+        },
+        {
+          "letter": "D",
+          "text": "Sucesión ecológica primaria",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ocurre en áreas vírgenes sin suelo orgánico inicial (como lavas o rocas desnudas)."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La sucesión primaria inicia en superficies desnudas carentes de suelo previo, donde organismos pioneros (líquenes/musgos) inician la edafogénesis.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle-v5",
+      "statement": "¿Qué proceso realizado por bacterias como *Rhizobium* o *Azotobacter* convierte el nitrógeno gaseoso atmosférico (N2) en amoníaco (NH3) aprovechable por las plantas?",
+      "context": "Se estudia el Ciclo Biogeoquímico del Nitrógeno en suelos agrícolas de Sinaloa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fijación biológica del nitrógeno",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las bacterias fijadoras reducen el N2 atmosférico inerte a compuestos amoniacales asimilables."
+        },
+        {
+          "letter": "B",
+          "text": "Nitrificación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nitrificación oxida amoníaco a nitritos y nitratos."
+        },
+        {
+          "letter": "C",
+          "text": "Desnitrificación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La desnitrificación convierte nitratos de nuevo en gas N2 regresándolo a la atmósfera."
+        },
+        {
+          "letter": "D",
+          "text": "Amonificación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La amonificación degrada materia orgánica muerta liberando amonio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fijación del nitrógeno catalizada por la enzima nitrogenasa convierte N2 inerte en NH3/NH4⁺ que las plantas pueden incorporar a sus aminoácidos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle-v6",
+      "statement": "¿Qué alteración química provoca el CO2 disuelto en el océano amenazando el crecimiento de arrecifes de coral y moluscos?",
+      "context": "En una reserva marina en Quintana Roo, se mide el efecto del aumento de dióxido de carbono (CO2) en el agua de mar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eutrofización acelerada por exceso de fósforo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La eutrofización es producida por exceso de fertilizantes (N y P) en agua dulce o costera."
+        },
+        {
+          "letter": "B",
+          "text": "Acidificación de los océanos por formación de ácido carbónico (H2CO3) y reducción de iones carbonato (CO3²⁻)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El CO2 se disuelve formando H2CO3, bajando el pH oceánico y consumiendo los iones CO3²⁻ necesarios para la calcificación de corales."
+        },
+        {
+          "letter": "C",
+          "text": "Salinización masiva de los océanos por evaporación",
+          "is_correct": false,
+          "feedback": "Incorrecto. El CO2 no altera la masa de sal total en los mares."
+        },
+        {
+          "letter": "D",
+          "text": "Desoxigenación total del agua por evaporación del O2",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acidificación altera el equilibrio de carbonatos, no la solubilidad pura del O2 por sí sola."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El CO2 reacciona con H2O formando H2CO3 que libera H⁺. El aumento de H⁺ reduce el pH e inactiva los iones CO3²⁻ para construir conchas de CaCO3.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle-v7",
+      "statement": "¿Qué concepto define el tamaño máximo poblacional que un ambiente determinado puede sustentar indefinidamente en función de sus recursos limitantes?",
+      "context": "Una población de venados cola blanca en una reserva forestal crece rápidamente en ausencia de depredadores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tasa intrínseca de natalidad (r)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mide el potencial biótico máximo de crecimiento sin restricciones."
+        },
+        {
+          "letter": "B",
+          "text": "Resistencia ambiental nula",
+          "is_correct": false,
+          "feedback": "Incorrecto. La resistencia ambiental es el conjunto de factores que frenan el crecimiento."
+        },
+        {
+          "letter": "C",
+          "text": "Capacidad de carga (K)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La capacidad de carga K es el límite superior poblacional que los recursos del hábitat pueden mantener en equilibrio."
+        },
+        {
+          "letter": "D",
+          "text": "Densidad de dispersión clonal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un patrón de distribución espacial de individuos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La capacidad de carga K es el tamaño poblacional máximo que un ecosistema soporta debido a recursos limitantes (alimento, agua, espacio).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle-v8",
+      "statement": "¿En qué nivel trófico se registrará la mayor concentración del pesticida lipofílico por miligramo de tejido?",
+      "context": "Se analiza la bioacumulación y biomagnificación del insecticida DDT en la cadena trófica de un lago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el fitoplancton fotosintético",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fitoplancton tiene la menor concentración individual de la cadena."
+        },
+        {
+          "letter": "B",
+          "text": "En los peces herbívoros primarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Acumulan menos pesticida que sus depredadores secundarios o terciarios."
+        },
+        {
+          "letter": "C",
+          "text": "En el agua libre del lago",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sustancia se concentra en los tejidos grasos de los organismos vivos, no en el agua diluida."
+        },
+        {
+          "letter": "D",
+          "text": "En los depredadores tope (aves rapaces carnívoras)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La biomagnificación concentra sustancias no biodegradables y liposolubles a medida que se asciende en los niveles tróficos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los contaminantes persistentes liposolubles no se metabolizan ni excretan, acumulándose progresivamente en concentraciones mayores en los superdepredadores.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle-v9",
+      "statement": "¿Qué índices miden la riqueza de especies (número de especies) y la equidad (abundancia relativa) dentro de un mismo hábitat?",
+      "context": "Se compara la diversidad de especies entre un monocultivo de eucalipto y una selva alta perennifolia en Chiapas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diversidad Alfa (α)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La diversidad alfa mide la riqueza y abundancia local dentro de una misma comunidad o hábitat."
+        },
+        {
+          "letter": "B",
+          "text": "Diversidad Beta (β)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diversidad beta mide la tasa de cambio o reemplazo de especies entre diferentes hábitats."
+        },
+        {
+          "letter": "C",
+          "text": "Diversidad Gamma (γ)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diversidad gamma mide la riqueza total a escala regional o de paisaje completo."
+        },
+        {
+          "letter": "D",
+          "text": "Diversidad Genética diploide",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mide la variación de alelos dentro de una misma especie."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diversidad alfa cuantifica la biodiversidad específica (riqueza y equitatividad) dentro de una comunidad homogénea delimitada.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle-v10",
+      "statement": "¿Qué principio postula que dos especies que ocupan exactamente el mismo nicho ecológico no pueden coexistir en equilibrio a largo plazo?",
+      "context": "En un ecosistema desértico en Sonora, dos especies de roedores compiten por las mismas semillas de cactáceas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ley de Tolerancia de Shelford",
+          "is_correct": false,
+          "feedback": "Incorrecto. Define los rangos de tolerancia ambiental de una especie a factores abióticos."
+        },
+        {
+          "letter": "B",
+          "text": "Principio de Exclusión Competitiva (de Gause)",
+          "is_correct": true,
+          "feedback": "¡Correcto! Postula que dos especies con nichos ecológicos idénticos no pueden coexistir; una desplazará o extinguirá a la otra."
+        },
+        {
+          "letter": "C",
+          "text": "Principio de Hardy-Weinberg",
+          "is_correct": false,
+          "feedback": "Incorrecto. Establece las frecuencias alélicas en poblaciones genéticas en equilibrio."
+        },
+        {
+          "letter": "D",
+          "text": "Regla de Allen",
+          "is_correct": false,
+          "feedback": "Incorrecto. Relaciona el tamaño de las extremidades de endotermos con la temperatura ambiental."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Principio de Exclusión Competitiva de Gause establece que dos especies compitiendo por los mismos recursos limitantes no pueden coexistir con nichos idénticos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.71,
+      "bundle_id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle-v11",
+      "statement": "¿Qué fenómeno ecológico en cascada ocurre cuando la pérdida de un depredador tope altera la estructura y abundancia de múltiples niveles tróficos inferiores?",
+      "context": "Se evalúa el impacto de la remoción de una especie clave (como la nutria marina o el lobo mexicano) de su ecosistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sucesión primaria dirigida",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la dinámica de redes tróficas ante remoción de depredadores."
+        },
+        {
+          "letter": "B",
+          "text": "Eutrofización cultural ascendente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se refiere al vertido excesivo de nutrientes inorgánicos en aguas dulceacuícolas."
+        },
+        {
+          "letter": "C",
+          "text": "Cascada trófica top-down (de arriba hacia abajo)",
+          "is_correct": true,
+          "feedback": "¡Correcto! La remoción del depredador desinhibe a los herbívoros, resultando en la sobreexplotación de la vegetación y colapso de biodiversidad."
+        },
+        {
+          "letter": "D",
+          "text": "Efecto de cuello de botella genético",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mide la reducción drástica en la variabilidad genética de una población."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las cascadas tróficas 'top-down' ocurren cuando la alteración en el nivel de carnívoros superiores desencadena efectos alternados en los niveles tróficos inferiores.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la diferencia fundamental del ciclo del fósforo respecto a los ciclos del nitrógeno, carbono y azufre?",
+      "context": "Se estudia el Ciclo Biogeoquímico del Fósforo en ecosistemas terrestres y acuáticos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ocurre exclusivamente dentro de los núcleos celulares de bacterias",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fósforo circula libremente en suelo, agua y redes alimentarias."
+        },
+        {
+          "letter": "B",
+          "text": "No es indispensable para la síntesis de ácidos nucleicos y ATP",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fósforo es componente vital del ADN, ARN, ATP y fosfolípidos."
+        },
+        {
+          "letter": "C",
+          "text": "Se realiza mediante fijación por descargas eléctricas atmosféricas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fósforo no posee fase gaseosa en la atmósfera."
+        },
+        {
+          "letter": "D",
+          "text": "Carece de una fase gaseosa atmosférica significativa (su reservorio principal son las rocas sedimentarias y la corteza terrestre)",
+          "is_correct": true,
+          "feedback": "¡Correcto! El fósforo no circula por la atmósfera como gas; se libera lentamente por meteorización de rocas de fosfato."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El ciclo del fósforo es de tipo sedimentario. No posee componentes gaseosos atmosféricos; su reservorio son los minerales de fosfato en la litosfera.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.62,
+      "bundle_id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle-v13",
+      "statement": "¿Cómo se define la Producción Primaria Neta (PPN) y cuál es su importancia ecológica?",
+      "context": "Se mide la Producción Primaria Bruta (PPB) y la Respiración de los autótrofos (R) en una hectárea de selva tropical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "PPN = PPB - R; representa la cantidad de biomasa y energía disponible para los consumidores heterótrofos",
+          "is_correct": true,
+          "feedback": "¡Correcto! La PPN es la energía total fijada por fotosíntesis menos la gastada en la propia respiración de la planta."
+        },
+        {
+          "letter": "B",
+          "text": "PPN = PPB + R; representa la energía total perdida en el ecosistema",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía disponible no resulta de sumar la respiración al total bruto."
+        },
+        {
+          "letter": "C",
+          "text": "PPN = R / PPB; representa el coeficiente de evapotranspiración",
+          "is_correct": false,
+          "feedback": "Incorrecto. Inconsistencia matemática de la tasa de producción."
+        },
+        {
+          "letter": "D",
+          "text": "PPN es siempre igual a cero en comunidades maduras",
+          "is_correct": false,
+          "feedback": "Incorrecto. En comunidades maduras PPN > 0 manteniendo la red viva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Producción Primaria Neta es PPN = PPB - R. Mide la masa orgánica acumulada por las plantas disponible para ser consumida por herbívoros.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle-v14",
+      "statement": "¿Por qué la protección del hábitat del Jaguar (*Panthera onca*) sirve como estrategia efectiva de conservación para cientos de otras especies coexistentes?",
+      "context": "Se examina el concepto de Especie Sombrilla (o Especie Paraguas) en biología de la conservación en México.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el jaguar sintetiza fertilizantes orgánicos que alimentan a los productores",
+          "is_correct": false,
+          "feedback": "Incorrecto. El jaguar es un carnívoro tope, no un productor o descomponedor de abono."
+        },
+        {
+          "letter": "B",
+          "text": "Because requiere grandes extensiones de hábitat continuo con ecosistemas sanos, protegiendo indirectamente a todas las especies de menor requerimiento territorial dentro de su área",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las especies sombrilla tienen amplios requerimientos de área; al proteger su hábitat se salvaguarda a las demás especies asociadas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque es la única especie que puede fotosintetizar bajo la selva",
+          "is_correct": false,
+          "feedback": "Incorrecto. El jaguar es un mamífero heterótrofo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque reemplaza a todas las especies herbívoras del ecosistema",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conservación de una especie sombrilla busca preservar la biodiversidad completa del hábitat."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las especies sombrilla tienen demandas de espacio y recursos tan amplias que su protección asegura automáticamente la conservación de numerosas especies subordinadas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.58,
+      "bundle_id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle-v15",
+      "statement": "¿Qué ocurre con la tasa de crecimiento poblacional (dN/dt) cuando el tamaño de la población N se aproxima exactamente a la capacidad de carga K (N -> K)?",
+      "context": "Se evalúa el modelo de Crecimiento Logístico de una población según la ecuación diferencial: dN/dt = r * N * [(K - N) / K].",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tasa de crecimiento se vuelve exponencial infinita",
+          "is_correct": false,
+          "feedback": "Incorrecto. El crecimiento exponencial ocurre cuando N es muy pequeño respecto a K."
+        },
+        {
+          "letter": "B",
+          "text": "La población se extingue de forma instantánea",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al llegar a K la población se mantiene en equilibrio estable sin extinguirse."
+        },
+        {
+          "letter": "C",
+          "text": "La tasa de crecimiento se aproxima a cero (dN/dt -> 0) y la población se estabiliza",
+          "is_correct": true,
+          "feedback": "¡Correcto! Si N = K, el término (K - N)/K se vuelve (0/K) = 0, deteniendo el incremento poblacional."
+        },
+        {
+          "letter": "D",
+          "text": "La tasa de crecimiento se vuelve negativa colapsando a N = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sólo se vuelve negativa si N supera temporalmente a K (N > K)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En el crecimiento logístico, al acercarse N a K, la resistencia ambiental frena la natalidad y aumenta la mortalidad, haciendo que dN/dt se anule.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la secuencia lógica de eventos que conduce a la anoxia y muerte masiva de peces en la laguna?",
+      "context": "Se investiga el fenómeno de Eutrofización Antrópica en una laguna de agua dulce contaminada por fertilizantes agrícolas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vertido de N y P -> Muerte de bacterias -> Acumulación de O2 -> Quemadura química de peces",
+          "is_correct": false,
+          "feedback": "Incorrecto. La eutrofización agota el oxígeno disuelto, no produce hiperoxigenación tóxica."
+        },
+        {
+          "letter": "B",
+          "text": "Aumento de salinidad -> Evaporación de la laguna -> Desaparición de las algas fotosintéticas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La eutrofización es un proceso de sobreenriquecimiento nutrimental."
+        },
+        {
+          "letter": "C",
+          "text": "Vertido de toxinas plomadas -> Esterilización del agua -> Transparencia total de la laguna",
+          "is_correct": false,
+          "feedback": "Incorrecto. La eutrofización causa turbidez por biomasa algal descontrolada."
+        },
+        {
+          "letter": "D",
+          "text": "Vertido de N y P -> Proliferación de algas -> Muerte de algas -> Descomposición bacteriana masiva -> Consumo del oxígeno disuelto -> Anoxia",
+          "is_correct": true,
+          "feedback": "¡Correcto! El exceso de nutrientes causa un bloom algal; al morir las algas, las bacterias descomponedoras consumen todo el O2 disuelto provocando asfixia de la fauna."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El exceso de nitratos y fosfatos provoca un florecimiento algal. La descomposición aeróbica de la biomasa muerta agota el $O_2$ disuelto causando anoxia acuática.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle-v17",
+      "statement": "¿Qué dos procesos ecológicos en equilibrio determinan el número de especies en equilibrio (S*) en una isla en función de su tamaño y distancia al continente?",
+      "context": "Se evalúa la Teoría de Biogeografía de Islas de MacArthur y Wilson para un archipiélago continental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tasa de Inmigración (colonización) y Tasa de Extinción",
+          "is_correct": true,
+          "feedback": "¡Correcto! El número de especies en equilibrio resulta del balance entre la tasa de inmigración (dependiente de la distancia) y la de extinción (dependiente del tamaño de la isla)."
+        },
+        {
+          "letter": "B",
+          "text": "Tasa de Mutación cromosómica y Tasa de Especiación alopátrica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biogeografía de islas mide dinámica ecológica de ensamblaje, no tasas evolutivas de especiación pura a corto plazo."
+        },
+        {
+          "letter": "C",
+          "text": "Tasa de Transpiración vegetal y Tasa de Evaporación marina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son procesos del ciclo hidrológico."
+        },
+        {
+          "letter": "D",
+          "text": "Tasa de Depredación intrínseca y Tasa de Competencia intraespecífica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son factores locales que regulan poblaciones individuales, no la riqueza insular total."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El modelo de MacArthur y Wilson establece que la riqueza insular S* es un equilibrio dinámico entre la tasa de llegada de nuevas especies y la tasa de extinción local.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
+      "bundle_id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle-v18",
+      "statement": "¿Por qué los niveles intermedios de frecuencia e intensidad de perturbación ambiental promueven la máxima diversidad de especies?",
+      "context": "Se analiza la Hipótesis de Perturbación Intermedia propuesta por Joseph Connell en ecosistemas de arrecifes y bosques.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque eliminan totalmente la competencia interespecífica del ecosistema",
+          "is_correct": false,
+          "feedback": "Incorrecto. La competencia continúa ocurriendo pero sin dominancia absoluta."
+        },
+        {
+          "letter": "B",
+          "text": "Porque evitan que competidores dominantes excluyan a otras especies y previenen la eliminación masiva por estrés extremo",
+          "is_correct": true,
+          "feedback": "¡Correcto! A baja perturbación ganan los competidores dominantes; a alta perturbación sólo sobreviven especies resistentes. La perturbación intermedia equilibra la coexistencia."
+        },
+        {
+          "letter": "C",
+          "text": "Porque estimulan la tasa de mutación genética en todas las poblaciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. La perturbación no es un agente mutagénico genético directo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque convierten a todos los consumidores secundarios en autotrofos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La perturbación no altera los modos de nutrición metabólica de las especies."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Hipótesis de Perturbación Intermedia sostiene que la diversidad se maximiza a niveles moderados de perturbación, al impedir que especies colonizadoras r o competidoras K dominen.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.42,
+      "bundle_id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es la diferencia conceptual precisa entre el Nicho Fundamental y el Nicho Efectivo?",
+      "context": "Se contrasta el concepto de Nicho Fundamental versus Nicho Efectivo (o Realizado) de una especie según Hutchinson.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Nicho Fundamental es el hábitat físico geográfico y el Nicho Efectivo es su dieta biológica",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nicho es un hipervolumen multidimensional de condiciones y recursos, no solo el hábitat."
+        },
+        {
+          "letter": "B",
+          "text": "El Nicho Fundamental se refiere a los productores primarios y el Efectivo a los carnívoros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos conceptos aplican a cualquier especie biológica."
+        },
+        {
+          "letter": "C",
+          "text": "El Nicho Fundamental es el rango total de condiciones abióticas donde una especie puede sobrevivir; el Nicho Efectivo es la fracción que ocupa realmente en presencia de competidores y depredadores",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las interacciones biológicas restrictivas (competencia, depredación) reducen el nicho fundamental abiótico al nicho efectivo real."
+        },
+        {
+          "letter": "D",
+          "text": "El Nicho Efectivo es siempre mayor en tamaño que el Nicho Fundamental",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nicho efectivo es una subfracción igual o menor que el fundamental debido a restricciones bióticas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Hutchinson definió el Nicho Fundamental como el hipervolumen de tolerancia abiótica sin competencia. El Nicho Efectivo comprende las condiciones reducidas donde persiste frente a presiones bióticas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle-v20",
+      "statement": "¿Qué consecuencia ecológica destructiva ocurre cuando el adelanto de la primavera altera la emergencia de insectos respecto al pico de eclosión de aves migratorias?",
+      "context": "Se evalúa el fenómeno de Desfase Fenológico (Phenological Mismatch) causado por el Cambio Climático Global en especies migratorias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transformación de aves carnívoras en herbívoras autótrofas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las aves no adquieren plastidios fotosintéticos ni cambian su fisiología digestiva."
+        },
+        {
+          "letter": "B",
+          "text": "Duplicación instantánea de la tasa de fotosíntesis foliar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desfase fenológico afecta la sincronía entre niveles tróficos."
+        },
+        {
+          "letter": "C",
+          "text": "Inmunidad absoluta de la población frente a patógenos virales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estrés nutricional por desfase reduce la resistencia inmune de la población."
+        },
+        {
+          "letter": "D",
+          "text": "Desacoplamiento trófico que reduce el éxito reproductivo y supervivencia de los polluelos por falta de alimento sintonizado temporalmente",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las aves llegan a anidar cuando la abundancia máxima de insectos alimenticios ya ha pasado, provocando desnutrición de crías."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El desfase fenológico rompe la sincronía temporal coevolucionada entre la disponibilidad máxima de presas y las demandas energéticas de la reproducción de los depredadores.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "mx"
+    }
+  ]
+}

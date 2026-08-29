@@ -908,43 +908,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v1",
-      "statement": "Qual é a classificação de um triângulo que possui todos os três lados com medidas iguais?",
-      "context": "Um marceneiro em Curitiba precisa classificar triângulos de acordo com a medida de seus lados para montar uma estrutura de madeira estável.",
+      "id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle-v1",
+      "statement": "Dois triângulos são semelhantes quando possuem:",
+      "context": "Um arquiteto em São Paulo está revisando os critérios de semelhança de triângulos para projetar uma fachada com janelas proporcionais.",
       "options": [
         {
           "letter": "A",
-          "text": "Triângulo equilátero",
+          "text": "ângulos correspondentes congruentes e lados correspondentes proporcionais",
           "is_correct": true,
-          "feedback": "Correto! Um triângulo com três lados congruentes é denominado equilátero."
+          "feedback": "Correto: essa é a definição de triângulos semelhantes."
         },
         {
           "letter": "B",
-          "text": "Triângulo isósceles",
+          "text": "apenas a mesma área, independentemente da forma",
           "is_correct": false,
-          "feedback": "Incorreto. Embora o equilátero seja um caso especial de isósceles, a classificação mais precisa para três lados iguais é equilátero."
+          "feedback": "Incorreto: áreas iguais não garantem semelhança."
         },
         {
           "letter": "C",
-          "text": "Triângulo escaleno",
+          "text": "os três lados com as mesmas medidas",
           "is_correct": false,
-          "feedback": "Incorreto. O triângulo escaleno possui todos os três lados com medidas diferentes."
+          "feedback": "Incorreto: lados iguais caracterizam triângulos congruentes, um caso particular de semelhança com razão 1."
         },
         {
           "letter": "D",
-          "text": "Triângulo retângulo",
+          "text": "apenas dois ângulos internos congruentes, sem relação entre os lados",
           "is_correct": false,
-          "feedback": "Incorreto. Triângulo retângulo é a classificação quanto aos ângulos (possui um ângulo de 90 graus), não quanto aos lados."
+          "feedback": "Incorreto: dois ângulos congruentes já garantem semelhança, mas os lados correspondentes também ficam proporcionais."
         }
       ],
       "correct_answer": "A",
-      "explanation": "De acordo com as definições da geometria plana, os triângulos são classificados quanto aos lados em: equilátero (três lados iguais), isósceles (pelo menos dois lados iguais) e escaleno (três lados diferentes).",
-      "difficulty": "3",
+      "explanation": "A semelhança de triângulos é definida pela correspondência entre ângulos congruentes e lados proporcionais, com uma razão de semelhança constante entre os lados correspondentes.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
       "expected_success": 0.85,
-      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -953,43 +953,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v2",
-      "statement": "Qual é o valor exato da soma dos ângulos internos de qualquer triângulo plano convexo?",
-      "context": "Durante uma aula de desenho técnico em Porto Alegre, os estudantes estão verificando as propriedades dos ângulos internos de polígonos convexos.",
+      "id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle-v2",
+      "statement": "O Teorema de Tales estabelece que, quando retas paralelas são cortadas por duas retas transversais, os segmentos determinados nas transversais são:",
+      "context": "Durante uma aula de desenho técnico em Curitiba, o professor pede que os alunos identifiquem o Teorema de Tales entre as afirmações.",
       "options": [
         {
           "letter": "A",
-          "text": "90°",
+          "text": "sempre congruentes entre si",
           "is_correct": false,
-          "feedback": "Incorreto. 90° é a medida de um ângulo reto, não a soma dos ângulos de um triângulo."
+          "feedback": "Incorreto: os segmentos só são congruentes em casos particulares."
         },
         {
           "letter": "B",
-          "text": "180°",
+          "text": "proporcionais",
           "is_correct": true,
-          "feedback": "Correto! A soma dos ângulos internos de qualquer triângulo no plano euclidiano é sempre igual a 180°."
+          "feedback": "Correto: a razão entre os segmentos de uma transversal é igual à razão entre os correspondentes da outra."
         },
         {
           "letter": "C",
-          "text": "270°",
+          "text": "inversamente proporcionais",
           "is_correct": false,
-          "feedback": "Incorreto. A soma dos ângulos internos de um quadrilátero é 360°, e a de um triângulo é menor."
+          "feedback": "Incorreto: a proporcionalidade é direta entre segmentos correspondentes."
         },
         {
           "letter": "D",
-          "text": "360°",
+          "text": "de medidas que somam 180°",
           "is_correct": false,
-          "feedback": "Incorreto. 360° é a soma dos ângulos internos de um quadrilátero convexo."
+          "feedback": "Incorreto: o teorema trata de comprimentos de segmentos, não de ângulos."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pelo teorema da soma dos ângulos internos de um triângulo na geometria euclidiana, a soma dos três ângulos internos de qualquer triângulo é sempre 180° (ou pi radianos).",
-      "difficulty": "3",
+      "explanation": "O Teorema de Tales afirma que um feixe de retas paralelas determina, sobre duas transversais quaisquer, segmentos proporcionais.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
       "expected_success": 0.8,
-      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -998,43 +998,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v3",
-      "statement": "O Teorema de Tales afirma que se três ou mais retas paralelas são cortadas por duas transversais, então os segmentos determinados nas transversais são:",
-      "context": "Um engenheiro agrimensor em Goiânia analisa um terreno cortado por três linhas paralelas que representam cercas de demarcação e duas linhas transversais representando estradas.",
+      "id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle-v3",
+      "statement": "Um triângulo ABC tem lados 6 cm, 8 cm e 10 cm. Um triângulo DEF é semelhante a ABC com razão de semelhança 2 (DEF é o dobro de ABC). Qual é o perímetro do triângulo DEF?",
+      "context": "Um topógrafo em Belo Horizonte utiliza a semelhança de triângulos para medir a largura de um rio sem atravessá-lo.",
       "options": [
         {
           "letter": "A",
-          "text": "Iguais entre si",
+          "text": "24 cm",
           "is_correct": false,
-          "feedback": "Incorreto. Os segmentos não precisam ter a mesma medida, a relação não é de igualdade linear direta."
+          "feedback": "Incorreto: 24 cm é o perímetro de ABC, não de DEF."
         },
         {
           "letter": "B",
-          "text": "Proporcionais",
-          "is_correct": true,
-          "feedback": "Correto! Os segmentos correspondentes formados nas duas retas transversais são proporcionais."
+          "text": "36 cm",
+          "is_correct": false,
+          "feedback": "Incorreto: o perímetro deve ser multiplicado pela razão 2."
         },
         {
           "letter": "C",
-          "text": "Perpendiculares",
-          "is_correct": false,
-          "feedback": "Incorreto. A relação de perpendicularidade refere-se a ângulos de 90° entre retas, não à proporção entre comprimentos de segmentos."
+          "text": "48 cm",
+          "is_correct": true,
+          "feedback": "Correto: perímetro de ABC = 6 + 8 + 10 = 24 cm; dobrando cada lado, o perímetro é 2 × 24 = 48 cm."
         },
         {
           "letter": "D",
-          "text": "Inversamente proporcionais",
+          "text": "96 cm",
           "is_correct": false,
-          "feedback": "Incorreto. Os segmentos são diretamente proporcionais, ou seja, a razão entre segmentos de uma transversal é igual à razão entre os correspondentes da outra."
+          "feedback": "Incorreto: a razão 2 se aplica aos lados, e o perímetro cresce na razão 2, não na razão 4."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "O Teorema de Tales estabelece que um feixe de retas paralelas determina, sobre duas retas transversais quaisquer, segmentos correspondentes cujas medidas são diretamente proporcionais.",
+      "correct_answer": "C",
+      "explanation": "Em figuras semelhantes, o perímetro varia na mesma razão da semelhança. O perímetro de ABC é 24 cm; multiplicando pela razão 2, obtém-se 48 cm.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
       "expected_success": 0.75,
-      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -1043,43 +1043,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v4",
-      "statement": "Utilizando a semelhança de triângulos formados pelos raios solares paralelos, qual é a altura do prédio?",
-      "context": "Um arquiteto em Salvador deseja determinar a altura de um prédio histórico. No mesmo instante, um poste vertical de 2 metros de altura projeta uma sombra de 3 metros no chão, e a sombra do prédio mede 15 metros.",
+      "id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle-v4",
+      "statement": "Em um triângulo retângulo, a altura relativa à hipotenusa divide a hipotenusa em dois segmentos de medidas 9 cm e 16 cm. Qual é a medida dessa altura?",
+      "context": "Uma estagiária de engenharia em Porto Alegre precisa aplicar as relações métricas do triângulo retângulo para dimensionar uma rampa.",
       "options": [
         {
           "letter": "A",
-          "text": "8 metros",
+          "text": "10 cm",
           "is_correct": false,
-          "feedback": "Incorreto. Verifique a proporção estabelecida entre altura e sombra (H/S = h/s)."
+          "feedback": "Incorreto: 10 é a média aritmética dos segmentos, não a relação métrica correta."
         },
         {
           "letter": "B",
-          "text": "10 metros",
+          "text": "12 cm",
           "is_correct": true,
-          "feedback": "Correto! Montando a proporção H/15 = 2/3, temos H = (2 * 15) / 3 = 10 metros."
+          "feedback": "Correto: pela relação h² = m·n, temos h² = 9 × 16 = 144, logo h = 12 cm."
         },
         {
           "letter": "C",
-          "text": "12 metros",
+          "text": "15 cm",
           "is_correct": false,
-          "feedback": "Incorreto. Se a altura fosse 12m, a sombra deveria ser de 18m para manter a razão 2/3."
+          "feedback": "Incorreto: 15 seria o resultado de 9 + 16 - 10, sem fundamento métrico."
         },
         {
           "letter": "D",
-          "text": "22,5 metros",
+          "text": "25 cm",
           "is_correct": false,
-          "feedback": "Incorreto. Você provavelmente multiplicou 15 por 1,5 em vez de aplicar a proporção correta."
+          "feedback": "Incorreto: 25 é a medida da hipotenusa (9 + 16), não da altura."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Os raios solares determinam triângulos retângulos semelhantes. Assim, a razão entre a altura do prédio (H) e a sua sombra (15 m) é igual à razão entre a altura do poste (2 m) e a sua sombra (3 m): H/15 = 2/3 => 3H = 30 => H = 10 metros.",
+      "explanation": "Nas relações métricas do triângulo retângulo, a altura h relativa à hipotenusa satisfaz h² = m·n, onde m e n são as projeções dos catetos. Assim, h² = 9 × 16 = 144 e h = 12 cm.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
       "expected_success": 0.7,
-      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -1088,43 +1088,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v5",
-      "statement": "Aplicando o Teorema de Pitágoras no triângulo retângulo formado pelo poste, pelo solo e pelo fio, qual deve ser o comprimento linear do fio?",
-      "context": "Um eletricista em São Paulo precisa instalar um fio de suporte tensionado diagonalmente entre o topo de um poste de 8 metros de altura e um gancho no solo situado a 6 metros de distância da base do poste.",
+      "id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle-v5",
+      "statement": "Três terrenos retangulares contíguos têm frentes de 10 m, 15 m e 20 m para a rua A. Pelo fundo, eles são delimitados pela rua B, paralela à rua A. Se o terreno de frente 10 m tem 30 m de profundidade, qual é a profundidade do terreno de frente 20 m?",
+      "context": "Em uma obra em Fortaleza, um mestre de obras precisa dividir um terreno triangular em duas partes proporcionais usando o Teorema de Tales.",
       "options": [
         {
           "letter": "A",
-          "text": "14 metros",
+          "text": "45 m",
           "is_correct": false,
-          "feedback": "Incorreto. Você simplesmente somou os comprimentos dos catetos (8 + 6) em vez de aplicar o Teorema de Pitágoras."
+          "feedback": "Incorreto: 45 m seria a profundidade do terreno de 15 m de frente."
         },
         {
           "letter": "B",
-          "text": "12 metros",
+          "text": "50 m",
           "is_correct": false,
-          "feedback": "Incorreto. Calcule os quadrados dos lados: 8² + 6² = 64 + 36 = 100."
+          "feedback": "Incorreto: a proporção é direta: 10/30 = 20/x resulta em x = 60 m."
         },
         {
           "letter": "C",
-          "text": "10 metros",
+          "text": "60 m",
           "is_correct": true,
-          "feedback": "Correto! Pelo teorema de Pitágoras, c² = 8² + 6² = 64 + 36 = 100. Logo, c = √100 = 10 metros."
+          "feedback": "Correto: por Tales, 10/30 = 20/x, logo x = 60 m."
         },
         {
           "letter": "D",
-          "text": "9,8 metros",
+          "text": "75 m",
           "is_correct": false,
-          "feedback": "Incorreto. Verifique seus cálculos quadráticos; o resultado é um número inteiro exato."
+          "feedback": "Incorreto: valor acima do proporcional esperado."
         }
       ],
       "correct_answer": "C",
-      "explanation": "O triângulo formado é retângulo com catetos medindo 6 m e 8 m. O comprimento do fio é a hipotenusa (c). Pelo Teorema de Pitágoras: c² = a² + b² => c² = 8² + 6² = 64 + 36 = 100 => c = 10 metros.",
-      "difficulty": "5",
+      "explanation": "Pelo Teorema de Tales, as frentes e as profundidades são diretamente proporcionais: 10/30 = 20/x, então x = (20 × 30)/10 = 60 m.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
       "expected_success": 0.65,
-      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -1133,268 +1133,223 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v6",
-      "statement": "Qual é a medida aproximada da altura desse triângulo equilátero?",
-      "context": "Um engenheiro mecânico em Belo Horizonte está desenhando uma engrenagem cujo perfil principal contém um triângulo equilátero de lado igual a 10 cm.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "5,0 cm",
-          "is_correct": false,
-          "feedback": "Incorreto. 5 cm é a metade do lado do triângulo (projeção no cateto), não a altura do triângulo."
-        },
-        {
-          "letter": "B",
-          "text": "5√3 cm",
-          "is_correct": true,
-          "feedback": "Correto! A altura de um triângulo equilátero de lado L é dada pela fórmula h = (L√3)/2. Para L = 10, h = 5√3 cm."
-        },
-        {
-          "letter": "C",
-          "text": "10√3 cm",
-          "is_correct": false,
-          "feedback": "Incorreto. A fórmula da altura divide o produto L√3 por 2, não multiplique apenas."
-        },
-        {
-          "letter": "D",
-          "text": "8,0 cm",
-          "is_correct": false,
-          "feedback": "Incorreto. Embora seja perto de 8,66 cm, a expressão matemática exata é dada por 5√3 cm."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Traçando a altura de um triângulo equilátero, obtemos dois triângulos retângulos com hipotenusa L, cateto L/2 e outro cateto h (altura). Pelo Teorema de Pitágoras: h² + (L/2)² = L² => h² = L² - L²/4 = 3L²/4 => h = (L√3)/2. Para L = 10 cm, h = (10√3)/2 = 5√3 cm.",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.6,
-      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
-      "periodo": 11,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "br"
-    },
-    {
-      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v7",
-      "statement": "Qual é a medida do outro segmento de estrada determinado pelas cercas paralelas na segunda transversal?",
-      "context": "Um topógrafo analisa a planta de uma fazenda onde duas retas transversais representam estradas retas. Três cercas paralelas cortam as estradas determinando segmentos de 4 km e 6 km na primeira estrada, e um segmento de 8 km correspondente ao de 4 km na segunda estrada.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "10 km",
-          "is_correct": false,
-          "feedback": "Incorreto. Verifique a proporção estabelecida pelo teorema de Tales (4/6 = 8/x)."
-        },
-        {
-          "letter": "B",
-          "text": "12 km",
-          "is_correct": true,
-          "feedback": "Correto! Pelo Teorema de Tales: 4 / 6 = 8 / x. Portanto, 4x = 48 => x = 12 km."
-        },
-        {
-          "letter": "C",
-          "text": "16 km",
-          "is_correct": false,
-          "feedback": "Incorreto. 16 km seria se a proporção fosse o dobro, mas a razão correta dá 12 km."
-        },
-        {
-          "letter": "D",
-          "text": "9 km",
-          "is_correct": false,
-          "feedback": "Incorreto. Aplique a propriedade fundamental das proporções multiplicando cruzado."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Aplicando o Teorema de Tales diretamente nas transversais cortadas por paralelas, montamos a igualdade das razões entre os segmentos correspondentes: 4 / 6 = 8 / x. Multiplicando cruzado, temos 4x = 6 * 8 => 4x = 48 => x = 12 km.",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.6,
-      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
-      "periodo": 11,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "br"
-    },
-    {
-      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v8",
-      "statement": "Qual é a medida da altura relativa à hipotenusa dessa rampa?",
-      "context": "Em uma obra viária no Rio de Janeiro, um engenheiro projeta uma rampa de acesso que forma um triângulo retângulo. Ele projeta a altura relativa à hipotenusa e percebe que ela divide a hipotenusa em duas projeções lineares medindo 4 metros e 9 metros.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "5 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Você calculou a média aritmética simples das projeções (4 + 6) / 2 em vez da relação geométrica h² = m * n."
-        },
-        {
-          "letter": "B",
-          "text": "6 metros",
-          "is_correct": true,
-          "feedback": "Correto! Pela relação métrica do triângulo retângulo, a altura h relativa à hipotenusa satisfaz h² = m * n. Logo, h² = 4 * 9 = 36 => h = 6 metros."
-        },
-        {
-          "letter": "C",
-          "text": "13 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. 13 metros é o comprimento total da hipotenusa (4 + 9), não a altura relativa."
-        },
-        {
-          "letter": "D",
-          "text": "7,5 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. A altura relativa à hipotenusa é a média geométrica das projeções, não a média aritmética."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "No triângulo retângulo, uma das relações métricas fundamentais é que o quadrado da altura relativa à hipotenusa (h) é igual ao produto das projeções dos catetos sobre ela (m e n): h² = m * n. Substituindo os valores dados: h² = 4 * 9 = 36 => h = 6 metros.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.55,
-      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
-      "periodo": 11,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "br"
-    },
-    {
-      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v9",
-      "statement": "Qual é o comprimento desse cateto cuja projeção sobre a hipotenusa foi informada?",
-      "context": "Um marceneiro está criando um molde triangular retângulo. Ele sabe que a hipotenusa mede 10 cm e a projeção de um dos catetos sobre a hipotenusa mede 3,6 cm.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "36 cm",
-          "is_correct": false,
-          "feedback": "Incorreto. Você multiplicou 10 por 3,6 mas esqueceu de extrair a raiz quadrada da relação b² = a * m."
-        },
-        {
-          "letter": "B",
-          "text": "6,0 cm",
-          "is_correct": true,
-          "feedback": "Correto! Pela relação métrica b² = a * m, onde a é a hipotenusa e m é a projeção: b² = 10 * 3,6 = 36. Logo, b = √36 = 6,0 cm."
-        },
-        {
-          "letter": "C",
-          "text": "8,0 cm",
-          "is_correct": false,
-          "feedback": "Incorreto. 8 cm seria o outro cateto, cuja projeção sobre a hipotenusa é 6,4 cm."
-        },
-        {
-          "letter": "D",
-          "text": "4,5 cm",
-          "is_correct": false,
-          "feedback": "Incorreto. Utilize a fórmula correta do cateto ao quadrado igual ao produto da hipotenusa pela sua projeção."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "No triângulo retângulo, o quadrado de um cateto é igual ao produto da hipotenusa pela projeção desse cateto sobre ela: b² = a * m. Substituindo os dados: b² = 10 * 3,6 = 36 => b = 6 cm.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.55,
-      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
-      "periodo": 11,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "br"
-    },
-    {
-      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v10",
-      "statement": "Sabendo que esse triângulo é retângulo por estar inscrito em uma semicircunferência, e que um de seus catetos mede 12 cm, qual é a medida do outro cateto?",
-      "context": "Um serralheiro em Campinas desenha uma peça decorativa circular. Ele traça um diâmetro de 20 cm e inscreve um triângulo com um dos lados coincidindo com o diâmetro, garantindo que o terceiro vértice toque a circunferência.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "14 cm",
-          "is_correct": false,
-          "feedback": "Incorreto. Verifique a aplicação do Teorema de Pitágoras com hipotenusa valendo 20 cm."
-        },
-        {
-          "letter": "B",
-          "text": "15 cm",
-          "is_correct": false,
-          "feedback": "Incorreto. Se os catetos fossem 12 e 15, a hipotenusa seria maior que 19."
-        },
-        {
-          "letter": "C",
-          "text": "16 cm",
-          "is_correct": true,
-          "feedback": "Correto! A hipotenusa é o diâmetro (20 cm) e um cateto é 12 cm. Por Pitágoras: 20² = 12² + x² => 400 = 144 + x² => x² = 256 => x = 16 cm."
-        },
-        {
-          "letter": "D",
-          "text": "18 cm",
-          "is_correct": false,
-          "feedback": "Incorreto. Calcule os quadrados dos lados com atenção e resolva para x."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Qualquer triângulo inscrito em uma circunferência onde um dos lados é o diâmetro é retângulo, com a hipotenusa igual ao diâmetro. Portanto, temos a hipotenusa a = 20 cm e o cateto b = 12 cm. Pelo Teorema de Pitágoras: a² = b² + c² => 20² = 12² + c² => 400 = 144 + c² => c² = 256 => c = 16 cm.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.5,
-      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
-      "periodo": 11,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "br"
-    },
-    {
-      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v11",
-      "statement": "Se a razão de semelhança entre o triângulo menor e o maior é de 2/3, e a área do triângulo menor é 24 cm², qual é a área do triângulo maior?",
-      "context": "Um estudante em São Paulo estuda mapas e ampliações de terrenos. Ele sabe que se dois triângulos são semelhantes, a razão entre suas áreas é igual ao quadrado da razão de semelhança (k²).",
+      "id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle-v6",
+      "statement": "Dois triângulos semelhantes têm razão de semelhança 3 (o segundo é 3 vezes maior que o primeiro). Se a área do menor é 12 cm², qual é a área do maior?",
+      "context": "Um professor em Salvador explica que a razão entre as áreas de figuras semelhantes depende da razão de semelhança.",
       "options": [
         {
           "letter": "A",
           "text": "36 cm²",
           "is_correct": false,
-          "feedback": "Incorreto. Você multiplicou pela razão linear inversa (3/2) em vez da razão quadrática (9/4)."
+          "feedback": "Incorreto: 36 seria o resultado se a área crescesse na razão 3, mas ela cresce na razão ao quadrado."
         },
         {
           "letter": "B",
-          "text": "54 cm²",
+          "text": "108 cm²",
           "is_correct": true,
-          "feedback": "Correto! A razão das áreas é (2/3)² = 4/9. Logo, 24 / A_maior = 4/9 => 4 * A_maior = 216 => A_maior = 54 cm²."
+          "feedback": "Correto: a área cresce na razão 3² = 9, logo 12 × 9 = 108 cm²."
         },
         {
           "letter": "C",
-          "text": "48 cm²",
+          "text": "72 cm²",
           "is_correct": false,
-          "feedback": "Incorreto. Lembre-se de que a área cresce com o quadrado da escala, não de forma linear pura."
+          "feedback": "Incorreto: razão 6 seria o dobro da razão dada."
         },
         {
           "letter": "D",
-          "text": "81 cm²",
+          "text": "144 cm²",
           "is_correct": false,
-          "feedback": "Incorreto. A proporção quadrática correta de aumento resulta em 54 cm²."
+          "feedback": "Incorreto: valor correspondente à razão 12, não à razão 3."
         }
       ],
       "correct_answer": "B",
-      "explanation": "A razão entre as áreas de figuras semelhantes é dada pelo quadrado da razão de semelhança: A1 / A2 = k². Se k = 2/3, então k² = 4/9. Estabelecemos a proporção: 24 / A2 = 4/9. Multiplicando cruzado: 4 * A2 = 24 * 9 = 216 => A2 = 54 cm².",
-      "difficulty": "7",
+      "explanation": "Em figuras semelhantes, a razão entre as áreas é o quadrado da razão de semelhança. Com razão 3, a razão das áreas é 9, então a área do maior é 12 × 9 = 108 cm².",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle-v7",
+      "statement": "Uma vareta de 1 m projeta uma sombra de 0,8 m no mesmo instante em que um poste projeta uma sombra de 4 m. Qual é a altura do poste?",
+      "context": "Em uma aula prática em Recife, os alunos usam uma vareta de 1 m para estimar a altura de um poste pela sombra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3,2 m",
+          "is_correct": false,
+          "feedback": "Incorreto: 3,2 m seria o resultado se a sombra e a altura fossem proporcionais de forma invertida."
+        },
+        {
+          "letter": "B",
+          "text": "5 m",
+          "is_correct": true,
+          "feedback": "Correto: 1/0,8 = h/4, logo h = 4/0,8 = 5 m."
+        },
+        {
+          "letter": "C",
+          "text": "4,8 m",
+          "is_correct": false,
+          "feedback": "Incorreto: valor próximo, mas a proporção correta resulta em 5 m."
+        },
+        {
+          "letter": "D",
+          "text": "6 m",
+          "is_correct": false,
+          "feedback": "Incorreto: a razão entre sombras é 4/0,8 = 5, então a altura deve ser 5 × 1 = 5 m."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Os triângulos formados pela vareta e pelo poste com suas sombras são semelhantes. Assim, 1/0,8 = h/4, o que dá h = 5 m.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle-v8",
+      "statement": "Na figura do enunciado, três retas paralelas são cortadas por duas transversais. Em uma transversal, os segmentos medem 6 cm e 9 cm; na outra, o segmento correspondente ao de 6 cm mede 8 cm. Qual é a medida do outro segmento na segunda transversal?",
+      "context": "Um estudante em Manaus resolve uma questão do ENEM sobre divisão de um segmento em partes proporcionais.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10,5 cm",
+          "is_correct": false,
+          "feedback": "Incorreto: não corresponde à proporção 6/8 = 9/x."
+        },
+        {
+          "letter": "B",
+          "text": "12 cm",
+          "is_correct": true,
+          "feedback": "Correto: 6/8 = 9/x, logo x = (9 × 8)/6 = 12 cm."
+        },
+        {
+          "letter": "C",
+          "text": "13,5 cm",
+          "is_correct": false,
+          "feedback": "Incorreto: 13,5 seria o resultado de aplicar a razão 9/6 ao segmento de 9 cm, na direção errada."
+        },
+        {
+          "letter": "D",
+          "text": "16 cm",
+          "is_correct": false,
+          "feedback": "Incorreto: valor sem relação com os segmentos dados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pelo Teorema de Tales, os segmentos são proporcionais: 6/8 = 9/x. Resolvendo, x = (9 × 8)/6 = 12 cm.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle-v9",
+      "statement": "Em um triângulo retângulo, as projeções dos catetos sobre a hipotenusa medem 4 cm e 9 cm. Qual é a medida da hipotenusa?",
+      "context": "Um projetista em Goiânia dimensiona uma caixa d'água cuja tampa é um quadrado inscrito em um triângulo retângulo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "13 cm",
+          "is_correct": true,
+          "feedback": "Correto: a hipotenusa é a soma das projeções: 4 + 9 = 13 cm."
+        },
+        {
+          "letter": "B",
+          "text": "36 cm",
+          "is_correct": false,
+          "feedback": "Incorreto: 36 é o produto das projeções, não a hipotenusa."
+        },
+        {
+          "letter": "C",
+          "text": "6,5 cm",
+          "is_correct": false,
+          "feedback": "Incorreto: 6,5 é a média das projeções, não a hipotenusa."
+        },
+        {
+          "letter": "D",
+          "text": "25 cm",
+          "is_correct": false,
+          "feedback": "Incorreto: valor sem relação direta com as projeções dadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Nas relações métricas, a projeção da altura sobre a hipotenusa divide-a em dois segmentos m e n cuja soma é a própria hipotenusa: a = m + n = 4 + 9 = 13 cm.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle-v10",
+      "statement": "Os triângulos ABC e DEF são semelhantes, com AB = 5 cm, BC = 7 cm e AC = 8 cm. No triângulo DEF, o lado correspondente a AB mede 15 cm. Qual é a medida do lado correspondente a BC?",
+      "context": "Um engenheiro em Campinas verifica se uma estrutura triangular está em escala correta comparando as medidas de duas peças.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "14 cm",
+          "is_correct": false,
+          "feedback": "Incorreto: 14 seria o dobro de 7, mas a razão de semelhança é 3."
+        },
+        {
+          "letter": "B",
+          "text": "21 cm",
+          "is_correct": true,
+          "feedback": "Correto: a razão de semelhança é 15/5 = 3, então o lado correspondente a BC mede 7 × 3 = 21 cm."
+        },
+        {
+          "letter": "C",
+          "text": "24 cm",
+          "is_correct": false,
+          "feedback": "Incorreto: 24 é o triplo de 8, que corresponde ao lado AC."
+        },
+        {
+          "letter": "D",
+          "text": "28 cm",
+          "is_correct": false,
+          "feedback": "Incorreto: valor sem correspondência com a razão de semelhança."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A razão de semelhança é k = 15/5 = 3. Todos os lados correspondentes são multiplicados por 3, logo o lado correspondente a BC mede 7 × 3 = 21 cm.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "expected_success": 0.5,
-      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -1403,43 +1358,88 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v12",
-      "statement": "Qual é o comprimento do outro segmento do lado BC determinado pela bissetriz?",
-      "context": "Um projetista mecânico em Joinville aplica o Teorema da Bissetriz Interna em um triângulo ABC para dividir tensões estruturais. No triângulo, os lados AB e AC medem 12 cm e 18 cm, respectivamente. A bissetriz interna do ângulo A corta o lado BC, determinando dois segmentos, dos quais o menor (ligado a AB) mede 6 cm.",
+      "id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle-v11",
+      "statement": "Em um mapa, a rua Augusta e a rua Consolação são paralelas e cortadas pela avenida Paulista e pela avenida Faria Lima. Na avenida Paulista, os trechos entre as ruas medem 12 cm e 18 cm. Na avenida Faria Lima, o trecho correspondente ao de 12 cm mede 9 cm. Qual é a medida do trecho correspondente ao de 18 cm?",
+      "context": "Um cartógrafo em Brasília usa o Teorema de Tales para calcular distâncias em um mapa com ruas paralelas.",
       "options": [
         {
           "letter": "A",
-          "text": "8 cm",
+          "text": "12 cm",
           "is_correct": false,
-          "feedback": "Incorreto. Aplique a relação correta da bissetriz interna: os segmentos são proporcionais aos lados adjacentes."
+          "feedback": "Incorreto: a proporcionalidade dá 13,5 cm, não 12 cm."
         },
         {
           "letter": "B",
-          "text": "9 cm",
-          "is_correct": true,
-          "feedback": "Correto! Pelo Teorema da Bissetriz Interna: AB / 6 = AC / y => 12 / 6 = 18 / y => 2 = 18 / y => y = 9 cm."
+          "text": "15 cm",
+          "is_correct": false,
+          "feedback": "Incorreto: 15 é a média aritmética dos trechos da Paulista."
         },
         {
           "letter": "C",
-          "text": "10 cm",
-          "is_correct": false,
-          "feedback": "Incorreto. Verifique a divisão direta dos valores correspondentes."
+          "text": "13,5 cm",
+          "is_correct": true,
+          "feedback": "Correto: 12/9 = 18/x, logo x = (18 × 9)/12 = 13,5 cm."
         },
         {
           "letter": "D",
-          "text": "12 cm",
+          "text": "24 cm",
           "is_correct": false,
-          "feedback": "Incorreto. O segmento correspondente ao lado de 18 cm deve ser proporcional à razão entre 12 e 18, resultando em 9 cm."
+          "feedback": "Incorreto: 24 seria 12 + 12, sem base proporcional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pelo Teorema de Tales, 12/9 = 18/x ⇒ x = 162/12 = 13,5 cm.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle-v12",
+      "statement": "Em um triângulo retângulo, a hipotenusa mede 25 cm e um dos catetos mede 7 cm. Qual é a medida da projeção desse cateto sobre a hipotenusa?",
+      "context": "Um professor de matemática em Florianópolis propõe um desafio envolvendo duas relações métricas simultâneas do triângulo retângulo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2,8 cm",
+          "is_correct": false,
+          "feedback": "Incorreto: valor da projeção do outro cateto."
+        },
+        {
+          "letter": "B",
+          "text": "1,96 cm",
+          "is_correct": true,
+          "feedback": "Correto: o outro cateto mede 24 cm (tripla pitagórica 7-24-25), e pela relação b² = a·n, n = 49/25 = 1,96 cm."
+        },
+        {
+          "letter": "C",
+          "text": "4,8 cm",
+          "is_correct": false,
+          "feedback": "Incorreto: valor da altura relativa à hipotenusa, não da projeção."
+        },
+        {
+          "letter": "D",
+          "text": "6,4 cm",
+          "is_correct": false,
+          "feedback": "Incorreto: sem relação com as medidas dadas."
         }
       ],
       "correct_answer": "B",
-      "explanation": "O Teorema da Bissetriz Interna garante que a bissetriz de um ângulo interno de um triângulo divide o lado oposto em segmentos proporcionais aos lados adjacentes. Portanto: AB / segment1 = AC / segment2 => 12 / 6 = 18 / x => 2 = 18 / x => x = 9 cm.",
-      "difficulty": "7",
+      "explanation": "Pelo teorema de Pitágoras, o outro cateto é √(625 − 49) = √576 = 24 cm. Pela relação métrica b² = a·n (cateto ao quadrado igual à hipotenusa vezes sua projeção), a projeção do cateto de 7 cm é n = 49/25 = 1,96 cm.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "expected_success": 0.45,
-      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -1448,43 +1448,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v13",
-      "statement": "Qual é a distância em linha reta percorrida pelo drone desde o heliponto até esta posição no espaço?",
-      "context": "Um drone decolando de um heliponto em Vitória sobe em linha reta mantendo uma inclinação constante. Quando a projeção horizontal do drone no solo está a 120 metros do ponto de partida, sua altitude vertical em relação ao solo é de 90 metros.",
+      "id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle-v13",
+      "statement": "Um quadrado de lado 4 cm é ampliado, com todos os lados multiplicados por 1,5. Qual é a razão entre a área do quadrado ampliado e a área do quadrado original?",
+      "context": "Em uma aula preparatória para o ENEM em Natal, os alunos analisam a razão entre áreas de figuras semelhantes.",
       "options": [
         {
           "letter": "A",
-          "text": "130 metros",
+          "text": "1,5",
           "is_correct": false,
-          "feedback": "Incorreto. Verifique os valores do Teorema de Pitágoras com catetos 90 e 120."
+          "feedback": "Incorreto: 1,5 é a razão linear, não a razão entre as áreas."
         },
         {
           "letter": "B",
-          "text": "150 metros",
+          "text": "2,25",
           "is_correct": true,
-          "feedback": "Correto! Pelo Teorema de Pitágoras, d² = 120² + 90² = 14400 + 8100 = 22500. Logo, d = √22500 = 150 metros."
+          "feedback": "Correto: a razão entre as áreas é o quadrado da razão linear: 1,5² = 2,25."
         },
         {
           "letter": "C",
-          "text": "160 metros",
+          "text": "3",
           "is_correct": false,
-          "feedback": "Incorreto. Este triângulo retângulo é proporcional ao triângulo clássico de lados 3, 4 e 5, multiplicado por 30."
+          "feedback": "Incorreto: 3 seria 1,5 × 2, sem fundamento geométrico."
         },
         {
           "letter": "D",
-          "text": "210 metros",
+          "text": "6",
           "is_correct": false,
-          "feedback": "Incorreto. Não se deve simplesmente somar as duas projeções planares para obter a distância diagonal tridimensional."
+          "feedback": "Incorreto: 6 é a razão entre os perímetros multiplicada por 2, não a razão de áreas."
         }
       ],
       "correct_answer": "B",
-      "explanation": "A trajetória diagonal do drone, a distância horizontal e a altitude formam um triângulo retângulo. Usando o Teorema de Pitágoras: Hipotenusa² = Cateto1² + Cateto2² => d² = 120² + 90² = 14400 + 8100 = 22500 => d = √22500 = 150 metros. Este triângulo é uma ampliação por fator 30 do triângulo retângulo pitagórico fundamental (3, 4, 5).",
-      "difficulty": "7",
+      "explanation": "Para figuras semelhantes, a razão entre as áreas é o quadrado da razão de semelhança: k² = 1,5² = 2,25. A área passa de 16 cm² para 36 cm², e 36/16 = 2,25.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "expected_success": 0.45,
-      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -1493,133 +1493,133 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v14",
-      "statement": "Qual é a distância entre o vértice A e o baricentro G da placa?",
-      "context": "Uma placa de metal triangular ABC homogênea tem seu centro de gravidade situado exatamente em seu baricentro G. Um engenheiro sabe que as medianas se intersectam nesse ponto. A mediana relativa ao vértice A mede 18 cm.",
+      "id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle-v14",
+      "statement": "Um triângulo tem lados 6 cm, 8 cm e 10 cm. Outro triângulo tem lados 9 cm, 12 cm e 15 cm. Os triângulos são semelhantes?",
+      "context": "Um estudante em Belém analisa dois triângulos para decidir, pelos critérios de semelhança, se eles são semelhantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Não, porque as áreas são diferentes",
+          "is_correct": false,
+          "feedback": "Incorreto: áreas diferentes não impedem semelhança."
+        },
+        {
+          "letter": "B",
+          "text": "Sim, porque os lados correspondentes são proporcionais na razão 1,5",
+          "is_correct": true,
+          "feedback": "Correto: 6/9 = 8/12 = 10/15 = 2/3, logo a razão entre o primeiro e o segundo é 1,5."
+        },
+        {
+          "letter": "C",
+          "text": "Não, porque os triângulos têm perímetros diferentes",
+          "is_correct": false,
+          "feedback": "Incorreto: perímetros diferentes são esperados em figuras semelhantes com razão diferente de 1."
+        },
+        {
+          "letter": "D",
+          "text": "Sim, porque ambos têm um ângulo de 90°",
+          "is_correct": false,
+          "feedback": "Incorreto: apenas o fato de serem retângulos não garante semelhança sem a proporção dos lados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pelo critério LLL (lado-lado-lado), dois triângulos são semelhantes se os lados correspondentes são proporcionais. Aqui, 6/9 = 8/12 = 10/15 = 2/3, confirmando a semelhança.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle-v15",
+      "statement": "Uma árvore projeta uma sombra de 12 m, enquanto uma pessoa de 1,8 m projeta uma sombra de 2,4 m no mesmo instante. Qual é a altura da árvore?",
+      "context": "Um engenheiro florestal em Cuiabá usa a semelhança de triângulos para estimar a altura de uma árvore a partir de sua sombra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 m",
+          "is_correct": false,
+          "feedback": "Incorreto: 8 m corresponderia a uma razão invertida."
+        },
+        {
+          "letter": "B",
+          "text": "9 m",
+          "is_correct": true,
+          "feedback": "Correto: 1,8/2,4 = h/12, logo h = (1,8 × 12)/2,4 = 9 m."
+        },
+        {
+          "letter": "C",
+          "text": "10 m",
+          "is_correct": false,
+          "feedback": "Incorreto: valor aproximado, mas a proporção exata resulta em 9 m."
+        },
+        {
+          "letter": "D",
+          "text": "16 m",
+          "is_correct": false,
+          "feedback": "Incorreto: 16 é o resultado de multiplicar a sombra pela altura da pessoa, sem proporção."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Os triângulos formados por pessoa/sombra e árvore/sombra são semelhantes: 1,8/2,4 = h/12, então h = (1,8 × 12)/2,4 = 21,6/2,4 = 9 m.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle-v16",
+      "statement": "Um feixe de paralelas determina, sobre uma transversal, segmentos de 3 cm e 5 cm. Sobre outra transversal, o segmento correspondente ao de 3 cm mede 4,5 cm. Quanto mede o segmento correspondente ao de 5 cm?",
+      "context": "Em uma olimpíada de matemática em Teresina, propõe-se o uso combinado do Teorema de Tales com a semelhança de triângulos.",
       "options": [
         {
           "letter": "A",
           "text": "6 cm",
           "is_correct": false,
-          "feedback": "Incorreto. 6 cm é a distância do baricentro até o ponto médio do lado oposto (1/3 da mediana)."
+          "feedback": "Incorreto: 6 resultaria de 4,5 + 1,5, sem base proporcional."
         },
         {
           "letter": "B",
-          "text": "12 cm",
+          "text": "7,5 cm",
           "is_correct": true,
-          "feedback": "Correto! O baricentro divide cada mediana na razão de 2:1 a partir do vértice. Logo, a distância AG é igual a 2/3 do comprimento total da mediana: (2/3) * 18 = 12 cm."
+          "feedback": "Correto: 3/4,5 = 5/x, logo x = (5 × 4,5)/3 = 7,5 cm."
         },
         {
           "letter": "C",
+          "text": "8 cm",
+          "is_correct": false,
+          "feedback": "Incorreto: valor acima do proporcional."
+        },
+        {
+          "letter": "D",
           "text": "9 cm",
           "is_correct": false,
-          "feedback": "Incorreto. O baricentro não divide a mediana ao meio (1:1), mas na proporção de 2 partes para 1 parte."
-        },
-        {
-          "letter": "D",
-          "text": "15 cm",
-          "is_correct": false,
-          "feedback": "Incorreto. A distância do baricentro ao vértice é exatamente o dobro da distância ao ponto médio do lado."
+          "feedback": "Incorreto: 9 seria o dobro de 4,5, sem relação com a proporção dada."
         }
       ],
       "correct_answer": "B",
-      "explanation": "O baricentro (ponto de encontro das medianas) divide cada mediana em duas partes, tais que a parte que contém o vértice é o dobro da parte que contém o ponto médio do lado. Em outras palavras, a distância do vértice ao baricentro é 2/3 do comprimento total da mediana. Portanto, AG = (2/3) * 18 = 12 cm.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.4,
-      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
-      "periodo": 11,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "br"
-    },
-    {
-      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v15",
-      "statement": "Qual é a medida linear do lado AD dessa chapa metálica?",
-      "context": "Um serralheiro precisa cortar uma chapa metálica de formato de dois triângulos retângulos adjacentes ABC e ACD, que compartilham o lado AC. Sabe-se que AB = 3 cm, BC = 4 cm, e o ângulo B é reto. O triângulo ACD é retângulo em C, e o lado CD mede 12 cm.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "10 cm",
-          "is_correct": false,
-          "feedback": "Incorreto. Calcule primeiro a hipotenusa compartilhada AC usando o primeiro triângulo (3, 4, 5)."
-        },
-        {
-          "letter": "B",
-          "text": "13 cm",
-          "is_correct": true,
-          "feedback": "Correto! No triângulo ABC, AC² = 3² + 4² = 25 => AC = 5 cm. No triângulo ACD, AD² = AC² + CD² = 5² + 12² = 25 + 144 = 169 => AD = 13 cm."
-        },
-        {
-          "letter": "C",
-          "text": "15 cm",
-          "is_correct": false,
-          "feedback": "Incorreto. Verifique a soma dos quadrados das hipotenusas em cada etapa de aplicação de Pitágoras."
-        },
-        {
-          "letter": "D",
-          "text": "17 cm",
-          "is_correct": false,
-          "feedback": "Incorreto. Os comprimentos são obtidos sequencialmente e formam triângulos pitagóricos exatos."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Aplicamos o Teorema de Pitágoras duas vezes: 1) No triângulo ABC retângulo em B: AC² = AB² + BC² = 3² + 4² = 9 + 16 = 25 => AC = 5 cm. 2) No triângulo ACD retângulo em C: AD² = AC² + CD² = 5² + 12² = 25 + 144 = 169 => AD = √169 = 13 cm.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.4,
-      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
-      "periodo": 11,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "br"
-    },
-    {
-      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v16",
-      "statement": "Qual é a área total desse canteiro triangular em metros quadrados?",
-      "context": "Um paisagista em Londrina projeta um canteiro de flores no formato de um triângulo isósceles cujos lados congruentes medem 13 metros cada, e a base mede 10 metros.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "65 m²",
-          "is_correct": false,
-          "feedback": "Incorreto. Você multiplicou a base pela lateral diretamente (10 * 13 / 2), mas a altura do triângulo é menor que o lado congruente."
-        },
-        {
-          "letter": "B",
-          "text": "60 m²",
-          "is_correct": true,
-          "feedback": "Correto! A altura h divide a base ao meio em dois segmentos de 5 m. Por Pitágoras: 13² = 5² + h² => 169 = 25 + h² => h = 12 m. Área = (base * altura) / 2 = (10 * 12) / 2 = 60 m²."
-        },
-        {
-          "letter": "C",
-          "text": "120 m²",
-          "is_correct": false,
-          "feedback": "Incorreto. Esqueceu de dividir o produto da base pela altura por 2 na fórmula da área triangular."
-        },
-        {
-          "letter": "D",
-          "text": "50 m²",
-          "is_correct": false,
-          "feedback": "Incorreto. Encontre primeiro a altura correta do triângulo isósceles usando Pitágoras."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "No triângulo isósceles de lados 13, 13 e base 10, a altura em relação à base também é mediana, dividindo-a em dois segmentos de 5 m. Aplicando o Teorema de Pitágoras em um dos triângulos retângulos formados: 13² = 5² + h² => 169 = 25 + h² => h² = 144 => h = 12 m. A área é A = (base * altura)/2 = (10 * 12)/2 = 60 m².",
+      "explanation": "Pelo Teorema de Tales: 3/4,5 = 5/x ⇒ x = 22,5/3 = 7,5 cm.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "expected_success": 0.35,
-      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -1628,43 +1628,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v17",
-      "statement": "Qual é o valor real da projeção de menor comprimento (x) nesse triângulo?",
-      "context": "Durante um teste de qualificação mecânica na USP, uma prensa exerce uma força sobre um braço metálico em formato triangular retângulo. No triângulo ABC, retângulo em A, sabe-se que as projeções dos catetos sobre a hipotenusa medem x e x+7, e a altura relativa à hipotenusa mede 12 cm.",
+      "id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle-v17",
+      "statement": "Dois triângulos semelhantes têm áreas de 18 cm² e 50 cm². Qual é a razão de semelhança entre o triângulo menor e o maior?",
+      "context": "Um matemático em São José dos Campos avalia a validade de uma generalização sobre a altura de triângulos semelhantes.",
       "options": [
         {
           "letter": "A",
-          "text": "5 cm",
-          "is_correct": false,
-          "feedback": "Incorreto. Se x=5, as projeções seriam 5 e 12, h² seria 60, diferente de 144."
+          "text": "3/5",
+          "is_correct": true,
+          "feedback": "Correto: a razão das áreas é 18/50 = 9/25, e a razão linear é a raiz quadrada: 3/5."
         },
         {
           "letter": "B",
-          "text": "9 cm",
-          "is_correct": true,
-          "feedback": "Correto! Pela relação h² = m * n, temos 12² = x(x+7) => 144 = x² + 7x => x² + 7x - 144 = 0. As raízes são 9 e -16. Sendo x positivo, x = 9 cm."
+          "text": "9/25",
+          "is_correct": false,
+          "feedback": "Incorreto: 9/25 é a razão entre as áreas, não entre os lados."
         },
         {
           "letter": "C",
-          "text": "16 cm",
+          "text": "2/3",
           "is_correct": false,
-          "feedback": "Incorreto. 16 cm é o valor absoluto da raiz negativa da equação quadrática, mas o comprimento físico deve ser positivo."
+          "feedback": "Incorreto: não corresponde à raiz de 18/50."
         },
         {
           "letter": "D",
-          "text": "12 cm",
+          "text": "5/3",
           "is_correct": false,
-          "feedback": "Incorreto. Desenvolva a equação quadrática com base nas projeções e na altura relativa informada."
+          "feedback": "Incorreto: é a razão inversa, entre o maior e o menor."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Pela relação métrica clássica no triângulo retângulo: h² = m * n. Substituindo os valores dados: 12² = x * (x + 7) => 144 = x² + 7x => x² + 7x - 144 = 0. Resolvendo esta equação quadrática por Bhaskara ou fatoração: (x - 9)(x + 16) = 0. Como x representa uma grandeza física linear, descartamos a raiz negativa x = -16. Portanto, x = 9 cm.",
-      "difficulty": "9",
+      "correct_answer": "A",
+      "explanation": "A razão entre as áreas é o quadrado da razão de semelhança: k² = 18/50 = 9/25, então k = √(9/25) = 3/5.",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
       "expected_success": 0.3,
-      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -1673,43 +1673,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v18",
-      "statement": "Qual é a menor distância real aproximada que a formiga deve percorrer caminhando sobre as faces externas do bloco para ir de A até G?",
-      "context": "Uma formiga está no vértice inferior A de um bloco de concreto em formato de paralelepípedo reto-retângulo com dimensões de 3 dm, 4 dm e 12 dm, e deseja caminhar pela superfície até o vértice oposto diagonalmente mais distante G.",
+      "id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle-v18",
+      "statement": "Em um triângulo retângulo, a soma das projeções dos catetos sobre a hipotenusa é 25 cm e o produto dessas projeções é 144 cm². Qual é a medida da altura relativa à hipotenusa?",
+      "context": "Um pesquisador em Vitória investiga a relação entre as projeções dos catetos em triângulos retângulos semelhantes.",
       "options": [
         {
           "letter": "A",
-          "text": "13 dm",
+          "text": "10 cm",
           "is_correct": false,
-          "feedback": "Incorreto. 13 dm é a diagonal interna tridimensional do bloco (√(3² + 4² + 12²)), mas a formiga não pode atravessar o concreto por dentro."
+          "feedback": "Incorreto: 10 é a média aritmética das projeções."
         },
         {
           "letter": "B",
-          "text": "15 dm",
-          "is_correct": false,
-          "feedback": "Incorreto. 15 dm seria o caminho se ela seguisse caminhos ortogonais específicos de maior comprimento."
+          "text": "12 cm",
+          "is_correct": true,
+          "feedback": "Correto: pela relação h² = m·n = 144, logo h = 12 cm."
         },
         {
           "letter": "C",
-          "text": "19 dm",
+          "text": "15 cm",
           "is_correct": false,
-          "feedback": "Incorreto. 19 dm é a soma linear das três arestas (3 + 4 + 12), o que não representa o caminho mais curto na superfície."
+          "feedback": "Incorreto: 15 não satisfaz h² = 144."
         },
         {
           "letter": "D",
-          "text": "√193 dm",
-          "is_correct": true,
-          "feedback": "Correto! Analisando as possíveis planificações das faces do bloco, os catetos do triângulo de menor caminho são (3 + 4) = 7 dm e 12 dm. A hipotenusa é dada por √(7² + 12²) = √(49 + 144) = √193 dm."
+          "text": "20 cm",
+          "is_correct": false,
+          "feedback": "Incorreto: 20 é próximo da hipotenusa (25), não da altura."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "A formiga caminha sobre a superfície (espaço bidimensional planificado), logo devemos analisar a planificação do sólido. Existem três maneiras de combinar as faces para ir de um vértice ao oposto diagonalmente: 1) Catetos (3+4)=7 e 12 => d² = 7² + 12² = 193 => d = √193 dm. 2) Catetos (3+12)=15 e 4 => d² = 15² + 4² = 241 => d = √241 dm. 3) Catetos 3 e (4+12)=16 => d² = 3² + 16² = 265 => d = √265 dm. O menor desses valores é √193 dm.",
-      "difficulty": "9",
+      "correct_answer": "B",
+      "explanation": "A soma das projeções é a hipotenusa (a = 25) e o produto m·n = 144. A relação métrica da altura é h² = m·n, então h = √144 = 12 cm.",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
       "expected_success": 0.25,
-      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -1718,43 +1718,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v19",
-      "statement": "Utilizando as relações de semelhança de triângulos e a altura do triângulo retângulo, qual é a medida linear exata do lado desse quadrado?",
-      "context": "Um marceneiro projeta um painel decorativo composto por um triângulo retângulo de catetos medindo 6 dm e 8 dm. Ele precisa inscrever um quadrado dentro desse triângulo de modo que um dos lados do quadrado fique apoiado totalmente sobre a hipotenusa.",
+      "id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle-v19",
+      "statement": "Duas pirâmides semelhantes têm volumes 27 cm³ e 125 cm³. Qual é a razão entre as alturas da pirâmide menor e da maior?",
+      "context": "Um candidato ao ITA em São Paulo resolve um problema que combina semelhança de triângulos e razão entre volumes de sólidos semelhantes.",
       "options": [
         {
           "letter": "A",
-          "text": "2,4 dm",
-          "is_correct": false,
-          "feedback": "Incorreto. 2,4 dm é a metade da altura relativa à hipotenusa, mas não corresponde ao lado do quadrado inscrito."
+          "text": "3/5",
+          "is_correct": true,
+          "feedback": "Correto: a razão dos volumes é (razão linear)³, então k = ∛(27/125) = 3/5."
         },
         {
           "letter": "B",
-          "text": "37,5/12 dm",
+          "text": "9/25",
           "is_correct": false,
-          "feedback": "Incorreto. Esse valor excede o limite físico geométrico para inscrição."
+          "feedback": "Incorreto: 9/25 seria a razão entre as áreas das bases."
         },
         {
           "letter": "C",
-          "text": "120/49 dm",
+          "text": "27/125",
           "is_correct": false,
-          "feedback": "Incorreto. Verifique a formulação das proporções com cuidado utilizando a semelhança de triângulos."
+          "feedback": "Incorreto: 27/125 é a razão entre os volumes, não entre as alturas."
         },
         {
           "letter": "D",
-          "text": "120/53 dm",
-          "is_correct": true,
-          "feedback": "Correto! A hipotenusa do triângulo é a = 10 dm e a altura relativa à hipotenusa é h = 4,8 dm. Pela semelhança de triângulos, o lado x do quadrado apoiado na hipotenusa satisfaz x = (a * h) / (a + h + (b*c/a)), que resulta exatamente em x = 120/53 dm (aproximadamente 2,26 dm)."
+          "text": "5/3",
+          "is_correct": false,
+          "feedback": "Incorreto: é a razão inversa."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "No triângulo retângulo de catetos b = 6 dm e c = 8 dm, a hipotenusa é a = 10 dm e a altura relativa à hipotenusa é h = 4,8 dm. Quando um quadrado de lado x é inscrito com um lado sobre a hipotenusa, os triângulos retângulos menores formados no topo e nas laterais são semelhantes ao triângulo original. A análise rigorosa de semelhança leva à relação x = (a * h) / (a + h + (b*c/a)), que resulta em x = 120/53 dm.",
+      "correct_answer": "A",
+      "explanation": "Em sólidos semelhantes, a razão entre os volumes é o cubo da razão linear. Assim, k³ = 27/125, logo k = ∛(27/125) = 3/5.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
       "expected_success": 0.2,
-      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -1763,43 +1763,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle-v20",
-      "statement": "Qual é a medida linear do segmento paralelo EF situado entre as bases?",
-      "context": "Em um canteiro de obras em São José dos Campos, um engenheiro projeta uma rampa de formato trapezoidal ABCD, onde as bases paralelas AB e CD medem 10 metros e 15 metros, respectivamente. Um segmento de reta EF paralelo às bases divide os lados não paralelos AD e BC na razão AE/ED = BF/FC = 2/3.",
+      "id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle-v20",
+      "statement": "Em um triângulo retângulo inscrito em uma semicircunferência de raio 6,5 cm, a altura relativa à hipotenusa mede 6 cm. Qual é o produto das projeções dos catetos sobre a hipotenusa?",
+      "context": "Em uma competição de matemática em Belo Horizonte, os alunos devem julgar uma afirmação sobre a altura de um triângulo retângulo inscrito em uma semicircunferência.",
       "options": [
         {
           "letter": "A",
-          "text": "12,5 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. 12,5 m é a média aritmética simples das bases, o que representaria apenas a base média (razão 1:1), não a razão ponderada 2:3."
+          "text": "36 cm²",
+          "is_correct": true,
+          "feedback": "Correto: pela relação h² = m·n, temos m·n = 6² = 36 cm²."
         },
         {
           "letter": "B",
-          "text": "12,0 metros",
-          "is_correct": true,
-          "feedback": "Correto! Pela fórmula do segmento paralelo no trapézio: EF = (AE * CD + ED * AB) / (AE + ED). Como AE/ED = 2/3, podemos usar pesos 3 e 2: EF = (2 * 15 + 3 * 10) / (2 + 3) = (30 + 30) / 5 = 12,0 metros."
+          "text": "12 cm²",
+          "is_correct": false,
+          "feedback": "Incorreto: 12 é o dobro da altura, sem relação com o produto pedido."
         },
         {
           "letter": "C",
-          "text": "11,5 metros",
+          "text": "42,25 cm²",
           "is_correct": false,
-          "feedback": "Incorreto. Verifique a aplicação da média ponderada para segmentos paralelos em trapézios de acordo com a razão de divisão."
+          "feedback": "Incorreto: 42,25 é o quadrado do raio, não o produto das projeções."
         },
         {
           "letter": "D",
-          "text": "13,0 metros",
+          "text": "72 cm²",
           "is_correct": false,
-          "feedback": "Incorreto. Como o segmento está mais próximo da base de 10 m do que da base de 15 m (proporção 2 para 3), o comprimento deve ser menor que a média simples."
+          "feedback": "Incorreto: 72 seria o dobro de 36, sem fundamento nas relações métricas."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Para encontrar o comprimento do segmento EF paralelo às bases AB e CD de um trapézio dividindo os lados transversais na razão r = AE/ED = 2/3, usamos a fórmula da média ponderada das bases: EF = (AE * CD + ED * AB) / (AE + ED) = (2 * 15 + 3 * 10) / (2 + 3) = (30 + 30) / 5 = 60 / 5 = 12 metros.",
+      "correct_answer": "A",
+      "explanation": "A hipotenusa é o diâmetro da semicircunferência (13 cm), informação que confirma a configuração, mas a relação pedida vem de h² = m·n: m·n = 6² = 36 cm².",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
       "expected_success": 0.2,
-      "bundle_id": "BR-MAT-11-2026-W11-tema-w11-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W11-semelhanca-triangulos-tales-relacoes-metricas-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
       "cefr_level": null,

@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "cl",
+    "pack_id": "cl-week-13-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T04:04:54.089Z"
+  },
+  "questions": [
+    {
+      "id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v1",
+      "statement": "Un cuerpo de masa $2 \\text{ kg}$ se encuentra a una altura de $4 \\text{ m}$ sobre el suelo en Valdivia (usando $g = 9,8 \\text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?",
+      "context": "Javier analiza situaciones académicas en Valdivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$78.4 \\text{ J}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ep = m*g*h = 2*9,8*4 = 78.4 J."
+        },
+        {
+          "letter": "B",
+          "text": "$39.2 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la energía potencial por dos."
+        },
+        {
+          "letter": "C",
+          "text": "$156.8 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste la energía potencial."
+        },
+        {
+          "letter": "D",
+          "text": "$8.0 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía potencial gravitatoria viene dada por Ep = m*g*h = 2*9,8*4 = 78.4 J.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.86,
+      "bundle_id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v2",
+      "statement": "Un cuerpo de masa $3 \\text{ kg}$ se encuentra a una altura de $4 \\text{ m}$ sobre el suelo en Santiago (usando $g = 9,8 \\text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?",
+      "context": "Valentina analiza situaciones académicas en Santiago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$117.6 \\text{ J}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ep = m*g*h = 3*9,8*4 = 117.6 J."
+        },
+        {
+          "letter": "B",
+          "text": "$58.8 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la energía potencial por dos."
+        },
+        {
+          "letter": "C",
+          "text": "$235.2 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste la energía potencial."
+        },
+        {
+          "letter": "D",
+          "text": "$12.0 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía potencial gravitatoria viene dada por Ep = m*g*h = 3*9,8*4 = 117.6 J.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v3",
+      "statement": "Un cuerpo de masa $4 \\text{ kg}$ se encuentra a una altura de $4 \\text{ m}$ sobre el suelo en Valparaíso (usando $g = 9,8 \\text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?",
+      "context": "Camila analiza situaciones académicas en Valparaíso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$156.8 \\text{ J}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ep = m*g*h = 4*9,8*4 = 156.8 J."
+        },
+        {
+          "letter": "B",
+          "text": "$78.4 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la energía potencial por dos."
+        },
+        {
+          "letter": "C",
+          "text": "$313.6 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste la energía potencial."
+        },
+        {
+          "letter": "D",
+          "text": "$16.0 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía potencial gravitatoria viene dada por Ep = m*g*h = 4*9,8*4 = 156.8 J.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.82,
+      "bundle_id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v4",
+      "statement": "Un cuerpo de masa $5 \\text{ kg}$ se encuentra a una altura de $4 \\text{ m}$ sobre el suelo en Concepción (usando $g = 9,8 \\text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?",
+      "context": "Isidora analiza situaciones académicas en Concepción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$196.0 \\text{ J}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ep = m*g*h = 5*9,8*4 = 196.0 J."
+        },
+        {
+          "letter": "B",
+          "text": "$98.0 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la energía potencial por dos."
+        },
+        {
+          "letter": "C",
+          "text": "$392.0 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste la energía potencial."
+        },
+        {
+          "letter": "D",
+          "text": "$20.0 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía potencial gravitatoria viene dada por Ep = m*g*h = 5*9,8*4 = 196.0 J.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v5",
+      "statement": "Un cuerpo de masa $6 \\text{ kg}$ se encuentra a una altura de $4 \\text{ m}$ sobre el suelo en Antofagasta (usando $g = 9,8 \\text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?",
+      "context": "Catalina analiza situaciones académicas en Antofagasta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$235.2 \\text{ J}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ep = m*g*h = 6*9,8*4 = 235.2 J."
+        },
+        {
+          "letter": "B",
+          "text": "$117.6 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la energía potencial por dos."
+        },
+        {
+          "letter": "C",
+          "text": "$470.4 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste la energía potencial."
+        },
+        {
+          "letter": "D",
+          "text": "$24.0 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía potencial gravitatoria viene dada por Ep = m*g*h = 6*9,8*4 = 235.2 J.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.74,
+      "bundle_id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v6",
+      "statement": "Un cuerpo de masa $7 \\text{ kg}$ se encuentra a una altura de $4 \\text{ m}$ sobre el suelo en Temuco (usando $g = 9,8 \\text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?",
+      "context": "Martina analiza situaciones académicas en Temuco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$274.4 \\text{ J}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ep = m*g*h = 7*9,8*4 = 274.4 J."
+        },
+        {
+          "letter": "B",
+          "text": "$137.2 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la energía potencial por dos."
+        },
+        {
+          "letter": "C",
+          "text": "$548.8 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste la energía potencial."
+        },
+        {
+          "letter": "D",
+          "text": "$28.0 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía potencial gravitatoria viene dada por Ep = m*g*h = 7*9,8*4 = 274.4 J.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v7",
+      "statement": "Un cuerpo de masa $8 \\text{ kg}$ se encuentra a una altura de $4 \\text{ m}$ sobre el suelo en La Serena (usando $g = 9,8 \\text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?",
+      "context": "Sofía analiza situaciones académicas en La Serena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$313.6 \\text{ J}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ep = m*g*h = 8*9,8*4 = 313.6 J."
+        },
+        {
+          "letter": "B",
+          "text": "$156.8 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la energía potencial por dos."
+        },
+        {
+          "letter": "C",
+          "text": "$627.2 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste la energía potencial."
+        },
+        {
+          "letter": "D",
+          "text": "$32.0 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía potencial gravitatoria viene dada por Ep = m*g*h = 8*9,8*4 = 313.6 J.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v8",
+      "statement": "Un cuerpo de masa $9 \\text{ kg}$ se encuentra a una altura de $4 \\text{ m}$ sobre el suelo en Viña del Mar (usando $g = 9,8 \\text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?",
+      "context": "Fernanda analiza situaciones académicas en Viña del Mar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$352.8 \\text{ J}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ep = m*g*h = 9*9,8*4 = 352.8 J."
+        },
+        {
+          "letter": "B",
+          "text": "$176.4 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la energía potencial por dos."
+        },
+        {
+          "letter": "C",
+          "text": "$705.6 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste la energía potencial."
+        },
+        {
+          "letter": "D",
+          "text": "$36.0 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía potencial gravitatoria viene dada por Ep = m*g*h = 9*9,8*4 = 352.8 J.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v9",
+      "statement": "Un cuerpo de masa $10 \\text{ kg}$ se encuentra a una altura de $4 \\text{ m}$ sobre el suelo en Iquique (usando $g = 9,8 \\text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?",
+      "context": "Lucas analiza situaciones académicas en Iquique.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$392.0 \\text{ J}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ep = m*g*h = 10*9,8*4 = 392.0 J."
+        },
+        {
+          "letter": "B",
+          "text": "$196.0 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la energía potencial por dos."
+        },
+        {
+          "letter": "C",
+          "text": "$784.0 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste la energía potencial."
+        },
+        {
+          "letter": "D",
+          "text": "$40.0 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía potencial gravitatoria viene dada por Ep = m*g*h = 10*9,8*4 = 392.0 J.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.66,
+      "bundle_id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v10",
+      "statement": "Un cuerpo de masa $11 \\text{ kg}$ se encuentra a una altura de $4 \\text{ m}$ sobre el suelo en Rancagua (usando $g = 9,8 \\text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?",
+      "context": "Tomás analiza situaciones académicas en Rancagua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$431.2 \\text{ J}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ep = m*g*h = 11*9,8*4 = 431.2 J."
+        },
+        {
+          "letter": "B",
+          "text": "$215.6 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la energía potencial por dos."
+        },
+        {
+          "letter": "C",
+          "text": "$862.4 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste la energía potencial."
+        },
+        {
+          "letter": "D",
+          "text": "$44.0 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía potencial gravitatoria viene dada por Ep = m*g*h = 11*9,8*4 = 431.2 J.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.64,
+      "bundle_id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v11",
+      "statement": "Un cuerpo de masa $12 \\text{ kg}$ se encuentra a una altura de $4 \\text{ m}$ sobre el suelo en Talca (usando $g = 9,8 \\text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?",
+      "context": "Diego analiza situaciones académicas en Talca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$470.4 \\text{ J}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ep = m*g*h = 12*9,8*4 = 470.4 J."
+        },
+        {
+          "letter": "B",
+          "text": "$235.2 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la energía potencial por dos."
+        },
+        {
+          "letter": "C",
+          "text": "$940.8 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste la energía potencial."
+        },
+        {
+          "letter": "D",
+          "text": "$48.0 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía potencial gravitatoria viene dada por Ep = m*g*h = 12*9,8*4 = 470.4 J.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v12",
+      "statement": "Un cuerpo de masa $13 \\text{ kg}$ se encuentra a una altura de $4 \\text{ m}$ sobre el suelo en Arica (usando $g = 9,8 \\text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?",
+      "context": "Matías analiza situaciones académicas en Arica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$509.6 \\text{ J}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ep = m*g*h = 13*9,8*4 = 509.6 J."
+        },
+        {
+          "letter": "B",
+          "text": "$254.8 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la energía potencial por dos."
+        },
+        {
+          "letter": "C",
+          "text": "$1019.2 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste la energía potencial."
+        },
+        {
+          "letter": "D",
+          "text": "$52.0 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía potencial gravitatoria viene dada por Ep = m*g*h = 13*9,8*4 = 509.6 J.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.56,
+      "bundle_id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v13",
+      "statement": "Un cuerpo de masa $14 \\text{ kg}$ se encuentra a una altura de $4 \\text{ m}$ sobre el suelo en Puerto Montt (usando $g = 9,8 \\text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?",
+      "context": "Vicente analiza situaciones académicas en Puerto Montt.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$548.8 \\text{ J}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ep = m*g*h = 14*9,8*4 = 548.8 J."
+        },
+        {
+          "letter": "B",
+          "text": "$274.4 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la energía potencial por dos."
+        },
+        {
+          "letter": "C",
+          "text": "$1097.6 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste la energía potencial."
+        },
+        {
+          "letter": "D",
+          "text": "$56.0 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía potencial gravitatoria viene dada por Ep = m*g*h = 14*9,8*4 = 548.8 J.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.54,
+      "bundle_id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v14",
+      "statement": "Un cuerpo de masa $15 \\text{ kg}$ se encuentra a una altura de $4 \\text{ m}$ sobre el suelo en Chillán (usando $g = 9,8 \\text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?",
+      "context": "Benjamín analiza situaciones académicas en Chillán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$588.0 \\text{ J}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ep = m*g*h = 15*9,8*4 = 588.0 J."
+        },
+        {
+          "letter": "B",
+          "text": "$294.0 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la energía potencial por dos."
+        },
+        {
+          "letter": "C",
+          "text": "$1176.0 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste la energía potencial."
+        },
+        {
+          "letter": "D",
+          "text": "$60.0 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía potencial gravitatoria viene dada por Ep = m*g*h = 15*9,8*4 = 588.0 J.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v15",
+      "statement": "Un cuerpo de masa $16 \\text{ kg}$ se encuentra a una altura de $4 \\text{ m}$ sobre el suelo en Calama (usando $g = 9,8 \\text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?",
+      "context": "Sebastián analiza situaciones académicas en Calama.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$627.2 \\text{ J}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ep = m*g*h = 16*9,8*4 = 627.2 J."
+        },
+        {
+          "letter": "B",
+          "text": "$313.6 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la energía potencial por dos."
+        },
+        {
+          "letter": "C",
+          "text": "$1254.4 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste la energía potencial."
+        },
+        {
+          "letter": "D",
+          "text": "$64.0 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía potencial gravitatoria viene dada por Ep = m*g*h = 16*9,8*4 = 627.2 J.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v16",
+      "statement": "Un cuerpo de masa $17 \\text{ kg}$ se encuentra a una altura de $4 \\text{ m}$ sobre el suelo en Valdivia (usando $g = 9,8 \\text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?",
+      "context": "Javier analiza situaciones académicas en Valdivia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$666.4 \\text{ J}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ep = m*g*h = 17*9,8*4 = 666.4 J."
+        },
+        {
+          "letter": "B",
+          "text": "$333.2 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la energía potencial por dos."
+        },
+        {
+          "letter": "C",
+          "text": "$1332.8 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste la energía potencial."
+        },
+        {
+          "letter": "D",
+          "text": "$68.0 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía potencial gravitatoria viene dada por Ep = m*g*h = 17*9,8*4 = 666.4 J.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v17",
+      "statement": "Un cuerpo de masa $18 \\text{ kg}$ se encuentra a una altura de $4 \\text{ m}$ sobre el suelo en Santiago (usando $g = 9,8 \\text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?",
+      "context": "Valentina analiza situaciones académicas en Santiago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$705.6 \\text{ J}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ep = m*g*h = 18*9,8*4 = 705.6 J."
+        },
+        {
+          "letter": "B",
+          "text": "$352.8 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la energía potencial por dos."
+        },
+        {
+          "letter": "C",
+          "text": "$1411.2 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste la energía potencial."
+        },
+        {
+          "letter": "D",
+          "text": "$72.0 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía potencial gravitatoria viene dada por Ep = m*g*h = 18*9,8*4 = 705.6 J.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v18",
+      "statement": "Un cuerpo de masa $19 \\text{ kg}$ se encuentra a una altura de $4 \\text{ m}$ sobre el suelo en Valparaíso (usando $g = 9,8 \\text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?",
+      "context": "Camila analiza situaciones académicas en Valparaíso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$744.8 \\text{ J}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ep = m*g*h = 19*9,8*4 = 744.8 J."
+        },
+        {
+          "letter": "B",
+          "text": "$372.4 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la energía potencial por dos."
+        },
+        {
+          "letter": "C",
+          "text": "$1489.6 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste la energía potencial."
+        },
+        {
+          "letter": "D",
+          "text": "$76.0 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía potencial gravitatoria viene dada por Ep = m*g*h = 19*9,8*4 = 744.8 J.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v19",
+      "statement": "Un cuerpo de masa $20 \\text{ kg}$ se encuentra a una altura de $4 \\text{ m}$ sobre el suelo en Concepción (usando $g = 9,8 \\text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?",
+      "context": "Isidora analiza situaciones académicas en Concepción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$784.0 \\text{ J}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ep = m*g*h = 20*9,8*4 = 784.0 J."
+        },
+        {
+          "letter": "B",
+          "text": "$392.0 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la energía potencial por dos."
+        },
+        {
+          "letter": "C",
+          "text": "$1568.0 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste la energía potencial."
+        },
+        {
+          "letter": "D",
+          "text": "$80.0 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía potencial gravitatoria viene dada por Ep = m*g*h = 20*9,8*4 = 784.0 J.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.29,
+      "bundle_id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    },
+    {
+      "id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle-v20",
+      "statement": "Un cuerpo de masa $21 \\text{ kg}$ se encuentra a una altura de $4 \\text{ m}$ sobre el suelo en Antofagasta (usando $g = 9,8 \\text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?",
+      "context": "Catalina analiza situaciones académicas en Antofagasta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$823.2 \\text{ J}$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ep = m*g*h = 21*9,8*4 = 823.2 J."
+        },
+        {
+          "letter": "B",
+          "text": "$411.6 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la energía potencial por dos."
+        },
+        {
+          "letter": "C",
+          "text": "$1646.4 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste la energía potencial."
+        },
+        {
+          "letter": "D",
+          "text": "$84.0 \\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía potencial gravitatoria viene dada por Ep = m*g*h = 21*9,8*4 = 823.2 J.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.26,
+      "bundle_id": "CL-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "cl"
+    }
+  ]
+}

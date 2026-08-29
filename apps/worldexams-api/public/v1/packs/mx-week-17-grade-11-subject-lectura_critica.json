@@ -8,6 +8,906 @@
   },
   "questions": [
     {
+      "id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes opciones es una fuente primaria para conocer los efectos del sismo de 2017?",
+      "context": "Ximena, de la Ciudad de México, clasifica las fuentes de una investigación sobre el sismo de 2017.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un ensayo escolar que resume lo publicado en tres periódicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: un texto que resume fuentes ya publicadas es una fuente secundaria."
+        },
+        {
+          "letter": "B",
+          "text": "Un documental de divulgación basado en testimonios ya difundidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: reelabora material previo, por lo que es secundario."
+        },
+        {
+          "letter": "C",
+          "text": "El testimonio directo de una brigada de protección civil que participó en el rescate.",
+          "is_correct": true,
+          "feedback": "Correcto: la información de primera mano generada en el evento es fuente primaria."
+        },
+        {
+          "letter": "D",
+          "text": "Un artículo de revista que recopila las conclusiones de varios informes.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la recopilación de informes es un trabajo secundario."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una fuente primaria es la que produce información de primera mano: testimonios, documentos oficiales originales, datos de medición directa. Las fuentes secundarias interpretan, resumen o citan a las primarias.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia central entre una nota informativa y una columna de opinión?",
+      "context": "José, de Mérida, compara una nota informativa con una columna de opinión sobre la misma feria del libro en Guadalajara.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La nota informativa es más larga que la columna.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la extensión no define el género."
+        },
+        {
+          "letter": "B",
+          "text": "La nota busca informar con datos verificables; la columna defiende una postura personal.",
+          "is_correct": true,
+          "feedback": "Correcto: el propósito comunicativo es el criterio que distingue ambos géneros."
+        },
+        {
+          "letter": "C",
+          "text": "La columna solo puede hablar de política.",
+          "is_correct": false,
+          "feedback": "Incorrecto: las columnas abordan cualquier tema."
+        },
+        {
+          "letter": "D",
+          "text": "La nota informativa incluye más adjetivos que la columna.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el lenguaje valorativo es más típico de la opinión que de la información."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los géneros periodísticos se distinguen por su propósito: informar (hechos, datos, verificación) o persuadir (interpretación, tesis, opinión). Una misma noticia puede dar lugar a ambos, pero con intenciones y recursos distintos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de las siguientes oraciones es una opinión?",
+      "context": "María, de Tijuana, practica la distinción entre hechos y opiniones en textos periodísticos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"La feria del libro se inauguró el jueves en Guadalajara.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: es un dato verificable."
+        },
+        {
+          "letter": "B",
+          "text": "\"Tres editoriales anunciaron nuevas colecciones durante el evento.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: es un hecho comprobable."
+        },
+        {
+          "letter": "C",
+          "text": "\"La feria del libro es, sin duda, el mejor encuentro cultural del continente.\"",
+          "is_correct": true,
+          "feedback": "Correcto: expresa un juicio de valor del emisor."
+        },
+        {
+          "letter": "D",
+          "text": "\"El recinto recibió a cuarenta mil visitantes el primer fin de semana.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: es una cifra verificable."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La opinión expresa un juicio valorativo que no puede probarse ni refutarse con datos (\"el mejor\"), mientras que el hecho describe algo verificable (fechas, cifras, anuncios).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle-v4",
+      "statement": "¿Qué es un sesgo en un texto periodístico?",
+      "context": "Carlos, de Cancún, estudia el concepto de sesgo en los medios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un error de ortografía que invalida toda la información.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el sesgo no es un error mecánico de redacción."
+        },
+        {
+          "letter": "B",
+          "text": "La decisión de incluir todas las voces por igual.",
+          "is_correct": false,
+          "feedback": "Incorrecto: eso sería un intento de equilibrio, no un sesgo."
+        },
+        {
+          "letter": "C",
+          "text": "Una inclinación del emisor que favorece cierta perspectiva y puede omitir otras.",
+          "is_correct": true,
+          "feedback": "Correcto: el sesgo orienta la selección y presentación de la información."
+        },
+        {
+          "letter": "D",
+          "text": "Una garantía de que el texto es completamente objetivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el sesgo es lo contrario de la objetividad plena."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El sesgo es la tendencia consciente o inconsciente a favorecer una perspectiva: se manifiesta en la elección de fuentes, adjetivos, titulares y en lo que se omite. Detectarlo es parte de la lectura crítica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de los siguientes titulares es informativo y no tendencioso?",
+      "context": "Guadalupe, de Oaxaca, compara dos titulares sobre el mismo aumento del transporte público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El gobierno saquea de nuevo el bolsillo de los usuarios del metro.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: \"saquea\" y \"bolsillo\" cargan el titular de valoración negativa."
+        },
+        {
+          "letter": "B",
+          "text": "\"Aumento injustificable del pasaje golpea a estudiantes y trabajadores.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: \"injustificable\" y \"golpea\" expresan un juicio."
+        },
+        {
+          "letter": "C",
+          "text": "\"La tarifa del metro aumentará dos pesos a partir del próximo lunes.\"",
+          "is_correct": true,
+          "feedback": "Correcto: presenta el hecho con datos precisos y lenguaje neutro."
+        },
+        {
+          "letter": "D",
+          "text": "\"Los usuarios, víctimas de una medida arbitraria y abusiva.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: \"víctimas\", \"arbitraria\" y \"abusiva\" son valoraciones del emisor."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El titular informativo comunica el hecho con datos (qué, cuánto, cuándo) y léxico neutro. El titular tendencioso introduce adjetivos y metáforas que adelantan una valoración y orientan al lector.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle-v6",
+      "statement": "Una publicación afirma: \"El 80% de los jóvenes de Puebla consume bebidas azucaradas a diario\". ¿Qué debería preguntarse primero un lector crítico?",
+      "context": "Fernanda, de Guadalajara, aprende a evaluar cifras que circulan en redes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Si la cifra está expresada en pesos o en porcentaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la unidad ya es clara; esa pregunta no evalúa la confiabilidad."
+        },
+        {
+          "letter": "B",
+          "text": "De dónde proviene el dato, con qué método y con qué muestra se obtuvo.",
+          "is_correct": true,
+          "feedback": "Correcto: sin fuente, método y muestra, el porcentaje no puede evaluarse."
+        },
+        {
+          "letter": "C",
+          "text": "Si los jóvenes de Puebla prefieren otras bebidas.",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa duda no ataca la validez del dato."
+        },
+        {
+          "letter": "D",
+          "text": "Si la publicación tiene más de cien comentarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la popularidad no respalda la veracidad de una cifra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar datos exige rastrear su origen: ¿quién lo midió, con qué metodología y sobre qué población? Una cifra sin fuente no es evidencia, y la interacción social (me gusta, comentarios) no la convierte en confiable.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle-v7",
+      "statement": "Para documentar la reconstrucción de una escuela dañada por el sismo, ¿qué combinación de fuentes es más confiable?",
+      "context": "Diego, de Monterrey, arma un reporte sobre el sismo de 2017 y decide qué fuentes usar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo los comentarios de una red social donde vecinos discuten el tema.",
+          "is_correct": false,
+          "feedback": "Incorrecto: los comentarios sin verificación no bastan como evidencia."
+        },
+        {
+          "letter": "B",
+          "text": "Un mensaje anónimo que circula por WhatsApp con fotografías sin fecha.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el anonimato y la falta de contexto impiden verificar."
+        },
+        {
+          "letter": "C",
+          "text": "Los documentos oficiales del programa de reconstrucción contrastados con testimonios de la comunidad escolar.",
+          "is_correct": true,
+          "feedback": "Correcto: combinar documentación oficial con voces locales permite cruzar versiones."
+        },
+        {
+          "letter": "D",
+          "text": "Un solo artículo de opinión que critica la lentitud de las obras.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la opinión, por sí sola, no documenta el avance de la reconstrucción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La confiabilidad aumenta cuando se cruzan fuentes de distinta naturaleza: documentos oficiales (registro institucional) y testimonios directos (experiencia local). Contrastar versiones reduce el riesgo de reproducir un solo punto de vista.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle-v8",
+      "statement": "Una crónica denuncia el aumento de rentas y la salida de vecinos de toda la vida. ¿A qué audiencia apela principalmente ese texto?",
+      "context": "Ximena, de la Ciudad de México, lee una crónica sobre la gentrificación en su colonia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A los inversionistas que buscan nuevos proyectos inmobiliarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el texto denuncia el fenómeno que esos inversionistas impulsan."
+        },
+        {
+          "letter": "B",
+          "text": "A los turistas que visitan la ciudad por primera vez.",
+          "is_correct": false,
+          "feedback": "Incorrecto: los turistas no son el destinatario de una denuncia local."
+        },
+        {
+          "letter": "C",
+          "text": "A los habitantes de la ciudad y a las autoridades locales.",
+          "is_correct": true,
+          "feedback": "Correcto: la denuncia busca conciencia ciudadana y respuesta institucional."
+        },
+        {
+          "letter": "D",
+          "text": "A los historiadores que estudian el siglo XX.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el texto aborda un fenómeno actual, no histórico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La audiencia se infiere del tema y del propósito: una denuncia sobre la vida urbana se dirige a quienes la viven (vecinos, ciudadanía) y a quienes pueden regularla (autoridades), buscando presión y cambio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle-v9",
+      "statement": "Una nota sobre el crecimiento turístico de una ciudad entrevista solo a hoteleros y a visitantes extranjeros, y no a los vecinos del centro histórico. ¿Qué revela esa omisión?",
+      "context": "Luis, de Puebla, detecta qué voces faltan en una nota sobre el turismo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los vecinos no tienen opinión sobre el turismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la ausencia de una voz en el texto no prueba que esa voz no exista."
+        },
+        {
+          "letter": "B",
+          "text": "Que el centro histórico no tiene vecinos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: es un error lógico derivar población de la selección de fuentes."
+        },
+        {
+          "letter": "C",
+          "text": "Que la nota privilegia la perspectiva de quienes se benefician del turismo.",
+          "is_correct": true,
+          "feedback": "Correcto: elegir solo ciertas voces orienta la lectura hacia una versión del fenómeno."
+        },
+        {
+          "letter": "D",
+          "text": "Que el periodista verificó todas las versiones posibles.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la omisión de actores clave sugiere lo contrario."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La omisión es una forma de sesgo: al seleccionar las voces, el texto delimita qué visión del problema llega al lector. Un análisis crítico pregunta siempre quién habla y quién quedó fuera.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.62,
+      "bundle_id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de los siguientes enunciados tiene un propósito propagandístico y no informativo?",
+      "context": "José, de Mérida, distingue propaganda de información en un volante de salud.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"La vacunación se realizará en los centros de salud de 8 a 14 horas.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: comunica horarios y sedes; es información útil."
+        },
+        {
+          "letter": "B",
+          "text": "\"La campaña de vacunación comenzó el lunes en 32 estados.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: describe un hecho verificable."
+        },
+        {
+          "letter": "C",
+          "text": "\"Vacunarse es el acto más valiente y patriótico que un ciudadano puede realizar.\"",
+          "is_correct": true,
+          "feedback": "Correcto: la exaltación emocional y el juicio de valor buscan mover conductas, no informar."
+        },
+        {
+          "letter": "D",
+          "text": "\"Se aplicarán dos dosis con un intervalo de veintiún días.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: el dato clínico es informativo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La propaganda busca la adhesión emocional y la acción, mientras que la información comunica datos verificables. El lenguaje grandilocuente (\"valiente\", \"patriótico\") delata el propósito persuasivo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle-v11",
+      "statement": "El spot dice: \"Mientras tú dejas la llave abierta, un niño en Sonora camina tres kilómetros para llenar su cubeta.\" ¿Qué recurso predomina?",
+      "context": "María, de Tijuana, analiza los recursos de una campaña contra el desperdicio de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Datos estadísticos de consumo doméstico.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el spot no ofrece cifras."
+        },
+        {
+          "letter": "B",
+          "text": "La apelación emocional a través del contraste entre dos realidades.",
+          "is_correct": true,
+          "feedback": "Correcto: la comparación con la niñez afectada busca culpa y empatía."
+        },
+        {
+          "letter": "C",
+          "text": "La cita de una autoridad sanitaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no se invoca ninguna institución."
+        },
+        {
+          "letter": "D",
+          "text": "La refutación de un argumento contrario.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el spot no dialoga con objeciones; apela directamente al sentir."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El contraste entre el desperdicio cotidiano del espectador y la escasez que padece un niño es una apelación al pathos: busca conmover para cambiar la conducta, más que convencer con razones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle-v12",
+      "statement": "Un participante dice: \"En mi viaje a Europa vi que todas las playas cobran entrada y todos están contentos.\" ¿Qué problema presenta ese argumento?",
+      "context": "Carlos, de Cancún, evalúa los argumentos de un debate sobre cobrar entrada a una playa pública.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una falacia de ataque personal contra los defensores de la playa.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no descalifica a ninguna persona."
+        },
+        {
+          "letter": "B",
+          "text": "Generaliza apresuradamente desde una experiencia particular y ajena al contexto local.",
+          "is_correct": true,
+          "feedback": "Correcto: un solo viaje no prueba qué conviene a una comunidad costera mexicana."
+        },
+        {
+          "letter": "C",
+          "text": "Es una petición de principio que da por obvia la conclusión.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el punto no es que la conclusión se dé por supuesta, sino que la evidencia es insuficiente."
+        },
+        {
+          "letter": "D",
+          "text": "Es una falsa dicotomía entre cobrar o no cobrar.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el argumento no plantea solo dos opciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La generalización apresurada extrae una regla universal de un caso insuficiente. Comparar con otra ciudad y otro contexto no es evidencia sobre los efectos locales de cobrar entrada.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle-v13",
+      "statement": "La nota habla de \"la explosión inmobiliaria que devora las azoteas del centro\". ¿Qué efecto produce ese lenguaje valorativo?",
+      "context": "Guadalupe, de Oaxaca, estudia el léxico de una nota sobre el centro de su ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presenta los hechos de manera neutra y verificable.",
+          "is_correct": false,
+          "feedback": "Incorrecto: \"explosión\" y \"devora\" están cargados de valoración."
+        },
+        {
+          "letter": "B",
+          "text": "Limita el texto a datos cuantitativos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el lenguaje metafórico sustituye, no acompaña, el dato."
+        },
+        {
+          "letter": "C",
+          "text": "Transmite una visión negativa y alarmante del crecimiento urbano.",
+          "is_correct": true,
+          "feedback": "Correcto: las metáforas de violencia naturalizan la idea de un cambio destructivo."
+        },
+        {
+          "letter": "D",
+          "text": "Equilibra las opiniones de todos los actores.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el léxico orienta la lectura, no la equilibra."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El lenguaje valorativo no es decorativo: orienta la interpretación. \"Explosión\" y \"devora\" convierten un proceso urbanístico en una amenaza, adelantando una postura que el autor no necesita demostrar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle-v14",
+      "statement": "Un usuario escribe: \"Todos los turistas que llegan a la playa son iguales: no respetan nada.\" ¿Qué problema argumentativo presenta esa afirmación?",
+      "context": "Fernanda, de Guadalajara, analiza un comentario en un foro de viajes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una apelación a la autoridad de los vecinos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no se invoca ninguna autoridad."
+        },
+        {
+          "letter": "B",
+          "text": "Es un estereotipo que reduce a un grupo diverso a un solo rasgo negativo.",
+          "is_correct": true,
+          "feedback": "Correcto: atribuir a \"todos\" una conducta homogénea es una generalización estereotipada."
+        },
+        {
+          "letter": "C",
+          "text": "Es una comparación legítima entre distintos grupos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no compara; homogeniza."
+        },
+        {
+          "letter": "D",
+          "text": "Es una hipótesis científica que debería comprobarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la frase es un prejuicio, no una hipótesis verificable."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El estereotipo borra la diversidad interna de un grupo y lo define con un rasgo único. \"Todos los turistas son iguales\" no describe evidencia: expresa un prejuicio que impide el análisis matizado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle-v15",
+      "statement": "Un medio titula \"Nuevo parque para la ciudad\" y otro \"Obra inaugurada tras dos años de retraso\". ¿Qué explica la diferencia de enfoque?",
+      "context": "Diego, de Monterrey, compara cómo dos medios cubrieron la inauguración de un parque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uno de los medios publicó noticias falsas.",
+          "is_correct": false,
+          "feedback": "Incorrecto: ambos pueden ser veraces y enfocar aspectos distintos."
+        },
+        {
+          "letter": "B",
+          "text": "La diferencia se debe a la extensión de los textos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el enfoque no depende del largo."
+        },
+        {
+          "letter": "C",
+          "text": "Cada medio seleccionó el ángulo que considera relevante para su audiencia.",
+          "is_correct": true,
+          "feedback": "Correcto: la selección del encuadre (logro o retraso) responde a una línea editorial."
+        },
+        {
+          "letter": "D",
+          "text": "El segundo medio inventó el retraso para vender más.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el retraso puede ser un hecho igualmente verificable."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El encuadre (frame) es la selección de un ángulo sobre el mismo hecho: el mismo evento puede presentarse como logro o como demora sin falsear datos. Comparar encuadres revela las posturas de cada medio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle-v16",
+      "statement": "La cronista cierra: \"Una ciudad no es un souvenir.\" ¿Qué sentido tiene esa metáfora?",
+      "context": "Ximena, de la Ciudad de México, interpreta el cierre de la crónica sobre gentrificación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las ciudades deberían venderse como recuerdos turísticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la frase dice lo contrario."
+        },
+        {
+          "letter": "B",
+          "text": "Los visitantes deben comprar más artesanías.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no alude al comercio de artesanías."
+        },
+        {
+          "letter": "C",
+          "text": "La ciudad no puede reducirse a un objeto de consumo para el visitante.",
+          "is_correct": true,
+          "feedback": "Correcto: la metáfora rechaza que la vida urbana se convierta en producto decorativo."
+        },
+        {
+          "letter": "D",
+          "text": "El centro histórico debe convertirse en museo.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la frase no propone museificar la ciudad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La metáfora condensa la tesis: comparar la ciudad con un souvenir denuncia su transformación en mercancía pensada para el consumo del visitante, en lugar de un espacio vivido por sus habitantes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle-v17",
+      "statement": "¿Qué tipo de evidencia fortalecería más la denuncia de la cronista?",
+      "context": "Luis, de Puebla, evalúa qué evidencia fortalecería la crónica sobre la gentrificación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La opinión de una celebridad que visitó el barrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la celebridad no aporta evidencia sobre el fenómeno."
+        },
+        {
+          "letter": "B",
+          "text": "Un eslogan contra el turismo masivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el eslogan es consigna, no prueba."
+        },
+        {
+          "letter": "C",
+          "text": "Datos verificables sobre rentas, desalojos y padrón de vecinos, junto con testimonios.",
+          "is_correct": true,
+          "feedback": "Correcto: la combinación de datos duros y voces directas convierte la denuncia en documentación sólida."
+        },
+        {
+          "letter": "D",
+          "text": "Fotografías antiguas comparadas con las actuales.",
+          "is_correct": false,
+          "feedback": "Incorrecto: las imágenes ilustran el cambio visual, pero no demuestran el impacto social."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La denuncia periodística se fortalece con evidencia comprobable: cifras de mercado, registros de vivienda, desalojos documentados y testimonios verificables. Sin ese respaldo, la crítica permanece en el plano de la impresión.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle-v18",
+      "statement": "Alguien sostiene: \"El turismo genera empleos, así que cualquiera que lo critique quiere dejar sin trabajo a la gente.\" ¿Qué falla tiene ese razonamiento?",
+      "context": "José, de Mérida, evalúa un argumento frecuente en el debate turístico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Demuestra con datos que el turismo no genera empleos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el razonamiento no demuestra nada; presupone la conclusión."
+        },
+        {
+          "letter": "B",
+          "text": "Reduce la crítica del turismo a negar sus beneficios y descalifica al interlocutor.",
+          "is_correct": true,
+          "feedback": "Correcto: criticar un modelo no equivale a querer eliminar el empleo; la frase construye un adversario inexistente."
+        },
+        {
+          "letter": "C",
+          "text": "Es una inferencia válida basada en la experiencia local.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no hay evidencia ni inferencia válida."
+        },
+        {
+          "letter": "D",
+          "text": "Plantea un dilema real entre empleo y cultura.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el dilema es falso; ambas cosas no se excluyen necesariamente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El razonamiento comete una doble falta: generaliza la crítica hasta volverla absurda (espantapájaros) y descalifica al crítico atribuyéndole intenciones que no declaró. Un análisis crítico separa \"señalar problemas del turismo\" de \"oponerse al empleo\".",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle-v19",
+      "statement": "Un mensaje anónimo asegura que \"todo el fraccionamiento tiene agua contaminada\" y pide reenviarlo. ¿Cuál es la valoración más razonable?",
+      "context": "María, de Tijuana, evalúa un testimonio anónimo sobre un problema de servicios públicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reenviarlo de inmediato para prevenir a los vecinos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: difundir sin verificar puede provocar alarma injustificada."
+        },
+        {
+          "letter": "B",
+          "text": "Descartarlo por completo porque el autor es anónimo.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el anonimato obliga a verificar, no garantiza que sea falso."
+        },
+        {
+          "letter": "C",
+          "text": "Tratarlo como un aviso no confirmado y buscar verificación oficial antes de difundirlo.",
+          "is_correct": true,
+          "feedback": "Correcto: ante un riesgo de salud, se contrasta con la autoridad competente y se difunde solo lo confirmado."
+        },
+        {
+          "letter": "D",
+          "text": "Compartirlo solo con la familia para no asumir responsabilidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto: compartir en privado no resuelve la verificación ni el riesgo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La lectura crítica ante un riesgo real combina prudencia y verificación: el anonimato reduce la confiabilidad, la gravedad del tema exige confirmación oficial y la difusión irresponsable agrava el problema.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.32,
+      "bundle_id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle-v20",
+      "statement": "Circula el rumor de que \"suspenderán las clases por una semana\" y varios compañeros lo repiten con seguridad. ¿Qué secuencia de verificación es la más rigurosa?",
+      "context": "Carlos, de Cancún, diseña un método para verificar un rumor escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Preguntar a la persona que lo contó primero y creerle si parece segura.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la seguridad del emisor no verifica el dato."
+        },
+        {
+          "letter": "B",
+          "text": "Buscar la noticia en redes y compartir la publicación con más reacciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la popularidad no equivale a veracidad."
+        },
+        {
+          "letter": "C",
+          "text": "Rastrear el origen del rumor, consultar el comunicado oficial de la escuela y contrastar con al menos una fuente independiente.",
+          "is_correct": true,
+          "feedback": "Correcto: combina rastreo de origen, fuente institucional y contraste independiente."
+        },
+        {
+          "letter": "D",
+          "text": "Esperar a que alguien publique el calendario oficial en el grupo de WhatsApp.",
+          "is_correct": false,
+          "feedback": "Incorrecto: un reenvío anónimo no es fuente oficial, aunque circule en un grupo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La verificación rigurosa sigue tres pasos: encontrar el origen del mensaje, acudir a la fuente institucional competente y contrastar con fuentes independientes. Repetir un rumor, incluso con seguridad, no lo convierte en información.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.28,
+      "bundle_id": "MX-LC-11-2026-W17-analisis-critico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
       "id": "MX-LC-11-2026-W17-tema-w17-001-v001",
       "statement": "¿Qué elemento o aspecto fundamental es central en el desarrollo del pasaje, según la información directa brindada?",
       "context": "**Pasaje:** *El auge de la tecnología financiera (fintech) en Monterrey*\n\nLa ciudad de Monterrey, históricamente consolidada como el polo industrial y de negocios del norte de México, se ha erigido en la última década como uno de los centros de tecnología financiera (fintech) más dinámicos de América Latina. El surgimiento de startups de servicios financieros digitales y la atracción de capital de riesgo han dinamizado la economía de Nuevo León. La revolución fintech busca democratizar el acceso al crédito, al ahorro y a los sistemas de pago digital, áreas tradicionalmente restringidas por la banca convencional del país. Sin embargo, este auge tecnológico exige un marco regulatorio robusto y una sólida educación financiera de los usuarios para evitar sobreendeudamientos y fraudes digitales en perjuicio de las familias.",

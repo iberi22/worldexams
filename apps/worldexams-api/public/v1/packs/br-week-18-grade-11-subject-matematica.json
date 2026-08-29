@@ -8,43 +8,43 @@
   },
   "questions": [
     {
-      "id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v1",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 5 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística: medidas de dispersão, variância e desvio padrão.",
+      "id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle-v1",
+      "statement": "O que é a média aritmética de um conjunto de dados?",
+      "context": "Um estudante em São Paulo revisa os conceitos de estatística descritiva para o ENEM.",
       "options": [
         {
           "letter": "A",
-          "text": "25 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "O valor que mais se repete no conjunto",
+          "is_correct": false,
+          "feedback": "Incorreto: o valor que mais se repete é a moda."
         },
         {
           "letter": "B",
-          "text": "5 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "A soma de todos os valores dividida pela quantidade de valores",
+          "is_correct": true,
+          "feedback": "Correto: essa é a definição de média aritmética simples."
         },
         {
           "letter": "C",
-          "text": "30 metros",
+          "text": "O valor central do conjunto após a ordenação",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: o valor central após ordenar é a mediana."
         },
         {
           "letter": "D",
-          "text": "7 metros",
+          "text": "A diferença entre o maior e o menor valor",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: essa diferença é a amplitude do conjunto."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 5 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 5 + 2 * 10 = 25 metros.",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "A média aritmética simples é o quociente entre a soma de todos os valores e a quantidade de valores. É a medida de tendência central mais utilizada.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.81,
-      "bundle_id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "expected_success": 0.85,
+      "bundle_id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -53,43 +53,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v2",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 10 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística: medidas de dispersão, variância e desvio padrão.",
+      "id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle-v2",
+      "statement": "Qual é a definição de moda em Estatística?",
+      "context": "Durante uma aula em Curitiba, o professor pergunta sobre a definição de moda.",
       "options": [
         {
           "letter": "A",
-          "text": "30 metros",
+          "text": "O valor que aparece com maior frequência no conjunto",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: a moda é o valor mais frequente."
         },
         {
           "letter": "B",
-          "text": "10 metros",
+          "text": "O valor que divide o conjunto ao meio após a ordenação",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: esse é o papel da mediana."
         },
         {
           "letter": "C",
-          "text": "35 metros",
+          "text": "A média entre o maior e o menor valor",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: esse cálculo não define nenhuma medida padrão de tendência central."
         },
         {
           "letter": "D",
-          "text": "12 metros",
+          "text": "A soma dos valores dividida pela quantidade",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: essa é a definição de média aritmética."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 10 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 10 + 2 * 10 = 30 metros.",
-      "difficulty": "3",
+      "explanation": "A moda é a medida de tendência central que indica o valor de maior frequência em um conjunto de dados. Um conjunto pode ter mais de uma moda ou nenhuma.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.77,
-      "bundle_id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "expected_success": 0.8,
+      "bundle_id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -98,43 +98,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v3",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 15 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística: medidas de dispersão, variância e desvio padrão.",
+      "id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle-v3",
+      "statement": "Para encontrar a mediana de um conjunto com quantidade ímpar de valores, o que se deve fazer?",
+      "context": "Um professor no Rio de Janeiro explica como encontrar a mediana de um conjunto com quantidade ímpar de elementos.",
       "options": [
         {
           "letter": "A",
-          "text": "35 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "Somar todos os valores e dividir pela quantidade",
+          "is_correct": false,
+          "feedback": "Incorreto: esse procedimento calcula a média, não a mediana."
         },
         {
           "letter": "B",
-          "text": "15 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "Ordenar os valores e tomar o termo central",
+          "is_correct": true,
+          "feedback": "Correto: com quantidade ímpar, a mediana é o valor que ocupa a posição central após a ordenação."
         },
         {
           "letter": "C",
-          "text": "40 metros",
+          "text": "Tomar a média dos dois valores centrais",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: esse procedimento é usado quando a quantidade de valores é par."
         },
         {
           "letter": "D",
-          "text": "17 metros",
+          "text": "Escolher o valor que mais se repete",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: esse procedimento identifica a moda."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 15 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 15 + 2 * 10 = 35 metros.",
+      "correct_answer": "B",
+      "explanation": "Com n ímpar, a mediana é o elemento central do rol ordenado, ocupando a posição (n + 1)/2. Com n par, a mediana é a média dos dois valores centrais.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.73,
-      "bundle_id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "expected_success": 0.75,
+      "bundle_id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -143,43 +143,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v4",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 20 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística: medidas de dispersão, variância e desvio padrão.",
+      "id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle-v4",
+      "statement": "O que representa a amplitude de um conjunto de dados?",
+      "context": "Um estudante em Brasília analisa a variação das temperaturas registradas em uma semana.",
       "options": [
         {
           "letter": "A",
-          "text": "40 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "O valor que mais se repete",
+          "is_correct": false,
+          "feedback": "Incorreto: isso é a moda."
         },
         {
           "letter": "B",
-          "text": "20 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "A diferença entre o maior e o menor valor",
+          "is_correct": true,
+          "feedback": "Correto: a amplitude é a medida de dispersão mais simples."
         },
         {
           "letter": "C",
-          "text": "45 metros",
+          "text": "A soma de todos os valores",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: a soma é usada no cálculo da média, não define amplitude."
         },
         {
           "letter": "D",
-          "text": "22 metros",
+          "text": "O valor central do conjunto ordenado",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: isso é a mediana."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 20 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 20 + 2 * 10 = 40 metros.",
+      "correct_answer": "B",
+      "explanation": "A amplitude é a diferença entre o valor máximo e o valor mínimo de um conjunto. É uma medida de dispersão simples, mas sensível a valores extremos.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.69,
-      "bundle_id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "expected_success": 0.7,
+      "bundle_id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -188,43 +188,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v5",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 25 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística: medidas de dispersão, variância e desvio padrão.",
+      "id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle-v5",
+      "statement": "Um aluno tirou as notas 6, 8 e 10 em três provas. Qual é a sua média aritmética?",
+      "context": "Um estudante em Salvador calcula a média das notas de uma prova.",
       "options": [
         {
           "letter": "A",
-          "text": "45 metros",
+          "text": "8",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: (6 + 8 + 10)/3 = 24/3 = 8."
         },
         {
           "letter": "B",
-          "text": "25 metros",
+          "text": "7",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 7 seria a média de 6, 7 e 8."
         },
         {
           "letter": "C",
-          "text": "50 metros",
+          "text": "9",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 9 seria a média de 8, 9 e 10."
         },
         {
           "letter": "D",
-          "text": "27 metros",
+          "text": "24",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 24 é a soma das notas, antes da divisão pela quantidade."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 25 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 25 + 2 * 10 = 45 metros.",
-      "difficulty": "5",
+      "explanation": "Média = (6 + 8 + 10)/3 = 24/3 = 8. A soma das notas é dividida pela quantidade de provas.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.67,
-      "bundle_id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "expected_success": 0.65,
+      "bundle_id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -233,43 +233,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v6",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 30 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística: medidas de dispersão, variância e desvio padrão.",
+      "id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle-v6",
+      "statement": "Qual é a mediana do conjunto {3, 7, 9, 12, 15}?",
+      "context": "Um auxiliar administrativo em Recife organiza as alturas dos funcionários para encontrar a mediana.",
       "options": [
         {
           "letter": "A",
-          "text": "50 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorreto: 7 é o segundo valor do rol, não o central."
         },
         {
           "letter": "B",
-          "text": "30 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "9",
+          "is_correct": true,
+          "feedback": "Correto: com 5 valores, a mediana é o 3º termo do rol, que é 9."
         },
         {
           "letter": "C",
-          "text": "55 metros",
+          "text": "9,2",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 9,2 é a média aritmética do conjunto, não a mediana."
         },
         {
           "letter": "D",
-          "text": "32 metros",
+          "text": "12",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 12 é o 4º termo do rol, acima da posição central."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 30 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 30 + 2 * 10 = 50 metros.",
-      "difficulty": "5",
+      "correct_answer": "B",
+      "explanation": "O conjunto já está ordenado e tem 5 elementos. A mediana é o termo da posição (5 + 1)/2 = 3, ou seja, 9.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.64,
-      "bundle_id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -278,88 +278,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v7",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 35 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística: medidas de dispersão, variância e desvio padrão.",
+      "id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle-v7",
+      "statement": "Qual é a moda do conjunto de vendas diárias {2, 5, 5, 5, 7, 8}?",
+      "context": "Um vendedor em Fortaleza analisa o número de vendas diárias na semana.",
       "options": [
         {
           "letter": "A",
-          "text": "55 metros",
+          "text": "5",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: o valor 5 aparece 3 vezes, mais do que qualquer outro."
         },
         {
           "letter": "B",
-          "text": "35 metros",
+          "text": "2",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 2 aparece apenas uma vez."
         },
         {
           "letter": "C",
-          "text": "60 metros",
+          "text": "7",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 7 aparece apenas uma vez."
         },
         {
           "letter": "D",
-          "text": "37 metros",
+          "text": "5,3",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 5,3 é a média aritmética do conjunto, não a moda."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 35 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 35 + 2 * 10 = 55 metros.",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.61,
-      "bundle_id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "br"
-    },
-    {
-      "id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v8",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 40 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística: medidas de dispersão, variância e desvio padrão.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "60 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
-        },
-        {
-          "letter": "B",
-          "text": "40 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
-        },
-        {
-          "letter": "C",
-          "text": "65 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
-        },
-        {
-          "letter": "D",
-          "text": "42 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 40 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 40 + 2 * 10 = 60 metros.",
+      "explanation": "A moda é o valor de maior frequência. No conjunto {2, 5, 5, 5, 7, 8}, o valor 5 aparece três vezes e é a moda.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.58,
-      "bundle_id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -368,43 +323,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v9",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 45 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística: medidas de dispersão, variância e desvio padrão.",
+      "id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle-v8",
+      "statement": "Um aluno obteve notas 7 (peso 2), 8 (peso 3) e 6 (peso 5). Qual é a média ponderada?",
+      "context": "Um professor em Manaus calcula a média final de um aluno com pesos diferentes por bimestre.",
       "options": [
         {
           "letter": "A",
-          "text": "65 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "7,0",
+          "is_correct": false,
+          "feedback": "Incorreto: 7,0 seria a média aritmética simples de 6, 7 e 8."
         },
         {
           "letter": "B",
-          "text": "45 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "6,8",
+          "is_correct": true,
+          "feedback": "Correto: (7·2 + 8·3 + 6·5)/10 = (14 + 24 + 30)/10 = 68/10 = 6,8."
         },
         {
           "letter": "C",
-          "text": "70 metros",
+          "text": "6,5",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 6,5 seria o resultado se os pesos fossem diferentes de forma equivocada."
         },
         {
           "letter": "D",
-          "text": "47 metros",
+          "text": "7,5",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 7,5 superestimaria a média, ignorando o peso maior da nota 6."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 45 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 45 + 2 * 10 = 65 metros.",
+      "correct_answer": "B",
+      "explanation": "Média ponderada = (7·2 + 8·3 + 6·5)/(2 + 3 + 5) = 68/10 = 6,8. Cada nota é multiplicada pelo seu peso antes da divisão.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "expected_success": 0.55,
-      "bundle_id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -413,43 +368,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v10",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 50 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística: medidas de dispersão, variância e desvio padrão.",
+      "id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle-v9",
+      "statement": "As temperaturas máximas da semana foram {12, 45, 23, 67, 30} (valores em uma escala hipotética). Qual é a amplitude do conjunto?",
+      "context": "Um meteorologista em Goiânia compara as temperaturas máximas registradas na semana.",
       "options": [
         {
           "letter": "A",
-          "text": "70 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Incorreto: 30 é apenas um dos valores do conjunto, não a amplitude."
         },
         {
           "letter": "B",
-          "text": "50 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "55",
+          "is_correct": true,
+          "feedback": "Correto: a amplitude é o maior valor menos o menor, 67 − 12 = 55."
         },
         {
           "letter": "C",
-          "text": "75 metros",
+          "text": "67",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 67 é o valor máximo do conjunto."
         },
         {
           "letter": "D",
-          "text": "52 metros",
+          "text": "12",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 12 é o valor mínimo do conjunto."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 50 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 50 + 2 * 10 = 70 metros.",
+      "correct_answer": "B",
+      "explanation": "A amplitude é a diferença entre o maior e o menor valor: 67 − 12 = 55.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.52,
-      "bundle_id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -458,43 +413,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v11",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 55 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística: medidas de dispersão, variância e desvio padrão.",
+      "id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle-v10",
+      "statement": "Qual é a mediana do conjunto {2, 4, 6, 10, 12, 14}?",
+      "context": "Um estudante em Belém calcula a mediana de um conjunto com quantidade par de elementos.",
       "options": [
         {
           "letter": "A",
-          "text": "75 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorreto: com n par, a mediana não é simplesmente o 3º termo."
         },
         {
           "letter": "B",
-          "text": "55 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "8",
+          "is_correct": true,
+          "feedback": "Correto: a mediana é a média dos termos centrais: (6 + 10)/2 = 8."
         },
         {
           "letter": "C",
-          "text": "80 metros",
+          "text": "9",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 9 seria a média aritmética do conjunto (48/6 = 8, não 9)."
         },
         {
           "letter": "D",
-          "text": "57 metros",
+          "text": "10",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 10 é o 4º termo do rol; a mediana usa a média dos dois centrais."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 55 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 55 + 2 * 10 = 75 metros.",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "Com 6 elementos, a mediana é a média dos termos das posições 3 e 4: (6 + 10)/2 = 8.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.49,
-      "bundle_id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -503,43 +458,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v12",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 60 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística: medidas de dispersão, variância e desvio padrão.",
+      "id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle-v11",
+      "statement": "As notas da turma foram: nota 4 com frequência 2, nota 5 com frequência 3 e nota 6 com frequência 5. Qual é a média?",
+      "context": "Um professor em Florianópolis usa uma tabela de frequências para calcular a média das notas da turma.",
       "options": [
         {
           "letter": "A",
-          "text": "80 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "5,0",
+          "is_correct": false,
+          "feedback": "Incorreto: 5,0 seria a média simples de 4, 5 e 6, ignorando as frequências."
         },
         {
           "letter": "B",
-          "text": "60 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "5,3",
+          "is_correct": true,
+          "feedback": "Correto: (4·2 + 5·3 + 6·5)/10 = (8 + 15 + 30)/10 = 53/10 = 5,3."
         },
         {
           "letter": "C",
-          "text": "85 metros",
+          "text": "5,5",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 5,5 é a mediana dos valores 4, 5 e 6, não a média ponderada."
         },
         {
           "letter": "D",
-          "text": "62 metros",
+          "text": "6,0",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 6,0 seria a média se todos os alunos tivessem nota 6."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 60 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 60 + 2 * 10 = 80 metros.",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "A média com frequências é (4·2 + 5·3 + 6·5)/(2 + 3 + 5) = 53/10 = 5,3. O total de alunos é 10.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.46,
-      "bundle_id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -548,43 +503,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v13",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 65 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística: medidas de dispersão, variância e desvio padrão.",
+      "id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle-v12",
+      "statement": "Qual é a variância populacional do conjunto {2, 4, 4, 6}?",
+      "context": "Um pesquisador em Porto Alegre calcula a variância das notas de quatro alunos.",
       "options": [
         {
           "letter": "A",
-          "text": "85 metros",
+          "text": "2",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: a média é 4; os desvios são −2, 0, 0 e 2, e a média dos quadrados é (4 + 0 + 0 + 4)/4 = 2."
         },
         {
           "letter": "B",
-          "text": "65 metros",
+          "text": "√2",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: √2 é o desvio padrão, não a variância."
         },
         {
           "letter": "C",
-          "text": "90 metros",
+          "text": "4",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 4 é a média do conjunto e também o quadrado do desvio do valor 2."
         },
         {
           "letter": "D",
-          "text": "67 metros",
+          "text": "8",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 8 é a soma dos quadrados dos desvios, antes da divisão pela quantidade."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 65 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 65 + 2 * 10 = 85 metros.",
-      "difficulty": "7",
+      "explanation": "A média é 4. Os desvios são −2, 0, 0 e 2; seus quadrados somam 4 + 0 + 0 + 4 = 8. A variância populacional é 8/4 = 2, e o desvio padrão é √2.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.43,
-      "bundle_id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -593,43 +548,88 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v14",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 70 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística: medidas de dispersão, variância e desvio padrão.",
+      "id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle-v13",
+      "statement": "Ao conjunto {10, 12, 14, 16, 18} é acrescentado o valor 58. O que ocorre com a média e com a mediana?",
+      "context": "Um estudante em Campinas analisa o efeito de um valor extremo sobre a média e a mediana.",
       "options": [
         {
           "letter": "A",
-          "text": "90 metros",
+          "text": "A média aumenta muito e a mediana quase não muda",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: a média passa de 14 para 128/6 ≈ 21,3; a mediana passa de 14 para 15."
         },
         {
           "letter": "B",
-          "text": "70 metros",
+          "text": "Ambas aumentam na mesma proporção",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: a média é muito mais sensível ao valor extremo do que a mediana."
         },
         {
           "letter": "C",
-          "text": "95 metros",
+          "text": "A mediana aumenta mais do que a média",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: a mediana varia apenas de 14 para 15."
         },
         {
           "letter": "D",
-          "text": "72 metros",
+          "text": "Nenhuma das duas se altera",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: tanto a média quanto a mediana se alteram com a inclusão de um novo valor."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 70 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 70 + 2 * 10 = 90 metros.",
+      "explanation": "A média vai de 14 para (70 + 58)/6 = 128/6 ≈ 21,3. A mediana do novo rol {10, 12, 14, 16, 18, 58} é (14 + 16)/2 = 15. Isso ilustra a robustez da mediana diante de valores extremos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle-v14",
+      "statement": "As turmas A e B têm a mesma média 7, mas os desvios padrão são 0,5 e 2,0, respectivamente. Qual turma é mais homogênea?",
+      "context": "Um professor em Natal compara o desempenho de duas turmas com a mesma média.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A turma A, pois tem menor desvio padrão",
+          "is_correct": true,
+          "feedback": "Correto: menor desvio padrão indica notas mais concentradas em torno da média."
+        },
+        {
+          "letter": "B",
+          "text": "A turma B, pois tem maior desvio padrão",
+          "is_correct": false,
+          "feedback": "Incorreto: maior desvio padrão indica maior dispersão."
+        },
+        {
+          "letter": "C",
+          "text": "As duas são igualmente homogêneas, pois têm a mesma média",
+          "is_correct": false,
+          "feedback": "Incorreto: a média não mede a dispersão dos dados."
+        },
+        {
+          "letter": "D",
+          "text": "A turma B, pois seus alunos variam mais",
+          "is_correct": false,
+          "feedback": "Incorreto: variar mais significa menos homogeneidade."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "O desvio padrão mede a dispersão em torno da média. Com desvio 0,5, as notas da turma A estão mais concentradas perto de 7, tornando-a mais homogênea.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "expected_success": 0.4,
-      "bundle_id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -638,43 +638,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v15",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 75 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística: medidas de dispersão, variância e desvio padrão.",
+      "id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle-v15",
+      "statement": "Em uma escola, 30 alunos têm as seguintes idades: 15 anos (5 alunos), 16 anos (8 alunos), 17 anos (12 alunos) e 18 anos (5 alunos). Qual é a mediana das idades?",
+      "context": "Um coordenador em São José dos Campos analisa a distribuição de idades dos alunos em uma tabela de frequências.",
       "options": [
         {
           "letter": "A",
-          "text": "95 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorreto: as posições 15ª e 16ª do rol já caem na idade 17."
         },
         {
           "letter": "B",
-          "text": "75 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "17",
+          "is_correct": true,
+          "feedback": "Correto: as frequências acumuladas até 16 anos somam 13, e até 17 anos somam 25; as posições 15ª e 16ª estão na idade 17."
         },
         {
           "letter": "C",
-          "text": "100 metros",
+          "text": "16,5",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 16,5 seria a média entre 16 e 17, posições que não correspondem à mediana."
         },
         {
           "letter": "D",
-          "text": "77 metros",
+          "text": "15,5",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 15,5 está abaixo da região central do rol de 30 elementos."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 75 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 75 + 2 * 10 = 95 metros.",
+      "correct_answer": "B",
+      "explanation": "Com 30 alunos, a mediana é a média das posições 15ª e 16ª. As frequências acumuladas indicam que esses dois valores são 17, logo a mediana é 17.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.37,
-      "bundle_id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -683,43 +683,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v16",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 80 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística: medidas de dispersão, variância e desvio padrão.",
+      "id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle-v16",
+      "statement": "Os salários de 100 funcionários foram agrupados em faixas: R$ 0–500 (10), R$ 500–1000 (20), R$ 1000–1500 (30) e R$ 1500–2000 (40). Usando os pontos médios, qual é o salário médio estimado?",
+      "context": "Um analista em Vitória estima o salário médio de funcionários a partir de faixas salariais.",
       "options": [
         {
           "letter": "A",
-          "text": "100 metros",
+          "text": "R$ 1250",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: (250·10 + 750·20 + 1250·30 + 1750·40)/100 = 125000/100 = 1250."
         },
         {
           "letter": "B",
-          "text": "80 metros",
+          "text": "R$ 1000",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: R$ 1000 seria a média dos pontos médios sem considerar as frequências."
         },
         {
           "letter": "C",
-          "text": "105 metros",
+          "text": "R$ 1500",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: R$ 1500 é o ponto médio aproximado da faixa com maior frequência, não a média geral."
         },
         {
           "letter": "D",
-          "text": "82 metros",
+          "text": "R$ 1125",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: R$ 1125 resultaria de um cálculo incorreto das somas ponderadas."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 80 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 80 + 2 * 10 = 100 metros.",
+      "explanation": "Os pontos médios são 250, 750, 1250 e 1750. A média estimada é (250·10 + 750·20 + 1250·30 + 1750·40)/100 = 125000/100 = R$ 1250.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.34,
-      "bundle_id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "expected_success": 0.35,
+      "bundle_id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -728,43 +728,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v17",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 85 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística: medidas de dispersão, variância e desvio padrão.",
+      "id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle-v17",
+      "statement": "Duas turmas têm a mesma média e desvios padrão diferentes. Qual afirmação é correta?",
+      "context": "Um candidato ao ENEM avalia afirmações sobre dispersão em um gráfico de notas.",
       "options": [
         {
           "letter": "A",
-          "text": "105 metros",
+          "text": "A turma com menor desvio padrão tem notas mais concentradas em torno da média",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: o desvio padrão mede exatamente a dispersão em torno da média."
         },
         {
           "letter": "B",
-          "text": "85 metros",
+          "text": "A turma com maior desvio padrão tem média maior",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: a média é a mesma para as duas turmas, como dado no enunciado."
         },
         {
           "letter": "C",
-          "text": "110 metros",
+          "text": "Desvio padrão nulo indica que a média é nula",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: desvio nulo indica que todos os valores são iguais à média, que pode ser qualquer valor."
         },
         {
           "letter": "D",
-          "text": "87 metros",
+          "text": "Desvios padrão iguais implicam conjuntos idênticos",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: conjuntos diferentes podem ter o mesmo desvio padrão."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 85 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 85 + 2 * 10 = 105 metros.",
-      "difficulty": "9",
+      "explanation": "O desvio padrão quantifica a dispersão dos dados em torno da média. Quanto menor ele é, mais homogêneo é o conjunto, independentemente do valor da média.",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.28,
-      "bundle_id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "expected_success": 0.3,
+      "bundle_id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -773,43 +773,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v18",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 90 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística: medidas de dispersão, variância e desvio padrão.",
+      "id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle-v18",
+      "statement": "O consumo mensal (em m³) de uma escola no primeiro semestre foi 20, 24, 16, 20 e 20 nos cinco primeiros meses. Se a média dos seis meses (janeiro a junho) for 21 m³, qual foi o consumo de junho?",
+      "context": "Um coordenador em Belo Horizonte acompanha o consumo mensal de água da escola para planejar o orçamento.",
       "options": [
         {
           "letter": "A",
-          "text": "110 metros",
+          "text": "26",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: a soma dos seis meses é 21·6 = 126; descontando os cinco primeiros (100), junho foi 26 m³."
         },
         {
           "letter": "B",
-          "text": "90 metros",
+          "text": "21",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 21 seria o consumo se junho fosse igual à média."
         },
         {
           "letter": "C",
-          "text": "115 metros",
+          "text": "24",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 24 é apenas o valor do mês de fevereiro."
         },
         {
           "letter": "D",
-          "text": "92 metros",
+          "text": "20",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 20 é o valor que mais se repete, não o consumo de junho."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 90 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 90 + 2 * 10 = 110 metros.",
-      "difficulty": "9",
+      "explanation": "A soma dos seis meses é 21·6 = 126 m³. A soma dos cinco primeiros é 20 + 24 + 16 + 20 + 20 = 100. Logo, junho consumiu 126 − 100 = 26 m³.",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.24,
-      "bundle_id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "expected_success": 0.25,
+      "bundle_id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -818,88 +818,88 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v19",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 95 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística: medidas de dispersão, variância e desvio padrão.",
+      "id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle-v19",
+      "statement": "Os salários de 5 funcionários são R$ 1100, R$ 1200, R$ 1250, R$ 1300 e R$ 5000. Qual medida de tendência central melhor representa o salário típico da equipe?",
+      "context": "Um analista em Campinas avalia os salários de uma pequena empresa com um valor discrepante.",
       "options": [
         {
           "letter": "A",
-          "text": "115 metros",
+          "text": "A mediana, pois a média é fortemente influenciada pelo salário de R$ 5000",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: a média é 1970, acima de 4 dos 5 salários; a mediana é 1250."
         },
         {
           "letter": "B",
-          "text": "95 metros",
+          "text": "A média, pois considera todos os salários",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: a média (1970) não representa bem a maioria, puxada pelo valor extremo."
         },
         {
           "letter": "C",
-          "text": "120 metros",
+          "text": "A amplitude, pois mostra a variação completa",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: a amplitude não é uma medida de tendência central."
         },
         {
           "letter": "D",
-          "text": "97 metros",
+          "text": "A moda, pois todos os salários são iguais",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: não há valor repetido, portanto não há moda."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 95 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 95 + 2 * 10 = 115 metros.",
+      "explanation": "A média é (1100 + 1200 + 1250 + 1300 + 5000)/5 = 1970, acima de quatro salários. A mediana é 1250, valor típico da equipe. Quando há valores discrepantes, a mediana é preferível.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle-v20",
+      "statement": "As máquinas A e B produzem pacotes com média de 500 g, mas os conjuntos de pesos foram {498, 500, 502, 500} e {490, 500, 510, 500}. Qual máquina é mais consistente?",
+      "context": "Um engenheiro de qualidade em São Paulo compara a precisão de duas máquinas de empacotar café.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A máquina A, pois apresenta menor desvio padrão",
+          "is_correct": true,
+          "feedback": "Correto: o desvio padrão de A é √2 ≈ 1,41, bem menor que o de B, √50 ≈ 7,07."
+        },
+        {
+          "letter": "B",
+          "text": "A máquina B, pois apresenta maior desvio padrão",
+          "is_correct": false,
+          "feedback": "Incorreto: maior desvio padrão indica maior variação dos pesos."
+        },
+        {
+          "letter": "C",
+          "text": "As duas são igualmente consistentes, pois têm a mesma média",
+          "is_correct": false,
+          "feedback": "Incorreto: a média igual não informa sobre a dispersão."
+        },
+        {
+          "letter": "D",
+          "text": "A máquina B, pois os pesos variam mais e cobrem mais casos",
+          "is_correct": false,
+          "feedback": "Incorreto: em controle de qualidade, menor variação é o objetivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A variância de A é (4 + 0 + 4 + 0)/4 = 2, com desvio √2 ≈ 1,41. A variância de B é (100 + 0 + 100 + 0)/4 = 50, com desvio √50 ≈ 7,07. A máquina A é mais consistente por ter menor dispersão.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
       "expected_success": 0.2,
-      "bundle_id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "br"
-    },
-    {
-      "id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle-v20",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 100 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística: medidas de dispersão, variância e desvio padrão.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "120 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
-        },
-        {
-          "letter": "B",
-          "text": "100 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
-        },
-        {
-          "letter": "C",
-          "text": "125 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
-        },
-        {
-          "letter": "D",
-          "text": "102 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 100 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 100 + 2 * 10 = 120 metros.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.16,
-      "bundle_id": "BR-MAT-11-2026-W18-tema-w18-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W18-estatistica-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
       "cefr_level": null,

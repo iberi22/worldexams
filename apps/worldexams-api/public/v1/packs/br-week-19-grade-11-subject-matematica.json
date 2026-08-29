@@ -8,43 +8,43 @@
   },
   "questions": [
     {
-      "id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v1",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 5 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade: espaço amostral, eventos e união.",
+      "id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle-v1",
+      "statement": "Em um espaço amostral equiprovável, como se calcula a probabilidade de um evento A?",
+      "context": "Um estudante em São Paulo revisa a definição clássica de probabilidade para o ENEM.",
       "options": [
         {
           "letter": "A",
-          "text": "25 metros",
+          "text": "Dividindo o número de casos favoráveis a A pelo número de casos possíveis",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: P(A) = casos favoráveis / casos possíveis."
         },
         {
           "letter": "B",
-          "text": "5 metros",
+          "text": "Dividindo o número de casos possíveis pelo número de casos favoráveis",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: essa razão invertida pode resultar em probabilidade maior que 1."
         },
         {
           "letter": "C",
-          "text": "30 metros",
+          "text": "Multiplicando os casos favoráveis pelos casos possíveis",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: o produto não define probabilidade."
         },
         {
           "letter": "D",
-          "text": "7 metros",
+          "text": "Somando os casos favoráveis aos casos possíveis",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: a soma não representa uma razão de chances."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 5 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 5 + 2 * 10 = 25 metros.",
-      "difficulty": "3",
+      "explanation": "A probabilidade clássica de um evento é P(A) = número de resultados favoráveis / número de resultados possíveis, valendo entre 0 e 1.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.81,
-      "bundle_id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "expected_success": 0.85,
+      "bundle_id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -53,43 +53,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v2",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 10 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade: espaço amostral, eventos e união.",
+      "id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle-v2",
+      "statement": "Qual é o número de elementos do espaço amostral do lançamento de um dado comum de seis faces?",
+      "context": "Durante uma aula em Curitiba, o professor pergunta sobre o espaço amostral de um dado.",
       "options": [
         {
           "letter": "A",
-          "text": "30 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorreto: 3 seria o número de resultados pares."
         },
         {
           "letter": "B",
-          "text": "10 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "6",
+          "is_correct": true,
+          "feedback": "Correto: o espaço amostral é {1, 2, 3, 4, 5, 6}, com 6 elementos."
         },
         {
           "letter": "C",
-          "text": "35 metros",
+          "text": "12",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 12 seria o dobro dos resultados possíveis."
         },
         {
           "letter": "D",
-          "text": "12 metros",
+          "text": "36",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 36 é o número de resultados do lançamento de dois dados."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 10 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 10 + 2 * 10 = 30 metros.",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "O espaço amostral do lançamento de um dado é {1, 2, 3, 4, 5, 6}, portanto tem 6 elementos igualmente prováveis.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.77,
-      "bundle_id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "expected_success": 0.8,
+      "bundle_id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -98,43 +98,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v3",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 15 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade: espaço amostral, eventos e união.",
+      "id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle-v3",
+      "statement": "Se a probabilidade de um evento A ocorrer é 0,3, qual é a probabilidade de A não ocorrer?",
+      "context": "Um arquiteto no Rio de Janeiro calcula a probabilidade complementar em um sorteio.",
       "options": [
         {
           "letter": "A",
-          "text": "35 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "0,3",
+          "is_correct": false,
+          "feedback": "Incorreto: essa é a probabilidade de A ocorrer, não de não ocorrer."
         },
         {
           "letter": "B",
-          "text": "15 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "0,7",
+          "is_correct": true,
+          "feedback": "Correto: P(não A) = 1 − P(A) = 1 − 0,3 = 0,7."
         },
         {
           "letter": "C",
-          "text": "40 metros",
+          "text": "0,15",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 0,15 seria a metade da probabilidade de A."
         },
         {
           "letter": "D",
-          "text": "17 metros",
+          "text": "1,3",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: probabilidades não superam 1; a soma de A e não A é sempre 1."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 15 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 15 + 2 * 10 = 35 metros.",
+      "correct_answer": "B",
+      "explanation": "Os eventos A e não A são complementares, portanto P(A) + P(não A) = 1. Logo, P(não A) = 1 − 0,3 = 0,7.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.73,
-      "bundle_id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "expected_success": 0.75,
+      "bundle_id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -143,43 +143,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v4",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 20 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade: espaço amostral, eventos e união.",
+      "id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle-v4",
+      "statement": "Qual é a probabilidade de um evento impossível e a de um evento certo, respectivamente?",
+      "context": "Um professor em Brasília explica os casos extremos da probabilidade.",
       "options": [
         {
           "letter": "A",
-          "text": "40 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "1 e 0",
+          "is_correct": false,
+          "feedback": "Incorreto: as probabilidades estão invertidas."
         },
         {
           "letter": "B",
-          "text": "20 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "0 e 1",
+          "is_correct": true,
+          "feedback": "Correto: evento impossível tem probabilidade 0 e evento certo tem probabilidade 1."
         },
         {
           "letter": "C",
-          "text": "45 metros",
+          "text": "0,5 e 0,5",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 0,5 corresponde a um evento com metade dos casos favoráveis."
         },
         {
           "letter": "D",
-          "text": "22 metros",
+          "text": "0 e 0",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: um evento certo certamente ocorre e tem probabilidade 1."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 20 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 20 + 2 * 10 = 40 metros.",
+      "correct_answer": "B",
+      "explanation": "A probabilidade varia de 0 (evento impossível) a 1 (evento certo). Um evento com P = 0,5 ocorre em metade dos casos possíveis.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.69,
-      "bundle_id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "expected_success": 0.7,
+      "bundle_id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -188,43 +188,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v5",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 25 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade: espaço amostral, eventos e união.",
+      "id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle-v5",
+      "statement": "Ao lançar um dado honesto, qual é a probabilidade de sair um número par?",
+      "context": "Um estudante em Salvador analisa o lançamento de um dado honesto.",
       "options": [
         {
           "letter": "A",
-          "text": "45 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorreto: 1/3 seria a probabilidade de sair um número específico como o 2."
         },
         {
           "letter": "B",
-          "text": "25 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "1/2",
+          "is_correct": true,
+          "feedback": "Correto: há 3 números pares (2, 4, 6) entre 6 resultados: 3/6 = 1/2."
         },
         {
           "letter": "C",
-          "text": "50 metros",
+          "text": "2/3",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 2/3 seria a probabilidade de sair um número maior que 2."
         },
         {
           "letter": "D",
-          "text": "27 metros",
+          "text": "1/6",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 1/6 é a probabilidade de um resultado específico."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 25 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 25 + 2 * 10 = 45 metros.",
-      "difficulty": "5",
+      "correct_answer": "B",
+      "explanation": "Os números pares são 2, 4 e 6, totalizando 3 casos favoráveis em 6 possíveis: P = 3/6 = 1/2.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.67,
-      "bundle_id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "expected_success": 0.65,
+      "bundle_id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -233,43 +233,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v6",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 30 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade: espaço amostral, eventos e união.",
+      "id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle-v6",
+      "statement": "Em um baralho de 52 cartas, com 13 cartas de cada naipe, qual é a probabilidade de retirar uma carta de copas?",
+      "context": "Um estudante em Recife resolve um problema com um baralho comum de 52 cartas.",
       "options": [
         {
           "letter": "A",
-          "text": "50 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "1/13",
+          "is_correct": false,
+          "feedback": "Incorreto: 1/13 seria a probabilidade de tirar uma carta específica de copas, como o ás de copas."
         },
         {
           "letter": "B",
-          "text": "30 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "1/4",
+          "is_correct": true,
+          "feedback": "Correto: há 13 cartas de copas entre 52: 13/52 = 1/4."
         },
         {
           "letter": "C",
-          "text": "55 metros",
+          "text": "1/2",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 1/2 seria a probabilidade de tirar uma carta vermelha."
         },
         {
           "letter": "D",
-          "text": "32 metros",
+          "text": "1/52",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 1/52 é a probabilidade de tirar uma carta específica."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 30 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 30 + 2 * 10 = 50 metros.",
-      "difficulty": "5",
+      "correct_answer": "B",
+      "explanation": "Há 13 cartas de copas em um baralho de 52 cartas: P(copas) = 13/52 = 1/4.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.64,
-      "bundle_id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -278,88 +278,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v7",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 35 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade: espaço amostral, eventos e união.",
+      "id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle-v7",
+      "statement": "Lançando uma moeda e um dado honestos, qual é a probabilidade de obter cara na moeda e um número ímpar no dado?",
+      "context": "Um professor em Fortaleza combina o lançamento de uma moeda e de um dado.",
       "options": [
         {
           "letter": "A",
-          "text": "55 metros",
+          "text": "1/4",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: P = (1/2) × (3/6) = 1/2 × 1/2 = 1/4."
         },
         {
           "letter": "B",
-          "text": "35 metros",
+          "text": "1/2",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 1/2 é apenas a probabilidade de sair cara na moeda."
         },
         {
           "letter": "C",
-          "text": "60 metros",
+          "text": "1/3",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 1/3 seria a probabilidade de sair um número ímpar específico no dado."
         },
         {
           "letter": "D",
-          "text": "37 metros",
+          "text": "3/4",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 3/4 seria a probabilidade de pelo menos um dos eventos não ocorrer."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 35 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 35 + 2 * 10 = 55 metros.",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.61,
-      "bundle_id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "br"
-    },
-    {
-      "id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v8",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 40 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade: espaço amostral, eventos e união.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "60 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
-        },
-        {
-          "letter": "B",
-          "text": "40 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
-        },
-        {
-          "letter": "C",
-          "text": "65 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
-        },
-        {
-          "letter": "D",
-          "text": "42 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 40 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 40 + 2 * 10 = 60 metros.",
+      "explanation": "Os lançamentos são independentes: P(cara e ímpar) = P(cara) × P(ímpar) = 1/2 × 3/6 = 1/4.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.58,
-      "bundle_id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -368,43 +323,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v9",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 45 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade: espaço amostral, eventos e união.",
+      "id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle-v8",
+      "statement": "Uma urna contém 4 bolas verdes, 6 azuis e 10 vermelhas. Qual é a probabilidade de sortear uma bola azul ou vermelha?",
+      "context": "Um organizador em Goiânia sorteia um brinde entre bolas de cores diferentes.",
       "options": [
         {
           "letter": "A",
-          "text": "65 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "3/10",
+          "is_correct": false,
+          "feedback": "Incorreto: 3/10 é a probabilidade de sortear uma bola azul."
         },
         {
           "letter": "B",
-          "text": "45 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "4/5",
+          "is_correct": true,
+          "feedback": "Correto: são 16 bolas azuis ou vermelhas entre 20: 16/20 = 4/5."
         },
         {
           "letter": "C",
-          "text": "70 metros",
+          "text": "1/2",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 1/2 seria a probabilidade de sortear uma bola vermelha."
         },
         {
           "letter": "D",
-          "text": "47 metros",
+          "text": "1/5",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 1/5 é a probabilidade de sortear uma bola verde."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 45 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 45 + 2 * 10 = 65 metros.",
+      "correct_answer": "B",
+      "explanation": "Os eventos são mutuamente exclusivos: P(azul ou vermelha) = P(azul) + P(vermelha) = 6/20 + 10/20 = 16/20 = 4/5.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "expected_success": 0.55,
-      "bundle_id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -413,43 +368,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v10",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 50 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade: espaço amostral, eventos e união.",
+      "id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle-v9",
+      "statement": "Uma urna tem 3 bolas brancas e 7 pretas. Retirando uma bola ao acaso, qual é a probabilidade de ela ser branca?",
+      "context": "Um estudante em Manaus resolve um problema de retirada de bolas de uma urna.",
       "options": [
         {
           "letter": "A",
-          "text": "70 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "7/10",
+          "is_correct": false,
+          "feedback": "Incorreto: 7/10 é a probabilidade de sortear uma bola preta."
         },
         {
           "letter": "B",
-          "text": "50 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "3/10",
+          "is_correct": true,
+          "feedback": "Correto: há 3 bolas brancas entre 10: 3/10."
         },
         {
           "letter": "C",
-          "text": "75 metros",
+          "text": "1/3",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 1/3 seria a razão entre brancas e pretas, não a probabilidade."
         },
         {
           "letter": "D",
-          "text": "52 metros",
+          "text": "1/10",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 1/10 seria a probabilidade de sortear uma bola específica."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 50 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 50 + 2 * 10 = 70 metros.",
+      "correct_answer": "B",
+      "explanation": "Há 10 bolas no total e 3 brancas: P(branca) = 3/10 = 0,3.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.52,
-      "bundle_id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -458,43 +413,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v11",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 55 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade: espaço amostral, eventos e união.",
+      "id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle-v10",
+      "statement": "Em uma turma de 30 alunos, 18 são meninas e, entre elas, 12 gostam de matemática. Sorteado um aluno ao acaso, qual é a probabilidade de ele gostar de matemática, sabendo que é menina?",
+      "context": "Um professor em Belém introduz a probabilidade condicional com dados de uma turma.",
       "options": [
         {
           "letter": "A",
-          "text": "75 metros",
+          "text": "2/3",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: restringe-se o espaço amostral às 18 meninas: 12/18 = 2/3."
         },
         {
           "letter": "B",
-          "text": "55 metros",
+          "text": "2/5",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 2/5 resultaria de dividir 12 por 30, ignorando a condição."
         },
         {
           "letter": "C",
-          "text": "80 metros",
+          "text": "1/3",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 1/3 seria a razão entre as que gostam e a turma toda descontada a condição de forma errada."
         },
         {
           "letter": "D",
-          "text": "57 metros",
+          "text": "3/5",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 3/5 seria a fração de meninas na turma."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 55 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 55 + 2 * 10 = 75 metros.",
-      "difficulty": "7",
+      "explanation": "Sabendo que o aluno é menina, o espaço amostral passa a ser 18. Entre elas, 12 gostam de matemática: P = 12/18 = 2/3.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.49,
-      "bundle_id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -503,43 +458,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v12",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 60 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade: espaço amostral, eventos e união.",
+      "id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle-v11",
+      "statement": "Em uma loja, 200 clientes foram entrevistados: 60 compraram algum produto e, entre os que compraram, 45 pagaram com cartão. Qual é a probabilidade de um cliente, sabendo que comprou, ter pago com cartão?",
+      "context": "Um analista em Florianópolis usa dados de uma pesquisa de mercado em uma tabela.",
       "options": [
         {
           "letter": "A",
-          "text": "80 metros",
+          "text": "0,75",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: restringe-se aos 60 compradores: 45/60 = 0,75 = 3/4."
         },
         {
           "letter": "B",
-          "text": "60 metros",
+          "text": "0,225",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 0,225 resultaria de dividir 45 por 200, ignorando a condição de ter comprado."
         },
         {
           "letter": "C",
-          "text": "85 metros",
+          "text": "0,30",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 0,30 é a probabilidade de comprar na loja."
         },
         {
           "letter": "D",
-          "text": "62 metros",
+          "text": "0,60",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 0,60 seria a razão entre 45 e 75, sem correspondência com os dados."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 60 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 60 + 2 * 10 = 80 metros.",
-      "difficulty": "7",
+      "explanation": "A condição reduz o espaço amostral aos 60 clientes que compraram. Entre eles, 45 pagaram com cartão: P(cartão | comprou) = 45/60 = 0,75.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.46,
-      "bundle_id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -548,43 +503,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v13",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 65 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade: espaço amostral, eventos e união.",
+      "id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle-v12",
+      "statement": "Os eventos A e B são independentes, com P(A) = 0,4 e P(B) = 0,5. Qual é a probabilidade de A e B ocorrerem simultaneamente?",
+      "context": "Um engenheiro em Porto Alegre avalia a probabilidade de dois sistemas independentes falharem.",
       "options": [
         {
           "letter": "A",
-          "text": "85 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "0,9",
+          "is_correct": false,
+          "feedback": "Incorreto: 0,9 é a soma das probabilidades, que valeria para eventos mutuamente exclusivos na união."
         },
         {
           "letter": "B",
-          "text": "65 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "0,2",
+          "is_correct": true,
+          "feedback": "Correto: para eventos independentes, P(A ∩ B) = P(A) × P(B) = 0,4 × 0,5 = 0,2."
         },
         {
           "letter": "C",
-          "text": "90 metros",
+          "text": "0,45",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 0,45 é a média aritmética das duas probabilidades."
         },
         {
           "letter": "D",
-          "text": "67 metros",
+          "text": "0,1",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 0,1 seria a diferença entre as probabilidades."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 65 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 65 + 2 * 10 = 85 metros.",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "Para eventos independentes, a probabilidade da intersecção é o produto das probabilidades: P(A ∩ B) = 0,4 × 0,5 = 0,2.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.43,
-      "bundle_id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -593,43 +548,88 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v14",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 70 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade: espaço amostral, eventos e união.",
+      "id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle-v13",
+      "statement": "Em uma pesquisa, P(A) = 0,5, P(B) = 0,4 e P(A ∩ B) = 0,2. Qual é a probabilidade de A ou B, ou seja, P(A ∪ B)?",
+      "context": "Um estudante em Campinas calcula a probabilidade da união de dois eventos com intersecção não vazia.",
       "options": [
         {
           "letter": "A",
-          "text": "90 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "0,9",
+          "is_correct": false,
+          "feedback": "Incorreto: 0,9 seria a soma sem descontar a intersecção, que foi contada duas vezes."
         },
         {
           "letter": "B",
-          "text": "70 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "0,7",
+          "is_correct": true,
+          "feedback": "Correto: P(A ∪ B) = 0,5 + 0,4 − 0,2 = 0,7."
         },
         {
           "letter": "C",
-          "text": "95 metros",
+          "text": "0,5",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 0,5 é apenas a probabilidade de A."
         },
         {
           "letter": "D",
-          "text": "72 metros",
+          "text": "0,2",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 0,2 é a probabilidade da intersecção dos eventos."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 70 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 70 + 2 * 10 = 90 metros.",
+      "correct_answer": "B",
+      "explanation": "Pela regra da inclusão-exclusão: P(A ∪ B) = P(A) + P(B) − P(A ∩ B) = 0,5 + 0,4 − 0,2 = 0,7.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle-v14",
+      "statement": "Das 100 pessoas entrevistadas, 40 torcem para o time X e, entre elas, 25 são mulheres. Qual é a probabilidade de uma pessoa entrevistada ser mulher, sabendo que torce para o time X?",
+      "context": "Um jornalista em Natal analisa uma pesquisa de torcida realizada com 100 pessoas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,25",
+          "is_correct": false,
+          "feedback": "Incorreto: 0,25 seria a fração de mulheres que torcem para X em relação ao total de 100."
+        },
+        {
+          "letter": "B",
+          "text": "0,625",
+          "is_correct": true,
+          "feedback": "Correto: restringe-se às 40 que torcem para X: 25/40 = 0,625 = 5/8."
+        },
+        {
+          "letter": "C",
+          "text": "0,40",
+          "is_correct": false,
+          "feedback": "Incorreto: 0,40 é a probabilidade de torcer para o time X."
+        },
+        {
+          "letter": "D",
+          "text": "0,65",
+          "is_correct": false,
+          "feedback": "Incorreto: 0,65 não corresponde a nenhuma razão direta dos dados apresentados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A condição fixa o grupo das 40 pessoas que torcem para o time X. Entre elas, 25 são mulheres: P(mulher | torce X) = 25/40 = 0,625.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "expected_success": 0.4,
-      "bundle_id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -638,43 +638,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v15",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 75 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade: espaço amostral, eventos e união.",
+      "id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle-v15",
+      "statement": "Uma urna tem 4 bolas vermelhas e 6 azuis. Retiram-se duas bolas sem reposição. Qual é a probabilidade de as duas serem vermelhas?",
+      "context": "Um professor em São José dos Campos compara retiradas com e sem reposição.",
       "options": [
         {
           "letter": "A",
-          "text": "95 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "4/25",
+          "is_correct": false,
+          "feedback": "Incorreto: 4/25 = (4/10)² seria o resultado se houvesse reposição."
         },
         {
           "letter": "B",
-          "text": "75 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "2/15",
+          "is_correct": true,
+          "feedback": "Correto: P = (4/10) × (3/9) = 12/90 = 2/15."
         },
         {
           "letter": "C",
-          "text": "100 metros",
+          "text": "3/25",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 3/25 resultaria de (4/10) × (3/10), misturando os dois casos."
         },
         {
           "letter": "D",
-          "text": "77 metros",
+          "text": "1/5",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 1/5 é a probabilidade de retirar uma única bola vermelha em um segundo sorteio com reposição."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 75 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 75 + 2 * 10 = 95 metros.",
+      "correct_answer": "B",
+      "explanation": "Sem reposição, a segunda retirada depende da primeira: P = (4/10) × (3/9) = 12/90 = 2/15 ≈ 0,133.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.37,
-      "bundle_id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -683,43 +683,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v16",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 80 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade: espaço amostral, eventos e união.",
+      "id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle-v16",
+      "statement": "Lançando uma moeda honesta duas vezes, qual é a probabilidade de obter pelo menos uma cara?",
+      "context": "Um apostador em Vitória estuda a probabilidade de obter pelo menos uma cara em dois lançamentos.",
       "options": [
         {
           "letter": "A",
-          "text": "100 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "1/2",
+          "is_correct": false,
+          "feedback": "Incorreto: 1/2 é a probabilidade de cara em um único lançamento."
         },
         {
           "letter": "B",
-          "text": "80 metros",
+          "text": "1/4",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 1/4 é a probabilidade de obter duas coroas."
         },
         {
           "letter": "C",
-          "text": "105 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "text": "3/4",
+          "is_correct": true,
+          "feedback": "Correto: P = 1 − P(duas coroas) = 1 − 1/4 = 3/4."
         },
         {
           "letter": "D",
-          "text": "82 metros",
+          "text": "2/3",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 2/3 não corresponde à contagem dos quatro resultados equiprováveis."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 80 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 80 + 2 * 10 = 100 metros.",
+      "correct_answer": "C",
+      "explanation": "Os resultados possíveis são CC, CK, KC e KK. O complementar de \"pelo menos uma cara\" é \"duas coroas\", com probabilidade 1/4. Logo, P = 1 − 1/4 = 3/4.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.34,
-      "bundle_id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "expected_success": 0.35,
+      "bundle_id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -728,43 +728,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v17",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 85 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade: espaço amostral, eventos e união.",
+      "id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle-v17",
+      "statement": "Uma doença atinge 1% da população. Um teste detecta 90% dos doentes e acusa falso positivo em 10% dos saudáveis. Qual é a probabilidade de uma pessoa com teste positivo estar realmente doente?",
+      "context": "Um médico em Belo Horizonte avalia a confiabilidade de um teste de diagnóstico.",
       "options": [
         {
           "letter": "A",
-          "text": "105 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "90%",
+          "is_correct": false,
+          "feedback": "Incorreto: 90% é a sensibilidade do teste, não a probabilidade pedida."
         },
         {
           "letter": "B",
-          "text": "85 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "1/12, aproximadamente 8,3%",
+          "is_correct": true,
+          "feedback": "Correto: P = 0,01·0,9 / (0,01·0,9 + 0,99·0,1) = 0,009/0,108 = 1/12."
         },
         {
           "letter": "C",
-          "text": "110 metros",
+          "text": "10%",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 10% é a taxa de falso positivo entre os saudáveis."
         },
         {
           "letter": "D",
-          "text": "87 metros",
+          "text": "1%",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 1% é a prevalência da doença na população."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 85 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 85 + 2 * 10 = 105 metros.",
-      "difficulty": "9",
+      "correct_answer": "B",
+      "explanation": "Aplicando o teorema de Bayes: P(doente | positivo) = (0,01 × 0,9) / (0,01 × 0,9 + 0,99 × 0,1) = 0,009/0,108 = 1/12 ≈ 8,3%. Mesmo com teste positivo, a maioria dos casos é de falso positivo.",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.28,
-      "bundle_id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "expected_success": 0.3,
+      "bundle_id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -773,43 +773,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v18",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 90 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade: espaço amostral, eventos e união.",
+      "id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle-v18",
+      "statement": "Em uma pesquisa, P(A) = 0,5, P(B) = 0,4 e P(A ∩ B) = 0,2. Os eventos A e B são independentes?",
+      "context": "Um candidato ao vestibular analisa se dois eventos são independentes.",
       "options": [
         {
           "letter": "A",
-          "text": "110 metros",
+          "text": "Sim, pois P(A) × P(B) = P(A ∩ B)",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: 0,5 × 0,4 = 0,2, exatamente a probabilidade da intersecção."
         },
         {
           "letter": "B",
-          "text": "90 metros",
+          "text": "Não, pois P(A ∪ B) ≠ 1",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: a união não precisa ser 1 para haver independência."
         },
         {
           "letter": "C",
-          "text": "115 metros",
+          "text": "Sim, pois são mutuamente exclusivos",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: serem mutuamente exclusivos exigiria P(A ∩ B) = 0."
         },
         {
           "letter": "D",
-          "text": "92 metros",
+          "text": "Não, pois P(A) ≠ P(B)",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: a independência não exige probabilidades iguais."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 90 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 90 + 2 * 10 = 110 metros.",
-      "difficulty": "9",
+      "explanation": "A e B são independentes se P(A ∩ B) = P(A) × P(B). Como 0,5 × 0,4 = 0,2 = P(A ∩ B), os eventos são independentes, apesar de não serem mutuamente exclusivos.",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.24,
-      "bundle_id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "expected_success": 0.25,
+      "bundle_id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -818,88 +818,88 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v19",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 95 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade: espaço amostral, eventos e união.",
+      "id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle-v19",
+      "statement": "Uma fábrica produz 200 peças: 100 pela linha 1, com 5 defeituosas, e 100 pela linha 2, com 10 defeituosas. Sorteada uma peça da linha 1, qual é a probabilidade de ela ser defeituosa?",
+      "context": "Um engenheiro de produção em Campinas analisa defeitos por linha de montagem.",
       "options": [
         {
           "letter": "A",
-          "text": "115 metros",
+          "text": "5%",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: restringe-se às 100 peças da linha 1: 5/100 = 5%."
         },
         {
           "letter": "B",
-          "text": "95 metros",
+          "text": "7,5%",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 7,5% é a proporção de defeituosas no total das 200 peças (15/200)."
         },
         {
           "letter": "C",
-          "text": "120 metros",
+          "text": "10%",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 10% é a proporção de defeituosas na linha 2."
         },
         {
           "letter": "D",
-          "text": "97 metros",
+          "text": "15%",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 15% seria 15 defeituosas sobre 100, usando o denominador errado."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 95 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 95 + 2 * 10 = 115 metros.",
+      "explanation": "A condição \"sorteada da linha 1\" reduz o espaço amostral às 100 peças dessa linha. Entre elas, 5 são defeituosas: P(defeito | linha 1) = 5/100 = 5%.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle-v20",
+      "statement": "Uma urna tem 3 bolas verdes e 5 vermelhas. Retiram-se 3 bolas, uma a uma, sem reposição. Qual é a probabilidade de as três serem verdes?",
+      "context": "Um professor em São Paulo propõe um desafio de probabilidade encadeada sem reposição.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/56",
+          "is_correct": true,
+          "feedback": "Correto: P = (3/8) × (2/7) × (1/6) = 6/336 = 1/56."
+        },
+        {
+          "letter": "B",
+          "text": "27/512",
+          "is_correct": false,
+          "feedback": "Incorreto: (3/8)³ seria o resultado se houvesse reposição entre as retiradas."
+        },
+        {
+          "letter": "C",
+          "text": "1/8",
+          "is_correct": false,
+          "feedback": "Incorreto: 1/8 seria a probabilidade de a primeira bola ser verde."
+        },
+        {
+          "letter": "D",
+          "text": "3/8",
+          "is_correct": false,
+          "feedback": "Incorreto: 3/8 é apenas a probabilidade da primeira retirada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sem reposição, o numerador e o denominador diminuem a cada retirada: P = (3/8) × (2/7) × (1/6) = 6/336 = 1/56 ≈ 1,8%.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
       "expected_success": 0.2,
-      "bundle_id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "br"
-    },
-    {
-      "id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle-v20",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 100 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a probabilidade: espaço amostral, eventos e união.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "120 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
-        },
-        {
-          "letter": "B",
-          "text": "100 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
-        },
-        {
-          "letter": "C",
-          "text": "125 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
-        },
-        {
-          "letter": "D",
-          "text": "102 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 100 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 100 + 2 * 10 = 120 metros.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.16,
-      "bundle_id": "BR-MAT-11-2026-W19-tema-w19-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W19-probabilidade-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
       "cefr_level": null,

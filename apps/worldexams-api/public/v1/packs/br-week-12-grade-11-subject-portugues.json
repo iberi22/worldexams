@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "portugues",
+    "country": "br",
+    "pack_id": "br-week-12-grade-11-subject-portugues",
+    "generated_at": "2026-08-29T04:04:54.075Z"
+  },
+  "questions": [
+    {
+      "id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle-v1",
+      "statement": "No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Anáfora e Catáfora, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de retomada anafórica e antecipação catafórica?",
+      "context": "Um estudante de São Paulo analisa o tema Anáfora e Catáfora em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de retomada anafórica permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Anáfora e Catáfora.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de retomada anafórica limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Anáfora e Catáfora.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de antecipação catafórica impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. antecipação catafórica é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Anáfora e Catáfora aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Anáfora e Catáfora no contexto de Coesão Textual e Elementos de Referenciação exige identificar como retomada anafórica e antecipação catafórica articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle-v2",
+      "statement": "No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Coesão Lexical e Sinonímia, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de recorrência lexical e uso de sinônimos?",
+      "context": "Um estudante de Rio de Janeiro analisa o tema Coesão Lexical e Sinonímia em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de recorrência lexical permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Coesão Lexical e Sinonímia.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de recorrência lexical limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Coesão Lexical e Sinonímia.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de uso de sinônimos impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. uso de sinônimos é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Coesão Lexical e Sinonímia aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Coesão Lexical e Sinonímia no contexto de Coesão Textual e Elementos de Referenciação exige identificar como recorrência lexical e uso de sinônimos articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle-v3",
+      "statement": "No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Coesão por Elipse Verbal, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de elipse do verbo e subentendido sintático?",
+      "context": "Um estudante de Belo Horizonte analisa o tema Coesão por Elipse Verbal em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de elipse do verbo permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Coesão por Elipse Verbal.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de elipse do verbo limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Coesão por Elipse Verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de subentendido sintático impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. subentendido sintático é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Coesão por Elipse Verbal aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Coesão por Elipse Verbal no contexto de Coesão Textual e Elementos de Referenciação exige identificar como elipse do verbo e subentendido sintático articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle-v4",
+      "statement": "No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Hiperônimos e Hipônimos, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de termo genérico e termo específico?",
+      "context": "Um estudante de Porto Alegre analisa o tema Hiperônimos e Hipônimos em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de termo genérico permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Hiperônimos e Hipônimos.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de termo genérico limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Hiperônimos e Hipônimos.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de termo específico impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. termo específico é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Hiperônimos e Hipônimos aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Hiperônimos e Hipônimos no contexto de Coesão Textual e Elementos de Referenciação exige identificar como termo genérico e termo específico articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle-v5",
+      "statement": "No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Pronomes Demonstrativos este/esse, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de referência espacial e temporal e referência textual?",
+      "context": "Um estudante de Curitiba analisa o tema Pronomes Demonstrativos este/esse em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de referência espacial e temporal permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Pronomes Demonstrativos este/esse.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de referência espacial e temporal limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Pronomes Demonstrativos este/esse.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de referência textual impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. referência textual é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Pronomes Demonstrativos este/esse aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Pronomes Demonstrativos este/esse no contexto de Coesão Textual e Elementos de Referenciação exige identificar como referência espacial e temporal e referência textual articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle-v6",
+      "statement": "No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Retomada por Pronomes Relativos, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de pronome relativo e coesão sequencial?",
+      "context": "Um estudante de Salvador analisa o tema Retomada por Pronomes Relativos em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de pronome relativo permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Retomada por Pronomes Relativos.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de pronome relativo limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Retomada por Pronomes Relativos.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de coesão sequencial impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. coesão sequencial é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Retomada por Pronomes Relativos aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Retomada por Pronomes Relativos no contexto de Coesão Textual e Elementos de Referenciação exige identificar como pronome relativo e coesão sequencial articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle-v7",
+      "statement": "No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Substituição Nominal e Dicionário, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de substantivação e parafraseamento?",
+      "context": "Um estudante de Recife analisa o tema Substituição Nominal e Dicionário em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de substantivação permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Substituição Nominal e Dicionário.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de substantivação limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Substituição Nominal e Dicionário.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de parafraseamento impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. parafraseamento é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Substituição Nominal e Dicionário aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Substituição Nominal e Dicionário no contexto de Coesão Textual e Elementos de Referenciação exige identificar como substantivação e parafraseamento articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle-v8",
+      "statement": "No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Coesão Referencial por Artigos, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de artigo definido e artigo indefinido?",
+      "context": "Um estudante de Fortaleza analisa o tema Coesão Referencial por Artigos em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de artigo definido permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Coesão Referencial por Artigos.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de artigo definido limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Coesão Referencial por Artigos.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de artigo indefinido impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. artigo indefinido é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Coesão Referencial por Artigos aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Coesão Referencial por Artigos no contexto de Coesão Textual e Elementos de Referenciação exige identificar como artigo definido e artigo indefinido articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.58,
+      "bundle_id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle-v9",
+      "statement": "No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Encadeamento de Parágrafos, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de transição parágrafo e conectores interparágrafos?",
+      "context": "Um estudante de Manaus analisa o tema Encadeamento de Parágrafos em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de transição parágrafo permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Encadeamento de Parágrafos.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de transição parágrafo limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Encadeamento de Parágrafos.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de conectores interparágrafos impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. conectores interparágrafos é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Encadeamento de Parágrafos aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Encadeamento de Parágrafos no contexto de Coesão Textual e Elementos de Referenciação exige identificar como transição parágrafo e conectores interparágrafos articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle-v10",
+      "statement": "No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Coesão Recorrente e Repetição, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de reiteração expressiva e repetição enfática?",
+      "context": "Um estudante de Brasília analisa o tema Coesão Recorrente e Repetição em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de reiteração expressiva permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Coesão Recorrente e Repetição.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de reiteração expressiva limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Coesão Recorrente e Repetição.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de repetição enfática impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. repetição enfática é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Coesão Recorrente e Repetição aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Coesão Recorrente e Repetição no contexto de Coesão Textual e Elementos de Referenciação exige identificar como reiteração expressiva e repetição enfática articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.52,
+      "bundle_id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle-v11",
+      "statement": "No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Paráfrase Coesiva em Redação, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de reformulação textual e paráfrase sintética?",
+      "context": "Um estudante de São Paulo analisa o tema Paráfrase Coesiva em Redação em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de reformulação textual permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Paráfrase Coesiva em Redação.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de reformulação textual limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Paráfrase Coesiva em Redação.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de paráfrase sintética impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. paráfrase sintética é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Paráfrase Coesiva em Redação aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Paráfrase Coesiva em Redação no contexto de Coesão Textual e Elementos de Referenciação exige identificar como reformulação textual e paráfrase sintética articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle-v12",
+      "statement": "No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Pronomes Possessivos Ambiguidade, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de duplo sentido e desambiguação possessiva?",
+      "context": "Um estudante de Rio de Janeiro analisa o tema Pronomes Possessivos Ambiguidade em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de duplo sentido permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Pronomes Possessivos Ambiguidade.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de duplo sentido limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Pronomes Possessivos Ambiguidade.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de desambiguação possessiva impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. desambiguação possessiva é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Pronomes Possessivos Ambiguidade aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Pronomes Possessivos Ambiguidade no contexto de Coesão Textual e Elementos de Referenciação exige identificar como duplo sentido e desambiguação possessiva articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle-v13",
+      "statement": "No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Coesão em Artigos Acadêmicos, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de encadeamento lógico e marcadores formais?",
+      "context": "Um estudante de Belo Horizonte analisa o tema Coesão em Artigos Acadêmicos em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de encadeamento lógico permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Coesão em Artigos Acadêmicos.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de encadeamento lógico limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Coesão em Artigos Acadêmicos.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de marcadores formais impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. marcadores formais é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Coesão em Artigos Acadêmicos aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Coesão em Artigos Acadêmicos no contexto de Coesão Textual e Elementos de Referenciação exige identificar como encadeamento lógico e marcadores formais articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle-v14",
+      "statement": "No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Retomada Proposicional Complexa, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de resumo anafórico e rótulos discursivos?",
+      "context": "Um estudante de Porto Alegre analisa o tema Retomada Proposicional Complexa em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de resumo anafórico permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Retomada Proposicional Complexa.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de resumo anafórico limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Retomada Proposicional Complexa.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de rótulos discursivos impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. rótulos discursivos é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Retomada Proposicional Complexa aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Retomada Proposicional Complexa no contexto de Coesão Textual e Elementos de Referenciação exige identificar como resumo anafórico e rótulos discursivos articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle-v15",
+      "statement": "No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Desvios de Coesão no ENEM, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de Competência 4 ENEM e lacunas de referência?",
+      "context": "Um estudante de Curitiba analisa o tema Desvios de Coesão no ENEM em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de Competência 4 ENEM permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Desvios de Coesão no ENEM.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de Competência 4 ENEM limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Desvios de Coesão no ENEM.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de lacunas de referência impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. lacunas de referência é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Desvios de Coesão no ENEM aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Desvios de Coesão no ENEM no contexto de Coesão Textual e Elementos de Referenciação exige identificar como Competência 4 ENEM e lacunas de referência articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle-v16",
+      "statement": "No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Progressão Temática Contínua, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de tópico discursivo e manutenção do tema?",
+      "context": "Um estudante de Salvador analisa o tema Progressão Temática Contínua em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de tópico discursivo permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Progressão Temática Contínua.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de tópico discursivo limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Progressão Temática Contínua.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de manutenção do tema impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. manutenção do tema é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Progressão Temática Contínua aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Progressão Temática Contínua no contexto de Coesão Textual e Elementos de Referenciação exige identificar como tópico discursivo e manutenção do tema articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.38,
+      "bundle_id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle-v17",
+      "statement": "No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Análise da Coesão Catafórica, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de efeito de suspense e antecipação textual?",
+      "context": "Um estudante de Recife analisa o tema Análise da Coesão Catafórica em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de efeito de suspense permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Análise da Coesão Catafórica.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de efeito de suspense limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Análise da Coesão Catafórica.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de antecipação textual impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. antecipação textual é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Análise da Coesão Catafórica aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Análise da Coesão Catafórica no contexto de Coesão Textual e Elementos de Referenciação exige identificar como efeito de suspense e antecipação textual articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle-v18",
+      "statement": "No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Cadeias Referenciais Extensas, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de redes anafóricas e coesão em grandes textos?",
+      "context": "Um estudante de Fortaleza analisa o tema Cadeias Referenciais Extensas em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de redes anafóricas permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Cadeias Referenciais Extensas.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de redes anafóricas limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Cadeias Referenciais Extensas.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de coesão em grandes textos impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. coesão em grandes textos é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Cadeias Referenciais Extensas aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Cadeias Referenciais Extensas no contexto de Coesão Textual e Elementos de Referenciação exige identificar como redes anafóricas e coesão em grandes textos articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle-v19",
+      "statement": "No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Incoerência por Quebra Coesiva, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de ruptura de cadeia e referência nula?",
+      "context": "Um estudante de Manaus analisa o tema Incoerência por Quebra Coesiva em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de ruptura de cadeia permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Incoerência por Quebra Coesiva.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de ruptura de cadeia limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Incoerência por Quebra Coesiva.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de referência nula impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. referência nula é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Incoerência por Quebra Coesiva aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Incoerência por Quebra Coesiva no contexto de Coesão Textual e Elementos de Referenciação exige identificar como ruptura de cadeia e referência nula articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle-v20",
+      "statement": "No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Coesão e Eficiência Pragmática, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de pragmática da referência e economia linguística?",
+      "context": "Um estudante de Brasília analisa o tema Coesão e Eficiência Pragmática em uma aula preparatória de Língua Portuguesa para o ENEM.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A aplicação adequada de pragmática da referência permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Coesão e Eficiência Pragmática.",
+          "is_correct": true,
+          "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
+        },
+        {
+          "letter": "B",
+          "text": "O conceito de pragmática da referência limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Coesão e Eficiência Pragmática.",
+          "is_correct": false,
+          "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
+        },
+        {
+          "letter": "C",
+          "text": "O fenômeno de economia linguística impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
+          "is_correct": false,
+          "feedback": "Incorreto. economia linguística é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
+        },
+        {
+          "letter": "D",
+          "text": "A análise de Coesão e Eficiência Pragmática aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
+          "is_correct": false,
+          "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A compreensão de Coesão e Eficiência Pragmática no contexto de Coesão Textual e Elementos de Referenciação exige identificar como pragmática da referência e economia linguística articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "BR-POR-11-2026-W12-tema-w12-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "portugues",
+      "grade": 11,
+      "country": "br"
+    }
+  ]
+}

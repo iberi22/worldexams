@@ -8,88 +8,43 @@
   },
   "questions": [
     {
-      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v1",
-      "statement": "Qual é a fórmula matemática exata que calcula o volume V de um cilindro reto de raio da base r e altura h?",
-      "context": "Uma indústria química em Camaçari armazena combustíveis em tanques de formato cilíndrico circular reto.",
+      "id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle-v1",
+      "statement": "Um prisma reto de base triangular possui quantas faces no total?",
+      "context": "Um estudante em São Paulo revisa as definições de poliedros para a prova do ENEM.",
       "options": [
         {
           "letter": "A",
-          "text": "V = π * r² * h",
-          "is_correct": true,
-          "feedback": "Correto! O volume do cilindro é a área da base circular (π * r²) multiplicada pela altura h."
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorreto: 3 é o número de faces laterais, sem contar as bases."
         },
         {
           "letter": "B",
-          "text": "V = (π * r² * h) / 3",
-          "is_correct": false,
-          "feedback": "Incorreto. Esta é a fórmula do volume de um cone, não de um cilindro."
-        },
-        {
-          "letter": "C",
-          "text": "V = 2 * π * r * h",
-          "is_correct": false,
-          "feedback": "Incorreto. Esta é a fórmula da área lateral do cilindro, não do volume."
-        },
-        {
-          "letter": "D",
-          "text": "V = π * r * h²",
-          "is_correct": false,
-          "feedback": "Incorreto. O raio deve estar ao quadrado na fórmula do volume do cilindro."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "O volume de um cilindro circular reto é obtido multiplicando-se a área de sua base circular (Ab = π * r²) pelo comprimento de sua altura vertical (h): V = π * r² * h.",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.81,
-      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "br"
-    },
-    {
-      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v2",
-      "statement": "Qual é o volume de um prisma de base quadrada de lado 4 cm e altura de 10 cm?",
-      "context": "Um fabricante de caixas de papelão em Manaus projeta recipientes no formato de prismas retos de base quadrada.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "40 cm³",
-          "is_correct": false,
-          "feedback": "Incorreto. Você esqueceu de elevar o lado da base ao quadrado para obter a área da base."
-        },
-        {
-          "letter": "B",
-          "text": "160 cm³",
+          "text": "5",
           "is_correct": true,
-          "feedback": "Correto! Área da base Ab = 4² = 16 cm². Volume V = Ab * h = 16 * 10 = 160 cm³."
+          "feedback": "Correto: 3 faces laterais + 2 bases triangulares = 5 faces."
         },
         {
           "letter": "C",
-          "text": "80 cm³",
+          "text": "6",
           "is_correct": false,
-          "feedback": "Incorreto. Verifique a área da base quadrada: Ab = 4 * 4 = 16 cm²."
+          "feedback": "Incorreto: 6 seria o número de faces de um prisma de base quadrangular."
         },
         {
           "letter": "D",
-          "text": "320 cm³",
+          "text": "4",
           "is_correct": false,
-          "feedback": "Incorreto. O cálculo do volume do prisma reto de base quadrada não deve ser multiplicado por dois de forma indevida."
+          "feedback": "Incorreto: 4 não corresponde a um prisma de base triangular."
         }
       ],
       "correct_answer": "B",
-      "explanation": "A área da base de um prisma quadrado é Ab = L² = 4² = 16 cm². O volume é o produto da área da base pela altura: V = Ab * h = 16 * 10 = 160 cm³.",
-      "difficulty": "3",
+      "explanation": "Um prisma de base triangular tem 2 bases triangulares e 3 faces laterais retangulares, totalizando 5 faces.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.77,
-      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "expected_success": 0.85,
+      "bundle_id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -98,43 +53,88 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v3",
-      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
-      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 5 cm e altura de 5 cm.",
+      "id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle-v2",
+      "statement": "Qual é a fórmula do volume de um cilindro reto de raio r e altura h?",
+      "context": "Durante uma aula em Curitiba, o professor pergunta a fórmula do volume de um cilindro.",
       "options": [
         {
           "letter": "A",
-          "text": "125π cm³",
-          "is_correct": true,
-          "feedback": "Correto! Volume = π * r² * h."
+          "text": "2πrh",
+          "is_correct": false,
+          "feedback": "Incorreto: 2πrh é a área lateral do cilindro."
         },
         {
           "letter": "B",
-          "text": "25π cm³",
-          "is_correct": false,
-          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+          "text": "πr²h",
+          "is_correct": true,
+          "feedback": "Correto: o volume é a área da base (πr²) multiplicada pela altura."
         },
         {
           "letter": "C",
-          "text": "250π cm³",
+          "text": "πr²",
           "is_correct": false,
-          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+          "feedback": "Incorreto: πr² é apenas a área da base."
         },
         {
           "letter": "D",
-          "text": "140π cm³",
+          "text": "2πr² + 2πrh",
           "is_correct": false,
-          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+          "feedback": "Incorreto: essa é a expressão da área total do cilindro."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 5 cm e h = 5 cm: V = π * 5² * 5 = π * 25 * 5 = 125π cm³.",
+      "correct_answer": "B",
+      "explanation": "O volume do cilindro é V = área da base × altura = πr²h, análogo ao volume de um prisma.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle-v3",
+      "statement": "Uma caixa d'água tem formato de paralelepípedo retângulo com dimensões 2 m × 3 m × 4 m. Qual é o seu volume?",
+      "context": "Um arquiteto no Rio de Janeiro calcula o volume de uma caixa d'água em formato de paralelepípedo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9 m³",
+          "is_correct": false,
+          "feedback": "Incorreto: 9 é a soma das arestas, não o volume."
+        },
+        {
+          "letter": "B",
+          "text": "26 m³",
+          "is_correct": false,
+          "feedback": "Incorreto: 26 é a área da superfície, não o volume."
+        },
+        {
+          "letter": "C",
+          "text": "24 m³",
+          "is_correct": true,
+          "feedback": "Correto: V = 2 × 3 × 4 = 24 m³."
+        },
+        {
+          "letter": "D",
+          "text": "48 m³",
+          "is_correct": false,
+          "feedback": "Incorreto: 48 seria o dobro do volume correto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "O volume de um paralelepípedo retângulo é o produto das três dimensões: V = 2 × 3 × 4 = 24 m³.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.73,
-      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "expected_success": 0.75,
+      "bundle_id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -143,43 +143,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v4",
-      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
-      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 2 cm e altura de 6 cm.",
+      "id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle-v4",
+      "statement": "Um cubo tem aresta de 5 cm. Qual é o seu volume?",
+      "context": "Um professor em Brasília explica a relação entre as arestas de um cubo e o seu volume.",
       "options": [
         {
           "letter": "A",
-          "text": "24π cm³",
-          "is_correct": true,
-          "feedback": "Correto! Volume = π * r² * h."
+          "text": "15 cm³",
+          "is_correct": false,
+          "feedback": "Incorreto: 15 é o triplo da aresta, não o volume."
         },
         {
           "letter": "B",
-          "text": "12π cm³",
-          "is_correct": false,
-          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+          "text": "125 cm³",
+          "is_correct": true,
+          "feedback": "Correto: V = 5³ = 125 cm³."
         },
         {
           "letter": "C",
-          "text": "48π cm³",
+          "text": "25 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+          "feedback": "Incorreto: 25 é a área de uma face."
         },
         {
           "letter": "D",
-          "text": "39π cm³",
+          "text": "100 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+          "feedback": "Incorreto: 100 seria 5² × 4, sem fundamento."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 2 cm e h = 6 cm: V = π * 2² * 6 = π * 4 * 6 = 24π cm³.",
+      "correct_answer": "B",
+      "explanation": "O volume do cubo é a aresta elevada ao cubo: V = 5³ = 125 cm³.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.69,
-      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "expected_success": 0.7,
+      "bundle_id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -188,43 +188,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v5",
-      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
-      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 3 cm e altura de 7 cm.",
+      "id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle-v5",
+      "statement": "Qual é a área lateral de um cilindro reto de raio 3 cm e altura 10 cm?",
+      "context": "Um estudante em Salvador analisa a área lateral de um cilindro.",
       "options": [
         {
           "letter": "A",
-          "text": "63π cm³",
+          "text": "60π cm²",
           "is_correct": true,
-          "feedback": "Correto! Volume = π * r² * h."
+          "feedback": "Correto: A_lat = 2πrh = 2π × 3 × 10 = 60π cm²."
         },
         {
           "letter": "B",
-          "text": "21π cm³",
+          "text": "30π cm²",
           "is_correct": false,
-          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+          "feedback": "Incorreto: 30π seria o produto r × h, sem o fator 2π."
         },
         {
           "letter": "C",
-          "text": "126π cm³",
+          "text": "90π cm²",
           "is_correct": false,
-          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+          "feedback": "Incorreto: 90π seria πr²h, que é o volume."
         },
         {
           "letter": "D",
-          "text": "78π cm³",
+          "text": "18π cm²",
           "is_correct": false,
-          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+          "feedback": "Incorreto: 18π é o dobro da área da base (2πr²), não a área lateral."
         }
       ],
       "correct_answer": "A",
-      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 3 cm e h = 7 cm: V = π * 3² * 7 = π * 9 * 7 = 63π cm³.",
-      "difficulty": "5",
+      "explanation": "A área lateral do cilindro é o produto do comprimento da circunferência da base pela altura: A_lat = 2πrh = 2π × 3 × 10 = 60π cm².",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.67,
-      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "expected_success": 0.65,
+      "bundle_id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -233,43 +233,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v6",
-      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
-      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 4 cm e altura de 5 cm.",
+      "id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle-v6",
+      "statement": "Um reservatório cilíndrico tem diâmetro de 4 m e altura de 5 m. Qual é o seu volume aproximado, considerando π = 3,14?",
+      "context": "Um engenheiro em Recife calcula o volume de um cilindro a partir do diâmetro.",
       "options": [
         {
           "letter": "A",
-          "text": "80π cm³",
-          "is_correct": true,
-          "feedback": "Correto! Volume = π * r² * h."
+          "text": "31,4 m³",
+          "is_correct": false,
+          "feedback": "Incorreto: 31,4 é o volume de um cilindro de raio 1 m."
         },
         {
           "letter": "B",
-          "text": "20π cm³",
-          "is_correct": false,
-          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+          "text": "62,8 m³",
+          "is_correct": true,
+          "feedback": "Correto: raio = 2 m, V = π × 2² × 5 = 3,14 × 20 = 62,8 m³."
         },
         {
           "letter": "C",
-          "text": "160π cm³",
+          "text": "125,6 m³",
           "is_correct": false,
-          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+          "feedback": "Incorreto: 125,6 seria se o raio fosse 4 m (diâmetro 8 m)."
         },
         {
           "letter": "D",
-          "text": "95π cm³",
+          "text": "20 m³",
           "is_correct": false,
-          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+          "feedback": "Incorreto: 20 é o produto do diâmetro pela altura, sem π."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 4 cm e h = 5 cm: V = π * 4² * 5 = π * 16 * 5 = 80π cm³.",
-      "difficulty": "5",
+      "correct_answer": "B",
+      "explanation": "Com diâmetro 4 m, o raio é 2 m. O volume é V = πr²h = 3,14 × 2² × 5 = 3,14 × 20 = 62,8 m³.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.64,
-      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -278,88 +278,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v7",
-      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
-      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 5 cm e altura de 6 cm.",
+      "id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle-v7",
+      "statement": "Qual é a área total da superfície de um cubo de aresta 4 cm?",
+      "context": "Um marceneiro em Fortaleza calcula a área total de um cubo de madeira.",
       "options": [
         {
           "letter": "A",
-          "text": "150π cm³",
-          "is_correct": true,
-          "feedback": "Correto! Volume = π * r² * h."
+          "text": "64 cm²",
+          "is_correct": false,
+          "feedback": "Incorreto: 64 é o volume do cubo."
         },
         {
           "letter": "B",
-          "text": "30π cm³",
-          "is_correct": false,
-          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
-        },
-        {
-          "letter": "C",
-          "text": "300π cm³",
-          "is_correct": false,
-          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
-        },
-        {
-          "letter": "D",
-          "text": "165π cm³",
-          "is_correct": false,
-          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 5 cm e h = 6 cm: V = π * 5² * 6 = π * 25 * 6 = 150π cm³.",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.61,
-      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "br"
-    },
-    {
-      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v8",
-      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
-      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 2 cm e altura de 7 cm.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "28π cm³",
+          "text": "96 cm²",
           "is_correct": true,
-          "feedback": "Correto! Volume = π * r² * h."
-        },
-        {
-          "letter": "B",
-          "text": "14π cm³",
-          "is_correct": false,
-          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+          "feedback": "Correto: A_total = 6 × 4² = 6 × 16 = 96 cm²."
         },
         {
           "letter": "C",
-          "text": "56π cm³",
+          "text": "48 cm²",
           "is_correct": false,
-          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+          "feedback": "Incorreto: 48 seria a área de 3 faces."
         },
         {
           "letter": "D",
-          "text": "43π cm³",
+          "text": "16 cm²",
           "is_correct": false,
-          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+          "feedback": "Incorreto: 16 é a área de uma única face."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 2 cm e h = 7 cm: V = π * 2² * 7 = π * 4 * 7 = 28π cm³.",
+      "correct_answer": "B",
+      "explanation": "A área total do cubo é a soma das áreas de suas 6 faces quadradas: A = 6a² = 6 × 16 = 96 cm².",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.58,
-      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -368,43 +323,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v9",
-      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
-      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 3 cm e altura de 5 cm.",
+      "id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle-v8",
+      "statement": "Qual é a área total de um cilindro reto de raio 2 cm e altura 5 cm? (Use π = 3,14.)",
+      "context": "Um estudante em Manaus calcula a área total de um cilindro para um trabalho escolar.",
       "options": [
         {
           "letter": "A",
-          "text": "45π cm³",
-          "is_correct": true,
-          "feedback": "Correto! Volume = π * r² * h."
+          "text": "75,36 cm²",
+          "is_correct": false,
+          "feedback": "Incorreto: esse valor é a soma da área lateral (62,8 cm²) com apenas uma base (12,56 cm²)."
         },
         {
           "letter": "B",
-          "text": "15π cm³",
+          "text": "62,8 cm²",
           "is_correct": false,
-          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+          "feedback": "Incorreto: 62,8 é apenas a área lateral."
         },
         {
           "letter": "C",
-          "text": "90π cm³",
-          "is_correct": false,
-          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+          "text": "87,92 cm²",
+          "is_correct": true,
+          "feedback": "Correto: 2πr² + 2πrh = 25,12 + 62,8 = 87,92 cm²."
         },
         {
           "letter": "D",
-          "text": "60π cm³",
+          "text": "50,24 cm²",
           "is_correct": false,
-          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+          "feedback": "Incorreto: 50,24 é o dobro da área das duas bases."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 3 cm e h = 5 cm: V = π * 3² * 5 = π * 9 * 5 = 45π cm³.",
+      "correct_answer": "C",
+      "explanation": "A área total do cilindro é A = 2πr² + 2πrh. Com r = 2 e h = 5: bases = 2 × 3,14 × 4 = 25,12 cm² e lateral = 2 × 3,14 × 2 × 5 = 62,8 cm². Total = 87,92 cm².",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "expected_success": 0.55,
-      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -413,43 +368,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v10",
-      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
-      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 4 cm e altura de 6 cm.",
+      "id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle-v9",
+      "statement": "Qual é a medida da diagonal de um paralelepípedo retângulo de dimensões 3 cm, 4 cm e 12 cm?",
+      "context": "Um professor em Goiânia pede o cálculo da diagonal de um paralelepípedo.",
       "options": [
         {
           "letter": "A",
-          "text": "96π cm³",
-          "is_correct": true,
-          "feedback": "Correto! Volume = π * r² * h."
+          "text": "12 cm",
+          "is_correct": false,
+          "feedback": "Incorreto: 12 é apenas a maior aresta."
         },
         {
           "letter": "B",
-          "text": "24π cm³",
-          "is_correct": false,
-          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+          "text": "13 cm",
+          "is_correct": true,
+          "feedback": "Correto: d = √(3² + 4² + 12²) = √(9 + 16 + 144) = √169 = 13 cm."
         },
         {
           "letter": "C",
-          "text": "192π cm³",
+          "text": "19 cm",
           "is_correct": false,
-          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+          "feedback": "Incorreto: 19 é a soma das arestas, não a diagonal."
         },
         {
           "letter": "D",
-          "text": "111π cm³",
+          "text": "10 cm",
           "is_correct": false,
-          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+          "feedback": "Incorreto: 10 seria a diagonal de uma das faces (3×4 ou 6×8)."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 4 cm e h = 6 cm: V = π * 4² * 6 = π * 16 * 6 = 96π cm³.",
+      "correct_answer": "B",
+      "explanation": "A diagonal de um paralelepípedo retângulo é d = √(a² + b² + c²). Assim, d = √(9 + 16 + 144) = √169 = 13 cm.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.52,
-      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -458,43 +413,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v11",
-      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
-      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 5 cm e altura de 7 cm.",
+      "id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle-v10",
+      "statement": "Um silo cilíndrico tem raio 2 m e altura 6 m. Quantos litros de grãos, aproximadamente, ele comporta? (Considere π = 3,14 e 1 m³ = 1000 L.)",
+      "context": "Um engenheiro agrônomo em Belém dimensiona um silo cilíndrico para armazenar grãos.",
       "options": [
         {
           "letter": "A",
-          "text": "175π cm³",
-          "is_correct": true,
-          "feedback": "Correto! Volume = π * r² * h."
+          "text": "37.680 L",
+          "is_correct": false,
+          "feedback": "Incorreto: 37.680 L seria para um cilindro de raio 2 m e altura 3 m."
         },
         {
           "letter": "B",
-          "text": "35π cm³",
-          "is_correct": false,
-          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+          "text": "75.360 L",
+          "is_correct": true,
+          "feedback": "Correto: V = 3,14 × 4 × 6 = 75,36 m³ = 75.360 L."
         },
         {
           "letter": "C",
-          "text": "350π cm³",
+          "text": "150.720 L",
           "is_correct": false,
-          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+          "feedback": "Incorreto: 150.720 L seria o dobro do volume correto."
         },
         {
           "letter": "D",
-          "text": "190π cm³",
+          "text": "18.840 L",
           "is_correct": false,
-          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+          "feedback": "Incorreto: 18.840 L seria para um cilindro de raio 1 m."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 5 cm e h = 7 cm: V = π * 5² * 7 = π * 25 * 7 = 175π cm³.",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "O volume é V = πr²h = 3,14 × 2² × 6 = 75,36 m³. Como 1 m³ = 1000 L, a capacidade é 75.360 L.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.49,
-      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -503,43 +458,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v12",
-      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
-      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 2 cm e altura de 5 cm.",
+      "id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle-v11",
+      "statement": "Um cubo de aresta 6 cm é fundido para produzir um prisma de base quadrada com 3 cm de lado. Qual é a altura desse prisma?",
+      "context": "Um estudante em Florianópolis resolve um problema do ENEM sobre fundir e remodelar um sólido.",
       "options": [
         {
           "letter": "A",
-          "text": "20π cm³",
-          "is_correct": true,
-          "feedback": "Correto! Volume = π * r² * h."
+          "text": "12 cm",
+          "is_correct": false,
+          "feedback": "Incorreto: 12 seria o dobro da aresta do cubo."
         },
         {
           "letter": "B",
-          "text": "10π cm³",
-          "is_correct": false,
-          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+          "text": "24 cm",
+          "is_correct": true,
+          "feedback": "Correto: volume do cubo = 216 cm³; h = 216/9 = 24 cm."
         },
         {
           "letter": "C",
-          "text": "40π cm³",
+          "text": "36 cm",
           "is_correct": false,
-          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+          "feedback": "Incorreto: 36 seria 6 × 6."
         },
         {
           "letter": "D",
-          "text": "35π cm³",
+          "text": "18 cm",
           "is_correct": false,
-          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+          "feedback": "Incorreto: 18 não preserva o volume de 216 cm³."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 2 cm e h = 5 cm: V = π * 2² * 5 = π * 4 * 5 = 20π cm³.",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "O volume se conserva na fusão: V_cubo = 6³ = 216 cm³. A base do prisma tem área 3² = 9 cm², então h = 216/9 = 24 cm.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.46,
-      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -548,43 +503,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v13",
-      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
-      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 3 cm e altura de 6 cm.",
+      "id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle-v12",
+      "statement": "Um cilindro A tem raio r e altura 2h. Um cilindro B tem raio 2r e altura h. Qual é a razão entre o volume de B e o volume de A?",
+      "context": "Um arquiteto em Porto Alegre compara o volume de dois recipientes cilíndricos.",
       "options": [
         {
           "letter": "A",
-          "text": "54π cm³",
-          "is_correct": true,
-          "feedback": "Correto! Volume = π * r² * h."
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorreto: os volumes não são iguais."
         },
         {
           "letter": "B",
-          "text": "18π cm³",
-          "is_correct": false,
-          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correto: V_B/V_A = (π·4r²·h)/(π·r²·2h) = 4/2 = 2."
         },
         {
           "letter": "C",
-          "text": "108π cm³",
+          "text": "4",
           "is_correct": false,
-          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+          "feedback": "Incorreto: 4 é a razão entre as áreas das bases, sem considerar as alturas."
         },
         {
           "letter": "D",
-          "text": "69π cm³",
+          "text": "1/2",
           "is_correct": false,
-          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+          "feedback": "Incorreto: essa é a razão inversa."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 3 cm e h = 6 cm: V = π * 3² * 6 = π * 9 * 6 = 54π cm³.",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "V_A = πr²(2h) = 2πr²h e V_B = π(2r)²h = 4πr²h. A razão é V_B/V_A = 4πr²h/(2πr²h) = 2.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.43,
-      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -593,43 +548,88 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v14",
-      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
-      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 4 cm e altura de 7 cm.",
+      "id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle-v13",
+      "statement": "Um prisma hexagonal regular tem aresta da base 2 cm e altura 10 cm. Sabendo que a área de um hexágono regular de lado 2 é 6√3 cm², qual é o volume do prisma?",
+      "context": "Um professor em Campinas analisa a relação entre o volume de um prisma e o de um cilindro com a mesma base.",
       "options": [
         {
           "letter": "A",
-          "text": "112π cm³",
-          "is_correct": true,
-          "feedback": "Correto! Volume = π * r² * h."
+          "text": "120 cm³",
+          "is_correct": false,
+          "feedback": "Incorreto: 120 seria o volume se a base fosse um quadrado de lado 2√3."
         },
         {
           "letter": "B",
-          "text": "28π cm³",
-          "is_correct": false,
-          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+          "text": "60√3 cm³",
+          "is_correct": true,
+          "feedback": "Correto: V = área da base × altura = 6√3 × 10 = 60√3 cm³."
         },
         {
           "letter": "C",
-          "text": "224π cm³",
+          "text": "20√3 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+          "feedback": "Incorreto: 20√3 seria 2 × 10 × √3, sem a área completa da base."
         },
         {
           "letter": "D",
-          "text": "127π cm³",
+          "text": "100√3 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+          "feedback": "Incorreto: 100√3 seria 10² × √3."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 4 cm e h = 7 cm: V = π * 4² * 7 = π * 16 * 7 = 112π cm³.",
+      "correct_answer": "B",
+      "explanation": "O volume de um prisma é o produto da área da base pela altura: V = 6√3 × 10 = 60√3 cm³.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle-v14",
+      "statement": "Dois cilindros têm o mesmo volume: um com raio 2 cm e altura 9 cm, outro com raio 3 cm. Qual é a altura do segundo cilindro?",
+      "context": "Um estudante em Natal compara superfícies de sólidos com o mesmo volume.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 cm",
+          "is_correct": false,
+          "feedback": "Incorreto: 6 seria a média das alturas."
+        },
+        {
+          "letter": "B",
+          "text": "4 cm",
+          "is_correct": true,
+          "feedback": "Correto: V1 = π·4·9 = 36π; V2 = π·9·h = 36π, logo h = 4 cm."
+        },
+        {
+          "letter": "C",
+          "text": "3 cm",
+          "is_correct": false,
+          "feedback": "Incorreto: 3 seria o resultado se o volume fosse 27π."
+        },
+        {
+          "letter": "D",
+          "text": "2,25 cm",
+          "is_correct": false,
+          "feedback": "Incorreto: 2,25 seria o resultado se o raio dobrasse de 1,5 para 3."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Igualando os volumes: π × 2² × 9 = π × 3² × h. Logo, 36 = 9h, e h = 4 cm.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "expected_success": 0.4,
-      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -638,43 +638,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v15",
-      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
-      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 5 cm e altura de 5 cm.",
+      "id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle-v15",
+      "statement": "Um prisma reto tem base hexagonal regular de lado 3 cm e altura 8 cm. Qual é a área lateral do prisma?",
+      "context": "Um engenheiro em São José dos Campos calcula a área lateral de um prisma de base hexagonal.",
       "options": [
         {
           "letter": "A",
-          "text": "125π cm³",
-          "is_correct": true,
-          "feedback": "Correto! Volume = π * r² * h."
+          "text": "72 cm²",
+          "is_correct": false,
+          "feedback": "Incorreto: 72 seria o produto 8 × 9, sem considerar as 6 faces."
         },
         {
           "letter": "B",
-          "text": "25π cm³",
-          "is_correct": false,
-          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+          "text": "144 cm²",
+          "is_correct": true,
+          "feedback": "Correto: A_lat = perímetro da base × altura = 6 × 3 × 8 = 144 cm²."
         },
         {
           "letter": "C",
-          "text": "250π cm³",
+          "text": "96 cm²",
           "is_correct": false,
-          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+          "feedback": "Incorreto: 96 seria o produto 8 × 12."
         },
         {
           "letter": "D",
-          "text": "140π cm³",
+          "text": "18√3 cm²",
           "is_correct": false,
-          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+          "feedback": "Incorreto: 18√3 seria a área da base."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 5 cm e h = 5 cm: V = π * 5² * 5 = π * 25 * 5 = 125π cm³.",
+      "correct_answer": "B",
+      "explanation": "A área lateral de um prisma reto é o perímetro da base multiplicado pela altura: (6 × 3) × 8 = 144 cm².",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.37,
-      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -683,43 +683,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v16",
-      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
-      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 2 cm e altura de 6 cm.",
+      "id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle-v16",
+      "statement": "Um cilindro está inscrito em um cubo de aresta 4 cm (a base do cilindro tangencia as faces do cubo). Qual é o volume do cilindro? (Use π = 3.)",
+      "context": "Um professor em Vitória analisa a relação entre um cubo e o cilindro inscrito nele.",
       "options": [
         {
           "letter": "A",
-          "text": "24π cm³",
+          "text": "48 cm³",
           "is_correct": true,
-          "feedback": "Correto! Volume = π * r² * h."
+          "feedback": "Correto: raio = 2 cm, h = 4 cm, V = 3 × 4 × 4 = 48 cm³."
         },
         {
           "letter": "B",
-          "text": "12π cm³",
+          "text": "64 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+          "feedback": "Incorreto: 64 é o volume do cubo."
         },
         {
           "letter": "C",
-          "text": "48π cm³",
+          "text": "36 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+          "feedback": "Incorreto: 36 seria para um cilindro de raio 1,5 cm."
         },
         {
           "letter": "D",
-          "text": "39π cm³",
+          "text": "24 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+          "feedback": "Incorreto: 24 seria o volume se a altura fosse 2 cm."
         }
       ],
       "correct_answer": "A",
-      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 2 cm e h = 6 cm: V = π * 2² * 6 = π * 4 * 6 = 24π cm³.",
+      "explanation": "O cilindro inscrito tem raio igual à metade da aresta (2 cm) e altura igual à aresta (4 cm). Assim, V = πr²h = 3 × 4 × 4 = 48 cm³.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.34,
-      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "expected_success": 0.35,
+      "bundle_id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -728,43 +728,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v17",
-      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
-      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 3 cm e altura de 7 cm.",
+      "id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle-v17",
+      "statement": "Um prisma tem volume 40 cm³. Um segundo prisma, semelhante ao primeiro, tem todas as arestas 2 vezes maiores. Qual é o volume do segundo prisma?",
+      "context": "Um candidato ao ITA avalia a proporcionalidade entre volumes de sólidos semelhantes.",
       "options": [
         {
           "letter": "A",
-          "text": "63π cm³",
-          "is_correct": true,
-          "feedback": "Correto! Volume = π * r² * h."
+          "text": "80 cm³",
+          "is_correct": false,
+          "feedback": "Incorreto: 80 seria o resultado se o volume crescesse na razão linear."
         },
         {
           "letter": "B",
-          "text": "21π cm³",
-          "is_correct": false,
-          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+          "text": "320 cm³",
+          "is_correct": true,
+          "feedback": "Correto: o volume cresce com o cubo da razão: 40 × 2³ = 320 cm³."
         },
         {
           "letter": "C",
-          "text": "126π cm³",
+          "text": "160 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+          "feedback": "Incorreto: 160 seria o resultado se a razão fosse √2."
         },
         {
           "letter": "D",
-          "text": "78π cm³",
+          "text": "640 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+          "feedback": "Incorreto: 640 seria o resultado se a razão fosse 2,5."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 3 cm e h = 7 cm: V = π * 3² * 7 = π * 9 * 7 = 63π cm³.",
-      "difficulty": "9",
+      "correct_answer": "B",
+      "explanation": "Em sólidos semelhantes, a razão entre os volumes é o cubo da razão de semelhança: V2 = 40 × 2³ = 40 × 8 = 320 cm³.",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.28,
-      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "expected_success": 0.3,
+      "bundle_id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -773,43 +773,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v18",
-      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
-      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 4 cm e altura de 5 cm.",
+      "id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle-v18",
+      "statement": "Uma lata cilíndrica tem área total de 54π cm² e altura igual ao diâmetro. Qual é o raio da lata?",
+      "context": "Um engenheiro em Belo Horizonte avalia o consumo de material para fabricar latas cilíndricas.",
       "options": [
         {
           "letter": "A",
-          "text": "80π cm³",
+          "text": "3 cm",
           "is_correct": true,
-          "feedback": "Correto! Volume = π * r² * h."
+          "feedback": "Correto: A = 2πr² + 2πrh com h = 2r dá 2πr² + 4πr² = 6πr² = 54π, logo r² = 9 e r = 3 cm."
         },
         {
           "letter": "B",
-          "text": "20π cm³",
+          "text": "9 cm",
           "is_correct": false,
-          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+          "feedback": "Incorreto: 9 é o valor de r²."
         },
         {
           "letter": "C",
-          "text": "160π cm³",
+          "text": "6 cm",
           "is_correct": false,
-          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+          "feedback": "Incorreto: 6 seria o diâmetro."
         },
         {
           "letter": "D",
-          "text": "95π cm³",
+          "text": "2 cm",
           "is_correct": false,
-          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+          "feedback": "Incorreto: com r = 2, a área total seria 24π cm²."
         }
       ],
       "correct_answer": "A",
-      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 4 cm e h = 5 cm: V = π * 4² * 5 = π * 16 * 5 = 80π cm³.",
-      "difficulty": "9",
+      "explanation": "Com h = 2r, a área total é A = 2πr² + 2πr(2r) = 6πr². Igualando a 54π, obtemos r² = 9, logo r = 3 cm.",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.24,
-      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "expected_success": 0.25,
+      "bundle_id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -818,43 +818,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v19",
-      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
-      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 5 cm e altura de 6 cm.",
+      "id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle-v19",
+      "statement": "Um cubo de aresta 2 cm tem um cilindro de raio 1 cm e altura 2 cm retirado de seu interior, com o eixo do cilindro perpendicular a uma face. Qual é o volume do sólido restante? (Use π = 3.)",
+      "context": "Em uma olimpíada de matemática, pede-se a análise de um sólido composto por um cubo e um cilindro.",
       "options": [
         {
           "letter": "A",
-          "text": "150π cm³",
-          "is_correct": true,
-          "feedback": "Correto! Volume = π * r² * h."
+          "text": "8 cm³",
+          "is_correct": false,
+          "feedback": "Incorreto: 8 é o volume do cubo sem a retirada."
         },
         {
           "letter": "B",
-          "text": "30π cm³",
-          "is_correct": false,
-          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+          "text": "2 cm³",
+          "is_correct": true,
+          "feedback": "Correto: V_restante = 8 − π·1²·2 = 8 − 6 = 2 cm³."
         },
         {
           "letter": "C",
-          "text": "300π cm³",
+          "text": "6 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+          "feedback": "Incorreto: 6 é o volume retirado."
         },
         {
           "letter": "D",
-          "text": "165π cm³",
+          "text": "4 cm³",
           "is_correct": false,
-          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+          "feedback": "Incorreto: 4 seria o volume se o raio fosse 1 cm e a altura 4 cm."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 5 cm e h = 6 cm: V = π * 5² * 6 = π * 25 * 6 = 150π cm³.",
+      "correct_answer": "B",
+      "explanation": "O volume do cubo é 2³ = 8 cm³. O cilindro retirado tem volume πr²h = 3 × 1 × 2 = 6 cm³. O sólido restante tem 8 − 6 = 2 cm³.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
       "expected_success": 0.2,
-      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -863,43 +863,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v20",
-      "statement": "Desprezando a espessura do alumínio, qual é o volume exato desse cilindro em cm³?",
-      "context": "Uma metalúrgica em São Paulo produz embalagens cilíndricas de alumínio com raio da base medindo 2 cm e altura de 7 cm.",
+      "id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle-v20",
+      "statement": "Um cilindro reto tem volume 8π cm³ e raio 2 cm. Qual é a sua área lateral?",
+      "context": "Um pesquisador em Campinas avalia a superfície mínima de um cilindro de volume fixo.",
       "options": [
         {
           "letter": "A",
-          "text": "28π cm³",
-          "is_correct": true,
-          "feedback": "Correto! Volume = π * r² * h."
+          "text": "16π cm²",
+          "is_correct": false,
+          "feedback": "Incorreto: 16π seria a área total de um cilindro de raio 2 e altura 2 somando as bases, não a lateral."
         },
         {
           "letter": "B",
-          "text": "14π cm³",
-          "is_correct": false,
-          "feedback": "Incorreto. Esqueceu de elevar o raio ao quadrado na fórmula do volume cilíndrico."
+          "text": "8π cm²",
+          "is_correct": true,
+          "feedback": "Correto: h = 2 cm e A_lat = 2π × 2 × 2 = 8π cm²."
         },
         {
           "letter": "C",
-          "text": "56π cm³",
+          "text": "4π cm²",
           "is_correct": false,
-          "feedback": "Incorreto. O cálculo do volume do cilindro circular reto não deve ser multiplicado por dois de forma indesejada."
+          "feedback": "Incorreto: 4π seria a área da base."
         },
         {
           "letter": "D",
-          "text": "43π cm³",
+          "text": "24π cm²",
           "is_correct": false,
-          "feedback": "Incorreto. Este valor excede o cálculo correto por um deslocamento linear fixo."
+          "feedback": "Incorreto: 24π seria a área total se h = 4 cm."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "O volume do cilindro é V = Ab * h = π * r² * h. Substituindo r = 2 cm e h = 7 cm: V = π * 2² * 7 = π * 4 * 7 = 28π cm³.",
+      "correct_answer": "B",
+      "explanation": "Da fórmula do volume, h = V/(πr²) = 8π/(4π) = 2 cm. A área lateral é A_lat = 2πrh = 2π × 2 × 2 = 8π cm².",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.16,
-      "bundle_id": "BR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle",
+      "expected_success": 0.2,
+      "bundle_id": "BR-MAT-11-2026-W14-prismas-cilindros-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
       "cefr_level": null,

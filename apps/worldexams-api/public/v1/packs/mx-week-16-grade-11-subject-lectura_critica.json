@@ -906,6 +906,906 @@
       "subject": "lectura-critica",
       "grade": 11,
       "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la tesis principal del editorial sobre el agua?",
+      "context": "Fernanda, de Guadalajara, lee en clase un editorial sobre la crisis del agua publicado en un periódico nacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua debe tratarse como una mercancía cuyo precio regule el mercado.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el editorial rechaza explícitamente esa postura, a la que califica de seductora pero insuficiente."
+        },
+        {
+          "letter": "B",
+          "text": "El acceso al agua es un derecho ciudadano y no puede quedar sujeto únicamente a las leyes del mercado.",
+          "is_correct": true,
+          "feedback": "Correcto: el editorial sostiene que el agua no es un lujo sino un derecho y critica la visión mercantil."
+        },
+        {
+          "letter": "C",
+          "text": "Monterrey debe construir nuevas presas para resolver la escasez de agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el editorial no propone construir presas; cuestiona la lógica de privatización y exige transparencia."
+        },
+        {
+          "letter": "D",
+          "text": "La privatización del servicio de agua es la única alternativa viable en México.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el autor presenta la privatización como una postura ajena y la contrasta con el principio del derecho al agua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tesis es la idea central que el autor defiende. Aquí se plantea al inicio: el agua debe entenderse como un derecho y no como una mercancía regulada solo por el mercado. La opción A describe la postura contraria que el texto critica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle-v2",
+      "statement": "¿Qué función cumple el primer párrafo del editorial?",
+      "context": "Diego, de Monterrey, analiza la estructura del primer párrafo del editorial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presenta el problema con ejemplos reconocibles para el lector mexicano.",
+          "is_correct": true,
+          "feedback": "Correcto: menciona sequías, Monterrey y el Sistema Cutzamala para anclar el tema en la realidad nacional."
+        },
+        {
+          "letter": "B",
+          "text": "Anuncia la conclusión definitiva del texto antes de desarrollar los argumentos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el primer párrafo contextualiza; la postura se va precisando y defendiendo después."
+        },
+        {
+          "letter": "C",
+          "text": "Expone estadísticas oficiales detalladas sobre el consumo de agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el texto no presenta estadísticas detalladas en ese párrafo."
+        },
+        {
+          "letter": "D",
+          "text": "Describe las consecuencias legales de privatizar los sistemas de agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no se discuten consecuencias legales en la introducción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En los textos argumentativos, la introducción suele contextualizar el problema para volverlo cercano al lector. El primer párrafo cumple esa función al citar sequías, cortes en Monterrey y los niveles del Sistema Cutzamala, hechos reconocibles del contexto mexicano.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle-v3",
+      "statement": "Según el texto, ¿qué significa tener \"alfabetización mediática\"?",
+      "context": "Ximena, de la Ciudad de México, lee una columna de opinión sobre la desinformación en redes sociales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desconfiar de toda la información que circula en internet.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el autor aclara que no significa desconfiar de todo, sino preguntarse por el origen y la intención."
+        },
+        {
+          "letter": "B",
+          "text": "Aprender a usar programas de edición para crear contenido.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la alfabetización mediática se refiere a la comprensión crítica de la información, no a herramientas de edición."
+        },
+        {
+          "letter": "C",
+          "text": "Preguntarse quién produce la información, con qué recursos y con qué intención antes de compartirla.",
+          "is_correct": true,
+          "feedback": "Correcto: el texto define la alfabetización mediática como esa indagación previa a compartir."
+        },
+        {
+          "letter": "D",
+          "text": "Evitar el uso de WhatsApp para no recibir cadenas falsas.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el autor no propone abandonar las plataformas, sino leerlas críticamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La alfabetización mediática es la capacidad de evaluar críticamente la información: identificar al emisor, sus intereses y sus recursos. El texto la distingue de la paranoia o de la evasión: se trata de leer con preguntas, no de huir de las plataformas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle-v4",
+      "statement": "¿Qué postura defiende el columnista frente a la desinformación?",
+      "context": "Luis, de Puebla, resume la postura del columnista sobre las redes sociales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las redes sociales deberían prohibirse en las escuelas mexicanas.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el texto no propone prohibiciones escolares."
+        },
+        {
+          "letter": "B",
+          "text": "La solución es formar lectores críticos capaces de evaluar la información.",
+          "is_correct": true,
+          "feedback": "Correcto: el columnista propone la alfabetización mediática como respuesta ante los rumores."
+        },
+        {
+          "letter": "C",
+          "text": "El gobierno debe censurar las cadenas falsas de WhatsApp.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el autor no sugiere censura gubernamental."
+        },
+        {
+          "letter": "D",
+          "text": "El problema de la desinformación es menor y no amerita atención.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el columnista dedica el texto a demostrar que el problema es real y creciente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La postura de un texto argumentativo es la respuesta que defiende ante un problema. Aquí el columnista sostiene que la desinformación se combate educando lectores críticos, no con censura ni con prohibiciones.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.78,
+      "bundle_id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle-v5",
+      "statement": "Cuando el editorial afirma que \"la experiencia internacional muestra que privatizar el servicio no garantiza eficiencia\", ¿qué premisa queda implícita?",
+      "context": "José, de Mérida, examina los supuestos que sostienen el editorial del agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La eficiencia económica es el único criterio válido para administrar el agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa premisa apoyaría la privatización, que el texto justamente rechaza."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los países privatizaron sus servicios de agua con el mismo resultado.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la afirmación habla de una tendencia, no de una uniformidad total."
+        },
+        {
+          "letter": "C",
+          "text": "La justicia social debe pesar tanto como la eficiencia económica en la gestión del agua.",
+          "is_correct": true,
+          "feedback": "Correcto: para criticar la privatización, el autor supone que existen criterios no económicos, como el derecho y la equidad."
+        },
+        {
+          "letter": "D",
+          "text": "Los gobiernos no deben intervenir en la gestión del agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el editorial exige transparencia y gestión pública responsable, no ausencia del Estado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una premisa implícita es lo que el argumento da por sentado sin decirlo. Para que la objeción contra la privatización tenga peso, el autor presupone que el bienestar social y el acceso equitativo son criterios tan relevantes como el rendimiento económico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.72,
+      "bundle_id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de las siguientes afirmaciones del texto es un hecho verificable y no una opinión del autor?",
+      "context": "María, de Tijuana, practica distinguir hechos de opiniones en la columna sobre desinformación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El rumor, una vez lanzado, corre más que la rectificación.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: es una valoración del autor sobre la velocidad del rumor, no un dato verificable."
+        },
+        {
+          "letter": "B",
+          "text": "\"La aldea global resultó tener más rumores que noticias.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: es una apreciación irónica, no un hecho comprobable."
+        },
+        {
+          "letter": "C",
+          "text": "\"Una cadena falsa sobre el cierre de mercados provocó compras de pánico en Oaxaca.\"",
+          "is_correct": true,
+          "feedback": "Correcto: describe un suceso concreto y verificable que el autor usa como ejemplo."
+        },
+        {
+          "letter": "D",
+          "text": "\"El chisme de antaño hoy viaja a la velocidad de un reenvío.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: es una comparación literaria, no un hecho observable."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un hecho es un suceso o dato verificable; una opinión es un juicio del emisor. La compra de pánico en Oaxaca se presenta como un acontecimiento concreto, mientras que las otras frases expresan valoraciones o comparaciones del columnista.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle-v7",
+      "statement": "¿A qué audiencia se dirige principalmente el editorial?",
+      "context": "Carlos, de Cancún, analiza a quién se dirige el editorial del agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Únicamente a los ingenieros hidráulicos especializados.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el lenguaje y los ejemplos son accesibles, no técnicos."
+        },
+        {
+          "letter": "B",
+          "text": "Solo a los habitantes de Monterrey afectados por los cortes.",
+          "is_correct": false,
+          "feedback": "Incorrecto: si bien menciona Monterrey, el texto apela a un debate nacional."
+        },
+        {
+          "letter": "C",
+          "text": "A la opinión pública nacional y a los tomadores de decisiones.",
+          "is_correct": true,
+          "feedback": "Correcto: el editorial busca influir en lectores ciudadanos y en quienes gobiernan los servicios."
+        },
+        {
+          "letter": "D",
+          "text": "A los inversionistas interesados en comprar concesiones de agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el texto cuestiona esa lógica de mercado en lugar de atraer inversionistas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La audiencia de un texto argumentativo se infiere de su registro, sus ejemplos y su propósito. Un editorial de circulación nacional se dirige a la ciudadanía y a las autoridades, buscando incidir en el debate público.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.68,
+      "bundle_id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle-v8",
+      "statement": "¿Qué función cumple el ejemplo de la cadena falsa que provocó compras de pánico en Oaxaca?",
+      "context": "Guadalupe, de Oaxaca, estudia el uso de ejemplos en la columna.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Demostrar que Oaxaca es el estado más vulnerable a los rumores.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el ejemplo no busca comparar estados ni establecer una jerarquía de vulnerabilidad."
+        },
+        {
+          "letter": "B",
+          "text": "Ridiculizar a los habitantes de Oaxaca por creer en rumores.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el tono del texto no es burlón hacia las víctimas de la desinformación."
+        },
+        {
+          "letter": "C",
+          "text": "Ilustrar una consecuencia concreta y dañina de la desinformación.",
+          "is_correct": true,
+          "feedback": "Correcto: el ejemplo hace tangible el costo social del rumor."
+        },
+        {
+          "letter": "D",
+          "text": "Proponer una solución específica para los mercados de Oaxaca.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el ejemplo diagnostica un problema; la solución general del texto es la alfabetización mediática."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los ejemplos concretos dan fuerza a un argumento al mostrar sus efectos reales. Aquí, las compras de pánico funcionan como evidencia de que el rumor no es un fenómeno inofensivo, sino una amenaza con consecuencias verificables.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.65,
+      "bundle_id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál de las siguientes objeciones debilitaría más el argumento del columnista si no la respondiera?",
+      "context": "Fernanda, de Guadalajara, evalúa qué objeciones debería responder el columnista.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Las redes sociales tienen muchas ventajas educativas.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: el columnista no niega las ventajas de las redes; su tesis no se derrumba con ese señalamiento."
+        },
+        {
+          "letter": "B",
+          "text": "\"El daño de las cadenas falsas es marginal porque la mayoría de los usuarios verifica antes de compartir.\"",
+          "is_correct": true,
+          "feedback": "Correcto: si la mayoría verificara, el problema que el autor describe perdería gravedad; por eso debería contraargumentarla."
+        },
+        {
+          "letter": "C",
+          "text": "\"WhatsApp pertenece a una empresa extranjera.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: la nacionalidad de la plataforma no contradice la tesis sobre la necesidad de leer críticamente."
+        },
+        {
+          "letter": "D",
+          "text": "\"Los jóvenes usan más TikTok que WhatsApp.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: la elección de plataforma no afecta el argumento central sobre la desinformación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un contraargumento es una razón que ataca la tesis o su gravedad. La objeción B cuestiona directamente la magnitud del problema: si los usuarios ya verifican, la alfabetización mediática sería innecesaria. El columnista tendría que refutar esa idea para sostener su postura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle-v10",
+      "statement": "¿Qué postura adopta el autor del texto sobre el maíz ante ambas posiciones del debate?",
+      "context": "Diego, de Monterrey, analiza el texto sobre el maíz nativo y la biotecnología.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apoya sin reservas la siembra comercial de maíz transgénico.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el autor reconoce el argumento científico, pero subraya la dimensión cultural y de soberanía."
+        },
+        {
+          "letter": "B",
+          "text": "Rechaza por completo la biotecnología agrícola.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el texto no condena la biotecnología en general; matiza el debate."
+        },
+        {
+          "letter": "C",
+          "text": "Valora el argumento científico, pero defiende que el maíz no puede tratarse solo como mercancía.",
+          "is_correct": true,
+          "feedback": "Correcto: el autor presenta la discusión como un conflicto entre rendimiento, soberanía y patrimonio cultural."
+        },
+        {
+          "letter": "D",
+          "text": "Considera que el debate es innecesario porque el maíz nativo ya está protegido.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el texto presenta el debate como vigente y complejo, no como algo resuelto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La postura matizada no coincide del todo con ninguno de los extremos: el autor concede valor a los argumentos técnicos de la biotecnología, pero sostiene que el maíz, por su historia y su papel alimentario en México, exige criterios que van más allá del rendimiento económico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle-v11",
+      "statement": "Un participante del foro afirma: \"O privatizamos el servicio de agua o seguiremos sufriendo cortes para siempre.\" ¿Qué falacia comete?",
+      "context": "Ximena, de la Ciudad de México, identifica falacias en un foro sobre el agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ataque personal contra quienes proponen la privatización.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el enunciado no descalifica personas; plantea una disyuntiva."
+        },
+        {
+          "letter": "B",
+          "text": "Apelación a la autoridad de un experto internacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no se invoca ninguna autoridad externa."
+        },
+        {
+          "letter": "C",
+          "text": "Falsa dicotomía: presenta solo dos opciones cuando existen alternativas intermedias.",
+          "is_correct": true,
+          "feedback": "Correcto: entre privatizar y sufrir cortes hay muchas opciones de gestión, inversión y regulación."
+        },
+        {
+          "letter": "D",
+          "text": "Generalización apresurada a partir de un solo caso.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no se generaliza desde un caso particular; se reduce el abanico de soluciones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La falsa dicotomía (o falso dilema) reduce artificialmente las opciones a dos extremos. La frase ignora alternativas como la gestión pública eficiente, la inversión en infraestructura o la tarificación escalonada, por lo que el razonamiento queda incompleto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle-v12",
+      "statement": "Cuando el editorial afirma que el agua \"no es un lujo, es un derecho\" y menciona a las \"colonias enteras\" sin acceso, ¿qué recurso persuasivo emplea?",
+      "context": "Luis, de Puebla, examina los recursos persuasivos del editorial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Logos: una cadena estadística rigurosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el fragmento no aporta datos ni razonamientos cuantitativos."
+        },
+        {
+          "letter": "B",
+          "text": "Pathos: una apelación emocional orientada a la empatía y a la indignación.",
+          "is_correct": true,
+          "feedback": "Correcto: la frase y la imagen de las colonias buscan mover afectivamente al lector."
+        },
+        {
+          "letter": "C",
+          "text": "Ethos: la demostración de la autoridad moral del autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto: aunque el autor se presenta como defensor de derechos, el recurso central del fragmento es emocional."
+        },
+        {
+          "letter": "D",
+          "text": "Ironía: un sentido contrario al literal.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el fragmento es directo y solemne, no irónico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pathos es la apelación a las emociones de la audiencia. La oposición \"lujo/derecho\" y la mención de colonias desabastecidas buscan generar empatía e indignación, recursos típicos del discurso argumentativo orientado a la acción cívica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle-v13",
+      "statement": "¿Qué función cumplen las referencias a Monterrey y al Sistema Cutzamala en el editorial?",
+      "context": "José, de Mérida, analiza el papel de los referentes geográficos en el editorial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Demostrar que solo el norte del país padece escasez de agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la mención del Cutzamala, que abastece al Valle de México, amplía el problema a más regiones."
+        },
+        {
+          "letter": "B",
+          "text": "Comparar estadísticamente el consumo de ambas ciudades.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el texto no presenta comparaciones numéricas entre ellas."
+        },
+        {
+          "letter": "C",
+          "text": "Anclar el problema en experiencias reconocibles para distintos lectores del país.",
+          "is_correct": true,
+          "feedback": "Correcto: los referentes vuelven concreto y cercano un problema de escala nacional."
+        },
+        {
+          "letter": "D",
+          "text": "Sugerir que el problema del agua es exclusivamente urbano.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el texto no deslinda el ámbito rural ni afirma que el problema sea solo urbano."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los referentes geográficos funcionan como evidencia contextual: convierten una tesis abstracta en una situación reconocible. Al citar ciudades y sistemas reales, el autor facilita que lectores de distintas regiones se reconozcan en el problema.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.5,
+      "bundle_id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle-v14",
+      "statement": "Ante la objeción de que la gestión privada reduce costos, el autor replica que \"la tarifa no es el único precio\". ¿Qué estrategia argumentativa utiliza?",
+      "context": "María, de Tijuana, estudia cómo el editorial responde a la objeción del costo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Negar que existan costos de cualquier tipo.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el autor no niega los costos; los redefine."
+        },
+        {
+          "letter": "B",
+          "text": "Desviar el tema hacia un asunto sin relación.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la respuesta es pertinente y ataca directamente el criterio del interlocutor."
+        },
+        {
+          "letter": "C",
+          "text": "Ampliar el concepto de costo para incluir las consecuencias sociales.",
+          "is_correct": true,
+          "feedback": "Correcto: el autor suma al precio monetario la salud, el tiempo y la dignidad afectados por el desabasto."
+        },
+        {
+          "letter": "D",
+          "text": "Apelar a una norma legal que prohíbe la privatización.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el texto no invoca una prohibición legal concreta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Redefinir un término central es una estrategia argumentativa: el autor no disputa el dato del costo monetario, sino la definición misma de lo que cuenta como costo. Al incluir el daño social, transforma el terreno del debate.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.48,
+      "bundle_id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle-v15",
+      "statement": "Al escribir que \"el chisme de antaño, que se contaba en la tiendita de la esquina, hoy viaja a la velocidad de un reenvío en WhatsApp\", ¿qué quiere sugerir el autor?",
+      "context": "Carlos, de Cancún, interpreta el sentido irónico de una frase de la columna.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el chisme es un fenómeno exclusivo de las tienditas.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la tiendita es un punto de partida nostálgico, no un límite del fenómeno."
+        },
+        {
+          "letter": "B",
+          "text": "Que los rumores son más verdaderos que las noticias.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el texto no equipara rumor y verdad."
+        },
+        {
+          "letter": "C",
+          "text": "Que la desinformación es un fenómeno nuevo que antes no existía.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la comparación muestra continuidad del fenómeno, no su nacimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Que el rumor no es nuevo, pero su velocidad y alcance actuales sí lo son.",
+          "is_correct": true,
+          "feedback": "Correcto: la ironía suave subraya el contraste entre el espacio local del pasado y la escala instantánea de hoy."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La comparación entre la tiendita y WhatsApp implica continuidad y cambio a la vez: el rumor siempre existió, pero la tecnología multiplicó su velocidad y su audiencia. Reconocer esa doble dimensión es clave para interpretar la ironía del pasaje.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle-v16",
+      "statement": "En el debate sobre el maíz, ¿cuál de las siguientes apelaciones a la autoridad sería argumentativamente legítima?",
+      "context": "Guadalupe, de Oaxaca, evalúa los usos de la autoridad en el debate del maíz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Los científicos ya resolvieron el debate; el público solo debe aceptarlo.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: cerrar la discusión apelando a un grupo de expertos es una apelación indebida a la autoridad."
+        },
+        {
+          "letter": "B",
+          "text": "\"Un famoso empresario agrícola opina que el maíz transgénico es seguro.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: la fama o el interés económico no convierten a alguien en autoridad técnica pertinente."
+        },
+        {
+          "letter": "C",
+          "text": "\"Estudios agronómicos revisados por pares documentan los efectos de estos cultivos.\"",
+          "is_correct": true,
+          "feedback": "Correcto: la evidencia sometida a revisión especializada y verificable es una autoridad legítima."
+        },
+        {
+          "letter": "D",
+          "text": "\"Una celebridad del espectáculo recomienda consumir solo maíz nativo.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: la popularidad no otorga autoridad técnica sobre agronomía."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El argumento de autoridad es válido cuando la fuente citada es pertinente, verificable y sometida al escrutinio de la comunidad especializada. Apelar a famosos, empresarios o a un supuesto consenso cerrado constituye una falacia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.42,
+      "bundle_id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la principal debilidad argumentativa del editorial?",
+      "context": "Fernanda, de Guadalajara, evalúa críticamente la solidez del editorial del agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exige privatizar el servicio sin considerar alternativas.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el editorial se opone a la privatización; esa no es su debilidad."
+        },
+        {
+          "letter": "B",
+          "text": "Permanece en el plano de los principios sin detallar cómo financiar la infraestructura necesaria.",
+          "is_correct": true,
+          "feedback": "Correcto: el texto defiende el derecho y critica al mercado, pero no concreta mecanismos de gestión ni de financiamiento."
+        },
+        {
+          "letter": "C",
+          "text": "Incluye demasiados datos estadísticos que abruman al lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el texto no presenta estadísticas abundantes."
+        },
+        {
+          "letter": "D",
+          "text": "Descalifica personalmente a quienes proponen la privatización.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el autor critica una postura, no ataca personas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar un argumento exige detectar sus límites. El editorial es sólido en el diagnóstico y en la defensa del derecho, pero débil en la propuesta: no explica quién pagaría la infraestructura ni cómo se organizaría la gestión, lo que deja la conclusión en el terreno del deber ser.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.38,
+      "bundle_id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle-v18",
+      "statement": "Si se descubriera que el columnista de la desinformación trabaja para una empresa de verificación de datos, ¿cómo debería valorar el lector crítico su texto?",
+      "context": "Diego, de Monterrey, reflexiona sobre la credibilidad periodística y los conflictos de interés.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debería ignorarlo por completo porque toda información interesada es falsa.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el interés no vuelve automáticamente falso el contenido; exige cautela, no descarte total."
+        },
+        {
+          "letter": "B",
+          "text": "Debería aceptarlo sin reservas porque la empresa garantiza su objetividad.",
+          "is_correct": false,
+          "feedback": "Incorrecto: ninguna pertenencia institucional garantiza por sí sola la imparcialidad."
+        },
+        {
+          "letter": "C",
+          "text": "Debería contrastarlo con otras fuentes, pues su interés profesional podría sesgar la gravedad que atribuye al problema.",
+          "is_correct": true,
+          "feedback": "Correcto: un conflicto de interés conocido obliga a leer con más cuidado y a buscar corroboración independiente."
+        },
+        {
+          "letter": "D",
+          "text": "Debería considerar que su militancia lo inhabilita para opinar de desinformación.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la experiencia profesional no inhabilita, aunque sí obliga a declarar el interés."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La credibilidad no es binaria. Un conflicto de interés no destruye el valor de un texto, pero obliga al lector crítico a preguntarse cómo pudo influir en la selección de datos y en el tono, y a contrastar con fuentes independientes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle-v19",
+      "statement": "El autor cierra con la afirmación de que el maíz \"es comida antes que mercancía\". ¿Por qué resulta eficaz esa formulación?",
+      "context": "Ximena, de la Ciudad de México, analiza la frase final del texto sobre el maíz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque introduce un dato estadístico decisivo para el debate.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no ofrece cifras; su fuerza está en la síntesis conceptual."
+        },
+        {
+          "letter": "B",
+          "text": "Porque ofrece una solución técnica al conflicto agrario.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no propone medidas técnicas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque condensa la tesis en una oposición memorable que invierte la lógica mercantil.",
+          "is_correct": true,
+          "feedback": "Correcto: la frase sintetiza el conflicto entre valor de uso y valor de cambio con precisión retórica."
+        },
+        {
+          "letter": "D",
+          "text": "Porque ridiculiza a quienes defienden la biotecnología.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el cierre no busca burla, sino afirmación de una jerarquía de valores."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una conclusión eficaz cristaliza el argumento en una fórmula breve y memorable. \"Comida antes que mercancía\" opone el valor de uso (alimentar) al valor de cambio (vender), resumiendo la tesis del texto y dejando al lector una idea fácil de retener.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál de las siguientes refutaciones debilitaría más el argumento del editorial si estuviera bien sustentada?",
+      "context": "Luis, de Puebla, prepara un ensayo final y debe elegir la mejor refutación al editorial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Declarar que el agua es un derecho no llena las presas.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: la frase ataca un espantapájaros; el editorial nunca afirma que la declaración baste para resolver la escasez."
+        },
+        {
+          "letter": "B",
+          "text": "\"La evidencia internacional es mixta: hay concesiones exitosas y gestión pública deficiente, de modo que la generalización del autor es apresurada.\"",
+          "is_correct": true,
+          "feedback": "Correcto: esta objeción golpea el nudo del argumento, la generalización sobre la privatización."
+        },
+        {
+          "letter": "C",
+          "text": "\"Los ambientalistas deberían primero apagar la luz en sus oficinas.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: es un ataque personal irrelevante que no toca la tesis."
+        },
+        {
+          "letter": "D",
+          "text": "\"Las ciudades necesitan inversión, no conclusiones.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto: es una petición de principio que da por resuelto lo que el editorial discute."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La refutación más fuerte ataca la premisa central: la afirmación de que la privatización no garantiza eficiencia. Si se demuestra con evidencia mixta que esa generalización es apresurada, la conclusión del editorial pierde su principal apoyo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.28,
+      "bundle_id": "MX-LC-11-2026-W16-textos-argumentativos-complejos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
     }
   ]
 }

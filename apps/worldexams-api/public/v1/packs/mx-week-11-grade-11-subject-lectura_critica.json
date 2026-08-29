@@ -8,6 +8,906 @@
   },
   "questions": [
     {
+      "id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle-v1",
+      "statement": "¿A qué tipo de texto pertenece el fragmento anterior?",
+      "context": "**Pasaje:** La identidad como síntesis\n\nLa identidad mexicana no es un dato fijo que se hereda, sino una síntesis que se construye. Del encuentro entre el mundo indígena y el español surgió una cultura mestiza que ni repudia sus raíces ni se encierra en ellas. Quien pretende definir lo mexicano a partir de una sola tradición olvida que la mesa, la lengua y hasta el calendario festivo del país mezclan herencias distintas. Por eso, el nacionalismo que excluye al otro empobrece: convierte la diferencia en amenaza y la historia en monumento inmóvil. En cambio, la identidad entendida como diálogo se fortalece al reconocer lo propio y abrirse a lo universal. Sin embargo, ese equilibrio no es espontáneo: exige memoria, educación y un examen crítico del pasado. Ser mexicano, concluye el autor, es un modo de participar en la conversación más amplia de la humanidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrativo, porque cuenta la historia de un personaje en un pueblo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no relata una historia con personajes ni acciones en un tiempo determinado."
+        },
+        {
+          "letter": "B",
+          "text": "Argumentativo, porque defiende una tesis sobre la identidad con razones y ejemplos.",
+          "is_correct": true,
+          "feedback": "Correcto. El autor plantea una tesis y la sostiene con argumentos, rasgo propio del texto argumentativo."
+        },
+        {
+          "letter": "C",
+          "text": "Instructivo, porque indica los pasos para construir una identidad nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay una secuencia de instrucciones ni un destinatario que deba ejecutar pasos."
+        },
+        {
+          "letter": "D",
+          "text": "Expositivo-científico, porque presenta resultados de una investigación de laboratorio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto expresa una postura personal y persuasiva, no datos experimentales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El texto defiende una tesis (\"la identidad mexicana es una síntesis que se construye\") y la respalda con argumentos y ejemplos, por lo que corresponde a la tipología argumentativa, propia del ensayo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle-v2",
+      "statement": "De acuerdo con el texto, ¿cómo caracteriza el autor a la identidad mexicana?",
+      "context": "**Pasaje:** La identidad como síntesis\n\nLa identidad mexicana no es un dato fijo que se hereda, sino una síntesis que se construye. Del encuentro entre el mundo indígena y el español surgió una cultura mestiza que ni repudia sus raíces ni se encierra en ellas. Quien pretende definir lo mexicano a partir de una sola tradición olvida que la mesa, la lengua y hasta el calendario festivo del país mezclan herencias distintas. Por eso, el nacionalismo que excluye al otro empobrece: convierte la diferencia en amenaza y la historia en monumento inmóvil. En cambio, la identidad entendida como diálogo se fortalece al reconocer lo propio y abrirse a lo universal. Sin embargo, ese equilibrio no es espontáneo: exige memoria, educación y un examen crítico del pasado. Ser mexicano, concluye el autor, es un modo de participar en la conversación más amplia de la humanidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Como un patrimonio fijo que se hereda sin cambios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor afirma lo contrario: \"no es un dato fijo que se hereda\"."
+        },
+        {
+          "letter": "B",
+          "text": "Como una síntesis mestiza que se construye y se enriquece con el diálogo.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto define la identidad como una síntesis en construcción, abierta al diálogo con lo universal."
+        },
+        {
+          "letter": "C",
+          "text": "Como un reflejo exclusivo de la herencia española.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor destaca el encuentro entre el mundo indígena y el español, no una sola raíz."
+        },
+        {
+          "letter": "D",
+          "text": "Como un ideal extranjero que México debe imitar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto propone abrirse a lo universal sin abandonar lo propio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pregunta exige localizar una idea expresada de manera directa: para el autor, la identidad mexicana es una síntesis mestiza que se construye mediante el diálogo entre lo propio y lo universal.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la idea principal del texto?",
+      "context": "**Pasaje:** La identidad como síntesis\n\nLa identidad mexicana no es un dato fijo que se hereda, sino una síntesis que se construye. Del encuentro entre el mundo indígena y el español surgió una cultura mestiza que ni repudia sus raíces ni se encierra en ellas. Quien pretende definir lo mexicano a partir de una sola tradición olvida que la mesa, la lengua y hasta el calendario festivo del país mezclan herencias distintas. Por eso, el nacionalismo que excluye al otro empobrece: convierte la diferencia en amenaza y la historia en monumento inmóvil. En cambio, la identidad entendida como diálogo se fortalece al reconocer lo propio y abrirse a lo universal. Sin embargo, ese equilibrio no es espontáneo: exige memoria, educación y un examen crítico del pasado. Ser mexicano, concluye el autor, es un modo de participar en la conversación más amplia de la humanidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La lengua española debe imponerse sobre las lenguas indígenas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no defiende la imposición de ninguna lengua."
+        },
+        {
+          "letter": "B",
+          "text": "La identidad mexicana se fortalece al integrar sus raíces diversas y dialogar con lo universal.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la tesis central que el autor desarrolla con argumentos a lo largo del pasaje."
+        },
+        {
+          "letter": "C",
+          "text": "El nacionalismo excluyente es necesario para conservar la cultura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor critica el nacionalismo excluyente y lo considera empobrecedor."
+        },
+        {
+          "letter": "D",
+          "text": "La educación pública debe desaparecer en México.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se menciona la educación como exigencia del equilibrio, no su desaparición."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La idea principal resume la tesis del ensayo: la identidad mexicana es una síntesis mestiza que se fortalece reconociendo lo propio y abriéndose al diálogo universal. Las demás opciones contradicen o tergiversan el texto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de las siguientes opciones reformula mejor la frase \"el nacionalismo que excluye al otro empobrece\"?",
+      "context": "**Pasaje:** La identidad como síntesis\n\nLa identidad mexicana no es un dato fijo que se hereda, sino una síntesis que se construye. Del encuentro entre el mundo indígena y el español surgió una cultura mestiza que ni repudia sus raíces ni se encierra en ellas. Quien pretende definir lo mexicano a partir de una sola tradición olvida que la mesa, la lengua y hasta el calendario festivo del país mezclan herencias distintas. Por eso, el nacionalismo que excluye al otro empobrece: convierte la diferencia en amenaza y la historia en monumento inmóvil. En cambio, la identidad entendida como diálogo se fortalece al reconocer lo propio y abrirse a lo universal. Sin embargo, ese equilibrio no es espontáneo: exige memoria, educación y un examen crítico del pasado. Ser mexicano, concluye el autor, es un modo de participar en la conversación más amplia de la humanidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El nacionalismo es la única vía para conservar la riqueza cultural.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase del autor valora negativamente ese nacionalismo, no lo recomienda."
+        },
+        {
+          "letter": "B",
+          "text": "Una visión nacionalista cerrada empobrece la cultura porque convierte la diferencia en amenaza.",
+          "is_correct": true,
+          "feedback": "Correcto. La paráfrasis conserva el sentido: la exclusión del otro provoca un empobrecimiento cultural."
+        },
+        {
+          "letter": "C",
+          "text": "La pobreza económica impide cualquier forma de nacionalismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto habla de empobrecimiento cultural, no de pobreza económica."
+        },
+        {
+          "letter": "D",
+          "text": "Quien excluye al otro aumenta su riqueza material.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es lo contrario de lo que sostiene el autor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Parafrasear implica reformular una idea conservando su sentido. La opción B traduce con otras palabras la idea de que la exclusión del otro empobrece a la cultura, tal como la plantea el ensayo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle-v5",
+      "statement": "¿Qué función cumple la oración \"Sin embargo, ese equilibrio no es espontáneo\" dentro del texto?",
+      "context": "**Pasaje:** La identidad como síntesis\n\nLa identidad mexicana no es un dato fijo que se hereda, sino una síntesis que se construye. Del encuentro entre el mundo indígena y el español surgió una cultura mestiza que ni repudia sus raíces ni se encierra en ellas. Quien pretende definir lo mexicano a partir de una sola tradición olvida que la mesa, la lengua y hasta el calendario festivo del país mezclan herencias distintas. Por eso, el nacionalismo que excluye al otro empobrece: convierte la diferencia en amenaza y la historia en monumento inmóvil. En cambio, la identidad entendida como diálogo se fortalece al reconocer lo propio y abrirse a lo universal. Sin embargo, ese equilibrio no es espontáneo: exige memoria, educación y un examen crítico del pasado. Ser mexicano, concluye el autor, es un modo de participar en la conversación más amplia de la humanidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar un ejemplo de identidad nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No introduce un ejemplo, sino una precisión sobre la tesis."
+        },
+        {
+          "letter": "B",
+          "text": "Describir un hecho histórico del siglo XIX.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no aporta datos históricos fechados."
+        },
+        {
+          "letter": "C",
+          "text": "Introducir una objeción o matiz sobre la facilidad del equilibrio cultural.",
+          "is_correct": true,
+          "feedback": "Correcto. El conector \"sin embargo\" marca una reserva: alcanzar ese equilibrio requiere condiciones como memoria y educación."
+        },
+        {
+          "letter": "D",
+          "text": "Concluir con un dato estadístico sobre migración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay estadísticas en el pasaje."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La oración cumple una función de matiz u objeción: tras valorar el diálogo cultural, el autor advierte que ese equilibrio no se da solo, sino que exige memoria, educación y examen crítico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.65,
+      "bundle_id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle-v6",
+      "statement": "¿Qué relación establece el autor entre la memoria colectiva y la vida democrática?",
+      "context": "**Pasaje:** El derecho a la memoria en el espacio público\n\nLas ciudades cambian de rostro con rapidez: los edificios viejos ceden su lugar a torres de cristal y las plazas se vuelven estacionamientos. En esa carrera por la modernidad, la memoria colectiva corre el riesgo de volverse efímera, un adorno de museo sin vínculo con la vida diaria. El autor sostiene que el espacio público debería conservar huellas del pasado no por nostalgia, sino porque la experiencia acumulada orienta las decisiones del presente. Una plaza que recuerda a los caídos, un mercado que conserva sus oficios tradicionales o un mural que narra una revuelta obrera son textos que la comunidad lee y reescribe cada día. Por ello, borrarlos sin discusión equivale a amputar la capacidad de la ciudad para entenderse a sí misma. La memoria, concluye, no es un lujo del recuerdo: es condición de la vida democrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La memoria es un obstáculo para la modernidad urbana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor ve en la memoria un recurso, no un freno."
+        },
+        {
+          "letter": "B",
+          "text": "La memoria es una condición para que la comunidad se comprenda y decida sobre sí misma.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto afirma que la memoria permite a la ciudad entenderse a sí misma y sostiene la vida democrática."
+        },
+        {
+          "letter": "C",
+          "text": "La vida democrática exige eliminar todo rastro del pasado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conclusión defiende lo contrario."
+        },
+        {
+          "letter": "D",
+          "text": "La memoria solo importa en los museos nacionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor critica que la memoria quede reducida a un adorno de museo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El texto cierra con una relación de condición: la memoria no es un lujo, sino condición de la vida democrática, porque permite a la comunidad entenderse y orientar sus decisiones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.6,
+      "bundle_id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle-v7",
+      "statement": "En el pasaje, la palabra \"síntesis\" significa:",
+      "context": "**Pasaje:** La identidad como síntesis\n\nLa identidad mexicana no es un dato fijo que se hereda, sino una síntesis que se construye. Del encuentro entre el mundo indígena y el español surgió una cultura mestiza que ni repudia sus raíces ni se encierra en ellas. Quien pretende definir lo mexicano a partir de una sola tradición olvida que la mesa, la lengua y hasta el calendario festivo del país mezclan herencias distintas. Por eso, el nacionalismo que excluye al otro empobrece: convierte la diferencia en amenaza y la historia en monumento inmóvil. En cambio, la identidad entendida como diálogo se fortalece al reconocer lo propio y abrirse a lo universal. Sin embargo, ese equilibrio no es espontáneo: exige memoria, educación y un examen crítico del pasado. Ser mexicano, concluye el autor, es un modo de participar en la conversación más amplia de la humanidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Copia exacta de un modelo extranjero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una síntesis no es una imitación."
+        },
+        {
+          "letter": "B",
+          "text": "Integración de elementos diversos en un todo nuevo.",
+          "is_correct": true,
+          "feedback": "Correcto. La identidad como síntesis implica la integración de herencias distintas que se combinan."
+        },
+        {
+          "letter": "C",
+          "text": "Separación radical entre dos culturas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La síntesis une, no separa."
+        },
+        {
+          "letter": "D",
+          "text": "Desaparición de toda tradición anterior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La síntesis conserva y transforma las tradiciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En contexto, \"síntesis\" alude a la integración de herencias distintas (indígena y española) en una cultura nueva. La clave es deducir el significado a partir del entorno textual.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.6,
+      "bundle_id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle-v8",
+      "statement": "¿Qué función cumple el conector \"en cambio\" en el pasaje?",
+      "context": "**Pasaje:** La identidad como síntesis\n\nLa identidad mexicana no es un dato fijo que se hereda, sino una síntesis que se construye. Del encuentro entre el mundo indígena y el español surgió una cultura mestiza que ni repudia sus raíces ni se encierra en ellas. Quien pretende definir lo mexicano a partir de una sola tradición olvida que la mesa, la lengua y hasta el calendario festivo del país mezclan herencias distintas. Por eso, el nacionalismo que excluye al otro empobrece: convierte la diferencia en amenaza y la historia en monumento inmóvil. En cambio, la identidad entendida como diálogo se fortalece al reconocer lo propio y abrirse a lo universal. Sin embargo, ese equilibrio no es espontáneo: exige memoria, educación y un examen crítico del pasado. Ser mexicano, concluye el autor, es un modo de participar en la conversación más amplia de la humanidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sumar una idea más al argumento anterior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"En cambio\" no suma: contrapone."
+        },
+        {
+          "letter": "B",
+          "text": "Explicar una causa del nacionalismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No indica causa."
+        },
+        {
+          "letter": "C",
+          "text": "Contrastar dos concepciones de la identidad.",
+          "is_correct": true,
+          "feedback": "Correcto. \"En cambio\" opone el nacionalismo excluyente a la identidad entendida como diálogo."
+        },
+        {
+          "letter": "D",
+          "text": "Señalar una consecuencia inevitable del mestizaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conector marca oposición, no consecuencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los conectores de contraste como \"en cambio\" organizan la oposición entre dos ideas: el nacionalismo cerrado y la identidad dialógica. Reconocer su función permite seguir la línea argumentativa del texto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle-v9",
+      "statement": "En el pasaje, la palabra \"efímera\" significa:",
+      "context": "**Pasaje:** El derecho a la memoria en el espacio público\n\nLas ciudades cambian de rostro con rapidez: los edificios viejos ceden su lugar a torres de cristal y las plazas se vuelven estacionamientos. En esa carrera por la modernidad, la memoria colectiva corre el riesgo de volverse efímera, un adorno de museo sin vínculo con la vida diaria. El autor sostiene que el espacio público debería conservar huellas del pasado no por nostalgia, sino porque la experiencia acumulada orienta las decisiones del presente. Una plaza que recuerda a los caídos, un mercado que conserva sus oficios tradicionales o un mural que narra una revuelta obrera son textos que la comunidad lee y reescribe cada día. Por ello, borrarlos sin discusión equivale a amputar la capacidad de la ciudad para entenderse a sí misma. La memoria, concluye, no es un lujo del recuerdo: es condición de la vida democrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permanente y difícil de cambiar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una cosa efímera dura poco, no permanece."
+        },
+        {
+          "letter": "B",
+          "text": "Pasajera, de corta duración.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Efímera\" indica que la memoria duraría muy poco, como un adorno sin arraigo."
+        },
+        {
+          "letter": "C",
+          "text": "Costosa de conservar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El costo no forma parte del significado de la palabra."
+        },
+        {
+          "letter": "D",
+          "text": "Antigua y venerable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lo efímero es fugaz, no antiguo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Efímera\" se deduce del contexto: la memoria corre el riesgo de durar apenas un instante, desconectada de la vida diaria. El vocabulario en contexto se resuelve atendiendo a las pistas del enunciado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.55,
+      "bundle_id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle-v10",
+      "statement": "En la frase \"En esa carrera por la modernidad\", ¿a qué se refiere el demostrativo \"esa\"?",
+      "context": "**Pasaje:** El derecho a la memoria en el espacio público\n\nLas ciudades cambian de rostro con rapidez: los edificios viejos ceden su lugar a torres de cristal y las plazas se vuelven estacionamientos. En esa carrera por la modernidad, la memoria colectiva corre el riesgo de volverse efímera, un adorno de museo sin vínculo con la vida diaria. El autor sostiene que el espacio público debería conservar huellas del pasado no por nostalgia, sino porque la experiencia acumulada orienta las decisiones del presente. Una plaza que recuerda a los caídos, un mercado que conserva sus oficios tradicionales o un mural que narra una revuelta obrera son textos que la comunidad lee y reescribe cada día. Por ello, borrarlos sin discusión equivale a amputar la capacidad de la ciudad para entenderse a sí misma. La memoria, concluye, no es un lujo del recuerdo: es condición de la vida democrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A una competencia deportiva de la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Carrera\" se usa en sentido figurado."
+        },
+        {
+          "letter": "B",
+          "text": "Al apuro de los museos por exhibir obras nuevas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto habla de la transformación urbana."
+        },
+        {
+          "letter": "C",
+          "text": "A la transformación acelerada de las ciudades que se describió antes.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Esa\" retoma la idea previa de que los edificios viejos ceden su lugar a torres de cristal."
+        },
+        {
+          "letter": "D",
+          "text": "A la migración de las familias al campo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pasaje no menciona migración al campo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los demostrativos funcionan como mecanismos de cohesión anafórica: \"esa carrera\" remite a la transformación urbana descrita en la oración anterior, conectando ambas ideas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál de las siguientes opciones resume con mayor fidelidad la postura del autor?",
+      "context": "**Pasaje:** El derecho a la memoria en el espacio público\n\nLas ciudades cambian de rostro con rapidez: los edificios viejos ceden su lugar a torres de cristal y las plazas se vuelven estacionamientos. En esa carrera por la modernidad, la memoria colectiva corre el riesgo de volverse efímera, un adorno de museo sin vínculo con la vida diaria. El autor sostiene que el espacio público debería conservar huellas del pasado no por nostalgia, sino porque la experiencia acumulada orienta las decisiones del presente. Una plaza que recuerda a los caídos, un mercado que conserva sus oficios tradicionales o un mural que narra una revuelta obrera son textos que la comunidad lee y reescribe cada día. Por ello, borrarlos sin discusión equivale a amputar la capacidad de la ciudad para entenderse a sí misma. La memoria, concluye, no es un lujo del recuerdo: es condición de la vida democrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La modernidad debe detenerse para conservar las ciudades antiguas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor no propone detener la modernidad, sino conservar huellas del pasado."
+        },
+        {
+          "letter": "B",
+          "text": "Los murales y mercados tradicionales deben venderse a inversionistas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto defiende lo contrario."
+        },
+        {
+          "letter": "C",
+          "text": "El espacio público debe conservar huellas del pasado porque ellas orientan las decisiones del presente.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la tesis central, expresada de forma condensada y fiel."
+        },
+        {
+          "letter": "D",
+          "text": "La memoria colectiva solo interesa a los historiadores profesionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor afirma que la memoria concierne a toda la comunidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Resumir exige conservar la idea central sin agregar elementos ajenos. La opción C condensa la tesis del autor: conservar huellas del pasado orienta las decisiones presentes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.5,
+      "bundle_id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el propósito principal del artículo de opinión?",
+      "context": "**Pasaje:** Jóvenes y herencia cultural\n\nVuelve cada año el debate sobre los jóvenes y la herencia cultural: unos afirman que las nuevas generaciones abandonan las tradiciones; otros responden que las transforman. Ambas posturas parten de un supuesto débil: que la cultura es un objeto que se conserva intacto o se pierde. La cultura, en cambio, es un proceso vivo; nadie baila la jarana hoy exactamente como se bailaba hace un siglo, y sin embargo la jarana sigue siendo yucateca. El problema no es que los jóvenes cambien las formas, sino que la indiferencia convierta el cambio en olvido. Por eso, más que vigilar la pureza de las tradiciones, conviene preguntarse qué espacios reales ofrecemos para practicarlas: una escuela sin talleres, un barrio sin fiestas y una familia sin relatos empujan a cualquier herencia al desuso. La mejor defensa del patrimonio no es el museo cerrado, sino la plaza abierta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Describir los bailes tradicionales de la península de Yucatán.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La jarana es solo un ejemplo, no el tema central."
+        },
+        {
+          "letter": "B",
+          "text": "Criticar a los jóvenes por abandonar las tradiciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor ve el problema en la falta de espacios, no en los jóvenes."
+        },
+        {
+          "letter": "C",
+          "text": "Argumentar que la cultura viva se preserva ofreciendo espacios para practicarla, no exigiendo pureza.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la tesis que desarrolla con el ejemplo de la jarana y el cierre sobre la plaza abierta."
+        },
+        {
+          "letter": "D",
+          "text": "Informar sobre los horarios de los museos nacionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay información de servicios culturales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El propósito del texto argumentativo es persuadir: el autor sostiene que la herencia cultural se defiende con la práctica y los espacios reales, antes que con la vigilancia de su pureza.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.45,
+      "bundle_id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle-v13",
+      "statement": "Si el autor llamó \"textos que la comunidad lee y reescribe\" a las plazas, los mercados y los murales, ¿qué idea se infiere de esa metáfora?",
+      "context": "**Pasaje:** El derecho a la memoria en el espacio público\n\nLas ciudades cambian de rostro con rapidez: los edificios viejos ceden su lugar a torres de cristal y las plazas se vuelven estacionamientos. En esa carrera por la modernidad, la memoria colectiva corre el riesgo de volverse efímera, un adorno de museo sin vínculo con la vida diaria. El autor sostiene que el espacio público debería conservar huellas del pasado no por nostalgia, sino porque la experiencia acumulada orienta las decisiones del presente. Una plaza que recuerda a los caídos, un mercado que conserva sus oficios tradicionales o un mural que narra una revuelta obrera son textos que la comunidad lee y reescribe cada día. Por ello, borrarlos sin discusión equivale a amputar la capacidad de la ciudad para entenderse a sí misma. La memoria, concluye, no es un lujo del recuerdo: es condición de la vida democrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que esos lugares deben tener letreros con su historia escrita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La metáfora no se refiere a letreros literales."
+        },
+        {
+          "letter": "B",
+          "text": "Que los espacios públicos transmiten significados que la comunidad interpreta y actualiza.",
+          "is_correct": true,
+          "feedback": "Correcto. Leer y reescribir implica interpretar y dar nuevos sentidos, como ocurre con los espacios cargados de memoria."
+        },
+        {
+          "letter": "C",
+          "text": "Que solo los alfabetizados pueden usar esos espacios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se infiere ninguna restricción de ese tipo."
+        },
+        {
+          "letter": "D",
+          "text": "Que esos lugares deben venderse como libros antiguos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comparación no alude al comercio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferir exige construir un sentido no dicho: al comparar los espacios con textos, el autor sugiere que cargan significados que la comunidad interpreta, discute y renueva.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle-v14",
+      "statement": "En el artículo, ¿qué función cumple el ejemplo de la jarana?",
+      "context": "**Pasaje:** Jóvenes y herencia cultural\n\nVuelve cada año el debate sobre los jóvenes y la herencia cultural: unos afirman que las nuevas generaciones abandonan las tradiciones; otros responden que las transforman. Ambas posturas parten de un supuesto débil: que la cultura es un objeto que se conserva intacto o se pierde. La cultura, en cambio, es un proceso vivo; nadie baila la jarana hoy exactamente como se bailaba hace un siglo, y sin embargo la jarana sigue siendo yucateca. El problema no es que los jóvenes cambien las formas, sino que la indiferencia convierta el cambio en olvido. Por eso, más que vigilar la pureza de las tradiciones, conviene preguntarse qué espacios reales ofrecemos para practicarlas: una escuela sin talleres, un barrio sin fiestas y una familia sin relatos empujan a cualquier herencia al desuso. La mejor defensa del patrimonio no es el museo cerrado, sino la plaza abierta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Demostrar que las tradiciones yucatecas están desapareciendo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ejemplo sostiene lo contrario: la jarana sigue siendo yucateca."
+        },
+        {
+          "letter": "B",
+          "text": "Refutar el supuesto de que transformar una tradición equivale a perderla.",
+          "is_correct": true,
+          "feedback": "Correcto. Si la jarana cambió y sigue viva, la transformación no implica pérdida."
+        },
+        {
+          "letter": "C",
+          "text": "Recomendar una escuela de bailes en Mérida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay tal recomendación."
+        },
+        {
+          "letter": "D",
+          "text": "Probar que el baile es la única tradición mexicana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El baile es solo un ejemplo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la argumentación, los ejemplos cumplen la función de respaldar o refutar. La jarana muestra que una tradición puede cambiar de forma sin dejar de ser la misma, lo que refuta el supuesto inicial.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle-v15",
+      "statement": "¿Cómo describiría el tono predominante del artículo?",
+      "context": "**Pasaje:** Jóvenes y herencia cultural\n\nVuelve cada año el debate sobre los jóvenes y la herencia cultural: unos afirman que las nuevas generaciones abandonan las tradiciones; otros responden que las transforman. Ambas posturas parten de un supuesto débil: que la cultura es un objeto que se conserva intacto o se pierde. La cultura, en cambio, es un proceso vivo; nadie baila la jarana hoy exactamente como se bailaba hace un siglo, y sin embargo la jarana sigue siendo yucateca. El problema no es que los jóvenes cambien las formas, sino que la indiferencia convierta el cambio en olvido. Por eso, más que vigilar la pureza de las tradiciones, conviene preguntarse qué espacios reales ofrecemos para practicarlas: una escuela sin talleres, un barrio sin fiestas y una familia sin relatos empujan a cualquier herencia al desuso. La mejor defensa del patrimonio no es el museo cerrado, sino la plaza abierta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sarcástico y burlón hacia los jóvenes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor no se burla de los jóvenes."
+        },
+        {
+          "letter": "B",
+          "text": "Alarmista y catastrófico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No anuncia una catástrofe inminente."
+        },
+        {
+          "letter": "C",
+          "text": "Reflexivo y propositivo.",
+          "is_correct": true,
+          "feedback": "Correcto. El autor examina el debate con calma y termina proponiendo espacios de práctica."
+        },
+        {
+          "letter": "D",
+          "text": "Hostil contra los museos nacionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El museo cerrado es una metáfora, no un ataque a una institución concreta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El tono se deduce de la manera en que el autor trata el tema: analiza posturas opuestas sin descalificar y cierra con una propuesta, rasgos de un tono reflexivo y propositivo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.4,
+      "bundle_id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle-v16",
+      "statement": "Si el autor del ensayo leyera la frase \"La mejor defensa del patrimonio no es el museo cerrado, sino la plaza abierta\", ¿cuál sería su reacción más probable?",
+      "context": "**Pasaje:** La identidad como síntesis\n\nLa identidad mexicana no es un dato fijo que se hereda, sino una síntesis que se construye. Del encuentro entre el mundo indígena y el español surgió una cultura mestiza que ni repudia sus raíces ni se encierra en ellas. Quien pretende definir lo mexicano a partir de una sola tradición olvida que la mesa, la lengua y hasta el calendario festivo del país mezclan herencias distintas. Por eso, el nacionalismo que excluye al otro empobrece: convierte la diferencia en amenaza y la historia en monumento inmóvil. En cambio, la identidad entendida como diálogo se fortalece al reconocer lo propio y abrirse a lo universal. Sin embargo, ese equilibrio no es espontáneo: exige memoria, educación y un examen crítico del pasado. Ser mexicano, concluye el autor, es un modo de participar en la conversación más amplia de la humanidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rechazarla, porque defiende el aislamiento cultural.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ensayo rechaza el aislamiento, igual que la frase."
+        },
+        {
+          "letter": "B",
+          "text": "Considerarla ingenua, porque propone cerrar todos los museos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase no propone cerrar museos; usa la metáfora del museo cerrado."
+        },
+        {
+          "letter": "C",
+          "text": "Coincidir con ella, pues ambos valoran la cultura viva y el intercambio.",
+          "is_correct": true,
+          "feedback": "Correcto. La frase defiende la cultura abierta y en movimiento, en sintonía con la tesis del ensayo."
+        },
+        {
+          "letter": "D",
+          "text": "Criticarla por exigir la desaparición de la educación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nada en la frase se refiere a la educación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La pregunta exige transferir la postura del autor a una nueva situación: quien defiende la identidad como diálogo abierto coincidiría con la metáfora de la plaza abierta frente al museo cerrado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.35,
+      "bundle_id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál de los siguientes enunciados, si fuera verdadero, debilitaría el argumento del autor?",
+      "context": "**Pasaje:** Jóvenes y herencia cultural\n\nVuelve cada año el debate sobre los jóvenes y la herencia cultural: unos afirman que las nuevas generaciones abandonan las tradiciones; otros responden que las transforman. Ambas posturas parten de un supuesto débil: que la cultura es un objeto que se conserva intacto o se pierde. La cultura, en cambio, es un proceso vivo; nadie baila la jarana hoy exactamente como se bailaba hace un siglo, y sin embargo la jarana sigue siendo yucateca. El problema no es que los jóvenes cambien las formas, sino que la indiferencia convierta el cambio en olvido. Por eso, más que vigilar la pureza de las tradiciones, conviene preguntarse qué espacios reales ofrecemos para practicarlas: una escuela sin talleres, un barrio sin fiestas y una familia sin relatos empujan a cualquier herencia al desuso. La mejor defensa del patrimonio no es el museo cerrado, sino la plaza abierta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Existen talleres y plazas abiertas en casi todas las localidades del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto reforzaría la propuesta del autor, no la debilitaría."
+        },
+        {
+          "letter": "B",
+          "text": "Aun con espacios públicos disponibles, la práctica de tradiciones sigue disminuyendo en varias regiones.",
+          "is_correct": true,
+          "feedback": "Correcto. Si el problema persiste donde ya hay espacios, la oferta de espacios no sería la clave que el autor sostiene."
+        },
+        {
+          "letter": "C",
+          "text": "Muchas familias conservan relatos y fiestas tradicionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este dato apoya la visión del autor sobre la familia como espacio de transmisión."
+        },
+        {
+          "letter": "D",
+          "text": "La jarana se practica en Mérida desde hace siglos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un dato que respalda el ejemplo del autor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar un argumento implica reconocer qué evidencia lo fortalece o lo debilita. Un contraejemplo en el que los espacios existen pero la práctica decae socava la tesis de que la falta de espacios explica el olvido.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.3,
+      "bundle_id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle-v18",
+      "statement": "De las siguientes afirmaciones, ¿cuál es un hecho verificable y no una opinión?",
+      "context": "**Pasaje:** Jóvenes y herencia cultural\n\nVuelve cada año el debate sobre los jóvenes y la herencia cultural: unos afirman que las nuevas generaciones abandonan las tradiciones; otros responden que las transforman. Ambas posturas parten de un supuesto débil: que la cultura es un objeto que se conserva intacto o se pierde. La cultura, en cambio, es un proceso vivo; nadie baila la jarana hoy exactamente como se bailaba hace un siglo, y sin embargo la jarana sigue siendo yucateca. El problema no es que los jóvenes cambien las formas, sino que la indiferencia convierta el cambio en olvido. Por eso, más que vigilar la pureza de las tradiciones, conviene preguntarse qué espacios reales ofrecemos para practicarlas: una escuela sin talleres, un barrio sin fiestas y una familia sin relatos empujan a cualquier herencia al desuso. La mejor defensa del patrimonio no es el museo cerrado, sino la plaza abierta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la península de Yucatán la jarana se practica desde hace siglos.",
+          "is_correct": true,
+          "feedback": "Correcto. Se trata de un dato comprobable mediante fuentes históricas."
+        },
+        {
+          "letter": "B",
+          "text": "La mejor defensa del patrimonio es la plaza abierta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un juicio de valor, no un dato comprobable."
+        },
+        {
+          "letter": "C",
+          "text": "Los jóvenes abandonan las tradiciones por indiferencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una interpretación opinable sobre las causas."
+        },
+        {
+          "letter": "D",
+          "text": "La cultura es un proceso vivo que nunca se pierde.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una tesis conceptual, no un hecho verificable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Distinguir hecho y opinión es clave en la lectura crítica: los hechos son comprobables; las opiniones expresan valoraciones. La práctica histórica de la jarana puede verificarse con fuentes, a diferencia de las valoraciones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle-v19",
+      "statement": "¿Qué supuesto subyace a la afirmación \"la memoria no es un lujo del recuerdo: es condición de la vida democrática\"?",
+      "context": "**Pasaje:** El derecho a la memoria en el espacio público\n\nLas ciudades cambian de rostro con rapidez: los edificios viejos ceden su lugar a torres de cristal y las plazas se vuelven estacionamientos. En esa carrera por la modernidad, la memoria colectiva corre el riesgo de volverse efímera, un adorno de museo sin vínculo con la vida diaria. El autor sostiene que el espacio público debería conservar huellas del pasado no por nostalgia, sino porque la experiencia acumulada orienta las decisiones del presente. Una plaza que recuerda a los caídos, un mercado que conserva sus oficios tradicionales o un mural que narra una revuelta obrera son textos que la comunidad lee y reescribe cada día. Por ello, borrarlos sin discusión equivale a amputar la capacidad de la ciudad para entenderse a sí misma. La memoria, concluye, no es un lujo del recuerdo: es condición de la vida democrática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el pasado debe conservarse tal cual, sin ninguna interpretación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor habla de leer y reescribir, es decir, de interpretar."
+        },
+        {
+          "letter": "B",
+          "text": "Que recordar es un pasatiempo de personas nostálgicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor rechaza reducir la memoria a nostalgia."
+        },
+        {
+          "letter": "C",
+          "text": "Que el pasado tiene valor práctico para que la comunidad se comprenda y decida.",
+          "is_correct": true,
+          "feedback": "Correcto. El supuesto es que la experiencia acumulada orienta las decisiones presentes."
+        },
+        {
+          "letter": "D",
+          "text": "Que la democracia funciona mejor sin historia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contradice directamente la tesis del texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificar supuestos es parte del juicio crítico: la conclusión del autor solo se sostiene si el pasado aporta orientación útil al presente; de otro modo, la memoria sería solo un adorno.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
+      "id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle-v20",
+      "statement": "¿En qué medida la conclusión del ensayo responde a la tesis planteada al inicio?",
+      "context": "**Pasaje:** La identidad como síntesis\n\nLa identidad mexicana no es un dato fijo que se hereda, sino una síntesis que se construye. Del encuentro entre el mundo indígena y el español surgió una cultura mestiza que ni repudia sus raíces ni se encierra en ellas. Quien pretende definir lo mexicano a partir de una sola tradición olvida que la mesa, la lengua y hasta el calendario festivo del país mezclan herencias distintas. Por eso, el nacionalismo que excluye al otro empobrece: convierte la diferencia en amenaza y la historia en monumento inmóvil. En cambio, la identidad entendida como diálogo se fortalece al reconocer lo propio y abrirse a lo universal. Sin embargo, ese equilibrio no es espontáneo: exige memoria, educación y un examen crítico del pasado. Ser mexicano, concluye el autor, es un modo de participar en la conversación más amplia de la humanidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La contradice, porque niega que exista una identidad mexicana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conclusión no niega la identidad."
+        },
+        {
+          "letter": "B",
+          "text": "Se desvía del tema al hablar de educación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La educación es uno de los medios del equilibrio que la tesis exige."
+        },
+        {
+          "letter": "C",
+          "text": "La retoma y la amplía, al vincular la identidad con la participación en un diálogo universal.",
+          "is_correct": true,
+          "feedback": "Correcto. La conclusión cierra el círculo argumentativo llevando la tesis inicial a su alcance más amplio."
+        },
+        {
+          "letter": "D",
+          "text": "La sustituye por una tesis sobre el nacionalismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nacionalismo es un concepto del desarrollo argumentativo, no la nueva tesis."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar la conclusión implica verificar su coherencia con la tesis: el ensayo empieza definiendo la identidad como síntesis y cierra ampliando esa idea hacia la participación en la conversación universal, de modo que la conclusión retoma y enriquece la tesis.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "MX-LC-11-2026-W11-ensayo-identidad-mexicana-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "mx"
+    },
+    {
       "id": "MX-LC-11-2026-W11-tema-w11-001-v001",
       "statement": "¿Qué elemento o aspecto fundamental es central en el desarrollo del pasaje, según la información directa brindada?",
       "context": "**Pasaje:** *El ensayo y la identidad mexicana*\n\nEl ensayo mexicano del siglo XX ha tenido una obsesión casi fundacional con la búsqueda de la 'mexicanidad' o identidad nacional. Desde la agudeza crítica de Alfonso Reyes, quien definía al mexicano a través de su circunstancia histórica y geográfica, hasta los laberintos identitarios propuestos por Octavio Paz, el género ensayístico se ha erigido en un espejo bifronte: por un lado, celebra el mestizaje y la riqueza cultural indígena y novohispana; por el otro, cuestiona la apatía social y el conformismo que a menudo obstaculizan el desarrollo cívico. Los ensayistas contemporáneos, sin embargo, han comenzado a desplazar este enfoque esencialista, sugiriendo que la identidad no es una esencia inmutable esculpida en piedra, sino un proceso dinámico, plural y en constante negociación con las corrientes globales de pensamiento, la migración y la era digital.",

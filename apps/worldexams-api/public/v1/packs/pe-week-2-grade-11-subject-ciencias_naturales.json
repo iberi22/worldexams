@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "pe",
+    "pack_id": "pe-week-2-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T04:04:54.405Z"
+  },
+  "questions": [
+    {
+      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el polisacárido de reserva energética en las plantas formado por unidades de glucosa unidas por enlaces glucosídicos alpha-1,4 y alpha-1,6?",
+      "context": "Un laboratorio escolar en un colegio de Lima realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Almidón",
+          "is_correct": true,
+          "feedback": "Correcto. El almidón (compuesto por amilosa y amilopectina) es la principal reserva de carbohidratos en vegetales."
+        },
+        {
+          "letter": "B",
+          "text": "Glucógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. El glucógeno es la reserva energética de glucosa en animales (hígado y músculo)."
+        },
+        {
+          "letter": "C",
+          "text": "Celulosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La celulosa es un polisacárido estructural vegetal con enlaces beta-1,4."
+        },
+        {
+          "letter": "D",
+          "text": "Quitina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La quitina es el polisacárido estructural del exoesqueleto de artrópodos y pared celular de hongos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El almidón constituye la reserva de carbohidratos sintetizada durante la fotosíntesis y almacenada en tubérculos y semillas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.83,
+      "bundle_id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v2",
+      "statement": "Las proteínas están constituidas por cadenas de aminoácidos unidos covalentemente mediante enlaces:",
+      "context": "Un laboratorio escolar en un colegio de Cusco realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Peptídicos",
+          "is_correct": true,
+          "feedback": "Correcto. El enlace peptídico se forma entre el grupo carboxilo de un aminoácido y el grupo amino del siguiente con liberación de agua."
+        },
+        {
+          "letter": "B",
+          "text": "Fosfodiéster",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace fosfodiéster une los nucleótidos en las hebras de ácidos nucleicos (ADN y ARN)."
+        },
+        {
+          "letter": "C",
+          "text": "Glucosídicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace glucosídico une los monosacáridos para formar oligosacáridos y polisacáridos."
+        },
+        {
+          "letter": "D",
+          "text": "Éster",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace éster une el glicerol con los ácidos grasos en los lípidos (triglicéridos)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El enlace peptídico es una amida covalente entre el grupo -COOH y -NH2 de aminoácidos contiguos en la estructura primaria.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.81,
+      "bundle_id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v3",
+      "statement": "Los triglicéridos son lípidos formados por la esterificación de una molécula de glicerol con:",
+      "context": "Un laboratorio escolar en un colegio de Arequipa realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tres ácidos grasos",
+          "is_correct": true,
+          "feedback": "Correcto. Los triacilglicéridos contienen tres cadenas de ácidos grasos unidos al glicerol."
+        },
+        {
+          "letter": "B",
+          "text": "Tres moléculas de glucosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La unión de glucosas forma oligosacáridos o polisacáridos."
+        },
+        {
+          "letter": "C",
+          "text": "Dos nucleótidos de purina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los nucleótidos componen a los ácidos nucleicos."
+        },
+        {
+          "letter": "D",
+          "text": "Un grupo fosfato y una colina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso caracteriza a los fosfolípidos de membrana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los triglicéridos son la forma principal de almacenamiento calórico de alta densidad en el tejido adiposo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.79,
+      "bundle_id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de las siguientes bases nitrogenadas es exclusiva de las moléculas de ARN y reemplaza a la timina presente en el ADN?",
+      "context": "Un laboratorio escolar en un colegio de Trujillo realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uracilo",
+          "is_correct": true,
+          "feedback": "Correcto. El uracilo es una pirimidina presente en el ARN que se aparea con la adenina."
+        },
+        {
+          "letter": "B",
+          "text": "Citosina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La citosina está presente tanto en ADN como en ARN."
+        },
+        {
+          "letter": "C",
+          "text": "Guanina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La guanina es una purina común al ADN y ARN."
+        },
+        {
+          "letter": "D",
+          "text": "Adenina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La adenina se encuentra presente en ambos ácidos nucleicos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El uracilo sustituye a la timina en la estructura monocatenaria del ARN.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.77,
+      "bundle_id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v5",
+      "statement": "Las enzimas aceleran la velocidad de las reacciones químicas celulares actuando como biocatalizadores debido a que:",
+      "context": "Un laboratorio escolar en un colegio de Chiclayo realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuyen la energía de activación de la reacción",
+          "is_correct": true,
+          "feedback": "Correcto. Las enzimas reducen la barrera de energía necesaria para transformar sustratos en productos."
+        },
+        {
+          "letter": "B",
+          "text": "Aumentan la temperatura interna de la célula",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las enzimas no modifican la temperatura ni el pH del medio celular."
+        },
+        {
+          "letter": "C",
+          "text": "Consumen ATP en todas las reacciones catabólicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchas enzimas catalizan reacciones de forma espontánea sin gasto de ATP."
+        },
+        {
+          "letter": "D",
+          "text": "Alteran el equilibrio químico final desplazándolo a la derecha",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las enzimas aceleran la velocidad pero no modifican la constante de equilibrio Keq."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al disminuir la energía de activación, las enzimas incrementan exponencialmente la velocidad metabólica.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.72,
+      "bundle_id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v6",
+      "statement": "El disacárido formado por la unión de una molécula de glucosa y una de fructosa presente en la caña de azúcar es la:",
+      "context": "Un laboratorio escolar en un colegio de Iquitos realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sacarosa",
+          "is_correct": true,
+          "feedback": "Correcto. La sacarosa es el azúcar común sintetizado por plantas y transportado en el floema."
+        },
+        {
+          "letter": "B",
+          "text": "Lactosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lactosa (azúcar de la leche) se compone de glucosa y galactosa."
+        },
+        {
+          "letter": "C",
+          "text": "Maltosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La maltosa se compone de dos moléculas de glucosa unidas por enlace alpha-1,4."
+        },
+        {
+          "letter": "D",
+          "text": "Celobiosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La celobiosa es el disacárido producto de la hidrólisis parcial de la celulosa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La sacarosa es el principal disacárido no reductor transportado en el savia elaborada de las plantas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.69,
+      "bundle_id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v7",
+      "statement": "Los ácidos grasos que contienen uno o más dobles enlaces ($C=C$) en su cadena hidrocarbonada se clasifican como:",
+      "context": "Un laboratorio escolar en un colegio de Piura realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Insaturados",
+          "is_correct": true,
+          "feedback": "Correcto. Los ácidos grasos insaturados presentan dobles enlaces que generan acodamientos en la cadena."
+        },
+        {
+          "letter": "B",
+          "text": "Saturados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ácidos grasos saturados poseen únicamente enlaces simples C-C y mayor punto de fusión."
+        },
+        {
+          "letter": "C",
+          "text": "Esenciales exclusivamente sintéticos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchos ácidos insaturados (omega 3 y 6) son esenciales en la dieta."
+        },
+        {
+          "letter": "D",
+          "text": "Fosfolípidos complejos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los fosfolípidos son lípidos compuestos que contienen ácido fosfórico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los ácidos grasos insaturados son líquidos a temperatura ambiente (aceites) y cardiosaludables.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.66,
+      "bundle_id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v8",
+      "statement": "La estructura secundaria de una proteína caracterizada por un plegamiento en espiral estabilizado por puentes de hidrógeno es la:",
+      "context": "Un laboratorio escolar en un colegio de Huancayo realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hélice alfa",
+          "is_correct": true,
+          "feedback": "Correcto. La alfa-hélice es una conformación secundaria periódica estabilizada por enlaces de hidrógeno intracadena."
+        },
+        {
+          "letter": "B",
+          "text": "Hoja beta plegada",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hoja beta plegada es una conformación extendida en lámina de la estructura secundaria."
+        },
+        {
+          "letter": "C",
+          "text": "Estructura cuaternaria globular",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estructura cuaternaria involucra la unión de varias subunidades polipeptídicas."
+        },
+        {
+          "letter": "D",
+          "text": "Secuencia lineal peptídica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La secuencia lineal de aminoácidos constituye la estructura primaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las estructuras secundarias (alfa-hélice y lámina beta) son patrones repetitivos causados por puentes de hidrógeno.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.63,
+      "bundle_id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v9",
+      "statement": "¿Qué vitamina hidrosoluble es un cofactor esencial en la síntesis de colágeno y su deficiencia severa produce el escorbuto?",
+      "context": "Un laboratorio escolar en un colegio de Puno realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vitamina C (Ácido ascórbico)",
+          "is_correct": true,
+          "feedback": "Correcto. La vitamina C hidroxila a la prolina y lisina para dar estabilidad a la hélice de colágeno."
+        },
+        {
+          "letter": "B",
+          "text": "Vitamina D (Calciferol)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vitamina D regula el metabolismo del calcio y hueso (su deficiencia causa raquitismo)."
+        },
+        {
+          "letter": "C",
+          "text": "Vitamina K (Naftoquinona)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vitamina K interviene en los factores de coagulación sanguínea."
+        },
+        {
+          "letter": "D",
+          "text": "Vitamina A (Retinol)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vitamina A participa en el ciclo visual y protección epitelial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ácido ascórbico es un potente antioxidante y cofactor de la prolil-hidroxilasa en la biosíntesis del colágeno.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v10",
+      "statement": "El nucleótido universal transportador de energía química en el metabolismo celular formado por adenina, ribosa y tres fosfatos es el:",
+      "context": "Un laboratorio escolar en un colegio de Ayacucho realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ATP (Adenosín Trifosfato)",
+          "is_correct": true,
+          "feedback": "Correcto. El ATP almacena energía de enlace fosfoanhídrido altamente disponible para las funciones celulares."
+        },
+        {
+          "letter": "B",
+          "text": "NADP+",
+          "is_correct": false,
+          "feedback": "Incorrecto. El NADP+ es un coenzima transportador de electrones y protones en reacciones anabólicas."
+        },
+        {
+          "letter": "C",
+          "text": "AMP cíclico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El AMPc actúa como segundo mensajero en la señalización celular."
+        },
+        {
+          "letter": "D",
+          "text": "ADN polimérico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ADN es el depósito de información genética hereditaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ATP es la moneda energética de la célula liberando ~7.3 kcal/mol al hidrolizar su grupo fosfato terminal.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
+      "bundle_id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el polisacárido de reserva energética en las plantas formado por unidades de glucosa unidas por enlaces glucosídicos alpha-1,4 y alpha-1,6?",
+      "context": "Un laboratorio escolar en un colegio de Lima realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Almidón",
+          "is_correct": true,
+          "feedback": "Correcto. El almidón (compuesto por amilosa y amilopectina) es la principal reserva de carbohidratos en vegetales."
+        },
+        {
+          "letter": "B",
+          "text": "Glucógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. El glucógeno es la reserva energética de glucosa en animales (hígado y músculo)."
+        },
+        {
+          "letter": "C",
+          "text": "Celulosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La celulosa es un polisacárido estructural vegetal con enlaces beta-1,4."
+        },
+        {
+          "letter": "D",
+          "text": "Quitina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La quitina es el polisacárido estructural del exoesqueleto de artrópodos y pared celular de hongos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El almidón constituye la reserva de carbohidratos sintetizada durante la fotosíntesis y almacenada en tubérculos y semillas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.51,
+      "bundle_id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v12",
+      "statement": "Las proteínas están constituidas por cadenas de aminoácidos unidos covalentemente mediante enlaces:",
+      "context": "Un laboratorio escolar en un colegio de Cusco realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Peptídicos",
+          "is_correct": true,
+          "feedback": "Correcto. El enlace peptídico se forma entre el grupo carboxilo de un aminoácido y el grupo amino del siguiente con liberación de agua."
+        },
+        {
+          "letter": "B",
+          "text": "Fosfodiéster",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace fosfodiéster une los nucleótidos en las hebras de ácidos nucleicos (ADN y ARN)."
+        },
+        {
+          "letter": "C",
+          "text": "Glucosídicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace glucosídico une los monosacáridos para formar oligosacáridos y polisacáridos."
+        },
+        {
+          "letter": "D",
+          "text": "Éster",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace éster une el glicerol con los ácidos grasos en los lípidos (triglicéridos)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El enlace peptídico es una amida covalente entre el grupo -COOH y -NH2 de aminoácidos contiguos en la estructura primaria.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.47,
+      "bundle_id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v13",
+      "statement": "Los triglicéridos son lípidos formados por la esterificación de una molécula de glicerol con:",
+      "context": "Un laboratorio escolar en un colegio de Arequipa realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tres ácidos grasos",
+          "is_correct": true,
+          "feedback": "Correcto. Los triacilglicéridos contienen tres cadenas de ácidos grasos unidos al glicerol."
+        },
+        {
+          "letter": "B",
+          "text": "Tres moléculas de glucosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La unión de glucosas forma oligosacáridos o polisacáridos."
+        },
+        {
+          "letter": "C",
+          "text": "Dos nucleótidos de purina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los nucleótidos componen a los ácidos nucleicos."
+        },
+        {
+          "letter": "D",
+          "text": "Un grupo fosfato y una colina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso caracteriza a los fosfolípidos de membrana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los triglicéridos son la forma principal de almacenamiento calórico de alta densidad en el tejido adiposo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.43,
+      "bundle_id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál de las siguientes bases nitrogenadas es exclusiva de las moléculas de ARN y reemplaza a la timina presente en el ADN?",
+      "context": "Un laboratorio escolar en un colegio de Trujillo realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uracilo",
+          "is_correct": true,
+          "feedback": "Correcto. El uracilo es una pirimidina presente en el ARN que se aparea con la adenina."
+        },
+        {
+          "letter": "B",
+          "text": "Citosina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La citosina está presente tanto en ADN como en ARN."
+        },
+        {
+          "letter": "C",
+          "text": "Guanina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La guanina es una purina común al ADN y ARN."
+        },
+        {
+          "letter": "D",
+          "text": "Adenina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La adenina se encuentra presente en ambos ácidos nucleicos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El uracilo sustituye a la timina en la estructura monocatenaria del ARN.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.39,
+      "bundle_id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v15",
+      "statement": "Las enzimas aceleran la velocidad de las reacciones químicas celulares actuando como biocatalizadores debido a que:",
+      "context": "Un laboratorio escolar en un colegio de Chiclayo realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuyen la energía de activación de la reacción",
+          "is_correct": true,
+          "feedback": "Correcto. Las enzimas reducen la barrera de energía necesaria para transformar sustratos en productos."
+        },
+        {
+          "letter": "B",
+          "text": "Aumentan la temperatura interna de la célula",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las enzimas no modifican la temperatura ni el pH del medio celular."
+        },
+        {
+          "letter": "C",
+          "text": "Consumen ATP en todas las reacciones catabólicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchas enzimas catalizan reacciones de forma espontánea sin gasto de ATP."
+        },
+        {
+          "letter": "D",
+          "text": "Alteran el equilibrio químico final desplazándolo a la derecha",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las enzimas aceleran la velocidad pero no modifican la constante de equilibrio Keq."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al disminuir la energía de activación, las enzimas incrementan exponencialmente la velocidad metabólica.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.35,
+      "bundle_id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v16",
+      "statement": "El disacárido formado por la unión de una molécula de glucosa y una de fructosa presente en la caña de azúcar es la:",
+      "context": "Un laboratorio escolar en un colegio de Iquitos realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sacarosa",
+          "is_correct": true,
+          "feedback": "Correcto. La sacarosa es el azúcar común sintetizado por plantas y transportado en el floema."
+        },
+        {
+          "letter": "B",
+          "text": "Lactosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lactosa (azúcar de la leche) se compone de glucosa y galactosa."
+        },
+        {
+          "letter": "C",
+          "text": "Maltosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La maltosa se compone de dos moléculas de glucosa unidas por enlace alpha-1,4."
+        },
+        {
+          "letter": "D",
+          "text": "Celobiosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La celobiosa es el disacárido producto de la hidrólisis parcial de la celulosa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La sacarosa es el principal disacárido no reductor transportado en el savia elaborada de las plantas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.31,
+      "bundle_id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v17",
+      "statement": "Los ácidos grasos que contienen uno o más dobles enlaces ($C=C$) en su cadena hidrocarbonada se clasifican como:",
+      "context": "Un laboratorio escolar en un colegio de Piura realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Insaturados",
+          "is_correct": true,
+          "feedback": "Correcto. Los ácidos grasos insaturados presentan dobles enlaces que generan acodamientos en la cadena."
+        },
+        {
+          "letter": "B",
+          "text": "Saturados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ácidos grasos saturados poseen únicamente enlaces simples C-C y mayor punto de fusión."
+        },
+        {
+          "letter": "C",
+          "text": "Esenciales exclusivamente sintéticos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchos ácidos insaturados (omega 3 y 6) son esenciales en la dieta."
+        },
+        {
+          "letter": "D",
+          "text": "Fosfolípidos complejos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los fosfolípidos son lípidos compuestos que contienen ácido fosfórico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los ácidos grasos insaturados son líquidos a temperatura ambiente (aceites) y cardiosaludables.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v18",
+      "statement": "La estructura secundaria de una proteína caracterizada por un plegamiento en espiral estabilizado por puentes de hidrógeno es la:",
+      "context": "Un laboratorio escolar en un colegio de Huancayo realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hélice alfa",
+          "is_correct": true,
+          "feedback": "Correcto. La alfa-hélice es una conformación secundaria periódica estabilizada por enlaces de hidrógeno intracadena."
+        },
+        {
+          "letter": "B",
+          "text": "Hoja beta plegada",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hoja beta plegada es una conformación extendida en lámina de la estructura secundaria."
+        },
+        {
+          "letter": "C",
+          "text": "Estructura cuaternaria globular",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estructura cuaternaria involucra la unión de varias subunidades polipeptídicas."
+        },
+        {
+          "letter": "D",
+          "text": "Secuencia lineal peptídica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La secuencia lineal de aminoácidos constituye la estructura primaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las estructuras secundarias (alfa-hélice y lámina beta) son patrones repetitivos causados por puentes de hidrógeno.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.2,
+      "bundle_id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v19",
+      "statement": "¿Qué vitamina hidrosoluble es un cofactor esencial en la síntesis de colágeno y su deficiencia severa produce el escorbuto?",
+      "context": "Un laboratorio escolar en un colegio de Puno realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vitamina C (Ácido ascórbico)",
+          "is_correct": true,
+          "feedback": "Correcto. La vitamina C hidroxila a la prolina y lisina para dar estabilidad a la hélice de colágeno."
+        },
+        {
+          "letter": "B",
+          "text": "Vitamina D (Calciferol)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vitamina D regula el metabolismo del calcio y hueso (su deficiencia causa raquitismo)."
+        },
+        {
+          "letter": "C",
+          "text": "Vitamina K (Naftoquinona)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vitamina K interviene en los factores de coagulación sanguínea."
+        },
+        {
+          "letter": "D",
+          "text": "Vitamina A (Retinol)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vitamina A participa en el ciclo visual y protección epitelial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ácido ascórbico es un potente antioxidante y cofactor de la prolil-hidroxilasa en la biosíntesis del colágeno.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.15,
+      "bundle_id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v20",
+      "statement": "El nucleótido universal transportador de energía química en el metabolismo celular formado por adenina, ribosa y tres fosfatos es el:",
+      "context": "Un laboratorio escolar en un colegio de Ayacucho realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ATP (Adenosín Trifosfato)",
+          "is_correct": true,
+          "feedback": "Correcto. El ATP almacena energía de enlace fosfoanhídrido altamente disponible para las funciones celulares."
+        },
+        {
+          "letter": "B",
+          "text": "NADP+",
+          "is_correct": false,
+          "feedback": "Incorrecto. El NADP+ es un coenzima transportador de electrones y protones en reacciones anabólicas."
+        },
+        {
+          "letter": "C",
+          "text": "AMP cíclico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El AMPc actúa como segundo mensajero en la señalización celular."
+        },
+        {
+          "letter": "D",
+          "text": "ADN polimérico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ADN es el depósito de información genética hereditaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ATP es la moneda energética de la célula liberando ~7.3 kcal/mol al hidrolizar su grupo fosfato terminal.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.1,
+      "bundle_id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    }
+  ]
+}

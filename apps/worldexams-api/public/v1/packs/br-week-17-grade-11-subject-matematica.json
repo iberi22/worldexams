@@ -8,43 +8,43 @@
   },
   "questions": [
     {
-      "id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v1",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 5 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística descritiva: média, mediana, moda e gráficos.",
+      "id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle-v1",
+      "statement": "Qual é a fórmula da distância entre dois pontos A(xA, yA) e B(xB, yB) no plano cartesiano?",
+      "context": "Um estudante em São Paulo revisa as fórmulas da geometria analítica para o ENEM.",
       "options": [
         {
           "letter": "A",
-          "text": "25 metros",
+          "text": "d = √((xB − xA)² + (yB − yA)²)",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: a distância é a raiz quadrada da soma dos quadrados das diferenças das coordenadas."
         },
         {
           "letter": "B",
-          "text": "5 metros",
+          "text": "d = (xB − xA) + (yB − yA)",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: somar as diferenças sem elevar ao quadrado não corresponde à distância euclidiana."
         },
         {
           "letter": "C",
-          "text": "30 metros",
+          "text": "d = √((xB − xA) + (yB − yA))",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: a raiz deve ser aplicada sobre a soma dos quadrados, não sobre a soma simples."
         },
         {
           "letter": "D",
-          "text": "7 metros",
+          "text": "d = (xB − xA)² + (yB − yA)²",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: falta a raiz quadrada; a expressão sem a raiz é o quadrado da distância."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 5 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 5 + 2 * 10 = 25 metros.",
-      "difficulty": "3",
+      "explanation": "A distância entre dois pontos no plano é obtida pelo teorema de Pitágoras: d = √((xB − xA)² + (yB − yA)²), que corresponde à hipotenusa do triângulo retângulo formado pelas diferenças das abscissas e das ordenadas.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.81,
-      "bundle_id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "expected_success": 0.85,
+      "bundle_id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -53,43 +53,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v2",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 10 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística descritiva: média, mediana, moda e gráficos.",
+      "id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle-v2",
+      "statement": "Qual é a expressão do coeficiente angular m da reta que passa pelos pontos A(x1, y1) e B(x2, y2), com x1 ≠ x2?",
+      "context": "Durante uma aula em Curitiba, o professor apresenta o conceito de coeficiente angular de uma reta.",
       "options": [
         {
           "letter": "A",
-          "text": "30 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "m = (x2 − x1)/(y2 − y1)",
+          "is_correct": false,
+          "feedback": "Incorreto: a fórmula foi invertida; o numerador deve ser a diferença das ordenadas."
         },
         {
           "letter": "B",
-          "text": "10 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "m = (y2 − y1)/(x2 − x1)",
+          "is_correct": true,
+          "feedback": "Correto: m é a razão entre a variação das ordenadas e a variação das abscissas."
         },
         {
           "letter": "C",
-          "text": "35 metros",
+          "text": "m = (x2 − x1) · (y2 − y1)",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: o coeficiente angular é uma razão, não um produto."
         },
         {
           "letter": "D",
-          "text": "12 metros",
+          "text": "m = (x1 + x2)/(y1 + y2)",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: usam-se diferenças de coordenadas, não somas."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 10 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 10 + 2 * 10 = 30 metros.",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "O coeficiente angular mede a inclinação da reta e é dado por m = Δy/Δx = (y2 − y1)/(x2 − x1). Ele indica quantas unidades a variável y varia para cada unidade de variação de x.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.77,
-      "bundle_id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "expected_success": 0.8,
+      "bundle_id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -98,43 +98,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v3",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 15 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística descritiva: média, mediana, moda e gráficos.",
+      "id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle-v3",
+      "statement": "Qual é a equação da circunferência com centro na origem do plano cartesiano e raio 5?",
+      "context": "Um arquiteto no Rio de Janeiro desenha uma praça circular com centro na origem de um sistema de coordenadas.",
       "options": [
         {
           "letter": "A",
-          "text": "35 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "x² + y² = 5",
+          "is_correct": false,
+          "feedback": "Incorreto: o segundo membro deve ser o quadrado do raio, não o raio."
         },
         {
           "letter": "B",
-          "text": "15 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "x² + y² = 25",
+          "is_correct": true,
+          "feedback": "Correto: a circunferência com centro na origem tem equação x² + y² = r² = 25."
         },
         {
           "letter": "C",
-          "text": "40 metros",
+          "text": "x + y = 25",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: a equação de uma circunferência envolve os quadrados das coordenadas."
         },
         {
           "letter": "D",
-          "text": "17 metros",
+          "text": "x² + y² = 10",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 10 seria o dobro do raio; o correto é o raio ao quadrado, 25."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 15 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 15 + 2 * 10 = 35 metros.",
+      "correct_answer": "B",
+      "explanation": "A circunferência com centro na origem e raio r tem equação reduzida x² + y² = r². Para r = 5, obtém-se x² + y² = 25.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.73,
-      "bundle_id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "expected_success": 0.75,
+      "bundle_id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -143,43 +143,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v4",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 20 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística descritiva: média, mediana, moda e gráficos.",
+      "id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle-v4",
+      "statement": "Se o coeficiente angular de uma reta é positivo, o que se pode afirmar sobre ela?",
+      "context": "Um professor em Brasília explica a relação entre o sinal do coeficiente angular e o crescimento da reta.",
       "options": [
         {
           "letter": "A",
-          "text": "40 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "A reta é decrescente",
+          "is_correct": false,
+          "feedback": "Incorreto: coeficiente angular negativo indica reta decrescente."
         },
         {
           "letter": "B",
-          "text": "20 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "A reta é crescente",
+          "is_correct": true,
+          "feedback": "Correto: com m maior que zero, y aumenta quando x aumenta, e a reta sobe da esquerda para a direita."
         },
         {
           "letter": "C",
-          "text": "45 metros",
+          "text": "A reta é horizontal",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: reta horizontal tem coeficiente angular nulo."
         },
         {
           "letter": "D",
-          "text": "22 metros",
+          "text": "A reta é vertical",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: reta vertical não possui coeficiente angular definido."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 20 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 20 + 2 * 10 = 40 metros.",
+      "correct_answer": "B",
+      "explanation": "O sinal do coeficiente angular determina a inclinação: m > 0 indica reta crescente, m < 0 indica reta decrescente, m = 0 indica reta horizontal e retas verticais não têm coeficiente angular definido.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.69,
-      "bundle_id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "expected_success": 0.7,
+      "bundle_id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -188,43 +188,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v5",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 25 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística descritiva: média, mediana, moda e gráficos.",
+      "id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle-v5",
+      "statement": "Qual é a distância entre os pontos A(1, 2) e B(4, 6)?",
+      "context": "Um estudante em Salvador calcula a distância entre dois pontos em um mapa quadriculado.",
       "options": [
         {
           "letter": "A",
-          "text": "45 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorreto: 3 é a diferença entre as abscissas, não a distância completa."
         },
         {
           "letter": "B",
-          "text": "25 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correto: d = √((4 − 1)² + (6 − 2)²) = √(9 + 16) = √25 = 5."
         },
         {
           "letter": "C",
-          "text": "50 metros",
+          "text": "7",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 7 é a soma das diferenças (3 + 4), sem aplicar o teorema de Pitágoras."
         },
         {
           "letter": "D",
-          "text": "27 metros",
+          "text": "√41",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: √41 resultaria de somar os quadrados de forma incorreta."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 25 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 25 + 2 * 10 = 45 metros.",
-      "difficulty": "5",
+      "correct_answer": "B",
+      "explanation": "Aplicando a fórmula da distância: d = √((4 − 1)² + (6 − 2)²) = √(3² + 4²) = √25 = 5. Trata-se do triângulo 3-4-5.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.67,
-      "bundle_id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "expected_success": 0.65,
+      "bundle_id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -233,43 +233,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v6",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 30 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística descritiva: média, mediana, moda e gráficos.",
+      "id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle-v6",
+      "statement": "Dada a circunferência (x − 2)² + (y + 3)² = 16, quais são o centro e o raio?",
+      "context": "Um engenheiro em Recife analisa a equação de uma circunferência em um projeto de rotatória.",
       "options": [
         {
           "letter": "A",
-          "text": "50 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "Centro (2, 3) e raio 4",
+          "is_correct": false,
+          "feedback": "Incorreto: em (y + 3)², a ordenada do centro é −3."
         },
         {
           "letter": "B",
-          "text": "30 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "Centro (2, −3) e raio 4",
+          "is_correct": true,
+          "feedback": "Correto: o centro é (2, −3) e o raio é √16 = 4."
         },
         {
           "letter": "C",
-          "text": "55 metros",
+          "text": "Centro (−2, 3) e raio 16",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: os sinais estão trocados e o raio é a raiz de 16."
         },
         {
           "letter": "D",
-          "text": "32 metros",
+          "text": "Centro (2, −3) e raio 16",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: o raio é √16 = 4, não 16."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 30 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 30 + 2 * 10 = 50 metros.",
-      "difficulty": "5",
+      "correct_answer": "B",
+      "explanation": "Na equação reduzida (x − a)² + (y − b)² = r², o centro é (a, b) e o raio é r. Assim, (x − 2)² + (y + 3)² = 16 tem centro (2, −3) e raio 4.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.64,
-      "bundle_id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -278,88 +278,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v7",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 35 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística descritiva: média, mediana, moda e gráficos.",
+      "id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle-v7",
+      "statement": "Qual é o coeficiente angular da reta que passa pelos pontos A(1, 1) e B(3, 7)?",
+      "context": "Um topógrafo em Fortaleza calcula a inclinação de um trecho de estrada representado no plano.",
       "options": [
         {
           "letter": "A",
-          "text": "55 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorreto: 2 seria o resultado de (7 − 3)/(1 − 1), que é uma razão inválida."
         },
         {
           "letter": "B",
-          "text": "35 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
-        },
-        {
-          "letter": "C",
-          "text": "60 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
-        },
-        {
-          "letter": "D",
-          "text": "37 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 35 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 35 + 2 * 10 = 55 metros.",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.61,
-      "bundle_id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "br"
-    },
-    {
-      "id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v8",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 40 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística descritiva: média, mediana, moda e gráficos.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "60 metros",
+          "text": "3",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
-        },
-        {
-          "letter": "B",
-          "text": "40 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Correto: m = (7 − 1)/(3 − 1) = 6/2 = 3."
         },
         {
           "letter": "C",
-          "text": "65 metros",
+          "text": "4",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 4 é a diferença das ordenadas, não a razão completa."
         },
         {
           "letter": "D",
-          "text": "42 metros",
+          "text": "6",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 6 é a variação de y; falta dividir pela variação de x."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 40 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 40 + 2 * 10 = 60 metros.",
+      "correct_answer": "B",
+      "explanation": "m = (y2 − y1)/(x2 − x1) = (7 − 1)/(3 − 1) = 6/2 = 3. A reta sobe 3 unidades para cada unidade percorrida na horizontal.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.58,
-      "bundle_id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "expected_success": 0.6,
+      "bundle_id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -368,43 +323,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v9",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 45 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística descritiva: média, mediana, moda e gráficos.",
+      "id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle-v8",
+      "statement": "Qual é a equação da reta paralela a y = 2x + 1 que passa pelo ponto (0, 3)?",
+      "context": "Um professor em Manaus pede a equação de uma reta paralela a outra e que passa por um ponto dado.",
       "options": [
         {
           "letter": "A",
-          "text": "65 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "y = 3x + 2",
+          "is_correct": false,
+          "feedback": "Incorreto: retas paralelas têm o mesmo coeficiente angular, 2, não 3."
         },
         {
           "letter": "B",
-          "text": "45 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "y = 2x + 3",
+          "is_correct": true,
+          "feedback": "Correto: mantém-se o coeficiente angular 2 e o ponto (0, 3) indica o coeficiente linear 3."
         },
         {
           "letter": "C",
-          "text": "70 metros",
+          "text": "y = 2x − 3",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: o coeficiente linear deve ser 3, pois a reta passa por (0, 3)."
         },
         {
           "letter": "D",
-          "text": "47 metros",
+          "text": "y = x + 3",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: o coeficiente angular deve ser mantido igual a 2 para o paralelismo."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 45 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 45 + 2 * 10 = 65 metros.",
+      "correct_answer": "B",
+      "explanation": "Retas paralelas possuem o mesmo coeficiente angular. Como a reta procurada passa por (0, 3), seu coeficiente linear é 3, resultando em y = 2x + 3.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "expected_success": 0.55,
-      "bundle_id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -413,43 +368,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v10",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 50 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística descritiva: média, mediana, moda e gráficos.",
+      "id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle-v9",
+      "statement": "O ponto P(3, 4) pertence à circunferência x² + y² = 25?",
+      "context": "Um estudante em Goiânia verifica se um ponto pertence a uma circunferência dada por sua equação.",
       "options": [
         {
           "letter": "A",
-          "text": "70 metros",
+          "text": "Sim, pois 3² + 4² = 25",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: substituindo as coordenadas, 9 + 16 = 25, e a igualdade se verifica."
         },
         {
           "letter": "B",
-          "text": "50 metros",
+          "text": "Não, pois 3 + 4 = 7",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: a verificação exige elevar as coordenadas ao quadrado, não somá-las."
         },
         {
           "letter": "C",
-          "text": "75 metros",
+          "text": "Não, pois 3² − 4² = −7",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: deve-se somar os quadrados das coordenadas."
         },
         {
           "letter": "D",
-          "text": "52 metros",
+          "text": "Sim, pois 3 × 4 = 12",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: o produto das coordenadas não é usado na equação da circunferência."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 50 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 50 + 2 * 10 = 70 metros.",
+      "explanation": "Um ponto pertence à circunferência se suas coordenadas satisfazem a equação: 3² + 4² = 9 + 16 = 25. Como a igualdade se verifica, P(3, 4) pertence a x² + y² = 25.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.52,
-      "bundle_id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "expected_success": 0.55,
+      "bundle_id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -458,43 +413,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v11",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 55 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística descritiva: média, mediana, moda e gráficos.",
+      "id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle-v10",
+      "statement": "Qual é a forma reduzida da reta 3x − 6y + 12 = 0?",
+      "context": "Um engenheiro em Belém converte a equação geral de uma reta para a forma reduzida.",
       "options": [
         {
           "letter": "A",
-          "text": "75 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "y = 2x + 12",
+          "is_correct": false,
+          "feedback": "Incorreto: ao isolar y, o coeficiente de x é 1/2, não 2."
         },
         {
           "letter": "B",
-          "text": "55 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "y = x/2 + 2",
+          "is_correct": true,
+          "feedback": "Correto: 3x − 6y + 12 = 0 → 6y = 3x + 12 → y = x/2 + 2."
         },
         {
           "letter": "C",
-          "text": "80 metros",
+          "text": "y = 2x + 2",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: o coeficiente angular é 1/2, obtido ao dividir 3x por 6."
         },
         {
           "letter": "D",
-          "text": "57 metros",
+          "text": "y = x/2 − 2",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: ao isolar y, o termo independente é +2, não −2."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 55 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 55 + 2 * 10 = 75 metros.",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "Isolando y: 3x − 6y + 12 = 0 → 6y = 3x + 12 → y = (3x + 12)/6 → y = x/2 + 2. O coeficiente angular é 1/2 e o linear é 2.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.49,
-      "bundle_id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -503,43 +458,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v12",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 60 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística descritiva: média, mediana, moda e gráficos.",
+      "id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle-v11",
+      "statement": "Qual é a equação da reta perpendicular a y = 3x − 1 que passa pelo ponto (0, 2)?",
+      "context": "Um arquiteto em Florianópolis projeta uma rampa perpendicular a outra já existente.",
       "options": [
         {
           "letter": "A",
-          "text": "80 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "y = 3x + 2",
+          "is_correct": false,
+          "feedback": "Incorreto: essa reta é paralela à original, pois mantém o coeficiente angular 3."
         },
         {
           "letter": "B",
-          "text": "60 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "y = −x/3 + 2",
+          "is_correct": true,
+          "feedback": "Correto: o coeficiente angular da perpendicular é −1/3, pois 3 × (−1/3) = −1."
         },
         {
           "letter": "C",
-          "text": "85 metros",
+          "text": "y = x/3 + 2",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: para a perpendicularidade, o coeficiente deve ser −1/3, não 1/3."
         },
         {
           "letter": "D",
-          "text": "62 metros",
+          "text": "y = −3x + 2",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: −3 × 3 = −9, e o produto dos coeficientes de retas perpendiculares deve ser −1."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 60 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 60 + 2 * 10 = 80 metros.",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "Retas perpendiculares têm coeficientes angulares cujo produto é −1. Como o coeficiente da reta dada é 3, o da perpendicular é −1/3, e com o ponto (0, 2) obtém-se y = −x/3 + 2.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.46,
-      "bundle_id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "expected_success": 0.5,
+      "bundle_id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -548,43 +503,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v13",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 65 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística descritiva: média, mediana, moda e gráficos.",
+      "id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle-v12",
+      "statement": "Qual é a distância do ponto P(1, 2) à reta 3x + 4y − 6 = 0?",
+      "context": "Um professor em Porto Alegre ensina a distância de um ponto a uma reta usando a fórmula deduzida da área do triângulo.",
       "options": [
         {
           "letter": "A",
-          "text": "85 metros",
+          "text": "1",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: d = |3·1 + 4·2 − 6|/√(3² + 4²) = |5|/5 = 1."
         },
         {
           "letter": "B",
-          "text": "65 metros",
+          "text": "5",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 5 é o denominador da fórmula, a raiz de 3² + 4²."
         },
         {
           "letter": "C",
-          "text": "90 metros",
+          "text": "0",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: a distância seria 0 apenas se o ponto pertencesse à reta."
         },
         {
           "letter": "D",
-          "text": "67 metros",
+          "text": "1/5",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: inverteu-se a razão; o numerador é 5 e o denominador é 5, resultando em 1."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 65 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 65 + 2 * 10 = 85 metros.",
-      "difficulty": "7",
+      "explanation": "A distância de um ponto a uma reta é d = |ax0 + by0 + c|/√(a² + b²). Assim, d = |3·1 + 4·2 − 6|/√(9 + 16) = |5|/5 = 1.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.43,
-      "bundle_id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -593,43 +548,88 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v14",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 70 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística descritiva: média, mediana, moda e gráficos.",
+      "id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle-v13",
+      "statement": "As estações A(2, 4) e B(6, 10) estão representadas em um plano cartesiano. Qual é o ponto médio do segmento AB?",
+      "context": "Um estudante em Campinas localiza duas estações de metrô em um mapa e procura o ponto médio do trajeto.",
       "options": [
         {
           "letter": "A",
-          "text": "90 metros",
+          "text": "M(4, 7)",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: M = ((2 + 6)/2, (4 + 10)/2) = (4, 7)."
         },
         {
           "letter": "B",
-          "text": "70 metros",
+          "text": "M(8, 14)",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: somaram-se as coordenadas sem dividir por 2."
         },
         {
           "letter": "C",
-          "text": "95 metros",
+          "text": "M(4, 14)",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: a média das abscissas foi calculada, mas as ordenadas foram somadas."
         },
         {
           "letter": "D",
-          "text": "72 metros",
+          "text": "M(2, 7)",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: usou-se a abscissa de A em vez da média das abscissas."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 70 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 70 + 2 * 10 = 90 metros.",
+      "explanation": "O ponto médio é dado por M = ((x1 + x2)/2, (y1 + y2)/2) = ((2 + 6)/2, (4 + 10)/2) = (4, 7).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.45,
+      "bundle_id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle-v14",
+      "statement": "Uma circunferência tem centro C(1, 2) e passa pelo ponto P(4, 6). Qual é a sua equação?",
+      "context": "Um engenheiro em Natal dimensiona uma circunferência que passa por um ponto conhecido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(x − 1)² + (y − 2)² = 25",
+          "is_correct": true,
+          "feedback": "Correto: o raio é a distância de C a P, √(3² + 4²) = 5, e 5² = 25."
+        },
+        {
+          "letter": "B",
+          "text": "(x − 1)² + (y − 2)² = 5",
+          "is_correct": false,
+          "feedback": "Incorreto: o segundo membro deve ser o quadrado do raio, 25, e não o raio."
+        },
+        {
+          "letter": "C",
+          "text": "(x + 1)² + (y + 2)² = 25",
+          "is_correct": false,
+          "feedback": "Incorreto: os sinais das coordenadas do centro ficaram invertidos."
+        },
+        {
+          "letter": "D",
+          "text": "x² + y² = 25",
+          "is_correct": false,
+          "feedback": "Incorreto: essa equação corresponde a uma circunferência com centro na origem."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "O raio é a distância entre o centro e o ponto: r = √((4 − 1)² + (6 − 2)²) = √(9 + 16) = 5. Logo, a equação é (x − 1)² + (y − 2)² = 25.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "expected_success": 0.4,
-      "bundle_id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -638,43 +638,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v15",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 75 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística descritiva: média, mediana, moda e gráficos.",
+      "id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle-v15",
+      "statement": "Um terreno triangular tem vértices A(0, 0), B(4, 0) e C(0, 3). Qual é a sua área?",
+      "context": "Um professor em São José dos Campos propõe o cálculo da área de um terreno triangular no plano cartesiano.",
       "options": [
         {
           "letter": "A",
-          "text": "95 metros",
+          "text": "6",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: A = (base × altura)/2 = (4 × 3)/2 = 6."
         },
         {
           "letter": "B",
-          "text": "75 metros",
+          "text": "12",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: 12 é o produto base × altura sem dividir por 2."
         },
         {
           "letter": "C",
-          "text": "100 metros",
+          "text": "7",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 7 é a soma das coordenadas de B e C, sem relação com a área."
         },
         {
           "letter": "D",
-          "text": "77 metros",
+          "text": "3",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 3 é apenas a altura do triângulo."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 75 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 75 + 2 * 10 = 95 metros.",
+      "explanation": "O triângulo é retângulo com base AB = 4 e altura AC = 3. A área é (4 × 3)/2 = 6 unidades de área.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.37,
-      "bundle_id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "expected_success": 0.4,
+      "bundle_id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -683,43 +683,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v16",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 80 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística descritiva: média, mediana, moda e gráficos.",
+      "id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle-v16",
+      "statement": "Os pontos A(1, 2), B(3, 4) e C(5, 6) estão alinhados?",
+      "context": "Um estudante em Vitória verifica se três pontos estão alinhados comparando coeficientes angulares.",
       "options": [
         {
           "letter": "A",
-          "text": "100 metros",
+          "text": "Sim, pois os coeficientes angulares de AB e BC são iguais",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: m(AB) = (4 − 2)/(3 − 1) = 1 e m(BC) = (6 − 4)/(5 − 3) = 1."
         },
         {
           "letter": "B",
-          "text": "80 metros",
+          "text": "Não, pois três pontos distintos sempre formam um triângulo",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: três pontos podem ser colineares, e neste caso são."
         },
         {
           "letter": "C",
-          "text": "105 metros",
+          "text": "Sim, pois as distâncias AB e BC são iguais",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: distâncias iguais não garantem alinhamento."
         },
         {
           "letter": "D",
-          "text": "82 metros",
+          "text": "Não, pois o coeficiente angular da reta é 2",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: o coeficiente angular comum é 1, e os pontos estão alinhados."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 80 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 80 + 2 * 10 = 100 metros.",
+      "explanation": "Comparando os coeficientes angulares: m(AB) = 2/2 = 1 e m(BC) = 2/2 = 1. Como são iguais, os três pontos pertencem à mesma reta y = x + 1.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.34,
-      "bundle_id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "expected_success": 0.35,
+      "bundle_id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -728,43 +728,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v17",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 85 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística descritiva: média, mediana, moda e gráficos.",
+      "id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle-v17",
+      "statement": "Uma circunferência é tangente aos dois eixos coordenados e tem centro em (3, 3). Qual é a sua equação?",
+      "context": "Um candidato ao vestibular avalia a equação de uma circunferência tangente aos eixos coordenados.",
       "options": [
         {
           "letter": "A",
-          "text": "105 metros",
+          "text": "(x − 3)² + (y − 3)² = 9",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: a tangência aos eixos implica raio 3, e 3² = 9."
         },
         {
           "letter": "B",
-          "text": "85 metros",
+          "text": "(x − 3)² + (y − 3)² = 3",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: o segundo membro deve ser o quadrado do raio, 9."
         },
         {
           "letter": "C",
-          "text": "110 metros",
+          "text": "x² + y² = 9",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: essa equação tem centro na origem, não em (3, 3)."
         },
         {
           "letter": "D",
-          "text": "87 metros",
+          "text": "(x − 3)² + (y + 3)² = 9",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: a ordenada do centro é 3, e o sinal em (y − 3)² está trocado."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 85 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 85 + 2 * 10 = 105 metros.",
-      "difficulty": "9",
+      "explanation": "Como a circunferência tangencia os dois eixos, a distância do centro a cada eixo é o raio: r = 3. A equação é (x − 3)² + (y − 3)² = 9.",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.28,
-      "bundle_id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "expected_success": 0.3,
+      "bundle_id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -773,43 +773,43 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v18",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 90 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística descritiva: média, mediana, moda e gráficos.",
+      "id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle-v18",
+      "statement": "Um ponto P(4, 6) está no exterior de uma circunferência de centro C(1, 2) e raio 2. Qual é a maior distância de P a um ponto da circunferência?",
+      "context": "Um engenheiro em Belo Horizonte analisa a distância máxima de um ponto externo a uma circunferência.",
       "options": [
         {
           "letter": "A",
-          "text": "110 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorreto: 5 é a distância do ponto P ao centro, não a maior distância ao círculo."
         },
         {
           "letter": "B",
-          "text": "90 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Correto: a maior distância é d(P, C) + r = 5 + 2 = 7."
         },
         {
           "letter": "C",
-          "text": "115 metros",
+          "text": "3",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: 3 é a menor distância de P à circunferência (5 − 2)."
         },
         {
           "letter": "D",
-          "text": "92 metros",
+          "text": "2",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: 2 é o raio da circunferência."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 90 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 90 + 2 * 10 = 110 metros.",
-      "difficulty": "9",
+      "correct_answer": "B",
+      "explanation": "A distância de P ao centro é d = √((4 − 1)² + (6 − 2)²) = √(9 + 16) = 5. O ponto mais afastado da circunferência está na direção que prolonga o raio, a uma distância d + r = 5 + 2 = 7.",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.24,
-      "bundle_id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "expected_success": 0.25,
+      "bundle_id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -818,88 +818,88 @@
       "country": "br"
     },
     {
-      "id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v19",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 95 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística descritiva: média, mediana, moda e gráficos.",
+      "id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle-v19",
+      "statement": "Qual das retas a seguir é tangente à circunferência x² + y² = 25?",
+      "context": "Em uma olimpíada de matemática, pede-se a reta tangente a uma circunferência entre várias candidatas.",
       "options": [
         {
           "letter": "A",
-          "text": "115 metros",
+          "text": "3x + 4y = 25",
           "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
+          "feedback": "Correto: a distância da origem à reta é 25/√(3² + 4²) = 25/5 = 5, igual ao raio."
         },
         {
           "letter": "B",
-          "text": "95 metros",
+          "text": "3x + 4y = 15",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
+          "feedback": "Incorreto: a distância é 15/5 = 3, menor que o raio; a reta é secante."
         },
         {
           "letter": "C",
-          "text": "120 metros",
+          "text": "3x + 4y = 35",
           "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
+          "feedback": "Incorreto: a distância é 35/5 = 7, maior que o raio; a reta é exterior."
         },
         {
           "letter": "D",
-          "text": "97 metros",
+          "text": "3x + 4y = 10",
           "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
+          "feedback": "Incorreto: a distância é 10/5 = 2, menor que o raio; a reta é secante."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 95 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 95 + 2 * 10 = 115 metros.",
+      "explanation": "Uma reta é tangente à circunferência quando a distância do centro (origem) à reta é igual ao raio (5). Para 3x + 4y = 25, d = |25|/√(9 + 16) = 5, portanto a reta é tangente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.25,
+      "bundle_id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "br"
+    },
+    {
+      "id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle-v20",
+      "statement": "Considere as circunferências C1: (x − 1)² + (y − 1)² = 9 e C2: (x − 7)² + (y − 1)² = 4. Qual é a posição relativa entre elas?",
+      "context": "Um pesquisador em Campinas estuda a posição relativa entre duas circunferências de um mapa de cobertura de sinal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Externas, pois a distância entre os centros é maior que a soma dos raios",
+          "is_correct": true,
+          "feedback": "Correto: d = 6 e r1 + r2 = 5, logo d > r1 + r2 e as circunferências não se intersectam."
+        },
+        {
+          "letter": "B",
+          "text": "Tangentes externas, pois a distância entre os centros é 6",
+          "is_correct": false,
+          "feedback": "Incorreto: a tangência externa exigiria d = r1 + r2 = 5."
+        },
+        {
+          "letter": "C",
+          "text": "Secantes, pois a distância entre os centros é menor que a soma dos raios",
+          "is_correct": false,
+          "feedback": "Incorreto: para serem secantes, d deve ser menor que 5 e maior que 1."
+        },
+        {
+          "letter": "D",
+          "text": "Uma contém a outra, pois a distância entre os centros é 6",
+          "is_correct": false,
+          "feedback": "Incorreto: isso exigiria d + r2 < r1, ou seja, 6 + 2 < 3, o que é falso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Os centros são (1, 1) e (7, 1), com distância d = 6. Os raios são 3 e 2, com soma 5. Como d > r1 + r2, as circunferências são externas, sem pontos em comum.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
       "expected_success": 0.2,
-      "bundle_id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "br"
-    },
-    {
-      "id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v20",
-      "statement": "Considere um modelo conceitual onde uma grandeza linear inicial de 100 metros varia uniformemente a uma taxa constante de 2 unidades por segundo. Qual será a medida final dessa grandeza após exatamente 10 segundos?",
-      "context": "Um grupo de engenheiros em São Paulo avalia a modelagem estrutural de um projeto relacionado a estatística descritiva: média, mediana, moda e gráficos.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "120 metros",
-          "is_correct": true,
-          "feedback": "Correto! O cálculo da variação linear progressiva de valor inicial mais taxa acumulada de 2 m/s em 10 segundos."
-        },
-        {
-          "letter": "B",
-          "text": "100 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor inicial se não houvesse qualquer variação temporal."
-        },
-        {
-          "letter": "C",
-          "text": "125 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Você somou um fator arbitrário de desvio de 5 unidades à resposta final correta."
-        },
-        {
-          "letter": "D",
-          "text": "102 metros",
-          "is_correct": false,
-          "feedback": "Incorreto. Este seria o valor após apenas um único segundo de variação linear."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Em problemas de variação linear com valor inicial S0 = 100 m e taxa v = 2 m/s, o valor final após t = 10 s é dado pela função linear S(t) = S0 + v * t = 100 + 2 * 10 = 120 metros.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.16,
-      "bundle_id": "BR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle",
+      "bundle_id": "BR-MAT-11-2026-W17-geometria-analitica-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
       "cefr_level": null,
