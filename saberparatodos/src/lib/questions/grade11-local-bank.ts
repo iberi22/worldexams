@@ -18,7 +18,7 @@ type LocalBankQuestion = {
   bundleStatus?: string;
 };
 
-const rawGrade11Bundles = import.meta.glob('../../../../questions_data/**/*.md', {
+const rawGrade11Bundles = import.meta.glob('../../../../questions_data/colombia/**/grado-11/**/CO-*-W01-*.md', {
   query: '?raw',
   import: 'default',
   eager: true,
