@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-8-grade-11-subject-matematicas",
+    "generated_at": "2026-08-29T18:22:22.204Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la simplificación de la expresión $\\frac{x^2 - 4}{x + 2}$ para $x \\neq -2$?",
+      "context": "En Pasto, Valentina simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x - 2$",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 2)(x + 2)$, se cancela $(x + 2)$."
+        },
+        {
+          "letter": "B",
+          "text": "$x + 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 - 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste el término de grado 2."
+        },
+        {
+          "letter": "D",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste la variable x de forma errónea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 4 = (x - 2)(x + 2)$. Al dividir entre $(x + 2)$, la expresión simplificada es $x - 2$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la simplificación de la expresión $\\frac{x^2 - 9}{x + 3}$ para $x \\neq -3$?",
+      "context": "En Bogotá, Santiago simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x - 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 3)(x + 3)$, se cancela $(x + 3)$."
+        },
+        {
+          "letter": "B",
+          "text": "$x + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 - 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste el término de grado 2."
+        },
+        {
+          "letter": "D",
+          "text": "$3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste la variable x de forma errónea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 9 = (x - 3)(x + 3)$. Al dividir entre $(x + 3)$, la expresión simplificada es $x - 3$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la simplificación de la expresión $\\frac{x^2 - 16}{x + 4}$ para $x \\neq -4$?",
+      "context": "En Medellín, Mariana simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x - 4$",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 4)(x + 4)$, se cancela $(x + 4)$."
+        },
+        {
+          "letter": "B",
+          "text": "$x + 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 - 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste el término de grado 2."
+        },
+        {
+          "letter": "D",
+          "text": "$4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste la variable x de forma errónea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 16 = (x - 4)(x + 4)$. Al dividir entre $(x + 4)$, la expresión simplificada es $x - 4$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la simplificación de la expresión $\\frac{x^2 - 25}{x + 5}$ para $x \\neq -5$?",
+      "context": "En Cali, Juan simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x - 5$",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 5)(x + 5)$, se cancela $(x + 5)$."
+        },
+        {
+          "letter": "B",
+          "text": "$x + 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 - 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste el término de grado 2."
+        },
+        {
+          "letter": "D",
+          "text": "$5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste la variable x de forma errónea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 25 = (x - 5)(x + 5)$. Al dividir entre $(x + 5)$, la expresión simplificada es $x - 5$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la simplificación de la expresión $\\frac{x^2 - 36}{x + 6}$ para $x \\neq -6$?",
+      "context": "En Barranquilla, Camila simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x - 6$",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 6)(x + 6)$, se cancela $(x + 6)$."
+        },
+        {
+          "letter": "B",
+          "text": "$x + 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 - 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste el término de grado 2."
+        },
+        {
+          "letter": "D",
+          "text": "$6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste la variable x de forma errónea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 36 = (x - 6)(x + 6)$. Al dividir entre $(x + 6)$, la expresión simplificada es $x - 6$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la simplificación de la expresión $\\frac{x^2 - 49}{x + 7}$ para $x \\neq -7$?",
+      "context": "En Bucaramanga, Alejandro simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x - 7$",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 7)(x + 7)$, se cancela $(x + 7)$."
+        },
+        {
+          "letter": "B",
+          "text": "$x + 7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 - 7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste el término de grado 2."
+        },
+        {
+          "letter": "D",
+          "text": "$7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste la variable x de forma errónea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 49 = (x - 7)(x + 7)$. Al dividir entre $(x + 7)$, la expresión simplificada es $x - 7$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la simplificación de la expresión $\\frac{x^2 - 64}{x + 8}$ para $x \\neq -8$?",
+      "context": "En Cartagena, Isabella simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x - 8$",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 8)(x + 8)$, se cancela $(x + 8)$."
+        },
+        {
+          "letter": "B",
+          "text": "$x + 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 - 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste el término de grado 2."
+        },
+        {
+          "letter": "D",
+          "text": "$8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste la variable x de forma errónea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 64 = (x - 8)(x + 8)$. Al dividir entre $(x + 8)$, la expresión simplificada es $x - 8$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la simplificación de la expresión $\\frac{x^2 - 81}{x + 9}$ para $x \\neq -9$?",
+      "context": "En Pereira, Mateo simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x - 9$",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 9)(x + 9)$, se cancela $(x + 9)$."
+        },
+        {
+          "letter": "B",
+          "text": "$x + 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 - 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste el término de grado 2."
+        },
+        {
+          "letter": "D",
+          "text": "$9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste la variable x de forma errónea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 81 = (x - 9)(x + 9)$. Al dividir entre $(x + 9)$, la expresión simplificada es $x - 9$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la simplificación de la expresión $\\frac{x^2 - 100}{x + 10}$ para $x \\neq -10$?",
+      "context": "En Manizales, Sofia simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x - 10$",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 10)(x + 10)$, se cancela $(x + 10)$."
+        },
+        {
+          "letter": "B",
+          "text": "$x + 10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 - 10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste el término de grado 2."
+        },
+        {
+          "letter": "D",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste la variable x de forma errónea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 100 = (x - 10)(x + 10)$. Al dividir entre $(x + 10)$, la expresión simplificada es $x - 10$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la simplificación de la expresión $\\frac{x^2 - 121}{x + 11}$ para $x \\neq -11$?",
+      "context": "En Santa Marta, Diego simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x - 11$",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 11)(x + 11)$, se cancela $(x + 11)$."
+        },
+        {
+          "letter": "B",
+          "text": "$x + 11$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 - 11$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste el término de grado 2."
+        },
+        {
+          "letter": "D",
+          "text": "$11$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste la variable x de forma errónea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 121 = (x - 11)(x + 11)$. Al dividir entre $(x + 11)$, la expresión simplificada es $x - 11$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la simplificación de la expresión $\\frac{x^2 - 144}{x + 12}$ para $x \\neq -12$?",
+      "context": "En Pasto, Valentina simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x - 12$",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 12)(x + 12)$, se cancela $(x + 12)$."
+        },
+        {
+          "letter": "B",
+          "text": "$x + 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 - 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste el término de grado 2."
+        },
+        {
+          "letter": "D",
+          "text": "$12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste la variable x de forma errónea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 144 = (x - 12)(x + 12)$. Al dividir entre $(x + 12)$, la expresión simplificada es $x - 12$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la simplificación de la expresión $\\frac{x^2 - 169}{x + 13}$ para $x \\neq -13$?",
+      "context": "En Bogotá, Santiago simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x - 13$",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 13)(x + 13)$, se cancela $(x + 13)$."
+        },
+        {
+          "letter": "B",
+          "text": "$x + 13$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 - 13$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste el término de grado 2."
+        },
+        {
+          "letter": "D",
+          "text": "$13$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste la variable x de forma errónea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 169 = (x - 13)(x + 13)$. Al dividir entre $(x + 13)$, la expresión simplificada es $x - 13$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la simplificación de la expresión $\\frac{x^2 - 196}{x + 14}$ para $x \\neq -14$?",
+      "context": "En Medellín, Mariana simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x - 14$",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 14)(x + 14)$, se cancela $(x + 14)$."
+        },
+        {
+          "letter": "B",
+          "text": "$x + 14$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 - 14$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste el término de grado 2."
+        },
+        {
+          "letter": "D",
+          "text": "$14$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste la variable x de forma errónea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 196 = (x - 14)(x + 14)$. Al dividir entre $(x + 14)$, la expresión simplificada es $x - 14$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la simplificación de la expresión $\\frac{x^2 - 225}{x + 15}$ para $x \\neq -15$?",
+      "context": "En Cali, Juan simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x - 15$",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 15)(x + 15)$, se cancela $(x + 15)$."
+        },
+        {
+          "letter": "B",
+          "text": "$x + 15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 - 15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste el término de grado 2."
+        },
+        {
+          "letter": "D",
+          "text": "$15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste la variable x de forma errónea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 225 = (x - 15)(x + 15)$. Al dividir entre $(x + 15)$, la expresión simplificada es $x - 15$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es la simplificación de la expresión $\\frac{x^2 - 256}{x + 16}$ para $x \\neq -16$?",
+      "context": "En Barranquilla, Camila simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x - 16$",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 16)(x + 16)$, se cancela $(x + 16)$."
+        },
+        {
+          "letter": "B",
+          "text": "$x + 16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 - 16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste el término de grado 2."
+        },
+        {
+          "letter": "D",
+          "text": "$16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste la variable x de forma errónea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 256 = (x - 16)(x + 16)$. Al dividir entre $(x + 16)$, la expresión simplificada es $x - 16$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la simplificación de la expresión $\\frac{x^2 - 289}{x + 17}$ para $x \\neq -17$?",
+      "context": "En Bucaramanga, Alejandro simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x - 17$",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 17)(x + 17)$, se cancela $(x + 17)$."
+        },
+        {
+          "letter": "B",
+          "text": "$x + 17$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 - 17$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste el término de grado 2."
+        },
+        {
+          "letter": "D",
+          "text": "$17$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste la variable x de forma errónea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 289 = (x - 17)(x + 17)$. Al dividir entre $(x + 17)$, la expresión simplificada es $x - 17$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la simplificación de la expresión $\\frac{x^2 - 324}{x + 18}$ para $x \\neq -18$?",
+      "context": "En Cartagena, Isabella simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x - 18$",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 18)(x + 18)$, se cancela $(x + 18)$."
+        },
+        {
+          "letter": "B",
+          "text": "$x + 18$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 - 18$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste el término de grado 2."
+        },
+        {
+          "letter": "D",
+          "text": "$18$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste la variable x de forma errónea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 324 = (x - 18)(x + 18)$. Al dividir entre $(x + 18)$, la expresión simplificada es $x - 18$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es la simplificación de la expresión $\\frac{x^2 - 361}{x + 19}$ para $x \\neq -19$?",
+      "context": "En Pereira, Mateo simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x - 19$",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 19)(x + 19)$, se cancela $(x + 19)$."
+        },
+        {
+          "letter": "B",
+          "text": "$x + 19$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 - 19$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste el término de grado 2."
+        },
+        {
+          "letter": "D",
+          "text": "$19$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste la variable x de forma errónea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 361 = (x - 19)(x + 19)$. Al dividir entre $(x + 19)$, la expresión simplificada es $x - 19$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es la simplificación de la expresión $\\frac{x^2 - 400}{x + 20}$ para $x \\neq -20$?",
+      "context": "En Manizales, Sofia simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x - 20$",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 20)(x + 20)$, se cancela $(x + 20)$."
+        },
+        {
+          "letter": "B",
+          "text": "$x + 20$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 - 20$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste el término de grado 2."
+        },
+        {
+          "letter": "D",
+          "text": "$20$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste la variable x de forma errónea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 400 = (x - 20)(x + 20)$. Al dividir entre $(x + 20)$, la expresión simplificada es $x - 20$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la simplificación de la expresión $\\frac{x^2 - 441}{x + 21}$ para $x \\neq -21$?",
+      "context": "En Santa Marta, Diego simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x - 21$",
+          "is_correct": true,
+          "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 21)(x + 21)$, se cancela $(x + 21)$."
+        },
+        {
+          "letter": "B",
+          "text": "$x + 21$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 - 21$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste el término de grado 2."
+        },
+        {
+          "letter": "D",
+          "text": "$21$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste la variable x de forma errónea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 441 = (x - 21)(x + 21)$. Al dividir entre $(x + 21)$, la expresión simplificada es $x - 21$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W08-algebra-basica-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

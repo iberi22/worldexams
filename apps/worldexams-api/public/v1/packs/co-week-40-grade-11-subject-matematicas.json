@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-40-grade-11-subject-matematicas",
+    "generated_at": "2026-08-29T18:22:22.218Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v1",
+      "statement": "Â¿CuÃ¡l es la mediana de los tiempos de respuesta de este conjunto de datos?",
+      "context": "Se registran los tiempos de respuesta en minutos de 5 llamadas en BogotÃ¡: 4, 7, 8, 10, 21.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "Los datos ordenados son 4, 7, 8, 10, 21. Al ser 5 datos (impar), la mediana es el dato central (el 3er elemento): 8."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Corresponde al valor promedio simple o al cuarto tÃ©rmino de la lista."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "SeleccionÃ³ el segundo dato de la lista en lugar del centro."
+        },
+        {
+          "letter": "D",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "CalculÃ³ el promedio aritmÃ©tico (40/5 = 8) pero lo confundiÃ³ con 9 por un error de adiciÃ³n."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mediana de un nÃºmero impar de datos ordenados de menor a mayor es la observaciÃ³n que ocupa exactamente la posiciÃ³n central $\\frac{n+1}{2} = \\frac{5+1}{2} = 3^{\text{er}}$ dato, el cual es 8.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v2",
+      "statement": "Si se extrae una ficha al azar, Â¿cuÃ¡l es la probabilidad de que sea de color azul?",
+      "context": "En una urna en MedellÃ­n hay 6 fichas rojas y 4 fichas azules.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{2}{5}$",
+          "is_correct": true,
+          "feedback": "Casos favorables = 4, casos totales = 10. P = 4/10 = 2/5 = 0.40."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{3}{5}$",
+          "is_correct": false,
+          "feedback": "Corresponde a la probabilidad de extraer una ficha roja (6/10 = 3/5)."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{4}$",
+          "is_correct": false,
+          "feedback": "DividiÃ³ 1 entre 4."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{4}{6}$",
+          "is_correct": false,
+          "feedback": "DividiÃ³ las fichas azules entre las rojas en lugar del total."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$P(\text{Azul}) = \\frac{\text{fichas azules}}{\text{fichas totales}} = \\frac{4}{6 + 4} = \\frac{4}{10} = \\frac{2}{5} = 0.40$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v3",
+      "statement": "Â¿CuÃ¡ntos comitÃ©s distintos de 2 personas se pueden formar?",
+      "context": "De un grupo de 6 estudiantes en Cali, se elegirÃ¡ un comitÃ© de 2 personas sin cargos diferenciados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15",
+          "is_correct": true,
+          "feedback": "C(6,2) = (6 * 5) / 2 = 15."
+        },
+        {
+          "letter": "B",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "CalculÃ³ la permutaciÃ³n P(6,2) = 6 * 5 = 30 considerando el orden de los integrantes."
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "MultiplicÃ³ 6 por 2."
+        },
+        {
+          "letter": "D",
+          "text": "36",
+          "is_correct": false,
+          "feedback": "CalculÃ³ 6^2 con repeticiÃ³n."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Como el orden no importa en una delegaciÃ³n sin cargos, se usan combinaciones simples: $\\binom{6}{2} = \\frac{6   imes 5}{2   imes 1} = 15$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v4",
+      "statement": "Â¿CuÃ¡l es la razÃ³n comÃºn $r$ y el quinto tÃ©rmino $a_5$?",
+      "context": "En la sucesiÃ³n $2, 6, 18, 54, dots$ en Barranquilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "RazÃ³n $r = 3$ y $a_5 = 162$",
+          "is_correct": true,
+          "feedback": "r = 6/2 = 3. a_5 = 54 * 3 = 162."
+        },
+        {
+          "letter": "B",
+          "text": "RazÃ³n $r = 4$ y $a_5 = 216$",
+          "is_correct": false,
+          "feedback": "ConfundiÃ³ la razÃ³n sumando +4 en lugar de multiplicar por 3."
+        },
+        {
+          "letter": "C",
+          "text": "RazÃ³n $r = 3$ y $a_5 = 108$",
+          "is_correct": false,
+          "feedback": "CalculÃ³ 54 * 2."
+        },
+        {
+          "letter": "D",
+          "text": "RazÃ³n $r = 2$ y $a_5 = 108$",
+          "is_correct": false,
+          "feedback": "AsumiÃ³ razÃ³n 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Es una progresiÃ³n geomÃ©trica con $a_1 = 2$ y $r = \\frac{6}{2} = 3$.\nEl quinto tÃ©rmino es $a_5 = a_4 cdot r = 54   imes 3 = 162$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v5",
+      "statement": "Si se elige un estudiante al azar, Â¿cuÃ¡l es la probabilidad de que juegue al menos uno de los dos deportes?",
+      "context": "En un curso de 40 estudiantes en Bucaramanga, 25 juegan fÃºtbol, 20 juegan voleibol y 10 practican ambos deportes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{7}{8}$",
+          "is_correct": true,
+          "feedback": "Estudiantes que juegan al menos uno = 25 + 20 - 10 = 35. P = 35 / 40 = 7/8 = 0.875."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{9}{8}$",
+          "is_correct": false,
+          "feedback": "SumÃ³ 25 + 20 = 45 obteniendo una probabilidad mayor a 1."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{5}{8}$",
+          "is_correct": false,
+          "feedback": "CalculÃ³ 25 / 40 en lugar de incluir a los de voleibol."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{4}$",
+          "is_correct": false,
+          "feedback": "CalculÃ³ solo la probabilidad de la intersecciÃ³n (10/40 = 1/4)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por inclusiÃ³n y exclusiÃ³n: $|\text{FÃºtbol} cup\text{Voleibol}| = 25 + 20 - 10 = 35$.\n$P = \\frac{35}{40} = \\frac{7}{8} = 0.875$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v6",
+      "statement": "Tenga en cuenta que la letra 'O' se repite 2 veces.",
+      "context": "Â¿De cuÃ¡ntas maneras diferentes se pueden ordenar las letras de la palabra \"COLOMBIA\"?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20,160",
+          "is_correct": true,
+          "feedback": "Hay 8 letras con 2 'O's. Permutaciones con repeticiÃ³n = 8! / 2! = 40320 / 2 = 20160."
+        },
+        {
+          "letter": "B",
+          "text": "40,320",
+          "is_correct": false,
+          "feedback": "CalculÃ³ 8! sin descontar las permutaciones de la letra 'O' repetida."
+        },
+        {
+          "letter": "C",
+          "text": "10,080",
+          "is_correct": false,
+          "feedback": "DividiÃ³ 40320 entre 4 por error."
+        },
+        {
+          "letter": "D",
+          "text": "5,040",
+          "is_correct": false,
+          "feedback": "CalculÃ³ 7!."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La palabra \"COLOMBIA\" tiene 8 letras en total donde la 'O' aparece 2 veces:\n$P = \\frac{8!}{2!} = \\frac{40,320}{2} = 20,160$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v7",
+      "statement": "Â¿CuÃ¡l es la probabilidad de obtener EXACTAMENTE 1 Ã©xito ($P(X = 1)$)?",
+      "context": "En una distribuciÃ³n binomial con $n = 5$ ensayos y $p = 0.2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.4096",
+          "is_correct": true,
+          "feedback": "P(X=1) = C(5,1) * (0.2)^1 * (0.8)^4 = 5 * 0.2 * 0.4096 = 1 * 0.4096 = 0.4096."
+        },
+        {
+          "letter": "B",
+          "text": "0.2000",
+          "is_correct": false,
+          "feedback": "Corresponde al valor directo de la probabilidad de Ã©xito p."
+        },
+        {
+          "letter": "C",
+          "text": "0.32768",
+          "is_correct": false,
+          "feedback": "CalculÃ³ (0.8)^5 = 0.32768 (probabilidad de 0 Ã©xitos)."
+        },
+        {
+          "letter": "D",
+          "text": "0.5000",
+          "is_correct": false,
+          "feedback": "Valor asignado arbitrariamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$P(X=1) = \\binom{5}{1} (0.2)^1 (0.8)^4 = 5   imes 0.2   imes 0.4096 = 0.4096$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v8",
+      "statement": "Â¿CuÃ¡l es la diferencia comÃºn $d$ de esta progresiÃ³n?",
+      "context": "Una progresiÃ³n aritmÃ©tica en Pereira tiene $a_1 = 5$ y $a_{10} = 41$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "a_10 = a_1 + 9d -> 41 = 5 + 9d -> 36 = 9d -> d = 4."
+        },
+        {
+          "letter": "B",
+          "text": "3.6",
+          "is_correct": false,
+          "feedback": "DividiÃ³ 36 entre 10 en lugar de 9."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "ConfundiÃ³ d con a_1."
+        },
+        {
+          "letter": "D",
+          "text": "4.1",
+          "is_correct": false,
+          "feedback": "DividiÃ³ 41 entre 10."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$a_{10} = a_1 + 9d Rightarrow 41 = 5 + 9d Rightarrow 36 = 9d Rightarrow d = 4$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v9",
+      "statement": "Â¿CuÃ¡l es la proporciÃ³n muestral $hat{p}$ y el margen de error $E$?",
+      "context": "Un intervalo de confianza del 95% para la proporciÃ³n de ciudadanos que reciclan en Cartagena es $[0.42; 0.58]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$hat{p} = 0.50$ y $E = 0.08$",
+          "is_correct": true,
+          "feedback": "p_hat = (0.42 + 0.58)/2 = 0.50. E = (0.58 - 0.42)/2 = 0.08."
+        },
+        {
+          "letter": "B",
+          "text": "$hat{p} = 0.50$ y $E = 0.16$",
+          "is_correct": false,
+          "feedback": "TomÃ³ la amplitud total del intervalo (0.16) como el margen de error."
+        },
+        {
+          "letter": "C",
+          "text": "$hat{p} = 0.42$ y $E = 0.08$",
+          "is_correct": false,
+          "feedback": "TomÃ³ el lÃ­mite inferior como la proporciÃ³n muestral."
+        },
+        {
+          "letter": "D",
+          "text": "$hat{p} = 0.58$ y $E = 0.08$",
+          "is_correct": false,
+          "feedback": "TomÃ³ el lÃ­mite superior como la proporciÃ³n muestral."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El estimador es el punto medio $hat{p} = \\frac{0.42 + 0.58}{2} = 0.50$, y el margen de error es la semiamplitud $E = \\frac{0.58 - 0.42}{2} = 0.08$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v10",
+      "statement": "Â¿CuÃ¡l es el intervalo de salto $k$?",
+      "context": "En un estudio en Manizales con $N = 500$ viviendas, se desea seleccionar una muestra sistemÃ¡tica de $n = 25$ viviendas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$k = 20$",
+          "is_correct": true,
+          "feedback": "k = N / n = 500 / 25 = 20."
+        },
+        {
+          "letter": "B",
+          "text": "$k = 25$",
+          "is_correct": false,
+          "feedback": "ConfundiÃ³ k con el tamaÃ±o de muestra n."
+        },
+        {
+          "letter": "C",
+          "text": "$k = 50$",
+          "is_correct": false,
+          "feedback": "CalculÃ³ 500 / 10."
+        },
+        {
+          "letter": "D",
+          "text": "$k = 10$",
+          "is_correct": false,
+          "feedback": "CalculÃ³ 500 / 50."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$k = \\frac{N}{n} = \\frac{500}{25} = 20$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v11",
+      "statement": "Si se toma un producto al azar y resulta ser defectuoso, Â¿cuÃ¡l es la probabilidad de que haya sido producido por la mÃ¡quina B?",
+      "context": "En una fÃ¡brica de Pasto, el 60% de los productos son elaborados por la mÃ¡quina A y el 40% por la mÃ¡quina B. La tasa de defectos de A es del 2% y la de B es del 5%.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{5}{8} = 0.625$",
+          "is_correct": true,
+          "feedback": "P(B|D) = (0.05 * 0.40) / (0.02*0.60 + 0.05*0.40) = 0.020 / (0.012 + 0.020) = 0.020 / 0.032 = 20/32 = 5/8 = 0.625."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{3}{8} = 0.375$",
+          "is_correct": false,
+          "feedback": "Corresponde a la probabilidad aposteriori de la mÃ¡quina A."
+        },
+        {
+          "letter": "C",
+          "text": "0.40",
+          "is_correct": false,
+          "feedback": "TomÃ³ solo la probabilidad apriori de la mÃ¡quina B."
+        },
+        {
+          "letter": "D",
+          "text": "0.50",
+          "is_correct": false,
+          "feedback": "AsumiÃ³ igual probabilidad entre ambas mÃ¡quinas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Teorema de Bayes: $P(B|D) = \\frac{(0.05)(0.40)}{(0.02)(0.60) + (0.05)(0.40)} = \\frac{0.020}{0.012 + 0.020} = \\frac{0.020}{0.032} = \\frac{5}{8} = 0.625$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v12",
+      "statement": "Â¿CuÃ¡l es el coeficiente del tÃ©rmino $x^3 y^2$?",
+      "context": "En el desarrollo de $(2x + y)^5$ en Armenia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "80",
+          "is_correct": true,
+          "feedback": "El tÃ©rmino es C(5,2) * (2x)^3 * (y)^2 = 10 * 8x^3 * y^2 = 80 x^3 y^2. El coeficiente numÃ©rico es 80."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "TomÃ³ solo el coeficiente binomial C(5,2) sin elevar 2 al cubo."
+        },
+        {
+          "letter": "C",
+          "text": "40",
+          "is_correct": false,
+          "feedback": "MultiplicÃ³ 10 por 4 en lugar de 10 por 8."
+        },
+        {
+          "letter": "D",
+          "text": "160",
+          "is_correct": false,
+          "feedback": "MultiplicÃ³ por 16 por error."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "TÃ©rmino con $y^2$: $\\binom{5}{2} (2x)^{5-2} y^2 = 10 cdot (2x)^3 y^2 = 10 cdot 8x^3 y^2 = 80x^3 y^2$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v13",
+      "statement": "Â¿CuÃ¡l es la conclusiÃ³n estadÃ­stica a un nivel de significancia del 5%?",
+      "context": "Para evaluar si un tratamiento reduce la presiÃ³n arterial en Cundinamarca, se plantea $H_0: mu ge 130$ vs $H_a: mu < 130$. El estadÃ­stico calculado es $Z_{calc} = -2.15$ y el valor crÃ­tico al 5% es $Z_{crit} = -1.645$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se rechaza $H_0$, concluyendo que el tratamiento reduce significativamente la presiÃ³n arterial.",
+          "is_correct": true,
+          "feedback": "Como Z_calc = -2.15 < -1.645, cae en la regiÃ³n de rechazo de la cola izquierda."
+        },
+        {
+          "letter": "B",
+          "text": "No se rechaza $H_0$, porque la presiÃ³n arterial aumenta.",
+          "is_correct": false,
+          "feedback": "El valor Z negativo confirma una reducciÃ³n en los datos muestrales."
+        },
+        {
+          "letter": "C",
+          "text": "Se acepta $H_0$ concluyendo que el tratamiento no tiene ningÃºn efecto.",
+          "is_correct": false,
+          "feedback": "El estadÃ­stico cae dentro de la regiÃ³n de rechazo de H0."
+        },
+        {
+          "letter": "D",
+          "text": "Se requiere repetir la prueba con un nivel del 10%.",
+          "is_correct": false,
+          "feedback": "La prueba ya es concluyente al nivel del 5%."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que $Z_{calc} = -2.15 < Z_{crit} = -1.645$, el valor se sitÃºa en la regiÃ³n de rechazo de la hipÃ³tesis nula $H_0$, confirmando la eficacia del tratamiento.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v14",
+      "statement": "Â¿CuÃ¡l es la razÃ³n comÃºn $r$ de esta serie geomÃ©trica?",
+      "context": "La suma infinita de una serie geomÃ©trica es $S_infty = 20$ y su primer tÃ©rmino es $a_1 = 5$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{3}{4} = 0.75$",
+          "is_correct": true,
+          "feedback": "S_inf = a_1 / (1 - r) -> 20 = 5 / (1 - r) -> 1 - r = 5 / 20 = 0.25 -> r = 1 - 0.25 = 0.75."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{4} = 0.25$",
+          "is_correct": false,
+          "feedback": "Corresponde al valor de (1 - r), se olvidÃ³ despejar r."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{2} = 0.50$",
+          "is_correct": false,
+          "feedback": "Si r = 0.50, S_inf serÃ­a 5 / 0.5 = 10."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{4}{5} = 0.80$",
+          "is_correct": false,
+          "feedback": "CalculÃ³ 16 / 20 de forma errÃ³nea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$S_infty = \\frac{a_1}{1 - r} Rightarrow 20 = \\frac{5}{1 - r} Rightarrow 1 - r = \\frac{5}{20} = 0.25 Rightarrow r = 0.75$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v15",
+      "statement": "Â¿De cuÃ¡ntas maneras distintas se pueden ubicar alrededor de la mesa circular?",
+      "context": "Un grupo de 6 amigos en Neiva se sienta en una mesa redonda para cenar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "120",
+          "is_correct": true,
+          "feedback": "PermutaciÃ³n circular PC_6 = (6 - 1)! = 5! = 120."
+        },
+        {
+          "letter": "B",
+          "text": "720",
+          "is_correct": false,
+          "feedback": "CalculÃ³ 6! en lÃ­nea recta."
+        },
+        {
+          "letter": "C",
+          "text": "360",
+          "is_correct": false,
+          "feedback": "DividiÃ³ 720 entre 2."
+        },
+        {
+          "letter": "D",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "CalculÃ³ 4!."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$PC_n = (n-1)! Rightarrow PC_6 = (6-1)! = 5! = 120$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v16",
+      "statement": "Â¿CuÃ¡l es la probabilidad de obtener AL MENOS una cara?",
+      "context": "Se lanza una moneda justa 4 veces en Villavicencio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{15}{16}$",
+          "is_correct": true,
+          "feedback": "P(al menos 1 cara) = 1 - P(0 caras) = 1 - (1/2)^4 = 1 - 1/16 = 15/16."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{16}$",
+          "is_correct": false,
+          "feedback": "Corresponde a la probabilidad de obtener 0 caras (todas sellos)."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "TomÃ³ la probabilidad de un solo lanzamiento."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{3}{4}$",
+          "is_correct": false,
+          "feedback": "CalculÃ³ 1 - 1/4 por error."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por el complemento: $P(\text{al menos 1 cara}) = 1 - P(\text{ninguna cara}) = 1 - left(\\frac{1}{2}\right)^4 = 1 - \\frac{1}{16} = \\frac{15}{16}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v17",
+      "statement": "Â¿CuÃ¡ntas soluciones posibles existen para esta ecuaciÃ³n?",
+      "context": "Se quiere encontrar el nÃºmero de soluciones enteras NO NEGATIVAS a la ecuaciÃ³n $x_1 + x_2 + x_3 + x_4 = 6$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "84",
+          "is_correct": true,
+          "feedback": "CR(4,6) = C(4 + 6 - 1, 6) = C(9, 6) = C(9, 3) = (9 * 8 * 7) / 6 = 84."
+        },
+        {
+          "letter": "B",
+          "text": "126",
+          "is_correct": false,
+          "feedback": "CalculÃ³ C(9,4) por error."
+        },
+        {
+          "letter": "C",
+          "text": "56",
+          "is_correct": false,
+          "feedback": "CalculÃ³ C(8,3)."
+        },
+        {
+          "letter": "D",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "MultiplicÃ³ 6 * 4."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Barras y estrellas: $\\binom{n+k-1}{n} = \\binom{6+4-1}{6} = \\binom{9}{6} = \\binom{9}{3} = \\frac{9   imes 8   imes 7}{6} = 84$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v18",
+      "statement": "Â¿CuÃ¡l es el tamaÃ±o de muestra conservador $n$ necesario?",
+      "context": "Un analista en Tunja desea estimar una proporciÃ³n poblacional con un margen de error mÃ¡ximo del 2% ($E = 0.02$) al 95% de confianza ($Z = 1.96$). Sin informaciÃ³n previa sobre $p$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2401",
+          "is_correct": true,
+          "feedback": "n = (Z^2 * 0.25) / E^2 = (3.8416 * 0.25) / 0.0004 = 0.9604 / 0.0004 = 2401."
+        },
+        {
+          "letter": "B",
+          "text": "1201",
+          "is_correct": false,
+          "feedback": "DividiÃ³ entre 2 por error."
+        },
+        {
+          "letter": "C",
+          "text": "1068",
+          "is_correct": false,
+          "feedback": "Corresponde a un margen de error de 0.03 (3%)."
+        },
+        {
+          "letter": "D",
+          "text": "600",
+          "is_correct": false,
+          "feedback": "Valor asignado sin cÃ¡lculo cuadrÃ¡tico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$n = \\frac{Z^2 cdot p(1-p)}{E^2} = \\frac{(1.96)^2 (0.25)}{(0.02)^2} = \\frac{0.9604}{0.0004} = 2401$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v19",
+      "statement": "Â¿CuÃ¡l es la probabilidad de requerir EXACTAMENTE 3 lanzamientos para obtener el primer 6?",
+      "context": "Un dado de 6 caras se lanza hasta obtener por primera vez el nÃºmero 6 (distribuciÃ³n geomÃ©trica).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{25}{216}$",
+          "is_correct": true,
+          "feedback": "P(X=3) = (5/6)^2 * (1/6) = (25/36) * (1/6) = 25/216."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{216}$",
+          "is_correct": false,
+          "feedback": "Corresponde a (1/6)^3."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{125}{216}$",
+          "is_correct": false,
+          "feedback": "Corresponde a no sacar ningÃºn 6 en los 3 lanzamientos (5/6)^3."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{6}$",
+          "is_correct": false,
+          "feedback": "Corresponde a la probabilidad de obtener 6 en el primer intento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que ocurra en el 3er intento, los primeros 2 deben ser fallos ($5/6$) y el 3ero Ã©xito ($1/6$):\n$P(X=3) = left(\\frac{5}{6}\right)^2 left(\\frac{1}{6}\right) = \\frac{25}{36}   imes \\frac{1}{6} = \\frac{25}{216}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.45,
+      "bundle_id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v20",
+      "statement": "Â¿A quÃ© expresiÃ³n racional equivale la suma de esta serie de potencias?",
+      "context": "Se define la suma $S = 1 + 2x + 3x^2 + 4x^3 + dots$ para $|x| < 1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{(1-x)^2}$",
+          "is_correct": true,
+          "feedback": "Como sum 1/(1-x) = sum x^n, derivando respecto a x se tiene d/dx (1/(1-x)) = 1/(1-x)^2 = sum n * x^(n-1) = 1 + 2x + 3x^2 + ..."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{1-x}$",
+          "is_correct": false,
+          "feedback": "Corresponde a la serie geomÃ©trica simple 1 + x + x^2 + ..."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{x}{(1-x)^2}$",
+          "is_correct": false,
+          "feedback": "Le falta un factor x en cada tÃ©rmino (x + 2x^2 + 3x^3 + ...)."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{1 - x^2}$",
+          "is_correct": false,
+          "feedback": "Corresponde a 1 + x^2 + x^4 + ..."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Derivando tÃ©rmino a tÃ©rmino la serie geomÃ©trica $\\frac{1}{1-x} = sum_{n=0}^infty x^n$:\n$\\frac{d}{dx} left( \\frac{1}{1-x} \right) = \\frac{1}{(1-x)^2} = sum_{n=1}^infty n x^{n-1} = 1 + 2x + 3x^2 + 4x^3 + dots$",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.45,
+      "bundle_id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

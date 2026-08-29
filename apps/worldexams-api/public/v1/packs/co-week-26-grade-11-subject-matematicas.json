@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-26-grade-11-subject-matematicas",
+    "generated_at": "2026-08-29T18:22:22.212Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle-v1",
+      "statement": "Usando el método de secciones transversales conocidas ($V = \\int A(x) dx$), ¿cuál es el volumen del tanque?",
+      "context": "En Bogotá, Juan diseña un tanque de agua cuya sección transversal es cuadrada de lado $s(x) = x+1$ en $[0, 3]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "21",
+          "is_correct": true,
+          "feedback": "Correcto. $A(x) = (x+1)^2 = x^2 + 2x + 1$. $\\int_0^3 (x^2+2x+1) dx = [\\frac{x^3}{3} + x^2 + x]_0^3 = 9 + 9 + 3 = 21$."
+        },
+        {
+          "letter": "B",
+          "text": "27",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se evaluó $(3+1)^2 = 16$ sin integrar."
+        },
+        {
+          "letter": "C",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al sumar la integral del término lineal."
+        },
+        {
+          "letter": "D",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se elevaron al cuadrado los lados de la sección."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para secciones cuadradas, $A(x) = s(x)^2 = (x+1)^2$. $V = \\int_0^3 (x^2+2x+1)dx = \\left[ \\frac{27}{3} + 9 + 3 \\right] = 21$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle-v2",
+      "statement": "Sabiendo que el área transversal a la altura $x$ es $A(x) = x^2$, ¿cuál es el volumen total de la pirámide?",
+      "context": "En Medellín, Valentina calcula el volumen de una pirámide de altura $H=4$ y base cuadrada de lado $B=4$ mediante integrales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{64}{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. $V = \\int_0^4 x^2 \\, dx = [\\frac{x^3}{3}]_0^4 = \\frac{64}{3}$."
+        },
+        {
+          "letter": "B",
+          "text": "64",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió dividir entre 3."
+        },
+        {
+          "letter": "C",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó la base por la altura sin la constante de integración de la pirámide."
+        },
+        {
+          "letter": "D",
+          "text": "32",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al integrar el término cuadrático."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$V = \\int_0^H A(x) dx = \\int_0^4 x^2 dx = \\frac{4^3}{3} = \\frac{64}{3}$. Coincide con $V = \\frac{1}{3} A_{base} H = \\frac{1}{3}(16)(4) = \\frac{64}{3}$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle-v3",
+      "statement": "Usando $A(x) = \\frac{1}{2}\\pi r(x)^2$, ¿cuál es el volumen?",
+      "context": "En Cali, Mateo evalúa el volumen de una rampa con secciones transversales semicirculares de radio $r(x) = \\sqrt{x}$ en $[0, 4]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4\\pi$",
+          "is_correct": true,
+          "feedback": "Correcto. $A(x) = \\frac{1}{2}\\pi x$. $V = \\frac{\\pi}{2} \\int_0^4 x \\, dx = \\frac{\\pi}{2} [\\frac{x^2}{2}]_0^4 = \\frac{\\pi}{2}(8) = 4\\pi$."
+        },
+        {
+          "letter": "B",
+          "text": "$8\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó dividir por 2 para el área del semicírculo."
+        },
+        {
+          "letter": "C",
+          "text": "$2\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por 2 dos veces de más."
+        },
+        {
+          "letter": "D",
+          "text": "$16\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usó el área de un círculo completo de radio $x$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$A(x) = \\frac{1}{2}\\pi (\\sqrt{x})^2 = \\frac{\\pi}{2} x$. Integrando de 0 a 4: $\\frac{\\pi}{2} [\\frac{16}{2}] = 4\\pi$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle-v4",
+      "statement": "Usando $L = \\int_a^b \\sqrt{1 + (f'(x))^2} dx$, ¿cuál es la longitud exacta del segmento?",
+      "context": "En Barranquilla, Camila calcula la longitud de arco $L$ de la curva $y = 2x$ desde $x=0$ hasta $x=3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3\\sqrt{5}$",
+          "is_correct": true,
+          "feedback": "Correcto. $f'(x) = 2 \\implies \\sqrt{1 + 2^2} = \\sqrt{5}$. $L = \\int_0^3 \\sqrt{5} \\, dx = 3\\sqrt{5}$."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se tomó la diferencia de ordenadas $\\Delta y = 6$."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se tomó únicamente la diferencia de abscisas $\\Delta x = 3$."
+        },
+        {
+          "letter": "D",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicaron ambas diferencias."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por fórmula de arco: $L = \\int_0^3 \\sqrt{1 + 4} dx = \\sqrt{5} \\int_0^3 dx = 3\\sqrt{5}$. Coincide con la distancia euclidiana entre $(0,0)$ y $(3,6)$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle-v5",
+      "statement": "Usando $M = \\int_0^2 \\rho(x) dx$, ¿cuál es la masa total de la varilla?",
+      "context": "En Cartagena, Santiago analiza la masa total $M$ de una varilla recta de 2 metros con densidad lineal variable $\\rho(x) = 3x^2$ kg/m.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 kg",
+          "is_correct": true,
+          "feedback": "Correcto. $M = \\int_0^2 3x^2 \\, dx = [x^3]_0^2 = 8$ kg."
+        },
+        {
+          "letter": "B",
+          "text": "12 kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sustituyó $x=2$ directamente en la densidad $3(2^2) = 12$."
+        },
+        {
+          "letter": "C",
+          "text": "4 kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al antiderivar $3x^2$."
+        },
+        {
+          "letter": "D",
+          "text": "16 kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por la longitud de 2 m dos veces."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La masa de una varilla no homogénea es la integral de la densidad lineal: $M = \\int_0^2 3x^2 dx = [x^3]_0^2 = 8$ kg.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle-v6",
+      "statement": "Sabiendo que el área es $A = 2$ y $M_y = \\int_0^2 x f(x) dx = \\int_0^2 x^2 dx = \\frac{8}{3}$, ¿cuál es la coordenada $\\bar{x} = \\frac{M_y}{A}$?",
+      "context": "En Bucaramanga, Sofia determina el centroide $\\bar{x}$ de una región homogénea limitada por $y = x$ y el eje $x$ en $[0, 2]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{4}{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\bar{x} = \\frac{8/3}{2} = \\frac{4}{3}$."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1 es el punto medio del intervalo, no el centroide de un triángulo."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{2}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió $8/3$ entre 4 en lugar de entre $A=2$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{8}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el momento $M_y$, falta dividir por el área $A$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El centroide en $x$ de un triángulo de base 2 apoyado en el origen está a $2/3$ de la base respecto al origen: $\\bar{x} = \\frac{2}{3}(2) = \\frac{4}{3}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle-v7",
+      "statement": "Usando $W = \\int_0^{0.5} 100x \\, dx$, ¿cuál es el trabajo realizado en Joules?",
+      "context": "En Manizales, Alejandro calcula el trabajo $W$ requerido para estirar un resorte $0.5$ m si la fuerza es $F(x) = 100x$ N.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12.5 J",
+          "is_correct": true,
+          "feedback": "Correcto. $W = \\int_0^{0.5} 100x \\, dx = [50 x^2]_0^{0.5} = 50(0.25) = 12.5$ J."
+        },
+        {
+          "letter": "B",
+          "text": "25 J",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió el factor 1/2 de la integración $100(0.25) = 25$."
+        },
+        {
+          "letter": "C",
+          "text": "50 J",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó la fuerza máxima $50$ N por la distancia $0.5$ m sin integrar."
+        },
+        {
+          "letter": "D",
+          "text": "6.25 J",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al elevar $0.5$ al cuadrado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$W = \\int_0^{0.5} 100x dx = \\left[ 50x^2 \\right]_0^{0.5} = 50(0.25) = 12.5$ Joules.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle-v8",
+      "statement": "Sabiendo que $F = \\rho g \\int_0^3 y \\cdot 2 \\, dy$, ¿cuál es la fuerza total sobre la placa?",
+      "context": "En Pereira, Daniela determina la fuerza de presión hidrostática $F$ sobre una placa vertical rectangular de ancho 2 m y altura 3 m sumergida en agua (densidad $\\rho g = 10000$ N/m$^3$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "90,000 N",
+          "is_correct": true,
+          "feedback": "Correcto. $F = 20000 \\int_0^3 y \\, dy = 20000 [\\frac{y^2}{2}]_0^3 = 20000(4.5) = 90000$ N."
+        },
+        {
+          "letter": "B",
+          "text": "180,000 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó dividir entre 2 la integral de $y$."
+        },
+        {
+          "letter": "C",
+          "text": "60,000 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó la presión promedio por el área sin integrar."
+        },
+        {
+          "letter": "D",
+          "text": "45,000 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al evaluar el área de la placa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$F = 20000 \\left[ \\frac{9}{2} \\right] = 90000$ N.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle-v9",
+      "statement": "Usando $S = 2\\pi \\int_0^1 x \\sqrt{1 + 1^2} dx = 2\\sqrt{2}\\pi \\int_0^1 x dx$, ¿cuál es el área de la superficie del cono?",
+      "context": "En Cúcuta, Nicolas calcula la superficie de revolución $S$ generada al rotar $y = x$ en $[0, 1]$ alrededor del eje $x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{2}\\pi$",
+          "is_correct": true,
+          "feedback": "Correcto. $S = 2\\sqrt{2}\\pi [\\frac{x^2}{2}]_0^1 = \\sqrt{2}\\pi$."
+        },
+        {
+          "letter": "B",
+          "text": "$2\\sqrt{2}\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se dividió entre 2 al integrar $x$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió la inclinación de la generatriz $\\sqrt{2}$."
+        },
+        {
+          "letter": "D",
+          "text": "$2\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al calcular la antiderivada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Área lateral del cono $S = \\pi r l = \\pi (1) (\\sqrt{1^2+1^2}) = \\sqrt{2}\\pi$. Integrando: $2\\sqrt{2}\\pi [1/2] = \\sqrt{2}\\pi$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle-v10",
+      "statement": "Usando $f_{prom} = \\frac{1}{b-a} \\int_a^b f(x) dx$, ¿cuál es el valor promedio de la función?",
+      "context": "En Ibagué, Mariana encuentra el valor medio $f_{prom}$ de la función $f(x) = 3x^2$ en el intervalo $[0, 2]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int_0^2 3x^2 dx = 8$. Luego $f_{prom} = \\frac{8}{2 - 0} = 4$."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el valor acumulado de la integral, falta dividir por la longitud del intervalo $b-a=2$."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se promediaron los valores en los extremos $f(0)=0$ y $f(2)=12$ ($12/2=6$)."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al evaluar la división entre el intervalo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El valor medio de una función en $[a,b]$ es $f_{prom} = \\frac{1}{b-a} \\int_a^b f(x) dx = \\frac{1}{2} [x^3]_0^2 = \\frac{8}{2} = 4$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle-v11",
+      "statement": "¿Es convergente la integral del volumen $V = \\pi \\int_0^1 \\frac{1}{x} dx$?",
+      "context": "En Pasto, Carlos analiza la convergencia de la integral que calcula el volumen generado al girar $y = \\frac{{1}}{{\\sqrt{{x}}}}$ en $(0, 1]$ sobre el eje $x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diverge a infinito.",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int_0^1 x^{-1} dx = [\\ln|x|]_0^1 = 0 - (-\\infty) = +\\infty$."
+        },
+        {
+          "letter": "B",
+          "text": "Converge a $\\pi$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La integral de $1/x$ en el origen no converge."
+        },
+        {
+          "letter": "C",
+          "text": "Converge a $2\\pi$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confundió con la integral de $x^{-1/2}$ en área."
+        },
+        {
+          "letter": "D",
+          "text": "Converge a 0.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El integrando es positivo no acotado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$\\int_0^1 \\frac{1}{x} dx$ es una integral impropia divergente de tipo $p=1$ ($p \\le 1$ diverge). El volumen es infinito.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle-v12",
+      "statement": "Sabiendo que el lado de cada cuadrado es $s(x) = 2\\sqrt{4 - x^2}$ y $A(x) = 4(4 - x^2)$, ¿cuál es el volumen total?",
+      "context": "En Santa Marta, Gabriela evalúa el volumen de un sólido con base circular $x^2 + y^2 \\le 4$ y secciones transversales cuadradas perpendiculares al eje $x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{128}{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. $V = \\int_{-2}^2 (16 - 4x^2) dx = 2 [16x - \\frac{4x^3}{3}]_0^2 = 2 (32 - \\frac{32}{3}) = 2 (\\frac{64}{3}) = \\frac{128}{3}$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{64}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se integró solo en el semieje positivo $[0,2]$ sin multiplicar por 2."
+        },
+        {
+          "letter": "C",
+          "text": "64",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al restar la fracción en la integral."
+        },
+        {
+          "letter": "D",
+          "text": "32",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se tuvo en cuenta que la altura del cuadrado es el doble del radio vertical."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ancho del cuadrado $2y = 2\\sqrt{4-x^2}$. Área $A(x) = 4(4-x^2)$. $V = 4 \\int_{-2}^2 (4-x^2) dx = 8 [4(2) - 8/3] = \\frac{128}{3}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle-v13",
+      "statement": "¿Existe un punto $c \\in (0, 3)$ tal que $f(c) = f_{prom}$ y cuál es su valor?",
+      "context": "En Villavicencio, Andres examina el Teorema del Valor Medio para Integrales sobre $f(x) = x^2$ en $[0, 3]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, $c = \\sqrt{3} \\approx 1.73$",
+          "is_correct": true,
+          "feedback": "Correcto. $f_{prom} = \\frac{1}{3} \\int_0^3 x^2 dx = \\frac{9}{3} = 3$. $f(c) = c^2 = 3 \\implies c = \\sqrt{3}$."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, $c = 1.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1.5 es el punto medio del intervalo, pero la función es cuadrática, no lineal."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, $c = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $f(2) = 4 \\neq 3$."
+        },
+        {
+          "letter": "D",
+          "text": "No existe dicho punto $c$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Teorema del Valor Medio garantiza su existencia para toda función continua."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Como $f$ es continua en $[0,3]$, existe $c$ tal que $c^2 = f_{prom} = 3 \\implies c = \\sqrt{3} \\in (0,3)$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la longitud exacta de la curva?",
+      "context": "En Armenia, Isabella calcula la longitud de arco de la curva $y = \\frac{2}{3} x^{3/2}$ en $[0, 3]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{14}{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. $f'(x) = x^{1/2} \\implies 1 + (f')^2 = 1 + x$. $L = \\int_0^3 \\sqrt{1+x} \\, dx = [\\frac{2}{3}(1+x)^{3/2}]_0^3 = \\frac{2}{3}(8 - 1) = \\frac{14}{3}$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{16}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó restar la evaluación en el límite inferior $(1)^{3/2} = 1$."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se multiplicó por el factor $\\frac{2}{3}$ de la antiderivada."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{8}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al calcular $4^{3/2} = 8$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$L = \\int_0^3 (1+x)^{1/2} dx = \\left[ \\frac{2}{3}(1+x)^{3/2} \\right]_0^3 = \\frac{2}{3} (4^{3/2} - 1) = \\frac{2}{3}(8 - 1) = \\frac{14}{3}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle-v15",
+      "statement": "¿En qué condición es preferible utilizar el método de cascarones cilíndricos sobre el método de discos?",
+      "context": "En Neiva, Felipe compara los métodos de discos y cascarones para calcular el volumen de un sólido simétrico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando la región rota alrededor de un eje vertical y la función está despejada de la forma $y = f(x)$.",
+          "is_correct": true,
+          "feedback": "Correcto. Cascarones evita tener que despejar $x = g(y)$, lo cual puede ser algebraicamente complejo o imposible."
+        },
+        {
+          "letter": "B",
+          "text": "Únicamente cuando la región no toca el eje de rotación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos métodos funcionan independientemente de si toca o no el eje."
+        },
+        {
+          "letter": "C",
+          "text": "Solo cuando el sólido es una esfera perfecta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplica a cualquier sólido de revolución."
+        },
+        {
+          "letter": "D",
+          "text": "Cuando las secciones transversales son siempre rectangulares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cascarones genera envolventes cilíndricas céntricas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cascarones permite integrar respecto a $x$ cuando se gira alrededor de un eje vertical, evitando invertir $y=f(x)$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle-v16",
+      "statement": "Por simetría, ¿cuál es la coordenada $\\bar{x}$ del centroide?",
+      "context": "En Popayán, Lucia calcula el centroide de un semicírculo $y = \\sqrt{{R^2 - x^2}}$ de radio $R$ respecto al eje $y$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\bar{x} = 0$",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser una figura simétrica respecto al eje $y$, el centro de masa en la dirección $x$ se encuentra en 0."
+        },
+        {
+          "letter": "B",
+          "text": "$\\bar{x} = \\frac{4R}{3\\pi}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la coordenada vertical $\\bar{y}$, no $\\bar{x}$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\bar{x} = R/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa está distribuida simétricamente a izquierda y derecha."
+        },
+        {
+          "letter": "D",
+          "text": "$\\bar{x} = R$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde al extremo del intervalo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por simetría axial respecto a $x=0$, el primer momento de área $M_y = 0$, por lo que $\\bar{x} = \\frac{M_y}{A} = 0$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle-v17",
+      "statement": "Sabiendo que la masa de cada disco a profundidad $y$ recorre una distancia $y$, ¿cuál es la integral del trabajo total?",
+      "context": "En Montería, Diego analiza la energía o trabajo requerido para bombear todo el agua de un tanque cilíndrico de radio $R$ y altura $H$ hasta el borde superior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$W = \\rho g \\pi R^2 \\int_0^H y \\, dy = \\frac{1}{2} \\rho g \\pi R^2 H^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Cada capa de volumen $\\pi R^2 dy$ tiene fuerza $\\rho g \\pi R^2 dy$ y se eleva una distancia $y$."
+        },
+        {
+          "letter": "B",
+          "text": "$W = \\rho g \\pi R^2 H^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió integrar $y$, multiplicando directamente por la altura total."
+        },
+        {
+          "letter": "C",
+          "text": "$W = \\frac{1}{3} \\rho g \\pi R^2 H^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $1/3$ aplicaría a un tanque cónico."
+        },
+        {
+          "letter": "D",
+          "text": "$W = \\rho g \\pi R^2 H$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la masa/peso total del agua, no al trabajo de elevación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$W = \\int_0^H (\\rho g \\pi R^2 dy) y = \\rho g \\pi R^2 [\\frac{y^2}{2}]_0^H = \\frac{1}{2} \\rho g \\pi R^2 H^2$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.4,
+      "bundle_id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle-v18",
+      "statement": "Sabiendo que el área a distancia $x$ del vértice es $A(x) = A_0 \\left(\\frac{x}{H}\\right)^2$, ¿se demuestra que $V = \\frac{1}{3} A_0 H$?",
+      "context": "En Tunja, Paula evalúa el volumen de una pirámide de altura $H$ y área de base $A_0$ mediante integración por secciones transversales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque $V = \\frac{A_0}{H^2} \\int_0^H x^2 dx = \\frac{A_0}{H^2} \\left( \\frac{H^3}{3} \\right) = \\frac{1}{3} A_0 H$.",
+          "is_correct": true,
+          "feedback": "Correcto. Demostración analítica rigurosa del volumen de cualquier pirámide o cono."
+        },
+        {
+          "letter": "B",
+          "text": "No, el resultado correcto por integración es $\\frac{1}{2} A_0 H$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor es $1/3$ debido al integrando cuadrático de área de sección."
+        },
+        {
+          "letter": "C",
+          "text": "No, solo es válido para pirámides cuadradas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es válido para cualquier forma de base $A_0$ por semejanza geométrica."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, pero requiere usar coordenadas polares obligatoriamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Basta con integración definida simple en una dimensión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El área de cualquier sección transversal a distancia $x$ de la cúspide varía como $x^2$. Integrando da $\\frac{1}{3} A_0 H$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.4,
+      "bundle_id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle-v19",
+      "statement": "Para una circunferencia de radio $r$ cuyo centro está a distancia $R > r$ del eje de rotación, ¿cuál es la superficie del toro resultante?",
+      "context": "En Riohacha, Samuel evalúa el Segundo Teorema de Pappus para el área de una superficie de revolución $S = 2\\pi \\bar{y} L$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4\\pi^2 R r$",
+          "is_correct": true,
+          "feedback": "Correcto. Perímetro de la curva generadora $L = 2\\pi r$, distancia recorrida por su centroide $\\bar{y} = R \\implies S = (2\\pi R)(2\\pi r) = 4\\pi^2 R r$."
+        },
+        {
+          "letter": "B",
+          "text": "$2\\pi^2 R r$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó duplicar uno de los factores de circunferencia."
+        },
+        {
+          "letter": "C",
+          "text": "$4\\pi R r^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se elevó $r$ al cuadrado, lo cual correspondería a volumen."
+        },
+        {
+          "letter": "D",
+          "text": "$2\\pi R r$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitieron los factores cuadráticos de $\\pi$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Segundo Teorema de Pappus: Superficie = (Distancia recorrida por centroide de curva) $\\times$ (Longitud de curva) $= (2\\pi R)(2\\pi r) = 4\\pi^2 R r$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.4,
+      "bundle_id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle-v20",
+      "statement": "¿La longitud de arco $L = \\int_0^1 \\sqrt{1 + 4x^2} dx$ es finita y cuál es su solución analítica estándar?",
+      "context": "En Florencia, Andrea analiza la convergencia de la longitud de arco de la curva $y = x^2$ en $[0, 1]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es finita y se resuelve mediante sustitución trigonométrica $2x = \\tan(\\theta)$.",
+          "is_correct": true,
+          "feedback": "Correcto. El integrando es continuo y acotado en $[0,1]$, y la forma $\\sqrt{1+u^2}$ se integra mediante sustitución por tangente."
+        },
+        {
+          "letter": "B",
+          "text": "Es infinita por tener un término cuadrático.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Integrar una función continua en un intervalo cerrado da un valor finito."
+        },
+        {
+          "letter": "C",
+          "text": "Se resuelve simplemente como $\\frac{1+4x^2}{2}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La raíz cuadrada no se puede separar algebraicamente."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede calcular por ningún método conocido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una integral estándar en los manuales de cálculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La integral $\\int \\sqrt{1+u^2} du$ se resuelve con $u = \\tan(\\theta)$ o integración por partes, entregando una combinación de secante y logaritmo natural.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.4,
+      "bundle_id": "CO-MAT-11-2026-W26-volumen-integrales-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

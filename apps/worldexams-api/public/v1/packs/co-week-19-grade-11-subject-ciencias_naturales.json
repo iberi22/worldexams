@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-19-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T18:22:22.181Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes biomoléculas cumple la función principal de almacenamiento y transmisión de la información genética celular?",
+      "context": "En una clase de biología celular en Bogotá, se analizan los cuatro grupos principales de biomoléculas orgánicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ácidos nucleicos (ADN y ARN).",
+          "is_correct": true,
+          "feedback": "Correcto. Los ácidos nucleicos contienen el código genético que dirige la síntesis de proteínas y la herencia."
+        },
+        {
+          "letter": "B",
+          "text": "Triglicéridos saturados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los triglicéridos son lípidos de reserva energética concentrada."
+        },
+        {
+          "letter": "C",
+          "text": "Monosacáridos solubles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los monosacáridos son fuente de energía rápida o bloques de construcción estructural."
+        },
+        {
+          "letter": "D",
+          "text": "Fosfolípidos anfipáticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los fosfolípidos forman la bicapa lipídica de las membranas celulares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los ácidos nucleicos (ADN y ARN) son los polímeros encargados de almacenar y transmitir la información genética.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle-v2",
+      "statement": "¿Qué propiedad química caracteriza a la cabeza de fosfato y a las colas de ácidos grasos de un fosfolípido?",
+      "context": "En un laboratorio en Medellín, se analiza la estructura amphipática de los fosfolípidos que forman las membranas celulares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cabeza hidrofilica (polar) y colas hidrofóbicas (apolares).",
+          "is_correct": true,
+          "feedback": "Correcto. La cabeza interactúa con el agua y las colas hidrocarbonadas repelen el medio acuoso."
+        },
+        {
+          "letter": "B",
+          "text": "Cabeza hidrofóbica y colas hidrofilicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cabeza contiene el grupo fosfato cargado polar."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas regiones 100% insolubles en solventes orgánicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los fosfolípidos son solubles en solventes orgánicos apolares."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas regiones totalmente neutras e hidrofóbicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La presencia del fosfato otorga polaridad a la cabeza."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los fosfolípidos son moléculas anfipáticas con cabeza polar hidrofilica y colas apolares hidrofóbicas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.81,
+      "bundle_id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuáles son los tres componentes químicos indispensables que integran la estructura de un nucleótido?",
+      "context": "En Cali se estudia la estructura básica de los nucleótidos, las unidades monoméricas de los ácidos nucleicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una base nitrogenada, una pentosa (azúcar de 5 carbonos) y un grupo fosfato.",
+          "is_correct": true,
+          "feedback": "Correcto. Todo nucleótido se compone de base purina/pirimidina + pentosa + fosfato."
+        },
+        {
+          "letter": "B",
+          "text": "Un aminoácido, un ácido graso y un glicerol.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponden a unidades de proteínas y triglicéridos."
+        },
+        {
+          "letter": "C",
+          "text": "Una hexosa, un grupo carboxilo y un ion sodio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos elementos no forman la columna vertebral del ADN/ARN."
+        },
+        {
+          "letter": "D",
+          "text": "Dos azúcares reductores y una molécula de colesterol.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mezcla componentes de disacáridos y esteroides."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un nucleótido consta de un grupo fosfato esterificado a una pentosa unida a una base nitrogenada.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle-v4",
+      "statement": "¿A qué clase de lípidos pertenece el colesterol, precursor de hormonas esteroideas y vitamina D?",
+      "context": "En Barranquilla se revisa la clasificación de los lípidos saponificables e insaponificables.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Esteroides (lípidos insaponificables estructurados en cuatro anillos fusionados).",
+          "is_correct": true,
+          "feedback": "Correcto. El colesterol tiene estructura de ciclopentanoperhidrofenantreno y no contiene ácidos grasos."
+        },
+        {
+          "letter": "B",
+          "text": "Triglicéridos insaturados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los triglicéridos son ésteres de glicerol y 3 ácidos grasos."
+        },
+        {
+          "letter": "C",
+          "text": "Ceras vegetales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las ceras son ésteres de ácidos grasos con alcoholes de cadena larga."
+        },
+        {
+          "letter": "D",
+          "text": "Glucolípidos membranales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los glucolípidos contienen esfingosina o glicerol unidos a carbohidratos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El colesterol es un esteroide insaponificable fundamental para la fluidez membranal y síntesis hormonal.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle-v5",
+      "statement": "¿Por qué la presencia de dobles enlaces *cis* en los ácidos grasos de los fosfolípidos aumenta la fluidez de la membrana celular?",
+      "context": "Un grupo de nutricionistas en Bucaramanga compara la fluidez membranal al incorporar ácidos grasos saturados vs insaturados cis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dobles enlaces *cis* introducen doblices rígidos en la cadena que impiden el empaquetamiento denso entre moléculas.",
+          "is_correct": true,
+          "feedback": "Correcto. La acodadura *cis* dificulta las interacciones van der Waals compactas, bajando el punto de fusión."
+        },
+        {
+          "letter": "B",
+          "text": "Los dobles enlaces permiten que los fosfolípidos se disuelvan instantáneamente en agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las colas siguen siendo apolares e insolubles."
+        },
+        {
+          "letter": "C",
+          "text": "Los ácidos grasos insaturados se convierten en glucosa en el interior de la membrana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ácidos grasos no mutan a azúcares en la membrana."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminan la presencia de fosfato en las cabezas lipídicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El doble enlace altera solo la cola hidrocarbonada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los codos generados por insaturaciones *cis* reducen el empaquetamiento hidrocarbonado, incrementando la fluidez.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle-v6",
+      "statement": "¿Qué enlaces moleculares se rompen durante la desnaturalización térmica del ADN dejando las hebras sencillas?",
+      "context": "En Manizales se desnaturaliza una muestra de ADN de doble cadena elevando la temperatura hasta $95^\\circ\\text{C}$ (fusión del ADN).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Puentes de hidrógeno entre las bases nitrogenadas complementarias (A=T y C$equiv$G).",
+          "is_correct": true,
+          "feedback": "Correcto. El calor altera las interacciones débiles por puentes de H entre bases sin romper los enlaces fosfodiéster."
+        },
+        {
+          "letter": "B",
+          "text": "Enlaces fosfodiéster del esqueleto azúcar-fosfato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los enlaces fosfodiéster son covalentes fuertes y resisten $95^circ\text{C}$ brevemente."
+        },
+        {
+          "letter": "C",
+          "text": "Enlaces glucosídicos N-C con la desoxirribosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La base permanece unida covalentemente a su desoxirribosa."
+        },
+        {
+          "letter": "D",
+          "text": "Enlaces metálicos de los iones magnesio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las bases no se unen por enlaces metálicos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La desnaturalización del ADN separa la doble hélice rompiendo los puentes de hidrógeno entre pares de bases.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.69,
+      "bundle_id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle-v7",
+      "statement": "Aplicando las Leyes de Chargaff para el ADN bicatenario, ¿cuál es el porcentaje esperado de Adenina (A)?",
+      "context": "En Tunja se analiza el contenido de bases nitrogenadas de una muestra de ADN bacteriano obteniendo un 30% de Guanina (G).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20%.",
+          "is_correct": true,
+          "feedback": "Correcto. Si G = 30%, entonces C = 30% (G+C = 60%). El 40% restante se divide por igual entre A y T: A = 20% y T = 20%."
+        },
+        {
+          "letter": "B",
+          "text": "30%.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 30% corresponde a la Citosina complementaria (C=G)."
+        },
+        {
+          "letter": "C",
+          "text": "40%.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 40% es la suma total de A + T."
+        },
+        {
+          "letter": "D",
+          "text": "70%.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma total de bases no puede exceder el 100%."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Leyes de Chargaff: %G = %C = 30%. Queda 40% para %A + %T, de donde %A = 20%.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle-v8",
+      "statement": "¿Cómo facilitan las sales biliares el ataque enzimático sobre los triglicéridos hidrofóbicos?",
+      "context": "En Pereira se prueba el uso de emulsificantes de sales biliares en la digestión de grasas neutras (triglicéridos) por la lipasa pancreática.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Emulsionan la grasa en microgotas (micelas) aumentando la superficie de contacto para la lipasa acuosa.",
+          "is_correct": true,
+          "feedback": "Correcto. Como anfipáticos, dividen las gotas grandes en micelas finas incrementando el área de interfaz."
+        },
+        {
+          "letter": "B",
+          "text": "Sintetizan proteínas directamente a partir de las grasas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sales biliares no son sistemas de traducción de código."
+        },
+        {
+          "letter": "C",
+          "text": "Evaporan los ácidos grasos hacia los pulmones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los lípidos no se evaporan pulmonarmente."
+        },
+        {
+          "letter": "D",
+          "text": "Destruyen la estructura molecular del agua en el lumen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su acción es física de disminución de tensión superficial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La emulsión reduce la tensión superficial de las grasas formando micelas con enorme área expuesta a la lipasa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.63,
+      "bundle_id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle-v9",
+      "statement": "¿Qué molécula de ARN posee la secuencia de anticodón que reconoce específicamente el codón del ARNm en el ribosoma?",
+      "context": "En Armenia se evalúa la función del ARN mensajero (ARNm), ARN de transferencia (ARNt) y ARN ribosómico (ARNr).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ARN de transferencia (ARNt).",
+          "is_correct": true,
+          "feedback": "Correcto. El ARNt acopla su triplete anticodón al codón complementario cargando el aminoácido correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "ARN nuclear pequeño (snARN).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El snARN participa en el procesamiento de empalme (splicing)."
+        },
+        {
+          "letter": "C",
+          "text": "ARN interferente (miARN).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Regula la degradación y traducción del ARNm."
+        },
+        {
+          "letter": "D",
+          "text": "ADN polimerasa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ADN polimerasa es una enzima proteica, no un tipo de ARN."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ARNt lleva el anticodón complementario al codón del ARNm garantizando la fidelidad en la síntesis proteica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle-v10",
+      "statement": "¿Por qué los triglicéridos liberan más del doble de energía por gramo (9 kcal/g) que los carbohidratos (4 kcal/g)?",
+      "context": "En Cartagena se analiza la oxidación de ácidos grasos (beta-oxidación) frente a la glucólisis en términos de rendimiento calórico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sus carbonos están en un estado de reducción química mucho más elevado y carecen de agua de hidratación.",
+          "is_correct": true,
+          "feedback": "Correcto. Los carbonos de hidrocarburos reducidos ($CH_2$) ceden más electrones al oxígeno que los carbonos oxigenados de carbohidratos."
+        },
+        {
+          "letter": "B",
+          "text": "Contienen átomos de uranio radioactivo en sus colas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los lípidos constan exclusivamente de C, H y O."
+        },
+        {
+          "letter": "C",
+          "text": "Absorben nitrógeno atmosférico para encenderse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los triglicéridos no reaccionan con nitrógeno molecular para generar calor."
+        },
+        {
+          "letter": "D",
+          "text": "Tienen menor masa molecular que una glucosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa molar de un triglicérido es muy superior a la de una glucosa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El estado altamente reducido de las cadenas hidrocarbonadas lipídicas permite ceder más electrones en la respiración celular.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.57,
+      "bundle_id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle-v11",
+      "statement": "¿Qué principio de empaquetamiento molecular justifica esta diferencia tan marcada en la temperatura de fusión?",
+      "context": "Se determina que el punto de fusión del ácido esteárico (18:0, saturado) es de $69.6^\\circ\\text{C}$, mientras el del ácido oleico (18:1, insaturado *cis*) es de $13^\\circ\\text{C}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ácido esteárico lineal forma redes cristalinas van der Waals compactas; el pliegue del ácido oleico impide el empaquetamiento cercano.",
+          "is_correct": true,
+          "feedback": "Correcto. Las cadenas saturadas rectas se empaquetan eficientemente exigiendo mayor energía térmica para separarse."
+        },
+        {
+          "letter": "B",
+          "text": "El ácido oleico forma enlaces iónicos indestructibles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos son ácidos carboxílicos covalentes apolares."
+        },
+        {
+          "letter": "C",
+          "text": "El ácido esteárico es soluble en agua fría.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos es soluble en agua."
+        },
+        {
+          "letter": "D",
+          "text": "El doble enlace elimina todos los átomos de hidrógeno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elimina solo 2 hidrógenos por insaturación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las cadenas saturadas rectilíneas se empaquetan en cristales estables con mayores fuerzas de London que las cadenas acodadas *cis*.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.54,
+      "bundle_id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle-v12",
+      "statement": "¿Qué grupo funcional presente en la ribosa del ARN (y ausente en la desoxirribosa) promueve la auto-hidrólisis alcalina del esqueleto fosfodiéster?",
+      "context": "Investigadores en Bogotá tratan una muestra de ARN con álcali suave ($NaOH$ $0.1 \\text{ M}$) observando su rápida hidrólisis, mientras que el ADN permanece intacto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El grupo 2'-OH de la ribosa que actúa como nucleófilo intramolecular atacando al fósforo contiguo.",
+          "is_correct": true,
+          "feedback": "Correcto. El hidroxilo en posición C2' de la ribosa forma un intermediario fosfato cíclico 2',3', rompiendo la cadena."
+        },
+        {
+          "letter": "B",
+          "text": "La presencia de timina en lugar de uracilo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La base no participa directamente en el ataque nucleofílico del esqueleto."
+        },
+        {
+          "letter": "C",
+          "text": "El grupo carboxilo C5'.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El C5' contiene un éster de fosfato, no un carboxilo."
+        },
+        {
+          "letter": "D",
+          "text": "Un grupo amino adicional en C3'.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ribosa carece de amino libre en C3'."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El grupo 2'-OH de la ribosa en el ARN facilita la hidrólisis alcalina al formar un 2',3'-fosfato cíclico intermediario.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.51,
+      "bundle_id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle-v13",
+      "statement": "¿Qué enzima clave es inhibida irreversiblemente por la aspirina (ácido acetilsalicílico) al acetilar su sitio activo, reduciendo la inflamación?",
+      "context": "En Cali se analiza la formación de eicosanoides (prostaglandinas y tromboxanos) a partir del ácido araquidónico (20:4, omega-6).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ciclooxigenasa (COX-1 y COX-2).",
+          "is_correct": true,
+          "feedback": "Correcto. La aspirina acetila el residuo de serina de la COX, bloqueando la conversión de ácido araquidónico a prostaglandinas."
+        },
+        {
+          "letter": "B",
+          "text": "ATP sintasa mitocondrial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ATP sintasa cataliza la fosforilación de ADP en la mitocondria."
+        },
+        {
+          "letter": "C",
+          "text": "ADN ligasa I.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ligasa une fragmentos de Okazaki en la replicación."
+        },
+        {
+          "letter": "D",
+          "text": "Amilasa salival.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La amilasa degrada almidón en la boca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La aspirina inhibe covalentemente la ciclooxigenasa (COX), suprimiendo la cascada inflamatoria de las prostaglandinas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.48,
+      "bundle_id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle-v14",
+      "statement": "¿Qué compuesto migrará más rápido ($R_f$ mayor) hacia el frente del solvente apolar?",
+      "context": "En Medellín se estudia la cromatografía en capa fina de lípidos neutros utilizando sílice (fase estacionaria polar) y una mezcla de éter/hexano (fase móvil apolar).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ésteres de colesterilo o triglicéridos (muy apolares).",
+          "is_correct": true,
+          "feedback": "Correcto. Las moléculas apolares interactúan preferentemente con la fase móvil apolar desplazándose rápidamente."
+        },
+        {
+          "letter": "B",
+          "text": "Fosfatidilcolina (fosfolípido polar).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los fosfolípidos polares se retienen fuertemente en la sílice polar ($R_f$ bajo)."
+        },
+        {
+          "letter": "C",
+          "text": "Ácidos grasos libres altamente cargados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen polaridad intermedia retenida parcialmente."
+        },
+        {
+          "letter": "D",
+          "text": "Agua destilada pura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua no es un lípido y permanece en la fase inmóvil."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En cromatografía en fase normal (sílice polar), las especies más apolares avanzan más rápido con el eluyente apolar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.45,
+      "bundle_id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle-v15",
+      "statement": "¿Por qué la absorbancia a $260 \\text{ nm}$ aumenta un 30% cuando la doble hélice de ADN se separa en hebras sencillas?",
+      "context": "En Tunja se determina la absorbancia de luz ultravioleta a $260 \\text{ nm}$ (efecto hipercrómico) al desnaturalizar una solución de ADN puro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las bases nitrogenadas apiladas en la doble hélice ocultan su absorción; al desenrollarse, los anillos expuestos absorben más fotones.",
+          "is_correct": true,
+          "feedback": "Correcto. El apilamiento de bases en la hélice disminuye la absorción (efecto hipocrómico); la separación las expone."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la desoxirribosa se convierte en proteína fluorescente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay formación de fluorescencia ni proteínas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los grupos fosfato liberan electrones radiactivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No involucra radiactividad."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la solución se convierte en sólido opaco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La solución permanece transparente pero aumenta la absorbancia en UV."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El apilamiento de bases en la doble hélice atenúa la absorción UV. Al desnaturalizarse, la exposición de las bases eleva la $A_{260}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.42,
+      "bundle_id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle-v16",
+      "statement": "¿Qué impacto tiene esta mutación de parada prematura sobre el polipéptido resultante en la traducción ribosómica?",
+      "context": "En Bucaramanga se analiza la mutación puntual en el codón UAU (Tirosina) convertido a UAA (codón de parada sin sentido o *stop*).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Produce una proteína truncada incompletamente sintetizada y generalmente no funcional.",
+          "is_correct": true,
+          "feedback": "Correcto. Los factores de liberación reconocen UAA deteniendo la elongación y liberando la cadena corta."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta el tamaño de la proteína agregando 100 aminoácidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un codón de parada termina la síntesis, no la alarga."
+        },
+        {
+          "letter": "C",
+          "text": "Convierte el ARN en ADN bicatenario dentro del ribosoma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No altera la naturaleza del ácido nucleico."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituye la tirosina por una leucina sin alterar la longitud.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería una mutación con cambio de sentido, no *non-sense*."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un codón de parada prematuro termina abruptamente la traducción generando un polipéptido truncado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.39,
+      "bundle_id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle-v17",
+      "statement": "¿Qué componente del complejo CRISPR-Cas9 le proporciona la especificidad de secuencia para cortar únicamente el sitio genómico mutado?",
+      "context": "Un grupo de investigación en Bogotá aplica la técnica CRISPR-Cas9 para corregir una mutación en el gen CFTR (fibrosis quística).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ARN guía (gARN / sgARN) cuyo segmento de 20 nucleótidos se hibrida por complementariedad al ADN diana.",
+          "is_correct": true,
+          "feedback": "Correcto. El sgARN dirige la nucleasa Cas9 al sitio preciso mediante apareamiento de bases watson-Crick."
+        },
+        {
+          "letter": "B",
+          "text": "La enzima integrasa de los retrovirus de mamíferos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. CRISPR es un sistema bacteriano adaptativo."
+        },
+        {
+          "letter": "C",
+          "text": "Los lípidos de la membrana nuclear humana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los lípidos no poseen especificidad de secuencia genómica."
+        },
+        {
+          "letter": "D",
+          "text": "Un polímero de sacarosa con flúor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No interviene en el reconocimiento genético de CRISPR."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El gARN contiene una secuencia de 20 nt complementaria a la región genómica objetivo, guiando la nucleasa Cas9.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.35,
+      "bundle_id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle-v18",
+      "statement": "¿Por qué la acumulación de LDL en el endotelio arterial es propensa a la peroxidación lipídica e inflamación crónica?",
+      "context": "En un estudio clínico en Medellín se analiza la aterosclerosis ligada a niveles elevados de lipoproteínas de baja densidad (LDL).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las LDL transportan gran cantidad de ácidos grasos poliinsaturados y colesterol, vulnerables a radicales libres ($ROS$).",
+          "is_correct": true,
+          "feedback": "Correcto. Los dobles enlaces alílicos de poliinsaturados son susceptibles a abstracción de hidrógeno por especies reactivas de oxígeno."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las LDL contienen cianuro de potasio en su núcleo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las LDL son partículas lipoproteicas fisiológicas de transporte."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las LDL destruyen los glóbulos rojos instantáneamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No provocan hemólisis directa."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el colesterol LDL se evapora dentro de las arterias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El colesterol no se evapora a temperatura corporal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los ácidos grasos poliinsaturados en las LDL son atacados por radicales libres generando peróxidos inflamatorios y placas de ateroma.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.32,
+      "bundle_id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle-v19",
+      "statement": "¿Qué paso fundamental es indispensable antes de amplificar el ARN viral monocatenario mediante la enzima Taq polimerasa?",
+      "context": "Un laboratorio de diagnóstico en Cali utiliza la reacción en cadena de la polimerasa en tiempo real (RT-qPCR) para cuantificar la carga viral del VIH.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sintetizar ADN complementario (cADN) utilizando la enzima transcriptasa inversa (retrotranscriptasa).",
+          "is_correct": true,
+          "feedback": "Correcto. La Taq polimerasa requiere una plantilla de ADN; la transcriptasa inversa convierte el ARN viral en cADN."
+        },
+        {
+          "letter": "B",
+          "text": "Incinerar la muestra a $500^circ\text{C}$ para purificar el ARN.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La incineración destruiría todas las biomoléculas."
+        },
+        {
+          "letter": "C",
+          "text": "Adicionar insulina recombinante para duplicar los virus.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La insulina es una hormona metabólica sin rol en la qPCR."
+        },
+        {
+          "letter": "D",
+          "text": "Cristalizar el ARN con sales de plomo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Inactivaría los reactivos enzimáticos de amplificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La transcriptasa inversa convierte el genoma de ARN viral en cADN estable, plantilla necesaria para la amplificación por PCR.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.28,
+      "bundle_id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle-v20",
+      "statement": "¿Qué ventaja confiere el reemplazo de un oxígeno no enlazante por azufre en el enlace fosfodiéster de los oligonucleótidos de siARN?",
+      "context": "Se investiga la síntesis de fármacos oligonucleótidos de interferencia (siARN) modificados químicamente con fósforotioatos para terapia génica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Confiere alta resistencia a la degradación por nucleasas endógenas del plasma, prolongando la vida media del fármaco.",
+          "is_correct": true,
+          "feedback": "Correcto. El enlace fosforotioato no es reconocido eficientemente por las nucleasas, impidiendo la destrucción rápida."
+        },
+        {
+          "letter": "B",
+          "text": "Hace que el siARN emita radiación gamma detectable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las modificaciones químicas de oligonucleótidos no inducen radiactividad."
+        },
+        {
+          "letter": "C",
+          "text": "Convierte el siARN en un carbohidrato rico en energía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mantiene su función de ácido nucleico silenciador."
+        },
+        {
+          "letter": "D",
+          "text": "Elimina la capacidad de aparearse con el ARNm diana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La modificación preserva la complementariedad de bases."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La modificación fosforotioato protege al oligo contra las nucleasas plasmáticas aumentando su estabilidad *in vivo*.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.25,
+      "bundle_id": "CO-CN-11-2026-W19-biomoleculas-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

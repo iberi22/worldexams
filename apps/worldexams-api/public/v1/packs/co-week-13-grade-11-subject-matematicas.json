@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-13-grade-11-subject-matematicas",
+    "generated_at": "2026-08-29T18:22:22.206Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle-v1",
+      "statement": "Dada la función polinómica $f(x) = 1x^3 - 3x^2 + 3x - 5$, determine la expresión de la primera derivada $f'(x)$.",
+      "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3x^2 - 6x + 3$",
+          "is_correct": true,
+          "feedback": "Se derivó cada término término a término adecuadamente."
+        },
+        {
+          "letter": "B",
+          "text": "$3x^3 - 6x + 3$",
+          "is_correct": false,
+          "feedback": "Error en no reducir el exponente del primer término."
+        },
+        {
+          "letter": "C",
+          "text": "$1x^2 - 3x + 3$",
+          "is_correct": false,
+          "feedback": "Error al omitir la multiplicación por los exponentes."
+        },
+        {
+          "letter": "D",
+          "text": "$3x^2 - 6x + 5$",
+          "is_correct": false,
+          "feedback": "Error al no hacer cero la derivada de la constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se aplica la regla de la potencia término a término: $(1x^3)' = 3x^2$, $(-3x^2)' = -6x$, $(3x)' = 3$, y el término independiente $-5$ tiene derivada $0$. Por lo tanto, $f'(x) = 3x^2 - 6x + 3$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle-v2",
+      "statement": "Dada la función polinómica $f(x) = 2x^3 - 4x^2 + 6x - 5$, determine la expresión de la primera derivada $f'(x)$.",
+      "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6x^2 - 8x + 6$",
+          "is_correct": true,
+          "feedback": "Se derivó cada término término a término adecuadamente."
+        },
+        {
+          "letter": "B",
+          "text": "$6x^3 - 8x + 6$",
+          "is_correct": false,
+          "feedback": "Error en no reducir el exponente del primer término."
+        },
+        {
+          "letter": "C",
+          "text": "$2x^2 - 4x + 6$",
+          "is_correct": false,
+          "feedback": "Error al omitir la multiplicación por los exponentes."
+        },
+        {
+          "letter": "D",
+          "text": "$6x^2 - 8x + 5$",
+          "is_correct": false,
+          "feedback": "Error al no hacer cero la derivada de la constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se aplica la regla de la potencia término a término: $(2x^3)' = 6x^2$, $(-4x^2)' = -8x$, $(6x)' = 6$, y el término independiente $-5$ tiene derivada $0$. Por lo tanto, $f'(x) = 6x^2 - 8x + 6$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle-v3",
+      "statement": "Dada la función polinómica $f(x) = 3x^3 - 5x^2 + 9x - 5$, determine la expresión de la primera derivada $f'(x)$.",
+      "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9x^2 - 10x + 9$",
+          "is_correct": true,
+          "feedback": "Se derivó cada término término a término adecuadamente."
+        },
+        {
+          "letter": "B",
+          "text": "$9x^3 - 10x + 9$",
+          "is_correct": false,
+          "feedback": "Error en no reducir el exponente del primer término."
+        },
+        {
+          "letter": "C",
+          "text": "$3x^2 - 5x + 9$",
+          "is_correct": false,
+          "feedback": "Error al omitir la multiplicación por los exponentes."
+        },
+        {
+          "letter": "D",
+          "text": "$9x^2 - 10x + 5$",
+          "is_correct": false,
+          "feedback": "Error al no hacer cero la derivada de la constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se aplica la regla de la potencia término a término: $(3x^3)' = 9x^2$, $(-5x^2)' = -10x$, $(9x)' = 9$, y el término independiente $-5$ tiene derivada $0$. Por lo tanto, $f'(x) = 9x^2 - 10x + 9$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle-v4",
+      "statement": "Dada la función polinómica $f(x) = 4x^3 - 6x^2 + 12x - 5$, determine la expresión de la primera derivada $f'(x)$.",
+      "context": "Un cultivo de flores en la Sabana de Bogotá estudia la tasa de crecimiento de las plantas bajo ciertas condiciones de riego.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12x^2 - 12x + 12$",
+          "is_correct": true,
+          "feedback": "Se derivó cada término término a término adecuadamente."
+        },
+        {
+          "letter": "B",
+          "text": "$12x^3 - 12x + 12$",
+          "is_correct": false,
+          "feedback": "Error en no reducir el exponente del primer término."
+        },
+        {
+          "letter": "C",
+          "text": "$4x^2 - 6x + 12$",
+          "is_correct": false,
+          "feedback": "Error al omitir la multiplicación por los exponentes."
+        },
+        {
+          "letter": "D",
+          "text": "$12x^2 - 12x + 5$",
+          "is_correct": false,
+          "feedback": "Error al no hacer cero la derivada de la constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se aplica la regla de la potencia término a término: $(4x^3)' = 12x^2$, $(-6x^2)' = -12x$, $(12x)' = 12$, y el término independiente $-5$ tiene derivada $0$. Por lo tanto, $f'(x) = 12x^2 - 12x + 12$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle-v5",
+      "statement": "Dada la función polinómica $f(x) = 5x^3 - 7x^2 + 15x - 5$, determine la expresión de la primera derivada $f'(x)$.",
+      "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$15x^2 - 14x + 15$",
+          "is_correct": true,
+          "feedback": "Se derivó cada término término a término adecuadamente."
+        },
+        {
+          "letter": "B",
+          "text": "$15x^3 - 14x + 15$",
+          "is_correct": false,
+          "feedback": "Error en no reducir el exponente del primer término."
+        },
+        {
+          "letter": "C",
+          "text": "$5x^2 - 7x + 15$",
+          "is_correct": false,
+          "feedback": "Error al omitir la multiplicación por los exponentes."
+        },
+        {
+          "letter": "D",
+          "text": "$15x^2 - 14x + 5$",
+          "is_correct": false,
+          "feedback": "Error al no hacer cero la derivada de la constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se aplica la regla de la potencia término a término: $(5x^3)' = 15x^2$, $(-7x^2)' = -14x$, $(15x)' = 15$, y el término independiente $-5$ tiene derivada $0$. Por lo tanto, $f'(x) = 15x^2 - 14x + 15$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle-v6",
+      "statement": "Dada la función polinómica $f(x) = 6x^3 - 8x^2 + 18x - 5$, determine la expresión de la primera derivada $f'(x)$.",
+      "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$18x^2 - 16x + 18$",
+          "is_correct": true,
+          "feedback": "Se derivó cada término término a término adecuadamente."
+        },
+        {
+          "letter": "B",
+          "text": "$18x^3 - 16x + 18$",
+          "is_correct": false,
+          "feedback": "Error en no reducir el exponente del primer término."
+        },
+        {
+          "letter": "C",
+          "text": "$6x^2 - 8x + 18$",
+          "is_correct": false,
+          "feedback": "Error al omitir la multiplicación por los exponentes."
+        },
+        {
+          "letter": "D",
+          "text": "$18x^2 - 16x + 5$",
+          "is_correct": false,
+          "feedback": "Error al no hacer cero la derivada de la constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se aplica la regla de la potencia término a término: $(6x^3)' = 18x^2$, $(-8x^2)' = -16x$, $(18x)' = 18$, y el término independiente $-5$ tiene derivada $0$. Por lo tanto, $f'(x) = 18x^2 - 16x + 18$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle-v7",
+      "statement": "Dada la función polinómica $f(x) = 7x^3 - 9x^2 + 21x - 5$, determine la expresión de la primera derivada $f'(x)$.",
+      "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$21x^2 - 18x + 21$",
+          "is_correct": true,
+          "feedback": "Se derivó cada término término a término adecuadamente."
+        },
+        {
+          "letter": "B",
+          "text": "$21x^3 - 18x + 21$",
+          "is_correct": false,
+          "feedback": "Error en no reducir el exponente del primer término."
+        },
+        {
+          "letter": "C",
+          "text": "$7x^2 - 9x + 21$",
+          "is_correct": false,
+          "feedback": "Error al omitir la multiplicación por los exponentes."
+        },
+        {
+          "letter": "D",
+          "text": "$21x^2 - 18x + 5$",
+          "is_correct": false,
+          "feedback": "Error al no hacer cero la derivada de la constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se aplica la regla de la potencia término a término: $(7x^3)' = 21x^2$, $(-9x^2)' = -18x$, $(21x)' = 21$, y el término independiente $-5$ tiene derivada $0$. Por lo tanto, $f'(x) = 21x^2 - 18x + 21$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle-v8",
+      "statement": "Dada la función polinómica $f(x) = 8x^3 - 10x^2 + 24x - 5$, determine la expresión de la primera derivada $f'(x)$.",
+      "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$24x^2 - 20x + 24$",
+          "is_correct": true,
+          "feedback": "Se derivó cada término término a término adecuadamente."
+        },
+        {
+          "letter": "B",
+          "text": "$24x^3 - 20x + 24$",
+          "is_correct": false,
+          "feedback": "Error en no reducir el exponente del primer término."
+        },
+        {
+          "letter": "C",
+          "text": "$8x^2 - 10x + 24$",
+          "is_correct": false,
+          "feedback": "Error al omitir la multiplicación por los exponentes."
+        },
+        {
+          "letter": "D",
+          "text": "$24x^2 - 20x + 5$",
+          "is_correct": false,
+          "feedback": "Error al no hacer cero la derivada de la constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se aplica la regla de la potencia término a término: $(8x^3)' = 24x^2$, $(-10x^2)' = -20x$, $(24x)' = 24$, y el término independiente $-5$ tiene derivada $0$. Por lo tanto, $f'(x) = 24x^2 - 20x + 24$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle-v9",
+      "statement": "Dada la función polinómica $f(x) = 9x^3 - 11x^2 + 27x - 5$, determine la expresión de la primera derivada $f'(x)$.",
+      "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$27x^2 - 22x + 27$",
+          "is_correct": true,
+          "feedback": "Se derivó cada término término a término adecuadamente."
+        },
+        {
+          "letter": "B",
+          "text": "$27x^3 - 22x + 27$",
+          "is_correct": false,
+          "feedback": "Error en no reducir el exponente del primer término."
+        },
+        {
+          "letter": "C",
+          "text": "$9x^2 - 11x + 27$",
+          "is_correct": false,
+          "feedback": "Error al omitir la multiplicación por los exponentes."
+        },
+        {
+          "letter": "D",
+          "text": "$27x^2 - 22x + 5$",
+          "is_correct": false,
+          "feedback": "Error al no hacer cero la derivada de la constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se aplica la regla de la potencia término a término: $(9x^3)' = 27x^2$, $(-11x^2)' = -22x$, $(27x)' = 27$, y el término independiente $-5$ tiene derivada $0$. Por lo tanto, $f'(x) = 27x^2 - 22x + 27$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle-v10",
+      "statement": "Dada la función polinómica $f(x) = 10x^3 - 12x^2 + 30x - 5$, determine la expresión de la primera derivada $f'(x)$.",
+      "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$30x^2 - 24x + 30$",
+          "is_correct": true,
+          "feedback": "Se derivó cada término término a término adecuadamente."
+        },
+        {
+          "letter": "B",
+          "text": "$30x^3 - 24x + 30$",
+          "is_correct": false,
+          "feedback": "Error en no reducir el exponente del primer término."
+        },
+        {
+          "letter": "C",
+          "text": "$10x^2 - 12x + 30$",
+          "is_correct": false,
+          "feedback": "Error al omitir la multiplicación por los exponentes."
+        },
+        {
+          "letter": "D",
+          "text": "$30x^2 - 24x + 5$",
+          "is_correct": false,
+          "feedback": "Error al no hacer cero la derivada de la constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se aplica la regla de la potencia término a término: $(10x^3)' = 30x^2$, $(-12x^2)' = -24x$, $(30x)' = 30$, y el término independiente $-5$ tiene derivada $0$. Por lo tanto, $f'(x) = 30x^2 - 24x + 30$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle-v11",
+      "statement": "Dada la función polinómica $f(x) = 11x^3 - 13x^2 + 33x - 5$, determine la expresión de la primera derivada $f'(x)$.",
+      "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$33x^2 - 26x + 33$",
+          "is_correct": true,
+          "feedback": "Se derivó cada término término a término adecuadamente."
+        },
+        {
+          "letter": "B",
+          "text": "$33x^3 - 26x + 33$",
+          "is_correct": false,
+          "feedback": "Error en no reducir el exponente del primer término."
+        },
+        {
+          "letter": "C",
+          "text": "$11x^2 - 13x + 33$",
+          "is_correct": false,
+          "feedback": "Error al omitir la multiplicación por los exponentes."
+        },
+        {
+          "letter": "D",
+          "text": "$33x^2 - 26x + 5$",
+          "is_correct": false,
+          "feedback": "Error al no hacer cero la derivada de la constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se aplica la regla de la potencia término a término: $(11x^3)' = 33x^2$, $(-13x^2)' = -26x$, $(33x)' = 33$, y el término independiente $-5$ tiene derivada $0$. Por lo tanto, $f'(x) = 33x^2 - 26x + 33$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle-v12",
+      "statement": "Dada la función polinómica $f(x) = 12x^3 - 14x^2 + 36x - 5$, determine la expresión de la primera derivada $f'(x)$.",
+      "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$36x^2 - 28x + 36$",
+          "is_correct": true,
+          "feedback": "Se derivó cada término término a término adecuadamente."
+        },
+        {
+          "letter": "B",
+          "text": "$36x^3 - 28x + 36$",
+          "is_correct": false,
+          "feedback": "Error en no reducir el exponente del primer término."
+        },
+        {
+          "letter": "C",
+          "text": "$12x^2 - 14x + 36$",
+          "is_correct": false,
+          "feedback": "Error al omitir la multiplicación por los exponentes."
+        },
+        {
+          "letter": "D",
+          "text": "$36x^2 - 28x + 5$",
+          "is_correct": false,
+          "feedback": "Error al no hacer cero la derivada de la constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se aplica la regla de la potencia término a término: $(12x^3)' = 36x^2$, $(-14x^2)' = -28x$, $(36x)' = 36$, y el término independiente $-5$ tiene derivada $0$. Por lo tanto, $f'(x) = 36x^2 - 28x + 36$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle-v13",
+      "statement": "Dada la función polinómica $f(x) = 13x^3 - 15x^2 + 39x - 5$, determine la expresión de la primera derivada $f'(x)$.",
+      "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$39x^2 - 30x + 39$",
+          "is_correct": true,
+          "feedback": "Se derivó cada término término a término adecuadamente."
+        },
+        {
+          "letter": "B",
+          "text": "$39x^3 - 30x + 39$",
+          "is_correct": false,
+          "feedback": "Error en no reducir el exponente del primer término."
+        },
+        {
+          "letter": "C",
+          "text": "$13x^2 - 15x + 39$",
+          "is_correct": false,
+          "feedback": "Error al omitir la multiplicación por los exponentes."
+        },
+        {
+          "letter": "D",
+          "text": "$39x^2 - 30x + 5$",
+          "is_correct": false,
+          "feedback": "Error al no hacer cero la derivada de la constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se aplica la regla de la potencia término a término: $(13x^3)' = 39x^2$, $(-15x^2)' = -30x$, $(39x)' = 39$, y el término independiente $-5$ tiene derivada $0$. Por lo tanto, $f'(x) = 39x^2 - 30x + 39$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle-v14",
+      "statement": "Dada la función polinómica $f(x) = 14x^3 - 16x^2 + 42x - 5$, determine la expresión de la primera derivada $f'(x)$.",
+      "context": "Un cultivo de flores en la Sabana de Bogotá estudia la tasa de crecimiento de las plantas bajo ciertas condiciones de riego.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$42x^2 - 32x + 42$",
+          "is_correct": true,
+          "feedback": "Se derivó cada término término a término adecuadamente."
+        },
+        {
+          "letter": "B",
+          "text": "$42x^3 - 32x + 42$",
+          "is_correct": false,
+          "feedback": "Error en no reducir el exponente del primer término."
+        },
+        {
+          "letter": "C",
+          "text": "$14x^2 - 16x + 42$",
+          "is_correct": false,
+          "feedback": "Error al omitir la multiplicación por los exponentes."
+        },
+        {
+          "letter": "D",
+          "text": "$42x^2 - 32x + 5$",
+          "is_correct": false,
+          "feedback": "Error al no hacer cero la derivada de la constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se aplica la regla de la potencia término a término: $(14x^3)' = 42x^2$, $(-16x^2)' = -32x$, $(42x)' = 42$, y el término independiente $-5$ tiene derivada $0$. Por lo tanto, $f'(x) = 42x^2 - 32x + 42$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle-v15",
+      "statement": "Dada la función polinómica $f(x) = 15x^3 - 17x^2 + 45x - 5$, determine la expresión de la primera derivada $f'(x)$.",
+      "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$45x^2 - 34x + 45$",
+          "is_correct": true,
+          "feedback": "Se derivó cada término término a término adecuadamente."
+        },
+        {
+          "letter": "B",
+          "text": "$45x^3 - 34x + 45$",
+          "is_correct": false,
+          "feedback": "Error en no reducir el exponente del primer término."
+        },
+        {
+          "letter": "C",
+          "text": "$15x^2 - 17x + 45$",
+          "is_correct": false,
+          "feedback": "Error al omitir la multiplicación por los exponentes."
+        },
+        {
+          "letter": "D",
+          "text": "$45x^2 - 34x + 5$",
+          "is_correct": false,
+          "feedback": "Error al no hacer cero la derivada de la constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se aplica la regla de la potencia término a término: $(15x^3)' = 45x^2$, $(-17x^2)' = -34x$, $(45x)' = 45$, y el término independiente $-5$ tiene derivada $0$. Por lo tanto, $f'(x) = 45x^2 - 34x + 45$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle-v16",
+      "statement": "Dada la función polinómica $f(x) = 16x^3 - 18x^2 + 48x - 5$, determine la expresión de la primera derivada $f'(x)$.",
+      "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$48x^2 - 36x + 48$",
+          "is_correct": true,
+          "feedback": "Se derivó cada término término a término adecuadamente."
+        },
+        {
+          "letter": "B",
+          "text": "$48x^3 - 36x + 48$",
+          "is_correct": false,
+          "feedback": "Error en no reducir el exponente del primer término."
+        },
+        {
+          "letter": "C",
+          "text": "$16x^2 - 18x + 48$",
+          "is_correct": false,
+          "feedback": "Error al omitir la multiplicación por los exponentes."
+        },
+        {
+          "letter": "D",
+          "text": "$48x^2 - 36x + 5$",
+          "is_correct": false,
+          "feedback": "Error al no hacer cero la derivada de la constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se aplica la regla de la potencia término a término: $(16x^3)' = 48x^2$, $(-18x^2)' = -36x$, $(48x)' = 48$, y el término independiente $-5$ tiene derivada $0$. Por lo tanto, $f'(x) = 48x^2 - 36x + 48$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle-v17",
+      "statement": "Dada la función polinómica $f(x) = 17x^3 - 19x^2 + 51x - 5$, determine la expresión de la primera derivada $f'(x)$.",
+      "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$51x^2 - 38x + 51$",
+          "is_correct": true,
+          "feedback": "Se derivó cada término término a término adecuadamente."
+        },
+        {
+          "letter": "B",
+          "text": "$51x^3 - 38x + 51$",
+          "is_correct": false,
+          "feedback": "Error en no reducir el exponente del primer término."
+        },
+        {
+          "letter": "C",
+          "text": "$17x^2 - 19x + 51$",
+          "is_correct": false,
+          "feedback": "Error al omitir la multiplicación por los exponentes."
+        },
+        {
+          "letter": "D",
+          "text": "$51x^2 - 38x + 5$",
+          "is_correct": false,
+          "feedback": "Error al no hacer cero la derivada de la constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se aplica la regla de la potencia término a término: $(17x^3)' = 51x^2$, $(-19x^2)' = -38x$, $(51x)' = 51$, y el término independiente $-5$ tiene derivada $0$. Por lo tanto, $f'(x) = 51x^2 - 38x + 51$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle-v18",
+      "statement": "Dada la función polinómica $f(x) = 18x^3 - 20x^2 + 54x - 5$, determine la expresión de la primera derivada $f'(x)$.",
+      "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$54x^2 - 40x + 54$",
+          "is_correct": true,
+          "feedback": "Se derivó cada término término a término adecuadamente."
+        },
+        {
+          "letter": "B",
+          "text": "$54x^3 - 40x + 54$",
+          "is_correct": false,
+          "feedback": "Error en no reducir el exponente del primer término."
+        },
+        {
+          "letter": "C",
+          "text": "$18x^2 - 20x + 54$",
+          "is_correct": false,
+          "feedback": "Error al omitir la multiplicación por los exponentes."
+        },
+        {
+          "letter": "D",
+          "text": "$54x^2 - 40x + 5$",
+          "is_correct": false,
+          "feedback": "Error al no hacer cero la derivada de la constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se aplica la regla de la potencia término a término: $(18x^3)' = 54x^2$, $(-20x^2)' = -40x$, $(54x)' = 54$, y el término independiente $-5$ tiene derivada $0$. Por lo tanto, $f'(x) = 54x^2 - 40x + 54$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle-v19",
+      "statement": "Dada la función polinómica $f(x) = 19x^3 - 21x^2 + 57x - 5$, determine la expresión de la primera derivada $f'(x)$.",
+      "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$57x^2 - 42x + 57$",
+          "is_correct": true,
+          "feedback": "Se derivó cada término término a término adecuadamente."
+        },
+        {
+          "letter": "B",
+          "text": "$57x^3 - 42x + 57$",
+          "is_correct": false,
+          "feedback": "Error en no reducir el exponente del primer término."
+        },
+        {
+          "letter": "C",
+          "text": "$19x^2 - 21x + 57$",
+          "is_correct": false,
+          "feedback": "Error al omitir la multiplicación por los exponentes."
+        },
+        {
+          "letter": "D",
+          "text": "$57x^2 - 42x + 5$",
+          "is_correct": false,
+          "feedback": "Error al no hacer cero la derivada de la constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se aplica la regla de la potencia término a término: $(19x^3)' = 57x^2$, $(-21x^2)' = -42x$, $(57x)' = 57$, y el término independiente $-5$ tiene derivada $0$. Por lo tanto, $f'(x) = 57x^2 - 42x + 57$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle-v20",
+      "statement": "Dada la función polinómica $f(x) = 20x^3 - 22x^2 + 60x - 5$, determine la expresión de la primera derivada $f'(x)$.",
+      "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$60x^2 - 44x + 60$",
+          "is_correct": true,
+          "feedback": "Se derivó cada término término a término adecuadamente."
+        },
+        {
+          "letter": "B",
+          "text": "$60x^3 - 44x + 60$",
+          "is_correct": false,
+          "feedback": "Error en no reducir el exponente del primer término."
+        },
+        {
+          "letter": "C",
+          "text": "$20x^2 - 22x + 60$",
+          "is_correct": false,
+          "feedback": "Error al omitir la multiplicación por los exponentes."
+        },
+        {
+          "letter": "D",
+          "text": "$60x^2 - 44x + 5$",
+          "is_correct": false,
+          "feedback": "Error al no hacer cero la derivada de la constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se aplica la regla de la potencia término a término: $(20x^3)' = 60x^2$, $(-22x^2)' = -44x$, $(60x)' = 60$, y el término independiente $-5$ tiene derivada $0$. Por lo tanto, $f'(x) = 60x^2 - 44x + 60$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W13-derivada-polinomios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

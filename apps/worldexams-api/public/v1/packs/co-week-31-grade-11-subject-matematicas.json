@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-31-grade-11-subject-matematicas",
+    "generated_at": "2026-08-29T18:22:22.214Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la media aritmética (promedio) de los puntajes?",
+      "context": "En Bogotá, Juan registra los puntajes de 5 estudiantes en un simulacro: 60, 70, 80, 90, 100.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "80",
+          "is_correct": true,
+          "feedback": "Correcto. $\\bar{x} = \\frac{60 + 70 + 80 + 90 + 100}{5} = \\frac{400}{5} = 80$."
+        },
+        {
+          "letter": "B",
+          "text": "70",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó el promedio solo de los primeros dos datos."
+        },
+        {
+          "letter": "C",
+          "text": "85",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la suma total."
+        },
+        {
+          "letter": "D",
+          "text": "90",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se tomó el valor del cuarto dato."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La media es la suma de todos los datos dividida entre el número de datos: $\\frac{400}{5} = 80$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la moda de este conjunto de datos?",
+      "context": "En Medellín, Valentina analiza los datos de producción diaria: 12, 15, 12, 18, 20, 12, 15.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": true,
+          "feedback": "Correcto. El valor 12 se repite 3 veces, siendo el de mayor frecuencia absoluta."
+        },
+        {
+          "letter": "B",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. 15 se repite solo 2 veces."
+        },
+        {
+          "letter": "C",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. 18 aparece solo 1 vez."
+        },
+        {
+          "letter": "D",
+          "text": "14",
+          "is_correct": false,
+          "feedback": "Incorrecto. 14 no es un dato observado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La moda es el dato con mayor frecuencia absoluta. 12 aparece 3 veces.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el valor de la mediana de las edades?",
+      "context": "En Cali, Mateo calcula la mediana del siguiente conjunto ordenado de edades: 14, 15, 16, 18, 20, 22.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "17",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser $n=6$ par, la mediana es el promedio de los dos datos centrales: $\\frac{16 + 18}{2} = 17$."
+        },
+        {
+          "letter": "B",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se tomó solo el tercer dato."
+        },
+        {
+          "letter": "C",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se tomó solo el cuarto dato."
+        },
+        {
+          "letter": "D",
+          "text": "17.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de promedio numérico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con un número par de datos ($n=6$), la mediana es la media de los valores centrales 3º y 4º: $\\frac{16+18}{2} = 17$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el rango de temperatura?",
+      "context": "En Barranquilla, Camila determina el rango del conjunto de temperaturas registradas en una semana: $15^\\circ\\text{C}, 18^\\circ\\text{C}, 22^\\circ\\text{C}, 12^\\circ\\text{C}, 25^\\circ\\text{C}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$13^\\circ\\text{C}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\text{Rango} = \\text{Dato máximo} - \\text{Dato mínimo} = 25 - 12 = 13$."
+        },
+        {
+          "letter": "B",
+          "text": "$25^\\circ\\text{C}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es únicamente el valor máximo."
+        },
+        {
+          "letter": "C",
+          "text": "$12^\\circ\\text{C}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es únicamente el valor mínimo."
+        },
+        {
+          "letter": "D",
+          "text": "$37^\\circ\\text{C}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron los valores máximo y mínimo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El rango mide la amplitud total de variación: $X_{máx} - X_{mín} = 25 - 12 = 13$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle-v5",
+      "statement": "Usando $s^2 = \\frac{\\sum (x_i - \\bar{x})^2}{n - 1}$, ¿cuál es la varianza muestral $s^2$?",
+      "context": "En Cartagena, Santiago calcula la varianza muestral de tres datos: 2, 4, 6 (media $\\bar{x} = 4$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correcto. Desviaciones al cuadrado: $(2-4)^2 + (4-4)^2 + (6-4)^2 = 4 + 0 + 4 = 8$. Varianza muestral $s^2 = \\frac{8}{3-1} = 4$."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó dividir entre $n-1 = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la desviación estándar $s = \\sqrt{4} = 2$, no la varianza $s^2$."
+        },
+        {
+          "letter": "D",
+          "text": "2.67",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por $n=3$ (varianza poblacional) en lugar de $n-1=2$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$s^2 = \\frac{(2-4)^2 + (4-4)^2 + (6-4)^2}{2} = \\frac{4 + 0 + 4}{2} = 4$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el valor de la desviación estándar?",
+      "context": "En Bucaramanga, Sofia halla la desviación estándar $s$ a partir de una varianza de $s^2 = 16$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correcto. La desviación estándar es la raíz cuadrada positiva de la varianza: $s = \\sqrt{16} = 4$."
+        },
+        {
+          "letter": "B",
+          "text": "256",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se elevó la varianza al cuadrado en lugar de extraer la raíz."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió la varianza por 2."
+        },
+        {
+          "letter": "D",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. La desviación estándar no es igual a la varianza a menos que la varianza sea 0 o 1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$s = \\sqrt{s^2} = \\sqrt{16} = 4$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle-v7",
+      "statement": "¿Qué representan los límites de la 'caja' en un diagrama de Boxplot?",
+      "context": "En Manizales, Alejandro analiza un diagrama de caja y bigotes (Boxplot) para los tiempos de atención en un banco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El primer cuartil $Q_1$ (25%) y el tercer cuartil $Q_3$ (75%).",
+          "is_correct": true,
+          "feedback": "Correcto. La caja encierra la distancia intercuartil $RIC = Q_3 - Q_1$, que contiene el 50% central de los datos."
+        },
+        {
+          "letter": "B",
+          "text": "El valor mínimo y el valor máximo de los datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores extremos están representados por las puntas de los 'bigotes'."
+        },
+        {
+          "letter": "C",
+          "text": "La media y la desviación estándar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El boxplot se construye con medidas de posición (cuartiles, mediana)."
+        },
+        {
+          "letter": "D",
+          "text": "La moda y la mediana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los bordes de la caja son $Q_1$ y $Q_3$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un gráfico Boxplot, los extremos de la caja son el primer cuartil $Q_1$ y el tercer cuartil $Q_3$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el valor del Rango Intercuartílico?",
+      "context": "En Pereira, Daniela calcula el Rango Intercuartílico ($RIC$) si $Q_1 = 20$ y $Q_3 = 50$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30",
+          "is_correct": true,
+          "feedback": "Correcto. $RIC = Q_3 - Q_1 = 50 - 20 = 30$."
+        },
+        {
+          "letter": "B",
+          "text": "70",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron los cuartiles en lugar de restarlos."
+        },
+        {
+          "letter": "C",
+          "text": "35",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó el promedio de los cuartiles."
+        },
+        {
+          "letter": "D",
+          "text": "2.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió $Q_3$ entre $Q_1$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$RIC = Q_3 - Q_1 = 50 - 20 = 30$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el porcentaje del coeficiente de variación?",
+      "context": "En Cúcuta, Nicolas calcula el coeficiente de variación $CV = \\frac{{s}}{{\\bar{{x}}}} \\times 100\\%$ para una muestra con media $\\bar{x} = 50$ y desviación estándar $s = 5$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10%",
+          "is_correct": true,
+          "feedback": "Correcto. $CV = \\frac{5}{50} \\times 100\\% = 0.10 \\times 100\\% = 10\\%$."
+        },
+        {
+          "letter": "B",
+          "text": "5%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confundió con el valor de la desviación estándar."
+        },
+        {
+          "letter": "C",
+          "text": "20%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió $\\bar{x}/s = 50/5 = 10$, pero invertido mal."
+        },
+        {
+          "letter": "D",
+          "text": "50%",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por la media."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$CV = \\frac{s}{\\bar{x}} \\times 100\\% = \\frac{5}{50} \\times 100\\% = 10\\%$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de las dos medidas representa de forma más fiel la tendencia central de la mayoría de la población?",
+      "context": "En Ibagué, Mariana observa una distribución de ingresos donde la media es de 5,000,000 COP y la mediana es de 1,800,000 COP debido a valores atípicos altos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mediana, porque es una medida robusta que no se afecta por valores atípicos (asimetría positiva).",
+          "is_correct": true,
+          "feedback": "Correcto. Ante distribuciones asimétricas o datos atípicos extremos, la mediana describe mejor el centro de la población."
+        },
+        {
+          "letter": "B",
+          "text": "La media, porque utiliza absolutamente todos los datos de la población.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La media es altamente sensible a valores extremados, inflando el resultado."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas entregan exactamente la misma interpretación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gran diferencia entre 5M y 1.8M indica una marcada asimetría."
+        },
+        {
+          "letter": "D",
+          "text": "El rango, porque mide la distancia entre extremos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rango es una medida de dispersión, no de tendencia central."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mediana es resistente a datos atípicos (outliers). Cuando la distribución es asimétrica a la derecha, la media resulta inflada y la mediana es preferible.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle-v11",
+      "statement": "¿Qué representa la suma de todas las frecuencias relativas en un histograma?",
+      "context": "En Pasto, Carlos construye un histograma de frecuencias relativas para las estaturas de 100 personas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 (o 100%)",
+          "is_correct": true,
+          "feedback": "Correcto. La suma de las proporciones relativas de todas las categorías mutuamente excluyentes siempre es igual a 1 o 100%."
+        },
+        {
+          "letter": "B",
+          "text": "100 personas",
+          "is_correct": false,
+          "feedback": "Incorrecto. 100 es la suma de las frecuencias absolutas, no relativas."
+        },
+        {
+          "letter": "C",
+          "text": "0.5 (o 50%)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa solo la mitad de los datos."
+        },
+        {
+          "letter": "D",
+          "text": "El valor de la media de estaturas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No está relacionado con la suma de frecuencias relativas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición de probabilidad y proporción relativa, $\\sum f_i = 1$ (o $100\\%$).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el puntaje $z$ del estudiante?",
+      "context": "En Santa Marta, Gabriela analiza la puntuación estandarizada $z = \\frac{{x - \\bar{{x}}}}{{s}}$ de un estudiante que sacó 85 en un examen con media $\\bar{x} = 70$ y $s = 10$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "+1.5",
+          "is_correct": true,
+          "feedback": "Correcto. $z = \\frac{85 - 70}{10} = \\frac{15}{10} = +1.5$."
+        },
+        {
+          "letter": "B",
+          "text": "+1.0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió entre 15 en lugar de entre 10."
+        },
+        {
+          "letter": "C",
+          "text": "-1.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Signo erróneo, el puntaje está por encima de la media."
+        },
+        {
+          "letter": "D",
+          "text": "+15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitió dividir entre la desviación estándar $s=10$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El puntaje $z$ indica cuántas desviaciones estándar se aleja un dato de la media: $z = \\frac{85 - 70}{10} = 1.5$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle-v13",
+      "statement": "¿Cómo se interpreta este valor de correlación $r = 0.92$?",
+      "context": "En Villavicencio, Andres examina un diagrama de dispersión entre horas de estudio ($x$) y puntaje en un examen ($y$) con un coeficiente de correlación de Pearson $r = 0.92$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Existe una fuerte correlación lineal positiva entre las horas de estudio y el puntaje.",
+          "is_correct": true,
+          "feedback": "Correcto. $r \\approx 1$ indica una relación lineal directa y muy fuerte."
+        },
+        {
+          "letter": "B",
+          "text": "Existe una relación lineal negativa y débil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $r > 0$ indica relación positiva."
+        },
+        {
+          "letter": "C",
+          "text": "Estudiar más horas causa directamente una mala nota.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La correlación positiva implica que a mayor horas de estudio, mayor nota."
+        },
+        {
+          "letter": "D",
+          "text": "No existe ninguna relación entre las dos variables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $r = 0$ indicaría ausencia de relación lineal, no $0.92$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$r = 0.92$ es positivo y cercano a $1$, demostrando una fuerte correlación lineal directa entre ambas variables.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle-v14",
+      "statement": "Si $Q_1 = 10, Q_3 = 30 \\implies RIC = 20$, ¿cuál es el límite superior para detectar valores atípicos?",
+      "context": "En Armenia, Isabella identifica valores atípicos (outliers) usando la regla de Tukey: un dato es atípico si es menor a $Q_1 - 1.5 \\times RIC$ o mayor a $Q_3 + 1.5 \\times RIC$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60",
+          "is_correct": true,
+          "feedback": "Correcto. Límite superior $= Q_3 + 1.5(RIC) = 30 + 1.5(20) = 30 + 30 = 60$."
+        },
+        {
+          "letter": "B",
+          "text": "50",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó $1.0 \\times RIC$."
+        },
+        {
+          "letter": "C",
+          "text": "45",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la multiplicación de la regla de Tukey."
+        },
+        {
+          "letter": "D",
+          "text": "80",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron los dos cuartiles antes de multiplicar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Límite superior atípico $= Q_3 + 1.5(RIC) = 30 + 1.5(20) = 60$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle-v15",
+      "statement": "¿A qué es igual siempre la suma de las desviaciones de un conjunto de datos respecto a su media?",
+      "context": "En Neiva, Felipe analiza la propiedad de la suma de las desviaciones respecto a la media: $\\sum_{{i=1}}^n (x_i - \\bar{{x}})$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Siempre es igual a 0.",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sum (x_i - \\bar{x}) = \\sum x_i - n\\bar{x} = n\\bar{x} - n\\bar{x} = 0$ por definición algebraíca de la media."
+        },
+        {
+          "letter": "B",
+          "text": "Siempre es igual a 1.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplica a frecuencias relativas, no a desviaciones."
+        },
+        {
+          "letter": "C",
+          "text": "Es igual a la varianza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La varianza eleva las diferencias al cuadrado para evitar que sumen 0."
+        },
+        {
+          "letter": "D",
+          "text": "Depende del tamaño de la muestra $n$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una propiedad matemática idéntica a 0 para cualquier $n$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición de media $\\bar{x} = \\frac{\\sum x_i}{n} \\implies \\sum (x_i - \\bar{x}) = \\sum x_i - n\\bar{x} = 0$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle-v16",
+      "statement": "¿Cómo cambian la media $\\bar{x}$ y la desviación estándar $s$ del nuevo conjunto de datos?",
+      "context": "En Popayán, Lucia evalúa el impacto de sumar una constante $c = 5$ a cada uno de los datos de un conjunto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La media aumenta en $c$ ($\\bar{x}_{nueva} = \\bar{x} + 5$) y la desviación estándar permanece inalterada ($s_{nueva} = s$).",
+          "is_correct": true,
+          "feedback": "Correcto. Sumar una constante traslada la localización central, pero no modifica la dispersión entre los datos."
+        },
+        {
+          "letter": "B",
+          "text": "Tanto la media como la desviación estándar aumentan en 5.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dispersión $s$ no cambia al sumar constantes a todos los datos."
+        },
+        {
+          "letter": "C",
+          "text": "La media se multiplica por 5 y la desviación estándar permanece igual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La media se multiplica solo cuando los datos se multiplican."
+        },
+        {
+          "letter": "D",
+          "text": "La desviación estándar aumenta en 25.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dispersión se mantiene exactamente igual."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumar una constante desplaza todos los datos por igual $\\implies$ la media se incrementa en $c$, pero las distancias relativas entre datos ($s$) no varían.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle-v17",
+      "statement": "¿Qué tipo de distribución presentan estos datos?",
+      "context": "En Montería, Diego evalúa la simetría de un conjunto de datos donde $\\text{Media} = 50$, $\\text{Mediana} = 50$ y $\\text{Moda} = 50$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una distribución perfectamente simétrica (como la distribución normal).",
+          "is_correct": true,
+          "feedback": "Correcto. En distribuciones simétricas unimodales, media, mediana y moda coinciden en el mismo valor central."
+        },
+        {
+          "letter": "B",
+          "text": "Una distribución con asimetría positiva (sesgada a la derecha).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asimetría positiva requiere $\\text{Media} > \\text{Mediana}$."
+        },
+        {
+          "letter": "C",
+          "text": "Una distribución con asimetría negativa (sesgada a la izquierda).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asimetría negativa requiere $\\text{Media} < \\text{Mediana}$."
+        },
+        {
+          "letter": "D",
+          "text": "Una distribución sin variabilidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La coincidencia de las tres medidas no implica varianza cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando $\\text{Media} = \\text{Mediana} = \\text{Moda}$, la distribución es perfectamente simétrica alrededor de su centro.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.4,
+      "bundle_id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál de las dos muestras presenta una mayor dispersión relativa?",
+      "context": "En Tunja, Paula analiza dos muestras $A$ y $B$. La muestra $A$ tiene $\\bar{x} = 100, s = 10$ ($CV = 10\\%$). La muestra $B$ tiene $\\bar{x} = 10, s = 2$ ($CV = 20\\%$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La muestra $B$, porque su coeficiente de variación ($20\\%$) es mayor que el de la muestra $A$ ($10\\%$).",
+          "is_correct": true,
+          "feedback": "Correcto. El Coeficiente de Variación mide la dispersión relativa a la magnitud de la media."
+        },
+        {
+          "letter": "B",
+          "text": "La muestra $A$, porque su desviación estándar ($s=10$) es mayor que la de $B$ ($s=2$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. $s=10$ es mayor en términos absolutos, pero en relación con la media $\\bar{x}=100$ representa solo el 10%."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas tienen exactamente la misma dispersión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las escalas de medición y promedios son distintos."
+        },
+        {
+          "letter": "D",
+          "text": "No se pueden comparar muestras con medias diferentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El CV se diseñó precisamente para comparar dispersión entre muestras con unidades o medias distintas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Coeficiente de Variación $CV = \\frac{s}{\\bar{x}}$ permite comparar la variabilidad relativa de conjuntos de datos con diferentes escalas o medias.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.4,
+      "bundle_id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle-v19",
+      "statement": "Según Chebyshev, ¿qué porcentaje mínimo de datos se encuentra dentro de $k=2$ desviaciones estándar de la media (intervalo $[\\bar{x}-2s, \\bar{x}+2s]$)?",
+      "context": "En Riohacha, Samuel estudia el Teorema de Chebyshev para cualquier conjunto de datos sin importar la forma de su distribución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al menos el 75% de los datos ($1 - 1/k^2 = 1 - 1/4 = 0.75$).",
+          "is_correct": true,
+          "feedback": "Correcto. El Teorema de Chebyshev establece que al menos $1 - 1/k^2$ de los datos cae a $k$ desviaciones estándar de la media."
+        },
+        {
+          "letter": "B",
+          "text": "Exactamente el 68% de los datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 68% aplica a la Regla Empírica de distribuciones normales acampanadas."
+        },
+        {
+          "letter": "C",
+          "text": "Al menos el 50% de los datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a $k=\\sqrt{2}$."
+        },
+        {
+          "letter": "D",
+          "text": "El 95% de los datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 95% es la Regla Empírica para 2 desviaciones en la distribución normal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Chebyshev: Proporción $\\ge 1 - \\frac{1}{k^2}$. Para $k=2 \\implies 1 - \\frac{1}{4} = 0.75 = 75\\%$ mínimo de los datos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.4,
+      "bundle_id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle-v20",
+      "statement": "¿Qué sucede con la varianza $s^2$ del nuevo conjunto de datos?",
+      "context": "En Florencia, Andrea multiplica todos los datos de un conjunto por una constante $c = 3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La varianza se multiplica por $c^2 = 9$.",
+          "is_correct": true,
+          "feedback": "Correcto. $s_{nueva}^2 = \\operatorname{Var}(3X) = 3^2 \\operatorname{Var}(X) = 9 s^2$."
+        },
+        {
+          "letter": "B",
+          "text": "La varianza se multiplica por 3.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La desviación estándar se multiplica por 3, por ende la varianza al ser cuadrática se multiplica por 9."
+        },
+        {
+          "letter": "C",
+          "text": "La varianza permanece inalterada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Escalar los datos modifica su variabilidad cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "La varianza aumenta en 3 unidades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicar altera la varianza por un factor cuadrático, no aditivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Propiedad de la varianza: $\\operatorname{Var}(cX) = c^2 \\operatorname{Var}(X)$. Al multiplicar los datos por 3, la varianza se multiplica por $3^2 = 9$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.4,
+      "bundle_id": "CO-MAT-11-2026-W31-estadistica-descriptiva-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

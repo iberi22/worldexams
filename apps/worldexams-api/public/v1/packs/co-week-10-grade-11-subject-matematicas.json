@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-10-grade-11-subject-matematicas",
+    "generated_at": "2026-08-29T18:22:22.205Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el dominio de la función real $f(x) = \\sqrt{x - 3}$?",
+      "context": "Camila en Medellín repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[3, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 3 \\ge 0 \\implies x \\ge 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$(3, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excluiste el valor 3, donde la raíz da 0 y es perfectamente válida en los reales."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 3]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 3 \\ge 0$, lo que implica $x \\ge 3$. Por lo tanto, el dominio es $[3, \\infty)$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el dominio de la función real $f(x) = \\sqrt{x - 4}$?",
+      "context": "Alejandro en Cali repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[4, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 4 \\ge 0 \\implies x \\ge 4$."
+        },
+        {
+          "letter": "B",
+          "text": "$(4, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excluiste el valor 4, donde la raíz da 0 y es perfectamente válida en los reales."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 4]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 4 \\ge 0$, lo que implica $x \\ge 4$. Por lo tanto, el dominio es $[4, \\infty)$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el dominio de la función real $f(x) = \\sqrt{x - 5}$?",
+      "context": "Isabella en Barranquilla repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[5, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 5 \\ge 0 \\implies x \\ge 5$."
+        },
+        {
+          "letter": "B",
+          "text": "$(5, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excluiste el valor 5, donde la raíz da 0 y es perfectamente válida en los reales."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 5]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 5 \\ge 0$, lo que implica $x \\ge 5$. Por lo tanto, el dominio es $[5, \\infty)$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el dominio de la función real $f(x) = \\sqrt{x - 6}$?",
+      "context": "Mateo en Bucaramanga repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[6, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 6 \\ge 0 \\implies x \\ge 6$."
+        },
+        {
+          "letter": "B",
+          "text": "$(6, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excluiste el valor 6, donde la raíz da 0 y es perfectamente válida en los reales."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 6]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 6 \\ge 0$, lo que implica $x \\ge 6$. Por lo tanto, el dominio es $[6, \\infty)$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el dominio de la función real $f(x) = \\sqrt{x - 7}$?",
+      "context": "Sofia en Cartagena repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[7, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 7 \\ge 0 \\implies x \\ge 7$."
+        },
+        {
+          "letter": "B",
+          "text": "$(7, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excluiste el valor 7, donde la raíz da 0 y es perfectamente válida en los reales."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 7]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 7 \\ge 0$, lo que implica $x \\ge 7$. Por lo tanto, el dominio es $[7, \\infty)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el dominio de la función real $f(x) = \\sqrt{x - 8}$?",
+      "context": "Diego en Pereira repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[8, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 8 \\ge 0 \\implies x \\ge 8$."
+        },
+        {
+          "letter": "B",
+          "text": "$(8, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excluiste el valor 8, donde la raíz da 0 y es perfectamente válida en los reales."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 8]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 8 \\ge 0$, lo que implica $x \\ge 8$. Por lo tanto, el dominio es $[8, \\infty)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el dominio de la función real $f(x) = \\sqrt{x - 9}$?",
+      "context": "Valentina en Manizales repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[9, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 9 \\ge 0 \\implies x \\ge 9$."
+        },
+        {
+          "letter": "B",
+          "text": "$(9, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excluiste el valor 9, donde la raíz da 0 y es perfectamente válida en los reales."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 9]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 9 \\ge 0$, lo que implica $x \\ge 9$. Por lo tanto, el dominio es $[9, \\infty)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el dominio de la función real $f(x) = \\sqrt{x - 10}$?",
+      "context": "Santiago en Santa Marta repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[10, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 10 \\ge 0 \\implies x \\ge 10$."
+        },
+        {
+          "letter": "B",
+          "text": "$(10, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excluiste el valor 10, donde la raíz da 0 y es perfectamente válida en los reales."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 10]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 10 \\ge 0$, lo que implica $x \\ge 10$. Por lo tanto, el dominio es $[10, \\infty)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el dominio de la función real $f(x) = \\sqrt{x - 11}$?",
+      "context": "Mariana en Pasto repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[11, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 11 \\ge 0 \\implies x \\ge 11$."
+        },
+        {
+          "letter": "B",
+          "text": "$(11, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excluiste el valor 11, donde la raíz da 0 y es perfectamente válida en los reales."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 11]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 11 \\ge 0$, lo que implica $x \\ge 11$. Por lo tanto, el dominio es $[11, \\infty)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el dominio de la función real $f(x) = \\sqrt{x - 12}$?",
+      "context": "Juan en Bogotá repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[12, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 12 \\ge 0 \\implies x \\ge 12$."
+        },
+        {
+          "letter": "B",
+          "text": "$(12, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excluiste el valor 12, donde la raíz da 0 y es perfectamente válida en los reales."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 12]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 12 \\ge 0$, lo que implica $x \\ge 12$. Por lo tanto, el dominio es $[12, \\infty)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el dominio de la función real $f(x) = \\sqrt{x - 13}$?",
+      "context": "Camila en Medellín repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[13, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 13 \\ge 0 \\implies x \\ge 13$."
+        },
+        {
+          "letter": "B",
+          "text": "$(13, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excluiste el valor 13, donde la raíz da 0 y es perfectamente válida en los reales."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 13]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 13 \\ge 0$, lo que implica $x \\ge 13$. Por lo tanto, el dominio es $[13, \\infty)$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el dominio de la función real $f(x) = \\sqrt{x - 14}$?",
+      "context": "Alejandro en Cali repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[14, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 14 \\ge 0 \\implies x \\ge 14$."
+        },
+        {
+          "letter": "B",
+          "text": "$(14, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excluiste el valor 14, donde la raíz da 0 y es perfectamente válida en los reales."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 14]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 14 \\ge 0$, lo que implica $x \\ge 14$. Por lo tanto, el dominio es $[14, \\infty)$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es el dominio de la función real $f(x) = \\sqrt{x - 15}$?",
+      "context": "Isabella en Barranquilla repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[15, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 15 \\ge 0 \\implies x \\ge 15$."
+        },
+        {
+          "letter": "B",
+          "text": "$(15, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excluiste el valor 15, donde la raíz da 0 y es perfectamente válida en los reales."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 15]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 15 \\ge 0$, lo que implica $x \\ge 15$. Por lo tanto, el dominio es $[15, \\infty)$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es el dominio de la función real $f(x) = \\sqrt{x - 16}$?",
+      "context": "Mateo en Bucaramanga repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[16, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 16 \\ge 0 \\implies x \\ge 16$."
+        },
+        {
+          "letter": "B",
+          "text": "$(16, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excluiste el valor 16, donde la raíz da 0 y es perfectamente válida en los reales."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 16]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 16 \\ge 0$, lo que implica $x \\ge 16$. Por lo tanto, el dominio es $[16, \\infty)$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es el dominio de la función real $f(x) = \\sqrt{x - 17}$?",
+      "context": "Sofia en Cartagena repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[17, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 17 \\ge 0 \\implies x \\ge 17$."
+        },
+        {
+          "letter": "B",
+          "text": "$(17, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excluiste el valor 17, donde la raíz da 0 y es perfectamente válida en los reales."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 17]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 17 \\ge 0$, lo que implica $x \\ge 17$. Por lo tanto, el dominio es $[17, \\infty)$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es el dominio de la función real $f(x) = \\sqrt{x - 18}$?",
+      "context": "Diego en Pereira repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[18, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 18 \\ge 0 \\implies x \\ge 18$."
+        },
+        {
+          "letter": "B",
+          "text": "$(18, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excluiste el valor 18, donde la raíz da 0 y es perfectamente válida en los reales."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 18]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 18 \\ge 0$, lo que implica $x \\ge 18$. Por lo tanto, el dominio es $[18, \\infty)$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es el dominio de la función real $f(x) = \\sqrt{x - 19}$?",
+      "context": "Valentina en Manizales repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[19, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 19 \\ge 0 \\implies x \\ge 19$."
+        },
+        {
+          "letter": "B",
+          "text": "$(19, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excluiste el valor 19, donde la raíz da 0 y es perfectamente válida en los reales."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 19]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 19 \\ge 0$, lo que implica $x \\ge 19$. Por lo tanto, el dominio es $[19, \\infty)$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es el dominio de la función real $f(x) = \\sqrt{x - 20}$?",
+      "context": "Santiago en Santa Marta repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[20, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 20 \\ge 0 \\implies x \\ge 20$."
+        },
+        {
+          "letter": "B",
+          "text": "$(20, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excluiste el valor 20, donde la raíz da 0 y es perfectamente válida en los reales."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 20]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 20 \\ge 0$, lo que implica $x \\ge 20$. Por lo tanto, el dominio es $[20, \\infty)$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el dominio de la función real $f(x) = \\sqrt{x - 21}$?",
+      "context": "Mariana en Pasto repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[21, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 21 \\ge 0 \\implies x \\ge 21$."
+        },
+        {
+          "letter": "B",
+          "text": "$(21, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excluiste el valor 21, donde la raíz da 0 y es perfectamente válida en los reales."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 21]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 21 \\ge 0$, lo que implica $x \\ge 21$. Por lo tanto, el dominio es $[21, \\infty)$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el dominio de la función real $f(x) = \\sqrt{x - 22}$?",
+      "context": "Juan en Bogotá repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[22, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 22 \\ge 0 \\implies x \\ge 22$."
+        },
+        {
+          "letter": "B",
+          "text": "$(22, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excluiste el valor 22, donde la raíz da 0 y es perfectamente válida en los reales."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 22]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "\\mathbb{R}",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 22 \\ge 0$, lo que implica $x \\ge 22$. Por lo tanto, el dominio es $[22, \\infty)$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W10-repaso-p1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

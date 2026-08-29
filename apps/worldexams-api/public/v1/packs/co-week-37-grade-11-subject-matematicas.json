@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-37-grade-11-subject-matematicas",
+    "generated_at": "2026-08-29T18:22:22.217Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v1",
+      "statement": "Â¿CuÃ¡ntos tÃ©rminos tiene el desarrollo completo del binomio $(a + b)^6$?",
+      "context": "En la expansiÃ³n del binomio de Newton $(a + b)^n$, el nÃºmero total de tÃ©rminos resultantes sigue una regla algebraica directa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "La expansiÃ³n de un binomio de grado n contiene exactamente n + 1 tÃ©rminos. Para n = 6, hay 6 + 1 = 7 tÃ©rminos."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "ConfundiÃ³ el nÃºmero de tÃ©rminos con el exponente n del binomio."
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "MultiplicÃ³ el exponente 6 por 2."
+        },
+        {
+          "letter": "D",
+          "text": "64",
+          "is_correct": false,
+          "feedback": "CalculÃ³ 2^6 en lugar del nÃºmero de tÃ©rminos de la suma polinomial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El desarrollo $(a+b)^n = sum_{k=0}^n \\binom{n}{k} a^{n-k} b^k$ abarca los Ã­ndices desde $k=0$ hasta $k=n$, sumando un total de $n+1$ tÃ©rminos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v2",
+      "statement": "Â¿CuÃ¡l es la suma de todos los coeficientes de esta fila del TriÃ¡ngulo de Pascal?",
+      "context": "En la fila nÃºmero 4 del TriÃ¡ngulo de Pascal (comenzando desde la fila 0 con valor 1), los coeficientes binomiales son 1, 4, 6, 4, 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "16",
+          "is_correct": true,
+          "feedback": "La suma de los coeficientes binomiales de la n-Ã©sima fila es 2^n. Para n = 4, 2^4 = 16."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "SumÃ³ incorrectamente los tÃ©rminos centrales."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "CalculÃ³ 2^3 en lugar de 2^4."
+        },
+        {
+          "letter": "D",
+          "text": "32",
+          "is_correct": false,
+          "feedback": "CalculÃ³ 2^5 en lugar de 2^4."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluando $(1+1)^n = sum_{k=0}^n \\binom{n}{k}$, la suma de la fila $n$ del TriÃ¡ngulo de Pascal es siempre $2^n$. Para $n=4$, $2^4 = 16$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v3",
+      "statement": "Â¿QuÃ© coeficiente binomial $\\binom{n}{k}$ corresponde a este tÃ©rmino en el desarrollo?",
+      "context": "Se analiza el coeficiente del tÃ©rmino $x^3 y^2$ en el desarrollo de $(x + y)^5$ en BogotÃ¡.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\binom{5}{2} = 10$",
+          "is_correct": true,
+          "feedback": "El coeficiente del tÃ©rmino x^(5-2) y^2 es C(5,2) = 10 (igual a C(5,3) por simetrÃ­a)."
+        },
+        {
+          "letter": "B",
+          "text": "$\\binom{5}{1} = 5$",
+          "is_correct": false,
+          "feedback": "Corresponde al coeficiente de x^4 y^1."
+        },
+        {
+          "letter": "C",
+          "text": "$\\binom{5}{0} = 1$",
+          "is_correct": false,
+          "feedback": "Corresponde al primer tÃ©rmino x^5."
+        },
+        {
+          "letter": "D",
+          "text": "$\\binom{5}{4} = 5$",
+          "is_correct": false,
+          "feedback": "Corresponde al tÃ©rmino x^1 y^4."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el Teorema del Binomio, el tÃ©rmino general es $\\binom{n}{k} x^{n-k} y^k$. Para $x^3 y^2$, tenemos $n=5$ y $k=2$, por lo que el coeficiente es $\\binom{5}{2} = \\frac{5   imes 4}{2} = 10$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v4",
+      "statement": "En un grupo de 13 personas en MedellÃ­n, Â¿cuÃ¡l es la conclusiÃ³n garantizada por el principio de Palomar respecto a sus meses de nacimiento?",
+      "context": "El principio de Palomar (Pigeonhole Principle) establece que si se distribuyen $n$ objetos en $k$ recipientes y $n > k$, al menos un recipiente contendrÃ¡ mÃ¡s de un objeto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al menos dos personas nacieron en el mismo mes del aÃ±o.",
+          "is_correct": true,
+          "feedback": "Hay 13 personas (objetos) y 12 meses (recipientes). Como 13 > 12, obligatoriamente al menos 2 comparten mes de nacimiento."
+        },
+        {
+          "letter": "B",
+          "text": "Todas las personas nacieron en meses distintos.",
+          "is_correct": false,
+          "feedback": "Contradice el principio de Palomar dado que hay solo 12 meses posibles."
+        },
+        {
+          "letter": "C",
+          "text": "Exactamente tres personas nacieron en el mes de enero.",
+          "is_correct": false,
+          "feedback": "El principio garantiza al menos 2 en algÃºn mes, no especifica quÃ© mes ni que sean 3."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna persona naciÃ³ en diciembre.",
+          "is_correct": false,
+          "feedback": "El principio no excluye meses del aÃ±o."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con $n=13$ personas y $k=12$ meses en un aÃ±o, al aplicar el principio de Dirichlet o de Palomar ($lceil 13/12 \rceil = 2$), se garantiza que al menos 2 personas cumplen con haber nacido en el mismo mes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v5",
+      "statement": "Â¿CuÃ¡ntos empleados practican AL MENOS uno de los dos deportes?",
+      "context": "En una empresa en Cali, 50 empleados juegan fÃºtbol, 40 juegan baloncesto y 15 practican ambos deportes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "75",
+          "is_correct": true,
+          "feedback": "Aplicando inclusiÃ³n-exclusiÃ³n: N(F U B) = N(F) + N(B) - N(F n B) = 50 + 40 - 15 = 75."
+        },
+        {
+          "letter": "B",
+          "text": "90",
+          "is_correct": false,
+          "feedback": "SumÃ³ las dos categorÃ­as sin restar los empleados que practican ambos deportes."
+        },
+        {
+          "letter": "C",
+          "text": "65",
+          "is_correct": false,
+          "feedback": "RestÃ³ dos veces el grupo de la intersecciÃ³n."
+        },
+        {
+          "letter": "D",
+          "text": "35",
+          "is_correct": false,
+          "feedback": "RestÃ³ 50 - 15 Ãºnicamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por el principio de inclusiÃ³n-exclusiÃ³n para dos conjuntos: $|A cup B| = |A| + |B| - |A cap B| = 50 + 40 - 15 = 75$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v6",
+      "statement": "Considere las tÃ©cnicas de combinaciÃ³n con repeticiÃ³n (barras y estrellas).",
+      "context": "Â¿De cuÃ¡ntas maneras se pueden repartir 8 dulces idÃ©nticos entre 4 niÃ±os en Barranquilla de modo que CADA NIÃO reciba AL MENOS 1 dulce?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "35",
+          "is_correct": true,
+          "feedback": "Damos 1 dulce a cada uno de los 4 niÃ±os (se usan 4 dulces). Quedan 4 dulces idÃ©nticos para repartir libremente entre 4 niÃ±os: C(4+4-1, 4) = C(7,4) = 35."
+        },
+        {
+          "letter": "B",
+          "text": "165",
+          "is_correct": false,
+          "feedback": "CalculÃ³ C(4+8-1, 8) = C(11,8) sin asegurar que cada niÃ±o recibiera al menos un dulce."
+        },
+        {
+          "letter": "C",
+          "text": "70",
+          "is_correct": false,
+          "feedback": "CalculÃ³ C(8,4) por error."
+        },
+        {
+          "letter": "D",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "MultiplicÃ³ 4! en lugar de usar combinaciones de objetos indistinguibles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al entregar primero 1 dulce a cada uno de los $k=4$ niÃ±os, restan $n' = 8 - 4 = 4$ dulces para distribuir sin restricciones: $\\binom{n' + k - 1}{n'} = \\binom{4 + 4 - 1}{4} = \\binom{7}{4} = \\frac{7   imes 6   imes 5}{6} = 35$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v7",
+      "statement": "Â¿CuÃ¡ntas claves contienen la letra 'A' al menos una vez?",
+      "context": "Se quiere formar una clave de 5 letras utilizando las letras del conjunto {A, B, C, D, E} donde se permite repetir letras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2097",
+          "is_correct": true,
+          "feedback": "Total de claves posibles: 5^5 = 3125. Claves sin ninguna 'A' (usando B,C,D,E): 4^5 = 1024. Claves con al menos una 'A': 3125 - 1024 = 2097."
+        },
+        {
+          "letter": "B",
+          "text": "1024",
+          "is_correct": false,
+          "feedback": "Corresponde a las claves que NO contienen la letra 'A'."
+        },
+        {
+          "letter": "C",
+          "text": "3125",
+          "is_correct": false,
+          "feedback": "Corresponde al total de claves sin descontar la restricciÃ³n."
+        },
+        {
+          "letter": "D",
+          "text": "625",
+          "is_correct": false,
+          "feedback": "CalculÃ³ 5^4 asumiendo que la 'A' estÃ¡ fija en la primera posiciÃ³n Ãºnicamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por el complemento: Total de claves con repeticiÃ³n $= 5^5 = 3125$. Claves formadas solo con las otras 4 letras $= 4^5 = 1024$. Claves con al menos una 'A' $= 3125 - 1024 = 2097$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v8",
+      "statement": "Calcule el nÃºmero total de arreglos posibles bajo esta restricciÃ³n.",
+      "context": "Â¿De cuÃ¡ntas formas se pueden organizar 7 personas en una fila si dos personas en particular, Juan y MarÃ­a, NO pueden estar juntas?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3600",
+          "is_correct": true,
+          "feedback": "Total sin restricciÃ³n: 7! = 5040. Arreglos con Juan y MarÃ­a juntos: 6! * 2! = 720 * 2 = 1440. Arreglos no juntos: 5040 - 1440 = 3600."
+        },
+        {
+          "letter": "B",
+          "text": "1440",
+          "is_correct": false,
+          "feedback": "Corresponde al nÃºmero de arreglos en que Juan y MarÃ­a SÃ estÃ¡n juntos."
+        },
+        {
+          "letter": "C",
+          "text": "5040",
+          "is_correct": false,
+          "feedback": "Es el total de permutaciones 7! sin aplicar ninguna restricciÃ³n."
+        },
+        {
+          "letter": "D",
+          "text": "2520",
+          "is_correct": false,
+          "feedback": "DividiÃ³ 5040 entre 2 por error."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Total de permutaciones de 7 personas $= 7! = 5040$.\nPermutaciones con Juan y MarÃ­a juntos $= 6!   imes 2! = 1440$.\nPermutaciones separadas $= 5040 - 1440 = 3600$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v9",
+      "statement": "Â¿CuÃ¡l es el tÃ©rmino independiente (constante sin la variable $x$) de esta expansiÃ³n?",
+      "context": "En el desarrollo del binomio $(2x - 1)^4$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "El tÃ©rmino independiente es (-1)^4 = 1."
+        },
+        {
+          "letter": "B",
+          "text": "-1",
+          "is_correct": false,
+          "feedback": "OlvidÃ³ que la potencia par (-1)^4 resulta positiva."
+        },
+        {
+          "letter": "C",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Corresponde al coeficiente del primer tÃ©rmino (2x)^4 = 16x^4."
+        },
+        {
+          "letter": "D",
+          "text": "-4",
+          "is_correct": false,
+          "feedback": "CalculÃ³ 4 * (-1)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Ãºltimo tÃ©rmino del binomio $(2x - 1)^4$ ocurre para $k=4$: $\\binom{4}{4} (2x)^0 (-1)^4 = 1 cdot 1 cdot 1 = 1$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v10",
+      "statement": "Â¿CuÃ¡ntos caminos de longitud mÃ­nima distintos puede elegir el peatÃ³n?",
+      "context": "Una cuadrÃ­cula de 4 calles por 3 carreras en el centro de Bucaramanga. Un peatÃ³n camina desde la esquina (0,0) hasta la esquina (4,3) desplazÃ¡ndose Ãºnicamente hacia el Este (E) o hacia el Norte (N).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "35",
+          "is_correct": true,
+          "feedback": "Requiere 4 pasos E y 3 pasos N (total 7 pasos). El nÃºmero de caminos es C(7,4) = C(7,3) = (7 * 6 * 5) / 6 = 35."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "MultiplicÃ³ 4 * 3."
+        },
+        {
+          "letter": "C",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "CalculÃ³ 4! por error."
+        },
+        {
+          "letter": "D",
+          "text": "70",
+          "is_correct": false,
+          "feedback": "MultiplicÃ³ 35 por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cualquier trayecto consta de $4+3=7$ pasos en total. La cantidad de ordenamientos Ãºnicos de 4 pasos al Este y 3 al Norte es $\\binom{7}{4} = \\frac{7   imes 6   imes 5}{3   imes 2   imes 1} = 35$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v11",
+      "statement": "Â¿CuÃ¡l es el nÃºmero total de estudiantes distintos que participan en la competencia?",
+      "context": "Tres colegios A, B y C de Cartagena participan en una competencia cultural. Hay 100 estudiantes que participan en A, 80 en B y 70 en C. 30 estÃ¡n en A y B, 25 en B y C, 20 en A y C, y 10 participan en los tres colegios simultÃ¡neamente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "185",
+          "is_correct": true,
+          "feedback": "Por inclusiÃ³n-exclusiÃ³n de 3 conjuntos: |A U B U C| = (100+80+70) - (30+25+20) + 10 = 250 - 75 + 10 = 185."
+        },
+        {
+          "letter": "B",
+          "text": "250",
+          "is_correct": false,
+          "feedback": "SumÃ³ las listas simples sin descontar las intersecciones dobles y triples."
+        },
+        {
+          "letter": "C",
+          "text": "175",
+          "is_correct": false,
+          "feedback": "RestÃ³ la triple intersecciÃ³n en lugar de sumarla al final."
+        },
+        {
+          "letter": "D",
+          "text": "200",
+          "is_correct": false,
+          "feedback": "CalculÃ³ mal la suma de las intersecciones dobles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "FÃ³rmula de inclusiÃ³n-exclusiÃ³n para 3 conjuntos:\n$|A cup B cup C| = (|A|+|B|+|C|) - (|Acap B|+|Bcap C|+|Acap C|) + |Acap Bcap C|$\n$= (100 + 80 + 70) - (30 + 25 + 20) + 10 = 250 - 75 + 10 = 185$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v12",
+      "statement": "Â¿CuÃ¡ntos desarreglos $D_4$ existen para un grupo de 4 elementos ${1, 2, 3, 4}$?",
+      "context": "Se define un desarreglo (o permutaciÃ³n caÃ³tica) $D_n$ como una permutaciÃ³n de $n$ elementos donde ningÃºn elemento aparece en su posiciÃ³n original. La fÃ³rmula es $D_n = n! sum_{k=0}^n \\frac{(-1)^k}{k!}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9",
+          "is_correct": true,
+          "feedback": "D4 = 4! * (1 - 1 + 1/2 - 1/6 + 1/24) = 24 * (12/24 - 4/24 + 1/24) = 24 * (9/24) = 9."
+        },
+        {
+          "letter": "B",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Corresponde al total de permutaciones 4! sin restricciÃ³n."
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "DividiÃ³ 24 entre 2."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "ConfundiÃ³ D4 con D3 = 2 o calculÃ³ 3!."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicando la fÃ³rmula de desarreglos para $n=4$:\n$D_4 = 4! left( \\frac{1}{0!} - \\frac{1}{1!} + \\frac{1}{2!} - \\frac{1}{3!} + \\frac{1}{4!} \right) = 24 left( 1 - 1 + \\frac{1}{2} - \\frac{1}{6} + \\frac{1}{24} \right) = 12 - 4 + 1 = 9$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v13",
+      "statement": "Aplique el concepto de combinaciones con repeticiÃ³n.",
+      "context": "Â¿CuÃ¡ntas soluciones compuestas por enteros NO NEGATIVOS $(x_1, x_2, x_3)$ satisfacen la ecuaciÃ³n $x_1 + x_2 + x_3 = 10$?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "66",
+          "is_correct": true,
+          "feedback": "CR(3, 10) = C(3 + 10 - 1, 10) = C(12, 10) = C(12, 2) = (12 * 11) / 2 = 66."
+        },
+        {
+          "letter": "B",
+          "text": "36",
+          "is_correct": false,
+          "feedback": "CalculÃ³ C(10, 2) por error."
+        },
+        {
+          "letter": "C",
+          "text": "120",
+          "is_correct": false,
+          "feedback": "CalculÃ³ C(10, 3) sin aplicar la fÃ³rmula de barras y estrellas."
+        },
+        {
+          "letter": "D",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "MultiplicÃ³ 10 * 3."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El nÃºmero de soluciones en enteros no negativos a $x_1 + x_2 + dots + x_k = n$ es $\\binom{n+k-1}{n}$. Para $n=10, k=3$: $\\binom{10+3-1}{10} = \\binom{12}{2} = \\frac{12   imes 11}{2} = 66$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v14",
+      "statement": "Â¿CuÃ¡l es el tÃ©rmino independiente (el tÃ©rmino que no contiene a la variable $x$)?",
+      "context": "En la expansiÃ³n de $left(x^2 + \\frac{1}{x}\right)^9$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "84",
+          "is_correct": true,
+          "feedback": "TÃ©rmino general: C(9,k) * (x^2)^(9-k) * (x^(-1))^k = C(9,k) * x^(18 - 3k). Para tÃ©rmino independiente: 18 - 3k = 0 -> k = 6. C(9,6) = C(9,3) = (9*8*7)/6 = 84."
+        },
+        {
+          "letter": "B",
+          "text": "36",
+          "is_correct": false,
+          "feedback": "Corresponde a C(9,2)."
+        },
+        {
+          "letter": "C",
+          "text": "126",
+          "is_correct": false,
+          "feedback": "Corresponde a C(9,4)."
+        },
+        {
+          "letter": "D",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Corresponde a C(9,1)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El exponente de $x$ en el $k$-Ã©simo tÃ©rmino es $2(9-k) - k = 18 - 3k$. Igualando a cero para hallar el tÃ©rmino constante: $18 - 3k = 0 Rightarrow k = 6$.\nEl coeficiente es $\\binom{9}{6} = \\binom{9}{3} = \\frac{9   imes 8   imes 7}{3   imes 2   imes 1} = 84$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v15",
+      "statement": "Â¿De cuÃ¡ntas maneras se puede realizar esta particiÃ³n del conjunto (NÃºmero de Stirling de segunda especie $S(6,2)$)?",
+      "context": "Se quiere distribuir un conjunto de 6 estudiantes en 2 grupos no vacÃ­os e indistinguibles para un taller en Manizales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "31",
+          "is_correct": true,
+          "feedback": "S(6,2) = (2^5 - 1) = 32 - 1 = 31. O dividiendo (2^6 - 2)/2 = 62/2 = 31."
+        },
+        {
+          "letter": "B",
+          "text": "64",
+          "is_correct": false,
+          "feedback": "CalculÃ³ 2^6 sin descontar los grupos vacÃ­os ni la indistinguibilidad."
+        },
+        {
+          "letter": "C",
+          "text": "32",
+          "is_correct": false,
+          "feedback": "OlvidÃ³ restar el caso de grupo vacÃ­o antes de dividir entre 2."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Corresponde a C(6,2)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Particionar un conjunto de $n$ elementos en 2 grupos no vacÃ­os viene dado por $S(n,2) = \\frac{2^n - 2}{2} = 2^{n-1} - 1$. Para $n=6$: $2^5 - 1 = 32 - 1 = 31$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v16",
+      "statement": "Â¿CuÃ¡ntos jugadores $n$ estÃ¡n inscritos en el torneo?",
+      "context": "En un torneo de ajedrez con $n$ participantes en Armenia, cada jugador enfrenta a todos los demÃ¡s exactamente una vez. Se disputan en total 66 partidas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": true,
+          "feedback": "C(n,2) = n(n-1)/2 = 66 -> n(n-1) = 132. Como 12 * 11 = 132, n = 12."
+        },
+        {
+          "letter": "B",
+          "text": "11",
+          "is_correct": false,
+          "feedback": "Si n=11, C(11,2) = 55 partidas."
+        },
+        {
+          "letter": "C",
+          "text": "13",
+          "is_correct": false,
+          "feedback": "Si n=13, C(13,2) = 78 partidas."
+        },
+        {
+          "letter": "D",
+          "text": "66",
+          "is_correct": false,
+          "feedback": "ConfundiÃ³ el nÃºmero de partidas con el nÃºmero de jugadores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$\\binom{n}{2} = \\frac{n(n-1)}{2} = 66 Rightarrow n(n-1) = 132$. Resolviendo la ecuaciÃ³n cuadrÃ¡tica $n^2 - n - 132 = 0 Rightarrow (n-12)(n+11) = 0 Rightarrow n = 12$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v17",
+      "statement": "Â¿CuÃ¡ntas soluciones enteras positivas existen para esta ecuaciÃ³n?",
+      "context": "Se busca determinar el nÃºmero de soluciones enteras estrictamente POSITIVAS ($x_i ge 1$) a la ecuaciÃ³n $x_1 + x_2 + x_3 + x_4 = 12$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "165",
+          "is_correct": true,
+          "feedback": "Hacemos y_i = x_i - 1 >= 0. La ecuaciÃ³n queda y_1 + y_2 + y_3 + y_4 = 12 - 4 = 8. C(8 + 4 - 1, 8) = C(11, 8) = C(11, 3) = (11 * 10 * 9) / 6 = 165."
+        },
+        {
+          "letter": "B",
+          "text": "455",
+          "is_correct": false,
+          "feedback": "CalculÃ³ C(12+4-1, 12) = C(15,3) para enteros no negativos sin exigir x_i >= 1."
+        },
+        {
+          "letter": "C",
+          "text": "220",
+          "is_correct": false,
+          "feedback": "CalculÃ³ C(12, 3) por error."
+        },
+        {
+          "letter": "D",
+          "text": "84",
+          "is_correct": false,
+          "feedback": "CalculÃ³ C(9, 3) por error."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para soluciones en enteros estrictamente positivos, asignamos 1 a cada una de las 4 variables. Quedan $12 - 4 = 8$ unidades por repartir entre 4 variables en enteros no negativos: $\\binom{8 + 4 - 1}{8} = \\binom{11}{3} = \\frac{11   imes 10   imes 9}{6} = 165$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v18",
+      "statement": "Â¿De cuÃ¡ntas maneras se pueden seleccionar 4 cartas de modo que NO HAYA NINGUNA PAREJA completa en la selecciÃ³n?",
+      "context": "Un grupo de 4 parejas de cartas numeradas del 1 al 4 (total 8 cartas) se mezclan en una mesa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "16",
+          "is_correct": true,
+          "feedback": "Para evitar parejas completas, debemos elegir exactamente 1 carta de cada una de las 4 parejas distintas. Como cada pareja tiene 2 cartas, hay 2^4 = 16 formas."
+        },
+        {
+          "letter": "B",
+          "text": "70",
+          "is_correct": false,
+          "feedback": "Corresponde a C(8,4) total sin restricciones."
+        },
+        {
+          "letter": "C",
+          "text": "48",
+          "is_correct": false,
+          "feedback": "CalculÃ³ C(4,1) * C(4,3) * 2 por error."
+        },
+        {
+          "letter": "D",
+          "text": "32",
+          "is_correct": false,
+          "feedback": "MultiplicÃ³ 16 por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para no tener parejas completas al elegir 4 cartas de 4 parejas, debemos seleccionar exactamente una carta de cada pareja. Hay 4 decisiones independientes con 2 opciones cada una: $2   imes 2   imes 2   imes 2 = 2^4 = 16$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v19",
+      "statement": "Para $n = 3$, verifique la suma de los cuadrados de la fila 3 del TriÃ¡ngulo de Pascal e identifique el valor equivalente $\\binom{6}{3}$.",
+      "context": "Evaluando la identidad combinatoria $sum_{k=0}^n \\binom{n}{k}^2 = \\binom{2n}{n}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1^2 + 3^2 + 3^2 + 1^2 = 20$, que es igual a $\\binom{6}{3} = 20$.",
+          "is_correct": true,
+          "feedback": "1 + 9 + 9 + 1 = 20. C(6,3) = (6 * 5 * 4) / 6 = 20. La identidad combinatoria de Vandermonde se cumple perfectamente."
+        },
+        {
+          "letter": "B",
+          "text": "$1^2 + 3^2 + 3^2 + 1^2 = 18$, diferente de $\\binom{6}{3} = 20$.",
+          "is_correct": false,
+          "feedback": "ErrÃ³ en la suma de 1 + 9 + 9 + 1."
+        },
+        {
+          "letter": "C",
+          "text": "$1 + 3 + 3 + 1 = 8$, que es igual a $2^3$.",
+          "is_correct": false,
+          "feedback": "SumÃ³ los coeficientes simples sin elevarlos al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "$1^2 + 3^2 + 3^2 + 1^2 = 36$, que es igual a $6^2$.",
+          "is_correct": false,
+          "feedback": "ErrÃ³ gravemente en la elevaciÃ³n de los tÃ©rminos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Fila $n=3$: coeficientes $1, 3, 3, 1$. Suma de cuadrados: $1^2 + 3^2 + 3^2 + 1^2 = 1 + 9 + 9 + 1 = 20$.\nPor el otro lado: $\\binom{2(3)}{3} = \\binom{6}{3} = \\frac{6   imes 5   imes 4}{3   imes 2   imes 1} = 20$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.45,
+      "bundle_id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v20",
+      "statement": "Â¿CuÃ¡l es la probabilidad de que NINGUNA carta llegue a su destinatario correcto (desarreglo completo $D_4$)?",
+      "context": "Cuatro secretarias en una oficina de BogotÃ¡ escriben 4 cartas distintas y preparan 4 sobres con las direcciones correspondientes. Si las cartas se colocan en los sobres al azar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{3}{8}$",
+          "is_correct": true,
+          "feedback": "D4 = 9 desarreglos. Total de formas de meter 4 cartas en 4 sobres: 4! = 24. P = 9/24 = 3/8 = 0.375."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{24}$",
+          "is_correct": false,
+          "feedback": "Corresponde a la probabilidad de que TODAS las cartas lleguen a su destinatario correcto."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{4}$",
+          "is_correct": false,
+          "feedback": "EstimÃ³ 1/4 por intuiciÃ³n simple."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "AsumiÃ³ un 50% de probabilidad sin calcular los desarreglos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "NÃºmero de casos favorables (desarreglos $D_4$) $= 9$. NÃºmero de casos posibles ($4!$) $= 24$.\n$P(\text{ninguna correcta}) = \\frac{9}{24} = \\frac{3}{8} = 0.375$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.45,
+      "bundle_id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

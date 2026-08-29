@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-30-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T18:22:22.188Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle-v1",
+      "statement": "En un proceso isocórico donde el volumen de un gas no varía, el calor absorbido Q es igual a...",
+      "context": "En un simulacro de preparación Saber 11 en Colombia sobre repaso: primera ley termodinámica, Daniela resuelve el siguiente caso de estudio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cambio en la energía interna (ΔU).",
+          "is_correct": true,
+          "feedback": "A volumen constante W = 0, luego ΔU = Q."
+        },
+        {
+          "letter": "B",
+          "text": "El trabajo de expansión realizado.",
+          "is_correct": false,
+          "feedback": "En un proceso isocórico el trabajo es nulo."
+        },
+        {
+          "letter": "C",
+          "text": "Cero en todos los casos.",
+          "is_correct": false,
+          "feedback": "El calor ingresado incrementa ΔU."
+        },
+        {
+          "letter": "D",
+          "text": "La constante universal de los gases R.",
+          "is_correct": false,
+          "feedback": "Q se transforma íntegramente en ΔU."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En procesos a volumen constante (isocóricos), el calor intercambiado incrementa exclusivamente la energía interna.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle-v2",
+      "statement": "Si un balón flexible de Helio a 300 K ocupa 3 Litros en Bogotá, ¿qué volumen ocupará si se calienta a 600 K a P constante?",
+      "context": "En un simulacro de preparación Saber 11 en Colombia sobre repaso: ley de charles, Daniela resuelve el siguiente caso de estudio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.5 Litros",
+          "is_correct": false,
+          "feedback": "Al duplicar T en Kelvin, el volumen se duplica."
+        },
+        {
+          "letter": "B",
+          "text": "6 Litros",
+          "is_correct": true,
+          "feedback": "V1/T1 = V2/T2 => 3 / 300 = V2 / 600 => V2 = 6 L."
+        },
+        {
+          "letter": "C",
+          "text": "3 Litros",
+          "is_correct": false,
+          "feedback": "El volumen se expande proporcionalmente a la temperatura absoluta."
+        },
+        {
+          "letter": "D",
+          "text": "12 Litros",
+          "is_correct": false,
+          "feedback": "El cálculo correcto es 6 L."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Ley de Charles establece que el volumen de un gas es directamente proporcional a su temperatura absoluta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle-v3",
+      "statement": "¿Qué parámetro de una reacción química es alterado directamente por una enzima acelerando la reacción?",
+      "context": "En un simulacro de preparación Saber 11 en Colombia sobre repaso: catálisis enzimática, Daniela resuelve el siguiente caso de estudio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La constante de equilibrio Keq.",
+          "is_correct": false,
+          "feedback": "Las enzimas no modifican Keq."
+        },
+        {
+          "letter": "B",
+          "text": "El cambio de entalpía global ΔH.",
+          "is_correct": false,
+          "feedback": "El ΔH de reactivos a productos no varía."
+        },
+        {
+          "letter": "C",
+          "text": "La energía de activación (Ea).",
+          "is_correct": true,
+          "feedback": "Las enzimas disminuyen la energía de activación sin alterar ΔG ni Keq."
+        },
+        {
+          "letter": "D",
+          "text": "La concentración inicial de sustrato.",
+          "is_correct": false,
+          "feedback": "La enzima disminuye la barrera de activación Ea."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las enzimas aceleran las reacciones disminuyendo la energía de activación requerida.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle-v4",
+      "statement": "Si se hacen reaccionar 4 moles de H2 con 1 mol de O2 (2H2 + O2 -> 2H2O), ¿cuál es el reactivo en exceso?",
+      "context": "En un simulacro de preparación Saber 11 en Colombia sobre repaso: reactivo límite, Daniela resuelve el siguiente caso de estudio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El O2",
+          "is_correct": false,
+          "feedback": "El O2 se agota completamente primero (reactivo límite)."
+        },
+        {
+          "letter": "B",
+          "text": "El H2O",
+          "is_correct": false,
+          "feedback": "El H2O es el producto de la reacción."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguno, están estequiométricamente balanceados.",
+          "is_correct": false,
+          "feedback": "Sobran 2 moles de H2."
+        },
+        {
+          "letter": "D",
+          "text": "El H2",
+          "is_correct": true,
+          "feedback": "1 mol de O2 requiere 2 moles de H2. Como hay 4 moles de H2, el H2 está en exceso (sobran 2 moles)."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El reactivo en exceso es aquel del cual se dispone en una cantidad mayor a la requerida estequiométricamente.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle-v5",
+      "statement": "¿Por qué al aumentar la temperatura aumenta drásticamente la velocidad de una reacción química?",
+      "context": "En un simulacro de preparación Saber 11 en Colombia sobre repaso: cinética y temperatura, Daniela resuelve el siguiente caso de estudio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque aumenta la proporción de moléculas que poseen energía cinética ≥ Ea.",
+          "is_correct": true,
+          "feedback": "La energía térmica adicional incrementa la fracción de choques eficaces."
+        },
+        {
+          "letter": "B",
+          "text": "Porque reduce la masa de los átomos a la mitad.",
+          "is_correct": false,
+          "feedback": "La masa atómica no varía con la temperatura."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la masa molar se convierte en luz.",
+          "is_correct": false,
+          "feedback": "La masa se conserva."
+        },
+        {
+          "letter": "D",
+          "text": "Porque anula la constante de velocidad k.",
+          "is_correct": false,
+          "feedback": "La constante k se incrementa con la temperatura según Arrhenius."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al elevar T aumenta la fracción de moléculas con energía suficiente para superar la energía de activación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle-v6",
+      "statement": "Una solución acuosa de HCl tiene una concentración [H+] = 1.0 × 10⁻⁴ M. Su pH es...",
+      "context": "En un simulacro de preparación Saber 11 en Colombia sobre repaso: cálculo de ph, Daniela resuelve el siguiente caso de estudio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10.0",
+          "is_correct": false,
+          "feedback": "10 es el pOH de la solución."
+        },
+        {
+          "letter": "B",
+          "text": "4.0",
+          "is_correct": true,
+          "feedback": "pH = -log(10⁻⁴) = 4.0."
+        },
+        {
+          "letter": "C",
+          "text": "1.0",
+          "is_correct": false,
+          "feedback": "log(10⁻⁴) es -4, el pH es 4."
+        },
+        {
+          "letter": "D",
+          "text": "7.0",
+          "is_correct": false,
+          "feedback": "pH 7 corresponde a una solución neutra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El pH mide el logaritmo negativo de la concentración molar de protones en solución.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle-v7",
+      "statement": "En una pila galvánica, los electrones circulan a través del cable externo desde...",
+      "context": "En un simulacro de preparación Saber 11 en Colombia sobre repaso: celda galvánica, Daniela resuelve el siguiente caso de estudio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Cátodo hacia el Ánodo.",
+          "is_correct": false,
+          "feedback": "El flujo de electrones en el cable va del ánodo al cátodo."
+        },
+        {
+          "letter": "B",
+          "text": "El puente salino únicamente.",
+          "is_correct": false,
+          "feedback": "El puente salino transporta iones en solución, no electrones por el cable."
+        },
+        {
+          "letter": "C",
+          "text": "El Ánodo (donde ocurre la oxidación) hacia el Cátodo (donde ocurre la reducción).",
+          "is_correct": true,
+          "feedback": "Los electrones liberados en la oxidación del ánodo viajan hacia el cátodo."
+        },
+        {
+          "letter": "D",
+          "text": "El aire exterior.",
+          "is_correct": false,
+          "feedback": "La corriente fluye por el conductor metálico externo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En celdas galvánicas los electrones fluyen espontáneamente del ánodo (lugar de oxidación) al cátodo (lugar de reducción).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle-v8",
+      "statement": "Al calentar una barra metálica de hierro en Bucaramanga, su volumen aumenta debido a...",
+      "context": "En un simulacro de preparación Saber 11 en Colombia sobre repaso: dilatación térmica, Daniela resuelve el siguiente caso de estudio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La creación de nuevos átomos de hierro dentro de la estructura.",
+          "is_correct": false,
+          "feedback": "La masa y número de átomos se conservan."
+        },
+        {
+          "letter": "B",
+          "text": "La absorción masiva de electrones de la atmósfera.",
+          "is_correct": false,
+          "feedback": "No hay adición de electrones externos."
+        },
+        {
+          "letter": "C",
+          "text": "El colapso de las capas de electrones.",
+          "is_correct": false,
+          "feedback": "Las distancias interatómicas aumentan."
+        },
+        {
+          "letter": "D",
+          "text": "El incremento en la vibración atómica que aumenta la distancia media entre átomos.",
+          "is_correct": true,
+          "feedback": "La energía térmica incrementa la amplitud de vibración cristalina."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La dilatación térmica ocurre por el aumento de la separación promedio entre los átomos al vibrar con mayor energía.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle-v9",
+      "statement": "Si se duplican simultáneamente la presión P y la temperatura T (en K) de un gas ideal, el volumen...",
+      "context": "En un simulacro de preparación Saber 11 en Colombia sobre repaso: ecuación de estado pv=nrt, Daniela resuelve el siguiente caso de estudio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permanece constante.",
+          "is_correct": true,
+          "feedback": "V = nRT/P. Si P y T se duplican, el factor (2/2) se cancela y V permanece igual."
+        },
+        {
+          "letter": "B",
+          "text": "Se cuadruplica.",
+          "is_correct": false,
+          "feedback": "Al duplicar P y T el volumen no varía."
+        },
+        {
+          "letter": "C",
+          "text": "Se reduce a la cuarta parte.",
+          "is_correct": false,
+          "feedback": "Los efectos de P y T sobre el volumen se compensan."
+        },
+        {
+          "letter": "D",
+          "text": "Cae a cero.",
+          "is_correct": false,
+          "feedback": "El volumen final es idéntico al inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El volumen de un gas es proporcional a T e inversamente proporcional a P; si ambas se duplican, el volumen no cambia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle-v10",
+      "statement": "Un inhibidor competitivo altera la cinética enzimática reduciendo la velocidad inicial porque...",
+      "context": "En un simulacro de preparación Saber 11 en Colombia sobre repaso: inhibición competitiva, Daniela resuelve el siguiente caso de estudio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Destruye la estructura primaria de la proteína covalentemente.",
+          "is_correct": false,
+          "feedback": "La unión competitiva es reversible."
+        },
+        {
+          "letter": "B",
+          "text": "Compite directamente con el sustrato por la unión al sitio activo de la enzima.",
+          "is_correct": true,
+          "feedback": "Tiene una estructura similar al sustrato y se une al mismo sitio activo."
+        },
+        {
+          "letter": "C",
+          "text": "Aumenta la Vmax al triple.",
+          "is_correct": false,
+          "feedback": "Vmax se puede alcanzar agregando más sustrato."
+        },
+        {
+          "letter": "D",
+          "text": "Evapora el solvente de la solución.",
+          "is_correct": false,
+          "feedback": "Inhibe mediante ocupación del sitio activo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los inhibidores competitivos se unen reversiblemente al sitio activo bloqueando el acceso del sustrato.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle-v11",
+      "statement": "Si al reaccionar 10 g de reactivo puro se esperaban 8 g de producto y se obtienen 6 g, el rendimiento porcentual es...",
+      "context": "En un simulacro de preparación Saber 11 en Colombia sobre repaso: rendimiento de reacción, Daniela resuelve el siguiente caso de estudio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60 %",
+          "is_correct": false,
+          "feedback": "El rendimiento es respecto al máximo teórico (8 g), no respecto al reactivo (10 g)."
+        },
+        {
+          "letter": "B",
+          "text": "80 %",
+          "is_correct": false,
+          "feedback": "6 dividido 8 es 0.75 (75%)."
+        },
+        {
+          "letter": "C",
+          "text": "75 %",
+          "is_correct": true,
+          "feedback": "Rendimiento = (6 / 8) × 100 = 75%."
+        },
+        {
+          "letter": "D",
+          "text": "100 %",
+          "is_correct": false,
+          "feedback": "Se obtuvieron 6 de 8 g teóricos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El rendimiento porcentual de una reacción se calcula como (masa real obtenida / masa teórica esperada) × 100.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle-v12",
+      "statement": "Al agregar dióxido de manganeso (MnO2) a la descomposición del H2O2 en Cali, el MnO2...",
+      "context": "En un simulacro de preparación Saber 11 en Colombia sobre repaso: catalizador en cinética, Daniela resuelve el siguiente caso de estudio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuye la velocidad actuando como inhibidor.",
+          "is_correct": false,
+          "feedback": "El MnO2 es un potente catalizador de la descomposición del H2O2."
+        },
+        {
+          "letter": "B",
+          "text": "Se consume totalmente convirtiéndose en agua.",
+          "is_correct": false,
+          "feedback": "El catalizador se recupera al final."
+        },
+        {
+          "letter": "C",
+          "text": "Hace que la reacción se vuelva endotérmica.",
+          "is_correct": false,
+          "feedback": "No altera el ΔH de la reacción."
+        },
+        {
+          "letter": "D",
+          "text": "Aumenta la velocidad de reacción actuando como catalizador heterogéneo.",
+          "is_correct": true,
+          "feedback": "El MnO2 acelera la descomposición sin consumirse netamente en la reacción."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los catalizadores aceleran las reacciones proporcionando una ruta cinéticamente más rápida sin consumirse.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál de las siguientes combinaciones forma un sistema amortiguador o buffer eficiente?",
+      "context": "En un simulacro de preparación Saber 11 en Colombia sobre repaso: solución tampón buffer, Daniela resuelve el siguiente caso de estudio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un ácido débil y su base conjugada (ej. CH3COOH y CH3COONa).",
+          "is_correct": true,
+          "feedback": "Un tampón requiere un par conjugado ácido/base débil."
+        },
+        {
+          "letter": "B",
+          "text": "Un ácido fuerte y una base fuerte en concentraciones iguales.",
+          "is_correct": false,
+          "feedback": "Esa mezcla se neutraliza completamente sin formar un buffer."
+        },
+        {
+          "letter": "C",
+          "text": "Agua pura y cloruro de sodio.",
+          "is_correct": false,
+          "feedback": "El NaCl en agua es una solución salina neutra sin capacidad reguladora."
+        },
+        {
+          "letter": "D",
+          "text": "Aceite vegetal y alcohol etílico.",
+          "is_correct": false,
+          "feedback": "No constituye un sistema ácido-base tampón."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un sistema tampón está compuesto por un ácido débil y su sal (base conjugada) o una base débil y su sal.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle-v14",
+      "statement": "En la reacción CuO + H2 -> Cu + H2O, ¿cuál especie actúa como el agente oxidante?",
+      "context": "En un simulacro de preparación Saber 11 en Colombia sobre repaso: agente oxidante, Daniela resuelve el siguiente caso de estudio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El H2",
+          "is_correct": false,
+          "feedback": "El H2 es el agente reductor (se oxida a H+)."
+        },
+        {
+          "letter": "B",
+          "text": "El CuO (o Cu²⁺)",
+          "is_correct": true,
+          "feedback": "El Cu²⁺ gana electrones para reducirse a Cu(0), provocando la oxidación del H2."
+        },
+        {
+          "letter": "C",
+          "text": "El H2O",
+          "is_correct": false,
+          "feedback": "El H2O es uno de los productos."
+        },
+        {
+          "letter": "D",
+          "text": "El Cu metálico",
+          "is_correct": false,
+          "feedback": "El Cu es el producto reducido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El agente oxidante es la sustancia que se reduce ganando electrones y provocando la oxidación de otra.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle-v15",
+      "statement": "Una mezcla de gases a 4 atm contiene 1 mol de He y 3 moles de Ne. La presión parcial de Helio es...",
+      "context": "En un simulacro de preparación Saber 11 en Colombia sobre repaso: presión parcial de dalton, Daniela resuelve el siguiente caso de estudio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 atm",
+          "is_correct": false,
+          "feedback": "3 atm es la presión parcial del Neón."
+        },
+        {
+          "letter": "B",
+          "text": "4 atm",
+          "is_correct": false,
+          "feedback": "4 atm es la presión total del sistema."
+        },
+        {
+          "letter": "C",
+          "text": "1 atm",
+          "is_correct": true,
+          "feedback": "P_He = (1 / 4 moles totales) × 4 atm = 1 atm."
+        },
+        {
+          "letter": "D",
+          "text": "2 atm",
+          "is_correct": false,
+          "feedback": "La fracción molar de He es 0.25; 0.25 × 4 = 1 atm."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La presión parcial de un gas es el producto de su fracción molar por la presión total del sistema.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle-v16",
+      "statement": "¿Por qué se requieren 2260 kJ para vaporizar 1 kg de agua a 100 °C mientras que para calentar 1 kg de agua de 0 a 100 °C se necesitan solo 418 kJ?",
+      "context": "En un simulacro de preparación Saber 11 en Colombia sobre repaso: calor latente de vaporización, Daniela resuelve el siguiente caso de estudio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque al hervir los átomos de hidrógeno se convierten en helio.",
+          "is_correct": false,
+          "feedback": "No ocurre fusión nuclear."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la masa del agua se triplica al hervir.",
+          "is_correct": false,
+          "feedback": "La masa se conserva en los cambios de fase."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la presión atmosférica se vuelve infinita.",
+          "is_correct": false,
+          "feedback": "El calor latente de vaporización supera al calor sensible porque requiere separar totalmente las moléculas de la fase líquida."
+        },
+        {
+          "letter": "D",
+          "text": "Porque romper las atracciones intermoleculares de hidrógeno en la vaporización exige mucha más energía.",
+          "is_correct": true,
+          "feedback": "El calor latente de vaporización involucra romper totalmente las fuerzas de cohesión intermoleculares."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El calor latente de vaporización del agua es significativamente mayor que el calor sensible necesario para elevar su temperatura porque la vaporización requiere suministrar suficiente energía para superar y romper por completo la red de enlaces de hidrógeno intermoleculares que mantienen unidas a las moléculas en estado líquido.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle-v17",
+      "statement": "Si la ley de velocidad de una reacción es v = k [A]¹ [B]², ¿cuál es su orden de reacción global?",
+      "context": "En un simulacro de preparación Saber 11 en Colombia sobre repaso: orden de reacción global, Daniela resuelve el siguiente caso de estudio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tercer orden (1 + 2 = 3).",
+          "is_correct": true,
+          "feedback": "El orden global se calcula sumando los exponentes 1 + 2 = 3."
+        },
+        {
+          "letter": "B",
+          "text": "Segundo orden.",
+          "is_correct": false,
+          "feedback": "Se deben sumar ambos exponentes."
+        },
+        {
+          "letter": "C",
+          "text": "Primer orden.",
+          "is_correct": false,
+          "feedback": "1 + 2 = 3."
+        },
+        {
+          "letter": "D",
+          "text": "Sexto orden.",
+          "is_correct": false,
+          "feedback": "Los exponentes se suman, no se multiplican."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El orden global de reacción es la suma de los exponentes de las concentraciones en la ley de velocidad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle-v18",
+      "statement": "Una solución 0.001 M de NaOH (base fuerte 100% disociada) a 25 °C tiene un pH de...",
+      "context": "En un simulacro de preparación Saber 11 en Colombia sobre repaso: hidróxido de sodio y ph, Daniela resuelve el siguiente caso de estudio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.0",
+          "is_correct": false,
+          "feedback": "3.0 es el pOH de la solución básica."
+        },
+        {
+          "letter": "B",
+          "text": "11.0",
+          "is_correct": true,
+          "feedback": "[OH-] = 10⁻³ M => pOH = 3.0 => pH = 14 - 3 = 11.0."
+        },
+        {
+          "letter": "C",
+          "text": "7.0",
+          "is_correct": false,
+          "feedback": "pH 7 es neutro; la solución de NaOH es alcalina."
+        },
+        {
+          "letter": "D",
+          "text": "14.0",
+          "is_correct": false,
+          "feedback": "10⁻³ M de OH- da pH = 11."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En soluciones de bases fuertes, se calcula primero pOH = -log[OH-] y luego pH = 14 - pOH.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle-v19",
+      "statement": "Si se duplica el tiempo de electrólisis manteniendo constante la corriente I en una celda, la masa de cobre depositada...",
+      "context": "En un simulacro de preparación Saber 11 en Colombia sobre repaso: ley de faraday, Daniela resuelve el siguiente caso de estudio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se reduce a la mitad.",
+          "is_correct": false,
+          "feedback": "A mayor tiempo se transfiere más carga, depositando más metal."
+        },
+        {
+          "letter": "B",
+          "text": "Permanece inalterada.",
+          "is_correct": false,
+          "feedback": "La masa depositada varía con la carga consumida."
+        },
+        {
+          "letter": "C",
+          "text": "Se duplica.",
+          "is_correct": true,
+          "feedback": "La masa depositada es directamente proporcional a la carga Q = I · t; si t se duplica, la masa depositada se duplica."
+        },
+        {
+          "letter": "D",
+          "text": "Cae a cero.",
+          "is_correct": false,
+          "feedback": "Aumenta proporcionalmente con el tiempo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La primera ley de Faraday establece que la masa depositada en un electrodo es directamente proporcional a la carga eléctrica m ∝ Q.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle-v20",
+      "statement": "En todo proceso espontáneo real en la naturaleza, el cambio de entropía del universo (ΔS_universo) es...",
+      "context": "En un simulacro de preparación Saber 11 en Colombia sobre repaso: entropía universal, Daniela resuelve el siguiente caso de estudio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Igual a cero exactamente.",
+          "is_correct": false,
+          "feedback": "ΔS_universo = 0 solo en procesos totalmente reversibles idealizados."
+        },
+        {
+          "letter": "B",
+          "text": "Menor que cero.",
+          "is_correct": false,
+          "feedback": "La entropía del universo no puede disminuir en procesos espontáneos."
+        },
+        {
+          "letter": "C",
+          "text": "Igual a la masa de la Tierra.",
+          "is_correct": false,
+          "feedback": "ΔS_universo es positivo en procesos reales."
+        },
+        {
+          "letter": "D",
+          "text": "Mayor que cero (ΔS_universo > 0).",
+          "is_correct": true,
+          "feedback": "La segunda ley de la termodinámica dicta que la entropía del universo aumenta en todo proceso espontáneo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La Segunda Ley de la Termodinámica establece que la entropía de un sistema aislado (o del universo) siempre se incrementa en procesos espontáneos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

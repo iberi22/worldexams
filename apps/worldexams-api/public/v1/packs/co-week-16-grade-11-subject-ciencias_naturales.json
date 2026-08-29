@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-16-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T18:22:22.179Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle-v1",
+      "statement": "¿Qué tipo de enlace se forma típicamente cuando la diferencia de electronegatividad ($\\Delta EN$) entre dos átomos es mayor a 1.7?",
+      "context": "En una práctica de laboratorio en Bogotá, se estudia la diferencia de electronegatividad entre átomos para predecir el tipo de enlace.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace iónico.",
+          "is_correct": true,
+          "feedback": "Correcto. Una diferencia de electronegatividad superior a 1.7 indica la transferencia de electrones formando cationes y aniones."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace covalente apolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre cuando $Delta EN approx 0$."
+        },
+        {
+          "letter": "C",
+          "text": "Enlace de puente de hidrógeno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una atracción intermolecular entre dipolos permanentes."
+        },
+        {
+          "letter": "D",
+          "text": "Enlace metálico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre entre átomos de baja electronegatividad en un mar de electrones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una alta diferencia de electronegatividad ($Delta EN > 1.7$) favorece la transferencia de electrones y la formación de un enlace iónico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle-v2",
+      "statement": "¿Qué modelo químico explica la alta conductividad eléctrica y maleabilidad de los metales?",
+      "context": "En Medellín se analizan las propiedades de los metales puros como el cobre y el aluminio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El modelo del mar de electrones deslocalizados.",
+          "is_correct": true,
+          "feedback": "Correcto. Los electrones de valencia se mueven libremente rodeando a los cationes metálicos fijos."
+        },
+        {
+          "letter": "B",
+          "text": "La formación de redes cristalinas rígidas iónicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las redes iónicas son frágiles y no conducen en estado sólido."
+        },
+        {
+          "letter": "C",
+          "text": "La presencia de enlaces covalentes triples dirigidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace metálico no es direccional."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerzas de dispersión de London exclusivas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fuerzas de London son fuerzas intermoleculares débiles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El mar de electrones deslocalizados permite el flujo de carga eléctrica y el deslizamiento de planos atómicos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle-v3",
+      "statement": "¿Qué fuerza intermolecular explica que el agua sea líquida a temperatura ambiente a diferencia del $H_2S$ gaseoso?",
+      "context": "Estudiantes en Cali comparan los puntos de ebullición del agua ($H_2O$) y del sulfuro de hidrógeno ($H_2S$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Puentes de hidrógeno entre el hidrógeno y el oxígeno altamente electronegativo.",
+          "is_correct": true,
+          "feedback": "Correcto. El enlace O-H polar permite formar puentes de hidrógeno intermoleculares intensos."
+        },
+        {
+          "letter": "B",
+          "text": "Fuerzas iónicas de atracción Coulombiana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas son moléculas covalentes neutras."
+        },
+        {
+          "letter": "C",
+          "text": "Enlaces covalentes dativos intramoleculares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fuerzas de ebullición son intermoleculares, no intramoleculares."
+        },
+        {
+          "letter": "D",
+          "text": "Fuerzas de van der Waals inducidas exclusivamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El puente de hidrógeno es mucho más fuerte que las fuerzas inducidas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los puentes de hidrógeno en el agua requieren mayor energía térmica para separarse, elevando su punto de ebullición.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle-v4",
+      "statement": "Según la Teoría de Repulsión de Pares de Electrones de la Capa de Valencia (VSEPR), ¿cuál es la geometría molecular del $CH_4$?",
+      "context": "En Barranquilla se estudia la geometría molecular de la molécula de metano ($CH_4$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tetraédrica, con ángulos de enlace de $109.5^\\circ$.",
+          "is_correct": true,
+          "feedback": "Correcto. 4 pares enlazantes se repelen de forma equivalente adoptando geometría tetraédrica."
+        },
+        {
+          "letter": "B",
+          "text": "Lineal, con ángulos de $180^\\circ$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a 2 pares de electrones alrededor del átomo central (ej. $CO_2$)."
+        },
+        {
+          "letter": "C",
+          "text": "Trigonal plana, con ángulos de $120^\\circ$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a 3 pares enlazantes (ej. $BF_3$)."
+        },
+        {
+          "letter": "D",
+          "text": "Angular, con ángulos de $104.5^\\circ$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a 2 pares enlazantes y 2 pares libres (ej. $H_2O$)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con 4 pares de electrones enlazantes sin pares libres, la geometría óptima por VSEPR es tetraédrica ($109.5^circ$).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál sustancia funde a alta temperatura y conduce electricidad únicamente cuando está fundida o disuelta en agua?",
+      "context": "Se prueban cuatro sustancias sólidas en Bucaramanga: $NaCl$, $SiO_2$ (cuarzo), Cobre ($Cu$) y Parafina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cloruro de sodio ($NaCl$).",
+          "is_correct": true,
+          "feedback": "Correcto. Como compuesto iónico, la red cristalina inmoviliza los iones en sólido, pero los libera al fundir o disolver."
+        },
+        {
+          "letter": "B",
+          "text": "Dióxido de silicio ($SiO_2$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un sólido de red covalente insoluble que no conduce electricidad."
+        },
+        {
+          "letter": "C",
+          "text": "Cobre metálico ($Cu$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cobre conduce electricidad tanto en estado sólido como fundido."
+        },
+        {
+          "letter": "D",
+          "text": "Parafina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un sólido molecular covalente no conductor y de bajo punto de fusión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los compuestos iónicos conduce electricidad en fase líquida o solución acuosa debido a la movilidad de los iones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle-v6",
+      "statement": "A pesar de tener enlaces covalentes polares C=O, ¿por qué la molécula de $CO_2$ es apolar ($moment dipolar \\mu = 0$)?",
+      "context": "En Manizales se analiza la polaridad de las moléculas de dióxido de carbono ($CO_2$) y agua ($H_2O$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su geometría es lineal y los dipolos de enlace opuestos se anulan vectorialmente.",
+          "is_correct": true,
+          "feedback": "Correcto. La simetría lineal causa la cancelación vectorial de los momentos dipolares individuales."
+        },
+        {
+          "letter": "B",
+          "text": "El carbono y el oxígeno tienen idéntica electronegatividad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oxígeno es más electronegativo que el carbono."
+        },
+        {
+          "letter": "C",
+          "text": "La molécula contiene un par de electrones libres en el carbono.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El carbono central del $CO_2$ no posee pares libres."
+        },
+        {
+          "letter": "D",
+          "text": "El $CO_2$ forma enlaces iónicos en fase gaseosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una molécula covalentemente enlazada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La geometría simétrica lineal de $CO_2$ hace que los momentos dipolares C=O de igual magnitud y sentido opuesto se cancelen.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.69,
+      "bundle_id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle-v7",
+      "statement": "¿Qué fenómeno estructural explica que los tres enlaces nitrógeno-oxígeno tengan exactamente la misma longitud y energía de enlace?",
+      "context": "En Tunja se determina la estructura de Lewis del ion nitrato ($NO_3^-$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Resonancia química (deslocalización de electrones $\\pi$).",
+          "is_correct": true,
+          "feedback": "Correcto. Las estructuras resonantes promedio producen tres enlaces híbridos equivalentes con orden de enlace 1.33."
+        },
+        {
+          "letter": "B",
+          "text": "Formación de enlaces triples permanentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nitrógeno no soporta tres enlaces triples simultáneos con tres oxígenos."
+        },
+        {
+          "letter": "C",
+          "text": "Precipitación de electrones al núcleo de nitrógeno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los electrones de valencia permanecen en la capa exterior."
+        },
+        {
+          "letter": "D",
+          "text": "Atracción gravitacional iónica interna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escala atómica se rige por interacciones electromagnéticas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La resonancia hibrida las estructuras contribuyentes deslocalizando electrones $pi$ y haciendo idénticos los 3 enlaces N-O.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle-v8",
+      "statement": "¿Qué regla de solubilidad molecular explica por qué el hexano no se disuelve en agua?",
+      "context": "Se mezcla hexano ($C_6H_{14}$) con agua en un tubo de ensaye en Pereira observándose dos fases inmiscibles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Lo semejante disuelve a lo semejante\": el hexano es apolar y el agua es un solvente polar.",
+          "is_correct": true,
+          "feedback": "Correcto. Las moléculas apolares prefieren interacciones de London entre sí y no forman puentes de hidrógeno con el agua."
+        },
+        {
+          "letter": "B",
+          "text": "El hexano reacciona violentamente explotando al contacto con el agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un alcano estable no reactivo con agua fría."
+        },
+        {
+          "letter": "C",
+          "text": "El agua evapora el hexano por diferencia de densidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inmiscibilidad es un equilibrio de fuerzas intermoleculares."
+        },
+        {
+          "letter": "D",
+          "text": "El hexano es iónico y el agua es no polar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hexano es un hidrocarburo covalente apolar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia de polaridad (agua polar vs hexano apolar) impide la solvatación favorable.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.63,
+      "bundle_id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál de estos ácidos presenta el enlace covalente H-X más fuerte y corto debido a la alta electronegatividad del halógeno?",
+      "context": "En Armenia se evalúa la fuerza relativa de la serie de halógenos de hidrógeno: $HF, HCl, HBr, HI$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fluoruro de hidrógeno ($HF$).",
+          "is_correct": true,
+          "feedback": "Correcto. El flúor es el elemento más electronegativo, generando un enlace H-F muy corto y con elevada energía de disociación."
+        },
+        {
+          "letter": "B",
+          "text": "Yoduro de hidrógeno ($HI$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El yodo tiene mayor radio atómico y su enlace H-I es más largo y débil."
+        },
+        {
+          "letter": "C",
+          "text": "Cloruro de hidrógeno ($HCl$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace H-Cl es más largo que el H-F."
+        },
+        {
+          "letter": "D",
+          "text": "Bromuro de hidrógeno ($HBr$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El radio del bromo es mayor que el del flúor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pequeño radio atómico del flúor y su extrema electronegatividad forman el enlace covalente H-F más corto y fuerte del grupo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle-v10",
+      "statement": "¿Por qué el grafito conduce electricidad a lo largo de sus capas mientras que el diamante es un aislante extremo?",
+      "context": "En Cartagena se investiga el comportamiento del grafito y del diamante, ambos alótropos del carbono puro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El grafito presenta hibridación $sp^2$ con electrones $\\pi$ deslocalizados entre capas; el diamante tiene hibridación $sp^3$ tetraédrica fija.",
+          "is_correct": true,
+          "feedback": "Correcto. La hibridación $sp^2$ deja un orbital p deslocalizado con movilidad electrónica en el grafito."
+        },
+        {
+          "letter": "B",
+          "text": "El diamante contiene un 50% de impurezas de hierro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diamante puro consta únicamente de carbono."
+        },
+        {
+          "letter": "C",
+          "text": "El grafito es iónico y el diamante es metálico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos son redes de enlaces covalentes atómicos."
+        },
+        {
+          "letter": "D",
+          "text": "El diamante carece de electrones de valencia en su estructura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todo átomo de carbono posee 4 electrones de valencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los electrones deslocalizados en los orbitales p libres de la red $sp^2$ del grafito permiten la conducción eléctrica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.57,
+      "bundle_id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle-v11",
+      "statement": "Considerando que ambas moléculas tienen geometría piramidal trigonal con un par libre en el nitrógeno, ¿por qué el $NF_3$ tiene un momento dipolar drásticamente menor?",
+      "context": "Un químico en Bogotá analiza los momentos dipolares del amoníaco ($NH_3$, $\\mu = 1.47 \\text{ D}$) y del trifluoruro de nitrógeno ($NF_3$, $\\mu = 0.23 \\text{ D}$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el $NF_3$, los momentos de los enlaces N-F apuntan hacia los átomos de flúor opuestos al dipolo del par libre, cancelándolo parcialmente.",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser el flúor más electronegativo que el nitrógeno, los dipolos de enlace se oponen al sentido del par solitario."
+        },
+        {
+          "letter": "B",
+          "text": "El $NF_3$ adopta una geometría totalmente plana que anula los dipolos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El $NF_3$ mantiene geometría piramidal trigonal."
+        },
+        {
+          "letter": "C",
+          "text": "El enlace N-F es puramente apolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia de electronegatividad entre N y F crea un enlace altamente polar."
+        },
+        {
+          "letter": "D",
+          "text": "El par solitario del nitrógeno desaparece en presencia de flúor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El N conserva sus 5 electrones de valencia (3 enlazantes, 2 libres)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el $NF_3$ la atracción del flúor tira en dirección contraria a la densidad del par libre del nitrógeno, reduciendo $mu$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.54,
+      "bundle_id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle-v12",
+      "statement": "¿Qué predicción de la TOM confirma experimentalmente que la molécula de $O_2$ es atraída por un campo magnético (paramagnética)?",
+      "context": "En Cali se estudia el orden de enlace y paramagnetismo de la molécula de oxígeno ($O_2$) mediante la Teoría de Orbitales Moleculares (TOM).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La presencia de dos electrones desapareados en los orbitales antienlazantes degénerados $\\pi^*_{2p}$.",
+          "is_correct": true,
+          "feedback": "Correcto. La regla de Hund llena orbitales $pi^*_{2p}$ con dos electrones desapariados, explicando el paramagnetismo."
+        },
+        {
+          "letter": "B",
+          "text": "La existencia de una carga iónica neta $+2$ en la molécula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $O_2$ es una molécula neutra."
+        },
+        {
+          "letter": "C",
+          "text": "El llenado completo de todos los orbitales sin electrones impares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El llenado completo produciría diamagnetismo (repulsión magnética)."
+        },
+        {
+          "letter": "D",
+          "text": "La ruptura espontánea del enlace sigma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace $sigma_{2p}$ permanece totalmente ocupado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La TOM demuestra que el $O_2$ posee 2 electrones desapariados en los orbitales $pi^*_{2p}$, originando su paramagnetismo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.51,
+      "bundle_id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle-v13",
+      "statement": "¿Qué tipo de enlace predomina en la red tridimensional del nitruro de boro cúbico para conferirle extrema dureza?",
+      "context": "En Medellín se sintetiza un nuevo material cerámico compuesto por nitruro de boro ($BN$) estructuralmente análogo al diamante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Red covalente reticular tridimensional con hibridación $sp^3$.",
+          "is_correct": true,
+          "feedback": "Correcto. Al igual que el diamante, forma una red gigante sostenida por fuertes enlaces covalentes en las 3 dimensiones."
+        },
+        {
+          "letter": "B",
+          "text": "Fuerzas intermoleculares dipolo-dipolo débilmente unidas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fuerzas dipolares generarían sólidos blandos y fusibles."
+        },
+        {
+          "letter": "C",
+          "text": "Enlace metálico deslocalizado con iones libres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un cerámico aislante sin mar de electrones."
+        },
+        {
+          "letter": "D",
+          "text": "Red de enlaces iónicos puramente solubles en agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las redes covalentes atómicas son insolubles y extremadamente duras."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El nitruro de boro cúbico forma una red covalente gigante $sp^3$ análoga al diamante.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.48,
+      "bundle_id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle-v14",
+      "statement": "Si se dibuja la estructura de Lewis expandiendo el octeto del azufre a 12 electrones (dos enlaces dobles S=O y dos sencillos S-O$^-$), ¿cuál es la carga formal del azufre?",
+      "context": "Se determina la carga formal del átomo central de azufre en el ion sulfato ($SO_4^{2-}$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cero ($0$).",
+          "is_correct": true,
+          "feedback": "Correcto. Carga formal $= 6 - (6 \\text{ enlaces} + 0 \\text{ electrones libres}) = 0$. Esta estructura minimiza cargas formales."
+        },
+        {
+          "letter": "B",
+          "text": "$+2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $+2$ es la carga formal en la estructura con octeto estricto de 4 enlaces sencillos."
+        },
+        {
+          "letter": "C",
+          "text": "$-2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $-2$ es la carga neta del anión, no la carga formal del átomo central de azufre."
+        },
+        {
+          "letter": "D",
+          "text": "$+1$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la resta de electrones asignados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la estructura expandida con 2 enlaces dobles y 2 sencillos, el S tiene 6 enlaces: $CF = 6 - 6 = 0$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.45,
+      "bundle_id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle-v15",
+      "statement": "¿Qué principio de la teoría VSEPR justifica la contracción progresiva del ángulo de enlace?",
+      "context": "En un experimento en Tunja, se analiza el ángulo de enlace en la serie $CH_4 (109.5^\\circ), NH_3 (107^\\circ), H_2O (104.5^\\circ)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La repulsión que ejercen los pares de electrones libres es mayor que la de los pares enlazantes, comprimiendo los enlaces adyacentes.",
+          "is_correct": true,
+          "feedback": "Correcto. La nube electrónica del par no enlazante ocupa mayor volumen, cerrando los ángulos de los enlaces vecinos."
+        },
+        {
+          "letter": "B",
+          "text": "El aumento de la masa del átomo central acorta los enlaces.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ángulo depende del volumen de repulsión de pares libres, no de la masa atómica."
+        },
+        {
+          "letter": "C",
+          "text": "La formación de enlaces iónicos reversibles en fase gaseosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son todas moléculas covalentemente enlazadas."
+        },
+        {
+          "letter": "D",
+          "text": "La pérdida gradual de electrones por radiación UV.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las geometrías son del estado fundamental neutro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los pares solitarios repelen con más fuerza que los pares enlazantes: repulsión par libre-par libre > par libre-enlazante > enlazante-enlazante.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.42,
+      "bundle_id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle-v16",
+      "statement": "¿Por qué la ramificación creciente de los isómeros disminuye progresivamente su punto de ebullición?",
+      "context": "En Bucaramanga se evalúa el punto de ebullición de tres isómeros del pentano: n-pentano ($36.1^\\circ\\text{C}$), isopentano ($27.8^\\circ\\text{C}$) y neopentano ($9.5^\\circ\\text{C}$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ramificación adopta una forma más esférica reduciendo la superficie de contacto entre moléculas y debilitando las fuerzas de London.",
+          "is_correct": true,
+          "feedback": "Correcto. A menor área superficial, menor es la polarizabilidad inducida y las fuerzas de disperción de London."
+        },
+        {
+          "letter": "B",
+          "text": "Las ramificaciones destruyen los enlaces covalentes C-C internos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los isómeros poseen enlaces C-C de igual fuerza."
+        },
+        {
+          "letter": "C",
+          "text": "El neopentano forma puentes de hidrógeno intramoleculares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los alkanos carecen de nitrógeno, oxígeno o flúor para puentes de H."
+        },
+        {
+          "letter": "D",
+          "text": "El n-pentano contiene enlaces iónicos que no existen en el neopentano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos son hidrocarburos apolares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La forma esférica de las moléculas ramificadas disminuye el área de contacto intermolecular, debilitando las fuerzas de dispersión de London.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.39,
+      "bundle_id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle-v17",
+      "statement": "¿Qué característica de la cadena de poliacetileno es indispensable para permitir la conducción de carga a lo largo del polímero?",
+      "context": "Un grupo de fisicoquímicos en Bogotá diseña un modelo semiconductor orgánico utilizando polimerización de acetileno (poliacetileno).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La alternancia de enlaces sencillos y dobles (sistema $\\pi$ conjugado deslocalizado).",
+          "is_correct": true,
+          "feedback": "Correcto. La conjugación alternada permite el solapamiento de orbitales p no hibridados en una banda de conducción $pi$."
+        },
+        {
+          "letter": "B",
+          "text": "La inclusión de enlaces iónicos de litio cada dos carbonos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conducción en polímeros conjugados se basa en electrones $pi$ del esqueleto de carbono."
+        },
+        {
+          "letter": "C",
+          "text": "La conversión completa del polímero en agua pura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El polímero es un material plástico sólido."
+        },
+        {
+          "letter": "D",
+          "text": "El bloqueo de todos los orbitales p mediante hibridación $sp^3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hibridación $sp^3$ generaría un aislante tipo polietileno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La conjugación de enlaces dobles permite la deslocalización del sistema $pi$ creando bandas de energía para el transporte de carga.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.35,
+      "bundle_id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle-v18",
+      "statement": "Ambos compuestos poseen distancias interiónicas similares. ¿Por qué la energía de red del $MgO$ es casi cuatro veces mayor?",
+      "context": "En un estudio de cristaloquímica en Medellín, se compara la energía de red cristalina ($U_{red}$) del $NaF$ ($923 \\text{ kJ/mol}$) frente al $MgO$ ($3791 \\text{ kJ/mol}$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por la Ley de Coulomb: el producto de cargas de los iones $Mg^{2+}$ y $O^{2-}$ ($|2 \\times (-2)| = 4$) es cuatro veces mayor que el del $Na^+$ y $F^-$ ($|1 \\times (-1)| = 1$).",
+          "is_correct": true,
+          "feedback": "Correcto. $U_{red} \\propto \\frac{q_1 q_2}{r}$; al duplicarse la carga de ambos iones, el atractivo electrostático aumenta por un factor de 4."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el $MgO$ forma puentes de hidrógeno covalentes en el cristal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un compuesto iónico sin puentes de hidrógeno."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el sodio es un metal radiactivo inestable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sodio natural es un metal alcalino no radiactivo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el magnesio no tiene electrones de valencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El $Mg^{2+}$ perdió 2 electrones alcanzando configuración de gas noble."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La atracción electrostática es directamente proporcional al producto de las cargas $q_1 cdot q_2$. Para $Mg^{2+}O^{2-}$ es $2 \times 2 = 4$, frente a $1 \times 1 = 1$ de $Na^+F^-$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.32,
+      "bundle_id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle-v19",
+      "statement": "¿Qué ocurre con las atracciones electrostáticas (puentes salinos) en la superficie de la proteína al transferirla a etanol?",
+      "context": "En un laboratorio biomédico en Cali se evalúa el efecto del solvente en la conformación de una enzima. Se compara agua (constante dieléctrica $\\epsilon = 80$) con etanol (constante dieléctrica $\\epsilon = 24$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se fortalecen significativamente porque la menor constante dieléctrica reduce el blindaje del solvente entre las cargas.",
+          "is_correct": true,
+          "feedback": "Correcto. La fuerza de Coulomb $F = \\frac{q_1 q_2}{4\\pi \\epsilon r^2}$ aumenta al disminuir $epsilon$, intensificando la atracción entre cargas opuestas."
+        },
+        {
+          "letter": "B",
+          "text": "Se anulan totalmente convirtiéndose en enlaces metálicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cargas iónicas no mutan a enlaces metálicos."
+        },
+        {
+          "letter": "C",
+          "text": "Se debilitan por evaporación de los protones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La menor constante dieléctrica aumenta la fuerza de atracción iónica."
+        },
+        {
+          "letter": "D",
+          "text": "Permanecen inalteradas porque la constante dieléctrica no afecta las cargas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La constante dieléctrica del medio modula la atenuación de la fuerza electrostática."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Según la ley de Coulomb en medios continuos, $F propto 1/epsilon$. Un solvente con menor $epsilon$ incrementa las interacciones electrostáticas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.28,
+      "bundle_id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle-v20",
+      "statement": "¿Qué técnica instrumental basada en la vibración de enlaces químicos es más idónea para cuantificar la fuerza del enlace Cu-O sin destruir la muestra?",
+      "context": "Se investiga la superconductividad a alta temperatura en cupratos de titanio y bario. Se descubre que la transición depende del ordenamiento de enlaces covalentes polarizados Cu-O.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Espectroscopía infrarroja por transformada de Fourier (FTIR) o Espectroscopía Raman.",
+          "is_correct": true,
+          "feedback": "Correcto. Miden la absorción o dispersión de fotones acoplados a las frecuencias de vibración (tensión y flexión) de enlaces específicos."
+        },
+        {
+          "letter": "B",
+          "text": "Cromatografía de gases con detector de llama.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Destruye la muestra en llama de hidrógeno y es para compuestos volátiles."
+        },
+        {
+          "letter": "C",
+          "text": "Titulación ácido-base con fenolftaleína.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un método volumétrico destructivo no aplicable a cristales inorgánicos sólidos."
+        },
+        {
+          "letter": "D",
+          "text": "Centrifugación por gradiente de sacarosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usa para separar organelos o macromoléculas en fase líquida."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "FTIR y Raman analizan los modos vibracionales moleculares sin destruir el cristal, determinando la constante de fuerza del enlace.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.25,
+      "bundle_id": "CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-21-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T18:22:22.182Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle-v1",
+      "statement": "¿Qué tipo de enlace químico de alta energía conecta los grupos fosfato en la molécula de ATP?",
+      "context": "En una lección de bioenergética celular en Bogotá, se analiza la molécula de adenosín trifosfato (ATP).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace fosfoanhídrido.",
+          "is_correct": true,
+          "feedback": "Correcto. La hidrólisis de los enlaces fosfoanhídrido libera aproximadamente $-30.5 \\text{ kJ/mol}$ de energía libre."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace peptídico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace peptídico une aminoácidos en proteínas."
+        },
+        {
+          "letter": "C",
+          "text": "Enlace glucosídico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace glucosídico une carbohidratos."
+        },
+        {
+          "letter": "D",
+          "text": "Enlace metálico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre en la red de átomos de un metal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los dos enlaces anhídrido fosfórico del ATP son enlaces ricos en energía cuya hidrólisis impulsa las reacciones endergónicas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle-v2",
+      "statement": "¿En qué compartimento de la célula eucariota ocurre la vía metabólica de la glucólisis (degradación de glucosa a piruvato)?",
+      "context": "En un laboratorio de fisiología celular en Medellín, se estudia la primera fase de la respiración celular en el citosol.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el citosol (citoplasma).",
+          "is_correct": true,
+          "feedback": "Correcto. La glucólisis es una ruta soluble no unida a membranas que se realiza en el citosol celular."
+        },
+        {
+          "letter": "B",
+          "text": "En la matriz mitocondrial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la matriz ocurre el Ciclo de Krebs y la descarboxilación del piruvato."
+        },
+        {
+          "letter": "C",
+          "text": "En la membrana tilacoidal del cloroplasto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Allí se lleva a cabo la fase luminosa de la fotosíntesis."
+        },
+        {
+          "letter": "D",
+          "text": "En el lumen del aparato de Golgi.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Golgi procesa y empaqueta proteínas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La glucólisis es una vía anaeróbica citosólica compartida por casi todos los organismos vivos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.81,
+      "bundle_id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la molécula de dos carbonos derivada del piruvato que ingresa al Ciclo de Krebs condesándose con el oxaloacetato?",
+      "context": "En Cali se estudia el ciclo del ácido cítrico (Ciclo de Krebs) en presencia de oxígeno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acetil-Coenzima A (Acetil-CoA).",
+          "is_correct": true,
+          "feedback": "Correcto. La descarboxilación oxidativa del piruvato genera Acetil-CoA ($2C$), el cual se une al oxaloacetato ($4C$) formando citrato ($6C$)."
+        },
+        {
+          "letter": "B",
+          "text": "Lactato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lactato es producto de la fermentación homoláctica."
+        },
+        {
+          "letter": "C",
+          "text": "Ribulosa-1,5-bisfosfato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el aceptor de $CO_2$ en el ciclo de Calvin fotosintético."
+        },
+        {
+          "letter": "D",
+          "text": "Etanol.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el producto de la fermentación alcohólica en levaduras."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Acetil-CoA es el punto de entrada común para los restos de 2 carbonos derivados de carbohidratos, grasas y aminoácidos al Ciclo de Krebs.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle-v4",
+      "statement": "¿Qué complejo enzimático utiliza el gradiente electroquímico de protones ($H^+$) para sintetizar ATP a partir de ADP y fosfato inorgánico ($P_i$)?",
+      "context": "En Barranquilla se consulta el proceso de fosforilación oxidativa en la membrana mitocondrial interna.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ATP sintasa (Complejo V).",
+          "is_correct": true,
+          "feedback": "Correcto. El flujo quimiosmótico de protones a través de la ATP sintasa impulsa la rotación del motor molecular para formar ATP."
+        },
+        {
+          "letter": "B",
+          "text": "Rubisco (Ribulosa bisfosfato carboxilasa).",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Rubisco fija $CO_2$ en el estroma vegetal."
+        },
+        {
+          "letter": "C",
+          "text": "Hexoquinasa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hexoquinasa consume ATP para fosforilar glucosa en la glucólisis."
+        },
+        {
+          "letter": "D",
+          "text": "Catalasa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La catalasa degrada peróxido de hidrógeno en peroxisomas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ATP sintasa canaliza el retorno de protones a la matriz mitocondrial acoplando la energía quimiosmótica a la síntesis de ATP.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle-v5",
+      "statement": "¿Qué vía metabólica anaeróbica se activa en los miocitos para regenerar el $NAD^+$ necesario para mantener funcionando la glucólisis?",
+      "context": "Un grupo de estudiantes en Tunja ejercita intensamente sus músculos en un sprint de 100 metros con suministro de oxígeno limitado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fermentación láctica (reducción de piruvato a lactato por la lactato deshidrogenasa).",
+          "is_correct": true,
+          "feedback": "Correcto. En hipoxia, el NADH reduce el piruvato a lactato regenerando $NAD^+$ libre para continuar la glucólisis."
+        },
+        {
+          "letter": "B",
+          "text": "Ciclo de Calvin-Benson.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ciclo de Calvin ocurre en plantas fotosintéticas."
+        },
+        {
+          "letter": "C",
+          "text": "Fotólisis del agua en el Fotosistema II.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un proceso fototrófico vegetal."
+        },
+        {
+          "letter": "D",
+          "text": "Beta-oxidación peroxisómica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La beta-oxidación degrada ácidos grasos en presencia de oxígeno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fermentación láctica reconvierte NADH a $NAD^+$, permitiendo la producción continuada de 2 ATP por glucólisis anaeróbica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle-v6",
+      "statement": "¿Cuáles son los dos productos finales liberados por la levadura durante la fermentación alcohólica del piruvato?",
+      "context": "En un cultivo de levaduras en Bucaramanga, se restringe la entrada de oxígeno provocando el cambio de respiración aeróbica a fermentación alcohólica (Efecto Pasteur).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Etanol y dióxido de carbono ($CO_2$).",
+          "is_correct": true,
+          "feedback": "Correcto. El piruvato se descarboxila a acetaldehído (liberando $CO_2$) y este se reduce a etanol por el NADH."
+        },
+        {
+          "letter": "B",
+          "text": "Ácido acético y oxígeno gas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fermentación no libera $O_2$ libre."
+        },
+        {
+          "letter": "C",
+          "text": "Lactato y agua destilada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fermentación láctica produce lactato en músculos y bacterias, no etanol."
+        },
+        {
+          "letter": "D",
+          "text": "Glucosa y ATP sintasa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La glucosa es el reactivo inicial consumido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fermentación alcohólica descarboxila el piruvato liberando $CO_2$ y produciendo etanol como acceptor final de electrones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.69,
+      "bundle_id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle-v7",
+      "statement": "Si se añade cianuro de potasio ($KCN$), un potente inhibidor que se une al hierro de la citocromo c oxidasa (Complejo IV), ¿qué ocurre con el consumo de $O_2$ y la síntesis de ATP?",
+      "context": "En Manizales se mide el consumo de oxígeno y la liberación de $CO_2$ en una suspensión mitocondrial usando succinato como sustrato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se detienen inmediatamente tanto el consumo de $O_2$ como la síntesis de ATP.",
+          "is_correct": true,
+          "feedback": "Correcto. Al bloquear la transferencia final de electrones al $O_2$ en el Complejo IV, se colapsa la cadena y la quimiósmosis."
+        },
+        {
+          "letter": "B",
+          "text": "Se duplica la síntesis de ATP por aceleración del Complejo I.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si la cadena está bloqueada al final, los electrones no pueden fluir."
+        },
+        {
+          "letter": "C",
+          "text": "Aumenta el consumo de oxígeno sin producir calor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El consumo de oxígeno cesa por completo."
+        },
+        {
+          "letter": "D",
+          "text": "Las mitocondrias se convierten en cloroplastos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cianuro es un tóxico respiratorio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cianuro bloquea el Complejo IV (citocromo c oxidasa), deteniendo el flujo de electrones al $O_2$ y cancelando la síntesis de ATP.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle-v8",
+      "statement": "¿Qué efecto produce el desacoplamiento con DNP sobre la temperatura corporal y la producción de ATP?",
+      "context": "En Pereira se prueba el dinitrofenol (DNP), una sustancia desacoplante que transporta protones ($H^+$) a través de la membrana mitocondrial interna sin pasar por la ATP sintasa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuye severamente la producción de ATP y la energía del gradiente se disipa como un calor descontrolado (hipertermia).",
+          "is_correct": true,
+          "feedback": "Correcto. La energía del gradiente de protones no se atrapa como ATP y se libera íntegramente como calor térmico."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta la síntesis de ATP al 1000% congelando el cuerpo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desacoplador cortocircuita la síntesis de ATP."
+        },
+        {
+          "letter": "C",
+          "text": "Detiene la respiración celular sin liberar calor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La respiración continúa a tasa máxima consumiendo $O_2$ e hipergenerando calor."
+        },
+        {
+          "letter": "D",
+          "text": "Sintetiza almidón en la matriz mitocondrial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mitocondrias animales no sintetizan almidón."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los desacopladores destruyen el gradiente quimiosmótico de protones; el transporte de electrones continúa pero la energía se disipa totalmente como calor.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.63,
+      "bundle_id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la molécula donadora primaria de electrones en la fase luminosa de la fotosíntesis y cuál es el aceptor final en la respiración aeróbica?",
+      "context": "En Armenia se compara la fotosíntesis (anabolismo autótrofo) con la respiración celular (catabolismo heterótrofo).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Donador en fotosíntesis: Agua ($H_2O$); Aceptor en respiración: Oxígeno ($O_2$).",
+          "is_correct": true,
+          "feedback": "Correcto. La fotólisis del $H_2O$ dona electrones al fotosistema II, mientras que el $O_2$ acepta electrones en el Complejo IV mitocondrial."
+        },
+        {
+          "letter": "B",
+          "text": "Donador en fotosíntesis: $CO_2$; Aceptor en respiración: Glucosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El $CO_2$ es fijado en fase oscura; la glucosa es el sustrato inicial oxidado."
+        },
+        {
+          "letter": "C",
+          "text": "Donador en fotosíntesis: ATP; Aceptor en respiración: $NAD^+$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. ATP es la moneda energética, no el donador de electrones de fotólisis."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos procesos usan el nitrógeno líquido como medio donador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nitrógeno es inerte en estos procesos bioenergéticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Fotosíntesis: $H_2O \rightarrow O_2 + 2H^+ + 2e^-$. Respiración: $\frac{1}{2}O_2 + 2H^+ + 2e^- \rightarrow H_2O$. Son procesos inversos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el equivalente reductor generado en esta vía indispensable para mantener el glutatión reducido y proteger contra el estrés oxidativo?",
+      "context": "En Cartagena se analiza la vía de las pentosas fosfato en eritrocitos humanos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "NADPH (Nicotinamida adenina dinucleótido fosfato reducido).",
+          "is_correct": true,
+          "feedback": "Correcto. El NADPH provee poder reductor para biosíntesis anabólica y defensa antioxidante."
+        },
+        {
+          "letter": "B",
+          "text": "FADH2.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El FADH2 se genera en el Ciclo de Krebs para la cadena respiratoria."
+        },
+        {
+          "letter": "C",
+          "text": "Ácido láctico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un producto final anaeróbico sin función coenzimática."
+        },
+        {
+          "letter": "D",
+          "text": "Gliceraldehído-3-fosfato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un intermediario triosa de la glucólisis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La vía de las pentosas fosfato es la principal fuente celular de NADPH para anabolismo de lípidos y desintoxicación de $ROS$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.57,
+      "bundle_id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle-v11",
+      "statement": "¿Por qué la inhibición de PFK-1 por ATP es un mecanismo de retroalimentación negativa lógica para la célula?",
+      "context": "Se determina que la enzima fosfofructoquinasa-1 (PFK-1), enzima clave reguladora de la glucólisis citosólica, es inhibida alostéricamente por altos niveles de ATP y citrato, y activada por AMP y fructosa-2,6-bisfosfato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evita la degradación innecesaria de glucosa cuando el estado energético de la célula es alto (abundancia de ATP).",
+          "is_correct": true,
+          "feedback": "Correcto. Si la carga energética celular es elevada, inhibir la glucólisis ahorra combustible para almacenarlo como glucógeno o grasa."
+        },
+        {
+          "letter": "B",
+          "text": "Fuerza a la célula a consumir todo el ATP remanente en 1 segundo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El objetivo es preservar combustible, no gastar atp."
+        },
+        {
+          "letter": "C",
+          "text": "Acelera la respiración celular para producir toxinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inhibición alostérica es un ajuste fisiológico de eficiencia."
+        },
+        {
+          "letter": "D",
+          "text": "Destruye las mitocondrias de la célula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La regulación enzimática es reversible y precisa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Altos niveles de ATP señalan saciedad energética, inhibiendo la PFK-1 para evitar el catabolismo inútil de carbohidratos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.54,
+      "bundle_id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el rendimiento teórico aproximado de ATP producido por mol de glucosa completamente oxidada a $CO_2$ y $H_2O$?",
+      "context": "En Cali se estudia el balance neto de producción de ATP en la oxidación completa de 1 mol de glucosa por respiración aeróbica en una célula cardíaca (lanzadera malato-aspartato).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 a 32 moles de ATP.",
+          "is_correct": true,
+          "feedback": "Correcto. Glucólisis (2 ATP + 2 NADH), Piruvato a Acetil-CoA (2 NADH), Krebs (2 GTP + 6 NADH + 2 FADH2), acoplados a quimiósmosis."
+        },
+        {
+          "letter": "B",
+          "text": "2 moles de ATP.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Rendimiento exclusivo de la fermentación anaeróbica."
+        },
+        {
+          "letter": "C",
+          "text": "100 moles de ATP.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sobreestima la energía química atrapable por fosforilación."
+        },
+        {
+          "letter": "D",
+          "text": "0 moles de ATP.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La respiración aeróbica produce una alta cantidad neta de ATP."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La oxidación completa de glucosa genera ~30-32 ATP (considerando el costo de transporte de protones por $ATP$ sintetizado).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.51,
+      "bundle_id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle-v13",
+      "statement": "¿Cuántos ciclos de beta-oxidación se requieren para degradar completamente el palmitato (16:0) a 8 moléculas de Acetil-CoA?",
+      "context": "En Medellín se compara la beta-oxidación de un ácido graso de 16 carbonos (ácido palmítico) con la glucólisis de una hexosa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7 ciclos de beta-oxidación.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada ciclo retira un fragmento de 2 carbonos (Acetil-CoA); el séptimo ciclo corta un fragmento de 4C liberando 2 Acetil-CoA ($7 \\text{ cortes} = 8 \\text{ fragmentos}$)."
+        },
+        {
+          "letter": "B",
+          "text": "8 ciclos de beta-oxidación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El último corte de 4 carbonos genera dos Acetil-CoA simultáneamente."
+        },
+        {
+          "letter": "C",
+          "text": "16 ciclos de beta-oxidación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se remueven pares de carbonos, no carbonos individuales."
+        },
+        {
+          "letter": "D",
+          "text": "4 ciclos de beta-oxidación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $4 \times 2 = 8$ carbonos, la mitad del palmitato."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Número de ciclos $= (n/2) - 1 = (16/2) - 1 = 7$ ciclos. Genera 8 Acetil-CoA, 7 NADH y 7 FADH2.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.48,
+      "bundle_id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle-v14",
+      "statement": "¿Por qué la gluconeogénesis requiere el consumo neto de 6 enlaces de alta energía (4 ATP + 2 GTP) para sintetizar 1 glucosa a partir de 2 piruvatos, mientras la glucólisis sólo produce 2 ATP?",
+      "context": "En Bogotá se analiza la gluconeogénesis hepática (síntesis de glucosa a partir de precursores no glúcidos como lactato, glicerol y alanina) durante un ayuno prolongado de 24 horas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la gluconeogénesis debe superar tres pasos irreversibles exergónicos de la glucólisis mediante rodeos enzimáticos endergónicos.",
+          "is_correct": true,
+          "feedback": "Correcto. Las reacciones de la piruvato quinasa, PFK-1 y hexoquinasa son irreversibles y requieren acoplamiento energético para revertirse."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la síntesis destruye las moléculas de glicerol.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El glicerol es un sustrato precursor aprovechable."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la gluconeogénesis ocurre dentro de los glóbulos rojos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre principalmente en el hígado y riñón."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el ATP no puede utilizarse en el citoplasma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ATP se utiliza ampliamente en el citoplasma."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Superar los pasos irreversibles glucolíticos (piruvato quinasa, PFK-1, hexoquinasa) requiere rodeos metabólicos que insumen 6 equivalentes de ATP.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.45,
+      "bundle_id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle-v15",
+      "statement": "¿Qué función cumple la enzima Rubisco y por qué su actividad oxigenasa (fotorrespiración) reduce la eficiencia fotosintética?",
+      "context": "En Tunja se estudia el ciclo de Calvin en la fase oscura fotosintética de plantas $C_3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fija $CO_2$ a la ribulosa-1,5-bisfosfato; su función oxigenasa fija $O_2$ consumiendo ATP y $O_2$ sin fijar carbono.",
+          "is_correct": true,
+          "feedback": "Correcto. La fotorrespiración compite con la carboxilación, desperdiciando energía fija y liberando $CO_2$ previamente fijado."
+        },
+        {
+          "letter": "B",
+          "text": "Sintetiza glucosa a partir de nitrógeno líquido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Rubisco no utiliza nitrógeno líquido."
+        },
+        {
+          "letter": "C",
+          "text": "Produce energía eólica dentro del cloroplasto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Término no biológico."
+        },
+        {
+          "letter": "D",
+          "text": "Degrada el agua liberando hidrógeno explosivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fotólisis del agua ocurre en el fotosistema II."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La actividad oxigenasa de la Rubisco induce fotorrespiración, un proceso disipativo que reduce el rendimiento neto de fijación de $CO_2$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.42,
+      "bundle_id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle-v16",
+      "statement": "¿Qué cascada de señalización intracelular activa el glucagón en el hepatocito para estimular la glucogenólisis?",
+      "context": "En Bucaramanga se analiza el efecto de la hormona glucagón sobre el metabolismo del glucógeno hepático durante el ayuno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Activación de la adenilato ciclasa $\\rightarrow$ incremento de AMP cíclico (AMPc) $\\rightarrow$ activación de Proteína Quinasa A (PKA) $\\rightarrow$ fosforilación activa de la glucógeno fosforilasa.",
+          "is_correct": true,
+          "feedback": "Correcto. La cascada de fosforilaciones por AMPc/PKA activa la degradación de glucógeno para liberar glucosa al torrente sanguíneo."
+        },
+        {
+          "letter": "B",
+          "text": "Inhibición de la síntesis de ARN en el núcleo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La respuesta aguda es por modificación covalente enzimática."
+        },
+        {
+          "letter": "C",
+          "text": "Destrucción inmediata del receptor de insulina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No destruye receptores membranales."
+        },
+        {
+          "letter": "D",
+          "text": "Entrada masiva de sodio para acidificar el citosol.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El segundo mensajero primario es el AMPc."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El glucagón actúa vía receptor acoplado a proteína Gs, elevando AMPc y PKA para activar la glucógeno fosforilasa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.39,
+      "bundle_id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle-v17",
+      "statement": "¿Qué condición físico-química debe mantenerse a través de la membrana liposómica interna para garantizar la síntesis continua de ATP?",
+      "context": "Un equipo de bioingeniería en Bogotá evalúa el diseño de mitocondrias artificiales encapsuladas en liposomas para revertir la hipoxia tisular en trasplantes de órganos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un gradiente de concentración de protones ($\\Delta pH$) y un potencial eléctrico ($\\Delta \\Psi$) con el espacio intermembrana más ácido y positivo que la matriz.",
+          "is_correct": true,
+          "feedback": "Correcto. La fuerza protón-motriz ($Delta p = Delta Psi - ZDelta pH$) es indispensable para mover la ATP sintasa."
+        },
+        {
+          "letter": "B",
+          "text": "Presión hidrostática de 100 atmósferas en el interior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Rompería la estructura vesicular liposómica."
+        },
+        {
+          "letter": "C",
+          "text": "Ausencia total de moléculas de agua en el lumen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fosforilación oxidativa requiere fase acuosa."
+        },
+        {
+          "letter": "D",
+          "text": "Concentración de glucosa de 10 M dentro de la matriz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La glucosa no ingresa a la mitocondria; se oxida a piruvato en citosol."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La síntesis de ATP exige conservar la fuerza protón-motriz integrada por la diferencia de pH y el potencial de membrana electroquímico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.35,
+      "bundle_id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle-v18",
+      "statement": "¿Por qué la falta de insulina induce cetoacidosis grave a partir del metabolismo de ácidos grasos?",
+      "context": "En un estudio metabólico en Medellín se analiza la acumulación de cuerpos cetónicos (acetoacetato y $\\beta$-hidroxibutirato) en pacientes con diabetes mellitus tipo 1 no controlada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La lipólisis descontrolada satura el hígado con Acetil-CoA; al agotarse el oxaloacetato (desviado a gluconeogénesis), el exceso de Acetil-CoA forma cuerpos cetónicos ácidos.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin oxaloacetato suficiente para condensar en el Ciclo de Krebs, los restos de Acetil-CoA se desvían a la cetogénesis."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los ácidos grasos se convierten en ácido clorhídrico en la sangre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cuerpos cetónicos son ácidos carboxílicos/cetonas orgánicas, no $HCl$."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el páncreas secreta cianuro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falta de insulina se debe a destrucción autoinmune de células beta."
+        },
+        {
+          "letter": "D",
+          "text": "Because the kidneys stop filtering water completely.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La glucosuria provoca diuresis osmótica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El déficit de oxaloacetato desvía el excedente de Acetil-CoA hepático hacia la cetogénesis, liberando acetoacetato y $\beta$-hidroxibutirato al plasma.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.32,
+      "bundle_id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle-v19",
+      "statement": "¿Por qué la iluminación pulsada de alta frecuencia mejora el aprovechamiento fotónico reduciendo la saturación fotosintética?",
+      "context": "Un grupo de biotecnología algal en Cali cultiva microalgas *Chlorella* para secuestrar $CO_2$ industrial. Evalúan la eficiencia fotosintética bajo iluminación continua vs pulsada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite acoplar la velocidad veloz de la fase luminosa con el tiempo más lento de renovación de acceptors en el ciclo de Calvin.",
+          "is_correct": true,
+          "feedback": "Correcto. La fase de fijación enzimática de carbono ($C_3$) es más lenta que la excitación fotónica; los pulsos evitan el desperdicio fotónico por disipación térmica."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los pulsos de luz convierten el carbono en metales preciosos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay formación de metales."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la microalga destruye el agua en ausencia de luz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fotólisis requiere excitación luminosa."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la luz continua quema la pared celular en 1 segundo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La luz continua causa fotoinhibición por saturación del centro de reacción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ajustar la frecuencia de pulsos sincroniza el flujo fotónico con la capacidad del ciclo de Calvin, evitando fotoinhibición.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.28,
+      "bundle_id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle-v20",
+      "statement": "¿Qué impacto tiene esta inhibición moderada sobre la relación AMP/ATP celular y la tasa de gluconeogénesis hepática?",
+      "context": "Se investiga el fármaco antidiabético metformina en Cartagena. Se descubre que inhibe parcialmente el Complejo I de la cadena respiratoria mitocondrial en hepatocitos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eleva la relación AMP/ATP activando la enzima AMP-quinasa (AMPK), lo que suprime la gluconeogénesis y reduce la glucemia plasmática.",
+          "is_correct": true,
+          "feedback": "Correcto. La reducción discreta de ATP activa la AMPK, la cual apaga vías anabólicas costosas como la gluconeogénesis hepática."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta la gluconeogénesis generando hiperglucemia severa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La metformina disminuye la producción hepática de glucosa."
+        },
+        {
+          "letter": "C",
+          "text": "Destruye todos los transportadores GLUT4 del músculo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La metformina mejora la sensibilidad insulínica."
+        },
+        {
+          "letter": "D",
+          "text": "Provoca la síntesis de almidón en el plasma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plasma no sintetiza almidón."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La modesta reducción de ATP activa la AMPK, sensor metabólico que frena la gluconeogénesis ahorrando energía y reduciendo la glucemia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.25,
+      "bundle_id": "CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-17-grade-11-subject-lectura_critica",
+    "generated_at": "2026-08-29T18:22:22.192Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la tesis central que defiende el autor en la oración?",
+      "context": "Lea el siguiente enunciado de un ensayo sobre educación: \"Es imperativo descentralizar la inversión en infraestructura educativa en Colombia, puesto que el 70% de las aulas rurales en los departamentos periféricos presentan deterioros graves que impiden el aprendizaje digno\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es imperativo descentralizar la inversión en infraestructura educativa en Colombia.",
+          "is_correct": true,
+          "feedback": "Correcto. La tesis es la postura o afirmación principal que el autor busca sostener mediante la evidencia posterior."
+        },
+        {
+          "letter": "B",
+          "text": "El 70% de las aulas rurales en los departamentos periféricos presentan deterioros graves.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este dato es la premisa o evidencia estadística que apoya la tesis, no la tesis misma."
+        },
+        {
+          "letter": "C",
+          "text": "Los estudiantes de las ciudades no requieren mantenimiento en sus colegios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no afirma nada sobre la infraestructura urbana ni niega su necesidad."
+        },
+        {
+          "letter": "D",
+          "text": "La educación rural colombiana es la mejor de América Latina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento denuncia justamente el deterioro y las carencias del sector rural."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar la tesis en un texto argumentativo implica aislar la proposición principal o juicio de valor que el autor pretende probar mediante argumentos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle-v2",
+      "statement": "¿Qué conector marca el paso hacia la conclusión del argumento del autor?",
+      "context": "En un ensayo sobre la transición energética se lee: \"Por un lado, los defensores del petróleo argumentan su alto aporte a las finanzas públicas. Por otro lado, los datos sobre el calentamiento global demuestran la urgencia de abandonar los combustibles fósiles. Por lo tanto, Colombia debe planificar una sustitución gradual y sustentable\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Por lo tanto\"",
+          "is_correct": true,
+          "feedback": "Correcto. El conector ilativo/conclusivo \"Por lo tanto\" sintética la postura final derivada de las premisas previas."
+        },
+        {
+          "letter": "B",
+          "text": "\"Por un lado\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un organizador discursivo para presentar la primera postura o premisa."
+        },
+        {
+          "letter": "C",
+          "text": "\"Por otro lado\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un marcador de contraste para introducir la postura opuesta."
+        },
+        {
+          "letter": "D",
+          "text": "\"los defensores del petróleo\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un sintagma nominal sujeto y no un conector lógico discursivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los conectores conclusivos (por lo tanto, en consecuencia, por ende) señalan el remate deductivo de la estructura argumentativa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle-v3",
+      "statement": "El autor recurre a Estanislao Zuleta con el fin de utilizar un:",
+      "context": "En un ensayo filosófico se afirma: \"Como bien señalaba Estanislao Zuleta en su *Elogio de la dificultad*, la búsqueda de una felicidad sin problemas ni luchas conduce inevitablemente al estancamiento del espíritu humano\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento de autoridad para respaldar su propia tesis sobre el valor del esfuerzo.",
+          "is_correct": true,
+          "feedback": "Correcto. Citar a un pensador reconocido (Zuleta) busca dar validez y prestigio al punto de vista sostenido."
+        },
+        {
+          "letter": "B",
+          "text": "Contraargumento que destruye por completo su propio punto de vista.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cita apoya y refuerza la postura del autor, no la invalida."
+        },
+        {
+          "letter": "C",
+          "text": "Ejemplo estadístico cuantitativo basado en mediciones de laboratorio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una referencia filosófica cualitativa y no un dato numérico de laboratorio."
+        },
+        {
+          "letter": "D",
+          "text": "Relato de ficción para entretener al lector con una fábula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ensayo cita un texto ensayístico real para sostener una reflexión conceptual."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El argumento de autoridad sostiene la validez de una premisa apelando al conocimiento o prestigio de un experto o pensador reconocido.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle-v4",
+      "statement": "¿Qué tipo de recurso argumentativo se emplea en esta comparación?",
+      "context": "En un artículo sobre redes sociales se sostiene: \"Permitir que los niños usen teléfonos sin supervisión es equivalente a dejarlos solos en medio de una avenida de alto tráfico a medianoche\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un argumento por analogía que traslada el riesgo físico conocido a la esfera del entorno digital.",
+          "is_correct": true,
+          "feedback": "Correcto. La analogía compara dos situaciones disímiles en apariencia para ilustrar el grado de peligro desprotegido."
+        },
+        {
+          "letter": "B",
+          "text": "Una cifra estadística obtenida de la Policía de Tránsito de Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay datos numéricos ni reportes de tránsito; es una comparación figurativa."
+        },
+        {
+          "letter": "C",
+          "text": "Una definición léxica extraída del Diccionario de la Real Academia Española.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor no define palabras sino que equipara dos escenarios de riesgo."
+        },
+        {
+          "letter": "D",
+          "text": "Una cita textual directa de un científico en informática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un recurso expresivo-analógico propio del autor del texto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La analogía argumentativa establece una relación de semejanza entre dos estructuras para hacer evidente la validez de una conclusión.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la forma de razonamiento empleada en la construcción de este argumento?",
+      "context": "Lea la siguiente secuencia argumentativa: Premisa 1: \"Todos los países que han invertido más del 2% de su PIB en investigación científica han aumentado sus patentes industriales\". Premisa 2: \"Colombia invierte actualmente menos del 0.3% de su PIB en ciencia\". Conclusión: \"Si Colombia no incrementa su presupuesto científico, continuará rezagada en innovación industrial\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un razonamiento deductivo hipotético que deriva una consecuencia a partir de una regla general y una premisa empírica.",
+          "is_correct": true,
+          "feedback": "Correcto. Aplica el principio general del impacto de la inversión a la situación particular de Colombia para inferir el resultado."
+        },
+        {
+          "letter": "B",
+          "text": "Una falacia ad hominem basada en el insulto personal contra los científicos colombianos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El argumento se estructura sobre porcentajes de inversión y no sobre ataques personales."
+        },
+        {
+          "letter": "C",
+          "text": "Una narración lírica de recuerdos de infancia en el laboratorio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estructura es un silogismo/deducción lógica sobre políticas de ciencia."
+        },
+        {
+          "letter": "D",
+          "text": "Una petición de principio que repite la misma palabra en todas las oraciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay una progresión lógica válida desde las premisas comparativas hacia la conclusión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El razonamiento deductivo aplica enunciados generales verificados a casos específicos para extraer conclusiones lógicas sólidas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle-v6",
+      "statement": "En este fragmento, la frase \"Algunos sostienen que el voto obligatorio viola la libertad individual\" cumple la función de:",
+      "context": "En un ensayo sobre el voto obligatorio, el autor escribe: \"Algunos sostienen que el voto obligatorio viola la libertad individual. Sin embargo, dicha postura olvida que la libertad sin deberes cívicos autodestruye las bases democráticas que la garantizan. Por ende, la obligación legal de votar fortalece y no debilita la libertad\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar un contraargumento (antítesis) para luego refutarlo y consolidar su propia postura.",
+          "is_correct": true,
+          "feedback": "Correcto. La técnica de refutación exige exponer la objeción adversa para luego desarmarla mediante argumentos superiores."
+        },
+        {
+          "letter": "B",
+          "text": "La conclusión definitiva de todo el ensayo escrito por el autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta frase es la postura contraria que el autor busca combatir en las líneas siguientes."
+        },
+        {
+          "letter": "C",
+          "text": "Un dato bibliográfico sobre la historia de la Constitución de 1991.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se aporta una cita constitucional sino la mención a una tesis adversa."
+        },
+        {
+          "letter": "D",
+          "text": "Una disculpa formal del autor por no tener una opinión clara sobre el tema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor demuestra una postura firme al refutar tajantemente la antítesis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La refutación en el ensayo argumentativo consiste en anticipar o presentar la postura contraria (contraargumento) para demostrar sus fallas y validar la tesis propia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle-v7",
+      "statement": "¿Qué tipo de evidencia utiliza el editorial para sostener su propuesta de política pública?",
+      "context": "Un editorial periodístico propone: \"Para reducir el desempleo juvenil en Colombia se deben reducir las cargas parafiscales a las empresas que contraten a su primer empleado\". Para sostenerlo, muestra que en el Reino Unido y Chile una medida idéntica redujo el desempleo juvenil en un 15%.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumento por analogía e idoneidad empírica basada en experiencias internacionales previas.",
+          "is_correct": true,
+          "feedback": "Correcto. Se apoya en el éxito documentado de la misma medida en otros países para argumentar su efectividad local."
+        },
+        {
+          "letter": "B",
+          "text": "Una apelación puramente emotiva para conmover al lector sobre la juventud.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ofrece datos de reducción porcentual (15%) en otros estados y no solo retórica afectiva."
+        },
+        {
+          "letter": "C",
+          "text": "Una profecía religiosa sin ningún sustento económico real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El argumento se basa en políticas laborales internacionales comparadas."
+        },
+        {
+          "letter": "D",
+          "text": "Una amenaza implícita de sanción legal contra los jóvenes que no trabajen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto propone incentivos a las empresas y no castigos a los jóvenes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los argumentos basados en modelos internacionales exitosos combinan la analogía con la evidencia empírica para fundamentar propuestas de reforma.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle-v8",
+      "statement": "La falla argumentativa (falacia de la pista falsa o ignorancia del asunto) cometa por el conferencista consiste en:",
+      "context": "En un debate sobre la prohibición de plásticos de un solo uso, un conferencista afirma: \"No podemos prohibir las bolsas de plástico porque el plástico se inventó en el siglo XX y ha sido indispensable para la medicina moderna en las jeringas desechables\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desviar la atención del debate (bolsas de plástico) hacia un uso médico distinto y no cuestionado (jeringas).",
+          "is_correct": true,
+          "feedback": "Correcto. Introducir el uso médico de los plásticos distrae de la discusión específica sobre empaques desechables contaminantes."
+        },
+        {
+          "letter": "B",
+          "text": "Probar científicamente que las bolsas de plástico son biodegradables en un día.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conferencista no prueba nada sobre bolsas, sino que desvía el tema hacia las jeringas."
+        },
+        {
+          "letter": "C",
+          "text": "Demostrar que el siglo XX fue el siglo de mayor progreso biológico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falla radica en la irrelevancia del ejemplo médico para justificar las bolsas comerciales."
+        },
+        {
+          "letter": "D",
+          "text": "Apoyar sin reservas la eliminación inmediata de todos los plásticos en los hospitales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hablante busca evitar la prohibición mediante un recurso de distracción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La falacia de la pista falsa (red herring) desvía el foco de la discusión introduciendo un tema colateral irrelavante pero emotivamente favorable.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la relación de causalidad que articula el párrafo?",
+      "context": "Lea el siguiente párrafo: \"La agricultura intensiva ha provocado la salinización de los suelos en el valle del río Cauca. Debido al riego excesivo sin drenaje adecuado, las sales minerales emergen a la superficie, impidiendo la siembra. En consecuencia, miles de hectáreas han quedado estériles\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El riego excesivo sin drenaje (causa) provoca la salinización y esterilidad del suelo (efecto).",
+          "is_correct": true,
+          "feedback": "Correcto. El conector \"Debido a\" introduce la causa técnica y \"En consecuencia\" señala el impacto degradante."
+        },
+        {
+          "letter": "B",
+          "text": "La esterilidad del suelo (causa) obligó a los agricultores a inventar el riego excesivo (efecto).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invierte erróneamente el orden causal real expuesto en el fragmento."
+        },
+        {
+          "letter": "C",
+          "text": "La siembra de papa en Boyacá provocó la salinización del río Cauca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no menciona cultivos de Boyacá ni esa relación geográfica."
+        },
+        {
+          "letter": "D",
+          "text": "El uso de tractores eléctricos erradicó todas las sales minerales del suelo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento no habla de maquinarias eléctricas ni de soluciones implementadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La estructura causa-efecto en textos argumentativos e informativos exige identificar con precisión cuál evento genera la consecuencia posterior.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle-v10",
+      "statement": "La intención del ensayista al mencionar a Zapata Olivella y Albalucía Ángel es:",
+      "context": "Un ensayista escribe sobre la literatura colombiana: \"Afirmar que Gabriel García Márquez es nuestro único gran escritor es condenar a la invisibilidad a figuras colosales como Manuel Zapata Olivella o Albalucía Ángel, quienes exploraron la matriz afrocolombiana y la condición femenina con igual genialidad\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuestionar el monopolio canónico de un solo autor para reivindicar la diversidad del patrimonio literario nacional.",
+          "is_correct": true,
+          "feedback": "Correcto. El autor busca ampliar el canon literario cuestionando la reducción de las letras colombianas a una sola figura."
+        },
+        {
+          "letter": "B",
+          "text": "Demostrar que García Márquez no escribió ninguna novela de valor artístico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto llama a García Márquez \"gran escritor\", pero objeta que se le considere el \"único\"."
+        },
+        {
+          "letter": "C",
+          "text": "Exigir que se prohíba la venta de *Cien años de soledad* en las librerías de Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No busca la censura del Nobel sino la inclusión y valoración de otros autores fundamentales."
+        },
+        {
+          "letter": "D",
+          "text": "Probar que la literatura afrocolombiana se escribió únicamente en idioma francés.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aborda debates lingüísticos extranjeros sino la riqueza temática de los autores nacionales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El uso de contraejemplos o adiciones en el ensayo de crítica cultural sirve para desmantelar visiones monolíticas o reduccionistas del canon.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle-v11",
+      "statement": "¿En qué falacia de exageración lógica incurre el argumento del ensayo?",
+      "context": "En un ensayo sobre la tecnología se expone: \"Si prohibimos el uso de calculadoras en la escuela, pronto prohibiremos las computadoras, luego los libros impresos y terminaremos regresando a las cavernas a pintar en las paredes\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Falacia de la pendiente resbaladiza (*slippery slope*), al asumir sin justificación una cadena inevitable de eventos catastróficos.",
+          "is_correct": true,
+          "feedback": "Correcto. Encadenar la prohibición de calculadoras con el regreso a las cavernas es una extrapolación extrema infundada."
+        },
+        {
+          "letter": "B",
+          "text": "Argumento por el absurdo basado en ecuaciones de física cuántica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay desarrollo de ecuaciones físicas; hay un encadenamiento falaz de miedos hipotéticos."
+        },
+        {
+          "letter": "C",
+          "text": "Apelación legítima a las leyes del código educativo colombiano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El argumento no cita normas legales sino que inventa una escala de prohibiciones absurda."
+        },
+        {
+          "letter": "D",
+          "text": "Definición rigurosa del arte rupestre de las sociedades prehistóricas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mención de las cavernas es un recurso hiperbólico falaz y no un estudio de arqueología."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La falacia de la pendiente resbaladiza sostiene que un primer paso pequeño conducirá indefectiblemente a una cadena de consecuencias extremas e improbables.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle-v12",
+      "statement": "¿De qué manera la metáfora final (\"un faro para navegar, no un ancla que inmovilice\") aclara la postura del autor sobre la memoria?",
+      "context": "Lea el siguiente pasaje de un ensayo sobre la memoria histórica: \"Un país que olvida su pasado está condenado a repetirlo. Pero un país que habita exclusivamente en el resentimiento del pasado anula su posibilidad de construir futuro. La memoria debe ser un faro para navegar, no un ancla que inmovilice\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Define la memoria como una guía orientadora para el progreso y no como una carga obsesiva que paralice la sociedad.",
+          "is_correct": true,
+          "feedback": "Correcto. El faro guía la navegación futura, mientras el ancla fija al fondo; la metáfora equilibra el aprendizaje histórico con el avance."
+        },
+        {
+          "letter": "B",
+          "text": "Afirma que Colombia debe construir barcos y faros en todos los puertos pesqueros del Océano Pacífico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor utiliza términos marítimos como metáfora conceptual de la historia y no de ingeniería naval."
+        },
+        {
+          "letter": "C",
+          "text": "Exige la erradicación total de los archivos históricos y museos de la nación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor valida la memoria como \"faro\" (guía), rechazando únicamente su uso paralizante."
+        },
+        {
+          "letter": "D",
+          "text": "Sostiene que el resentimiento es el único motor válido de las transformaciones políticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto advierte expresamente que habitar en el resentimiento anula el futuro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis de metáforas en textos ensayísticos permite comprender cómo el autor resuelve tensiones conceptuales mediante imágenes sintéticas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle-v13",
+      "statement": "El razonamiento del columnista es un ejemplo clásico de la falacia:",
+      "context": "Un columnista escribe: \"El senador X afirma que la nueva ley beneficiará a los campesinos. Pero no debemos olvidar que el senador X fue investigado por enriquecimiento ilícito. Por consiguiente, su proyecto de ley es malo para el campo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "*Ad hominem* ofensivo, pues descalifica el contenido de una propuesta atacando los antecedentes morales del proponente.",
+          "is_correct": true,
+          "feedback": "Correcto. Las faltas del senador no invalidan automáticamente el contenido técnico de un texto legal; se debe examinar la ley misma."
+        },
+        {
+          "letter": "B",
+          "text": "*Ad populum*, al apelar a lo que piensa la mayoría de los votantes en una encuesta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falacia ad populum recurre a la masa o mayoría, mientras aquí se ataca a un individuo específico."
+        },
+        {
+          "letter": "C",
+          "text": "Generalización apresurada sobre los cultivos de alimentos en el país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aborda datos agronómicos sino la conducta del senador."
+        },
+        {
+          "letter": "D",
+          "text": "Argumento de autoridad científica incontestable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Atacar la moral de alguien es lo opuesto a apelar a una autoridad técnica acreditada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La falacia *ad hominem* invalida un argumento atacando las características de la persona que lo formula en lugar de evaluar la solidez de sus razones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la estrategia analítica empleada por el ensayista para cuestionar la postura opositora?",
+      "context": "En un ensayo sobre la eutanasia, el autor expone: \"Quienes se oponen a la muerte digna argumentan el carácter sagrado de la vida biológica. No obstante, confunden la mera supervivencia vegetativa del cuerpo con la vida personal plena sustentada en la dignidad y la autonomía\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desarticular el concepto clave de la antítesis mediante una distinción semántica entre \"vida vegetativa\" y \"vida digna\".",
+          "is_correct": true,
+          "feedback": "Correcto. Al redefinir qué se entiende por \"vida\", el autor demuestra una falla conceptual en el argumento de los opositores."
+        },
+        {
+          "letter": "B",
+          "text": "Insultar a los médicos que trabajan en unidades de cuidados intensivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor argumenta conceptualmente sobre la definición de vida sin recurrir a agresiones personales."
+        },
+        {
+          "letter": "C",
+          "text": "Exigir que se cierren todos los hospitales del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ninguna propuesta de cierre hospitalario; la discusión es bioética sobre la dignidad."
+        },
+        {
+          "letter": "D",
+          "text": "Demostrar que los seres humanos no poseen autonomía individual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor defiende precisamente la autonomía como pilar de la dignidad personal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La clarificación semántica y la precisión conceptual son estrategias centrales en la ensayística para refutar premisas adversas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es la premisa implícita que le da fuerza argumentativa a esta afirmación?",
+      "context": "En un ensayo sobre la preservación de las lenguas nativas en Colombia se afirma: \"Cada vez que una lengua indígena desaparece, no solo se pierden palabras: se extingue una cosmogonía entera, una forma única de nombrar el río, la selva y las estrellas que tardó miles de años en gestarse\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El lenguaje no es un mero instrumento neutro, sino la estructura que configura la cultura y la visión del mundo de un pueblo.",
+          "is_correct": true,
+          "feedback": "Correcto. Asumir que el lenguaje codifica la cosmogonía sustenta que perder la lengua implique perder toda la riqueza cultural."
+        },
+        {
+          "letter": "B",
+          "text": "Las lenguas indígenas son más fáciles de aprender que las lenguas europeas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no aborda la facilidad de aprendizaje sino el valor patrimonial de las visiones de mundo."
+        },
+        {
+          "letter": "C",
+          "text": "Los idiomas antiguos carecen de palabras para nombrar los elementos de la naturaleza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento resalta justamente la forma única e insustituible de nombrar la selva y los ríos."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los ciudadanos colombianos deben hablar obligatoriamente diez idiomas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La premisa es sobre la pérdida de diversidad cultural y no sobre mandatos de poliglotismo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar premisas implícitas o presupuestos teóricos en un ensayo permite comprender por qué el autor asigna cierta gravedad a los hechos descritos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle-v16",
+      "statement": "¿De qué manera funciona la analogía del \"incendio y la gasolina\" dentro de la estructura discursiva?",
+      "context": "Un texto argumentativo sobre el sistema penitenciario afirma: \"Aumentar las penas de prisión sin reformar las condiciones de exclusión social es como intentar apagar un incendio forestal arrojando gasolina sobre las llamas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ilustra la absoluta contraproducencia de una medida que, en lugar de solucionar el problema, lo agrava.",
+          "is_correct": true,
+          "feedback": "Correcto. La analogía demuestra de forma visual que endurecer penas en contextos desiguales multiplica la delincuencia."
+        },
+        {
+          "letter": "B",
+          "text": "Enseña a los bomberos a apagar fuegos producidos por derivados del petróleo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto trata sobre política criminal y penal, no sobre técnicas de extinción de incendios."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que la construcción de carceles reduce los incendios forestales en verano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay relación literal entre la construcción de penales y la prevención de incendios ambientales."
+        },
+        {
+          "letter": "D",
+          "text": "Exige que los prisioneros trabajen como bomberos forestales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un recurso figurativo de la retórica argumentativa y no un plan laboral penitenciario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las analogías hiperbólicas en la argumentación política enfatizan la ilogicidad de ciertas medidas institucionales mostrando sus consecuencias absurdas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle-v17",
+      "statement": "Al evaluar la validez generalizadora de la tesis del ensayista, se evidencia que comete la falacia de:",
+      "context": "Un ensayista económico sostiene que \"el libre mercado sin ninguna intervención estatal es el único sistema capaz de erradicar la pobreza\". Para probarlo, cita exclusivamente tres años de bonanza bursátil en un país desarrollado, omitiendo las crisis financieras globales, las desigualdades de ingresos y la existencia de monopolios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sesgo de confirmación y prueba incompleta (*cherry picking*), al seleccionar solo los datos favorables que respaldan su dogma.",
+          "is_correct": true,
+          "feedback": "Correcto. Omitir sistemáticamente la evidencia masiva en contrario para presentar un escenario idealizado invalida el rigor del ensayo."
+        },
+        {
+          "letter": "B",
+          "text": "Falacia de apelación al miedo desmedido a las fuerzas de la naturaleza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor no apela al miedo ambiental sino que selecciona sesgadamente datos de prosperidad económica."
+        },
+        {
+          "letter": "C",
+          "text": "Demostración matemática irrefutable basada en el consenso de todos los economistas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignorar las crisis y desigualdades destruye el consenso y demuestra la falta de rigor del escrito."
+        },
+        {
+          "letter": "D",
+          "text": "Uso correcto del método de falsación de hipótesis de Karl Popper.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El método popperiano exige buscar evidencia que contradiga la hipótesis; el autor hizo lo opuesto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sesgo de confirmación o *cherry picking* en ensayos de opinión consiste en manipular la evidencia citando solo lo conveniente y ocultando la evidencia adversa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle-v18",
+      "statement": "¿Por qué esta conclusión incurre en un falso dilema (falsa dicotomía)?",
+      "context": "Un ensayo sobre la paz en Colombia concluye: \"Debemos elegir entre el perdón absoluto y sin condiciones para todos los actores armados, o la guerra infinita hasta la destrucción total del país\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque reduce arbitrariamente un abanico complejo de justicia transicional a dos opciones extremas e incompatibles.",
+          "is_correct": true,
+          "feedback": "Correcto. Ignora alternativas intermedias como la justicia restaurativa, la verdad y la reparación con penas alternativas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque demuestra que las guerras en Colombia solo pueden durar una semana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falla no es la duración temporal sino obligar al lector a elegir entre dos extremos falsos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque apoya incondicionalmente las doctrinas de la diplomacia internacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El falso dilema es un defecto de la estructura lógica del argumento y no un aval diplomático."
+        },
+        {
+          "letter": "D",
+          "text": "Porque utiliza conectores gramaticales propios de la poesía renacentista.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vicio es de reduccionismo lógico argumentativo y no un asunto de estilística poética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El falso dilema empuja al receptor a optar por una entre dos alternativas extremas, ocultando las opciones intermedias o matizadas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle-v19",
+      "statement": "La réplica del Ensayista B configura una falacia del hombre de paja (*straw man*) porque:",
+      "context": "Dos ensayistas debaten sobre el uso de celulares en las aulas. El Ensayista A argumenta que los teléfonos deben integrarse como herramientas pedagógicas guiadas para la investigación. El Ensayista B replica: \"El Ensayista A quiere que los estudiantes jueguen videojuegos en clase y no aprendan a leer ni escribir\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Caricaturiza y distorsiona la propuesta del Ensayista A para fabricar una postura absurda más fácil de atacar.",
+          "is_correct": true,
+          "feedback": "Correcto. Transformar el \"uso pedagógico guiado\" en \"jugar videojuegos y no aprender\" deforma intencionalmente el argumento rival."
+        },
+        {
+          "letter": "B",
+          "text": "Responde con datos neurocientíficos sobre el nivel de dopamina en el cerebro infantil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No ofrece datos neurocientíficos sino que exagera grotescamente la afirmación del oponente."
+        },
+        {
+          "letter": "C",
+          "text": "Coincide plenamente con la propuesta original y demuestra una excelente capacidad de síntesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falacia del hombre de paja ataca una versión falsa y deformada de la propuesta inicial."
+        },
+        {
+          "letter": "D",
+          "text": "Cita las normas dictadas por la UNESCO sobre el uso de computadoras en la escuela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Ensayista B recurre a la deformación del argumento y no a citas institucionales de la UNESCO."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La falacia del hombre de paja consiste en deforma o simplificar grotescamente la posición del oponente para poder destruirla con mayor facilidad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle-v20",
+      "statement": "¿Qué quiebre de consistencia epistemológica presenta el ensayo al comparar ambos pasajes?",
+      "context": "En un ensayo sobre la crítica literaria, el autor afirma: \"Ningún texto es un islote cerrado; todo libro dialoga con la tradición que lo precede y con las lecturas futuras que lo reescriben\". Al mismo tiempo, en un capítulo posterior sostiene que \"debemos juzgar la obra únicamente por sus palabras sin importar la historia ni la tradición\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incurre en una contradicción insoluble al defender simultáneamente el intertexto histórico y el aislamiento textual absoluto.",
+          "is_correct": true,
+          "feedback": "Correcto. Sostener la intertextualidad diálogo con la tradición y luego exigir el juicio aislado del texto destruye la coherencia de su teoría."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra una perfecta evolución del pensamiento desde el romanticismo hacia el vanguardismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es evolución sino incoherencia teórica no resuelta en la argumentación del libro."
+        },
+        {
+          "letter": "C",
+          "text": "Cumple con los requisitos normativos exigidos por la Real Academia Española para los ensayos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las contradicciones lógicas internas quebrantan la solidez argumentativa del ensayo."
+        },
+        {
+          "letter": "D",
+          "text": "Prueba que los libros de literatura no deben ser leídos por los jóvenes en los colegios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El quiebre atañe a la teoría literaria del autor y no a una prohibición de lectura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación crítica de obras ensayísticas extensas requiere verificar la armonía epistemológica entre los principios teóricos enunciados a lo largo del texto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-11-2026-W17-estructura-argumentativa-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

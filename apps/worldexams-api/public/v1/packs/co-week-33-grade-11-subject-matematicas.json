@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-33-grade-11-subject-matematicas",
+    "generated_at": "2026-08-29T18:22:22.215Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle-v1",
+      "statement": "Â¿De cuÃ¡ntas maneras diferentes puede combinar una camisa y un pantalÃ³n?",
+      "context": "Camilo tiene 4 camisas distintas y 3 pantalones distintos para vestir en una reuniÃ³n familiar en BogotÃ¡.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": true,
+          "feedback": "Por el principio multiplicativo, el total de combinaciones es 4 * 3 = 12."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Se sumaron las opciones (4 + 3) en lugar de multiplicarlas."
+        },
+        {
+          "letter": "C",
+          "text": "14",
+          "is_correct": false,
+          "feedback": "Se realizÃ³ un cÃ¡lculo errÃ³neo sumando y multiplicando."
+        },
+        {
+          "letter": "D",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Se elevÃ³ 3 al cuadrado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El principio fundamental del conteo establece que si un evento ocurre de $m$ maneras y otro de $n$ maneras, la combinaciÃ³n de ambos ocurre de $m   imes n$ maneras. En este caso, $4   imes 3 = 12$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle-v2",
+      "statement": "Â¿CuÃ¡ntos almuerzos diferentes compuestos por una entrada, un plato fuerte y un postre se pueden elegir?",
+      "context": "Un restaurante en MedellÃ­n ofrece un menÃº del dÃ­a compuesto por 3 entradas, 4 platos fuertes y 2 postres.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24",
+          "is_correct": true,
+          "feedback": "Aplicando el principio multiplicativo: 3 * 4 * 2 = 24 opciones distintas de almuerzo."
+        },
+        {
+          "letter": "B",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Se sumaron las opciones disponibles de cada categorÃ­a (3 + 4 + 2 = 9)."
+        },
+        {
+          "letter": "C",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Se omitiÃ³ multiplicar por los 4 platos fuertes correctamente."
+        },
+        {
+          "letter": "D",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Se multiplicaron solo dos de las categorÃ­as disponibles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Multiplicando la cantidad de opciones de cada plato: $3   imes 4   imes 2 = 24$ almuerzos posibles.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle-v3",
+      "statement": "Â¿De cuÃ¡ntas maneras diferentes pueden ocupar las 5 posiciones en la meta?",
+      "context": "En una carrera atletica en Cali compiten 5 atletas y no hay empates.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "120",
+          "is_correct": true,
+          "feedback": "Es una permutaciÃ³n de 5 elementos: 5! = 5 * 4 * 3 * 2 * 1 = 120."
+        },
+        {
+          "letter": "B",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Se calculÃ³ 5 al cuadrado (5^2)."
+        },
+        {
+          "letter": "C",
+          "text": "60",
+          "is_correct": false,
+          "feedback": "Se dividiÃ³ 5! entre 2."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Se multiplicÃ³ 5 por 3."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El nÃºmero de ordenamientos posibles de $n$ elementos distintos es dado por el factorial $n!$. Para $n=5$, $5! = 120$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle-v4",
+      "statement": "Si el orden de las letras importa, Â¿cuÃ¡ntos cÃ³digos diferentes se pueden crear?",
+      "context": "Un cÃ³digo de seguridad en una tienda de Barranquilla estÃ¡ formado por 2 letras distintas seleccionadas del conjunto {A, B, C, D}.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": true,
+          "feedback": "Es una variaciÃ³n de 4 elementos tomados de a 2: V(4,2) = 4 * 3 = 12."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Corresponde a la combinaciÃ³n C(4,2) donde el orden no importa."
+        },
+        {
+          "letter": "C",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Se asumiÃ³ que las letras podÃ­an repetirse (4^2 = 16)."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Se multiplicÃ³ 4 por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que el orden de las letras importa y no hay repeticiÃ³n, es una permutaciÃ³n de 4 elementos tomados de a 2: $P(4,2) = \\frac{4!}{(4-2)!} = 4   imes 3 = 12$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle-v5",
+      "statement": "Â¿De cuÃ¡ntas formas se puede seleccionar esta delegaciÃ³n?",
+      "context": "Un comitÃ© estudiantil de 8 personas en Bucaramanga debe seleccionar una delegaciÃ³n de 3 integrantes sin cargos especÃ­ficos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "56",
+          "is_correct": true,
+          "feedback": "Es una combinaciÃ³n C(8,3) = 8! / (3! * 5!) = (8 * 7 * 6) / 6 = 56."
+        },
+        {
+          "letter": "B",
+          "text": "336",
+          "is_correct": false,
+          "feedback": "Se calculÃ³ la permutaciÃ³n P(8,3) = 8 * 7 * 6, pero el orden no importa en una delegaciÃ³n."
+        },
+        {
+          "letter": "C",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Se multiplicÃ³ 8 por 3."
+        },
+        {
+          "letter": "D",
+          "text": "112",
+          "is_correct": false,
+          "feedback": "Se multiplicÃ³ 56 por 2 por un error de simplificaciÃ³n."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al no importar el orden de los integrantes, se usa la fÃ³rmula de combinaciones: $C(n,k) = \\frac{n!}{k!(n-k)!}$. Para $C(8,3) = \\frac{8   imes 7   imes 6}{3   imes 2   imes 1} = 56$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle-v6",
+      "statement": "Â¿De cuÃ¡ntas maneras se puede formar el equipo si debe haber exactamente 2 hombres y 2 mujeres?",
+      "context": "De un grupo de 6 hombres y 5 mujeres en una empresa de Cartagena, se va a formar un equipo de trabajo de 4 personas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "150",
+          "is_correct": true,
+          "feedback": "C(6,2) = 15 maneras para los hombres; C(5,2) = 10 maneras para las mujeres. Total = 15 * 10 = 150."
+        },
+        {
+          "letter": "B",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Se sumaron las combinaciones C(6,2) + C(5,2) = 15 + 10 = 25."
+        },
+        {
+          "letter": "C",
+          "text": "330",
+          "is_correct": false,
+          "feedback": "Se calculÃ³ C(11,4) en lugar de separar por gÃ©neros."
+        },
+        {
+          "letter": "D",
+          "text": "60",
+          "is_correct": false,
+          "feedback": "Se multiplicaron 6 * 5 * 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Seleccionar 2 hombres de 6 se hace de $C(6,2) = 15$ formas. Seleccionar 2 mujeres de 5 se hace de $C(5,2) = 10$ formas. Por principio multiplicativo: $15   imes 10 = 150$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle-v7",
+      "statement": "Si 2 libros especÃ­ficos deben estar siempre juntos, Â¿de cuÃ¡ntas maneras se pueden organizar los 6 libros?",
+      "context": "Se quieren acomodar 6 libros distintos en un estante de una biblioteca en Pereira.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "240",
+          "is_correct": true,
+          "feedback": "Consideramos los 2 libros como 1 solo bloque: 5! = 120 formas. Los 2 libros se pueden ordenar entre sÃ­ de 2! = 2 maneras. Total = 120 * 2 = 240."
+        },
+        {
+          "letter": "B",
+          "text": "120",
+          "is_correct": false,
+          "feedback": "Se olvidÃ³ multiplicar por las 2! formas de permutar los 2 libros entre sÃ­ dentro del bloque."
+        },
+        {
+          "letter": "C",
+          "text": "720",
+          "is_correct": false,
+          "feedback": "Se calculÃ³ 6! ignorando la restricciÃ³n de que deben estar juntos."
+        },
+        {
+          "letter": "D",
+          "text": "480",
+          "is_correct": false,
+          "feedback": "Se multiplicÃ³ 5! por 4 por error."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Tratamos a los 2 libros juntos como un Ãºnico elemento. AsÃ­ agrupamos 5 elementos: $5! = 120$ formas. Como los 2 libros internos se permutan de $2! = 2$ formas, el total es $120   imes 2 = 240$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle-v8",
+      "statement": "No se permite repetir ninguna letra en la palabra formada.",
+      "context": "Â¿CuÃ¡ntas palabras con o sin sentido de 4 letras se pueden formar usando las letras de la palabra \"LIMA\"?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24",
+          "is_correct": true,
+          "feedback": "Las letras son 4 distintas (L, I, M, A). El nÃºmero de permutaciones es 4! = 4 * 3 * 2 * 1 = 24."
+        },
+        {
+          "letter": "B",
+          "text": "256",
+          "is_correct": false,
+          "feedback": "Se asumiÃ³ que las letras podÃ­an repetirse (4^4 = 256)."
+        },
+        {
+          "letter": "C",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Se calculÃ³ 4 * 4."
+        },
+        {
+          "letter": "D",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Se dividiÃ³ 4! entre 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al ser 4 letras distintas y formar palabras de 4 letras sin repeticiÃ³n, se permutan todas: $P_4 = 4! = 24$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle-v9",
+      "statement": "Si se utilizan 26 letras del alfabeto y los dÃ­gitos del 0 al 9, Â¿cuÃ¡ntas placas diferentes se pueden fabricar si se permite la repeticiÃ³n de letras y dÃ­gitos?",
+      "context": "Una placa vehicular en Colombia consta de 3 letras seguidas de 3 dÃ­gitos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$26^3   imes 10^3$",
+          "is_correct": true,
+          "feedback": "Hay 26 opciones para cada una de las 3 letras y 10 opciones para cada uno de los 3 dÃ­gitos: 26^3 * 10^3 = 17,576,000."
+        },
+        {
+          "letter": "B",
+          "text": "$26   imes 3 + 10   imes 3$",
+          "is_correct": false,
+          "feedback": "Se aplicÃ³ principio aditivo en lugar de multiplicativo."
+        },
+        {
+          "letter": "C",
+          "text": "$26   imes 25   imes 24   imes 10   imes 9   imes 8$",
+          "is_correct": false,
+          "feedback": "Se asumiÃ³ errÃ³neamente que no se permitÃ­a la repeticiÃ³n de letras y dÃ­gitos."
+        },
+        {
+          "letter": "D",
+          "text": "$36^6$",
+          "is_correct": false,
+          "feedback": "Se combinaron letras y dÃ­gitos en un solo conjunto de 36 elementos sin mantener el formato estructurado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cada posiciÃ³n es independiente y permite repeticiÃ³n. Para 3 letras hay $26^3$ posibilidades y para 3 dÃ­gitos hay $10^3$. En total $26^3   imes 10^3 = 17,576,000$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle-v10",
+      "statement": "Â¿CuÃ¡ntos partidos se disputan en total durante el torneo?",
+      "context": "En un torneo de fÃºtbol de 10 equipos en Pasto, todos juegan contra todos a una sola vuelta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "45",
+          "is_correct": true,
+          "feedback": "Cada partido es una combinaciÃ³n de 2 equipos tomados de 10: C(10,2) = (10 * 9) / 2 = 45."
+        },
+        {
+          "letter": "B",
+          "text": "90",
+          "is_correct": false,
+          "feedback": "Se calculÃ³ P(10,2) = 10 * 9, contando ida y vuelta (el orden importa)."
+        },
+        {
+          "letter": "C",
+          "text": "100",
+          "is_correct": false,
+          "feedback": "Se multiplicÃ³ 10 * 10."
+        },
+        {
+          "letter": "D",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Se multiplicÃ³ 10 por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un partido no depende del orden de selecciÃ³n de los equipos. El nÃºmero de enfrentamientos a una sola vuelta es $C(10,2) = \\frac{10   imes 9}{2} = 45$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle-v11",
+      "statement": "Tenga en cuenta que la palabra tiene letras repetidas (1 'B', 3 'A', 2 'N').",
+      "context": "Â¿CuÃ¡ntas palabras distintas de 6 letras se pueden formar permutando las letras de la palabra \"BANANA\"?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60",
+          "is_correct": true,
+          "feedback": "PermutaciÃ³n con repeticiÃ³n: 6! / (1! * 3! * 2!) = 720 / (1 * 6 * 2) = 720 / 12 = 60."
+        },
+        {
+          "letter": "B",
+          "text": "720",
+          "is_correct": false,
+          "feedback": "Se calculÃ³ 6! sin descontar las permutaciones de las letras repetidas."
+        },
+        {
+          "letter": "C",
+          "text": "120",
+          "is_correct": false,
+          "feedback": "Se dividiÃ³ 6! solo entre 3! o solo entre 2!."
+        },
+        {
+          "letter": "D",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Se dividiÃ³ 60 entre 2 errÃ³neamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "FÃ³rmula de permutaciÃ³n con elementos repetidos: $P_n^{n_1, n_2, dots} = \\frac{n!}{n_1! n_2! dots}$. Para BANANA: $\\frac{6!}{1! 3! 2!} = \\frac{720}{12} = 60$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle-v12",
+      "statement": "Â¿De cuÃ¡ntas maneras diferentes se pueden ubicar respecto a la mesa?",
+      "context": "Un grupo de 5 personas se va a sentar alrededor de una mesa circular en un restaurante de Santa Marta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24",
+          "is_correct": true,
+          "feedback": "Las permutaciones circulares de n elementos vienen dadas por (n-1)! = (5-1)! = 4! = 24."
+        },
+        {
+          "letter": "B",
+          "text": "120",
+          "is_correct": false,
+          "feedback": "Se calculÃ³ 5! en lÃ­nea recta en lugar de una disposiciÃ³n circular."
+        },
+        {
+          "letter": "C",
+          "text": "60",
+          "is_correct": false,
+          "feedback": "Se dividiÃ³ 5! entre 2 en lugar de 5."
+        },
+        {
+          "letter": "D",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Se calculÃ³ (5-2)!."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En permutaciones circulares, una posiciÃ³n fija elimina la simetrÃ­a por rotaciÃ³n. Por ello $PC_n = (n-1)!$. Para $n=5$, $PC_5 = 4! = 24$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle-v13",
+      "statement": "Â¿CuÃ¡ntos cÃ³digos de 4 dÃ­gitos se pueden formar de modo que tengan AL MENOS un dÃ­gito repetido?",
+      "context": "Se requiere formar un cÃ³digo de 4 dÃ­gitos utilizando Ãºnicamente los nÃºmeros {1, 2, 3, 4, 5}.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "505",
+          "is_correct": true,
+          "feedback": "Total sin restricciÃ³n: 5^4 = 625. CÃ³digos con todos los dÃ­gitos distintos: P(5,4) = 5*4*3*2 = 120. Con al menos un repetido: 625 - 120 = 505."
+        },
+        {
+          "letter": "B",
+          "text": "120",
+          "is_correct": false,
+          "feedback": "Corresponde a los cÃ³digos que NO tienen dÃ­gitos repetidos."
+        },
+        {
+          "letter": "C",
+          "text": "625",
+          "is_correct": false,
+          "feedback": "Corresponde al total de cÃ³digos sin descontar aquellos con dÃ­gitos todos distintos."
+        },
+        {
+          "letter": "D",
+          "text": "380",
+          "is_correct": false,
+          "feedback": "Se realizÃ³ una resta incorrecta entre 625 y 245."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Utilizando el principio del complemento: Total de cÃ³digos $= 5^4 = 625$. CÃ³digos sin repeticiÃ³n $= P(5,4) = 120$. CÃ³digos con al menos una repeticiÃ³n $= 625 - 120 = 505$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle-v14",
+      "statement": "Si las 3 primeras preguntas son obligatorias, Â¿de cuÃ¡ntas maneras distintas puede elegir las preguntas a responder?",
+      "context": "Un examen consta de 10 preguntas. Un estudiante debe responder exactamente 7 preguntas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "35",
+          "is_correct": true,
+          "feedback": "Como las 3 primeras son obligatorias, le falta elegir 4 preguntas entre las 7 restantes: C(7,4) = C(7,3) = (7 * 6 * 5) / 6 = 35."
+        },
+        {
+          "letter": "B",
+          "text": "120",
+          "is_correct": false,
+          "feedback": "Se calculÃ³ C(10,7) ignorando que las 3 primeras preguntas son obligatorias."
+        },
+        {
+          "letter": "C",
+          "text": "21",
+          "is_correct": false,
+          "feedback": "Se calculÃ³ C(7,2) en lugar de C(7,4)."
+        },
+        {
+          "letter": "D",
+          "text": "70",
+          "is_correct": false,
+          "feedback": "Se multiplicÃ³ 35 por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al ser obligatorias las 3 primeras, el estudiante solo selecciona $7 - 3 = 4$ preguntas adicionales de las $10 - 3 = 7$ disponibles. $C(7,4) = \\frac{7   imes 6   imes 5}{3   imes 2   imes 1} = 35$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle-v15",
+      "statement": "Â¿CuÃ¡ntos triÃ¡ngulos diferentes se pueden formar con sus vÃ©rtices en estos puntos?",
+      "context": "En un plano hay 8 puntos marcados, de los cuales ningÃºn trÃ­o estÃ¡ alineado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "56",
+          "is_correct": true,
+          "feedback": "Para formar un triÃ¡ngulo se eligen 3 puntos sin importar el orden: C(8,3) = (8 * 7 * 6) / 6 = 56."
+        },
+        {
+          "letter": "B",
+          "text": "336",
+          "is_correct": false,
+          "feedback": "Se calculÃ³ P(8,3) = 8 * 7 * 6 considerando el orden de los vÃ©rtices."
+        },
+        {
+          "letter": "C",
+          "text": "28",
+          "is_correct": false,
+          "feedback": "Corresponde a la cantidad de segmentos (lÃ­neas) formados por 2 puntos: C(8,2) = 28."
+        },
+        {
+          "letter": "D",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Se multiplicÃ³ 8 por 3."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un triÃ¡ngulo queda determinado por 3 puntos no colineales independientemente del orden de los vÃ©rtices. NÃºmero de triÃ¡ngulos $= C(8,3) = \\frac{8   imes 7   imes 6}{6} = 56$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle-v16",
+      "statement": "Si cada estudiante puede recibir mÃ¡s de un premio (incluso los 4 premios), Â¿de cuÃ¡ntas maneras se pueden distribuir los premios?",
+      "context": "Se quiere repartir 4 premios distintos entre 3 estudiantes en un evento escolar en IbaguÃ©.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "81",
+          "is_correct": true,
+          "feedback": "Cada uno de los 4 premios tiene 3 opciones de estudiante a quien asignarlo: 3^4 = 81."
+        },
+        {
+          "letter": "B",
+          "text": "64",
+          "is_correct": false,
+          "feedback": "Se calculÃ³ 4^3 asignando estudiantes a premios por error."
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Se multiplicÃ³ 4 por 3."
+        },
+        {
+          "letter": "D",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Se calculÃ³ 4! asumiendo permutaciÃ³n de 4 premios entre 4 personas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que los premios son distintos, para el primer premio hay 3 opciones, para el segundo 3, para el tercero 3 y para el cuarto 3. Total $= 3   imes 3   imes 3   imes 3 = 3^4 = 81$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle-v17",
+      "statement": "Tenga en cuenta que la primera cifra no puede ser cero y la Ãºltima cifra debe ser impar.",
+      "context": "Â¿CuÃ¡ntos nÃºmeros enteros impares de 3 cifras significativas se pueden formar con los dÃ­gitos {0, 1, 2, 3, 4, 5} sin repetir ningÃºn dÃ­gito?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "48",
+          "is_correct": true,
+          "feedback": "Ãltima cifra (impar {1,3,5}): 3 opciones. Primera cifra (no 0 ni la usada al final): 4 opciones. Segunda cifra (cualquiera no usada): 4 opciones. Total = 4 * 4 * 3 = 48."
+        },
+        {
+          "letter": "B",
+          "text": "60",
+          "is_correct": false,
+          "feedback": "Se consideraron 5 opciones para la primera cifra sin descontar que el cero no puede ir al inicio o que la cifra final ya fue elegida."
+        },
+        {
+          "letter": "C",
+          "text": "36",
+          "is_correct": false,
+          "feedback": "Se limitaron errÃ³neamente las opciones de la cifra intermedia."
+        },
+        {
+          "letter": "D",
+          "text": "72",
+          "is_correct": false,
+          "feedback": "Se calculÃ³ 6 * 4 * 3 ignorando la restricciÃ³n de la primera cifra diferente de cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "1. Elegimos la Ãºltima cifra (debe ser 1, 3 o 5): 3 posibilidades.\n2. Elegimos la primera cifra (no puede ser 0 ni la cifra elegida al final): de 6 dÃ­gitos restamos 2 $Rightarrow 4$ posibilidades.\n3. Elegimos la cifra central (cualquiera restante): 4 posibilidades.\nTotal $= 4   imes 4   imes 3 = 48$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle-v18",
+      "statement": "Â¿De cuÃ¡ntas maneras diferentes se pueden otorgar las medallas de oro, plata y bronce entre los 12 participantes?",
+      "context": "En un torneo de ajedrez en Villavicencio hay 12 participantes. Se seleccionan 4 finalistas y de estos se premia a los 3 primeros lugares (oro, plata y bronce).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1320",
+          "is_correct": true,
+          "feedback": "Es una variaciÃ³n de 12 elementos tomados de a 3: V(12,3) = 12 * 11 * 10 = 1320."
+        },
+        {
+          "letter": "B",
+          "text": "220",
+          "is_correct": false,
+          "feedback": "Corresponde a la combinaciÃ³n C(12,3) donde el orden de las medallas no importa."
+        },
+        {
+          "letter": "C",
+          "text": "495",
+          "is_correct": false,
+          "feedback": "Corresponde a la combinaciÃ³n C(12,4) de seleccionar los 4 finalistas sin asignar medallas."
+        },
+        {
+          "letter": "D",
+          "text": "1728",
+          "is_correct": false,
+          "feedback": "Se calculÃ³ 12^3 con repeticiÃ³n de ganadores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Asignar 3 medallas distintas (oro, plata, bronce) entre 12 personas es una variaciÃ³n de 12 elementos tomados de 3 en 3: $P(12,3) = 12   imes 11   imes 10 = 1320$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle-v19",
+      "statement": "Â¿De cuÃ¡ntas maneras se pueden sentar en una fila de 8 sillas de modo que cada pareja permanezca sentada junta?",
+      "context": "Un grupo de 4 parejas de esposos (8 personas) asiste a una funciÃ³n de teatro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "384",
+          "is_correct": true,
+          "feedback": "Ordenar las 4 parejas como bloques: 4! = 24. Cada una de las 4 parejas puede ordenarse internamente de 2! formas: 2^4 = 16. Total = 24 * 16 = 384."
+        },
+        {
+          "letter": "B",
+          "text": "576",
+          "is_correct": false,
+          "feedback": "Se multiplicÃ³ 24 por 24 por un error de exponenciaciÃ³n."
+        },
+        {
+          "letter": "C",
+          "text": "40320",
+          "is_correct": false,
+          "feedback": "Se calculÃ³ 8! ignorando que las parejas deben estar juntas."
+        },
+        {
+          "letter": "D",
+          "text": "96",
+          "is_correct": false,
+          "feedback": "Se multiplicÃ³ 24 * 4 en lugar de 24 * 16."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Consideramos cada pareja como un bloque. Hay $4! = 24$ formas de ordenar las parejas. Dentro de cada bloque, los 2 esposos se acomodan de $2! = 2$ formas. Por lo tanto, el total es $4!   imes 2^4 = 24   imes 16 = 384$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.45,
+      "bundle_id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle-v20",
+      "statement": "Â¿De cuÃ¡ntas maneras se pueden distribuir las 6 monedas entre los 3 niÃ±os si se permite que algÃºn niÃ±o no reciba ninguna moneda?",
+      "context": "Se dispone de 6 monedas idÃ©nticas de 500 pesos para repartir entre 3 niÃ±os en PopayÃ¡n.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "28",
+          "is_correct": true,
+          "feedback": "Es una combinaciÃ³n con repeticiÃ³n CR(n,k) = C(n+k-1, k) = C(3+6-1, 6) = C(8,6) = C(8,2) = 28."
+        },
+        {
+          "letter": "B",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Se multiplicÃ³ 6 por 3."
+        },
+        {
+          "letter": "C",
+          "text": "216",
+          "is_correct": false,
+          "feedback": "Se calculÃ³ 6^3 como si las monedas fueran distinguibles."
+        },
+        {
+          "letter": "D",
+          "text": "56",
+          "is_correct": false,
+          "feedback": "Se calculÃ³ C(8,3)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al ser objetos idÃ©nticos (monedas) repartidos entre contenedores distinguibles (niÃ±os), se usa combinaciones con repeticiÃ³n (barras y estrellas): $C(n+k-1, k) = C(3+6-1, 6) = C(8,6) = \\frac{8   imes 7}{2} = 28$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.45,
+      "bundle_id": "CO-MAT-11-2026-W33-conteo-combinatoria-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-23-grade-11-subject-lectura_critica",
+    "generated_at": "2026-08-29T18:22:22.196Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle-v1",
+      "statement": "¿Qué relación se establece entre un texto contemporáneo y la obra 'Cien años de soledad' cuando se menciona a Macondo como referente del aislamiento?",
+      "context": "Análisis de la intertextualidad en la narrativa colombiana (Bogotá).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una alusión intertextual que evoca la cosmovisión del realismo mágico y la memoria cultural colectiva.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la alusión dialoga con la tradición literaria enriqueciendo el sentido del nuevo texto."
+        },
+        {
+          "letter": "B",
+          "text": "Un plagio directo que debe ser sancionado penalmente por violación de derechos de autor.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la cita o alusión cultural legítima no constituye delito de plagio."
+        },
+        {
+          "letter": "C",
+          "text": "Una coincidencia fortuita sin ninguna intención estética ni vinculación interpretativa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la mención de un referente universal como Macondo no es aleatoria."
+        },
+        {
+          "letter": "D",
+          "text": "Un error ortográfico cometido por el editor del libro en la fase de imprenta.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no se trata de una errata sino de un recurso deliberado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intertextualidad por alusión conecta el escrito con el patrimonio cultural y la tradición discursiva.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle-v2",
+      "statement": "¿De qué manera funciona la parodia cuando se reescribe un fragmento del Himno Nacional en una viñeta satírica?",
+      "context": "Examen de la parodia política en caricaturas de prensa (Medellín).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Utiliza la estructura solemne del texto original para subvertir su sentido y denunciar una problemática social actual.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la parodia toma la forma reconocida de un texto insigne para distanciar su significado y criticar la coyuntura."
+        },
+        {
+          "letter": "B",
+          "text": "Busca destruir la lengua española reemplazando las palabras por ruidos inarticulados.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la sátira utiliza el lenguaje articulado para transmitir un mensaje político refinado."
+        },
+        {
+          "letter": "C",
+          "text": "Constituye una copia idéntica que rinde homenaje incondicional a los próceres de la independencia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la parodia justamente altera el sentido para hacer una crítica, no para rendir culto sumiso."
+        },
+        {
+          "letter": "D",
+          "text": "Demuestra la falta de vocabulario del dibujante al no inventar versos nuevos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la parodia requiere alto dominio técnico del texto fuente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La parodia exige reconocer la tensión entre el texto fuente (hipotexto) y la transformación satírica (hipertexto).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle-v3",
+      "statement": "¿Qué función cumple colocar un verso de Aurelio Arturo al inicio de un ensayo sobre el paisaje andino?",
+      "context": "Uso del epígrafe como umbral hermenéutico (Cali).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Establecer la clave de lectura y el tono poético que orientará la interpretación de los capítulos siguientes.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el epígrafe actúa como un pórtico conceptual que anticipa la atmósfera e ideas del escrito."
+        },
+        {
+          "letter": "B",
+          "text": "Rellenar el espacio en blanco de la página para que la imprenta no cobre menos por la edición.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el diseño editorial responde a intenciones expresivas y no a exigencias de cobro vacías."
+        },
+        {
+          "letter": "C",
+          "text": "Confundir al lector haciéndole creer que el ensayo fue escrito en el siglo XV en Europa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la poética de Aurelio Arturo pertenece a la literatura colombiana del siglo XX."
+        },
+        {
+          "letter": "D",
+          "text": "Proporcionar los datos de contacto del distribuidor comercial del libro.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los datos comerciales se ubican en el colofón o portada, no en los epígrafes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El epígrafe enmarca la lectura operando como un puente entre la tradición y la propuesta del nuevo texto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué es indispensable poner entre comillas una frase de Estanislao Zuleta en un ensayo escolar?",
+      "context": "Identificación de la cita textual directa y el rigor en las fuentes (Barranquilla).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para señalar la autoría ajena respetando la propiedad intelectual y deslindarla del discurso propio.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la convención de comillas y cita otorga transparencia metodológica y evita el plagio."
+        },
+        {
+          "letter": "B",
+          "text": "Para avisar al lector que esa frase contiene errores gramaticales que no se deben aprender.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque se citan autores reconocidos por la calidad de sus aportes, no por erratas."
+        },
+        {
+          "letter": "C",
+          "text": "Para obligar a quien lee a pronunciar las palabras en voz alta en el salón de clases.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las comas y comillas son marcas gráficas de citación y no instrucciones de declamación."
+        },
+        {
+          "letter": "D",
+          "text": "Para indicar que el texto encerrado debe ser omitido durante la lectura del ensayo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las citas deben leerse e integrarse activamente en la argumentación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La cita textual manifiesta la voz del otro dentro del texto propio con honestidad académica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle-v5",
+      "statement": "¿Qué sucede cuando el personaje de una novela afirma que está cansado de los caprichos del escritor que lo inventó?",
+      "context": "Análisis de la metaficción en la literatura contemporánea (Cartagena).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se produce un recurso metaficcional que rompe la ilusión narrativa y cuestiona la frontera entre realidad y ficción.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la metaficción vuelve el discurso sobre sí mismo, revelando los artificios de la literatura."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra un fallo grave de la imprenta que mezcló dos libros distintos en el mismo volumen.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es una técnica narrativa intencional y no una errata de encuadernación."
+        },
+        {
+          "letter": "C",
+          "text": "Evidencia que el libro está embrujado y posee vida biológica independiente.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la literatura es una construcción simbólica y no un fenómeno sobrenatural."
+        },
+        {
+          "letter": "D",
+          "text": "Indica que el lector debe devolver el ejemplar a la librería por no ser una historia seria.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la autorreferencialidad es un rasgo de alta elaboración estética en la narrativa moderna."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La metaficción cuestiona los pactos tradicionales de lectura revelando la arquitectura del propio relato.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle-v6",
+      "statement": "Al comparar la Odisea de Homero (hipotexto) con el Ulises de James Joyce (hipertexto), ¿qué fenómeno se observa?",
+      "context": "La relación entre hipotexto e hipertexto según Gérard Genette (Bucaramanga).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una transformación e hipertextualidad compleja donde la epopeya clásica se resignifica en el contexto urbano moderno.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el hipertexto deriva del hipotexto mediante una transformación creadora de gran envergadura."
+        },
+        {
+          "letter": "B",
+          "text": "Una copia fotostática que no aporta ningún elemento nuevo a la historia original de Grecia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la obra de Joyce es una de las novelas más innovadoras y distintas del siglo XX."
+        },
+        {
+          "letter": "C",
+          "text": "La demostración de que la literatura antigua no tiene ningún valor para los lectores contemporáneos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque justamente demuestra la vitalidad y vigencia de los mitos griegos en la modernidad."
+        },
+        {
+          "letter": "D",
+          "text": "Un resumen infantil de tres páginas pensado para niños que están aprendiendo a leer.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la obra de Joyce es un texto de alta complejidad narrativa para adultos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La hipertextualidad analiza cómo un texto B deriva o transforma a un texto A antecedente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle-v7",
+      "statement": "¿En qué consiste el uso del pastiche en la novela 'La tejedora de coronas' de Germán Espinosa?",
+      "context": "El pastiche como homenaje y recreación estilística (Manizales).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la recreación consciente de la sintaxis y el léxico barroco del siglo XVIII para ambientar la época.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el pastiche literario recrea el estilo de una época o autor con intención estética y rigurosa."
+        },
+        {
+          "letter": "B",
+          "text": "En el plagio descarado de fragmentos de enciclopedias francesas sin comillas ni referencias.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque Germán Espinosa realiza una obra monumental original a través de la recreación formal."
+        },
+        {
+          "letter": "C",
+          "text": "En la redacción del texto mezclando tres idiomas sin guardar reglas gramaticales de ninguno.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la obra mantiene un español de filiación barroca magistralmente articulado."
+        },
+        {
+          "letter": "D",
+          "text": "En la inclusión de imágenes fotográficas de periódicos sensacionalistas del siglo XXI.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la ambientación se logra mediante el lenguaje escrito y no con fotos anacrónicas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pastiche literario asimila los códigos de un estilo histórico para refundirlos en un nuevo artefacto estético.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle-v8",
+      "statement": "¿Qué recurso se emplea cuando un ensayo describe minuciosamente el cuadro 'La violencia' de Alejandro Obregón?",
+      "context": "La écfrasis o diálogo entre la literatura y las artes plásticas (Pereira).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Écfrasis, al traducir verbalmente la composición visual para reflexionar sobre la historia nacional.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la écfrasis es la representación verbal de una obra de arte visual."
+        },
+        {
+          "letter": "B",
+          "text": "Grafográma, al dibujar las letras del texto con la forma de los personajes de la pintura.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto no cambia la forma de sus caracteres para hacer caligramas."
+        },
+        {
+          "letter": "C",
+          "text": "Onomatopeya, al imitar con consonantes el sonido de los pinceles sobre el lienzo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no se trata de reproducir sonidos de herramientas de pintura."
+        },
+        {
+          "letter": "D",
+          "text": "Tautología, al repetir tres veces seguidas la misma oración dentro del mismo párrafo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la écfrasis aporta una interpretación profunda y no una repetición vacía."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La écfrasis articula la dimensión intermedial conectando el lenguaje verbal con el lenguaje pictórico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle-v9",
+      "statement": "¿Por qué la obra 'Antígona González' resuena profundamente en el contexto de Colombia?",
+      "context": "Reescritura del mito clásico en el teatro colombiano contemporáneo (Santa Marta).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque traslada el mito ético de enterrar a los muertos a la lucha de las familias de personas desaparecidas.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la actualización del mito clásico ilumina los dilemas éticos y humanitarios de nuestro tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque enseña a los espectadores a actuar en obras de teatro en Atenas durante las olimpiadas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la obra aborda la realidad sociopolítica latinoamericana actual."
+        },
+        {
+          "letter": "C",
+          "text": "Porque exige que el público asista vestido con túnicas de lana y sandalias de cuero.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el vestuario del público no atañe al contenido y fuerza simbólica del drama."
+        },
+        {
+          "letter": "D",
+          "text": "Porque demuestra que la tragedia griega fue escrita por dramaturgos colombianos del siglo XXI.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque reconoce el origen griego de la tragedia pero reivindica su reescritura local."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La reescritura mitológica reactiva dilemas éticos universales para interpelar realidades históricas concretas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle-v10",
+      "statement": "¿Qué caracteriza a la novela polifónica según Mijaíl Bajtín?",
+      "context": "El concepto de bajtiniano de la polifonía y el diálogo de voces (Pasto).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La pluralidad de voces y conciencias independientes e inconfundibles que dialogan en igualdad de condiciones.",
+          "is_correct": true,
+          "feedback": "Es correcta porque en la polifonía bajtiniana cada personaje es sujeto de su propio discurso y no mero objeto."
+        },
+        {
+          "letter": "B",
+          "text": "El monopolio absoluto de la voz del narrador que impone su verdad única sobre todos los personajes.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque describe la novela monológica donde predomina una sola voz autorial imperiosa."
+        },
+        {
+          "letter": "C",
+          "text": "La ausencia total de diálogos entre los actores de la narración a lo largo del libro.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la polifonía promueve la intensificación del diálogo entre conciencias."
+        },
+        {
+          "letter": "D",
+          "text": "La obligación de leer el texto acompañado por la música de un piano de cola en vivo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque 'polifonía' es una metáfora teórica y no una exigencia de acompañamiento musical real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La polifonía Bajtiniana democratiza el espacio narrativo al permitir la confrontación de diversas visiones del mundo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle-v11",
+      "statement": "¿Qué sentido cobra la metáfora de 'David contra Goliat' en una crónica sobre la lucha comunitaria en Santurbán?",
+      "context": "La alusión bíblica en ensayos de crítica social (Bogotá).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Simboliza la asimetría de poder entre los pobladores locales y las grandes corporaciones megamineras.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la figura bíblica de David y Goliat opera como arquetipo intertextual de la lucha del débil contra el poderoso."
+        },
+        {
+          "letter": "B",
+          "text": "Indica que los pobladores del páramo deben viajar a Jerusalén para resolver sus disputas territoriales.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque desatiende el valor metafórico trasladando el conflicto a otra geografía física de forma absurda."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que el texto forma parte de un catecismo religioso para la confirmación de jóvenes.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la alusión se usa en un escrito periodístico/ambiental de crítica social y no eclesial."
+        },
+        {
+          "letter": "D",
+          "text": "Afirma de forma literal que los mineros miden tres metros de altura y usan armaduras de bronce.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque aplica una lectura literal infantil a una imagen simbólica universal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los arquetipos intertextuales simplifican la comprensión de relaciones de fuerza y poder en la sociedad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle-v12",
+      "statement": "¿Por qué un columnista cita la frase de George Orwell 'en tiempos de engaño universal, decir la verdad es un acto revolucionario'?",
+      "context": "El uso de la intertextualidad en el periodismo de opinión (Medellín).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para enmarcar su denuncia contra la desinformación y el uso político de la posverdad en las campañas electorales.",
+          "is_correct": true,
+          "feedback": "Es correcta porque utiliza la cita orwelliana para validar su postura sobre el deber del periodismo frente a la mentira institucional."
+        },
+        {
+          "letter": "B",
+          "text": "Para promocionar la venta de la novela '1984' en la feria del libro de su ciudad.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la cita cumple un rol argumentativo directo en la columna y no es un aviso comercial."
+        },
+        {
+          "letter": "C",
+          "text": "Para sostener que la tecnología de las pantallas debe ser destruida en todos los hogares del país.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque Orwell criticaba el totalitarismo y el control del pensamiento, no el uso doméstico de pantallas."
+        },
+        {
+          "letter": "D",
+          "text": "Para probar que los escritores ingleses son los únicos autorizados para opinar sobre política en América Latina.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el ensayismo no limita la pertinencia de las ideas por la nacionalidad de los autores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La cita de pensamiento político consolida la tesis del articulista conectándola con debates éticos globales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle-v13",
+      "statement": "¿Por qué se afirma que 'traducir es siempre traicionar' (traduttore, traditore) en la teoría literaria?",
+      "context": "La traducción como proceso de reinterpretación e intertextualidad (Cali).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque todo paso de un idioma a otro exige tomar elecciones semánticas que transforman inevitablemente el matiz del original.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la traducción no es una equivalencia matemática sino un acto de interpretación cultural e intertextual."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los traductores son personas deshonestas que roban las regalías de los verdaderos autores de los libros.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque descalifica éticamente a los traductores sin entender la naturaleza del cambio lingüístico."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las lenguas humanas no poseen palabras para expresar los mismos sentimientos o pensamientos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque si bien difieren en estructura, los idiomas sí permiten expresar conceptos análogos con matices."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los libros traducidos pierden todo su valor y no deberían ser aceptados en las bibliotecas escolares.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la traducción ha sido el principal vehículo de democratización del conocimiento universal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La traducción es una forma de intertextualidad donde el texto traducido entabla un diálogo tenso con el texto fuente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.67,
+      "bundle_id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle-v14",
+      "statement": "¿Qué sucede cuando un poema actual utiliza la estructura métrica de un soneto del Siglo de Oro sin mencionar a Góngora?",
+      "context": "La intertextualidad sorda o implícita en la poesía (Barranquilla).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se establece una intertextualidad de código formal donde la memoria de la estrofa evoca la tradición poética.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la forma métrica heredada lleva en sí misma la memoria estilística de la tradición literaria."
+        },
+        {
+          "letter": "B",
+          "text": "Se comete un error de redacción que impide clasificar el texto dentro de la poesía moderna.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el uso de formas clásicas es una elección estética plenamente válida en la literatura actual."
+        },
+        {
+          "letter": "C",
+          "text": "Se demuestra que el poeta contemporáneo no sabe escribir en verso libre ni en prosa poética.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque dominar la métrica clásica exige gran destreza técnica y no demuestra incapacidad."
+        },
+        {
+          "letter": "D",
+          "text": "Se garantiza que la poesía publicada se venda como si fuera un documento histórico antiguo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el valor estético de un soneto no depende de engañar al comprador sobre su antigüedad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intertextualidad formal adopta métricas, ritmos o estructuras estróficas de la tradición como vehículo expresivo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle-v15",
+      "statement": "¿De qué manera dialoga la novela 'El general en su laberinto' con los documentos de la independencia de Colombia?",
+      "context": "El diálogo entre la historia oficial y la ficción histórica (Cartagena).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Humaniza y problematiza la figura de Simón Bolívar confrontando el mito heroico con la vulnerabilidad de sus últimos días.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la ficción histórica utiliza el archivo documental para reinterpretar la subjetividad del prócer."
+        },
+        {
+          "letter": "B",
+          "text": "Copia literalmente el texto de las cartas del Libertador sin agregar una sola palabra de invención narrativa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque García Márquez realiza una recreación novelesca rica en descripciones y diálogos de ficción."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que Simón Bolívar no existió nunca y fue un invento de los historiadores del siglo XX.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la investigación histórica de la novela se apoya en fuentes reales para explorar la dimensión humana."
+        },
+        {
+          "letter": "D",
+          "text": "Sostiene que la independencia de Colombia fue organizada por un grupo de piratas ingleses en Cartagena.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto respeta el marco histórico general de las gestas emancipadoras del continente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La novela histórica establece un diálogo intertextual entre el rigor del archivo y la libertad de la imaginación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle-v16",
+      "statement": "¿Qué efecto produce la parodia de los clichés de las novelas de detectives en 'La pesquisa'?",
+      "context": "La parodia en el cine y la literatura de vanguardia (Bucaramanga).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desmitifica las fórmulas del género policial revelando la complejidad e irracionalidad del crimen real.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la parodia del género detectivesco pone al descubierto los artificios y convenciones de la intriga."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que los policías de la vida real son personas incapaces de resolver cualquier problema de matemáticas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la crítica de la parodia se dirige a los tópicos literarios del género y no a habilidades académicas."
+        },
+        {
+          "letter": "C",
+          "text": "Exige que los lectores lleven consigo una lupa y una pipa al momento de leer el libro.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque desatiende la distancia irónica utilizando accesorios físicos en lugar de análisis discursivo."
+        },
+        {
+          "letter": "D",
+          "text": "Muestra que el autor no logró terminar la novela porque no sabía quién era el culpable del asesinato.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la falta de resolución detectivesca es una decisión deliberada de la narrativa contemporánea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La parodia genérica deconstruye las fórmulas trilladas de los géneros populares para renovar el arte narrativo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle-v17",
+      "statement": "¿Cómo dialogan el texto escrito y la ilustración visual en una novela gráfica sobre el conflicto armado?",
+      "context": "La hibridación de géneros en la novela gráfica (cómic y literatura) (Manizales).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Construyen un significado integral donde la imagen no es mero adorno sino lenguaje narrativo con carga simbólica.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la novela gráfica es una forma de hibridación discursiva donde texto e imagen co-construyen el sentido."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestran que el autor del texto no tenía dinero para pagar la corrección de estilo y puso dibujos para disimular.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la ilustración en este género exige una compleja planificación visual e intelectual conjunta."
+        },
+        {
+          "letter": "C",
+          "text": "Obligan al lector a recortar las imágenes con tijeras para pegarlas en un álbum escolar de colección.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque destruye la integridad del artefacto cultural interpretándolo como una actividad manual."
+        },
+        {
+          "letter": "D",
+          "text": "Prueban que los libros con ilustraciones están destinados exclusivamente a la primera infancia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la novela gráfica aborda temáticas de alta complejidad ética y política para público adulto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La hibridación discursiva en la novela gráfica articula la alfabetización visual con la competencia lectora textual.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.61,
+      "bundle_id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle-v18",
+      "statement": "¿Qué revela la presencia de referencias a los poetas malditos franceses en la obra de Guillermo Valencia?",
+      "context": "El ensayo sobre la influencia de la literatura europea en el modernismo (Pereira).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La apropiación y aclimatación de las innovaciones del simbolismo europeo en la poesía colombiana del siglo XIX.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el modernismo hispanoamericano dialogó creativamente con las corrientes estéticas francesas."
+        },
+        {
+          "letter": "B",
+          "text": "Que los poetas colombianos del siglo XIX no sabían escribir en español y tenían que copiar en francés.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los modernistas manejaban una maestría formidable del idioma castellano y su métrica."
+        },
+        {
+          "letter": "C",
+          "text": "Que el modernismo fue un movimiento político diseñado para vender libros de poesía en las librerías de París.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque fue un movimiento de renovación estética fundamentalmente hispanoamericano y no un ardid mercantil."
+        },
+        {
+          "letter": "D",
+          "text": "Que la literatura colombiana nació sin ninguna influencia del pensamiento o el arte de otros continentes.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque desconoce las redes de circulación cultural entre Europa y América Latina."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El diálogo transatlántico de los modernistas demuestra cómo la apropiación de referentes ajenos nutre la tradición propia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle-v19",
+      "statement": "¿Con qué propósito cita un columnista la frase 'el orden reina en Varsovia' al referirse a la represión de una marcha?",
+      "context": "La citación irónica en el ensayo de opinión política (Santa Marta).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para evocar la ironía histórica de quienes llaman 'orden' a la pacificación forzosa mediante la violencia militar.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la famosa frase (atribuida a la represión de 1831) se usa irónicamente para criticar el autoritarismo."
+        },
+        {
+          "letter": "B",
+          "text": "Para felicitar al gobierno de Polonia por el excelente estado de sus calles y avenidas en el invierno.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque confunde la cita histórica politizada con una nota turística o meteorológica de Europa."
+        },
+        {
+          "letter": "C",
+          "text": "Para enseñar geografía de Europa del Este a los estudiantes de los colegios de secundaria de Cali.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la cita cumple un rol de denuncia política interna y no un fin didáctico de cartografía."
+        },
+        {
+          "letter": "D",
+          "text": "Para sugerir que los manifestantes colombianos deberían mudarse a vivir a la capital polaca.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque aplica una lectura absurda que evade el sentido crítico y la denuncia del escrito."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La citación histórica irónica rescata la memoria política para cuestionar los abusos del presente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.59,
+      "bundle_id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el beneficio de identificar las múltiples referencias culturales presentes en una obra compleja?",
+      "context": "Síntesis hermenéutica de la red intertextual de un libro (Pasto).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite descifrar la riqueza de capas de sentido, dialogar con la tradición y lograr una comprensión crítica profunda.",
+          "is_correct": true,
+          "feedback": "Es correcta porque develar la red intertextual abre las dimensiones simbólicas y la densidad interpretativa del texto."
+        },
+        {
+          "letter": "B",
+          "text": "Sirve para memorizar una lista de cien nombres de autores antiguos para ganar un concurso de preguntas de televisión.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la meta de la lectura crítica es la aprehensión del sentido y no la acumulación memorística vacía."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que el libro fue escrito por diez personas distintas que no se conocían entre sí.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la unidad de la obra radica en la orquestación que el autor hace de sus fuentes e influencias."
+        },
+        {
+          "letter": "D",
+          "text": "Garantiza que el lector no tenga que pensar por sí mismo al estar todo el sentido dicho en otros libros.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque reconocer referencias exige una postura activa del lector para reconstruir el tejido textual."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La síntesis hermenéutica de la red intertextual representa la culminación del proceso de lectura crítica y dialogante.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-11-2026-W23-intertextualidad-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

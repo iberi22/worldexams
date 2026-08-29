@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-4-grade-11-subject-matematicas",
+    "generated_at": "2026-08-29T18:22:22.202Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle-v1",
+      "statement": "¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?",
+      "context": "Un sistema de costos en Cartagena diseñado por Mariana cambia en $x = 2$ siguiendo la función a trozos $f(x) = 3x + 2$ para $x \\le 2$ y $f(x) = k x + 4$ para $x > 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. El límite izquierdo es $3(2) + 2 = 8$ y el derecho es $2k + 4$. Igualando $2k + 4 = 8 \\implies 2k = 4 \\implies k = 2$."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si k = 0, la función tendría una discontinuidad de salto en x = 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguales: $\\lim_{x \\to 2^-} f(x) = \\lim_{x \\to 2^+} f(x)$. Evaluando: $3(2) + 2 = k(2) + 4 \\implies 6 + 2 = 2k + 4 \\implies 2k = 4 \\implies k = 2$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle-v2",
+      "statement": "¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?",
+      "context": "Un sistema de costos en Pereira diseñado por Juan cambia en $x = 2$ siguiendo la función a trozos $f(x) = 3x + 4$ para $x \\le 2$ y $f(x) = k x + 4$ para $x > 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. El límite izquierdo es $3(2) + 4 = 10$ y el derecho es $2k + 4$. Igualando $2k + 4 = 10 \\implies 2k = 6 \\implies k = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si k = 0, la función tendría una discontinuidad de salto en x = 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguales: $\\lim_{x \\to 2^-} f(x) = \\lim_{x \\to 2^+} f(x)$. Evaluando: $3(2) + 4 = k(2) + 4 \\implies 6 + 4 = 2k + 4 \\implies 2k = 6 \\implies k = 3$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle-v3",
+      "statement": "¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?",
+      "context": "Un sistema de costos en Manizales diseñado por Camila cambia en $x = 2$ siguiendo la función a trozos $f(x) = 3x + 6$ para $x \\le 2$ y $f(x) = k x + 4$ para $x > 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correcto. El límite izquierdo es $3(2) + 6 = 12$ y el derecho es $2k + 4$. Igualando $2k + 4 = 12 \\implies 2k = 8 \\implies k = 4$."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si k = 0, la función tendría una discontinuidad de salto en x = 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguales: $\\lim_{x \\to 2^-} f(x) = \\lim_{x \\to 2^+} f(x)$. Evaluando: $3(2) + 6 = k(2) + 4 \\implies 6 + 6 = 2k + 4 \\implies 2k = 8 \\implies k = 4$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle-v4",
+      "statement": "¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?",
+      "context": "Un sistema de costos en Santa Marta diseñado por Alejandro cambia en $x = 2$ siguiendo la función a trozos $f(x) = 3x + 8$ para $x \\le 2$ y $f(x) = k x + 4$ para $x > 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. El límite izquierdo es $3(2) + 8 = 14$ y el derecho es $2k + 4$. Igualando $2k + 4 = 14 \\implies 2k = 10 \\implies k = 5$."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si k = 0, la función tendría una discontinuidad de salto en x = 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguales: $\\lim_{x \\to 2^-} f(x) = \\lim_{x \\to 2^+} f(x)$. Evaluando: $3(2) + 8 = k(2) + 4 \\implies 6 + 8 = 2k + 4 \\implies 2k = 10 \\implies k = 5$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle-v5",
+      "statement": "¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?",
+      "context": "Un sistema de costos en Pasto diseñado por Isabella cambia en $x = 2$ siguiendo la función a trozos $f(x) = 3x + 10$ para $x \\le 2$ y $f(x) = k x + 4$ para $x > 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": true,
+          "feedback": "Correcto. El límite izquierdo es $3(2) + 10 = 16$ y el derecho es $2k + 4$. Igualando $2k + 4 = 16 \\implies 2k = 12 \\implies k = 6$."
+        },
+        {
+          "letter": "B",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si k = 0, la función tendría una discontinuidad de salto en x = 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguales: $\\lim_{x \\to 2^-} f(x) = \\lim_{x \\to 2^+} f(x)$. Evaluando: $3(2) + 10 = k(2) + 4 \\implies 6 + 10 = 2k + 4 \\implies 2k = 12 \\implies k = 6$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle-v6",
+      "statement": "¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?",
+      "context": "Un sistema de costos en Bogotá diseñado por Mateo cambia en $x = 2$ siguiendo la función a trozos $f(x) = 3x + 12$ para $x \\le 2$ y $f(x) = k x + 4$ para $x > 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Correcto. El límite izquierdo es $3(2) + 12 = 18$ y el derecho es $2k + 4$. Igualando $2k + 4 = 18 \\implies 2k = 14 \\implies k = 7$."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si k = 0, la función tendría una discontinuidad de salto en x = 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguales: $\\lim_{x \\to 2^-} f(x) = \\lim_{x \\to 2^+} f(x)$. Evaluando: $3(2) + 12 = k(2) + 4 \\implies 6 + 12 = 2k + 4 \\implies 2k = 14 \\implies k = 7$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle-v7",
+      "statement": "¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?",
+      "context": "Un sistema de costos en Medellín diseñado por Sofia cambia en $x = 2$ siguiendo la función a trozos $f(x) = 3x + 14$ para $x \\le 2$ y $f(x) = k x + 4$ para $x > 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "Correcto. El límite izquierdo es $3(2) + 14 = 20$ y el derecho es $2k + 4$. Igualando $2k + 4 = 20 \\implies 2k = 16 \\implies k = 8$."
+        },
+        {
+          "letter": "B",
+          "text": "11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si k = 0, la función tendría una discontinuidad de salto en x = 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguales: $\\lim_{x \\to 2^-} f(x) = \\lim_{x \\to 2^+} f(x)$. Evaluando: $3(2) + 14 = k(2) + 4 \\implies 6 + 14 = 2k + 4 \\implies 2k = 16 \\implies k = 8$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle-v8",
+      "statement": "¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?",
+      "context": "Un sistema de costos en Cali diseñado por Diego cambia en $x = 2$ siguiendo la función a trozos $f(x) = 3x + 16$ para $x \\le 2$ y $f(x) = k x + 4$ para $x > 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9",
+          "is_correct": true,
+          "feedback": "Correcto. El límite izquierdo es $3(2) + 16 = 22$ y el derecho es $2k + 4$. Igualando $2k + 4 = 22 \\implies 2k = 18 \\implies k = 9$."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "22",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si k = 0, la función tendría una discontinuidad de salto en x = 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguales: $\\lim_{x \\to 2^-} f(x) = \\lim_{x \\to 2^+} f(x)$. Evaluando: $3(2) + 16 = k(2) + 4 \\implies 6 + 16 = 2k + 4 \\implies 2k = 18 \\implies k = 9$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle-v9",
+      "statement": "¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?",
+      "context": "Un sistema de costos en Barranquilla diseñado por Valentina cambia en $x = 2$ siguiendo la función a trozos $f(x) = 3x + 18$ para $x \\le 2$ y $f(x) = k x + 4$ para $x > 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "is_correct": true,
+          "feedback": "Correcto. El límite izquierdo es $3(2) + 18 = 24$ y el derecho es $2k + 4$. Igualando $2k + 4 = 24 \\implies 2k = 20 \\implies k = 10$."
+        },
+        {
+          "letter": "B",
+          "text": "13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si k = 0, la función tendría una discontinuidad de salto en x = 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguales: $\\lim_{x \\to 2^-} f(x) = \\lim_{x \\to 2^+} f(x)$. Evaluando: $3(2) + 18 = k(2) + 4 \\implies 6 + 18 = 2k + 4 \\implies 2k = 20 \\implies k = 10$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle-v10",
+      "statement": "¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?",
+      "context": "Un sistema de costos en Bucaramanga diseñado por Santiago cambia en $x = 2$ siguiendo la función a trozos $f(x) = 3x + 20$ para $x \\le 2$ y $f(x) = k x + 4$ para $x > 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11",
+          "is_correct": true,
+          "feedback": "Correcto. El límite izquierdo es $3(2) + 20 = 26$ y el derecho es $2k + 4$. Igualando $2k + 4 = 26 \\implies 2k = 22 \\implies k = 11$."
+        },
+        {
+          "letter": "B",
+          "text": "14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "26",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si k = 0, la función tendría una discontinuidad de salto en x = 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguales: $\\lim_{x \\to 2^-} f(x) = \\lim_{x \\to 2^+} f(x)$. Evaluando: $3(2) + 20 = k(2) + 4 \\implies 6 + 20 = 2k + 4 \\implies 2k = 22 \\implies k = 11$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle-v11",
+      "statement": "¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?",
+      "context": "Un sistema de costos en Cartagena diseñado por Mariana cambia en $x = 2$ siguiendo la función a trozos $f(x) = 3x + 22$ para $x \\le 2$ y $f(x) = k x + 4$ para $x > 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": true,
+          "feedback": "Correcto. El límite izquierdo es $3(2) + 22 = 28$ y el derecho es $2k + 4$. Igualando $2k + 4 = 28 \\implies 2k = 24 \\implies k = 12$."
+        },
+        {
+          "letter": "B",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "28",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si k = 0, la función tendría una discontinuidad de salto en x = 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguales: $\\lim_{x \\to 2^-} f(x) = \\lim_{x \\to 2^+} f(x)$. Evaluando: $3(2) + 22 = k(2) + 4 \\implies 6 + 22 = 2k + 4 \\implies 2k = 24 \\implies k = 12$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle-v12",
+      "statement": "¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?",
+      "context": "Un sistema de costos en Pereira diseñado por Juan cambia en $x = 2$ siguiendo la función a trozos $f(x) = 3x + 24$ para $x \\le 2$ y $f(x) = k x + 4$ para $x > 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "13",
+          "is_correct": true,
+          "feedback": "Correcto. El límite izquierdo es $3(2) + 24 = 30$ y el derecho es $2k + 4$. Igualando $2k + 4 = 30 \\implies 2k = 26 \\implies k = 13$."
+        },
+        {
+          "letter": "B",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si k = 0, la función tendría una discontinuidad de salto en x = 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguales: $\\lim_{x \\to 2^-} f(x) = \\lim_{x \\to 2^+} f(x)$. Evaluando: $3(2) + 24 = k(2) + 4 \\implies 6 + 24 = 2k + 4 \\implies 2k = 26 \\implies k = 13$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle-v13",
+      "statement": "¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?",
+      "context": "Un sistema de costos en Manizales diseñado por Camila cambia en $x = 2$ siguiendo la función a trozos $f(x) = 3x + 26$ para $x \\le 2$ y $f(x) = k x + 4$ para $x > 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "14",
+          "is_correct": true,
+          "feedback": "Correcto. El límite izquierdo es $3(2) + 26 = 32$ y el derecho es $2k + 4$. Igualando $2k + 4 = 32 \\implies 2k = 28 \\implies k = 14$."
+        },
+        {
+          "letter": "B",
+          "text": "17",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "32",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si k = 0, la función tendría una discontinuidad de salto en x = 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguales: $\\lim_{x \\to 2^-} f(x) = \\lim_{x \\to 2^+} f(x)$. Evaluando: $3(2) + 26 = k(2) + 4 \\implies 6 + 26 = 2k + 4 \\implies 2k = 28 \\implies k = 14$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle-v14",
+      "statement": "¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?",
+      "context": "Un sistema de costos en Santa Marta diseñado por Alejandro cambia en $x = 2$ siguiendo la función a trozos $f(x) = 3x + 28$ para $x \\le 2$ y $f(x) = k x + 4$ para $x > 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15",
+          "is_correct": true,
+          "feedback": "Correcto. El límite izquierdo es $3(2) + 28 = 34$ y el derecho es $2k + 4$. Igualando $2k + 4 = 34 \\implies 2k = 30 \\implies k = 15$."
+        },
+        {
+          "letter": "B",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "34",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si k = 0, la función tendría una discontinuidad de salto en x = 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguales: $\\lim_{x \\to 2^-} f(x) = \\lim_{x \\to 2^+} f(x)$. Evaluando: $3(2) + 28 = k(2) + 4 \\implies 6 + 28 = 2k + 4 \\implies 2k = 30 \\implies k = 15$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle-v15",
+      "statement": "¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?",
+      "context": "Un sistema de costos en Pasto diseñado por Isabella cambia en $x = 2$ siguiendo la función a trozos $f(x) = 3x + 30$ para $x \\le 2$ y $f(x) = k x + 4$ para $x > 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "16",
+          "is_correct": true,
+          "feedback": "Correcto. El límite izquierdo es $3(2) + 30 = 36$ y el derecho es $2k + 4$. Igualando $2k + 4 = 36 \\implies 2k = 32 \\implies k = 16$."
+        },
+        {
+          "letter": "B",
+          "text": "19",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "36",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si k = 0, la función tendría una discontinuidad de salto en x = 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguales: $\\lim_{x \\to 2^-} f(x) = \\lim_{x \\to 2^+} f(x)$. Evaluando: $3(2) + 30 = k(2) + 4 \\implies 6 + 30 = 2k + 4 \\implies 2k = 32 \\implies k = 16$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle-v16",
+      "statement": "¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?",
+      "context": "Un sistema de costos en Bogotá diseñado por Mateo cambia en $x = 2$ siguiendo la función a trozos $f(x) = 3x + 32$ para $x \\le 2$ y $f(x) = k x + 4$ para $x > 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "17",
+          "is_correct": true,
+          "feedback": "Correcto. El límite izquierdo es $3(2) + 32 = 38$ y el derecho es $2k + 4$. Igualando $2k + 4 = 38 \\implies 2k = 34 \\implies k = 17$."
+        },
+        {
+          "letter": "B",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "38",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si k = 0, la función tendría una discontinuidad de salto en x = 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguales: $\\lim_{x \\to 2^-} f(x) = \\lim_{x \\to 2^+} f(x)$. Evaluando: $3(2) + 32 = k(2) + 4 \\implies 6 + 32 = 2k + 4 \\implies 2k = 34 \\implies k = 17$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle-v17",
+      "statement": "¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?",
+      "context": "Un sistema de costos en Medellín diseñado por Sofia cambia en $x = 2$ siguiendo la función a trozos $f(x) = 3x + 34$ para $x \\le 2$ y $f(x) = k x + 4$ para $x > 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18",
+          "is_correct": true,
+          "feedback": "Correcto. El límite izquierdo es $3(2) + 34 = 40$ y el derecho es $2k + 4$. Igualando $2k + 4 = 40 \\implies 2k = 36 \\implies k = 18$."
+        },
+        {
+          "letter": "B",
+          "text": "21",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "40",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si k = 0, la función tendría una discontinuidad de salto en x = 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguales: $\\lim_{x \\to 2^-} f(x) = \\lim_{x \\to 2^+} f(x)$. Evaluando: $3(2) + 34 = k(2) + 4 \\implies 6 + 34 = 2k + 4 \\implies 2k = 36 \\implies k = 18$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle-v18",
+      "statement": "¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?",
+      "context": "Un sistema de costos en Cali diseñado por Diego cambia en $x = 2$ siguiendo la función a trozos $f(x) = 3x + 36$ para $x \\le 2$ y $f(x) = k x + 4$ para $x > 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "19",
+          "is_correct": true,
+          "feedback": "Correcto. El límite izquierdo es $3(2) + 36 = 42$ y el derecho es $2k + 4$. Igualando $2k + 4 = 42 \\implies 2k = 38 \\implies k = 19$."
+        },
+        {
+          "letter": "B",
+          "text": "22",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "42",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si k = 0, la función tendría una discontinuidad de salto en x = 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguales: $\\lim_{x \\to 2^-} f(x) = \\lim_{x \\to 2^+} f(x)$. Evaluando: $3(2) + 36 = k(2) + 4 \\implies 6 + 36 = 2k + 4 \\implies 2k = 38 \\implies k = 19$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle-v19",
+      "statement": "¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?",
+      "context": "Un sistema de costos en Barranquilla diseñado por Valentina cambia en $x = 2$ siguiendo la función a trozos $f(x) = 3x + 38$ para $x \\le 2$ y $f(x) = k x + 4$ para $x > 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20",
+          "is_correct": true,
+          "feedback": "Correcto. El límite izquierdo es $3(2) + 38 = 44$ y el derecho es $2k + 4$. Igualando $2k + 4 = 44 \\implies 2k = 40 \\implies k = 20$."
+        },
+        {
+          "letter": "B",
+          "text": "23",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "44",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si k = 0, la función tendría una discontinuidad de salto en x = 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguales: $\\lim_{x \\to 2^-} f(x) = \\lim_{x \\to 2^+} f(x)$. Evaluando: $3(2) + 38 = k(2) + 4 \\implies 6 + 38 = 2k + 4 \\implies 2k = 40 \\implies k = 20$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle-v20",
+      "statement": "¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?",
+      "context": "Un sistema de costos en Bucaramanga diseñado por Santiago cambia en $x = 2$ siguiendo la función a trozos $f(x) = 3x + 40$ para $x \\le 2$ y $f(x) = k x + 4$ para $x > 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "21",
+          "is_correct": true,
+          "feedback": "Correcto. El límite izquierdo es $3(2) + 40 = 46$ y el derecho es $2k + 4$. Igualando $2k + 4 = 46 \\implies 2k = 42 \\implies k = 21$."
+        },
+        {
+          "letter": "B",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "46",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si k = 0, la función tendría una discontinuidad de salto en x = 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguales: $\\lim_{x \\to 2^-} f(x) = \\lim_{x \\to 2^+} f(x)$. Evaluando: $3(2) + 40 = k(2) + 4 \\implies 6 + 40 = 2k + 4 \\implies 2k = 42 \\implies k = 21$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W04-continuidad-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}
