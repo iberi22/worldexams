@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-29-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T18:22:22.187Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle-v1",
+      "statement": "¿Qué le ocurre a una especie química cuando se 'oxida' durante una reacción redox?",
+      "context": "En una práctica electroquímica en Colombia sobre concepto de oxidación, Carlos estudia los cambios de oxidación-reducción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pierde electrones y su estado de oxidación aumenta.",
+          "is_correct": true,
+          "feedback": "La oxidación es la pérdida de electrones, resultando en un incremento del número de oxidación."
+        },
+        {
+          "letter": "B",
+          "text": "Gana electrones y su estado de oxidación disminuye.",
+          "is_correct": false,
+          "feedback": "Gañar electrones corresponde a la reducción."
+        },
+        {
+          "letter": "C",
+          "text": "Gana protones en el núcleo.",
+          "is_correct": false,
+          "feedback": "Las reacciones redox involucran transferencia de electrones, no de protones nucleares."
+        },
+        {
+          "letter": "D",
+          "text": "Se convierte en un gas noble inerte.",
+          "is_correct": false,
+          "feedback": "La especie cambia su número de oxidación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Oxidación = Pérdida de electrones (aumento de estado de oxidación); Reducción = Ganancia de electrones.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle-v2",
+      "statement": "¿Qué es un 'agente reductor' en una reacción química de oxidación-reducción?",
+      "context": "En una práctica electroquímica en Colombia sobre concepto de agente reductor, Carlos estudia los cambios de oxidación-reducción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La especie que gana electrones y se reduce.",
+          "is_correct": false,
+          "feedback": "Eso describe al agente oxidante."
+        },
+        {
+          "letter": "B",
+          "text": "La especie que cede electrones, reduciendo a otra y oxidándose ella misma.",
+          "is_correct": true,
+          "feedback": "El agente reductor aporta los electrones que causan la reducción del otro reactivo."
+        },
+        {
+          "letter": "C",
+          "text": "El solvente inerte que no cambia su estado de oxidación.",
+          "is_correct": false,
+          "feedback": "No es inerte; interviene cediendo electrones."
+        },
+        {
+          "letter": "D",
+          "text": "Un catalizador sólido inorgánico.",
+          "is_correct": false,
+          "feedback": "Es un reactivo de la reacción redox."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El agente reductor provoca la reducción de otra especie al cederle electrones, por lo que se oxida.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el estado de oxidación del manganeso (Mn) en el permanganato de potasio (KMnO4)?",
+      "context": "En una práctica electroquímica en Colombia sobre estado de oxidación del manganeso en kmno4, Carlos estudia los cambios de oxidación-reducción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "+2",
+          "is_correct": false,
+          "feedback": "En el anión permanganato el Mn se encuentra en su máximo estado de oxidación +7."
+        },
+        {
+          "letter": "B",
+          "text": "+4",
+          "is_correct": false,
+          "feedback": "1 + x - 8 = 0 da x = +7."
+        },
+        {
+          "letter": "C",
+          "text": "+7",
+          "is_correct": true,
+          "feedback": "K(+1) + Mn(x) + 4×O(-2) = 0 => 1 + x - 8 = 0 => x = +7."
+        },
+        {
+          "letter": "D",
+          "text": "+6",
+          "is_correct": false,
+          "feedback": "El cálculo correcto es +7."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La suma de los estados de oxidación en un compuesto neutro debe ser igual a cero.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el estado de oxidación del oxígeno en el peróxido de hidrógeno (H2O2)?",
+      "context": "En una práctica electroquímica en Colombia sobre estado de oxidación del oxígeno en peróxidos, Carlos estudia los cambios de oxidación-reducción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-2",
+          "is_correct": false,
+          "feedback": "-2 es el estado de oxidación habitual del oxígeno en la mayoría de óxidos y agua."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "0 es el estado de oxidación del oxígeno elemental (O2)."
+        },
+        {
+          "letter": "C",
+          "text": "+2",
+          "is_correct": false,
+          "feedback": "En H2O2 el oxígeno actúa con -1."
+        },
+        {
+          "letter": "D",
+          "text": "-1",
+          "is_correct": true,
+          "feedback": "En los peróxidos los átomos de O están unidos entre sí (O-O) asignándoles estado de oxidación -1."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En los peróxidos (como H2O2 y Na2O2), el estado de oxidación del oxígeno es -1.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle-v5",
+      "statement": "En la reacción Zn + Cu²⁺ -> Zn²⁺ + Cu, la semirreacción de oxidación es...",
+      "context": "En una práctica electroquímica en Colombia sobre identificación de semirreacciones, Carlos estudia los cambios de oxidación-reducción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zn -> Zn²⁺ + 2e⁻",
+          "is_correct": true,
+          "feedback": "El cinc metálico pierde 2 electrones aumentando su estado de oxidación de 0 a +2."
+        },
+        {
+          "letter": "B",
+          "text": "Cu²⁺ + 2e⁻ -> Cu",
+          "is_correct": false,
+          "feedback": "Esa es la semirreacción de reducción."
+        },
+        {
+          "letter": "C",
+          "text": "Zn²⁺ + 2e⁻ -> Zn",
+          "is_correct": false,
+          "feedback": "Representa la reducción del Zn²⁺."
+        },
+        {
+          "letter": "D",
+          "text": "Cu -> Cu²⁺ + 2e⁻",
+          "is_correct": false,
+          "feedback": "El cobre metálico se está formando por reducción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La semirreacción de oxidación muestra la pérdida de electrones produciendo la especie oxidadada.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle-v6",
+      "statement": "En una pila galvánica Daniell (Zn-Cu), ¿en cuál electrodo ocurre la oxidación y qué carga tiene el ánodo?",
+      "context": "En una práctica electroquímica en Colombia sobre celda galvánica anodo y cátodo, Carlos estudia los cambios de oxidación-reducción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ocurre en el Cátodo, que es positivo.",
+          "is_correct": false,
+          "feedback": "En el cátodo ocurre la reducción."
+        },
+        {
+          "letter": "B",
+          "text": "Ocurre en el Ánodo, el cual tiene polaridad negativa.",
+          "is_correct": true,
+          "feedback": "En celdas galvánicas la oxidación siempre ocurre en el Ánodo (negativo)."
+        },
+        {
+          "letter": "C",
+          "text": "Ocurre en el puente salino.",
+          "is_correct": false,
+          "feedback": "El puente salino solo transporta iones para mantener la electroneutralidad."
+        },
+        {
+          "letter": "D",
+          "text": "Ocurre en el aire exterior.",
+          "is_correct": false,
+          "feedback": "La reacción electroquímica ocurre en la superficie del electrodo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Memorización mnemotécnica: 'Ánodo = Oxidación' (ambas vocales); 'Cátodo = Reducción' (ambas consonantes). En pilas galvánicas el ánodo es negativo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la función del puente salino (ej. lleno de KCl) en una celda galvánica?",
+      "context": "En una práctica electroquímica en Colombia sobre función del puente salino, Carlos estudia los cambios de oxidación-reducción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transportar los electrones directamente de un electrodo a otro.",
+          "is_correct": false,
+          "feedback": "Los electrones viajan por el cable conductor externo, no por el puente salino."
+        },
+        {
+          "letter": "B",
+          "text": "Generar calor para hervir el electrolito.",
+          "is_correct": false,
+          "feedback": "No produce calentamiento del sistema."
+        },
+        {
+          "letter": "C",
+          "text": "Mantener la neutralidad eléctrica de las soluciones permitiendo la migración de iones.",
+          "is_correct": true,
+          "feedback": "Los cationes y aniones del puente salino migran para compensar la acumulación de cargas en cada semicelda."
+        },
+        {
+          "letter": "D",
+          "text": "Evaporar el metal del ánodo.",
+          "is_correct": false,
+          "feedback": "Regula el equilibrio iónico entre las semiceldas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El puente salino completa el circuito eléctrico interno permitiendo el flujo de iones para evitar la polarización por carga.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle-v8",
+      "statement": "Si E°(Cu²⁺/Cu) = +0.34 V y E°(Zn²⁺/Zn) = -0.76 V, el potencial estándar de la pila Daniell es...",
+      "context": "En una práctica electroquímica en Colombia sobre cálculo del potencial estándar e°celda, Carlos estudia los cambios de oxidación-reducción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-0.42 V",
+          "is_correct": false,
+          "feedback": "E°cátodo - E°ánodo = 0.34 - (-0.76) = +1.10 V."
+        },
+        {
+          "letter": "B",
+          "text": "+0.42 V",
+          "is_correct": false,
+          "feedback": "Se restan los potenciales respetando sus signos."
+        },
+        {
+          "letter": "C",
+          "text": "-1.10 V",
+          "is_correct": false,
+          "feedback": "Las celdas galvánicas espontáneas tienen E° positivo."
+        },
+        {
+          "letter": "D",
+          "text": "+1.10 V",
+          "is_correct": true,
+          "feedback": "E°celda = E°cátodo - E°ánodo = +0.34 V - (-0.76 V) = +1.10 V."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El potencial estándar de celda espontánea se calcula como E°celda = E°reducción(cátodo) - E°reducción(ánodo) y debe ser positivo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle-v9",
+      "statement": "Una reacción redox es espontánea en condiciones estándar cuando...",
+      "context": "En una práctica electroquímica en Colombia sobre espontaneidad y δg°, Carlos estudia los cambios de oxidación-reducción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "E°celda es positivo y ΔG° es negativo (ΔG° = -n F E°celda).",
+          "is_correct": true,
+          "feedback": "Un E°celda > 0 produce un ΔG° < 0 indicando espontaneidad termodinámica."
+        },
+        {
+          "letter": "B",
+          "text": "E°celda es negativo y ΔG° es positivo.",
+          "is_correct": false,
+          "feedback": "E° negativo caracteriza procesos no espontáneos."
+        },
+        {
+          "letter": "C",
+          "text": "E°celda y ΔG° son ambos cero.",
+          "is_correct": false,
+          "feedback": "En cero el sistema está en equilibrio."
+        },
+        {
+          "letter": "D",
+          "text": "ΔG° es igual a la masa del electrodo.",
+          "is_correct": false,
+          "feedback": "ΔG° es la variación de energía libre de Gibbs."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La relación ΔG° = -n F E°celda acopla la potencialidad electroquímica con la espontaneidad termodinámica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle-v10",
+      "statement": "¿En qué se diferencia fundamentalmente una celda electrolítica de una pila galvánica?",
+      "context": "En una práctica electroquímica en Colombia sobre celdas electrolíticas, Carlos estudia los cambios de oxidación-reducción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La celda electrolítica genera energía eléctrica a partir de reacciones espontáneas.",
+          "is_correct": false,
+          "feedback": "Eso es la definición de pila galvánica."
+        },
+        {
+          "letter": "B",
+          "text": "La celda electrolítica consume energía eléctrica externa para forzar una reacción redox no espontánea.",
+          "is_correct": true,
+          "feedback": "La electrólisis utiliza corriente eléctrica externa para impulsar reacciones con E°celda < 0."
+        },
+        {
+          "letter": "C",
+          "text": "La celda electrolítica no utiliza electrodos de ningún tipo.",
+          "is_correct": false,
+          "feedback": "Utiliza ánodo y cátodo sumergidos en un electrolito."
+        },
+        {
+          "letter": "D",
+          "text": "La celda electrolítica destruye la ley de conservación de la masa.",
+          "is_correct": false,
+          "feedback": "Sigue conservando la masa de acuerdo a las leyes de Faraday."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las celdas electrolíticas consumen electricidad para realizar síntesis químicas no espontáneas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle-v11",
+      "statement": "Según la primera ley de Faraday, la masa de sustancia depositada en un electrodo durante la electrólisis es...",
+      "context": "En una práctica electroquímica en Colombia sobre leyes de faraday de la electrólisis, Carlos estudia los cambios de oxidación-reducción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inversamente proporcional al tiempo de paso de la corriente.",
+          "is_correct": false,
+          "feedback": "A mayor tiempo pasa más carga y se deposita más masa."
+        },
+        {
+          "letter": "B",
+          "text": "Independiente de la intensidad de la corriente eléctrica.",
+          "is_correct": false,
+          "feedback": "La masa varía linealmente con la intensidad I."
+        },
+        {
+          "letter": "C",
+          "text": "Directamente proporcional a la cantidad de carga eléctrica (Q = I · t) que pasa por la celda.",
+          "is_correct": true,
+          "feedback": "m = (M · I · t) / (n · F). La masa depositada depende de la carga consumida."
+        },
+        {
+          "letter": "D",
+          "text": "Igual a la masa del cable de cobre.",
+          "is_correct": false,
+          "feedback": "Depende de los equivalentes químicos reducidos u oxidados."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La masa depositada en electrólisis es proporcional a la carga eléctrica total Q = I · t.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle-v12",
+      "statement": "La corrosión o herrumbrado del hierro en presencia de agua y oxígeno ambiental en Cartagena es...",
+      "context": "En una práctica electroquímica en Colombia sobre corrosión del hierro, Carlos estudia los cambios de oxidación-reducción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un cambio de fase puramente físico a estado gaseoso.",
+          "is_correct": false,
+          "feedback": "Es una reacción química de oxidación del metal."
+        },
+        {
+          "letter": "B",
+          "text": "Una reacción de desintegración nuclear espontánea.",
+          "is_correct": false,
+          "feedback": "Es un proceso químico redox a escala atómica valencial."
+        },
+        {
+          "letter": "C",
+          "text": "Una polimerización sintética de nitrógeno.",
+          "is_correct": false,
+          "feedback": "El óxido formado es herrumbre (Fe2O3·nH2O)."
+        },
+        {
+          "letter": "D",
+          "text": "Un proceso redox espontáneo donde el Fe se oxida a Fe²⁺/Fe³⁺ formando óxidos hidratados.",
+          "is_correct": true,
+          "feedback": "El hierro actúa como ánodo perdiendo electrones frente al oxígeno disuelto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La corrosión es la degradación electroquímica espontánea de los metales por interacción con oxidantes ambientales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle-v13",
+      "statement": "¿Por qué se conectan bloques de Magnesio o Cinc a los cascos de los barcos de acero?",
+      "context": "En una práctica electroquímica en Colombia sobre protección catódica con ánodo de sacrificio, Carlos estudia los cambios de oxidación-reducción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el Mg/Zn es más reactivo (se oxida más fácilmente) protegiendo catódicamente al hierro.",
+          "is_correct": true,
+          "feedback": "El ánodo de sacrificio se oxida preferencialmente salvaguardando la estructura de hierro del casco."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el Magnesio repele el agua de mar mediante magnetismo.",
+          "is_correct": false,
+          "feedback": "No es un efecto magnético."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el Cinc aumenta la masa del barco reduciendo la fricción.",
+          "is_correct": false,
+          "feedback": "Es un mecanismo de protección electroquímica."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el Magnesio destruye las moléculas de sal.",
+          "is_correct": false,
+          "feedback": "Evita la oxidación del casco donando electrones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La protección catódica utiliza un metal con menor potencial de reducción (ánodo de sacrificio) para evitar la oxidación del metal estructural.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle-v14",
+      "statement": "Al balancear la semirreacción de reducción MnO4- -> Mn²⁺ en medio ácido, ¿cuántas moléculas de H2O y H+ se añaden?",
+      "context": "En una práctica electroquímica en Colombia sobre balanceo redox por ión-electrón, Carlos estudia los cambios de oxidación-reducción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 H2O a la izquierda y 4 H+ a la derecha.",
+          "is_correct": false,
+          "feedback": "Se equilibran oxígenos con agua en el lado deficiente de oxígeno."
+        },
+        {
+          "letter": "B",
+          "text": "4 H2O a la derecha y 8 H+ a la izquierda.",
+          "is_correct": true,
+          "feedback": "MnO4- + 8 H+ + 5e- -> Mn²⁺ + 4 H2O. Se equilibran los 4 de O con 4 H2O y luego 8 H+."
+        },
+        {
+          "letter": "C",
+          "text": "8 H2O a la izquierda y 4 H+ a la derecha.",
+          "is_correct": false,
+          "feedback": "El lado derecho recibe las 4 H2O para compensar los 4 oxígenos del permanganato."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna, los átomos están balanceados.",
+          "is_correct": false,
+          "feedback": "Falta balancear oxígenos e hidrógenos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En medio ácido, cada átomo de oxígeno en exceso se balancea agregando H2O al lado opuesto y los hidrógenos con H+.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle-v15",
+      "statement": "La oxidación controlada de un alcohol primario (ej. etanol) con un agente oxidante como K2Cr2O7 produce...",
+      "context": "En una práctica electroquímica en Colombia sobre oxidación de alcoholes primarios, Carlos estudia los cambios de oxidación-reducción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un alcano inerte de tres carbonos.",
+          "is_correct": false,
+          "feedback": "La oxidación de alcoholes primarios no genera alcanos."
+        },
+        {
+          "letter": "B",
+          "text": "Un éster aromático cristalino.",
+          "is_correct": false,
+          "feedback": "Se forman carbonilos (aldehídos y ácidos carboxílicos)."
+        },
+        {
+          "letter": "C",
+          "text": "Un aldehído (acetaldehído) y posteriormente un ácido carboxílico (ácido acético).",
+          "is_correct": true,
+          "feedback": "El alcohol primario se oxida primero a aldehído y luego a ácido carboxílico."
+        },
+        {
+          "letter": "D",
+          "text": "Gas metano puro.",
+          "is_correct": false,
+          "feedback": "Conserva la cadena de carbonos del alcohol."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La oxidación de alcoholes primarios adiciona enlaces con oxígeno, formando secuencialmente aldehídos y ácidos carboxílicos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle-v16",
+      "statement": "En una batería de ión-Litio durante la descarga, los iones Li+ migran internamente desde...",
+      "context": "En una práctica electroquímica en Colombia sobre baterías recargables de ión-litio, Carlos estudia los cambios de oxidación-reducción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cátodo hacia el exterior de la carcasa.",
+          "is_correct": false,
+          "feedback": "Los iones se mueven en el electrolito interno."
+        },
+        {
+          "letter": "B",
+          "text": "El cable externo junto con los electrones.",
+          "is_correct": false,
+          "feedback": "Los electrones viajan por el circuito externo y los iones Li+ por el electrolito."
+        },
+        {
+          "letter": "C",
+          "text": "El aire ambiental hacia el ánodo.",
+          "is_correct": false,
+          "feedback": "Es un sistema sellado con electrolito no acuoso."
+        },
+        {
+          "letter": "D",
+          "text": "El ánodo de grafito hacia el cátodo de óxido de cobalto.",
+          "is_correct": true,
+          "feedback": "Durante la descarga los iones Li+ se mueven espontáneamente del ánodo al cátodo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En baterías recargables de Li-ión, la intercalación de iones Li+ entre electrodos acompaña el flujo de electrones por el circuito externo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es el número de oxidación de cualquier elemento químico en su estado fundamental libre (ej. Na(s), O2(g), Fe(s))?",
+      "context": "En una práctica electroquímica en Colombia sobre número de oxidación de elementos libres, Carlos estudia los cambios de oxidación-reducción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": true,
+          "feedback": "Por convención, todo elemento no combinado tiene un número de oxidación igual a cero."
+        },
+        {
+          "letter": "B",
+          "text": "+1",
+          "is_correct": false,
+          "feedback": "Los elementos puros sin combinar poseen carga neta y estado de oxidación cero."
+        },
+        {
+          "letter": "C",
+          "text": "-1",
+          "is_correct": false,
+          "feedback": "El estado de oxidación es cero."
+        },
+        {
+          "letter": "D",
+          "text": "+2",
+          "is_correct": false,
+          "feedback": "En estado elemental el número de oxidación es estrictamente cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Todos los átomos en su estado elemental no combinado tienen un número de oxidación de cero.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle-v18",
+      "statement": "En la reacción de combustión del metano CH4 + 2O2 -> CO2 + 2H2O, el carbono cambia su estado de oxidación de...",
+      "context": "En una práctica electroquímica en Colombia sobre combustión como proceso redox, Carlos estudia los cambios de oxidación-reducción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0 a +2",
+          "is_correct": false,
+          "feedback": "En el CH4 los cuatro hidrógenos aportan +1 cada uno, dando C = -4."
+        },
+        {
+          "letter": "B",
+          "text": "-4 a +4",
+          "is_correct": true,
+          "feedback": "En CH4 el C tiene -4; en CO2 el C tiene +4. Ha sufrido una oxidación de 8 electrones."
+        },
+        {
+          "letter": "C",
+          "text": "+4 a -4",
+          "is_correct": false,
+          "feedback": "El carbono se oxida (pierde densidad electrónica) pasando de -4 a +4."
+        },
+        {
+          "letter": "D",
+          "text": "+2 a +4",
+          "is_correct": false,
+          "feedback": "El cambio en el carbono es de -4 a +4."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las combustiones son reacciones redox exotérmicas donde el carbono del combustible se oxida a CO2.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle-v19",
+      "statement": "El hipoclorito de sodio (NaClO) en el límpido o blanqueador casero actúa como desinfectante porque el Cl(+1)...",
+      "context": "En una práctica electroquímica en Colombia sobre agente oxidante común en blanqueadores, Carlos estudia los cambios de oxidación-reducción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un agente reductor que regala electrones al aire.",
+          "is_correct": false,
+          "feedback": "El hipoclorito es un oxidante fuerte."
+        },
+        {
+          "letter": "B",
+          "text": "Es una sustancia inerte que no reacciona.",
+          "is_correct": false,
+          "feedback": "Desinfecta mediante potentes reacciones de oxidación."
+        },
+        {
+          "letter": "C",
+          "text": "Es un agente oxidante que gana electrones oxidando la materia orgánica de gérmenes.",
+          "is_correct": true,
+          "feedback": "El Cl en NaClO está en +1 y se reduce a Cl- (-1), destruyendo paredes celulares microbianas por oxidación."
+        },
+        {
+          "letter": "D",
+          "text": "Evapora el agua por reacción endotérmica.",
+          "is_correct": false,
+          "feedback": "Su poder desinfectante proviene de su capacidad oxidante."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El poder desinfectante del hipoclorito radica en la acción oxidante del cloro en estado de oxidación +1.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle-v20",
+      "statement": "La ecuación de Nernst E = E° - (RT/nF) ln(Q) permite calcular el potencial de celda cuando...",
+      "context": "En una práctica electroquímica en Colombia sobre ecuación de nernst, Carlos estudia los cambios de oxidación-reducción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La temperatura alcanza el cero absoluto.",
+          "is_correct": false,
+          "feedback": "Calcula el efecto de las concentraciones reales sobre el potencial de celda."
+        },
+        {
+          "letter": "B",
+          "text": "El volumen del electrodo se reduce a cero.",
+          "is_correct": false,
+          "feedback": "Ajusta el potencial electroquímico por desviaciones de la concentración estándar."
+        },
+        {
+          "letter": "C",
+          "text": "La carga del electrón cambia de signo.",
+          "is_correct": false,
+          "feedback": "Mantiene la constante de Faraday constante."
+        },
+        {
+          "letter": "D",
+          "text": "Las concentraciones de las especies reactivas no se encuentran en condiciones estándar (1 M).",
+          "is_correct": true,
+          "feedback": "La ecuación de Nernst ajusta el potencial E en función del cociente de reacción Q a concentraciones reales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La ecuación de Nernst calcula el potencial corregido de una celda electroquímica fuera de las condiciones estándar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

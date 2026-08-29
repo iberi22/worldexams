@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-31-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T18:22:22.188Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle-v1",
+      "statement": "En el efecto fotoeléctrico explicado por Einstein, la emisión de electrones en una placa metálica depende de...",
+      "context": "En un seminario de física moderna en Colombia sobre efecto fotoeléctrico, Alejandro analiza las propiedades cuánticas o nucleares del sistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la frecuencia de la luz incidente supere la frecuencia de umbral (f0) del metal.",
+          "is_correct": true,
+          "feedback": "Si la frecuencia f < f0, no hay emisión de electrones sin importar la intensidad de la luz."
+        },
+        {
+          "letter": "B",
+          "text": "Únicamente de la intensidad luminosa sin importar la frecuencia.",
+          "is_correct": false,
+          "feedback": "La intensidad aumenta el número de fotones, pero cada fotón debe tener energía E = hf > W0."
+        },
+        {
+          "letter": "C",
+          "text": "De la temperatura del agua del laboratorio.",
+          "is_correct": false,
+          "feedback": "Es un fenómeno cuántico de interacción fotón-electrón."
+        },
+        {
+          "letter": "D",
+          "text": "De la carga magnética del núcleo.",
+          "is_correct": false,
+          "feedback": "Depende de la energía del fotón incidente E = h·f."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El efecto fotoeléctrico demostró la naturaleza corpuscular de la luz, donde fotones de energía E = hf transfieren su energía a los electrones del metal.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle-v2",
+      "statement": "Calcula la energía de un fotón cuya frecuencia es 5.0 × 10¹⁴ Hz (Constante de Planck h = 6.63 × 10⁻³⁴ J·s).",
+      "context": "En un seminario de física moderna en Colombia sobre energía del fotón (planck), Alejandro analiza las propiedades cuánticas o nucleares del sistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.326 × 10⁻⁴⁸ Joules",
+          "is_correct": false,
+          "feedback": "Se multiplican h y f."
+        },
+        {
+          "letter": "B",
+          "text": "3.315 × 10⁻¹⁹ Joules",
+          "is_correct": true,
+          "feedback": "E = h · f = (6.63 × 10⁻³⁴ J·s) × (5.0 × 10¹⁴ s⁻¹) = 3.315 × 10⁻¹⁹ J."
+        },
+        {
+          "letter": "C",
+          "text": "3.315 × 10² Joules",
+          "is_correct": false,
+          "feedback": "El exponente correcto es 10⁻¹⁹ J."
+        },
+        {
+          "letter": "D",
+          "text": "6.63 × 10⁻³⁴ Joules",
+          "is_correct": false,
+          "feedback": "Falta multiplicar por la frecuencia f."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La energía de un fotón está cuantizada y es directamente proporcional a su frecuencia (E = h·f).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle-v3",
+      "statement": "La hipótesis de De Broglie establece que cualquier partícula de masa m en movimiento con velocidad v posee una longitud de onda de...",
+      "context": "En un seminario de física moderna en Colombia sobre dualidad onda-partícula (de broglie), Alejandro analiza las propiedades cuánticas o nucleares del sistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "λ = m · v / h",
+          "is_correct": false,
+          "feedback": "La constante de Planck h va en el numerador."
+        },
+        {
+          "letter": "B",
+          "text": "λ = h · c · m",
+          "is_correct": false,
+          "feedback": "La cantidad de movimiento p = m·v va en el denominador."
+        },
+        {
+          "letter": "C",
+          "text": "λ = h / (m · v)",
+          "is_correct": true,
+          "feedback": "De Broglie asignó a la materia en movimiento una onda de longitud λ = h / p."
+        },
+        {
+          "letter": "D",
+          "text": "λ = E / c²",
+          "is_correct": false,
+          "feedback": "λ = h / p."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Toda partícula en movimiento exhibe propiedades ondulatorias con longitud de onda inversamente proporcional a su cantidad de movimiento.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle-v4",
+      "statement": "En el modelo atómico de Bohr para el hidrógeno, un electrón emite un fotón de luz cuando...",
+      "context": "En un seminario de física moderna en Colombia sobre modelo atómico de bohr, Alejandro analiza las propiedades cuánticas o nucleares del sistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permanece en una órbita estacionaria sin moverse.",
+          "is_correct": false,
+          "feedback": "En órbitas estacionarias el electrón no emite ni absorbe radiación."
+        },
+        {
+          "letter": "B",
+          "text": "Absorbe calor del núcleo y sale despedido.",
+          "is_correct": false,
+          "feedback": "Al ascender absorbe energía; al descender emite un fotón."
+        },
+        {
+          "letter": "C",
+          "text": "Destruye un neutrón en el núcleo.",
+          "is_correct": false,
+          "feedback": "Las transiciones electrónicas involucran solo la nube atómica exterior."
+        },
+        {
+          "letter": "D",
+          "text": "Transita desde un nivel de energía superior (mayor n) a uno inferior (menor n).",
+          "is_correct": true,
+          "feedback": "Al descender de nivel, el electrón libera la diferencia de energía en forma de fotón (ΔE = hf)."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los fotones se emiten cuando los electrones saltan de órbitas de mayor energía a órbitas de menor energía.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle-v5",
+      "statement": "¿Por qué el espectro de emisión del átomo de hidrógeno presenta líneas discretas de colores en lugar de un continuo?",
+      "context": "En un seminario de física moderna en Colombia sobre espectros de emisión y absorción, Alejandro analiza las propiedades cuánticas o nucleares del sistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los niveles de energía de los electrones en el átomo están cuantizados.",
+          "is_correct": true,
+          "feedback": "Solo se permiten ciertas energías discretas; las diferencias corresponden a longitudes de onda específicas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el hidrógeno contiene todos los elementos de la tabla periódica.",
+          "is_correct": false,
+          "feedback": "El espectro discontinuo es firma atómica de sus niveles cuantizados."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la luz blanca se destruye al entrar al átomo.",
+          "is_correct": false,
+          "feedback": "La cuantización de niveles produce líneas espectrales discretas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los fotones chocan con neutrones libres.",
+          "is_correct": false,
+          "feedback": "Son diferencias entre niveles de energía electrónica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las líneas espectrales discretas son evidencia directa de que la energía de los electrones en los átomos está cuantizada.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle-v6",
+      "statement": "La famosa ecuación de Einstein E = m·c² establece la equivalencia entre...",
+      "context": "En un seminario de física moderna en Colombia sobre relatividad especial (e = mc²), Alejandro analiza las propiedades cuánticas o nucleares del sistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Masa y velocidad de la onda sonora.",
+          "is_correct": false,
+          "feedback": "c es la velocidad de la luz en el vacío."
+        },
+        {
+          "letter": "B",
+          "text": "Masa y energía.",
+          "is_correct": true,
+          "feedback": "La masa puede convertirse en energía y viceversa según el factor c²."
+        },
+        {
+          "letter": "C",
+          "text": "Energía cinética y carga del protón.",
+          "is_correct": false,
+          "feedback": "Es la equivalencia masa-energía."
+        },
+        {
+          "letter": "D",
+          "text": "Electricidad y magnetismo estático.",
+          "is_correct": false,
+          "feedback": "Demuestra la convertibilidad entre masa y energía."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La masa es una forma de energía extremadamente concentrada; una pequeña masa equivale a una enorme cantidad de energía.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle-v7",
+      "statement": "¿Qué composición física tiene una partícula alfa emitida durante una desintegración nuclear?",
+      "context": "En un seminario de física moderna en Colombia sobre radiactividad: partículas alfa (α), Alejandro analiza las propiedades cuánticas o nucleares del sistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un electrón de alta velocidad proveniente del núcleo.",
+          "is_correct": false,
+          "feedback": "Eso es una partícula beta negativa (β⁻)."
+        },
+        {
+          "letter": "B",
+          "text": "Un fotón de luz gamma de alta frecuencia.",
+          "is_correct": false,
+          "feedback": "Eso es radiación gamma (γ)."
+        },
+        {
+          "letter": "C",
+          "text": "Un núcleo de Helio compuesto por 2 protones y 2 neutrones (⁴He²⁺).",
+          "is_correct": true,
+          "feedback": "Una partícula alfa es idéntica al núcleo de Helio-4."
+        },
+        {
+          "letter": "D",
+          "text": "Un neutrón libre solitario sin carga.",
+          "is_correct": false,
+          "feedback": "Contiene 2 protones y 2 neutrones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las partículas alfa son núcleos de Helio (2 protones y 2 neutrones) emitidos por núcleos pesados inestables.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle-v8",
+      "statement": "En la desintegración beta negativa (β⁻), un neutrón inestable del núcleo se transforma en...",
+      "context": "En un seminario de física moderna en Colombia sobre radiactividad: partículas beta (β⁻), Alejandro analiza las propiedades cuánticas o nucleares del sistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un electrón y un fotón gamma únicamente.",
+          "is_correct": false,
+          "feedback": "El neutrón se transforma en un protón en el núcleo."
+        },
+        {
+          "letter": "B",
+          "text": "Dos partículas alfa pesadas.",
+          "is_correct": false,
+          "feedback": "No emite núcleos de helio."
+        },
+        {
+          "letter": "C",
+          "text": "Un positrón de carga positiva.",
+          "is_correct": false,
+          "feedback": "Beta negativa emite un electrón."
+        },
+        {
+          "letter": "D",
+          "text": "Un protón, emitiendo un electrón (partícula β⁻) y un antineutrino.",
+          "is_correct": true,
+          "feedback": "n -> p⁺ + e⁻ + ν_bar. El número atómico Z aumenta en 1."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En la desintegración beta negativa, un neutrón se convierte en protón liberando un electrón (partícula beta) y un antineutrino.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la naturaleza física de la radiación gamma emitida en procesos nucleares?",
+      "context": "En un seminario de física moderna en Colombia sobre radiactividad: rayos gamma (γ), Alejandro analiza las propiedades cuánticas o nucleares del sistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ondas electromagnéticas de muy alta frecuencia y alta energía sin masa ni carga.",
+          "is_correct": true,
+          "feedback": "La radiación gamma consiste en fotones de alta energía emitidos por núcleos excitados."
+        },
+        {
+          "letter": "B",
+          "text": "Flujo de protones de carga positiva.",
+          "is_correct": false,
+          "feedback": "Los rayos gamma no contienen partículas cargadas con masa."
+        },
+        {
+          "letter": "C",
+          "text": "Electrones lentos de baja energía.",
+          "is_correct": false,
+          "feedback": "No son partículas con masa de reposo."
+        },
+        {
+          "letter": "D",
+          "text": "Átomos de uranio ionizado.",
+          "is_correct": false,
+          "feedback": "Es radiación electromagnética pura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La radiación gamma es energía electromagnética de frecuencia extrema emitida cuando un núcleo decae a un estado fundamental.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle-v10",
+      "statement": "Si la vida media del Isótopo Yodo-131 es de 8 días, ¿qué fracción de la muestra original permanecerá tras 24 días?",
+      "context": "En un seminario de física moderna en Colombia sobre vida media radiactiva (t_1/2), Alejandro analiza las propiedades cuánticas o nucleares del sistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/2 de la muestra original.",
+          "is_correct": false,
+          "feedback": "En 24 días transcurren 3 vidas medias."
+        },
+        {
+          "letter": "B",
+          "text": "1/8 de la muestra original (12.5 %).",
+          "is_correct": true,
+          "feedback": "24 días equivalen a 3 vidas medias (24/8 = 3). Queda (1/2)³ = 1/8 de la muestra."
+        },
+        {
+          "letter": "C",
+          "text": "1/4 de la muestra original.",
+          "is_correct": false,
+          "feedback": "(1/2)² = 1/4 ocurriría en 16 días."
+        },
+        {
+          "letter": "D",
+          "text": "0 % (desapareció por completo).",
+          "is_correct": false,
+          "feedback": "Siempre queda una fracción residual (1/2)^n."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Tras n vidas medias, la cantidad de muestra radiactiva remanente es (1/2)^n de la inicial.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle-v11",
+      "statement": "En el efecto Compton, la dispersión de un fotón de rayos X al chocar con un electrón libre produce...",
+      "context": "En un seminario de física moderna en Colombia sobre efecto compton, Alejandro analiza las propiedades cuánticas o nucleares del sistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una disminución en la longitud de onda del fotón dispersado.",
+          "is_correct": false,
+          "feedback": "Al perder energía la frecuencia disminuye y λ aumenta."
+        },
+        {
+          "letter": "B",
+          "text": "La destrucción completa de la masa del electrón.",
+          "is_correct": false,
+          "feedback": "El electrón absorbe energía cinética y sale despedido."
+        },
+        {
+          "letter": "C",
+          "text": "Un aumento en la longitud de onda del fotón dispersado debido a la pérdida de energía.",
+          "is_correct": true,
+          "feedback": "El fotón cede parte de su energía al electrón; al bajar E = hf, la longitud de onda λ = c/f aumenta."
+        },
+        {
+          "letter": "D",
+          "text": "La emisión de tres partículas alfa.",
+          "is_correct": false,
+          "feedback": "Se observa cambio en la longitud de onda de fotones dispersados."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El efecto Compton demuestra la naturaleza corpuscular de la luz mediante colisiones elásticas fotón-electrón.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle-v12",
+      "statement": "El principio de incertidumbre de Heisenberg establece que es imposible medir simultáneamente y con precisión absoluta...",
+      "context": "En un seminario de física moderna en Colombia sobre principio de incertidumbre de heisenberg, Alejandro analiza las propiedades cuánticas o nucleares del sistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La masa y la carga eléctrica de un protón.",
+          "is_correct": false,
+          "feedback": "Masa y carga no son variables dinámicas conjugadas del principio de Heisenberg."
+        },
+        {
+          "letter": "B",
+          "text": "La temperatura y la densidad de una estrella.",
+          "is_correct": false,
+          "feedback": "Aplica a variables mecánicas cuánticas como posición y momento."
+        },
+        {
+          "letter": "C",
+          "text": "El volumen y el color de un fotón.",
+          "is_correct": false,
+          "feedback": "Se refiere a posición x y momento p."
+        },
+        {
+          "letter": "D",
+          "text": "La posición y la cantidad de movimiento (momento) de una partícula subatómica (Δx · Δp ≥ ℏ/2).",
+          "is_correct": true,
+          "feedback": "Existe un límite fundamental en la precisión con que se conocen simultáneamente par conjugados."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El Principio de Incertidumbre impone un límite cuántico fundamental a la medición simultánea de la posición y el momento de una partícula.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle-v13",
+      "statement": "En la fisión nuclear del Uranio-235 provocada por el impacto de un neutrón térmico, el núcleo pesado...",
+      "context": "En un seminario de física moderna en Colombia sobre fisión nuclear, Alejandro analiza las propiedades cuánticas o nucleares del sistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se divide en dos núcleos más ligeros liberando una gran cantidad de energía y neutrones adicionales.",
+          "is_correct": true,
+          "feedback": "La masa de los fragmentos es menor que la inicial; la masa faltante se convierte en energía (E = Δm·c²)."
+        },
+        {
+          "letter": "B",
+          "text": "Se fusiona con otro núcleo de uranio formando plomo.",
+          "is_correct": false,
+          "feedback": "Eso sería una reacción de fusión no observada en Uranio-235."
+        },
+        {
+          "letter": "C",
+          "text": "Absorbe todos los electrones del átomo.",
+          "is_correct": false,
+          "feedback": "La fisión es una ruptura del núcleo atómico pesado."
+        },
+        {
+          "letter": "D",
+          "text": "Se convierte en agua pesada.",
+          "is_correct": false,
+          "feedback": "Libera neutrones que pueden desencadenar una reacción en cadena."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fisión nuclear es la escisión de un núcleo pesado inestable en fragmentos más livianos con liberación masiva de energía.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle-v14",
+      "statement": "¿Qué ocurre durante la reacción de fusión nuclear que alimenta el núcleo del Sol?",
+      "context": "En un seminario de física moderna en Colombia sobre fusión nuclear, Alejandro analiza las propiedades cuánticas o nucleares del sistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Núcleos de Uranio se rompen en núcleos de Hierro.",
+          "is_correct": false,
+          "feedback": "Eso es fisión nuclear en elementos pesados."
+        },
+        {
+          "letter": "B",
+          "text": "Núcleos ligeros de Hidrógeno se unen para formar un núcleo más pesado de Helio liberando energía.",
+          "is_correct": true,
+          "feedback": "La unión de núcleos livianos libera energía por el defecto de masa entre reactivos y productos."
+        },
+        {
+          "letter": "C",
+          "text": "Se destruyen los electrones convirtiéndose en luz visible.",
+          "is_correct": false,
+          "feedback": "Es la unión de núcleos livianos de hidrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "Los átomos pierden su neutrón primario.",
+          "is_correct": false,
+          "feedback": "La fusión estelar une núcleos livianos formando helio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fusión nuclear es la unión de núcleos livianos para formar un núcleo más pesado, liberando energía según E = Δm·c².",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle-v15",
+      "statement": "¿Qué fenómeno cuántico permite a una partícula atravesar una barrera de potencial de energía superior a su energía cinética?",
+      "context": "En un seminario de física moderna en Colombia sobre efecto túnel cuántico, Alejandro analiza las propiedades cuánticas o nucleares del sistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La refracción acústica superficial.",
+          "is_correct": false,
+          "feedback": "Es un fenómeno ondulatorio mecánico."
+        },
+        {
+          "letter": "B",
+          "text": "La evaporación térmica molecular.",
+          "is_correct": false,
+          "feedback": "El efecto túnel es un fenómeno mecánicocuántico."
+        },
+        {
+          "letter": "C",
+          "text": "El efecto túnel cuántico.",
+          "is_correct": true,
+          "feedback": "La naturaleza ondulatoria de la materia le otorga una probabilidad no nula de transitar a través de la barrera."
+        },
+        {
+          "letter": "D",
+          "text": "La inducción electromagnética de Faraday.",
+          "is_correct": false,
+          "feedback": "Trata sobre campos electromagnéticos variables."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El efecto túnel cuántico describe la penetración de una onda de materia a través de una barrera de energía clásicamente infranqueable.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle-v16",
+      "statement": "Al hacer pasar electrones uno a uno a través de una doble rendija, el patrón acumulado en la pantalla detectora es...",
+      "context": "En un seminario de física moderna en Colombia sobre experimento de la doble rendija con electrones, Alejandro analiza las propiedades cuánticas o nucleares del sistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos franjas rectilíneas idénticas a canicas clásicas.",
+          "is_correct": false,
+          "feedback": "Si fueran partículas clásicas formarían solo dos franjas, pero forman franjas de interferencia."
+        },
+        {
+          "letter": "B",
+          "text": "Una mancha circular uniforme sin estructura.",
+          "is_correct": false,
+          "feedback": "Se observan máximos y mínimos de interferencia."
+        },
+        {
+          "letter": "C",
+          "text": "Un agujero negro de densidad infinita.",
+          "is_correct": false,
+          "feedback": "Demuestra la naturaleza de onda de materia de De Broglie."
+        },
+        {
+          "letter": "D",
+          "text": "Un patrón de interferencia característico de las ondas.",
+          "is_correct": true,
+          "feedback": "Incluso los electrones individuales interfieren consigo mismos demostrando su comportamiento ondulatorio."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El experimento de la doble rendija confirma la dualidad onda-partícula de la materia a nivel subatómico.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle-v17",
+      "statement": "En una partícula atrapada en una caja unidimensional de paredes impenetrables (pozo infinito), las energías permitidas son...",
+      "context": "En un seminario de física moderna en Colombia sobre pozo de potencial infinito y niveles de energía, Alejandro analiza las propiedades cuánticas o nucleares del sistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuantizadas y proporcionales a n² (E_n = n² h² / 8mL²).",
+          "is_correct": true,
+          "feedback": "El confinamiento de la onda de materia impone modos normales discretos cuantizados."
+        },
+        {
+          "letter": "B",
+          "text": "Continuas sin ninguna restricción de valor.",
+          "is_correct": false,
+          "feedback": "El confinamiento espacial cuantiza la energía."
+        },
+        {
+          "letter": "C",
+          "text": "Iguales a cero para todo n.",
+          "is_correct": false,
+          "feedback": "El estado fundamental (n=1) tiene energía de punto cero no nula."
+        },
+        {
+          "letter": "D",
+          "text": "Negativas e infinitas.",
+          "is_correct": false,
+          "feedback": "Las energías son positivas y cuantizadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El confinamiento espacial de una onda de materia origina la cuantización discreta de sus niveles de energía.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle-v18",
+      "statement": "¿Qué es el 'defecto de masa' (Δm) de un núcleo atómico?",
+      "context": "En un seminario de física moderna en Colombia sobre defecto de masa y energía de enlace nuclear, Alejandro analiza las propiedades cuánticas o nucleares del sistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La masa de los electrones que escapan del átomo.",
+          "is_correct": false,
+          "feedback": "No involucra la masa de los electrones exteriores."
+        },
+        {
+          "letter": "B",
+          "text": "La diferencia entre la suma de las masas de sus nucleones libres y la masa real del núcleo formado.",
+          "is_correct": true,
+          "feedback": "La masa del núcleo es menor que la suma de sus protones y neutrones separados; Δm se convierte en energía de enlace."
+        },
+        {
+          "letter": "C",
+          "text": "La masa de los fotones absorbidos.",
+          "is_correct": false,
+          "feedback": "Es la masa perdida al ensamblar el núcleo."
+        },
+        {
+          "letter": "D",
+          "text": "La masa del solvente disuelto.",
+          "is_correct": false,
+          "feedback": "Es un parámetro exclusivamente nuclear."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El defecto de masa refleja la energía de enlace nuclear (E = Δm·c²) que mantiene unidos a los protones y neutrones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle-v19",
+      "statement": "La solución de Max Planck al problema del cuerpo negro que dio origen a la física cuántica consistió en asumir que...",
+      "context": "En un seminario de física moderna en Colombia sobre radiación del cuerpo negro y catástrofe ultravioleta, Alejandro analiza las propiedades cuánticas o nucleares del sistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La luz se propaga como un fluido continuo infinito.",
+          "is_correct": false,
+          "feedback": "La física clásica asumía emisión continua, lo que fallaba a altas frecuencias."
+        },
+        {
+          "letter": "B",
+          "text": "Los fotones tienen masa de reposo de 1 kg.",
+          "is_correct": false,
+          "feedback": "Los fotones no tienen masa de reposo."
+        },
+        {
+          "letter": "C",
+          "text": "La energía electromagnética solo se emite o absorbe en paquetes discretos llamados cuantos (E = hf).",
+          "is_correct": true,
+          "feedback": "Planck postuló la cuantización de la energía para evitar la catástrofe ultravioleta de la física clásica."
+        },
+        {
+          "letter": "D",
+          "text": "La velocidad de la luz depende de la temperatura del horno.",
+          "is_correct": false,
+          "feedback": "c es una constante universal independiente de la temperatura."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La hipótesis cuántica de Planck (1900) resolvió el dilema del cuerpo negro asumiendo la cuantización de la energía radiante.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle-v20",
+      "statement": "¿Qué función cumple la fuerza nuclear fuerte dentro del núcleo atómico?",
+      "context": "En un seminario de física moderna en Colombia sobre fuerza nuclear fuerte, Alejandro analiza las propiedades cuánticas o nucleares del sistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Atraer los electrones a la primera órbita de Bohr.",
+          "is_correct": false,
+          "feedback": "Esa es la atracción electrostática de Coulomb."
+        },
+        {
+          "letter": "B",
+          "text": "Repeler los neutrones hacia el exterior del átomo.",
+          "is_correct": false,
+          "feedback": "Mantiene unidos a protones y neutrones."
+        },
+        {
+          "letter": "C",
+          "text": "Destruir los fotones emitidos.",
+          "is_correct": false,
+          "feedback": "Es la fuerza fundamental responsable de la estabilidad nuclear."
+        },
+        {
+          "letter": "D",
+          "text": "Vencer la repulsión electrostática entre los protones positivos manteniendo unido el núcleo a corta distancia.",
+          "is_correct": true,
+          "feedback": "La fuerza fuerte es una interacción atractiva de muy corto alcance que une a los nucleones."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La fuerza nuclear fuerte es la interacción fundamental que supera la repulsión eléctrica entre protones manteniendo la cohesión del núcleo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

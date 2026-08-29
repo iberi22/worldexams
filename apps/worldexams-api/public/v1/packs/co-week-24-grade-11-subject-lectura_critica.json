@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-24-grade-11-subject-lectura_critica",
+    "generated_at": "2026-08-29T18:22:22.197Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el argumento central del falsacionismo popperiano?",
+      "context": "Estudio crítico sobre la falibilidad del conocimiento científico según Karl Popper (Bogotá).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una teoría es científica si formula predicciones contrastables que puedan ser potencialmente refutadas por la experiencia.",
+          "is_correct": true,
+          "feedback": "Es correcta porque Popper establece la falsabilidad como el criterio de demarcación entre ciencia y pseudo-ciencia."
+        },
+        {
+          "letter": "B",
+          "text": "El conocimiento científico se obtiene mediante la acumulación absoluta de certezas incontrovertibles.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porqueconfunde el falsacionismo con el verificacionismo dogmático."
+        },
+        {
+          "letter": "C",
+          "text": "Toda hipótesis confirmada por un experimento queda demostrada como verdad eterna e inmutable.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la ciencia no considera que sus leyes sean inmutables."
+        },
+        {
+          "letter": "D",
+          "text": "La ciencia debe fundamentarse en mitos fundacionales aceptados por consenso sin verificación.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los mitos no constituyen conocimiento científico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pregunta evalúa la capacidad del estudiante para identificar la postura central en epistemología respecto a la falibilidad del conocimiento científico según Karl Popper.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo diferencia Dilthey el objetivo de la historia frente al de la física?",
+      "context": "Estudio crítico sobre la distinción entre ciencias humanas y ciencias naturales propuesta por Wilhelm Dilthey (Medellín).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las ciencias naturales buscan explicar las causas de los fenómenos mediante leyes, mientras que las ciencias humanas buscan comprender el sentido de las acciones.",
+          "is_correct": true,
+          "feedback": "Es correcta porque Dilthey acuñó la distinción entre 'explicar' (Erklären) en la naturaleza y 'comprender' (Verstehen) en el espíritu."
+        },
+        {
+          "letter": "B",
+          "text": "Las ciencias humanas utilizan el método experimental para calcular la trayectoria de los individuos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque atribuye a las ciencias humanas métodos cuantitativos propios de la física."
+        },
+        {
+          "letter": "C",
+          "text": "Las ciencias naturales rechazan la matemática y se basan únicamente en la intuición poética.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la física sí requiere métodos cuantitativos y matemáticos."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas disciplinas comparten exactamente el mismo objeto de estudio y los mismos instrumentos de medición.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque sus objetos de estudio son radicalmente distintos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pregunta evalúa la capacidad del estudiante para identificar la postura central en epistemología respecto a la distinción entre ciencias humanas y ciencias naturales propuesta por Wilhelm Dilthey.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle-v3",
+      "statement": "¿Qué caracteriza a un periodo de 'ciencia normal' dentro de la teoría de Kuhn?",
+      "context": "Estudio crítico sobre el concepto de paradigma científico planteado por Thomas Kuhn (Cali).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La resolución de enigmas bajo los supuestos, métodos y teorías compartidos por una comunidad científica dentro de un paradigma imperante.",
+          "is_correct": true,
+          "feedback": "Es correcta porque en la ciencia normal la comunidad científica investiga dentro del marco de un paradigma establecido sin cuestionar sus bases."
+        },
+        {
+          "letter": "B",
+          "text": "La constante sustitución semanal del modelo teórico vigente por falta de disciplina institucional.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los cambios de paradigma no ocurren de forma semanal sino tras crisis prolongadas."
+        },
+        {
+          "letter": "C",
+          "text": "La ausencia total de reglas metodológicas y el triunfo de un anarquismo epistemológico absoluto.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la ciencia normal posee reglas metodológicas muy consolidadas."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición de realizar experimentos de laboratorio en todas las universidades de la época.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la ciencia normal fomenta la experimentación sistemática."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pregunta evalúa la capacidad del estudiante para identificar la postura central en epistemología respecto a el concepto de paradigma científico planteado por Thomas Kuhn.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el postulado principal del anarquismo epistemológico de Feyerabend?",
+      "context": "Estudio crítico sobre la crítica de Paul Feyerabend al método científico único (Barranquilla).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No existe un método científico único e infalible; la historia de la ciencia demuestra que 'todo vale' si impulsa el progreso del conocimiento.",
+          "is_correct": true,
+          "feedback": "Es correcta porque Feyerabend defiende el pluralismo metodológico criticando la imposición de un método único rígido."
+        },
+        {
+          "letter": "B",
+          "text": "La ciencia debe regirse exclusivamente por un manual de 10 reglas fijas e inquebrantables.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es opuesto al dogmatismo de un manual estricto."
+        },
+        {
+          "letter": "C",
+          "text": "Las teorías científicas solo son válidas si son aprobadas por un tribunal religioso.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque rechaza la subordinación de la ciencia a dogmas religiosos."
+        },
+        {
+          "letter": "D",
+          "text": "El avance científico requiere la eliminación total de la creatividad y la imaginación del investigador.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque Feyerabend valora la creatividad como motor del descubrimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pregunta evalúa la capacidad del estudiante para identificar la postura central en epistemología respecto a la crítica de Paul Feyerabend al método científico único.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle-v5",
+      "statement": "¿A qué se refiere Bachelard con el concepto de 'obstáculo epistemológico'?",
+      "context": "Estudio crítico sobre la noción de obstáculos epistemológicos acuñada por Gaston Bachelard (Cartagena).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A los prejuicios, experiencias cotidianas y hábitos mentales que dificultan el desarrollo del conocimiento científico riguroso.",
+          "is_correct": true,
+          "feedback": "Es correcta porque los obstáculos epistemológicos son resistencias internas de la propia mente al proceso de aprendizaje científico."
+        },
+        {
+          "letter": "B",
+          "text": "A la falta de presupuesto económico en los laboratorios de investigación pública.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque se refiere a limitaciones de orden mental y conceptual, no presupuestal."
+        },
+        {
+          "letter": "C",
+          "text": "A los errores de imprenta presentes en los libros de texto de secundaria.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque un error imprenta es un problema tipográfico, no epistemológico."
+        },
+        {
+          "letter": "D",
+          "text": "A la incapacidad física de los científicos para manipular instrumentos de medición.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no se refiere a limitaciones corporales del investigador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pregunta evalúa la capacidad del estudiante para identificar la postura central en epistemología respecto a la noción de obstáculos epistemológicos acuñada por Gaston Bachelard.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué el positivismo lógico consideraba que los enunciados metafísicos carecen de sentido?",
+      "context": "Estudio crítico sobre la crítica del positivismo lógico al lenguaje metafísico por el Círculo de Viena (Bucaramanga).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque no pueden ser verificados empíricamente ni son tautologías lógicas analíticas.",
+          "is_correct": true,
+          "feedback": "Es correcta porque para el empirismo lógico un enunciado solo tiene sentido cognitivo si es verificable o analítico."
+        },
+        {
+          "letter": "B",
+          "text": "Porque utilizan palabras escritas en idiomas extintos como el latín o el griego clásico.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el problema no es el idioma sino el criterio empírico de significado."
+        },
+        {
+          "letter": "C",
+          "text": "Porque contienen demasiadas metáforas poéticas que agradan al público general.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la poesía tiene otro tipo de uso del lenguaje que el positivismo no pretende validar como ciencia."
+        },
+        {
+          "letter": "D",
+          "text": "Porque son formulados por pensadores que carecen de títulos universitarios oficiales.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el criterio de significatividad no depende de títulos académicos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pregunta evalúa la capacidad del estudiante para identificar la postura central en epistemología respecto a la crítica del positivismo lógico al lenguaje metafísico por el Círculo de Viena.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle-v7",
+      "statement": "¿Cómo concibe el constructivismo el proceso de adquisición del conocimiento?",
+      "context": "Estudio crítico sobre el constructivismo epistemológico en la teoría de Jean Piaget (Manizales).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Como una construcción activa del sujeto mediante la interacción entre sus esquemas mentales y el entorno.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la epistemología genética piagetiana sostiene que el sujeto asimila y acomoda la información construyendo el saber."
+        },
+        {
+          "letter": "B",
+          "text": "Como una copia pasiva e idéntica de la realidad exterior grabada en la mente infantil.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque rechaza el empirismo pasivo de la mente como 'tabla rasa'."
+        },
+        {
+          "letter": "C",
+          "text": "Como un conjunto de datos biológicos heredados genéticamente que no cambian con la experiencia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la experiencia juega un papel determinante en el desarrollo cognitivo."
+        },
+        {
+          "letter": "D",
+          "text": "Como un proceso de revelación mística manifestado durante la adolescencia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque atribuye el conocimiento a factores místicos sin sustento científico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pregunta evalúa la capacidad del estudiante para identificar la postura central en epistemología respecto a el constructivismo epistemológico en la teoría de Jean Piaget.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle-v8",
+      "statement": "¿En qué consiste el escepticismo de Hume respecto a las inferencias inductivas?",
+      "context": "Estudio crítico sobre el problema de la inducción formulado por David Hume (Pereira).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En que la costumbre de haber observado que el sol sale cada mañana no demuestra de forma lógicamente necesaria que saldrá mañana.",
+          "is_correct": true,
+          "feedback": "Es correcta porque Hume demostró que no hay justificación lógica para asumir que el futuro repetirá el pasado invariablemente."
+        },
+        {
+          "letter": "B",
+          "text": "En que la memoria humana es incapaz de recordar sucesos ocurridos el día anterior.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no cuestiona la memoria sino la validez lógica de la inducción."
+        },
+        {
+          "letter": "C",
+          "text": "En que las leyes de la física cambian aleatoriamente cada hora en el universo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque Hume no afirma que las leyes cambien cada hora sino que no podemos probar deductivamente su constancia."
+        },
+        {
+          "letter": "D",
+          "text": "En que el conocimiento empírico debe ser reemplazado por la fe intuitiva incondicional.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el proyecto de Hume es empirista, no un llamado al fideísmo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pregunta evalúa la capacidad del estudiante para identificar la postura central en epistemología respecto a el problema de la inducción formulado por David Hume.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle-v9",
+      "statement": "¿Qué sostiene el principio de simetría en el Programa Fuerte de la sociología de la ciencia?",
+      "context": "Estudio crítico sobre la sociología del conocimiento científico de David Bloor y el Programa Fuerte (Santa Marta).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que tanto las teorías consideradas verdaderas como las consideradas falsas deben explicarse usando el mismo tipo de causas sociales y culturales.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la simetría exige tratar imparcialmente los éxitos y fracasos científicos mediante explicaciones sociológicas equivalentes."
+        },
+        {
+          "letter": "B",
+          "text": "Que solo las teorías falsas son influenciadas por la política, mientras que la verdad surge de la nada.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque presupone una separación maniquea que el Programa Fuerte combate."
+        },
+        {
+          "letter": "C",
+          "text": "Que las matemáticas deben enseñarse utilizando espejos geométricos en las aulas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque interpreta 'simetría' de forma literal-geométrica ajena al concepto."
+        },
+        {
+          "letter": "D",
+          "text": "Que el contexto social no tiene ningún impacto en el desarrollo de la biotecnología.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ignora la tesis central de la sociología de la ciencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pregunta evalúa la capacidad del estudiante para identificar la postura central en epistemología respecto a la sociología del conocimiento científico de David Bloor y el Programa Fuerte.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle-v10",
+      "statement": "¿Qué critica Donna Haraway al concepto tradicional de 'objetividad neutra'?",
+      "context": "Estudio crítico sobre la epistemología feminista planteada por Donna Haraway (Pasto).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Denuncia la ilusión de la 'mirada desencarnada' desde ningún lugar y propone en su lugar conocimientos situados y comprometidos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque Haraway critica el 'truco de Dios' (ver todo desde ningún sitio) y defiende que la objetividad real surge del reconocimiento de la propia perspectiva situada."
+        },
+        {
+          "letter": "B",
+          "text": "Afirma que la investigación científica debe prohibir el uso de computadores en los laboratorios.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no cuestiona la tecnología sino el mito de la neutralidad absoluta."
+        },
+        {
+          "letter": "C",
+          "text": "Sostiene que las mujeres no deben estudiar ciencias exactas por razones filosóficas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque promueve la participación activa y crítica en la producción de ciencia."
+        },
+        {
+          "letter": "D",
+          "text": "Reclama que toda investigación debe ser aprobada por corporaciones multimillonarias.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es opuesta a la subordinación corporativa de la investigación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pregunta evalúa la capacidad del estudiante para identificar la postura central en epistemología respecto a la epistemología feminista planteada por Donna Haraway.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle-v11",
+      "statement": "¿Qué función cumplen los 'prejuicios' según la hermenéutica filosófica de Gadamer?",
+      "context": "Estudio crítico sobre el giro hermenéutico en la epistemología contemporánea con Hans-Georg Gadamer (Bogotá).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Constituyen las condiciones previas de posibilidad y el punto de partida inevitable para toda comprensión del texto.",
+          "is_correct": true,
+          "feedback": "Es correcta porque Gadamer rehabilita el concepto de prejuicio como la estructura previa de comprensión necesaria para el diálogo hermenéutico."
+        },
+        {
+          "letter": "B",
+          "text": "Son fallas morales nefastas que deben ser erradicadas completamente antes de leer cualquier libro.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque para Gadamer los prejuicios legítimos son constitutivos de la interpretación, no meros errores a erradicar."
+        },
+        {
+          "letter": "C",
+          "text": "Son leyes matemáticas rígidas que calculan el significado exacto de una oración.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque confunde la hermenéutica con un modelo matemático rígido."
+        },
+        {
+          "letter": "D",
+          "text": "Son datos estadísticos sobre los hábitos de consumo de los lectores urbanos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no se refiere a estudios de mercado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pregunta evalúa la capacidad del estudiante para identificar la postura central en epistemología respecto a el giro hermenéutico en la epistemología contemporánea con Hans-Georg Gadamer.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle-v12",
+      "statement": "¿Qué entiende Foucault por el concepto de 'episteme' de una época?",
+      "context": "Estudio crítico sobre la noción de episteme en la arqueología del saber de Michel Foucault (Medellín).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El conjunto inconsciente de reglas y estructuras discursivas que determinan qué se puede pensar y decir como verdadero en un periodo dado.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la episteme foucaultiana representa el marco histórico inconsciente que condiciona los saberes de una época."
+        },
+        {
+          "letter": "B",
+          "text": "Un compendio escrito que contiene todas las biografía de los reyes del siglo XVIII.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la episteme no es una crónica biográfica sino una estructura discursiva."
+        },
+        {
+          "letter": "C",
+          "text": "La capacidad individual de un estudiante para memorizar fechas históricas sin error.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque se refiere a un nivel arquetípico discursivo y no al rendimiento escolar de memoria."
+        },
+        {
+          "letter": "D",
+          "text": "Una vacuna biológica diseñada para prevenir enfermedades infecciosas en la población.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no se trata de un concepto de la medicina virológica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pregunta evalúa la capacidad del estudiante para identificar la postura central en epistemología respecto a la noción de episteme en la arqueología del saber de Michel Foucault.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es el argumento del 'no milagro' formulado por Hilary Putnam a favor del realismo?",
+      "context": "Estudio crítico sobre el realismo científico frente al antirrealismo epistémico (Cali).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El éxito predictivo de la ciencia sería un milagro insplicable si las teorías no fueran verdaderas en lo esencial.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el argumento sostiene que la capacidad predictiva y tecnológica de la ciencia exige aceptar que describe adecuadamente el mundo."
+        },
+        {
+          "letter": "B",
+          "text": "Los descubrimientos científicos ocurren gracias a intervenciones divinas directas en los laboratorios.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque utiliza 'milagro' en sentido metafórico reductivo para mostrar que el azar no explica el éxito científico."
+        },
+        {
+          "letter": "C",
+          "text": "Los electrones son fantasmas literarios creados para entretener a los estudiantes en física.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque afirma la realidad ontológica de las entidades inobservables postuladas por la ciencia."
+        },
+        {
+          "letter": "D",
+          "text": "Las computadoras funcionan por azar y no por la aplicación de principios físicos reales.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque atribuye el funcionamiento tecnológico al conocimiento de leyes reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pregunta evalúa la capacidad del estudiante para identificar la postura central en epistemología respecto a el realismo científico frente al antirrealismo epistémico.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.67,
+      "bundle_id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle-v14",
+      "statement": "¿Qué sostiene la tesis Duhem-Quine sobre la evaluación empírica de una teoría?",
+      "context": "Estudio crítico sobre la prueba del enunciado de observación en el empirismo de Willard van Orman Quine (Barranquilla).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nuestras afirmaciones sobre el mundo externo no se enfrentan aisladamente al tribunal de la experiencia, sino como un cuerpo teórico holístico.",
+          "is_correct": true,
+          "feedback": "Es correcta porque Quine afirma que la unidad de medida de la significación empírica es la totalidad de la ciencia (holismo epistemológico)."
+        },
+        {
+          "letter": "B",
+          "text": "Cada oración de un libro puede probarse por separado sin importar las demás frases de la obra.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque se opone al atomismo probatorio frase por frase."
+        },
+        {
+          "letter": "C",
+          "text": "Los experimentos científicos deben realizarse sin utilizar ningún tipo de hipótesis previa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque Quine no niega la necesidad de marcos teóricos para diseñar experimentos."
+        },
+        {
+          "letter": "D",
+          "text": "La experiencia sensorial es completamente ilusoria y no aporta ningún dato a la mente.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque reconoce el valor de la estimulación sensorial como insumo del conocimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pregunta evalúa la capacidad del estudiante para identificar la postura central en epistemología respecto a la prueba del enunciado de observación en el empirismo de Willard van Orman Quine.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle-v15",
+      "statement": "¿Por qué se considera que las metáforas no son meros adornos poéticos en la ciencia?",
+      "context": "Estudio crítico sobre el papel de las metáforas en la construcción del conocimiento científico (Cartagena).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque estructuran modelos conceptuales que permiten teorizar y visualizar fenómenos inobservables.",
+          "is_correct": true,
+          "feedback": "Es correcta porque pensadores de la ciencia han demostrado que las metáforas (como 'código genético' o 'agujero negro') cumplen un rol constitutivo en la formulación teórica."
+        },
+        {
+          "letter": "B",
+          "text": "Porque sirven exclusivamente para distraer al lector cuando la teoría contiene errores matemáticos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las metáforas científicas no tienen como fin ocultar fallos sino estructurar la comprensión."
+        },
+        {
+          "letter": "C",
+          "text": "Porque reemplazan la necesidad de recopilar datos empíricos en las investigaciones de campo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la metáfora no sustituye la contrastación empírica."
+        },
+        {
+          "letter": "D",
+          "text": "Porque reducen el tamaño de los libros impresos al resumir diez páginas en una frase.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la extensión del libro no depende del uso de metáforas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pregunta evalúa la capacidad del estudiante para identificar la postura central en epistemología respecto a el papel de las metáforas en la construcción del conocimiento científico.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle-v16",
+      "statement": "¿Qué diferencia al contexto de descubrimiento del contexto de justificación?",
+      "context": "Estudio crítico sobre la distinción entre contexto de descubrimiento y contexto de justificación (Reichenbach) (Bucaramanga).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El descubrimiento abarca los procesos sociológicos y psicológicos de invención, mientras que la justificación evalúa la validez lógica de la teoría.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la epistemología clásica distinguía la génesis intuitiva/histórica de la idea (descubrimiento) de su validación rigurosa (justificación)."
+        },
+        {
+          "letter": "B",
+          "text": "El descubrimiento ocurre en laboratorios privados y la justificación en parques públicos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque confunde el ámbito epistémico con la localización física."
+        },
+        {
+          "letter": "C",
+          "text": "El descubrimiento se ocupa de los aspectos legales de las patentes y la justificación de la venta comercial.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque introduce aspectos jurídico-comerciales ajenos a la epistemología."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos contextos son idénticos y no existe diferencia entre imaginar una hipótesis y probarla.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la distinción es fundamental en la filosofía de la ciencia tradicional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pregunta evalúa la capacidad del estudiante para identificar la postura central en epistemología respecto a la distinción entre contexto de descubrimiento y contexto de justificación (Reichenbach).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle-v17",
+      "statement": "¿Por qué el testimonio oral o escrito es una fuente indispensable de conocimiento empírico?",
+      "context": "Estudio crítico sobre la epistemología del testimonio según C. A. J. Coady (Manizales).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la mayor parte de lo que sabemos sobre geografía e historia lo aceptamos confiando en el reporte veraz de otros.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la epistemología del testimonio demuestra que la cooperación epistémica y la confianza fundada en reportes ajenos sustentan nuestro conocimiento."
+        },
+        {
+          "letter": "B",
+          "text": "Porque cada individuo debe reaprender por sí mismo la rueda y el fuego sin escuchar a nadie más.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el aislamiento epistémico absoluto imposibilitaría la cultura y el avance de la ciencia."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las enciclopedias escritas contienen información revelada por divinidades celestiales.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el testimonio humano se basa en la experiencia comunitaria y no en revelaciones teológicas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el testimonio es la única forma de probar teoremas en matemáticas puras.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los teoremas matemáticos se verifican deductivamente, no por mero testimonio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pregunta evalúa la capacidad del estudiante para identificar la postura central en epistemología respecto a la epistemología del testimonio según C. A. J. Coady.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.61,
+      "bundle_id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle-v18",
+      "statement": "¿En qué consiste la 'injusticia testimonial' descrita por Miranda Fricker?",
+      "context": "Estudio crítico sobre el concepto de invalidez epistémica por injusticia testimonial (Miranda Fricker) (Pereira).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ocurre cuando el oyente otorga un menor grado de credibilidad a la palabra del hablante debido a un prejuicio de género, raza o clase social.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la injusticia testimonial ocurre cuando los prejuicios identitarios disminuyen indebidamente la credibilidad otorgada a un sujeto epistémico."
+        },
+        {
+          "letter": "B",
+          "text": "Ocurre cuando un juez condena a un acusado basándose en pruebas de ADN irrefutables.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque una condena sustentada en pruebas de ADN no constituye injusticia testimonial sino aplicación de evidencia."
+        },
+        {
+          "letter": "C",
+          "text": "Ocurre cuando un estudiante se niega a comprar un libro de texto por considerar su precio elevado.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque se refiere a un asunto de consumo mercantil y no a una devaluación del testimonio por prejuicio."
+        },
+        {
+          "letter": "D",
+          "text": "Ocurre cuando una biblioteca pública cierra sus puertas los fines de semana.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es un asunto institucional de horarios y no de credibilidad interpersonal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pregunta evalúa la capacidad del estudiante para identificar la postura central en epistemología respecto a el concepto de invalidez epistémica por injusticia testimonial (Miranda Fricker).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle-v19",
+      "statement": "¿Qué sostiene el emergentismo epistemológico respecto a las propiedades de un organismo complejo?",
+      "context": "Estudio crítico sobre el reduccionismo epistémico frente al emergentismo en la biología (Santa Marta).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las propiedades globales de un ser vivo no pueden explicarse totalmente sumando de forma aislada las partes de sus moléculas.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el emergentismo postula que de la interacción de componentes surgen niveles de organización con propiedades novedosas e irreductibles a la suma de sus partes."
+        },
+        {
+          "letter": "B",
+          "text": "Que las moléculas de una célula viva violan todas las leyes de la gravedad y la termodinámica.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el emergentismo no niega las leyes físicas subyacentes sino que cuestiona el reduccionismo radical."
+        },
+        {
+          "letter": "C",
+          "text": "Que la biología no debe estudiar los componentes químicos porque carecen de interés científico.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no prohíbe el estudio de la química celular sino que lo integra en un sistema más amplio."
+        },
+        {
+          "letter": "D",
+          "text": "Que los organismos vivos están hechos de una materia espiritual transparente que no interactúa con la luz.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no apela a sustancias espirituales sino a propiedades de sistemas organizados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pregunta evalúa la capacidad del estudiante para identificar la postura central en epistemología respecto a el reduccionismo epistémico frente al emergentismo en la biología.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.59,
+      "bundle_id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle-v20",
+      "statement": "¿Qué criterio permite determinar que un informe de investigación posee validez interna y externa?",
+      "context": "Estudio crítico sobre la evaluación crítica de la validez científica en artículos de revisión (Pasto).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La coherencia entre la pregunta formulada, el rigor del diseño metodológico, la representatividad de la muestra y la prudencia al extraer conclusiones.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la validez científica exige consistencia lógica interna entre metodología, evidencia y conclusiones, así como aplicabilidad razonable externa."
+        },
+        {
+          "letter": "B",
+          "text": "La cantidad de adjetivos elogiosos utilizados para describir la belleza del laboratorio donde se realizó el estudio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la adjetivación elogiosa es irrelevante para el rigor científico y suele ser indicio de sesgo."
+        },
+        {
+          "letter": "C",
+          "text": "La fama de las celebridades de la televisión que hayan recomendado el producto analizado en sus redes.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las opiniones de celebridades no sustituyen la revisión por pares imparcial."
+        },
+        {
+          "letter": "D",
+          "text": "El grosor del papel y la elegancia de la tipografía utilizada para imprimir la revista científica.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los aspectos estéticos de impresión no aportan validez epistemológica al contenido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pregunta evalúa la capacidad del estudiante para identificar la postura central en epistemología respecto a la evaluación crítica de la validez científica en artículos de revisión.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-11-2026-W24-epistemologia-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

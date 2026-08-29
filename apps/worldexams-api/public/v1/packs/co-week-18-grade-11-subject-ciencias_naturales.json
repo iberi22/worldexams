@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-18-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T18:22:22.180Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle-v1",
+      "statement": "¿Qué condición define que una reacción reversible ha alcanzado el estado de equilibrio químico?",
+      "context": "En el laboratorio de química de la Universidad del Valle en Cali, se estudia una reacción reversible en fase gaseosa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las velocidades de la reacción directa e inversa son exactamente iguales.",
+          "is_correct": true,
+          "feedback": "Correcto. El equilibrio es dinámico y ocurre cuando $v_{directa} = v_{inversa}$."
+        },
+        {
+          "letter": "B",
+          "text": "La concentración de los reactivos se vuelve cero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso ocurre en reacciones irreversibles completas."
+        },
+        {
+          "letter": "C",
+          "text": "Se detiene todo movimiento a nivel molecular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El equilibrio es dinámico, no estático."
+        },
+        {
+          "letter": "D",
+          "text": "La masa total del sistema disminuye a la mitad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa se conserva en todo sistema cerrado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El equilibrio químico es dinámico y se caracteriza por la igualdad de velocidades en ambos sentidos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la ley de acción de masas que define $K_c$?",
+      "context": "En Bogotá se analiza la expresión matemática de la constante de equilibrio $K_c$ para la reacción $aA + bB \\rightleftharpoons cC + dD$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$K_c = \\frac{[C]^c [D]^d}{[A]^a [B]^b}$.",
+          "is_correct": true,
+          "feedback": "Correcto. Es el cociente entre productos y reactivos elevados a sus coeficientes."
+        },
+        {
+          "letter": "B",
+          "text": "$K_c = \\frac{[A]^a [B]^b}{[C]^c [D]^d}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colocó reactivos en el numerador."
+        },
+        {
+          "letter": "C",
+          "text": "$K_c = [A] + [B] - [C] - [D]$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se suman concentraciones."
+        },
+        {
+          "letter": "D",
+          "text": "$K_c = \\frac{a[A] \\cdot b[B]}{c[C] \\cdot d[D]}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los coeficientes son exponentes, no factores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La constante $K_c$ relaciona concentraciones de productos sobre reactivos elevadas a sus coeficientes estequiométricos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.81,
+      "bundle_id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle-v3",
+      "statement": "¿Qué establece el Principio de Le Chatelier cuando un sistema en equilibrio es perturbado?",
+      "context": "En Medellín se estudia el Principio de Le Chatelier en sistemas cerrados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sistema se desplaza en el sentido que contrarreste la perturbación aplicada.",
+          "is_correct": true,
+          "feedback": "Correcto. Se reajusta para aliviar la tensión impuesta (concentración, T o P)."
+        },
+        {
+          "letter": "B",
+          "text": "El sistema precipita inmediatamente todos los gases.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Depende del tipo de modificación aplicada."
+        },
+        {
+          "letter": "C",
+          "text": "La constante de equilibrio $K_c$ cambia ante variaciones de presión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $K_c$ solo varía con la temperatura."
+        },
+        {
+          "letter": "D",
+          "text": "Se destruye la reversibilidad del sistema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema busca alcanzar un nuevo estado de equilibrio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Le Chatelier predice la dirección del desplazamiento frente a cambios en variables de estado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle-v4",
+      "statement": "¿De qué manera afecta un catalizador a la constante de equilibrio $K_c$ y a la posición del equilibrio?",
+      "context": "En Barranquilla se evalúa el efecto de la adición de un catalizador a una mezcla en equilibrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No altera $K_c$ ni desplaza la posición del equilibrio; solo acelera el tiempo para alcanzarlo.",
+          "is_correct": true,
+          "feedback": "Correcto. Aumenta por igual las velocidades directa e inversa al bajar la energía de activación."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta $K_c$ favoreciendo la formación de productos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los catalizadores no modifican las constantes termodinámicas."
+        },
+        {
+          "letter": "C",
+          "text": "Desplaza el equilibrio hacia la izquierda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No altera la proporción de reactivos y productos."
+        },
+        {
+          "letter": "D",
+          "text": "Inactiva los reactivos permanentemente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El catalizador se recupera inalterado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un catalizador acorta el tiempo para llegar al equilibrio pero no modifica las concentraciones finales en equilibrio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle-v5",
+      "statement": "¿Hacia dónde se desplaza el equilibrio si se aumenta la temperatura del reactor?",
+      "context": "Dada la reacción exotérmica $N_{2(g)} + 3H_{2(g)} \\rightleftharpoons 2NH_{3(g)} + calor$ en Tunja.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacia la izquierda (favorece reactivos $N_2$ y $H_2$).",
+          "is_correct": true,
+          "feedback": "Correcto. En reacciones exotérmicas, el calor actúa como producto; añadir calor desplaza a reactivos."
+        },
+        {
+          "letter": "B",
+          "text": "Hacia la derecha (favorece producto $NH_3$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso ocurriría en una reacción endotérmica."
+        },
+        {
+          "letter": "C",
+          "text": "No sufre ningún cambio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambios de temperatura alteran siempre el equilibrio."
+        },
+        {
+          "letter": "D",
+          "text": "Se detienen las reacciones molecularmente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las moléculas aumentan su energía cinética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al elevar la temperatura en un sistema exotérmico, el sistema consume calor desplazándose hacia la izquierda.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle-v6",
+      "statement": "¿Qué ocurre con la producción de $SO_3$ si se incrementa la presión total reduciendo el volumen del recipiente?",
+      "context": "Para la reacción $2SO_{2(g)} + O_{2(g)} \\rightleftharpoons 2SO_{3(g)}$ a $500^\\circ\\text{C}$ en Bucaramanga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta la producción de $SO_3$ porque el sistema se desplaza hacia el menor número de moles gaseosos (2 moles vs 3 moles).",
+          "is_correct": true,
+          "feedback": "Correcto. Pasar de 3 moles a 2 moles de gas reduce la presión."
+        },
+        {
+          "letter": "B",
+          "text": "Disminuye la producción de $SO_3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desplazamiento favorece el lado con menos moles de gas."
+        },
+        {
+          "letter": "C",
+          "text": "El gas $SO_3$ se convierte en agua pura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se altera la naturaleza elemental."
+        },
+        {
+          "letter": "D",
+          "text": "La presión no influye sobre balances gaseosos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Afecta si hay diferencia en moles de gas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El aumento de presión favorece la dirección con menor número de moles de gas (de 3 a 2 moles).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.69,
+      "bundle_id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle-v7",
+      "statement": "Si la constante $K_c = 4.0 \\text{ M}$ y las concentraciones actuales son $[N_2O_4] = 1.0 \\text{ M}$ y $[NO_2] = 1.0 \\text{ M}$, ¿hacia dónde evolucionará el sistema?",
+      "context": "En Manizales se mezcla $N_2O_4$ (incoloro) y $NO_2$ (marrón) en un tubo cerrado: $N_2O_{4(g)} \\rightleftharpoons 2NO_{2(g)}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacia la derecha (producirá más $NO_2$), porque $Q_c = 1.0 < K_c$.",
+          "is_correct": true,
+          "feedback": "Correcto. $Q_c = [1.0]^2 / 1.0 = 1.0$. Como $Q_c < K_c$, se forman más productos."
+        },
+        {
+          "letter": "B",
+          "text": "Hacia la izquierda, porque $Q_c > K_c$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $Q_c$ es 1.0, menor que $K_c = 4.0$."
+        },
+        {
+          "letter": "C",
+          "text": "Ya está en equilibrio perfecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $Q_c\neq K_c$."
+        },
+        {
+          "letter": "D",
+          "text": "Precipitará nitrógeno sólido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Permanece en fase gaseosa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$Q_c = [NO_2]^2/[N_2O_4] = 1.0 / 1.0 = 1.0$. Al ser $Q_c < 4.0$, la reacción avanza hacia productos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle-v8",
+      "statement": "¿Qué ocurre al añadir $CaCl_2$ altamente soluble a la solución saturada?",
+      "context": "En Pereira se analiza la solubilidad del carbonato de calcio: $CaCO_{3(s)} \\rightleftharpoons Ca^{2+}_{(ac)} + CO^{2-}_{3(ac)}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Precipita más $CaCO_3$ sólido debido al efecto del ion común $Ca^{2+}$.",
+          "is_correct": true,
+          "feedback": "Correcto. El aumento de $[Ca^{2+}]$ desplaza el equilibrio a la izquierda formando sólido."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta la solubilidad del $CaCO_3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ion común disminuye la solubilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Se libera gas cloro inmediatamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los iones $Cl^-$ permanecen espectadores."
+        },
+        {
+          "letter": "D",
+          "text": "La solución se vuelve fuertemente ácida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay alteración directa de pH."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El efecto del ion común desplaza el equilibrio de solubilidad hacia la formación de precipitado sólido.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.63,
+      "bundle_id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la relación entre $K_p$ y $K_c$ para esta reacción?",
+      "context": "En Armenia se evalúa $K_p$ y $K_c$ para la reacción $H_{2(g)} + I_{2(g)} \\rightleftharpoons 2HI_{(g)}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$K_p = K_c$, porque $\\Delta n_{gases} = 2 - (1+1) = 0$.",
+          "is_correct": true,
+          "feedback": "Correcto. Como $Delta n = 0$, $R T^0 = 1$, por ende $K_p = K_c$."
+        },
+        {
+          "letter": "B",
+          "text": "$K_p = K_c \\cdot (RT)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplica cuando $Delta n = 1$."
+        },
+        {
+          "letter": "C",
+          "text": "$K_p = K_c / (RT)^2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay variación en moles de gas."
+        },
+        {
+          "letter": "D",
+          "text": "$K_p$ no se puede medir en gases.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $K_p$ mide presiones parciales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "De $K_p = K_c (RT)^{Delta n}$, al ser $Delta n = 0$, se cumple $K_p = K_c$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle-v10",
+      "statement": "Durante la hiperventilación, se elimina $CO_2$ bajando el $H_2CO_3$. ¿Cómo responde el equilibrio y el pH sanguíneo?",
+      "context": "En Cartagena se analiza el sistema amortiguador del plasma sanguíneo $H_2CO_3 \\rightleftharpoons HCO_3^- + H^+$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El equilibrio se desplaza a la izquierda consumiendo $H^+$, lo que aumenta el pH (alcalosis respiratoria).",
+          "is_correct": true,
+          "feedback": "Correcto. Al bajar $H_2CO_3$, se consumen protones para reponerlo, aumentando el pH."
+        },
+        {
+          "letter": "B",
+          "text": "Disminuye el pH produciendo acidosis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hiperventilación eleva el pH."
+        },
+        {
+          "letter": "C",
+          "text": "Aumenta la concentración de $H^+$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los protones disminuyen."
+        },
+        {
+          "letter": "D",
+          "text": "Precipitan las proteínas plasmáticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una respuesta de amortiguación ácida."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La remoción de $CO_2/H_2CO_3$ consume $H^+$, elevando el pH sanguíneo (alcalosis).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.57,
+      "bundle_id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la concentración de B en el equilibrio?",
+      "context": "Dada la reacción $A_{(g)} \\rightleftharpoons 2B_{(g)}$ con $K_c = 0.5 \\text{ M}$ en Bogotá. Si en un recipiente de 1 L se colocan 2 moles de A.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.75 \\text{ M}$.",
+          "is_correct": true,
+          "feedback": "Correcto. $K_c = [4x^2]/(2-x) = 0.5 Rightarrow 4x^2 + 0.5x - 1 = 0 Rightarrow x approx 0.44 \text{ M} Rightarrow [B] = 2x approx 0.75 \text{ M}$."
+        },
+        {
+          "letter": "B",
+          "text": "$2.00 \\text{ M}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumió conversión completa."
+        },
+        {
+          "letter": "C",
+          "text": "$1.00 \\text{ M}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error en la resolución de la ecuación cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "$0.25 \\text{ M}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó multiplicar $x$ por 2 para el compuesto B."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Resolviendo $K_c = (2x)^2 / (2-x) = 0.5$, la concentración de B es $2x approx 0.75 \text{ M}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.54,
+      "bundle_id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la solubilidad molar ($s$) del $AgCl$ en agua pura?",
+      "context": "En Cali se estudia el producto de solubilidad $K_{sp}$ del $AgCl$ ($1.8 \\times 10^{-10}$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1.34 \\times 10^{-5} \\text{ M}$.",
+          "is_correct": true,
+          "feedback": "Correcto. $K_{sp} = s^2 Rightarrow s = \\sqrt{1.8 \\times 10^{-10}} = 1.34 \\times 10^{-5} \\text{ M}$."
+        },
+        {
+          "letter": "B",
+          "text": "$1.8 \\times 10^{-10} \\text{ M}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el valor del $K_{sp}$, no de la solubilidad $s$."
+        },
+        {
+          "letter": "C",
+          "text": "$3.24 \\times 10^{-20} \\text{ M}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevó $K_{sp}$ al cuadrado en lugar de extraer raíz."
+        },
+        {
+          "letter": "D",
+          "text": "$0.9 \\times 10^{-5} \\text{ M}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió $K_{sp}$ entre 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para una sal 1:1, $K_{sp} = s^2 Rightarrow s = sqrt{K_{sp}} = 1.34 \times 10^{-5} \text{ M}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.51,
+      "bundle_id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle-v13",
+      "statement": "¿Por qué la adición de un reactivo sólido puro no modifica las concentraciones en equilibrio?",
+      "context": "En Medellín se determina que para la reacción $C_{(s)} + CO_{2(g)} \\rightleftharpoons 2CO_{(g)}$, la adición de más carbón sólido ($C_{(s)}$) no altera el equilibrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la actividad y concentración efectiva de sólidos puros es constante (igual a 1) y no aparecen en $K_c$.",
+          "is_correct": true,
+          "feedback": "Correcto. Los sólidos puros tienen densidad y concentración fijas, excluyéndose de $K_c$."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el carbón es inerte químicamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El carbón es reactivo en el proceso."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los sólidos destruyen los gases.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No destruyen fases gaseosas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la temperatura cae a cero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No altera la temperatura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las concentraciones de sólidos puros se consideran constantes y no forman parte de la constante $K_c$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.48,
+      "bundle_id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle-v14",
+      "statement": "Si a $298 \\text{ K}$ una reacción presenta $K_c = 1.0 \\times 10^5$, ¿qué se concluye sobre $\\Delta G^circ$ y la composición en equilibrio?",
+      "context": "En Pasto se analiza la relación $\\Delta G^circ = -RT \\ln K$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\Delta G^circ < 0$ (negativo) y el equilibrio está fuertemente desplazado hacia productos.",
+          "is_correct": true,
+          "feedback": "Correcto. Como $K > 1$, $ln K > 0 Rightarrow Delta G^circ < 0$, favoreciendo productos."
+        },
+        {
+          "letter": "B",
+          "text": "$\\Delta G^circ > 0$ y predominan reactivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $K > 1$ implica $Delta G^circ < 0$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\Delta G^circ = 0$ y no hay productos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $Delta G^circ = 0$ ocurre solo cuando $K = 1$."
+        },
+        {
+          "letter": "D",
+          "text": "La reacción no puede ocurrir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es altamente espontánea en estado estándar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un valor $K gg 1$ genera $Delta G^circ < 0$, indicando un equilibrio que favorece ampliamente la formación de productos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.45,
+      "bundle_id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle-v15",
+      "statement": "¿Por qué en el recipiente abierto nunca se alcanza el equilibrio líquido-vapor?",
+      "context": "En Bucaramanga se evapora agua en un recipiente abierto vs un recipiente cerrado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque las moléculas de vapor se escapan al entorno impidiendo que la velocidad de condensación iguale a la de evaporación.",
+          "is_correct": true,
+          "feedback": "Correcto. Es un sistema abierto que pierde materia continuamente."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el agua en recipiente abierto no se evapora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se evapora de forma continua."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el aire destruye las moléculas de agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua no se destruye químicamente."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la presión atmosférica se vuelve cero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La presión atmosférica se mantiene."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El equilibrio químico/físico requiere un sistema cerrado para evitar la pérdida de sustancias.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.42,
+      "bundle_id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la constante de disociación ácida ($K_a$) de este ácido?",
+      "context": "En Tunja se mide el pH de una solución de ácido débil $HA$ $0.1 \\text{ M}$ encontrando $pH = 3.0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1.0 \\times 10^{-5}$.",
+          "is_correct": true,
+          "feedback": "Correcto. $[H^+] = 10^{-3} \\text{ M}$. $K_a = [H^+]^2 / [HA] = (10^{-3})^2 / 0.1 = 10^{-6} / 10^{-1} = 10^{-5}$."
+        },
+        {
+          "letter": "B",
+          "text": "$1.0 \\times 10^{-3}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó elevar $[H^+]$ al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$1.0 \\times 10^{-6}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividió entre la concentración del ácido 0.1 M."
+        },
+        {
+          "letter": "D",
+          "text": "$3.0 \\times 10^{-1}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usó el valor de pH directamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$[H^+] = 10^{-3} \text{ M}$. $K_a = (10^{-3})^2 / 0.1 = 10^{-5}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.39,
+      "bundle_id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle-v17",
+      "statement": "¿Qué combinación de presión y temperatura maximiza el rendimiento termodinámico en el equilibrio?",
+      "context": "En una planta química en Barranquilla se evalúa optimizar la síntesis del metanol: $CO_{(g)} + 2H_{2(g)} \\rightleftharpoons CH_3OH_{(g)}$ ($Delta H < 0$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alta presión y baja temperatura.",
+          "is_correct": true,
+          "feedback": "Correcto. Alta presión desplaza a menor moles de gas (1 mol vs 3 moles); baja temperatura favorece la reacción exotérmica."
+        },
+        {
+          "letter": "B",
+          "text": "Baja presión y alta temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Desplazaría el equilibrio hacia los reactivos."
+        },
+        {
+          "letter": "C",
+          "text": "Baja presión y baja temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La baja presión reduce el rendimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Alta presión y alta temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La alta temperatura disminuye el rendimiento exotérmico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Le Chatelier: Alta presión favorece el lado con 1 mol de gas; baja temperatura favorece el proceso exotérmico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.35,
+      "bundle_id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle-v18",
+      "statement": "¿Por qué el tratamiento con oxígeno puro al 100% en cámara hiperbárica es la medida médica más efectiva?",
+      "context": "En Medellín se estudia la intoxicación por monóxido de carbono ($CO$), que compite con el $O_2$ por la hemoglobina ($Hb$): $HbO_2 + CO \\rightleftharpoons HbCO + O_2$ ($K_c \\approx 200$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta drásticamente la concentración de $O_2$, desplazando el equilibrio a la izquierda para liberar la hemoglobina del $CO$.",
+          "is_correct": true,
+          "feedback": "Correcto. Un exceso masivo de $O_2$ desplaza el equilibrio por Le Chatelier forzando la expulsión del $CO$."
+        },
+        {
+          "letter": "B",
+          "text": "Destruye los eritrocitos para formar células nuevas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No destruye los glóbulos rojos."
+        },
+        {
+          "letter": "C",
+          "text": "Convierte el $CO$ en glucosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay conversión metabólica a azúcares."
+        },
+        {
+          "letter": "D",
+          "text": "Neutraliza los pulmones mediante acidez.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se busca acidificar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al aumentar masivamente la $[O_2]$, Le Chatelier desplaza la reacción reversible hacia la izquierda desasociando la carboxihemoglobina.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.32,
+      "bundle_id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle-v19",
+      "statement": "¿Por qué la presencia de oxidantes como el ozono ($O_3$) atmosférico empeora el impacto de la lluvia ácida?",
+      "context": "Un grupo ambiental en Cali evalúa la lluvia ácida causada por el equilibrio de dióxido de azufre en gotas de lluvia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oxida el $SO_2$ a $SO_3$, generando ácido sulfúrico ($H_2SO_4$) totalmente disociado e irreversible.",
+          "is_correct": true,
+          "feedback": "Correcto. La oxidación convierte un ácido débil en uno fuerte e irreversible ($H_2SO_4$)."
+        },
+        {
+          "letter": "B",
+          "text": "Neutraliza la acidez convirtiéndola en sal de cocina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oxidación aumenta la fuerza ácida."
+        },
+        {
+          "letter": "C",
+          "text": "Evapora toda la lluvia antes de tocar tierra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ozono no evapora el agua."
+        },
+        {
+          "letter": "D",
+          "text": "Destruye las nubes impidiendo precipitaciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No impide las lluvias."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La conversión de $SO_2$ en $SO_3$ produce ácido sulfúrico, un ácido fuerte que baja drásticamente el pH.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.28,
+      "bundle_id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle-v20",
+      "statement": "¿Cómo se logra la elución (recuperación) de la proteína unida a la matriz sin destruirla?",
+      "context": "En un proceso biofarmacéutico en Bogotá, se purifica una proteína usando una columna de afinidad en equilibrio dinámico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Modificando el pH o la fuerza iónica del tampón para desplazar la constante de asociación del equilibrio.",
+          "is_correct": true,
+          "feedback": "Correcto. Alterar el pH o sales debilita la unión reversible liberando la proteína intacta."
+        },
+        {
+          "letter": "B",
+          "text": "Calentando a 200 °C para incinerar la matriz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura destruiría la proteína."
+        },
+        {
+          "letter": "C",
+          "text": "Adicionando ácido clorhídrico concentrado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ácido fuerte desnaturalizaría la proteína."
+        },
+        {
+          "letter": "D",
+          "text": "Aplicando corriente eléctrica de alto voltaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La elución se logra por desplazamiento iónico suave."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cambio suave de pH o sales altera las interacciones débiles en equilibrio, permitiendo liberar la proteína funcional.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.25,
+      "bundle_id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

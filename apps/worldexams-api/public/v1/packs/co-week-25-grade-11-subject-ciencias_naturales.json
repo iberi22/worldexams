@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-25-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T18:22:22.185Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la función principal de las enzimas en los procesos metabólicos celular?",
+      "context": "En un estudio bioquímico en Colombia sobre función biocatalizadora, Sofía analiza el comportamiento catalítico en el laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuir la energía de activación de la reacción acelerando su velocidad.",
+          "is_correct": true,
+          "feedback": "Las enzimas son catalizadores biológicos altamente específicos que bajan la E_a."
+        },
+        {
+          "letter": "B",
+          "text": "Aumentar la constante de equilibrio K_eq de la reacción.",
+          "is_correct": false,
+          "feedback": "Las enzimas no modifican el equilibrio ni K_eq."
+        },
+        {
+          "letter": "C",
+          "text": "Consumirse totalmente al final del proceso metabólico.",
+          "is_correct": false,
+          "feedback": "Las enzimas se recuperan intactas tras la catálisis."
+        },
+        {
+          "letter": "D",
+          "text": "Aumentar la energía libre de Gibbs (ΔG).",
+          "is_correct": false,
+          "feedback": "Las enzimas no cambian el ΔG global de la reacción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las enzimas reducen la energía de activación sin alterar el equilibrio termodinámico ni consumirse en la reacción.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle-v2",
+      "statement": "¿Qué es el sitio activo en una molécula de enzima?",
+      "context": "En un estudio bioquímico en Colombia sobre sitio activo enzimático, Sofía analiza el comportamiento catalítico en el laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El centro donde se sintetizan los lípidos celulares.",
+          "is_correct": false,
+          "feedback": "Ahí ocurre la unión y transformación del sustrato."
+        },
+        {
+          "letter": "B",
+          "text": "La región tridimensional específica donde se une el sustrato.",
+          "is_correct": true,
+          "feedback": "Es la bolsa estructural complementaria en forma o flexibilidad al sustrato."
+        },
+        {
+          "letter": "C",
+          "text": "El lugar por donde ingresa el oxígeno a la mitocondria.",
+          "is_correct": false,
+          "feedback": "No es una vía de transporte de gases."
+        },
+        {
+          "letter": "D",
+          "text": "La secuencia de lípidos que recubre la membrana externa.",
+          "is_correct": false,
+          "feedback": "Es una región aminoacídica de la proteína enzimática."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sitio activo posee la geometría y grupos químicos adecuados para estabilizar el estado de transición del sustrato.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo describe el modelo de 'encaje inducido' la interacción enzima-sustrato?",
+      "context": "En un estudio bioquímico en Colombia sobre modelo encaje inducido, Sofía analiza el comportamiento catalítico en el laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sitio activo es completamente rígido como una llave fija en una cerradura estática.",
+          "is_correct": false,
+          "feedback": "Eso corresponde al modelo clásico rígido de Fischer."
+        },
+        {
+          "letter": "B",
+          "text": "El sustrato se destruye antes de tocar la enzima.",
+          "is_correct": false,
+          "feedback": "El sustrato interactúa directamente con el sitio activo."
+        },
+        {
+          "letter": "C",
+          "text": "La enzima cambia levemente su conformación al unirse al sustrato para ajustar la catálisis.",
+          "is_correct": true,
+          "feedback": "El sitio activo se adapta flexiblemente tras la interacción inicial con el sustrato."
+        },
+        {
+          "letter": "D",
+          "text": "La enzima se desnaturaliza reversiblemente en cada reacción.",
+          "is_correct": false,
+          "feedback": "La enzima mantiene su estructura funcional nativa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El modelo de Koshland propone flexibilidad en el sitio activo para moldearse al sustrato durante la unión.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué la actividad enzimática cae drásticamente a temperaturas superiores a 60 °C?",
+      "context": "En un estudio bioquímico en Colombia sobre efecto de la temperatura, Sofía analiza el comportamiento catalítico en el laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el sustrato se evapora a 50 °C obligatoriamente.",
+          "is_correct": false,
+          "feedback": "Muchos sustratos permanecen estables pero la proteína se desnaturaliza."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la enzima se multiplica descontroladamente.",
+          "is_correct": false,
+          "feedback": "Las enzimas son proteínas, no organismos autorreplicantes."
+        },
+        {
+          "letter": "C",
+          "text": "Porque aumenta la energía de activación al triple.",
+          "is_correct": false,
+          "feedback": "La desnaturalización destruye el sitio activo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la enzima sufre desnaturalización perdiendo su estructura terciaria funcional.",
+          "is_correct": true,
+          "feedback": "El exceso de energía térmica rompe puentes de hidrógeno y destruye la conformación activa."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las temperaturas elevadas desnaturalizan las proteínas enzimáticas al romper interacciones no covalentes clave.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle-v5",
+      "statement": "La pepsina opera óptimamente a pH 2 en el estómago, mientras la tripsina opera a pH 8 en el intestino. Esto se debe a...",
+      "context": "En un estudio bioquímico en Colombia sobre efecto del ph óptimo, Sofía analiza el comportamiento catalítico en el laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El estado de ionización de los aminoácidos del sitio activo depende del pH del medio.",
+          "is_correct": true,
+          "feedback": "El pH afecta las cargas de los residuos proteicos necesarios para la unión y catálisis."
+        },
+        {
+          "letter": "B",
+          "text": "La tripsina destruye la pepsina a cualquier pH.",
+          "is_correct": false,
+          "feedback": "Cada enzima evolucionó para el ambiente de su compartimento biológico."
+        },
+        {
+          "letter": "C",
+          "text": "El pH 2 convierte las proteínas en carbohidratos simples.",
+          "is_correct": false,
+          "feedback": "El pH afecta la carga eléctrica proteica."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas enzimas pierden masa a pH neutro.",
+          "is_correct": false,
+          "feedback": "Mantienen su estructura en sus pH óptimos específicos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pH influye en el estado de ionización de los grupos funcionales del sitio activo y del sustrato.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle-v6",
+      "statement": "En presencia de un inhibidor competitivo, ¿cómo se puede restaurar la velocidad máxima (Vmax) de la reacción?",
+      "context": "En un estudio bioquímico en Colombia sobre inhibición competitiva, Sofía analiza el comportamiento catalítico en el laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuyendo la concentración de enzima libre a cero.",
+          "is_correct": false,
+          "feedback": "Se requiere mayor sustrato para competir con el inhibidor."
+        },
+        {
+          "letter": "B",
+          "text": "Aumentando significativamente la concentración de sustrato.",
+          "is_correct": true,
+          "feedback": "Al subir [S], el sustrato desplaza al inhibidor competitivo del sitio activo."
+        },
+        {
+          "letter": "C",
+          "text": "Enfriando la mezcla a 0 °C inmediatamente.",
+          "is_correct": false,
+          "feedback": "El enfriamiento frena la velocidad cinética."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiando la enzima por una molécula de ADN.",
+          "is_correct": false,
+          "feedback": "El ADN no realiza catálisis peptídica convencional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los inhibidores competitivos se unen al sitio activo libre; un exceso de sustrato supera la inhibición alcanzando Vmax.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle-v7",
+      "statement": "Un inhibidor no competitivo se une a un sitio alostérico distinto del sitio activo. ¿Qué efecto produce sobre Vmax y Km?",
+      "context": "En un estudio bioquímico en Colombia sobre inhibición no competitiva, Sofía analiza el comportamiento catalítico en el laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta Vmax al doble.",
+          "is_correct": false,
+          "feedback": "Los inhibidores reducen la tasa catalítica efectiva."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta la temperatura de ebullición de la solución.",
+          "is_correct": false,
+          "feedback": "No altera las propiedades físicas globales del solvente."
+        },
+        {
+          "letter": "C",
+          "text": "Disminuye Vmax pero mantiene Km prácticamente inalterada.",
+          "is_correct": true,
+          "feedback": "Al unirse a un sitio alostérico, reduce la eficiencia catalítica (Vmax) sin alterar la afinidad inicial (Km)."
+        },
+        {
+          "letter": "D",
+          "text": "Convierte el sustrato en un producto inhibidor activo.",
+          "is_correct": false,
+          "feedback": "Altera la conformación de la enzima reduciendo la velocidad máxima."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La inhibición no competitiva reduce el número de moléculas enzimáticas funcionales catalíticamente, bajando Vmax.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el papel de los cofactores inorgánicos (ej. Zn²⁺, Mg²⁺) o coenzimas orgánicas (ej. vitaminas B)?",
+      "context": "En un estudio bioquímico en Colombia sobre cofactores y coenzimas, Sofía analiza el comportamiento catalítico en el laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proporcionar energía en forma de calor para desnaturalizar el sustrato.",
+          "is_correct": false,
+          "feedback": "No desnaturalizan el sistema."
+        },
+        {
+          "letter": "B",
+          "text": "Actuar como inhibidores irreversibles de la síntesis de ARN.",
+          "is_correct": false,
+          "feedback": "Los cofactores activan la función enzimática."
+        },
+        {
+          "letter": "C",
+          "text": "Aumentar el peso molecular de la célula diez veces.",
+          "is_correct": false,
+          "feedback": "Son micronutrientes indispensables en bajas concentraciones."
+        },
+        {
+          "letter": "D",
+          "text": "Ayudar al sitio activo en la transferencia de grupos químicos o electrones durante la catálisis.",
+          "is_correct": true,
+          "feedback": "Son componentes no proteicos indispensables para la actividad de muchas holoenzimas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Muchas enzimas (apoenzimas) requieren cofactores o coenzimas para formar la holoenzima activa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle-v9",
+      "statement": "Cuando una enzima está saturada por sustrato ([S] >> Km), la velocidad de la reacción es de orden...",
+      "context": "En un estudio bioquímico en Colombia sobre saturación por sustrato, Sofía analiza el comportamiento catalítico en el laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cero respecto a la concentración de sustrato (v = Vmax).",
+          "is_correct": true,
+          "feedback": "Todos los sitios activos están ocupados, por lo que la velocidad es máxima e independiente de agregar más sustrato."
+        },
+        {
+          "letter": "B",
+          "text": "Dos respecto a la temperatura ambiente.",
+          "is_correct": false,
+          "feedback": "Es independiente de [S] a saturación."
+        },
+        {
+          "letter": "C",
+          "text": "Uno respecto al volumen del recipiente.",
+          "is_correct": false,
+          "feedback": "La velocidad no depende del volumen en sí."
+        },
+        {
+          "letter": "D",
+          "text": "Infinito respecto al pH del medio.",
+          "is_correct": false,
+          "feedback": "La velocidad se estabiliza en Vmax."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A concentraciones saturantes de sustrato, la cinética sigue un comportamiento de orden cero respecto a [S].",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle-v10",
+      "statement": "Una constante Km pequeña en la ecuación de Michaelis-Menten indica que la enzima tiene...",
+      "context": "En un estudio bioquímico en Colombia sobre constante de michaelis km, Sofía analiza el comportamiento catalítico en el laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una baja afinidad y baja estabilidad térmica.",
+          "is_correct": false,
+          "feedback": "Km bajo representa alta afinidad enzima-sustrato."
+        },
+        {
+          "letter": "B",
+          "text": "Una alta afinidad por su sustrato.",
+          "is_correct": true,
+          "feedback": "Un valor bajo de Km significa que se requiere poco sustrato para alcanzar la mitad de Vmax (alta afinidad)."
+        },
+        {
+          "letter": "C",
+          "text": "Una velocidad máxima igual a cero.",
+          "is_correct": false,
+          "feedback": "Km indica afinidad, no anula Vmax."
+        },
+        {
+          "letter": "D",
+          "text": "Inhabilidad total para formar el complejo ES.",
+          "is_correct": false,
+          "feedback": "Se forma el complejo ES con facilidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La constante de Michaelis (Km) representa la concentración de sustrato a la cual la velocidad es la mitad de Vmax.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle-v11",
+      "statement": "¿Cómo regulan los efectores alostéricos la actividad de enzimas clave en vías metabólicas?",
+      "context": "En un estudio bioquímico en Colombia sobre regulación alostérica, Sofía analiza el comportamiento catalítico en el laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Destruyendo la cadena peptídica mediante proteólisis irreversible.",
+          "is_correct": false,
+          "feedback": "La regulación alostérica es un proceso reversible de ajuste estructural."
+        },
+        {
+          "letter": "B",
+          "text": "Evaporando las coenzimas presentes en el citoplasma.",
+          "is_correct": false,
+          "feedback": "No causa evaporación de moléculas."
+        },
+        {
+          "letter": "C",
+          "text": "Uniéndose a sitios alostéricos provocando cambios conformacionales que activan o inhiben la enzima.",
+          "is_correct": true,
+          "feedback": "Los moduladores alostéricos alteran la estructura proteica modificando la actividad del sitio activo."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiando la secuencia de aminoácidos del gen original.",
+          "is_correct": false,
+          "feedback": "No altera el código genético del ADN."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La regulación alostérica permite un control fino del flujo metabólico según las necesidades energéticas celulares.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle-v12",
+      "statement": "En la síntesis de isoleucina a partir de treonina en bacterias, el producto final isoleucina inhibe a la primera enzima. Este mecanismo es...",
+      "context": "En un estudio bioquímico en Colombia sobre inhibición por retroalimentación, Sofía analiza el comportamiento catalítico en el laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Activación alostérica cooperativa positiva.",
+          "is_correct": false,
+          "feedback": "Es una inhibición reguladora negativa."
+        },
+        {
+          "letter": "B",
+          "text": "Catalisis por sustrato en exceso.",
+          "is_correct": false,
+          "feedback": "Es un control por producto final."
+        },
+        {
+          "letter": "C",
+          "text": "Desnaturalización térmica irreversible.",
+          "is_correct": false,
+          "feedback": "Es un mecanismo fisiológico reversible."
+        },
+        {
+          "letter": "D",
+          "text": "Inhibición por retroalimentación (feedback negativo).",
+          "is_correct": true,
+          "feedback": "El producto final de la vía inhibe la primera enzima para evitar la sobreproducción inútil."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La inhibición por retroalimentación evita el desperdicio de intermediarios y energía en vías metabólicas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle-v13",
+      "statement": "¿Qué son las isoenzimas (o isozimas) como la lactato deshidrogenasa (LDH) en el cuerpo humano?",
+      "context": "En un estudio bioquímico en Colombia sobre isoenzimas, Sofía analiza el comportamiento catalítico en el laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Formas molecularmente distintas de una misma enzima que catalizan la misma reacción en diferentes tejidos.",
+          "is_correct": true,
+          "feedback": "Tienen distinta estructura primaria y propiedades cinéticas adaptadas a cada tejido específico."
+        },
+        {
+          "letter": "B",
+          "text": "Enzimas de origen vegetal que sustituyen a los ribosomas.",
+          "is_correct": false,
+          "feedback": "Son isoformas humanas presentes en distintos órganos como corazón o hígado."
+        },
+        {
+          "letter": "C",
+          "text": "Hormonas lipídicas que inhiben el transporte de glucosa.",
+          "is_correct": false,
+          "feedback": "Son proteínas enzimáticas catalíticas."
+        },
+        {
+          "letter": "D",
+          "text": "Moléculas de ARN que destruyen proteínas plasmáticas.",
+          "is_correct": false,
+          "feedback": "Son catalizadores proteicos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las isoenzimas permiten adaptar la regulación cinético-metabólica a las condiciones particulares de cada tejido.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle-v14",
+      "statement": "¿Por qué el páncreas secreta enzimas digestivas como el tripsinógeno en forma de zimógenos inactivos?",
+      "context": "En un estudio bioquímico en Colombia sobre zimógenos o proenzimas, Sofía analiza el comportamiento catalítico en el laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los zimógenos digieren carbohidratos más rápido.",
+          "is_correct": false,
+          "feedback": "Son formas inactivas que requieren activación controlada."
+        },
+        {
+          "letter": "B",
+          "text": "Para prevenir la autodigestión del tejido pancreático antes de llegar al lumen intestinal.",
+          "is_correct": true,
+          "feedback": "Se activan por corte proteolítico específico solo cuando alcanzan el duodeno."
+        },
+        {
+          "letter": "C",
+          "text": "Para almacenar grasa en las células acinares.",
+          "is_correct": false,
+          "feedback": "No son formas de almacenamiento lipídico."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el páncreas carece de aminoácidos para hacer enzimas activas.",
+          "is_correct": false,
+          "feedback": "El páncreas sintetiza la proteína precursora completa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los zimógenos previenen el daño tisular mediante la activación localizada de proteasas en el sitio de digestión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle-v15",
+      "statement": "En un gráfico de coordenadas de reacción (Energía vs Avance), la presencia de una enzima...",
+      "context": "En un estudio bioquímico en Colombia sobre energía de activación (ea), Sofía analiza el comportamiento catalítico en el laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eleva la energía inicial de los reactivos al doble.",
+          "is_correct": false,
+          "feedback": "La energía de reactivos y productos permanece idéntica."
+        },
+        {
+          "letter": "B",
+          "text": "Disminuye la energía libre de los productos finales.",
+          "is_correct": false,
+          "feedback": "No cambia la termodinámica global ΔG."
+        },
+        {
+          "letter": "C",
+          "text": "Reduce la altura de la barrera de energía de activación (Ea).",
+          "is_correct": true,
+          "feedback": "La enzima estabiliza el estado de transición bajando el pico energético Ea."
+        },
+        {
+          "letter": "D",
+          "text": "Elimina totalmente el estado de transición de la reacción.",
+          "is_correct": false,
+          "feedback": "El estado de transición ocurre a menor energía."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las enzimas aceleran las reacciones disminuyendo la energía de activación requerida para alcanzar el estado de transición.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle-v16",
+      "statement": "Si la concentración de sustrato es muy alta y constante, al duplicar la concentración de enzima la velocidad inicial...",
+      "context": "En un estudio bioquímico en Colombia sobre efecto de la concentración de enzima, Sofía analiza el comportamiento catalítico en el laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se reduce a la mitad.",
+          "is_correct": false,
+          "feedback": "Más sitios activos disponibles aumentan la velocidad."
+        },
+        {
+          "letter": "B",
+          "text": "Permanecerá inalterada.",
+          "is_correct": false,
+          "feedback": "La velocidad se incrementa linealmente con [E]."
+        },
+        {
+          "letter": "C",
+          "text": "Cae a cero instantáneamente.",
+          "is_correct": false,
+          "feedback": "La velocidad inicial aumenta."
+        },
+        {
+          "letter": "D",
+          "text": "Se duplica.",
+          "is_correct": true,
+          "feedback": "v = k · [E]; a sustrato saturante la velocidad es directamente proporcional a la concentración de enzima."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La velocidad de reacción en condiciones saturantes de sustrato es directamente proporcional a la cantidad de enzima activa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle-v17",
+      "statement": "¿A qué se refiere la 'especificidad de sustrato' de una enzima como la lactasa?",
+      "context": "En un estudio bioquímico en Colombia sobre especificidad enzimática, Sofía analiza el comportamiento catalítico en el laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A la capacidad de reconocer y catalizar la transformación de un único sustrato o grupo de sustratos muy similares.",
+          "is_correct": true,
+          "feedback": "La lactasa cataliza únicamente la hidrólisis de la lactosa en glucosa y galactosa."
+        },
+        {
+          "letter": "B",
+          "text": "A la habilidad de digerir cualquier polímero orgánico indistintamente.",
+          "is_correct": false,
+          "feedback": "La especificidad impide la acción sobre sustratos no complementarios."
+        },
+        {
+          "letter": "C",
+          "text": "A la resistencia de la enzima frente a radiación gamma.",
+          "is_correct": false,
+          "feedback": "No se refiere a tolerancia a radiaciones físicas."
+        },
+        {
+          "letter": "D",
+          "text": "A la propiedad de cambiar de color al reaccionar.",
+          "is_correct": false,
+          "feedback": "Es la discriminación química del sustrato."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La especificidad se basa en la complementariedad química y geométrica entre el sitio activo y el sustrato.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle-v18",
+      "statement": "¿Qué descubrimiento comprobó que no todos los catalizadores biológicos son proteínas puras?",
+      "context": "En un estudio bioquímico en Colombia sobre ribozimas, Sofía analiza el comportamiento catalítico en el laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El descubrimiento de la estructura lipídica del glucógeno.",
+          "is_correct": false,
+          "feedback": "El glucógeno es un polisacárido de reserva."
+        },
+        {
+          "letter": "B",
+          "text": "El descubrimiento de las ribozimas (moléculas de ARN con actividad catalítica).",
+          "is_correct": true,
+          "feedback": "Las ribozimas demostraron que ciertos segmentos de ARN pueden catalizar reacciones específicas."
+        },
+        {
+          "letter": "C",
+          "text": "La síntesis de esteroides en el retículo liso.",
+          "is_correct": false,
+          "feedback": "Son lípidos sintéticos no enzimáticos."
+        },
+        {
+          "letter": "D",
+          "text": "La observación de cristales de cloruro de sodio.",
+          "is_correct": false,
+          "feedback": "Es una sal inorgánica simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las ribozimas son moléculas de ARN que actúan como catalizadores biológicos en el procesamiento genético.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle-v19",
+      "statement": "La constante kcat (número de recambio) de una enzima representa...",
+      "context": "En un estudio bioquímico en Colombia sobre constante de catálisis kcat, Sofía analiza el comportamiento catalítico en el laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad de gramos de agua absorbidos en un minuto.",
+          "is_correct": false,
+          "feedback": "Es un parámetro cinético de frecuencia catalítica."
+        },
+        {
+          "letter": "B",
+          "text": "El volumen de dióxido de carbono producido por el núcleo.",
+          "is_correct": false,
+          "feedback": "Mide la tasa de recambio de sustrato a producto."
+        },
+        {
+          "letter": "C",
+          "text": "El número de moléculas de sustrato convertidas en producto por unidad de tiempo por cada sitio activo.",
+          "is_correct": true,
+          "feedback": "kcat = Vmax / [E_total], midiendo la eficiencia de conversión por sitio activo."
+        },
+        {
+          "letter": "D",
+          "text": "La energía cinética de rotación del sustrato.",
+          "is_correct": false,
+          "feedback": "Es una constante de velocidad de primer orden (s⁻¹)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "kcat expresa la máxima capacidad catalítica por segundo de cada sitio activo de la enzima.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle-v20",
+      "statement": "El cociente kcat / Km se utiliza en bioquímica para comparar...",
+      "context": "En un estudio bioquímico en Colombia sobre eficiencia catalítica kcat/km, Sofía analiza el comportamiento catalítico en el laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El punto de ebullición de los aminoácidos polares.",
+          "is_correct": false,
+          "feedback": "No mide propiedades térmicas de punto de ebullición."
+        },
+        {
+          "letter": "B",
+          "text": "La presión de vapor de la solución acuosa.",
+          "is_correct": false,
+          "feedback": "Es una magnitud cinética enzimática."
+        },
+        {
+          "letter": "C",
+          "text": "El porcentaje de grasa de la membrana plasmática.",
+          "is_correct": false,
+          "feedback": "No mide composición lipídica."
+        },
+        {
+          "letter": "D",
+          "text": "La eficiencia catalítica de diferentes enzimas hacia un sustrato a baja concentración.",
+          "is_correct": true,
+          "feedback": "Considera tanto la capacidad de conversión (kcat) como la afinidad de unión (Km)."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El cociente kcat/Km es el mejor indicador de la especificidad y eficiencia catalítica en condiciones fisiológicas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

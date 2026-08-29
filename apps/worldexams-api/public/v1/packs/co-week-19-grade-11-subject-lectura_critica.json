@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-19-grade-11-subject-lectura_critica",
+    "generated_at": "2026-08-29T18:22:22.194Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la diferencia de tipología textual entre el Texto 1 y el Texto 2?",
+      "context": "Lea los siguientes dos textos sobre la selva amazónica:\n*Texto 1 (Científico):* \"La cuenca del Amazonas abarca aproximadamente 7 millones de kilómetros cuadrados y alberga el 10% de la biodiversidad conocida del planeta\".\n*Texto 2 (Poético):* \"Verde pulmón que respira la niebla del alba, cuna sagrada donde los ríos cantan el secreto de los antiguos dioses\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto 1 es un texto expositivo-científico (denotativo) y el Texto 2 es un texto lírico-literario (connotativo).",
+          "is_correct": true,
+          "feedback": "Correcto. El primero aporta datos objetivos cuantitativos; el segundo utiliza recursos de lenguaje figurado y expresivo."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 1 es una novela de caballería y el Texto 2 es una noticia de crónica policial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno responde a esos géneros ni formatos narrativos."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos textos son manuales de instrucciones para la navegación fluvial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno contiene pasos procedurales de navegación."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto 1 es una obra dramática y el Texto 2 es un afiche publicitario comercial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las tipologías identificadas son expositiva-científica y lírica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis tipológico exige deslindar el lenguaje denotativo (expositivo/científico) del lenguaje connotativo o figurado (literario/poético).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle-v2",
+      "statement": "El Texto A se diferencia del Texto B porque el primero busca:",
+      "context": "Compare estos dos pasajes sobre la vacunación:\n*Texto A (Instructivo):* \"1. Desinfecte la zona con alcohol. 2. Aspire la dosis correspondiente. 3. Inyecte en un ángulo de 90 grados\".\n*Texto B (Argumentativo):* \"La vacunación obligatoria es una medida ética indispensable para proteger la salud de la comunidad frente a epidemias\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Guiar paso a paso una secuencia procedimental de acción directa.",
+          "is_correct": true,
+          "feedback": "Correcto. Los textos instructivos organizan acciones operativas mediante pasos numerados e imperativos."
+        },
+        {
+          "letter": "B",
+          "text": "Convencer al lector mediante razones filosóficas sobre el deber ético.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Persuadir éticamente es la función del Texto B (argumentativo) y no del A."
+        },
+        {
+          "letter": "C",
+          "text": "Explicar la historia de la medicina en la Edad Media europea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto A da instrucciones de aplicación clínica y no antecedentes históricos."
+        },
+        {
+          "letter": "D",
+          "text": "Vender alcohol desinfectante en droguerías comerciales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El foco es un procedimiento clínico y no un anuncio publicitario de ventas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los textos instructivos priorizan la secuencia imperativa de acciones, mientras los argumentativos buscan la adhesión ideológica o teórica del receptor.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle-v3",
+      "statement": "Desde la clasificación por formato de presentación, el Texto 1 es un texto ______ y el Texto 2 es un texto ______.",
+      "context": "Considere dos formas de presentar el desempleo en Colombia:\n*Texto 1:* Un gráfico de barras que muestra la variación porcentual del desempleo entre 2020 y 2024.\n*Texto 2:* Un ensayo de tres páginas que analiza las causas de la informalidad laboral en las ciudades capitales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "discontinuo / continuo",
+          "is_correct": true,
+          "feedback": "Correcto. Los gráficos de barras son textos discontinuos (se leen en matrices/diagramas) y los ensayos son textos continuos (se leen en párrafos encadenados)."
+        },
+        {
+          "letter": "B",
+          "text": "continuo / discontinuo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invierte la clasificación sintáctica de ambos formatos."
+        },
+        {
+          "letter": "C",
+          "text": "poético / dramático",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos pertenece a la literatura dramática o poética."
+        },
+        {
+          "letter": "D",
+          "text": "ficcional / autobiográfico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son textos de análisis macroeconómico e información real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Distinguir entre textos continuos (organizados en oraciones y párrafos) y discontinuos (organizados en esquemas, gráficos o tablas) es básico en el análisis del marco ICFES.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el rasgo característico que define al Texto A frente al Texto B?",
+      "context": "Lea los siguientes dos textos sobre la violencia política:\n*Texto A (Narrativo):* \"Aquella tarde de 1948, cuando sonaron los disparos en la carrera Séptima, Manuel corrió asustado hacia la plaza buscando refugio\".\n*Texto B (Informativo-Periodístico):* \"El 9 de abril de 1948 fue asesinado en Bogotá el líder político Jorge Eliécer Gaitán, lo que desencadenó el fenómeno conocido como El Bogotazo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Centrarse en la vivencia particular de un personaje dentro de una trama diagética.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto narrativo encarna los hechos en la perspectiva particular de un personaje (Manuel), mientras el informativo relata el hecho histórico masivo."
+        },
+        {
+          "letter": "B",
+          "text": "Aportar las estadísticas exactas del número de edificios quemados durante las protestas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto A no da estadísticas cuantitativas sino que narra una vivencia dramática."
+        },
+        {
+          "letter": "C",
+          "text": "Definir en términos sociológicos el concepto de líder político.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto A es una narración y no una definición sociológica académica."
+        },
+        {
+          "letter": "D",
+          "text": "Incluir gráficos estadísticos e infografías sobre la capital.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los pasajes muestra gráficos en el fragmento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La narrativa focaliza la experiencia de personajes en una trama, a diferencia del periodismo informativo que reporta hechos colectivos e hitos sintéticos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle-v5",
+      "statement": "Al analizar la intencionalidad discursiva de ambos textos, se deduce que:",
+      "context": "Compare estos dos pasajes sobre la explotación minera:\n*Texto 1 (Caricatura de opinión):* Muestra a un minero cavando dentro de una calavera gigante etiquetada como \"Naturaleza\".\n*Texto 2 (Informe de gestión corporativa):* \"Nuestra empresa ha cumplido con el 100% de los estándares de reforestación exigidos por la ley\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto 1 busca denunciar satíricamente el impacto ecológico mortál, mientras el Texto 2 pretende legitimarse institucionalmente.",
+          "is_correct": true,
+          "feedback": "Correcto. La caricatura satiriza la destrucción mediante símbolos trágicos; la empresa usa la memoria institucional de sostenibilidad para lavar su imagen."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos textos buscan vender acciones financieras en la bolsa de valores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La caricatura de opinión no vende acciones sino que critica el daño ambiental."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 1 es una ley de la República y el Texto 2 es un poema romántico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son piezas de opinión gráfica e informe corporativo respectivamente."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos autores coinciden en que la minería destruye irreversiblemente el planeta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El informe corporativo afirma cumplir con la reforestación y sostenibilidad ambiental."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis tipológico discursivo permite reconocer las motivaciones ideológicas detrás de la sátira de opinión frente a la publicidad de responsabilidad corporativa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle-v6",
+      "statement": "¿De qué manera se complementan ambas publicaciones para un lector crítico?",
+      "context": "Se analizan dos publicaciones sobre la nutrición infantil:\n*Publicación A:* Una infografía del Ministerio de Salud con gráficos de barras sobre la anemia infantil en la Guajira.\n*Publicación B:* Un ensayo de opinión publicado en un periódico que critica al gobierno por la falta de agua potable en la Guajira.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Publicación A suministra los datos cuantitativos del diagnóstico y la Publicación B aporta la interpretación y denuncia política.",
+          "is_correct": true,
+          "feedback": "Correcto. Los datos estadísticos de la infografía sirven de base empírica para la postura crítica del ensayo de opinión."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas publicaciones se anulan mutuamente porque emplean tipografías de colores diferentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia de diseño o formato no anula la complementariedad de la información."
+        },
+        {
+          "letter": "C",
+          "text": "La Publicación B demuestra que los gráficos de barras son falsos por definición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ensayo crítico no niega las estadísticas sino que exige soluciones a las causas de la crisis."
+        },
+        {
+          "letter": "D",
+          "text": "La Publicación A es un cuento de hadas y la B es un manual de cocina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas abordan una grave problemática de salud pública en Colombia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La integración de textos discontinuos (infografías con datos) y continuos (ensayos de opinión) permite construir una comprensión sistémica de un problema.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle-v7",
+      "statement": "La relación de sustento argumentativo entre el Texto 1 y el Texto 2 consiste en que el Texto 1:",
+      "context": "Lea dos textos sobre el transporte de carga:\n*Texto 1 (Tabla estadística):* Muestra el costo por tonelada transportada en camión frente a tren en Colombia (Camión: $180.000 / Tren: $75.000).\n*Texto 2 (Artículo de opinión):* \"Es imperativo reactivar la red férrea nacional para abaratar la producción agrícola y reducir la huella de carbono\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aporta la evidencia económica cuantitativa que justifica la propuesta planteada en el Texto 2.",
+          "is_correct": true,
+          "feedback": "Correcto. El menor costo por tonelada en tren (demostrado en la tabla) valida la tesis del artículo de opinión sobre reactivar el tren."
+        },
+        {
+          "letter": "B",
+          "text": "Contradice la afirmación de que el transporte en tren es más económico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tabla prueba justamente que el tren cuesta menos de la mitad que el camión."
+        },
+        {
+          "letter": "C",
+          "text": "Describe la biografía del inventor de la locomotora a vapor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tabla expone costos comparativos contemporáneos y no biografías históricas."
+        },
+        {
+          "letter": "D",
+          "text": "Demuestra que los camiones son el único medio de transporte viable en Suramérica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos resaltan la ventaja económica del tren frente al camión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la lectura crítica intertextual, los textos discontinuos de datos sirven frecuentemente de evidencia empírica para validar las tesis formuladas en textos continuos de opinión.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la diferencia fundamental en el uso del lenguaje entre el Texto A y el Texto B?",
+      "context": "Lea las siguientes dos estrofas/párrafos sobre la noche:\n*Texto A (Poético):* \"Sombra sutil que vistes el firmamento, manto de estrellas donde duerme el dolor\".\n*Texto B (Astronómico):* \"La noche es el período durante el cual una cara de la Tierra no recibe la radiación directa del Sol debido al movimiento de rotación\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto A utiliza recursos de connotación y metáfora; el Texto B utiliza un lenguaje estrictamente denotativo y funcional.",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto A crea imágenes poéticas (manto, sombra); el B describe el fenómeno físico con rigor astronómico."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto A es una ley jurídica sobre el descanso laboral y el B es una receta médica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno aborda legislación laboral ni prescripciones farmacéuticas."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto B es un poema de la época colonial escrito en verso libre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto B es una definición científica en prosa expositiva."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos textos afirman que el Sol gira alrededor de la Tierra en 24 horas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto B aclara que la Tierra gira sobre su propio eje (rotación)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis del lenguaje denotativo (científico) versus connotativo (poético) es la piedra angular de la caracterización tipológica en el análisis de lectura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle-v9",
+      "statement": "Si el estudiante busca conocer la disponibilidad natural del recurso energético, debe priorizar el ______, pero si busca conocer la viabilidad política del proyecto, debe priorizar el ______.",
+      "context": "Un estudiante compara dos textos sobre el uso de la energía solar en el Caribe colombiano:\n*Texto X:* Un mapa de radiación solar en kilovatios/hora por metro cuadrado en los departamentos de la costa.\n*Texto Y:* Una entrevista al ministro de Minas sobre las licencias para parques fotovoltaicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Texto X / Texto Y",
+          "is_correct": true,
+          "feedback": "Correcto. El mapa (Texto X) ofrece los datos físicos de radiación natural y la entrevista (Texto Y) expone las políticas públicas e intenciones del gobierno."
+        },
+        {
+          "letter": "B",
+          "text": "Texto Y / Texto X",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invierte la utilidad de las fuentes; el mapa mide la radiación física y la entrevista la política oficial."
+        },
+        {
+          "letter": "C",
+          "text": "Texto X en ambos casos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mapa no informa sobre licencias administrativas ni decisiones del ministerio."
+        },
+        {
+          "letter": "D",
+          "text": "Texto Y en ambos casos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La entrevista no reemplaza las mediciones cartográficas de radiación física."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar la idoneidad de distintos tipos de texto (cartográfico/físico vs. político/declarativo) para resolver preguntas específicas es una habilidad analítica superior.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle-v10",
+      "statement": "El uso del lenguaje en el Texto 1 revela una función discursiva de tipo ______ mientras que el Texto 2 cumple una función ______.",
+      "context": "Dos fragmentos abordan la deforestación de la selva:\n*Texto 1 (Discurso político):* \"¡No permitiremos que los enemigos de la Patria destruyan nuestro pulmón verde!\".\n*Texto 2 (Artículo de investigación ambiental):* \"Entre 2021 y 2023 se perdieron 120.000 hectáreas de bosque primario debido a la expansión de la ganadería extensiva\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "emotiva/persuasiva — referencial/informativa",
+          "is_correct": true,
+          "feedback": "Correcto. El discurso apela al fervor patriótico y las emociones; la investigación científica reporta datos verificables."
+        },
+        {
+          "letter": "B",
+          "text": "poética/lírica — dramática/teatral",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son piezas de literatura poética ni guiones de teatro."
+        },
+        {
+          "letter": "C",
+          "text": "metalingüística — instructiva/procedimental",
+          "is_correct": false,
+          "feedback": "Incorrecto. No analizan la gramática del idioma ni dan pasos para talar árboles."
+        },
+        {
+          "letter": "D",
+          "text": "humorística — satírica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos pasajes utiliza la risa o la mofa en su comunicación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer las funciones del lenguaje de Roman Jakobson (emotiva, apelativa, referencial) en textos de naturaleza diversa es clave para el análisis tipológico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle-v11",
+      "statement": "Al evaluar ambas posturas ensayísticas, se observa que:",
+      "context": "Compare estos dos pasajes de ensayo sobre la tecnología:\n*Texto A:* \"La inteligencia artificial nos liberará del trabajo alienante, permitiendo un renacimiento de la filosofía y el arte\".\n*Texto B:* \"La inteligencia artificial generará una masa de trabajadores inútiles y concentrará la riqueza en tres gigantes tecnológicos\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representan dos utopías/distopías contrapuestas (tecnoptimismo vs. tecnopesimismo) sobre el futuro del trabajo.",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto A idealiza los beneficios (utopía tecnoptimista) y el B advierte los riesgos de concentración y desempleo (distopía)."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto A fue escrito en el siglo XV y el B en el siglo XVIII.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos abordan el impacto contemporáneo de la inteligencia artificial."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos autores coinciden en que la inteligencia artificial debe ser prohibida por la ley.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno exige su prohibición absoluta; evalúan sus consecuencias hipotéticas."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto A es una ley comercial y el B una receta de cocina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos son pasajes de ensayos prospectivos sobre tecnología y sociedad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis tipológico comparativo entre ensayos contrapuestos identifica las matrices ideológicas (tecnoptimismo vs. tecnopesimismo) que sustentan los argumentos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle-v12",
+      "statement": "¿De qué manera difieren el valor testimonial y el valor jurídico de ambos documentos históricos?",
+      "context": "Un investigador analiza dos documentos sobre la Guerra de los Mil Días en Colombia:\n*Documento 1 (Carta personal de un soldado):* \"Querida madre, llevamos tres días sin comer en las trincheras de Palonegro y el frío nos quita la vida\".\n*Documento 2 (Tratado de Paz de Neerlandia):* \"Cláusula 1. Las fuerzas beligerantes acuerdan la entrega de las armas y la amnistía para los combatientes\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Documento 1 aporta el testimonio vivencial del sujeto histórico; el Documento 2 formaliza el acuerdo institucional normativo.",
+          "is_correct": true,
+          "feedback": "Correcto. La carta privada capta la experiencia humana/subjetiva; el tratado de paz fija las normas legales formales de fin del conflicto."
+        },
+        {
+          "letter": "B",
+          "text": "El Documento 1 es una invención ficcional y el Documento 2 es un poema de amor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos son documentos históricos primarios auténticos de diferente tipología."
+        },
+        {
+          "letter": "C",
+          "text": "El Documento 2 fue escrito por el mismo soldado que redactó la carta a la madre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tratado es un documento oficial suscrito por los mandos militares de ambos bandos."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos documentos carecen de todo interés para la reconstrucción del pasado colombiano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La historiografía utiliza justamente ambos tipos de fuentes para cruzar la experiencia con la norma."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La comparación entre fuentes históricas primarias privadas (cartas) y públicas (tratados) permite comprender cómo se construye la historia desde múltiples perspectivas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la diferencia de responsabilidad comunicativa frente al consumidor entre el Texto A y el Texto B?",
+      "context": "Lea las dos miradas sobre el consumo de café:\n*Texto A (Anuncio publicitario):* \"Despierta tu pasión cada mañana con el aroma celestial del café más exclusivo de Colombia\".\n*Texto B (Artículo médico):* \"La ingesta moderada de cafeína estimula el sistema nervioso central aumentando el estado de alerta, pero dosis superiores a 400 mg diarios pueden provocar insomnio y taquicardia\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto A busca la persuasión estética y comercial sin mencionar efectos secundarios; el B aporta un análisis de salud ponderado con límites de seguridad.",
+          "is_correct": true,
+          "feedback": "Correcto. La publicidad resalta el placer hedónico omitiendo riesgos; la divulgación médica informa sobre beneficios y contraindicaciones de la sustancia."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto A es una guía técnica de cultivo agrícolas en el departamento del Quindío.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto A es un aviso de consumo comercial y no una guía agronómica de siembra."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto B busca prohibir la venta de café en todos los restaurantes colombianos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El artículo médico habla de ingesta moderada segura y advierte sobre excesos."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos textos son idénticos en su lenguaje y persiguen el mismo fin económico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las tipologías (publicidad vs. medicina) marcan objetivos comunicativos profundamente distintos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis crítico comparativo contrapone el discurso publicitario de seducción con el discurso médico de prevención y ponderación científica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle-v14",
+      "statement": "¿De qué manera dialogan el dato del Texto 1 con la ficción del Texto 2?",
+      "context": "Se presentan dos textos sobre la educación en el siglo XXI:\n*Texto 1 (Tabla comparativa):* Muestra el porcentaje de colegios conectados a internet por departamento en Colombia.\n*Texto 2 (Cuento de ciencia ficción):* Narra la historia de un niño en el año 2150 cuya única maestra es una pantalla holográfica que lee sus ondas cerebrales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto 1 evidencia las brechas reales de infraestructura del presente; el Texto 2 extrapola de forma especulativa las posibilidades y alienaciones del futuro.",
+          "is_correct": true,
+          "feedback": "Correcto. La tabla da el mapa de realidad técnica de hoy y el cuento explora mediante la ficción el futuro de la educación mediada por máquinas."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 2 demuestra que la tabla del Texto 1 contiene datos inventados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La literatura de ficción no desacredita los censos estadísticos de infraestructura real."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 1 es una obra dramática de teatro y el Texto 2 es un código de leyes del Congreso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las tipologías registradas son tabla estadística cuantitativa y cuento ficcional especulativo."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos textos afirman que la escuela física desaparecerá el próximo mes en Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuento transcurre en 2150 y la tabla mide el presente sin profetizar la desaparición de escuelas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cruzar textos informativos del presente con ficciones especulativas enriquece la capacidad de análisis sobre el devenir tecnológico y social.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle-v15",
+      "statement": "La contradicción entre ambos textos pone al descubierto el choque entre:",
+      "context": "Compare dos perspectivas sobre la moda rápida (*fast fashion*):\n*Texto A (Reportaje periodístico):* \"En los vertederos del desierto de Atacama se acumulan toneladas de ropa usada importada de Occidente que tardarán siglos en descomponerse\".\n*Texto B (Manifiesto de la industria textil):* \"Llevamos la última tendencia del diseño a precios accesibles para democratizar la moda en todo el mundo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La retórica empresarial de democratización del consumo y la realidad ambiental de la sobreproducción de desechos.",
+          "is_correct": true,
+          "feedback": "Correcto. La industria justifica el negocio con la \"democratización del precio\", mientras el reportaje visibiliza el costo ecológico de la ropa desechada."
+        },
+        {
+          "letter": "B",
+          "text": "El diseño de vestuario en París y la confección de calzado en Bogotá.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El debate es sobre el modelo ambiental del *fast fashion* y no de geografía de la confección de calzado."
+        },
+        {
+          "letter": "C",
+          "text": "La falta de agua potable en los desiertos del norte de Chile.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reportaje menciona Atacama como basurero textil y no por agua."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibición legal de usar ropa usada en Suramérica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ropa usada se importa masivamente; la tensión es ecológica y de modelo de mercado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis de contradicciones en textos de consumo contrapone los discursos corporativos de democratización con las evidencias del impacto ambiental global.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la relación de significación entre el Texto 1 y el Texto 2?",
+      "context": "Lea los siguientes dos textos sobre la migración campesina a las ciudades:\n*Texto 1 (Testimonio de una lideresa rural):* \"Tuvimos que dejar la finca porque los cultivos ya no daban para pagar las deudas y la violencia no nos dejaba dormir\".\n*Texto 2 (Informe sociológico):* \"La migración campo-ciudad en Colombia responde a factores expulsores estructurales, incluyendo la trampa de pobreza rural y la violencia armada\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto 1 aporta la experiencia subjetiva singular que ilustra el concepto general formulado en el Texto 2.",
+          "is_correct": true,
+          "feedback": "Correcto. El testimonio vivencial encarna la categoría sociológica de \"factores expulsores\" expresada en el estudio académico."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 2 desmiente las afirmaciones hechas por la lideresa en el Texto 1.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El informe sociológico revalida y conceptualiza exactamente lo que vivió la lideresa rural."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 1 es una poesía vanguardista y el Texto 2 es un diálogo de comedia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las tipologías son testimonio personal oral/escrito e informe sociológico académico."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos textos afirman que la vida rural en Colombia es próspera y pacífica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos exponen las causas de la crisis y expulsión del campesinado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar cómo se articula el testimonio vivencial con las categorías de los estudios sociales permite conectar la micro-historia con la macro-sociología.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle-v17",
+      "statement": "Para evaluar de manera balanceada y rigurosa la historia de este periodo, el historiador debe comprender que:",
+      "context": "Un historiador analiza tres documentos sobre el periodo de \"La Violencia\" en Colombia (1948-1958):\n1. Un editorial de un periódico partidista de la época exigiendo mano dura contra el partido rival.\n2. Una carta privada de un campesino relatando el quema de su aldea.\n3. El informe de la Comisión de la Verdad publicado en 2022.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe triangular las tres fuentes: el sesgo ideológico de la prensa de época, la vivencia de las víctimas y la reconstrucción analítica posterior.",
+          "is_correct": true,
+          "feedback": "Correcto. La triangulación de fuentes heterogéneas (discursivas, testimoniales e investigativas) es el método crítico para construir la verdad histórica."
+        },
+        {
+          "letter": "B",
+          "text": "El informe de 2022 es el único documento válido y los otros dos deben ser destruidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Destruir fuentes primarias de época priva a la historia de la evidencia directa de los actores."
+        },
+        {
+          "letter": "C",
+          "text": "El editorial partidista es 100% objetivo porque fue impreso en papel de periódico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La prensa de época estaba fuertemente sesgada por las pasiones partidistas del momento."
+        },
+        {
+          "letter": "D",
+          "text": "Las cartas personales carecen de todo valor para la ciencia histórica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El testimonio epistolar es clave para comprender el impacto humano de los procesos políticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La triangulación de fuentes tipológicamente diversas (prensa de época, testimonios, informes de memoria) es la máxima competencia en la lectura crítica de la historia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle-v18",
+      "statement": "Al evaluar el alcance argumentativo de ambos textos, el lector concluye que:",
+      "context": "Un lector crítico examina dos artículos sobre la legalización del cannabis en Colombia.\n*Artículo A:* Publicado por una revista médica especializada, analiza los efectos farmacológicos del CBD en el tratamiento de la epilepsia refractaria.\n*Artículo B:* Publicado por una asociación de comerciantes, resalta las proyecciones de recaudación de impuestos y generación de empleo del sector agroindustrial del cáñamo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno de los dos textos agota la totalidad del debate; el Artículo A aborda la dimensión de salud y el B la dimensión macroeconómica.",
+          "is_correct": true,
+          "feedback": "Correcto. Reconocer los límites sectoriales de cada tipología evita adoptar visiones parciales en debates complejos de política pública."
+        },
+        {
+          "letter": "B",
+          "text": "El Artículo B invalida totalmente los hallazgos médicos del Artículo A.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las proyecciones económicas no invalidan los hallazgos farmacológicos en salud."
+        },
+        {
+          "letter": "C",
+          "text": "El Artículo A es un texto de ficción fantástica sin sustento biológico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La revista médica analiza propiedades farmacológicas comprobadas en investigación."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos artículos exigen la prohibición absoluta de todas las plantas medicinales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos exploran usos (médicos e industriales) que sustentan la regulación o aprovechamiento de la planta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la suficiencia de textos sectoriales implica reconocer que ningún artículo único agota la complejidad interdisciplinaria de una política pública.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle-v19",
+      "statement": "Desde los presupuestos de la semiótica y la teoría de la lectura del marco ICFES, la postura del estudiante es incorrecta porque:",
+      "context": "Un estudiante afirma que \"las caricaturas de opinión y las infografías no deberían ser evaluadas en la prueba de Lectura Crítica porque no son textos de verdad, pues no están formados por párrafos de literatura\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ignora que la competencia lectora contemporánea exige interpretar lenguajes multimodales y textos discontinuos presentes en la vida ciudadana.",
+          "is_correct": true,
+          "feedback": "Correcto. Leer críticamente en el siglo XXI abarca tanto la prosa continua como los códigos icónicos, gráficos y discursivos complejas de la cultura visual."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que las caricaturas son más difíciles de entender que los libros de filosofía griega.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se trata de medir dificultad comparativa sino de reconocer la validez de los lenguajes multimodales."
+        },
+        {
+          "letter": "C",
+          "text": "Sugiere que los libros impresos deben ser eliminados de todas las bibliotecas del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estudiante no pide eliminar libros sino que rechaza erróneamente evaluar textos discontinuos."
+        },
+        {
+          "letter": "D",
+          "text": "Afirma que los gráficos estadísticos solo deben ser leídos por profesores de matemáticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lectura crítica ciudadana requiere descifrar información cuantitativa en la prensa y la vida pública."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La teoría de la lectura multimodal fundamenta que la competencia lectora incluye la decodificación crítica de textos continuos, discontinuos y mixtos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle-v20",
+      "statement": "Al juzgar la eficacia de ambas obras para la reconstrucción del tejido social de Colombia, se concluye que:",
+      "context": "Se analizan dos obras sobre la memoria de las víctimas de la violencia:\n*Obra 1:* El monumento *El Testigo* del fotógrafo Jesús Abad Colorado, compuesto por registros fotográficos en blanco y negro del conflicto armado.\n*Obra 2:* El informe estadístico del Centro Nacional de Memoria Histórica con cifras de víctimas de secuestro y desplazamiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas son complementarias e indispensables: la fotografía conmueve e interpela la empatía moral; la estadística dimensiona la magnitud estructural del fenómeno.",
+          "is_correct": true,
+          "feedback": "Correcto. La potencia estética y ética de la fotografía humana se alía con la solidez cuantitativa del informe para la reparación y la memoria colectiva."
+        },
+        {
+          "letter": "B",
+          "text": "La fotografía carece de valor porque las imágenes no contienen datos numéricos con decimales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El arte fotográfico documental posee una fuerza de interpelación ética y memoria histórica insustituible."
+        },
+        {
+          "letter": "C",
+          "text": "Las estadísticas son inútiles porque los números confunden a los ciudadanos comunes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cifras rigurosas son indispensables para dimensionar la magnitud del impacto del conflicto y diseñar políticas públicas de reparación."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas obras debieron ser redactadas en forma de comedia musical para el teatro comercial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El respeto a la memoria de las víctimas exige la solemnidad, rigor y dignidad presentes en ambas aproximaciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación crítica integral comprende cómo la sensibilidad del arte documental y el rigor de la estadística social se unen para sostener la memoria histórica y la dignidad humana.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-11-2026-W19-analisis-tipologico-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

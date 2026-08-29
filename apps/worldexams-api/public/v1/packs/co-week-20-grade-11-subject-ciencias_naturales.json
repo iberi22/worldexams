@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-20-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T18:22:22.181Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v1",
+      "statement": "¿Qué principio de conservación físico-químico establece que en todo sistema aislado la masa y la energía total permanecen constantes?",
+      "context": "Un estudiante de grado 11 en Bogotá revisa los temas integrados del Periodo 2 para el examen Saber 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primera Ley de la Termodinámica (Conservación de la Energía).",
+          "is_correct": true,
+          "feedback": "Correcto. La energía no se crea ni se destruye, solo se transforma entre trabajo, calor y energía interna."
+        },
+        {
+          "letter": "B",
+          "text": "Tercera Ley de Newton del movimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tercera ley de Newton trata sobre fuerzas de acción y reacción."
+        },
+        {
+          "letter": "C",
+          "text": "Principio de exclusión de Pauli.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Trata sobre los números cuánticos de los electrones."
+        },
+        {
+          "letter": "D",
+          "text": "Ley de las proporciones múltiples de Dalton.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Trata sobre relaciones ponderales en compuestos estequiométricos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Primera Ley de la Termodinámica consagra el principio universal de conservación de la energía.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de los siguientes grupos funcionales orgánicos identifica a los alcoholes y está presente en los monosacáridos?",
+      "context": "En Medellín se repasa la estructura y reactividad de las biomoléculas estudiadas en el periodo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grupo hidroxilo (-OH).",
+          "is_correct": true,
+          "feedback": "Correcto. El grupo -OH es característico de los alcoholes y polialcoholes como las hexosas."
+        },
+        {
+          "letter": "B",
+          "text": "Grupo amino (-NH2).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grupo amino caracteriza a las aminas y aminoácidos."
+        },
+        {
+          "letter": "C",
+          "text": "Grupo tiol (-SH).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el grupo sulfhidrilo característico de la cisteína."
+        },
+        {
+          "letter": "D",
+          "text": "Grupo haluro (-X).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Identifica a los halogenuros de alquilo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los monosacáridos son polihidroxialdehídos o polihidroxicetonas que contienen múltiples grupos hidroxilo (-OH).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.81,
+      "bundle_id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v3",
+      "statement": "Si la velocidad de un objeto en movimiento se duplica ($v \\rightarrow 2v$), ¿por qué factor se multiplica su energía cinética?",
+      "context": "En Cali se repasa el concepto de trabajo mecánico y energía cinética.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se quadruplica (factor 4).",
+          "is_correct": true,
+          "feedback": "Correcto. Como $E_k = \\frac{1}{2}m v^2$, duplicar la velocidad resulta en $(2v)^2 = 4 v^2$."
+        },
+        {
+          "letter": "B",
+          "text": "Se duplica (factor 2).",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía cinética varía con el cuadrado de la velocidad."
+        },
+        {
+          "letter": "C",
+          "text": "Se triplica (factor 3).",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dependencia es cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "Permanece igual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía cinética aumenta con la velocidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dado que $E_k propto v^2$, duplicar la velocidad incrementa la energía cinética $2^2 = 4$ veces.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v4",
+      "statement": "¿Qué nivel de estructura proteica se conserva intacto tras la desnaturalización térmica de una enzima?",
+      "context": "En Barranquilla se consulta el comportamiento de una enzima sujeta a altas temperaturas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estructura primaria.",
+          "is_correct": true,
+          "feedback": "Correcto. Los enlaces peptídicos covalentes resisten el calor no hidrolizándose la secuencia lineal."
+        },
+        {
+          "letter": "B",
+          "text": "Estructura secundaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los puentes de hidrógeno de las hélices y láminas se rompen con el calor."
+        },
+        {
+          "letter": "C",
+          "text": "Estructura terciaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plegamiento tridimensional nativo se pierde completamente."
+        },
+        {
+          "letter": "D",
+          "text": "Estructura cuaternaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La asociación entre subunidades se disocia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La desnaturalización desorganiza las estructuras superior mantenidas por fuerzas no covalentes, preservando la estructura primaria.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v5",
+      "statement": "¿Qué afirmación expresa el principio de equivalencia de la energía en ambos experimentos?",
+      "context": "En un experimento integrador en Tunja, se lanza un objeto de 2 kg hacia arriba con $E_k = 100 \\text{ J}$. Simultáneamente se calienta un vaso con 100 g de agua elevando su temperatura en $0.239^\\circ\\text{C}$ ($100 \\text{ cal} \\approx 100 \\text{ J}$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos procesos involucran la misma cantidad de energía ($100 \\text{ J}$), manifestada en forma de trabajo mecánico en el lanzamiento y calor en el agua.",
+          "is_correct": true,
+          "feedback": "Correcto. El Joule es la unidad SI para cualquier forma de energía (mecánica, térmica, química)."
+        },
+        {
+          "letter": "B",
+          "text": "El lanzamiento consume energía atómica y el agua energía magnética.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son manifestaciones de energía mecánica y térmica estándar."
+        },
+        {
+          "letter": "C",
+          "text": "El calor del agua no se puede medir en Julios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El experimento de Joule demostró la equivalencia mecánica del calor ($1 \text{ cal} = 4.184 \text{ J}$)."
+        },
+        {
+          "letter": "D",
+          "text": "La masa del agua se destruyó al absorber calor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El calentamiento modifica la energía térmica sin alterar la masa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía mecánica (Julios) y el calor (Calorías) son formas interconvertibles de energía ($1 \text{ cal} = 4.184 \text{ J}$).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia en el grado de ionización justifica la menor acidez del vaso B?",
+      "context": "Se disuelven 0.1 moles de un ácido en 1 L de agua en Bucaramanga. El pH medido es 1.0 para el vaso A (ácido $HCl$) y 3.0 para el vaso B (ácido $CH_3COOH$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El $HCl$ es un ácido fuerte totalmente ionizado ($[H^+] = 0.1 \\text{ M}$); el acético es un ácido débil parcialmente ionizado ($[H^+] = 0.001 \\text{ M}$).",
+          "is_correct": true,
+          "feedback": "Correcto. La fuerza del ácido determina su constante de disociación $K_a$ y el pH resultante."
+        },
+        {
+          "letter": "B",
+          "text": "El ácido acético destruye las moléculas de agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre un equilibrio de transferencia de protones."
+        },
+        {
+          "letter": "C",
+          "text": "El $HCl$ no contiene protones en solución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El $HCl$ disocia 100% sus protones."
+        },
+        {
+          "letter": "D",
+          "text": "El pH 3.0 indica mayor concentración de $H^+$ que pH 1.0.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escala de pH es logarítmica inversa: menor pH implica mayor $[H^+]$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pH mide la $[H^+]$ libre. $pH = 1 Rightarrow [H^+] = 10^{-1} \text{ M}$; $pH = 3 Rightarrow [H^+] = 10^{-3} \text{ M}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.69,
+      "bundle_id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v7",
+      "statement": "¿A qué velocidad vertical constante se eleva el cuerpo? (Considere $g = 10 \\text{ m/s}^2$).",
+      "context": "En Manizales se mide la velocidad de un motor de $1000 \\text{ W}$ que eleva un cuerpo de $100 \\text{ kg}$ a velocidad constante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1.0 \\text{ m/s}$.",
+          "is_correct": true,
+          "feedback": "Correcto. $F = mg = 100 \\times 10 = 1000 \\text{ N}$. $P = F \\cdot v \\Rightarrow 1000 = 1000 \\cdot v \\Rightarrow v = 1.0 \\text{ m/s}$."
+        },
+        {
+          "letter": "B",
+          "text": "$10.0 \\text{ m/s}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó multiplicar la masa por la aceleración de la gravedad $g$."
+        },
+        {
+          "letter": "C",
+          "text": "$0.1 \\text{ m/s}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la velocidad entre 10."
+        },
+        {
+          "letter": "D",
+          "text": "$100.0 \\text{ m/s}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió potencia entre masa sin usar el peso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$F = mg = 1000 \text{ N}$. $P = F cdot v Rightarrow v = P/F = 1000/1000 = 1.0 \text{ m/s}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v8",
+      "statement": "¿Qué ocurre con la actividad enzimática en los tubos a $0^\\circ\\text{C}$ y $90^\\circ\\text{C}$ respectivamente?",
+      "context": "En Pereira se analiza la descomposición del almidón mediante amilasa salival a distintas temperaturas ($0^\\circ\\text{C}$, $37^\\circ\\text{C}$ y $90^\\circ\\text{C}$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A $0^\\circ\\text{C}$ la enzima está inactiva por falta de energía cinética pero no desnaturalizada; a $90^\\circ\\text{C}$ está desnaturalizada e inactiva de forma irreversible.",
+          "is_correct": true,
+          "feedback": "Correcto. El frío reduce la colisión sustrato-enzima de forma reversible; el calor extremo rompe la conformación nativa."
+        },
+        {
+          "letter": "B",
+          "text": "A $90^circ\text{C}$ la enzima es 100 veces más rápida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. A $90^circ\text{C}$ se desnaturaliza perdiendo su actividad."
+        },
+        {
+          "letter": "C",
+          "text": "A $0^circ\text{C}$ se destruyen los enlaces peptídicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El frío no rompe enlaces peptídicos."
+        },
+        {
+          "letter": "D",
+          "text": "En ambos tubos la velocidad de reacción es idéntica a $37^circ\text{C}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $37^circ\text{C}$ es la temperatura óptima fisiológica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El frío lentifica la cinética sin destruir la enzima; el calor alto destruye la estructura terciaria irreversiblemente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.63,
+      "bundle_id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v9",
+      "statement": "¿Qué modificaciones simultáneas de temperatura y presión aumentarán el rendimiento de $C$ y $D$?",
+      "context": "En Armenia se evalúa la siguiente reacción reversible: $A_{(g)} + B_{(g)} \\rightleftharpoons C_{(g)} + D_{(g)}$ con $\\Delta H = -80 \\text{ kJ}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuir la temperatura (la presión no influye porque $\\Delta n_{gases} = 0$).",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser exotérmica, enfriar desplaza a la derecha. Como los moles gaseosos son iguales (2 a 2), la presión no altera el equilibrio."
+        },
+        {
+          "letter": "B",
+          "text": "Aumentar la temperatura y aumentar la presión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aumentar T desplaza a reactivos en reacciones exotérmicas."
+        },
+        {
+          "letter": "C",
+          "text": "Aumentar la presión para favorecer los productos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como $Delta n = 0$, la presión no modifica el equilibrio."
+        },
+        {
+          "letter": "D",
+          "text": "Añadir un catalizador para cambiar la constante $K_c$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El catalizador no modifica $K_c$ ni la posición final."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En reacciones exotérmicas, bajar T desplaza a productos. Como $Delta n_{gases} = 0$, los cambios de P no tienen efecto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v10",
+      "statement": "¿Qué se concluye sobre el signo del cambio de entalpía de disolución ($\\Delta H_{disolucion}$)?",
+      "context": "En Cartagena se analiza la disolución de cloruro de calcio ($CaCl_2$) en agua, la cual eleva la temperatura del agua de $25^\\circ\\text{C}$ a $45^\\circ\\text{C}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un proceso exotérmico ($\\Delta H < 0$), porque libera calor al entorno incrementando la temperatura.",
+          "is_correct": true,
+          "feedback": "Correcto. La liberación de energía reticular y de hidratación incrementa la temperatura de la solución."
+        },
+        {
+          "letter": "B",
+          "text": "Es un proceso endotérmico ($Delta H > 0$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los procesos endotérmicos absorben calor y enfrían el medio."
+        },
+        {
+          "letter": "C",
+          "text": "La entalpía de disolución es exactamente cero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si fuera cero, la temperatura no cambiaría."
+        },
+        {
+          "letter": "D",
+          "text": "La masa del recipiente se convirtió en gas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa del vaso y solución se mantiene."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El aumento de temperatura del medio indica que la reacción o proceso fisicoquímico es exotérmico ($Delta H < 0$).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.57,
+      "bundle_id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v11",
+      "statement": "Si la reacción sin enzima tarda 10 años y con enzima tarda 2 segundos, ¿qué parámetro del perfil de reacción alteró la lipasa?",
+      "context": "Se compara la digestión de triglicéridos en presencia y ausencia de lipasa pancreática a $37^\\circ\\text{C}$ en un tubo de ensayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuyó la energía de activación ($E_a$) ofreciendo una ruta alternativa más rápida sin modificar $\\Delta G$.",
+          "is_correct": true,
+          "feedback": "Correcto. Las enzimas aceleran la velocidad de reacción reduciendo la barrera de energía de activación."
+        },
+        {
+          "letter": "B",
+          "text": "Hizo que la reacción pasara de endotérmica a exotérmica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las enzimas no alteran la entalpía inicial ni final ($Delta H$)."
+        },
+        {
+          "letter": "C",
+          "text": "Aumentó la constante de equilibrio $K_c$ en un millón de veces.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las enzimas no alteran el equilibrio termodinámico final."
+        },
+        {
+          "letter": "D",
+          "text": "Aumentó la energía libre de los reactivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No modifica la energía libre del estado fundamental de reactivos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los catalizadores biológicos disminuyen la energía de activación ($E_a$) acelerando la velocidad sin cambiar $Delta G$ ni $K_{eq}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.54,
+      "bundle_id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la potencia media desarrollada por la fuerza neta durante esos 5 segundos?",
+      "context": "En Cali se estudia la gráfica de velocidad de un objeto de $4 \\text{ kg}$ acelerado por una fuerza neta. Su velocidad aumenta linealmente de $0$ a $10 \\text{ m/s}$ en $5 \\text{ s}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$40 \\text{ Vatios}$.",
+          "is_correct": true,
+          "feedback": "Correcto. $W_{neto} = \\Delta E_k = \\frac{1}{2}(4)(10^2) - 0 = 200 \\text{ J}$. Potencia media $= W/t = 200 / 5 = 40 \\text{ W}$."
+        },
+        {
+          "letter": "B",
+          "text": "$200 \\text{ Vatios}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el trabajo total en Julios, no la potencia en Vatios."
+        },
+        {
+          "letter": "C",
+          "text": "$80 \\text{ Vatios}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al no multiplicar por $\frac{1}{2}$ en la energía cinética."
+        },
+        {
+          "letter": "D",
+          "text": "$8 \\text{ Vatios}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la velocidad entre el tiempo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$Delta E_k = \frac{1}{2}(4)(100) = 200 \text{ J}$. Potencia $= 200 \text{ J} / 5 \text{ s} = 40 \text{ W}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.51,
+      "bundle_id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la masa molar aproximada de la proteína? (Considere $R = 0.0821 \\text{ L atm / (mol K)}$).",
+      "context": "En Bogotá se calcula la masa molar de una proteína desconocida midiendo la presión osmótica ($\\Pi = M R T$) de una solución de $2 \\text{ g}$ de proteína en $100 \\text{ mL}$ a $298 \\text{ K}$. Si $\\Pi = 0.0246 \\text{ atm}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$20,000 \\text{ g/mol}$.",
+          "is_correct": true,
+          "feedback": "Correcto. $M = \\Pi / (RT) = 0.0246 / (0.0821 \\times 298) = 0.0246 / 24.46 = 0.001 \\text{ M}$. Moles en $0.1 \\text{ L} = 0.0001 \\text{ mol}$. Masa molar $= 2 \\text{ g} / 0.0001 \\text{ mol} = 20,000 \\text{ g/mol}$."
+        },
+        {
+          "letter": "B",
+          "text": "$2000 \\text{ g/mol}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de un orden de magnitud en el volumen."
+        },
+        {
+          "letter": "C",
+          "text": "$500 \\text{ g/mol}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculó la masa molar como si fuera un monosacárido."
+        },
+        {
+          "letter": "D",
+          "text": "$100,000 \\text{ g/mol}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Errores en la conversión de atmósferas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Molaridad $= Pi / RT = 0.001 \text{ M}$. Moles en $0.1 \text{ L} = 10^{-4} \text{ mol}$. $MM = 2 \text{ g} / 10^{-4} \text{ mol} = 20,000 \text{ g/mol}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.48,
+      "bundle_id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v14",
+      "statement": "¿Por qué los ríos fríos de montaña contienen mayor concentración de oxígeno disuelto que los ríos cálidos de clima bajo?",
+      "context": "En Medellín se compara la solubilidad del oxígeno gas ($O_2$) en agua a $10^\\circ\\text{C}$ frente a $40^\\circ\\text{C}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La disolución de gases en líquidos es un proceso exotérmico; según Le Chatelier, bajar la temperatura desplaza el equilibrio aumentando la solubilidad.",
+          "is_correct": true,
+          "feedback": "Correcto. Al enfriar el agua, el equilibrio de solubilidad del gas se desplaza hacia la fase acuosa disuelta."
+        },
+        {
+          "letter": "B",
+          "text": "El frío destruye las moléculas de nitrógeno liberando oxígeno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La disolución de gases es un proceso de solvatación física."
+        },
+        {
+          "letter": "C",
+          "text": "El agua a $40^circ\text{C}$ reacciona químicamente convirtiendo el $O_2$ en sales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oxígeno no reacciona con el agua neutra pura."
+        },
+        {
+          "letter": "D",
+          "text": "A mayor temperatura la presión atmosférica se duplica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La solubilidad del gas depende de la temperatura y Henry."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La disolución de un gas libera calor ($Delta H_{sol} < 0$). Bajar la temperatura favorece la disolución del gas en agua.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.45,
+      "bundle_id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v15",
+      "statement": "¿Qué cantidad de trabajo realiza la fuerza sobre el bloque? (Considere $\\cos 60^\\circ = 0.5$).",
+      "context": "En un experimento en Tunja, se evalúa el trabajo realizado por una fuerza de $50 \\text{ N}$ que forma un ángulo de $60^\\circ$ con la horizontal para arrastrar un bloque $10 \\text{ m}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$250 \\text{ Julios}$.",
+          "is_correct": true,
+          "feedback": "Correcto. $W = F \\cdot d \\cdot \\cos(\\theta) = 50 \\text{ N} \\times 10 \\text{ m} \\times 0.5 = 250 \\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "$500 \\text{ Julios}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó multiplicar por el coseno del ángulo de $60^circ$."
+        },
+        {
+          "letter": "C",
+          "text": "$433 \\text{ Julios}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usó el seno de $60^circ$ en lugar del coseno."
+        },
+        {
+          "letter": "D",
+          "text": "$100 \\text{ Julios}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la fuerza entre el coseno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$W = F cdot d cdot cos 60^circ = 50 \times 10 \times 0.5 = 250 \text{ J}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.42,
+      "bundle_id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v16",
+      "statement": "¿Qué técnica analítica basada en el plano de la luz polarizada permite seguir cuantitativamente la mutarrotación de la glucosa?",
+      "context": "En Bucaramanga se analiza la mutarrotación de una solución de glucosa pura sintetizada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Polarimetría (medición de la rotación óptica especifica $[\\alpha]_D$).",
+          "is_correct": true,
+          "feedback": "Correcto. El polarímetro mide el ángulo de desviación del plano de luz polarizada producido por isómeros ópticos."
+        },
+        {
+          "letter": "B",
+          "text": "Cromatografía de gases con helio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La glucosa en solución acuosa no es volátil para cromatografía de gases directa."
+        },
+        {
+          "letter": "C",
+          "text": "Titulación de precipitados con nitrato de plata.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No mide la actividad óptica de los anómeros."
+        },
+        {
+          "letter": "D",
+          "text": "Calorimetría de barrido diferencial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mide cambios entálpicos, no la actividad óptica en solución."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La polarimetría mide la variación de la rotación óptica específica $[alpha]_D$ a medida que se alcanza el equilibrio anomérico.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.39,
+      "bundle_id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v17",
+      "statement": "Al comparar la eficiencia y factor de planta (disponibilidad), ¿por qué la micro-hidroeléctrica de flujo continuo supera a la fotovoltaica en disponibilidad nocturna?",
+      "context": "Un grupo interdisciplinario en Bogotá diseña una micro-planta hidroeléctrica y fotovoltaica integrada para una comunidad rural en el Chocó.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el flujo constante de río provee energía cinética ininterrumpida las 24 horas, mientras la fotovoltaica requiere almacenamiento por baterías.",
+          "is_correct": true,
+          "feedback": "Correcto. La disponibilidad hidroeléctrica es continua sin intermitencia solar nocturna."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la hidroeléctrica viola la Ley de Carnot generando energía infinita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas obedecen rigurosamente el principio de conservación de energía."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los paneles solares se destruyen de noche.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los paneles no se destruyen, solo carecen de radiación fotónica."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el agua de río no contiene átomos de carbono.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es irrelevante para la generación cinética/fotovoltaica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El recurso hídrico continuo genera potencia base las 24 horas sin depender de ciclos de radiación o baterías.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.35,
+      "bundle_id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v18",
+      "statement": "¿Cómo restablece el bicarbonato el pH plasmático a su rango normal ($7.35 - 7.45$) en el sistema tampón?",
+      "context": "En un hospital de Medellín se trata a un paciente con cetoacidosis diabética ($pH = 7.1$) mediante infusión de bicarbonato de sodio ($NaHCO_3$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta la concentración de $HCO_3^-$, desplazando el equilibrio $HCO_3^- + H^+ \\rightleftharpoons H_2CO_3$ a la derecha para neutralizar el exceso de $H^+$.",
+          "is_correct": true,
+          "feedback": "Correcto. El bicarbonato adicionado reacciona con los protones libres para formar ácido carbónico, reduciendo la acidez."
+        },
+        {
+          "letter": "B",
+          "text": "Destruye todos los glóbulos rojos para eliminar los protones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El bicarbonato es un tampón plasmático fisiológico seguro."
+        },
+        {
+          "letter": "C",
+          "text": "Inactiva el dióxido de carbono exhalado en los pulmones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ácido carbónico se convierte en $CO_2$ y se exhala."
+        },
+        {
+          "letter": "D",
+          "text": "Precipita el calcio en los riñones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El objetivo es amortiguar la concentración de protones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El $HCO_3^-$ captura el exceso de protones $H^+$ formando $H_2CO_3$, el cual se elimina como $CO_2$ por la respiración elevando el pH.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.32,
+      "bundle_id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v19",
+      "statement": "¿Qué ventaja técnico-económica aporta el uso de celulasas en el pretratamiento de la biomasa lignocelulósica?",
+      "context": "Un equipo en Cali evalúa la adición de enzimas celulasas en el proceso de producción de bioetanol a partir de bagazo de caña de azúcar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hidroliza los enlaces $\\beta(1\\rightarrow 4)$ de la celulosa liberando monómeros de glucosa fermentables por levaduras a etanol.",
+          "is_correct": true,
+          "feedback": "Correcto. Permite convertir el polímero estructural insoluble en azúcares fermentables aprovechables."
+        },
+        {
+          "letter": "B",
+          "text": "Convierte el etanol directamente en metales pesados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las enzimas catalizan reacciones bioquímicas específicas sin transmutación atómica."
+        },
+        {
+          "letter": "C",
+          "text": "Elimina la necesidad de utilizar agua en el fermentador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hidrólisis enzimática requiere un medio acuoso."
+        },
+        {
+          "letter": "D",
+          "text": "Destruye las levaduras para evitar que consuman azúcar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las levaduras son necesarias para transformar glucosa en etanol."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las celulasas despolimerizan la celulosa a glucosas sencillas que las levaduras fermentan a alcohol etílico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.28,
+      "bundle_id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v20",
+      "statement": "Si ocurre una fuga y el amoníaco líquido se evapora rápidamente a la atmósfera, ¿por qué el tanque sufre un enfriamiento criogénico severo?",
+      "context": "Se evalúa la seguridad de tanques industriales de amoníaco en Cartagena considerando el equilibrio de evaporación $NH_{3(l)} \\rightleftharpoons NH_{3(g)}$ ($Delta H_{vap} = +23.3 \\text{ kJ/mol}$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La vaporización es fuertemente endotérmica ($\\Delta H_{vap} > 0$) y absorbe una gran cantidad de calor del recipiente y líquido remanente.",
+          "is_correct": true,
+          "feedback": "Correcto. Las moléculas que se evaporan absorben la energía térmica del entorno para vencer las fuerzas intermoleculares."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el amoníaco reacciona con el aire emitiendo hielo congelante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enfriamiento es consecuencia directa del cambio de fase endotérmico."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la presión atmosférica destruye los nitrógenos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay destrucción atómica."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la velocidad de las moléculas en gas cae a cero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las moléculas en fase gaseosa ganan energía cinética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaporación rápida es endotérmica y requiere tomar calor del tanque, provocando una caída drástica de temperatura.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.25,
+      "bundle_id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

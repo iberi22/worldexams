@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-6-grade-11-subject-matematicas",
+    "generated_at": "2026-08-29T18:22:22.203Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\\log_{3}(x - 1) = 3$?",
+      "context": "Isabella en Manizales analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{3}(x - 1) = 3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "28",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición de logaritmo, $x - 1 = 3^{3} = 27$, por lo que $x = 27 + 1 = 28$."
+        },
+        {
+          "letter": "B",
+          "text": "33",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
+        },
+        {
+          "letter": "C",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó en lugar de sumar el término constante 1."
+        },
+        {
+          "letter": "D",
+          "text": "55",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{3}(x - 1) = 3$ equivale a $x - 1 = 3^{3} = 27$. Sumando 1 a ambos lados, obtenemos $x = 27 + 1 = 28$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\\log_{2}(x - 2) = 4$?",
+      "context": "Mateo en Santa Marta analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{2}(x - 2) = 4$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición de logaritmo, $x - 2 = 2^{4} = 16$, por lo que $x = 16 + 2 = 18$."
+        },
+        {
+          "letter": "B",
+          "text": "23",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
+        },
+        {
+          "letter": "C",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó en lugar de sumar el término constante 2."
+        },
+        {
+          "letter": "D",
+          "text": "34",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{2}(x - 2) = 4$ equivale a $x - 2 = 2^{4} = 16$. Sumando 2 a ambos lados, obtenemos $x = 16 + 2 = 18$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\\log_{3}(x - 3) = 5$?",
+      "context": "Sofia en Pasto analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{3}(x - 3) = 5$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "246",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición de logaritmo, $x - 3 = 3^{5} = 243$, por lo que $x = 243 + 3 = 246$."
+        },
+        {
+          "letter": "B",
+          "text": "251",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
+        },
+        {
+          "letter": "C",
+          "text": "243",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó en lugar de sumar el término constante 3."
+        },
+        {
+          "letter": "D",
+          "text": "489",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{3}(x - 3) = 5$ equivale a $x - 3 = 3^{5} = 243$. Sumando 3 a ambos lados, obtenemos $x = 243 + 3 = 246$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\\log_{2}(x - 4) = 2$?",
+      "context": "Diego en Bogotá analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{2}(x - 4) = 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición de logaritmo, $x - 4 = 2^{2} = 4$, por lo que $x = 4 + 4 = 8$."
+        },
+        {
+          "letter": "B",
+          "text": "13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó en lugar de sumar el término constante 4."
+        },
+        {
+          "letter": "D",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{2}(x - 4) = 2$ equivale a $x - 4 = 2^{2} = 4$. Sumando 4 a ambos lados, obtenemos $x = 4 + 4 = 8$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\\log_{3}(x - 5) = 3$?",
+      "context": "Valentina en Medellín analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{3}(x - 5) = 3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición de logaritmo, $x - 5 = 3^{3} = 27$, por lo que $x = 27 + 5 = 32$."
+        },
+        {
+          "letter": "B",
+          "text": "37",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
+        },
+        {
+          "letter": "C",
+          "text": "29",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó en lugar de sumar el término constante 5."
+        },
+        {
+          "letter": "D",
+          "text": "59",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{3}(x - 5) = 3$ equivale a $x - 5 = 3^{3} = 27$. Sumando 5 a ambos lados, obtenemos $x = 27 + 5 = 32$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\\log_{2}(x - 6) = 4$?",
+      "context": "Santiago en Cali analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{2}(x - 6) = 4$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "22",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición de logaritmo, $x - 6 = 2^{4} = 16$, por lo que $x = 16 + 6 = 22$."
+        },
+        {
+          "letter": "B",
+          "text": "27",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
+        },
+        {
+          "letter": "C",
+          "text": "19",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó en lugar de sumar el término constante 6."
+        },
+        {
+          "letter": "D",
+          "text": "38",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{2}(x - 6) = 4$ equivale a $x - 6 = 2^{4} = 16$. Sumando 6 a ambos lados, obtenemos $x = 16 + 6 = 22$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\\log_{3}(x - 7) = 5$?",
+      "context": "Mariana en Barranquilla analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{3}(x - 7) = 5$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "250",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición de logaritmo, $x - 7 = 3^{5} = 243$, por lo que $x = 243 + 7 = 250$."
+        },
+        {
+          "letter": "B",
+          "text": "255",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
+        },
+        {
+          "letter": "C",
+          "text": "247",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó en lugar de sumar el término constante 7."
+        },
+        {
+          "letter": "D",
+          "text": "493",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{3}(x - 7) = 5$ equivale a $x - 7 = 3^{5} = 243$. Sumando 7 a ambos lados, obtenemos $x = 243 + 7 = 250$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\\log_{2}(x - 8) = 2$?",
+      "context": "Juan en Bucaramanga analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{2}(x - 8) = 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición de logaritmo, $x - 8 = 2^{2} = 4$, por lo que $x = 4 + 8 = 12$."
+        },
+        {
+          "letter": "B",
+          "text": "17",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó en lugar de sumar el término constante 8."
+        },
+        {
+          "letter": "D",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{2}(x - 8) = 2$ equivale a $x - 8 = 2^{2} = 4$. Sumando 8 a ambos lados, obtenemos $x = 4 + 8 = 12$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\\log_{3}(x - 9) = 3$?",
+      "context": "Camila en Cartagena analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{3}(x - 9) = 3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "36",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición de logaritmo, $x - 9 = 3^{3} = 27$, por lo que $x = 27 + 9 = 36$."
+        },
+        {
+          "letter": "B",
+          "text": "41",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
+        },
+        {
+          "letter": "C",
+          "text": "33",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó en lugar de sumar el término constante 9."
+        },
+        {
+          "letter": "D",
+          "text": "63",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{3}(x - 9) = 3$ equivale a $x - 9 = 3^{3} = 27$. Sumando 9 a ambos lados, obtenemos $x = 27 + 9 = 36$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\\log_{2}(x - 10) = 4$?",
+      "context": "Alejandro en Pereira analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{2}(x - 10) = 4$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "26",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición de logaritmo, $x - 10 = 2^{4} = 16$, por lo que $x = 16 + 10 = 26$."
+        },
+        {
+          "letter": "B",
+          "text": "31",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
+        },
+        {
+          "letter": "C",
+          "text": "23",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó en lugar de sumar el término constante 10."
+        },
+        {
+          "letter": "D",
+          "text": "42",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{2}(x - 10) = 4$ equivale a $x - 10 = 2^{4} = 16$. Sumando 10 a ambos lados, obtenemos $x = 16 + 10 = 26$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\\log_{3}(x - 11) = 5$?",
+      "context": "Isabella en Manizales analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{3}(x - 11) = 5$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "254",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición de logaritmo, $x - 11 = 3^{5} = 243$, por lo que $x = 243 + 11 = 254$."
+        },
+        {
+          "letter": "B",
+          "text": "259",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
+        },
+        {
+          "letter": "C",
+          "text": "251",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó en lugar de sumar el término constante 11."
+        },
+        {
+          "letter": "D",
+          "text": "497",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{3}(x - 11) = 5$ equivale a $x - 11 = 3^{5} = 243$. Sumando 11 a ambos lados, obtenemos $x = 243 + 11 = 254$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\\log_{2}(x - 12) = 2$?",
+      "context": "Mateo en Santa Marta analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{2}(x - 12) = 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "16",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición de logaritmo, $x - 12 = 2^{2} = 4$, por lo que $x = 4 + 12 = 16$."
+        },
+        {
+          "letter": "B",
+          "text": "21",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
+        },
+        {
+          "letter": "C",
+          "text": "13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó en lugar de sumar el término constante 12."
+        },
+        {
+          "letter": "D",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{2}(x - 12) = 2$ equivale a $x - 12 = 2^{2} = 4$. Sumando 12 a ambos lados, obtenemos $x = 4 + 12 = 16$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\\log_{3}(x - 13) = 3$?",
+      "context": "Sofia en Pasto analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{3}(x - 13) = 3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición de logaritmo, $x - 13 = 3^{3} = 27$, por lo que $x = 27 + 13 = 40$."
+        },
+        {
+          "letter": "B",
+          "text": "45",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
+        },
+        {
+          "letter": "C",
+          "text": "37",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó en lugar de sumar el término constante 13."
+        },
+        {
+          "letter": "D",
+          "text": "67",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{3}(x - 13) = 3$ equivale a $x - 13 = 3^{3} = 27$. Sumando 13 a ambos lados, obtenemos $x = 27 + 13 = 40$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\\log_{2}(x - 14) = 4$?",
+      "context": "Diego en Bogotá analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{2}(x - 14) = 4$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición de logaritmo, $x - 14 = 2^{4} = 16$, por lo que $x = 16 + 14 = 30$."
+        },
+        {
+          "letter": "B",
+          "text": "35",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
+        },
+        {
+          "letter": "C",
+          "text": "27",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó en lugar de sumar el término constante 14."
+        },
+        {
+          "letter": "D",
+          "text": "46",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{2}(x - 14) = 4$ equivale a $x - 14 = 2^{4} = 16$. Sumando 14 a ambos lados, obtenemos $x = 16 + 14 = 30$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\\log_{3}(x - 15) = 5$?",
+      "context": "Valentina en Medellín analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{3}(x - 15) = 5$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "258",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición de logaritmo, $x - 15 = 3^{5} = 243$, por lo que $x = 243 + 15 = 258$."
+        },
+        {
+          "letter": "B",
+          "text": "263",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
+        },
+        {
+          "letter": "C",
+          "text": "255",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó en lugar de sumar el término constante 15."
+        },
+        {
+          "letter": "D",
+          "text": "501",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{3}(x - 15) = 5$ equivale a $x - 15 = 3^{5} = 243$. Sumando 15 a ambos lados, obtenemos $x = 243 + 15 = 258$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\\log_{2}(x - 16) = 2$?",
+      "context": "Santiago en Cali analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{2}(x - 16) = 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición de logaritmo, $x - 16 = 2^{2} = 4$, por lo que $x = 4 + 16 = 20$."
+        },
+        {
+          "letter": "B",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
+        },
+        {
+          "letter": "C",
+          "text": "17",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó en lugar de sumar el término constante 16."
+        },
+        {
+          "letter": "D",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{2}(x - 16) = 2$ equivale a $x - 16 = 2^{2} = 4$. Sumando 16 a ambos lados, obtenemos $x = 4 + 16 = 20$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\\log_{3}(x - 17) = 3$?",
+      "context": "Mariana en Barranquilla analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{3}(x - 17) = 3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "44",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición de logaritmo, $x - 17 = 3^{3} = 27$, por lo que $x = 27 + 17 = 44$."
+        },
+        {
+          "letter": "B",
+          "text": "49",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
+        },
+        {
+          "letter": "C",
+          "text": "41",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó en lugar de sumar el término constante 17."
+        },
+        {
+          "letter": "D",
+          "text": "71",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{3}(x - 17) = 3$ equivale a $x - 17 = 3^{3} = 27$. Sumando 17 a ambos lados, obtenemos $x = 27 + 17 = 44$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\\log_{2}(x - 18) = 4$?",
+      "context": "Juan en Bucaramanga analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{2}(x - 18) = 4$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "34",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición de logaritmo, $x - 18 = 2^{4} = 16$, por lo que $x = 16 + 18 = 34$."
+        },
+        {
+          "letter": "B",
+          "text": "39",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
+        },
+        {
+          "letter": "C",
+          "text": "31",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó en lugar de sumar el término constante 18."
+        },
+        {
+          "letter": "D",
+          "text": "50",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{2}(x - 18) = 4$ equivale a $x - 18 = 2^{4} = 16$. Sumando 18 a ambos lados, obtenemos $x = 16 + 18 = 34$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\\log_{3}(x - 19) = 5$?",
+      "context": "Camila en Cartagena analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{3}(x - 19) = 5$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "262",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición de logaritmo, $x - 19 = 3^{5} = 243$, por lo que $x = 243 + 19 = 262$."
+        },
+        {
+          "letter": "B",
+          "text": "267",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
+        },
+        {
+          "letter": "C",
+          "text": "259",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó en lugar de sumar el término constante 19."
+        },
+        {
+          "letter": "D",
+          "text": "505",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{3}(x - 19) = 5$ equivale a $x - 19 = 3^{5} = 243$. Sumando 19 a ambos lados, obtenemos $x = 243 + 19 = 262$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\\log_{2}(x - 20) = 2$?",
+      "context": "Alejandro en Pereira analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{2}(x - 20) = 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición de logaritmo, $x - 20 = 2^{2} = 4$, por lo que $x = 4 + 20 = 24$."
+        },
+        {
+          "letter": "B",
+          "text": "29",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
+        },
+        {
+          "letter": "C",
+          "text": "21",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó en lugar de sumar el término constante 20."
+        },
+        {
+          "letter": "D",
+          "text": "28",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{2}(x - 20) = 2$ equivale a $x - 20 = 2^{2} = 4$. Sumando 20 a ambos lados, obtenemos $x = 4 + 20 = 24$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W06-logaritmos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

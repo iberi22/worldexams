@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-18-grade-11-subject-lectura_critica",
+    "generated_at": "2026-08-29T18:22:22.193Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de los siguientes conectores restablece adecuadamente la relación de cohesión adversativa entre los dos enunciados?",
+      "context": "Lea el siguiente párrafo incompleto: \"El páramo de Sumapaz es el más grande del mundo. ______, enfrenta graves amenazas debido a la expansión no controlada de la frontera agrícola\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sin embargo",
+          "is_correct": true,
+          "feedback": "Correcto. \"Sin embargo\" es el conector adversativo que contrapone la importancia ecológica del páramo con la amenaza de degradación."
+        },
+        {
+          "letter": "B",
+          "text": "Por consiguiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Por consiguiente\" es un conector de consecuencia lógica, no de oposición o contraste."
+        },
+        {
+          "letter": "C",
+          "text": "Es decir",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Es decir\" introduce una explicación o equivalencia semántica y no un contraste."
+        },
+        {
+          "letter": "D",
+          "text": "Además",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Además\" es un conector aditivo que sumaría información en el mismo sentido sin marcar adversidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los conectores adversativos (sin embargo, no obstante, pero) garantizan la cohesión superficial al enlazar proposiciones que contraponen significados.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle-v2",
+      "statement": "La expresión destacada en negrita \"**Esta obra**\" cumple la función cohesiva de:",
+      "context": "Observe la relación anafórica en la oración: \"Gabriel García Márquez publicó *Cien años de soledad* en 1967. **Esta obra** inmortalizó el realismo mágico en la literatura universal\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una anáfora mediante un sintagma nominal demostrativo que retoma la novela mencionada previamente.",
+          "is_correct": true,
+          "feedback": "Correcto. La anáfora evita la repetición del título sustituyéndolo por un determinante demostrativo más sustantivo."
+        },
+        {
+          "letter": "B",
+          "text": "Una catáfora que anuncia un personaje nuevo que aparecerá en el siguiente párrafo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La catáfora anticipa elementos posteriores; aquí se refiere a algo ya nombrado (*Cien años de soledad*)."
+        },
+        {
+          "letter": "C",
+          "text": "Un conector de causa y efecto que explica el año de nacimiento del autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un nexo conjuntivo causal sino un mecanismo de referencia pronominal/nominal."
+        },
+        {
+          "letter": "D",
+          "text": "Una elipsis donde se omite completamente el verbo principal de la oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La elipsis consiste en suprimir elementos; aquí se introduce una frase sustitutiva explícita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La anáfora es un mecanismo de cohesión léxico-gramatical que permite aludir a una entidad mencionada anteriormente en el texto, garantizando la continuidad temática.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle-v3",
+      "statement": "El conector \"En consecuencia\" establece entre ambas oraciones una relación lógica de:",
+      "context": "Considere el texto: \"La deforestación destruye los bosques tropicales. En consecuencia, muchas especies de aves pierden su hábitat natural\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Causa y efecto, donde la pérdida de hábitat deriva de la destrucción de los bosques.",
+          "is_correct": true,
+          "feedback": "Correcto. \"En consecuencia\" señala que el segundo hecho es el resultado o efecto directo de la primera acción expuesta."
+        },
+        {
+          "letter": "B",
+          "text": "Condición hipotética que depende de un evento futuro impredecible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los conectores condicionales son \"si\", \"siempre que\"; aquí se afirma una relación causal directa."
+        },
+        {
+          "letter": "C",
+          "text": "Temporalidad simultánea entre dos acciones independientes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No marca simultaneidad de tiempo sino derivación de efecto."
+        },
+        {
+          "letter": "D",
+          "text": "Ejemplo figurativo sin ninguna relación semántica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay una ligazón lógica de derivación causal fundamental entre ambos enunciados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los conectores consecutivos o de consecuencia (en consecuencia, por lo tanto, por ende) estructuran el razonamiento causa-efecto en los textos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle-v4",
+      "statement": "En este pasaje se utiliza el recurso de cohesión denominado **elipsis** porque:",
+      "context": "Lea el fragmento: \"Los estudiantes llegaron al laboratorio. Sacaron las batas, limpiaron las mesas y comenzaron la titulación química\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se omite el sujeto (\"Los estudiantes\") en las oraciones siguientes para evitar repeticiones innecesarias.",
+          "is_correct": true,
+          "feedback": "Correcto. La elipsis de sujeto mantiene la referencia temática implícita sin necesidad de escribir \"Los estudiantes\" antes de cada verbo."
+        },
+        {
+          "letter": "B",
+          "text": "Se repite cinco veces el nombre del profesor a cargo del laboratorio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La elipsis consiste en la omisión y no en la repetición de palabras."
+        },
+        {
+          "letter": "C",
+          "text": "Se introduce un conector adversativo que contradice la primera frase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay conectores de oposición en el fragmento."
+        },
+        {
+          "letter": "D",
+          "text": "Se sustituyen los verbos de acción por adjetivos de color.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los verbos están presentes; lo que se elide es el sujeto pronominal/nominal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La elipsis es la supresión intencionada de elementos lingüísticos fácilmente deducibles por el contexto, evitando la redundancia y aligerando la lectura.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la secuencia de conectores que otorga coherencia y cohesión al texto?",
+      "context": "Determine qué grupo de conectores completa lógicamente el siguiente texto: \"El cambio climático avanza aceleradamente; ______, varios gobiernos continúan subsidiando los combustibles fósiles. ______, la emisión de gases de efecto invernadero sigue aumentando. ______, los científicos exigen acuerdos internacionales vinculantes\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "no obstante / Por esta razón / Por ello",
+          "is_correct": true,
+          "feedback": "Correcto. \"no obstante\" marca el contraste del subsidio; \"Por esta razón\" la consecuencia de emisiones; \"Por ello\" la conclusión con la exigencia científica."
+        },
+        {
+          "letter": "B",
+          "text": "es decir / Por ejemplo / Sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"es decir\" no encaja para contrastar el avance del cambio con la inacción estatal."
+        },
+        {
+          "letter": "C",
+          "text": "en primer lugar / porque / por el contrario",
+          "is_correct": false,
+          "feedback": "Incorrecto. Rompe la lógica deductiva y causal entre los párrafos del fragmento."
+        },
+        {
+          "letter": "D",
+          "text": "además / aunque / pero",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"además\" en la primera posición ignora el fuerte contraste entre la amenaza climática y los subsidios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La elección articulada de secuencias de conectores (adversativo + consecutivo + explicativo) garantiza la progresión temática fluida y coherente del texto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué este fragmento carece de **coherencia global**?",
+      "context": "Un texto argumentativo de un estudiante dice: \"La música popular colombiana es hermosa. Mi tío tiene una tienda de zapatos en el centro de Pereira. El café suave tiene un excelente precio en el mercado internacional\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque sus oraciones no comparten una unidad temática común ni un hilo conductor que las vincule.",
+          "is_correct": true,
+          "feedback": "Correcto. La coherencia exige que las proposiciones estén subordinadas a un tema o sentido global; saltar de la música a la zapatería y al café destruye el tema."
+        },
+        {
+          "letter": "B",
+          "text": "Porque no utiliza suficientes comas ni puntos seguidos en la puntuación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fallo no es superficial ni de puntuación gramatical sino de desconexión lógica y temática profunda."
+        },
+        {
+          "letter": "C",
+          "text": "Porque no cita a ningún autor extranjero de la Ilustración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Citar autores no otorga coherencia si las oraciones no guardan relación de sentido."
+        },
+        {
+          "letter": "D",
+          "text": "Porque fue escrito utilizando un procesador de texto digital.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La coherencia es una propiedad del significado del texto independientemente del medio de escritura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coherencia global es la propiedad semántica que hace que un texto sea percibido como una unidad con sentido, donde todos los párrafos aportan a un tema central.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle-v7",
+      "statement": "¿Qué tipo de relación concesiva o de oposición restrictiva se establece en la oración mediante la conjunción \"Aunque\"?",
+      "context": "Lea el enunciado: \"Aunque la inflación ha cedido en los últimos meses, los precios de los alimentos básicos no han bajado en los supermercados\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Señala un obstáculo o condición previa (la baja de la inflación) que no impide la realización del hecho principal (precios altos).",
+          "is_correct": true,
+          "feedback": "Correcto. Los conectores concesivos (aunque, aun cuando) introducen una objeción que no invalida el hecho de la oración principal."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que la inflación y los precios de alimentos son el mismo concepto económico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto los diferencia y contrapone su comportamiento."
+        },
+        {
+          "letter": "C",
+          "text": "Explica la causa biológica por la cual las personas consumen alimentos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tema es estrictamente económico y no de nutrición o biología humana."
+        },
+        {
+          "letter": "D",
+          "text": "Ordena en forma de lista alfabética los productos de la canasta familiar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ninguna lista alfabética de bienes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los conectores concesivos (como \"Aunque\") introducen una restricción que no llega a anular la verdad de la proposición dominante.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle-v8",
+      "statement": "La expresión \"**riqueza biológica**\" funciona cohesivamente como un:",
+      "context": "Analice la sustitución léxica en el fragmento: \"La **biodiversidad** del Chocó biogeográfico es extraordinaria. Esta **riqueza biológica** constituye un patrimonio natural de la humanidad\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sinónimo hiperonímico o sustituto léxico que evita la repetición exacta del término \"biodiversidad\".",
+          "is_correct": true,
+          "feedback": "Correcto. La sustitución por sinonimia o paráfrasis conceptual mantiene el referente temático enriqueciendo el vocabulario del escrito."
+        },
+        {
+          "letter": "B",
+          "text": "Antónimo absoluto que niega el valor ambiental de la región del Chocó.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase reafirma y destaca el valor biológico, no lo contradice."
+        },
+        {
+          "letter": "C",
+          "text": "Conector ilativo de consecuencia lógica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un sintagma nominal sustitutivo y no una conjunción o conector lógico."
+        },
+        {
+          "letter": "D",
+          "text": "Verbo en modo subjuntivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Riqueza biológica\" es un grupo nominal y no una forma verbal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La cohesión léxica mediante sinonimia, hiperonimia o paráfrasis permite mantener la continuidad referente sin incurrir en repeticiones léxicas monótonas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle-v9",
+      "statement": "Los marcadores \"**En primer lugar**\" y \"**En segundo lugar**\" cumplen la función cohesiva de:",
+      "context": "En un texto sobre el transporte en Bogotá se escribe: \"TransMilenio moviliza millones de pasajeros al día. **Sin embargo**, presenta problemas de hacinamiento. **En primer lugar**, la frecuencia de los buses es insuficiente en horas pico. **En segundo lugar**, las estaciones sufren de falta de espacio\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ordenar y estructurar la información en una secuencia organizativa de argumentos o evidencias.",
+          "is_correct": true,
+          "feedback": "Correcto. Los ordenadores del discurso o estructuradores de la información jerarquizan los puntos expresados en el texto."
+        },
+        {
+          "letter": "B",
+          "text": "Expresar una duda de carácter religioso sobre el transporte público.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No abordan aspectos religiosos sino la ordenación secuencial de deficiencias técnicas del servicio."
+        },
+        {
+          "letter": "C",
+          "text": "Concluir de forma precipitada el texto sin aportar datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los conectores abren y desarrollan la lista de razones; no son de cierre definitivo."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir el nombre de las estaciones de autobús por números de teléfono.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son organizadores textuales y no datos de contacto telefónico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los estructuradores de la información (en primer lugar, por último, a continuación) guían al lector a través del mapa del desarrollo argumentativo o expositivo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle-v10",
+      "statement": "Para mejorar la **cohesión y coherencia** entre la segunda y tercera oración del Párrafo A, se debería insertar el conector:",
+      "context": "Un estudiante escribe el siguiente Párrafo A: \"La educación virtual creció durante la pandemia. Esto facilitó el acceso a clases desde casa. Muchos estudiantes no contaban con computador ni internet\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No obstante",
+          "is_correct": true,
+          "feedback": "Correcto. Insertar \"No obstante\" explicita el fuerte contraste entre la facilidad teórica del acceso desde casa y la barrera real de conectividad."
+        },
+        {
+          "letter": "B",
+          "text": "En consecuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tener computador no es la consecuencia de facilitar el acceso desde casa, sino un obstáculo oposicional."
+        },
+        {
+          "letter": "C",
+          "text": "Por ejemplo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falta de equipos es una limitación adverso-contrastiva y no un ejemplo de haber facilitado el acceso."
+        },
+        {
+          "letter": "D",
+          "text": "Es decir",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se está refraseando la oración previa sino introduciendo la paradoja de la brecha digital."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Restablecer la cohesión exige identificar las grietas de significado entre proposiciones contiguas para insertar el conector que explicite la relación lógica oculta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle-v11",
+      "statement": "¿De qué manera el conector \"De ahí que\" garantiza la **coherencia proposicional** del cierre del fragmento?",
+      "context": "Analice el pasaje: \"La investigación científica requiere rigor metodológico y ética. Cuando los datos son falsificados para obtener financiamiento, la ciencia pierde su credibilidad ante la sociedad. De ahí que la honestidad intelectual sea el pilar insustituible del progreso académico\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Introduce la deducción necesaria derivada de la pérdida de credibilidad por fraude expuesta en la oración anterior.",
+          "is_correct": true,
+          "feedback": "Correcto. \"De ahí que\" opera como un marcador consecutivo-deductivo que vincula la consecuencia ética al diagnóstico de fraude precedente."
+        },
+        {
+          "letter": "B",
+          "text": "Contradice abiertamente la afirmación inicial sobre la necesidad del rigor metodológico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cierre reafirma y consolida el rigor inicial y no lo contradice."
+        },
+        {
+          "letter": "C",
+          "text": "Cambia repentinamente la temática hacia la venta de insumos de laboratorio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mantiene la unidad temática de la ética científica en el trabajo de investigación."
+        },
+        {
+          "letter": "D",
+          "text": "Añade una anécdota personal ficticia sobre un investigador colombiano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay una anécdota personal sino la formulación de un principio ético de cierre."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los conectores ilativos o consecutivos (de ahí que, por ende) aseguran la coherencia lógica interna al derivar principios generales a partir de la evidencia analizada.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle-v12",
+      "statement": "¿En qué consiste la ambigüedad cohesiva generada por el pronombre \"**Él**\"?",
+      "context": "Lea el siguiente párrafo donde se incurre en una falla de **referencia pronominal amibgua**: \"El ministro de Hacienda se reunió con el director del banco central. **Él** declaró que los tipos de interés subirían el próximo mes\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No permite determinar con certeza a cuál de los dos masculinos (el ministro o el director) se refiere la declaración.",
+          "is_correct": true,
+          "feedback": "Correcto. La presencia de dos antecedentes gramaticales masculinos en la frase anterior impide saber quién hizo la afirmación."
+        },
+        {
+          "letter": "B",
+          "text": "Transforma la oración en un poema en verso libre sobre los bancos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falla es de imprecisión pronominal anafórica y no de género literario."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que las tasas de interés son ilegales en Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema abordado es de análisis lingüístico-cohesivo y no de legalidad bancaria."
+        },
+        {
+          "letter": "D",
+          "text": "Modifica el significado de la palabra \"reunió\" por un sinónimo de conflicto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo no altera su sentido; el fallo es la referencia imprecisa del pronombre."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ambigüedad en la referencia anafórica ocurre cuando un pronombre posee dos o más antecedentes posibles en el texto, quebrantando la claridad del sentido.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle-v13",
+      "statement": "Desde la perspectiva de la **progreso temática y la coherencia global**, este texto sufre de:",
+      "context": "Observe la estructura temática del texto: \"Párrafo 1: Orígenes de la imprenta de Gutenberg en el siglo XV. Párrafo 2: Impacto del internet en la prensa del siglo XXI. Párrafo 3: Técnicas de fabricación de papel de arroz en la antigua China\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ruptura del hilo conductor e inserción de temas inconexos sin transiciones adecuadas.",
+          "is_correct": true,
+          "feedback": "Correcto. Saltar de Gutenberg a internet y luego a China sin conectores ni ejes ordenadores genera desarticulación temática."
+        },
+        {
+          "letter": "B",
+          "text": "Exceso de conectores explicativos y repetición monótona de sinónimos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema es la falta de unidad del plan temático y no el exceso de conectores."
+        },
+        {
+          "letter": "C",
+          "text": "Perfección narrativa absoluta propia de una novela histórica galardonada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falta de unidad temática evidencia una seria deficiencia estructural en la composición expositiva."
+        },
+        {
+          "letter": "D",
+          "text": "Errores exclusivamente ortográficos en el uso de las tildes diacríticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vicio es de estructuración temática profunda y no de acentuación gráfica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La progresión temática equilibrada exige que cada nuevo párrafo agregue información articulada con el tema central y con el párrafo que lo precede.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle-v14",
+      "statement": "El fallo de **coherencia entre el título y el cuerpo del texto** evidencia:",
+      "context": "Un texto argumentativo de opinión empieza diciendo en el título: \"En defensa de la inteligencia artificial en el arte\". Sin embargo, todos los párrafos del cuerpo se dedican a enumerar las demandas por plagio contra las empresas de software y la destrucción de empleos creativos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una contradicción estructural donde el desarrollo destruye la tesis formulada en el título.",
+          "is_correct": true,
+          "feedback": "Correcto. Si el título promete defender la IA pero el cuerpo recopila exclusivamente argumentos en contra, hay una incoherencia de propósito discursivo."
+        },
+        {
+          "letter": "B",
+          "text": "El uso adecuado de la ironía socrática para confundir a los jurados de la prueba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un fallo de consistencia entre tesis anunciada y contenido real, no una estrategia retórica justificada."
+        },
+        {
+          "letter": "C",
+          "text": "Una norma de estilo exigida a las noticias de la prensa gráfica en Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los titulares periodísticos deben guardar estricta correspondencia con el cuerpo de la noticia."
+        },
+        {
+          "letter": "D",
+          "text": "Una virtud de brevedad que facilita la lectura de los jóvenes en las redes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Romper la coherencia de sentido perjudica la comprensión de cualquier lector."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coherencia discursiva exige alineación rigurosa entre el contrato de lectura establecido en el título y el desarrollo argumentativo en el cuerpo del texto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle-v15",
+      "statement": "¿De qué manera interactúan las marcas cohesivas \"**Este proceso**\" y \"**Como resultado**\" en la construcción del pasaje?",
+      "context": "Lea el fragmento: \"Los arrecifes de coral están muriendo por el blanqueamiento. **Este proceso** ocurre cuando los corales expulsan a las algas simbióticas que viven en sus tejidos debido al aumento de la temperatura del agua. **Como resultado**, el ecosistema marino pierde su biodiversidad\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"**Este proceso**\" precisa anafóricamente el fenómeno del blanqueamiento, mientras \"**Como resultado**\" conecta la consecuencia ecológica global.",
+          "is_correct": true,
+          "feedback": "Correcto. La primera marca resuelve la referencia conceptual y la segunda establece la relación de causa-efecto final."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas marcas cumplen exactamente la misma función sintáctica de repetición del sujeto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen funciones distintas: una es de sustitución referencial anafórica y la otra es un conector consecutivo."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos conectores introducen opiniones personales del autor sin ninguna evidencia biológica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los conectores organizan un conocimiento de biología marina verificado de forma objetiva."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminan la necesidad de utilizar verbos en el resto del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las marcas cohesivas organizan las proposiciones verbales pero no las sustituyen."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la sinergia entre mecanismos referenciales (anáforas) y conectores lógicos revela cómo se teje la cohesión intra-párrafo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle-v16",
+      "statement": "La falta de un **párrafo de transición** entre ambos bloques produce un efecto discursivo de:",
+      "context": "En un ensayo académico se pasa de discutir la teoría del contrato social en Jean-Jacques Rousseau a analizar la tasa de interés del Banco de la República en 2024, sin ningún párrafo de transición ni justificación metodológica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ruptura o abismo conceptual que desconcierta al lector y quiebra la unidad del ensayo.",
+          "is_correct": true,
+          "feedback": "Correcto. La ausencia de puentes explicativos entre disciplinas disímiles genera un salto injustificado en el desarrollo del texto."
+        },
+        {
+          "letter": "B",
+          "text": "Agilidad comunicativa propia de la poesía vanguardista moderna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el texto expositivo-académico el salto inconexo destruye el rigor y no se justifica como licencia poética."
+        },
+        {
+          "letter": "C",
+          "text": "Demostración impecable de las matemáticas financieras aplicadas al derecho.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falta de transición justamente impide entender cuál es la posible relación entre ambos temas."
+        },
+        {
+          "letter": "D",
+          "text": "Cumplimiento estricto de las normas de citación APA.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las normas APA regulan la citación bibliográfica y no disimulan los vacíos de transición temática."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los párrafos de transición cumplen la función crucial de vincular bloques temáticos diversos, garantizando que el lector comprenda la relación entre las partes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle-v17",
+      "statement": "Al evaluar críticamente la calidad de este plan de gobierno, se deduce que:",
+      "context": "Un candidato a un cargo público presenta un plan de gobierno redactado con párrafos que inician todos con la frase: \"En lo que respecta a...\". El texto utiliza conectores sofisticados (\"no obstante\", \"por consiguiente\", \"en suma\"), pero al examinar las propuestas, se observa que son vagas y contradictorias entre sí.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantiene una apariencia superficial de cohesión (uso de conectores) que enmascara una falta de coherencia profunda de las propuestas.",
+          "is_correct": true,
+          "feedback": "Correcto. La cohesión es la estructura formal externa; un texto puede tener excelente cohesión gramatical y ser vacíamente incoherente en su contenido real."
+        },
+        {
+          "letter": "B",
+          "text": "Es un modelo de rigor técnico que debería ser imitado por todos los políticos del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vaguedad y contradicción de las propuestas anulan el valor de la propuesta de gobierno."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que la cohesión gramatical es completamente innecesaria para la redacción de leyes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cohesión es necesaria pero no suficiente si el contenido subyacente es incoherente."
+        },
+        {
+          "letter": "D",
+          "text": "Fue escrito por un equipo de lingüistas especializados en gramática generativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uso de conectores comodín es un vicio común en la retórica engañosa y no prueba rigor lingüístico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Diferenciar entre cohesión (forma gramatical externa) y coherencia (unidad de sentido profunda) permite evaluar críticamente textos con alta retórica pero escasa solidez lógica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle-v18",
+      "statement": "Al comparar el uso de los conectores en ambos diarios, se puede evaluar que:",
+      "context": "Dos periódicos relatan la misma reunión diplomática. El Periódico A utiliza conectores de adición y causa (\"y\", \"debido a que\") para mostrar un clima de diálogo continuo. El Periódico B utiliza conectores adversativos y de ruptura (\"sin embargo\", \"a pesar de la fricción\") para destacar las divergencias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La selección intencionada de marcas de cohesión (aditiva vs. adversativa) orienta la percepción política de la reunión en la audiencia.",
+          "is_correct": true,
+          "feedback": "Correcto. Los conectores no son marcas neutras; elegir resaltar el consenso (adición) o la tensión (adversidad) construye el enfoque ideológico de la noticia."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos periódicos son idénticos y no producen ningún efecto diferencial en los lectores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las marcas de cohesión seleccionadas modifican sustancialmente el encuadre político de la reunión."
+        },
+        {
+          "letter": "C",
+          "text": "El Periódico A fue escrito en inglés y el Periódico B fue traducido del alemán.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia radica en las decisiones editoriales sobre conectores en español."
+        },
+        {
+          "letter": "D",
+          "text": "Los conectores adversativos están prohibidos en la prensa diplomática internacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay prohibición sobre conectores; lo que se evalúa es el sesgo de la elección discursiva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar el papel ideológico de la cohesión permite comprender cómo la gramática de conectores moldea la interpretación del hecho periodístico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es la principal barrera de procesabilidad cognitiva que impone este escrito al lector?",
+      "context": "Un estudiante entrega un ensayo de 5 páginas sin una sola división de párrafo, escrito como un bloque gigantesco continuo de texto sin puntos aparte ni conectores entre oraciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Saturación visual y falta de segmentación de las unidades de pensamiento, lo que impide identificar la jerarquía y progresión temática del escrito.",
+          "is_correct": true,
+          "feedback": "Correcto. Los párrafos y puntos aparte funcionan como descansos cognitivos e indicadores de cambio de subtema; omitirlos ahoga la lectura."
+        },
+        {
+          "letter": "B",
+          "text": "Un error exclusivo de caligrafía que se resuelve cambiando el color de la tinta de la impresora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un fallo de maquetación textual e hiper-estructuración sintáctica y no de tinta física."
+        },
+        {
+          "letter": "C",
+          "text": "Demostración de genialidad literaria propia del monólogo interior de la novela del siglo XX.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el ensayo académico la falta de párrafos es una deficiencia técnica de redacción y no una licencia estética aceptable."
+        },
+        {
+          "letter": "D",
+          "text": "Violación de los derechos de autor de las enciclopedias digitales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Atenta contra la procesabilidad cognitiva del escrito y no contra la propiedad intelectual."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La división en párrafos y el uso de puntuación estructurante son herramientas indispensables para que el lector pueda procesar la información de forma ordenada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle-v20",
+      "statement": "¿Qué evaluación crítica sustenta la tesis del lingüista sobre el impacto de las plataformas digitales en la escritura?",
+      "context": "En un análisis sobre el discurso de las redes sociales, un lingüista afirma: \"El formato de comunicación mediante hilos de micro-mensajes (*threads*) fomenta una cohesión ultralocal entre frases inmediatas, pero sacrifica la coherencia global del razonamiento a largo plazo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Privilegia el encadenamiento veloz de respuestas inmediatas en detrimento de la articulación sintética y profunda de un argumento amplio.",
+          "is_correct": true,
+          "feedback": "Correcto. Los micro-mensajes enlazan bien la respuesta al tuit anterior (cohesión local), pero pierden el hilo del argumento matriz amplio (coherencia global)."
+        },
+        {
+          "letter": "B",
+          "text": "Prohíbe que los jóvenes utilicen el idioma español para escribir sus tareas escolares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El análisis se enfoca en la estructura lógica del formato de hilo y no en la prohibición del idioma."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que las redes sociales son invulnerables a las fallas de ortografía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto aborda la coherencia del pensamiento y no la corrección ortográfica de los tuits."
+        },
+        {
+          "letter": "D",
+          "text": "Afirma que los hilos de red social son idénticos a los libros de texto universitarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lingüista justamente contrapone la fragmentación del hilo frente al rigor amplio del libro estructurado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar las nuevas formas de escritura digital requiere analizar las tensiones entre la cohesión local rápida y la pérdida de la coherencia temática sostenida.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-11-2026-W18-coherencia-cohesion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

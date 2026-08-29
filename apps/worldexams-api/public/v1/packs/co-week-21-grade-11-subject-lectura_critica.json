@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-21-grade-11-subject-lectura_critica",
+    "generated_at": "2026-08-29T18:22:22.195Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la idea principal que transmite este aforismo sobre la relación entre lenguaje y realidad?",
+      "context": "Lea la famosa afirmación del filósofo Ludwig Wittgenstein en el *Tractatus Logico-Philosophicus*: \"Los límites de mi lenguaje significan los límites de mi mundo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El conocimiento y la conceptualización de la realidad están determinados por los recursos lingüísticos de los que disponemos.",
+          "is_correct": true,
+          "feedback": "Correcto. Lo que no podemos nombrar o conceptualizar mediante el lenguaje queda fuera de nuestro horizonte de representación del mundo."
+        },
+        {
+          "letter": "B",
+          "text": "Los lenguajes humanos deben ser reemplazados por señas corporales en todas las escuelas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Wittgenstein analiza el alcance epistemológico del lenguaje verbal y no propone su abolición por señas."
+        },
+        {
+          "letter": "C",
+          "text": "El tamaño de los diccionarios impresos determina la superficie geográfica de un país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los límites son de representación del mundo mental y no de fronteras terrestres físicas."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los idiomas del mundo poseen exactamente el mismo número de palabras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aforismo atañe al límite del pensamiento expresable y no a un recuento de vocabulario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender la filosofía del lenguaje implica examinar cómo la estructura del lenguaje configura las fronteras de nuestro pensamiento y percepción de la realidad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle-v2",
+      "statement": "En la palabra escrita \"ÁRBOLES\", la secuencia de letras \"Á-R-B-O-L-E-S\" constituye el:",
+      "context": "Ferdinand de Saussure, en su *Curso de lingüística general*, define el signo lingüístico como la unión indisoluble entre un **significante** (la imagen acústica o forma de la palabra) y un **significado** (el concepto mental asociado).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Significante del signo lingüístico.",
+          "is_correct": true,
+          "feedback": "Correcto. La forma gráfica o la imagen acústica de la palabra es el significante; la idea mental del vegetal frondoso es el significado."
+        },
+        {
+          "letter": "B",
+          "text": "Significado abstracto de la fotosíntesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El significado es la representación mental del concepto y no la cadena de letras escrita."
+        },
+        {
+          "letter": "C",
+          "text": "Referente físico real de madera en el bosque.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El objeto físico del bosque es el referente extralingüístico, no el significante."
+        },
+        {
+          "letter": "D",
+          "text": "Conector adversativo de causa y efecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un sustantivo común en su dimensión de significante gráfico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La distinción saussureana entre significante (la huella fónica o gráfica) y significado (el concepto mental) es el pilar de la semiótica moderna.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle-v3",
+      "statement": "Nietzsche sostiene que lo que llamamos \"verdad\" es fundamentalmente una construcción de tipo:",
+      "context": "Friedrich Nietzsche escribió en *Sobre verdad y mentira en sentido extramundano*: \"¿Qué es entonces la verdad? Una hueste en movimiento de metáforas, metonimias y antropomorfismos; en suma, una suma de relaciones humanas que han sido realzadas, traducidas y adornadas poéticamente\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metafórica y lingüística consolidada por la costumbre y el uso social.",
+          "is_correct": true,
+          "feedback": "Correcto. Para Nietzsche la verdad no es un reflejo neutro de las cosas en sí, sino una ilusión olvidada creada mediante figuras del lenguaje."
+        },
+        {
+          "letter": "B",
+          "text": "Matemática e incontrovertible validada por mediciones absolutas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Critica justamente la noción de verdad neutra o matemática, mostrándola como lenguaje metafórico."
+        },
+        {
+          "letter": "C",
+          "text": "Revelada de forma mística sin intervención del cerebro humano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Afirma que es una creación de relaciones humanas y traducciones poéticas."
+        },
+        {
+          "letter": "D",
+          "text": "Biológica producida por las células del hígado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La verdad se analiza en el terreno de la semiótica y las metáforas culturales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La perspectiva nietzscheana cuestiona la verdad objetiva para poner al descubierto el carácter metabólico y poético de los conceptos lingüísticos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle-v4",
+      "statement": "Este tipo de enunciado que realiza una acción al ser pronunciado se denomina acto de habla:",
+      "context": "En la teoría de los actos de habla de John L. Austin, cuando un juez afirma en una audiencia: \"Declaró abierta la sesión\", el enunciado no está describiendo un hecho previo, sino ejecutando la acción misma de abrir el acto jurídico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Realizativo o performativo.",
+          "is_correct": true,
+          "feedback": "Correcto. Los enunciados performativos no dicen verdades o falsedades descriptivas, sino que efectúan la acción que nombran al ser pronunciados."
+        },
+        {
+          "letter": "B",
+          "text": "Constatativo o descriptivo puro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los constatativos describen estados de cosas (ej. \"el cielo es azul\"); los performativos hacen cosas con palabras."
+        },
+        {
+          "letter": "C",
+          "text": "Poético de ficción romántica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un acto de habla institucional y normativo en el ámbito del derecho."
+        },
+        {
+          "letter": "D",
+          "text": "Silogismo inductivo de física nuclear.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un razonamiento inductivo científico sino una declaración de autoridad institucional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La teoría performativa de Austin demuestra que el lenguaje no solo describe el mundo, sino que opera como un dispositivo de acción que transforma la realidad social.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle-v5",
+      "statement": "Según el análisis lógico del lenguaje, la frase resulta problemática porque:",
+      "context": "Bertrand Russell distinguió entre dos expresiones: \"El actual Rey de Francia es calvo\". Dado que en la actualidad Francia es una república y no tiene rey, la frase plantea un problema de referencia y valor de verdad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presupone la existencia de una entidad (el Rey de Francia) que no posee un referente en el mundo real.",
+          "is_correct": true,
+          "feedback": "Correcto. Asignar propiedades (\"es calvo\") a una entidad inexistente rompe la condición de referencia lógica de la oración."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que la calvicie es una enfermedad hereditaria de los monarcas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema es de semántica lógica y existencia del referente, no de medicina biológica."
+        },
+        {
+          "letter": "C",
+          "text": "Fue traducida de manera incorrecta del idioma alemán al español.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dilema se mantiene en cualquier idioma porque el referente histórico no existe hoy."
+        },
+        {
+          "letter": "D",
+          "text": "Exige que Francia reinstaure la monarquía absoluta de inmediato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un ejemplo clásico de la filosofía analítica del lenguaje y no una propuesta de reforma política."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis lógico-semántico de la referencia investiga cómo las descripciones definidas relacionan el lenguaje con la existencia real de los objetos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle-v6",
+      "statement": "Si el significado depende del \"uso en el contexto\", la palabra \"agua\" expresada por un físico en un laboratorio difiere de la misma palabra expresada por un sediento en el desierto porque:",
+      "context": "En sus *Investigaciones filosóficas*, el segundo Wittgenstein abandona la idea de un lenguaje perfecto y propone el concepto de **juegos de lenguaje**, afirmando que \"el significado de una palabra es su uso en el lenguaje\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cumplen funciones discursivas y pragmáticas distintas dentro de reglas de juego diferentes (descripción científica vs. petición de auxilio).",
+          "is_correct": true,
+          "feedback": "Correcto. En el laboratorio \"agua\" es la fórmula H2O; en el desierto es una llamada desesperada de supervivencia. El uso determina el sentido."
+        },
+        {
+          "letter": "B",
+          "text": "La molécula de agua cambia sus átomos de hidrógeno en el desierto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estructura química de la sustancia no cambia; lo que cambia es la función comunicativa y pragmática de la palabra."
+        },
+        {
+          "letter": "C",
+          "text": "El científico no sabe el significado en español de la sustancia líquida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos hablantes conocen la sustancia; lo que varía es el juego de lenguaje en que se inserta el enunciado."
+        },
+        {
+          "letter": "D",
+          "text": "Wittgenstein afirma que las palabras no significan nada en ningún contexto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Wittgenstein afirma que sí significan, pero que su significado está dado por la praxis comunicativa (el uso)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El giro pragmático de los \"juegos de lenguaje\" enseña que las palabras adquieren su sentido preciso según las reglas y necesidades del contexto en que se emplean.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle-v7",
+      "statement": "Aplicar la deconstrucción a un ensayo político sobre la \"Libertad\" implicaría:",
+      "context": "Jacques Derrida propuso el concepto de **deconstrucción**, señalando que los textos no poseen un significado único, fijo y cerrado, sino que están permeados por contradicciones internas y vacíos que permiten múltiples lecturas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Revelar los supuestos no dichos, paradojas y exclusiones en los que descansa la definición de libertad propuesta por el autor.",
+          "is_correct": true,
+          "feedback": "Correcto. Deconstruir no es destruir el texto sino desarmar sus oposiciones binarias y presupuestos para mostrar sus grietas conceptuales."
+        },
+        {
+          "letter": "B",
+          "text": "Quemar el libro físico para impedir que los ciudadanos lean ideas políticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La deconstrucción es un método de lectura y análisis crítico, no un acto de censura o violencia material."
+        },
+        {
+          "letter": "C",
+          "text": "Memorizar de forma alfabética todas las palabras del ensayo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La memorización acrítica es lo opuesto al ejercicio analítico deconstruccionista."
+        },
+        {
+          "letter": "D",
+          "text": "Traducir el texto al latín clásico para asegurar que su significado se congele para siempre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Derrida rechaza justamente la idea de significados congelados o absolutos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La deconstrucción como estrategia de lectura crítica examina las tensiones ocultas, las jerarquías de conceptos y las contradicciones de los textos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle-v8",
+      "statement": "La respuesta \"El panadero acaba de abrir\" transmite información útil gracias a que:",
+      "context": "En la teoría de Paul Grice sobre las **implicaturas conversacionales**, cuando una persona le pregunta a su amigo: \"¿Tienes hora?\" y este responde: \"El panadero acaba de abrir\", no hay una respuesta literal, pero hay comunicación efectiva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El oyente realiza una inferencia pragmática basada en el Principio de Cooperación y el conocimiento compartido de la rutina del barrio.",
+          "is_correct": true,
+          "feedback": "Correcto. El oyente deduce que abrir la panadería equivale a una hora aproximada (ej. 6:00 a.m.), descifrando la implicatura implícita."
+        },
+        {
+          "letter": "B",
+          "text": "El panadero es un experto relojero que vende relojes de pared.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La respuesta apela al hábito temporal de apertura y no a la venta de instrumentos de hora."
+        },
+        {
+          "letter": "C",
+          "text": "La pregunta era una clave secreta de una novela de espionaje internacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un ejemplo cotidiano de cómo desciframos sentidos no literales en la conversación común."
+        },
+        {
+          "letter": "D",
+          "text": "El amigo cometió un error grave de gramática al responder una incoherencia absoluta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una incoherencia sino una respuesta indirecta comprensible por la implicatura conversacional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las implicaturas de Grice explican cómo los hablantes comunican mucho más de lo que dicen literalmente apoyándose en el contexto y la cooperación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle-v9",
+      "statement": "Esta postura innatista de Chomsky se opone a la visión según la cual el lenguaje es:",
+      "context": "Noam Chomsky postuló la existencia de una **Gramática Universal**, argumentando que los seres humanos nacemos con una facultad del lenguaje innata que nos permite adquirir cualquier lengua con pasmosa rapidez a partir de estímulos finitos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una mera conducta aprendida desde cero exclusivamente por repetición e imitación del entorno (conductismo).",
+          "is_correct": true,
+          "feedback": "Correcto. Chomsky combate el empirismo/conductismo radical de Skinner al demostrar que la mente posee estructuras lingüísticas innatas."
+        },
+        {
+          "letter": "B",
+          "text": "Una capacidad presente en todos los seres humanos del planeta Tierra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Chomsky reafirma la universalidad humana de la facultad del lenguaje."
+        },
+        {
+          "letter": "C",
+          "text": "Un sistema de signos que utiliza sonidos articulados para comunicar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nativismo chomskiano valida la articulación fónica; lo que objeta es el aprendizaje por tabla rasa."
+        },
+        {
+          "letter": "D",
+          "text": "Una invención reciente del siglo XXI ligada a los teléfonos inteligentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Chomsky sostiene que es una facultad biológica de la especie evolucionada hace milenios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El debate entre el nativismo chomskiano (facultad innata) y el conductismo (aprendizaje por imitación) es un eje temático de la lingüística cognitiva.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle-v10",
+      "statement": "A partir de la noción de *episteme* de Foucault, se deduce que los enunciados científicos del pasado:",
+      "context": "Michel Foucault argumentó en *Las palabras y las cosas* que el lenguaje de cada época histórica está configurado por una **episteme**, es decir, un marco inconsciente de reglas que determina qué es posible pensar, decir o saber en ese tiempo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Deben analizarse dentro de las reglas de pensamiento de su época y no juzgarse solo desde los prejuicios del presente.",
+          "is_correct": true,
+          "feedback": "Correcto. La episteme exige comprender la estructura del saber propia de cada período histórico sin anacronismos."
+        },
+        {
+          "letter": "B",
+          "text": "Eran verdades absolutas escritas por divinidades inmortales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Foucault demuestra la historicidad y relatividad de las construcciones del saber humano."
+        },
+        {
+          "letter": "C",
+          "text": "Carecen de todo interés porque los científicos antiguos eran personas ignorantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La episteme estudia la riqueza de los sistemas de saber históricos sin descalificaciones del presente."
+        },
+        {
+          "letter": "D",
+          "text": "Fueron redactados mediante inteligencia artificial en secreto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El análisis foucaultiano aborda los regímenes históricos del discurso humano y sus instituciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La arqueología del saber de Foucault analiza cómo las estructuras del discurso e instituciones de cada época delimitan lo que se considera \"verdad\".",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle-v11",
+      "statement": "¿Por qué este enunciado constituye una paradoja autorreferencial cuando es pronunciado por Epiménides (quien es cretense)?",
+      "context": "Lea la siguiente paradoja del filósofo Epiménides el cretense: \"Todos los cretenses son unos mentirosos\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Si la frase es verdadera, Epiménides miente, luego es falsa; si es falsa, Epiménides dice la verdad, luego es verdadera.",
+          "is_correct": true,
+          "feedback": "Correcto. La autorreferencia crea un bucle lógico donde la verdad de la premisa implica su falsedad y viceversa."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los habitantes de la isla de Creta no hablaban ningún idioma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cretenses hablaban griego; la paradoja es de valor de verdad lógico autorreferencial."
+        },
+        {
+          "letter": "C",
+          "text": "Porque demuestra que las mentiras son ilegales en los tribunales griegos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dilema no es de código penal sino de la estructura formal de los enunciados que se refieren a sí mismos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque utiliza conectores gramaticales propios de la poesía épica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vicio o paradoja reside en la autorreferencia de la verdad y no en el estilo poético."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El estudio de las paradojas semánticas autorreferenciales analiza las limitaciones de la lógica formal en los lenguajes naturales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la implicación cultural de la hipótesis de la relatividad lingüística?",
+      "context": "En la teoría de la **hipótesis Sapir-Whorf** (relatividad lingüística), se sostiene que la estructura de la lengua materna influye de forma decisiva en los patrones de pensamiento y en la forma en que los hablantes perciben el mundo (por ejemplo, lenguas con decenas de nombres para el color blanco/nieve).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la diversidad de idiomas refleja diferentes modos de estructurar la experiencia y la categorización de la realidad.",
+          "is_correct": true,
+          "feedback": "Correcto. Sapir y Whorf sostienen que hablar lenguas distintas implica habitar mundos perceptivos levemente diferentes."
+        },
+        {
+          "letter": "B",
+          "text": "Que solo las lenguas europeas son capaces de expresar pensamientos lógicos de alta complejidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hipótesis rechaza las jerarquías etnocéntricas y postula que cada lengua categoriza la realidad de forma rica."
+        },
+        {
+          "letter": "C",
+          "text": "Que los colores no existen en la naturaleza física y son invenciones oculares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No niega la física de la luz sino que estudia cómo cada lengua segmenta y nombra el espectro cromático."
+        },
+        {
+          "letter": "D",
+          "text": "Que la traducción perfecta entre dos idiomas es un trámite automático de computadora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relatividad muestra justamente la dificultad de traducir cosmovisiones intrincadas entre lenguas distantes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La hipótesis Sapir-Whorf examina la intersección entre lingüística, antropología y cognición, mostrando el papel de la lengua en la percepción cultural.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle-v13",
+      "statement": "¿En qué radica la diferencia de **Sentido** entre ambas expresiones según la teoría de Frege?",
+      "context": "Gottlob Frege introdujo la distinción entre **Sentido** (*Sinn*) y **Referencia** (*Bedeutung*). Las expresiones \"El lucero del alba\" y \"El lucero del atardecer\" nombran al mismo planeta (Venus), por lo que tienen la misma referencia, pero distintos sentidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el modo de presentación o perspectiva cognitiva a través de la cual se da a conocer el objeto (mañana vs. tarde).",
+          "is_correct": true,
+          "feedback": "Correcto. El Sentido es la forma o ruta informativa en que el objeto es presentado a la mente, aunque la entidad física (Venus) sea la misma."
+        },
+        {
+          "letter": "B",
+          "text": "En que una expresión es verdadera y la otra es una mentira astronómica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas expresiones son astronómicamente verdaderas sobre el planeta Venus."
+        },
+        {
+          "letter": "C",
+          "text": "En que el planeta Venus desaparece del sistema solar durante el mediodía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El planeta permanece; lo que cambia es la visibilidad según el momento del día."
+        },
+        {
+          "letter": "D",
+          "text": "En que una frase está en idioma latín y la otra en idioma griego antiguo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distinción fregeana es de semántica filosófica (modo de presentación) y no de idioma."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La distinción fregeana entre sentido (modo de dar el objeto) y referencia (el objeto mismo) es clave en la semántica de las descripciones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle-v14",
+      "statement": "Al analizar un discurso político a la luz de la teoría bajtiniana, se comprende que el orador:",
+      "context": "Mikhail Bakhtin introdujo el concepto de **intertextualidad** y **polifonía**, sosteniendo que ningún enunciado es completamente original, sino que todo discurso es una respuesta a discursos anteriores y una anticipación de discursos futuros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Modula su voz tejiendo un diálogo implícito con las voces, prejuicios y expectativas de la tradición de su comunidad.",
+          "is_correct": true,
+          "feedback": "Correcto. La polifonía bajtiniana demuestra que en la voz de un solo hablante resuenan y responden múltiples voces sociales."
+        },
+        {
+          "letter": "B",
+          "text": "Inventa por primera vez en la historia todas las palabras que pronuncia en la plaza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bakhtin rechaza el mito de la adánida originalidad absoluta; nos servimos de palabras cargadas de usos previos."
+        },
+        {
+          "letter": "C",
+          "text": "Habla en un idioma desconocido para que nadie entienda su propuesta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diálogo polifónico busca la resonancia social con la cultura de los oyentes."
+        },
+        {
+          "letter": "D",
+          "text": "Utiliza un altavoz electrónico de alta potencia para acallar a los opositores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La polifonía es un concepto semiótico-discursivo de resonancia de voces y no un volumen físico del sonido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La polifonía y el dialogismo bajtiniano revelan que los textos son cruces de voces sociales en constante interacción histórica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle-v15",
+      "statement": "En la frase periodística \"El candidato sufrió un naufragio electoral en las urnas\", la palabra \"naufragio\" opera en nivel:",
+      "context": "Considere la distinción entre **lenguaje denotativo** (significado literal y objetivo del diccionario) y **lenguaje connotativo** (significados figurados, afectivos o culturales añadidos).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Connotativo y metafórico, al trasladar el concepto de la catástrofe marítima a la derrota política masiva.",
+          "is_correct": true,
+          "feedback": "Correcto. No hubo un hundimiento de barcos reales en las urnas; se aplica figurativamente el sentido del desastre naval a las votaciones."
+        },
+        {
+          "letter": "B",
+          "text": "Denotativo y literal, indicando que las urnas estaban llenas de agua de mar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lectura denotativa literal sería absurda en el contexto del escrutinio electoral."
+        },
+        {
+          "letter": "C",
+          "text": "Matemático abstracto en forma de ecuación cuadrática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una metáfora del lenguaje periodístico connotativo y no una fórmula algebraica."
+        },
+        {
+          "letter": "D",
+          "text": "Gramatical de verbo en participio pasado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Naufragio\" es un sustantivo común funcionando como núcleo de la metáfora."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Diferenciar entre denotación (literalidad) y connotación (sentido figurado cultural) es clave para desentrañar la retórica de la prensa y la literatura.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle-v16",
+      "statement": "La idea de la \"máquina perezosa\" implica que la lectura es un proceso:",
+      "context": "El filósofo Umberto Eco, en *Lector in fabula*, afirma que el texto es una \"máquina perezosa\" que exige la cooperación interpretativa del lector para llenar los espacios en blanco o \"baches de significado\" que el autor no explicitó.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Activo y co-creador, donde el lector actualiza el sentido del texto aportando sus propios conocimientos previos.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto no lo dice todo; el lector debe realizar inferencias y actualizar los implícitos para que el texto funcione."
+        },
+        {
+          "letter": "B",
+          "text": "Pasivo y receptivo, donde el lector se limita a memorizar mecánicamente los signos gráficos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eco rechaza la lectura pasiva; la metáfora exige la cooperación activa del lector para dotar de vida al texto."
+        },
+        {
+          "letter": "C",
+          "text": "Inútil, porque los textos no contienen ninguna información relevante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eco defiende la riqueza de la interpretación guiada por las pistas del texto."
+        },
+        {
+          "letter": "D",
+          "text": "Exclusivo de las personas que escriben diccionarios de la lengua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda lectura de cualquier ciudadano requiere de este trabajo cooperativo de inferencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La teoría de la recepción de Umberto Eco concibe al lector como un agente activo que reconstruye y completa el significado del texto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle-v17",
+      "statement": "Al evaluar este fenómeno desde la semántica política y la filosofía del lenguaje, se evidencia que:",
+      "context": "Durante un conflicto armado, un medio estatal llama a los combatientes propios \"héroes de la libertad\" y a los rivales \"hordas terroristas\". Un medio opositor invierte los términos etiquetando a los primeros de \"fuerzas de ocupación\" y a los segundos de \"ejército de liberación\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El lenguaje no es un espejo neutro sino un campo de batalla ideológico donde las etiquetas construyen legitimidad o descalificación moral.",
+          "is_correct": true,
+          "feedback": "Correcto. La nominación léxica de los actores de un conflicto impone una valoración ética e ideológica de la violencia."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos medios de comunicación utilizan el Diccionario de la RAE con absoluta imparcialidad científica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La selección léxica evidencia un uso marcadamente ideológico y sesgado por ambas partes."
+        },
+        {
+          "letter": "C",
+          "text": "El significado de las palabras está determinado por las leyes de la física gravitacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje político es una construcción socio-discursiva y no un fenómeno gravitatorio."
+        },
+        {
+          "letter": "D",
+          "text": "Los nombres asignados a los grupos armados no ejercen ningún impacto en la opinión pública.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La forma de nombrar moldea profundamente la aprobación o condena de la sociedad frente a la guerra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación crítica del lenguaje político revela cómo la lucha por el significado de las palabras es una extensión discursiva de los conflictos de poder.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es la premisa sobre la relación entre lenguaje y pensamiento que sustenta el proyecto totalitario de la Neolengua?",
+      "context": "En la novela *1984* de George Orwell, el régimen autoritario crea la **Neolengua**, una versión reducida del idioma en la que se han eliminado palabras como \"libertad\", \"rebelión\" o \"igualdad\", con el propósito explícito de imposibilitar el pensamiento disidente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que al eliminar las palabras que nombran los conceptos críticos se suprime la capacidad misma de concebir ideas de resistencia.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la versión extrema del determinismo lingüístico: si el concepto no existe en el vocabulario permitida, el pensamiento rebelde no se puede formular."
+        },
+        {
+          "letter": "B",
+          "text": "Que la reducción del diccionario ahorra costos de impresión al gobierno totalitario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El objetivo es el control del pensamiento y la erradicación del disenso político, no el papel."
+        },
+        {
+          "letter": "C",
+          "text": "Que los ciudadanos leen con mayor rapidez los textos de leyes breves.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una medida de velocidad lectora sino un mecanismo de ingeniería social y dominación mental."
+        },
+        {
+          "letter": "D",
+          "text": "Que el idioma inglés debió ser sustituido por el idioma esperanto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El proyecto orwelliano manipula la lengua propia para anular la crítica política."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis de la Neolengua orwelliana aborda el peligro del determinismo lingüístico autoritario usado como herramienta de control del pensamiento.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle-v19",
+      "statement": "Desde la filosofía del lenguaje y la sociolingüística, ¿cuál es el núcleo de este debate contemporáneo?",
+      "context": "Un movimiento social propone modificar el lenguaje institucional introduciendo marcas inclusivas de género (como el uso del desdoblamiento \"los y las\" o morfemas neutros), argumentando que \"lo que no se nombra no existe en la conciencia pública\". Sus críticos afirman que \"la gramática no cambia la realidad social\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tensión entre la función del lenguaje como reproductor de las estructuras sociales preexistentes y su potencial como agente de transformación cultural.",
+          "is_correct": true,
+          "feedback": "Correcto. Enfrenta la postura de que el lenguaje refleja el orden social (y cambiarlo visibiliza a los excluidos) frente a la idea de que la gramática es autónoma de la reforma política."
+        },
+        {
+          "letter": "B",
+          "text": "Una discusión técnica sobre el uso de la tinta de color en los documentos impresos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El debate es sobre visibilización de género y reforma social del lenguaje, no sobre la imprenta."
+        },
+        {
+          "letter": "C",
+          "text": "La exigencia de que todas las universidades cierren sus facultades de lingüística.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El debate enriquece los estudios lingüísticos y de ciencias sociales."
+        },
+        {
+          "letter": "D",
+          "text": "La demostración de que el idioma español carece de normas gramaticales escritas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El español posee normas académicas; la discusión gira sobre la evolución consciente y la inclusión social del uso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar los debates sobre el lenguaje inclusivo exige ponderar las visiones sobre el poder simbólico del nombrar en la visibilización de los sujetos sociales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle-v20",
+      "statement": "¿Qué desafío filosófico plantea la producción de texto por IA a la teoría del significado y la comunicación humana?",
+      "context": "En la era de la inteligencia artificial generativa, modelos de lenguaje grandes (LLMs) como ChatGPT producen textos coherentes, poemas y ensayos combinando probabilidades estadísticas de palabras sin poseer conciencia, intencionalidad ni experiencia del mundo real.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuestiona la tesis tradicional de que la sintaxis fluida presupone necesariamente la existencia de un sujeto consciente con intencionalidad (*semántica verdadera*).",
+          "is_correct": true,
+          "feedback": "Correcto. Separa la competencia sintáctica (combinar palabras bien) de la intencionalidad consciente y la vivencia real que históricamente sustentaban el acto de decir."
+        },
+        {
+          "letter": "B",
+          "text": "Demuestra que las computadoras sienten emociones poéticas y sufren por amor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los modelos procesan probabilidades estadísticas y no poseen sentimientos ni conciencia."
+        },
+        {
+          "letter": "C",
+          "text": "Prueba que la escritura humana carece de todo valor y debe ser erradicada del sistema educativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desafío es conceptual sobre el origen de la significación y no una orden de erradicación de la escritura humana."
+        },
+        {
+          "letter": "D",
+          "text": "Confirma que el lenguaje es un invento exclusivo de los robots del siglo XXII.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje es una creación de la especie humana que hoy es simulada por modelos computacionales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación del lenguaje generado por IA permite reflexionar sobre la frontera entre la pura manipulación sintáctica de signos y el verdadero significado humano atado a la conciencia y la intención.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-11-2026-W21-filosofia-lenguaje-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

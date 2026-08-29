@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-12-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T18:22:22.173Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el enlace covalente principal que une los aminoácidos consecutivos en la estructura primaria de una proteína?",
+      "context": "En el laboratorio de bioquímica de la Universidad Nacional en Bogotá, se analiza la secuencia de aminoácidos de una proteína globular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace peptídico.",
+          "is_correct": true,
+          "feedback": "Correcto. El enlace peptídico es un enlace covalente tipo amida formado entre el grupo carboxilo de un aminoácido y el grupo amino del siguiente."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace de puente de hidrógeno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los puentes de hidrógeno son interacciones no covalentes responsables de la estructura secundaria y terciaria."
+        },
+        {
+          "letter": "C",
+          "text": "Enlace fosfodiéster.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace fosfodiéster une nucleótidos en los ácidos nucleicos (ADN y ARN)."
+        },
+        {
+          "letter": "D",
+          "text": "Enlace glucosídico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace glucosídico une monosacáridos para formar carbohidratos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La estructura primaria de las proteínas está determinada por la secuencia lineal de aminoácidos unidos mediante enlaces peptídicos covalentes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle-v2",
+      "statement": "¿Qué tipo de interacción estabiliza principalmente la estructura secundaria de las proteínas, como la hélice alfa y la lámina beta?",
+      "context": "Durante una clase de ciencias en Medellín, los estudiantes observan un modelo tridimensional de la hélice alfa de la queratina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Puentes de hidrógeno entre los grupos C=O y N-H del esqueleto peptídico.",
+          "is_correct": true,
+          "feedback": "Correcto. La estructura secundaria se estabiliza por puentes de hidrógeno intracadena o intercadena del esqueleto peptídico."
+        },
+        {
+          "letter": "B",
+          "text": "Puentes disulfuro entre cadenas laterales de cisteína.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los puentes disulfuro estabilizan la estructura terciaria y cuaternaria."
+        },
+        {
+          "letter": "C",
+          "text": "Interacciones hidrofóbicas entre residuos apolares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las interacciones hidrofóbicas dirigen el colapso del núcleo de la estructura terciaria."
+        },
+        {
+          "letter": "D",
+          "text": "Enlaces iónicos entre cadenas laterales cargadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las atracciones electrostáticas se presentan en la estructura terciaria entre grupos R cargados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las estructuras secundarias se mantienen por patrones repetitivos de puentes de hidrógeno entre el oxígeno del carbonilo y el hidrógeno del grupo amino del esqueleto polipeptídico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle-v3",
+      "statement": "¿Qué nivel de organización estructural presenta la hemoglobina al estar constituida por cuatro cadenas polipeptídicas?",
+      "context": "Un grupo de investigadores en Cali estudia la hemoglobina humana para comprender su capacidad de transportar oxígeno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estructura cuaternaria.",
+          "is_correct": true,
+          "feedback": "Correcto. La estructura cuaternaria consiste en la asociación funcional de dos o más cadenas polipeptídicas (subunidades)."
+        },
+        {
+          "letter": "B",
+          "text": "Estructura primaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estructura primaria es únicamente la secuencia lineal de aminoácidos de una sola cadena."
+        },
+        {
+          "letter": "C",
+          "text": "Estructura secundaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estructura secundaria describe arreglos locales como hélices y láminas."
+        },
+        {
+          "letter": "D",
+          "text": "Estructura terciaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estructura terciaria se refiere al plegamiento tridimensional de una única cadena polipeptídica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Proteínas compuestas por múltiples subunidades polipeptídicas presentan estructura cuaternaria.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle-v4",
+      "statement": "¿Qué define a un aminoácido esencial en el metabolismo humano?",
+      "context": "En un taller de nutrición en Barranquilla, se explica por qué ciertos aminoácidos son denominados \"esenciales\" en la dieta humana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un aminoácido que el organismo no puede sintetizar endógenamente y debe ser ingerido en los alimentos.",
+          "is_correct": true,
+          "feedback": "Correcto. Los seres humanos carecen de las rutas metabólicas para sintetizar los 9 aminoácidos esenciales."
+        },
+        {
+          "letter": "B",
+          "text": "Es un aminoácido presente únicamente en proteínas vegetales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se encuentran en proteínas de origen animal y vegetal."
+        },
+        {
+          "letter": "C",
+          "text": "Es un aminoácido que no posee grupo carboxilo en su molécula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los aminoácidos proteicos poseen un grupo amino y un grupo carboxilo."
+        },
+        {
+          "letter": "D",
+          "text": "Es un aminoácido que actúa exclusivamente en la transmisión nerviosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los aminoácidos esenciales forman parte de todo tipo de proteínas del organismo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los aminoácidos esenciales no se sintetizan en el cuerpo a la velocidad necesaria y deben ser provistos por la dieta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle-v5",
+      "statement": "¿Qué cambio físico-químico ocurre durante la desnaturalización térmica de la albúmina?",
+      "context": "Un estudiante de grado 11 calienta una solución acuosa de albúmina a 85 °C en un baño de María en Tunja.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desorganización de las estructuras secundaria y terciaria sin ruptura de enlaces peptídicos.",
+          "is_correct": true,
+          "feedback": "Correcto. El calor altera las interacciones no covalentes débiles sin hidrolizar los enlaces peptídicos covalentes."
+        },
+        {
+          "letter": "B",
+          "text": "Hidrólisis completa de la cadena produciendo aminoácidos libres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hidrólisis requiere enzimas o tratamiento ácido/básico concentrado prolongado."
+        },
+        {
+          "letter": "C",
+          "text": "Aumento drástico de la solubilidad por hidratación del núcleo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al desnaturalizarse se exponen grupos hidrofóbicos causando insolubilidad y precipitación."
+        },
+        {
+          "letter": "D",
+          "text": "Isomerización óptica instantánea de aminoácidos L a D.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La racemización no ocurre por calentamiento moderado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La desnaturalización desorganiza la conformación tridimensional nativa manteniendo intacta la secuencia de aminoácidos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué la disminución del pH ocasiona la precipitación de la caseína?",
+      "context": "En una fábrica de lácteos en Sopó, se adiciona ácido cítrico a la leche tibia hasta alcanzar pH 4.6.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al alcanzar su punto isoeléctrico (pH 4.6), la carga neta es cero y se reducen las repulsiones electrostáticas.",
+          "is_correct": true,
+          "feedback": "Correcto. En el punto isoeléctrico las repulsiones disminuyen y las moléculas se aglomeran precipitando."
+        },
+        {
+          "letter": "B",
+          "text": "El ácido destruye covalentemente el grupo hemo de la caseína.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La caseína es una fosfoproteína sin grupo hemo y el pH altera cargas sin romper enlaces."
+        },
+        {
+          "letter": "C",
+          "text": "Se forman enlaces éster entre el ácido cítrico y las proteínas de suero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La precipitación por pH es una pérdida de solubilidad iónica, no una esterificación."
+        },
+        {
+          "letter": "D",
+          "text": "El ácido elimina todos los nitrógenos de la cadena polipeptídica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acidificación protona grupos carboxilo y amino sin eliminar átomos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el punto isoeléctrico la proteína tiene carga neta nula, lo que minimiza la interacción con el agua y precipita.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle-v7",
+      "statement": "¿Qué estructura reacciona con el ion cobre para generar la coloración violeta indicadora?",
+      "context": "En el laboratorio escolar de Manizales, se trata una muestra proteica con el reactivo de Biuret (sulfato de cobre en medio alcalino).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los enlaces peptídicos (-CO-NH-) presentes en la cadena.",
+          "is_correct": true,
+          "feedback": "Correcto. El $Cu^{2+}$ forma un complejo violeta con los nitrógenos del enlace peptídico en medio alcalino."
+        },
+        {
+          "letter": "B",
+          "text": "Los grupos hidroxilo de monosacáridos libres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los azúcares reductores se detectan con Fehling o Benedict."
+        },
+        {
+          "letter": "C",
+          "text": "Las insaturaciones de los ácidos grasos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Biuret no reacciona con lípidos."
+        },
+        {
+          "letter": "D",
+          "text": "Los nucleótidos purínicos libres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Biuret es específico para enlaces peptídicos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El complejo violeta de Biuret requiere al menos dos enlaces peptídicos consecutivos para coordinar con el ion $Cu^{2+}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál resultado demuestra que la pepsina está adaptada al ambiente estomacal?",
+      "context": "Estudiantes de Bucaramanga evalúan la velocidad catalítica de la enzima pepsina a pH 1.5, 4.0, 7.0 y 9.0.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Máxima actividad catalítica a pH 1.5 y nula a pH mayor a 6.0.",
+          "is_correct": true,
+          "feedback": "Correcto. El estómago presenta pH muy ácido (~1.5-2) donde la pepsina alcanza su máxima actividad."
+        },
+        {
+          "letter": "B",
+          "text": "Actividad idéntica en todos los valores de pH probados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH altera el estado de ionización del sitio activo afectando la catálisis."
+        },
+        {
+          "letter": "C",
+          "text": "Máxima actividad a pH 9.0 e inactividad a pH 1.5.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pepsina se desnaturaliza en medios alcalinos."
+        },
+        {
+          "letter": "D",
+          "text": "Pico de actividad únicamente a pH 7.0.",
+          "is_correct": false,
+          "feedback": "Incorrecto. pH 7.0 es característico de enzimas del intestino o citosol, no del estómago."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pepsina es una proteasa ácida adaptada fisiológicamente a trabajar en el fluido gástico a pH 1.5-2.0.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle-v9",
+      "statement": "¿Qué efecto origina esta modificación en la hemoglobina desoxigenada?",
+      "context": "Investigadores en Pereira analizan una mutación puntual que sustituye glutamato por valina en la cadena beta de la hemoglobina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exposición de una zona hidrofóbica que induce la agregación en fibras insolubles.",
+          "is_correct": true,
+          "feedback": "Correcto. La valina apolar en la superficie interactúa hidrofóbicamente produciendo polimerización de hemoglobina falciforme."
+        },
+        {
+          "letter": "B",
+          "text": "Pérdida inmediata de los cuatro átomos de hierro hemo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sitio de unión del hemo permanece intacto."
+        },
+        {
+          "letter": "C",
+          "text": "Incremento de la solubilidad proteica en agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sustituir un aminoácido polar por uno apolar disminuye la solubilidad."
+        },
+        {
+          "letter": "D",
+          "text": "Inhibición de la síntesis de ARN mensajero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mutación afecta la secuencia de la proteína sintetizada, no la transcripción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El reemplazo de glutamato por valina genera una interacción apolar anómala que causa la agregación insoluble de la hemoglobina S.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle-v10",
+      "statement": "¿En qué principio físico se apoya la separación de las fracciones de albúmina y globulinas?",
+      "context": "En Cartagena se separa suero sanguíneo por electroforesis a pH 8.6 en gel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Migración diferencial en un campo eléctrico según la carga neta y el tamaño molecular.",
+          "is_correct": true,
+          "feedback": "Correcto. A pH 8.6 las proteínas con carga negativa migran al ánodo a velocidades dependientes de su carga y masa."
+        },
+        {
+          "letter": "B",
+          "text": "Diferencia en sus puntos de ebullición a presión constante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La electroforesis no involucra cambios de fase de ebullición."
+        },
+        {
+          "letter": "C",
+          "text": "Filtración por solubilidad en solventes orgánicos no polares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La prueba ocurre en matriz acuosa bajo potencial eléctrico."
+        },
+        {
+          "letter": "D",
+          "text": "Precipitación por adición de detergentes catiónicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En electroforesis zonal la separación es por migración electroforética activa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La electroforesis separa macromoléculas cargadas en un campo eléctrico en función de su relación carga/masa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle-v11",
+      "statement": "¿Qué rasgo de la estructura terciaria de la proteína termófila explica su resistencia al calor (85 °C)?",
+      "context": "Un biotecnólogo en Medellín compara la proteasa de *Escherichia coli* con la de *Thermus aquaticus* (termófila).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mayor cantidad de puentes disulfuro y densas redes de puentes salinos electrostáticos.",
+          "is_correct": true,
+          "feedback": "Correcto. Las proteínas de extremófilos presentan empaquetamiento apolar superior y puentes salinos adicionales que evitan la desnaturalización."
+        },
+        {
+          "letter": "B",
+          "text": "Ausencia total de residuos de aminoácidos aromáticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los residuos aromáticos estabilizan el núcleo apolar de la proteína."
+        },
+        {
+          "letter": "C",
+          "text": "Reemplazo del esqueleto peptídico por enlaces de silicio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las enzimas biológicas son polímeros de carbono y nitrógeno."
+        },
+        {
+          "letter": "D",
+          "text": "Presencia exclusiva de enlaces glucosídicos covalentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son proteínas constituidas por enlaces peptídicos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La termoestabilidad enzimática se logra mediante interacciones no covalentes optimizadas y enlaces covalentes disulfuro resistentes al calor.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle-v12",
+      "statement": "¿Cómo cambian los parámetros cinéticos $V_{max}$ y $K_m$ de la reacción?",
+      "context": "Estudiantes en Bogotá miden la velocidad enzimática ($V$) ante variaciones de $[S]$ en presencia de un inhibidor competitivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$V_{max}$ se mantiene constante y la $K_m$ aparente aumenta.",
+          "is_correct": true,
+          "feedback": "Correcto. El inhibidor competitivo compite por el sitio activo; saturando con sustrato se alcanza $V_{max}$, pero se requiere mayor $[S]$ ($K_m$ mayor)."
+        },
+        {
+          "letter": "B",
+          "text": "$V_{max}$ disminuye y $K_m$ no cambia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso caracteriza a la inhibición no competitiva pura."
+        },
+        {
+          "letter": "C",
+          "text": "Tanto $V_{max}$ como $K_m$ se reducen proporcionalmente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el patrón de la inhibición acompetitiva."
+        },
+        {
+          "letter": "D",
+          "text": "$V_{max}$ se duplica y $K_m$ cae a cero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ningún inhibidor incrementa la velocidad máxima catalítica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La inhibición competitiva puede desplazarse con abundante sustrato, manteniendo $V_{max}$ pero elevando el valor aparente de $K_m$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle-v13",
+      "statement": "¿Qué función cumple cada compuesto durante la desnaturalización?",
+      "context": "En Cali se incuba una proteína globular con urea 8 M y beta-mercaptoetanol.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La urea rompe los puentes de hidrógeno y el beta-mercaptoetanol reduce los puentes disulfuro.",
+          "is_correct": true,
+          "feedback": "Correcto. La urea perturba las interacciones no covalentes y el beta-mercaptoetanol reduce enlaces covalentes -S-S- a tioles."
+        },
+        {
+          "letter": "B",
+          "text": "La urea rompe enlaces peptídicos y el beta-mercaptoetanol deshidrata los azúcares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno hidroliza el esqueleto peptídico a temperatura ambiente."
+        },
+        {
+          "letter": "C",
+          "text": "La urea oxida tirosinas y el beta-mercaptoetanol neutraliza carboxilos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son agentes desnaturalizantes y reductores de disulfuro respectivamente."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos polimerizan covalentemente los residuos de cisteína.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Actúan destruyendo la estructura nativa, no polimerizando."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La urea destruye redes de puentes de hidrógeno y el beta-mercaptoetanol reduce los enlaces disulfuro de la proteína.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.52,
+      "bundle_id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle-v14",
+      "statement": "¿Qué fenómeno alostérico causa la forma sigmoidea en la curva de la hemoglobina?",
+      "context": "Se compara la curva de saturación de oxígeno de la mioglobina (monómero) con la de la hemoglobina (tetrámero).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cooperatividad positiva: la unión del primer $O_2$ facilita la unión de las siguientes moléculas.",
+          "is_correct": true,
+          "feedback": "Correcto. La transición del estado T al R al unir $O_2$ genera la curva sigmoidea por regulación alostérica positiva."
+        },
+        {
+          "letter": "B",
+          "text": "Inhibición irreversible mediada por $CO_2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La curva sigmoide es intrínseca a la unión cooperativa de $O_2$."
+        },
+        {
+          "letter": "C",
+          "text": "Falta total de comunicación entre subunidades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin comunicación la curva sería hiperbólica como la de la mioglobina."
+        },
+        {
+          "letter": "D",
+          "text": "Desnaturalización reversible del grupo hemo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fijación fisiológica no desnaturaliza la hemoglobina."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La cooperatividad positiva entre subunidades del tetrámero genera el perfil sigmoideo característico de la hemoglobina.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.48,
+      "bundle_id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle-v15",
+      "statement": "¿De qué forma este metabolito ayuda a la adaptación a la menor pO2 atmosférica?",
+      "context": "En Bogotá (2600 msnm) los eritrocitos elevan sus niveles de 2,3-bisfosfoglicerato (2,3-BPG).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estabiliza el estado T desoxigenado, desplazando la curva a la derecha y facilitando la liberación de $O_2$ en tejidos.",
+          "is_correct": true,
+          "feedback": "Correcto. Disminuye la afinidad general por $O_2$, garantizando que se entregue más oxígeno a los capilares sistémicos."
+        },
+        {
+          "letter": "B",
+          "text": "Incrementa la afinidad por $O_2$ impidiendo su descarga en los capilares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Retener el oxígeno agravaría la hipoxia tisular."
+        },
+        {
+          "letter": "C",
+          "text": "Reemplaza el ion hierro hemo por cobre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2,3-BPG se une alostéricamente a la cavidad central, sin modificar el hemo."
+        },
+        {
+          "letter": "D",
+          "text": "Degrada las cadenas beta de la hemoglobina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No degrada la estructura primaria de la hemoglobina."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El 2,3-BPG actúa como efector alostérico negativo que disminuye la afinidad por $O_2$ favoreciendo su cesión en los tejidos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.45,
+      "bundle_id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle-v16",
+      "statement": "En una cromatografía de intercambio aniónico (resina positiva) a pH 7.0, ¿cuáles proteínas quedan retenidas?",
+      "context": "En Tunja se determinan los pI de Citocromo c ($pI=10.2$), Albúmina ($pI=4.7$) y Pepsina ($pI=1.0$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Albúmina y Pepsina, porque a pH 7.0 (mayor a su pI) tienen carga neta negativa.",
+          "is_correct": true,
+          "feedback": "Correcto. A pH > pI la proteína pierde H+ adquiriendo carga negativa y uniéndose a la matriz cargada positivamente."
+        },
+        {
+          "letter": "B",
+          "text": "Únicamente el Citocromo c por su carga positiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cargas iguales (positiva con positiva) se repelen."
+        },
+        {
+          "letter": "C",
+          "text": "Las tres proteínas de forma idéntica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La retención iónica depende de la carga eléctrica neta."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna proteína porque a pH 7.0 son neutras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Únicamente son neutras en su pI exacto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A pH superior a su punto isoeléctrico las proteínas poseen carga neta negativa y se unen a intercambiadores aniónicos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.42,
+      "bundle_id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle-v17",
+      "statement": "El modelo A predice el 98% de la estructura de cristalografía. ¿Por qué el principio de minimización de $\\Delta G$ es el más acertado?",
+      "context": "En Bogotá se comparan dos modelos informáticos de plegamiento proteico: Modelo A (minimización de $\\Delta G$) y Modelo B (puentes salinos fijos).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la conformación nativa biológica corresponde al mínimo global de energía libre de Gibbs ($Delta G$).",
+          "is_correct": true,
+          "feedback": "Correcto. Según el principio de Anfinsen, el estado nativo es termodinámicamente el de menor energía libre."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los puentes salinos consumen ATP para formarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los puentes salinos se forman espontáneamente por atracción electrostática."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la entropía del agua disminuye al plegarse la proteína.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La liberación del agua estructurada *aumenta* la entropía del solvente."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las proteínas son moléculas completamente inmóviles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presentan flexibilidad dinámica necesaria para su función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El estado nativo funcional es el estado termodinámicamente más estable, alcanzado al minimizar la energía libre de Gibbs ($Delta G$).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.38,
+      "bundle_id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle-v18",
+      "statement": "¿Qué ventaja presenta este inhibidor suicida frente a uno competitivo reversible?",
+      "context": "En Medellín se evalúa el desarrollo de fármacos inhibidores suicidas (irreversibles) contra la proteasa del SARS-CoV-2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inactiva permanentemente la enzima diana por enlace covalente, requiriendo síntesis de nueva proteína para recuperar función.",
+          "is_correct": true,
+          "feedback": "Correcto. El enlace covalente anula la actividad sin importar la acumulación de sustrato viral."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta la tasa de replicación del ARN viral.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fármaco busca bloquear la replicación."
+        },
+        {
+          "letter": "C",
+          "text": "Se disocia instantáneamente permitiendo reversión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe a inhibidores reversibles."
+        },
+        {
+          "letter": "D",
+          "text": "Modifica la secuencia genómica celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los inhibidores enzimáticos actúan sobre proteínas, no el genoma."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los inhibidores irreversibles forman enlaces covalentes con residuos del sitio activo bloqueando de forma permanente la catálisis.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.35,
+      "bundle_id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle-v19",
+      "statement": "Datos: Silvestre $4.5 \\times 10^7 \\text{ M}^{-1}\\text{s}^{-1}$; Mutante $1.2 \\times 10^3 \\text{ M}^{-1}\\text{s}^{-1}$. ¿Qué conclusión se deriva?",
+      "context": "Un ensayo en Cali mide la eficiencia catalítica ($k_{cat}/K_m$) de una mutante de lactasa vs la enzima silvestre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mutación redujo drásticamente la eficiencia catalítica en más de 4 órdenes de magnitud.",
+          "is_correct": true,
+          "feedback": "Correcto. El parámetro $k_{cat}/K_m$ disminuyó de $10^7$ a $10^3$, mostrando un serio perjuicio catalítico."
+        },
+        {
+          "letter": "B",
+          "text": "La mutante alcanzó el límite de difusión perfecta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite de difusión es de $10^8-10^9$; la mutante cayó dramáticamente."
+        },
+        {
+          "letter": "C",
+          "text": "Aumentó la afinidad por la lactosa significativamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La caída del cociente indica pérdida de eficiencia o afinidad."
+        },
+        {
+          "letter": "D",
+          "text": "La enzima silvestre es inactiva comparada con la mutante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos prueban que la silvestre es >10,000 veces superior."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La constante $k_{cat}/K_m$ cuantifica la eficiencia catalítica. El descenso en cuatro órdenes de magnitud prueba un daño severo por la mutación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.32,
+      "bundle_id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle-v20",
+      "statement": "¿Qué modificación química en el material justifica mayor resistencia a las proteasas endógenas?",
+      "context": "En Barranquilla se diseña una sutura quirúrgica proteica que debe resistir 14 días a la proteólisis de los tejidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inclusión de d-aminoácidos y reticulación con puentes disulfuro adicionales.",
+          "is_correct": true,
+          "feedback": "Correcto. Las proteasas son estereoselectivas para l-aminoácidos; usar d-aminoácidos y reticulaciones retrasa el corte proteolítico."
+        },
+        {
+          "letter": "B",
+          "text": "Sustitución de enlaces covalentes por atracciones dipolo-dipolo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sutura perdería toda cohesión mecánica."
+        },
+        {
+          "letter": "C",
+          "text": "Reemplazo de aminoácidos por unidades de fructosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dejaría de ser proteica y se disolvería de inmediato."
+        },
+        {
+          "letter": "D",
+          "text": "Tratamiento previo con ácido clorhídrico concentrado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Destruiría la fibra y causaría necrosis tisular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las proteasas reconocen estereológicamente l-aminoácidos; la presencia de d-aminoácidos y reticulaciones previene su degradación rápida.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.28,
+      "bundle_id": "CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

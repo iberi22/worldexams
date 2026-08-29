@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-22-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-08-29T18:22:22.183Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle-v1",
+      "statement": "Se suministran 500 J de calor y el gas realiza 200 J de trabajo.",
+      "context": "En un estudio científico en Colombia sobre el tema de primera ley (δu = q - w) en gas ideal, Mateo analiza el siguiente escenario experimental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta en 300 J.",
+          "is_correct": true,
+          "feedback": "Por la primera ley ΔU = Q - W = 500 J - 200 J = 300 J."
+        },
+        {
+          "letter": "B",
+          "text": "Disminuye en 300 J.",
+          "is_correct": false,
+          "feedback": "El calor absorbido supera el trabajo realizado."
+        },
+        {
+          "letter": "C",
+          "text": "Aumenta en 700 J.",
+          "is_correct": false,
+          "feedback": "El trabajo se resta del calor absorbido."
+        },
+        {
+          "letter": "D",
+          "text": "Se mantiene constante en 0 J.",
+          "is_correct": false,
+          "feedback": "Hubo intercambio neto de energía."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Primera Ley de la Termodinámica dicta que la energía interna varía según la diferencia entre calor absorbido y trabajo realizado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle-v2",
+      "statement": "¿Qué sucede con la energía interna de un gas ideal en un proceso isotérmico?",
+      "context": "En un estudio científico en Colombia sobre el tema de proceso isotérmico, Mateo analiza el siguiente escenario experimental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta proporcionalmente a la presión ejercida.",
+          "is_correct": false,
+          "feedback": "La temperatura es constante en este proceso."
+        },
+        {
+          "letter": "B",
+          "text": "Permanece constante al no variar la temperatura.",
+          "is_correct": true,
+          "feedback": "En un gas ideal ΔU depende únicamente de la temperatura."
+        },
+        {
+          "letter": "C",
+          "text": "Disminuye progresivamente hasta el cero absoluto.",
+          "is_correct": false,
+          "feedback": "La temperatura no cae durante una transformación isotérmica."
+        },
+        {
+          "letter": "D",
+          "text": "Se convierte completamente en masa gaseosa.",
+          "is_correct": false,
+          "feedback": "La masa se conserva en el sistema."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para un gas ideal la energía interna es función exclusiva de la temperatura T.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle-v3",
+      "statement": "Al colocar hielo en agua tibia en Tunja, ¿qué explica el flujo espontáneo de calor?",
+      "context": "En un estudio científico en Colombia sobre el tema de segunda ley y flujo espontáneo, Mateo analiza el siguiente escenario experimental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Ley de Conservación de la Carga Eléctrica.",
+          "is_correct": false,
+          "feedback": "El fenómeno es un intercambio térmico."
+        },
+        {
+          "letter": "B",
+          "text": "El Principio de Arquímedes sobre flotación.",
+          "is_correct": false,
+          "feedback": "Trata sobre empuje hidrostático."
+        },
+        {
+          "letter": "C",
+          "text": "La Segunda Ley de la Termodinámica.",
+          "is_correct": true,
+          "feedback": "Establece que el calor fluye espontáneamente del cuerpo caliente al frío."
+        },
+        {
+          "letter": "D",
+          "text": "La Ley de Ohm para circuitos cerrados.",
+          "is_correct": false,
+          "feedback": "Se refiere a la conducción eléctrica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Segunda Ley establece la dirección irreversible del flujo térmico hacia el equilibrio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la característica definitoria de un sistema termodinámico aislado?",
+      "context": "En un estudio científico en Colombia sobre el tema de sistema aislado, Mateo analiza el siguiente escenario experimental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Intercambia calor pero no materia.",
+          "is_correct": false,
+          "feedback": "Eso describe un sistema cerrado."
+        },
+        {
+          "letter": "B",
+          "text": "Intercambia materia pero no trabajo.",
+          "is_correct": false,
+          "feedback": "No permite intercambio de materia."
+        },
+        {
+          "letter": "C",
+          "text": "Mantiene constante su volumen con paredes conductoras.",
+          "is_correct": false,
+          "feedback": "Las paredes conductoras permiten flujo de calor."
+        },
+        {
+          "letter": "D",
+          "text": "No intercambia energía ni materia con su entorno.",
+          "is_correct": true,
+          "feedback": "Un sistema aislado está completamente desconectado del medio externo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un sistema aislado restringe totalmente la transferencia de masa y energía.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle-v5",
+      "statement": "En una compresión adiabática rápida de aire (Q = 0), ¿qué ocurre con la energía interna?",
+      "context": "En un estudio científico en Colombia sobre el tema de proceso adiabático, Mateo analiza el siguiente escenario experimental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta debido al trabajo realizado sobre el sistema.",
+          "is_correct": true,
+          "feedback": "Al ser Q = 0, ΔU = -W; el trabajo de compresión incrementa ΔU."
+        },
+        {
+          "letter": "B",
+          "text": "Disminuye por falta de calor externo.",
+          "is_correct": false,
+          "feedback": "El trabajo realizado sobre el gas eleva su energía."
+        },
+        {
+          "letter": "C",
+          "text": "Permanece nula en todo el trayecto.",
+          "is_correct": false,
+          "feedback": "El trabajo modifica la energía interna."
+        },
+        {
+          "letter": "D",
+          "text": "Se reduce a la mitad de su valor inicial.",
+          "is_correct": false,
+          "feedback": "No hay pérdida sino ganancia de energía interna."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En procesos adiabáticos (Q = 0), el trabajo de compresión incrementa la energía interna y la temperatura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle-v6",
+      "statement": "Calcula la eficiencia teórica máxima de Carnot entre 600 K y 300 K.",
+      "context": "En un estudio científico en Colombia sobre el tema de máquina de carnot, Mateo analiza el siguiente escenario experimental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 %",
+          "is_correct": false,
+          "feedback": "La segunda ley prohíbe el 100% de eficiencia."
+        },
+        {
+          "letter": "B",
+          "text": "50 %",
+          "is_correct": true,
+          "feedback": "η = 1 - (300/600) = 0.50 o 50%."
+        },
+        {
+          "letter": "C",
+          "text": "25 %",
+          "is_correct": false,
+          "feedback": "El valor correcto es 50%."
+        },
+        {
+          "letter": "D",
+          "text": "75 %",
+          "is_correct": false,
+          "feedback": "El cálculo entrega 50%."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La eficiencia máxima de Carnot depende únicamente de las temperaturas de los depósitos en Kelvin.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle-v7",
+      "statement": "Si a volumen constante se transfieren 400 J de calor a un gas, ¿cuánto trabajo efectúa?",
+      "context": "En un estudio científico en Colombia sobre el tema de proceso isocórico, Mateo analiza el siguiente escenario experimental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "400 J",
+          "is_correct": false,
+          "feedback": "Todo el calor incrementa la energía interna."
+        },
+        {
+          "letter": "B",
+          "text": "200 J",
+          "is_correct": false,
+          "feedback": "No se realiza trabajo mecánico."
+        },
+        {
+          "letter": "C",
+          "text": "0 J",
+          "is_correct": true,
+          "feedback": "A volumen constante ΔV = 0, por lo que el trabajo W = P·ΔV es nulo."
+        },
+        {
+          "letter": "D",
+          "text": "-400 J",
+          "is_correct": false,
+          "feedback": "El trabajo es cero."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En procesos isocóricos el volumen es constante, imposibilitando el trabajo de expansión.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle-v8",
+      "statement": "¿Qué mide la entropía en un sistema termodinámico cerrado?",
+      "context": "En un estudio científico en Colombia sobre el tema de entropía macroscópica, Mateo analiza el siguiente escenario experimental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad total de calor contenido a volumen constante.",
+          "is_correct": false,
+          "feedback": "Eso corresponde a la energía interna."
+        },
+        {
+          "letter": "B",
+          "text": "La masa total de las moléculas en movimiento.",
+          "is_correct": false,
+          "feedback": "Es la masa del sistema."
+        },
+        {
+          "letter": "C",
+          "text": "La velocidad media de la corriente eléctrica.",
+          "is_correct": false,
+          "feedback": "No es una magnitud de corriente eléctrica."
+        },
+        {
+          "letter": "D",
+          "text": "El grado de desorden y dispersión de la energía.",
+          "is_correct": true,
+          "feedback": "La entropía cuantifica la irreversibilidad y la dispersión energética."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La entropía es una función de estado que mide la dispersión de la energía.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle-v9",
+      "statement": "Al comprimir rápidamente el aire en un cilindro en Bogotá, la temperatura se eleva porque...",
+      "context": "En un estudio científico en Colombia sobre el tema de compresión neumática rápida, Mateo analiza el siguiente escenario experimental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un proceso adiabático donde el trabajo eleva la energía interna.",
+          "is_correct": true,
+          "feedback": "Al ser rápido no hay transferencia térmica significativa (Q≈0)."
+        },
+        {
+          "letter": "B",
+          "text": "Es un proceso isotérmico de volumen constante.",
+          "is_correct": false,
+          "feedback": "Si fuera isotérmico la temperatura no cambiaría."
+        },
+        {
+          "letter": "C",
+          "text": "Es un cambio de fase espontáneo.",
+          "is_correct": false,
+          "feedback": "El aire permanece en fase gaseosa."
+        },
+        {
+          "letter": "D",
+          "text": "Es un proceso isobárico con disipación total.",
+          "is_correct": false,
+          "feedback": "La presión y la temperatura se elevan simultáneamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La compresión rápida aproxima un proceso adiabático que incrementa la temperatura por trabajo externo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle-v10",
+      "statement": "Un proceso termodinámico verdaderamente reversible se caracteriza por...",
+      "context": "En un estudio científico en Colombia sobre el tema de proceso reversible, Mateo analiza el siguiente escenario experimental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Generar un aumento masivo de entropía universal.",
+          "is_correct": false,
+          "feedback": "En un proceso reversible ΔS_universo = 0."
+        },
+        {
+          "letter": "B",
+          "text": "Transcurrir a través de estados de equilibrio cuasiestáticos sin disipación.",
+          "is_correct": true,
+          "feedback": "Ocurre infinitesimalmente despacio manteniendo al sistema en equilibrio."
+        },
+        {
+          "letter": "C",
+          "text": "Ocurrir en un lapso casi instantáneo.",
+          "is_correct": false,
+          "feedback": "Procesos muy rápidos sufren disipación e irreversibilidad."
+        },
+        {
+          "letter": "D",
+          "text": "Destruir masa para producir trabajo.",
+          "is_correct": false,
+          "feedback": "La masa se conserva siempre."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un proceso reversible es una idealización donde el sistema y el entorno pueden regresar a su estado original.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle-v11",
+      "statement": "En un diagrama P-V, el área encerrada dentro de un ciclo cerrado representa...",
+      "context": "En un estudio científico en Colombia sobre el tema de diagrama p-v, Mateo analiza el siguiente escenario experimental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La suma de las temperaturas absolutas del gas.",
+          "is_correct": false,
+          "feedback": "Las temperaturas se determinan con la ecuación de estado."
+        },
+        {
+          "letter": "B",
+          "text": "La masa molar del gas dividida entre R.",
+          "is_correct": false,
+          "feedback": "Es el trabajo mecánico intercambiado."
+        },
+        {
+          "letter": "C",
+          "text": "El trabajo neto realizado o recibido por el gas.",
+          "is_correct": true,
+          "feedback": "La integral ∮ P dV sobre la trayectoria cerrada equivale al trabajo neto."
+        },
+        {
+          "letter": "D",
+          "text": "La entropía destruida por la fricción.",
+          "is_correct": false,
+          "feedback": "El área representa trabajo en Joules."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El área delimitada en una gráfica P-V corresponde al trabajo neto del ciclo termodinámico.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle-v12",
+      "statement": "¿Por qué un refrigerador requiere trabajo eléctrico para enfriar su interior?",
+      "context": "En un estudio científico en Colombia sobre el tema de refrigerador y segunda ley, Mateo analiza el siguiente escenario experimental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque destruye calor en el condensador.",
+          "is_correct": false,
+          "feedback": "El calor no se destruye, se transfiere al exterior."
+        },
+        {
+          "letter": "B",
+          "text": "Porque viola temporalmente la conservación de la energía.",
+          "is_correct": false,
+          "feedback": "El sistema conserva plenamente la energía."
+        },
+        {
+          "letter": "C",
+          "text": "Porque opera en el cero absoluto permanentemente.",
+          "is_correct": false,
+          "feedback": "Funciona a temperaturas muy superiores al cero absoluto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el calor no fluye espontáneamente de una zona fría a una caliente.",
+          "is_correct": true,
+          "feedback": "La Segunda Ley exige aporte de trabajo para mover calor contra el gradiente térmico."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El enunciado de Clausius requiere trabajo externo para transferir calor desde un cuerpo frío hacia uno más caliente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle-v13",
+      "statement": "A volumen constante, si la temperatura absoluta de un gas se duplica, la presión...",
+      "context": "En un estudio científico en Colombia sobre el tema de ley de gay-lussac, Mateo analiza el siguiente escenario experimental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se duplica proporcionalmente.",
+          "is_correct": true,
+          "feedback": "Según P1/T1 = P2/T2, P es directamente proporcional a T en Kelvin."
+        },
+        {
+          "letter": "B",
+          "text": "Se reduce a la mitad.",
+          "is_correct": false,
+          "feedback": "La presión aumenta al subir la temperatura."
+        },
+        {
+          "letter": "C",
+          "text": "Permanece constante.",
+          "is_correct": false,
+          "feedback": "A volumen constante la presión varía con T."
+        },
+        {
+          "letter": "D",
+          "text": "Cae a cero inmediatamente.",
+          "is_correct": false,
+          "feedback": "La presión no disminuye."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A volumen constante, la presión de un gas ideal varía directamente con su temperatura absoluta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle-v14",
+      "statement": "¿Por qué una célula viva mantiene su orden sin violar la segunda ley?",
+      "context": "En un estudio científico en Colombia sobre el tema de metabolismo celular y entropía, Mateo analiza el siguiente escenario experimental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las leyes de la física no aplican a la biología.",
+          "is_correct": false,
+          "feedback": "Todos los sistemas físicos y biológicos obedecen la termodinámica."
+        },
+        {
+          "letter": "B",
+          "text": "Exporta entropía al entorno mediante calor y desechos.",
+          "is_correct": true,
+          "feedback": "Al ser un sistema abierto, la entropía total del universo aumenta."
+        },
+        {
+          "letter": "C",
+          "text": "Destruye energía interna continuamente.",
+          "is_correct": false,
+          "feedback": "La energía no se destruye."
+        },
+        {
+          "letter": "D",
+          "text": "Mantiene su interior a 0 Kelvin.",
+          "is_correct": false,
+          "feedback": "Opera a temperatura biológica normal (~310 K)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los seres vivos son sistemas abiertos que reducen su entropía interna disipando entropía al ambiente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle-v15",
+      "statement": "¿Por qué los motores reales de combustión no alcanzan la eficiencia de Carnot?",
+      "context": "En un estudio científico en Colombia sobre el tema de eficiencia real vs carnot, Mateo analiza el siguiente escenario experimental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque convierten la materia en energía pura.",
+          "is_correct": false,
+          "feedback": "Las reacciones químicas conservan la masa."
+        },
+        {
+          "letter": "B",
+          "text": "Porque violan la primera ley durante la chispa.",
+          "is_correct": false,
+          "feedback": "Se cumple la conservación de la energía."
+        },
+        {
+          "letter": "C",
+          "text": "Por irreversibilidades como fricción y pérdidas térmicas disipativas.",
+          "is_correct": true,
+          "feedback": "Efectos disipativos reales reducen el rendimiento efectivo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque Carnot solo aplica a motores eléctricos.",
+          "is_correct": false,
+          "feedback": "Aplica a cualquier máquina térmica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las pérdidas irreversibles por fricción y transferencia finita de calor limitan la eficiencia real.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle-v16",
+      "statement": "En una expansión libre adiabática al vacío de un gas ideal, Q, W y ΔU son...",
+      "context": "En un estudio científico en Colombia sobre el tema de expansión libre al vacío, Mateo analiza el siguiente escenario experimental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Q = 100 J, W = 100 J y ΔU = 200 J.",
+          "is_correct": false,
+          "feedback": "No hay transferencia de energía externa."
+        },
+        {
+          "letter": "B",
+          "text": "Q = -50 J, W = 50 J y ΔU = -100 J.",
+          "is_correct": false,
+          "feedback": "Al no haber presión externa W es cero."
+        },
+        {
+          "letter": "C",
+          "text": "Q = 0, W = 50 J y ΔU = -50 J.",
+          "is_correct": false,
+          "feedback": "El trabajo contra el vacío es nulo."
+        },
+        {
+          "letter": "D",
+          "text": "Q = 0, W = 0 y ΔU = 0.",
+          "is_correct": true,
+          "feedback": "No hay calor transferido ni fuerza opositora (W=0), luego ΔU=0."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En la expansión libre no se ejerce fuerza sobre las paredes (W=0) ni ingresa calor (Q=0).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle-v17",
+      "statement": "En un vaso de precipitados abierto a la atmósfera en Cali, ΔH representa...",
+      "context": "En un estudio científico en Colombia sobre el tema de entalpía δh a presión constante, Mateo analiza el siguiente escenario experimental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El calor absorbido o liberado a presión constante (Q_p).",
+          "is_correct": true,
+          "feedback": "Por definición, en procesos isobáricos ΔH = Q_p."
+        },
+        {
+          "letter": "B",
+          "text": "El trabajo mecánico total en el vacío.",
+          "is_correct": false,
+          "feedback": "ΔH es el calor a presión constante."
+        },
+        {
+          "letter": "C",
+          "text": "La constante universal de los gases.",
+          "is_correct": false,
+          "feedback": "R es una constante física."
+        },
+        {
+          "letter": "D",
+          "text": "El volumen total de los electrones.",
+          "is_correct": false,
+          "feedback": "ΔH es una magnitud energética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A presión constante, el cambio de entalpía equivale al calor intercambiado por el sistema químico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle-v18",
+      "statement": "En una central hidroeléctrica en Neiva, la energía mecánica se degrada porque...",
+      "context": "En un estudio científico en Colombia sobre el tema de degradación de energía en caídas de agua, Mateo analiza el siguiente escenario experimental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se destruye masa de agua en el choque.",
+          "is_correct": false,
+          "feedback": "La masa del agua se mantiene constante."
+        },
+        {
+          "letter": "B",
+          "text": "Parte de la energía útil se disipa irreversiblemente en calor por fricción.",
+          "is_correct": true,
+          "feedback": "La disipación viscosa incrementa la entropía del sistema y entorno."
+        },
+        {
+          "letter": "C",
+          "text": "La fuerza de gravedad desaparece al tocar fondo.",
+          "is_correct": false,
+          "feedback": "La aceleración gravitacional continúa actuando."
+        },
+        {
+          "letter": "D",
+          "text": "Los electrones del agua se desintegran.",
+          "is_correct": false,
+          "feedback": "No ocurre reacción nuclear."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las transformaciones reales de energía sufren degradación irreversible que incrementa la entropía universal.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle-v19",
+      "statement": "Una bomba de calor con COP = 3 entrega 3 kW de calor usando 1 kW de electricidad. Esto ocurre porque...",
+      "context": "En un estudio científico en Colombia sobre el tema de bomba de calor y cop, Mateo analiza el siguiente escenario experimental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crea energía de la nada violando la primera ley.",
+          "is_correct": false,
+          "feedback": "Conserva la energía mediante absorción ambiental."
+        },
+        {
+          "letter": "B",
+          "text": "Operó a temperatura infinita.",
+          "is_correct": false,
+          "feedback": "Opera a temperaturas ambiente normales."
+        },
+        {
+          "letter": "C",
+          "text": "Absorbe 2 kW adicionales de calor del ambiente externo.",
+          "is_correct": true,
+          "feedback": "Q_entregado = W_eléctrico + Q_ambiente (3 kW = 1 kW + 2 kW)."
+        },
+        {
+          "letter": "D",
+          "text": "Los electrones sufren fusión nuclear.",
+          "is_correct": false,
+          "feedback": "Es un proceso termodinámico convencional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las bombas de calor aprovechan la energía térmica ambiental previa mediante trabajo mecánico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle-v20",
+      "statement": "Es imposible construir un motor que convierta 100% de calor de una sola fuente en trabajo porque...",
+      "context": "En un estudio científico en Colombia sobre el tema de móvil perpetuo de segunda especie, Mateo analiza el siguiente escenario experimental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera ley prohíbe el trabajo mecánico.",
+          "is_correct": false,
+          "feedback": "La primera ley sí permite trabajo si se conserva la energía."
+        },
+        {
+          "letter": "B",
+          "text": "Los gases pierden masa al calentarse.",
+          "is_correct": false,
+          "feedback": "La masa del gas se mantiene constante."
+        },
+        {
+          "letter": "C",
+          "text": "La gravedad detiene los átomos a alta temperatura.",
+          "is_correct": false,
+          "feedback": "La agitación térmica no depende del freno gravitacional."
+        },
+        {
+          "letter": "D",
+          "text": "Violaría el enunciado de Kelvin-Planck de la Segunda Ley.",
+          "is_correct": true,
+          "feedback": "Kelvin-Planck prohíbe convertir calor en trabajo usando una sola fuente térmica."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El enunciado de Kelvin-Planck establece la imposibilidad de extraer calor de un único depósito para realizar trabajo neto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}
