@@ -17,8 +17,9 @@ export async function ensureBasePool(params: {
   subject: string | null;
   threshold?: number;
   maxQuestions?: number;
+  period?: number;
 }): Promise<AppQuestion[]> {
-  const { repository, loadedQuestions, grade, subject } = params;
+  const { repository, loadedQuestions, grade, subject, period } = params;
   const threshold = params.threshold ?? 100;
   const maxQuestions = params.maxQuestions ?? 300;
 
@@ -36,7 +37,7 @@ export async function ensureBasePool(params: {
     return loadedQuestions;
   }
 
-  const fetched = await repository.fetchAllQuestionsForGrade(grade, true, maxQuestions);
+  const fetched = await repository.fetchAllQuestionsForGrade(grade, true, maxQuestions, period);
   return dedupeById([...loadedQuestions, ...fetched]);
 }
 
@@ -47,8 +48,9 @@ export async function deepSearchPool(params: {
   subject: string | null;
   useDiagnostic: boolean;
   pages?: number[];
+  period?: number;
 }): Promise<AppQuestion[]> {
-  const { repository, currentPool, grade, subject, useDiagnostic } = params;
+  const { repository, currentPool, grade, subject, useDiagnostic, period } = params;
   const pages = params.pages || [1];
   const searchGrades = useDiagnostic && grade > 3
     ? [grade, ...[3, 5, 7, 9].filter((g) => g < grade)]
@@ -59,7 +61,7 @@ export async function deepSearchPool(params: {
 
   searchGrades.forEach((searchGrade) => {
     pages.forEach((page) => {
-      fetchPromises.push(repository.fetchQuestions(searchGrade, apiSubject, page));
+      fetchPromises.push(repository.fetchQuestions(searchGrade, apiSubject, page, period));
     });
   });
 

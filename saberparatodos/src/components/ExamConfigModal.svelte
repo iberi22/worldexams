@@ -1374,6 +1374,9 @@
                       </button>
                     {/each}
                   </div>
+                  <div class="mt-2 p-2 bg-blue-500/10 border border-blue-500/20 rounded text-[10px] text-blue-300">
+                    💡 Periodo {selectedPeriod}: Pool multi-semanal disponible (10 semanas × 20 preguntas)
+                  </div>
                 {/if}
               </div>
 
