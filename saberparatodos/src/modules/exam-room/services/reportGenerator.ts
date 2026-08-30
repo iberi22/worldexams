@@ -55,6 +55,78 @@ class ReportGeneratorService {
   }
 
   /**
+   * Genera planilla CSV / Excel descargable con UTF-8 BOM
+   */
+  exportResultsToCSV(results: RoomResults): Blob {
+    const BOM = '\uFEFF'; // Para compatibilidad nativa con acentos en Excel
+    const headers = [
+      'Estudiante',
+      'Puntaje',
+      'Respuestas_Correctas',
+      'Total_Preguntas',
+      'Precision_Porcentaje',
+      'Tiempo_Promedio_Segundos',
+      'Nivel_Integridad',
+      'Alertas_Sospechosas'
+    ];
+
+    const rows = (results.playerStats || []).map((p) => {
+      const precision = p.totalQuestions > 0 ? Math.round((p.correctAnswers / p.totalQuestions) * 100) : 0;
+      const avgTimeSec = Math.round(p.averageTimePerQuestion / 1000);
+      const integrity = p.suspiciousEvents > 4 ? 'Alerta (Rojo)' : p.suspiciousEvents >= 2 ? 'Atención (Amarillo)' : 'Limpio (Verde)';
+      
+      return [
+        `"${(p.playerName || 'Anónimo').replace(/"/g, '""')}"`,
+        p.score,
+        p.correctAnswers,
+        p.totalQuestions,
+        `${precision}%`,
+        avgTimeSec,
+        `"${integrity}"`,
+        p.suspiciousEvents || 0
+      ].join(',');
+    });
+
+    const csvContent = BOM + [headers.join(','), ...rows].join('\r\n');
+    return new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+  }
+
+  /**
+   * Genera resumen pedagógico ejecutivo en Markdown (.md)
+   */
+  exportResultsToMarkdown(results: RoomResults): string {
+    const total = results.totalPlayers || results.playerStats.length || 0;
+    const avgScore = results.averageScore || 0;
+    const sorted = [...(results.playerStats || [])].sort((a, b) => b.score - a.score);
+
+    let md = `# 📊 Informe de Resultados: ${results.roomName || 'Sala de Examen'}\n\n`;
+    md += `**Fecha:** ${new Date(results.generatedAt || Date.now()).toLocaleString()}\n`;
+    md += `**Total Estudiantes:** ${total} | **Promedio del Grupo:** ${Math.round(avgScore)} pts\n\n`;
+    md += `## 🏆 Tabla de Posiciones y Calificaciones\n\n`;
+    md += `| Pos | Estudiante | Puntaje | Aciertos | Tiempo Prom. | Integridad |\n`;
+    md += `|---|---|---|---|---|---|\n`;
+
+    sorted.forEach((p, idx) => {
+      const integrity = p.suspiciousEvents > 4 ? '🔴 Alerta' : p.suspiciousEvents >= 2 ? '🟡 Atención' : '🟢 Limpio';
+      const avgTime = `${Math.round(p.averageTimePerQuestion / 1000)}s`;
+      md += `| ${idx + 1} | ${p.playerName} | **${p.score}** | ${p.correctAnswers}/${p.totalQuestions} | ${avgTime} | ${integrity} |\n`;
+    });
+
+    if (results.questionStats && results.questionStats.length > 0) {
+      md += `\n## 🔍 Preguntas con Mayor Tasa de Dificultad\n\n`;
+      const hardest = [...results.questionStats].sort((a, b) => a.correctCount - b.correctCount).slice(0, 3);
+      hardest.forEach((q, i) => {
+        const totalAnswers = (q.correctCount || 0) + (q.incorrectCount || 0);
+        const passRate = totalAnswers > 0 ? Math.round((q.correctCount / totalAnswers) * 100) : 0;
+        md += `* **Pregunta #${q.questionId}**: ${passRate}% de aciertos (${q.correctCount}/${totalAnswers}).\n`;
+      });
+    }
+
+    md += `\n---\n*Generado por SaberParaTodos / WorldExams — Plataforma Educativa Abierta*\n`;
+    return md;
+  }
+
+  /**
    * Genera reporte HTML (preview en navegador)
    */
   private generateHTMLReport(results: RoomResults, options: ReportOptions): string {
