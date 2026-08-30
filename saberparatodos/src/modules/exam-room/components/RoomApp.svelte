@@ -28,7 +28,49 @@
     return 'edge-mesh';
   }
 
-  // Detectar backend + ?join=CODE (ruta /sala-examenes)
+  let hasAutoLaunched = $state(false);
+
+  async function autoQuickLaunch(count: number, subject: string, grade: number) {
+    if (hasAutoLaunched) return;
+    hasAutoLaunched = true;
+
+    hostName = hostName || 'Docente (Quick Launch)';
+    roomName = roomName || `Quiz Rápido de ${subject} - ${grade}°`;
+    selectedGrade = grade;
+    selectedSubject = subject;
+
+    try {
+      const roomId = await roomState.createRoom(
+        hostName,
+        roomName,
+        selectedGrade,
+        selectedSubject,
+        {
+          connectionMode: preferredConnectionMode(),
+          maxPlayers: 100,
+          timePerQuestion: 60,
+          totalQuestions: count,
+          mode: 'standard'
+        }
+      );
+
+      localMeshPairing.announceRoom({
+        code: roomId || roomState.config?.id || 'ROOM',
+        name: roomName,
+        hostName: hostName,
+        subject: selectedSubject,
+        grade: selectedGrade,
+      });
+
+      roomCode = roomId || roomState.config?.id || 'ROOM';
+      view = 'lobby';
+    } catch (error) {
+      console.error('Error during quick-launch creation:', error);
+      view = 'home';
+    }
+  }
+
+  // Detectar backend + ?join=CODE / ?quickLaunch=10 (ruta /sala-examenes)
   $effect(() => {
     detectBackendMode().then((mode) => {
       backendMode = mode === 'rust' ? 'rust' : 'edge-mesh';
@@ -36,10 +78,18 @@
     });
 
     if (typeof window !== 'undefined') {
-      const join = new URLSearchParams(window.location.search).get('join');
+      const params = new URLSearchParams(window.location.search);
+      const join = params.get('join');
+      const quickLaunch = params.get('quickLaunch');
+
       if (join) {
         roomCode = join;
         view = 'join';
+      } else if (quickLaunch && !hasAutoLaunched) {
+        const count = parseInt(quickLaunch, 10) || 10;
+        const subj = params.get('subject') || 'Matemáticas';
+        const grd = parseInt(params.get('grade') || '11', 10) || 11;
+        autoQuickLaunch(count, subj, grd);
       }
     }
   });
