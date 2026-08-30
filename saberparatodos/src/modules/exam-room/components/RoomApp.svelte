@@ -20,6 +20,8 @@
   let roomName = $state('');
   let playerName = $state('');
   let roomCode = $state('');
+  let roomPin = $state('');
+  let resultsVisibility = $state<'all' | 'host_and_player_only'>('all');
   let selectedGrade = $state(11);
   let selectedSubject = $state('Matemáticas');
 
@@ -373,12 +375,35 @@
             </div>
           </div>
 
+          <div>
+            <label class="block text-sm font-medium mb-2">PIN de Acceso (Opcional)</label>
+            <input
+              type="password"
+              maxlength="6"
+              bind:value={roomPin}
+              placeholder="Ej: 1234 (Dejar vacío si es pública)"
+              class="w-full px-4 py-3 bg-gray-700 rounded-lg focus:ring-2 focus:ring-blue-500 outline-none font-mono"
+            />
+            <p class="text-xs text-gray-400 mt-1">Protege la sala para que solo ingresen estudiantes con el PIN.</p>
+          </div>
+
+          <div>
+            <label class="block text-sm font-medium mb-2">Visibilidad de Resultados</label>
+            <select
+              bind:value={resultsVisibility}
+              class="w-full px-4 py-3 bg-gray-700 rounded-lg focus:ring-2 focus:ring-blue-500 outline-none"
+            >
+              <option value="all">🏆 Podio Público (Todos ven el ranking y puntajes)</option>
+              <option value="host_and_player_only">🔒 Privado (Cada alumno ve solo su nota; docente ve todo)</option>
+            </select>
+          </div>
+
           <button
             onclick={handleCreateRoom}
             disabled={!hostName || !roomName}
-            class="w-full px-6 py-4 bg-blue-600 hover:bg-blue-700 disabled:bg-gray-700 disabled:cursor-not-allowed rounded-lg font-bold text-lg transition-colors"
+            class="w-full px-6 py-4 bg-blue-600 hover:bg-blue-700 disabled:opacity-50 disabled:cursor-not-allowed rounded-lg font-bold text-lg transition-colors"
           >
-            🚀 Crear Sala
+            Crear Sala
           </button>
         </div>
       </div>
