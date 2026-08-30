@@ -46,6 +46,21 @@
     }
   }
 
+  function downloadCSV() {
+    if (!results) return;
+    const blob = reportGeneratorService.exportResultsToCSV(results);
+    const safeName = (results.roomName || 'calificaciones').replace(/[^\w\d-]+/g, '-').toLowerCase();
+    reportGeneratorService.downloadReport(blob, `planilla-${safeName}`, 'csv');
+  }
+
+  function downloadMarkdown() {
+    if (!results) return;
+    const mdText = reportGeneratorService.exportResultsToMarkdown(results);
+    const blob = new Blob([mdText], { type: 'text/markdown;charset=utf-8;' });
+    const safeName = (results.roomName || 'informe').replace(/[^\w\d-]+/g, '-').toLowerCase();
+    reportGeneratorService.downloadReport(blob, `informe-${safeName}`, 'md');
+  }
+
   function shareResults() {
     if (navigator.share) {
       navigator.share({
@@ -245,14 +260,28 @@
           {/if}
         </div>
 
-        <!-- Download Full Report Button -->
-        <button
-          onclick={() => downloadReport('full')}
-          disabled={isDownloading}
-          class="w-full px-6 py-4 bg-purple-600 hover:bg-purple-700 disabled:opacity-50 rounded-lg font-bold text-lg transition-colors"
-        >
-          {isDownloading ? '⏳ Generando…' : '📑 Descargar Reporte Completo (PDF)'}
-        </button>
+        <!-- Download Report Buttons (PDF, CSV/Excel, Markdown) -->
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
+          <button
+            onclick={() => downloadReport('full')}
+            disabled={isDownloading}
+            class="px-4 py-3 bg-purple-600 hover:bg-purple-700 disabled:opacity-50 rounded-lg font-bold text-sm transition-colors flex items-center justify-center gap-2"
+          >
+            {isDownloading ? '⏳ Generando…' : '📑 Reporte PDF'}
+          </button>
+          <button
+            onclick={downloadCSV}
+            class="px-4 py-3 bg-emerald-600 hover:bg-emerald-700 rounded-lg font-bold text-sm transition-colors flex items-center justify-center gap-2"
+          >
+            📊 Planilla Excel (.csv)
+          </button>
+          <button
+            onclick={downloadMarkdown}
+            class="px-4 py-3 bg-blue-600 hover:bg-blue-700 rounded-lg font-bold text-sm transition-colors flex items-center justify-center gap-2"
+          >
+            📝 Informe Markdown (.md)
+          </button>
+        </div>
       </div>
     {/if}
 
