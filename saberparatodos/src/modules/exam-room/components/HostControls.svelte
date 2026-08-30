@@ -1,5 +1,6 @@
 <script lang="ts">
   import { roomState } from '../stores/roomState.svelte.ts';
+  import { generateQRCodeSVG } from '../../../lib/qr-generator';
 
   interface Props {
     onNextQuestion?: () => void;
@@ -9,11 +10,22 @@
 
   let { onNextQuestion, onPauseGame, onFinishGame }: Props = $props();
 
+  let showQrModal = $state(false);
   let gameState = $derived(roomState.gameState);
   let config = $derived(roomState.config);
   let players = $derived(roomState.players);
   let answers = $derived(roomState.answers);
   let suspiciousPlayers = $derived(roomState.playersWithSuspiciousActivity);
+
+  function getJoinUrl(): string {
+    const origin = typeof window !== 'undefined' ? window.location.origin : 'https://saberparatodos.pages.dev';
+    const code = config?.id || 'ROOM';
+    return `${origin}/sala-examenes?join=${encodeURIComponent(code)}`;
+  }
+
+  let qrSvg = $derived(
+    generateQRCodeSVG(getJoinUrl(), { darkColor: '#0f172a', lightColor: '#ffffff', quietZone: true })
+  );
 
   // ⚡ Bolt Optimization: Calculate currentQuestionAnswers and correctAnswers in a single pass instead of multiple .filter() iterations
   let currentQuestionStats = $derived.by(() => {
@@ -54,7 +66,22 @@
   }
 </script>
 
-<div class="host-controls bg-gray-900 text-white p-6 rounded-lg shadow-xl">
+<div class="host-controls bg-gray-900 text-white p-6 rounded-lg shadow-xl relative">
+  <!-- Header Bar with QR Toggle -->
+  <div class="flex items-center justify-between border-b border-gray-800 pb-4 mb-6">
+    <div>
+      <h3 class="font-bold text-lg text-white">Panel del Anfitrión</h3>
+      <p class="text-xs text-gray-400">Sala: <strong class="text-emerald-400">{config?.id || 'ROOM'}</strong></p>
+    </div>
+    <button
+      type="button"
+      onclick={() => showQrModal = true}
+      class="px-3 py-1.5 rounded-lg bg-cyan-500/20 hover:bg-cyan-500/30 border border-cyan-400/30 text-cyan-300 text-xs font-bold transition-all flex items-center gap-1.5"
+    >
+      📱 Mostrar QR
+    </button>
+  </div>
+
   <!-- Progress Bar -->
   <div class="mb-6">
     <div class="flex justify-between items-center mb-2">
@@ -135,7 +162,7 @@
       </button>
     {:else if gameState.status === 'paused'}
       <button
-        onclick={() => partyState.gameState.status = 'active'}
+        onclick={() => roomState.gameState.status = 'active'}
         class="px-6 py-3 bg-green-600 hover:bg-green-700 rounded-lg font-bold transition-colors col-span-2"
       >
         ▶️ Reanudar
@@ -151,6 +178,37 @@
     🏁 Finalizar Examen
   </button>
 </div>
+
+<!-- Modal QR Code Proyección -->
+{#if showQrModal}
+  <div class="fixed inset-0 z-50 bg-black/90 backdrop-blur-lg flex items-center justify-center p-4">
+    <div class="bg-[#111827] border border-cyan-500/30 rounded-3xl max-w-md w-full p-8 text-center space-y-6 shadow-2xl relative">
+      <button
+        type="button"
+        onclick={() => showQrModal = false}
+        class="absolute top-4 right-4 text-white/50 hover:text-white text-xl p-2"
+        aria-label="Cerrar modal QR"
+      >
+        ✕
+      </button>
+
+      <div>
+        <h3 class="text-2xl font-black text-white">Escanea para Unirte</h3>
+        <p class="text-xs text-white/60 mt-1">Escaneo rápido para ingresar a la sala</p>
+      </div>
+
+      <div class="bg-white p-4 rounded-2xl w-64 h-64 mx-auto shadow-inner flex items-center justify-center">
+        <!-- eslint-disable-next-line svelte/no-at-html-tags -->
+        {@html qrSvg}
+      </div>
+
+      <div class="bg-white/5 border border-white/10 rounded-xl p-4 text-center">
+        <span class="text-[10px] text-white/50 uppercase tracking-widest block mb-1">Código de Sala</span>
+        <span class="text-3xl font-black text-emerald-400 font-mono tracking-wider">{config?.id || 'ROOM'}</span>
+      </div>
+    </div>
+  </div>
+{/if}
 
 <style>
   @keyframes pulse {
