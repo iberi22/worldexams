@@ -43,6 +43,8 @@ export interface RoomConfig {
   totalQuestions: number;
   grado: number;
   asignatura: string;
+  passwordPin?: string; // PIN opcional de 4-6 dígitos
+  resultsVisibility?: 'all' | 'host_and_player_only'; // Privacidad de resultados
   /** Mesh registry metadata used for regional discovery. */
   region?: string;
   countryCode?: string;
@@ -68,6 +70,8 @@ export interface Player {
   isOnline: boolean;
   isHost: boolean;
   joinedAt: Date;
+  blockedUntil?: number; // Epoch ms timestamp for timeout (5 min)
+  isKicked?: boolean;
   // Anti-cheat tracking
   leftScreenCount: number;
   lastActivityAt: Date;
@@ -115,6 +119,7 @@ export interface RoomResults {
   completedPlayers: number;
   averageScore: number;
   averageTime: number; // ms
+  resultsVisibility?: 'all' | 'host_and_player_only';
   playerStats: PlayerStats[];
   questionStats: QuestionStats[];
   generatedAt: Date;
@@ -130,6 +135,8 @@ export interface PlayerStats {
   fastestAnswer: number; // ms
   slowestAnswer: number; // ms
   suspiciousEvents: number;
+  integrityLevel?: 'green' | 'yellow' | 'red';
+  suspiciousLog?: SuspiciousEvent[];
   recommendation: string;
 }
 
@@ -139,6 +146,7 @@ export interface QuestionStats {
   incorrectCount: number;
   averageTime: number; // ms
   difficultyPerceived: number; // 1-5 basado en % de aciertos
+  mostChosenDistractor?: string;
 }
 
 // WebSocket Messages
@@ -154,4 +162,6 @@ export type WSMessage =
   | { type: 'player_answer'; answer: PlayerAnswer }
   | { type: 'suspicious_activity'; playerId: string; event: SuspiciousEvent }
   | { type: 'host_message'; message: string }
+  | { type: 'peer_kicked'; targetPlayerId: string; reason?: string }
+  | { type: 'peer_timeout'; targetPlayerId: string; durationMs: number; blockedUntil: number }
   | { type: 'sync_state'; state: GameState };
