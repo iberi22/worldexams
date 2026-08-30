@@ -11,3 +11,6 @@
 ## 2024-11-20 - [Add explicit type="button" to action buttons]
 **Learning:** Svelte buttons without an explicit `type` attribute inside potentially reactive contexts can sometimes be misinterpreted by assistive technologies or unexpectedly trigger form submissions if wrapped later. Adding `type="button"` ensures consistent, predictable behavior.
 **Action:** Always explicitly declare `type="button"` for interactive `<button>` elements that are not intended to submit forms.
+## 2026-08-30 - Add aria-labels and type to icon-only buttons
+**Learning:** Icon-only buttons frequently rely solely on `title` attributes for tooltips, which are insufficient for screen readers. They also often lack `type="button"`, causing unexpected behavior in forms.
+**Action:** Always add explicit `aria-label` attributes and `type="button"` to icon-only buttons to ensure they are accessible and predictable across devices and contexts.
