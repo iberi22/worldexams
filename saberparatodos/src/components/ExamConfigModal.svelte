@@ -1425,6 +1425,7 @@
             <button
               onclick={handleResetMemory}
               class="text-[10px] uppercase tracking-widest px-2 py-1 rounded border transition-all duration-200 {showResetConfirm ? 'bg-red-500/20 border-red-500 text-red-400' : 'border-white/20 text-white/40 hover:text-white/60 hover:border-white/40'}"
+              aria-label={showResetConfirm ? 'Confirmar reinicio de configuración' : 'Reiniciar configuración'}
             >
               {showResetConfirm ? '¿Confirmar?' : '🔄 Reiniciar'}
             </button>
@@ -1609,6 +1610,7 @@
                     <button
                       onclick={copyShareUrl}
                       class="px-4 py-2 rounded text-xs font-bold uppercase {copied ? 'bg-emerald-500' : 'bg-white/10 hover:bg-white/20'}"
+                      aria-label="Copiar enlace"
                     >
                       {copied ? '✓' : '📋'}
                     </button>

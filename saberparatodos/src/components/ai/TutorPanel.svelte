@@ -139,6 +139,7 @@
           class={`px-2 py-1 rounded-lg border text-xs font-bold ${listening ? 'bg-red-500/30 border-red-400/40 text-red-100' : 'bg-sky-500/20 border-sky-400/30 text-sky-100'}`}
           disabled={busy}
           onclick={toggleMic}
+          aria-label={listening ? 'Detener grabación' : 'Iniciar grabación'}
         >{listening ? '■' : '🎤'}</button>
       </div>
     </div>
