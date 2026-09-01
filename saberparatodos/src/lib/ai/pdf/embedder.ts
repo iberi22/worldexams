@@ -5,6 +5,8 @@
  * Nunca envía texto a servidor. Fallback determinístico si el modelo no está disponible (tests / sin WebGPU).
  */
 
+import type { Chunk } from './chunker';
+
 export const DEFAULT_EMBEDDING_MODEL = 'Xenova/all-MiniLM-L6-v2';
 export const EMBEDDING_DIMS = 384;
 
@@ -171,6 +173,35 @@ export async function generateEmbedding(
   const vec = await embedder.embed(text);
   await embedder.dispose();
   return vec;
+}
+
+/**
+ * Asigna embeddings a un arreglo de chunks (384 dimensiones).
+ * Devuelve un nuevo arreglo de chunks con su propiedad `embedding: Float32Array(384)` poblada.
+ * Operación 100% local, sin consumo de red.
+ */
+export async function embedChunks(
+  chunks: Chunk[],
+  options: EmbedderOptions = {}
+): Promise<Chunk[]> {
+  if (!chunks || chunks.length === 0) return [];
+
+  try {
+    const embedder = await createEmbedder(options);
+    const texts = chunks.map((c) => c.text);
+    const vectors = await embedder.embedBatch(texts);
+    await embedder.dispose();
+
+    return chunks.map((c, idx) => ({
+      ...c,
+      embedding: vectors[idx] ?? mockEmbedding(c.text, EMBEDDING_DIMS),
+    }));
+  } catch {
+    return chunks.map((c) => ({
+      ...c,
+      embedding: mockEmbedding(c.text, EMBEDDING_DIMS),
+    }));
+  }
 }
 
 /** Para tests: resetea singleton */
