@@ -1,0 +1,13 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import NeuroGymApp from '../../components/neurogym/NeuroGymApp.svelte';
+
+const title = "NeuroGym - Gimnasio Cerebral y Batería Psicométrica";
+const description = "Plataforma de evaluación cognitiva, baremación psicométrica (Proxy CI, Memoria de Trabajo, Velocidad de Procesamiento) y gimnasia cerebral adaptativa.";
+---
+
+<Layout title={title} description={description}>
+  <main class="min-h-screen bg-[#070707] text-white pt-8 pb-20 px-4 sm:px-6">
+    <NeuroGymApp client:load />
+  </main>
+</Layout>

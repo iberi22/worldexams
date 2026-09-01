@@ -162,6 +162,16 @@ export interface LeaderboardConfig {
 // TIPOS DE SUBMISSION
 // ============================================================================
 
+export const LEADERBOARD_MIN_QUESTIONS = 60;
+
+/**
+ * Determina si un examen es elegible para leaderboard (umbral psicométrico calibrado).
+ * Requiere >=60 preguntas (simulacros calibrados y presets oficiales ICFES 115/230).
+ */
+export function isLeaderboardEligible(questionsAnswered: number): boolean {
+  return questionsAnswered >= LEADERBOARD_MIN_QUESTIONS;
+}
+
 export interface ScoreSubmission {
   anonymousId: string;
   deviceHash?: string;
