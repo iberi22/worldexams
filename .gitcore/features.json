@@ -7,13 +7,13 @@
     "total_features": 21,
     "passing": 15,
     "failing": 6,
-    "overall_progress_pct": 73.0,
-    "overall_progress_weighted_pct": 78.0,
-    "calculation": "simple avg 73.0% (1534/21); weighted P0*3 P1*2 P2*1 => 78.0% (4212/54). F0-F5 2026-09-01.",
+    "overall_progress_pct": 73.3,
+    "overall_progress_weighted_pct": 78.2,
+    "calculation": "simple avg 73.3% (1539/21); weighted P0*3 P1*2 P2*1 => 78.2% (4222/54). F7 coverage 46%.",
     "status": "active",
     "audit_date": "2026-09-01",
     "audit_method": "verify-pipeline.sh + npm run validate (1531 bundles 0 failures) + npm run test:unit (74 suites 576 PASS) + git log wave-10/neurogym merges",
-    "note": "v2.2 F0-F5 2026-09-01: bundle legacy archivado 0 failures, 76 suites 587 PASS, 13691 packs, security script, mesh 35%/30%/25% experimental (codigo existente verificado). BR-03 sin telemetria/tokens a menor respetado.",
+    "note": "v2.3 F7 2026-09-01: feat-tests 60→65% con test:coverage 46% honesto (76×587 PASS). No infla a 70% ficticio.",
     "previous_version": "2.0 (2026-08-26, 60% overall, 54.5% weighted, 18 feats)"
   },
   "features": [
@@ -112,10 +112,10 @@
       "verified_by": "pending",
       "github_issue": 408,
       "priority": "P1",
-      "progress_pct": 60,
+      "progress_pct": 65,
       "implemented_in": "saberparatodos/src/lib/ai/, tests/",
-      "evidence": "saberparatodos 76 suites 587 PASS (was 74/576). Nuevos: webgpu-spatial-engine.test.ts, audio-synthesizer.test.ts. E2E neurogym-full-battery.spec.ts presente. Issue #408 cubierto: IsarVectorStore no existe en repo, cubierto via neurogym/ai tests.",
-      "caveat": "60% honesto: vitest verde, lint 0 errors, build OK. Meta 70% alcanzable con coverage formal."
+      "evidence": "saberparatodos 76 suites 587 PASS + test:coverage v8 46.07% stmts / 40.01% branches (All files) — reporte html generado, threshold 70% honesto no alcanzado, 60→65% por evidencia coverage.",
+      "caveat": "65% honesto: vitest verde + coverage formal existe. Meta 70% requiere +15pp tests reales, no cosmética."
     },
     {
       "id": "feat-exam-room-governance",
