@@ -104,12 +104,16 @@ export class LocalMeshPairingService {
     grade: number;
     playersCount?: number;
   }) {
-    this.activeHostedRoom = room;
+    const playersCount = room.playersCount || 1;
+    this.activeHostedRoom = {
+      ...room,
+      playersCount,
+    };
 
     const now = Date.now();
     const payload: NearbyRoomAd = {
       ...room,
-      playersCount: room.playersCount || 1,
+      playersCount,
       transport: 'lan-mesh',
       discoveredAt: this.discoveredRooms.get(room.code)?.discoveredAt || now,
       lastBeaconAt: now,
