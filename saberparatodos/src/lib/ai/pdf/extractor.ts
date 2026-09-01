@@ -36,11 +36,12 @@ export interface ExtractionResult {
 export async function extractTextFromArrayBuffer(buffer: ArrayBuffer): Promise<ExtractionResult> {
   let pdfjsLib: any;
   try {
-    // Intento 1: pdfjs-dist legacy (compat Node/browser) — dynamic para no romper vite si no instalado
+    // Intento 1: pdfjs-dist (v6.2+ / standard) — dynamic import para compatibilidad Vite/Astro
     const pdfName = 'pdfjs-dist';
     pdfjsLib = await import(/* @vite-ignore */ pdfName as string);
   } catch {
     try {
+      // Fallback a legacy build para entornos Node/SSR/jsdom si import principal falla
       const pdfLegacy = 'pdfjs-dist/legacy/build/pdf.mjs';
       pdfjsLib = await import(/* @vite-ignore */ pdfLegacy as string);
     } catch (e) {
@@ -50,7 +51,7 @@ export async function extractTextFromArrayBuffer(buffer: ArrayBuffer): Promise<E
     }
   }
 
-  // Normalizar export (algunas versiones usan default) — evitar acceso a .default si el mock no lo define (vitest)
+  // Normalizar export para pdfjs-dist v5/v6.2 (manejo de Module namespace vs default export)
   let lib: any = pdfjsLib;
   try {
     if (pdfjsLib && typeof pdfjsLib === 'object' && 'default' in pdfjsLib) {
@@ -62,7 +63,7 @@ export async function extractTextFromArrayBuffer(buffer: ArrayBuffer): Promise<E
   } catch {
     lib = pdfjsLib;
   }
-  // Fallback si lib no tiene getDocument pero default sí
+  // Fallback guard si lib no tiene getDocument pero default sí
   if (!lib.getDocument && (pdfjsLib as any)?.default?.getDocument) {
     lib = (pdfjsLib as any).default;
   }
